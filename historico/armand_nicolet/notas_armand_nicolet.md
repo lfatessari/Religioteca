@@ -1,28 +1,47 @@
-# Armand Nicolet (linha 94 Marcas) — GRANDE (sozinha)
-Site oficial: armandnicolet.com (Wix; sitemap.xml não abre por proveniência/permissão; páginas de coleção e product-page abrem)
-Códigos: Axxx(caixa)+mostrador+pulseira, ex. A660AAA-NR-GG4710N. Cada referência completa = 1 linha (padrão Archimede).
-## Fontes (passada 1)
-- armandnicolet.com/product-page/bn22481aann (menu) 0
-- armandnicolet.com/collection 0 (lista coleções: J09-3, MM2-41, JS9-41, M03-3, MM2-43, M02-HS2, L15, LB6)
-- armandnicolet.com/j09-3: 51
-- armandnicolet.com/js9-41: 39
-- armandnicolet.com/mm2-41: 12
-- armandnicolet.com/m03-3: 32 (tem Load More)
-- armandnicolet.com/mm2-43: 23
-- armandnicolet.com/m02-hs2: 14
-- armandnicolet.com/l15: 1 (L15, 499 peças, AN703A base AS 1883 1967)
-- armandnicolet.com/lb6: 4 (255 peças, AN0731B base FHF 264 1956)
-- wiki.grail-watch.com Armand_Nicolet: 0 (história: Telda, Verneta, Delta; 1933)
-- armandnicolet.com (home): 0 novos diretos (revelou M02-5, logo wixstatic 20140618032727930.png)
-- armandnicolet.com/history: 0 (1875 Tramelan; relógio de bolso 1902; Willy 1939; Rolando Braga 1987)
-- armandnicolet.com/ohm: 1 (L06 AN501/UT-176)
-- armandnicolet.com/m02-5 (+?page=2): 43 (Toni Art 5, Date 24, Moonphase 14)
-- armandnicolet.com/m03-3?page=2: 16
-- armandnicolet.com/resource-hub: 0 (PDFs Commercial Book 2024, O.H.M., Brand Presentation — não abriram: CLIENT_ERROR)
-- 2c buscas site:armandnicolet.com/product-page (8 buscas): 19 escondidos JS9-44 (A480 Date, A486 GMT)
-- thewatchpages.com/watches/armand-nicolet-watches/ (pág. 1 de 173): novos L16 (A132AAA x4), JSS (A486HOA/HVA/HZA, A480HBA/HBN x13); paginação por marca não funciona (/page-2/ volta à pág. 1)
-- busca thewatchpages M02-4: A840AAA/A844AAA (P840xx2, M9742) — ainda não registrados
-
-## PARADA (17/10/2026): usuário pediu "Pare essa". Bateria interrompida antes de gravar.
-Estado: rows.json (236 linhas, site oficial), imgs.txt (234 fotos), img_hidden.txt (19 JS9-44 escondidos com foto).
-Falta: L15 foto; thewatchpages págs. 2+; M02-4, L16, JSS, L09, MH2 etc.; agregadores (EveryWatch, WatchBase), Chrono24, lojas, usados, imprensa; provável 2ª passada (marca vermelha).
+# Armand Nicolet — execução 17/10/2026 (tarde), GRANDE, sozinha
+Base: dados do site oficial da execução parada (historico/armand_nicolet/rows.json 236 + 19 escondidos).
+## Fontes desta execução (passada 1)
+- delraywatch.com/armand-nicolet/ : MH2 A640A, M02 Chrono AN9144, Tramelan Day&Date 9630A, JSS GMT Orange, J09 Day Date, MHA
+- thewatchpages.com/watches/armand-nicolet-watches/ : 17 (L16 x4, JSS x13); A660/A668 com MA4660AA = variação de código das MA4670A do site (não duplicado)
+- thewatchpages AL3 a882aaa-an (+relacionados e busca): 20 AL3 (faltam A884AAA-NN, A884AAC-AK, A884AAD-AK/AN para buscar)
+- thewatchpages M02-4 a844aaa-bu-m9742: 15 M02-4
+- en.wikipedia Armand_Nicolet: 0 (fundada 1875; planilha diz 1902 → relatar)
+- armandnicolet.com/j09-3: 0 (confere 51 do site)
+- armandnicolet.com/ohm: foto L06 0f7141_502ba3c87b894d8e84f19b2b2cb0c11c
+- bernardwatch.com/Armand-Nicolet: 0 (sem estoque)
+- watches.ae/collections/armand-nicolet: 0
+- shop.watchgang.com/collections/armand-nicolet: 2 (VS1 A510AVAA, A510AXAA)
+- catawiki 105572650: 1 (VS1 A500ANAA)
+- gressive.jp catalog 162079 (JS9): 0 ; 162076/77/78 (L15 x3 refs A780AAA) : 3 (substituem a linha genérica L15)
+- /collection e products.json (endereços montados) PEDEM APROVAÇÃO → não usar
+- grail-watch L07: 3 (aço 70, ouro vermelho 20, ouro branco 20; Venus 188)
+- relojes-especiales VS-1 crono: 1
+- antiquorum lot 15-46: 0 (bolso "A. Nicolet, Les Ponts de Martel" c.1900 — outra casa provável, não entra)
+- watchonista node 201264 (L09): 0 (T619N)
+- masterhorologer L09: 3 (T619A, T619N, S619N)
+- europastar swisstime L09: 0 (foto T619N); lista L14, LL9, M02, L11, S05, J09, L08, LS8, L07, L06
+- europastar brand-index: 0 (lista)
+- europastar L14: 1 ; LL9 2013: 1 ; LL9 2011: 1 ; M02 chrono: 1 (foto Delray) ; L11: 1 ; S05: 1
+- europastar L08: 1 ; LS8: 1 ; J09 (2010): 1 ; M03 gallery 2010: 1 ; L07 swisstime: 1 (aço/ouro rosa 30 peças)
+- europastar L06: 0 (2007, 425 peças) ; focusing 2011: 0 (S05 feminino previsto 2011) ; Independents 2014: 0 novos (código L14 A750ANN-NR pelo nome do arquivo de imagem — inferência)
+- ebay.de/b/Armand-Nicolet (58 de 129 anúncios): 43 novos (MHA, M2H, JH9, MH2 chrono, VS1, Arc Royal 9439A, Tramelan 9633A, M03 9155A, M03-3 A151Q, Tiffany, Landeron 248)
+- loupe.watch/prices/armand-nicolet/nicolet (94 refs): ~40 novos (VS1, JH9, S05 T61x, J09 9650/9653, Tramelan 86xx/96xx, M02-4 A846/A840HAA)
+- watchpatrol s05: 2 (T610AQN, T614AGN) ; watchpatrol j09: 1 (9550A)
+- dialicious, ablogtowatch S05 → ainda não abertos
+- watchpro ?p=35043: 1 (J09 Chrono 2017 AA654AA-BU-BM inferido) ; passion-horlogere ?p=45077: 0
+- Delray: +3 (9630A, A640A, JSS GMT laranja)
+- dialicious: 0 ; ablogtowatch S05: 2 (9160M, 9160G) ; ebay.de/itm/364241461465 (título da busca): 1 Hunter 9045A
+- thewatchpages L15 s780aaa: 1 ; masterhorologer Arc Royal: 3 ; grail M02 Chronograph: 0 ; horbiter HS2 2017: 1 ; (busca) M02-4 A846AAA-AG: 1
+- massdrop J09 9650: 4 ; drop.com M02-4 e S05-3: 0 (página redireciona para Corsair)
+- watchbase m02/9740a: 1 ; watchpatrol (de) marca: 1 (M02 DLC Diver) ; fellows lote 165: 0 (vazio)
+- watchbase.com/armand-nicolet + /m02: 0 (só 1 ref) ; chrono24 index: bloqueado ; mywatchmart: erro
+- sovogue.ch (pág. 1 de 241): ver contagem ; timetowatches: 0 ; ubuy.hk: 0 (cita turbilhão de 10 peças)
+- afisha.uz: 0 ; europastar 1003955054 (2009): 0 (LS8 600 / L08 500 segundo este; swisstime diz 200/150 — divergência) ; leadersmag PDF 2010: 0 (cita TL7)
+- masterhorologer TL7: 1 ; ashford 9633a-an-p968bc0: 6 (TL7, via resultados da busca) ; wristler.eu: 1 (A654AQN-NC-GG4710N) ; masterhorologer L07: correções (branco = Venus 175) ; ebay itm 126765517418: Military A713 (renomeado) ; miniorange (título): S05 Date A710
+- ashford (busca): 7 (S05 9168A, J09 A650/D650, JS9-44 MA4480AA, M03 9155A) ; masterhorologer M03: 12 ; fellows lote 380: vazio
+- ablogtowatch M02 C: 0 ; ebay.com/p/8038001583: 1 ; ashford T616B: 1 ; ashford 9148A-AS: 1 (+9148A-2 pela busca)
+- buscas ashford (M03 x6, S05 T618A x2, J09 A650AAA-BU): 9
+- luxuriousmagazine LL9: 1 (9653D-AN-P953BC8; 9653A da Loupe = LL9) ; wristreview hands-on: 0 ; chronoluxfinewatches J09: 37 (A650/A654/D650/D654, fotos) ; escapementmagazine J09 chrono: 0
+- chronolux /armand-nicolet (índice): 0 (revela coleções SL5, L10, L11, L14, Arc Royal)
+- chronolux S05: ~19 (A710 Date, A714 Chronograph, D714) ; M02: ~29 (9740A, 9742B Complete Calendar, 9744A Chrono, 8740/8742/8744) ; LL9: ~26 ; SL5: 8
+- chronolux L14: 7 ; L10: 6 (coleção nova) ; L11: 3 (substituem linha genérica) ; L09: 4 ; L15: 2
