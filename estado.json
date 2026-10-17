@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 95,
- "ultima_versao": 96,
+ "proxima_linha_marcas": 97,
+ "ultima_versao": 97,
  "historico": [
   {
    "data": "2026-10-16",
@@ -233,6 +233,30 @@
    "fontes": 174,
    "passadas": "P1 114 fontes/636 relógios; P2 23/34; P3 37/58",
    "obs": "grande, sozinha; refeita após execução parada; MH8 (coluna J) não encontrado; Marcas diz fundada em 1902, fontes dizem 1875"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 97,
+   "marca": "Armando Legin",
+   "linha_marcas": 95,
+   "linhas_relogios": "7833",
+   "relogios": 1,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "obs": "marca eslovena (Fobia d.o.o., Ljubljana), montagem em Zurique por Marc Jenni; só o Inveniō Genesis (25 peças); série BLACK anunciada, não lançada; dados de Marcas (B, C, D, F, G, H, I) parecem errados"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 97,
+   "marca": "Armida",
+   "linha_marcas": 96,
+   "linhas_relogios": "7834-7883",
+   "relogios": 50,
+   "vermelho": false,
+   "site_bloqueado": "parcial",
+   "fontes": 49,
+   "obs": "site oficial abriu (galeria de clientes); loja Ecwid não abre; próxima Armin Strom (grande, sozinha)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -244,6 +268,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-17T16:41:01+00:00"
+ }
 }
