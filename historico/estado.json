@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 97,
- "ultima_versao": 97,
+ "proxima_linha_marcas": 98,
+ "ultima_versao": 98,
  "historico": [
   {
    "data": "2026-10-16",
@@ -257,6 +257,19 @@
    "site_bloqueado": "parcial",
    "fontes": 49,
    "obs": "site oficial abriu (galeria de clientes); loja Ecwid não abre; próxima Armin Strom (grande, sozinha)"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 98,
+   "marca": "Armin Strom",
+   "linha_marcas": 97,
+   "linhas_relogios": "7884-8056",
+   "relogios": 173,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 272,
+   "passadas": "P1 232 fontes/162 relógios; P2 18/5; P3 22/6",
+   "obs": "grande, sozinha; refeita após execução parada; configurador e peças únicas tornam a lista incompleta (vermelho); Europa Star deu 429; Chrono24 sem resultados em busca; Monochrome page/N não aparece em busca (lidas com aprovação do usuário nesta execução); J cita 'Orbit' (existe)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
