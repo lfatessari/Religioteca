@@ -10,7 +10,7 @@ Este repositório guarda a planilha da Relogioteca e o estado do trabalho. Cada 
 - `docs/SKILL_relogioteca-pesquisa-exaustiva.md` — cópia de referência do roteiro. A versão que vale é a skill `relogioteca-pesquisa-exaustiva` da conta.
 
 ## Trava contra execuções simultâneas
-- No início: `git pull`, ler `estado.json`. Se existir `"em_execucao"` com horário de menos de 5 horas atrás, outra execução está rodando: parar sem fazer nada (só uma linha no relatório). Se for mais antigo, considerar que a execução anterior morreu e seguir.
+- No início: `git pull`, ler `estado.json`. Se existir `"em_execucao"` com horário de menos de 3 horas atrás, outra execução está rodando: parar sem fazer nada (só uma linha no relatório). Se for mais antigo, considerar que a execução anterior morreu e seguir.
 - Antes de pesquisar: gravar `"em_execucao": "<data e hora ISO>"` no `estado.json`, commit "Início de bateria" e push.
 - No fim (com ou sem sucesso): remover `em_execucao` no mesmo commit do resultado.
 
