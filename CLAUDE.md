@@ -17,7 +17,7 @@ Este repositório guarda a planilha da Relogioteca e o estado do trabalho. Cada 
 ## Abrir sites sem pedir permissão (ninguém está olhando)
 O WebFetch só abre sem pedir aprovação ao usuário endereços que já apareceram nesta conversa: resultados de WebSearch ou links devolvidos por uma página já aberta. Endereço digitado de memória (ex.: thewatchpages.com, everywatch.com/<marca>, o site da coluna G) trava a execução esperando um clique que ninguém vai dar.
 - Antes de abrir qualquer site, fazer uma WebSearch que traga o endereço e abrir exatamente o endereço do resultado.
-- Páginas internas: só seguir links devolvidos pelo WebFetch, copiados exatamente.
+- **Só abrir endereços que vieram literalmente de um resultado de WebSearch.** Links tirados do resumo de uma página aberta (paginação, fichas de produto, páginas de relógio) também pediram permissão (Armin Strom, out/2026). Para uma página interna, fazer antes uma busca que a traga (ex.: `site:dominio.com <nome do modelo>`) e abrir o link do resultado.
 - **Nunca montar endereços**, nem no mesmo domínio de uma página já aberta: `/products.json`, `/wp-json/...`, `sitemap.xml`, `.oembed`, `?page=N`, `?limit=…` pedem aprovação mesmo assim (visto na Armin Strom, out/2026). Os truques de endereço da skill (§2, §5, §7) só valem quando o endereço exato apareceu numa busca ou num link devolvido; senão, usar a página normal e buscas `site:`.
 - Se o WebFetch responder PROVENANCE_REQUIRED ou pedir permissão: não repetir esse endereço; seguir com outra fonte.
 - **Não usar a ferramenta Agent (ajudantes/subagentes)**: criar ajudantes também pede aprovação. Fazer toda a pesquisa na própria execução.
