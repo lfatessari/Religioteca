@@ -1,0 +1,651 @@
+{
+ "marca": "Aristo",
+ "usa_codigos": true,
+ "logo": "https://www.aristo-uhren.de/images/layout/branding.svg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.aristo-uhren.de/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/herren",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/uebersicht/ (páginas 1 a 29)",
+   "passada": 1,
+   "novos": 338
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-json/wc/store/products?per_page=8&page=1 e page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-sitemap-posts-product-1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/sitemap/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-json/wp/v2/product",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-json/wc/store/products?catalog_visibility=any&page=50",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-json/wc/store/products?catalog_visibility=hidden&per_page=8&orderby=title&order=asc (páginas 1 a 41)",
+   "passada": 1,
+   "novos": 313
+  },
+  {
+   "url": "https://www.everywatch.com/aristo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/aristo/pilot/watch-34056991",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/aristo/watch-12846780",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/aristo/watch-12063098",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/aristo/watch-9733523",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/aristo/3h46/watch-9968515",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/aristo/watch-31880282",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.everywatch.com/aristo?pageNumber=2 e 3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Aristo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/collections/aristo/products.json (páginas 1 a 10)",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/aristo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/?p=142431",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://longislandwatch.com/collections/aristo-german-made-watches/products.json (páginas 1 a 9)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/aviator-chronograph-black-4h98310-limited",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/aviator-chronograph-vintage-4h98310vin-limited",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/aviator-racing-chronograph-vintage-limited",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/334156799246",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchnet.co.jp/en/item/view/1072",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/the-aristocrat-of-pforzheim",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gnomonwatches.com/blogs/news/closer-look-at-the-new-gnomon-exclusive-aristo-aviator-vintage-4h451-ltd-ed-to-50-pcs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/aristo-aviator-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/aristo-chronograph-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/aristo-automatic-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1180_9_61_1518_61_1_406/aristo-vollmer-gmbh-download-pressemitteilung.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1180_9_17_1518_17_1_407/aristo-vollmer-gmbh-download-pressemitteilung.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1180_9_16_1518_16_1_407/aristo-vollmer-gmbh-download-pressemitteilung.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/highlight-uhren-von-aristo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-uhr-zum-oldtimer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-2021",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-erbprinz-walldorf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-rallye-watch-in-leipzig",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-rom-um-vier-uhr",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-einsatz-uhr",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-262-in-klein",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-xxl-fliegeruhr",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-fliegerchronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-dreizeigeruhr-dessau",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-manufaktur-edition-mit-schild-uhrwerk-as-2072",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-chronographen-mit-sellita-sw-500",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-pforzheim-mit-neuem-auftritt-2022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-vintage-42-beobachter-record",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watches.jlind.net/2016/01/good-things-can-come-in-small-package.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Aristo_Pilot%27s_Watch_ME_109-8",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://item.rakuten.co.jp/c-watch/c/0000000694/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://watches-jewellery-germany.com/en/?p=2238",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=893",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/285879438076",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/285751607347",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1369119066",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Aristo_Pilot%27s_Watch_ME_109-G10",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flume.de/en/special-items/watches-and-pocket-watches/messerschmitt-108-chronograph-oe42mm/341881",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flume.de/en/special-items/watches-and-pocket-watches/limited-messerschmitt-pilot-s-watch-bf110-anniversary-model-swiss-automatic-movement/362851",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-unisex-fliegeruhr-me-9673-108m/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1180_9_56_1518_56_1_406/aristo-vollmer-gmbh-download-pressemitteilung.pdf",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://longislandwatch.com/collections/messerschmitt-german-pilot-watches/products.json (páginas 1 a 5)",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1180_9_52_1518_52_1_408/aristo-vollmer-gmbh-download-pressemitteilung.pdf",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-herren-fliegeruhr-chrono-me42ch-m/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-fliegeruhr-herren-vintage-me-43army/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-flieger-armbanduhr-me-108dr-mb/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-herrenuhr-me-262-le-me-262-42extrema/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-fliegeruhr-xl-beobachter-me-47xlb/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-herrenuhr-flieger-daydate-me6332-dd1/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-herrenuhr-zwei-zeiten-me-dual2-l/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aristo-uhren.de/sitemap.xml (2ª leitura, lista de páginas)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/specials",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/news",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aristo-uhren.de/ueber-uns",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/sport",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-design-fly-10-2025kl_701.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-mechanik-katalog-04-2026kl.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-mechanik-katalog-10-2024kl.pdf",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-mechanik-katalog-02-2025kl.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-special-flyer-05-2025kl.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-bauhaus-prospekt2025.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-mechanik-katalog-2025-2026.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-taucheruhren-01-2026kl.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aristo-uhren.de/upload/aristo-bauhaus-dessau-2025postk.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-json/wc/store/products?search=Messerschmitt&catalog_visibility=any",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://aristo-uhrenvertrieb.de/wp-json/wc/store/products?search=limit&catalog_visibility=any",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren4you.de/collections/messerschmitt/products.json",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren4you.de/products/messerschmitt-me-262-42v.oembed",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhren-wiki.com/doku.php?id=Aristo_Messerschmitt_ME_262",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Messerschmitt-ME-262-M.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrenvielfalt.de/Messerschmitt-262-42B",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrenvielfalt.de/Messerschmitt",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Herrenuhren/Messerschmitt-470/",
+   "passada": 2,
+   "novos": 16
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Herrenuhren/Messerschmitt-470/?page=2",
+   "passada": 2,
+   "novos": 15
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Herrenuhren/Messerschmitt-470/?page=3",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Herrenuhren/Aristo-468/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Herrenuhren/Aristo-468/?page=2",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Damenuhren/messerschmitt/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/messerschmitt-watches/messerschmitt-pilot-watch-comet/366129",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flume.de/en/special-items/watches-and-pocket-watches/messerschmitt-pilot-watch-automatic-sextant-vintage/366124",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flume.de/en/special-items/watches-and-pocket-watches/messerschmidt-camouflage/356076",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flume.de/de/armband-und-taschenuhren/messerschmitt-uhren/messerschmitt-fliegeruhr-me108-taifun/362847",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Damenuhren/aristo/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/24-Stunden-Uhren/Messerschmitt/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Automatik-Uhren/Aristo-Automatik-Uhr/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_goldstadt_chrono.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_karlsruhe.html",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_offenburg.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_black_forest.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_favorite.html",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_mannheim.html",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_goldstadt.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_badenbaden.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_heidelberg.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.erbprinz-aristo.de/erbprinz_walldorf.html",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/messerschmitt-herren-fliegeruhr-komet-me163-80-6/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.preissuchmaschine.de/preisvergleich/messerschmitt-aristo-herren-uhr-army-500001339176.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/6037739536",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/234897872102",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Chronographen/Messerschmitt-564/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Quarzuhren/Messerschmitt-472/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-sheriff.de/Fliegeruhren/Aristo/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

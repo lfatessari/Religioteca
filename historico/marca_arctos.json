@@ -1,0 +1,491 @@
+{
+ "marca": "Arctos",
+ "usa_codigos": true,
+ "logo": "https://img.watcharc.org/VxK6vgYg7PluOwd5GGXVsPAyTTtP-AWUOG214zDVL0E/dpr:2/f:webp/rs:fit:300:200/plain/s3://watcharc/logo/arctos.png",
+ "site_bloqueado": "Site bloqueado – arctos-elite.de (robots; também o antigo arctos.info); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.everywatch.com/arctos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://arctos-elite.de",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos_ww.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gpwmilitary.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/arctos/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/120-011.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gpwmilitary.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://gpwmilitary.com/sitemap_products_1.xml?from=1&to=99999999999",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://gpwmilitary.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gpwmilitary.com/products/gpwddrn.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gpwmilitary.com/products/gpwautbl.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gpwmilitary.com/products/gpwfldblk.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gpwmilitary.com/products/german-military-titanium-watch-gpw-offizier-automatic-200m-w-r-sapphire-crystal-brown-leatherstrap-with-white-stitching.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gpwmilitary.com/products/german-military-black-titanium-chronograph-gpw-mission-chrono-big-date-10-bar-w-r-sapphire-crystal-blackrubber-strap.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gpwmilitary.com/products/german-military-titanium-chronograph-gpw-mission-chrono-big-date-10-bar-w-r-sapphire-crystal-solid-titanium-bracelet.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/arctos-gpw-k1-p29520/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/arctos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://arctoswatch.wordpress.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfreeks.com/threads/arctos-watches-a-litle-bit-of-history.17086/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.joseph-watches.com/all-products/arctos-military-bund-stainless-steel-1980s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://vintageradar.com/en-us/products/arctos-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/market/arctos_watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch-wiki.org/index.php?title=Arctos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://www.arctos.info/en_geschichte2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://people.timezone.com/kohei/Arctos/Arctoshistory.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrenkosmos.com/ratselhafte-arctos-horometer-weltzeituhr/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://sammler-uhren.com/en/blogs/uhren-altersbestimmung-nach-werknummer/arctos-philipp-weber-altersbestimmung-in-der-timeline-arctos-elite",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "http://arctos.info/sekm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://arctos.info/uhr_taucher.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/acm1-03.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/210-01.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/110-0044.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/arctos-s-gelbgold-vintage-deutsche-milit%C3%A4rische-handgefertigte-armbanduhr/id-j_3095243",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/b/ARCTOS-Armbanduhren/31387/bn_90195850",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.ebay.de/b/ARCTOS-Armbanduhren/31387/bn_90195850?_pgn=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/ARCTOS-Armbanduhren/31387/bn_90195850?_pgn=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.auction.fr/_fr/lot/arctos-stiluhr-horometer-weltzeituhr-arctos-horometer-universal-time-9966877",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mikrolisk.de/show.php?site=280&suchwort=Arctos&searchWhere=all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhrforum.de/threads/am-anfang-gab-es-nur-eine-raetselhafte-luenette-meine-arctos-horometer.228730/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worthpoint.com/worthopedia/arctos-horometer-gents-world-time-22-1778631787",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hablemosderelojes.com/t/arctos-un-encuentro-casual/248330",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/german-arctos-elite-gpw-k1-limited-edition-watch-available/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oysterpalace.com/timepieces/arctos-elite-diver-ref-sekm-2000m-with-box-and-accessories-op-1697",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-miquel.de/Arctos-Bundeswehr-Chronograph-mit-Cal.-Lemania-5100/7435",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots/ARCTOS-Elite-auf-999-Stuck-limitierte-Armbanduhr-GPW-K1-Automatik-/26845017-arcto_elite-30.12.24-henrys",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://patinanationale.com/shop/watches/military-watches/arctos-bund-vintage-chronograph-german-military-issue-1980s/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bawue.museum-digital.de/object/29895",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invaluable.com/auction-lot/arctros-quartz-1-quartz-wristwatch-of-germany-197-178-c-901461baee",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/94793073-arctos-elite-gpw-k1-men-2000-2010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://uhrerbe.com/category/369-armbanduhren_arctos_/index.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.at/sch/260324/i.html?_nkw=arctos&_frs=1&_ipg=200",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhrerbe.com/unt/21262-arctos_racing_chronograph___cal_7734___handaufzug_topzustand_selten.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uhrerbe.com/unt/31246-seltene_arctos_automatic_digital.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uhrerbe.com/unt/50197-arctos_nato_17_rubis_herrenuhr_per_handaufzug_mit_kleiner_sekunde.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "http://oceanictime.blogspot.com/2010/09/arctos-elite-sekm-black-wave-review.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/german-precision-watches-gpw-titanium-military-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://westernwatch.blogspot.com/2015/02/german-gpw-military-titanium-automatic.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/233288472042",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleinanzeigen.de/s-arctos-uhr/k0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/335477241413",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.buchfreund.de/de/d/p/90925144/arctos-katalog-ausgabe-1938",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://oceanictime.blogspot.com/2010/09/arctos-elite.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/arctos/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://uniquewatchguide.com/arctos-gpw-l1/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/arctos/elite/watch-13084406",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/arctos/elite",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/arctos?pageNumber=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/arctos/watch-9090561",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/arctos/watch-2105283",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/arctos/watch-9138389",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/arctos/elite/watch-10469509",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/10445332-arctos-automatic-men-watch-vintage-diver",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invaluable.com/auction-lot/arctos-elite-ladies-watch-585-000-gg-manual-windi-1036-c-58740beaad",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/listing/1056014",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/260173",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/37350-wts-arctos-bund-5100-bwl-bundeswehr",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://montre24.com/brand/ARCTOS/Arctoswatch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/arctos-elite-ac500-11-210000049486.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.qualitytime-watches.co.uk/arctos-elite-nato-gmt-black-dial-stainless-steel-bracelet",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/115-01.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/acg110-03wht.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/ac300-041.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/210-01.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/ac310-0111.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/120-01.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/acsekm-01.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/ac500-011.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/110-02.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/210-0045.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/acsekm-011.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/ac300-12.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/arctos/110-0043.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/arctos-military-military-ii-p27367/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/arctos-gpw-l1-gpw-l1-ocean-p32043/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/arctos-nato-felduhr-nato-felduhr-p30259/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watcharc.org/en/brand/arctos",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

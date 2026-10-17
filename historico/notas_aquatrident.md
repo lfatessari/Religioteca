@@ -1,0 +1,12 @@
+# Aquatrident – notas
+- Site oficial aquatrident.com: ROBOTS (home, /collections/all, products.json). Títulos/handles só via busca.
+- Padrão: AQ-SSSSS-NN; sufixo A = pulseira de aço/couro?, B = pulseira de carbono. Títulos FR antigos usam AQ-22148-xx (=Ocean 23004) e AQ-22149-xx (=Shark 23005).
+- Shark 36mm opal (AQ-23001-0x): 01 Ocean Blue Opal, 03 Red Opal (silicone), 03A (aço), 04A Coral Opal aço, 05 Azure Opal silicone preto, 05A aço
+- Ocean 36mm opal (AQ-23002-0x): 01 Deep Blue Opal (silicone azul, eBay), 01A aço, 02A Violet aço, 03 Red silicone, 03A aço, 04 Coral Blue silicone, 04A aço
+- Ichthyosaur 45mm (AQ-23003-xx): -10 couro preto (FR); cores azul, verde, cinza, vermelho, branco, laranja
+- Ocean 40mm meteorite (AQ-23004-xx): 01 (azul, FR 22148-01), 02 (cinza), 04 Blue Meteorite silicone azul, 05, 06, 08 Brown Meteorite bezel damasco, 55?, 66 Golden Meteorite 316L preto
+- Shark 40mm (AQ-23005-xx): 01 Blue silicone azul, 03 (FR 22149-03)
+- Neptune Carbon 40mm (AQ-23009-xx / AQ-230030-02): 01B Red/carbon bracelet; 02B Black/carbon; 03 Blue fluororubber; 03A Blue couro; 04A Ice Blue couro; 05A Navy couro; 05B Navy carbon; 06B White carbon; AQ-230030-02 Black
+- Jaws bronze 40mm (2024): sanduíche preto/azul/verde/vermelho; romano preto/azul/verde/cinza claro
+- Field Bronze 200M (jwlraddicts) ; Carbon 45mm (nfwatches)
+- orologichepassione.com (IT) tem catálogo: product/3150 Ichthyosaur azul

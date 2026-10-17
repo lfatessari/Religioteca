@@ -1,0 +1,116 @@
+{
+ "marca": "Ardío",
+ "usa_codigos": false,
+ "logo": "https://ardiowatches.com/cdn/shop/files/Text_Logo_Rev3.png?v=1680238664&width=500",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://ardiowatches.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://ardiowatches.com/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/sitemap_products_1.xml?from=1&to=99999999999",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/sitemap_blogs_1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/sitemap_collections_1.xml?from=442556973360&to=474844299568",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/pages/news-updates",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/pages/about-ardio",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/products/caribe-light-blue.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/collections/assembly-options/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-the-ardio-caribe/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchbert.com/post/ardio-caribe-review-and-brand-experience",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/126371646153",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/products/caribe-gauge-brass.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/products/caribe-lime-green.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/products/caribe-gilded-black.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ardiowatches.com/products/caribe-sunrise-orange.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/28635430-wts-ardio-caribe-40mm-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2075688/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/22921047-wts-ardio-caribe-isotope-green-demo-model-sale",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
