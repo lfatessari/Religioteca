@@ -14,6 +14,12 @@ Este repositório guarda a planilha da Relogioteca e o estado do trabalho. Cada 
 - Antes de pesquisar: gravar `"em_execucao": "<data e hora ISO>"` no `estado.json`, commit "Início de bateria" e push.
 - No fim (com ou sem sucesso): remover `em_execucao` no mesmo commit do resultado.
 
+## Abrir sites sem pedir permissão (ninguém está olhando)
+O WebFetch só abre sem pedir aprovação ao usuário endereços que já apareceram nesta conversa: resultados de WebSearch ou links devolvidos por uma página já aberta. Endereço digitado de memória (ex.: thewatchpages.com, everywatch.com/<marca>, o site da coluna G) trava a execução esperando um clique que ninguém vai dar.
+- Antes de abrir qualquer site, fazer uma WebSearch que traga o endereço e abrir exatamente o endereço do resultado.
+- Páginas internas: seguir links devolvidos pelo WebFetch. Endereços montados (`/products.json`, `/wp-json/...`, `?page=N`) só no mesmo domínio de uma página já aberta nesta conversa.
+- Site que não aparece em busca nenhuma: pular e registrar no relatório.
+
 ## Roteiro de cada execução
 1. Carregar a skill `relogioteca-pesquisa-exaustiva` (ferramenta Skill) e seguir o SKILL.md inteiro, como se fosse a primeira vez.
 2. Ler `estado.json`. Se houver `em_andamento`, retomar essa bateria pelas notas em `historico/` em vez de começar outra.
