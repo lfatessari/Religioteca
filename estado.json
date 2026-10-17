@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 94,
- "ultima_versao": 95,
+ "proxima_linha_marcas": 95,
+ "ultima_versao": 96,
  "historico": [
   {
    "data": "2026-10-16",
@@ -220,6 +220,19 @@
    "site_bloqueado": true,
    "fontes": 16,
    "obs": "marca sueca de Gabriel Arlanch (arlanch.se); homônimo chinês ARLANCH de quartzo barato não incluído; próxima Armand Nicolet (grande, sozinha)"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 96,
+   "marca": "Armand Nicolet",
+   "linha_marcas": 94,
+   "linhas_relogios": "7105-7832",
+   "relogios": 728,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 174,
+   "passadas": "P1 114 fontes/636 relógios; P2 23/34; P3 37/58",
+   "obs": "grande, sozinha; refeita após execução parada; MH8 (coluna J) não encontrado; Marcas diz fundada em 1902, fontes dizem 1875"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -231,7 +244,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "nota_execucao_parada": "Execução de 2026-10-17 08:41 (Armand Nicolet) ficou parada esperando aprovação de site; trava liberada manualmente. Armand Nicolet deve ser refeita do início. Notas parciais desta execução (236 refs do site oficial + 19 escondidas, com fotos) em historico/armand_nicolet/, só como apoio.",
- "em_execucao": "2026-10-17T14:41:21Z"
+ }
 }

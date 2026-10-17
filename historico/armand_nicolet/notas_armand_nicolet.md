@@ -45,3 +45,25 @@ Base: dados do site oficial da execução parada (historico/armand_nicolet/rows.
 - chronolux /armand-nicolet (índice): 0 (revela coleções SL5, L10, L11, L14, Arc Royal)
 - chronolux S05: ~19 (A710 Date, A714 Chronograph, D714) ; M02: ~29 (9740A, 9742B Complete Calendar, 9744A Chrono, 8740/8742/8744) ; LL9: ~26 ; SL5: 8
 - chronolux L14: 7 ; L10: 6 (coleção nova) ; L11: 3 (substituem linha genérica) ; L09: 4 ; L15: 2
+- ablogtowatch M02-4 GMT: 1 (+renomeia A846 para GMT) ; seriouswatches T610AGN: 1 ; 1stdibs (marca): 1 ; ebay.com itm 155214534881: 1 ; 1stdibs AN9146: 0
+- walmart: 0 novos (fotos melhores MH2) ; watchpatrol js9: 1 ; gressive 162082: 1
+- keepthetime JS9: 0 ; watchreport tag: 0 ; mrm-style: 0  → 3 fontes seguidas sem novidade: FIM DA 1ª PASSADA
+## Decisão: VERMELHA (Sovogue mostra 241 produtos e só a pág. 1 abre; eBay 129 anúncios e só 58 lidos; catálogo antigo 2008-2016 com centenas de combinações TL7/M03/LL9 "quase cem combinações"; Chrono24 bloqueada)
+## 2ª PASSADA (alvo: produtos escondidos do site, catálogos antigos, refs S05/Arc Royal/JS9 antigas, lojas que esconderam peças)
+- P2: busca §2c "armandnicolet.com/product-page" (3 buscas): 1 página oculta M02-4 A840AAA-NR-M9742 (já tinha; ganha link oficial) — não abriu (CLIENT_ERROR)
+- P2: jomashop.com/armand-nicolet-watches: 0 (JS) ; stylight: erro ; amazon: robots
+- P2: ebay.com/shop/armand-nicolet-watches: ~11 (M2H, JSH, MH2 TF, T610, D622AAA skeleton, S05-3, 9632A) ; fellows lote 158577: vazio ; skelbiu.lt: 1 (VS1 GMT bordô)
+- P2: gressive catalog (índice): 0 ; watchpro ?p=34610: 1 (LB6 A134AAA-BU-P140BU2; L16 299 peças) ; wristreview L14: 0 ; gressive 162080: 0 (foto) ; 162085: 1 ; 162069: 0 (dados L16) ; ebay.de/itm/156779297141: erro
+- P2: gressive 162081: 0 (A480AGU-BU-GG4710U já existia) ; 162083: 1 ; 162084: 1
+- P2: everywatch watch-1046842: 1 (+ watch-10400011 pelo título da busca) ; collectorsquare lpi: 7 (Sloop Royal, Hunter 9042C, 7130A, 7140A, 9151A, S05 diver 47) ; ebay.de/str/timewatchswiss: 11
+- P2: catawiki 105268348: 0 (abriu categoria) ; finn.no 449942676: 0 (A506 = VS1 GMT → renomeia) ; relojes-especiales J09 400898: 0
+- P2: ashford 9042A-1-AG-M9060-SD: 2 (Hunter) ; gressive.jp/brand: 0 ; finn 449948429: 0 ; finn 449944802: 0 → 3 seguidas sem novidade: FIM DA 2ª PASSADA
+## 3ª PASSADA (2ª trouxe 5+): alvo lojas/leilões ainda não usados e linhas antigas (Hunter, Tramelan, S05, Arc Royal)
+- P3: ebay.com/b/Armand-Nicolet-Watches (60 de 297): ~22 ; ebay.de/itm/203709516508: 1 (Hunter 9040A) ; ebay.de/itm/375878657288: 0 (foto placeholder) ; clothbase: erro
+- P3: masterhorologer L08 2010: 4 (refs 9620A/8620A/9620D) ; masterhorologer L06 2008: 4 (9130A/8130A/7130A) ; watchonista l09-ld.pdf: 0 ; loupe.watch/prices/armand: 0
+- P3: masterhorologer arquivo: 0 (índice com 25 artigos) ; S05 2010: 3 ; TM7 2008: 4 (coleção nova) ; Small Seconds ouro 2009: 2 ; M02 2009: 2
+- P3: masterhorologer M02 2014: 1 (GMT & Big Date) ; J09 2015: 2 ; SL5 2011: 1 ; LS8 2010: 3 (substituem genérica)
+- P3: masterhorologer LL9 2011: 2 ; J09 2010: 3 (8650A) ; HS2 2016: 0 ; L16 2016: 0 ; LB6 2016: 0
+- P3: masterhorologer L10 2011: 1 (+999 peças) ; L11 2012: 0 ; L15 2015: 1 ; história: 0 → 3 seguidas sem novidade? (L11 0, história 0, mas L15 1) continuar
+- P3: ashford 9144A: 1 ; thewatchbox 4185690: 0 (A486BGN-NR-MA4480AA já existia) ; wristwatchreview JS9-44 GMT: 0 ; thewatchpages js9-44 a486asn: ~4
+- P3: drop.com JS9 GMT: 0 ; ebay.de/itm/355305653734: 0 ; thewatchpages a486agu-bu-ma4480aa: 0 (foto) → 3 seguidas sem novidade: FIM DA 3ª PASSADA
