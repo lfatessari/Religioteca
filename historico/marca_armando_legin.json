@@ -1,0 +1,96 @@
+{
+ "marca": "Armando Legin",
+ "usa_codigos": false,
+ "logo": "https://www.armandolegin.com/images/logo3.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://armandolegin.com/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://armandolegin.com/product.php",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armandolegin.com/about.php",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armandolegin.com/contact.php",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://armandolegin.com/terms.php",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-armando-legin-invenio-independent-watchmaking-vaucher-marc-jenni-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://imboldn.com/armando-legin-invenio/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forresters-ip.com/case-study/changing-the-face-of-watchmaking/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forresters-ip.com/case-studies/invenio-armando-legin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forresters-ip.com/people/alex-beattie/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/@ArmandoLegin/videos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/@ArmandoLegin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=EVidR6VheMo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://si.linkedin.com/in/armando-legin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jenni-uhren.ch/armando-legin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jenni-uhren.ch/product-page/armando-legin-inveniō",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jenni-uhren.ch/pre-loved-uhren",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
