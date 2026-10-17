@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 98,
- "ultima_versao": 98,
+ "proxima_linha_marcas": 99,
+ "ultima_versao": 99,
  "historico": [
   {
    "data": "2026-10-16",
@@ -270,6 +270,19 @@
    "fontes": 272,
    "passadas": "P1 232 fontes/162 relógios; P2 18/5; P3 22/6",
    "obs": "grande, sozinha; refeita após execução parada; configurador e peças únicas tornam a lista incompleta (vermelho); Europa Star deu 429; Chrono24 sem resultados em busca; Monochrome page/N não aparece em busca (lidas com aprovação do usuário nesta execução); J cita 'Orbit' (existe)"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 99,
+   "marca": "Armitron",
+   "linha_marcas": 98,
+   "linhas_relogios": "8057-8409",
+   "relogios": 353,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 174,
+   "passadas": "P1 143 fontes/330; P2 18/30; P3 13/9",
+   "obs": "grande, sozinha; marca de massa com milhares de códigos de estilo (20/, 40/, 45/, 75/) impossível de esgotar; site Shopify abre mas o leitor não traz links nem fotos (fotos vieram de imprensa, Amazon via desertcart, eBay, Kohl's); muitas linhas com link da página da coleção; E. Gluck em Chapter 11 (dez/2025) e comprada pela American Exchange Group (fev/2026); Marcas: I diz fundada 1956 (é a E. Gluck; marca Armitron 1975); J 'Dress Quartz' é genérico"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

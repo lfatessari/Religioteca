@@ -1,0 +1,182 @@
+# Armitron (linha 98 Marcas) — GRANDE (mass market, 228 produtos no site, milhares de SKUs históricos)
+Site armitron.com Shopify; WebFetch remove links/imagens (só nomes). Wikipedia: fundada 1975 por Eugen Gluck; E. Gluck Chapter 11 em dez/2025.
+## Fontes (passada 1)
+- armitron.com/collections/unisex (19 itens, nomes)
+- armitron.com/collections/shop-all?page=2 (228 total; 48 nomes)
+- armitron.com/products/the-griffy (Griffy Silver/Red, Gold/Red, Iridescent/Blue)
+- armitron.com/collections/mens-online-exclusives?page=3 (1975 Limited Edition 40mm Gold; Surge; A-Watch)
+- newegg brand subcat: 40-8177RED, 20/5477BYLTB, 40-8253DGN, 40-8209RBK, 75-2447CHGPHY, 75-5650MPRGST, 75-5796GPST
+- wikipedia Armitron (história)
+- wornandwound rebrand 2024: Ridgemont, Griffy, Reef, Wave, Blueprint, Titan, Tilly (imagens Armitron-Rebrand-N.jpg)
+- armitron heritage-collection: 1975 Men 40mm Black Matte/Rose Gold, Aqua/Silver, Black Matte/Silver; 1975 LE 40mm Gold; 1975 Women 34.5 Rose Gold, Aqua/Silver, Silver; 1975 LE 35mm Gold; A-Watch 35.5 Light Blue/Red, Black/White, Yellow/Black, Black/Red
+- mannpublications Vintage Archive 2023: 22 peças restauradas anos 70-80 sem nomes; img Watch_Archive_Collection_Launch.jpg
+- thesource 1975 LE (mar/2025, 50 anos): imgs thesource.com/wp-content/uploads/2025/03/Mens-50th-1-600x789.jpg, Womens-50th-PDP-600x750.jpg
+- walmart browse (94 relógios; só Matrix visível)
+- ebay.de/itm/166024706939: 40/8209BLK img https://i.ebayimg.com/images/g/V1cAAOSwuJFkM1Vp/s-l1600.jpg
+- particl 1975 colorways (sem novos)
+- ablogtowatch Ridgemont 20/5453CHGP (33mm gold champagne) img Armitron-Metro-Ridgemont-Watches-2.jpg ; Metro 20/5601BKGPBK img ...-8.jpg
+- ebay.de/itm/205707305938, 157219137214, 365369589030, 192473648150: CLIENT_ERROR
+- ebay.it/itm/297731316628: Armitron K-Time WR165 azul (sem ref) img https://i.ebayimg.com/images/g/-zwAAeSwDB5pB8tQ/s-l1600.jpg (genérico—não vira linha)
+- ebay.de/itm/267471610571: 1980s chronograph digital sem ref img https://i.ebayimg.com/images/g/4iAAAOSwQglanO75/s-l1600.jpg (genérico)
+- ubuy.hk brand: nada
+- manualslib brand/armitron/watch: estilos 20/1277,20/1299,20/1301BLU,20/1381BLU,20/1387BLU,20/1414,20/1415,20/1427BLU,20/1437GRN,20/1441BLU,20/1443BLU,20/1451GMG,20/1457BLK,20/1513BLU,20/1531GMG,20/1555,20/1568,20/1569BLU,20/1587BLU,20/1599,20/1652,20/1683BLU,20/1685GRN,20/1691,20/1697,20/1707,20/1719,20/1723BLU,20/1775BLU,20/1811BLU,20/1841,20/1849,20/1883BLK,20/1891BLK,20/1905GMG,20/1949BLU,20/1952,20/1953,20/4141BLK,20/4406SVSV,40/6747BLK,40/6749GRN,40/6769BLU,40/8011BLU,40/8013BLU,40/8017,40/8021BLK,40/8031,40/8081,40/8090,40/8095SIL,40/8231RDGY,40/8284,40/6623BLK,45/6851BLK,45/6853DKB,45/6855BLU,45/6857,45/6859,45/6861,45/6867SIL,45/6883,45/6901LAV,45/6933BLU,45/6945BLK,45/6949BLK,45/6951BLK,45/6963,45/6967PNK,45/6975RED,45/7034,45/7012SIL,40/8089 ; Griffy módulo BJ3407; ProFit; Droid Chrono; Champion
+- ebay search titles: 40/8459BRDWM (Sport digital chrono matte red), 40/8487BKRB (Pro Sport Instalite iridescent), 40/8474/CHGP (Sport Retro digital bracelet), 40-8475GP (Griffy reissue gold LED 35mm), 40/6605 (1990s Pro Sport 45mm preto/cinza)
+- ebay.com/itm/205252690498: 40/8459BRDWM img https://i.ebayimg.com/images/g/ZiIAAOSw0KNnmWi4/s-l1600.jpg
+- ebay.co.uk/itm/178519829667: Pro Sport 40/8487BKRB Instalite iridescent img https://i.ebayimg.com/images/g/wDsAAeSwuRRqnjh~/s-l1600.jpg
+- ebay.com/itm/275845192184: Sport Retro 40/8474 black&gold (placeholder → link)
+- ebay.de/itm/187203305593: Youth Pro Sport 45/7099 38mm (placeholder → link)
+- ebay.com/p/1834295114: 40/8309RED 54mm chrono alarm 100m (placeholder → link)
+- ebay.de/itm/197849901461 CLIENT_ERROR; título: Griffy Reissue Gold 40-8475GP 35mm
+- search titles: 20/5482GNSV (dress verde 150m) ebay.de/itm/225525492722; 20/4409SV 37mm ebay.com/itm/265481581049; 20/240SV vintage ebay.com/itm/404146196359; 75/2447 women diamond leather ebay.com.au/itm/287344919386
+- timeandtide Griffy: 40/8475BGSV, 40/8475BRGP, 40/8475BWTI imgs timeandtidewatches.com/wp-content/uploads/2022/08/40-8475XXXX_1800x1800.webp; 8 combinações (steel red/green/blue, gold red/green, black white/red, iridescent blue)
+- watchtime Griffy (sem novos ref) ; fifthwrist Griffy (0)
+- jotup holiday 2022 (0)
+- androidguys Connect 2024: Eclipse, Matrix, Apex, Sync, Quantum, Boom; imgs i0.wp.com/androidguys.com/wp-content/uploads/2024/08/armitron_<x>.webp
+- watchonista: Wave chrono 40mm black, pink/blue/purple (Tide ocean plastic) 2023
+- armitron collections/watches (171 total; 48): Prismatica 33 Iridescent; Lunar 45 Sand/Blush/Black (Connect); Boom 43 Lavender; Armitron x Peanuts: Dressed to the Nines 24mm Navy/Gold; Minnie 24 Silver/White, Gold/Silver, Silver; Dragonfly 27 Silver, Black (25mm Pearl White); Andi 28 Black/Silver, Tan/Gold; A-Bangle 20 Gold; Blueprint Navy/Silver, Green/Gold; Andi Large 36 Black/Silver; Matrix 44 Gold Mesh; Pulse 36 Black; Dual 52 Gray, Tan (White/Black); Strap N' Go 31.5 Blue; Constance 36 Rose Gold, Gold, 35.5 Iridescent/Rainbow, Light Pink/Silver, Pearl/Silver, Burgundy/Silver; 1975 40 Gold; Phoenix Bracelet Set 27 Gold/Silver, Gold; Tilly 20 Silver, Yellow Gold (White Ceramic, Gold/Silver); Knox 40 White/Gold/Black; Eugen 42 Brown Leather; Blueprint Green/Brown, Silver/Brown; Ridgemont 42 Red, Blue (Gold); Lloyd 42 ...; Charles 45 Silver/Ivory; Armitron x Peanuts: Golden Cool 36 Black/Gold/Red; Reaction 52 Yellow; Skeleton 42 Tan/Silver
+- collections/all/40-44mm: Surge 43 Black; Lloyd Metal/Blue/Silver/RG, Metal/Green/Silver/Gold, Silver/White, Leather Blue/RG, Leather Green/Gold, Silver/Black; Ross 40 Gold/Silver, Gold, Silver; Wave 40 Orange/Black, White/Navy; Skeleton 42 Silver/Black/Blue, Black/Black/Blue, 43 Gold, Tan/Silver; Blueprint Black/Metal, Iridescent, Burgundy/Silver, Black/Leather, Black/Gold/Leather, Burgundy/Black; Hudson 42 Brown Leather, Gold, Black, Black Leather; Jack 44 Black, Silver
+- watches/40-44mm?page=2: Bluejay two-tone navy; Palladian 42 Silver/Blue; Rennes Black
+- men-watches-material-stainless-steel: 0 (vazio)
+- collections/women (113; 48): Peanuts: The Hug 24.5 two-tone; Time to Celebrate 34 Gold; Charlie Brown's Embrace 20 Silver; The Lookout 36 Red/Gold; Golden Hour 20 Gold/Black; Rachel 36 Champagne/Silver, Silver, Gold, Rose Gold/Silver, 35.5 Iridescent/Rose Gold; Minnie Stone Dial 26 Two-Tone, Gold-Tone, Blue Tiger Eye; Wave 40 Pink; Taylor 20 Gold, Silver; Tilly Black Leather/Croco, Navy Leather/Croco, Black Leather/Lizard; Heart Bangle 24.9 Gold/White, Gold/Black; Dragonfly 25 Black/Iridescent, Pearl White; Prismatica 33 Yellow Gold; Minnie Crystal Gift Set 26 Rose Gold, Silver, Gold; Jacqueline 36 Silver, Gold; Constance Crystal 36 Gold/Silver; Minnie Crystal 26 Gold/Silver; Athena Watch & Bracelet Set 18 Plum/Rose Gold
+- women/35-39mm: Peanuts: Good Grief! 36 Blue Ocean Plastic; Prismatica 36 White Ceramic/Rainbow
+- women/gold: Ava 18.4 Gold/Crystals; Minnie Gold/Green, Gold/Black, Gold/Silver/Blue, Gold/Silver/Green; Athena 18 Gold; Vintage5904, Vintage3492, Vintage3521, Vintage1860, Vintage3344 (Vintage Archive gold-tone); Andi Bracelet 28 Gold; Heart Ring 22 (anel-relógio) Gold MOP; (pulseiras não-relógio: All The Love, Amour, Link & Logo, Herringbone)
+- mann Together in Pink 2024 (Susan G. Komen): Tessa 20 pink black leather, Tessa gold bracelet; Tilly Burgundy croco, Lavender croco; img .../2024/10/BCWatch-990x844.jpg
+- mann Tilly 2023: Tilly Croco black, honey; two-tone; Ceramic black, white; img .../2023/06/Amitron_Watches-990x1483.jpg
+- search site:armitron.com/products vintage: Vintage 5182 Gold/Silver, 2692 Gold, 3138 Silver/Gold, 1802 Gold/Black, 2364 Gold, 2234 Gold, 2960 Gold, 4860 Gold (product URLs armitron.com/products/vintage-NNNN-...)
+- collections/men?dept=men (110; 48): Titan Watch & Bracelet Set 34 Silver, Gold; 1975 40 Aqua/Silver; Grant 32 Silver, Silver/Navy, Gold/Silver; Blueprint Black/Gold/Metal; Ryder 35 Gold, Black; Parker 38 two-tone navy; Rogue 35 Black, Iridescent, Blue; Skeleton Navy/Silver, Gold/Black; Charles 45 Silvertone/Blue
+- men/black?page=2: vazio
+- collections/armitron-x-peanuts (9): The Hug, Golden Hour, Charlie Brown's Embrace, Good Grief!, The Lineup 36 Black/Gold, The Lookout, Dressed to the Nines, Golden Cool, Time to Celebrate (75 anos Peanuts / 50 Armitron)
+- thegentlemanracer Peanuts: The Lineup img https://thegentlemanracer.com/wp-content/uploads/2025/11/Satterfieldgroup-Armitron-Peanuts-Watch-09_websize.jpg ; leitor cita "Joe Cool" 50th
+- watchpro vintage archive: Vintage 5146, 3928, 3062 (women), 1119, 3301, 2210 (men)
+- ebay title: Vintage Rare Armitron Peanuts Snoopy gold tone 1958 900/52 (ebay.com/itm/156911279335)
+- desertcart.nz/products/1141774: Sport digital chrono gunmetal (sem ref) img https://m.media-amazon.com/images/I/81-64pPlIiL._AC_SL1500_.jpg (genérico; ref provável 40/8209 — não usar)
+- desertcart.uy/products/65683609: 40/8252BLK img https://m.media-amazon.com/images/I/51bSbGBo8CL._AC_SL1500_.jpg
+- desertcart.uy/products/1212793: 40/8231 (44mm compass bezel) img https://m.media-amazon.com/images/I/51DCjYYyMYL._AC_SL1500_.jpg
+- desertcart.co.th/products/1410883: 40/8159BLK img https://m.media-amazon.com/images/I/81ISUoH7vCL._AC_SL1500_.jpg
+- wristwatchreview explorer: 20/5048NVSVBN 40mm azul couro marrom 100m (sem img)
+- camelcamelcamel B000K3DT50 CLIENT_ERROR (título: Women's 75/3313SVTT two-tone dress)
+- títulos de busca: 75/5689WTTTWM (ebay.de/itm/297686753816); 75/2475 crystal bracelet (slickdeals); 75/5404RG (ebay.de/itm/294515441340); 75/2447 diamond leather (carrefouruae); 20/4935SVTT (ebay.de/itm/205202039830)
+- desertcart.com.ar/443954471: 20/5398 day-date bracelet 44mm img https://m.media-amazon.com/images/I/41btA2Mfj4L._AC_SL1500_.jpg
+- desertcart.ni/26342737: 40/8284 (caixa vermelha, 54mm) img https://m.media-amazon.com/images/I/91-zZFcAESL._AC_SL1500_.jpg (ebay item específico citou 40/8284RDBK)
+- desertcart.com.sa/165458450: 75/3313CHGP 18mm img https://m.media-amazon.com/images/I/81P1ZlhE-aL.jpg
+- desertcart.com.sa/742908870: 75/3313BKGP img https://m.media-amazon.com/images/I/71mZBsrwcFL.jpg
+- desertcart.co.th/22081336: 45/7012 women 27mm img https://m.media-amazon.com/images/I/71hwM1CQT5L._AC_SL1500_.jpg
+- desertcart.nz/1740064: 45/7012 (outra cor) img 71sAllCrl5L (preto mate aro aço)
+- desertcart.ni/17074646: 45/7012NVSV img https://m.media-amazon.com/images/I/71l7W0POlQL._AC_SL1500_.jpg
+- desertcart.nz/10363281: 45/7004RED nylon velcro img https://m.media-amazon.com/images/I/81gJ6hjD0KL._AC_SL1500_.jpg
+- desertcart.ae/114932352: 40/8284BLK 53.5mm img https://m.media-amazon.com/images/I/51RMhsfUrHL.jpg
+- desertcart.ma/9627445: 20/4677 multifunção prata 42mm (sem img → link)
+- desertcart.ae/607358703, com.sa/114625951, com.sa/48042250, ae/411707722, com.sa/48590292: Armani Exchange (0, erro de busca)
+- desertcart.nz/6286358: 75/2475 crystal bracelet 24.5mm img https://m.media-amazon.com/images/I/81yyOTwJK7L._AC_SL1500_.jpg
+- desertcart.ni/24374377: 45/7062PUR 33mm img https://m.media-amazon.com/images/I/81a+h8dMqfL._AC_SL1500_.jpg
+- ebay.de/itm/226847094586: Pro Sport 40/8423 reverse LCD black/red img https://i.ebayimg.com/images/g/m1EAAeSwasdoZqee/s-l1600.jpg
+- títulos: Women's Purple Swarovski gunmetal (ebay.it/p/2254401606); Rainbow crystal gold-tone (walmart ip 23583108)
+- manuals.plus asin B07MZFTFVV (20/5351BKSV), B08DR6X9SQ (45/7135PBH), B0044QYG4C (20/4677BLSV): CLIENT_ERROR; títulos dão os códigos
+- kohls prd-3240026: 25/6418BLK Sport 27mm img https://media.kohlsimg.com/is/image/kohls/3240026?wid=800&hei=800
+- armitron blog what-age-should-a-kid: Playtime analógicos infantis (baleias, doces, borboletas, carros), Strap N' Go black/blue e pink/yellow, Eclipse, Minnie, Griffy
+- wristwatchreview pulse: Pulse 45/7120LBH 36mm lavanda/blush; também branco e preto
+- desertcart.nz/18786065: 45/7012 (outra) img 71j0nFQ4NqL
+- desertcart.nl/17203817: 20/4888BKTI black IP day-date 24h (sem img → link)
+- walmart 20/5263NVTT diamond two-tone 42mm (sem img → link)
+- títulos: 20/5453SV (ebay.de/itm/376678549611); 20/5351BKSV; 45/7135PBH; 20/4131 two tone (ebay.com/itm/266174091363); 75/5304 (ubuy.hk 755304); 75/5412WTRGST (ebay.de/itm/177571039419)
+- watchonista 50 anos: Wave chrono 20/5535BKBKPK (rosa), 20/5535BKBKBL (azul), 20/5535BKBKPR (roxo) imgs https://r2.watchonista.com/app/uploads/legacy/watchographer/1/paragraphs/499487/pictures/am_ocean-plastic_20-5535bkbkpk-405x640.jpg (bl, pr idem); Eugen Gluck morreu 2019
+- mr-mag Armitron Loves Johnny (Johnny Wujek, fev/2023): 12 estilos; Aura, Lunar, Trilogy, Flashback; códigos AC-1007DGRB, AC-1011BNBN, AC-1011LVTI imgs https://assets.mr-mag.com/2023/02/AC-1007DGRB-1024x819.jpg, AC-1011BNBN_BOX-1024x819.jpg, AC-1011LVTI-819x1024.jpg
+- mann gold skeleton 2024: Skeleton 43mm Gold auto 21 rubis 100m img .../2024/08/image_1.jpg
+- mann Ross & Rachel 2023: Ross gold/silver/two-tone, dial branco/prata/preto; Rachel prata/dourado img .../2023/06/rossndrach.jpg
+- mann Charles & Lloyd fall 2023 (2 URLs mesma matéria): Charles couro Black, Saddle Brown/Blue; Charles aço Gunmetal mesh, Silvertone/Blue; Lloyd couro Silver/Black; Lloyd aço Silver/White img .../2023/09/1_Armitron.jpg
+- wristwatchreview Loves Johnny: Atlantis 40mm Chocolate $115; Aura (verde) $95; Flashback 33mm two-tone split / iridescent clear $75; Lunar (ponteiros neon) $95; Trilogy 45mm $130
+- wristwatchreview Trilogy: AC/1011LVTI preto/lavanda 45mm; também chocolate (=AC-1011BNBN?) e verde/dourado
+- mann Style 360 (Loves Johnny ago/2023): Red Love, Pink Bloom, Grey Peace 36mm $125; Rainbow Happy 36mm $80 img .../2023/08/Armitron_Happy_watch-990x1485.jpg
+- wristwatchreview Tank: 20/4604DBSVBK couro, 20/4507DBSV pulseira; 33mm azul degradê Swarovski
+- themanual armitron review: vazio (0)
+- collections/eugen: Eugen 42 Gold, Brown Leather, Black Leather (edição limitada, homenagem ao fundador)
+- títulos: 1994 Looney Tunes (ebay.de/itm/201378685637); 1994 Tweety Bird (plusmodels); 1995 Marvin Martian gold bangle (keepitclassiclv); 1995 Tasmanian Devil gold bangle (keepitclassiclv); Taz Warner Bros LE (ebay.de/itm/136672371147); 1995 Batman Forever LE couro preto (ebay.com/itm/256589698766)
+- keepitclassiclv Marvin Martian 1995 gold bangle img https://keepitclassiclv.com/cdn/shop/files/1995-marvin-martian-armitron-gold-bangle-watch-4676381.jpg?v=1769700370&width=1200
+- keepitclassiclv Tazmanian Devil 1995 gold bangle img https://keepitclassiclv.com/cdn/shop/files/1995-tazmanian-devil-armitron-gold-bangle-watch-5701365.jpg?width=1200
+- ebay.com/itm/256589698766: Batman Forever LE 1995 ref 0617 (sem img → link)
+- ebay.de/itm/136672371147 CLIENT_ERROR (Taz LE)
+- ebay.de/itm/201378685637: Looney Tunes 1994 fundo branco img https://i.ebayimg.com/images/g/BBsAAOxyPH9Ruozf/s-l1600.jpg (personagem não dito)
+- ebay.com/itm/156911279335: Snoopy 900/52 couro (dial © 1958; título diz 1958) img https://i.ebayimg.com/images/g/0hwAAOSwM5NiySID/s-l1600.jpg
+- ebay.com/itm/266408827422: Looney Tunes Characters 1990 2200/37 (Bugs, Daffy, Road Runner, Sylvester, Taz, Tweety, Porky) img https://i.ebayimg.com/images/g/~pkAAOSwmdFkXntR/s-l1600.jpg
+- plusmodels Whole Gang 1992 (sem img)
+- napoleonexhibit lote: Whole Gang 2200/37F (1994); Bugs/Daffy/Sylvester 3-D (1990); Marvin Mel Blanc Voice (1999); Marvin 1996; Marvin silver helmet 1997; Marvin Jelly Band estrelas; Taz pocket watch; relógios musicais (sem img)
+- ebay.de/itm/146530804579, ebay.com/itm/257064479233: CLIENT_ERROR
+- plusmodels Tweety 1989 2200/534 (sem img)
+- título: Musical Marvin the Martian (napoleonexhibit 266702120047)
+- collections/all (224; 48): DreamBig 30.5 Red/Airplane, White/Unicorn; Reaction 52 Black & Blue, Yellow; Miles 42 Burgundy/Silver, Silver, Black/Silver, Gold/Silver (Burgundy/Brown); Andi Large 36 Brown/Gold; Andi Bracelet 28 Rose Gold; Heart Bangle Gold/Red; Dragonfly Sport 27 Blue Denim Print; Griffy Iridescent/Blue, Black/White
+- thesource ago/2024: Grant, Ross, Miles, Blueprint, Jack (honeycomb, capas silicone preto/transp/cinza/vermelho); imgs https://thesource.com/wp-content/uploads/2024/08/75-5951CHGPST.jpg e .../20-5604BKTIST.jpg
+- kohls ceramic half-bangle 28mm (sem ref/img)
+- christianpost deal: Men's day/date blue sunray (ASIN B0BXTXNM9M, sem ref) — genérico
+- wristwatchreview skeleton part1 (0); wave (0; 4 cores); wave ocean plastic: Black, Navy, Orange, Teal, White (0 refs)
+- wristwatchreview minnie crystal set: 75/5921RGTRST rose gold 26mm
+- reviewed.com: Reaction img https://images.reviewed.com/fit-in/220x220/.../armitron_mpc1.png ; Lloyd mpc2; Griffy mpc3 (0 novos)
+- collections/skeleton (3): Navy/Silver, Tan/Silver, Gold/Black
+- search titles: Minnie 24mm Silver URL armitron.com/products/minnie-24mm-silver; Minnie Gold/Black /products/minnie-24mm-gold-black; Tilly Bracelet Set two-tone /products/tilly-bracelet-set-20mm-two-tone; Grant & Tilly set /products/grant-tilly; Ridgemont & Tetra set /products/ridgemont-tetra; Ridgemont red /collections/men/products/ridgemont-42mm-red; Blueprint Black/Metal /products/blueprint-42mm-black-metal; Navy/Silver /collections/charles/products/blueprint-42mm-navy-silver; Green/Brown /products/blueprint-42mm-green-brown; Wave orange /products/wave-40mm-orange; Peanuts Lineup /products/armitron-x-peanuts-the-lineup-36mm-peanuts-black-gold; Griffy Silver/Red /products/the-griffy
+- títulos: Women's Bracelet 75/5831 (walmart ip 5051347412); Skeleton auto women 20/4406SV TY2807SV (ebay.com/itm/156660572606)
+- títulos ebay: 75/5730BLSVWM (ebay.de/itm/127533010427); 75/5841MPRGWM (ebay.de/itm/146651287089); 75/5840WTSV (ebay.de/itm/146817895486); NOW 75/3689GP 28mm (ebay.de/itm/365982825426); 75/5840WTGP (ebay.de/itm/146587168349); 75/5412WTRGST set (ebay.de/itm/203284970310); 75/5733GP vintage strass (ebay.de/itm/297004354419); 20/4786RG (ebay.de/itm/186733661397); 20/5372 analog-digital chrono (slickdeals 16690619)
+- wristwatchreview adventure: AD/1011YLW 54mm altímetro/barômetro amarelo (versão preta sem ref)
+- wristwatchreview adventure solar: AD/1000BKTI 46mm solar preto IP
+- kohls prd-700197: 45/7004RED Instalite (já) img https://media.kohlsimg.com/is/image/kohls/700197?wid=1000&hei=1000
+- ebay.de/itm/205825120567: All-Sport Instalite 40/6595 44mm anos 90 img https://i.ebayimg.com/images/g/XMMAAeSwHZZpCXVZ/s-l1600.jpg
+- ebay.de/itm/336016682295: 20/3274T alarm chrono digital anos 90 img https://i.ebayimg.com/images/g/zXEAAeSwKQNoTyvh/s-l1600.jpg
+- desertcart.co/45790854: women digital chrono navy (sem ref) — genérico
+- computerhistory 102677956: relógio de BOLSO Armitron (sem data) img https://s3.us-west-1.wasabisys.com/chm-cms-media/media-live/w800/import/102677956.01.01.lg.JPG (não é de pulso — fora)
+- ebay.com/itm/198009879377 CLIENT_ERROR
+- chinesewatchwiki: linha mecânica esqueleto Sea-Gull ST16 (0)
+- wikipedia E. Gluck: fundada 1956; LED até 1977; automáticos desde 2007; Torgoen; fabrica Anne Klein, Nine West etc.; Chapter 11 dez/2025
+- chrono24/everywatch/watchbase: busca sem resultados para Armitron
+- trysignalbase: E. Gluck adquirida por American Exchange Group (notícia 20/02/2026)
+- ebay.de 226869697779, 156992309920, 157354455587 (título: Pro All-Sport T205 chrono anos 80 aço), 306176882456: CLIENT_ERROR
+- theslenderwrist: Reef 36 solar coral/preto; Chrono Pro Olive 51mm; Quantum; Blueprint
+- collections/conscious (9): Reef 36 White/Black
+- collections/reef (3): Reef Gray/Ivory, Coral/Black, White/Black
+- swomagazine #tide 2024: Reef coral/preto, marfim/cinza, preto/branco; Wave preto/laranja, navy/branco, preto/verde; WCS; imgs https://www.swomagazine.com/wp-content/uploads/2024/05/Armitron_image_2.jpg , Armitron__image_1.jpg
+- digital-retro-sports/orange (53 total): Apex 50 Orange; Chrono Pro 51 Olive
+- watches/gray (8): Apex Gray; Peace Gray; Camden Denim/Silver/Rose Gold; Charlotte Light Gray/Gold; Tactical Chrono 53 Gray Camo; Chrono Pro Blue/Gray
+- títulos: Pro-Sport 41mm black green (ebay.com/itm/156962257476); Pro Sport blue vinyl (ebay.de/itm/204527344488)
+- garage.com.ph 2019 (Armitron Filipinas): The James (James Reid) IP dourado — preto/couro marrom e branco/couro preto; Blake all-black; Henry azul texturizado mesh gunmetal; Harry dress; img header https://garage.com.ph/wp-content/uploads/2019/09/f1-2.jpg
+- jckonline 2020: Armitron x Chromat 9 relógios digitais emborrachados $30 (NYFW fev/2020) img https://www.jckonline.com/wp-content/uploads/2020/02/Chromat-Armitron-watch.jpg
+- collections/automatic: 14 (sem lista)
+- retro-collection/red CLIENT_ERROR
+- ebay.com/itm/285035334384: Griffy 40/8475BGGP (sem img)
+- ebay.com/p/9054377043: Pro Sport 55mm dual time (1100S não é ref) — genérico
+=== FIM PASSADA 1 (últimas 3: automatic 0, retro-red 0, ebay p 0) ===
+## Passada 2 (marca vermelha: milhares de SKUs de massa, linhas licenciadas, vintage)
+- P2 search chromat: nada novo (busca)
+- P2 digital-retro-sports/green (5): Tactical Chrono 53 Green Camo; Horizon Green; Raven Black/Green; Tom Green; Jerry 36 Green
+- P2 spring-sale/green (8): Charlotte Light Green/Gold; Atlas Silver/Green; Lunar Green; Atlantis Seafoam Green/Gold; Trilogy Seafoam Green/Gold; Aura Seafoam Green/Gold
+- P2 trend-alert-iridescence/digital (4): Dragonfly 25 White/Iridescent; Flashback 33 Iridescent/Black
+- P2 mega-asia James Reid (0) ; philstar (0, preço P2780-5980)
+- P2 ubuy.com.ph IR2MBG0PC: CLIENT_ERROR
+- P2 search digital-retro-sports (busca)
+- P2 digital-retro-sports/silver: Griffy Silver/Green, Silver/Blue, Silver/Red; Tetra Silver/Red; Matrix 44 Silver Mesh
+- P2 october-sale-event/blue (10): Reaction 52.5 Navy; Flashback Blue; Jerry 36 Blue; Tom Light Blue, Blue
+- P2 retro-collection/retro+chronograph: Rogue Blue/Black/Iridescent (0 novos)
+- P2 womens-analog-digital/blue: Dual 52 Blue/Black
+- P2 pages/peanuts-x-armitron: vazio (0)
+- P2 closo lot 1900108208: 20/1791P (two-tone diamante), 20/4227SV (chrono azul bezel), 20/4451SV (retangular esqueleto) — foto do lote conjunto → link
+- P2 kohls prd-3392246: 75/5623MPSV crystal solar MOP 28mm (sem img → link)
+- P2 888lots: 75/2475 img https://m.media-amazon.com/images/I/71E8H+95SjL._UL_400_SS400_.jpg (já tenho 75/2475 → 0)
+- P2 ubuy.hk 755304: 75/5304BKSV 26mm (sem img → link)
+- P2 slickdeals 16690619: 20/5372 analog-digital chrono preto/amarelo img https://static.slickdealscdn.com/attachment/3/1/8/0/5/6/6/8/450x450/13664951.thumb
+- P2 ebay.de/itm/376678549611: 20/5453NVSVCT (placeholder → link) [nota: título busca dizia 20/5453SV]
+- P2 ebay.de/itm/225525492722: 20/5482GNSV img https://i.ebayimg.com/images/g/dt4AAOSwl1ZkGfoq/s-l1600.jpg
+- títulos: 75/5597BKGPBK (manuals.plus B07F6FSW8R)
+=== FIM PASSADA 2 (trouxe >5 → passada 3) ===
+## Passada 3
+- P3 ebay.com/itm/397775050007: 75/2475 img https://i.ebayimg.com/images/g/eZoAAeSwf1VpyLav/s-l1600.jpg (0 novo)
+- P3 ebay.ca/itm/198528445455: 75/2475GP dourado day/date img https://i.ebayimg.com/images/g/4fwAAeSwBrFpXdqu/s-l1600.jpg
+- P3 ebay.com/p/27062550382: 75/5412RG X-link crystal bezel (placeholder → link)
+- P3 slickdeals 17201563: 20/5372BYLTB amarelo img https://slickdeals.net/attachment/3/5/9/9/2/0/450x450/14803777.thumb ; 20/5372BLKTB preto img .../14803831.thumb (20/5372 vira BYLTB)
+- P3 newegg 00I-003N-003P9: 20/5062BLK analog-digital (sem img → link)
+- P3 ebay.de/itm/146643934921: 20/5445TBKCT (placeholder → link)
+- P3 ebay.com/itm/156968958866: 20/1576 vintage dourado mostrador preto (sem img → link)
+- P3 ebay.de/itm/205275416291: 20/5477 amarelo (=20/5477BYLTB newegg) 0
+- P3 slickdeals 18657976: 20/5270RED 53mm img https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/450x450/18406900.thumb
+- P3 newegg brandstore: 75/5410RSRGBH diamante couro bege rose (link newegg.com/p/0MY-01Y9-00029); demais já vistos
+- P3 slickdeals 19250575: 20/5270REDTB img https://slickdeals.net/attachment/2/3/8/5/4/6/4/0/450x450/19689163.thumb (= 20/5270RED)
+- P3 slickdeals 18934366: 75/2475 (0)
+- P3 carrefouruae: 75/2447 rosa blush couro diamante 24mm img https://cdn.mafrservices.com/pim-content/UAE/media/product/3233002352297/1783596912/3233002352297_main.jpeg
+=== FIM PASSADA 3 (13 fontes; ~12 relógios novos; parada: marca de massa sem fim — vermelha) ===
+## Auto-auditoria 10b
+1 blog: só 1 artigo acessível via busca (what-age...), outro (what-is-a-skeleton) não aberto; sem área de imprensa no site. 2 site:/products feito para griffy, ridgemont, 1975, tilly, minnie, lloyd, skeleton, wave, vintage, peanuts, blueprint, tetra, constance. 3 lojas Shopify revendedoras: não achadas (massa: Walmart/Amazon/Kohl's). 4 primeiro modelo: LED 5 funções 1975 (sem nome/ref achado); Griffy é a reedição. 5 J: Griffy ok, Adventure ok (AD/1011YLW, AD/1000BKTI), All-Sport ok (40/6595 Instalite), Dress Quartz = genérico. 6 LE: 1975 LE, Eugen LE (sem nº de peças), Batman Forever LE. 7 fontes ~150.
