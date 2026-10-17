@@ -1,11 +1,11 @@
 ---
 name: "relogioteca-pesquisa-exaustiva"
-description: "Roteiro completo para pesquisar e gravar todos os modelos (nome, código, foto, características) de uma marca de relógios na planilha Relogioteca (abas Marcas e Relógios). Use em toda nova marca (uma ou duas por execução), inclusive em execuções agendadas sem supervisão."
+description: "Roteiro completo para pesquisar e gravar todos os modelos (nome, código, foto, características) de uma marca de relógios na planilha Relogioteca (abas Marcas e Relógios). Use em toda nova marca (até três pequenas por execução; marca grande sozinha), inclusive em execuções agendadas sem supervisão."
 ---
 
 # Pesquisa exaustiva de marca – Relogioteca
 
-Objetivo: na PRIMEIRA rodada, listar todos os modelos e versões (atuais e descontinuados, inclusive antigos/vintage) de cada marca (uma ou duas por execução, ver §0b), com código de referência e foto, sem que o usuário precise pedir "procure mais". O que mais importa: nome, código e link da imagem. Esta skill tem de bastar sozinha: ela é usada em conversas novas, sem acesso ao histórico.
+Objetivo: na PRIMEIRA rodada, listar todos os modelos e versões (atuais e descontinuados, inclusive antigos/vintage) de cada marca (até três por execução, ver §0b), com código de referência e foto, sem que o usuário precise pedir "procure mais". O que mais importa: nome, código e link da imagem. Esta skill tem de bastar sozinha: ela é usada em conversas novas, sem acesso ao histórico.
 
 **Lição da Arcanaut (out/2026):** a 1ª passada achou 53 relógios; a 2ª, pedida pelo usuário, achou mais 33. Causas: (1) confiar no sitemap/products.json do site, que só mostra produtos publicados — a marca despublica as peças vendidas, mas as páginas continuam no ar e indexadas; (2) não ler todos os artigos do blog nem a área de imprensa; (3) abrir poucas lojas e não fazer busca `site:` dentro de cada loja; (4) não procurar o primeiro modelo da marca (ARC-I de 2018). As seções 2c, 10b e 11 existem para isso não se repetir.
 
@@ -23,12 +23,12 @@ Objetivo: na PRIMEIRA rodada, listar todos os modelos e versões (atuais e desco
 - Anomalias conhecidas (só relatar, não corrigir sem pedido): blocos antigos e duplicados de Akrone, Akura, Alain Silberstein, Albert Riele, Albishorn e Alcadus nas linhas ~1191–1201; Angular Momentum dividido em dois blocos (≈4208 e ≈4802).
 
 ## 0b. Qual marca fazer (execução agendada)
-- No máximo DUAS marcas por execução, sempre na ordem da aba Marcas. Antes de pesquisar, dimensionar rapidamente a próxima marca e a seguinte (ver §1):
+- No máximo TRÊS marcas por execução, sempre na ordem da aba Marcas. Antes de pesquisar, dimensionar rapidamente a próxima marca e as duas seguintes (ver §1):
   - próxima é grande → fazer só ela;
-  - próxima e seguinte não são grandes → fazer as duas;
-  - próxima não é grande, mas a seguinte é → fazer só a próxima (a grande fica sozinha na execução seguinte).
-- Fazer duas marcas NUNCA reduz a profundidade de cada uma: cada marca passa por todas as seções e pelo mínimo de fontes do §11, como se estivesse sozinha.
-- Se uma marca que parecia pequena se revelar grande no meio da pesquisa, terminar só ela com a profundidade completa e deixar a outra para a execução seguinte (atualizar `estado.json`).
+  - senão, pegar as próximas marcas não grandes em sequência, até completar três, parando antes da primeira grande (a grande fica sozinha na execução seguinte). Ex.: pequena, pequena, pequena → as três; pequena, pequena, grande → só as duas pequenas; pequena, grande → só a pequena.
+- Pular as marcas listadas em `marcas_ja_feitas_fora_da_ordem` no `estado.json` (já têm linhas em Relógios).
+- Fazer várias marcas NUNCA reduz a profundidade de cada uma: cada marca passa por todas as seções e pelo mínimo de fontes do §11, como se estivesse sozinha.
+- Se uma marca que parecia pequena se revelar grande no meio da pesquisa, terminar as já concluídas e ela, com a profundidade completa, e deixar as outras para a execução seguinte (atualizar `estado.json`).
 - Se existir um arquivo `estado.json` junto da planilha, usar `proxima_linha_marcas`. Senão: a próxima marca é a primeira linha de Marcas, depois da última marca da sequência já gravada (a última marca no fim da aba Relógios), que ainda não tem nenhuma linha em Relógios.
 - Ao terminar, atualizar `estado.json` (`proxima_linha_marcas`, `ultima_versao`, e um registro da marca feita: data, linhas, nº de relógios, vermelho sim/não, site bloqueado sim/não, nº de fontes abertas).
 - Execução sem ninguém olhando: não fazer perguntas. Tomar a decisão mais razoável, registrar no relatório e seguir. Só parar (sem gravar) se a planilha não for encontrada ou se a verificação final falhar.
@@ -161,7 +161,7 @@ Responder por escrito nas notas, e corrigir o que faltar antes de gravar:
 1. Escrever os relógios em `dados_<marca>.txt`, uma linha por relógio: `Nome|CÓDIGO|URL_imagem|Características` (código vazio quando não houver; nada de "(sem referência publicada)" no nome — o script acrescenta; não usar o caractere "|" dentro dos campos).
 2. Escrever `marca_<marca>.json`: `{"marca": "<igual à coluna A de Marcas>", "usa_codigos": true|false, "logo": "<url ou vazio>", "site_bloqueado": "<texto ou vazio>", "vermelho": true|false, "grande": true|false, "complemento": false, "fontes": [{"url": "<endereço aberto>", "passada": 1, "novos": <nº de relógios novos que ela trouxe>}, …]}`. Toda fonte realmente aberta entra na lista (inclusive as que não trouxeram nada, com `novos: 0`). `complemento: true` só para acrescentar linhas a uma marca já gravada, a pedido do usuário (o script confere que a marca já existe).
 3. Salvar o script abaixo como `gravar_marca.py` (substituindo uma versão antiga que não tenha a trava) e rodar: `python3 gravar_marca.py Relogios_atualizada_NN.xlsx Relogios_atualizada_NN+1.xlsx dados_<marca>.txt marca_<marca>.json`.
-4. Com duas marcas: rodar o script duas vezes em sequência (a saída da 1ª é a entrada da 2ª, num arquivo temporário) e entregar só a versão final NN+1.
+4. Com duas ou três marcas: rodar o script uma vez por marca, em sequência (a saída de uma é a entrada da seguinte, em arquivos temporários) e entregar só a versão final NN+1.
 5. Marca que já tem linhas (2ª passada): o `dados` leva só os relógios novos; o script recusa nomes repetidos e acrescenta os novos no fim do bloco da marca.
 6. Se o script parar com `!! TRAVA`, nada foi gravado: voltar à pesquisa, fazer o que falta e rodar de novo. Nunca baixar o mínimo nem marcar `complemento` para escapar da trava.
 7. Só entregar se a última linha disser `RESULTADO: OK`. Se a marca já tiver linhas, o script reescreve do início do bloco dela até o fim para manter tudo contíguo; se aparecer falha de contiguidade por causa de anomalias antigas abaixo do bloco, não forçar: relatar.
