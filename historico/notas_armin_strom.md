@@ -238,3 +238,35 @@ Gravity AWC 1st Edition|-|aço 43.4 esqueleto azul|https://watchbox-cdn.imgix.ne
 - TESTE paginação: busca trouxe ablogtowatch page/2 e /4; monochrome page/N não vem.
 == FIM DA 1ª PASSADA (3 fontes seguidas sem novidade: 1916 limited, manual, pure-resonance) ==
 Motivos para VERMELHO: configurador (Manual 2017, Tribute, GEF com códigos longos), mostradores guilloché sob encomenda (MFR guilloché preto/antracite/vermelho/bicolor), muitas peças únicas e edições de loja, 492 anúncios EveryWatch, peças antigas de Burgdorf (20 modelos anos 80 sem nome).
+== 2ª PASSADA ==
+- crownwatchblog GEF SHH (2): GEF SHH Limited Edition 8 pç ASB19 platina salmão guilloché Voutilainen 2022 img https://www.crownwatchblog.com/images/news/armin_gravity_shh/Armin%20Strom%20Gravity%20Equal%20Force%20SHH%20Edition%20-%20main%20photo.jpeg
+- thestar.com.my SHH: Tribute 1 SHH Edition (aço 38, coroa às 2h, 2024) img https://apicms.thestar.com.my/uploads/images/2024/01/13/2488363.jpg (1)
+- WCL One Week configurado peça única azul (caixa titânio Air, ARM09-S, 2017) img http://static1.squarespace.com/static/512f9596e4b0ed945e3306aa/51fd4157e4b098462d579e0b/598a0e7fdb29d6084cd64e64/1502286798278/P5153195.jpg?format=1500w (1)
+- monochrome configurado peça única: caixa Edge 46.8 + movimento Skeleton Pure, 2017 img https://monochrome-watches.com/wp-content/uploads/2017/07/Armin-Strom-Watch-Configurator-Unique-Piece-4.jpg (1). Configurador: Edge, Gravity, Gravity Date, Manual, Skeleton Pure, Tourbillon -> combinações infinitas (motivo do vermelho)
+- watchonista configurator competition (0; só simulações)
+- exquisite P.03 (0)
+- quillandpad 2020 GEF Oster Edition (1): 10 pç aço 41 cinza-escuro 2020 img https://quillandpad.com/wp-content/uploads/2020/04/Armin-Strom-Gravity-Equal-Force_Oster-edition.jpg
+- osterjewelers produto (0, vazio)
+- ablogtowatch edge watch (0): Edge DB ST16-EB.90 = 100 pç; arte de Herbert "Tarkin" Kracke (impressão, não relógio) img https://www.ablogtowatch.com/wp-content/uploads/2016/04/Armin-Strom-Edge-Watch-19.jpg
+- deployant ?p=69210 (0): GEF SHH 8 pç aço 41 "ONE OF EIGHT", SHH Marina Bay Sands Singapura 2022 img https://deployant.com/wp-content/uploads/2022/11/Armin-Strom-Gravity-Equal-Force-SHH-Edition-01.jpg
+- WCL edge RG (0): Edge DB RG 100 pç
+- watchonista gravity collection pdf (0)
+2ª passada até aqui: 12 fontes, 5 novos
+- luxurybazaar GEF US-2025 = ST24-GEF.BLU aço (0) -> EveryWatch "titânio" errado
+- portfoliomagsg SHH (0): Tribute 1 SHH Edition = 12 pç ("One of Twelve"), aço 38, mostrador salmão tremblage, img https://www.portfoliomagsg.com/media/uploads/ARMIN%20STROM%20TRIBUTE%201%20SHH%20EDITION_03_HR.jpg
+- watchtime NY 2021 (0): Tribute 1 25 pç = First Edition
+- TLE california green (0) img https://thelimitededition.co.uk/wp-content/uploads/2021/11/ARMIN-STROM-TRIBUTE-1-CALIFORNIA-GREEN-600x600.jpg
+- watchonista fumé dubai (0)
+- macaudailytimes (0): Tribute 1 FE 25 pç, ponte do tambor em ouro branco; preto e azul 100 cada
+== 2ª passada encerrada: 18 fontes, 5 novos -> 3ª passada obrigatória ==
+== 3ª PASSADA ==
+- luxurybazaar MFR Teal titânio (1): "1 of 50", titânio 43, mostrador azul-petróleo esqueleto, img https://www.luxurybazaar.com/cdn/uploads/2026/07/ARMIN_STROM_322277_1.webp (identificar edição)
+- gressive.jp/catalog/armin-strom (2): GEF Chrono Peace Limited Edition (2020, Japão); Lady Beat Chrono Peace Limited Edition (2020)
+- antiquorum lot-269-123 (1): Esqueleto ouro amarelo e diamantes Nº 076 (anos 1980), 25x34, 20 brilhantes nas alças, img https://images-catalog.antiquorum.swiss/images/269/lots/123/123.jpg
+- exquisite pre-owned racing (0; img alt racing chrono https://www.exquisitetimepieces.com/cdn/shop/files/1030895267.jpg?v=1784956579&width=1200)
+- fratello latest (0); europastar 1004086555 (0; img OW2013 alt)
+- gressive tokimegu 2020/04 (0): GEF Chrono Peace LE 5 pç aço 41 ASB19 img https://www.gressive.jp/sites/default/files/tokimeguModelImage/armin-strom_2020_04.jpg
+- gressive tokimegu 2020/05 (0): Lady Beat Chrono Peace LE 5 pç aço 38 ALA20 azul img https://www.gressive.jp/sites/default/files/tokimeguModelImage/armin-strom_2020_05.jpg
+- everywatch watch/12400891 (0) MFR Water 50 pç img alt
+- atimelyperspective remembered (1): relógio feminino esqueletizado 1990 recorde Guinness img https://www.atimelyperspective.com/wp-content/uploads/Armin-Strom-2.jpg
+- gressive hotitem R0218 (0) GEF ST19-GEF.90 ; R0207 (0) ST19-GEF.05

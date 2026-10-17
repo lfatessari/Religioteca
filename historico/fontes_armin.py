@@ -159,7 +159,7 @@ P1 += [
  ('https://www.exquisitetimepieces.com/armin-strom-racing-gravity-st14-gr-90.html', 0),
  ('https://www.watchonista.com/?p=29530', 0),
  ('https://www.watchonista.com/?p=29529', 0),
- ('https://www.timeandwatches.com/2024/12/legends-of-time-armin-strom-unique.html', 1),
+ ('https://www.timeandwatches.com/2024/12/legends-of-time-armin-strom-unique.html', 0),
  ('https://watchcollectinglifestyle.com/home/from-the-editor-presenting-the-armin-strom-gravity-date-watch-collecting-lifestyle-edition-unique-piece-a-milestone-in-my-watch-life', 1),
  ('https://www.watchcollectinglifestyle.com/home/tag/Armin+Strom+Zeitgeist+Unique+Piece', 0),
  ('https://phillips.com/detail/armin-strom/CH080415/43', 0),
@@ -180,5 +180,59 @@ P1 += [
  ('https://www.the1916company.com/pre-owned/armin-strom/manual/5042764', 0),
  ('https://www.the1916company.com/pre-owned/armin-strom/pure-resonance/5008414', 0),
 ]
+
+P2 = [
+ ('https://www.crownwatchblog.com/armin-strom-articles/introducing-armin-strom-gravity-equal-force-shh-limited-edition', 1),
+ ('https://thestar.com.my/lifestyle/style/2024/01/13/shh-special-editions', 1),
+ ('https://watchcollectinglifestyle.com/home/armin-strom-one-week-blue-configured-unique-piece-from-the-armin-strom-configurator', 1),
+ ('https://monochrome-watches.com/unique-configured-watch-armin-strom-review/', 1),
+ ('https://www.watchonista.com/articles/depth/armin-strom-pioneers-art-customisation-competition-alert', 0),
+ ('https://www.exquisitetimepieces.com/armin-strom-gravity-equal-force-p03-for-collective.html', 0),
+ ('https://quillandpad.com/2020/04/28/armin-storm-gravity-equal-force-oster-edition-horological-joy-in-collaboration/', 1),
+ ('https://osterjewelers.com/products/armin-strom-gravity-equal-force-18krg-limited-oster-edition-le10', 0),
+ ('https://www.ablogtowatch.com/armin-strom-edge-watch/', 0),
+ ('https://deployant.com/?p=69210', 0),
+ ('https://watchcollectinglifestyle.com/home/news-presenting-the-new-armin-strom-edge-double-barrel-in-18k-rose-gold-a-limited-edition-of-100-pieces', 0),
+ ('https://www.watchonista.com/sites/default/files/watchographer/182/watches/227878/files/armin_strom_gravity_collection_en.pdf', 0),
+ ('https://www.luxurybazaar.com/product/armin-strom-gravity-equal-force-blue-dial-titanium-watch-gef-us-2025/', 0),
+ ('https://portfoliomagsg.com/article/four-special-edition-watches-celebrate-the-opening-of-shhs-new-global-flagship.html', 0),
+ ('https://www.watchtime.com/wristwatch-industry-news/watches/showing-at-watchtime-new-york-2021-armin-strom-tribute-1-limited-edition/', 0),
+ ('https://www.thelimitededition.co.uk/product/armin-strom-tribute-1-california-green/', 0),
+ ('https://www.watchonista.com/editorial/novelties/dubai-watch-week-armin-strom-introduces-four-colorful-fume-dials/', 0),
+ ('https://macaudailytimes.com.mo/?p=145821', 0),
+]
+P3 = [
+ ('https://www.luxurybazaar.com/product/armin-strom-mirrored-force-resonance-teal-dial-titanium-watch/', 1),
+ ('https://www.gressive.jp/catalog/armin-strom', 2),
+ ('https://catalog.antiquorum.swiss/en/lots/lot-269-123', 1),
+ ('https://www.exquisitetimepieces.com/pre-owned-armin-strom-racing-marussia-virgin-f1.html', 0),
+ ('https://www.fratellowatches.com/a-closer-look-at-the-latest-releases-from-armin-strom/', 0),
+ ('https://www.europastar.com/1004086555.html', 0),
+ ('https://www.gressive.jp/tokimegu/2020/brand/armin-strom/04.html', 0),
+ ('https://www.gressive.jp/tokimegu/2020/brand/armin-strom/05.html', 0),
+ ('https://everywatch.com/watch/12400891', 0),
+ ('https://www.atimelyperspective.com/armin-strom-master-skeletonizer-remembered', 1),
+ ('https://www.gressive.jp/shop/R0218/hotitem/294903', 0),
+ ('https://www.gressive.jp/shop/R0207/hotitem/288694', 0),
+ ('https://www.gallerease.com/en/artists/armin-strom__82766406a79a', 1),
+ ('https://europastar.com/1004113221.html', 0),
+ ('https://en.worldtempus.com/article/industry-news/people-and-interviews/armin-strom-from-the-man-to-the-brand-26281.html', 0),
+ ('https://gallerease.com/en/artworks/armin-strom-lady-beat-rose-gold-mother-of-pearl__8f22c862e321', 0),
+ ('https://wristler.eu/watches/21405-armin-strom-lady-beat', 0),
+ ('https://www.thetimeplace.co.id/en/?p=11581', 0),
+ ('https://www.watchonista.com/?p=31458', 0),
+ ('https://www.thewatchpages.com/watches/armin-strom-mirrored-force-resonance-first-edition-st22-rf75', 0),
+ ('https://wiki.grail-watch.com/index.php/Strom', 0),
+ ('https://en.worldtempus.com/article/industry-news/brands/armin-strom-new-logo-13412.html', 0),
+]
+
 if __name__ == '__main__':
-    print(len(P1), 'fontes P1; soma novos =', sum(n for _, n in P1), '| únicas:', len({u for u, _ in P1}))
+    for nome, L in (('P1', P1), ('P2', P2), ('P3', P3)):
+        print(nome, len(L), 'fontes, novos', sum(n for _, n in L))
+    todos = P1 + P2 + P3
+    print('total novos', sum(n for _, n in todos), '| únicas', len({u.lower().rstrip('/') for u, _ in todos}), 'de', len(todos))
+    u1 = {u.lower().rstrip('/') for u, _ in P1}
+    print('P2 fora da P1:', len({u.lower().rstrip('/') for u, _ in P2} - u1), '| P3 fora de P1/P2:', len({u.lower().rstrip('/') for u, _ in P3} - u1 - {x.lower().rstrip('/') for x, _ in P2}))
+    fontes = [{'url': u, 'passada': 1, 'novos': n} for u, n in P1] + [{'url': u, 'passada': 2, 'novos': n} for u, n in P2] + [{'url': u, 'passada': 3, 'novos': n} for u, n in P3]
+    cfg = {'marca': 'Armin Strom', 'usa_codigos': True, 'logo': 'https://en.worldtempus.com/sites/default/files/media/wysiwyg/12_1023_AS_Logo_6.jpg', 'site_bloqueado': '', 'vermelho': True, 'grande': True, 'complemento': False, 'fontes': fontes}
+    json.dump(cfg, open('/home/claude/trabalho/marca_armin_strom.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
