@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 92,
- "ultima_versao": 94,
+ "proxima_linha_marcas": 94,
+ "ultima_versao": 95,
  "historico": [
   {
    "data": "2026-10-16",
@@ -197,6 +197,29 @@
    "vermelho": false,
    "site_bloqueado": false,
    "fontes": 0
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 95,
+   "marca": "Arken",
+   "linha_marcas": 92,
+   "linhas_relogios": "7095-7102",
+   "relogios": 8,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 29
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 95,
+   "marca": "Arlanch",
+   "linha_marcas": 93,
+   "linhas_relogios": "7103-7104",
+   "relogios": 2,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 16,
+   "obs": "marca sueca de Gabriel Arlanch (arlanch.se); homônimo chinês ARLANCH de quartzo barato não incluído; próxima Armand Nicolet (grande, sozinha)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -208,6 +231,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-17T10:40:50Z"
+ }
 }
