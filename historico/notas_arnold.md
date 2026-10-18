@@ -14,3 +14,5 @@
 - Masterhorologer archive (111 artigos 2008–2023) deu nomes de modelos antigos; entraram com link do artigo. Não incluídos por provável duplicata: Luna Magna Meteorite LE 2022/2023 (≈1LMAR.Z01A), Globetrotter Platinum/Gold LE (=1WTAX.U02C / 1WTAR.U02C), PM38 Moonlight (≈1GLMR.U01A), TES Blue (≈1SJAW.V01A), HMS Beagle Set (=HM Beagle).
 - CollectorSquare: 151 lotes; códigos antigos 12.2.3.0x (East India Co.).
 - Feldmar: arquivo com 77 itens Arnold & Son (categoria não aparece em busca).
+- Lombard Perspectiva (arquivo de vendidos, 100 itens) trouxe ~31 refs antigas (Longitude II Navigators, White Ensign, Hornet sets Trafalgar/Nelson, Grand Moon, True Moon, Dead Beat Tourbillon, Grand Tourbillon, etc.). Códigos antigos 12.2.3.0x (CollectorSquare) removidos: correspondem aos 3 East India Co. 1ARAP.M01A–M03A.
+- 1TPAR.S01A.C124A: EveryWatch chama de "Scout" (erro do site); é Time Pyramid.
