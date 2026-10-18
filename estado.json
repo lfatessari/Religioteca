@@ -618,5 +618,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-18T19:41:20Z",
+  "ultimo_sinal": "2026-10-18T19:41:20Z",
+  "em_andamento": {
+    "marcas": [
+      "Ateliers de Monaco"
+    ],
+    "linha_marcas": 124,
+    "grande": false,
+    "relogios": "historico/parcial_ademonaco_relogios.txt",
+    "fontes": "historico/parcial_ademonaco_fontes.txt",
+    "notas": "historico/notas_ademonaco.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
