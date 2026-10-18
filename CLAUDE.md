@@ -9,10 +9,27 @@ Este repositório guarda a planilha da Relogioteca e o estado do trabalho. Cada 
 - `historico/` — notas, dados e marca.json de cada marca já feita.
 - `docs/SKILL_relogioteca-pesquisa-exaustiva.md` — cópia de referência do roteiro. A versão que vale é a skill `relogioteca-pesquisa-exaustiva` da conta.
 
-## Trava contra execuções simultâneas
-- No início: `git pull`, ler `estado.json`. Se existir `"em_execucao"` com horário de menos de 3 horas atrás, outra execução está rodando: parar sem fazer nada (só uma linha no relatório). Se for mais antigo, considerar que a execução anterior morreu e seguir.
-- Antes de pesquisar: gravar `"em_execucao": "<data e hora ISO>"` no `estado.json`, commit "Início de bateria" e push.
-- No fim (com ou sem sucesso): remover `em_execucao` no mesmo commit do resultado.
+## Trava contra execuções simultâneas (com sinal de vida)
+Uma execução pode ser cortada a qualquer momento pelo limite de uso, sem chance de salvar nada no fim. Por isso o progresso é salvo DURANTE o trabalho, e a trava mostra se a execução ainda está viva.
+- No início: `git pull`, ler `estado.json`. O horário que vale é `"ultimo_sinal"` (ou, se não existir, `"em_execucao"`).
+  - Menos de **40 minutos** atrás: outra execução está viva. Parar sem fazer nada (só uma linha no relatório).
+  - Mais de 40 minutos: a anterior morreu (provavelmente pelo limite de uso). Seguir; se houver `em_andamento`, **retomar** (ver "Retomar").
+- Antes de pesquisar: gravar `"em_execucao"` e `"ultimo_sinal"` com a data e hora ISO (UTC) no `estado.json`, e já gravar `"em_andamento"` (ver abaixo) para a(s) marca(s) escolhida(s). Commit "Início de bateria" e push.
+- A cada salvamento parcial (abaixo), atualizar `"ultimo_sinal"` no mesmo commit.
+- No fim (com sucesso): remover `em_execucao`, `ultimo_sinal` e `em_andamento` no mesmo commit do resultado.
+
+## Salvamento parcial obrigatório (a cada 10–15 fontes)
+- Durante a pesquisa, manter em `/home/claude/trabalho/` dois arquivos por marca, sempre atualizados:
+  - `parcial_<marca>_relogios.txt` — uma linha por relógio já achado, no formato do `dados` (`Nome|CÓDIGO|URL_imagem|Características`);
+  - `parcial_<marca>_fontes.txt` — uma linha por fonte já aberta: `passada|url|novos`;
+  - e as notas `notas_<marca>.md` (seções já feitas, o que falta, buracos, decisões).
+- **A cada 10 a 15 fontes abertas** (e sempre ao terminar uma seção da skill): copiar esses arquivos para `historico/`, atualizar `ultimo_sinal` e o `em_andamento` no `estado.json`, commit "Parcial: <marca> (N fontes, M relógios)" e push. Não esperar o fim para salvar.
+- `em_andamento` fica assim: `{"marcas": ["<marca>"], "linha_marcas": N, "grande": true|false, "relogios": "historico/parcial_<marca>_relogios.txt", "fontes": "historico/parcial_<marca>_fontes.txt", "notas": "historico/notas_<marca>.md", "secoes_feitas": ["1","2","2c",...], "passada": 1}`.
+
+## Retomar
+- Se `estado.json` tiver `em_andamento` (e o sinal de vida tiver mais de 40 minutos): NÃO começar a marca do zero nem escolher outra. Copiar os arquivos parciais de `historico/` para `/home/claude/trabalho/`, ler as notas, e continuar das seções que faltam.
+- Não reabrir as fontes já listadas em `parcial_<marca>_fontes.txt` (elas já contam para o mínimo e para o critério de parada). Os relógios já anotados entram como estão; só acrescentar novos.
+- Se o usuário colar na conversa uma lista de modelos levantados por outra execução, tratá-la como progresso salvo: comparar com o que já há, buscar o que faltar e seguir.
 
 ## Abrir sites sem pedir permissão (ninguém está olhando)
 O WebFetch só abre sem pedir aprovação ao usuário endereços que já apareceram nesta conversa: resultados de WebSearch ou links devolvidos por uma página já aberta. Endereço digitado de memória (ex.: thewatchpages.com, everywatch.com/<marca>, o site da coluna G) trava a execução esperando um clique que ninguém vai dar.
@@ -27,10 +44,10 @@ O WebFetch só abre sem pedir aprovação ao usuário endereços que já aparece
 
 ## Roteiro de cada execução
 1. Carregar a skill `relogioteca-pesquisa-exaustiva` (ferramenta Skill) e seguir o SKILL.md inteiro, como se fosse a primeira vez.
-2. Ler `estado.json`. Se houver `em_andamento`, retomar essa bateria pelas notas em `historico/` em vez de começar outra.
+2. Ler `estado.json`. Se houver `em_andamento`, retomar essa bateria pelos arquivos parciais em `historico/` (ver "Retomar") em vez de começar outra.
 3. Trabalhar numa cópia: `mkdir -p /home/claude/trabalho && cp planilha/*.xlsx gravar_marca.py estado.json /home/claude/trabalho/`. Arquivos de cada marca (`notas_<marca>.md`, `dados_<marca>.txt`, `marca_<marca>.json`) também nessa pasta.
 4. Escolher as marcas pela ordem da aba Marcas a partir de `proxima_linha_marcas`, pulando as de `marcas_ja_feitas_fora_da_ordem`. **Até 3 marcas por execução, se forem pequenas; marca grande sempre sozinha.** Se a próxima for grande, só ela; senão, as próximas não grandes em sequência até completar 3, parando antes da primeira grande. Esta regra vale mesmo se a cópia da skill da conta ainda disser "duas". Com mais de uma marca, rodar o `gravar_marca.py` uma vez por marca, em sequência, e entregar só a versão final.
-5. Pesquisar e gravar conforme a skill. Só entregar se o script terminar com `RESULTADO: OK`.
+5. Pesquisar e gravar conforme a skill, fazendo o salvamento parcial a cada 10–15 fontes. Só entregar se o script terminar com `RESULTADO: OK`.
 6. Atualizar `estado.json` (próxima linha, versão, histórico).
 7. Salvar no repositório:
    - `git rm planilha/Relogios_atualizada_<antiga>.xlsx`, copiar a nova para `planilha/`;
@@ -40,7 +57,7 @@ O WebFetch só abre sem pedir aprovação ao usuário endereços que já aparece
 8. Relatório em português do Brasil, calmo e para leigo (o usuário lê no celular): o que entrou, linhas por passada (fontes e relógios novos), por que parou, dados errados na aba Marcas (só relatar), e a lista "Fontes:". Enviar o relatório com SendUserMessage e a planilha nova com SendUserFile.
 
 ## Se a execução for interrompida
-Se o WebFetch atingir o limite da sessão ou o contexto encher antes de gravar: salvar as notas da marca em `historico/`, gravar em `estado.json` um campo `"em_andamento": {"marcas": [...], "notas": "historico/notas_<marca>.md"}`, fazer commit e push, e avisar no relatório. A execução seguinte retoma dali.
+O corte pelo limite de uso é súbito: não dá para contar com um salvamento final. O que protege o trabalho é o salvamento parcial a cada 10–15 fontes (acima). Se a execução perceber que está perto do fim (WebFetch avisando limite, contexto cheio), fazer na hora um salvamento parcial extra e avisar no relatório. A execução seguinte retoma do último salvamento, perdendo no máximo as fontes abertas depois dele.
 
 ## Nunca
 - Nunca apagar o histórico do git nem forçar push (`--force`).

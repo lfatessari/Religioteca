@@ -11,3 +11,5 @@ P1 opticsplanet armourlite-brand | 0 (logo)
 ## Relógios
 AL103 Field azul; AL106 Field branco; ISO4001 Afterburner azul; ISO4002 Afterburner verde 47mm compósito Ronda 715Li 200m; ISO4003 Afterburner vermelho (ed. limitada); ISO350 mid-size 40mm; ISO3002 (?)
 - até aqui: righttime, opticsplanet, LIW, cirelli, gemday, sportique, greattiming, imprensa (ablog, all4shooters, wwr, outdoorhub, SI, G&A, timebum, ammoland, huntinglife), ebay
+## Lista colada pelo usuário (execução anterior, 112): faltam aqui AL1021 AL113 AL115 AL1201 AL1203 AL1204 AL123 AL133 AL1404 AL145 AL614 AL77 AL821 AL832 ISO1202 ISO1212 ISO502 ISO722; + ColorBurst Limited Leather Edition, Naval Amphibian, Naval Destroyer, Officer Field 2014 (12)
+## Seções feitas: 1, 2 (site JS → parcial bloqueado), 3 parcial, 5 (Chrono24/EveryWatch: nada), 7, 8, 9 parcial
