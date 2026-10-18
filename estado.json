@@ -584,7 +584,7 @@
     }
   },
   "em_execucao": "2026-10-18T18:41:55Z",
-  "ultimo_sinal": "2026-10-18T18:48:00Z",
+  "ultimo_sinal": "2026-10-18T18:51:39Z",
   "em_andamento": {
     "marcas": [
       "Atelier Millesime",
@@ -597,7 +597,8 @@
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
-      "Millesime: todas"
+      "Millesime: todas",
+      "Nossedh: quase todas (13 fontes)"
     ],
     "passada": 1
   }
