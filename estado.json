@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 126,
-  "ultima_versao": 117,
+  "proxima_linha_marcas": 127,
+  "ultima_versao": 118,
   "historico": [
     {
       "data": "2026-10-16",
@@ -657,6 +657,24 @@
         }
       },
       "obs": "93 relógios vieram direto de títulos de resultados de busca (site:watchard.com, site:justintime.in), sobretudo na 2ª passada (+55 no total). Site oficial atlanticwatches.ch não aparece em busca; kuck.pl (342 produtos) só a 1ª página. Próxima: Atowak (126)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 118,
+      "marca": "Atowak",
+      "linha_marcas": 126,
+      "linhas_relogios": "10669-10713",
+      "relogios": 45,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "grande": false,
+      "fontes": 92,
+      "passadas": {
+        "1": {
+          "fontes": 92
+        }
+      },
+      "obs": "Bateria só desta marca: a seguinte (Audemars Piguet, 127) é grande e fica sozinha na próxima execução. Windows Pro: só 4 de 7 cores achadas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -668,26 +686,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-18T21:41:47Z",
-  "ultimo_sinal": "2026-10-18T21:58:52Z",
-  "em_andamento": {
-    "marcas": [
-      "Atowak"
-    ],
-    "linha_marcas": 126,
-    "grande": false,
-    "relogios": "historico/parcial_atowak_relogios.txt",
-    "fontes": "historico/parcial_atowak_fontes.txt",
-    "notas": "historico/notas_atowak.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7"
-    ],
-    "passada": 1
   }
 }
