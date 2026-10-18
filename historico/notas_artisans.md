@@ -10,3 +10,4 @@ Decisão: usa_codigos=false (projetos por nome); ref do Rolex/Patek base vai na 
 - Hypebeast: Warm Burgundy 2024, Ventura 2024. Maxim: rubi (Absolute Ruby?). Coronet: GMT worldtimer.
 - BQ Watches: Tribute to 6240.
 - Novos nomes: Musher (5711 gelo), Val Viola (Sub 16610), BlackStone (5711), Superamerica, Caumasee (5167A), Poetry of Lights, Absolute Ruby, Montoya Rose, Rough Matt Diver, Neon II
+- Site oficial: extended search site:artisansdegeneve.com traz páginas /en/challenges/<x>. Novos: Autumn Leaves, The Story of 66g, Heart of Namibia, Infinity, Eternal Green.
