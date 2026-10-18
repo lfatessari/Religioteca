@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 107,
- "ultima_versao": 103,
+ "proxima_linha_marcas": 108,
+ "ultima_versao": 104,
  "historico": [
   {
    "data": "2026-10-16",
@@ -387,6 +387,19 @@
    "fontes": 51,
    "passadas": "P1 33/33, P2 10/10, P3 8/0",
    "obs": "AOS Watches, Cressier (NE), Roland Stampfli, 2009/2010; site aos-watches.com (G vazio); 3ª passada só com 8 fontes novas (buscas esgotadas); próxima Artime"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 104,
+   "marca": "Artime",
+   "linha_marcas": 107,
+   "linhas_relogios": "9019-9025",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 30,
+   "passadas": "P1 30/7",
+   "obs": "Gravada na v104 por execução anterior que caiu antes de atualizar o estado.json; corrigido na execução seguinte"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -399,24 +412,18 @@
    "linhas_relogios": "6829-7094"
   }
  },
- "em_execucao": "2026-10-18T08:41:04Z",
- "ultimo_sinal": "2026-10-18T08:45:13Z",
+ "em_execucao": "2026-10-18T09:41:52Z",
+ "ultimo_sinal": "2026-10-18T09:41:52Z",
  "em_andamento": {
   "marcas": [
-   "Artime"
+   "Artisans De Genève"
   ],
-  "linha_marcas": 107,
-  "grande": false,
-  "relogios": "historico/parcial_artime_relogios.txt",
-  "fontes": "historico/parcial_artime_fontes.txt",
-  "notas": "historico/notas_artime.md",
-  "secoes_feitas": [
-   "1",
-   "3",
-   "5",
-   "7",
-   "9"
-  ],
+  "linha_marcas": 108,
+  "grande": true,
+  "relogios": "historico/parcial_artisans_relogios.txt",
+  "fontes": "historico/parcial_artisans_fontes.txt",
+  "notas": "historico/notas_artisans.md",
+  "secoes_feitas": [],
   "passada": 1
  }
 }
