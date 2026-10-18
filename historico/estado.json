@@ -294,5 +294,31 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-18T02:40:53Z",
+ "ultimo_sinal": "2026-10-18T03:21:39Z",
+ "em_andamento": {
+  "marcas": [
+   "Armourlite"
+  ],
+  "linha_marcas": 99,
+  "grande": true,
+  "relogios": "historico/parcial_armourlite_relogios.txt",
+  "fontes": "historico/parcial_armourlite_fontes.txt",
+  "notas": "historico/notas_armourlite.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10"
+  ],
+  "passada": 2
  }
 }
