@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 124,
-  "ultima_versao": 115,
+  "proxima_linha_marcas": 125,
+  "ultima_versao": 116,
   "historico": [
     {
       "data": "2026-10-16",
@@ -607,6 +607,29 @@
       "site_bloqueado": false,
       "fontes": 41,
       "obs": "Próxima: Ateliers deMonaco (124)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 116,
+      "marca": "Ateliers de Monaco",
+      "linha_marcas": 124,
+      "linhas_relogios": "10221-10288",
+      "relogios": 68,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "grande": true,
+      "fontes": 116,
+      "passadas": {
+        "1": {
+          "fontes": 101,
+          "novos": 67
+        },
+        "2": {
+          "fontes": 15,
+          "novos": 1
+        }
+      },
+      "obs": "Bateria só desta marca: a seguinte (Atlantic, 125) é grande (catálogo com códigos tipo 53653.41.93R e vintage extenso) e fica sozinha na próxima execução. Site oficial não aparece em busca."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -618,32 +641,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-18T19:41:20Z",
-  "ultimo_sinal": "2026-10-18T19:58:07Z",
-  "em_andamento": {
-    "marcas": [
-      "Ateliers de Monaco"
-    ],
-    "linha_marcas": 124,
-    "grande": false,
-    "relogios": "historico/parcial_ademonaco_relogios.txt",
-    "fontes": "historico/parcial_ademonaco_fontes.txt",
-    "notas": "historico/notas_ademonaco.md",
-    "secoes_feitas": [
-      "1",
-      "2b",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b-parcial"
-    ],
-    "passada": 2
   }
 }
