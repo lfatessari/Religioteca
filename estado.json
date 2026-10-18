@@ -497,17 +497,22 @@
     }
   },
   "em_execucao": "2026-10-18T15:41:39Z",
-  "ultimo_sinal": "2026-10-18T15:41:39Z",
+  "ultimo_sinal": "2026-10-18T15:46:03Z",
   "em_andamento": {
     "marcas": [
-      "Astor + Banks"
+      "Astor + Banks",
+      "Astronic",
+      "Ataelier Haute Complication"
     ],
     "linha_marcas": 114,
     "grande": false,
     "relogios": "historico/parcial_astor_relogios.txt",
     "fontes": "historico/parcial_astor_fontes.txt",
     "notas": "historico/notas_astor.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
