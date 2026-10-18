@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 125,
-  "ultima_versao": 116,
+  "proxima_linha_marcas": 126,
+  "ultima_versao": 117,
   "historico": [
     {
       "data": "2026-10-16",
@@ -630,6 +630,33 @@
         }
       },
       "obs": "Bateria só desta marca: a seguinte (Atlantic, 125) é grande (catálogo com códigos tipo 53653.41.93R e vintage extenso) e fica sozinha na próxima execução. Site oficial não aparece em busca."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 117,
+      "marca": "Atlantic",
+      "linha_marcas": 125,
+      "linhas_relogios": "10289-10668",
+      "relogios": 380,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "grande": true,
+      "fontes": 161,
+      "passadas": {
+        "1": {
+          "fontes": 113,
+          "novos_por_fonte": 264
+        },
+        "2": {
+          "fontes": 29,
+          "novos_por_fonte": 8
+        },
+        "3": {
+          "fontes": 19,
+          "novos_por_fonte": 15
+        }
+      },
+      "obs": "93 relógios vieram direto de títulos de resultados de busca (site:watchard.com, site:justintime.in), sobretudo na 2ª passada (+55 no total). Site oficial atlanticwatches.ch não aparece em busca; kuck.pl (342 produtos) só a 1ª página. Próxima: Atowak (126)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

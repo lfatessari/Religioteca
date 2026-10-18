@@ -12,3 +12,11 @@
 - Watchard coleções (menu): Seacrest, Skipper, Seahunter, Worldmaster, Seaport, Seabase, Seamoon, Seashore, Seabreeze, Elegance, Mariner, Seawing, Searamic, Sealine, Seamove, Limited, Seacloud, Searock, Seasport, Speedway Royal, Seapair, Seapearl, Seashell, Super De Luxe, Seaway, Seaflight, Seaday, Mariner GMT, Beachboy -> páginas de coleção mostram só o que está em estoque; usar site:watchard.com atlantic <coleção>
 ## 1ª passada encerrada 21:06 (3 fontes seguidas sem novidade). Marca VERMELHA: kuck.pl 342 produtos (paginação inacessível), fichas Europa Star vintage sem foto, vintage sem refs. 2ª passada: kuck produtos via busca, Seawing/Seapearl/Seashell/Seabreeze/Seaway, vintage (Suverän, Världsmästarur), outras lojas.
 ## 2ª passada encerrada 21:13: +55 relógios (a maioria por buscas site:watchard.com/justintime que revelaram produtos escondidos). Fazer 3ª passada (>=5 novos).
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: site oficial (atlanticwatches.ch) não aparece em busca -> não aberto; compensado com masterhorologer (22 artigos 2006-2018), Europa Star (fichas swisstime), WatchTime, Worn&Wound, WatchPro, Time-and-Hourmarkers, Calibrated Wrist.
+2. Produtos escondidos: site oficial inacessível; feito em lojas: site:watchard.com (dezenas de buscas por coleção), site:justintime.in, japanese-microbrands, empik, okazje.
+3. site:<loja> feito em watchard, justintime, japanese-microbrands, empik, kuck (kuck não indexado).
+4. Primeiro modelo: relógios de bolso EKB (1888) e "Divers" de 1930 sem modelo nomeado; antigos achados: Suverän, Världsmästarur 5231 (1957), Worldmaster Super 685, Super De Luxe 9287, Solo-Dater Speedswitch, Prima, Milano Bull's Eye, Troubadour, Rover 3017, Aqua-Sport, Seahunter baquelite, Midas/Cresta/Discostar/Computron etc. (Europa Star).
+5. I/J: Worldmaster, Super De Luxe, Mariner, Seapair: todos achados.
+6. Edições limitadas com nº na B: sim (888, 188, 1888, 135, 88, 177, 277). Sem peças únicas.
+7. Fontes: p1 ~110, p2 29, p3 19.
