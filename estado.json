@@ -445,7 +445,7 @@
     }
   },
   "em_execucao": "2026-10-18T11:41:04Z",
-  "ultimo_sinal": "2026-10-18T11:59:28Z",
+  "ultimo_sinal": "2026-10-18T12:01:28Z",
   "em_andamento": {
     "marcas": [
       "ArtyA"
@@ -461,17 +461,20 @@
       "2b",
       "2c",
       "3",
+      "4",
       "5",
       "6",
       "7",
-      "8-parcial",
-      "9"
+      "8",
+      "9",
+      "10"
     ],
-    "passada": 1,
+    "passada": 2,
     "outros_arquivos": [
       "historico/oficial_p1_2.txt",
       "historico/mh_lista.txt",
       "historico/extra_relogios.txt"
-    ]
+    ],
+    "dados_montados": "historico/dados_artya.txt (433, 1ª passada)"
   }
 }

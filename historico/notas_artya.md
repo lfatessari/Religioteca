@@ -14,3 +14,4 @@
 1|busca site:artya.com/product-page (shams, earth, skull, race, butterfly, gun, sound)|26
 - Gears Chronograph: configurável (caixa x movimento x esmalte x pulseira), cada combinação 1/1 → VERMELHO
 - 1ª passada encerrada ~12:05 UTC (últimas: cwsellors 0, jura blog 0, hourstriker learn 0 — mas abtw/europastar ainda deram; encerrada por cobertura ampla, ver relatório). Próximo: dedupe + 2ª passada (peças únicas, Gears, Butterfly, Only Watch, leilões).
+- 1ª passada ENCERRADA 12:02 UTC: 3 seguidas sem novidade (wristler, oracleoftime tag, signe). Dubai editions têm refs AS-DWW25-01/02.
