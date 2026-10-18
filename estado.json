@@ -620,7 +620,7 @@
     }
   },
   "em_execucao": "2026-10-18T19:41:20Z",
-  "ultimo_sinal": "2026-10-18T19:43:55Z",
+  "ultimo_sinal": "2026-10-18T19:46:34Z",
   "em_andamento": {
     "marcas": [
       "Ateliers de Monaco"
@@ -632,7 +632,8 @@
     "notas": "historico/notas_ademonaco.md",
     "secoes_feitas": [
       "1",
-      "3"
+      "3",
+      "5-parcial"
     ],
     "passada": 1
   }
