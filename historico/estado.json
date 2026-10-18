@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 121,
-  "ultima_versao": 114,
+  "proxima_linha_marcas": 124,
+  "ultima_versao": 115,
   "historico": [
     {
       "data": "2026-10-16",
@@ -571,6 +571,42 @@
       "site_bloqueado": false,
       "fontes": 15,
       "obs": "1f4 + 4 relógios de bolso históricos de D. Loiseau; Rose des Temps (mesa) e Alpha-Omega (autômato) fora. Próxima: Atelier Millesime (121)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 115,
+      "marca": "Atelier Millesime",
+      "linha_marcas": 121,
+      "linhas_relogios": "10168-10184",
+      "relogios": 17,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 19,
+      "obs": "Millésime de Benjamin Chee, renomeada Milléchron (2021); site redireciona para millechron.ch (não aparece em busca)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 115,
+      "marca": "Atelier Nossedh",
+      "linha_marcas": 122,
+      "linhas_relogios": "10185-10190",
+      "relogios": 6,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 17,
+      "obs": "Só o AN.01 Chronograph em 6 mostradores (romanos ou arábicos à escolha)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 115,
+      "marca": "Atelier Wen",
+      "linha_marcas": 123,
+      "linhas_relogios": "10191-10220",
+      "relogios": 30,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 41,
+      "obs": "Próxima: Ateliers deMonaco (124)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
