@@ -320,5 +320,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-18T06:41:19Z",
+ "ultimo_sinal": "2026-10-18T06:41:19Z",
+ "em_andamento": {
+  "marcas": [
+   "Arsène Lippens"
+  ],
+  "linha_marcas": 101,
+  "grande": false,
+  "relogios": "historico/parcial_ArseneLippens_relogios.txt",
+  "fontes": "historico/parcial_ArseneLippens_fontes.txt",
+  "notas": "historico/notas_ArseneLippens.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
