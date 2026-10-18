@@ -670,7 +670,7 @@
     }
   },
   "em_execucao": "2026-10-18T21:41:47Z",
-  "ultimo_sinal": "2026-10-18T21:46:12Z",
+  "ultimo_sinal": "2026-10-18T21:56:23Z",
   "em_andamento": {
     "marcas": [
       "Atowak"
@@ -681,7 +681,10 @@
     "fontes": "historico/parcial_atowak_fontes.txt",
     "notas": "historico/notas_atowak.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "2c",
+      "3"
     ],
     "passada": 1
   }
