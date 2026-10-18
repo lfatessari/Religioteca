@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 117,
-  "ultima_versao": 112,
+  "proxima_linha_marcas": 118,
+  "ultima_versao": 113,
   "historico": [
     {
       "data": "2026-10-16",
@@ -521,6 +521,20 @@
       "site_bloqueado": false,
       "fontes": 35,
       "obs": "Grafia correta; G/H vazios e C genérico registrados na coluna M. Próxima: Atelier de Chronomètrie (117)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 113,
+      "marca": "Atelier de Chronomètrie Watches",
+      "linha_marcas": 117,
+      "linhas_relogios": "10114-10148",
+      "relogios": 35,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 64,
+      "passadas": "P1 49/29; P2 15/0",
+      "obs": "Tratada como grande (peças únicas/sob encomenda), sozinha. Numeração AdC1–AdC37, AdC88, AdC99; buracos 13, 27, 34–36 não achados; AdC10/19/24/26/32 sem foto (link da página oficial). Próxima: Atelier Holgur (118)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -532,32 +546,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-18T16:41:31Z",
-  "ultimo_sinal": "2026-10-18T16:50:53Z",
-  "em_andamento": {
-    "marcas": [
-      "Atelier de Chronomètrie Watches"
-    ],
-    "linha_marcas": 117,
-    "grande": true,
-    "relogios": "historico/parcial_adc_relogios.txt",
-    "fontes": "historico/parcial_adc_fontes.txt",
-    "notas": "historico/notas_adc.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p1"
-    ],
-    "passada": 2
   }
 }
