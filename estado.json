@@ -534,19 +534,20 @@
     }
   },
   "em_execucao": "2026-10-18T16:41:31Z",
-  "ultimo_sinal": "2026-10-18T16:41:31Z",
+  "ultimo_sinal": "2026-10-18T16:44:39Z",
   "em_andamento": {
     "marcas": [
-      "Atelier de Chronomètrie Watches",
-      "Atelier Holgur",
-      "Atelier Jalaper"
+      "Atelier de Chronomètrie Watches"
     ],
     "linha_marcas": 117,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "grande": true,
+    "relogios": "historico/parcial_adc_relogios.txt",
+    "fontes": "historico/parcial_adc_fontes.txt",
+    "notas": "historico/notas_adc.md",
+    "secoes_feitas": [
+      "1",
+      "3"
+    ],
     "passada": 1
   }
 }
