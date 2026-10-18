@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 127,
-  "ultima_versao": 118,
+  "proxima_linha_marcas": 128,
+  "ultima_versao": 119,
   "historico": [
     {
       "data": "2026-10-16",
@@ -675,6 +675,34 @@
         }
       },
       "obs": "Bateria só desta marca: a seguinte (Audemars Piguet, 127) é grande e fica sozinha na próxima execução. Windows Pro: só 4 de 7 cores achadas."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 119,
+      "marca": "Audemars Piguet",
+      "linha_marcas": 127,
+      "linhas_relogios": "10714-12266",
+      "relogios": 1553,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "grande": true,
+      "fontes": 104,
+      "passadas": {
+        "1": {
+          "fontes": 81,
+          "novos_por_fonte": 1486
+        },
+        "2": {
+          "fontes": 13,
+          "novos_por_fonte": 37
+        },
+        "3": {
+          "fontes": 10,
+          "novos_por_fonte": 33
+        }
+      },
+      "fotos": 184,
+      "obs": "Bateria só desta marca (grande). Base: páginas de calibre e de família do WatchBase (sem foto no texto; coluna C com link da ficha/lista), AP Chronicles (vintage), site oficial (fichas sem foto). Só ~184 linhas com foto. Família Royal Oak do WatchBase mostra ~212 de 663 e Offshore ~227 de 379: faltam referências. Chrono24 sem resultados pela busca. Dados do loupe.watch não usados (página pede para IA não reproduzir). Próxima: Audric (128)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -686,33 +714,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-18T22:41:52Z",
-  "ultimo_sinal": "2026-10-18T23:42:33Z",
-  "em_andamento": {
-    "marcas": [
-      "Audemars Piguet"
-    ],
-    "linha_marcas": 127,
-    "grande": true,
-    "relogios": "historico/parcial_ap_relogios.txt",
-    "fontes": "historico/parcial_ap_fontes.txt",
-    "notas": "historico/notas_ap.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a passada",
-      "3a passada"
-    ],
-    "passada": 1
   }
 }
