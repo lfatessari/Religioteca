@@ -1,0 +1,3 @@
+# Atelier Wen (linha 123)
+- Fundada 2018 (Kickstarter Porcelain Odyssey), Robin Tallendier & Wilfried Buiron. Não usa códigos (Hourstriker mostra AW-INF-YOU/YUAN/MO).
+- Achados até agora: Porcelain Odyssey Hào (branco) e Jì (azul) 2018; Perception V1 (2022) Piāo/Yǐng/Xiá; V2 (2024) Piāo/Yǐng/Xiá; V3 (2026) Piāo/Xiá/Yún; Millésime 2024 Mù (titânio roxo) + protótipo tântalo; Millésime 2025 Xuán (pietersite); Revolution Xǐ, Cuì, Cán; Wristcheck 传承 (jade); Wristcheck×seconde/seconde 锔瓷 (Jū Cí); Fusing; Grail Watch 12 Perception Tantalum; Ancestra Jiāo (arábico/chinês); Inflection Mò/Yōu/Yuān; Inflection Shuò (Massena LAB).
