@@ -532,5 +532,21 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-18T16:41:31Z",
+  "ultimo_sinal": "2026-10-18T16:41:31Z",
+  "em_andamento": {
+    "marcas": [
+      "Atelier de Chronomètrie Watches",
+      "Atelier Holgur",
+      "Atelier Jalaper"
+    ],
+    "linha_marcas": 117,
+    "grande": false,
+    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "fontes": "historico/parcial_<marca>_fontes.txt",
+    "notas": "historico/notas_<marca>.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
