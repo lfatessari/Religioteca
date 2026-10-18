@@ -16,3 +16,4 @@ AL103 Field azul; AL106 Field branco; ISO4001 Afterburner azul; ISO4002 Afterbur
 ## Passada 1 encerrada (3 fontes seguidas sem novidade: gemday automatic, all-tritium p2, closeouts)
 Decisão: VERMELHO — site oficial não abre para leitura; códigos com buracos; exclusivos Drop/Massdrop sem código; variações de pulseira (-PU, -TT, -KT) não listadas.
 ## Passada 2: alvos: exclusivos Drop (slim blue, desert tan kit, executive set, grand slimline set, skull, valor chrono, paracord, stealth set, officer kit, blue officer kit), páginas oficiais por código, buracos AL82x/83x, ISO20x, ISO30x
+## Passada 2: 22 fontes novas, 0 relógios novos (só fotos e dados melhores). Sem 3ª passada.
