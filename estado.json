@@ -534,7 +534,7 @@
     }
   },
   "em_execucao": "2026-10-18T16:41:31Z",
-  "ultimo_sinal": "2026-10-18T16:47:04Z",
+  "ultimo_sinal": "2026-10-18T16:48:50Z",
   "em_andamento": {
     "marcas": [
       "Atelier de Chronomètrie Watches"
@@ -547,7 +547,10 @@
     "secoes_feitas": [
       "1",
       "2",
-      "3"
+      "2c",
+      "3",
+      "8",
+      "9"
     ],
     "passada": 1
   }
