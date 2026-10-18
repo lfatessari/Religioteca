@@ -1,0 +1,816 @@
+{
+ "marca": "Armourlite",
+ "usa_codigos": true,
+ "logo": "https://www.opticsplanet.com/i/200-200-ffffff/opplanet-armourlite-brand-logo-july-2014.jpg",
+ "site_bloqueado": "Parcial – armourlite.com: o leitor automático não traz os produtos (página montada por JavaScript) e muitas páginas internas dão erro; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.righttime.com/rt/armourlite/armourlitewatches_a.htm",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://righttime.com/rt/armourlite/iso350_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/armourlite/iso4002_a.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://righttime.com/rt/armourlite/iso4003_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-brand.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/armourlite-field-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/armourlite-caliber-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/armourlite-professional-series-watch-2nd-gen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.massdrop.com/buy/armourlite-officer-series-tritium-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-officer-tritium-illuminated-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-caliber-series-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-black-navigator-series-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-colorburst-tritium-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cirellijewelers.com/products/isobrite-valor-chronograph-series-iso403",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cirellijewelers.com/products/isobrite-mil24-ii-24-hour-military-time-iso-3011",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-iso401-tactical-chronograph-watch-iso401",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://copsplus.com/clothing-footwear/accessories/watches-jewelry/isobrite-valor-series-swiss-made-t100-tritium-illuminated-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-iso701-swiss-automatic-watch-iso701",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-iso711-swiss-automatic-watch-iso711",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al612-tactical-watch-al612",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al603-tactical-watch-al603",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al601-tactical-watch-al601",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-iso303-tactical-watch-iso303",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/armourlite-professional-al46-watch-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.all4shooters.com/en/shooting/accessories/armour-lite-al-47-professional-series-wrist-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/review-armourlite-captain-field",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/hands-on-with-isobrite-eclipse-iso201-t100-tritium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.outdoorhub.com/pr/2012/03/29/armourlite-introduces-the-captain-field-series-model-al307/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.outdoorhub.com/?p=365155",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://outdoorhub.com/?p=371601",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.shootingillustrated.com/articles/2012/4/20/armourlite-firefighter-watch-editions-announced/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.shootingillustrated.com/content/armourlite-isobrite-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.shootingillustrated.com/articles/2016/7/27/armourlite-isobrite-valor-series-iso402-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gunsandammo.com/editorial/armourlite-isobrite-watches/538989",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thetimebum.com/?p=459",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.armourlite.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/armourlite/wwoldmodels.htm",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://www.righttime.com/rt/armourlite/isobrite.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/armourlite/isobrite_limited_edition.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/armourlite/armourlitewatches.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gemday.com/collections/all-armourlite-and-isobright-watches",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite/Watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/armourlite_ww.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.greattiming.net/collections/armourlite",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ammoland.com/2014/05/armourlite-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huntinglife.com/?p=23760",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.odumagazine.com/?p=45989",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.officer.com/on-the-street/apparel/watches-whistles/product/11490663/armourlite-watch-company-armourlite-and-isobrite-officer-field-series-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al47-tactical-watch-al48",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al45-b-chronograph-al45-b",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al47-tactical-watch-al47",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.policemag.com/368048/chronograph?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.policemag.com/patrol/product/15320754/armourlite-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://copsplus.com/clothing-footwear/accessories/watches-jewelry/armourlite-field-series-swiss-made-tritium-illuminated-watch-with-shatterproof-armourglass",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Rubber-Case-Analog-ArmourLite-Wristwatches/31387/bn_108276590?mag=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/1637384927",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/11067479834",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/334256443302",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/257166528146",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/257168314727",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drop.com/buy/armourlite-cream-officer-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.massdrop.com/buy/armourlite-isobrite-night-enforcer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.officer.com/on-the-street/apparel/watches-whistles/product/11490655/armourlite-watch-company-armourlite-and-isobrite-navigator-diver-series-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/armourlite-blue-officer.489793/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drop.com/buy/armourlite-caliber-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al1202-automatic-watch-al1202",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156943767856",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al1201-automatic-watch-al1201",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al1203-automatic-watch-al1203",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cirellijewelers.com/products/isobrite-mariner-edition-naval-series-iso1202",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/hands-on-with-the-isobrite-master-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.officer.com/on-the-street/apparel/watches-whistles/product/10688605/armourlite-watch-company-armourlite-and-isobrite-police-blue-tritium-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/isobrite-long-life-super-bright-200m-dive-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al1204-automatic-watch-al1204",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al614-tactical-watch-al614",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.all4shooters.com/en/shooting/accessories/armour-lite-al-1202-al1021-wrist-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://iwmagazine.com/?p=20384",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cirellijewelers.com/products/isobrite-mariner-edition-naval-series-iso1212",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://copsplus.com/clothing-footwear/accessories/watches-jewelry/isobrite-squadron-series-t100-tritium-illuminated-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://copsplus.com/clothing-footwear/accessories/watches-jewelry/isobrite-naval-series-t100-tritium-illuminated-watch-mariner-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/armourlite-al1001-tactical-watch-al1001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/products_byprice_20-0-1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/products_byprice_19-0-1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/armourlite_officer_series_tritium_illuminated_watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/iso722",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gemday.com/collections/armourlite",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite/officer",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.billythetree.com/isobrite-iso722-swiss-made-automatic-with-64-x-t100-tritium-markers/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/ArmourLite-Wristwatches/31387/bn_80607731",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.armourlite.com/professional-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/al1404",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/isobrite-t100-executive-series-automatic-tritium-dive-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/armourlite-field-series-watches-with-leather-band.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite?page=2",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://militarywatchexchange.com/isobrite-2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gems4me.com/Isobrite-T100-Squadron-Series-Tritium-Watches_c_60.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/isobrite-squadron-series-t100-tritium-illuminated-black-dial-unisex-watch-iso1101.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/isobrite-squadron-series-t100-tritium-illuminated-black-dial-unisex-watch-iso1101.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite?page=3",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite/isobrite",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/armourlite-stealth-shatter-proof-al302-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite/isobrite?page=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/Armourlite-AL203-Men-s-ColorBurst-Black-Dial-Black-Leather-Strap-Green-Tritium-Fill-Dive-Watch/38573248",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/ArmourLite-ColorBurst-Tritium-Watch-AL205_p_8031.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worthpoint.com/worthopedia/armourlite-colorburst-watch-tritium-309937735",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/collections/armourlite/Chronograph",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/armourlite-583a1c9e-92ed-4c3c-a268-8df8f9f1828d/colorburst-series-al211",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/armourlite-32f4863d-4d1c-4a4e-ac5e-1e70a5583336/colorburst-series-quartz-al204",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/armourlite-al212-tactical-watch-al212/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.billythetree.com/armourlite-tritium-watch-professional-series-al41.aspx",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/al6660",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.savvywatch.com/products/al47",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchlords.com/viewtopic.php?style=3&t=35235",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worthpoint.com/worthopedia/armourlite-isobrite-t100-t25-tritium-453518385",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worthpoint.com/worthopedia/armourlite-professional-al45-1787215899",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-field-series-al125-swiss-made-tritium-illuminated-watch-with-shatterp.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-field-series-al115-swiss-made-tritium-illuminated-watch-with-shatterp.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-field-series-al105-swiss-made-tritium-illuminated-watch-with-shatterp.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-field-series-al132-swiss-made-tritium-illuminated-watch-with-shatterp.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-field-series-al135-swiss-made-tritium-illuminated-watch-with-shatterp.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-officer-series-stainless-steel-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://militarywatchexchange.com/ArmourLite_c_7.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/s/watch-tritium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/armourlite-field-series-stealth-black-edition-tritium-illuminated-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gemday.com/collections/military/illumination_tritium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/isobrite",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gemday.com/collections/isobright",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.timepiece.com/isobrite-watches.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://drop.com/buy/massdrop-x-armourlite-ember-t100-watch/talk/2205571",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Isobrite-Wristwatches/31387/bn_7116475958",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/2254421584",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.outdoorhub.com/?p=375546",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/isobrite-naval-t100-tritium-illuminated-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.massdrop.com/buy/58307",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gemday.com/collections/isobright-t100-tritium-automatic-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gemday.com/collections/all-tritium-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gemday.com/collections/closeouts",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/isobrite-t100-tritium-slim-blue-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/isobrite-t100-tritium-desert-tan-watch-kit",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/armourlite-isobrite-skull-tritium-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/6613489-massdrop-armourlite-ember-t100-tritium-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://milled.com/massdrop/massdrop-x-armourlite-ember-t100-tritium-watch-enthusiast-grade-materials-with--v1ZBDA1tDVje3MgC",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/armourlite-watchuseek/s",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/products_byprice_3-0-1.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/iso305",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/review-isobrite-by-armourlite.728511/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.com/stores/page/E36B8530-A7CA-4B2C-BEE1-2DC172A1D731",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/best-mens-armourlite-watches.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/armourlite-sports-watches.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/armourlite-operator-series-tritium-illuminated-black-dial-unisex-watch-al1502.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/armourlite-operator-series-tritium-watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/armourlite-tritium-illuminated-watches-with-shatterproof-armourglass",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/armourlite_operator_series_tritium_illuminated_watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/isobrite-t100-naval-series-tritium-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armourlite.com/isobrite-t100-automatic-tritium-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/isobrite-squadron-series-t100-tritium-illuminated-automatic-watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.radarguns.com/isobrite-executive-series-t100-tritium-automatic-watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.discountjewelrywatch.com/product/isobrite-iso712-executive-t100-tritium-illuminated-mens-automatic-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tactical-store.com/ts-3is-wt-fs28.html",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

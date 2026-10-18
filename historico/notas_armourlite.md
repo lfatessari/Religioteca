@@ -17,3 +17,12 @@ AL103 Field azul; AL106 Field branco; ISO4001 Afterburner azul; ISO4002 Afterbur
 Decisão: VERMELHO — site oficial não abre para leitura; códigos com buracos; exclusivos Drop/Massdrop sem código; variações de pulseira (-PU, -TT, -KT) não listadas.
 ## Passada 2: alvos: exclusivos Drop (slim blue, desert tan kit, executive set, grand slimline set, skull, valor chrono, paracord, stealth set, officer kit, blue officer kit), páginas oficiais por código, buracos AL82x/83x, ISO20x, ISO30x
 ## Passada 2: 22 fontes novas, 0 relógios novos (só fotos e dados melhores). Sem 3ª passada.
+## 10b auto-auditoria
+1 Blog/imprensa oficial: site não abre para leitura (registrado L). Imprensa externa lida (aBlogtoWatch, all4shooters x2, WWR x3, OutdoorHub x4, Shooting Illustrated x3, G&A, Time Bum, Ammoland, Officer.com x3, PoliceMag, IW Magazine).
+2 site:/products: feito em LIW, Sportique, Gemday (sem nova novidade no fim).
+3 Lojas: Right Time, LIW, Gemday, Sportique, GreatTiming, Cirelli, CopsPlus, OpticsPlanet, Timepiece, Jomashop, Tactical-store, RadarGuns, Walmart, Touch of Modern, WorthPoint, eBay.
+4 Primeiro modelo: não identificado com certeza; os mais antigos vistos são Professional/Stealth AL4x e ColorBurst AL20x (2011–2012), FireFighter (2012).
+5 J da aba Marcas: Isobrite T100 ✓, Officer Series ✓, Caliber Series ✓.
+6 Edições limitadas/colaboração na B ✓ (Night Enforcer, Police/Firefighter Flag, Explorer, Ember Massdrop).
+7 161 fontes.
+Lista do usuário (112 da execução anterior): todos os códigos cobertos.
