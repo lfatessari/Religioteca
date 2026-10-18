@@ -688,7 +688,7 @@
     }
   },
   "em_execucao": "2026-10-18T22:41:52Z",
-  "ultimo_sinal": "2026-10-18T23:06:55Z",
+  "ultimo_sinal": "2026-10-18T23:11:26Z",
   "em_andamento": {
     "marcas": [
       "Audemars Piguet"
@@ -699,7 +699,8 @@
     "fontes": "historico/parcial_ap_fontes.txt",
     "notas": "historico/notas_ap.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "5"
     ],
     "passada": 1
   }
