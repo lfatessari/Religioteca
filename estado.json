@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 110,
-  "ultima_versao": 107,
+  "proxima_linha_marcas": 111,
+  "ultima_versao": 108,
   "historico": [
     {
       "data": "2026-10-16",
@@ -432,6 +432,19 @@
       "fontes": 47,
       "passadas": "P1 36/22, P2 11/1",
       "obs": "Peças únicas e sob encomenda; site atual akmaev.com (JS, ilegível); refs Masterpiece/Carbon da Arlington Watch Works; sem logo; próxima ArtyA (provavelmente grande)"
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 108,
+      "marca": "ArtyA",
+      "linha_marcas": 110,
+      "linhas_relogios": "9121-9583",
+      "relogios": 463,
+      "vermelho": true,
+      "site_bloqueado": "parcial",
+      "fontes": 89,
+      "passadas": "P1 65/417, P2 13/26, P3 11/3",
+      "obs": "Grande (peças únicas, Gears configurável). Site artya.com só achado com busca extended; all-watches p4–8 e store-products-sitemap não alcançados. 147 linhas com link de artigo do Master Horologer e ~240 com link da página oficial (sem foto direta). Próxima: Askania (linha 111)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -443,39 +456,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-18T11:41:04Z",
-  "ultimo_sinal": "2026-10-18T12:04:22Z",
-  "em_andamento": {
-    "marcas": [
-      "ArtyA"
-    ],
-    "linha_marcas": 110,
-    "grande": true,
-    "relogios": "historico/parcial_artya_relogios.txt",
-    "fontes": "historico/parcial_artya_fontes.txt",
-    "notas": "historico/notas_artya.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2b",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a-passada-parcial"
-    ],
-    "passada": 2,
-    "outros_arquivos": [
-      "historico/oficial_p1_2.txt",
-      "historico/mh_lista.txt",
-      "historico/extra_relogios.txt"
-    ],
-    "dados_montados": "historico/dados_artya.txt (433, 1ª passada)"
   }
 }
