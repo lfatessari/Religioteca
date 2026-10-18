@@ -643,7 +643,7 @@
     }
   },
   "em_execucao": "2026-10-18T20:41:06Z",
-  "ultimo_sinal": "2026-10-18T20:41:06Z",
+  "ultimo_sinal": "2026-10-18T20:48:08Z",
   "em_andamento": {
     "marcas": [
       "Atlantic"
@@ -653,7 +653,10 @@
     "relogios": "historico/parcial_atlantic_relogios.txt",
     "fontes": "historico/parcial_atlantic_fontes.txt",
     "notas": "historico/notas_atlantic.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
