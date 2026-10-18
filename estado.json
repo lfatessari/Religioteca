@@ -471,7 +471,7 @@
     }
   },
   "em_execucao": "2026-10-18T13:41:44Z",
-  "ultimo_sinal": "2026-10-18T13:41:44Z",
+  "ultimo_sinal": "2026-10-18T13:46:35Z",
   "em_andamento": {
     "marcas": [
       "Aspen"
@@ -481,7 +481,10 @@
     "relogios": "historico/parcial_aspen_relogios.txt",
     "fontes": "historico/parcial_aspen_fontes.txt",
     "notas": "historico/notas_aspen.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "9"
+    ],
     "passada": 1
   }
 }
