@@ -13,3 +13,6 @@ AL103 Field azul; AL106 Field branco; ISO4001 Afterburner azul; ISO4002 Afterbur
 - até aqui: righttime, opticsplanet, LIW, cirelli, gemday, sportique, greattiming, imprensa (ablog, all4shooters, wwr, outdoorhub, SI, G&A, timebum, ammoland, huntinglife), ebay
 ## Lista colada pelo usuário (execução anterior, 112): faltam aqui AL1021 AL113 AL115 AL1201 AL1203 AL1204 AL123 AL133 AL1404 AL145 AL614 AL77 AL821 AL832 ISO1202 ISO1212 ISO502 ISO722; + ColorBurst Limited Leather Edition, Naval Amphibian, Naval Destroyer, Officer Field 2014 (12)
 ## Seções feitas: 1, 2 (site JS → parcial bloqueado), 3 parcial, 5 (Chrono24/EveryWatch: nada), 7, 8, 9 parcial
+## Passada 1 encerrada (3 fontes seguidas sem novidade: gemday automatic, all-tritium p2, closeouts)
+Decisão: VERMELHO — site oficial não abre para leitura; códigos com buracos; exclusivos Drop/Massdrop sem código; variações de pulseira (-PU, -TT, -KT) não listadas.
+## Passada 2: alvos: exclusivos Drop (slim blue, desert tan kit, executive set, grand slimline set, skull, valor chrono, paracord, stealth set, officer kit, blue officer kit), páginas oficiais por código, buracos AL82x/83x, ISO20x, ISO30x
