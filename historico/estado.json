@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 114,
-  "ultima_versao": 111,
+  "proxima_linha_marcas": 117,
+  "ultima_versao": 112,
   "historico": [
     {
       "data": "2026-10-16",
@@ -484,6 +484,43 @@
       "fontes": 119,
       "passadas": "P1 78/96, P2 17/7, P3 24/8",
       "obs": "Grande. Modelos próprios (No. 8 com ~23 refs, Tempus Fugit, Grand Date, Entheus R2) + peças de outras marcas vendidas/assinadas/personalizadas pela Asprey (Patek, Rolex khanjar de Omã, Rolex personalizados 2009–2025, Bamford, Genta, Daniel Roth, Corum, Piaget, AP) + colaborações Andersen. WebFetch parou ~10 min (limite de sessão) às 14:56 UTC. Próxima: Astor + Banks (114)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 112,
+      "marca": "Astor + Banks",
+      "linha_marcas": 114,
+      "linhas_relogios": "10025-10071",
+      "relogios": 47,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 42,
+      "passadas": "P1 42/53 (contagem inclui reclassificações)",
+      "obs": "Chrono 2014, AB1405, AB Clásico, Pilomatic 2016 (50+50), Sea Ranger 2019, Fortitude 2020 (Gilt Navy BLVDier 50), Fortitude Lite/Pro, Sea Ranger M2, Terra Scout 2026. 'Dorado' (grailr) não confirmado."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 112,
+      "marca": "Astronic",
+      "linha_marcas": 115,
+      "linhas_relogios": "10072-10098",
+      "relogios": 27,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18,
+      "obs": "Usa SKUs STL-117/AVE-64; LEs sem tiragem publicada"
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 112,
+      "marca": "Ataelier Haute Complication",
+      "linha_marcas": 116,
+      "linhas_relogios": "10099-10113",
+      "relogios": 15,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 35,
+      "obs": "Grafia correta; G/H vazios e C genérico registrados na coluna M. Próxima: Atelier de Chronomètrie (117)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
