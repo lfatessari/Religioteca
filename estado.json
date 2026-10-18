@@ -484,7 +484,7 @@
     }
   },
   "em_execucao": "2026-10-18T14:41:14Z",
-  "ultimo_sinal": "2026-10-18T14:41:14Z",
+  "ultimo_sinal": "2026-10-18T14:46:51Z",
   "em_andamento": {
     "marcas": [
       "Asprey Watches"
@@ -494,7 +494,10 @@
     "relogios": "historico/parcial_asprey_relogios.txt",
     "fontes": "historico/parcial_asprey_fontes.txt",
     "notas": "historico/notas_asprey.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
