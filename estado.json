@@ -361,7 +361,7 @@
   }
  },
  "em_execucao": "2026-10-18T07:41:41Z",
- "ultimo_sinal": "2026-10-18T07:56:06Z",
+ "ultimo_sinal": "2026-10-18T07:58:25Z",
  "em_andamento": {
   "marcas": [
    "Artefkt",
@@ -376,8 +376,8 @@
   "secoes_feitas": [
    "Artefkt: completa (26 fontes, 7 relógios, falta gravar)",
    "Artel Rotec: completa (18 fontes, 6 relógios, falta gravar)",
-   "Stampfli: 1,2,3,8,9 parcial (grande: peças únicas)"
+   "Stampfli: 1ª passada completa (33 fontes), vermelha, 2ª passada em curso"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
