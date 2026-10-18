@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 112,
-  "ultima_versao": 109,
+  "proxima_linha_marcas": 113,
+  "ultima_versao": 110,
   "historico": [
     {
       "data": "2026-10-16",
@@ -458,6 +458,19 @@
       "fontes": 154,
       "passadas": "P1 103/213, P2 27/28, P3 24/2",
       "obs": "Grande. Catálogo 2010 (44 refs antigas), Quadriga 2006–2025 quase completa (falta 2024, se existir), allwatches com refs antigas (Heinkel, Heinkel Blitz, Goliath). ~76 linhas com link de página em vez de foto (askania.berlin deu erro de servidor no fim). Próxima: Aspen (linha 112)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 110,
+      "marca": "Aspen",
+      "linha_marcas": 112,
+      "linhas_relogios": "9834-9905",
+      "relogios": 72,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 54,
+      "passadas": "P1 43/38, P2 11/1",
+      "obs": "Duas empresas com o nome: Aspen Jewelry and Watches (luxo, 2009–2014: Aspen One, Black Piste, Downhill GT, Moguls, Zenvo ST1, Gondola, XII) e Aspen quartzo (AP31xx, Shoptictoc/Best Buy Canadá; 41 cores sem referência AP). Asprey (113) e seguintes ficam para as próximas; Asprey tratada como grande."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
