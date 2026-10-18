@@ -8,3 +8,6 @@
 - EveryWatch: Blue Enamel; Russian Roulette
 - WatchPatrol listing: Shams Crystal LE
 - usa_codigos=false. Site artya.com não aparece em busca nenhuma.
+- Site oficial artya.com (Wix) ACHADO por busca extended. all-watches tem 8 páginas; só p1–3 vieram em busca (p4–8 não alcançadas). Coberto também por collection-art, style-tourbillon, style-skeleton (p1 de 3), style-diving, pre-owned-certified.
+- EveryWatch: 71 à venda + 259 vendidos = 330 → GRANDE; anúncios genéricos (sem nome) não viram linha.
+- Lista do site em oficial_p1_2.txt (nome|slug) — juntar com dedupe.
