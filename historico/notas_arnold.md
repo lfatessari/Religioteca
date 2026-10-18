@@ -11,3 +11,6 @@
 - Chrono24 (pre-owned-watches--used.htm) apareceu em busca mas deu CLIENT_ERROR
 - Logo possível: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/arnold-et-son/logo_fond_blanc_arnoldson.jpg?itok=6uZz5Zu6
 - Dragon & Phoenix: os 4 códigos oficiais 1UTAR.Z01A–Z05A cobrem as pedras (bronzita, pietersita, verdita...); linhas sem código removidas p/ não duplicar
+- Masterhorologer archive (111 artigos 2008–2023) deu nomes de modelos antigos; entraram com link do artigo. Não incluídos por provável duplicata: Luna Magna Meteorite LE 2022/2023 (≈1LMAR.Z01A), Globetrotter Platinum/Gold LE (=1WTAX.U02C / 1WTAR.U02C), PM38 Moonlight (≈1GLMR.U01A), TES Blue (≈1SJAW.V01A), HMS Beagle Set (=HM Beagle).
+- CollectorSquare: 151 lotes; códigos antigos 12.2.3.0x (East India Co.).
+- Feldmar: arquivo com 77 itens Arnold & Son (categoria não aparece em busca).
