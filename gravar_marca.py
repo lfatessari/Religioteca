@@ -3,6 +3,7 @@ Uso: python3 gravar_marca.py ENTRADA.xlsx SAIDA.xlsx dados.txt marca.json
 dados.txt: uma linha por relógio  ->  Nome|CÓDIGO|URL_imagem|Características
 marca.json: {"marca": "<igual à coluna A de Marcas>", "usa_codigos": true/false,
              "logo": "url ou vazio", "site_bloqueado": "texto ou vazio", "vermelho": true/false,
+             "observacoes": "texto da coluna M (dados errados na aba Marcas) ou vazio",
              "grande": true/false, "complemento": false,
              "fontes": [{"url": "...", "passada": 1, "novos": 0}, ...]}
 Trava de profundidade: sem o mínimo de fontes (15; 25 se grande) e, se vermelho, sem a
@@ -95,6 +96,11 @@ for k, (a, b, c, d, e) in enumerate(linhas):
 if cfg.get('logo'): m.cell(lm, 11).value = cfg['logo']
 if cfg.get('site_bloqueado'):
     c = m.cell(lm, 12); c.value = cfg['site_bloqueado']; c._style = copy.copy(m.cell(lm, 11)._style)
+if cfg.get('observacoes'):
+    # coluna M: dados da aba Marcas que parecem errados (só registrar, nunca corrigir B–J)
+    if m.cell(1, 13).value is None:
+        h = m.cell(1, 13); h.value = 'Observações'; h._style = copy.copy(m.cell(1, 12)._style)
+    c = m.cell(lm, 13); c.value = cfg['observacoes']; c._style = copy.copy(m.cell(lm, 11)._style)
 if cfg.get('vermelho'):
     m.cell(lm, 1).fill = PatternFill(fill_type='solid', start_color='FFFF0000', end_color='FFFF0000')
 
@@ -106,7 +112,7 @@ ok = True
 for t in before:
     if t == 'Relógios': continue
     mud = sorted(k for k in set(before[t]) | set(after[t]) if before[t].get(k) != after[t].get(k))
-    perm = {f'K{lm}', f'L{lm}'}
+    perm = {f'K{lm}', f'L{lm}', f'M{lm}', 'M1'}
     extra = [k for k in mud if k not in perm]
     print(t, 'mudanças:', mud)
     if extra: ok = False; print('  !! mudança fora do permitido:', extra)

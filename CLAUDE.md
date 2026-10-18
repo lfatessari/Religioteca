@@ -50,15 +50,21 @@ O WebFetch só abre sem pedir aprovação ao usuário endereços que já aparece
 5. Pesquisar e gravar conforme a skill, fazendo o salvamento parcial a cada 10–15 fontes. Só entregar se o script terminar com `RESULTADO: OK`.
 6. Atualizar `estado.json` (próxima linha, versão, histórico).
 7. Salvar no repositório:
-   - `git rm planilha/Relogios_atualizada_<antiga>.xlsx`, copiar a nova para `planilha/`;
+   - PRIMEIRO copiar a nova: `mkdir -p planilha && cp /home/claude/trabalho/Relogios_atualizada_<nova>.xlsx planilha/`; SÓ DEPOIS `git rm -q planilha/Relogios_atualizada_<antiga>.xlsx`. (Se o `git rm` vier antes, ele apaga a pasta `planilha/`, a cópia falha e o resto da cadeia `&&` não roda — foi o que derrubou a Artime em out/2026.) Rodar cada passo como comando separado, não numa cadeia `&&` longa;
+   - conferir com `ls planilha/` que só a nova está lá;
    - copiar `estado.json` e os arquivos da marca para `historico/`;
    - `git add -A && git commit -m "Bateria: <marca(s)> (vNN)"` e `git push origin main`.
    - Se o push falhar: `git fetch origin main && git rebase origin/main` e tentar uma vez mais. Se ainda falhar, avisar no relatório.
-8. Relatório em português do Brasil, calmo e para leigo (o usuário lê no celular): o que entrou, linhas por passada (fontes e relógios novos), por que parou, dados errados na aba Marcas (só relatar), e a lista "Fontes:". Enviar o relatório com SendUserMessage e a planilha nova com SendUserFile.
+8. Relatório em português do Brasil, calmo e para leigo (o usuário lê no celular): o que entrou, linhas por passada (fontes e relógios novos), por que parou, dados errados na aba Marcas (relatar E registrar na coluna M, ver abaixo), e a lista "Fontes:". Enviar o relatório com SendUserMessage e a planilha nova com SendUserFile.
 
 ## Se a execução for interrompida
 O corte pelo limite de uso é súbito: não dá para contar com um salvamento final. O que protege o trabalho é o salvamento parcial a cada 10–15 fontes (acima). Se a execução perceber que está perto do fim (WebFetch avisando limite, contexto cheio), fazer na hora um salvamento parcial extra e avisar no relatório. A execução seguinte retoma do último salvamento, perdendo no máximo as fontes abertas depois dele.
 
 ## Nunca
 - Nunca apagar o histórico do git nem forçar push (`--force`).
-- Nunca alterar na aba Marcas nada além de K (logo), L (site bloqueado) e o vermelho da coluna A, salvo pedido do usuário com "corrija".
+- Nunca alterar na aba Marcas nada além de K (logo), L (site bloqueado), M (observações) e o vermelho da coluna A, salvo pedido do usuário com "corrija".
+
+## Coluna M da aba Marcas (Observações) — pedido do usuário, out/2026
+- Tudo o que for notado na aba Marcas e relatado sem corrigir (B/C/G/H vazios ou errados, D/I/J genéricos ou errados, data de fundação divergente, site da coluna G errado, nome em J não encontrado, "[⚠️ verificar]" etc.) vai TAMBÉM na coluna M da linha da marca, em português, curto, com o dado certo quando se souber (ex.: "G vazio: site arlanch.se").
+- Como gravar: campo `"observacoes"` no `marca_<marca>.json`; o `gravar_marca.py` escreve em M (cabeçalho M1 "Observações") e a verificação aceita só K, L, M daquela linha.
+- Se não houver nada a observar, deixar `"observacoes"` vazio. Não apagar o que já estiver em M de outra marca.

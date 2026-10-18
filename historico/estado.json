@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 109,
- "ultima_versao": 105,
+ "ultima_versao": 106,
  "historico": [
   {
    "data": "2026-10-16",
@@ -413,6 +413,12 @@
    "fontes": 122,
    "passadas": "P1 109/72, P2 13/0",
    "obs": "Ateliê de customização (Genebra, 2005, John Isaac); projetos sobre Rolex/Patek/AP; lista oficial /en/challenges com 3 páginas, só a 1ª alcançável; sem logo; próxima Artur Akmaev"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 106,
+   "marca": "(coluna M)",
+   "obs": "A pedido do usuário: coluna M \"Observações\" criada na aba Marcas com 16 observações de dados errados já relatadas (Aquastar, Archetype, ARC-TIC, Arcturus, Arlanch, Armand Nicolet, Armando Legin, Armida, Armitron, Arsène Lippens, Art Mecanique, Artauro, Artefkt, Artel Rotec, Arthur Oskar Stampfli, Artisans De Genève); nenhuma outra célula mudou"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
