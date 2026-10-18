@@ -16,3 +16,4 @@
 - Feldmar: arquivo com 77 itens Arnold & Son (categoria não aparece em busca).
 - Lombard Perspectiva (arquivo de vendidos, 100 itens) trouxe ~31 refs antigas (Longitude II Navigators, White Ensign, Hornet sets Trafalgar/Nelson, Grand Moon, True Moon, Dead Beat Tourbillon, Grand Tourbillon, etc.). Códigos antigos 12.2.3.0x (CollectorSquare) removidos: correspondem aos 3 East India Co. 1ARAP.M01A–M03A.
 - 1TPAR.S01A.C124A: EveryWatch chama de "Scout" (erro do site); é Time Pyramid.
+- eBay: TBR 1ARAS.S01A.C121S e GMT II 1G2AS.B01A.C01B vistos só em títulos de busca (fonte não conta)
