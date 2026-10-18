@@ -21,3 +21,4 @@
 ## Fim da 1ª passada (04:30 UTC): 3 fontes seguidas sem modelo novo (Mayors, Ethos, WoS brand page).
 ## 2ª passada (vermelha) — alvo: referências antigas 1998–2012 (Longitude/GMT/True North/White Ensign/Hornet/Scout/HMS/Timekeeper), peças únicas (Only Watch, TimeForArt, Koi, Falcon, Dragon), sets, edições de lojas.
 - Chrono24 (2ª passada): só títulos de busca; páginas dão CLIENT_ERROR. Longitude II Northern Hemisphere visto no título.
+## 2ª passada encerrada (04:37): 14 fontes, ~15 novos -> 3ª passada

@@ -805,7 +805,7 @@
 "src": "https://watchbase.com/arnold-son/royal-collection"
 },
 "1LCAPS05AC111A": {
-"n": "HMS1 Victory",
+"n": "HMS \"Victory at Sea\"",
 "c": "1LCAP.S05A.C111A",
 "img": "https://watchbase.com/arnold-son/royal-collection/1lcap-s05a-c111a",
 "e": "",
@@ -1252,13 +1252,6 @@
 "e": "Peça única. Feita para o leilão beneficente Only Watch 2019. Visto só no título da página da Worldtempus (link da página).",
 "src": "https://en.worldtempus.com/watch-brand/arnold-and-son-1"
 },
-"N:hm falcon": {
-"n": "HM Falcon",
-"c": "",
-"img": "https://en.worldtempus.com/watches/hm-falcon-17860.html",
-"e": "Visto só no título da página da Worldtempus (link da página).",
-"src": "https://en.worldtempus.com/watch-brand/arnold-and-son-1"
-},
 "1NEASB04AS134D": {
 "n": "Nebula 41.5 Steel",
 "c": "1NEAS.B04A.S134D",
@@ -1390,13 +1383,6 @@
 "c": "",
 "img": "https://masterhorologer.com/2016/06/28/arnold-son-instrument-collection-metiers-dart-tb-dragon-limited-edition-watch-self-winding-movement-true-beat-seconds-rose-gold-case-black-dial/",
 "e": "Métiers d'Art. Ouro rosa, mostrador preto, automático, segundos true beat, 2016. Visto no artigo da Masterhorologer (link do artigo).",
-"src": "https://masterhorologer.com/arnold-son-watches-archives/"
-},
-"N:hm dragon & fenghuang – edição limitada": {
-"n": "HM Dragon & Fenghuang – edição limitada",
-"c": "",
-"img": "https://masterhorologer.com/2016/07/07/arnold-son-hm-dragon-fenghuang-limited-edition-rose-gold-case-white-mother-of-pearl-dial-with-red-dragon-and-fenghuang-chinese-paper-cutting-hand-wound-nickel-silver-movement/",
-"e": "Ouro rosa, madrepérola branca com dragão e fenghuang vermelhos em papel recortado, corda manual, 2016. Visto no artigo da Masterhorologer (link do artigo).",
 "src": "https://masterhorologer.com/arnold-son-watches-archives/"
 },
 "N:golden wheel (versão 2016)": {
@@ -1792,7 +1778,7 @@
 "src": "https://www.arnoldandson.com/collections/globetrotter/1wtar-u02c-c153r/"
 },
 "1LCAPM08AC110A": {
-"n": "HM (Métiers d'Art)",
+"n": "HM Dragon & Fenghuang – edição limitada",
 "c": "1LCAP.M08A.C110A",
 "img": "https://everywatch.com/arnold-son/instrument-collection/1lcap-m08a-c110a/watch-34636630",
 "e": "Ouro rosa, mostrador vermelho. Visto só em anúncio (link do anúncio).",
@@ -2021,5 +2007,47 @@
 "img": "https://www.hourstriker.com/database/arnold--son-main-catalog-gmt-timekeeper-iii-1m3aps01ac35b-11578",
 "e": "Visto só no banco de dados Hourstriker (link da página).",
 "src": "https://www.hourstriker.com/database/arnold--son/gmt-ii"
+},
+"1LCAPM09AC110A": {
+"n": "HM Falcon",
+"c": "1LCAP.M09A.C110A",
+"img": "https://en.worldtempus.com/watches/hm-falcon-17860.html",
+"e": "Peça única. Métiers d'Art; ouro rosa, miniatura pintada à mão em madrepérola branca, corda manual, 2017. Visto só no título da página da Worldtempus (link da página).",
+"src": "https://en.worldtempus.com/watch-brand/arnold-and-son-1"
+},
+"1LCAPM06A": {
+"n": "HM Flowers",
+"c": "1LCAP.M06A",
+"img": "https://content1.hourstriker.com/images/dbitems/medium/arnold-son-hm-flowers-1lcapm06a-9-17-2026.webp",
+"e": "",
+"src": "https://www.hourstriker.com/database/arnold--son/hms"
+},
+"1LCAPM05A": {
+"n": "HM Flowers",
+"c": "1LCAP.M05A",
+"img": "https://www.hourstriker.com/database/arnold--son-hms-hm-flowers-1lcapm05a-37941",
+"e": "Visto só no banco de dados Hourstriker (link da página).",
+"src": "https://www.hourstriker.com/database/arnold--son/hms"
+},
+"1LCAPM03A": {
+"n": "HM Flowers",
+"c": "1LCAP.M03A",
+"img": "https://www.hourstriker.com/database/arnold--son-hms-hm-flowers-1lcapm03a-37940",
+"e": "Visto só no banco de dados Hourstriker (link da página).",
+"src": "https://www.hourstriker.com/database/arnold--son/hms"
+},
+"1H6APD09AC60B": {
+"n": "H.M.S. Victory",
+"c": "1H6AP.D09A.C60B",
+"img": "https://www.hourstriker.com/database/arnold--son-hms-arnold-and-son-victory-1h6apd09ac60b-12207",
+"e": "Visto só no banco de dados Hourstriker (link da página).",
+"src": "https://www.hourstriker.com/database/arnold--son/hms"
+},
+"1L2ASB03AK02B": {
+"n": "Longitude II Arctic",
+"c": "1L2AS.B03A.K02B",
+"img": "https://www.hourstriker.com/database/arnold--son-longitude-ii-arctic-1l2asb03ak02b-26084",
+"e": "Visto só no banco de dados Hourstriker (link da página).",
+"src": "search:hourstriker longitude"
 }
 }
