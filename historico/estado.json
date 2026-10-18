@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 118,
-  "ultima_versao": 113,
+  "proxima_linha_marcas": 121,
+  "ultima_versao": 114,
   "historico": [
     {
       "data": "2026-10-16",
@@ -535,6 +535,42 @@
       "fontes": 64,
       "passadas": "P1 49/29; P2 15/0",
       "obs": "Tratada como grande (peças únicas/sob encomenda), sozinha. Numeração AdC1–AdC37, AdC88, AdC99; buracos 13, 27, 34–36 não achados; AdC10/19/24/26/32 sem foto (link da página oficial). Próxima: Atelier Holgur (118)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 114,
+      "marca": "Atelier Holgur",
+      "linha_marcas": 118,
+      "linhas_relogios": "10149-10152",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 17,
+      "obs": "Site oficial não aparece em busca; sem logo."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 114,
+      "marca": "Atelier Jalaper",
+      "linha_marcas": 119,
+      "linhas_relogios": "10153-10162",
+      "relogios": 10,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 22,
+      "obs": "DB5 AJ001/AJ002 S/B, Miura AJ-P400 V/B/O/N, E-Type AJ-003 B/W."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 114,
+      "marca": "Atelier Loiseau",
+      "linha_marcas": 120,
+      "linhas_relogios": "10163-10167",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "obs": "1f4 + 4 relógios de bolso históricos de D. Loiseau; Rose des Temps (mesa) e Alpha-Omega (autômato) fora. Próxima: Atelier Millesime (121)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
