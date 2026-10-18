@@ -398,5 +398,25 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-18T08:41:04Z",
+ "ultimo_sinal": "2026-10-18T08:45:13Z",
+ "em_andamento": {
+  "marcas": [
+   "Artime"
+  ],
+  "linha_marcas": 107,
+  "grande": false,
+  "relogios": "historico/parcial_artime_relogios.txt",
+  "fontes": "historico/parcial_artime_fontes.txt",
+  "notas": "historico/notas_artime.md",
+  "secoes_feitas": [
+   "1",
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "passada": 1
  }
 }
