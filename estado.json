@@ -307,5 +307,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-18T03:41:38Z",
+ "ultimo_sinal": "2026-10-18T03:41:38Z",
+ "em_andamento": {
+  "marcas": [
+   "Arnold & Son"
+  ],
+  "linha_marcas": 100,
+  "grande": true,
+  "relogios": "historico/parcial_arnold_relogios.txt",
+  "fontes": "historico/parcial_arnold_fontes.txt",
+  "notas": "historico/notas_arnold.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
