@@ -19,3 +19,13 @@ Decisão: usa_codigos=false (projetos por nome); ref do Rolex/Patek base vai na 
 ## 1ª passada encerrada (3+ fontes seguidas sem novidade). Decisão: VERMELHO (ateliê de encomendas, muitas peças de clientes não publicadas; lista oficial com 3 páginas não totalmente alcançável; projetos antigos retirados do site novo). Iniciando 2ª passada: buscar páginas 2/3 da lista oficial por nome, coleções antigas (/collections/), leilões, lojas.
 - P2: fr/collections/lk01 deu CLIENT_ERROR (não aberto).
 - Séries (Commit): TRIBUTE, LAB (Roughmat Carbon/Diver), COLLAB, MONOCLE (Blausee).
+## 2ª passada encerrada: 13 fontes novas, 0 relógios novos (só fotos oficiais e detalhes). Sem 3ª passada.
+## 10b Auto-auditoria
+1. Imprensa oficial (/en/press) lida; blog não existe; páginas de projetos oficiais (26) abertas ou buscadas. Todos os nomes citados estão na lista.
+2. §2c: várias buscas site:artisansdegeneve.com/en/challenges com termos diferentes até não surgirem páginas novas; lista oficial tem 3 páginas, só a 1ª alcançável (paginação ?32647a93_page=N não veio de busca).
+3. Lojas: Wristcheck, 1stDibs, Wrist Aficionado, European Watch, Collecting Cars, Takuya, Timepiece Trader, BQ, Bachmann & Scher, Collection Heure, eBay.
+4. Primeiro modelo público: Tribute to 6263 (2016) – ok. Fundação 2005 (John Isaac).
+5. I/J da aba Marcas: La Barrichello, La Montoya, McEnroe Challenge (Lefty) – todos achados.
+6. Edições limitadas e colaborações na B; peças únicas marcadas na E.
+7. 122 fontes (109 P1 + 13 P2).
+Resultado: 72 relógios, vermelho, gravado v105, linhas 9026-9097.

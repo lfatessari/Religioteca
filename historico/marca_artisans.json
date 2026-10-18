@@ -1,0 +1,621 @@
+{
+ "marca": "Artisans De Genève",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://hourstriker.com/brands/artisans-de-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/artisans-de-geneve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/buy/artisans-de-geneve",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.com/brands/luxury-watches/artisans-de-geneve-custom-rolex-daytona-submariner-neon-scona-rusty-sea-shepherd",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.fratellowatches.com/artisans-de-geneve-juan-pablo-montoya/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/artisans-de-geneve",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://mensgear.net/the-artisans-de-geneve-watch-pays-homage-to-the-6536-brown-rolex-submariner/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/artisans-de-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/artisans-de-geneve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/artisans-de-geneve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/les-artisans-de-geneve-tribute-rolex-daytona-6263-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ablogtowatch.com/les-artisans-geneve-kravitz-design-lk-01-customized-rolex-daytona-watch-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/the-artisans-de-geneve-kraft-signature-watch-draws-inspiration-from-classic-cars/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/artisans-de-geneve-andrea-pirlo-project-skeleton-rolex-submariner-114060-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/artisans-de-geneve-la-blausee-skeletonized-handwound-custom-rolex-daytona-review-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/artisans-de-geneve-la-barrichello-skeletonized-rolex-daytona-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/artisans-de-geneve-honey-pearl-project-a-skeletonized-gold-nautilus-5711-hands-on/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/artisans-de-geneve-the-pearl-project-skeletonised-patek-philippe-nautilus-5711/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/the-brooklyn-skeleton-daytona-that-artisans-de-geneve-created-with-spike-lee/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/les-artisans-de-geneve-cool-hand-brooklyn-customized-rolex-daytona-watch-spike-lee/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/les-artisans-de-geneve-la-montoya-rolex-daytona-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.everestbands.com/blogs/bezel-barrel/who-are-les-artisans-de-geneve-la-montoya-daytona-uncatchable-gmt-and-more",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://masterhorologer.com/artisans-de-geneve-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/press",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2021/08/13/artisans-de-geneve-the-maggiore-challenge/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2020/08/29/artisans-de-geneve-the-honey-blue-challenge/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2020/12/18/artisans-de-geneve-the-zinal-challenge/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2021/03/16/artisans-de-geneve-the-mika-hakkinen-challenge/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2020/10/27/artisans-de-geneve-the-andrea-pirlo-azzurro-challenge/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2020/02/27/artisans-de-geneve-the-tribute-to-6263-albino-project/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2019/02/28/artisans-de-geneve-tribute-to-6240-tropical-limited-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2019/11/11/artisans-de-geneve-la-blausee-gold-an-artisans-members-club-exclusive/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2019/01/27/artisans-de-geneve-la-montoya-gold/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/article/20201124-rolex-Artisans-de-Geneve-watches/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://masterhorologer.com/2023/01/20/artisans-de-geneve-honey-green/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2022/04/08/artisans-de-geneve-grand-bleu/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2022/09/28/artisans-de-geneve-world-traveler/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2023/05/09/artisans-de-geneve-the-uncatchable/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2022/07/19/artisans-de-geneve-x-gianluigi-buffon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2021/12/21/artisans-de-geneve-the-amstrong-project/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2021/07/07/artisans-de-geneve-the-shades-of-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://collecting.com/for-sale/2021-artisans-de-geneve-sea-shepherd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2024/5/artisans-de-geneve-rolex-daytona-warm-burgundy-project-info",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2024/10/artisans-de-geneve-rolex-daytona-ventura-info",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-spider-daytona-rolex-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2026/9/artisans-de-geneve-val-viola-mr-a-n-is-custom-watch-rolex-submariner-16610-info",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://planoinformativo.com/992135/patek-philippe-nautilus-musher-de-artisans-de-geneve-una-pieza-sin-precedentes",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/artisans-de-geneve-absolute-ruby/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://rubberb.com/blog/skeletonized-rolex-submariner-rubber-b-and-artisans-de-geneve-rolex-skeleton/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/luxusuhren/artisans-de-geneve-absolute-ruby",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.maxim.com/style/this-ruby-studded-rolex-daytona-from-artisans-de-geneve-is-a-customized-classic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/eine-daytona-als-abbild-der-eigenen-persoenlichkeit-artisans-de-geneve-la-montoya-rose",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristaficionado.com/collections/rolex-artisans-de-geneve",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.motorsport.com/general/news/rolex-daytona-watch-limited-edition-montoya/4304745/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-superamerica-daytona-copper",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-nautilus-5711-blackstone-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-caumasee-patek-philippe-aquanaut-5167a",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://professionalwatches.com/introducing-the-artisans-de-geneve-rough-matte-diver/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-neon-rolex-daytona-manual-wound-yellow-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/category/Artisans+de+Gen%C3%A8ve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/rolex-114060-artisans-de-geneve-rough-matte-carbon-35823",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/artisans-de-geneve-poetry-of-lights-rolex-daytona",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/artisans-de-geneve-rolex-daytona-arolla-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bqwatches.com/product-category/buy-a-rolex/daytona/artisans-de-geneve-tribute-to-6240",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono1010.com/en/blog/2459",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono1010.com/en/blog/2380",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreporter.beehiiv.com/p/artisans-de-geneve-rolex-tuners",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collection-heure.be/en/watch/24959/submariner-andrea-pirlo-artisans-de-geneve-231618q0-full-set",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiecetrader.com/product-category/artisans-de-geneve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.everestbands.com/blogs/bezel-barrel/more-on-custom-rolex-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/artisans-de-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://commit-watch.co.jp/en/blogs/kaneko/143",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coronet.org/new-1minute-reads/artisans-geneve-rolex-gmt-master-worldtimer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2025/2/artisans-de-geneve-rolex-submariner-brown-ice-info",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.grandprixwatches.com/brand/artisans-de-geneve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coronet.org/new-1minute-reads/artisans-de-genve-unveils-new-custom-rolex-daytona",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.everestbands.com/blogs/bezel-barrel/les-artisans-de-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/eternal-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/infinity",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/heart-of-namibia",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/the-66-g",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/autumn-leaves",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/lab01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/agassi-challenge",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/cyano",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/musher",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/luca-rubinacci-signature",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/the-tropical-challenge/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/the-exotic-challenge/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collecting.com/de/for-sale/2019-artisans-de-gen-ve-la-montoya-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collecting.com/for-sale/2021-artisans-de-geneve-the-mika-hakkinen-challenge",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.takuyawatches.com/product/rolex-gmt-master-2-artisans-de-geneve-the-uncatchable-project-full-set/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/rolex-artisans-de-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/29018.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/editors-picks/artisans-de-geneve-/732.1278151.10773931/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/artisans-de-geneve/watch-11820101",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/watch/rolex-116520-artisans-de-geneve-tribute-to-daytona-6263-ii-big-re-28781",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/artisans-de-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/the-artisans-of-geneva/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristonomy.com/blogs/tws-blog/artisans-de-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montres-passion.fr/?p=11460",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/watch/rolex-6241-gold-paul-newman-artisans-de-geneve-tribute-to-daytona-30264",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=107458",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/artisans-de-geneve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/tags/artisans-de-geneve/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/how-artisans-de-geneve-brings-personal-stories-to-the-wrist/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/afrika/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/scona",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artisansdegeneve.com/en/challenges/warm-burgundy",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/jp/tags/artisans-de-geneve",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/new-entries/artisans-de-geneve-tribute-to-6536-ref-262652a-11-stainless-steel-tropic-dial-small-crown-box-papers-bj-2019-16867.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://commit-watch.co.jp/en/blogs/column/yt-7",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/artisans-de-geneve?_nkw=artisans+de+geneve",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/artisans-de-geneve-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monaco1.com/ads_type/rolex-daytona-artisans-de-geneve-piece-unique-with-box-and-papers-116520-2023/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/213688-rolex-daytona",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicdriver.com/de/node/638920",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/artisans-de-geneve-crafting-the-ultimate-custom-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/tags/artisans-de-geneve",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
