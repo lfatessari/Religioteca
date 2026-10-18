@@ -12,3 +12,5 @@
 - EveryWatch: 71 à venda + 259 vendidos = 330 → GRANDE; anúncios genéricos (sem nome) não viram linha.
 - Lista do site em oficial_p1_2.txt (nome|slug) — juntar com dedupe.
 1|busca site:artya.com/product-page (shams, earth, skull, race, butterfly, gun, sound)|26
+- Gears Chronograph: configurável (caixa x movimento x esmalte x pulseira), cada combinação 1/1 → VERMELHO
+- 1ª passada encerrada ~12:05 UTC (últimas: cwsellors 0, jura blog 0, hourstriker learn 0 — mas abtw/europastar ainda deram; encerrada por cobertura ampla, ver relatório). Próximo: dedupe + 2ª passada (peças únicas, Gears, Butterfly, Only Watch, leilões).
