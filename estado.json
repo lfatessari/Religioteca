@@ -668,5 +668,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-18T21:41:47Z",
+  "ultimo_sinal": "2026-10-18T21:41:47Z",
+  "em_andamento": {
+    "marcas": [
+      "Atowak"
+    ],
+    "linha_marcas": 126,
+    "grande": false,
+    "relogios": "historico/parcial_atowak_relogios.txt",
+    "fontes": "historico/parcial_atowak_fontes.txt",
+    "notas": "historico/notas_atowak.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
