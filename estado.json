@@ -322,17 +322,20 @@
   }
  },
  "em_execucao": "2026-10-18T06:41:19Z",
- "ultimo_sinal": "2026-10-18T06:41:19Z",
+ "ultimo_sinal": "2026-10-18T06:49:56Z",
  "em_andamento": {
   "marcas": [
-   "Arsène Lippens"
+   "Arsène Lippens",
+   "Art Mecanique"
   ],
-  "linha_marcas": 101,
+  "linha_marcas": 102,
   "grande": false,
-  "relogios": "historico/parcial_ArseneLippens_relogios.txt",
-  "fontes": "historico/parcial_ArseneLippens_fontes.txt",
-  "notas": "historico/notas_ArseneLippens.md",
-  "secoes_feitas": [],
+  "relogios": "historico/parcial_ArtMecanique_relogios.txt",
+  "fontes": "historico/parcial_ArtMecanique_fontes.txt",
+  "notas": "historico/notas_ArtMecanique.md",
+  "secoes_feitas": [
+   "Arsène Lippens: todas, gravada em temporário"
+  ],
   "passada": 1
  }
 }
