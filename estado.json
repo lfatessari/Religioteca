@@ -641,5 +641,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-18T20:41:06Z",
+  "ultimo_sinal": "2026-10-18T20:41:06Z",
+  "em_andamento": {
+    "marcas": [
+      "Atlantic"
+    ],
+    "linha_marcas": 125,
+    "grande": true,
+    "relogios": "historico/parcial_atlantic_relogios.txt",
+    "fontes": "historico/parcial_atlantic_fontes.txt",
+    "notas": "historico/notas_atlantic.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
