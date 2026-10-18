@@ -10,3 +10,4 @@ usa_codigos: true (SKUs próprios / refs dos fabricantes) — revisar.
 - Marca será VERMELHA: dezenas de Rolex personalizados pela Asprey (2009–2025, Bamford, peças únicas), índice CollectorSquare com 76 resultados (só 40 visíveis), 1stDibs sem fotos, catálogo Asprey 2000 (119 págs) não acessível.
 - Próximo (2ª passada, 10+ fontes novas): asprey.com/products/the-entheus-r2-38mm-watch-in-18ct-rose-gold-blue.oembed, royaljewelers.com/products/asprey-no-8 (model 08-A), watchcollectinglifestyle.com/home/tag/Asprey+of+London, quillandpad Heures du Monde, monochrome Andersen×Asprey, Sotheby's 116500LN 2023, Rolex personalizados (everywatch/Monaco/Sotheby's N11529 lotes 8, 66).
 - Excluídos: CollectorSquare 116518L (provável = 116518LN), 1008254 "chronograph" Christie's (conflito com Hourstriker), pêndulas/relógios de mesa.
+- P2 encerrada (17 fontes, 7 novos) → precisa P3 (10+ fontes novas). Antiquorum 'made for Asprey' = só pêndulas.
