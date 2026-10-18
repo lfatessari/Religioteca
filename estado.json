@@ -582,5 +582,21 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-18T18:41:55Z",
+  "ultimo_sinal": "2026-10-18T18:41:55Z",
+  "em_andamento": {
+    "marcas": [
+      "Atelier Millesime",
+      "Atelier Nossedh",
+      "Atelier Wen"
+    ],
+    "linha_marcas": 121,
+    "grande": false,
+    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "fontes": "historico/parcial_<marca>_fontes.txt",
+    "notas": "historico/notas_<marca>.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
