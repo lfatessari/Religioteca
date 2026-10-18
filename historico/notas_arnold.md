@@ -10,3 +10,4 @@
 2 (história/ chronometry / novelties / métiers d'art / press), 2c, 3, 4, 5 (WatchBase Instrument/Métiers, Hourstriker, Coveted, Worldtempus, gressive.jp), 6, 7 (W&W, Whamond, Sellors, WoS, Second Movement), 8, 9, 10
 - Chrono24 (pre-owned-watches--used.htm) apareceu em busca mas deu CLIENT_ERROR
 - Logo possível: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/arnold-et-son/logo_fond_blanc_arnoldson.jpg?itok=6uZz5Zu6
+- Dragon & Phoenix: os 4 códigos oficiais 1UTAR.Z01A–Z05A cobrem as pedras (bronzita, pietersita, verdita...); linhas sem código removidas p/ não duplicar
