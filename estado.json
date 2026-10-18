@@ -643,7 +643,7 @@
     }
   },
   "em_execucao": "2026-10-18T20:41:06Z",
-  "ultimo_sinal": "2026-10-18T21:14:25Z",
+  "ultimo_sinal": "2026-10-18T21:15:56Z",
   "em_andamento": {
     "marcas": [
       "Atlantic"
@@ -666,7 +666,8 @@
       "9",
       "10",
       "10b",
-      "p2"
+      "p2",
+      "p3"
     ],
     "passada": 3
   }
