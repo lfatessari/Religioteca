@@ -309,7 +309,7 @@
   }
  },
  "em_execucao": "2026-10-18T03:41:38Z",
- "ultimo_sinal": "2026-10-18T03:51:42Z",
+ "ultimo_sinal": "2026-10-18T03:57:36Z",
  "em_andamento": {
   "marcas": [
    "Arnold & Son"
@@ -320,7 +320,9 @@
   "fontes": "historico/parcial_arnold_fontes.txt",
   "notas": "historico/notas_arnold.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2-parcial",
+   "5-parcial"
   ],
   "passada": 1,
   "db": "historico/db.json"
