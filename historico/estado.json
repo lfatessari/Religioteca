@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 108,
- "ultima_versao": 104,
+ "proxima_linha_marcas": 109,
+ "ultima_versao": 105,
  "historico": [
   {
    "data": "2026-10-16",
@@ -400,6 +400,19 @@
    "fontes": 30,
    "passadas": "P1 30/7",
    "obs": "Gravada na v104 por execução anterior que caiu antes de atualizar o estado.json; corrigido na execução seguinte"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 105,
+   "marca": "Artisans De Genève",
+   "linha_marcas": 108,
+   "linhas_relogios": "9026-9097",
+   "relogios": 72,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 122,
+   "passadas": "P1 109/72, P2 13/0",
+   "obs": "Ateliê de customização (Genebra, 2005, John Isaac); projetos sobre Rolex/Patek/AP; lista oficial /en/challenges com 3 páginas, só a 1ª alcançável; sem logo; próxima Artur Akmaev"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -411,31 +424,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-18T09:41:52Z",
- "ultimo_sinal": "2026-10-18T10:04:52Z",
- "em_andamento": {
-  "marcas": [
-   "Artisans De Genève"
-  ],
-  "linha_marcas": 108,
-  "grande": true,
-  "relogios": "historico/parcial_artisans_relogios.txt",
-  "fontes": "historico/parcial_artisans_fontes.txt",
-  "notas": "historico/notas_artisans.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
  }
 }
