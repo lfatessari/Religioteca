@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 104,
- "ultima_versao": 102,
+ "proxima_linha_marcas": 107,
+ "ultima_versao": 103,
  "historico": [
   {
    "data": "2026-10-16",
@@ -348,6 +348,45 @@
    "fontes": 18,
    "passadas": "P1 18 fontes/4",
    "obs": "Córdoba (La Carlota), asta de touro; site artauro.es (G vazio) sem nomes/fotos legíveis das coleções Classic/Skeleton; próxima Artefkt"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 103,
+   "marca": "Artefkt",
+   "linha_marcas": 104,
+   "linhas_relogios": "8963-8969",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": "parcial: artefktseven.com (site antigo) robots",
+   "fontes": 26,
+   "passadas": "P1 26 fontes/7",
+   "obs": "Detroit (EUA), Brandon Little; site artefktwatches.com (G vazio); Versa XC 5 cores + Trove 1/1 + protótipo A1; Kova anunciado sem foto; B/C/D/I da aba Marcas vazios ou genéricos"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 103,
+   "marca": "Artel Rotec",
+   "linha_marcas": 105,
+   "linhas_relogios": "8970-8975",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 18,
+   "passadas": "P1 18 fontes/6",
+   "obs": "Los Angeles (EUA), Matt Roknipour, 2018; catálogo fechado V1-V3 + Sky 4-6 conferido; site artelrotec.com (G vazio)"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 103,
+   "marca": "Arthur Oskar Stampfli",
+   "linha_marcas": 106,
+   "linhas_relogios": "8976-9018",
+   "relogios": 43,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 51,
+   "passadas": "P1 33/33, P2 10/10, P3 8/0",
+   "obs": "AOS Watches, Cressier (NE), Roland Stampfli, 2009/2010; site aos-watches.com (G vazio); 3ª passada só com 8 fontes novas (buscas esgotadas); próxima Artime"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
