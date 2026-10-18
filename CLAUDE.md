@@ -23,7 +23,7 @@ Uma execução pode ser cortada a qualquer momento pelo limite de uso, sem chanc
   - `parcial_<marca>_relogios.txt` — uma linha por relógio já achado, no formato do `dados` (`Nome|CÓDIGO|URL_imagem|Características`);
   - `parcial_<marca>_fontes.txt` — uma linha por fonte já aberta: `passada|url|novos`;
   - e as notas `notas_<marca>.md` (seções já feitas, o que falta, buracos, decisões).
-- **A cada 10 a 15 fontes abertas** (e sempre ao terminar uma seção da skill): copiar esses arquivos para `historico/`, atualizar `ultimo_sinal` e o `em_andamento` no `estado.json`, commit "Parcial: <marca> (N fontes, M relógios)" e push. Não esperar o fim para salvar.
+- **A cada 10 a 15 fontes abertas OU a cada 20 minutos, o que vier primeiro** (e sempre ao terminar uma seção da skill): copiar esses arquivos para `historico/`, atualizar `ultimo_sinal` e o `em_andamento` no `estado.json`, commit "Parcial: <marca> (N fontes, M relógios)" e push. Não esperar o fim para salvar. Mesmo sem nenhuma novidade (páginas lentas, buscas sem resultado), fazer o salvamento ao completar 20 minutos, só para atualizar `ultimo_sinal`: uma execução viva nunca pode ficar 40 minutos sem dar sinal, senão a seguinte a considera morta e as duas trabalham ao mesmo tempo. Conferir a hora com `date -u` antes de cada pesquisa nova.
 - `em_andamento` fica assim: `{"marcas": ["<marca>"], "linha_marcas": N, "grande": true|false, "relogios": "historico/parcial_<marca>_relogios.txt", "fontes": "historico/parcial_<marca>_fontes.txt", "notas": "historico/notas_<marca>.md", "secoes_feitas": ["1","2","2c",...], "passada": 1}`.
 
 ## Retomar
