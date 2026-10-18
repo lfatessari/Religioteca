@@ -5,3 +5,5 @@
 - TWP brand page: 43 relógios, todos na lista (inclui Stradivari aço). Chrono24 bloqueado (CLIENT_ERROR). Royal Coster redireciona p/ royalcoster.com (não aberto).
 - Peças únicas: Only Watch 2019, Casino de Monte-Carlo, GP Monaco 1966 (TB-GP2), GP 1968 (MC-GP3), Wat Arun (TB-WA-WG e PDG-EWA-YG), Ronde diamantes negros.
 - Buracos: GP1? (GP2 e GP3 existem); Ronde d'Or variantes (só RRR-GN e ouro rosa); Ronde MC feminino 617 diamantes; QP Turini; site oficial não aparece em busca.
+- 1ª passada encerrada: 6 fontes seguidas sem modelo novo (abtw PdG Saphir, timeandwatches, watchtime, escapement x2, cijintl).
+- Decisão: VERMELHA (peças únicas sob encomenda, coleção feminina Ronde MC de 5 peças só parcialmente identificada, Ronde d'Or com variantes sem código, GP1 provável). 2ª passada: ≥10 fontes novas indo atrás disso.
