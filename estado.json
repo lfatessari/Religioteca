@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 109,
-  "ultima_versao": 106,
+  "proxima_linha_marcas": 110,
+  "ultima_versao": 107,
   "historico": [
     {
       "data": "2026-10-16",
@@ -419,6 +419,19 @@
       "versao": 106,
       "marca": "(coluna M)",
       "obs": "A pedido do usuário: coluna M \"Observações\" criada na aba Marcas com 16 observações de dados errados já relatadas (Aquastar, Archetype, ARC-TIC, Arcturus, Arlanch, Armand Nicolet, Armando Legin, Armida, Armitron, Arsène Lippens, Art Mecanique, Artauro, Artefkt, Artel Rotec, Arthur Oskar Stampfli, Artisans De Genève); nenhuma outra célula mudou"
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 107,
+      "marca": "Artur Akmaev",
+      "linha_marcas": 109,
+      "linhas_relogios": "9098-9120",
+      "relogios": 23,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 47,
+      "passadas": "P1 36/22, P2 11/1",
+      "obs": "Peças únicas e sob encomenda; site atual akmaev.com (JS, ilegível); refs Masterpiece/Carbon da Arlington Watch Works; sem logo; próxima ArtyA (provavelmente grande)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -430,25 +443,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-18T10:41:31Z",
-  "ultimo_sinal": "2026-10-18T10:47:44Z",
-  "em_andamento": {
-    "marcas": [
-      "Artur Akmaev"
-    ],
-    "linha_marcas": 109,
-    "grande": true,
-    "relogios": "historico/parcial_akmaev_relogios.txt",
-    "fontes": "historico/parcial_akmaev_fontes.txt",
-    "notas": "historico/notas_akmaev.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "6",
-      "7"
-    ],
-    "passada": 1
   }
 }
