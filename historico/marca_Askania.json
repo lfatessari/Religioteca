@@ -1,0 +1,782 @@
+{
+ "marca": "Askania",
+ "usa_codigos": true,
+ "logo": "https://askania.berlin/wp-content/uploads/2022/09/logo-askania-berlin.svg",
+ "site_bloqueado": "Parcial – askania.berlin: páginas 3–19 da loja e várias fichas de produto não alcançadas (só abrem links vindos de busca; no fim, erro de servidor); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I: Watch-Wiki indica reabertura da marca em jan/2006 (I diz 2004–2006). Status a verificar: Northdata marca a Askania AG como 'liq' e há tópico no Uhrforum sobre dificuldades da empresa. Coleções antigas não citadas em J: Heinkel, Heinkel Kadett, Kleine Taifun, Avus, KuDamm 170, Odessa.",
+ "fontes": [
+  {
+   "url": "https://askania.berlin/en/collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/luxusuhren-herren/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/taifun/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/tegel/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/tempelhof/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/alexanderplatz/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/bremen/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/c-bamberg/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/avus/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/150-jahre-jubilaeum/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/elly-beinhorn/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/luxusuhren-damen/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/page/10/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/page/15/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/produkt-kategorie/armbanduhren/kudamm170/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://askania.berlin/showroom-quadriga/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myaskania.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-taifun/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-tegel/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-tempelhof/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-bremen/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-beinhorn/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-bamberg/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-alexanderplatz/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/showroom-kudamm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania-Online-Shop",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania-Online-Shop_s2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d3e81cr6wop7bh.cloudfront.net/service_providers/pdf/000/050/085/original/ASKANIA_Katalog_2010.pdf",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://www.classic-watch.de/Greenmaster",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania-OnlineShop_s17",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/qua-1751/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/qua-1143/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.michael-polster.de/2012/08/askania-c-bamberg-quadriga-2012-handaufzug-sterling-silber-limitiert/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/veroeffentlichungen/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/wp-content/uploads/2018/02/Uhren-Magazin_Kompendium2018.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/wp-content/uploads/2018/02/Chronos_Sportuhren-Katalog_2018.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/page/9/?filter_band-bandmaterial=leder%2Ckordel-braun&query_type_band-bandmaterial=or",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania-Tempelhof_1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Taifun_1",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://askania.berlin/shop/tem-6102/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/askania/index.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/askania",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chrono24.com/askania/tempelhof--mod2281.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchlex.com/askania",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/askania/watch-13346380",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/askania/bremen/watch-13777294",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/askania/bremen/watch-12125210",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/askania/tem-6212--id32372040.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.armbanduhren-online.de/askania-150-jahre/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/odessa-sondermodell/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/uhren-berlin-avu-3641/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/qua-1151/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/qua-1141/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/qua-1142/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/qua-1144/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/en/product-category/wristwatches/quadriga-en/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch-wiki.org/index.php?title=Askania",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://juwelier-elze.de/uhren/askania/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classic-watch.de/Quadriga_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/qua-1651/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/qua-1951/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montredo.com/blogs/magazine/the-one-and-only-capital-city-watch-askania-from-berlin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/tai-5648/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/uhren-berlin-tai-5646-taifun/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7857/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/teg-9802/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/tem-6111/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/ku1711/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.herando.co.uk/watches/askania",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.com/shop/askania?_nkw=askania",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2020/01/askania-bremen-taifun-tempelhof.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.de/germany/askania-tegel-stahl-quarz-lederband-44mm-neu-mit-zertifikat-uber-595.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Askania-Armbanduhren/31387/bn_1687296",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleinanzeigen.de/s-askania-uhren/k0",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/33533543-askania-berlin-chronometre---",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/uhren-datenbank/marke/askania/3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/askania-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.der-uhrengourmet.de/marken-modelle/11-askania-tradition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.montres-de-luxe.com/Askania-les-montres-de-l-horloger-berlinois-presentees-sur-le-marche-francais_a4109.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/askania-the-berlinale-watch.124695/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://docplayer.org/amp/42625853-askania-werke-ag-138-jahre-berliner-tradition.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/284666865897",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/bre-4401/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/bei-7652/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7655/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7656/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7658-elly-beinhorn-schwarzes-perlmutt-zifferblatt-gelber-ring/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/produkt/bei-7653/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7650/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/product-category/wristwatches/tegel-en/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Taifun_s2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chrono24.de/askania/tegel--mod2280.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/?attachment_id=18250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/teg-9701-g/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/teg-9701/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/ask-8010/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/ask-8051-g/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/ask-8050/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/ask-8040/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/C-Bamberg_1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania_1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania-Tegel_22_1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Tegel_1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Tegel_1_s3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania-Online-Shop_s13",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Elly-Beinhorn_1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/de/kollektion/c-bamberg/item/ask-8004",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/en/shop/bei-7755s/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/en/product-category/wristwatches/tempelhof-en/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/tai-5712/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Alexanderplatz_1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montredo.com/askania-tempelhof-watches-ode-to-a-berlin-landmark/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://allwatches.org/en/askania-taifun~81-p34475/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://askania.berlin/en/product-category/luxury-ladies-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.enjoyyourwatch.com/en/askania-pilot-watch-taifun-tai-5005-en_2416_2385",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.de/blog/zeitmesser-von-askania/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/es/askania/",
+   "passada": 2,
+   "novos": 11
+  },
+  {
+   "url": "https://allwatches.org/en/askania-heinkel-p27092/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://allwatches.org/pl/askania-heinkel-heinkel-blitz~91-p42198/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/fr/askania-alexanderplatz~9-p39693/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/it/askania-quadriga-quadriga-2011-p33194/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/es/askania-goliath-goliath-chrono-p32325/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/fr/askania/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://uhrforum.de/threads/askania-heinkel-blitz.499643/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://archive.watch.de/archive_germany/askania-heinkel-kadett-automatic-38mm-uvp-899-n-e-u.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleinanzeigen.de/s-heinkel-uhr/k0",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gebraucht-kaufen.de/askania-uhr",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://uhrforum.de/threads/askania-fan-club.480182/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.fi/askania/tempelhof--id13675870.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classic-watch.de/Askania-Bremen_4_1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/produkt/teg-9801/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/produkt/ale-2722/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/produkt/teg-655/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/teg-9803/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/tem-6201/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/uhren-berlin-tem-6222/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/teg-9702-g/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/teg-9702/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/showroom-avus/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/ask-8041/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/ask-8011-g/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://askania.berlin/en/shop/watches-berlin-ask-8011-c-bamberg/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/uhren-berlin-avu-3630/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/elly-beinhorn-automatik-white-green/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7855/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7850/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/shop/bei-7850r/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/?attachment_id=18235",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/uhren-berlin-avu-3612/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://askania.berlin/en/shop/teg-9902/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

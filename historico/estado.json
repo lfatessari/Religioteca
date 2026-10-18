@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 111,
-  "ultima_versao": 108,
+  "proxima_linha_marcas": 112,
+  "ultima_versao": 109,
   "historico": [
     {
       "data": "2026-10-16",
@@ -445,6 +445,19 @@
       "fontes": 89,
       "passadas": "P1 65/417, P2 13/26, P3 11/3",
       "obs": "Grande (peças únicas, Gears configurável). Site artya.com só achado com busca extended; all-watches p4–8 e store-products-sitemap não alcançados. 147 linhas com link de artigo do Master Horologer e ~240 com link da página oficial (sem foto direta). Próxima: Askania (linha 111)."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 109,
+      "marca": "Askania",
+      "linha_marcas": 111,
+      "linhas_relogios": "9584-9833",
+      "relogios": 250,
+      "vermelho": true,
+      "site_bloqueado": "parcial",
+      "fontes": 154,
+      "passadas": "P1 103/213, P2 27/28, P3 24/2",
+      "obs": "Grande. Catálogo 2010 (44 refs antigas), Quadriga 2006–2025 quase completa (falta 2024, se existir), allwatches com refs antigas (Heinkel, Heinkel Blitz, Goliath). ~76 linhas com link de página em vez de foto (askania.berlin deu erro de servidor no fim). Próxima: Aspen (linha 112)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
