@@ -361,7 +361,7 @@
   }
  },
  "em_execucao": "2026-10-18T07:41:41Z",
- "ultimo_sinal": "2026-10-18T07:46:02Z",
+ "ultimo_sinal": "2026-10-18T07:49:39Z",
  "em_andamento": {
   "marcas": [
    "Artefkt",
@@ -374,7 +374,8 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "Artefkt:1,2,2c"
+   "Artefkt: completa (26 fontes, 7 relógios, falta gravar)",
+   "Artel Rotec:1,2"
   ],
   "passada": 1
  }
