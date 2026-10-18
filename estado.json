@@ -432,7 +432,7 @@
     }
   },
   "em_execucao": "2026-10-18T10:41:31Z",
-  "ultimo_sinal": "2026-10-18T10:41:31Z",
+  "ultimo_sinal": "2026-10-18T10:45:25Z",
   "em_andamento": {
     "marcas": [
       "Artur Akmaev"
@@ -442,7 +442,10 @@
     "relogios": "historico/parcial_akmaev_relogios.txt",
     "fontes": "historico/parcial_akmaev_fontes.txt",
     "notas": "historico/notas_akmaev.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "3"
+    ],
     "passada": 1
   }
 }
