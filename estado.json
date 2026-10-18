@@ -458,7 +458,7 @@
     }
   },
   "em_execucao": "2026-10-18T12:41:23Z",
-  "ultimo_sinal": "2026-10-18T12:41:23Z",
+  "ultimo_sinal": "2026-10-18T12:44:38Z",
   "em_andamento": {
     "marcas": [
       "Askania"
@@ -468,7 +468,9 @@
     "relogios": "historico/parcial_Askania_relogios.txt",
     "fontes": "historico/parcial_Askania_fontes.txt",
     "notas": "historico/notas_Askania.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
