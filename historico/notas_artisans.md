@@ -15,3 +15,5 @@ Decisão: usa_codigos=false (projetos por nome); ref do Rolex/Patek base vai na 
 - História (site): fundada 2005 por John Isaac (Paris), Jean-Pierre Scherrer desde 2006 em Carouge; 1ª customização automática 2009. Primeiro modelo público conhecido: Tribute to 6263 (2016).
 - Páginas antigas (tropical, exotic etc.) redirecionam para a lista nova: os projetos antigos saíram do site novo.
 - EveryWatch: 23 anúncios (3 à venda, 20 vendidos) → pequeno em anúncios, mas grande por natureza (peças únicas sob encomenda). Daytona Blue Skeleton (1stdibs) tratado como o Cool Hand Brooklyn Skeleton (inferência) e removido.
+- Montres-Passion (2013): personalizações genéricas (DLC, mostrador pintado) em Air-King, Milgauss Phantom, Sub Date, Cartier Ballon Bleu, Daytona — sem nome de projeto, não viraram linhas (exceto nada).
+## 1ª passada encerrada (3+ fontes seguidas sem novidade). Decisão: VERMELHO (ateliê de encomendas, muitas peças de clientes não publicadas; lista oficial com 3 páginas não totalmente alcançável; projetos antigos retirados do site novo). Iniciando 2ª passada: buscar páginas 2/3 da lista oficial por nome, coleções antigas (/collections/), leilões, lojas.

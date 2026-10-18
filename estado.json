@@ -413,7 +413,7 @@
   }
  },
  "em_execucao": "2026-10-18T09:41:52Z",
- "ultimo_sinal": "2026-10-18T10:01:56Z",
+ "ultimo_sinal": "2026-10-18T10:03:23Z",
  "em_andamento": {
   "marcas": [
    "Artisans De Genève"
@@ -428,12 +428,14 @@
    "2",
    "2c",
    "3",
+   "4",
    "5",
    "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
