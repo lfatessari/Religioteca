@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 113,
-  "ultima_versao": 110,
+  "proxima_linha_marcas": 114,
+  "ultima_versao": 111,
   "historico": [
     {
       "data": "2026-10-16",
@@ -471,6 +471,19 @@
       "fontes": 54,
       "passadas": "P1 43/38, P2 11/1",
       "obs": "Duas empresas com o nome: Aspen Jewelry and Watches (luxo, 2009–2014: Aspen One, Black Piste, Downhill GT, Moguls, Zenvo ST1, Gondola, XII) e Aspen quartzo (AP31xx, Shoptictoc/Best Buy Canadá; 41 cores sem referência AP). Asprey (113) e seguintes ficam para as próximas; Asprey tratada como grande."
+    },
+    {
+      "data": "2026-10-18",
+      "versao": 111,
+      "marca": "Asprey Watches",
+      "linha_marcas": 113,
+      "linhas_relogios": "9906-10024",
+      "relogios": 119,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 119,
+      "passadas": "P1 78/96, P2 17/7, P3 24/8",
+      "obs": "Grande. Modelos próprios (No. 8 com ~23 refs, Tempus Fugit, Grand Date, Entheus R2) + peças de outras marcas vendidas/assinadas/personalizadas pela Asprey (Patek, Rolex khanjar de Omã, Rolex personalizados 2009–2025, Bamford, Genta, Daniel Roth, Corum, Piaget, AP) + colaborações Andersen. WebFetch parou ~10 min (limite de sessão) às 14:56 UTC. Próxima: Astor + Banks (114)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
