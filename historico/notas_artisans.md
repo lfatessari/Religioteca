@@ -13,3 +13,4 @@ Decisão: usa_codigos=false (projetos por nome); ref do Rolex/Patek base vai na 
 - Site oficial: extended search site:artisansdegeneve.com traz páginas /en/challenges/<x>. Novos: Autumn Leaves, The Story of 66g, Heart of Namibia, Infinity, Eternal Green.
 - Lista oficial de challenges tem 3 páginas (9 por página); página 1: Val Viola (Mr. A.N.I.), Autumn Leaves (L.V.), 66g (V.A.), Kraft, Spider (S.C.L.), Luca Rubinacci Signature, Andre Agassi, Infinity (J.Z.), Absolute Ruby (S.J.L.). Lab01 = Rough Matt Carbon (inferência: Commit diz que o Rough Matt Carbon é o 1º da série Lab).
 - História (site): fundada 2005 por John Isaac (Paris), Jean-Pierre Scherrer desde 2006 em Carouge; 1ª customização automática 2009. Primeiro modelo público conhecido: Tribute to 6263 (2016).
+- Páginas antigas (tropical, exotic etc.) redirecionam para a lista nova: os projetos antigos saíram do site novo.
