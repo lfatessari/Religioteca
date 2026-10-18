@@ -548,7 +548,7 @@
     }
   },
   "em_execucao": "2026-10-18T17:41:02Z",
-  "ultimo_sinal": "2026-10-18T17:41:02Z",
+  "ultimo_sinal": "2026-10-18T17:45:15Z",
   "em_andamento": {
     "marcas": [
       "Atelier Holgur",
@@ -560,7 +560,9 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "Atelier Holgur: completa"
+    ],
     "passada": 1
   }
 }
