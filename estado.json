@@ -497,7 +497,7 @@
     }
   },
   "em_execucao": "2026-10-18T15:41:39Z",
-  "ultimo_sinal": "2026-10-18T15:55:31Z",
+  "ultimo_sinal": "2026-10-18T15:58:34Z",
   "em_andamento": {
     "marcas": [
       "Astor + Banks",
@@ -511,7 +511,7 @@
     "notas": "historico/notas_astor.md",
     "secoes_feitas": [
       "Astor + Banks: completa (dados_astor.txt, marca_astor.json)",
-      "Astronic: 0"
+      "Astronic: 1,2,2c,5,7,9 (15 fontes, 27 relógios)"
     ],
     "passada": 1
   }
