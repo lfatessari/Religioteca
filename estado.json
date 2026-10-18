@@ -443,5 +443,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-18T11:41:04Z",
+  "ultimo_sinal": "2026-10-18T11:41:04Z",
+  "em_andamento": {
+    "marcas": [
+      "ArtyA"
+    ],
+    "linha_marcas": 110,
+    "grande": true,
+    "relogios": "historico/parcial_artya_relogios.txt",
+    "fontes": "historico/parcial_artya_fontes.txt",
+    "notas": "historico/notas_artya.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
