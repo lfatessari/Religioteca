@@ -456,5 +456,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-18T12:41:23Z",
+  "ultimo_sinal": "2026-10-18T12:41:23Z",
+  "em_andamento": {
+    "marcas": [
+      "Askania"
+    ],
+    "linha_marcas": 111,
+    "grande": true,
+    "relogios": "historico/parcial_Askania_relogios.txt",
+    "fontes": "historico/parcial_Askania_fontes.txt",
+    "notas": "historico/notas_Askania.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
