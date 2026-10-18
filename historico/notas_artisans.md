@@ -11,3 +11,5 @@ Decisão: usa_codigos=false (projetos por nome); ref do Rolex/Patek base vai na 
 - BQ Watches: Tribute to 6240.
 - Novos nomes: Musher (5711 gelo), Val Viola (Sub 16610), BlackStone (5711), Superamerica, Caumasee (5167A), Poetry of Lights, Absolute Ruby, Montoya Rose, Rough Matt Diver, Neon II
 - Site oficial: extended search site:artisansdegeneve.com traz páginas /en/challenges/<x>. Novos: Autumn Leaves, The Story of 66g, Heart of Namibia, Infinity, Eternal Green.
+- Lista oficial de challenges tem 3 páginas (9 por página); página 1: Val Viola (Mr. A.N.I.), Autumn Leaves (L.V.), 66g (V.A.), Kraft, Spider (S.C.L.), Luca Rubinacci Signature, Andre Agassi, Infinity (J.Z.), Absolute Ruby (S.J.L.). Lab01 = Rough Matt Carbon (inferência: Commit diz que o Rough Matt Carbon é o 1º da série Lab).
+- História (site): fundada 2005 por John Isaac (Paris), Jean-Pierre Scherrer desde 2006 em Carouge; 1ª customização automática 2009. Primeiro modelo público conhecido: Tribute to 6263 (2016).
