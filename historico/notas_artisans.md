@@ -9,3 +9,4 @@ Decisão: usa_codigos=false (projetos por nome); ref do Rolex/Patek base vai na 
 - Masterhorologer (32 artigos) lista: World Traveler 2022, Gianluigi Buffon 2022 (Datejust 1 ponteiro), Grand Bleu Challenge 2022, Amstrong 2021, Maggiore Challenge 2021, Shades of Blue 2021, Mika Häkkinen Challenge 2021, Andrea Pirlo Azzurro Challenge 2020, Honey Blue Challenge 2020, John McEnroe Lefty 2020, Tribute 6263 Albino 2020, La Blausee Gold (Members Club) 2019, La Barrichello Gold 2019, Tribute 6240 Tropical LE 2019, La Montoya Gold 2019, La Montoya LE 2018, Rough Matte Diver 2018.
 - Hypebeast: Warm Burgundy 2024, Ventura 2024. Maxim: rubi (Absolute Ruby?). Coronet: GMT worldtimer.
 - BQ Watches: Tribute to 6240.
+- Novos nomes: Musher (5711 gelo), Val Viola (Sub 16610), BlackStone (5711), Superamerica, Caumasee (5167A), Poetry of Lights, Absolute Ruby, Montoya Rose, Rough Matt Diver, Neon II
