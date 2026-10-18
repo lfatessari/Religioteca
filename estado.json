@@ -361,7 +361,7 @@
   }
  },
  "em_execucao": "2026-10-18T07:41:41Z",
- "ultimo_sinal": "2026-10-18T07:41:41Z",
+ "ultimo_sinal": "2026-10-18T07:46:02Z",
  "em_andamento": {
   "marcas": [
    "Artefkt",
@@ -373,7 +373,9 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Artefkt:1,2,2c"
+  ],
   "passada": 1
  }
 }
