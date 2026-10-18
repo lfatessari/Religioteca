@@ -22,3 +22,4 @@
 ## 2ª passada (vermelha) — alvo: referências antigas 1998–2012 (Longitude/GMT/True North/White Ensign/Hornet/Scout/HMS/Timekeeper), peças únicas (Only Watch, TimeForArt, Koi, Falcon, Dragon), sets, edições de lojas.
 - Chrono24 (2ª passada): só títulos de busca; páginas dão CLIENT_ERROR. Longitude II Northern Hemisphere visto no título.
 ## 2ª passada encerrada (04:37): 14 fontes, ~15 novos -> 3ª passada
+## 3ª passada (retomada 05:40 UTC): essential-watches (25 novos), depois GPHG, Exquisite No.36, aBlogtoWatch, Wristaficionado = 0 novos -> 3ª passada encerrada (3+ fontes seguidas sem novidade). DTE 1DTAW.Z01A virou "Double Tourbillon White Gold Jade" (peça única 2022).

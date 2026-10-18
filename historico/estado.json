@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 100,
- "ultima_versao": 100,
+ "proxima_linha_marcas": 101,
+ "ultima_versao": 101,
  "historico": [
   {
    "data": "2026-10-16",
@@ -296,6 +296,19 @@
    "fontes": 161,
    "passadas": "P1 139 fontes/189; P2 22/0",
    "obs": "grande, sozinha; inclui a linha irmã Isobrite (sem linha própria em Marcas); execução anterior (19:40) morreu no limite de uso sem salvar; usuário colou a lista dela (112) e todos os códigos foram cobertos; site oficial lido só por títulos de busca; próxima Arnold & Son (grande, sozinha)"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 101,
+   "marca": "Arnold & Son",
+   "linha_marcas": 100,
+   "linhas_relogios": "8603-8920",
+   "relogios": 318,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 128,
+   "passadas": "P1 81 fontes/269; P2 14/15; P3 33/25",
+   "obs": "grande, sozinha; feita em duas execuções (a primeira morreu no limite de uso; retomada pelos parciais); peças únicas e personalização sob encomenda tornam a lista incompleta (vermelho); Chrono24 só por títulos; muitas refs antigas só com link de página (Essential Watches, Feldmar, EveryWatch); próxima Arsène Lippens"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
