@@ -11,3 +11,4 @@ Famílias por prefixo: ver fam.py.
 - Lojas abertas: watch.co.uk (p1), ocarat (p1), luxoia (p1), uhrenschmuck24 (48), yodobashi (20 antigos), ashford (1), kamalwatch (1), maty (0).
 - Busca no site oficial por família ("Balmain <família>" mm balmainwatches.com) rende ~10 refs por busca: entram com link da ficha (sem foto).
 - Pierre Balmain (licença japonesa, yodobashi maker 0000005163) é outra linha licenciada: não incluída.
+- eBay itm não abre (CLIENT_ERROR): 297465571256, 267380010834, 235849210090
