@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 132,
- "ultima_versao": 122,
+ "proxima_linha_marcas": 133,
+ "ultima_versao": 123,
  "historico": [
   {
    "data": "2026-10-16",
@@ -791,6 +791,25 @@
     }
    },
    "obs": "Bateria só desta marca (peças únicas sob encomenda = grande). Site oficial augustinwatches.com (G vazio). Páginas de produto do site não aparecem nas buscas: ~25 peças ficaram com link da página em vez de foto. Instagram/Facebook/TikTok/Pinterest bloqueados. Próxima: Aurelia Horology (132), depois Auricoste (133, provável grande)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 123,
+   "marca": "Aurelia Horology",
+   "linha_marcas": 132,
+   "linhas_relogios": "12547-12551",
+   "relogios": 5,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 24,
+   "passadas": {
+    "1": {
+     "fontes": 24,
+     "novos_por_fonte": 5
+    }
+   },
+   "obs": "Marca austríaca (Langau, 2024), catálogo fechado: site oficial e WatchPolice batem em 5 modelos. Auricoste (133) tratada como grande e fica sozinha na próxima execução. Fora: peça de ~30 mil euros para sorteio do Rotary Club Geras (sem nome/foto); Deadbeat Seconds e Tourbillon 1 anunciados."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -802,19 +821,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-19T03:41:41Z",
- "ultimo_sinal": "2026-10-19T03:41:41Z",
- "em_andamento": {
-  "marcas": [
-   "Aurelia Horology"
-  ],
-  "linha_marcas": 132,
-  "grande": false,
-  "relogios": "historico/parcial_aurelia_relogios.txt",
-  "fontes": "historico/parcial_aurelia_fontes.txt",
-  "notas": "historico/notas_aurelia.md",
-  "secoes_feitas": [],
-  "passada": 1
  }
 }
