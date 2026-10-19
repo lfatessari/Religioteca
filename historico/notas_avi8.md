@@ -24,3 +24,4 @@ Mais: AV-4073-11 Oxford Blue; linha sem código 'Spitfire Type 300 Automatic Roy
 Mais: AV-4001-03 = Hawker Harrier II Hooper Chronograph Sand; AV-4044-0x = Hawker Hurricane Wingman Day Date (AV-4044-03 Flag Black).
 Mais: AV-4044-02 = Hawker Hurricane Wingman Day Date Blue Bound.
 Mais: AV-4120-06 = Wingman Worldtimer GMT Islander Viper Black; AV-4120-07 = Islander Stealth Blue.
+Mais: AV-4162 = AV-4162-01 Hawker Harrier Pegasus Automatic 60th Anniversary Dunsfold (corrigir código).
