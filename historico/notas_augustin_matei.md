@@ -13,3 +13,5 @@ Não incluído: "The God of the Sea and his creatures" (só desenho de proposta)
 - Feito: 1, 2 (parte). Falta: categorias super-premium/deluxe/interzis/tag ceas-handmade-premium (via busca), páginas de produto, 2c, 3..10b.
 - Pinterest mateiliviu90 bloqueado (robots). Memento Mori: 44 mm, safira, avestruz azul (Vasile Uglai), ETA 2892 modificado por Adrian (+4 rubis).
 - Bloqueados: facebook (robots), pinterest (robots), watchshop.ro blog (CLIENT_ERROR).
+- clientes_am.txt = peças da galeria de clientes + Casa Regală (3) + Ianceu + Iohannis. Primeiro relógio: cabeça de cavalo (~2016, life.ro) ≈ "The Horse". Início oficial ~2016; ~80 relógios em 2018, >100 hoje. Média 3.500 € (2019); 8–20 mil € (2024-26).
+- Taiwanês "Código Da Vinci" (sem nome), norueguês pais adotivos (sem nome), 3 idênticos p/ Codin Maticiuc -> não viram linha extra.
