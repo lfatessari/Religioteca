@@ -1175,5 +1175,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T15:42:02Z",
+  "ultimo_sinal": "2026-10-19T15:42:02Z",
+  "em_andamento": {
+    "marcas": [
+      "B.R.M"
+    ],
+    "linha_marcas": 147,
+    "grande": true,
+    "relogios": "historico/parcial_brm_relogios.txt",
+    "fontes": "historico/parcial_brm_fontes.txt",
+    "notas": "historico/notas_brm.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
