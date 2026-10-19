@@ -1,0 +1,697 @@
+{
+ "marca": "B.R.M",
+ "usa_codigos": true,
+ "logo": "https://cdn.shopify.com/s/files/1/0125/7792/files/BRM-logo.jpg?228131",
+ "site_bloqueado": "Parcial – brm-chronographes.com: fotos dos produtos não aparecem na leitura automática e o catálogo completo (api.brm-chronographes.com/api/public/catalogue) não pôde ser aberto; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://api.brm-chronographes.com/api/public/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://api.brm-chronographes.com/developers/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/produit/v12-44-gtb/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/76-limited-editions",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://brm-chronographes.com/en/2-home",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.lepage.fr/en/241-brm",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/brm/v12/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/brm-watches-v12-44-e25-watch-v12-44-e25-brm-019",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/b-r-m/v12-44/watch-13798992",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/products/b-r-m-watches-racing-v6-44-sa-colordrive-red-v6-44-sa-colordrive-red.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/b-r-m-r-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/b-r-m-watch-releases-2020/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/b-r-m/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://whamond.com/collections/b-r-m-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/b-r-m-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://api.brm-chronographes.com/api/niki/public/brochure",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://brm-chronographes.com/en/?p=30202",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/BRM",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/collection/watches/racing/v6-44/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.marques-de-france.fr/listing/bernard-richards-manufacture-brm-chronographes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/2981-brm-watches-v12-44-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.lepage.fr/en/704-brm-watches-for-women",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/blog/tag/brm",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://brm-chronographes.com/en/orient-express-racing-team/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/brm/watches/racing/v5-25-gtb_v5-25-gtb",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://winecountrymotorsports.com/collections/brm-chronographes",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/brm-2/jewelry",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://brm-chronographes.com/en/produit/flat-42-n-ar/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/brm/watches/v12-46-sa-ar_v12-46-sa-ar",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/brm/watches/racing/v6-44-sa-sq-white-hand_v6-44-sa-n-sq-ablf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/b-r-m/watch-1433523",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacotedesmontres.com/en/BRM-Birotor-a-multitude-of-technical-innovations-perfected-and-patented-by-Bernard-Richards-and-Jean-Paul-Crabbe-No_5838.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.motorsportmagazine.com/archive/article/march-2011/44/custom-built-like-a-racer/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://obama.artifacts.archives.gov/people/22477/b-r-m-chronographes/objects",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catawiki.com/it/l/89690023-b-r-m-birotor-titanium-brt-1-uomo-2011-presente",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coolhunting.com/style/brm-gold-manufa/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://topgear.com.my/brm-birotor-brt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/premium-b-r-m-watches.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/5849084-basel-updates-new-watches-from-b-r-m",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://jurawatches.co.uk/blogs/watch-news/6934952-b-r-m-presents-caterham-f1-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/5747152-b-r-m-launches-v8-44-gulf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/brm-v6-44-skeleton-uk-flag-limited-edition-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/pages/b-r-m-watches-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://artcurial.com/en/sales/6017/lots/7-a",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxuriousmagazine.com/brm-sd-41-gulf-automatic-chronograph-square-model-gulf-colours",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://damslucasoil.com/?p=20594",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://brm-chronographes.com/en/b-r-m-chronographes-is-celebrating-its-20th-anniversary/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/the-ddf6-dares-to-go-totally-black/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/boat-master-a-new-collection-of-watches-for-water-sports-enthusiasts/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/wp-content/uploads/2023/10/CP-20-years-V12-44-BR.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://licensinginternational.org/news/goodyear-launches-exclusive-watch-collection-with-b-r-m-chronographes/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://flyinglizardstore.com/products/flying-lizard-motorsports-limited-edition-timepiece",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/wp-content/uploads/2022/09/CPDDFEN.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://newatlas.com/brm-light-sports-watches/31448",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ablogtowatch.com/b-r-m-mk-44-polished-white-dial-light-blue-hands-on-lightweight-watch-with-titanium-makrolon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ultimatemotorcycling.com/2005/08/01/brm_v14-44_racing_bn_aj/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchonista.com/articles/overview-watches-dedicated-gign-part-ii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/brm-timepiece-is-love-letter-to-motor-oil",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/the-b-r-m-birotor-caps-things-off",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/brm/98164",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/brm/gulf-racing/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/b-r-m/v8-44/watch-15692163",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://everywatch.com/b-r-m/watch-15158029",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://asset.everywatch.com/b-r-m/watch-12704583",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://asset.everywatch.com/b-r-m/watch-13168863",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/brm-v14-44-chronograph-26348",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.commeuncamion.com/guide/marques/b-r-m-chronographes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.velvetboxsociety.com/brm.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/brm-v12-44-union-jack",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/brm-v12-44-cor-03-corvette-03-limited-edition-210000061649",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-brm-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://news.dupontregistry.com/blogs/watches/b-r-m-corvette-racing-release-chevrolet-corvette-c7-r-racing-collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/brm-h4bc-very-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/brm-bicylendar-ns21000932220",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/collection/watches/racing/r12-46/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://news.dupontregistry.com/blogs/watches/b-r-m-chronographes-dupont-registrys-2015-watch-guide",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/la-gama-b-r-m.161323/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://racecar.com/news/99645/modus-vivendi/new-martini-racing-timepieces-from-b.r.m-chronographes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://brm-chronographes.com/en/collection/watches/racing",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1000623318-brm-and-the-v12-racing.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/luxprice-index-montres/brm.html",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/entdecken/marken/brm/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/brm-stainless-steel-titanium-skeleton-chronograph-racecar-brake-disc-design/id-j_13454682",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/brm-montre-automatique-anti-chocs-en-acier-inoxydable-skeleton-pour-hommes-golfeurs/id-j_13455222",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/brm-stainless-steel-white-dial-racing-automatic-chronograph-rubber-strap/id-j_13481642",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/brm-stainless-steel-black-dial-racing-automatic-chronograph-rubber-strap/id-j_13481622",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/brm-stainless-steel-white-dial-automatic-chronograph-sporty-chic-design/id-j_13481902",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/brm-montre-automatique-en-acier-inoxydable-cadran-blanc-design-sportif-avec-bo%C3%AEtier/id-j_13481782",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/brm-montre-automatique-jaune-en-acier-inoxydable-avec-mouvement-en-forme-de-moteur/id-j_13482022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/brm-stainless-steel-black-automatic-racing-watch-black-leather-strap/id-j_13481112",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/brm-art-car-automatic-skeleton-dial-black-stainless-steel-leather-strap/id-j_17275902",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/brm-golf-stainless-steel-anti-shock-skeleton-automatic-watch-women/id-j_13432492",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/brm-montre-automatique-en-acier-inoxydable-couleur-art-car-avec-bracelet-en-cuir-noir-pour-femmes/id-j_13384322",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/brm-ff-39x40-trapezoid-shaped-automatic-stainless-steel-skeleton-dial/id-j_17280602",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thegentlemanracer.com/2020/04/brm-1966-le-mans-gt40-winners-collection.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://corvettestore.com/products/c8-gt3-r-corvette-brm-chronograph-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lepage.fr/en/18785-brm-gt12-automatic-watch-grey-and-black-dial-black-leather-strap-44-mm-gt1244.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/84034219",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsrrace.com/2024/10/17/b-r-m-chronographes-celebrates-the-10th-anniversary-of-the-hsr-classic-daytona-24-hour/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.porschesprint.com/?p=24636",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://grayandsons.com/w521378-unused-brm-chronograph-44mm-bt12-44/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fr.motor1.com/news/352355/brm-flat-42-montre/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://retromobile.com/en/search/brand/Formulart-B-R-M-Chronographes-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dstecheetah.com/news/b-r-m-chronographes-becomes-ds-techeetahs-official-timing-partner/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://licensingcorner.com/?p=15322",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thegentlemanracer.com/?p=4104",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.motorsportmagazine.com/shop/lifestyle/watches/v6-44-sa-mr02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/4-watches",
+   "passada": 2,
+   "novos": 209
+  },
+  {
+   "url": "https://brm-chronographes.com/en/notices.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/9-full-floating",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/6-racing",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ligierautomotive.com/en/news/b-r-m-chronographes-and-ligier-automotive-renew-their-partnership-for-a-collection-of-watches-paying-tribute-to-ligier-racing-cars/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://lucire.com/insider/?p=16866",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://autofreaks.com/?p=104008",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://autobuzz.my/?p=55110",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/6107-watch-brm-v6-44-england-automatic-nos-44-mm-v644gtcdukag.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lepage.fr/en/6202-montre-brm-v6-automatique-inox-cadran-beige-aiguilles-bordeaux-bracelet-cuir-bordeaux-44-mm-v644gtvintage.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/6190-montre-brm-gf6-automatique-inox-traite-pvd-noir-aiguilles-vertes-44-mm-gf644sansqavp.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/6189-montre-brm-gf6-automatique-inox-traite-pvd-noir-aiguilles-bleues-44-mm-gf644sanablf.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/brm-2/jewelry/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/produit/r46-tn-ab/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=6553",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/brm-rg-46-rg-46-mk-adr-racing-watch-brm-914",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/12-new-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/collection/watches/racing/art-car-en/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/8-boat-master",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://brm-chronographes.com/en/produit/bm6-44-grand-pavois/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://brm-chronographes.com/en/5-nos-collections",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/118426820-art-attack",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.racecar.com/news/97617/modus-vivendi/new-art-car-watch-set-from-b.r.m-chronographes",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/5874425-b-r-m-partners-with-caterham-f1-team",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/brm-v12-44-chronograph-watch-with-checkered-racing-strap-available/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/?p=147022",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/b-r-m-watch-rg-46-team-qatar-rg-46-team-qatar-black-strap-brm-927",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/brm-watches-r50-tn-ar-a-watch-r50-tn-ar-brm-849",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/b-r-m-watch-r6-46-bronze",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "G desatualizado: site atual brm-chronographes.com (brm-manufacture.com é o endereço antigo). I: primeiro modelo GP-44 (2003), V6/V12 em 2004, V12-44 lançado em set/2005; algumas fontes dizem que a marca faz cronógrafos desde 2002. J confere (V12-44, R50, Birotor, MK-44 encontrados)."
+}

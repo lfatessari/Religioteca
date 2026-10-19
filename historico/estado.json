@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 147,
-  "ultima_versao": 137,
+  "proxima_linha_marcas": 148,
+  "ultima_versao": 138,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1164,6 +1164,33 @@
         ]
       },
       "obs": "site oficial azimuthwatch.com (Wix) só achado via busca; Chrono24 não abre (usados EveryWatch 517 anúncios, eBay, Carousell); vermelha por peças únicas Bronzo Artist Series/Battle Tank e centenas de variantes sem nome. Próxima: B.R.M (147)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 138,
+      "marca": "B.R.M",
+      "linha_marcas": 147,
+      "linhas_relogios": "14251-14677",
+      "relogios": 427,
+      "vermelho": true,
+      "site_bloqueado": "parcial",
+      "grande": true,
+      "fontes": 137,
+      "passadas": {
+        "1": [
+          108,
+          220
+        ],
+        "2": [
+          16,
+          213
+        ],
+        "3": [
+          13,
+          4
+        ]
+      },
+      "obs": "catálogo oficial 'Watches' (280 de 326 itens) + loja/imprensa/leilões; vermelha por configurador e ~450 produtos no catálogo da API sem acesso; maioria das linhas oficiais com link da página (sem foto). Próxima: BA111OD (148)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
