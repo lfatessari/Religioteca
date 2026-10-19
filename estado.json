@@ -1392,5 +1392,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T23:41:10Z",
+  "ultimo_sinal": "2026-10-19T23:41:10Z",
+  "em_andamento": {
+    "marcas": [
+      "Balmont"
+    ],
+    "linha_marcas": 155,
+    "grande": false,
+    "relogios": "historico/parcial_Balmont_relogios.txt",
+    "fontes": "historico/parcial_Balmont_fontes.txt",
+    "notas": "historico/notas_Balmont.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
