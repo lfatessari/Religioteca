@@ -1089,7 +1089,7 @@
     }
   },
   "em_execucao": "2026-10-19T13:41:39Z",
-  "ultimo_sinal": "2026-10-19T14:01:25Z",
+  "ultimo_sinal": "2026-10-19T14:05:21Z",
   "em_andamento": {
     "marcas": [
       "Axios",
@@ -1129,6 +1129,10 @@
         "9",
         "10",
         "10b"
+      ],
+      "Azad": [
+        "1",
+        "2"
       ]
     },
     "passada": 1
