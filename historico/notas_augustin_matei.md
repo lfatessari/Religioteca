@@ -15,3 +15,5 @@ Não incluído: "The God of the Sea and his creatures" (só desenho de proposta)
 - Bloqueados: facebook (robots), pinterest (robots), watchshop.ro blog (CLIENT_ERROR).
 - clientes_am.txt = peças da galeria de clientes + Casa Regală (3) + Ianceu + Iohannis. Primeiro relógio: cabeça de cavalo (~2016, life.ro) ≈ "The Horse". Início oficial ~2016; ~80 relógios em 2018, >100 hoje. Média 3.500 € (2019); 8–20 mil € (2024-26).
 - Taiwanês "Código Da Vinci" (sem nome), norueguês pais adotivos (sem nome), 3 idênticos p/ Codin Maticiuc -> não viram linha extra.
+- anonymomuza: primeiro relógio com pintura rupestre no mostrador (= Cave Art?) — conflita com life.ro (cabeça de cavalo). Marca de joias Ingrid Jewelry (não relógio).
+- Mancini foto alternativa: cancan ceas-mancini-2-scaled.jpg. Roubo de relógios únicos (70 mil €) a caminho de exposição na Polônia — buscar nomes.
