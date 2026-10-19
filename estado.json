@@ -1223,7 +1223,7 @@
     }
   },
   "em_execucao": "2026-10-19T17:41:22Z",
-  "ultimo_sinal": "2026-10-19T17:46:10Z",
+  "ultimo_sinal": "2026-10-19T17:50:11Z",
   "em_andamento": {
     "marcas": [
       "Backes & Strauss"
@@ -1234,7 +1234,8 @@
     "fontes": "historico/parcial_backes_fontes.txt",
     "notas": "historico/notas_backes.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2-parcial"
     ],
     "passada": 1
   }
