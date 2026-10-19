@@ -1087,5 +1087,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T13:41:39Z",
+  "ultimo_sinal": "2026-10-19T13:41:39Z",
+  "em_andamento": {
+    "marcas": [
+      "Axios"
+    ],
+    "linha_marcas": 143,
+    "grande": false,
+    "relogios": "historico/parcial_Axios_relogios.txt",
+    "fontes": "historico/parcial_Axios_fontes.txt",
+    "notas": "historico/notas_Axios.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
