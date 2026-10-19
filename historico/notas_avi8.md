@@ -27,3 +27,5 @@ Mais: AV-4120-06 = Wingman Worldtimer GMT Islander Viper Black; AV-4120-07 = Isl
 Mais: AV-4162 = AV-4162-01 Hawker Harrier Pegasus Automatic 60th Anniversary Dunsfold (corrigir código).
 Nota: AV-4048 (base, gravado) provavelmente = Flyboy Automatic Tuck (AV-4048-02 novo); mantido. AV-4028 = Flyboy Cadet (AV-4028-05 = Flyboy Cadet).
 Mais: AV-4010-02 = Hawker Hunter Multifunctional; AV-4030-02 = Supermarine Seafire GMT; AV-4022-03 (gravado como Flyboy) pode ser Lancaster Bomber (AV-4022-08 é Lancaster) — verificar; AV-4013 = Hawker Hurricane Chronograph.
+TouchofModern: páginas não abrem (erro).
+Mais: AV-4007 = Hawker Hunter GMT; AV-4009/4010 = Hawker Hunter Multifunctional; AV-4015 = Hawker Hurricane Aviation Chronograph; AV-4012 = Hawker Hurricane Traditional; AV-4011 antigos = Hawker Hurricane Chronograph. Timepieces Direct: robots bloqueia as páginas de produto.
