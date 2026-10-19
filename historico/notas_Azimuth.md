@@ -21,3 +21,4 @@
 - Back in Time Series 1 Pilot (eBay) ~ 'Back in Time – ponteiro único, Black Pilot' (Superwatchman)? possivelmente o mesmo. Fundir na auditoria. Twin Turbo eBay '#43/50' red?? manter 88.
 - Chrono24: todas as páginas dão CLIENT_ERROR (index .com/.de/.co.uk, used, king casino, steel). Usados EveryWatch + eBay + Carousell no lugar.
 - Twin Turbo oficial: ETA 2512-1 manual, aço+alumínio 51x50 mm, img 6df6e0_ce484a9bf4084d4499b680346c6c954b~mv2.jpg (usar no Twin Turbo sem cor?).
+- Battle Tank: 6 descritos (000,116,110,112,139,062) + Israeli (7ª, citada só no TDR) não achada. Anúncio eBay 'Unique 1/1' sugere que cada tanque é peça única (não confirmado) -> pode ser duplicata; REVER: talvez não incluir a linha eBay.
