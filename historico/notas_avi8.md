@@ -23,3 +23,4 @@ Nomes: AV-4152-0x são Spitfire Smith Automatic Snoopy Pilot Error (não Flyboy)
 Mais: AV-4073-11 Oxford Blue; linha sem código 'Spitfire Type 300 Automatic Royal British Legion' = AV-4073-RBL Azure Abyss (pôr código).
 Mais: AV-4001-03 = Hawker Harrier II Hooper Chronograph Sand; AV-4044-0x = Hawker Hurricane Wingman Day Date (AV-4044-03 Flag Black).
 Mais: AV-4044-02 = Hawker Hurricane Wingman Day Date Blue Bound.
+Mais: AV-4120-06 = Wingman Worldtimer GMT Islander Viper Black; AV-4120-07 = Islander Stealth Blue.
