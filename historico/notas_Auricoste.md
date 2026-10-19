@@ -12,3 +12,4 @@ Refs pelo nome do arquivo: A52NT, A20AP, A20HK/HC/HB (Ephemeres)
 - Dialicious: modelos 13e RDP, Deminage, ScubaMaster
 - Sem foto ainda: maioria das refs Chadourne
 ## Fora: relógios de bolso, relógios de bordo/mesa, cronômetros de marinha (não pulso) — só relatar
+- 2c: buscas site:auricoste.com / auricoste.com/produit não trazem nenhuma página do site (buscador não indexa). Links internos não abertos (regra do CLAUDE.md).
