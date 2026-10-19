@@ -1367,7 +1367,7 @@
     }
   },
   "em_execucao": "2026-10-19T22:41:47Z",
-  "ultimo_sinal": "2026-10-19T23:00:20Z",
+  "ultimo_sinal": "2026-10-19T23:03:06Z",
   "em_andamento": {
     "marcas": [
       "Balmain"
@@ -1379,7 +1379,8 @@
     "notas": "historico/notas_balmain.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c"
     ],
     "passada": 1
   }
