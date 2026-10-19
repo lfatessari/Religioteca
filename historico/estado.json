@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 138,
- "ultima_versao": 126,
+ "proxima_linha_marcas": 139,
+ "ultima_versao": 127,
  "historico": [
   {
    "data": "2026-10-16",
@@ -913,6 +913,25 @@
     }
    },
    "obs": "Identificação incerta: único achado Avenir Chrono Boss Premiere (c. 2010, Rafaello & Co., NY). Próxima: Aventi (138)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 127,
+   "marca": "Aventi",
+   "linha_marcas": 138,
+   "linhas_relogios": "12691-12707",
+   "relogios": 17,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 40,
+   "passadas": {
+    "1": {
+     "fontes": 40,
+     "novos": 17
+    }
+   },
+   "obs": "Bateria só com Aventi: a próxima (AVI-8, 139) é grande e fica sozinha. Site aventi.com em transição (mudou de dono). Buracos: A11-03/A11-04 e códigos A10-02..07 não mapeados. 'Pink Champagne' (J) não achado."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
