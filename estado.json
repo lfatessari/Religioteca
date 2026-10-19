@@ -846,7 +846,7 @@
     }
   },
   "em_execucao": "2026-10-19T05:41:35Z",
-  "ultimo_sinal": "2026-10-19T05:53:57Z",
+  "ultimo_sinal": "2026-10-19T05:57:04Z",
   "em_andamento": {
     "marcas": [
       "Autodromo"
@@ -860,7 +860,10 @@
       "1",
       "2",
       "2c",
-      "5"
+      "3",
+      "5",
+      "7",
+      "9"
     ],
     "passada": 1
   }
