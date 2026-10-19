@@ -23,3 +23,4 @@
 4. Primeiro modelo: relógios de bolso (Ball-Hamilton 999B c.1898) e vintage Trainmaster anos 1950-60 entraram.
 5. Nomes em J (Engineer Master II, Engineer Hydrocarbon, Roadmaster, Trainmaster, Fireman) todos achados.
 6. Edições limitadas/colaborações: le_map.txt aplicado no fim.
+## 2ª passada encerrada 20:40 (17 fontes novas, ~150 relógios) -> 3ª passada (lojas japonesas, leilões, fóruns)
