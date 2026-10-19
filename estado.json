@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 143,
-  "ultima_versao": 134,
+  "proxima_linha_marcas": 146,
+  "ultima_versao": 135,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1076,6 +1076,64 @@
           5
         ]
       }
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 135,
+      "marca": "Axios",
+      "linha_marcas": 143,
+      "linhas_relogios": "14003-14031",
+      "relogios": 29,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 38,
+      "passadas": {
+        "1": [
+          38,
+          29
+        ]
+      },
+      "obs": "catálogo fechado: site oficial (30 itens com correias de fora = 29 relógios) bate com Kickstarter e lojas"
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 135,
+      "marca": "Ayers Watches",
+      "linha_marcas": 144,
+      "linhas_relogios": "14032-14035",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "passadas": {
+        "1": [
+          15,
+          4
+        ]
+      },
+      "obs": "só o Metropolitan MT-01..04 (300 peças); domínio ayerswatches.com agora é de outra empresa"
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 135,
+      "marca": "Azad",
+      "linha_marcas": 145,
+      "linhas_relogios": "14036-14107",
+      "relogios": 72,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 43,
+      "passadas": {
+        "1": [
+          33,
+          70
+        ],
+        "2": [
+          10,
+          2
+        ]
+      },
+      "obs": "loja Shopify 66 produtos completa; vermelha por peças sob encomenda e edições Legends of the Game/coleção 2009 sem lista. Próxima: Azimuth (146), grande."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1087,63 +1145,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T13:41:39Z",
-  "ultimo_sinal": "2026-10-19T14:07:03Z",
-  "em_andamento": {
-    "marcas": [
-      "Axios",
-      "Ayers Watches",
-      "Azad"
-    ],
-    "linha_marcas": 143,
-    "grande": false,
-    "relogios": "historico/parcial_Axios_relogios.txt",
-    "fontes": "historico/parcial_Axios_fontes.txt",
-    "notas": "historico/notas_Axios.md",
-    "secoes_feitas": {
-      "Axios": [
-        "1",
-        "2",
-        "2c",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "10b"
-      ],
-      "Ayers Watches": [
-        "1",
-        "2",
-        "2c",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "10b"
-      ],
-      "Azad": [
-        "1",
-        "2",
-        "2c",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ]
-    },
-    "passada": 2
   }
 }
