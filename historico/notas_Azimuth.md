@@ -17,3 +17,4 @@
 - '56 BIT' (2021?) vs TDR 2023 artigo: TDR diz 56 BIT; timesticking diz 56º aniversário 2021 = provavelmente o mesmo (Garfield 56 national day 2021 também!). REVISAR duplicata 'Back in Time 56 – 56º aniversário'. 
 - Carousell: Crazy Rider 'First Generation' existe (1ª geração vs ?). Round-1 Squelette 43mm automático pode = Officer Squelette (manual?) — mantido separado com cautela? (Officer é MI.SK.SS manual). Ref antigas NNN-NN: Roulette 264-08, Roboto 124-08, Jagdbomber 169-07.
 - MI.B6.SS.L001 (Jomashop 'Round 1 brown dial') provável = Bombardier VI (B6), mostrador marrom -> pode ser o mesmo que 'Bombardier VI – 200 peças'. Decidir na auditoria (fundir: colocar código no Bombardier VI).
+- Right Time: fichas /rt/azimuth/ dão CLIENT_ERROR; usados os títulos da busca (cgm-1-w, cgm-1-b, cgm-pvd-531b, gm-1-b, 55b-uhrs, 48b-uhrs).
