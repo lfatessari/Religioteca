@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 154,
-  "ultima_versao": 144,
+  "ultima_versao": 145,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1340,6 +1340,13 @@
         ]
       },
       "obs": "sozinha (grande: ~40 famílias BL-31xx/51xx desde 2012). Site oficial real ballast1903.com (G diz ballastwatches.com). Fontes: site oficial (coleções, all p1-p2, imprensa, manual), Timepiece, allwatches p1, Yodobashi (JP), Klaus Kobec, Ashford, Conteenium, eBay, Jamtangan, WatchMaxx. ~92 linhas com link de página no lugar da foto; ~58 códigos vieram só de títulos de busca. Vermelha: sufixos de cor faltando nas famílias antigas (3101-3132, 51xx), Jolly Roger versão preta e Trafalgar LE 500 sem código. M153 preenchido. Próxima: Balmain (154)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 145,
+      "marca": "Ball",
+      "linha_marcas": 152,
+      "obs": "Correção a pedido: I152 sem '[⚠️ verificar]' (fundação 1891 conferida e acrescentada); J152 + Engineer III, Engineer M, Conductor; M152 limpo."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
