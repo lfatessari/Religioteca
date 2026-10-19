@@ -752,5 +752,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T01:41:21Z",
+  "ultimo_sinal": "2026-10-19T01:41:21Z",
+  "em_andamento": {
+    "marcas": [
+      "Auguste Reymond"
+    ],
+    "linha_marcas": 130,
+    "grande": true,
+    "relogios": "historico/parcial_Auguste_Reymond_relogios.txt",
+    "fontes": "historico/parcial_Auguste_Reymond_fontes.txt",
+    "notas": "historico/notas_Auguste_Reymond.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
