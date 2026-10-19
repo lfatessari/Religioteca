@@ -139,7 +139,7 @@
 },
 "BL313303": {
 "code": "BL-3133-03",
-"name": "Trafalgar",
+"name": "Trafalgar Armament Black",
 "img": "https://www.ballast1903.com/products/bl-3133-03",
 "ch": ""
 },
@@ -151,7 +151,7 @@
 },
 "BL313301": {
 "code": "BL-3133-01",
-"name": "Trafalgar",
+"name": "Trafalgar Rust Brown",
 "img": "https://www.ballast1903.com/products/bl-3133-01",
 "ch": ""
 },
@@ -589,21 +589,9 @@
 },
 "BL314511": {
 "code": "BL-3145-11",
-"name": "Vanguard Automatic",
+"name": "Valiant (Vanguard) – edição limitada",
 "img": "https://i.ebayimg.com/images/g/UQMAAeSwEu1qpt53/s-l1200.webp",
 "ch": "Automático, cinza/prata."
-},
-"BL3130": {
-"code": "BL-3130",
-"name": "Amphion GMT Automatic",
-"img": "https://i.ebayimg.com/images/g/TVsAAeSwoClqIZqN/s-l1200.webp",
-"ch": "Automático, GMT, preto, 48 mm. Visto em anúncio do eBay sem sufixo de cor."
-},
-"BL3101": {
-"code": "BL-3101",
-"name": "Ballast Swiss Made Quartz",
-"img": "https://i.ebayimg.com/images/g/Uw8AAeSwxMpqYU~X/s-l1200.webp",
-"ch": "Quartzo suíço, preto, grande. Visto em anúncio do eBay sem sufixo de cor."
 },
 "BL3105": {
 "code": "BL-3105",
@@ -615,7 +603,7 @@
 "code": "BL-3128",
 "name": "Jolly Roger – edição limitada de 500 peças",
 "img": "https://i.ebayimg.com/images/g/TUoAAeSwWl9qSCwW/s-l1200.webp",
-"ch": "Visto em anúncio do eBay sem sufixo de cor."
+"ch": "Quartzo suíço, aço 316L, safira, 100 m, 46,5 mm; duas versões (mostrador com caveira e versão toda preta). Visto em anúncio do eBay sem sufixo de cor."
 },
 "BL31330D": {
 "code": "BL-3133-0D",
@@ -674,8 +662,8 @@
 "BL313001": {
 "code": "BL-3130-01",
 "name": "Amphion GMT Automatic",
-"img": "https://www.klauskobec.com/product/ballast-watches/amphion/amphion-bl-3130-01/",
-"ch": "Visto só no título da página do produto (link da página)."
+"img": "https://i.ebayimg.com/images/g/TVsAAeSwoClqIZqN/s-l1200.webp",
+"ch": "Automático, GMT, mostrador preto, 48 mm."
 },
 "BL314503": {
 "code": "BL-3145-03",
@@ -730,5 +718,47 @@
 "name": "Trafalgar GMT",
 "img": "https://www.jamtangan.com/p/ballast-trafalgar-bl31260a-men-gmt-white-dial-brown-leather-strap-642971",
 "ch": "GMT, mostrador branco, couro marrom. Visto só no título da página da loja (link da página)."
+},
+"BL314533": {
+"code": "BL-3145-33",
+"name": "Valiant – edição limitada",
+"img": "https://www.ballast1903.com/products/bl-3145-33-valiant",
+"ch": "Visto só no título da página do produto oficial (link da página)."
+},
+"BL314522": {
+"code": "BL-3145-22",
+"name": "Valiant – edição limitada",
+"img": "https://www.ballast1903.com/products/bl-3145-22-valiant",
+"ch": "Visto só no título da página do produto oficial (link da página)."
+},
+"BL314502": {
+"code": "BL-3145-02",
+"name": "Valiant",
+"img": "https://www.ballast1903.com/products/bl-3145-02-valiant",
+"ch": "Visto só no título da página do produto oficial (link da página)."
+},
+"BL313201": {
+"code": "BL-3132-01",
+"name": "Odin",
+"img": "https://www.watchreport.com/wp-content/uploads/2014/03/photo33.jpg",
+"ch": "Quartzo suíço com data, aço 316L, safira, 100 m, 44 mm, mostrador preto, pulseira NATO de couro. Outras cores citadas sem código: cinza, creme, cobre escuro, azul, PVD e rosé."
+},
+"BL310502": {
+"code": "BL-3105-02",
+"name": "Valiant Skeleton Automatic",
+"img": "https://www.ablogtowatch.com/wp-content/uploads/2014/04/Ballast-Valiant-skeleton-watch-18.jpg",
+"ch": "Automático japonês esqueletizado, caixa tonneau 47,2 mm, aço com PVD rosé, 100 m."
+},
+"BL31290B": {
+"code": "BL-3129-0B",
+"name": "Valiant Bridge Automatic Green",
+"img": "https://www.watches.com/products/valiant-bridge-automatic-bl-3129-0b",
+"ch": "Automático japonês, aço preto, 47 mm, 14,5 mm, mostrador verde, mineral, silicone verde, 10 ATM. Visto só na página da loja (a foto da página traz o código BL-3129-0C)."
+},
+"BL31290C": {
+"code": "BL-3129-0C",
+"name": "Valiant Bridge Automatic",
+"img": "https://www.watches.com/cdn/shop/files/BL-3129-0C-Q_740x.jpg?v=1760674413",
+"ch": "Automático japonês, 47 mm."
 }
 }
