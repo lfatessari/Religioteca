@@ -1326,7 +1326,7 @@
     }
   },
   "em_execucao": "2026-10-19T21:41:14Z",
-  "ultimo_sinal": "2026-10-19T21:58:02Z",
+  "ultimo_sinal": "2026-10-19T21:59:38Z",
   "em_andamento": {
     "marcas": [
       "Ballast"
@@ -1342,6 +1342,8 @@
       "2c",
       "3",
       "4",
+      "5",
+      "6",
       "7"
     ],
     "passada": 1
