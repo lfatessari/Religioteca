@@ -945,7 +945,7 @@
     }
   },
   "em_execucao": "2026-10-19T08:41:38Z",
-  "ultimo_sinal": "2026-10-19T08:58:57Z",
+  "ultimo_sinal": "2026-10-19T09:01:18Z",
   "em_andamento": {
     "marcas": [
       "AVI-8"
@@ -957,7 +957,8 @@
     "notas": "historico/notas_avi8.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c"
     ],
     "passada": 1
   }
