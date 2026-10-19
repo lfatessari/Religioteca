@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 149,
-  "ultima_versao": 139,
+  "proxima_linha_marcas": 150,
+  "ultima_versao": 140,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1210,6 +1210,33 @@
         ]
       },
       "obs": "sozinha porque a seguinte (Backes & Strauss, 149) é grande (TWP 126 relógios); tratada como grande na dúvida. Site oficial Shopify (loja atual ~20 relógios) + sala de imprensa (38 kits) + páginas ocultas por busca + TWP (76) + Nicols/Ocarat/Watchmakers United/Helvetica + imprensa. M148: J 'Chapter 2 Veblen Dilemma' errado. Próxima: Backes & Strauss (149)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 140,
+      "marca": "Backes & Strauss",
+      "linha_marcas": 149,
+      "linhas_relogios": "14766-15034",
+      "relogios": 269,
+      "vermelho": true,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 127,
+      "passadas": {
+        "1": [
+          97,
+          217
+        ],
+        "2": [
+          13,
+          13
+        ],
+        "3": [
+          17,
+          10
+        ]
+      },
+      "obs": "sozinha (grande: TWP 126). Site oficial Squarespace (loja + produtos ocultos por busca, Masterpieces, Limited Editions, Royal, press-room, brand-news) + TWP + Jura/Whamond/Sellors + Watchonista + Masterhorologer (2009-2022) + Gressive (Japão) + leilões. Vermelha: combinações de ouro/diamantes sem lista, peças sob medida, Alves Trophy (42) e Vitesse sem lista. M149: J incompleta. Próxima: Badger Watches (150)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
