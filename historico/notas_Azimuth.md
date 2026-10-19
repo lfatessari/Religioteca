@@ -19,3 +19,4 @@
 - MI.B6.SS.L001 (Jomashop 'Round 1 brown dial') provável = Bombardier VI (B6), mostrador marrom -> pode ser o mesmo que 'Bombardier VI – 200 peças'. Decidir na auditoria (fundir: colocar código no Bombardier VI).
 - Right Time: fichas /rt/azimuth/ dão CLIENT_ERROR; usados os títulos da busca (cgm-1-w, cgm-1-b, cgm-pvd-531b, gm-1-b, 55b-uhrs, 48b-uhrs).
 - Back in Time Series 1 Pilot (eBay) ~ 'Back in Time – ponteiro único, Black Pilot' (Superwatchman)? possivelmente o mesmo. Fundir na auditoria. Twin Turbo eBay '#43/50' red?? manter 88.
+- Chrono24: todas as páginas dão CLIENT_ERROR (index .com/.de/.co.uk, used, king casino, steel). Usados EveryWatch + eBay + Carousell no lugar.
