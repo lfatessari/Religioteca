@@ -23,3 +23,6 @@
 - Twin Turbo oficial: ETA 2512-1 manual, aço+alumínio 51x50 mm, img 6df6e0_ce484a9bf4084d4499b680346c6c954b~mv2.jpg (usar no Twin Turbo sem cor?).
 - Battle Tank: 6 descritos (000,116,110,112,139,062) + Israeli (7ª, citada só no TDR) não achada. Anúncio eBay 'Unique 1/1' sugere que cada tanque é peça única (não confirmado) -> pode ser duplicata; REVER: talvez não incluir a linha eBay.
 - Distribuidor russo azimuthwatchrussia.ru redireciona para azimuthwatch.top (hoje outro site); all_watches robots. Revendedores oficiais: Chevrier (CH), Legacy (Paris), Diego Vez (MX), About Time (EUA), Behbehani (KW), Red Army (SG/MY/ID), WoW2, The Xcess, Watchlim, Storm Asia (HK), Top Class (HK), Muraki (JP).
+## FIM DA 1ª PASSADA (15:19 UTC): 3 fontes seguidas sem novidade. ~158 fontes, 153 relógios.
+Decisão: VERMELHA (Bronzo Artist Series = peças únicas 1/1 sem nomes; 517 anúncios no EveryWatch com muitas variantes sem nome; Battle Tank 7ª peça "Israeli" não achada; Round-1 Dragon só 2 de 4 cores; Back in Time com dezenas de mostradores; Twin Turbo 4 cores x 2 gerações).
+## 2ª PASSADA — alvo: Dragon, Back in Time, Roulette/King Casino, Spaceship, Roboto, Battle Tank, Karim Rashid, Twin Turbo Yellow alu.
