@@ -1,0 +1,14 @@
+# Badollet (linha 151) — notas
+Decisão: tratada como GRANDE (na dúvida): Crystalball com peças temáticas/decoradas (Tiger, Bamboo, Stellaire...), alta relojoaria. Mínimo 25 fontes. Pelo §0b, termina-se junto com Badger (já pronta).
+Usa códigos: a verificar (parece que não).
+Linhas: Ivresse (tourbillon, platina azul; GPHG 2012), Crystalball Stellaire (meteorito + olivina), Crystalball Bamboo (ouro branco, BAD5600), Crystalball Tiger (ouro rosa + malaquita), Crystalball Chronograph, Observatoire 1872. Antigos: J.M./J.J. Badollet & Cie bolso séc. XIX (não de pulso).
+Lista provisória (ver acima): Ivresse platina azul; Ivresse (2013/2014 europastar — outras versões?); Crystalball Bamboo (ouro branco 40x43); Crystalball Bamboo White Diamond (2010, ed. limitada); Crystalball Round Bamboo ouro branco e ouro rosa (44mm, 2014; Bonhams Nº005 rosa); Crystalball Bamboo Tiger (peça única, ouro rosa+malaquita); Crystalball Chronograph (ônix, 2010); Crystalball Stellaire Jade (site); Tourbillon Stellaire (2008, ed. limitada, meteorito) ; La Stellaire (2011); Stellaire Exceptionnelle / Haute Joaillerie (2014, peça única); Observatoire 1872 Minute Repeater (2010); Observatoire 1872 Repetição minutos cravejado (2014, 1249 diamantes); Observatoire Chronograph (site, Obs_GR_PR); Observatoire Métiers d'Art (GPHG 2016); Ishango (relógio de substituição de serviço). Antigos: Charmilles antimagnético 1891 (bolso), bolsos J.-M. Badollet.
+Fotos: site layout/images/watch-*.png ; masterhorologer uploads/2023/05/*.jpg (sem ?resize)
+Falta: home oficial (buscar), GPHG 1872, worldtempus ivresse x2, luxurious, loupiosity, watchonista, uhren-wiki, europastar galerias, chrono24, leilões (christies), 1stdibs.
++ Ivresse Jewel (pulseira ouro branco 892 diamantes e safiras, 2012, worldtempus) ; Ivresse "vermelha" vista em Basileia (loupiosity, sem detalhes) ; Crystalball Stellaire caixa cerâmica preta, mostrador prata soleil ; Stellaire lápis-lazúli ; Stellaire full sertie (=Exceptionnelle?) ; Crystalball Chronograph ouro rosa ; Round Bamboo ouro branco fibra de carbono ; Round Bamboo ouro rosa caixa preta.
+Antigos de bolso (J.-M. / J.-J. Badollet & Cie, Charmille 1891): só citados, não viram linhas (não são de pulso).
++ Ivresse 2013 novas cores: preto, bordô, vermelho, verde-escuro, violeta (worldtempus 15376, foto 13_0705_badollet_big).
++ Tourbillon Stellaire 2010 mostradores: lápis-lazúli, jade imperial, jade marrom, jadeíta, madrepérola preta, madrepérola branca, ônix (ouro branco paládio 44mm BAD1630, ed. limitada).
++ La Stellaire 2014 verde (worldtempus 17413)
++ Crystalball Chronograph: Esmalte grand feu (2010), Sport opalina (2010), Stone (ônix etc.), Dragon (2014), new diamonds (2014), ouro rosa caixa cerâmica preta (2014).
+DECISÃO: pintar de VERMELHO — peças personalizadas (combinações de pedra × anel × metal sem lista; "editions by nature limited and personalised"). Fazer 2ª passada (10+ fontes).

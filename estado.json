@@ -1257,19 +1257,20 @@
     }
   },
   "em_execucao": "2026-10-19T18:41:36Z",
-  "ultimo_sinal": "2026-10-19T18:46:40Z",
+  "ultimo_sinal": "2026-10-19T18:52:55Z",
   "em_andamento": {
     "marcas": [
       "Badger Watches",
       "Badollet"
     ],
-    "linha_marcas": 150,
-    "grande": false,
-    "relogios": "historico/parcial_badger_relogios.txt",
-    "fontes": "historico/parcial_badger_fontes.txt",
-    "notas": "historico/notas_badger.md",
+    "linha_marcas": 151,
+    "grande": true,
+    "relogios": "historico/parcial_badollet_relogios.txt",
+    "fontes": "historico/parcial_badollet_fontes.txt",
+    "notas": "historico/notas_badollet.md",
     "secoes_feitas": [
-      "Badger: todas (pronta para gravar)"
+      "Badger: todas",
+      "Badollet: 1,2,4,5,9 parcial"
     ],
     "passada": 1,
     "obs": "Badger Watches pronta (historico/dados_badger.txt, marca_badger.json); Badollet em pesquisa (historico/notas_badollet.md)"
