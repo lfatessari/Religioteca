@@ -924,5 +924,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-19T07:41:19Z",
+ "ultimo_sinal": "2026-10-19T07:41:19Z",
+ "em_andamento": {
+  "marcas": [
+   "Aventi"
+  ],
+  "linha_marcas": 138,
+  "grande": false,
+  "relogios": "historico/parcial_aventi_relogios.txt",
+  "fontes": "historico/parcial_aventi_fontes.txt",
+  "notas": "historico/notas_aventi.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
