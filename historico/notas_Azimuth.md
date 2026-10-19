@@ -11,3 +11,5 @@
 - Logo: https://static.wixstatic.com/media/c258fe_cedb9a4880f1485a9bbb41bea869967a~mv2.png
 - Back in Time oficial: img https://static.wixstatic.com/media/6df6e0_851bbc238cce489fa0704aa3aa083bbb~mv2.jpg ; 42 mm, ETA/SW modificado, ponteiro único + data, 3 ATM.
 - Mr Roboto Bronzo oficial img https://static.wixstatic.com/media/6df6e0_b38c18c891e8430aae190c78aa540e27~mv2.jpg (43x50 mm bronze, GMT)
+- Astro Boy V2 (product-page) CLIENT_ERROR; team.php e /product/the-spaceship CLIENT_ERROR. Lava Bronze do EveryWatch = Lava Overland (bronze 44 mm) -> removido.
+- Superwatchman (NL) arquivo com referências: imagens guide.superwatchman.com/.../img-734NN_azimuth-<nome>-<ref>.jpg. Spaceship PVD Blue (EveryWatch) = Spaceship PVD Aventurine -> removido duplicado.
