@@ -5,3 +5,6 @@ Site G: augustereymond.ch — não aparece na 1ª busca.
 - Europa Star lista swisstime: Cotton Club Moonphase, Elegance Automatic, Jazz Age Moonphase, Cotton Club Worldtime, Braille Hi-Touch, Braille Charleston, Jazz Age 2007, Cotton Club Big Date, Mega Boogie, Gala, Rumba, Jazz Age, Black and Blue, Charleston, Swing, Dixieland, Evergreen Arbitre, Charleston Doctor, Jumping Jive, Ragtime Réserve de marche, Chrono Blues, Be Bop, Arsamatic Florida (vintage), Jumbo (ARSA).
 - Masterhorologer arquivo: Magellan Orbital Moon (2023), Origin Unitas Lunar, Origin Skeleton (2022), Origin (2021), Elegance Lady, Magellan Lunar Quartz, Cotton Club Automatic (2015), Magellan Automatic, Elegance Quartz Day/Date (2013), Rumba Alarm, Charleston Automatic.
 - Vintage ARSA: Monodate, Alertic, Arsamatic, Super, Spring Master, Hydrabloc (1964), Hi-Touch Braille.
+- Bolso (não entram): ARSA-101 Syohbido (Unitas 6497, 50 mm), ARSA bolso Heer c.1939 (Milivault).
+- Vermelho: vintage ARSA enorme e sem nomes; dezenas de nomes 1990–2010 só por título na Europa Star.
+- Site oficial augustereymond.ch não aparece em busca nenhuma → L.
