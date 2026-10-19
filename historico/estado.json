@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 141,
- "ultima_versao": 131,
+ "ultima_versao": 132,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1022,6 +1022,13 @@
     }
    },
    "obs": "Bateria só com Aviator (grande). Site atual aviatorwatch.swiss (8 coleções, ~330 refs, fotos pelo padrão do CDN conferido em 1 produto por modelo). Vermelha: linha antiga 2002-2018 (Kingcobra, MIG-21/25/29/35, Propeller, Professional, Vintage, Airacobra V.1.11/V.2.13/V.3.21) incompleta; watchard (319) e egowatch.ru (94) só pág. 1. EveryWatch/Chrono24 não indexados. Próxima: Awake (141)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 132,
+   "marca": "Aviator",
+   "linha_marcas": 140,
+   "obs": "Correção a pedido ('corrija'): G140 → aviatorwatch.swiss; I140 reescrito (fundada em 2000, relançada 2002; Volmax é distribuidora, fabrica Sturmanskie; Swiss Made já em 2013; coleções atuais e antigas; tirado '[⚠️ verificar]'); J140 marca MIG-25 Foxbat e Kingcobra como descontinuados; M140 limpo."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
