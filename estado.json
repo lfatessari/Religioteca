@@ -846,7 +846,7 @@
     }
   },
   "em_execucao": "2026-10-19T05:41:35Z",
-  "ultimo_sinal": "2026-10-19T05:41:35Z",
+  "ultimo_sinal": "2026-10-19T05:51:28Z",
   "em_andamento": {
     "marcas": [
       "Autodromo"
@@ -856,7 +856,12 @@
     "relogios": "historico/parcial_Autodromo_relogios.txt",
     "fontes": "historico/parcial_Autodromo_fontes.txt",
     "notas": "historico/notas_Autodromo.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "5"
+    ],
     "passada": 1
   }
 }
