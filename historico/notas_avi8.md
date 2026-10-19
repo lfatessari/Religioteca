@@ -7,3 +7,4 @@ AV-4070 Hawker Harrier Ace of Spades Automatic (variantes Black, Ghost Grey...; 
 Flyboy Cadet Auto (nome visto em anúncio WatchPatrol, sem código)
 Kakaku: 'Flyboy Spirit of Tuskegee chronograph LE' (sem código), 'Flyboy Wingman Worldtimer GMT Tropical Grey' (sem código)
 Flyboy Vintage Collection (prata / latão envelhecido) — sem código, citado no VAN
+Yodobashi: AV-CLOCK-01 GMT (relógio de mesa) — não entra (não é de pulso). AV-4017 base (Dappered) removido: coberto por AV-4017-01/-05 (foto Dappered perdida).
