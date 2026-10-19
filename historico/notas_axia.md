@@ -21,3 +21,4 @@ FIFA KOSMOS: geral + 14 países (lista com fotos já obtida)
 VERMELHO: sim — muitas edições privadas/sob encomenda (Tewaaraton, Naismith finalistas, NSA, Secret Service, IWLCA/USILA, 20+ universidades licenciadas, CFP 2024-25 LYTHOS de 10 times).
 ## 2ª passada — alvos: CFP 2024-25 que faltam (Georgia, Penn State, Notre Dame, Tennessee ARGOS; LYTHOS), Ivy League KAIROS/SOFIA, universidades licenciadas, Kronos outras cores, Michigan 2026 Dusty May, Texas A&M C'26, Choate, Johns Hopkins, Delaware, catálogo PDF, fotos ARGOS/ENOSI FIFA.
 - /collections/all tem 192 produtos em 13 páginas; só a pág. 1 abriu (as outras não apareceram em busca).
+## Fim da 2ª passada (13:08): 6 relógios novos → 3ª passada obrigatória.
