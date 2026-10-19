@@ -1202,5 +1202,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T16:41:34Z",
+  "ultimo_sinal": "2026-10-19T16:41:34Z",
+  "em_andamento": {
+    "marcas": [
+      "BA111OD"
+    ],
+    "linha_marcas": 148,
+    "grande": false,
+    "relogios": "historico/parcial_BA111OD_relogios.txt",
+    "fontes": "historico/parcial_BA111OD_fontes.txt",
+    "notas": "historico/notas_BA111OD.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
