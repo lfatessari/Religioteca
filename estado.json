@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 150,
-  "ultima_versao": 141,
+  "proxima_linha_marcas": 152,
+  "ultima_versao": 142,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1244,6 +1244,48 @@
       "marca": "Azimuth",
       "linha_marcas": 146,
       "obs": "Correção a pedido: H146 → @azimuthwatch; I146 reescrito com dados conferidos (2003 Singapura, Christopher Long e Alvin Lye, 1º modelo Bombardier I 2004, Neuchâtel/Giuseppe Picchi, datas de Spaceship/Mr. Roboto/Back in Time) e sem '[⚠️ verificar]'; M146 limpo."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 142,
+      "marca": "Badger Watches",
+      "linha_marcas": 150,
+      "linhas_relogios": "15035-15038",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "grande": false,
+      "fontes": 15,
+      "passadas": {
+        "1": [
+          15,
+          4
+        ]
+      },
+      "obs": "Badger de Singapura (Leroy Zhong, Islander 2019, Kickstarter); série única com 4 versões (site oficial = Kickstarter = imprensa). Badger Outdoor (outra marca) não entrou. M150 preenchido."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 142,
+      "marca": "Badollet",
+      "linha_marcas": 151,
+      "linhas_relogios": "15039-15081",
+      "relogios": 43,
+      "vermelho": true,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 62,
+      "passadas": {
+        "1": [
+          51,
+          43
+        ],
+        "2": [
+          11,
+          0
+        ]
+      },
+      "obs": "tratada como grande (peças personalizadas); começou como pequena junto com Badger. Vermelha: combinações de pedra/anel/metal personalizadas sem lista; relógios de bolso antigos (J.-M./J.-J. Badollet & Cie) não entraram. Próxima: Ball (152, grande)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1255,24 +1297,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T18:41:36Z",
-  "ultimo_sinal": "2026-10-19T18:55:45Z",
-  "em_andamento": {
-    "marcas": [
-      "Badger Watches",
-      "Badollet"
-    ],
-    "linha_marcas": 151,
-    "grande": true,
-    "relogios": "historico/parcial_badollet_relogios.txt",
-    "fontes": "historico/parcial_badollet_fontes.txt",
-    "notas": "historico/notas_badollet.md",
-    "secoes_feitas": [
-      "Badger: todas",
-      "Badollet: 1-10b da 1ª passada"
-    ],
-    "passada": 2,
-    "obs": "Badger Watches pronta (historico/dados_badger.txt, marca_badger.json); Badollet em pesquisa (historico/notas_badollet.md)"
   }
 }
