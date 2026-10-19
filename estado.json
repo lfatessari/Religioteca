@@ -1154,7 +1154,7 @@
     }
   },
   "em_execucao": "2026-10-19T14:41:48Z",
-  "ultimo_sinal": "2026-10-19T14:46:04Z",
+  "ultimo_sinal": "2026-10-19T14:49:16Z",
   "em_andamento": {
     "marcas": [
       "Azimuth"
@@ -1165,7 +1165,9 @@
     "fontes": "historico/parcial_Azimuth_fontes.txt",
     "notas": "historico/notas_Azimuth.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "3"
     ],
     "passada": 1
   }
