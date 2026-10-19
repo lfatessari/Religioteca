@@ -12,3 +12,14 @@
 - Sem código: AeroGMT II Lewis & Clark (LE 1000), AeroGMT II 115th Wright Brothers (LE 1000), Engineer II Pilot GMT, EMII Voyager GMT LE, Kelvin (Trainmaster?).
 - Relógios de bolso ferroviários (Ball-Hamilton/Waltham/Elgin/Illinois): dezenas de graus; entraram só alguns exemplos (999B, 999C, 999E, 331, 810, Official Standard Waltham). Motivo de vermelho.
 - Jura usa DG3000A-S4C-BE/BK com foto DG3030B-S4C (mesmo relógio, código novo?) - não duplicado.
+## Fim da 1ª passada (20:28 UTC)
+- Parou: 3 fontes seguidas sem novidade (oracleoftime x3) depois de ~83 fontes; ~895 relógios.
+- VERMELHA: relógios de bolso ferroviários (dezenas de graus Ball-Hamilton/Waltham/Elgin/Illinois), relógios de pulso vintage (anos 1950-70) sem referência, centenas de variações descontinuadas (2000-2020) que só aparecem como títulos soltos; páginas 2+ das coleções do site oficial (EH, rm, enm) e watchfinder 2-7 não alcançáveis; Tourneau (robots) e Helveti (JS) bloqueados.
+- 2ª passada: buscar descontinuados por linha em fontes NOVAS (eBay, Chrono24 via busca, leilões, fóruns, WatchUSeek, Prestige Time, Jomashop, Swiss Watch Expo etc.), vintage e bolso.
+## Auto-auditoria (10b) parcial
+1. Blog/imprensa oficial: site oficial não tem blog acessível; imprensa via ABTW/Oracle Time/W&W/WatchTime.
+2. §2c: produtos ocultos no site oficial via busca (fichas antigas /global/) feito.
+3. site: em lojas (Jura, Whamond, Exquisite, Tourneau) feito.
+4. Primeiro modelo: relógios de bolso (Ball-Hamilton 999B c.1898) e vintage Trainmaster anos 1950-60 entraram.
+5. Nomes em J (Engineer Master II, Engineer Hydrocarbon, Roadmaster, Trainmaster, Fireman) todos achados.
+6. Edições limitadas/colaborações: le_map.txt aplicado no fim.
