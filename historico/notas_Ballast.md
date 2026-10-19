@@ -11,3 +11,5 @@
 - allwatches.org páginas 2 e 3 não apareceram em busca.
 - eBay: 'Trafalgar Automatic 47mm Black #347/500' (LE 500, sem código) e 'Meteorite SW200 LE 11/50' — buscar.
 - Chrono24 (site:) e EveryWatch: nenhum resultado de Ballast nas buscas.
+- Odin: BL-3132-01..06; Odin chrono BL-3103.
+- eBay: Trafalgar Automatic 47mm Black #347/500 (sem código); Meteorite SW200 LE#11/50.
