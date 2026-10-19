@@ -1,0 +1,8 @@
+# AXIA Time — notas (linha 142 de Marcas)
+Dimensionamento: marca grande (relógios comemorativos customizados: universidades, academias militares, times, prêmios, FIFA por país). Feita sozinha.
+Usa códigos? Não (só nomes de modelo ARGOS, KOSMOS, ODYSSEUS, KAIROS II, LYTHOS, DIASIMOS, ENOSI).
+## Seções feitas
+- 1 dimensionar: ok
+## Candidatos (menu do site, handles)
+kairosii-alpha-phi-alpha, bergen-catholic-founders-edition-odysseus, odysseus-choate, kairos-ii-delaware-lacrosse, jesuit-dallas-2025-state-champions, johns-hopkins-lacrosse-odysseus-ii, lythos-loomis-chaffee-national-champions, notre-dame-lacrosse-2024-national-champions-timepiece-kairos-ii, kairos-ii-syracuse-lacrosse, michigan-2026-national-champions-dusty-may-box-set-argos, national-geospatial-agency-nga-argos, texas-a-m-class-of-2026-argos-student-edition, uconn-2024-national-champions, usma96-timepiece-argos, usna 1976/1978/1985/1986/1991/1997 argos, zach-edey-purdue-naismith-odysseus, lsu/maryland/michigan odysseus ii/penn state/rutgers/uconn/usna university timepieces
+FIFA KOSMOS: geral + 14 países (lista com fotos já obtida)
