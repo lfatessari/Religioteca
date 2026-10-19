@@ -714,5 +714,20 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T00:41:26Z",
+  "ultimo_sinal": "2026-10-19T00:41:26Z",
+  "em_andamento": {
+    "marcas": [
+      "Audric",
+      "Auffret"
+    ],
+    "linha_marcas": 128,
+    "grande": false,
+    "relogios": "historico/parcial_audric_relogios.txt",
+    "fontes": "historico/parcial_audric_fontes.txt",
+    "notas": "historico/notas_audric.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
