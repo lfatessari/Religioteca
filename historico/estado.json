@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 148,
-  "ultima_versao": 138,
+  "proxima_linha_marcas": 149,
+  "ultima_versao": 139,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1191,6 +1191,25 @@
         ]
       },
       "obs": "catálogo oficial 'Watches' (280 de 326 itens) + loja/imprensa/leilões; vermelha por configurador e ~450 produtos no catálogo da API sem acesso; maioria das linhas oficiais com link da página (sem foto). Próxima: BA111OD (148)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 139,
+      "marca": "BA111OD",
+      "linha_marcas": 148,
+      "linhas_relogios": "14678-14765",
+      "relogios": 88,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 73,
+      "passadas": {
+        "1": [
+          73,
+          88
+        ]
+      },
+      "obs": "sozinha porque a seguinte (Backes & Strauss, 149) é grande (TWP 126 relógios); tratada como grande na dúvida. Site oficial Shopify (loja atual ~20 relógios) + sala de imprensa (38 kits) + páginas ocultas por busca + TWP (76) + Nicols/Ocarat/Watchmakers United/Helvetica + imprensa. M148: J 'Chapter 2 Veblen Dilemma' errado. Próxima: Backes & Strauss (149)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

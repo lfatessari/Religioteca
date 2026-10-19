@@ -14,3 +14,12 @@ site oficial (não achado em site:), capítulos 1, 2, 3.1, 4 original, 4.3/4.4, 
 - Buraco: Chapter 6.9 (Watchmakers United pula de 6.8 para 6.10); Chapter 2.3; originais 3.1 C.T.M. e 3.2 B.S. (antes do 'Reloaded')
 - 2c refeito (chapter one, chapter-2, edition, reloaded): achados 2.3 Queendom Black Diamonds (página oculta, erro ao abrir), 3.1 C.T.M. (página oculta, erro), Chapter 1.2 Blue (handle), Δ.7 ELLA com correia de couro (variante).
 - Fontes com erro (não contam): chrono24, watchmakersunited (sem www), DUO 4.3&4.4, Δ.4 produto, 2.1 produto, 2.3, chapter-2 coleção, xmas, 3.1 CTM, 3.2 R, nicols 7.8 (PROVENANCE).
+## 10b Auto-auditoria
+1. Blog: pág. 1 lida inteira + artigos achados por busca (págs. 2–4 não apareceram em busca; artigos individuais lidos: Veblen, Ch1&2 adeus, 4.3/4.4, 4.6, AGIL Club, 3.5/3.6, 6.6–6.8); sala de imprensa inteira (38 kits) lida → todos os lançamentos na lista.
+2. site:ba111od.com/products com chapter 1–8, delta, edition, diamonds, reloaded, kairos → achados ocultos 2.3 Queendom, 3.1 C.T.M., 4.12–4.14, DUO 4.3/4.4, Estelle Lagarde. Pararam de aparecer handles novos.
+3. Lojas: Ocarat, Nicols, Watchmakers United, Helvetica Horlogerie (todas listadas; nada novo além de numeração interna).
+4. Primeiro modelo: Chapter 1 (1.1–1.4, 2019/2020) + Master FDV; Chapter 2 (2.1–2.4).
+5. J da aba Marcas: Chapter 1 ✔, "Chapter 2 Veblen Dilemma" ✗ (Veblen Dilemma = Chapter 4.1 T.V.D.), Chapter 4 Tourbillon ✔, Chapter 4.5 ✔.
+6. Limitadas/colaborações na B com nº de peças ✔; sem peça única confirmada.
+7. Fontes: 73 abertas (1ª passada).
+Buracos que ficaram: Chapter 6.9 e 4.10/4.11 (numeração interna sem modelo conhecido), original 3.2 B.S. (só o "Reloaded" foi achado). Não pintada de vermelho: não há certeza de modelos faltando (podem ser só números internos).
