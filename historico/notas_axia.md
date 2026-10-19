@@ -17,3 +17,6 @@ FIFA KOSMOS: geral + 14 países (lista com fotos já obtida)
 - FIFA 2026: 45 desenhos, ~8.000 relógios (ARGOS, ENOSI, KOSMOS por seleção). Primeiro relógio: centenário do lacrosse da Penn.
 - FIFA specs: ARGOS 42x13,3 mm ETA 2824 300 m, US$1.495, 80/país; ENOSI 38x10,3 mm SW200 US$795, 80/país; KOSMOS 36 mm biocerâmica quartzo Miyota US$225, 400/país; box set 20/país arte Lili Cantero. Faltam fotos ARGOS/ENOSI de 13 países.
 - Novo modelo ATHLOS (Naismith, 41 mm). Logo: https://wornandwound.com/library/uploads/2025/12/Axia_Time.png
+## Fim da 1ª passada (13:04 UTC): 3+ fontes seguidas sem novidade. Chrono24/EveryWatch/eBay: nenhum anúncio da marca (venda direta). Revendedores: não há (só loja própria + loja da USA Lacrosse, Classic City Collective).
+VERMELHO: sim — muitas edições privadas/sob encomenda (Tewaaraton, Naismith finalistas, NSA, Secret Service, IWLCA/USILA, 20+ universidades licenciadas, CFP 2024-25 LYTHOS de 10 times).
+## 2ª passada — alvos: CFP 2024-25 que faltam (Georgia, Penn State, Notre Dame, Tennessee ARGOS; LYTHOS), Ivy League KAIROS/SOFIA, universidades licenciadas, Kronos outras cores, Michigan 2026 Dusty May, Texas A&M C'26, Choate, Johns Hopkins, Delaware, catálogo PDF, fotos ARGOS/ENOSI FIFA.
