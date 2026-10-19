@@ -5,3 +5,7 @@
 - Usa códigos? Não (só nome + variação).
 - Falta: Brooklyn, HAL-YWOOD, Ice-T, Johnny Marines restantes, Selfani outros, Revrun outros, Ambassadors, Legends of the Game; site antigo; Chrono24 dealer; Charitybuzz.
 - 66 produtos da loja todos levantados (47+19). Falta: site antigo, Chrono24 dealer, Charitybuzz, Watchonista, ambassadors, Legends of the Game, 50 Cent, Selfani antigo.
+- Logo: https://azadwatch.com/cdn/shop/files/Azad-Watch-Logo.webp?v=1742223870
+- Our Story: fundada 2005 por "Bobby Azad"; cabeçalho "Babak Ermankhah, President". Masterhorologer: 2008. Flickr 2009: "Founder Babak Ermankhah".
+- 1ª passada encerrada: 3 fontes seguidas sem novidade (3 Flickr). 33 fontes.
+- Decisão: VERMELHA — joias sob encomenda (cravação "on request"), coleção "secreta" de 2009, peças "Legends of the Game" para homenageados (Dr. J, Alex Sensation, Ice-T), relógios para 50 Cent, Selfani antigo: existem mais modelos que não deu para listar. 2ª passada a seguir.
