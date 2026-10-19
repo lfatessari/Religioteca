@@ -11,3 +11,5 @@ Não incluído: "The God of the Sea and his creatures" (só desenho de proposta)
 - site_am.txt = lista do site (nome|link|img|categoria). Saint Gabriel do site = Sfântul Gavril já listado (masterhorologer). Trafalgar e Brâncuși (masterhorologer) = mesmas do site.
 - Galeria de clientes (2026/01/*.webp): Alifantis, Avi Lerner, Cargo 40 ani, Casa Regală (Ferdinand, Regina Maria), Codin Maticiuc, Cristi Hrubaru, Denis Alibec, Erik Roberts, Hagi, Jesús del Cerro, Kobe Bryant, Maggie Q, Matei Dima, Michael Keaton, Moshe Diamant, Pavel Bartos, Patriarcas Daniel e Bartolomeu, Mancini, Samuel L. Jackson, Stallone, Tudor Gheorghe -> peças por cliente (decidir: entram como "Relógio de <cliente>").
 - Feito: 1, 2 (parte). Falta: categorias super-premium/deluxe/interzis/tag ceas-handmade-premium (via busca), páginas de produto, 2c, 3..10b.
+- Pinterest mateiliviu90 bloqueado (robots). Memento Mori: 44 mm, safira, avestruz azul (Vasile Uglai), ETA 2892 modificado por Adrian (+4 rubis).
+- Bloqueados: facebook (robots), pinterest (robots), watchshop.ro blog (CLIENT_ERROR).

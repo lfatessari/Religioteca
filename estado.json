@@ -781,7 +781,7 @@
   }
  },
  "em_execucao": "2026-10-19T02:41:38Z",
- "ultimo_sinal": "2026-10-19T02:49:33Z",
+ "ultimo_sinal": "2026-10-19T02:52:01Z",
  "em_andamento": {
   "marcas": [
    "Augustin Matei"
@@ -792,7 +792,8 @@
   "fontes": "historico/parcial_augustin_matei_fontes.txt",
   "notas": "historico/notas_augustin_matei.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2"
   ],
   "passada": 1,
   "obs": "Augustin Matei = peças únicas sob encomenda -> grande, sozinha",
