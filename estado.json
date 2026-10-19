@@ -716,18 +716,20 @@
     }
   },
   "em_execucao": "2026-10-19T00:41:26Z",
-  "ultimo_sinal": "2026-10-19T00:41:26Z",
+  "ultimo_sinal": "2026-10-19T00:48:49Z",
   "em_andamento": {
     "marcas": [
       "Audric",
       "Auffret"
     ],
-    "linha_marcas": 128,
+    "linha_marcas": 129,
     "grande": false,
-    "relogios": "historico/parcial_audric_relogios.txt",
-    "fontes": "historico/parcial_audric_fontes.txt",
-    "notas": "historico/notas_audric.md",
-    "secoes_feitas": [],
+    "relogios": "historico/parcial_auffret_relogios.txt",
+    "fontes": "historico/parcial_auffret_fontes.txt",
+    "notas": "historico/notas_auffret.md",
+    "secoes_feitas": [
+      "Audric completa"
+    ],
     "passada": 1
   }
 }
