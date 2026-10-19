@@ -13,3 +13,5 @@ FIFA KOSMOS: geral + 14 países (lista com fotos já obtida)
 - Sinal de VERMELHO: dezenas de edições custom privadas (escolas, turmas, empresas) que não estão publicadas.
 - Fundador: John Kanaras (ex-jogador de lacrosse da UPenn); marca de 2018. CFP 2023-24: ODYSSEUS para Washington, Alabama, Texas, Michigan.
 - Pistas: aBlogtoWatch cita 'Axia Kronos Watch Review' e 'AXIA Time Kronos GMT' (modelos antigos!). Buscar.
+- Origem: relógio Penn Ivy League 2019 (primeiro); fundação 2018; licença inicial com as 8 Ivy League (KAIROS universitário).
+- FIFA 2026: 45 desenhos, ~8.000 relógios (ARGOS, ENOSI, KOSMOS por seleção). Primeiro relógio: centenário do lacrosse da Penn.
