@@ -1,1 +1,7 @@
 # Ball notas
+## Notas (passada 1)
+- Ball = GRANDE (TWP 701 relógios; Exquisite 297; site oficial ~250 atuais em 7 páginas do watchfinder).
+- Site oficial: só páginas 1 das coleções abrem (paginação ?page=N não aparece em busca). Feito: watchfinder p1, EIII p1, EMII, engineer-ii, trainmaster, fireman, EH p1, enm p1, rm p1, ball-watches.
+- Faltam: EH/rm/enm/EIII páginas 2+ (compensar com lojas e WatchBase/TWP fichas), site antigo /global/ (fichas de modelos antigos com id) .
+- Sem código ainda: Engineer II Moon Calendar (vários), Engineer III Endurance 1917 GMT 41mm, Engineer M Skindiver III LE azul.
+- Exquisite p1-7 feito; falta p8-10.
