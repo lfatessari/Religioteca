@@ -754,7 +754,7 @@
     }
   },
   "em_execucao": "2026-10-19T01:41:21Z",
-  "ultimo_sinal": "2026-10-19T01:52:13Z",
+  "ultimo_sinal": "2026-10-19T01:55:55Z",
   "em_andamento": {
     "marcas": [
       "Auguste Reymond"
@@ -766,8 +766,10 @@
     "notas": "historico/notas_Auguste_Reymond.md",
     "secoes_feitas": [
       "1",
-      "3-parcial",
-      "5-parcial"
+      "2",
+      "3",
+      "5",
+      "9-parcial"
     ],
     "passada": 1
   }
