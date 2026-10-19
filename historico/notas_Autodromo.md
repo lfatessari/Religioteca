@@ -5,3 +5,6 @@
 - Seções feitas: 1, 2, 2c (parcial: buscas site:/products não trazem handles), 5 (WatchPatrol, WatchCharts).
 - WatchCharts cita: Rallysport Chronograph S4, Rallysport "037" Hodinkee LE100, Group B Black Dial, Nightstage IV, Prototipo Worn & Wound LE — BUSCAR.
 - Windup página interna WatchPatrol pediu permissão (não reabrir).
+- Vivir.com parece conteúdo gerado (diz "16 fragrances", refs AU-AF-SS-* inventadas?): Autostrada Folio, Vallelunga GIORNO e Group B S4 "Kona" BP-005K-D-T4 NÃO entram (não confirmados em outra fonte).
+- WatchCharts "Group B Black Dial" e EveryWatch BP005 preto: não identificado (talvez Night Stage II) — não entra.
+- Códigos de loja BP-001A (Vallelunga Auto), BP-003 (Prototipo), BP-005 (Group B S2), BP-009 (Group C) parecem códigos da marca; usados quando aparecem.
