@@ -823,7 +823,7 @@
     }
   },
   "em_execucao": "2026-10-19T04:41:34Z",
-  "ultimo_sinal": "2026-10-19T04:41:34Z",
+  "ultimo_sinal": "2026-10-19T04:45:40Z",
   "em_andamento": {
     "marcas": [
       "Auricoste"
@@ -833,7 +833,10 @@
     "relogios": "historico/parcial_Auricoste_relogios.txt",
     "fontes": "historico/parcial_Auricoste_fontes.txt",
     "notas": "historico/notas_Auricoste.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
