@@ -6,3 +6,8 @@
 - Bronzo Artist Series: peças únicas 1/1 sem nomes -> motivo de vermelho.
 - Round-1 Dragon RRM: 4 cores, 25 peças. Buscar outras 3 cores.
 - Buscar: Bombardier II-V, B-Uhr, Militare, Back in Time variantes, Mr Roboto Sapphire, Spaceship variantes, Round-1 Chrono/Mono-pusher, Twin Barrel Tourbillon, Garfield, Grand Baccarat, Wood Dragon, Juxtaposition, Israeli tank.
+- EveryWatch: 104 à venda + 413 vendidos = 517 -> GRANDE confirmada. Fichas /watch-N não abrem (CLIENT_ERROR). chrono24 não abre. timepiece fichas pedem permissão.
+- SITE OFICIAL ACHADO: azimuthwatch.com (Wix). Categorias: past-collections (8 + page 2), automobile (6), sci-fi (8 + page 2), juxtaposition (4), special-collaborations (não aberta). Também site antigo /product/<x> e loja Ecwid azimuthwatch.company.site.
+- Logo: https://static.wixstatic.com/media/c258fe_cedb9a4880f1485a9bbb41bea869967a~mv2.png
+- Back in Time oficial: img https://static.wixstatic.com/media/6df6e0_851bbc238cce489fa0704aa3aa083bbb~mv2.jpg ; 42 mm, ETA/SW modificado, ponteiro único + data, 3 ATM.
+- Mr Roboto Bronzo oficial img https://static.wixstatic.com/media/6df6e0_b38c18c891e8430aae190c78aa540e27~mv2.jpg (43x50 mm bronze, GMT)
