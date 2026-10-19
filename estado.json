@@ -844,5 +844,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T05:41:35Z",
+  "ultimo_sinal": "2026-10-19T05:41:35Z",
+  "em_andamento": {
+    "marcas": [
+      "Autodromo"
+    ],
+    "linha_marcas": 134,
+    "grande": true,
+    "relogios": "historico/parcial_Autodromo_relogios.txt",
+    "fontes": "historico/parcial_Autodromo_fontes.txt",
+    "notas": "historico/notas_Autodromo.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
