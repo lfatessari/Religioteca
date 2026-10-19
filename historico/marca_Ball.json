@@ -1,0 +1,572 @@
+{
+ "marca": "Ball",
+ "usa_codigos": true,
+ "logo": "https://www.ballwatch.com/catalog/view/theme/ballwatch/images/BALL-logo.svg",
+ "site_bloqueado": "Parcial – ballwatch.com: páginas 2+ das coleções (watchfinder, EH, Roadmaster, Engineer M) e listagem completa do catálogo não abrem para leitura automática; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I tem '[⚠️ verificar]': fundação (1891, Cleveland, Webb C. Ball) e sede atual (La Chaux-de-Fonds) conferem. J: faltam as linhas atuais Engineer III e Engineer M (e Conductor, descontinuada). No Japão a linha Fireman se chama 'Stokeman'.",
+ "fontes": [
+  {
+   "url": "https://www.ballwatch.com/en/watchfinder",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/ball-watch",
+   "passada": 1,
+   "novos": 73
+  },
+  {
+   "url": "https://www.hourstriker.com/database/ball-watch-co/engineer-iii",
+   "passada": 1,
+   "novos": 42
+  },
+  {
+   "url": "https://www.ballwatch.com/en/EIII",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://www.ballwatch.com/en/EMII",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.ballwatch.com/en/engineer-ii",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.ballwatch.com/en/trainmaster",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.ballwatch.com/en/ball-watches",
+   "passada": 1,
+   "novos": 27
+  },
+  {
+   "url": "https://www.ballwatch.com/en/fireman",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.ballwatch.com/en/EH",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.ballwatch.com/en/enm",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://www.ballwatch.com/en/rm",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://exquisitetimepieces.com/collections/ball-watch",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=3",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=4",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=5",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=6",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=7",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=8",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-watch?page=9",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/sold-out-ball-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://watchbase.com/ball-watch/engineer-ii",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://watchbase.com/ball-watch/fireman",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://watchbase.com/ball-watch/engineer-hydrocarbon",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://watchbase.com/ball-watch/official-railroad-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://hourstriker.com/brands/ball-watch-co",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.hourstriker.com/database/ball-watch-co/roadmaster",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.hourstriker.com/database/ball-watch-co/trainmaster",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.hourstriker.com/database/ball-watch-co/engineer-m",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/ball/fireman",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/entdecken/marken/ball/roadmaster/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/collections/ball-watch-co",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gnomonwatches.com/collections/ball-watch-co?page=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gnomonwatches.com/collections/ball-watch-co?page=3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://teddybaldassarre.com/collections/ball-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/de/collections/trainmaster.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/ball",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/ball-watch-releases?page=3",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/ball-watch-releases",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.ballwatch.com/en/DM2236A-S2CJ",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://issuu.com/ballwatchcompany",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/ball-for-bmw-full-watch-collection",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://www.watchtime.com/wristwatch-industry-news/watches/ball-bmw-adds-mechanical-thermometer-chronograph-fleet/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loupethis.com/auctions/ball-for-bmw-tmt-chronometer-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/watches/ball-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ball_Watch_Company",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand-highlight-ball-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/ball-watch-company-trainmaster-watches.oembed",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/ball-watch-company/subcat-roadmaster",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballwatch.com/en/NM2068D-SAJ-BK",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/ball/conductor",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.righttime.com/rt/preowned/ball_a.htm",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/ball/engineer+ii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listings/brand/ball/engineer+master+ii?old=1&page=1&price_max=0&price_min=0&status=sold",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listings/brand/ball",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://ablogtowatch.com/ball-engineer-hydrocarbon-aerogmt-ii-wright-brothers-limited-edition-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/ball/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/hands-on-ball-engineer-ii-moon-calendar-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/my-favorite-ball-watches-at-jck-big-and-lots-of-lume/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/ball-watch/index.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/ball-trainmaster",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-34mm-ball-trainmaster-mens-mechanical-wristwatch-1604-b-swiss-10k-gf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://pocketwatchdatabase.com/search/result/ball/28982",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.auctions.jones-horan.com/211031/html/lots_390-431__american_pocket_watches_section_2.htm",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebth.com/items/12730662-1929-ball-official-standard-pocket-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://pocketwatchdatabase.com/search/result/ball/B267243",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ballwatch.com/index.php?manufacturer_id=11&route=product%2Fmanufacturer%2Finfo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballwatch.com/en/ball-watches/EIII?page=2",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://ballwatch.com/index.php?limit=40&manufacturer_id=11&order=DESC&page=4&route=product%2Fmanufacturer%2Finfo&sort=p.model",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchmaxx.com/mens-watches/ball",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/watch/ball/dm1022a",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/ball-fireman",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/collections/ball-trainmaster",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/ball-watch-company-watches/subcat-engineer-hydrocarbon?page=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/ball-watch-company-watches/subcat-roadmaster",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/ball-watch-company-watches/gender-ladies",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/39322436-ball-watch-company-launch-the-engineer-hydrocarbon-arctic-chronometer-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/ball-brand-new-engineer-hydrocarbon-pathbreaker",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/blogs/editorial/ball-engineer-hydrocarbon-pathbreaker-limited-edition-watch-review",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://oracleoftime.com/ball-watch-co/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/ball-x-cronotempvs-collectors-new-engineer-iii-00blu/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/brands/ball-watch-co/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/236047847901",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/ball/trainmaster",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/shop/ball-trainmaster",
+   "passada": 2,
+   "novos": 35
+  },
+  {
+   "url": "https://www.ebay.com/b/BALL-Watches/31387/bn_2980983",
+   "passada": 2,
+   "novos": 13
+  },
+  {
+   "url": "https://www.ebay.com/str/jomashop/Ball-Watches/_i.html?store_cat=1839463012",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://www.ebay.com/b/BALL-Pilot-Aviator-Wristwatches/31387/bn_96998551",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.ebay.com/b/BALL-Engineer-Stainless-Steel-Case-Wristwatches/31387/bn_7116531577",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://omegaforums.net/threads/ball-trainmaster-wristwatch.109729/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://jewelry.ha.com/itm/timepieces/ball-official-rr-standard-trainmaster-with-boxes-circa-1960/a/5137-58355.s",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://pocketwatchdatabase.com/search/result/ball/B648302",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://pocketwatchdatabase.com/search/result/ball/1B1893",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/ball-watches.html?page=10",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/closer-look-at-the-new-ball-engineer-iii-marvelight-chronometer-limited-edition",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/ballwatch/hydrocarbon/refDM1016A-S1J-WH/watch2844/",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://piazo.jp/ballwatch/",
+   "passada": 2,
+   "novos": 36
+  },
+  {
+   "url": "https://piazo.jp/actual.php?pricelist_search=%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/83467/list.html",
+   "passada": 2,
+   "novos": 17
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/83467/97765/list.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2008/catalog/ball_watch/index.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2012/basel/ball-watch/02-01.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2011/basel/ball-watch/01-01.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2011/basel/ball-watch/03-01.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/ball-trainmaster-manufacture-watch/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/ball-big-boy-union-pacific-engineer-master-ii-limited-edition-watch-hands-on/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ipropertymedia.com/watches-right-on-track/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/ball-engineer-hydrocarbon-deep-quest-3000m-diver-watch-hands-on/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/ball-fireman-storm-chaser-pro-watch-hands/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Ball/Timeline",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballwatch.com/en/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

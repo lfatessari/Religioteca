@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 152,
-  "ultima_versao": 142,
+  "proxima_linha_marcas": 153,
+  "ultima_versao": 143,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1286,6 +1286,33 @@
         ]
       },
       "obs": "tratada como grande (peças personalizadas); começou como pequena junto com Badger. Vermelha: combinações de pedra/anel/metal personalizadas sem lista; relógios de bolso antigos (J.-M./J.-J. Badollet & Cie) não entraram. Próxima: Ball (152, grande)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 143,
+      "marca": "Ball",
+      "linha_marcas": 152,
+      "linhas_relogios": "15082-16131",
+      "relogios": 1050,
+      "vermelho": true,
+      "site_bloqueado": "Parcial – ballwatch.com (paginação das coleções)",
+      "grande": true,
+      "fontes": 112,
+      "passadas": {
+        "1": [
+          83,
+          701
+        ],
+        "2": [
+          17,
+          148
+        ],
+        "3": [
+          12,
+          8
+        ]
+      },
+      "obs": "sozinha (grande: TWP 701, Hourstriker 441, catálogo oficial 466 configs). Site oficial (watchfinder, coleções p1, EIII p2, fichas antigas /global/) + TWP + Hourstriker + WatchBase + Exquisite (10 págs) + Jura/Whamond/Sellors + Gnomon + Tourneau/WatchMaxx (títulos) + eBay + Piazo/Rasin/Gressive (Japão) + vintage (1stDibs, Heritage, Omega Forums) + relógios de bolso (PWDB, Jones & Horan). ~485 linhas com link de página no lugar da foto; 32 sem código. Vermelha: relógios de bolso (dezenas de graus), vintage sem referência, centenas de variações descontinuadas. M152 preenchido. Próxima: Ballast (153)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
