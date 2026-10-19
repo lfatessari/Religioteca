@@ -9,3 +9,4 @@
 - le_map.txt guarda edições limitadas (aplicar na B no fim).
 - W&W: Fireman Night Train (43mm DLC, Ball 124), Women's Fireman NL1088C-LJ-WHBE, linha Conductor -> buscar refs.
 - Tourneau: listagem bloqueada (robots); refs tiradas de títulos de busca (BLW01000xx).
+- Sem código: AeroGMT II Lewis & Clark (LE 1000), AeroGMT II 115th Wright Brothers (LE 1000), Engineer II Pilot GMT, EMII Voyager GMT LE, Kelvin (Trainmaster?).
