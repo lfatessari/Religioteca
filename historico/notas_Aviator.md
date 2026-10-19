@@ -6,3 +6,6 @@
 - 11:10 UTC: feitos 2 (site), parte de 2c (Gemstone/Moonflight LE/Ice Blue via helveti/watchard), linhas antigas (Kingcobra, Kingcobra Chrono, MIG-25, MIG-29 Chrono/GMT/Cockpit, MIG-35, Propeller, Professional, Vintage Family 2013, Airacobra Chrono Auto V.4.26), Douglas Chronograph V.2.45 (press release JP 2026).
 - Buraco: watchard lista 319 Aviator mas só pág.1 abre (?p=N não indexado). helveti /mens-watches-aviator negada.
 - Falta: agregadores (EveryWatch/WatchPatrol/Chrono24), mais lojas, usados, imprensa (aBlogtoWatch etc.).
+- 11:13 UTC: 1ª passada encerrada (3 fontes seguidas sem novidade: whamond, watchpro 6670, v-watches p923). ~424 relógios, 86 fontes.
+- VERMELHA: linha antiga 2002-2018 (Kingcobra, MIG-29/35, Vintage, Professional, Airacobra V.1.11/V.2.13/V.3.21) com muitas refs sem foto/nome; egowatch 94 produtos (só 54 visíveis), watchard 319 (só 80 visíveis).
+- 2ª passada: foco em linhas antigas e produtos escondidos.
