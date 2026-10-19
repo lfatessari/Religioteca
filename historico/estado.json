@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 155,
-  "ultima_versao": 147,
+  "proxima_linha_marcas": 156,
+  "ultima_versao": 148,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1381,6 +1381,25 @@
         ]
       },
       "obs": "sozinha (grande: Swatch Group desde 1987/1995; watch.co.uk 225, luxoia 412, ocarat 182 produtos). Site oficial (fichas via busca, páginas de novidades, catálogo 2026/27), ocarat p1/2/4/5, luxoia p1, watch.co.uk p1, uhrenschmuck24, Kamal, Ashford (≈30 refs antigas: Arcade, Ovation, Bellafina, Elysees), Yodobashi (20 refs antigas), theluxurycloset/1stdibs (refs de 4 dígitos), Europa Star, vintagewatchroom (Pierre Balmain anos 1970). ~214 linhas com link de página no lugar da foto; ~150 códigos vieram só de títulos de busca. Vermelha: páginas 2-8 watch.co.uk e 2-11 luxoia inalcançáveis, centenas de refs descontinuadas (Ashford/eBay/Japão) e 1ª coleção de 1987 sem nomes. M154 preenchido. Próxima: Balmont (155)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 148,
+      "marca": "Balmont",
+      "linha_marcas": 155,
+      "linhas_relogios": "16790-16801",
+      "relogios": 12,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "grande": false,
+      "fontes": 30,
+      "passadas": {
+        "1": [
+          30,
+          12
+        ]
+      },
+      "obs": "sozinha: a seguinte, Baltic (156), foi dimensionada como GRANDE (muitas variações e edições desde 2017) e fica sozinha na próxima execução. Catálogo pequeno: BDX001-004, 006, 007, LAX001 (100 peças), LAX002/003/004/007 (só no catálogo, páginas inalcançáveis por busca) e a peça única Mission Alpha. Coleções 'archives' e 'lax' do site não apareceram em busca. M155 preenchido. Próxima: Baltic (156)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
