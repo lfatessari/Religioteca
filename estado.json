@@ -802,5 +802,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-19T03:41:41Z",
+ "ultimo_sinal": "2026-10-19T03:41:41Z",
+ "em_andamento": {
+  "marcas": [
+   "Aurelia Horology"
+  ],
+  "linha_marcas": 132,
+  "grande": false,
+  "relogios": "historico/parcial_aurelia_relogios.txt",
+  "fontes": "historico/parcial_aurelia_fontes.txt",
+  "notas": "historico/notas_aurelia.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
