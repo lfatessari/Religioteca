@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 140,
- "ultima_versao": 130,
+ "proxima_linha_marcas": 141,
+ "ultima_versao": 131,
  "historico": [
   {
    "data": "2026-10-16",
@@ -995,6 +995,33 @@
     }
    },
    "obs": "2ª passada a pedido: +A11-01SE (página oficial) e A-10 A10-06 (BQ); Enygma corrigido para A18-01 (Escapement). Linhas Aventi 12691-12709 (AVI-8 deslocada +2)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 131,
+   "marca": "Aviator",
+   "linha_marcas": 140,
+   "linhas_relogios": "13318-13754",
+   "relogios": 437,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 112,
+   "passadas": {
+    "1": {
+     "fontes": 86,
+     "novos": 419
+    },
+    "2": {
+     "fontes": 16,
+     "novos": 9
+    },
+    "3": {
+     "fontes": 10,
+     "novos": 4
+    }
+   },
+   "obs": "Bateria só com Aviator (grande). Site atual aviatorwatch.swiss (8 coleções, ~330 refs, fotos pelo padrão do CDN conferido em 1 produto por modelo). Vermelha: linha antiga 2002-2018 (Kingcobra, MIG-21/25/29/35, Propeller, Professional, Vintage, Airacobra V.1.11/V.2.13/V.3.21) incompleta; watchard (319) e egowatch.ru (94) só pág. 1. EveryWatch/Chrono24 não indexados. Próxima: Awake (141)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

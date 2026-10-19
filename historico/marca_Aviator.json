@@ -1,0 +1,572 @@
+{
+ "marca": "Aviator",
+ "usa_codigos": true,
+ "logo": "https://aviatorwatch.swiss/assets/images/schema/AVIATORWATCH_logo_400.jpg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://aviatorwatch.swiss/brand/about-aviator-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-airacobra/airacobra-p42/v-1-22-5-188-5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://aviatorwatch.swiss/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watch-finder/all-aviator-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-airacobra",
+   "passada": 1,
+   "novos": 130
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-douglas",
+   "passada": 1,
+   "novos": 69
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-mig",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-moonflight",
+   "passada": 1,
+   "novos": 46
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-xpro",
+   "passada": 1,
+   "novos": 53
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-bristol",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-special-editions",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-heritage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-special-editions/polska-edycja-v-kpt.-pil.-skarzynski/v-3-44-0-394-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-douglas/douglas-day-date-45/v-3-44-2-404-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-xpro/xpro-dive-200/v-1-42-0-372-6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-moonflight/douglas-moonflight/v-1-33-0-255-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-bristol/bristol-scout/v-3-18-0-161-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviatorwatch.swiss/watches/aviator-watch-special-editions/heritage-chronograph-trimeter-polska-edycja/v-4-40-0-350-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2013/07/26/aviator-watches-mig-family-swiss-made-watches-inspired-by-russian-mig25-and-mig29-fighter-jets/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-watches/aviator-mig-25-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-25-foxbat-m-1-10-5-062-7-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-watches/aviator-kingcobra-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-watches/aviator-chronograph-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-watches/aviator-airacobra-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://number.bunshun.jp/ud/pressrelease/6a9cb4e51262176eb8000000",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/mens-aviator-watches?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/aviator-airacobra-p-45-chrono-auto-v-4-26-0-182-5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://v-watches.com/main/aviator/mig-29-smt-chrono/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096497-aviator-professional-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096348-aviator-mig-29-cockpit-chrono.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096678-aviator-professional-automatic-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096853-aviator-mig-35-chrono.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096342-avia-silvanator-professional-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/2017/08/aviator-mig-35-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/aviator-watch-high-tech-mig-35-m-2-19-0-135-6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/v33903374",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-kingcobra-v-1-17-0-104-5-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-kingcobra-chrono-v-2-16-0-098-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-kingcobra-chrono-v-2-16-5-094-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-29-chrono-m-2-04-5-009-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-propeller-r-3-08-0-091-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-propeller-r-3-08-0-090-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-35-m-2-19-0-143-6-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-35-m-2-19-0-135-6-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-35-m-2-19-5-134-6-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-m-2-19-0-131-6-mig-35-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-v-2-25-2-170-0-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-29-smt-limited-edition-m-2-30-0-221-6-mens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/aviator-watch-airacobra-chrono-auto-mens-v-4-26-0-182-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/aviator-airacobra-p-45-chrono-auto-v-4-26-2-183-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-airacobra-chronograph-v-4-26-0-178-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-airacobra-chrono-auto-mens-v-4-26-0-177-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/aviator-watch-high-tech-mig-35-m-2-19-5-132-6",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/aviator-watch-high-tech-mig-35-m-2-19-6-144-6",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/aviator-watches/subcat-mig-35",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/aviator-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/collections/aviator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2013/07/24/aviator-watches-vintage-family-swiss-made-watches-inspired-by-aviation-history-and-iconic-aircrafts/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://masterhorologer.com/2017/04/21/aviator-bristol-scout-1264-special-edition-watch-steel-case-with-or-without-pvd-sellita-sw-290-1-automatic-movement-black-or-white-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2016/02/13/aviator-mig-35-watch-collection-45mm-fine-brushed-stainless-steel-quartz-chronograph-black-blue-or-carbon-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2013/07/28/aviator-professional-pilots-watch-automatic-chronograph-model-with-eta-7750-valjoux-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/aviator-douglas-moonflight-gemstone-edition-v-1-33-0-419-4",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://watchard.com/aviator-douglas-moonflight-limited-edition-v-1-33-1-343-4-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchard.com/aviator-v-1-33-2-360-4-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=36575",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=36536",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/collections/aviator?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://v-watches.com/main/aviator/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/pages/aviator-watches-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-bristol-bulldog-v-3-18-0-100-4-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/collections/aviator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-29-gmt-m-1-12-5-053-6-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/?p=6544",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=27590",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004087889.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/aviator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://il.shadestation.com/designer-watches/Aviator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jewelleryfocus.co.uk/19752-watchshop-com-aviator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/aviator-watch-releases-2019",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/aviator-watch-vintage-douglas-v-3-09-0-109-4",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://sierrahotel.net/collections/watches/pilot-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://egowatch.ru/watches/aviator/",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://whamond.com/en-eu/collections/aviator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=6670",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://v-watches.com/main/?p=923",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-airacobra-chrono-v-2-13-0-075-4-men-s-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-airacobra-auto-v-v-3-21-0-139-4-men-s-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-airacobra-automatic-v-3-21-0-137-4-men-s-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ceneje.si/Izdelek/46816900/modni-dodatki/rocne-ure/analogne-rocne-ure/aviator-p40600174",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://au.shadestation.com/designer-watches/Aviator",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-mig-29-gmt-m-1-01-0-003-4-men-s-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-airacobra-v-1-11-0-039-5-men-s-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-v-2-25-2-170-4-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/365301836735",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/?p=1444",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=32933",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/fr/l/103562671-aviator-pilot-chronograph-sans-prix-de-reserve-homme-2026",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dienmayxanh.com/kinh-nghiem-hay/dong-ho-aviator-cua-nuoc-nao-uu-diem-va-cac-dong-s-1216894",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-fishbed-m-1-14-0-085-4-men-s-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-fishbed-m-1-14-0-086-4-men-s-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/aviator-watches/aviator-mig-21-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/1004088693.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hans/l/103750077-aviator-pilot-chronograph-2026",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-watches/aviator-mens-watches",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://watchard.com/aviator-watches/aviator-mig-29-smt-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-v-3-31-0-229-5-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-v-3-31-0-228-5-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/aviator-v-3-20-2-225-5-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kaina24.lt/ru/s/aviator-douglas-day-date/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/aviator-watches/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/collections/movement-types-automatic?page=16",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "G desatualizado: site atual aviatorwatch.swiss (aviatorwatch.ch não é usado). I: marca fundada em 2000 (relançada em 2002, raízes na 1ª Fábrica de Relógios de Moscou); já era Swiss Made em 2013, não só desde 2014; '[⚠️ verificar]' ainda no texto. J: 'Kingcobra' e 'MIG-25 Foxbat' são linhas descontinuadas."
+}
