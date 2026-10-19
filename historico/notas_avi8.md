@@ -29,3 +29,4 @@ Nota: AV-4048 (base, gravado) provavelmente = Flyboy Automatic Tuck (AV-4048-02 
 Mais: AV-4010-02 = Hawker Hunter Multifunctional; AV-4030-02 = Supermarine Seafire GMT; AV-4022-03 (gravado como Flyboy) pode ser Lancaster Bomber (AV-4022-08 é Lancaster) — verificar; AV-4013 = Hawker Hurricane Chronograph.
 TouchofModern: páginas não abrem (erro).
 Mais: AV-4007 = Hawker Hunter GMT; AV-4009/4010 = Hawker Hunter Multifunctional; AV-4015 = Hawker Hurricane Aviation Chronograph; AV-4012 = Hawker Hurricane Traditional; AV-4011 antigos = Hawker Hurricane Chronograph. Timepieces Direct: robots bloqueia as páginas de produto.
+Mais: AV-4022 = Lancaster Bomber Chronograph (renomear AV-4022-03); AV-4024 = Lancaster Bomber Chronograph; AV-4027-01 Hawker Typhoon mostrador branco (jomashop).
