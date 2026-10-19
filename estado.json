@@ -1008,7 +1008,7 @@
   }
  },
  "em_execucao": "2026-10-19T10:41:49Z",
- "ultimo_sinal": "2026-10-19T11:01:19Z",
+ "ultimo_sinal": "2026-10-19T11:05:23Z",
  "em_andamento": {
   "marcas": [
    "Aviator"
@@ -1021,7 +1021,9 @@
   "secoes_feitas": [
    "1",
    "2",
-   "2c-parcial"
+   "2c-parcial",
+   "5-parcial",
+   "9-parcial"
   ],
   "passada": 1
  }
