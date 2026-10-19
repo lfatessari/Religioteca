@@ -970,5 +970,20 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T09:27:38Z",
+  "ultimo_sinal": "2026-10-19T09:27:38Z",
+  "em_andamento": {
+    "marcas": [
+      "AVI-8"
+    ],
+    "linha_marcas": 139,
+    "grande": true,
+    "complemento": true,
+    "relogios": "historico/parcial_avi8_p4_relogios.txt",
+    "fontes": "historico/parcial_avi8_p4_fontes.txt",
+    "notas": "historico/notas_avi8.md",
+    "secoes_feitas": [],
+    "passada": 4
   }
 }
