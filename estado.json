@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 153,
-  "ultima_versao": 143,
+  "proxima_linha_marcas": 154,
+  "ultima_versao": 144,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1313,6 +1313,33 @@
         ]
       },
       "obs": "sozinha (grande: TWP 701, Hourstriker 441, catálogo oficial 466 configs). Site oficial (watchfinder, coleções p1, EIII p2, fichas antigas /global/) + TWP + Hourstriker + WatchBase + Exquisite (10 págs) + Jura/Whamond/Sellors + Gnomon + Tourneau/WatchMaxx (títulos) + eBay + Piazo/Rasin/Gressive (Japão) + vintage (1stDibs, Heritage, Omega Forums) + relógios de bolso (PWDB, Jones & Horan). ~485 linhas com link de página no lugar da foto; 32 sem código. Vermelha: relógios de bolso (dezenas de graus), vintage sem referência, centenas de variações descontinuadas. M152 preenchido. Próxima: Ballast (153)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 144,
+      "marca": "Ballast",
+      "linha_marcas": 153,
+      "linhas_relogios": "16132-16330",
+      "relogios": 199,
+      "vermelho": true,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 105,
+      "passadas": {
+        "1": [
+          76,
+          133
+        ],
+        "2": [
+          18,
+          7
+        ],
+        "3": [
+          11,
+          1
+        ]
+      },
+      "obs": "sozinha (grande: ~40 famílias BL-31xx/51xx desde 2012). Site oficial real ballast1903.com (G diz ballastwatches.com). Fontes: site oficial (coleções, all p1-p2, imprensa, manual), Timepiece, allwatches p1, Yodobashi (JP), Klaus Kobec, Ashford, Conteenium, eBay, Jamtangan, WatchMaxx. ~92 linhas com link de página no lugar da foto; ~58 códigos vieram só de títulos de busca. Vermelha: sufixos de cor faltando nas famílias antigas (3101-3132, 51xx), Jolly Roger versão preta e Trafalgar LE 500 sem código. M153 preenchido. Próxima: Balmain (154)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1324,32 +1351,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T21:41:14Z",
-  "ultimo_sinal": "2026-10-19T22:08:05Z",
-  "em_andamento": {
-    "marcas": [
-      "Ballast"
-    ],
-    "linha_marcas": 153,
-    "grande": true,
-    "relogios": "historico/parcial_Ballast_relogios.txt",
-    "fontes": "historico/parcial_Ballast_fontes.txt",
-    "notas": "historico/notas_Ballast.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p2"
-    ],
-    "passada": 3
   }
 }

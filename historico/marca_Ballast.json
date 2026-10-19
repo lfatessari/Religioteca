@@ -1,0 +1,537 @@
+{
+ "marca": "Ballast",
+ "usa_codigos": true,
+ "logo": "https://www.ballast1903.com/cdn/shop/files/checkout_logo_30_410x.png?v=1613150044",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G errado: o site oficial é ballast1903.com (ballastwatches.com não aparece em busca nenhuma). B 'China': a marca opera de Hong Kong (Solar Time Ltd, mesmo grupo de AVI-8/Spinnaker), com identidade britânica — I já traz '[⚠️ verificar]'. J: além de Trafalgar/Amphion/Holland/Odin/Valiant, há Perisher, Torbay, Vanguard e Jolly Roger.",
+ "fontes": [
+  {
+   "url": "https://www.ballast1903.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballast1903.com/collections/trafalgar",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.ballast1903.com/collections/valiant",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.ballast1903.com/collections/all",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.ballast1903.com/collections/amphion",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballast1903.com/collections/perisher",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/ballast-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/ballast-watches.html",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.ebay.com/b/BALLAST-Wristwatches/31387/bn_80613716",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.klauskobec.com/product/ballast-watches/valiant/valiant-gmt/valiant-bl-3108-01/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.klauskobec.com/product/ballast-watches/valiant/valiant-automatic-skeleton/valiant-bl-3129-06/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchreport.com/brands/ballast/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=21464",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballast1903.com/collections/all?page=2",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ballast1903.com/blogs/press",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballast1903.com/blogs/press/16016588-jolly-roger-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/ballast-odin-watch-review-and-video-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/?p=10277",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/ballast-trafalgar-bl-3133-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/category/ballast",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/ballast-valiant-skeleton-automatic-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches.com/products/valiant-bridge-automatic-bl-3129-0b",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://drop.com/buy/ballast-trafalgar-bl-3133-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/ballast-trafalgar-dress-gmt-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/ballast-watch-bl-3132-05.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/products/ballast-bl-3135-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/en/ballast/",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.ebay.com/b/BALLAST-Analog-Wristwatches/31387/bn_80610072",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchaholic.co.uk/product-category/ballast/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/BALLAST-Quartz-Analog-Wristwatches/31387/bn_95079286",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.keepthetime.com/product/ballast-jolly-roger-skull-crossbones-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchdavid.com/ballast-watches-interview/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105634721-ballast-automatic-amphion-700-meter-gift-set-sapphire-new-men-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.watchgang.com/collections/ballast-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/brand/ballast-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/BALLAST-Men-Wristwatches/31387/bn_82804934",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballast1903.com/blogs/stories/trafalgar-conqueror-meteorite-swiss-made-limited-edition-bl-3139",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/ballast-trafalgar-automatic-watch-bl-3136-02/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballast1903.com/blogs/stories",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aurifo.com/aa/a/history-and-highlights-of-the-ballast1903-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfreeks.com/threads/watch-review-ballast-jolly-roger-limited-edition.139554/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://www.ayatori.net/ballast.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://store.shopping.yahoo.co.jp/robinson/bl-3121-04.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.yodobashi.com/product/100000001001637360/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.yodobashi.com/category/18457/18459/178093/ranking/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://store.shopping.yahoo.co.jp/googoods/ballasta5d.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://318.jp/bl-3120.02.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.co.jp/-/en/Wrist-Watches-BALLAST/s?rh=n%3A324025011%2Cp_4%3ABALLAST",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://velize.net/details13598.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/solar-time/ballast-1903-valiant-gmt-quartz-bl-3108-0c",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchmaxx.com/ballast-watch-bl-5101-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/786829-fs-ballast-bl-3136-03-trafalgar-dreadnought-45mm-bronze-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/124833215960",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/336075350826",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/ballast-1903-92b60c81-bc46-427d-b342-92c5322b2e76",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12and60.com/ballast-valiant-bl-3105-02-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=31500",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/14065746667",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/en-cn/products/ballast-bl-3141-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ballast1903.com/products/bl-3150-33-holland",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/products/ballast-trafalgar-bl-3133-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballast1903.com/pages/instruction-manual",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/306084005671",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/187512957364",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/ballast-trafalgar-automatic-watch-bl-3135-01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/27048083325",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/product/ballast-trafalgar-damascus-triumph-bl-3138-01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/products/ballast-trafalgar-titanium-automatic-rose-gold-brown-bl-3135-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/ballast-trafalgar-automatic-watch-bl-3133-06/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.pinterest.com/pin/263319909447771624/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/ballast-odin-military-field-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auktion.catawiki.de/kavels/11973771-ballast-odin-bl-3132-01-men-s-2016",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/BALLAST-Men-Analog-Wristwatches/31387/bn_82805487",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/products/ballast-trafalgar-bl-3133-08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchmaxx.com/ballast-watch-bl-3147-22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchdavid.com/ballast-holland-automatic-bl-3150-03-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.klauskobec.com/product/ballast-watches/trafalgar-collection/traflagar-machined/trafalgar-bl-3131-03/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.klauskobec.com/product/ballast-watches/trafalgar-collection/traflagar-dress/trafalgar-bl-3126-66/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.klauskobec.com/product/ballast-watches/amphion/amphion-bl-3130-01/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/big-watches/ballast",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.sc/products/147966507-ballast-mens-bl-3101-08-trafalgar-analog-display-swiss-made-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flipkart.com/ballast-analog-watch-men/p/itmf3zgzsdvhquzw",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://picclick.com/Ballast-Valiant-Regulator-Automatic-Black-Dial-Yellow-Watch-305455889766.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/11044242285",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bonanza.com/listings/Ballast-Wrist-watch-Bl-3149-450203/1748262489",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/BALLAST-Stainless-Steel-Case-Quartz-Wristwatches/31387/bn_95079480",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chachawatch.com/product/ballast-trafalgar-bl-3101/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thetimebum.com/2016/05/ballast-trafalgar.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/BALLAST-Stainless-Steel-Case-Wristwatches/31387/bn_89977458",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/2256153947",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.amazon.ca/Ballast-BL-5102-22-VALIANT-Analog-Display/dp/B00W5EVU4O",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://microbrand.store/collections/ballast-watches",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/ballast-trafalgar-dress-gmt-blue-dial-mens-watch-bl-3126-44.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/4059125086",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamtangan.com/p/ballast-bl311466-vanguard-41211",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catawiki.com/zh-Hant/l/89801283-ballast-swiss-made-18k-gold-gmt-sapphire-protector",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/turning-time-ballast-trafalgar",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamtangan.com/p/ballast-vanguard-bl51010a-mother-of-pearl-dial-purple-rubber-strap-41292",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jamtangan.com/p/ballast-bl310801-valiant-41131",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=23105",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.backcountry.com/ballast-trafalgar-automatic-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/yo-ho-ho-and-a-wristwatch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://forums.watchuseek.com/f2/ballast-watches-trafalgar-bl-3133-03-a-4187458.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/10008134957",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/review-ballast-1903-trafalgar-con-un-bisel-%C3%BAnico.488578/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
