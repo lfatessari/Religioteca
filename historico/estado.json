@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 130,
-  "ultima_versao": 120,
+  "proxima_linha_marcas": 131,
+  "ultima_versao": 121,
   "historico": [
     {
       "data": "2026-10-16",
@@ -741,6 +741,33 @@
         }
       },
       "obs": "Site oficial não aparece em busca. 3 peças únicas (Nº 00, Giverny Blue Train protótipo, Only Watch 2023 com Petermann Bédat). Próxima: Auguste Reymond (130), tratada como grande (marca de 1898 com linha atual extensa e vintage A. Reymond/ARSA) e fica sozinha."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 121,
+      "marca": "Auguste Reymond",
+      "linha_marcas": 130,
+      "linhas_relogios": "12285-12438",
+      "relogios": 154,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "grande": true,
+      "fontes": 118,
+      "passadas": {
+        "1": {
+          "fontes": 91,
+          "novos_por_fonte": 121
+        },
+        "2": {
+          "fontes": 14,
+          "novos_por_fonte": 13
+        },
+        "3": {
+          "fontes": 13,
+          "novos_por_fonte": 5
+        }
+      },
+      "obs": "Bateria só desta marca (grande). Site oficial augustereymond.ch não aparece em buscas (L). Base: Delugs (Unity 51, Origin 6, Heritage), The Watch Pages, Europa Star, Masterhorologer, Watchilove, Century (dona), eBay Peru, Watchnet. Vintage ARSA muito extenso e sem nomes; ~11 nomes Europa Star só com link da ficha. Próxima: Augustin Matei (131)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
