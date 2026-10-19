@@ -21,3 +21,5 @@ Mais nomes: AV-4011-0U Grey Black; AV-4011-0S Blood Red; AV-4011-0I Midnight Bla
 "Spitfire Type 300 Automatic Pilot Panel" (sem código, Watches.com) = AV-4147-33 → remover da lista nova. "Hawker Hurricane Classic Chronograph Grey Black" sem código = AV-4011-0U → remover.
 Nomes: AV-4152-0x são Spitfire Smith Automatic Snoopy Pilot Error (não Flyboy).
 Mais: AV-4073-11 Oxford Blue; linha sem código 'Spitfire Type 300 Automatic Royal British Legion' = AV-4073-RBL Azure Abyss (pôr código).
+Mais: AV-4001-03 = Hawker Harrier II Hooper Chronograph Sand; AV-4044-0x = Hawker Hurricane Wingman Day Date (AV-4044-03 Flag Black).
+Mais: AV-4044-02 = Hawker Hurricane Wingman Day Date Blue Bound.
