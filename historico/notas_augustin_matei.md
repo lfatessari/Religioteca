@@ -17,3 +17,8 @@ Não incluído: "The God of the Sea and his creatures" (só desenho de proposta)
 - Taiwanês "Código Da Vinci" (sem nome), norueguês pais adotivos (sem nome), 3 idênticos p/ Codin Maticiuc -> não viram linha extra.
 - anonymomuza: primeiro relógio com pintura rupestre no mostrador (= Cave Art?) — conflita com life.ro (cabeça de cavalo). Marca de joias Ingrid Jewelry (não relógio).
 - Mancini foto alternativa: cancan ceas-mancini-2-scaled.jpg. Roubo de relógios únicos (70 mil €) a caminho de exposição na Polônia — buscar nomes.
+- Roubo abr/2025: 10 relógios (~70 mil €) sem nomes.
+## 1ª passada encerrada (47 fontes; últimas 3+ sem novidade). 108 relógios em dados_augustin_matei.txt (= parcial_relogios agora).
+Fusões: Trafalgar(site=MH), Coloana Infinitului=Infinity Column, Sfântul Gabriel=Sfântul Gavril, Da Vinci site=Human Proportion, Poseidon-2=Poseidon 2016, Ceasul Vânătorului=The Hunter (inferência), Samurai Behance=Samurai/Katana Deluxe.
+Auto-auditoria 10b: blog/imprensa lidos (watchilove x2, TDR x2, MH, imprensa RO ~15); 2c: produtos individuais do site não indexados na busca (só 6 abertos); lojas: não há revendedores (venda direta por encomenda); primeiro modelo: cabeça de cavalo/pintura rupestre c. 2016; I/J da aba Marcas genéricos ("Peças autorais artesanais") — C vazio (Pucioasa/Bucareste), G vazio (augustinwatches.com).
+VERMELHO: >100 peças feitas, muitas sem nome/foto; Instagram/Facebook/Pinterest inacessíveis -> 2ª passada.
