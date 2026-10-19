@@ -1,31 +1,31 @@
 {
 "BL313904": {
 "code": "BL-3139-04",
-"name": "Trafalgar Meteorite Rose",
+"name": "Trafalgar Conqueror Meteorite Rose – edição limitada",
 "img": "https://www.ballast1903.com/products/bl-3139-04-trafalgar-meteorite",
-"ch": "Mostrador de meteorito."
+"ch": "Suíço, automático Sellita SW200, mostrador de meteorito Muonionalusta, 47 mm (série Conqueror limitada a 200 peças)."
 },
 "BL313903": {
 "code": "BL-3139-03",
-"name": "Trafalgar Meteorite Grey",
+"name": "Trafalgar Conqueror Meteorite Grey – edição limitada",
 "img": "https://www.ballast1903.com/products/bl-3139-03-trafalgar-meteorite",
-"ch": "Mostrador de meteorito."
+"ch": "Suíço, automático Sellita SW200, mostrador de meteorito Muonionalusta, 47 mm (série Conqueror limitada a 200 peças)."
 },
 "BL313603": {
 "code": "BL-3136-03",
-"name": "Trafalgar Cognac",
+"name": "Trafalgar Dreadnought Cognac – edição limitada",
 "img": "https://www.jamtangan.com/p/ballast-bl313603-trafalgar-dreadnought-brown-open-heart-dial-brown-leather-strap-313801",
-"ch": "Mostrador marrom open heart, couro marrom."
+"ch": "Bronze, 47 mm, automático suíço, mostrador marrom open heart, couro marrom; anúncio do eBay cita numeração 243/360."
 },
 "BL313602": {
 "code": "BL-3136-02",
-"name": "Trafalgar Wreckage Black",
-"img": "https://www.ballast1903.com/products/bl-3136-02-trafalgar",
-"ch": ""
+"name": "Trafalgar Dreadnought Wreckage Black – edição limitada",
+"img": "https://longislandwatch.com/cdn/shop/files/apizzm95l__99536.1619742253.1280.1280.jpg?v=1779790486&width=800",
+"ch": "Automático suíço, bronze 47 mm, 14,5 mm, mostrador preto open heart, safira, 100 m, capa protetora de aço removível, luneta patenteada para dar corda e acertar hora e data."
 },
 "BL313601": {
 "code": "BL-3136-01",
-"name": "Trafalgar Opal Blue",
+"name": "Trafalgar Dreadnought Opal Blue – edição limitada",
 "img": "https://www.watchdavid.com/wp-content/uploads/2019/03/ballast-BL-3136-01.jpg",
 "ch": ""
 },
@@ -464,7 +464,7 @@
 "BL314722": {
 "code": "BL-3147-22",
 "name": "Valiant Pampanito Blue",
-"img": "https://www.ballast1903.com/products/bl-3147-22-valiant-pampanito",
+"img": "https://www.watchmaxx.com/ballast-watch-bl-3147-22",
 "ch": "Automático."
 },
 "BL314711": {
@@ -885,7 +885,7 @@
 "code": "BL-3114-11",
 "name": "Vanguard",
 "img": "https://www.watchfreeks.com/threads/watch-review-ballast-vanguard-bl-3114-11.107010/",
-"ch": "Visto só no título de uma resenha de fórum (link da página)."
+"ch": "Vanguard, quartzo suíço, 47 mm, 200 m. Visto só na lista de variações da Yodobashi (link da página)."
 },
 "BL312802": {
 "code": "BL-3128-02",
@@ -913,9 +913,9 @@
 },
 "BL313902": {
 "code": "BL-3139-02",
-"name": "Trafalgar Meteorite",
+"name": "Trafalgar Conqueror Meteorite – edição limitada",
 "img": "https://www.watchdavid.com/wp-content/uploads/2019/03/ballast-BL-3139-02.jpg",
-"ch": "Mostrador de meteorito."
+"ch": "Suíço, automático Sellita SW200, mostrador de meteorito Muonionalusta, 47 mm (série Conqueror limitada a 200 peças)."
 },
 "BL313802": {
 "code": "BL-3138-02",
@@ -946,5 +946,65 @@
 "name": "Amphion Automatic",
 "img": "https://www.ebay.com.au/itm/275951053753",
 "ch": "Automático. Visto só no título de anúncio do eBay (link da página)."
+},
+"BL313901": {
+"code": "BL-3139-01",
+"name": "Trafalgar Conqueror Meteorite – edição limitada de 200 peças",
+"img": "https://cdn.shopify.com/s/files/1/0698/5867/files/BL-3139-01-MS02_2048x2048.jpg?v=1552983776",
+"ch": "Suíço, automático Sellita SW200 personalizado, mostrador de meteorito Muonionalusta, aço 47 mm, safira, fundo transparente, pulseira italiana feita à mão."
+},
+"BL311409": {
+"code": "BL-3114-09",
+"name": "Vanguard",
+"img": "https://image.yodobashi.com/product/100/000/001/001/637/360/100000001001637360_10201_001.jpg",
+"ch": "Quartzo suíço com data, aço 47 mm, 14 mm, mineral com revestimento de safira, mostrador preto, silicone preto, 200 m, luminoso; à venda no Japão desde 30/11/2012."
+},
+"BL311433": {
+"code": "BL-3114-33",
+"name": "Vanguard",
+"img": "https://www.yodobashi.com/product/100000001001637356/",
+"ch": "Quartzo suíço, 47 mm, 200 m. Visto só na lista de variações da Yodobashi (link da página)."
+},
+"BL311444": {
+"code": "BL-3114-44",
+"name": "Vanguard",
+"img": "https://www.yodobashi.com/product/100000001001637357/",
+"ch": "Quartzo suíço, 47 mm, 200 m. Visto só na lista de variações da Yodobashi (link da página)."
+},
+"BL311455": {
+"code": "BL-3114-55",
+"name": "Vanguard",
+"img": "https://www.yodobashi.com/product/100000001001637358/",
+"ch": "Quartzo suíço, 47 mm, 200 m. Visto só na lista de variações da Yodobashi (link da página)."
+},
+"BL311466": {
+"code": "BL-3114-66",
+"name": "Vanguard",
+"img": "https://www.yodobashi.com/product/100000001001637359/",
+"ch": "Quartzo suíço, 47 mm, 200 m. Visto só na lista de variações da Yodobashi (link da página)."
+},
+"BL31140A": {
+"code": "BL-3114-0A",
+"name": "Vanguard",
+"img": "https://www.yodobashi.com/product/100000001001637361/",
+"ch": "Quartzo suíço, 47 mm, 200 m. Visto só na lista de variações da Yodobashi (link da página)."
+},
+"BL312104": {
+"code": "BL-3121-04",
+"name": "Ballast 47 mm",
+"img": "https://item-shopping.c.yimg.jp/i/n/robinson_bl-3121-04",
+"ch": "Aço 47 mm, mostrador preto, pulseira de couro, 100 m."
+},
+"BL311909": {
+"code": "BL-3119-09",
+"name": "Valiant GMT Automatic Power Reserve",
+"img": "https://store.shopping.yahoo.co.jp/robinson/bl-3119-09.html",
+"ch": "Automático, GMT, reserva de marcha. Visto só no título da página da loja (link da página)."
+},
+"BL312901": {
+"code": "BL-3129-01",
+"name": "Valiant Automatic",
+"img": "https://store.shopping.yahoo.co.jp/robinson/bl-3129-01.html",
+"ch": "Automático. Visto só no título da página da loja (link da página)."
 }
 }
