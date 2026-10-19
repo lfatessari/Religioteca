@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 140,
-  "ultima_versao": 128,
+  "ultima_versao": 129,
   "historico": [
     {
       "data": "2026-10-16",
@@ -959,6 +959,26 @@
         }
       },
       "obs": "Bateria só com AVI-8 (grande). Vermelha: linhas antigas 2012-2016 com cores sem nome/foto; TIME Watches (246 produtos) só pág. 1 alcançada; EveryWatch/Chrono24 não indexados. 224 linhas com link de página em vez de foto. Próxima: Aviator (140)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 129,
+      "marca": "AVI-8",
+      "linha_marcas": 139,
+      "linhas_relogios": "12708-13315",
+      "relogios": 608,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 74,
+      "complemento": true,
+      "passadas": {
+        "4": {
+          "fontes": 74,
+          "novos": 179
+        }
+      },
+      "obs": "4ª passada a pedido do usuário: +179 relógios (608 no total); ~60 nomes de cor corrigidos e 7 fotos melhoradas nas linhas já gravadas; 1 linha duplicada removida (Charcoal Ember Brown = AV-4052-02). Novas linhas antigas: Curtiss Tomahawk, Seafire AV-4030/4033, Lancaster AV-4020/4022/4024/4035, Hunter AV-4007/4008/4009/4018, Flyboy Cadet AV-4028, Sabiha Gökçen, Operation Catechism. Próxima: Aviator (140)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -970,20 +990,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T09:27:38Z",
-  "ultimo_sinal": "2026-10-19T09:45:00Z",
-  "em_andamento": {
-    "marcas": [
-      "AVI-8"
-    ],
-    "linha_marcas": 139,
-    "grande": true,
-    "complemento": true,
-    "relogios": "historico/parcial_avi8_p4_relogios.txt",
-    "fontes": "historico/parcial_avi8_p4_fontes.txt",
-    "notas": "historico/notas_avi8.md",
-    "secoes_feitas": [],
-    "passada": 4
   }
 }
