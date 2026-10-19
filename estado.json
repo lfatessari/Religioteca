@@ -1204,17 +1204,20 @@
     }
   },
   "em_execucao": "2026-10-19T16:41:34Z",
-  "ultimo_sinal": "2026-10-19T16:41:34Z",
+  "ultimo_sinal": "2026-10-19T16:48:39Z",
   "em_andamento": {
     "marcas": [
       "BA111OD"
     ],
     "linha_marcas": 148,
-    "grande": false,
+    "grande": true,
     "relogios": "historico/parcial_BA111OD_relogios.txt",
     "fontes": "historico/parcial_BA111OD_fontes.txt",
     "notas": "historico/notas_BA111OD.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
