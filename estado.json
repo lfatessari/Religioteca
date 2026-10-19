@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 128,
-  "ultima_versao": 119,
+  "proxima_linha_marcas": 130,
+  "ultima_versao": 120,
   "historico": [
     {
       "data": "2026-10-16",
@@ -703,6 +703,44 @@
       },
       "fotos": 184,
       "obs": "Bateria só desta marca (grande). Base: páginas de calibre e de família do WatchBase (sem foto no texto; coluna C com link da ficha/lista), AP Chronicles (vintage), site oficial (fichas sem foto). Só ~184 linhas com foto. Família Royal Oak do WatchBase mostra ~212 de 663 e Offshore ~227 de 379: faltam referências. Chrono24 sem resultados pela busca. Dados do loupe.watch não usados (página pede para IA não reproduzir). Próxima: Audric (128)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 120,
+      "marca": "Audric",
+      "linha_marcas": 128,
+      "linhas_relogios": "12267-12278",
+      "relogios": 12,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "grande": false,
+      "fontes": 32,
+      "passadas": {
+        "1": {
+          "fontes": 32,
+          "novos_por_fonte": 12
+        }
+      },
+      "obs": "6 SeaBorne com SKU oficial (AUDSEA20xxx) + 6 cores do Strider (Kickstarter 2022 sem sucesso; produção não confirmada). Mostrador meteorito do SeaBorne só anunciado como meta extra: fora."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 120,
+      "marca": "Auffret",
+      "linha_marcas": 129,
+      "linhas_relogios": "12279-12284",
+      "relogios": 6,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "grande": false,
+      "fontes": 17,
+      "passadas": {
+        "1": {
+          "fontes": 17,
+          "novos_por_fonte": 6
+        }
+      },
+      "obs": "Site oficial não aparece em busca. 3 peças únicas (Nº 00, Giverny Blue Train protótipo, Only Watch 2023 com Petermann Bédat). Próxima: Auguste Reymond (130), tratada como grande (marca de 1898 com linha atual extensa e vintage A. Reymond/ARSA) e fica sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -714,22 +752,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T00:41:26Z",
-  "ultimo_sinal": "2026-10-19T00:51:40Z",
-  "em_andamento": {
-    "marcas": [
-      "Audric",
-      "Auffret"
-    ],
-    "linha_marcas": 129,
-    "grande": false,
-    "relogios": "historico/parcial_auffret_relogios.txt",
-    "fontes": "historico/parcial_auffret_fontes.txt",
-    "notas": "historico/notas_auffret.md",
-    "secoes_feitas": [
-      "Audric completa"
-    ],
-    "passada": 1
   }
 }
