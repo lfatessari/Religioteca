@@ -12,3 +12,5 @@ site oficial (não achado em site:), capítulos 1, 2, 3.1, 4 original, 4.3/4.4, 
 - PROVENANCE_REQUIRED: página de produto Nicols 7.8 (tirada de outra página) — não repetir.
 - Enriquecer E: 4.12–4.14 titânio grau 5 44 mm (Europa Star); Ch4 GMT LE 2025 = 30 peças, titânio 5N PVD 44 mm, mostrador cinza, CHF 8.200; 5.1 Magma = 111 peças, Valjoux 7750, CHF 975; 3.2 = aço 42 mm preto Côtes de Genève Soprod P024.
 - Buraco: Chapter 6.9 (Watchmakers United pula de 6.8 para 6.10); Chapter 2.3; originais 3.1 C.T.M. e 3.2 B.S. (antes do 'Reloaded')
+- 2c refeito (chapter one, chapter-2, edition, reloaded): achados 2.3 Queendom Black Diamonds (página oculta, erro ao abrir), 3.1 C.T.M. (página oculta, erro), Chapter 1.2 Blue (handle), Δ.7 ELLA com correia de couro (variante).
+- Fontes com erro (não contam): chrono24, watchmakersunited (sem www), DUO 4.3&4.4, Δ.4 produto, 2.1 produto, 2.3, chapter-2 coleção, xmas, 3.1 CTM, 3.2 R, nicols 7.8 (PROVENANCE).
