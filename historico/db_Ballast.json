@@ -31,21 +31,21 @@
 },
 "BL313504": {
 "code": "BL-3135-04",
-"name": "Trafalgar Granite",
+"name": "Trafalgar Titanium Granite",
 "img": "https://www.ballast1903.com/products/bl-3135-04-trafalgar",
-"ch": ""
+"ch": "Caixa de titânio (manual oficial BL-3135 = Trafalgar Titanium)."
 },
 "BL313501": {
 "code": "BL-3135-01",
-"name": "Trafalgar Slate Grey",
-"img": "https://www.watchdavid.com/wp-content/uploads/2019/03/ballast-BL-3135-01.jpg",
-"ch": ""
+"name": "Trafalgar Titanium Slate Grey",
+"img": "https://longislandwatch.com/cdn/shop/files/apio7oyeg__51108.1619741407.1280.1280.jpg?v=1779790680&width=800",
+"ch": "Automático Miyota 8215 modificado (corda também pela luneta), caixa de titânio jateado."
 },
 "BL313801": {
 "code": "BL-3138-01",
-"name": "Trafalgar Triumph",
-"img": "https://www.ballast1903.com/products/bl-3138-01-trafalgar",
-"ch": ""
+"name": "Trafalgar Damascus Triumph",
+"img": "https://conteenium.com/wp-content/uploads/2021/06/DAMASCUS-TRIUMPH.jpg",
+"ch": "Automático, 47 mm, 14 mm, mostrador preto, safira, 100 m, couro preto/azul (família BL-3138 = Trafalgar Damascus no manual oficial)."
 },
 "BL313701": {
 "code": "BL-3137-01",
@@ -781,9 +781,9 @@
 },
 "BL313503": {
 "code": "BL-3135-03",
-"name": "Trafalgar",
+"name": "Trafalgar Titanium Rose Gold Brown",
 "img": "https://www.ashford.com/cdn/shop/files/BL-3135-03_F.jpg?v=1749657120",
-"ch": "Automático Miyota 821A com data, aço, 47 mm, safira, 100 m, mostrador marrom, couro marrom."
+"ch": "Automático Miyota 821A com data, aço, 47 mm, safira, 100 m, mostrador marrom, couro marrom. Caixa de titânio (manual oficial BL-3135 = Trafalgar Titanium)."
 },
 "BL310101": {
 "code": "BL-3101-01",
@@ -919,9 +919,9 @@
 },
 "BL313802": {
 "code": "BL-3138-02",
-"name": "Trafalgar Meteorite – edição limitada",
+"name": "Trafalgar Damascus Triumph Rose Gold",
 "img": "https://www.watchdavid.com/wp-content/uploads/2019/03/ballast-meteroite-BL-3138-02.jpg",
-"ch": "Suíço (SW200 automático, segundo anúncio do eBay), numerado individualmente, 47 mm, mostrador de meteorito; anúncio cita LE #11/50."
+"ch": "Automático, 47 mm, rosé, pulseira de couro (título na Amazon: Damascus Triumph); a foto vem de entrevista da marca, cujo nome do arquivo cita \"meteorite\"."
 },
 "BL311907": {
 "code": "BL-3119-07",
@@ -1096,5 +1096,23 @@
 "name": "Valiant Gauge Blue",
 "img": "https://www.ashford.com/cdn/shop/files/BL-3141-04_F.jpg?v=1759254813",
 "ch": "Automático Seiko NH35, aço 47 mm, safira, 100 m, mostrador azul, silicone preto."
+},
+"BL313306": {
+"code": "BL-3133-06",
+"name": "Trafalgar",
+"img": "https://longislandwatch.com/cdn/shop/files/api3rdeqs__22593.1619741761.1280.1280.jpg?v=1779790384&width=800",
+"ch": "Automático, caixa com PVD, luneta patenteada."
+},
+"BL31290A": {
+"code": "BL-3129-0A",
+"name": "Valiant Automatic",
+"img": "https://www.touchofmodern.com/sales/ballast-1903-7cb4377c-9fc6-4089-a256-d3a85b0faabc/ballast-1903-valiant-automatic-bl-3129-0a?open=1",
+"ch": "Automático. Visto só no título da página da loja (link da página)."
+},
+"BL311901": {
+"code": "BL-3119-01",
+"name": "Valiant Automatic",
+"img": "https://www.touchofmodern.com/sales/ballast-1903/valiant-bl-3119-01?open=1",
+"ch": "Automático. Visto só no título da página da loja (link da página)."
 }
 }
