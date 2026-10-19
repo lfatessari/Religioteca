@@ -6,3 +6,4 @@ AV-4087 P-51 Mustang Jubilee Reigate Automatic 43mm LE 1200 (sem sufixo); Hawker
 AV-4070 Hawker Harrier Ace of Spades Automatic (variantes Black, Ghost Grey...; 44mm, 24h, pequenos segundos)
 Flyboy Cadet Auto (nome visto em anúncio WatchPatrol, sem código)
 Kakaku: 'Flyboy Spirit of Tuskegee chronograph LE' (sem código), 'Flyboy Wingman Worldtimer GMT Tropical Grey' (sem código)
+Flyboy Vintage Collection (prata / latão envelhecido) — sem código, citado no VAN
