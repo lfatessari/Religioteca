@@ -1177,7 +1177,7 @@
     }
   },
   "em_execucao": "2026-10-19T15:42:02Z",
-  "ultimo_sinal": "2026-10-19T15:42:02Z",
+  "ultimo_sinal": "2026-10-19T15:58:13Z",
   "em_andamento": {
     "marcas": [
       "B.R.M"
@@ -1187,7 +1187,9 @@
     "relogios": "historico/parcial_brm_relogios.txt",
     "fontes": "historico/parcial_brm_fontes.txt",
     "notas": "historico/notas_brm.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
