@@ -8,3 +8,5 @@ Site G: augustereymond.ch — não aparece na 1ª busca.
 - Bolso (não entram): ARSA-101 Syohbido (Unitas 6497, 50 mm), ARSA bolso Heer c.1939 (Milivault).
 - Vermelho: vintage ARSA enorme e sem nomes; dezenas de nomes 1990–2010 só por título na Europa Star.
 - Site oficial augustereymond.ch não aparece em busca nenhuma → L.
+- eBay PE: Unity com mostrador marrom (sem ref; não entra separado), catálogo 2000 (eBay 336381794933), 696** manual, ARSA cal 206 — não entram.
+- 2ª passada: 14 fontes, 14 novos (inclui ARSA Dynamic por título) → 3ª passada
