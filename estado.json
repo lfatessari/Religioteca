@@ -1257,7 +1257,7 @@
     }
   },
   "em_execucao": "2026-10-19T18:41:36Z",
-  "ultimo_sinal": "2026-10-19T18:52:55Z",
+  "ultimo_sinal": "2026-10-19T18:55:45Z",
   "em_andamento": {
     "marcas": [
       "Badger Watches",
@@ -1270,9 +1270,9 @@
     "notas": "historico/notas_badollet.md",
     "secoes_feitas": [
       "Badger: todas",
-      "Badollet: 1,2,4,5,9 parcial"
+      "Badollet: 1-10b da 1ª passada"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "Badger Watches pronta (historico/dados_badger.txt, marca_badger.json); Badollet em pesquisa (historico/notas_badollet.md)"
   }
 }

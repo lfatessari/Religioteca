@@ -12,3 +12,4 @@ Antigos de bolso (J.-M. / J.-J. Badollet & Cie, Charmille 1891): só citados, n�
 + La Stellaire 2014 verde (worldtempus 17413)
 + Crystalball Chronograph: Esmalte grand feu (2010), Sport opalina (2010), Stone (ônix etc.), Dragon (2014), new diamonds (2014), ouro rosa caixa cerâmica preta (2014).
 DECISÃO: pintar de VERMELHO — peças personalizadas (combinações de pedra × anel × metal sem lista; "editions by nature limited and personalised"). Fazer 2ª passada (10+ fontes).
+1ª passada encerrada (51 fontes, 3 seguidas sem novidade). Dados gravados em dados_badollet.txt (43). 2ª passada: foco em peças personalizadas, Ishango, Observatoire novos, cores Ivresse, lojas (Frost of London), site oficial, instagram, catálogo.
