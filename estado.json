@@ -1299,7 +1299,7 @@
     }
   },
   "em_execucao": "2026-10-19T19:41:01Z",
-  "ultimo_sinal": "2026-10-19T19:41:01Z",
+  "ultimo_sinal": "2026-10-19T19:49:05Z",
   "em_andamento": {
     "marcas": [
       "Ball"
@@ -1309,7 +1309,10 @@
     "relogios": "historico/parcial_Ball_relogios.txt",
     "fontes": "historico/parcial_Ball_fontes.txt",
     "notas": "historico/notas_Ball.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
