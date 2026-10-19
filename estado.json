@@ -1006,5 +1006,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-19T10:41:49Z",
+ "ultimo_sinal": "2026-10-19T10:41:49Z",
+ "em_andamento": {
+  "marcas": [
+   "Aviator"
+  ],
+  "linha_marcas": 140,
+  "grande": true,
+  "relogios": "historico/parcial_Aviator_relogios.txt",
+  "fontes": "historico/parcial_Aviator_fontes.txt",
+  "notas": "historico/notas_Aviator.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
