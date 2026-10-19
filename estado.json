@@ -869,19 +869,21 @@
   }
  },
  "em_execucao": "2026-10-19T06:41:42Z",
- "ultimo_sinal": "2026-10-19T06:41:42Z",
+ "ultimo_sinal": "2026-10-19T06:45:24Z",
  "em_andamento": {
   "marcas": [
    "Avakian",
    "Avel & Men",
    "Avenir"
   ],
-  "linha_marcas": 135,
+  "linha_marcas": 136,
   "grande": false,
-  "relogios": "historico/parcial_avakian_relogios.txt",
-  "fontes": "historico/parcial_avakian_fontes.txt",
-  "notas": "historico/notas_avakian.md",
-  "secoes_feitas": [],
+  "relogios": "historico/parcial_avel_relogios.txt",
+  "fontes": "historico/parcial_avel_fontes.txt",
+  "notas": "historico/notas_avel.md",
+  "secoes_feitas": [
+   "Avakian completa (historico/dados_avakian.txt, marca_avakian.json)"
+  ],
   "passada": 1
  }
 }
