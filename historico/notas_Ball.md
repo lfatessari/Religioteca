@@ -11,3 +11,4 @@
 - Tourneau: listagem bloqueada (robots); refs tiradas de títulos de busca (BLW01000xx).
 - Sem código: AeroGMT II Lewis & Clark (LE 1000), AeroGMT II 115th Wright Brothers (LE 1000), Engineer II Pilot GMT, EMII Voyager GMT LE, Kelvin (Trainmaster?).
 - Relógios de bolso ferroviários (Ball-Hamilton/Waltham/Elgin/Illinois): dezenas de graus; entraram só alguns exemplos (999B, 999C, 999E, 331, 810, Official Standard Waltham). Motivo de vermelho.
+- Jura usa DG3000A-S4C-BE/BK com foto DG3030B-S4C (mesmo relógio, código novo?) - não duplicado.
