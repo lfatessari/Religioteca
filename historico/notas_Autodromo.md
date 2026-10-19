@@ -8,3 +8,6 @@
 - Vivir.com parece conteúdo gerado (diz "16 fragrances", refs AU-AF-SS-* inventadas?): Autostrada Folio, Vallelunga GIORNO e Group B S4 "Kona" BP-005K-D-T4 NÃO entram (não confirmados em outra fonte).
 - WatchCharts "Group B Black Dial" e EveryWatch BP005 preto: não identificado (talvez Night Stage II) — não entra.
 - Códigos de loja BP-001A (Vallelunga Auto), BP-003 (Prototipo), BP-005 (Group B S2), BP-009 (Group C) parecem códigos da marca; usados quando aparecem.
+- 1ª PASSADA ENCERRADA (3 fontes seguidas sem novidade: gearpatrol p=210186, petrolicious, hourstriker learn). Seções 1–10 feitas; 4 (catálogo) sem PDF; 6 Chrono24 só por busca (anúncio não abriu); 8 eBay (itm abriu sem novidade).
+- VERMELHA: Ford GT Owner's Edition é configurável/sob encomenda; edições não confirmadas (Group B preto, S4 "Kona", Night Stage I?). 2ª passada: buscar edições Group B S2 extras, Intereuropa, Prototipo, Hodinkee shop, lojas Japão/Europa.
+- Nome antigo: "Officine Autodromo" (2012).
