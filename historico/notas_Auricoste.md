@@ -14,3 +14,11 @@ Refs pelo nome do arquivo: A52NT, A20AP, A20HK/HC/HB (Ephemeres)
 ## Fora: relógios de bolso, relógios de bordo/mesa, cronômetros de marinha (não pulso) — só relatar
 - 2c: buscas site:auricoste.com / auricoste.com/produit não trazem nenhuma página do site (buscador não indexa). Links internos não abertos (regra do CLAUDE.md).
 - 1ª passada encerrada: 3 últimas fontes sem novidade (wornandwound, passion-horlogere 39906, akrone). Marca VERMELHA (vintage sem nome, refs Type 20/52 sem foto, site sem páginas indexadas). 2ª passada: buscar Type 20/52 refs com foto, gerações 2010, chrono 14 lignes, chronos anos 80, Fusco variantes, eBay/Catawiki.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: site auricoste.com não tem páginas internas indexadas; lida só a página Expo-Démo. Imprensa externa lida (SJX, Europa Star, Journal du Luxe x3, Passion Horlogère x2, Quill & Pad x2, Gear Patrol, Paris Select Book).
+2. 2c: buscas site:auricoste.com e "auricoste.com/produit" sem resultado (feito na 1ª e na 2ª passada).
+3. Lojas: Ocarat (busca site:), Chadourne/Clouzeau/Emile Leon (mesma base), Tempus, 58 Facettes, Analog Shift, Craft & Tailored, Bachmann & Scher.
+4. Primeiro modelo: Type 20 de 1954 (5.099-54) — incluído. Antes disso: relógios de bolso/cronômetros de marinha (não pulso, fora).
+5. I/J: Type 20, Spirotechnique, Type 52 — todos achados.
+6. Limitadas na B: Flymaster 299, SM300 300, Démineur 150, 13e RDP 250, Fusco 170, La Royale azul 200, Type 20 2010 50. Sem peças únicas.
+7. Fontes: 1ª passada 65, 2ª passada 11 (0 novos). Vermelha.

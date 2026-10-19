@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 133,
-  "ultima_versao": 123,
+  "proxima_linha_marcas": 134,
+  "ultima_versao": 124,
   "historico": [
     {
       "data": "2026-10-16",
@@ -810,6 +810,29 @@
         }
       },
       "obs": "Marca austríaca (Langau, 2024), catálogo fechado: site oficial e WatchPolice batem em 5 modelos. Auricoste (133) tratada como grande e fica sozinha na próxima execução. Fora: peça de ~30 mil euros para sorteio do Rotary Club Geras (sem nome/foto); Deadbeat Seconds e Tourbillon 1 anunciados."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 124,
+      "marca": "Auricoste",
+      "linha_marcas": 133,
+      "linhas_relogios": "12552-12590",
+      "relogios": 39,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "grande": true,
+      "fontes": 76,
+      "passadas": {
+        "1": {
+          "fontes": 65,
+          "novos_por_fonte": 58
+        },
+        "2": {
+          "fontes": 11,
+          "novos_por_fonte": 0
+        }
+      },
+      "obs": "Bateria só desta marca (grande: vintage Type 20 + reedições). Site atual auricoste.com (G diz .fr); páginas internas não aparecem em buscas (L parcial). Base: Chadourne (refs), Ocarat, Tempus, Europa Star, Antiquorum, Drouot, Finarte, Dialicious. Fora: relógios de bolso, relógios de bordo/comparação e cronômetros de marinha. Próxima: Autodromo (134)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -821,31 +844,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T04:41:34Z",
-  "ultimo_sinal": "2026-10-19T04:54:15Z",
-  "em_andamento": {
-    "marcas": [
-      "Auricoste"
-    ],
-    "linha_marcas": 133,
-    "grande": true,
-    "relogios": "historico/parcial_Auricoste_relogios.txt",
-    "fontes": "historico/parcial_Auricoste_fontes.txt",
-    "notas": "historico/notas_Auricoste.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 2
   }
 }
