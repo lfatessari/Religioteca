@@ -1204,7 +1204,7 @@
     }
   },
   "em_execucao": "2026-10-19T16:41:34Z",
-  "ultimo_sinal": "2026-10-19T16:51:39Z",
+  "ultimo_sinal": "2026-10-19T16:59:52Z",
   "em_andamento": {
     "marcas": [
       "BA111OD"
@@ -1217,7 +1217,11 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c(parcial)"
+      "2c",
+      "3(parcial)",
+      "5(parcial)",
+      "6",
+      "7(parcial)"
     ],
     "passada": 1
   }

@@ -7,3 +7,6 @@ ver parcial_BA111OD_fontes.txt
 ## Falta
 site oficial (não achado em site:), capítulos 1, 2, 3.1, 4 original, 4.3/4.4, 5.x, 6.9, 7.1–7.3, Delta 4
 - ba111od.com Shopify; loja atual só ~20 relógios; blog com 4 páginas (pág. 1 lida); achados ocultos 4.12-4.14, 4.3/4.4, 4.6, AGIL, MDP 40, Ch1, Ch2. Falta: NIFFF, blog p2-4, press-room, 3.1, 4.7-4.11, 6.9, Δ.4
+- Chrono24 e watchmakersunited: CLIENT_ERROR (não abriram). Chrono24 títulos via busca: 6.10 Aventurine, 4.1 TVD, "Chapter 1.2 Blue", Chapitre 4 Tourbillon Onyx — nada novo.
+- Nicols (Espanha): 71 itens; SKUs 3881 + 2 dígitos de capítulo (00=Ch3, 01=Ch4, 02=Ch5, 03=Δ, 04=Ch6, 05=Ch7, 06=Ch8) + variante (70 correia, 72 outra correia, 74 pulseira metal "MB"). Numeração interna: 7.6 Jet Black, 7.7/7.8/7.9 "Chrono" (cronômetros), 7.15B e 7.24 Skeleton, 4.16 Infinity, 4.20 TVD 39, 8.1 Sand, 8.2 White, 8.3 White (?), 8.4 Black, 8.5 Moonphase Sand MLB, 8.6 Moonphase White, 8.7 Moonphase Grey. SKUs vão na coluna E.
+- PROVENANCE_REQUIRED: página de produto Nicols 7.8 (tirada de outra página) — não repetir.
