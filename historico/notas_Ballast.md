@@ -15,3 +15,4 @@
 - eBay: Trafalgar Automatic 47mm Black #347/500 (sem código); Meteorite SW200 LE#11/50.
 ## Passada 1 encerrada (76 fontes; últimas 3 sem novidade). Marca VERMELHA: famílias antigas BL-3101..3132 e 5101..5103 com muitos sufixos não achados; Jolly Roger versão preta sem código; Trafalgar LE 500 sem código.
 ## Passada 2: buscar sufixos faltantes das famílias antigas (Klaus Kobec, Amazon, desertcart, PicClick, allwatches, Catawiki, eBay UK/DE).
+## Passada 2 encerrada: 18 fontes, 7 novos (vários códigos vieram de títulos das buscas). Passada 3 obrigatória.
