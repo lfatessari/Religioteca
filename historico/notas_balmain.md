@@ -13,3 +13,7 @@ Famílias por prefixo: ver fam.py.
 - Pierre Balmain (licença japonesa, yodobashi maker 0000005163) é outra linha licenciada: não incluída.
 - eBay itm não abre (CLIENT_ERROR): 297465571256, 267380010834, 235849210090
 - yodobashi.com/product/... pediu permissão (PROVENANCE_REQUIRED): link tirado de página aberta. Não repetir.
+- História oficial (balmainwatches.com/balmain): 1ª coleção 1987 sob licença; 1995 Swatch Group compra direitos exclusivos. swatchgroup.com ainda lista Balmain (2026) -> I da aba Marcas ("Swatch até 2019, depois MHVJ") parece errado.
+- Referências antigas de 4 dígitos (gravadas na caixa) = 4 primeiros dígitos do código B (ex.: Arcade 5741 = B5741.xx.xx).
+## 1ª passada encerrada (hourpassion, europastar Miss Switzerland, balmain experience: 3 seguidas sem novidade). Marca VERMELHA: centenas de variações descontinuadas (Ashford, Japão, eBay) e páginas 2-8 watch.co.uk / 2-11 luxoia inalcançáveis.
+## 2ª passada: foco em descontinuados (Ashford por prefixo, lojas japonesas, eBay, Kamal, watchfactory, 1stdibs).
