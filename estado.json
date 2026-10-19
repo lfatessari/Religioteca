@@ -1042,19 +1042,20 @@
   }
  },
  "em_execucao": "2026-10-19T11:41:18Z",
- "ultimo_sinal": "2026-10-19T11:41:18Z",
+ "ultimo_sinal": "2026-10-19T11:46:17Z",
  "em_andamento": {
   "marcas": [
-   "Awake",
-   "AXIA Time",
-   "Axios"
+   "Awake"
   ],
   "linha_marcas": 141,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "grande": true,
+  "relogios": "historico/parcial_awake_relogios.txt",
+  "fontes": "historico/parcial_awake_fontes.txt",
+  "notas": "historico/notas_awake.md",
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
