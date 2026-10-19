@@ -10,3 +10,4 @@
 ## 1ª passada encerrada (Mozeris, OpenSooq, CW Sellors Berkeley: 3 seguidas sem novidade). ~105 fontes.
 - Vermelha: muitas combinações de tamanho/ouro/diamantes sem lista; peças sob medida (Royal Jester, bespoke), coleção Alves Trophy (42 peças sem lista), Vitesse (5 peças únicas sem nomes), Piccadilly Royal Princesses (5 únicas), TWP 126 (só ~90 alcançados).
 ## 2ª passada: alvo = produtos ocultos da loja oficial (novos termos), modelos antigos 2009-2013 (masterhorologer), leilões, Japão.
+## 2ª passada encerrada (3 seguidas sem novidade). Trouxe ~17 → fazer 3ª passada.
