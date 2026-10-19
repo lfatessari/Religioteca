@@ -12,3 +12,4 @@ Hawker Hunter Retrograde Charcoal Ember Brown (eBay, sem código) — não entro
 ## Fim da 1ª passada (09:19 UTC): 3 fontes seguidas sem modelo novo (dialicious, wristwatchreview hunter, opumo). ~131 fontes, 411 relógios.
 Decisão: VERMELHA — centenas de referências (Kakaku diz 774 anúncios; TIME Watches 246 produtos, só pág. 1 alcançada), linhas antigas 2012–2016 (AV-4001…4045) com muitas cores sem nome/foto, códigos com lacunas.
 2ª passada: buscar linhas antigas (AV-4002–4045), lacunas de cor (AV-4011, 4052, 4089, 4100…), Sopwith Camel, Seafire, Lancaster AV-4020/4024, Hawker Hunter AV-4010/4036/4039/4043, peças especiais.
+Pass2: 16 fontes; últimas 3 sem novidade -> encerra 2ª passada. Trouxe >=5 novos -> 3ª passada.
