@@ -1,0 +1,587 @@
+{
+ "marca": "Balmain",
+ "usa_codigos": true,
+ "logo": "https://www.balmainwatches.com/static/version1792407578/frontend/Balmain/balmain-theme/en_GB/images/logo.svg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "C: sede real é Saint-Imier (Montres Pierre Balmain, Swatch Group), não Bienne / Le Locle. I: a Balmain continua no Swatch Group (licença 1987–1995; direitos exclusivos desde dez/1995, segundo swatchgroup.com e o site oficial); não achei mudança para a MHVJ em 2019. J: linha 'Éria' não encontrada.",
+ "fontes": [
+  {
+   "url": "https://www.balmainwatches.com/en/learning-tool-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://balmainwatches.com/en/haute-elegance-b81513314.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/balmain",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://ocarat.com/en/balmain-watch/",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://www.luxoia.com/en/balmain",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/balmain-gents-cross-collection-2026-english-1",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/balmain-beleganza-2025-fusion-of-beauty-and-elegance-en",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/balmain-color-watches-4",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/classic-r-2025-novelties-elegant-timepieces-balmain",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.balmainwatches.com/media/pdfs/novelties_Balmain_Watches.pdf",
+   "passada": 1,
+   "novos": 49
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/b14683354-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrenschmuck24.ch/en/marken/balmain.html",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.maty.com/en/montre-balmain.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Balmain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/balmain-mother-pearl-diamonds-jolie-madame-5851-womens-wristwatch-29-mm/id-v_7108881",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balmainwatches.prezly.com/introducing-the-taffetas-by-balmain-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://balmainwatches.prezly.com/showroom-alert-balmain-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/balmain-iconic-watches-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/balmain-de-balmain-2026-english",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/ophrys-lady-2025-novelties-elegant-timepieces-balmain-en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://balmainwatches.prezly.com/2024-press-assets--imagery",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cdn.uc.assets.prezly.com/4c733f1a-5165-4acc-bec5-e6303330a413/-/inline/no/BALMAIN_WATCHES_2024_Haute Elegance_EN.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/balmain-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/luxprice-index-montres/balmain.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/balmain-montre-bracelet-femme-haute-elegance-nacre-blanche-27-mm/id-v_14010542",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008876/",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.ashford.com/en-ae/products/balmain-b68513366",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/inspiration/new-at-watchcouk-balmain-luxury-ladies-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004092881-an-introduction-to-balmain-s-new-ophrys.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/en-na/products/balmain-b59515222",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/balmain-b56113283",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-bh/products/balmain-b59713322",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/montre-balmain/?p=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://ocarat.com/montre-balmain/?p=4",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://ocarat.com/montre-balmain/?p=5",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://us.vestiairecollective.com/women-accessories/watches/balmain/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/en-bn/products/balmain-b57613212",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-my/products/balmain-b57493264",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/ko-bn/products/balmain-b57415224",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-ni/products/balmain-b57493216",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-ao/products/balmain-b57055212",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-ag/products/balmain-b53813366",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-bo/products/balmain-b17313364",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-bo/products/balmain-b52713364",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-ni/products/balmain-b38163984",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh/products/balmain-b57553384",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-aw/products/balmain-b55532284",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-lb/products/balmain-b21763212",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-tv/products/balmain-b72693224",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh/products/balmain-b72693264",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-gy/products/balmain-b80713362",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-gd/products/balmain-b35313264",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/pages/balmain",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.balmainwatches.com/en/balmain-design-and-roots-all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/326408171029",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/284865597363",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/356807350055",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/286652508216",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/it/orologi/balmain/lpi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/balmain-madrigal-chrono-lady-oval-6360.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchprozine.com/page-wf.forumpost/desc-baselworld-sihh/pdesc-baselworld-2010-balmain-swiss-watches--by-melvyn-teillol-foo/fi-636/ti-602636/pi-3769121/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://yourluxury.africa/watches-jewels/watches/balmainia-bijou-balmains-bold-take-on-jewelled-timepieces/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tradearabia.com/news/LIFE_310147.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tradearabia.com/news/LIFE_308574.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elle.be/fr/410236-impossible-de-resister-aux-deux-nouvelles-montres-de-balmain.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://manuals.plus/category/balmain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/186592943766",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/balmain-white-mother-pearl-stainless-steel-arcade-chronograph-womens-wristwa/id-v_5492422",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/124466145269",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.labellov.com/balmain-balceram-chrono-lady-watch-b7036-33-24-10833",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.vestiairecollective.com/men-accessories/watches/balmain/silver-steel-balmain-watch-68244913.shtml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theluxurycloset.com/ca-en/women/balmain-silver-stainless-steel-rubber-b237162-womens-wristwatch-21-mm-p496227",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thecoolhour.com/products/balmain-balmainia-watch-33mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theluxurycloset.com/women/balmain-silver-stainless-steel-diamond-eclipse-3291-womens-wristwatch-34-mm-p364563",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theluxurycloset.com/women/balmain-silver-two-tone-stainless-steel-elegance-chic-mini-b16923914-womens-wristwatch-29-mm-p314315",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourpassion.com/en/brands/balmain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003853541-balmain-and-miss-switzerland-a-true-love-affair.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.balmainwatches.com/balmain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/zh/products/balmain-b28013364",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-je/products/balmain-b57153312",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-je/products/balmain-b17303314",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-hr/products/balmain-b44753224",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-my/products/balmain-b17113384",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-je/products/balmain-b17353284",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-gy/products/balmain-b57053266",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-gy/products/balmain-b17313264",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-je/products/balmain-b16513382",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-ao/products/balmain-b38313314",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh-gy/products/balmain-b38303314",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/zh/products/balmain-b16753282",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1003824895-balmain-launches-its-new-chain-watch.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/2038012-balmain-special-mini-sq.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1000470620-exquisite-and-fashionable-the-new-miss-balmain-rc.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/watch-gallery/1004092315-balmain-eirini.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://mrstateless.com/category/balmain-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/c-1972-pierre-balmain-designer-unisex-fashion-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/c-1971-pierre-balmain-couture-dress-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/1970-s-pierre-balmain-paris-unisex-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/c-1971-pierre-balmain-ladies-dress-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/inspiration/make-a-festive-appearance-with-a-womens-watch-from-balmain",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/inspiration/going-into-spring-with-a-balmain-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.swatchgroup.com/en/companies-brands/watches-jewelry/balmain",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.maty.com/en/Product/Index/6177425",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mudah.my/pierre-balmain-vintage-ladies-dress-watch-113649877.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/downtown-balmainia-chrono-lady-watch-ref1-balmain-112064.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/balmainia-chrono-lady-ref1-balmain-86093.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrenschmuck24.ch/en/balmain-dream-chrono-lady-b6891-33-12.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://theluxurycloset.com/women/balmain-silver-stainless-steel-diamonds-ovation-mini-womens-wristwatch-28-mm-p384573",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://theluxurycloset.com/au-en/women/balmain-silver-stainless-steel-diamond-2198-rectangular-women-wristwatch-24-mm-p292697",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://theluxurycloset.com/uae-ar/women/balmain-diamond-pave-stainless-steel-eclipse-womens-wristwatch-34-mm-p282294",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/balmain-stainless-steel-diamond-excessive-chrono-5831-womens-wristwatch-32-mm/id-v_6153672",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/balmain-silver-white-stainless-steel-diamond-2191-womens-wristwatch-18-mm/id-v_6125471",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://privateedition.co.za/keeping-summer-time/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/balmain-iconic-chrono-gents-b5369-32-62",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.com/shop/balmain-watches/blue/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

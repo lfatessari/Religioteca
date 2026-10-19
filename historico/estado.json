@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 154,
-  "ultima_versao": 146,
+  "proxima_linha_marcas": 155,
+  "ultima_versao": 147,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1354,6 +1354,33 @@
       "marca": "Ballast",
       "linha_marcas": 153,
       "obs": "Correção a pedido: B153 China→Hong Kong; G153 ballastwatches.com→ballast1903.com; I153 sem '[⚠️ verificar]' (Solar Time Ltd, Hong Kong, identidade britânica); J153 + Perisher, Torbay, Vanguard, Jolly Roger; M153 limpo."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 147,
+      "marca": "Balmain",
+      "linha_marcas": 154,
+      "linhas_relogios": "16331-16789",
+      "relogios": 459,
+      "vermelho": true,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 115,
+      "passadas": {
+        "1": [
+          78,
+          275
+        ],
+        "2": [
+          26,
+          21
+        ],
+        "3": [
+          11,
+          6
+        ]
+      },
+      "obs": "sozinha (grande: Swatch Group desde 1987/1995; watch.co.uk 225, luxoia 412, ocarat 182 produtos). Site oficial (fichas via busca, páginas de novidades, catálogo 2026/27), ocarat p1/2/4/5, luxoia p1, watch.co.uk p1, uhrenschmuck24, Kamal, Ashford (≈30 refs antigas: Arcade, Ovation, Bellafina, Elysees), Yodobashi (20 refs antigas), theluxurycloset/1stdibs (refs de 4 dígitos), Europa Star, vintagewatchroom (Pierre Balmain anos 1970). ~214 linhas com link de página no lugar da foto; ~150 códigos vieram só de títulos de busca. Vermelha: páginas 2-8 watch.co.uk e 2-11 luxoia inalcançáveis, centenas de refs descontinuadas (Ashford/eBay/Japão) e 1ª coleção de 1987 sem nomes. M154 preenchido. Próxima: Balmont (155)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

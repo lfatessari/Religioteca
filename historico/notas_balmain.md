@@ -20,3 +20,12 @@ Famílias por prefixo: ver fam.py.
 - Swatch Group: licença 1987-1995, direitos exclusivos dez/1995; sede Montres Pierre Balmain, Saint-Imier (C da aba Marcas diz Bienne / Le Locle).
 ## 2ª passada encerrada (maty, mudah, watch.co.uk inspiração: sem novidade). Trouxe ~25 novos -> 3ª passada.
 ## 3ª passada encerrada (privateedition, kamal Iconic, lyst: 3 seguidas sem novidade).
+## 10b Auto-auditoria
+1. Blog/imprensa: páginas de novidades do site (Gents 2026, Beleganza 2025, Color, Classic R 2025, Ophrys Lady 2025, BdB 2026, Iconic, Design&Roots, Experience), prezly (Taffetas, Showroom, 2024 assets, HE 2024 PDF). Sim.
+2. site:balmainwatches.com por família: feito para todas as famílias atuais e antigas (Arcade/Ovation/Bellafina/Elysees não aparecem no site atual).
+3. Lojas: watch.co.uk, ocarat, luxoia, uhrenschmuck24, kamal, ashford, yodobashi, theluxurycloset, 1stdibs — buscas por família.
+4. Primeiro modelo: 1ª coleção de 1987 (sob licença) sem nome encontrado; antigos Pierre Balmain anos 1970 incluídos (vintagewatchroom, collectorsquare).
+5. I/J: Éria NÃO encontrada; Beleganza, Haute Élégance, Balmainia ok.
+6. Edição limitada: Élysées 64-83 (64 peças). Sem peças únicas.
+7. Fontes: ~116.
+Logo: https://www.balmainwatches.com/static/version1792407578/frontend/Balmain/balmain-theme/en_GB/images/logo.svg
