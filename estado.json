@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 131,
- "ultima_versao": 121,
+ "proxima_linha_marcas": 132,
+ "ultima_versao": 122,
  "historico": [
   {
    "data": "2026-10-16",
@@ -768,6 +768,29 @@
     }
    },
    "obs": "Bateria só desta marca (grande). Site oficial augustereymond.ch não aparece em buscas (L). Base: Delugs (Unity 51, Origin 6, Heritage), The Watch Pages, Europa Star, Masterhorologer, Watchilove, Century (dona), eBay Peru, Watchnet. Vintage ARSA muito extenso e sem nomes; ~11 nomes Europa Star só com link da ficha. Próxima: Augustin Matei (131)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 122,
+   "marca": "Augustin Matei",
+   "linha_marcas": 131,
+   "linhas_relogios": "12439-12546",
+   "relogios": 108,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 57,
+   "passadas": {
+    "1": {
+     "fontes": 47,
+     "novos_por_fonte": 96
+    },
+    "2": {
+     "fontes": 10,
+     "novos_por_fonte": 0
+    }
+   },
+   "obs": "Bateria só desta marca (peças únicas sob encomenda = grande). Site oficial augustinwatches.com (G vazio). Páginas de produto do site não aparecem nas buscas: ~25 peças ficaram com link da página em vez de foto. Instagram/Facebook/TikTok/Pinterest bloqueados. Próxima: Aurelia Horology (132), depois Auricoste (133, provável grande)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -779,35 +802,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-19T02:41:38Z",
- "ultimo_sinal": "2026-10-19T02:59:17Z",
- "em_andamento": {
-  "marcas": [
-   "Augustin Matei"
-  ],
-  "linha_marcas": 131,
-  "grande": true,
-  "relogios": "historico/parcial_augustin_matei_relogios.txt",
-  "fontes": "historico/parcial_augustin_matei_fontes.txt",
-  "notas": "historico/notas_augustin_matei.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a_passada"
-  ],
-  "passada": 2,
-  "obs": "Augustin Matei = peças únicas sob encomenda -> grande, sozinha",
-  "extra": "historico/site_am.txt (lista do site oficial, ainda não fundida)"
  }
 }
