@@ -13,3 +13,5 @@
 - Chrono24 (site:) e EveryWatch: nenhum resultado de Ballast nas buscas.
 - Odin: BL-3132-01..06; Odin chrono BL-3103.
 - eBay: Trafalgar Automatic 47mm Black #347/500 (sem código); Meteorite SW200 LE#11/50.
+## Passada 1 encerrada (76 fontes; últimas 3 sem novidade). Marca VERMELHA: famílias antigas BL-3101..3132 e 5101..5103 com muitos sufixos não achados; Jolly Roger versão preta sem código; Trafalgar LE 500 sem código.
+## Passada 2: buscar sufixos faltantes das famílias antigas (Klaus Kobec, Amazon, desertcart, PicClick, allwatches, Catawiki, eBay UK/DE).
