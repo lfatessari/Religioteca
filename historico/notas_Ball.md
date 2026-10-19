@@ -5,3 +5,5 @@
 - Faltam: EH/rm/enm/EIII páginas 2+ (compensar com lojas e WatchBase/TWP fichas), site antigo /global/ (fichas de modelos antigos com id) .
 - Sem código ainda: Engineer II Moon Calendar (vários), Engineer III Endurance 1917 GMT 41mm, Engineer M Skindiver III LE azul.
 - Exquisite p1-7 feito; falta p8-10.
+- Teddy B. (sem refs): Trainmaster Arabic 38mm, Trainmaster Power Reserve 41mm, Trainmaster Roman 41mm, Trainmaster Railroad 40mm, EIII Marvelight Crimson Red, Marvelight Gold -> buscar códigos.
+- le_map.txt guarda edições limitadas (aplicar na B no fim).
