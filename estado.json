@@ -1221,5 +1221,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-19T17:41:22Z",
+  "ultimo_sinal": "2026-10-19T17:41:22Z",
+  "em_andamento": {
+    "marcas": [
+      "Backes & Strauss"
+    ],
+    "linha_marcas": 149,
+    "grande": true,
+    "relogios": "historico/parcial_backes_relogios.txt",
+    "fontes": "historico/parcial_backes_fontes.txt",
+    "notas": "historico/notas_backes.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
