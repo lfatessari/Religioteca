@@ -11,3 +11,4 @@ API oficial: api.brm-chronographes.com/api/public/collections (17 coleções: V6
 - Buracos: catálogo oficial (API) diz V12 50, SQ 38, R 38, MK 18, V6-44-SA 76, Martini 9, Art Car 9, Cercolor... temos bem menos. API /catalogue não foi aberta (endereço só veio do /developers, não de busca).
 - Decisão: VERMELHA (configurador + ~450 produtos no catálogo; centenas de variantes de cor/ponteiro).
 - 2ª passada: foco em SQ, R, MK, V12 variantes, Martini, Cercolor, ColorDrive, Art Car (5 edições de 100), Aero, Boat Master, V6-42-EV, V8, GP; buscas site: em lepage/maier/jura/whamond/1stdibs/everywatch com termos novos.
+## Fim da 2ª passada: 16 fontes, ~215 novos (lista 'Watches' oficial com 280 de 326). 3ª passada obrigatória: SQ, R, Martini, Formulart, resto do catálogo.
