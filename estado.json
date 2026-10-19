@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 134,
-  "ultima_versao": 124,
+  "proxima_linha_marcas": 135,
+  "ultima_versao": 125,
   "historico": [
     {
       "data": "2026-10-16",
@@ -833,6 +833,29 @@
         }
       },
       "obs": "Bateria só desta marca (grande: vintage Type 20 + reedições). Site atual auricoste.com (G diz .fr); páginas internas não aparecem em buscas (L parcial). Base: Chadourne (refs), Ocarat, Tempus, Europa Star, Antiquorum, Drouot, Finarte, Dialicious. Fora: relógios de bolso, relógios de bordo/comparação e cronômetros de marinha. Próxima: Autodromo (134)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 125,
+      "marca": "Autodromo",
+      "linha_marcas": 134,
+      "linhas_relogios": "12591-12673",
+      "relogios": 83,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 83,
+      "passadas": {
+        "1": {
+          "fontes": 63,
+          "novos_por_fonte": 86
+        },
+        "2": {
+          "fontes": 20,
+          "novos_por_fonte": 0
+        }
+      },
+      "obs": "Bateria só desta marca (grande: 2011–2026, muitas cores e edições). Base: arquivo oficial do site (52 variantes 2011–2019) + imprensa para 2020–2026. Vermelha: Ford GT Owner's Edition configurável por carro e edições não confirmadas. Vivir.com descartado (conteúdo duvidoso). Sem logo. Próxima: Avakian (135)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -844,31 +867,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T05:41:35Z",
-  "ultimo_sinal": "2026-10-19T06:03:12Z",
-  "em_andamento": {
-    "marcas": [
-      "Autodromo"
-    ],
-    "linha_marcas": 134,
-    "grande": true,
-    "relogios": "historico/parcial_Autodromo_relogios.txt",
-    "fontes": "historico/parcial_Autodromo_fontes.txt",
-    "notas": "historico/notas_Autodromo.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 2
   }
 }
