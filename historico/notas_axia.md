@@ -20,3 +20,4 @@ FIFA KOSMOS: geral + 14 países (lista com fotos já obtida)
 ## Fim da 1ª passada (13:04 UTC): 3+ fontes seguidas sem novidade. Chrono24/EveryWatch/eBay: nenhum anúncio da marca (venda direta). Revendedores: não há (só loja própria + loja da USA Lacrosse, Classic City Collective).
 VERMELHO: sim — muitas edições privadas/sob encomenda (Tewaaraton, Naismith finalistas, NSA, Secret Service, IWLCA/USILA, 20+ universidades licenciadas, CFP 2024-25 LYTHOS de 10 times).
 ## 2ª passada — alvos: CFP 2024-25 que faltam (Georgia, Penn State, Notre Dame, Tennessee ARGOS; LYTHOS), Ivy League KAIROS/SOFIA, universidades licenciadas, Kronos outras cores, Michigan 2026 Dusty May, Texas A&M C'26, Choate, Johns Hopkins, Delaware, catálogo PDF, fotos ARGOS/ENOSI FIFA.
+- /collections/all tem 192 produtos em 13 páginas; só a pág. 1 abriu (as outras não apareceram em busca).
