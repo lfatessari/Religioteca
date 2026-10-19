@@ -1326,17 +1326,20 @@
     }
   },
   "em_execucao": "2026-10-19T21:41:14Z",
-  "ultimo_sinal": "2026-10-19T21:41:14Z",
+  "ultimo_sinal": "2026-10-19T21:49:03Z",
   "em_andamento": {
     "marcas": [
       "Ballast"
     ],
     "linha_marcas": 153,
-    "grande": null,
+    "grande": true,
     "relogios": "historico/parcial_Ballast_relogios.txt",
     "fontes": "historico/parcial_Ballast_fontes.txt",
     "notas": "historico/notas_Ballast.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
