@@ -22,3 +22,5 @@ Não incluído: "The God of the Sea and his creatures" (só desenho de proposta)
 Fusões: Trafalgar(site=MH), Coloana Infinitului=Infinity Column, Sfântul Gabriel=Sfântul Gavril, Da Vinci site=Human Proportion, Poseidon-2=Poseidon 2016, Ceasul Vânătorului=The Hunter (inferência), Samurai Behance=Samurai/Katana Deluxe.
 Auto-auditoria 10b: blog/imprensa lidos (watchilove x2, TDR x2, MH, imprensa RO ~15); 2c: produtos individuais do site não indexados na busca (só 6 abertos); lojas: não há revendedores (venda direta por encomenda); primeiro modelo: cabeça de cavalo/pintura rupestre c. 2016; I/J da aba Marcas genéricos ("Peças autorais artesanais") — C vazio (Pucioasa/Bucareste), G vazio (augustinwatches.com).
 VERMELHO: >100 peças feitas, muitas sem nome/foto; Instagram/Facebook/Pinterest inacessíveis -> 2ª passada.
+- 2ª passada: Instagram e TikTok bloqueados (robots).
+## 2ª passada: 10 fontes novas, 0 relógios novos (só detalhes do relógio do Papa). Parou: 3+ seguidas sem novidade; buscas saturadas. Sem 3ª passada.
