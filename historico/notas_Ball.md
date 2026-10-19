@@ -24,3 +24,4 @@
 5. Nomes em J (Engineer Master II, Engineer Hydrocarbon, Roadmaster, Trainmaster, Fireman) todos achados.
 6. Edições limitadas/colaborações: le_map.txt aplicado no fim.
 ## 2ª passada encerrada 20:40 (17 fontes novas, ~150 relógios) -> 3ª passada (lojas japonesas, leilões, fóruns)
+## 3ª passada encerrada 20:44 (10 fontes novas, ~9 relógios; 3 seguidas sem novidade)
