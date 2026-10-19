@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 142,
-  "ultima_versao": 133,
+  "proxima_linha_marcas": 143,
+  "ultima_versao": 134,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1052,6 +1052,30 @@
         }
       },
       "obs": "Bateria só com Awake: AXIA Time (142) é grande (relógios comemorativos customizados por time/universidade) e fica sozinha na próxima. Site real awakewatches.com. Vermelha: edições militares de 2020 (Marine Nationale etc.) sem nome achado; cores da La Bleue e da AW.01 incompletas. Próxima: AXIA Time (142)."
+    },
+    {
+      "data": "2026-10-19",
+      "marca": "AXIA Time",
+      "linha_marcas": 142,
+      "linhas_relogios": "13810-14002",
+      "relogios": 193,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 151,
+      "passadas": {
+        "1": [
+          127,
+          181
+        ],
+        "2": [
+          14,
+          5
+        ],
+        "3": [
+          10,
+          5
+        ]
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1063,31 +1087,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T12:42:12Z",
-  "ultimo_sinal": "2026-10-19T13:08:19Z",
-  "em_andamento": {
-    "marcas": [
-      "AXIA Time"
-    ],
-    "linha_marcas": 142,
-    "grande": true,
-    "relogios": "historico/parcial_axia_relogios.txt",
-    "fontes": "historico/parcial_axia_fontes.txt",
-    "notas": "historico/notas_axia.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
   }
 }
