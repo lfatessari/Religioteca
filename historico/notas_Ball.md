@@ -7,3 +7,5 @@
 - Exquisite p1-7 feito; falta p8-10.
 - Teddy B. (sem refs): Trainmaster Arabic 38mm, Trainmaster Power Reserve 41mm, Trainmaster Roman 41mm, Trainmaster Railroad 40mm, EIII Marvelight Crimson Red, Marvelight Gold -> buscar códigos.
 - le_map.txt guarda edições limitadas (aplicar na B no fim).
+- W&W: Fireman Night Train (43mm DLC, Ball 124), Women's Fireman NL1088C-LJ-WHBE, linha Conductor -> buscar refs.
+- Tourneau: listagem bloqueada (robots); refs tiradas de títulos de busca (BLW01000xx).
