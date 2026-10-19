@@ -12,3 +12,4 @@ FIFA KOSMOS: geral + 14 países (lista com fotos já obtida)
 - Box sets (Jim Harbaugh 300 pç; Ryan Day; Dusty May) = mesmo relógio + estojo; não viram linha (citados na E).
 - Sinal de VERMELHO: dezenas de edições custom privadas (escolas, turmas, empresas) que não estão publicadas.
 - Fundador: John Kanaras (ex-jogador de lacrosse da UPenn); marca de 2018. CFP 2023-24: ODYSSEUS para Washington, Alabama, Texas, Michigan.
+- Pistas: aBlogtoWatch cita 'Axia Kronos Watch Review' e 'AXIA Time Kronos GMT' (modelos antigos!). Buscar.
