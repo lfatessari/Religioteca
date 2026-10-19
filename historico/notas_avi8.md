@@ -30,3 +30,4 @@ Mais: AV-4010-02 = Hawker Hunter Multifunctional; AV-4030-02 = Supermarine Seafi
 TouchofModern: páginas não abrem (erro).
 Mais: AV-4007 = Hawker Hunter GMT; AV-4009/4010 = Hawker Hunter Multifunctional; AV-4015 = Hawker Hurricane Aviation Chronograph; AV-4012 = Hawker Hurricane Traditional; AV-4011 antigos = Hawker Hurricane Chronograph. Timepieces Direct: robots bloqueia as páginas de produto.
 Mais: AV-4022 = Lancaster Bomber Chronograph (renomear AV-4022-03); AV-4024 = Lancaster Bomber Chronograph; AV-4027-01 Hawker Typhoon mostrador branco (jomashop).
+Mais: Lafayette Chronograph sem código → branco = AV-4076-11, salmão = AV-4076-44, azul = AV-4076-22 (confirmado só como "2020 version"; cor deduzida). Centenary 1980s = AV-4061 (AV-4061-01 gravado como "Flyboy" → renomear; mostrador verde/pulseira creme = AV-4061-03). Centenary 1960s = AV-4060.
