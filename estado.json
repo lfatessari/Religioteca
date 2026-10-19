@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 146,
-  "ultima_versao": 136,
+  "proxima_linha_marcas": 147,
+  "ultima_versao": 137,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1141,6 +1141,29 @@
       "marca": "Axios, Ayers Watches, Azad",
       "linha_marcas": "143-145",
       "obs": "Correção a pedido: I143 reescrito (fundadores Elshan Tang, Stuart Ho, Justin Chiam; coleções reais; sem David Ngo/Deepsea; tirado '[⚠️ verificar]'), J143 → Ironclad 40, Flagship 40, Pathfinder 40, Tribune 38; I144 com MT-01..04/300 peças e domínio perdido, J144 → Metropolitan (MT-01 a MT-04); I145 com fundador Babak 'Bobby' Ermankhah e datas 2005/2008, coleção 2009 e homenageados, J145 completo; M143-M145 limpos. G144 mantido (ayerswatches.com, hoje de outra empresa — anotado em I)."
+    },
+    {
+      "data": "2026-10-19",
+      "versao": 137,
+      "marca": "Azimuth",
+      "linha_marcas": 146,
+      "linhas_relogios": "14108-14250",
+      "relogios": 143,
+      "vermelho": true,
+      "site_bloqueado": "parcial",
+      "grande": true,
+      "fontes": 140,
+      "passadas": {
+        "1": [
+          125,
+          139
+        ],
+        "2": [
+          15,
+          4
+        ]
+      },
+      "obs": "site oficial azimuthwatch.com (Wix) só achado via busca; Chrono24 não abre (usados EveryWatch 517 anúncios, eBay, Carousell); vermelha por peças únicas Bronzo Artist Series/Battle Tank e centenas de variantes sem nome. Próxima: B.R.M (147)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1152,32 +1175,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-19T14:41:48Z",
-  "ultimo_sinal": "2026-10-19T15:21:57Z",
-  "em_andamento": {
-    "marcas": [
-      "Azimuth"
-    ],
-    "linha_marcas": 146,
-    "grande": true,
-    "relogios": "historico/parcial_Azimuth_relogios.txt",
-    "fontes": "historico/parcial_Azimuth_fontes.txt",
-    "notas": "historico/notas_Azimuth.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 2
   }
 }

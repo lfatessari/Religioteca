@@ -26,3 +26,14 @@
 ## FIM DA 1ª PASSADA (15:19 UTC): 3 fontes seguidas sem novidade. ~158 fontes, 153 relógios.
 Decisão: VERMELHA (Bronzo Artist Series = peças únicas 1/1 sem nomes; 517 anúncios no EveryWatch com muitas variantes sem nome; Battle Tank 7ª peça "Israeli" não achada; Round-1 Dragon só 2 de 4 cores; Back in Time com dezenas de mostradores; Twin Turbo 4 cores x 2 gerações).
 ## 2ª PASSADA — alvo: Dragon, Back in Time, Roulette/King Casino, Spaceship, Roboto, Battle Tank, Karim Rashid, Twin Turbo Yellow alu.
+## 2ª passada: 15 fontes abertas novas (+7 que falharam), 4 relógios novos (Dragon amarelo, For the Oceans, Mr. Roboto R1 Space Invader HK 31, Deep Diver vermelho). <5 -> sem 3ª passada. Parou: 3 fontes seguidas sem novidade.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: o site Wix não tem blog; lidas todas as 5 categorias (página 1) + página Bobby Saputra + about + retailers. Página 2 de Past Collections e Sci-Fi não aparece em busca.
+2. 2c: buscas site:azimuthwatch.com product-page com vários termos; achados Landship, Twin Barrel Tourbillon, SP-1 Roulette, Twin Turbo, Frost Gold, Gran Turismo etc.
+3. Lojas: Red Army (SG e MY), Delray, Superwatchman, Vaqthorology, Exclusive Times, Sutor House, Watch Connection, Watch Concepts/Right Time, Timepiece.com, It Must Be Time, Mu Templar, Wing Wah, Grenon's.
+4. 1º modelo: Bombardier I (2004, Militare-1, 200 peças, ref. 04-MIL) — incluído.
+5. J (SP-1 Landship, Mr. Roboto, SP-1 Roulette, Gran Turismo, Back in Time): todos achados.
+6. Edições limitadas/colaborações na B; peças únicas (Battle Tank x6, Bronzo Artist Series, GT Thailand) com "Peça única." em E.
+7. Fontes: 125 (1ª) + 15 (2ª) abertas com sucesso; 31 tentativas falharam (Chrono24, Right Time, eBay.de etc.).
+Fundidos/removidos por duplicidade: Spaceship GPHG, Spaceship 2.0 Blue (=Predator 2.0 Electric Blue), Bombardier 6 MI.B6 (=Bombardier VI), Bomb Raider VI, Battle Tank eBay 1/1, Spaceship PVD Tiger Eye, GT "911" (não identificado), XT Dilango 45 mm, Mecha Complications Pilot, Skeleton 43 mm (genérico), CGM-1-W, SP-1S-BS-SS, Crazy Rider N001.
+Não achados: 7ª peça Battle Tank ("Israeli Tank"), Bombardier II, linha Karim Rashid (anunciada para 2013), 4ª cor do Dragon.
