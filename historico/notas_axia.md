@@ -16,3 +16,4 @@ FIFA KOSMOS: geral + 14 países (lista com fotos já obtida)
 - Origem: relógio Penn Ivy League 2019 (primeiro); fundação 2018; licença inicial com as 8 Ivy League (KAIROS universitário).
 - FIFA 2026: 45 desenhos, ~8.000 relógios (ARGOS, ENOSI, KOSMOS por seleção). Primeiro relógio: centenário do lacrosse da Penn.
 - FIFA specs: ARGOS 42x13,3 mm ETA 2824 300 m, US$1.495, 80/país; ENOSI 38x10,3 mm SW200 US$795, 80/país; KOSMOS 36 mm biocerâmica quartzo Miyota US$225, 400/país; box set 20/país arte Lili Cantero. Faltam fotos ARGOS/ENOSI de 13 países.
+- Novo modelo ATHLOS (Naismith, 41 mm). Logo: https://wornandwound.com/library/uploads/2025/12/Axia_Time.png
