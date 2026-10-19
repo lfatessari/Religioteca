@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 141,
- "ultima_versao": 132,
+ "proxima_linha_marcas": 142,
+ "ultima_versao": 133,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1029,6 +1029,29 @@
    "marca": "Aviator",
    "linha_marcas": 140,
    "obs": "Correção a pedido ('corrija'): G140 → aviatorwatch.swiss; I140 reescrito (fundada em 2000, relançada 2002; Volmax é distribuidora, fabrica Sturmanskie; Swiss Made já em 2013; coleções atuais e antigas; tirado '[⚠️ verificar]'); J140 marca MIG-25 Foxbat e Kingcobra como descontinuados; M140 limpo."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 133,
+   "marca": "Awake",
+   "linha_marcas": 141,
+   "linhas_relogios": "13755-13809",
+   "relogios": 55,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 73,
+   "passadas": {
+    "1": {
+     "fontes": 59,
+     "novos": 52
+    },
+    "2": {
+     "fontes": 14,
+     "novos": 3
+    }
+   },
+   "obs": "Bateria só com Awake: AXIA Time (142) é grande (relógios comemorativos customizados por time/universidade) e fica sozinha na próxima. Site real awakewatches.com. Vermelha: edições militares de 2020 (Marine Nationale etc.) sem nome achado; cores da La Bleue e da AW.01 incompletas. Próxima: AXIA Time (142)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1040,32 +1063,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-19T11:41:18Z",
- "ultimo_sinal": "2026-10-19T12:03:09Z",
- "em_andamento": {
-  "marcas": [
-   "Awake"
-  ],
-  "linha_marcas": 141,
-  "grande": true,
-  "relogios": "historico/parcial_awake_relogios.txt",
-  "fontes": "historico/parcial_awake_fontes.txt",
-  "notas": "historico/notas_awake.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 2
  }
 }
