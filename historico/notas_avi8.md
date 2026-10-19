@@ -9,3 +9,6 @@ Kakaku: 'Flyboy Spirit of Tuskegee chronograph LE' (sem código), 'Flyboy Wingma
 Flyboy Vintage Collection (prata / latão envelhecido) — sem código, citado no VAN
 Yodobashi: AV-CLOCK-01 GMT (relógio de mesa) — não entra (não é de pulso). AV-4017 base (Dappered) removido: coberto por AV-4017-01/-05 (foto Dappered perdida).
 Hawker Hunter Retrograde Charcoal Ember Brown (eBay, sem código) — não entrou (pode ser um AV-4052 já listado)
+## Fim da 1ª passada (09:19 UTC): 3 fontes seguidas sem modelo novo (dialicious, wristwatchreview hunter, opumo). ~131 fontes, 411 relógios.
+Decisão: VERMELHA — centenas de referências (Kakaku diz 774 anúncios; TIME Watches 246 produtos, só pág. 1 alcançada), linhas antigas 2012–2016 (AV-4001…4045) com muitas cores sem nome/foto, códigos com lacunas.
+2ª passada: buscar linhas antigas (AV-4002–4045), lacunas de cor (AV-4011, 4052, 4089, 4100…), Sopwith Camel, Seafire, Lancaster AV-4020/4024, Hawker Hunter AV-4010/4036/4039/4043, peças especiais.
