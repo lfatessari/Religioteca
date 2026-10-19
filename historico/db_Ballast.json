@@ -525,7 +525,7 @@
 "code": "BL-5101-07",
 "name": "Vanguard (feminino)",
 "img": "https://s.turbifycdn.com/aah/yhst-92803816272180/ballast-bl-5101-07-vanguard-ladies-quartz-watch-20.jpg",
-"ch": "Feminino, quartzo."
+"ch": "Feminino, quartzo, madrepérola."
 },
 "BL51010C": {
 "code": "BL-5101-0C",
@@ -537,7 +537,7 @@
 "code": "BL-5101-22",
 "name": "Vanguard (feminino)",
 "img": "https://s.turbifycdn.com/aah/yhst-92803816272180/ballast-bl-5101-22-vanguard-ladies-quartz-watch-22.jpg",
-"ch": "Feminino, quartzo."
+"ch": "Feminino, quartzo, madrepérola."
 },
 "BL510144": {
 "code": "BL-5101-44",
@@ -567,13 +567,13 @@
 "code": "BL-5103-04",
 "name": "Valiant (feminino)",
 "img": "https://s.turbifycdn.com/aah/yhst-92803816272180/ballast-bl-5103-04-valiant-ladies-quartz-watch-20.jpg",
-"ch": "Feminino, quartzo."
+"ch": "Feminino, quartzo, preto."
 },
 "BL510307": {
 "code": "BL-5103-07",
 "name": "Valiant (feminino)",
 "img": "https://s.turbifycdn.com/aah/yhst-92803816272180/ballast-bl-5103-07-valiant-ladies-quartz-watch-22.jpg",
-"ch": "Feminino, quartzo."
+"ch": "Feminino, quartzo, mostrador violeta."
 },
 "BL510308": {
 "code": "BL-5103-08",
@@ -770,7 +770,7 @@
 "BL510309": {
 "code": "BL-5103-09",
 "name": "Valiant Midsize (feminino)",
-"img": "https://www.jomashop.com/ballast-watch-bl-5103-09.html",
+"img": "https://image.yodobashi.com/product/100/000/001/002/966/824/100000001002966824_10205_001.jpg",
 "ch": "Feminino, mostrador de madrepérola. Visto só no título da página da loja (link da página)."
 },
 "BL313205": {
@@ -787,25 +787,25 @@
 },
 "BL310101": {
 "code": "BL-3101-01",
-"name": "Trafalgar",
+"name": "Trafalgar Chronograph",
 "img": "https://allwatches.org/media/thumbs/watches/ballast/ballast-bl-3101-01-trafalgar-analog-display-swiss-quartz-black_220x220.jpg",
-"ch": "Quartzo suíço, preto."
+"ch": "Cronógrafo de quartzo suíço, preto."
 },
 "BL310106": {
 "code": "BL-3101-06",
-"name": "Trafalgar (com duas pulseiras intercambiáveis)",
+"name": "Trafalgar Chronograph (com duas pulseiras intercambiáveis)",
 "img": "https://allwatches.org/media/thumbs/watches/ballast/ballast-bl-3101-06-trafalgar-with-two-interchangeable-straps_220x220.jpg",
-"ch": "Duas pulseiras intercambiáveis."
+"ch": "Cronógrafo de quartzo, duas pulseiras."
 },
 "BL310108": {
 "code": "BL-3101-08",
-"name": "Trafalgar",
+"name": "Trafalgar Chronograph",
 "img": "https://allwatches.org/media/thumbs/watches/ballast/ballast-bl-3101-08-trafalgar-analog-display-swiss-quartz-black_220x220.jpg",
-"ch": "Quartzo suíço, preto."
+"ch": "Cronógrafo de quartzo."
 },
 "BL31010B": {
 "code": "BL-3101-0B",
-"name": "Trafalgar",
+"name": "Trafalgar Chronograph",
 "img": "https://allwatches.org/media/thumbs/watches/ballast/ballast-bl-3101-0b-trafalgar-analog-display-swiss-quartz-black_220x220.jpg",
 "ch": "Quartzo suíço, preto."
 },
@@ -1006,5 +1006,71 @@
 "name": "Valiant Automatic",
 "img": "https://store.shopping.yahoo.co.jp/robinson/bl-3129-01.html",
 "ch": "Automático. Visto só no título da página da loja (link da página)."
+},
+"BL310111": {
+"code": "BL-3101-11",
+"name": "Trafalgar Chronograph",
+"img": "https://image.yodobashi.com/product/100/000/001/002/337/244/100000001002337244_10205_001.jpg",
+"ch": "Cronógrafo de quartzo."
+},
+"BL510305": {
+"code": "BL-5103-05",
+"name": "Valiant (feminino)",
+"img": "https://image.yodobashi.com/product/100/000/001/002/966/821/100000001002966821_10205_001.jpg",
+"ch": "Feminino, quartzo, branco."
+},
+"BL510306": {
+"code": "BL-5103-06",
+"name": "Valiant (feminino)",
+"img": "https://image.yodobashi.com/product/100/000/001/002/966/822/100000001002966822_10205_001.jpg",
+"ch": "Feminino, quartzo, preto."
+},
+"BL311803": {
+"code": "BL-3118-03",
+"name": "Ballast 200 m",
+"img": "https://image.yodobashi.com/product/100/000/001/001/667/336/100000001001667336_10205_001.jpg",
+"ch": "Quartzo, 200 m."
+},
+"BL31080B": {
+"code": "BL-3108-0B",
+"name": "Valiant GMT",
+"img": "https://image.yodobashi.com/product/100/000/001/001/637/379/100000001001637379_10205_001.jpg",
+"ch": "Quartzo, GMT."
+},
+"BL312907": {
+"code": "BL-3129-07",
+"name": "Valiant Automatic",
+"img": "https://image.yodobashi.com/product/100/000/001/002/966/819/100000001002966819_10205_001.jpg",
+"ch": "Automático, pequenos segundos."
+},
+"BL31080C": {
+"code": "BL-3108-0C",
+"name": "Valiant GMT",
+"img": "https://image.yodobashi.com/product/100/000/001/001/637/380/100000001001637380_10205_001.jpg",
+"ch": "Quartzo, GMT."
+},
+"BL31080A": {
+"code": "BL-3108-0A",
+"name": "Valiant GMT",
+"img": "https://image.yodobashi.com/product/100/000/001/001/637/378/100000001001637378_10205_001.jpg",
+"ch": "Quartzo, GMT."
+},
+"BL310809": {
+"code": "BL-3108-09",
+"name": "Valiant GMT",
+"img": "https://business.walmart.com/ip/Pre-owned-Ballast-Valiant-GMT-47mm-PVD-Steel-Quartz-Watch-BL-3108-09-Like-New/5398478618",
+"ch": "Quartzo, GMT, 47 mm, aço com PVD. Visto só no título de anúncio (link da página)."
+},
+"BL312903": {
+"code": "BL-3129-03",
+"name": "Valiant Automatic",
+"img": "http://googoods.jp/shopdetail/000000000621/",
+"ch": "Automático. Visto só no título da página da loja (link da página)."
+},
+"BL312606": {
+"code": "BL-3126-06",
+"name": "Trafalgar GMT",
+"img": "https://www.amazon.co.jp/%E3%83%90%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%AA%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%A5-%E3%82%B9%E3%82%A4%E3%82%B9%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-TRAFALGAR-BL-3126-06/dp/B01MDT2YON",
+"ch": "Quartzo suíço. Visto só no título da página da loja (link da página)."
 }
 }
