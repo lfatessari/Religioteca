@@ -781,20 +781,18 @@
   }
  },
  "em_execucao": "2026-10-19T02:41:38Z",
- "ultimo_sinal": "2026-10-19T02:41:38Z",
+ "ultimo_sinal": "2026-10-19T02:42:44Z",
  "em_andamento": {
   "marcas": [
-   "Augustin Matei",
-   "Aurelia Horology",
-   "Auricoste"
+   "Augustin Matei"
   ],
   "linha_marcas": 131,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
+  "grande": true,
+  "relogios": "historico/parcial_augustin_matei_relogios.txt",
+  "fontes": "historico/parcial_augustin_matei_fontes.txt",
+  "notas": "historico/notas_augustin_matei.md",
   "secoes_feitas": [],
   "passada": 1,
-  "obs": "dimensionando; lista de marcas provisória"
+  "obs": "Augustin Matei = peças únicas sob encomenda -> grande, sozinha"
  }
 }
