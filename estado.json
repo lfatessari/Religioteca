@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 140,
- "ultima_versao": 129,
+ "ultima_versao": 130,
  "historico": [
   {
    "data": "2026-10-16",
@@ -979,6 +979,22 @@
     }
    },
    "obs": "4ª passada a pedido do usuário: +179 relógios (608 no total); ~60 nomes de cor corrigidos e 7 fotos melhoradas nas linhas já gravadas; 1 linha duplicada removida (Charcoal Ember Brown = AV-4052-02). Novas linhas antigas: Curtiss Tomahawk, Seafire AV-4030/4033, Lancaster AV-4020/4022/4024/4035, Hunter AV-4007/4008/4009/4018, Flyboy Cadet AV-4028, Sabiha Gökçen, Operation Catechism. Próxima: Aviator (140)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 130,
+   "marca": "Aventi",
+   "linha_marcas": 138,
+   "relogios": 19,
+   "vermelho": false,
+   "complemento": true,
+   "passadas": {
+    "2": {
+     "fontes": 23,
+     "novos": 2
+    }
+   },
+   "obs": "2ª passada a pedido: +A11-01SE (página oficial) e A-10 A10-06 (BQ); Enygma corrigido para A18-01 (Escapement). Linhas Aventi 12691-12709 (AVI-8 deslocada +2)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -990,20 +1006,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-19T10:16:19Z",
- "ultimo_sinal": "2026-10-19T10:24:50Z",
- "em_andamento": {
-  "marcas": [
-   "Aventi"
-  ],
-  "linha_marcas": 138,
-  "grande": false,
-  "complemento": true,
-  "relogios": "historico/parcial_aventi2_relogios.txt",
-  "fontes": "historico/parcial_aventi2_fontes.txt",
-  "notas": "historico/notas_aventi.md",
-  "secoes_feitas": [],
-  "passada": 2
  }
 }
