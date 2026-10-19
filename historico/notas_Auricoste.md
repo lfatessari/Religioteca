@@ -13,3 +13,4 @@ Refs pelo nome do arquivo: A52NT, A20AP, A20HK/HC/HB (Ephemeres)
 - Sem foto ainda: maioria das refs Chadourne
 ## Fora: relógios de bolso, relógios de bordo/mesa, cronômetros de marinha (não pulso) — só relatar
 - 2c: buscas site:auricoste.com / auricoste.com/produit não trazem nenhuma página do site (buscador não indexa). Links internos não abertos (regra do CLAUDE.md).
+- 1ª passada encerrada: 3 últimas fontes sem novidade (wornandwound, passion-horlogere 39906, akrone). Marca VERMELHA (vintage sem nome, refs Type 20/52 sem foto, site sem páginas indexadas). 2ª passada: buscar Type 20/52 refs com foto, gerações 2010, chrono 14 lignes, chronos anos 80, Fusco variantes, eBay/Catawiki.
