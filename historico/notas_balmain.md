@@ -18,3 +18,4 @@ Famílias por prefixo: ver fam.py.
 ## 1ª passada encerrada (hourpassion, europastar Miss Switzerland, balmain experience: 3 seguidas sem novidade). Marca VERMELHA: centenas de variações descontinuadas (Ashford, Japão, eBay) e páginas 2-8 watch.co.uk / 2-11 luxoia inalcançáveis.
 ## 2ª passada: foco em descontinuados (Ashford por prefixo, lojas japonesas, eBay, Kamal, watchfactory, 1stdibs).
 - Swatch Group: licença 1987-1995, direitos exclusivos dez/1995; sede Montres Pierre Balmain, Saint-Imier (C da aba Marcas diz Bienne / Le Locle).
+## 2ª passada encerrada (maty, mudah, watch.co.uk inspiração: sem novidade). Trouxe ~25 novos -> 3ª passada.

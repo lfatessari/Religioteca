@@ -1367,7 +1367,7 @@
     }
   },
   "em_execucao": "2026-10-19T22:41:47Z",
-  "ultimo_sinal": "2026-10-19T23:22:43Z",
+  "ultimo_sinal": "2026-10-19T23:23:26Z",
   "em_andamento": {
     "marcas": [
       "Balmain"
@@ -1388,8 +1388,9 @@
       "7",
       "8",
       "9",
-      "10"
+      "10",
+      "p2"
     ],
-    "passada": 2
+    "passada": 3
   }
 }
