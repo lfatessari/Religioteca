@@ -5,3 +5,4 @@ API oficial: api.brm-chronographes.com/api/public/collections (17 coleções: V6
 - V12-44 lançado set/2005; GP44 primeiro (2003); V6/V12 em 2004 (marques-de-france)
 - Trirotor e Tourbillon citados (motorsport mag 2011) — buscar. V8/V12/V6/V14 configuráveis online em 2011. Bombers 2012.
 - GP-44/GP40: grail diz GP-44, comunicado 20 anos diz GP40 (2003). Manter GP-44 com obs.
+- CNT-44 Gulf citado (aBlogtoWatch, imagem) — buscar
