@@ -1655,7 +1655,7 @@
   }
  },
  "em_execucao": "2026-10-20T07:41:26Z",
- "ultimo_sinal": "2026-10-20T08:11:52Z",
+ "ultimo_sinal": "2026-10-20T08:14:58Z",
  "em_andamento": {
   "marcas": [
    "Beaubleu",
@@ -1668,7 +1668,10 @@
   "fontes": "historico/parcial_Beaufort_fontes.txt",
   "notas": "historico/notas_Beaufort.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2",
+   "3",
+   "9"
   ],
   "passada": 1
  }
