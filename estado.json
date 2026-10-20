@@ -1,1978 +1,1992 @@
 {
-  "proxima_linha_marcas": 181,
-  "ultima_versao": 168,
-  "historico": [
-    {
-      "data": "2026-10-16",
-      "marca": "Aquatrident",
-      "linha_marcas": 78,
-      "linhas_relogios": "5402-5454",
-      "relogios": 53,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "obs": "tratada como grande (na dúvida); Arach fica para a próxima; 2ª pesquisa profunda pedida pelo usuário: +3 (Horizon x2, Ichthyosaur AQ-23003-04)"
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Arach",
-      "linha_marcas": 79,
-      "linhas_relogios": "5455-5460",
-      "relogios": 6,
-      "vermelho": false,
-      "site_bloqueado": false
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Aramar Watch Co.",
-      "linha_marcas": 80,
-      "linhas_relogios": "5461-5470",
-      "relogios": 10,
-      "vermelho": true,
-      "site_bloqueado": true
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Arcadia Watches",
-      "linha_marcas": 81,
-      "linhas_relogios": "5471-5480",
-      "relogios": 10,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "obs": "vermelho retirado a pedido do usuário"
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Arcaido",
-      "linha_marcas": 82,
-      "linhas_relogios": "5481-5483",
-      "relogios": 3,
-      "vermelho": false,
-      "site_bloqueado": true
-    },
-    {
-      "versao": 82,
-      "marca": "Arcanaut",
-      "linha_marcas": 83,
-      "linhas": 53,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "obs": "site real arcanaut.watch (G aponta arcanaut.cc, fora do ar); mostradores Fordite únicos e Fordite 2.0 configurável não listáveis um a um"
-    },
-    {
-      "versao": 82,
-      "marca": "Archetype",
-      "linha_marcas": 84,
-      "linhas": 49,
-      "vermelho": false,
-      "site_bloqueado": "",
-      "obs": "inclui descontinuados via sitemap/oembed; linha 'Pure' citada em J não encontrada"
-    },
-    {
-      "versao": 83,
-      "marca": "Arcanaut",
-      "linha_marcas": 83,
-      "linhas": 86,
-      "vermelho": true,
-      "obs": "2a passada a pedido: +33 (blog, produtos ocultos achados via busca, The Limited Edition UK, Time+Tide, ARC 1 de 2018); G83 corrigido para arcanaut.watch; K83 logo novo; B Garnet Goblin/Chronomara e 4 fotos corrigidas"
-    },
-    {
-      "versao": 83,
-      "marca": "Archetype",
-      "linha_marcas": 84,
-      "linhas": 49,
-      "vermelho": false,
-      "obs": "2a passada a pedido: nenhum modelo novo (sitemap oficial 49 relógios = watches.com = Kickstarter 2020 + lançamentos posteriores)"
-    },
-    {
-      "versao": 84,
-      "marca": "Arcanaut",
-      "obs": "peça única tirada da coluna B (64 linhas) e posta no começo da E, a pedido"
-    },
-    {
-      "versao": 85,
-      "obs": "regra peça única aplicada em 113 linhas de 16 marcas (B→E)"
-    },
-    {
-      "versao": 85,
-      "marca": "Archimede",
-      "linha_marcas": 85,
-      "linhas": 314,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "fontes_abertas": "~35 (site oficial ~60 páginas, WatchBase 6 famílias + 62 fichas, EveryWatch, WatchPatrol, Chrono24 via busca, W&W, aBlogtoWatch, Masterhorologer, acquiremag, timetransformed, lesrhabilleurs, watchtime, worldwatchreview, relogiosb3, Hourstriker, fliegerfriday, FiveFortyFive, Jura, vario, windup)",
-      "obs": "marca grande, feita sozinha; ARC-TIC fica para a próxima"
-    },
-    {
-      "versao": 86,
-      "marca": "Archimede",
-      "linhas": 319,
-      "obs": "2a passada completa: WatchTime.net (página da marca + 8 matérias), buscas site: (Sold Out, Special Edition, páginas antigas), Mercari JP, WatchSpies, relojes-especiales, WatchCharts marketplace, Two Broke Watch Snobs, Catawiki; +5 relógios; parou após 3 fontes seguidas sem novidade"
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "ARC-TIC",
-      "linhas": "5938-5966",
-      "relogios": 29,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 78
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Arctos",
-      "linhas": "5967-6025",
-      "relogios": 59,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "fontes": 96
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Arcturus",
-      "linhas": "6026-6047",
-      "relogios": 22,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 37
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Ardío",
-      "linhas": "6048-6052",
-      "relogios": 5,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 21
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Arethusa",
-      "linhas": "6053-6055",
-      "relogios": 3,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 21
-    },
-    {
-      "data": "2026-10-16",
-      "marca": "Aristo",
-      "linhas": "6056-6946",
-      "relogios": 891,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 128
-    },
-    {
-      "data": "2026-10-17",
-      "marca": "Aristo (4ª passada, complemento)",
-      "linhas": "6947-7094",
-      "relogios": 148,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 33
-    },
-    {
-      "data": "2026-10-17",
-      "marca": "Aristo (troca de 28 fotos, sem linhas novas)",
-      "linhas": "6752-6884",
-      "relogios": 0,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 0
-    },
-    {
-      "data": "2026-10-17",
-      "marca": "Erbprinz (separada da Aristo; nova linha 475 em Marcas)",
-      "linhas": "6773-6828",
-      "relogios": 56,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 0
-    },
-    {
-      "data": "2026-10-17",
-      "marca": "Messerschmitt (separada da Aristo; nova linha 904 em Marcas)",
-      "linhas": "6829-7094",
-      "relogios": 266,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 0
-    },
-    {
-      "data": "2026-10-17",
-      "versao": 95,
-      "marca": "Arken",
-      "linha_marcas": 92,
-      "linhas_relogios": "7095-7102",
-      "relogios": 8,
-      "vermelho": false,
-      "site_bloqueado": true,
-      "fontes": 29
-    },
-    {
-      "data": "2026-10-17",
-      "versao": 95,
-      "marca": "Arlanch",
-      "linha_marcas": 93,
-      "linhas_relogios": "7103-7104",
-      "relogios": 2,
-      "vermelho": false,
-      "site_bloqueado": true,
-      "fontes": 16,
-      "obs": "marca sueca de Gabriel Arlanch (arlanch.se); homônimo chinês ARLANCH de quartzo barato não incluído; próxima Armand Nicolet (grande, sozinha)"
-    },
-    {
-      "data": "2026-10-17",
-      "versao": 96,
-      "marca": "Armand Nicolet",
-      "linha_marcas": 94,
-      "linhas_relogios": "7105-7832",
-      "relogios": 728,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "fontes": 174,
-      "passadas": "P1 114 fontes/636 relógios; P2 23/34; P3 37/58",
-      "obs": "grande, sozinha; refeita após execução parada; MH8 (coluna J) não encontrado; Marcas diz fundada em 1902, fontes dizem 1875"
-    },
-    {
-      "data": "2026-10-17",
-      "versao": 97,
-      "marca": "Armando Legin",
-      "linha_marcas": 95,
-      "linhas_relogios": "7833",
-      "relogios": 1,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 17,
-      "obs": "marca eslovena (Fobia d.o.o., Ljubljana), montagem em Zurique por Marc Jenni; só o Inveniō Genesis (25 peças); série BLACK anunciada, não lançada; dados de Marcas (B, C, D, F, G, H, I) parecem errados"
-    },
-    {
-      "data": "2026-10-17",
-      "versao": 97,
-      "marca": "Armida",
-      "linha_marcas": 96,
-      "linhas_relogios": "7834-7883",
-      "relogios": 50,
-      "vermelho": false,
-      "site_bloqueado": "parcial",
-      "fontes": 49,
-      "obs": "site oficial abriu (galeria de clientes); loja Ecwid não abre; próxima Armin Strom (grande, sozinha)"
-    },
-    {
-      "data": "2026-10-17",
-      "versao": 98,
-      "marca": "Armin Strom",
-      "linha_marcas": 97,
-      "linhas_relogios": "7884-8056",
-      "relogios": 173,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 272,
-      "passadas": "P1 232 fontes/162 relógios; P2 18/5; P3 22/6",
-      "obs": "grande, sozinha; refeita após execução parada; configurador e peças únicas tornam a lista incompleta (vermelho); Europa Star deu 429; Chrono24 sem resultados em busca; Monochrome page/N não aparece em busca (lidas com aprovação do usuário nesta execução); J cita 'Orbit' (existe)"
-    },
-    {
-      "data": "2026-10-17",
-      "versao": 99,
-      "marca": "Armitron",
-      "linha_marcas": 98,
-      "linhas_relogios": "8057-8409",
-      "relogios": 353,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 174,
-      "passadas": "P1 143 fontes/330; P2 18/30; P3 13/9",
-      "obs": "grande, sozinha; marca de massa com milhares de códigos de estilo (20/, 40/, 45/, 75/) impossível de esgotar; site Shopify abre mas o leitor não traz links nem fotos (fotos vieram de imprensa, Amazon via desertcart, eBay, Kohl's); muitas linhas com link da página da coleção; E. Gluck em Chapter 11 (dez/2025) e comprada pela American Exchange Group (fev/2026); Marcas: I diz fundada 1956 (é a E. Gluck; marca Armitron 1975); J 'Dress Quartz' é genérico"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 100,
-      "marca": "Armourlite",
-      "linha_marcas": 99,
-      "linhas_relogios": "8410-8602",
-      "relogios": 193,
-      "vermelho": true,
-      "site_bloqueado": "parcial",
-      "fontes": 161,
-      "passadas": "P1 139 fontes/189; P2 22/0",
-      "obs": "grande, sozinha; inclui a linha irmã Isobrite (sem linha própria em Marcas); execução anterior (19:40) morreu no limite de uso sem salvar; usuário colou a lista dela (112) e todos os códigos foram cobertos; site oficial lido só por títulos de busca; próxima Arnold & Son (grande, sozinha)"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 101,
-      "marca": "Arnold & Son",
-      "linha_marcas": 100,
-      "linhas_relogios": "8603-8920",
-      "relogios": 318,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 128,
-      "passadas": "P1 81 fontes/269; P2 14/15; P3 33/25",
-      "obs": "grande, sozinha; feita em duas execuções (a primeira morreu no limite de uso; retomada pelos parciais); peças únicas e personalização sob encomenda tornam a lista incompleta (vermelho); Chrono24 só por títulos; muitas refs antigas só com link de página (Essential Watches, Feldmar, EveryWatch); próxima Arsène Lippens"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 102,
-      "marca": "Arsène Lippens",
-      "linha_marcas": 101,
-      "linhas_relogios": "8921-8953",
-      "relogios": 33,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 44,
-      "passadas": "P1 44 fontes/33",
-      "obs": "marca suíça (Genebra), não belga como diz B; site arsenelippens.com (G vazio); inclui edições de comunidade; 6 linhas só com link de página"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 102,
-      "marca": "Art Mecanique",
-      "linha_marcas": 102,
-      "linhas_relogios": "8954-8958",
-      "relogios": 5,
-      "vermelho": false,
-      "site_bloqueado": "art-mecanique.com fora do ar",
-      "fontes": 15,
-      "passadas": "P1 15 fontes/5",
-      "obs": "projeto Kickstarter 2016 (16-01, 7 versões, só 5 identificadas, campanha não financiada); descrição D/I da aba Marcas parece errada"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 102,
-      "marca": "Artauro",
-      "linha_marcas": 103,
-      "linhas_relogios": "8959-8962",
-      "relogios": 4,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 18,
-      "passadas": "P1 18 fontes/4",
-      "obs": "Córdoba (La Carlota), asta de touro; site artauro.es (G vazio) sem nomes/fotos legíveis das coleções Classic/Skeleton; próxima Artefkt"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 103,
-      "marca": "Artefkt",
-      "linha_marcas": 104,
-      "linhas_relogios": "8963-8969",
-      "relogios": 7,
-      "vermelho": false,
-      "site_bloqueado": "parcial: artefktseven.com (site antigo) robots",
-      "fontes": 26,
-      "passadas": "P1 26 fontes/7",
-      "obs": "Detroit (EUA), Brandon Little; site artefktwatches.com (G vazio); Versa XC 5 cores + Trove 1/1 + protótipo A1; Kova anunciado sem foto; B/C/D/I da aba Marcas vazios ou genéricos"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 103,
-      "marca": "Artel Rotec",
-      "linha_marcas": 105,
-      "linhas_relogios": "8970-8975",
-      "relogios": 6,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 18,
-      "passadas": "P1 18 fontes/6",
-      "obs": "Los Angeles (EUA), Matt Roknipour, 2018; catálogo fechado V1-V3 + Sky 4-6 conferido; site artelrotec.com (G vazio)"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 103,
-      "marca": "Arthur Oskar Stampfli",
-      "linha_marcas": 106,
-      "linhas_relogios": "8976-9018",
-      "relogios": 43,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 51,
-      "passadas": "P1 33/33, P2 10/10, P3 8/0",
-      "obs": "AOS Watches, Cressier (NE), Roland Stampfli, 2009/2010; site aos-watches.com (G vazio); 3ª passada só com 8 fontes novas (buscas esgotadas); próxima Artime"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 104,
-      "marca": "Artime",
-      "linha_marcas": 107,
-      "linhas_relogios": "9019-9025",
-      "relogios": 7,
-      "vermelho": false,
-      "site_bloqueado": true,
-      "fontes": 30,
-      "passadas": "P1 30/7",
-      "obs": "Gravada na v104 por execução anterior que caiu antes de atualizar o estado.json; corrigido na execução seguinte"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 105,
-      "marca": "Artisans De Genève",
-      "linha_marcas": 108,
-      "linhas_relogios": "9026-9097",
-      "relogios": 72,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 122,
-      "passadas": "P1 109/72, P2 13/0",
-      "obs": "Ateliê de customização (Genebra, 2005, John Isaac); projetos sobre Rolex/Patek/AP; lista oficial /en/challenges com 3 páginas, só a 1ª alcançável; sem logo; próxima Artur Akmaev"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 106,
-      "marca": "(coluna M)",
-      "obs": "A pedido do usuário: coluna M \"Observações\" criada na aba Marcas com 16 observações de dados errados já relatadas (Aquastar, Archetype, ARC-TIC, Arcturus, Arlanch, Armand Nicolet, Armando Legin, Armida, Armitron, Arsène Lippens, Art Mecanique, Artauro, Artefkt, Artel Rotec, Arthur Oskar Stampfli, Artisans De Genève); nenhuma outra célula mudou"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 107,
-      "marca": "Artur Akmaev",
-      "linha_marcas": 109,
-      "linhas_relogios": "9098-9120",
-      "relogios": 23,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "fontes": 47,
-      "passadas": "P1 36/22, P2 11/1",
-      "obs": "Peças únicas e sob encomenda; site atual akmaev.com (JS, ilegível); refs Masterpiece/Carbon da Arlington Watch Works; sem logo; próxima ArtyA (provavelmente grande)"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 108,
-      "marca": "ArtyA",
-      "linha_marcas": 110,
-      "linhas_relogios": "9121-9583",
-      "relogios": 463,
-      "vermelho": true,
-      "site_bloqueado": "parcial",
-      "fontes": 89,
-      "passadas": "P1 65/417, P2 13/26, P3 11/3",
-      "obs": "Grande (peças únicas, Gears configurável). Site artya.com só achado com busca extended; all-watches p4–8 e store-products-sitemap não alcançados. 147 linhas com link de artigo do Master Horologer e ~240 com link da página oficial (sem foto direta). Próxima: Askania (linha 111)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 109,
-      "marca": "Askania",
-      "linha_marcas": 111,
-      "linhas_relogios": "9584-9833",
-      "relogios": 250,
-      "vermelho": true,
-      "site_bloqueado": "parcial",
-      "fontes": 154,
-      "passadas": "P1 103/213, P2 27/28, P3 24/2",
-      "obs": "Grande. Catálogo 2010 (44 refs antigas), Quadriga 2006–2025 quase completa (falta 2024, se existir), allwatches com refs antigas (Heinkel, Heinkel Blitz, Goliath). ~76 linhas com link de página em vez de foto (askania.berlin deu erro de servidor no fim). Próxima: Aspen (linha 112)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 110,
-      "marca": "Aspen",
-      "linha_marcas": 112,
-      "linhas_relogios": "9834-9905",
-      "relogios": 72,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "fontes": 54,
-      "passadas": "P1 43/38, P2 11/1",
-      "obs": "Duas empresas com o nome: Aspen Jewelry and Watches (luxo, 2009–2014: Aspen One, Black Piste, Downhill GT, Moguls, Zenvo ST1, Gondola, XII) e Aspen quartzo (AP31xx, Shoptictoc/Best Buy Canadá; 41 cores sem referência AP). Asprey (113) e seguintes ficam para as próximas; Asprey tratada como grande."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 111,
-      "marca": "Asprey Watches",
-      "linha_marcas": 113,
-      "linhas_relogios": "9906-10024",
-      "relogios": 119,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 119,
-      "passadas": "P1 78/96, P2 17/7, P3 24/8",
-      "obs": "Grande. Modelos próprios (No. 8 com ~23 refs, Tempus Fugit, Grand Date, Entheus R2) + peças de outras marcas vendidas/assinadas/personalizadas pela Asprey (Patek, Rolex khanjar de Omã, Rolex personalizados 2009–2025, Bamford, Genta, Daniel Roth, Corum, Piaget, AP) + colaborações Andersen. WebFetch parou ~10 min (limite de sessão) às 14:56 UTC. Próxima: Astor + Banks (114)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 112,
-      "marca": "Astor + Banks",
-      "linha_marcas": 114,
-      "linhas_relogios": "10025-10071",
-      "relogios": 47,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 42,
-      "passadas": "P1 42/53 (contagem inclui reclassificações)",
-      "obs": "Chrono 2014, AB1405, AB Clásico, Pilomatic 2016 (50+50), Sea Ranger 2019, Fortitude 2020 (Gilt Navy BLVDier 50), Fortitude Lite/Pro, Sea Ranger M2, Terra Scout 2026. 'Dorado' (grailr) não confirmado."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 112,
-      "marca": "Astronic",
-      "linha_marcas": 115,
-      "linhas_relogios": "10072-10098",
-      "relogios": 27,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 18,
-      "obs": "Usa SKUs STL-117/AVE-64; LEs sem tiragem publicada"
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 112,
-      "marca": "Ataelier Haute Complication",
-      "linha_marcas": 116,
-      "linhas_relogios": "10099-10113",
-      "relogios": 15,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 35,
-      "obs": "Grafia correta; G/H vazios e C genérico registrados na coluna M. Próxima: Atelier de Chronomètrie (117)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 113,
-      "marca": "Atelier de Chronomètrie Watches",
-      "linha_marcas": 117,
-      "linhas_relogios": "10114-10148",
-      "relogios": 35,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 64,
-      "passadas": "P1 49/29; P2 15/0",
-      "obs": "Tratada como grande (peças únicas/sob encomenda), sozinha. Numeração AdC1–AdC37, AdC88, AdC99; buracos 13, 27, 34–36 não achados; AdC10/19/24/26/32 sem foto (link da página oficial). Próxima: Atelier Holgur (118)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 114,
-      "marca": "Atelier Holgur",
-      "linha_marcas": 118,
-      "linhas_relogios": "10149-10152",
-      "relogios": 4,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 17,
-      "obs": "Site oficial não aparece em busca; sem logo."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 114,
-      "marca": "Atelier Jalaper",
-      "linha_marcas": 119,
-      "linhas_relogios": "10153-10162",
-      "relogios": 10,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 22,
-      "obs": "DB5 AJ001/AJ002 S/B, Miura AJ-P400 V/B/O/N, E-Type AJ-003 B/W."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 114,
-      "marca": "Atelier Loiseau",
-      "linha_marcas": 120,
-      "linhas_relogios": "10163-10167",
-      "relogios": 5,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 15,
-      "obs": "1f4 + 4 relógios de bolso históricos de D. Loiseau; Rose des Temps (mesa) e Alpha-Omega (autômato) fora. Próxima: Atelier Millesime (121)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 115,
-      "marca": "Atelier Millesime",
-      "linha_marcas": 121,
-      "linhas_relogios": "10168-10184",
-      "relogios": 17,
-      "vermelho": false,
-      "site_bloqueado": true,
-      "fontes": 19,
-      "obs": "Millésime de Benjamin Chee, renomeada Milléchron (2021); site redireciona para millechron.ch (não aparece em busca)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 115,
-      "marca": "Atelier Nossedh",
-      "linha_marcas": 122,
-      "linhas_relogios": "10185-10190",
-      "relogios": 6,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 17,
-      "obs": "Só o AN.01 Chronograph em 6 mostradores (romanos ou arábicos à escolha)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 115,
-      "marca": "Atelier Wen",
-      "linha_marcas": 123,
-      "linhas_relogios": "10191-10220",
-      "relogios": 30,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 41,
-      "obs": "Próxima: Ateliers deMonaco (124)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 116,
-      "marca": "Ateliers de Monaco",
-      "linha_marcas": 124,
-      "linhas_relogios": "10221-10288",
-      "relogios": 68,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "grande": true,
-      "fontes": 116,
-      "passadas": {
-        "1": {
-          "fontes": 101,
-          "novos": 67
-        },
-        "2": {
-          "fontes": 15,
-          "novos": 1
-        }
-      },
-      "obs": "Bateria só desta marca: a seguinte (Atlantic, 125) é grande (catálogo com códigos tipo 53653.41.93R e vintage extenso) e fica sozinha na próxima execução. Site oficial não aparece em busca."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 117,
-      "marca": "Atlantic",
-      "linha_marcas": 125,
-      "linhas_relogios": "10289-10668",
-      "relogios": 380,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "grande": true,
-      "fontes": 161,
-      "passadas": {
-        "1": {
-          "fontes": 113,
-          "novos_por_fonte": 264
-        },
-        "2": {
-          "fontes": 29,
-          "novos_por_fonte": 8
-        },
-        "3": {
-          "fontes": 19,
-          "novos_por_fonte": 15
-        }
-      },
-      "obs": "93 relógios vieram direto de títulos de resultados de busca (site:watchard.com, site:justintime.in), sobretudo na 2ª passada (+55 no total). Site oficial atlanticwatches.ch não aparece em busca; kuck.pl (342 produtos) só a 1ª página. Próxima: Atowak (126)."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 118,
-      "marca": "Atowak",
-      "linha_marcas": 126,
-      "linhas_relogios": "10669-10713",
-      "relogios": 45,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 92,
-      "passadas": {
-        "1": {
-          "fontes": 92
-        }
-      },
-      "obs": "Bateria só desta marca: a seguinte (Audemars Piguet, 127) é grande e fica sozinha na próxima execução. Windows Pro: só 4 de 7 cores achadas."
-    },
-    {
-      "data": "2026-10-18",
-      "versao": 119,
-      "marca": "Audemars Piguet",
-      "linha_marcas": 127,
-      "linhas_relogios": "10714-12266",
-      "relogios": 1553,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "grande": true,
-      "fontes": 104,
-      "passadas": {
-        "1": {
-          "fontes": 81,
-          "novos_por_fonte": 1486
-        },
-        "2": {
-          "fontes": 13,
-          "novos_por_fonte": 37
-        },
-        "3": {
-          "fontes": 10,
-          "novos_por_fonte": 33
-        }
-      },
-      "fotos": 184,
-      "obs": "Bateria só desta marca (grande). Base: páginas de calibre e de família do WatchBase (sem foto no texto; coluna C com link da ficha/lista), AP Chronicles (vintage), site oficial (fichas sem foto). Só ~184 linhas com foto. Família Royal Oak do WatchBase mostra ~212 de 663 e Offshore ~227 de 379: faltam referências. Chrono24 sem resultados pela busca. Dados do loupe.watch não usados (página pede para IA não reproduzir). Próxima: Audric (128)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 120,
-      "marca": "Audric",
-      "linha_marcas": 128,
-      "linhas_relogios": "12267-12278",
-      "relogios": 12,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 32,
-      "passadas": {
-        "1": {
-          "fontes": 32,
-          "novos_por_fonte": 12
-        }
-      },
-      "obs": "6 SeaBorne com SKU oficial (AUDSEA20xxx) + 6 cores do Strider (Kickstarter 2022 sem sucesso; produção não confirmada). Mostrador meteorito do SeaBorne só anunciado como meta extra: fora."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 120,
-      "marca": "Auffret",
-      "linha_marcas": 129,
-      "linhas_relogios": "12279-12284",
-      "relogios": 6,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 17,
-      "passadas": {
-        "1": {
-          "fontes": 17,
-          "novos_por_fonte": 6
-        }
-      },
-      "obs": "Site oficial não aparece em busca. 3 peças únicas (Nº 00, Giverny Blue Train protótipo, Only Watch 2023 com Petermann Bédat). Próxima: Auguste Reymond (130), tratada como grande (marca de 1898 com linha atual extensa e vintage A. Reymond/ARSA) e fica sozinha."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 121,
-      "marca": "Auguste Reymond",
-      "linha_marcas": 130,
-      "linhas_relogios": "12285-12438",
-      "relogios": 154,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "grande": true,
-      "fontes": 118,
-      "passadas": {
-        "1": {
-          "fontes": 91,
-          "novos_por_fonte": 121
-        },
-        "2": {
-          "fontes": 14,
-          "novos_por_fonte": 13
-        },
-        "3": {
-          "fontes": 13,
-          "novos_por_fonte": 5
-        }
-      },
-      "obs": "Bateria só desta marca (grande). Site oficial augustereymond.ch não aparece em buscas (L). Base: Delugs (Unity 51, Origin 6, Heritage), The Watch Pages, Europa Star, Masterhorologer, Watchilove, Century (dona), eBay Peru, Watchnet. Vintage ARSA muito extenso e sem nomes; ~11 nomes Europa Star só com link da ficha. Próxima: Augustin Matei (131)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 122,
-      "marca": "Augustin Matei",
-      "linha_marcas": 131,
-      "linhas_relogios": "12439-12546",
-      "relogios": 108,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 57,
-      "passadas": {
-        "1": {
-          "fontes": 47,
-          "novos_por_fonte": 96
-        },
-        "2": {
-          "fontes": 10,
-          "novos_por_fonte": 0
-        }
-      },
-      "obs": "Bateria só desta marca (peças únicas sob encomenda = grande). Site oficial augustinwatches.com (G vazio). Páginas de produto do site não aparecem nas buscas: ~25 peças ficaram com link da página em vez de foto. Instagram/Facebook/TikTok/Pinterest bloqueados. Próxima: Aurelia Horology (132), depois Auricoste (133, provável grande)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 123,
-      "marca": "Aurelia Horology",
-      "linha_marcas": 132,
-      "linhas_relogios": "12547-12551",
-      "relogios": 5,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 24,
-      "passadas": {
-        "1": {
-          "fontes": 24,
-          "novos_por_fonte": 5
-        }
-      },
-      "obs": "Marca austríaca (Langau, 2024), catálogo fechado: site oficial e WatchPolice batem em 5 modelos. Auricoste (133) tratada como grande e fica sozinha na próxima execução. Fora: peça de ~30 mil euros para sorteio do Rotary Club Geras (sem nome/foto); Deadbeat Seconds e Tourbillon 1 anunciados."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 124,
-      "marca": "Auricoste",
-      "linha_marcas": 133,
-      "linhas_relogios": "12552-12590",
-      "relogios": 39,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "grande": true,
-      "fontes": 76,
-      "passadas": {
-        "1": {
-          "fontes": 65,
-          "novos_por_fonte": 58
-        },
-        "2": {
-          "fontes": 11,
-          "novos_por_fonte": 0
-        }
-      },
-      "obs": "Bateria só desta marca (grande: vintage Type 20 + reedições). Site atual auricoste.com (G diz .fr); páginas internas não aparecem em buscas (L parcial). Base: Chadourne (refs), Ocarat, Tempus, Europa Star, Antiquorum, Drouot, Finarte, Dialicious. Fora: relógios de bolso, relógios de bordo/comparação e cronômetros de marinha. Próxima: Autodromo (134)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 125,
-      "marca": "Autodromo",
-      "linha_marcas": 134,
-      "linhas_relogios": "12591-12673",
-      "relogios": 83,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 83,
-      "passadas": {
-        "1": {
-          "fontes": 63,
-          "novos_por_fonte": 86
-        },
-        "2": {
-          "fontes": 20,
-          "novos_por_fonte": 0
-        }
-      },
-      "obs": "Bateria só desta marca (grande: 2011–2026, muitas cores e edições). Base: arquivo oficial do site (52 variantes 2011–2019) + imprensa para 2020–2026. Vermelha: Ford GT Owner's Edition configurável por carro e edições não confirmadas. Vivir.com descartado (conteúdo duvidoso). Sem logo. Próxima: Avakian (135)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 126,
-      "marca": "Avakian",
-      "linha_marcas": 135,
-      "linhas_relogios": "12674-12686",
-      "relogios": 13,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 18,
-      "passadas": {
-        "1": {
-          "fontes": 18,
-          "novos_por_fonte": 13
-        }
-      },
-      "obs": "Joalheria de Genebra; 3 linhas de relógio: Concept 1 (2008, masc.), Lady Concept (2017), Tzarina (1998). Site avakian.com não apareceu em buscas. Sem logo."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 126,
-      "marca": "Avel & Men",
-      "linha_marcas": 136,
-      "linhas_relogios": "",
-      "relogios": 0,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 15,
-      "passadas": {
-        "1": {
-          "fontes": 15,
-          "novos_por_fonte": 0
-        }
-      },
-      "obs": "Não fabrica relógios (só pulseiras e estojos). 0 linhas; script não rodado (não aceita marca sem linhas), então a coluna M não foi gravada — observação só no relatório e em historico/marca_avel.json."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 126,
-      "marca": "Avenir",
-      "linha_marcas": 137,
-      "linhas_relogios": "12687-12690",
-      "relogios": 4,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 15,
-      "passadas": {
-        "1": {
-          "fontes": 15,
-          "novos_por_fonte": 4
-        }
-      },
-      "obs": "Identificação incerta: único achado Avenir Chrono Boss Premiere (c. 2010, Rafaello & Co., NY). Próxima: Aventi (138)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 127,
-      "marca": "Aventi",
-      "linha_marcas": 138,
-      "linhas_relogios": "12691-12707",
-      "relogios": 17,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 40,
-      "passadas": {
-        "1": {
-          "fontes": 40,
-          "novos": 17
-        }
-      },
-      "obs": "Bateria só com Aventi: a próxima (AVI-8, 139) é grande e fica sozinha. Site aventi.com em transição (mudou de dono). Buracos: A11-03/A11-04 e códigos A10-02..07 não mapeados. 'Pink Champagne' (J) não achado."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 128,
-      "marca": "AVI-8",
-      "linha_marcas": 139,
-      "linhas_relogios": "12708-13137",
-      "relogios": 430,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 160,
-      "passadas": {
-        "1": {
-          "fontes": 131,
-          "novos": 411
-        },
-        "2": {
-          "fontes": 16,
-          "novos": 8
-        },
-        "3": {
-          "fontes": 13,
-          "novos": 11
-        }
-      },
-      "obs": "Bateria só com AVI-8 (grande). Vermelha: linhas antigas 2012-2016 com cores sem nome/foto; TIME Watches (246 produtos) só pág. 1 alcançada; EveryWatch/Chrono24 não indexados. 224 linhas com link de página em vez de foto. Próxima: Aviator (140)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 129,
-      "marca": "AVI-8",
-      "linha_marcas": 139,
-      "linhas_relogios": "12708-13315",
-      "relogios": 608,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 74,
-      "complemento": true,
-      "passadas": {
-        "4": {
-          "fontes": 74,
-          "novos": 179
-        }
-      },
-      "obs": "4ª passada a pedido do usuário: +179 relógios (608 no total); ~60 nomes de cor corrigidos e 7 fotos melhoradas nas linhas já gravadas; 1 linha duplicada removida (Charcoal Ember Brown = AV-4052-02). Novas linhas antigas: Curtiss Tomahawk, Seafire AV-4030/4033, Lancaster AV-4020/4022/4024/4035, Hunter AV-4007/4008/4009/4018, Flyboy Cadet AV-4028, Sabiha Gökçen, Operation Catechism. Próxima: Aviator (140)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 130,
-      "marca": "Aventi",
-      "linha_marcas": 138,
-      "relogios": 19,
-      "vermelho": false,
-      "complemento": true,
-      "passadas": {
-        "2": {
-          "fontes": 23,
-          "novos": 2
-        }
-      },
-      "obs": "2ª passada a pedido: +A11-01SE (página oficial) e A-10 A10-06 (BQ); Enygma corrigido para A18-01 (Escapement). Linhas Aventi 12691-12709 (AVI-8 deslocada +2)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 131,
-      "marca": "Aviator",
-      "linha_marcas": 140,
-      "linhas_relogios": "13318-13754",
-      "relogios": 437,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 112,
-      "passadas": {
-        "1": {
-          "fontes": 86,
-          "novos": 419
-        },
-        "2": {
-          "fontes": 16,
-          "novos": 9
-        },
-        "3": {
-          "fontes": 10,
-          "novos": 4
-        }
-      },
-      "obs": "Bateria só com Aviator (grande). Site atual aviatorwatch.swiss (8 coleções, ~330 refs, fotos pelo padrão do CDN conferido em 1 produto por modelo). Vermelha: linha antiga 2002-2018 (Kingcobra, MIG-21/25/29/35, Propeller, Professional, Vintage, Airacobra V.1.11/V.2.13/V.3.21) incompleta; watchard (319) e egowatch.ru (94) só pág. 1. EveryWatch/Chrono24 não indexados. Próxima: Awake (141)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 132,
-      "marca": "Aviator",
-      "linha_marcas": 140,
-      "obs": "Correção a pedido ('corrija'): G140 → aviatorwatch.swiss; I140 reescrito (fundada em 2000, relançada 2002; Volmax é distribuidora, fabrica Sturmanskie; Swiss Made já em 2013; coleções atuais e antigas; tirado '[⚠️ verificar]'); J140 marca MIG-25 Foxbat e Kingcobra como descontinuados; M140 limpo."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 133,
-      "marca": "Awake",
-      "linha_marcas": 141,
-      "linhas_relogios": "13755-13809",
-      "relogios": 55,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 73,
-      "passadas": {
-        "1": {
-          "fontes": 59,
-          "novos": 52
-        },
-        "2": {
-          "fontes": 14,
-          "novos": 3
-        }
-      },
-      "obs": "Bateria só com Awake: AXIA Time (142) é grande (relógios comemorativos customizados por time/universidade) e fica sozinha na próxima. Site real awakewatches.com. Vermelha: edições militares de 2020 (Marine Nationale etc.) sem nome achado; cores da La Bleue e da AW.01 incompletas. Próxima: AXIA Time (142)."
-    },
-    {
-      "data": "2026-10-19",
-      "marca": "AXIA Time",
-      "linha_marcas": 142,
-      "linhas_relogios": "13810-14002",
-      "relogios": 193,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 151,
-      "passadas": {
-        "1": [
-          127,
-          181
-        ],
-        "2": [
-          14,
-          5
-        ],
-        "3": [
-          10,
-          5
-        ]
-      }
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 135,
-      "marca": "Axios",
-      "linha_marcas": 143,
-      "linhas_relogios": "14003-14031",
-      "relogios": 29,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 38,
-      "passadas": {
-        "1": [
-          38,
-          29
-        ]
-      },
-      "obs": "catálogo fechado: site oficial (30 itens com correias de fora = 29 relógios) bate com Kickstarter e lojas"
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 135,
-      "marca": "Ayers Watches",
-      "linha_marcas": 144,
-      "linhas_relogios": "14032-14035",
-      "relogios": 4,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 15,
-      "passadas": {
-        "1": [
-          15,
-          4
-        ]
-      },
-      "obs": "só o Metropolitan MT-01..04 (300 peças); domínio ayerswatches.com agora é de outra empresa"
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 135,
-      "marca": "Azad",
-      "linha_marcas": 145,
-      "linhas_relogios": "14036-14107",
-      "relogios": 72,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "fontes": 43,
-      "passadas": {
-        "1": [
-          33,
-          70
-        ],
-        "2": [
-          10,
-          2
-        ]
-      },
-      "obs": "loja Shopify 66 produtos completa; vermelha por peças sob encomenda e edições Legends of the Game/coleção 2009 sem lista. Próxima: Azimuth (146), grande."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 136,
-      "marca": "Axios, Ayers Watches, Azad",
-      "linha_marcas": "143-145",
-      "obs": "Correção a pedido: I143 reescrito (fundadores Elshan Tang, Stuart Ho, Justin Chiam; coleções reais; sem David Ngo/Deepsea; tirado '[⚠️ verificar]'), J143 → Ironclad 40, Flagship 40, Pathfinder 40, Tribune 38; I144 com MT-01..04/300 peças e domínio perdido, J144 → Metropolitan (MT-01 a MT-04); I145 com fundador Babak 'Bobby' Ermankhah e datas 2005/2008, coleção 2009 e homenageados, J145 completo; M143-M145 limpos. G144 mantido (ayerswatches.com, hoje de outra empresa — anotado em I)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 137,
-      "marca": "Azimuth",
-      "linha_marcas": 146,
-      "linhas_relogios": "14108-14250",
-      "relogios": 143,
-      "vermelho": true,
-      "site_bloqueado": "parcial",
-      "grande": true,
-      "fontes": 140,
-      "passadas": {
-        "1": [
-          125,
-          139
-        ],
-        "2": [
-          15,
-          4
-        ]
-      },
-      "obs": "site oficial azimuthwatch.com (Wix) só achado via busca; Chrono24 não abre (usados EveryWatch 517 anúncios, eBay, Carousell); vermelha por peças únicas Bronzo Artist Series/Battle Tank e centenas de variantes sem nome. Próxima: B.R.M (147)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 138,
-      "marca": "B.R.M",
-      "linha_marcas": 147,
-      "linhas_relogios": "14251-14677",
-      "relogios": 427,
-      "vermelho": true,
-      "site_bloqueado": "parcial",
-      "grande": true,
-      "fontes": 137,
-      "passadas": {
-        "1": [
-          108,
-          220
-        ],
-        "2": [
-          16,
-          213
-        ],
-        "3": [
-          13,
-          4
-        ]
-      },
-      "obs": "catálogo oficial 'Watches' (280 de 326 itens) + loja/imprensa/leilões; vermelha por configurador e ~450 produtos no catálogo da API sem acesso; maioria das linhas oficiais com link da página (sem foto). Próxima: BA111OD (148)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 139,
-      "marca": "BA111OD",
-      "linha_marcas": 148,
-      "linhas_relogios": "14678-14765",
-      "relogios": 88,
-      "vermelho": false,
-      "site_bloqueado": "",
-      "grande": true,
-      "fontes": 73,
-      "passadas": {
-        "1": [
-          73,
-          88
-        ]
-      },
-      "obs": "sozinha porque a seguinte (Backes & Strauss, 149) é grande (TWP 126 relógios); tratada como grande na dúvida. Site oficial Shopify (loja atual ~20 relógios) + sala de imprensa (38 kits) + páginas ocultas por busca + TWP (76) + Nicols/Ocarat/Watchmakers United/Helvetica + imprensa. M148: J 'Chapter 2 Veblen Dilemma' errado. Próxima: Backes & Strauss (149)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 140,
-      "marca": "Backes & Strauss",
-      "linha_marcas": 149,
-      "linhas_relogios": "14766-15034",
-      "relogios": 269,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "grande": true,
-      "fontes": 127,
-      "passadas": {
-        "1": [
-          97,
-          217
-        ],
-        "2": [
-          13,
-          13
-        ],
-        "3": [
-          17,
-          10
-        ]
-      },
-      "obs": "sozinha (grande: TWP 126). Site oficial Squarespace (loja + produtos ocultos por busca, Masterpieces, Limited Editions, Royal, press-room, brand-news) + TWP + Jura/Whamond/Sellors + Watchonista + Masterhorologer (2009-2022) + Gressive (Japão) + leilões. Vermelha: combinações de ouro/diamantes sem lista, peças sob medida, Alves Trophy (42) e Vitesse sem lista. M149: J incompleta. Próxima: Badger Watches (150)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 141,
-      "marca": "Azimuth",
-      "linha_marcas": 146,
-      "obs": "Correção a pedido: H146 → @azimuthwatch; I146 reescrito com dados conferidos (2003 Singapura, Christopher Long e Alvin Lye, 1º modelo Bombardier I 2004, Neuchâtel/Giuseppe Picchi, datas de Spaceship/Mr. Roboto/Back in Time) e sem '[⚠️ verificar]'; M146 limpo."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 142,
-      "marca": "Badger Watches",
-      "linha_marcas": 150,
-      "linhas_relogios": "15035-15038",
-      "relogios": 4,
-      "vermelho": false,
-      "site_bloqueado": "",
-      "grande": false,
-      "fontes": 15,
-      "passadas": {
-        "1": [
-          15,
-          4
-        ]
-      },
-      "obs": "Badger de Singapura (Leroy Zhong, Islander 2019, Kickstarter); série única com 4 versões (site oficial = Kickstarter = imprensa). Badger Outdoor (outra marca) não entrou. M150 preenchido."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 142,
-      "marca": "Badollet",
-      "linha_marcas": 151,
-      "linhas_relogios": "15039-15081",
-      "relogios": 43,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "grande": true,
-      "fontes": 62,
-      "passadas": {
-        "1": [
-          51,
-          43
-        ],
-        "2": [
-          11,
-          0
-        ]
-      },
-      "obs": "tratada como grande (peças personalizadas); começou como pequena junto com Badger. Vermelha: combinações de pedra/anel/metal personalizadas sem lista; relógios de bolso antigos (J.-M./J.-J. Badollet & Cie) não entraram. Próxima: Ball (152, grande)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 143,
-      "marca": "Ball",
-      "linha_marcas": 152,
-      "linhas_relogios": "15082-16131",
-      "relogios": 1050,
-      "vermelho": true,
-      "site_bloqueado": "Parcial – ballwatch.com (paginação das coleções)",
-      "grande": true,
-      "fontes": 112,
-      "passadas": {
-        "1": [
-          83,
-          701
-        ],
-        "2": [
-          17,
-          148
-        ],
-        "3": [
-          12,
-          8
-        ]
-      },
-      "obs": "sozinha (grande: TWP 701, Hourstriker 441, catálogo oficial 466 configs). Site oficial (watchfinder, coleções p1, EIII p2, fichas antigas /global/) + TWP + Hourstriker + WatchBase + Exquisite (10 págs) + Jura/Whamond/Sellors + Gnomon + Tourneau/WatchMaxx (títulos) + eBay + Piazo/Rasin/Gressive (Japão) + vintage (1stDibs, Heritage, Omega Forums) + relógios de bolso (PWDB, Jones & Horan). ~485 linhas com link de página no lugar da foto; 32 sem código. Vermelha: relógios de bolso (dezenas de graus), vintage sem referência, centenas de variações descontinuadas. M152 preenchido. Próxima: Ballast (153)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 144,
-      "marca": "Ballast",
-      "linha_marcas": 153,
-      "linhas_relogios": "16132-16330",
-      "relogios": 199,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "grande": true,
-      "fontes": 105,
-      "passadas": {
-        "1": [
-          76,
-          133
-        ],
-        "2": [
-          18,
-          7
-        ],
-        "3": [
-          11,
-          1
-        ]
-      },
-      "obs": "sozinha (grande: ~40 famílias BL-31xx/51xx desde 2012). Site oficial real ballast1903.com (G diz ballastwatches.com). Fontes: site oficial (coleções, all p1-p2, imprensa, manual), Timepiece, allwatches p1, Yodobashi (JP), Klaus Kobec, Ashford, Conteenium, eBay, Jamtangan, WatchMaxx. ~92 linhas com link de página no lugar da foto; ~58 códigos vieram só de títulos de busca. Vermelha: sufixos de cor faltando nas famílias antigas (3101-3132, 51xx), Jolly Roger versão preta e Trafalgar LE 500 sem código. M153 preenchido. Próxima: Balmain (154)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 145,
-      "marca": "Ball",
-      "linha_marcas": 152,
-      "obs": "Correção a pedido: I152 sem '[⚠️ verificar]' (fundação 1891 conferida e acrescentada); J152 + Engineer III, Engineer M, Conductor; M152 limpo."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 146,
-      "marca": "Ballast",
-      "linha_marcas": 153,
-      "obs": "Correção a pedido: B153 China→Hong Kong; G153 ballastwatches.com→ballast1903.com; I153 sem '[⚠️ verificar]' (Solar Time Ltd, Hong Kong, identidade britânica); J153 + Perisher, Torbay, Vanguard, Jolly Roger; M153 limpo."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 147,
-      "marca": "Balmain",
-      "linha_marcas": 154,
-      "linhas_relogios": "16331-16789",
-      "relogios": 459,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "grande": true,
-      "fontes": 115,
-      "passadas": {
-        "1": [
-          78,
-          275
-        ],
-        "2": [
-          26,
-          21
-        ],
-        "3": [
-          11,
-          6
-        ]
-      },
-      "obs": "sozinha (grande: Swatch Group desde 1987/1995; watch.co.uk 225, luxoia 412, ocarat 182 produtos). Site oficial (fichas via busca, páginas de novidades, catálogo 2026/27), ocarat p1/2/4/5, luxoia p1, watch.co.uk p1, uhrenschmuck24, Kamal, Ashford (≈30 refs antigas: Arcade, Ovation, Bellafina, Elysees), Yodobashi (20 refs antigas), theluxurycloset/1stdibs (refs de 4 dígitos), Europa Star, vintagewatchroom (Pierre Balmain anos 1970). ~214 linhas com link de página no lugar da foto; ~150 códigos vieram só de títulos de busca. Vermelha: páginas 2-8 watch.co.uk e 2-11 luxoia inalcançáveis, centenas de refs descontinuadas (Ashford/eBay/Japão) e 1ª coleção de 1987 sem nomes. M154 preenchido. Próxima: Balmont (155)."
-    },
-    {
-      "data": "2026-10-19",
-      "versao": 148,
-      "marca": "Balmont",
-      "linha_marcas": 155,
-      "linhas_relogios": "16790-16801",
-      "relogios": 12,
-      "vermelho": false,
-      "site_bloqueado": "",
-      "grande": false,
-      "fontes": 30,
-      "passadas": {
-        "1": [
-          30,
-          12
-        ]
-      },
-      "obs": "sozinha: a seguinte, Baltic (156), foi dimensionada como GRANDE (muitas variações e edições desde 2017) e fica sozinha na próxima execução. Catálogo pequeno: BDX001-004, 006, 007, LAX001 (100 peças), LAX002/003/004/007 (só no catálogo, páginas inalcançáveis por busca) e a peça única Mission Alpha. Coleções 'archives' e 'lax' do site não apareceram em busca. M155 preenchido. Próxima: Baltic (156)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 149,
-      "marca": "Baltic",
-      "linha_marcas": 156,
-      "linhas_relogios": "16802-16945",
-      "relogios": 144,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "grande": true,
-      "fontes": 111,
-      "passadas": {
-        "1": [
-          96,
-          141
-        ],
-        "2": [
-          15,
-          1
-        ]
-      },
-      "obs": "sozinha (grande: EveryWatch 201 à venda/2.340 vendidos; 66 no catálogo + 35 entradas de arquivo). Site oficial (catálogo, arquivo 2017-2026, páginas ocultas via busca), Time+Tide US/UK/AU, Kickstarter 2017 (6 cores HMS 001 e Bicompax 001), colaborações (Perpétuel, Revolution, Worn & Wound, A Collected Man, WoS, H°M'S Japão, Bangladesh Watch Club, SpaceOne, Only Watch, TimeForArt). Marca identifica por nome; refs internas (HMS13CSALM37, TRI11PAND38, HDM11TTCA99, PRI12TFA16, QP01) só onde lojas/leilões mostraram. Vermelha: refs internas não publicadas, página 2 de WoS no arquivo inalcançável, Bicompax 001 DLC Gilt e GMT MK-II sem foto, possíveis edições de lojas não achadas. Rally Timer 2026 (não é de pulso) incluído. M156 preenchido. Próxima: Bamford (157)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 150,
-      "marca": "Baltic",
-      "linha_marcas": 156,
-      "linhas_relogios": "16802-16946",
-      "relogios": 145,
-      "vermelho": true,
-      "complemento": true,
-      "fontes": 37,
-      "passadas": {
-        "3": [
-          37,
-          1
-        ]
-      },
-      "obs": "3a passada a pedido: +1 (Stepgraph protótipo em tântalo 'Art of the earth', TimeForArt 2026, peça única) e melhorias em 21 linhas (fotos GMT MK-II e Seconde Majeure; MR01 'Oracle' West Wood Time 300 peças; Tricompax Tropical 200 peças; Heures du Monde 1a série 200 peças; numeração 1a série Tourer). Lojistas oficiais (30) checados: Red Army SG/MY, West Wood Time HK, Delugs, H°M'S. Chrono24 e Long Beach Watch Club não abriram. Próxima continua Bamford (157)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 151,
-      "marca": "Bamford",
-      "linha_marcas": 157,
-      "linhas_relogios": "16947-17197",
-      "relogios": 251,
-      "vermelho": true,
-      "site_bloqueado": "",
-      "grande": true,
-      "fontes": 175,
-      "passadas": {
-        "1": [
-          142,
-          243
-        ],
-        "2": [
-          20,
-          5
-        ],
-        "3": [
-          13,
-          3
-        ]
-      },
-      "obs": "sozinha (grande). Bamford London (GMT, B347, B80, D-300, Mayfair, Mayfair 2.0, Mayfair Sport, Nepro) + colaborações Bamford Watch Department (TAG Heuer, Zenith, Bulgari, GP, Franck Muller, Chopard, Bremont, Oris, Seiko, FC, Corum, G-Shock) + Rolex personalizados vistos em leilões. Vermelha: configurador, Rolex sob encomenda, 15 peças únicas Fordite, páginas 2 das coleções/blog inalcançáveis. 4 relógios de mesa GMT fora. M157 preenchido. Próxima: Bangalore Watch Company (158)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 152,
-      "marca": "Bangalore Watch Company",
-      "linha_marcas": 158,
-      "linhas_relogios": "17198-17243",
-      "relogios": 46,
-      "vermelho": false,
-      "site_bloqueado": "",
-      "grande": false,
-      "fontes": 71,
-      "passadas": {
-        "1": [
-          71,
-          46
-        ]
-      },
-      "obs": "site oficial (27 relógios atuais) + aposentados via imprensa: Renaissance Automatic (6) e Stri (5) de 2018, MACH 1 1ª geração 42 mm (6, inclusive Officer's Blue 2020), Apogee 2021 em titânio (Deep Space, Extraterrestrial). Forty Seven é relógio de bolso (incluído). Não usa códigos. M158 preenchido."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 152,
-      "marca": "Barrelhand Project 1",
-      "linha_marcas": 159,
-      "linhas_relogios": "17244-17247",
-      "relogios": 4,
-      "vermelho": false,
-      "site_bloqueado": "",
-      "grande": false,
-      "fontes": 17,
-      "passadas": {
-        "1": [
-          17,
-          4
-        ]
-      },
-      "obs": "Project 1 (20 peças), protótipo Project 1 (2017), Monolith, Monolith Professional (EVA). Sem logo achado. M159 preenchido."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 152,
-      "marca": "Barrington Griffiths Watch Company",
-      "linha_marcas": 160,
-      "linhas_relogios": "17248-17259",
-      "relogios": 12,
-      "vermelho": false,
-      "site_bloqueado": "",
-      "grande": false,
-      "fontes": 26,
-      "passadas": {
-        "1": [
-          26,
-          12
-        ]
-      },
-      "obs": "Modern Classic (4 cores), Sandon Original (2), Sandon 2.0 (2), Sandon 34, Viamastra, Radian 34 mm, Edição CSP. Loja oficial carrega por JavaScript (produtos invisíveis à leitura). M160 preenchido. Próxima: Batavi (161)."
-    },
-    {
-      "data": "2026-10-20",
-      "marca": "Batavi",
-      "linha_marcas": 161,
-      "linhas_relogios": "17260-17287",
-      "relogios": 28,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "fontes": 43
-    },
-    {
-      "data": "2026-10-20",
-      "marca": "Bathys",
-      "linha_marcas": 162,
-      "linhas_relogios": "17288-17311",
-      "relogios": 24,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "fontes": 50,
-      "passadas": "1: 28 fontes/18; 2: 12/5; 3: 10/1"
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 154,
-      "marca": "Baume & Mercier",
-      "linha_marcas": 163,
-      "linhas_relogios": "17312-18150",
-      "relogios": 839,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 166,
-      "passadas": {
-        "1": [
-          131,
-          724
-        ],
-        "2": [
-          22,
-          55
-        ],
-        "3": [
-          13,
-          9
-        ]
-      },
-      "obs": "Marca grande, feita sozinha. 173 atuais do site oficial (C = página oficial quando sem foto) + descontinuados (WatchBase, Essential Watches, The Watch Pages, eBay, CollectorSquare, leilões). ~470 linhas com link de página em vez de foto. Chrono24 e EveryWatch não apareceram nas buscas. M163: venda ao Damiani Group (2026). Próxima: Bausele (164)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 155,
-      "marca": "Bausele",
-      "linha_marcas": 164,
-      "linhas_relogios": "18151-18255",
-      "relogios": 105,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 95,
-      "passadas": {
-        "1": [
-          82,
-          110
-        ],
-        "2": [
-          13,
-          4
-        ]
-      },
-      "obs": "Tratada como grande (Terra Australis configurável com 850 combinações; >100 modelos desde 2011), feita sozinha. Vermelha: OceanMoon III tinha 5 versões (só The Drift achada), OceanMoon I sem versões nomeadas, encomendas militares privadas. Chrono24 e EveryWatch não apareceram nas buscas. Próxima: Bavarian Crono (165), depois BCHH (166)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 156,
-      "marca": "Bavarian Crono",
-      "linha_marcas": 165,
-      "linhas_relogios": "18256-18284",
-      "relogios": 29,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "grande": false,
-      "fontes": 31,
-      "passadas": {
-        "1": [
-          20,
-          26
-        ],
-        "2": [
-          11,
-          3
-        ]
-      },
-      "obs": "Relógios-velocímetro de carros clássicos. Loja oficial bavarian-crono.de não abre; eBay não abre. Sem códigos (BC/42 e BC/60 são caixas)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 156,
-      "marca": "BCHH",
-      "linha_marcas": 166,
-      "linhas_relogios": "18285-18311",
-      "relogios": 27,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 45,
-      "passadas": {
-        "1": [
-          31,
-          26
-        ],
-        "2": [
-          14,
-          1
-        ]
-      },
-      "obs": "Tratada como grande (sob encomenda, peças únicas). Inclui o relógio de mesa Celestial Infinity. 3 das 7 peças-conceito de 2021 sem nome conhecido. Beaubleu (167) adiada para a próxima execução."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 157,
-      "marca": "Beaubleu",
-      "linha_marcas": 167,
-      "linhas_relogios": "18312-18352",
-      "relogios": 41,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 54,
-      "passadas": {
-        "1": [
-          54,
-          43
-        ]
-      },
-      "obs": "Site real beaubleu-paris.com (G aponta beaubleu.com). Catálogo fechado: B01 4, Union 7, Vitruve 6, Ecce 3, Ecce Figura 6, Seconde Française 6, La Pièce 9."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 157,
-      "marca": "Beaucroft",
-      "linha_marcas": 168,
-      "linhas_relogios": "18353-18389",
-      "relogios": 37,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 40,
-      "passadas": {
-        "1": [
-          40,
-          37
-        ]
-      },
-      "obs": "Inclui Senate (2022, páginas ocultas), Bespoke (Kickstarter 2023) e edições Penfold, BWD, Solaris GMT (Time+Tide), The Punk."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 157,
-      "marca": "Beaufort",
-      "linha_marcas": 169,
-      "linhas_relogios": "18390-18455",
-      "relogios": 66,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 61,
-      "passadas": {
-        "1": [
-          61,
-          63
-        ]
-      },
-      "obs": "Revelou-se grande (peças únicas Permian Rift: 20 obsidiana S01-S20, 14 azurita A01-A14, 1 jaspe; fotos associadas pelo nº do arquivo). Site beaufort-watches.com (G vazio) só apareceu em busca estendida."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 158,
-      "marca": "Beauregard",
-      "linha_marcas": 170,
-      "linhas_relogios": "18456-18516",
-      "relogios": 61,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 59,
-      "passadas": {
-        "1": [
-          59,
-          61
-        ]
-      },
-      "obs": "Tratada como grande (Dahlias peças únicas por pedra; Lili/Lili Bouton 8 pedras × 2 ouros). Catálogo conferido pela página Download do site e pela coleção da Oster Jewelers. Próximas: Beda'a (pequena) e Bedat & Co (provável grande)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 159,
-      "marca": "Beda'a",
-      "linha_marcas": 171,
-      "linhas_relogios": "18517-18562",
-      "relogios": 46,
-      "vermelho": false,
-      "site_bloqueado": false,
-      "grande": false,
-      "fontes": 71,
-      "passadas": {
-        "1": [
-          71,
-          46
-        ]
-      },
-      "obs": "Site oficial real bedaawatches.com (G errado). Catálogo conferido com loja oficial, arquivo de edições limitadas e loja Time Keeper (Kuwait). Bedat & Co (172) tratada como grande: fica sozinha na próxima execução."
-    },
-    {
-      "data": "2026-10-20",
-      "marca": "Bedat & Co",
-      "linha_marcas": 172,
-      "linhas_relogios": "18563-19067",
-      "relogios": 505,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "fontes": 142,
-      "passadas": {
-        "1": {
-          "fontes": 118,
-          "novos": 319
-        },
-        "2": {
-          "fontes": 24,
-          "novos": 3
-        }
-      }
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 161,
-      "marca": "Behrens",
-      "linha_marcas": 173,
-      "linhas_relogios": "19068-19165",
-      "relogios": 98,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 168,
-      "passadas": {
-        "1": {
-          "fontes": 123,
-          "novos": 93
-        },
-        "2": {
-          "fontes": 33,
-          "novos": 7
-        },
-        "3": {
-          "fontes": 12,
-          "novos": 0
-        }
-      },
-      "obs": "Site oficial real behrenswatches.com + loja behrenswatches.shop (G errado; só aparecem em busca 'extended'). Catálogo atual oficial conferido. Vermelha: linhas antigas (Star Trek, Navigator, Starship 1ª geração, Astronomer) e ~83 itens da chinawatchshop sem título não listáveis. Próxima: Beijing Watch Factory (174), provável grande."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 162,
-      "marca": "Beijing Watch Factory",
-      "linha_marcas": 174,
-      "linhas_relogios": "19166-19662",
-      "relogios": 497,
-      "vermelho": true,
-      "site_bloqueado": true,
-      "grande": true,
-      "fontes": 197,
-      "passadas": {
-        "1": {
-          "fontes": 135,
-          "novos": 126
-        },
-        "2": {
-          "fontes": 40,
-          "novos": 267
-        },
-        "3": {
-          "fontes": 22,
-          "novos": 57
-        }
-      },
-      "obs": "Site oficial beijingwatch.com bloqueado (https→http em laço, robots); ~95 modelos entraram pelos títulos de busca com link da página. Base principal: xbiao.com (585 modelos listados; ~320 alcançados, paginação em JavaScript). Loja internacional beijingwatches.com e chinawatchshop. Vermelha: ~250 modelos do xbiao e centenas de itens do site oficial não alcançáveis; vintage sem referências. Próxima: Bell & Ross (175), grande."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 163,
-      "marca": "Bell & Ross",
-      "linha_marcas": 175,
-      "linhas_relogios": "19663-20333",
-      "relogios": 671,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 203,
-      "passadas": {
-        "1": {
-          "fontes": 165,
-          "novos": 653
-        },
-        "2": {
-          "fontes": 27,
-          "novos": 53
-        },
-        "3": {
-          "fontes": 11,
-          "novos": 3
-        }
-      },
-      "obs": "Site oficial bellross.com (Shopify) abre; fichas de produtos antigos achadas por busca. Base: WatchBase (br-01, br-03, vintage, marine), coleção oficial Other Collections (100 refs), Essential Watches (arquivo 1995–2015), Hourstriker, Exquisite, The Watch Company. Só 273 de 671 com foto; o resto tem link da página. Vermelha: arquivo oficial de 789 produtos (40 págs) inalcançável, BR S (89 oficiais), variantes antigas sem refs. Fundação divergente (1994 x 1992) anotada em M. Próxima: Belmoto (176)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 164,
-      "marca": "Belmoto",
-      "linha_marcas": 176,
-      "linhas_relogios": "20334-20340",
-      "relogios": 7,
-      "vermelho": false,
-      "site_bloqueado": true,
-      "grande": false,
-      "fontes": 25,
-      "passadas": {
-        "1": {
-          "fontes": 25,
-          "novos": 6
-        }
-      },
-      "obs": "Site belmoto.gt bloqueado (robots); loja oficial dentro de magrette.com. Catálogo fechado: 3 Tourer + 4 Track-Day = lançamento dez/2015. Bateria só com a Belmoto porque a seguinte, Benarus (177), foi tratada como grande (ver historico/notas_benarus_dimensionamento.md). Próxima: Benarus (177), sozinha."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 165,
-      "marca": "Benarus",
-      "linha_marcas": 177,
-      "linhas_relogios": "20341-20520",
-      "relogios": 180,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 164,
-      "passadas": {
-        "1": {
-          "fontes": 136,
-          "novos": 167
-        },
-        "2": {
-          "fontes": 16,
-          "novos": 8
-        },
-        "3": {
-          "fontes": 12,
-          "novos": 3
-        }
-      },
-      "obs": "Site oficial Wix benaruswatch.com abre (loja 45 produtos + páginas escondidas: Mako ETA 2021, Megalodon 2021, Moray 44 GMT Ti 20 pçs, Moray 47 Ti, Moray 40 brass). Não usa códigos (só VM02/VM05 do Vintage Moray). Histórico 2008–2016 por Watch Report, WristWatchReview, w&w, aBlogtoWatch, OceanicTime; anúncios WatchUSeek via WatchCharts. 23 fichas da loja ficaram com link da página (sem foto). Vermelha: combinações do Megalodon 2015, Vintage Moray (8 opções), Sea Devil 300 pçs, cores de Remora/Moray 3/IV, WatchUSeek bloqueado. Próxima: Benrus (178)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 166,
-      "marca": "Benrus",
-      "linha_marcas": 178,
-      "linhas_relogios": "20521-20660",
-      "relogios": 140,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 135,
-      "passadas": {
-        "1": {
-          "fontes": 98,
-          "novos": 123
-        },
-        "2": {
-          "fontes": 26,
-          "novos": 7
-        },
-        "3": {
-          "fontes": 11,
-          "novos": 2
-        }
-      },
-      "obs": "Site oficial benrus.com (Shopify) abre; 18 modelos atuais + páginas escondidas (Type I-C, Type II 500 pçs, Series #3061 2022, Orbit Robot). Fases: vintage 1921–1980, licenciamento (Sky Chief 2015, H6, Infantry, MBR japonesa), relançamento 2020, linha Suíça 2025–26, linha japonesa (TYPE-I/II/III, DTU). ~73 de 140 com foto. Vermelha: centenas de refs vintage (EveryWatch 133 anúncios só de Sky Chief), variantes 2020 sem código, Chrono24 inalcançável, eBay não abre. Próxima: Benzinger (179)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 167,
-      "marca": "Benzinger",
-      "linha_marcas": 179,
-      "linhas_relogios": "20661-20771",
-      "relogios": 111,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 75,
-      "passadas": {
-        "1": {
-          "fontes": 64,
-          "novos": 113
-        },
-        "2": {
-          "fontes": 11,
-          "novos": 2
-        }
-      },
-      "obs": "Site oficial jochenbenzinger.de (página única) abre, incl. versão 2023 e EN: 83 itens (GAP 1/2, Regulateur, Subskription, Skelett, Classic, ONE 1–6, encomendas, movimentos refinados); rotores avulsos excluídos. Lojas Watchbuys (SKUs BE-xxx na coluna E), Define Watches, Exquisite, Horology by the Sea. Não usa códigos. Excluídos: Jaeger & Benzinger (marca à parte, sem linha em Marcas) e Benzinger Boutique (linha da Grieb & Benzinger). Vermelha: ~100 peças únicas/ano, encomendas não publicadas, mostradores configuráveis, Chrono24 inacessível. Soma 'novos' da 1ª passada inclui 4 itens depois fundidos/retirados. Próxima: Bergstern (180)."
-    },
-    {
-      "data": "2026-10-20",
-      "versao": 168,
-      "marca": "Bergstern",
-      "linha_marcas": 180,
-      "linhas_relogios": "20772-21109",
-      "relogios": 338,
-      "vermelho": true,
-      "site_bloqueado": false,
-      "grande": true,
-      "fontes": 73,
-      "passadas": {
-        "1": {
-          "fontes": 53,
-          "novos": 311
-        },
-        "2": {
-          "fontes": 10,
-          "novos": 4,
-          "novos_por_titulo_de_busca": 9
-        },
-        "3": {
-          "fontes": 10,
-          "novos": 2,
-          "novos_por_titulo_de_busca": 3
-        }
-      },
-      "obs": "Marca própria da rede polonesa Apart (Bergstern/R2 Trade, Sarnen; importador R2 Center, Suchy Las). Site bergstern.ch (só catálogo atual, mesmos IDs da Apart). Códigos B+modelo(001–099)+G/L+nº sequencial (001–410): faltam ~70 números, quase todos de 2014–2017. Calibres do manual da Apart na coluna E. ~32 linhas só com link de anúncio (sem foto). Coluna M preenchida. Próxima: Bering (181), grande, sozinha."
+ "proxima_linha_marcas": 181,
+ "ultima_versao": 168,
+ "historico": [
+  {
+   "data": "2026-10-16",
+   "marca": "Aquatrident",
+   "linha_marcas": 78,
+   "linhas_relogios": "5402-5454",
+   "relogios": 53,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "obs": "tratada como grande (na dúvida); Arach fica para a próxima; 2ª pesquisa profunda pedida pelo usuário: +3 (Horizon x2, Ichthyosaur AQ-23003-04)"
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Arach",
+   "linha_marcas": 79,
+   "linhas_relogios": "5455-5460",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": false
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Aramar Watch Co.",
+   "linha_marcas": 80,
+   "linhas_relogios": "5461-5470",
+   "relogios": 10,
+   "vermelho": true,
+   "site_bloqueado": true
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Arcadia Watches",
+   "linha_marcas": 81,
+   "linhas_relogios": "5471-5480",
+   "relogios": 10,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "obs": "vermelho retirado a pedido do usuário"
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Arcaido",
+   "linha_marcas": 82,
+   "linhas_relogios": "5481-5483",
+   "relogios": 3,
+   "vermelho": false,
+   "site_bloqueado": true
+  },
+  {
+   "versao": 82,
+   "marca": "Arcanaut",
+   "linha_marcas": 83,
+   "linhas": 53,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "obs": "site real arcanaut.watch (G aponta arcanaut.cc, fora do ar); mostradores Fordite únicos e Fordite 2.0 configurável não listáveis um a um"
+  },
+  {
+   "versao": 82,
+   "marca": "Archetype",
+   "linha_marcas": 84,
+   "linhas": 49,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "obs": "inclui descontinuados via sitemap/oembed; linha 'Pure' citada em J não encontrada"
+  },
+  {
+   "versao": 83,
+   "marca": "Arcanaut",
+   "linha_marcas": 83,
+   "linhas": 86,
+   "vermelho": true,
+   "obs": "2a passada a pedido: +33 (blog, produtos ocultos achados via busca, The Limited Edition UK, Time+Tide, ARC 1 de 2018); G83 corrigido para arcanaut.watch; K83 logo novo; B Garnet Goblin/Chronomara e 4 fotos corrigidas"
+  },
+  {
+   "versao": 83,
+   "marca": "Archetype",
+   "linha_marcas": 84,
+   "linhas": 49,
+   "vermelho": false,
+   "obs": "2a passada a pedido: nenhum modelo novo (sitemap oficial 49 relógios = watches.com = Kickstarter 2020 + lançamentos posteriores)"
+  },
+  {
+   "versao": 84,
+   "marca": "Arcanaut",
+   "obs": "peça única tirada da coluna B (64 linhas) e posta no começo da E, a pedido"
+  },
+  {
+   "versao": 85,
+   "obs": "regra peça única aplicada em 113 linhas de 16 marcas (B→E)"
+  },
+  {
+   "versao": 85,
+   "marca": "Archimede",
+   "linha_marcas": 85,
+   "linhas": 314,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "fontes_abertas": "~35 (site oficial ~60 páginas, WatchBase 6 famílias + 62 fichas, EveryWatch, WatchPatrol, Chrono24 via busca, W&W, aBlogtoWatch, Masterhorologer, acquiremag, timetransformed, lesrhabilleurs, watchtime, worldwatchreview, relogiosb3, Hourstriker, fliegerfriday, FiveFortyFive, Jura, vario, windup)",
+   "obs": "marca grande, feita sozinha; ARC-TIC fica para a próxima"
+  },
+  {
+   "versao": 86,
+   "marca": "Archimede",
+   "linhas": 319,
+   "obs": "2a passada completa: WatchTime.net (página da marca + 8 matérias), buscas site: (Sold Out, Special Edition, páginas antigas), Mercari JP, WatchSpies, relojes-especiales, WatchCharts marketplace, Two Broke Watch Snobs, Catawiki; +5 relógios; parou após 3 fontes seguidas sem novidade"
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "ARC-TIC",
+   "linhas": "5938-5966",
+   "relogios": 29,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 78
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Arctos",
+   "linhas": "5967-6025",
+   "relogios": 59,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 96
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Arcturus",
+   "linhas": "6026-6047",
+   "relogios": 22,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 37
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Ardío",
+   "linhas": "6048-6052",
+   "relogios": 5,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 21
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Arethusa",
+   "linhas": "6053-6055",
+   "relogios": 3,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 21
+  },
+  {
+   "data": "2026-10-16",
+   "marca": "Aristo",
+   "linhas": "6056-6946",
+   "relogios": 891,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 128
+  },
+  {
+   "data": "2026-10-17",
+   "marca": "Aristo (4ª passada, complemento)",
+   "linhas": "6947-7094",
+   "relogios": 148,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 33
+  },
+  {
+   "data": "2026-10-17",
+   "marca": "Aristo (troca de 28 fotos, sem linhas novas)",
+   "linhas": "6752-6884",
+   "relogios": 0,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 0
+  },
+  {
+   "data": "2026-10-17",
+   "marca": "Erbprinz (separada da Aristo; nova linha 475 em Marcas)",
+   "linhas": "6773-6828",
+   "relogios": 56,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 0
+  },
+  {
+   "data": "2026-10-17",
+   "marca": "Messerschmitt (separada da Aristo; nova linha 904 em Marcas)",
+   "linhas": "6829-7094",
+   "relogios": 266,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 0
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 95,
+   "marca": "Arken",
+   "linha_marcas": 92,
+   "linhas_relogios": "7095-7102",
+   "relogios": 8,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 29
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 95,
+   "marca": "Arlanch",
+   "linha_marcas": 93,
+   "linhas_relogios": "7103-7104",
+   "relogios": 2,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 16,
+   "obs": "marca sueca de Gabriel Arlanch (arlanch.se); homônimo chinês ARLANCH de quartzo barato não incluído; próxima Armand Nicolet (grande, sozinha)"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 96,
+   "marca": "Armand Nicolet",
+   "linha_marcas": 94,
+   "linhas_relogios": "7105-7832",
+   "relogios": 728,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 174,
+   "passadas": "P1 114 fontes/636 relógios; P2 23/34; P3 37/58",
+   "obs": "grande, sozinha; refeita após execução parada; MH8 (coluna J) não encontrado; Marcas diz fundada em 1902, fontes dizem 1875"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 97,
+   "marca": "Armando Legin",
+   "linha_marcas": 95,
+   "linhas_relogios": "7833",
+   "relogios": 1,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "obs": "marca eslovena (Fobia d.o.o., Ljubljana), montagem em Zurique por Marc Jenni; só o Inveniō Genesis (25 peças); série BLACK anunciada, não lançada; dados de Marcas (B, C, D, F, G, H, I) parecem errados"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 97,
+   "marca": "Armida",
+   "linha_marcas": 96,
+   "linhas_relogios": "7834-7883",
+   "relogios": 50,
+   "vermelho": false,
+   "site_bloqueado": "parcial",
+   "fontes": 49,
+   "obs": "site oficial abriu (galeria de clientes); loja Ecwid não abre; próxima Armin Strom (grande, sozinha)"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 98,
+   "marca": "Armin Strom",
+   "linha_marcas": 97,
+   "linhas_relogios": "7884-8056",
+   "relogios": 173,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 272,
+   "passadas": "P1 232 fontes/162 relógios; P2 18/5; P3 22/6",
+   "obs": "grande, sozinha; refeita após execução parada; configurador e peças únicas tornam a lista incompleta (vermelho); Europa Star deu 429; Chrono24 sem resultados em busca; Monochrome page/N não aparece em busca (lidas com aprovação do usuário nesta execução); J cita 'Orbit' (existe)"
+  },
+  {
+   "data": "2026-10-17",
+   "versao": 99,
+   "marca": "Armitron",
+   "linha_marcas": 98,
+   "linhas_relogios": "8057-8409",
+   "relogios": 353,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 174,
+   "passadas": "P1 143 fontes/330; P2 18/30; P3 13/9",
+   "obs": "grande, sozinha; marca de massa com milhares de códigos de estilo (20/, 40/, 45/, 75/) impossível de esgotar; site Shopify abre mas o leitor não traz links nem fotos (fotos vieram de imprensa, Amazon via desertcart, eBay, Kohl's); muitas linhas com link da página da coleção; E. Gluck em Chapter 11 (dez/2025) e comprada pela American Exchange Group (fev/2026); Marcas: I diz fundada 1956 (é a E. Gluck; marca Armitron 1975); J 'Dress Quartz' é genérico"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 100,
+   "marca": "Armourlite",
+   "linha_marcas": 99,
+   "linhas_relogios": "8410-8602",
+   "relogios": 193,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 161,
+   "passadas": "P1 139 fontes/189; P2 22/0",
+   "obs": "grande, sozinha; inclui a linha irmã Isobrite (sem linha própria em Marcas); execução anterior (19:40) morreu no limite de uso sem salvar; usuário colou a lista dela (112) e todos os códigos foram cobertos; site oficial lido só por títulos de busca; próxima Arnold & Son (grande, sozinha)"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 101,
+   "marca": "Arnold & Son",
+   "linha_marcas": 100,
+   "linhas_relogios": "8603-8920",
+   "relogios": 318,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 128,
+   "passadas": "P1 81 fontes/269; P2 14/15; P3 33/25",
+   "obs": "grande, sozinha; feita em duas execuções (a primeira morreu no limite de uso; retomada pelos parciais); peças únicas e personalização sob encomenda tornam a lista incompleta (vermelho); Chrono24 só por títulos; muitas refs antigas só com link de página (Essential Watches, Feldmar, EveryWatch); próxima Arsène Lippens"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 102,
+   "marca": "Arsène Lippens",
+   "linha_marcas": 101,
+   "linhas_relogios": "8921-8953",
+   "relogios": 33,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 44,
+   "passadas": "P1 44 fontes/33",
+   "obs": "marca suíça (Genebra), não belga como diz B; site arsenelippens.com (G vazio); inclui edições de comunidade; 6 linhas só com link de página"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 102,
+   "marca": "Art Mecanique",
+   "linha_marcas": 102,
+   "linhas_relogios": "8954-8958",
+   "relogios": 5,
+   "vermelho": false,
+   "site_bloqueado": "art-mecanique.com fora do ar",
+   "fontes": 15,
+   "passadas": "P1 15 fontes/5",
+   "obs": "projeto Kickstarter 2016 (16-01, 7 versões, só 5 identificadas, campanha não financiada); descrição D/I da aba Marcas parece errada"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 102,
+   "marca": "Artauro",
+   "linha_marcas": 103,
+   "linhas_relogios": "8959-8962",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 18,
+   "passadas": "P1 18 fontes/4",
+   "obs": "Córdoba (La Carlota), asta de touro; site artauro.es (G vazio) sem nomes/fotos legíveis das coleções Classic/Skeleton; próxima Artefkt"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 103,
+   "marca": "Artefkt",
+   "linha_marcas": 104,
+   "linhas_relogios": "8963-8969",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": "parcial: artefktseven.com (site antigo) robots",
+   "fontes": 26,
+   "passadas": "P1 26 fontes/7",
+   "obs": "Detroit (EUA), Brandon Little; site artefktwatches.com (G vazio); Versa XC 5 cores + Trove 1/1 + protótipo A1; Kova anunciado sem foto; B/C/D/I da aba Marcas vazios ou genéricos"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 103,
+   "marca": "Artel Rotec",
+   "linha_marcas": 105,
+   "linhas_relogios": "8970-8975",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 18,
+   "passadas": "P1 18 fontes/6",
+   "obs": "Los Angeles (EUA), Matt Roknipour, 2018; catálogo fechado V1-V3 + Sky 4-6 conferido; site artelrotec.com (G vazio)"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 103,
+   "marca": "Arthur Oskar Stampfli",
+   "linha_marcas": 106,
+   "linhas_relogios": "8976-9018",
+   "relogios": 43,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 51,
+   "passadas": "P1 33/33, P2 10/10, P3 8/0",
+   "obs": "AOS Watches, Cressier (NE), Roland Stampfli, 2009/2010; site aos-watches.com (G vazio); 3ª passada só com 8 fontes novas (buscas esgotadas); próxima Artime"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 104,
+   "marca": "Artime",
+   "linha_marcas": 107,
+   "linhas_relogios": "9019-9025",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 30,
+   "passadas": "P1 30/7",
+   "obs": "Gravada na v104 por execução anterior que caiu antes de atualizar o estado.json; corrigido na execução seguinte"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 105,
+   "marca": "Artisans De Genève",
+   "linha_marcas": 108,
+   "linhas_relogios": "9026-9097",
+   "relogios": 72,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 122,
+   "passadas": "P1 109/72, P2 13/0",
+   "obs": "Ateliê de customização (Genebra, 2005, John Isaac); projetos sobre Rolex/Patek/AP; lista oficial /en/challenges com 3 páginas, só a 1ª alcançável; sem logo; próxima Artur Akmaev"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 106,
+   "marca": "(coluna M)",
+   "obs": "A pedido do usuário: coluna M \"Observações\" criada na aba Marcas com 16 observações de dados errados já relatadas (Aquastar, Archetype, ARC-TIC, Arcturus, Arlanch, Armand Nicolet, Armando Legin, Armida, Armitron, Arsène Lippens, Art Mecanique, Artauro, Artefkt, Artel Rotec, Arthur Oskar Stampfli, Artisans De Genève); nenhuma outra célula mudou"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 107,
+   "marca": "Artur Akmaev",
+   "linha_marcas": 109,
+   "linhas_relogios": "9098-9120",
+   "relogios": 23,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 47,
+   "passadas": "P1 36/22, P2 11/1",
+   "obs": "Peças únicas e sob encomenda; site atual akmaev.com (JS, ilegível); refs Masterpiece/Carbon da Arlington Watch Works; sem logo; próxima ArtyA (provavelmente grande)"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 108,
+   "marca": "ArtyA",
+   "linha_marcas": 110,
+   "linhas_relogios": "9121-9583",
+   "relogios": 463,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 89,
+   "passadas": "P1 65/417, P2 13/26, P3 11/3",
+   "obs": "Grande (peças únicas, Gears configurável). Site artya.com só achado com busca extended; all-watches p4–8 e store-products-sitemap não alcançados. 147 linhas com link de artigo do Master Horologer e ~240 com link da página oficial (sem foto direta). Próxima: Askania (linha 111)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 109,
+   "marca": "Askania",
+   "linha_marcas": 111,
+   "linhas_relogios": "9584-9833",
+   "relogios": 250,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 154,
+   "passadas": "P1 103/213, P2 27/28, P3 24/2",
+   "obs": "Grande. Catálogo 2010 (44 refs antigas), Quadriga 2006–2025 quase completa (falta 2024, se existir), allwatches com refs antigas (Heinkel, Heinkel Blitz, Goliath). ~76 linhas com link de página em vez de foto (askania.berlin deu erro de servidor no fim). Próxima: Aspen (linha 112)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 110,
+   "marca": "Aspen",
+   "linha_marcas": 112,
+   "linhas_relogios": "9834-9905",
+   "relogios": 72,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 54,
+   "passadas": "P1 43/38, P2 11/1",
+   "obs": "Duas empresas com o nome: Aspen Jewelry and Watches (luxo, 2009–2014: Aspen One, Black Piste, Downhill GT, Moguls, Zenvo ST1, Gondola, XII) e Aspen quartzo (AP31xx, Shoptictoc/Best Buy Canadá; 41 cores sem referência AP). Asprey (113) e seguintes ficam para as próximas; Asprey tratada como grande."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 111,
+   "marca": "Asprey Watches",
+   "linha_marcas": 113,
+   "linhas_relogios": "9906-10024",
+   "relogios": 119,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 119,
+   "passadas": "P1 78/96, P2 17/7, P3 24/8",
+   "obs": "Grande. Modelos próprios (No. 8 com ~23 refs, Tempus Fugit, Grand Date, Entheus R2) + peças de outras marcas vendidas/assinadas/personalizadas pela Asprey (Patek, Rolex khanjar de Omã, Rolex personalizados 2009–2025, Bamford, Genta, Daniel Roth, Corum, Piaget, AP) + colaborações Andersen. WebFetch parou ~10 min (limite de sessão) às 14:56 UTC. Próxima: Astor + Banks (114)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 112,
+   "marca": "Astor + Banks",
+   "linha_marcas": 114,
+   "linhas_relogios": "10025-10071",
+   "relogios": 47,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 42,
+   "passadas": "P1 42/53 (contagem inclui reclassificações)",
+   "obs": "Chrono 2014, AB1405, AB Clásico, Pilomatic 2016 (50+50), Sea Ranger 2019, Fortitude 2020 (Gilt Navy BLVDier 50), Fortitude Lite/Pro, Sea Ranger M2, Terra Scout 2026. 'Dorado' (grailr) não confirmado."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 112,
+   "marca": "Astronic",
+   "linha_marcas": 115,
+   "linhas_relogios": "10072-10098",
+   "relogios": 27,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 18,
+   "obs": "Usa SKUs STL-117/AVE-64; LEs sem tiragem publicada"
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 112,
+   "marca": "Ataelier Haute Complication",
+   "linha_marcas": 116,
+   "linhas_relogios": "10099-10113",
+   "relogios": 15,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 35,
+   "obs": "Grafia correta; G/H vazios e C genérico registrados na coluna M. Próxima: Atelier de Chronomètrie (117)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 113,
+   "marca": "Atelier de Chronomètrie Watches",
+   "linha_marcas": 117,
+   "linhas_relogios": "10114-10148",
+   "relogios": 35,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 64,
+   "passadas": "P1 49/29; P2 15/0",
+   "obs": "Tratada como grande (peças únicas/sob encomenda), sozinha. Numeração AdC1–AdC37, AdC88, AdC99; buracos 13, 27, 34–36 não achados; AdC10/19/24/26/32 sem foto (link da página oficial). Próxima: Atelier Holgur (118)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 114,
+   "marca": "Atelier Holgur",
+   "linha_marcas": 118,
+   "linhas_relogios": "10149-10152",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "obs": "Site oficial não aparece em busca; sem logo."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 114,
+   "marca": "Atelier Jalaper",
+   "linha_marcas": 119,
+   "linhas_relogios": "10153-10162",
+   "relogios": 10,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 22,
+   "obs": "DB5 AJ001/AJ002 S/B, Miura AJ-P400 V/B/O/N, E-Type AJ-003 B/W."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 114,
+   "marca": "Atelier Loiseau",
+   "linha_marcas": 120,
+   "linhas_relogios": "10163-10167",
+   "relogios": 5,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15,
+   "obs": "1f4 + 4 relógios de bolso históricos de D. Loiseau; Rose des Temps (mesa) e Alpha-Omega (autômato) fora. Próxima: Atelier Millesime (121)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 115,
+   "marca": "Atelier Millesime",
+   "linha_marcas": 121,
+   "linhas_relogios": "10168-10184",
+   "relogios": 17,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 19,
+   "obs": "Millésime de Benjamin Chee, renomeada Milléchron (2021); site redireciona para millechron.ch (não aparece em busca)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 115,
+   "marca": "Atelier Nossedh",
+   "linha_marcas": 122,
+   "linhas_relogios": "10185-10190",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "obs": "Só o AN.01 Chronograph em 6 mostradores (romanos ou arábicos à escolha)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 115,
+   "marca": "Atelier Wen",
+   "linha_marcas": 123,
+   "linhas_relogios": "10191-10220",
+   "relogios": 30,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 41,
+   "obs": "Próxima: Ateliers deMonaco (124)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 116,
+   "marca": "Ateliers de Monaco",
+   "linha_marcas": 124,
+   "linhas_relogios": "10221-10288",
+   "relogios": 68,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 116,
+   "passadas": {
+    "1": {
+     "fontes": 101,
+     "novos": 67
+    },
+    "2": {
+     "fontes": 15,
+     "novos": 1
     }
-  ],
-  "marcas_ja_feitas_fora_da_ordem": {
-    "Erbprinz": {
-      "linha_marcas": 475,
-      "linhas_relogios": "6773-6828"
+   },
+   "obs": "Bateria só desta marca: a seguinte (Atlantic, 125) é grande (catálogo com códigos tipo 53653.41.93R e vintage extenso) e fica sozinha na próxima execução. Site oficial não aparece em busca."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 117,
+   "marca": "Atlantic",
+   "linha_marcas": 125,
+   "linhas_relogios": "10289-10668",
+   "relogios": 380,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 161,
+   "passadas": {
+    "1": {
+     "fontes": 113,
+     "novos_por_fonte": 264
     },
-    "Messerschmitt": {
-      "linha_marcas": 904,
-      "linhas_relogios": "6829-7094"
+    "2": {
+     "fontes": 29,
+     "novos_por_fonte": 8
+    },
+    "3": {
+     "fontes": 19,
+     "novos_por_fonte": 15
     }
+   },
+   "obs": "93 relógios vieram direto de títulos de resultados de busca (site:watchard.com, site:justintime.in), sobretudo na 2ª passada (+55 no total). Site oficial atlanticwatches.ch não aparece em busca; kuck.pl (342 produtos) só a 1ª página. Próxima: Atowak (126)."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 118,
+   "marca": "Atowak",
+   "linha_marcas": 126,
+   "linhas_relogios": "10669-10713",
+   "relogios": 45,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 92,
+   "passadas": {
+    "1": {
+     "fontes": 92
+    }
+   },
+   "obs": "Bateria só desta marca: a seguinte (Audemars Piguet, 127) é grande e fica sozinha na próxima execução. Windows Pro: só 4 de 7 cores achadas."
+  },
+  {
+   "data": "2026-10-18",
+   "versao": 119,
+   "marca": "Audemars Piguet",
+   "linha_marcas": 127,
+   "linhas_relogios": "10714-12266",
+   "relogios": 1553,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 104,
+   "passadas": {
+    "1": {
+     "fontes": 81,
+     "novos_por_fonte": 1486
+    },
+    "2": {
+     "fontes": 13,
+     "novos_por_fonte": 37
+    },
+    "3": {
+     "fontes": 10,
+     "novos_por_fonte": 33
+    }
+   },
+   "fotos": 184,
+   "obs": "Bateria só desta marca (grande). Base: páginas de calibre e de família do WatchBase (sem foto no texto; coluna C com link da ficha/lista), AP Chronicles (vintage), site oficial (fichas sem foto). Só ~184 linhas com foto. Família Royal Oak do WatchBase mostra ~212 de 663 e Offshore ~227 de 379: faltam referências. Chrono24 sem resultados pela busca. Dados do loupe.watch não usados (página pede para IA não reproduzir). Próxima: Audric (128)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 120,
+   "marca": "Audric",
+   "linha_marcas": 128,
+   "linhas_relogios": "12267-12278",
+   "relogios": 12,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 32,
+   "passadas": {
+    "1": {
+     "fontes": 32,
+     "novos_por_fonte": 12
+    }
+   },
+   "obs": "6 SeaBorne com SKU oficial (AUDSEA20xxx) + 6 cores do Strider (Kickstarter 2022 sem sucesso; produção não confirmada). Mostrador meteorito do SeaBorne só anunciado como meta extra: fora."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 120,
+   "marca": "Auffret",
+   "linha_marcas": 129,
+   "linhas_relogios": "12279-12284",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 17,
+   "passadas": {
+    "1": {
+     "fontes": 17,
+     "novos_por_fonte": 6
+    }
+   },
+   "obs": "Site oficial não aparece em busca. 3 peças únicas (Nº 00, Giverny Blue Train protótipo, Only Watch 2023 com Petermann Bédat). Próxima: Auguste Reymond (130), tratada como grande (marca de 1898 com linha atual extensa e vintage A. Reymond/ARSA) e fica sozinha."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 121,
+   "marca": "Auguste Reymond",
+   "linha_marcas": 130,
+   "linhas_relogios": "12285-12438",
+   "relogios": 154,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 118,
+   "passadas": {
+    "1": {
+     "fontes": 91,
+     "novos_por_fonte": 121
+    },
+    "2": {
+     "fontes": 14,
+     "novos_por_fonte": 13
+    },
+    "3": {
+     "fontes": 13,
+     "novos_por_fonte": 5
+    }
+   },
+   "obs": "Bateria só desta marca (grande). Site oficial augustereymond.ch não aparece em buscas (L). Base: Delugs (Unity 51, Origin 6, Heritage), The Watch Pages, Europa Star, Masterhorologer, Watchilove, Century (dona), eBay Peru, Watchnet. Vintage ARSA muito extenso e sem nomes; ~11 nomes Europa Star só com link da ficha. Próxima: Augustin Matei (131)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 122,
+   "marca": "Augustin Matei",
+   "linha_marcas": 131,
+   "linhas_relogios": "12439-12546",
+   "relogios": 108,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 57,
+   "passadas": {
+    "1": {
+     "fontes": 47,
+     "novos_por_fonte": 96
+    },
+    "2": {
+     "fontes": 10,
+     "novos_por_fonte": 0
+    }
+   },
+   "obs": "Bateria só desta marca (peças únicas sob encomenda = grande). Site oficial augustinwatches.com (G vazio). Páginas de produto do site não aparecem nas buscas: ~25 peças ficaram com link da página em vez de foto. Instagram/Facebook/TikTok/Pinterest bloqueados. Próxima: Aurelia Horology (132), depois Auricoste (133, provável grande)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 123,
+   "marca": "Aurelia Horology",
+   "linha_marcas": 132,
+   "linhas_relogios": "12547-12551",
+   "relogios": 5,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 24,
+   "passadas": {
+    "1": {
+     "fontes": 24,
+     "novos_por_fonte": 5
+    }
+   },
+   "obs": "Marca austríaca (Langau, 2024), catálogo fechado: site oficial e WatchPolice batem em 5 modelos. Auricoste (133) tratada como grande e fica sozinha na próxima execução. Fora: peça de ~30 mil euros para sorteio do Rotary Club Geras (sem nome/foto); Deadbeat Seconds e Tourbillon 1 anunciados."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 124,
+   "marca": "Auricoste",
+   "linha_marcas": 133,
+   "linhas_relogios": "12552-12590",
+   "relogios": 39,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 76,
+   "passadas": {
+    "1": {
+     "fontes": 65,
+     "novos_por_fonte": 58
+    },
+    "2": {
+     "fontes": 11,
+     "novos_por_fonte": 0
+    }
+   },
+   "obs": "Bateria só desta marca (grande: vintage Type 20 + reedições). Site atual auricoste.com (G diz .fr); páginas internas não aparecem em buscas (L parcial). Base: Chadourne (refs), Ocarat, Tempus, Europa Star, Antiquorum, Drouot, Finarte, Dialicious. Fora: relógios de bolso, relógios de bordo/comparação e cronômetros de marinha. Próxima: Autodromo (134)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 125,
+   "marca": "Autodromo",
+   "linha_marcas": 134,
+   "linhas_relogios": "12591-12673",
+   "relogios": 83,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 83,
+   "passadas": {
+    "1": {
+     "fontes": 63,
+     "novos_por_fonte": 86
+    },
+    "2": {
+     "fontes": 20,
+     "novos_por_fonte": 0
+    }
+   },
+   "obs": "Bateria só desta marca (grande: 2011–2026, muitas cores e edições). Base: arquivo oficial do site (52 variantes 2011–2019) + imprensa para 2020–2026. Vermelha: Ford GT Owner's Edition configurável por carro e edições não confirmadas. Vivir.com descartado (conteúdo duvidoso). Sem logo. Próxima: Avakian (135)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 126,
+   "marca": "Avakian",
+   "linha_marcas": 135,
+   "linhas_relogios": "12674-12686",
+   "relogios": 13,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 18,
+   "passadas": {
+    "1": {
+     "fontes": 18,
+     "novos_por_fonte": 13
+    }
+   },
+   "obs": "Joalheria de Genebra; 3 linhas de relógio: Concept 1 (2008, masc.), Lady Concept (2017), Tzarina (1998). Site avakian.com não apareceu em buscas. Sem logo."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 126,
+   "marca": "Avel & Men",
+   "linha_marcas": 136,
+   "linhas_relogios": "",
+   "relogios": 0,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 15,
+   "passadas": {
+    "1": {
+     "fontes": 15,
+     "novos_por_fonte": 0
+    }
+   },
+   "obs": "Não fabrica relógios (só pulseiras e estojos). 0 linhas; script não rodado (não aceita marca sem linhas), então a coluna M não foi gravada — observação só no relatório e em historico/marca_avel.json."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 126,
+   "marca": "Avenir",
+   "linha_marcas": 137,
+   "linhas_relogios": "12687-12690",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 15,
+   "passadas": {
+    "1": {
+     "fontes": 15,
+     "novos_por_fonte": 4
+    }
+   },
+   "obs": "Identificação incerta: único achado Avenir Chrono Boss Premiere (c. 2010, Rafaello & Co., NY). Próxima: Aventi (138)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 127,
+   "marca": "Aventi",
+   "linha_marcas": 138,
+   "linhas_relogios": "12691-12707",
+   "relogios": 17,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 40,
+   "passadas": {
+    "1": {
+     "fontes": 40,
+     "novos": 17
+    }
+   },
+   "obs": "Bateria só com Aventi: a próxima (AVI-8, 139) é grande e fica sozinha. Site aventi.com em transição (mudou de dono). Buracos: A11-03/A11-04 e códigos A10-02..07 não mapeados. 'Pink Champagne' (J) não achado."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 128,
+   "marca": "AVI-8",
+   "linha_marcas": 139,
+   "linhas_relogios": "12708-13137",
+   "relogios": 430,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 160,
+   "passadas": {
+    "1": {
+     "fontes": 131,
+     "novos": 411
+    },
+    "2": {
+     "fontes": 16,
+     "novos": 8
+    },
+    "3": {
+     "fontes": 13,
+     "novos": 11
+    }
+   },
+   "obs": "Bateria só com AVI-8 (grande). Vermelha: linhas antigas 2012-2016 com cores sem nome/foto; TIME Watches (246 produtos) só pág. 1 alcançada; EveryWatch/Chrono24 não indexados. 224 linhas com link de página em vez de foto. Próxima: Aviator (140)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 129,
+   "marca": "AVI-8",
+   "linha_marcas": 139,
+   "linhas_relogios": "12708-13315",
+   "relogios": 608,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 74,
+   "complemento": true,
+   "passadas": {
+    "4": {
+     "fontes": 74,
+     "novos": 179
+    }
+   },
+   "obs": "4ª passada a pedido do usuário: +179 relógios (608 no total); ~60 nomes de cor corrigidos e 7 fotos melhoradas nas linhas já gravadas; 1 linha duplicada removida (Charcoal Ember Brown = AV-4052-02). Novas linhas antigas: Curtiss Tomahawk, Seafire AV-4030/4033, Lancaster AV-4020/4022/4024/4035, Hunter AV-4007/4008/4009/4018, Flyboy Cadet AV-4028, Sabiha Gökçen, Operation Catechism. Próxima: Aviator (140)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 130,
+   "marca": "Aventi",
+   "linha_marcas": 138,
+   "relogios": 19,
+   "vermelho": false,
+   "complemento": true,
+   "passadas": {
+    "2": {
+     "fontes": 23,
+     "novos": 2
+    }
+   },
+   "obs": "2ª passada a pedido: +A11-01SE (página oficial) e A-10 A10-06 (BQ); Enygma corrigido para A18-01 (Escapement). Linhas Aventi 12691-12709 (AVI-8 deslocada +2)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 131,
+   "marca": "Aviator",
+   "linha_marcas": 140,
+   "linhas_relogios": "13318-13754",
+   "relogios": 437,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 112,
+   "passadas": {
+    "1": {
+     "fontes": 86,
+     "novos": 419
+    },
+    "2": {
+     "fontes": 16,
+     "novos": 9
+    },
+    "3": {
+     "fontes": 10,
+     "novos": 4
+    }
+   },
+   "obs": "Bateria só com Aviator (grande). Site atual aviatorwatch.swiss (8 coleções, ~330 refs, fotos pelo padrão do CDN conferido em 1 produto por modelo). Vermelha: linha antiga 2002-2018 (Kingcobra, MIG-21/25/29/35, Propeller, Professional, Vintage, Airacobra V.1.11/V.2.13/V.3.21) incompleta; watchard (319) e egowatch.ru (94) só pág. 1. EveryWatch/Chrono24 não indexados. Próxima: Awake (141)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 132,
+   "marca": "Aviator",
+   "linha_marcas": 140,
+   "obs": "Correção a pedido ('corrija'): G140 → aviatorwatch.swiss; I140 reescrito (fundada em 2000, relançada 2002; Volmax é distribuidora, fabrica Sturmanskie; Swiss Made já em 2013; coleções atuais e antigas; tirado '[⚠️ verificar]'); J140 marca MIG-25 Foxbat e Kingcobra como descontinuados; M140 limpo."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 133,
+   "marca": "Awake",
+   "linha_marcas": 141,
+   "linhas_relogios": "13755-13809",
+   "relogios": 55,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 73,
+   "passadas": {
+    "1": {
+     "fontes": 59,
+     "novos": 52
+    },
+    "2": {
+     "fontes": 14,
+     "novos": 3
+    }
+   },
+   "obs": "Bateria só com Awake: AXIA Time (142) é grande (relógios comemorativos customizados por time/universidade) e fica sozinha na próxima. Site real awakewatches.com. Vermelha: edições militares de 2020 (Marine Nationale etc.) sem nome achado; cores da La Bleue e da AW.01 incompletas. Próxima: AXIA Time (142)."
+  },
+  {
+   "data": "2026-10-19",
+   "marca": "AXIA Time",
+   "linha_marcas": 142,
+   "linhas_relogios": "13810-14002",
+   "relogios": 193,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 151,
+   "passadas": {
+    "1": [
+     127,
+     181
+    ],
+    "2": [
+     14,
+     5
+    ],
+    "3": [
+     10,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 135,
+   "marca": "Axios",
+   "linha_marcas": 143,
+   "linhas_relogios": "14003-14031",
+   "relogios": 29,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 38,
+   "passadas": {
+    "1": [
+     38,
+     29
+    ]
+   },
+   "obs": "catálogo fechado: site oficial (30 itens com correias de fora = 29 relógios) bate com Kickstarter e lojas"
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 135,
+   "marca": "Ayers Watches",
+   "linha_marcas": 144,
+   "linhas_relogios": "14032-14035",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15,
+   "passadas": {
+    "1": [
+     15,
+     4
+    ]
+   },
+   "obs": "só o Metropolitan MT-01..04 (300 peças); domínio ayerswatches.com agora é de outra empresa"
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 135,
+   "marca": "Azad",
+   "linha_marcas": 145,
+   "linhas_relogios": "14036-14107",
+   "relogios": 72,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 43,
+   "passadas": {
+    "1": [
+     33,
+     70
+    ],
+    "2": [
+     10,
+     2
+    ]
+   },
+   "obs": "loja Shopify 66 produtos completa; vermelha por peças sob encomenda e edições Legends of the Game/coleção 2009 sem lista. Próxima: Azimuth (146), grande."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 136,
+   "marca": "Axios, Ayers Watches, Azad",
+   "linha_marcas": "143-145",
+   "obs": "Correção a pedido: I143 reescrito (fundadores Elshan Tang, Stuart Ho, Justin Chiam; coleções reais; sem David Ngo/Deepsea; tirado '[⚠️ verificar]'), J143 → Ironclad 40, Flagship 40, Pathfinder 40, Tribune 38; I144 com MT-01..04/300 peças e domínio perdido, J144 → Metropolitan (MT-01 a MT-04); I145 com fundador Babak 'Bobby' Ermankhah e datas 2005/2008, coleção 2009 e homenageados, J145 completo; M143-M145 limpos. G144 mantido (ayerswatches.com, hoje de outra empresa — anotado em I)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 137,
+   "marca": "Azimuth",
+   "linha_marcas": 146,
+   "linhas_relogios": "14108-14250",
+   "relogios": 143,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "grande": true,
+   "fontes": 140,
+   "passadas": {
+    "1": [
+     125,
+     139
+    ],
+    "2": [
+     15,
+     4
+    ]
+   },
+   "obs": "site oficial azimuthwatch.com (Wix) só achado via busca; Chrono24 não abre (usados EveryWatch 517 anúncios, eBay, Carousell); vermelha por peças únicas Bronzo Artist Series/Battle Tank e centenas de variantes sem nome. Próxima: B.R.M (147)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 138,
+   "marca": "B.R.M",
+   "linha_marcas": 147,
+   "linhas_relogios": "14251-14677",
+   "relogios": 427,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "grande": true,
+   "fontes": 137,
+   "passadas": {
+    "1": [
+     108,
+     220
+    ],
+    "2": [
+     16,
+     213
+    ],
+    "3": [
+     13,
+     4
+    ]
+   },
+   "obs": "catálogo oficial 'Watches' (280 de 326 itens) + loja/imprensa/leilões; vermelha por configurador e ~450 produtos no catálogo da API sem acesso; maioria das linhas oficiais com link da página (sem foto). Próxima: BA111OD (148)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 139,
+   "marca": "BA111OD",
+   "linha_marcas": 148,
+   "linhas_relogios": "14678-14765",
+   "relogios": 88,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": true,
+   "fontes": 73,
+   "passadas": {
+    "1": [
+     73,
+     88
+    ]
+   },
+   "obs": "sozinha porque a seguinte (Backes & Strauss, 149) é grande (TWP 126 relógios); tratada como grande na dúvida. Site oficial Shopify (loja atual ~20 relógios) + sala de imprensa (38 kits) + páginas ocultas por busca + TWP (76) + Nicols/Ocarat/Watchmakers United/Helvetica + imprensa. M148: J 'Chapter 2 Veblen Dilemma' errado. Próxima: Backes & Strauss (149)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 140,
+   "marca": "Backes & Strauss",
+   "linha_marcas": 149,
+   "linhas_relogios": "14766-15034",
+   "relogios": 269,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "grande": true,
+   "fontes": 127,
+   "passadas": {
+    "1": [
+     97,
+     217
+    ],
+    "2": [
+     13,
+     13
+    ],
+    "3": [
+     17,
+     10
+    ]
+   },
+   "obs": "sozinha (grande: TWP 126). Site oficial Squarespace (loja + produtos ocultos por busca, Masterpieces, Limited Editions, Royal, press-room, brand-news) + TWP + Jura/Whamond/Sellors + Watchonista + Masterhorologer (2009-2022) + Gressive (Japão) + leilões. Vermelha: combinações de ouro/diamantes sem lista, peças sob medida, Alves Trophy (42) e Vitesse sem lista. M149: J incompleta. Próxima: Badger Watches (150)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 141,
+   "marca": "Azimuth",
+   "linha_marcas": 146,
+   "obs": "Correção a pedido: H146 → @azimuthwatch; I146 reescrito com dados conferidos (2003 Singapura, Christopher Long e Alvin Lye, 1º modelo Bombardier I 2004, Neuchâtel/Giuseppe Picchi, datas de Spaceship/Mr. Roboto/Back in Time) e sem '[⚠️ verificar]'; M146 limpo."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 142,
+   "marca": "Badger Watches",
+   "linha_marcas": 150,
+   "linhas_relogios": "15035-15038",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes": 15,
+   "passadas": {
+    "1": [
+     15,
+     4
+    ]
+   },
+   "obs": "Badger de Singapura (Leroy Zhong, Islander 2019, Kickstarter); série única com 4 versões (site oficial = Kickstarter = imprensa). Badger Outdoor (outra marca) não entrou. M150 preenchido."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 142,
+   "marca": "Badollet",
+   "linha_marcas": 151,
+   "linhas_relogios": "15039-15081",
+   "relogios": 43,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "grande": true,
+   "fontes": 62,
+   "passadas": {
+    "1": [
+     51,
+     43
+    ],
+    "2": [
+     11,
+     0
+    ]
+   },
+   "obs": "tratada como grande (peças personalizadas); começou como pequena junto com Badger. Vermelha: combinações de pedra/anel/metal personalizadas sem lista; relógios de bolso antigos (J.-M./J.-J. Badollet & Cie) não entraram. Próxima: Ball (152, grande)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 143,
+   "marca": "Ball",
+   "linha_marcas": 152,
+   "linhas_relogios": "15082-16131",
+   "relogios": 1050,
+   "vermelho": true,
+   "site_bloqueado": "Parcial – ballwatch.com (paginação das coleções)",
+   "grande": true,
+   "fontes": 112,
+   "passadas": {
+    "1": [
+     83,
+     701
+    ],
+    "2": [
+     17,
+     148
+    ],
+    "3": [
+     12,
+     8
+    ]
+   },
+   "obs": "sozinha (grande: TWP 701, Hourstriker 441, catálogo oficial 466 configs). Site oficial (watchfinder, coleções p1, EIII p2, fichas antigas /global/) + TWP + Hourstriker + WatchBase + Exquisite (10 págs) + Jura/Whamond/Sellors + Gnomon + Tourneau/WatchMaxx (títulos) + eBay + Piazo/Rasin/Gressive (Japão) + vintage (1stDibs, Heritage, Omega Forums) + relógios de bolso (PWDB, Jones & Horan). ~485 linhas com link de página no lugar da foto; 32 sem código. Vermelha: relógios de bolso (dezenas de graus), vintage sem referência, centenas de variações descontinuadas. M152 preenchido. Próxima: Ballast (153)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 144,
+   "marca": "Ballast",
+   "linha_marcas": 153,
+   "linhas_relogios": "16132-16330",
+   "relogios": 199,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "grande": true,
+   "fontes": 105,
+   "passadas": {
+    "1": [
+     76,
+     133
+    ],
+    "2": [
+     18,
+     7
+    ],
+    "3": [
+     11,
+     1
+    ]
+   },
+   "obs": "sozinha (grande: ~40 famílias BL-31xx/51xx desde 2012). Site oficial real ballast1903.com (G diz ballastwatches.com). Fontes: site oficial (coleções, all p1-p2, imprensa, manual), Timepiece, allwatches p1, Yodobashi (JP), Klaus Kobec, Ashford, Conteenium, eBay, Jamtangan, WatchMaxx. ~92 linhas com link de página no lugar da foto; ~58 códigos vieram só de títulos de busca. Vermelha: sufixos de cor faltando nas famílias antigas (3101-3132, 51xx), Jolly Roger versão preta e Trafalgar LE 500 sem código. M153 preenchido. Próxima: Balmain (154)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 145,
+   "marca": "Ball",
+   "linha_marcas": 152,
+   "obs": "Correção a pedido: I152 sem '[⚠️ verificar]' (fundação 1891 conferida e acrescentada); J152 + Engineer III, Engineer M, Conductor; M152 limpo."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 146,
+   "marca": "Ballast",
+   "linha_marcas": 153,
+   "obs": "Correção a pedido: B153 China→Hong Kong; G153 ballastwatches.com→ballast1903.com; I153 sem '[⚠️ verificar]' (Solar Time Ltd, Hong Kong, identidade britânica); J153 + Perisher, Torbay, Vanguard, Jolly Roger; M153 limpo."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 147,
+   "marca": "Balmain",
+   "linha_marcas": 154,
+   "linhas_relogios": "16331-16789",
+   "relogios": 459,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "grande": true,
+   "fontes": 115,
+   "passadas": {
+    "1": [
+     78,
+     275
+    ],
+    "2": [
+     26,
+     21
+    ],
+    "3": [
+     11,
+     6
+    ]
+   },
+   "obs": "sozinha (grande: Swatch Group desde 1987/1995; watch.co.uk 225, luxoia 412, ocarat 182 produtos). Site oficial (fichas via busca, páginas de novidades, catálogo 2026/27), ocarat p1/2/4/5, luxoia p1, watch.co.uk p1, uhrenschmuck24, Kamal, Ashford (≈30 refs antigas: Arcade, Ovation, Bellafina, Elysees), Yodobashi (20 refs antigas), theluxurycloset/1stdibs (refs de 4 dígitos), Europa Star, vintagewatchroom (Pierre Balmain anos 1970). ~214 linhas com link de página no lugar da foto; ~150 códigos vieram só de títulos de busca. Vermelha: páginas 2-8 watch.co.uk e 2-11 luxoia inalcançáveis, centenas de refs descontinuadas (Ashford/eBay/Japão) e 1ª coleção de 1987 sem nomes. M154 preenchido. Próxima: Balmont (155)."
+  },
+  {
+   "data": "2026-10-19",
+   "versao": 148,
+   "marca": "Balmont",
+   "linha_marcas": 155,
+   "linhas_relogios": "16790-16801",
+   "relogios": 12,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes": 30,
+   "passadas": {
+    "1": [
+     30,
+     12
+    ]
+   },
+   "obs": "sozinha: a seguinte, Baltic (156), foi dimensionada como GRANDE (muitas variações e edições desde 2017) e fica sozinha na próxima execução. Catálogo pequeno: BDX001-004, 006, 007, LAX001 (100 peças), LAX002/003/004/007 (só no catálogo, páginas inalcançáveis por busca) e a peça única Mission Alpha. Coleções 'archives' e 'lax' do site não apareceram em busca. M155 preenchido. Próxima: Baltic (156)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 149,
+   "marca": "Baltic",
+   "linha_marcas": 156,
+   "linhas_relogios": "16802-16945",
+   "relogios": 144,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "grande": true,
+   "fontes": 111,
+   "passadas": {
+    "1": [
+     96,
+     141
+    ],
+    "2": [
+     15,
+     1
+    ]
+   },
+   "obs": "sozinha (grande: EveryWatch 201 à venda/2.340 vendidos; 66 no catálogo + 35 entradas de arquivo). Site oficial (catálogo, arquivo 2017-2026, páginas ocultas via busca), Time+Tide US/UK/AU, Kickstarter 2017 (6 cores HMS 001 e Bicompax 001), colaborações (Perpétuel, Revolution, Worn & Wound, A Collected Man, WoS, H°M'S Japão, Bangladesh Watch Club, SpaceOne, Only Watch, TimeForArt). Marca identifica por nome; refs internas (HMS13CSALM37, TRI11PAND38, HDM11TTCA99, PRI12TFA16, QP01) só onde lojas/leilões mostraram. Vermelha: refs internas não publicadas, página 2 de WoS no arquivo inalcançável, Bicompax 001 DLC Gilt e GMT MK-II sem foto, possíveis edições de lojas não achadas. Rally Timer 2026 (não é de pulso) incluído. M156 preenchido. Próxima: Bamford (157)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 150,
+   "marca": "Baltic",
+   "linha_marcas": 156,
+   "linhas_relogios": "16802-16946",
+   "relogios": 145,
+   "vermelho": true,
+   "complemento": true,
+   "fontes": 37,
+   "passadas": {
+    "3": [
+     37,
+     1
+    ]
+   },
+   "obs": "3a passada a pedido: +1 (Stepgraph protótipo em tântalo 'Art of the earth', TimeForArt 2026, peça única) e melhorias em 21 linhas (fotos GMT MK-II e Seconde Majeure; MR01 'Oracle' West Wood Time 300 peças; Tricompax Tropical 200 peças; Heures du Monde 1a série 200 peças; numeração 1a série Tourer). Lojistas oficiais (30) checados: Red Army SG/MY, West Wood Time HK, Delugs, H°M'S. Chrono24 e Long Beach Watch Club não abriram. Próxima continua Bamford (157)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 151,
+   "marca": "Bamford",
+   "linha_marcas": 157,
+   "linhas_relogios": "16947-17197",
+   "relogios": 251,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "grande": true,
+   "fontes": 175,
+   "passadas": {
+    "1": [
+     142,
+     243
+    ],
+    "2": [
+     20,
+     5
+    ],
+    "3": [
+     13,
+     3
+    ]
+   },
+   "obs": "sozinha (grande). Bamford London (GMT, B347, B80, D-300, Mayfair, Mayfair 2.0, Mayfair Sport, Nepro) + colaborações Bamford Watch Department (TAG Heuer, Zenith, Bulgari, GP, Franck Muller, Chopard, Bremont, Oris, Seiko, FC, Corum, G-Shock) + Rolex personalizados vistos em leilões. Vermelha: configurador, Rolex sob encomenda, 15 peças únicas Fordite, páginas 2 das coleções/blog inalcançáveis. 4 relógios de mesa GMT fora. M157 preenchido. Próxima: Bangalore Watch Company (158)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 152,
+   "marca": "Bangalore Watch Company",
+   "linha_marcas": 158,
+   "linhas_relogios": "17198-17243",
+   "relogios": 46,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes": 71,
+   "passadas": {
+    "1": [
+     71,
+     46
+    ]
+   },
+   "obs": "site oficial (27 relógios atuais) + aposentados via imprensa: Renaissance Automatic (6) e Stri (5) de 2018, MACH 1 1ª geração 42 mm (6, inclusive Officer's Blue 2020), Apogee 2021 em titânio (Deep Space, Extraterrestrial). Forty Seven é relógio de bolso (incluído). Não usa códigos. M158 preenchido."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 152,
+   "marca": "Barrelhand Project 1",
+   "linha_marcas": 159,
+   "linhas_relogios": "17244-17247",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes": 17,
+   "passadas": {
+    "1": [
+     17,
+     4
+    ]
+   },
+   "obs": "Project 1 (20 peças), protótipo Project 1 (2017), Monolith, Monolith Professional (EVA). Sem logo achado. M159 preenchido."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 152,
+   "marca": "Barrington Griffiths Watch Company",
+   "linha_marcas": 160,
+   "linhas_relogios": "17248-17259",
+   "relogios": 12,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes": 26,
+   "passadas": {
+    "1": [
+     26,
+     12
+    ]
+   },
+   "obs": "Modern Classic (4 cores), Sandon Original (2), Sandon 2.0 (2), Sandon 34, Viamastra, Radian 34 mm, Edição CSP. Loja oficial carrega por JavaScript (produtos invisíveis à leitura). M160 preenchido. Próxima: Batavi (161)."
+  },
+  {
+   "data": "2026-10-20",
+   "marca": "Batavi",
+   "linha_marcas": 161,
+   "linhas_relogios": "17260-17287",
+   "relogios": 28,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 43
+  },
+  {
+   "data": "2026-10-20",
+   "marca": "Bathys",
+   "linha_marcas": 162,
+   "linhas_relogios": "17288-17311",
+   "relogios": 24,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 50,
+   "passadas": "1: 28 fontes/18; 2: 12/5; 3: 10/1"
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 154,
+   "marca": "Baume & Mercier",
+   "linha_marcas": 163,
+   "linhas_relogios": "17312-18150",
+   "relogios": 839,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 166,
+   "passadas": {
+    "1": [
+     131,
+     724
+    ],
+    "2": [
+     22,
+     55
+    ],
+    "3": [
+     13,
+     9
+    ]
+   },
+   "obs": "Marca grande, feita sozinha. 173 atuais do site oficial (C = página oficial quando sem foto) + descontinuados (WatchBase, Essential Watches, The Watch Pages, eBay, CollectorSquare, leilões). ~470 linhas com link de página em vez de foto. Chrono24 e EveryWatch não apareceram nas buscas. M163: venda ao Damiani Group (2026). Próxima: Bausele (164)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 155,
+   "marca": "Bausele",
+   "linha_marcas": 164,
+   "linhas_relogios": "18151-18255",
+   "relogios": 105,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 95,
+   "passadas": {
+    "1": [
+     82,
+     110
+    ],
+    "2": [
+     13,
+     4
+    ]
+   },
+   "obs": "Tratada como grande (Terra Australis configurável com 850 combinações; >100 modelos desde 2011), feita sozinha. Vermelha: OceanMoon III tinha 5 versões (só The Drift achada), OceanMoon I sem versões nomeadas, encomendas militares privadas. Chrono24 e EveryWatch não apareceram nas buscas. Próxima: Bavarian Crono (165), depois BCHH (166)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 156,
+   "marca": "Bavarian Crono",
+   "linha_marcas": 165,
+   "linhas_relogios": "18256-18284",
+   "relogios": 29,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 31,
+   "passadas": {
+    "1": [
+     20,
+     26
+    ],
+    "2": [
+     11,
+     3
+    ]
+   },
+   "obs": "Relógios-velocímetro de carros clássicos. Loja oficial bavarian-crono.de não abre; eBay não abre. Sem códigos (BC/42 e BC/60 são caixas)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 156,
+   "marca": "BCHH",
+   "linha_marcas": 166,
+   "linhas_relogios": "18285-18311",
+   "relogios": 27,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 45,
+   "passadas": {
+    "1": [
+     31,
+     26
+    ],
+    "2": [
+     14,
+     1
+    ]
+   },
+   "obs": "Tratada como grande (sob encomenda, peças únicas). Inclui o relógio de mesa Celestial Infinity. 3 das 7 peças-conceito de 2021 sem nome conhecido. Beaubleu (167) adiada para a próxima execução."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 157,
+   "marca": "Beaubleu",
+   "linha_marcas": 167,
+   "linhas_relogios": "18312-18352",
+   "relogios": 41,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 54,
+   "passadas": {
+    "1": [
+     54,
+     43
+    ]
+   },
+   "obs": "Site real beaubleu-paris.com (G aponta beaubleu.com). Catálogo fechado: B01 4, Union 7, Vitruve 6, Ecce 3, Ecce Figura 6, Seconde Française 6, La Pièce 9."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 157,
+   "marca": "Beaucroft",
+   "linha_marcas": 168,
+   "linhas_relogios": "18353-18389",
+   "relogios": 37,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 40,
+   "passadas": {
+    "1": [
+     40,
+     37
+    ]
+   },
+   "obs": "Inclui Senate (2022, páginas ocultas), Bespoke (Kickstarter 2023) e edições Penfold, BWD, Solaris GMT (Time+Tide), The Punk."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 157,
+   "marca": "Beaufort",
+   "linha_marcas": 169,
+   "linhas_relogios": "18390-18455",
+   "relogios": 66,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 61,
+   "passadas": {
+    "1": [
+     61,
+     63
+    ]
+   },
+   "obs": "Revelou-se grande (peças únicas Permian Rift: 20 obsidiana S01-S20, 14 azurita A01-A14, 1 jaspe; fotos associadas pelo nº do arquivo). Site beaufort-watches.com (G vazio) só apareceu em busca estendida."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 158,
+   "marca": "Beauregard",
+   "linha_marcas": 170,
+   "linhas_relogios": "18456-18516",
+   "relogios": 61,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 59,
+   "passadas": {
+    "1": [
+     59,
+     61
+    ]
+   },
+   "obs": "Tratada como grande (Dahlias peças únicas por pedra; Lili/Lili Bouton 8 pedras × 2 ouros). Catálogo conferido pela página Download do site e pela coleção da Oster Jewelers. Próximas: Beda'a (pequena) e Bedat & Co (provável grande)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 159,
+   "marca": "Beda'a",
+   "linha_marcas": 171,
+   "linhas_relogios": "18517-18562",
+   "relogios": 46,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 71,
+   "passadas": {
+    "1": [
+     71,
+     46
+    ]
+   },
+   "obs": "Site oficial real bedaawatches.com (G errado). Catálogo conferido com loja oficial, arquivo de edições limitadas e loja Time Keeper (Kuwait). Bedat & Co (172) tratada como grande: fica sozinha na próxima execução."
+  },
+  {
+   "data": "2026-10-20",
+   "marca": "Bedat & Co",
+   "linha_marcas": 172,
+   "linhas_relogios": "18563-19067",
+   "relogios": 505,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 142,
+   "passadas": {
+    "1": {
+     "fontes": 118,
+     "novos": 319
+    },
+    "2": {
+     "fontes": 24,
+     "novos": 3
+    }
+   }
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 161,
+   "marca": "Behrens",
+   "linha_marcas": 173,
+   "linhas_relogios": "19068-19165",
+   "relogios": 98,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 168,
+   "passadas": {
+    "1": {
+     "fontes": 123,
+     "novos": 93
+    },
+    "2": {
+     "fontes": 33,
+     "novos": 7
+    },
+    "3": {
+     "fontes": 12,
+     "novos": 0
+    }
+   },
+   "obs": "Site oficial real behrenswatches.com + loja behrenswatches.shop (G errado; só aparecem em busca 'extended'). Catálogo atual oficial conferido. Vermelha: linhas antigas (Star Trek, Navigator, Starship 1ª geração, Astronomer) e ~83 itens da chinawatchshop sem título não listáveis. Próxima: Beijing Watch Factory (174), provável grande."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 162,
+   "marca": "Beijing Watch Factory",
+   "linha_marcas": 174,
+   "linhas_relogios": "19166-19662",
+   "relogios": 497,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 197,
+   "passadas": {
+    "1": {
+     "fontes": 135,
+     "novos": 126
+    },
+    "2": {
+     "fontes": 40,
+     "novos": 267
+    },
+    "3": {
+     "fontes": 22,
+     "novos": 57
+    }
+   },
+   "obs": "Site oficial beijingwatch.com bloqueado (https→http em laço, robots); ~95 modelos entraram pelos títulos de busca com link da página. Base principal: xbiao.com (585 modelos listados; ~320 alcançados, paginação em JavaScript). Loja internacional beijingwatches.com e chinawatchshop. Vermelha: ~250 modelos do xbiao e centenas de itens do site oficial não alcançáveis; vintage sem referências. Próxima: Bell & Ross (175), grande."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 163,
+   "marca": "Bell & Ross",
+   "linha_marcas": 175,
+   "linhas_relogios": "19663-20333",
+   "relogios": 671,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 203,
+   "passadas": {
+    "1": {
+     "fontes": 165,
+     "novos": 653
+    },
+    "2": {
+     "fontes": 27,
+     "novos": 53
+    },
+    "3": {
+     "fontes": 11,
+     "novos": 3
+    }
+   },
+   "obs": "Site oficial bellross.com (Shopify) abre; fichas de produtos antigos achadas por busca. Base: WatchBase (br-01, br-03, vintage, marine), coleção oficial Other Collections (100 refs), Essential Watches (arquivo 1995–2015), Hourstriker, Exquisite, The Watch Company. Só 273 de 671 com foto; o resto tem link da página. Vermelha: arquivo oficial de 789 produtos (40 págs) inalcançável, BR S (89 oficiais), variantes antigas sem refs. Fundação divergente (1994 x 1992) anotada em M. Próxima: Belmoto (176)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 164,
+   "marca": "Belmoto",
+   "linha_marcas": 176,
+   "linhas_relogios": "20334-20340",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 25,
+   "passadas": {
+    "1": {
+     "fontes": 25,
+     "novos": 6
+    }
+   },
+   "obs": "Site belmoto.gt bloqueado (robots); loja oficial dentro de magrette.com. Catálogo fechado: 3 Tourer + 4 Track-Day = lançamento dez/2015. Bateria só com a Belmoto porque a seguinte, Benarus (177), foi tratada como grande (ver historico/notas_benarus_dimensionamento.md). Próxima: Benarus (177), sozinha."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 165,
+   "marca": "Benarus",
+   "linha_marcas": 177,
+   "linhas_relogios": "20341-20520",
+   "relogios": 180,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 164,
+   "passadas": {
+    "1": {
+     "fontes": 136,
+     "novos": 167
+    },
+    "2": {
+     "fontes": 16,
+     "novos": 8
+    },
+    "3": {
+     "fontes": 12,
+     "novos": 3
+    }
+   },
+   "obs": "Site oficial Wix benaruswatch.com abre (loja 45 produtos + páginas escondidas: Mako ETA 2021, Megalodon 2021, Moray 44 GMT Ti 20 pçs, Moray 47 Ti, Moray 40 brass). Não usa códigos (só VM02/VM05 do Vintage Moray). Histórico 2008–2016 por Watch Report, WristWatchReview, w&w, aBlogtoWatch, OceanicTime; anúncios WatchUSeek via WatchCharts. 23 fichas da loja ficaram com link da página (sem foto). Vermelha: combinações do Megalodon 2015, Vintage Moray (8 opções), Sea Devil 300 pçs, cores de Remora/Moray 3/IV, WatchUSeek bloqueado. Próxima: Benrus (178)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 166,
+   "marca": "Benrus",
+   "linha_marcas": 178,
+   "linhas_relogios": "20521-20660",
+   "relogios": 140,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 135,
+   "passadas": {
+    "1": {
+     "fontes": 98,
+     "novos": 123
+    },
+    "2": {
+     "fontes": 26,
+     "novos": 7
+    },
+    "3": {
+     "fontes": 11,
+     "novos": 2
+    }
+   },
+   "obs": "Site oficial benrus.com (Shopify) abre; 18 modelos atuais + páginas escondidas (Type I-C, Type II 500 pçs, Series #3061 2022, Orbit Robot). Fases: vintage 1921–1980, licenciamento (Sky Chief 2015, H6, Infantry, MBR japonesa), relançamento 2020, linha Suíça 2025–26, linha japonesa (TYPE-I/II/III, DTU). ~73 de 140 com foto. Vermelha: centenas de refs vintage (EveryWatch 133 anúncios só de Sky Chief), variantes 2020 sem código, Chrono24 inalcançável, eBay não abre. Próxima: Benzinger (179)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 167,
+   "marca": "Benzinger",
+   "linha_marcas": 179,
+   "linhas_relogios": "20661-20771",
+   "relogios": 111,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 75,
+   "passadas": {
+    "1": {
+     "fontes": 64,
+     "novos": 113
+    },
+    "2": {
+     "fontes": 11,
+     "novos": 2
+    }
+   },
+   "obs": "Site oficial jochenbenzinger.de (página única) abre, incl. versão 2023 e EN: 83 itens (GAP 1/2, Regulateur, Subskription, Skelett, Classic, ONE 1–6, encomendas, movimentos refinados); rotores avulsos excluídos. Lojas Watchbuys (SKUs BE-xxx na coluna E), Define Watches, Exquisite, Horology by the Sea. Não usa códigos. Excluídos: Jaeger & Benzinger (marca à parte, sem linha em Marcas) e Benzinger Boutique (linha da Grieb & Benzinger). Vermelha: ~100 peças únicas/ano, encomendas não publicadas, mostradores configuráveis, Chrono24 inacessível. Soma 'novos' da 1ª passada inclui 4 itens depois fundidos/retirados. Próxima: Bergstern (180)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 168,
+   "marca": "Bergstern",
+   "linha_marcas": 180,
+   "linhas_relogios": "20772-21109",
+   "relogios": 338,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 73,
+   "passadas": {
+    "1": {
+     "fontes": 53,
+     "novos": 311
+    },
+    "2": {
+     "fontes": 10,
+     "novos": 4,
+     "novos_por_titulo_de_busca": 9
+    },
+    "3": {
+     "fontes": 10,
+     "novos": 2,
+     "novos_por_titulo_de_busca": 3
+    }
+   },
+   "obs": "Marca própria da rede polonesa Apart (Bergstern/R2 Trade, Sarnen; importador R2 Center, Suchy Las). Site bergstern.ch (só catálogo atual, mesmos IDs da Apart). Códigos B+modelo(001–099)+G/L+nº sequencial (001–410): faltam ~70 números, quase todos de 2014–2017. Calibres do manual da Apart na coluna E. ~32 linhas só com link de anúncio (sem foto). Coluna M preenchida. Próxima: Bering (181), grande, sozinha."
   }
+ ],
+ "marcas_ja_feitas_fora_da_ordem": {
+  "Erbprinz": {
+   "linha_marcas": 475,
+   "linhas_relogios": "6773-6828"
+  },
+  "Messerschmitt": {
+   "linha_marcas": 904,
+   "linhas_relogios": "6829-7094"
+  }
+ },
+ "em_execucao": "2026-10-20T20:41:30Z",
+ "ultimo_sinal": "2026-10-20T20:41:30Z",
+ "em_andamento": {
+  "marcas": [
+   "Bering"
+  ],
+  "linha_marcas": 181,
+  "grande": true,
+  "relogios": "historico/parcial_Bering_relogios.txt",
+  "fontes": "historico/parcial_Bering_fontes.txt",
+  "notas": "historico/notas_Bering.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
