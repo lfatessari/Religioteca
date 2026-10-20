@@ -6,3 +6,5 @@ Grande (muitas linhas/cores/colabs). G=behrens.watch
 - chinawatchshop tem 83 produtos Behrens (5 páginas), muitos com título só "Behrens" (1369-1382). Paginação não aberta (regra de endereços).
 - Seções feitas: 1, 2 (site não abrível), início 7.
 - Da Vinci Code = B023 (Monochrome). Mars/Earth perpetual calendar (Mars Project One?) a buscar. Loupe: Orion One BHR018.
+- Phillips artigo: Star Trek (2017, slug b005-blu-a), Navigator (2017 world time), Astronomer (2018 wandering hour, B013), Project One (Terra/Marte digital, 200 peças), Ace of Spades × Chaykin (3 versões: titânio cristalizado, DLC preto, titânio natural; 200 cada; Asia-only as duas últimas). A buscar fotos/códigos.
+- Interstellar Travel = Space Traveler (GPHG B012B). Starship (B011) 1ª ger.; B011C = Starship II (3ª geração → existe B011A/B?).
