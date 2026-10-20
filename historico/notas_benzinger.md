@@ -12,3 +12,6 @@ Falta: 2c (buscas site:), 3 buscas extras, 4 catálogos, 6 Chrono24, 9 imprensa,
 - Boutique Collection 2010 (White Dragon, Coffee Blossom): Europa Star = Benzinger; Worldtempus = Grieb & Benzinger. Entraram com nota.
 - Minute repeater de platina sem nome (WatchDavid) → não virou linha.
 Seções feitas: 1,2,2b-ok,5 parcial,6 (Chrono24 não abre),7,8,9 parcial
+## Fim da 1ª passada (64 fontes): 4 fontes seguidas sem novidade.
+Decisão: VERMELHA — ~100 peças únicas/ano (Revolution), encomendas (Sonderanfertigungen) não publicadas, mostradores configuráveis (cores, guilloché, fontes sob pedido), Chrono24 inacessível, ONE com movimentos antigos (Patek 1917) sem correspondência certa.
+## 2ª passada: alvo = peças únicas, leilões alemães (Dr. Crott, Auktionen Dr. Crott, Henry's), uhrforum.de, Japão, Instagram, fontes de veredelung.
