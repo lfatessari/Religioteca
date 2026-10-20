@@ -6,3 +6,7 @@ Linha Marcas 171. Bedat & Co (172) tratada como grande (1996, dezenas de refs B3
 - fortress-black: página oculta (CLIENT_ERROR) — entra via título.
 - Lista do site (atuais): Angles 37 Black/White/Gray/Brown, Angles 37 Boutique Edition, Angles Stone (Tiger Eye, Malachite, Aventurine, African Hawk Eye), Diamond Angles 37 (Tiger Eye, Aventurine, Malachite), Angles 30 (White, Black, Maroon), Mecaline Black/Warm Gray, Mecaline Diamond Black/Warm Gray, Guichets Gold/Silver (BQAS0526-37), Eclipse (preta, 9200 QAR), Eclipse II Aventurine/Malachite, Fortress White/Silver/Blue (+ Fortress Black oculto), Attrayant 38 ×4, 35 ×4, Attrayant com bracelete (falta abrir), Archive 7 LEs.
 - Seções feitas: 1, 2 (parcial). Falta: produtos individuais p/ fotos, attrayant-with-bracelet, angles-guichets, our-story, 2c, 3..10b.
+- Pista: foto Website-Angles-Maroon-Edited-2.jpg (2024/09) -> existiu Angles 37 Maroon?
+- Fundador: Hader Al Suwaidi (Monochrome) — coluna I diz Mohammed Al-Darwish (provável erro). CEO/designer Sohaib Maghnam. Origem 2016 sob grupo Albidaa; marca acelerada em 2024. Doha + gestão em Londres.
+- Fortress 1ª geração (2024) com numerais árabes orientais: cores desconhecidas; handle oculto fortress-black. Fortress II (2025, W&W): cinza, branco, azul, numerais de Wissam Shawkat.
+- Eclipse II: 100 peças/ano (Monochrome).

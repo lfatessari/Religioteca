@@ -1731,7 +1731,7 @@
   }
  },
  "em_execucao": "2026-10-20T09:41:49Z",
- "ultimo_sinal": "2026-10-20T09:47:13Z",
+ "ultimo_sinal": "2026-10-20T09:49:46Z",
  "em_andamento": {
   "marcas": [
    "Beda'a"
@@ -1742,7 +1742,8 @@
   "fontes": "historico/parcial_bedaa_fontes.txt",
   "notas": "historico/notas_bedaa.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2"
   ],
   "passada": 1
  }
