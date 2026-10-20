@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 164,
-  "ultima_versao": 154,
+  "proxima_linha_marcas": 165,
+  "ultima_versao": 155,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1573,6 +1573,29 @@
         ]
       },
       "obs": "Marca grande, feita sozinha. 173 atuais do site oficial (C = página oficial quando sem foto) + descontinuados (WatchBase, Essential Watches, The Watch Pages, eBay, CollectorSquare, leilões). ~470 linhas com link de página em vez de foto. Chrono24 e EveryWatch não apareceram nas buscas. M163: venda ao Damiani Group (2026). Próxima: Bausele (164)."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 155,
+      "marca": "Bausele",
+      "linha_marcas": 164,
+      "linhas_relogios": "18151-18255",
+      "relogios": 105,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 95,
+      "passadas": {
+        "1": [
+          82,
+          110
+        ],
+        "2": [
+          13,
+          4
+        ]
+      },
+      "obs": "Tratada como grande (Terra Australis configurável com 850 combinações; >100 modelos desde 2011), feita sozinha. Vermelha: OceanMoon III tinha 5 versões (só The Drift achada), OceanMoon I sem versões nomeadas, encomendas militares privadas. Chrono24 e EveryWatch não apareceram nas buscas. Próxima: Bavarian Crono (165), depois BCHH (166)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
