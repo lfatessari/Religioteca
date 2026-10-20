@@ -1452,5 +1452,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-20T01:41:26Z",
+  "ultimo_sinal": "2026-10-20T01:41:26Z",
+  "em_andamento": {
+    "marcas": [
+      "Bamford"
+    ],
+    "linha_marcas": 157,
+    "grande": true,
+    "relogios": "historico/parcial_Bamford_relogios.txt",
+    "fontes": "historico/parcial_Bamford_fontes.txt",
+    "notas": "historico/notas_Bamford.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
