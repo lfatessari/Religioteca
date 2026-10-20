@@ -1710,5 +1710,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T08:41:38Z",
+ "ultimo_sinal": "2026-10-20T08:41:38Z",
+ "em_andamento": {
+  "marcas": [
+   "Beauregard"
+  ],
+  "linha_marcas": 170,
+  "grande": false,
+  "relogios": "historico/parcial_beauregard_relogios.txt",
+  "fontes": "historico/parcial_beauregard_fontes.txt",
+  "notas": "historico/notas_beauregard.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
