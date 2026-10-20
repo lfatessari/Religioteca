@@ -2062,5 +2062,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T23:41:23Z",
+ "ultimo_sinal": "2026-10-20T23:41:23Z",
+ "em_andamento": {
+  "marcas": [
+   "Bernhardt"
+  ],
+  "linha_marcas": 185,
+  "grande": false,
+  "relogios": "historico/parcial_Bernhardt_relogios.txt",
+  "fontes": "historico/parcial_Bernhardt_fontes.txt",
+  "notas": "historico/notas_Bernhardt.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
