@@ -1822,5 +1822,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T13:41:25Z",
+ "ultimo_sinal": "2026-10-20T13:41:25Z",
+ "em_andamento": {
+  "marcas": [
+   "Bell & Ross"
+  ],
+  "linha_marcas": 175,
+  "grande": true,
+  "relogios": "historico/parcial_bellross_relogios.txt",
+  "fontes": "historico/parcial_bellross_fontes.txt",
+  "notas": "historico/notas_bellross.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
