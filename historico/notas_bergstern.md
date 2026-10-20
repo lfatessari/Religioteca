@@ -14,3 +14,5 @@ Marcas: G vazio (site bergstern.ch segundo masterhorologer); C vazio.
 - rp.pl 2021: Active GMT 43 mm, luneta carbono, safira, 100 m (sem código; provavelmente B060G/B065G).
 - Logo: https://bergstern.ch/img/bergstern.png
 - Europa Star: Harmony 2017 Ronda 7004.P (dia retrógrado, data grande) = família B040G (sem saber a variante); Sport 2015 cronógrafo azul guilloché (provável B020G/B022G).
+- Lojas fora da Polônia: Stepec (França, 4 refs), Faceluxus (Suíça, catálogo 2018 PDF: faceluxus.ch/app/download/13393501488/bergstern-catalogue-2018.pdf)
+- §2c: páginas antigas da Apart (IDs 6555, 6562) redirecionam para a lista da marca — produtos fora de linha não ficam acessíveis no site oficial/Apart.
