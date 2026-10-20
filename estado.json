@@ -2041,7 +2041,7 @@
   }
  },
  "em_execucao": "2026-10-20T22:41:25Z",
- "ultimo_sinal": "2026-10-20T22:46:49Z",
+ "ultimo_sinal": "2026-10-20T22:50:04Z",
  "em_andamento": {
   "marcas": [
    "Bernhard Lederer (BLU)"
@@ -2053,7 +2053,9 @@
   "notas": "historico/notas_lederer.md",
   "secoes_feitas": [
    "1",
-   "3"
+   "3",
+   "5",
+   "9"
   ],
   "passada": 1
  }
