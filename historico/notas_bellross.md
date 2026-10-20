@@ -30,3 +30,5 @@ Critério: últimas 3 fontes independentes (lepage.fr, watchcraze.com.au, coleç
 7. Fontes: ~150 URLs distintas.
 ## Vermelha: SIM — arquivo oficial com 789 produtos (40 págs, só pág. 13 alcançável), BR S (89 oficiais), variantes antigas BR 01 2005–2010 (Essential cortada), linha 1992–2004 sem refs.
 ## 2ª passada: começar agora (passada=2).
+## Fim da 2ª passada (14:44 UTC). Novidades: lista de referências Essential (linha antiga 1995–2008: Function, Medical, Mystery Diamond, Geneva 126, Vintage 120/123/126 ouro, Diver 300...), BR S quartzo (12 refs), G.I. Joe, Wayne Enterprises (Uncrate), GIGN, BR 03-94 Black & White, Twelve O'Clock, Jonathan Ellery, Peugeot 908 RC, BR-05 Red Black Ceramic, Skeleton Gold. Parou: 3 fontes seguidas sem novidade (presslounge, wristler, elcronometro).
+## 3ª passada (>5 novos na 2ª): começar.
