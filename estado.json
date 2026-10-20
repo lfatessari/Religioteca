@@ -2003,17 +2003,21 @@
   }
  },
  "em_execucao": "2026-10-20T21:41:34Z",
- "ultimo_sinal": "2026-10-20T21:41:34Z",
+ "ultimo_sinal": "2026-10-20T21:45:13Z",
  "em_andamento": {
   "marcas": [
-   "Berne"
+   "Berne",
+   "Berneron"
   ],
   "linha_marcas": 182,
   "grande": false,
-  "relogios": "historico/parcial_Berne_relogios.txt",
-  "fontes": "historico/parcial_Berne_fontes.txt",
-  "notas": "historico/notas_Berne.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [
+   "Berne:1-10b passada1"
+  ],
+  "passada": 1,
+  "obs": "Bernhard Lederer (184) tratado como grande na dúvida (BLU + Lederer) -> próxima execução sozinho"
  }
 }
