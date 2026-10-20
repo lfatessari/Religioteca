@@ -1609,21 +1609,20 @@
   }
  },
  "em_execucao": "2026-10-20T06:41:17Z",
- "ultimo_sinal": "2026-10-20T06:50:46Z",
+ "ultimo_sinal": "2026-10-20T06:52:09Z",
  "em_andamento": {
   "marcas": [
    "Bavarian Crono",
-   "BCHH",
-   "Beaubleu"
+   "BCHH"
   ],
   "linha_marcas": 165,
-  "grande": false,
+  "grande": true,
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "Bavarian Crono: completa (dados_bavarian.txt, marca_bavarian.json, RESULTADO OK em tmp)",
-   "BCHH: iniciando"
+   "Bavarian Crono: completa",
+   "BCHH: 1 (grande, Beaubleu adiada)"
   ],
   "passada": 1
  }
