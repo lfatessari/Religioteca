@@ -7,3 +7,7 @@ Grande (manufatura estatal, catálogo enorme). Linha Marcas 174.
 - chinawatchshop: uma página por produto (IDs numéricos); lista por marca só via filtro (não abrir endereço montado) → buscar IDs.
 - Logo: http://www.europastar.com/IMG/logo/arton1004084111.jpg
 - 3435 é Sea-Gull M201SC 'Beijing' (não é da marca).
+- WatchPatrol: ZhuFeng B18 Enamel (Reddit), SB-5 (Relojes Especiales), Blue dial auto. Buscar.
+- Site oficial: robots bloqueia (search ROBOTS_DISALLOWED) e item/* redireciona https→http. Itens colhidos por títulos de busca site:beijingwatch.com (oficial_items.txt). Categorias: 3 高端定制, 4 北海, 5 经典, 10 Complex Movement, 23 潜锋系列 (Qianfeng).
+- 潜锋系列 = Bladelegant (cat 23); 启航 = cat 25; 丝语 Silk Whisper = cat 22 (feminino); Oriental Culture = cat 24; 复刻 Reissue = cat 6.
+- Séries oficiais: 猎户 Orion (BG09xxxx). Itens 56/57 são movimentos (não entram).
