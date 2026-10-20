@@ -21,3 +21,5 @@ Grande (catálogo enorme, centenas de refs). Sozinha.
 - Vermelha: catálogo de mais de 1.500 anúncios (guenstiger), ~76 páginas do comparador e só ~20 alcançadas; páginas 2–3 da Helveti e da Watchdirect não alcançadas; muitas variações sem foto.
 ## 2ª passada (alvo): modelos antigos 2010–2016, masculinos, edições japonesas, páginas de listas não alcançadas.
 - 2ª passada, títulos de busca lote A: +5
+- Japão (fashion-press): "Time to Care" (32 mm, 2022), North Pole (36 mm barras / 26 mm pontos = séries 13436/13426), Changes, Scandinavian Solar (39/31/27 mm = 14639/14631/14627), Time Is Life, Ocean Pebble (Pebble com pulseira de plástico reciclado), Polar Night 2019 (limitado Japão), Cherry Blossom 2023 (15729-009, numerado) e 2026 (Classic Diamond 17724-069).
+## Fim da 2ª passada (21:26): 10 fontes novas, +28 relógios (mais 6 por título de busca) → fazer 3ª passada.
