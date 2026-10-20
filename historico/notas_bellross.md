@@ -10,3 +10,7 @@ Grande (maison, 132 produtos no site oficial atual; WatchBase 218; centenas de r
 - Linhas sem ref (nome só) precisam ser casadas com refs depois (dedupe manual no fim).
 ## Falta
 2 oficial (fichas), 2c, 3, 4, 5 (EveryWatch, hourstriker, watchpatrol), 6 Chrono24, 7 lojas, 8, 9, 10, 10b
+- Lidos: oficial páginas 1,2,4,6 da toutes-nos-montres (títulos) + fichas Helipad, ST Dupont, Nightlum; The Watch Company p2,4,6 (refs + link da página, sem foto); Hourstriker br05 p1 e br-123 (inclui linha antiga Vintage 123/Geneva 123/Jumping Hour); WatchBase marine (BR 02).
+- Linha antiga (era Sinn, anos 1990–2000): Space 1/2/3, Hydromax, Type Démineur, Type Marine, Vintage 120/121/123/126/130/583, Classic, Professional Diver 300M, Geneva 123/126 → buscar (seção 10).
+- Hourstriker famílias: BR 01 (123), BR 02 (14), BR 120 (6), BR 126 (61), BR S (75) — índices não aparecem em busca; só br05 e br-123 apareceram.
+- EveryWatch: página da marca não aparece em busca.
