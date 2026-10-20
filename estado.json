@@ -1413,7 +1413,7 @@
     }
   },
   "em_execucao": "2026-10-20T00:41:50Z",
-  "ultimo_sinal": "2026-10-20T00:55:31Z",
+  "ultimo_sinal": "2026-10-20T00:56:52Z",
   "em_andamento": {
     "marcas": [
       "Baltic"
@@ -1426,7 +1426,8 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c"
+      "2c",
+      "3"
     ],
     "passada": 1
   }
