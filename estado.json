@@ -2039,5 +2039,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T22:41:25Z",
+ "ultimo_sinal": "2026-10-20T22:41:25Z",
+ "em_andamento": {
+  "marcas": [
+   "Bernhard Lederer (BLU)"
+  ],
+  "linha_marcas": 184,
+  "grande": true,
+  "relogios": "historico/parcial_lederer_relogios.txt",
+  "fontes": "historico/parcial_lederer_fontes.txt",
+  "notas": "historico/notas_lederer.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
