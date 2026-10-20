@@ -12,3 +12,4 @@
 - Fordite Carrera: duas séries [001-004] e [1-10] = 14 peças únicas + Zenith Pilot CP-2 Fordite 1/1.
 - MARCA VERMELHA (decidido): configurador (Mayfair original, TAG/Zenith/GP/FM customizados), Rolex customizados sob encomenda, peças únicas Fordite.
 - Bremont redirect www.bremont.com/en-us pediu permissão (PROVENANCE): não repetir.
+- hypebeast brands page/2 (link de página) pediu permissão: não repetir.
