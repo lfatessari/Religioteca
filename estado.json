@@ -1655,7 +1655,7 @@
   }
  },
  "em_execucao": "2026-10-20T07:41:26Z",
- "ultimo_sinal": "2026-10-20T08:07:14Z",
+ "ultimo_sinal": "2026-10-20T08:10:02Z",
  "em_andamento": {
   "marcas": [
    "Beaubleu",
@@ -1669,7 +1669,9 @@
   "secoes_feitas": [
    "1",
    "2",
-   "2c"
+   "2c",
+   "3",
+   "9"
   ],
   "passada": 1
  }
