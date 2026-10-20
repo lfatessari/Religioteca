@@ -1897,7 +1897,7 @@
   }
  },
  "em_execucao": "2026-10-20T17:41:12Z",
- "ultimo_sinal": "2026-10-20T17:41:12Z",
+ "ultimo_sinal": "2026-10-20T17:47:30Z",
  "em_andamento": {
   "marcas": [
    "Benrus"
@@ -1907,7 +1907,10 @@
   "relogios": "historico/parcial_benrus_relogios.txt",
   "fontes": "historico/parcial_benrus_fontes.txt",
   "notas": "historico/notas_benrus.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
