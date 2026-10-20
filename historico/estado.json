@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 161,
-  "ultima_versao": 152,
+  "proxima_linha_marcas": 163,
+  "ultima_versao": 153,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1525,6 +1525,27 @@
         ]
       },
       "obs": "Modern Classic (4 cores), Sandon Original (2), Sandon 2.0 (2), Sandon 34, Viamastra, Radian 34 mm, Edição CSP. Loja oficial carrega por JavaScript (produtos invisíveis à leitura). M160 preenchido. Próxima: Batavi (161)."
+    },
+    {
+      "data": "2026-10-20",
+      "marca": "Batavi",
+      "linha_marcas": 161,
+      "linhas_relogios": "17260-17287",
+      "relogios": 28,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 43
+    },
+    {
+      "data": "2026-10-20",
+      "marca": "Bathys",
+      "linha_marcas": 162,
+      "linhas_relogios": "17288-17311",
+      "relogios": 24,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 50,
+      "passadas": "1: 28 fontes/18; 2: 12/5; 3: 10/1"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

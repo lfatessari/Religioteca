@@ -13,3 +13,11 @@ Geograaf 2022: GMT = salmão (Arctic Dawn), branco (Rose de Taïf); Worldtimer =
 Atelier 2023 Miyota 9039 39mm 100m. Marina Chronograaf 2025 Seagull ST1901 38mm 50m.
 Architect 2021 Miyota 9039 39mm 100m: Copper, Blue steel, Walnut; jan/2022 Turquoise blue, Tony purple.
 Imagens já: geograaf coleção (6), atelier coleção (Aquamarine, Dune, Rock), Amsterdam.
+## 10b auto-auditoria
+1 Blog/imprensa: site sem blog; lidos 9 artigos de imprensa (Monochrome x6, aBlogtoWatch x2, W&W, Fratello falhou). OK
+2 Produtos escondidos: buscas por product-page de cada linha; Sahara só na imprensa. OK
+3 Lojas: SeriousWatches (usados Atelier). Marca vende direto; poucas lojas.
+4 1º modelo: Noordzee (não produzido); 1º produzido Kosmopoliet GMT 2020. OK
+5 J: Kosmopoliet, Architect, Geograaf, Atelier, Marina Chronograaf — todos achados.
+6 Pamukkale 75 peças na B. Sem peças únicas.
+7 43 fontes.

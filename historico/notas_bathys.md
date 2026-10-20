@@ -13,3 +13,5 @@ Outros: Cesium 133 (2013, atômico), Lunar Wahine (2009, 36mm moonphase quartz),
 - Cesium 133 (2013-14, Kickstarter, protótipos; 6 primeiros). imgs ablogtowatch 2014/04
 - Bomb Timer: protótipo 2010, nunca produzido comercialmente (ablogtowatch) → entra? Não (só protótipo/recompensa). Decidir.
 - 2007: "4 modelos em 18 versões" → provável VERMELHA.
+## 10b auto-auditoria
+Site oficial fora do ar (sem blog/imprensa acessível). Pelagic (citado em 2007 como futuro) e Damascus Benthic (Basel 2009) não encontrados como produzidos. Benthic tinha 7 versões em 2007 — só laranja e MOP achadas; 18 versões em 2007 no total → VERMELHA. J: 100 Fathoms, Benthic Automatic, Cesium 133, Benthic COSC — achados. 50 fontes em 3 passadas.
