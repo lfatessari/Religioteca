@@ -1538,7 +1538,7 @@
     }
   },
   "em_execucao": "2026-10-20T03:41:47Z",
-  "ultimo_sinal": "2026-10-20T03:48:59Z",
+  "ultimo_sinal": "2026-10-20T03:53:48Z",
   "em_andamento": {
     "marcas": [
       "Batavi",
@@ -1550,9 +1550,10 @@
     "fontes": "historico/parcial_batavi_fontes.txt",
     "notas": "historico/notas_batavi.md",
     "secoes_feitas": [
-      "1",
+      "Batavi: tudo, pronta p/ gravar",
+      "Bathys: 1",
       "2",
-      "2c",
+      "5",
       "9"
     ],
     "passada": 1
