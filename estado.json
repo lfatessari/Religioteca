@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 175,
- "ultima_versao": 162,
+ "proxima_linha_marcas": 176,
+ "ultima_versao": 163,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1811,6 +1811,33 @@
     }
    },
    "obs": "Site oficial beijingwatch.com bloqueado (https→http em laço, robots); ~95 modelos entraram pelos títulos de busca com link da página. Base principal: xbiao.com (585 modelos listados; ~320 alcançados, paginação em JavaScript). Loja internacional beijingwatches.com e chinawatchshop. Vermelha: ~250 modelos do xbiao e centenas de itens do site oficial não alcançáveis; vintage sem referências. Próxima: Bell & Ross (175), grande."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 163,
+   "marca": "Bell & Ross",
+   "linha_marcas": 175,
+   "linhas_relogios": "19663-20333",
+   "relogios": 671,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 203,
+   "passadas": {
+    "1": {
+     "fontes": 165,
+     "novos": 653
+    },
+    "2": {
+     "fontes": 27,
+     "novos": 53
+    },
+    "3": {
+     "fontes": 11,
+     "novos": 3
+    }
+   },
+   "obs": "Site oficial bellross.com (Shopify) abre; fichas de produtos antigos achadas por busca. Base: WatchBase (br-01, br-03, vintage, marine), coleção oficial Other Collections (100 refs), Essential Watches (arquivo 1995–2015), Hourstriker, Exquisite, The Watch Company. Só 273 de 671 com foto; o resto tem link da página. Vermelha: arquivo oficial de 789 produtos (40 págs) inalcançável, BR S (89 oficiais), variantes antigas sem refs. Fundação divergente (1994 x 1992) anotada em M. Próxima: Belmoto (176)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1822,33 +1849,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T13:41:25Z",
- "ultimo_sinal": "2026-10-20T14:45:15Z",
- "em_andamento": {
-  "marcas": [
-   "Bell & Ross"
-  ],
-  "linha_marcas": 175,
-  "grande": true,
-  "relogios": "historico/parcial_bellross_relogios.txt",
-  "fontes": "historico/parcial_bellross_fontes.txt",
-  "notas": "historico/notas_bellross.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2"
-  ],
-  "passada": 3
  }
 }
