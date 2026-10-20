@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 158,
-  "ultima_versao": 151,
+  "proxima_linha_marcas": 161,
+  "ultima_versao": 152,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1468,6 +1468,63 @@
         ]
       },
       "obs": "sozinha (grande). Bamford London (GMT, B347, B80, D-300, Mayfair, Mayfair 2.0, Mayfair Sport, Nepro) + colaborações Bamford Watch Department (TAG Heuer, Zenith, Bulgari, GP, Franck Muller, Chopard, Bremont, Oris, Seiko, FC, Corum, G-Shock) + Rolex personalizados vistos em leilões. Vermelha: configurador, Rolex sob encomenda, 15 peças únicas Fordite, páginas 2 das coleções/blog inalcançáveis. 4 relógios de mesa GMT fora. M157 preenchido. Próxima: Bangalore Watch Company (158)."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 152,
+      "marca": "Bangalore Watch Company",
+      "linha_marcas": 158,
+      "linhas_relogios": "17198-17243",
+      "relogios": 46,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "grande": false,
+      "fontes": 71,
+      "passadas": {
+        "1": [
+          71,
+          46
+        ]
+      },
+      "obs": "site oficial (27 relógios atuais) + aposentados via imprensa: Renaissance Automatic (6) e Stri (5) de 2018, MACH 1 1ª geração 42 mm (6, inclusive Officer's Blue 2020), Apogee 2021 em titânio (Deep Space, Extraterrestrial). Forty Seven é relógio de bolso (incluído). Não usa códigos. M158 preenchido."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 152,
+      "marca": "Barrelhand Project 1",
+      "linha_marcas": 159,
+      "linhas_relogios": "17244-17247",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "grande": false,
+      "fontes": 17,
+      "passadas": {
+        "1": [
+          17,
+          4
+        ]
+      },
+      "obs": "Project 1 (20 peças), protótipo Project 1 (2017), Monolith, Monolith Professional (EVA). Sem logo achado. M159 preenchido."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 152,
+      "marca": "Barrington Griffiths Watch Company",
+      "linha_marcas": 160,
+      "linhas_relogios": "17248-17259",
+      "relogios": 12,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "grande": false,
+      "fontes": 26,
+      "passadas": {
+        "1": [
+          26,
+          12
+        ]
+      },
+      "obs": "Modern Classic (4 cores), Sandon Original (2), Sandon 2.0 (2), Sandon 34, Viamastra, Radian 34 mm, Edição CSP. Loja oficial carrega por JavaScript (produtos invisíveis à leitura). M160 preenchido. Próxima: Batavi (161)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1479,26 +1536,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-20T02:41:11Z",
-  "ultimo_sinal": "2026-10-20T03:04:04Z",
-  "em_andamento": {
-    "marcas": [
-      "Bangalore Watch Company",
-      "Barrelhand Project 1",
-      "Barrington Griffiths Watch Company"
-    ],
-    "linha_marcas": 158,
-    "grande": false,
-    "relogios": "historico/parcial_bangalore_relogios.txt",
-    "fontes": "historico/parcial_bangalore_fontes.txt",
-    "notas": "historico/notas_bangalore.md",
-    "secoes_feitas": [
-      "Bangalore: todas",
-      "Barrelhand: todas",
-      "Barrington: todas"
-    ],
-    "passada": 1,
-    "obs": "pesquisa das 3 concluída; falta gravar"
   }
 }
