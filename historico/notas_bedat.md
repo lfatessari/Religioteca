@@ -12,3 +12,7 @@ Grande (maison 1996, muitas refs). Linha Marcas 172.
 - Nomes a ajustar no fim: 388.010.101 = 'No. 3 GMT' (Essential); 388.010.310 = dual time/GMT (CollectorSquare).
 - 2008: Ref.307 (No.3 tonneau, madrepérola, arcos de ouro com diamantes); Ref.207 (No.2 oval); Ref.394 (No.3 conversível em pulseira, 6 variantes). 2011: Ref.315 crono feminino; 827/828 redesenhados; Ref.830 crono feminino No.8.
 - Logo melhor: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/bedatco_logo_t.png
+## Fim da 1ª passada (11:18 UTC)
+- ~118 fontes; 497 relógios. Últimas 4 fontes sem novidade (critério §11 atingido).
+- VERMELHA: centenas de referências (variações de mostrador/pulseira/diamantes), ~250 linhas sem foto (só link Essential Watches), site oficial inalcançável, catálogo Gressive incompleto (ids 267857–59, 863, 866–69, 871, 873–78, 884–87 não aparecem em busca), páginas paginadas do EveryWatch não alcançadas.
+## 2ª passada — alvo: fotos para refs só com link; novas refs (hourstriker/lojas), §2c e §3 com termos novos.
