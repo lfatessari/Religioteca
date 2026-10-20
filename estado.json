@@ -1868,5 +1868,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T16:41:34Z",
+ "ultimo_sinal": "2026-10-20T16:41:34Z",
+ "em_andamento": {
+  "marcas": [
+   "Benarus"
+  ],
+  "linha_marcas": 177,
+  "grande": true,
+  "relogios": "historico/parcial_benarus_relogios.txt",
+  "fontes": "historico/parcial_benarus_fontes.txt",
+  "notas": "historico/notas_benarus.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
