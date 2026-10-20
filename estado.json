@@ -1770,7 +1770,7 @@
   }
  },
  "em_execucao": "2026-10-20T11:41:57Z",
- "ultimo_sinal": "2026-10-20T11:46:54Z",
+ "ultimo_sinal": "2026-10-20T11:48:22Z",
  "em_andamento": {
   "marcas": [
    "Behrens"
@@ -1782,7 +1782,8 @@
   "notas": "historico/notas_behrens.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c"
   ],
   "passada": 1
  }
