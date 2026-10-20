@@ -1586,7 +1586,7 @@
     }
   },
   "em_execucao": "2026-10-20T05:41:32Z",
-  "ultimo_sinal": "2026-10-20T05:41:32Z",
+  "ultimo_sinal": "2026-10-20T05:45:20Z",
   "em_andamento": {
     "marcas": [
       "Bausele",
@@ -1598,7 +1598,10 @@
     "relogios": "historico/parcial_bausele_relogios.txt",
     "fontes": "historico/parcial_bausele_fontes.txt",
     "notas": "historico/notas_bausele.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
