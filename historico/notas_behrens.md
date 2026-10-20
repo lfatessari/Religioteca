@@ -10,3 +10,4 @@ Grande (muitas linhas/cores/colabs). G=behrens.watch
 - Interstellar Travel = Space Traveler (GPHG B012B). Starship (B011) 1ª ger.; B011C = Starship II (3ª geração → existe B011A/B?).
 - Logo: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/behrens/behrens_logo-noir-fond-blanc.jpg?itok=t-CDSIIy . Worldtempus confirma site oficial www.behrenswatches.com. Fundador Lin Bingqiang (Hourglass) – I diz Bonzer Ni.
 - Orion One Watches of Switzerland 60th anniversary: buscar.
+- Europa Star: cofundador Eric So; primeiros relógios (2018) = dois modelos de calendário triplo com reserva de marcha e globo 24h em cúpula. Chaykin Joker: três edições de 200.
