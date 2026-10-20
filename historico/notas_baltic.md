@@ -20,3 +20,4 @@
 5. I/J: todos os nomes de J achados; "Peren" em I não existe (é Perpétuel).
 6. Limitadas com nº de peças na B; peças únicas (Only Watch 2021/2024, Watch Act, Vortex Swim, protótipo Pink Dial, TimeForArt) com "Peça única." na E.
 7. Fontes: 111 (96 na 1ª passada, 15 na 2ª).
+## Passada 3 (pedido do usuário "pesquise mais a fundo", 2026-10-20): 37 fontes, 1 relógio novo (Stepgraph protótipo tântalo TimeForArt 2026) + 26 células melhoradas em 21 linhas (fotos dos 4 GMT MK-II e dos 2 Seconde Majeure, nome "Oracle" e 300 peças da West Wood Time, 200 peças do Tricompax Tropical, Heures du Monde 1ª série 200 peças, numeração da 1ª série do Tourer, HERMGREEN, SB01 = Aquascaphe 12-Hour).
