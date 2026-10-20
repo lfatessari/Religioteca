@@ -1481,7 +1481,7 @@
     }
   },
   "em_execucao": "2026-10-20T02:41:11Z",
-  "ultimo_sinal": "2026-10-20T02:55:00Z",
+  "ultimo_sinal": "2026-10-20T02:57:14Z",
   "em_andamento": {
     "marcas": [
       "Bangalore Watch Company",
@@ -1494,12 +1494,9 @@
     "fontes": "historico/parcial_bangalore_fontes.txt",
     "notas": "historico/notas_bangalore.md",
     "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "9 parcial"
+      "Bangalore: todas"
     ],
     "passada": 1,
-    "obs": "Bangalore em andamento; Barrelhand e Barrington Griffiths depois"
+    "obs": "Bangalore pronta para gravar; próximas Barrelhand e Barrington Griffiths"
   }
 }
