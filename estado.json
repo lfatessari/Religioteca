@@ -1538,7 +1538,7 @@
     }
   },
   "em_execucao": "2026-10-20T03:41:47Z",
-  "ultimo_sinal": "2026-10-20T03:53:48Z",
+  "ultimo_sinal": "2026-10-20T04:02:51Z",
   "em_andamento": {
     "marcas": [
       "Batavi",
@@ -1551,11 +1551,8 @@
     "notas": "historico/notas_batavi.md",
     "secoes_feitas": [
       "Batavi: tudo, pronta p/ gravar",
-      "Bathys: 1",
-      "2",
-      "5",
-      "9"
+      "Bathys: 1ª passada concluída (vermelha), 2ª concluída (12 fontes, 5 novos); falta 3ª"
     ],
-    "passada": 1
+    "passada": 3
   }
 }
