@@ -1454,7 +1454,7 @@
     }
   },
   "em_execucao": "2026-10-20T01:41:26Z",
-  "ultimo_sinal": "2026-10-20T01:41:26Z",
+  "ultimo_sinal": "2026-10-20T01:53:05Z",
   "em_andamento": {
     "marcas": [
       "Bamford"
@@ -1464,7 +1464,10 @@
     "relogios": "historico/parcial_Bamford_relogios.txt",
     "fontes": "historico/parcial_Bamford_fontes.txt",
     "notas": "historico/notas_Bamford.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
