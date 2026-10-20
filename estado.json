@@ -1479,5 +1479,22 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-20T02:41:11Z",
+  "ultimo_sinal": "2026-10-20T02:41:11Z",
+  "em_andamento": {
+    "marcas": [
+      "Bangalore Watch Company",
+      "Barrelhand Project 1",
+      "Barrington Griffiths Watch Company"
+    ],
+    "linha_marcas": 158,
+    "grande": false,
+    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "fontes": "historico/parcial_<marca>_fontes.txt",
+    "notas": "historico/notas_<marca>.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "obs": "dimensionando"
   }
 }
