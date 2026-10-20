@@ -24,3 +24,4 @@
 7. ~142 fontes.
 - Vermelha: sim (configurador, Rolex sob encomenda, Fordite únicos, blog/collections page 2 inalcançáveis).
 ## Passada 2 encerrada (02:31): 20 fontes, 5 novos (>=5) -> 3ª passada obrigatória.
+- Cool Hand Brooklyn (Spike Lee) é da Artisans de Genève, não da Bamford: removido.
