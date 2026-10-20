@@ -9,3 +9,8 @@ Marcas: G vazio (site bergstern.ch segundo masterhorologer); C vazio.
 ## Seções feitas: 1, 2 (parcial), 7 (Apart)
 - Manual Apart (bergstern-instrukcja.pdf): tabela modelo->calibre (calibres_bergstern.txt). Importador R2 Center sp. z o.o., Suchy Las (Polônia). Modelos B009L, B012G, B013G, B016G/L, B018G/L, B021G, B024G, B025G, B037G, B039G, B041L, B099L existem (sem variante achada ainda). Não existem B010, B011, B090-092, B098.
 - Fontes a ver: allwatches p2/p3, watchuseek (2), kaminskyblog B023G113, ceneo B012G069, vinted/sprzedajemy B024G117, l66 B009L062, orabirodalom.hu, zegarkiclub, rp.pl, fashion.apart.pl, Chrono24 B049G235, milosnikbizuterii, Touch of Modern (falhou), EveryWatch, olx/allegro.
+- Apart /marka: patrocínios Jungfrau Marathon 2019 (relógio especial com emblema no mostrador), FIS saltos de esqui/Raw Air, Oberstdorf 2018 (relógios aos 10 primeiros), IWD Basel Marathon 2017, Tour de Pologne 2016. Caixas aço ou titânio; até 200 m.
+- fashion.apart 2019: "mais de 200 modelos"; Active com GMT (IDs Apart 6553, 6554, 6556, 6061), Brilliance 6557, 6561.
+- rp.pl 2021: Active GMT 43 mm, luneta carbono, safira, 100 m (sem código; provavelmente B060G/B065G).
+- Logo: https://bergstern.ch/img/bergstern.png
+- Europa Star: Harmony 2017 Ronda 7004.P (dia retrógrado, data grande) = família B040G (sem saber a variante); Sport 2015 cronógrafo azul guilloché (provável B020G/B022G).
