@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 173,
- "ultima_versao": 160,
+ "proxima_linha_marcas": 174,
+ "ultima_versao": 161,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1757,6 +1757,33 @@
      "novos": 3
     }
    }
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 161,
+   "marca": "Behrens",
+   "linha_marcas": 173,
+   "linhas_relogios": "19068-19165",
+   "relogios": 98,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 168,
+   "passadas": {
+    "1": {
+     "fontes": 123,
+     "novos": 93
+    },
+    "2": {
+     "fontes": 33,
+     "novos": 7
+    },
+    "3": {
+     "fontes": 12,
+     "novos": 0
+    }
+   },
+   "obs": "Site oficial real behrenswatches.com + loja behrenswatches.shop (G errado; só aparecem em busca 'extended'). Catálogo atual oficial conferido. Vermelha: linhas antigas (Star Trek, Navigator, Starship 1ª geração, Astronomer) e ~83 itens da chinawatchshop sem título não listáveis. Próxima: Beijing Watch Factory (174), provável grande."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
