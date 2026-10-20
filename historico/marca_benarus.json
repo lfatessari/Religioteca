@@ -1,0 +1,832 @@
+{
+ "marca": "Benarus",
+ "usa_codigos": false,
+ "logo": "https://watcheers.io/wp-content/uploads/2026/05/Benarus-watch-brand-logo-1.jpg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Empresa vendedora também aparece como Stevral (\"Stevral, formerly Benarus\", de Steve Laughlin); site benaruswatch.com confere. Fundador: I cita Ralf Schreiner (Barracuda) — confere com Gear Patrol.",
+ "fontes": [
+  {
+   "url": "https://www.benaruswatch.com/previous-models",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.benaruswatch.com/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/megalodon-1",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.benaruswatch.com/pre-order",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.benaruswatch.com/shop",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.benaruswatch.com/store",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/store?page=2",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.benaruswatch.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/store?page=3",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/megalodon-kawa-green-no-date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-38-steel-orange-numbers-dial-c3-lume-date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/megalodon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/megalodon-titanium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-38-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/square-caribbean",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/mako-eta-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/mako-eta-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/mako-eta",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-44-gmt-titanium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-47-titanium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.benaruswatch.com/megalodon-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-42-bronze-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-42-bronze",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.benaruswatch.com/reviews",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpolice.com/brands/benarus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wifi.watch.fan/watch-brands/benarus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wshop360.com/collections/benarus-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchreport.com/category/benarus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/discover/brands/benarus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/benarus/megalodon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/benarus/sea-devil-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/?brand=Benarus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/benarus-announces-moray-3-and-remora-2/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/benarus-announces-new-moray-ti47/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/benarus-megalodon-4-titanium-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/the-benarus-ti47/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://wristwatchreview.com/benarus-sea-snake-v2-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/benarus-has-some-new-morays-on-the-way",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wristwatchreview.com/category/brands/benarus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/benarus-bronze-moray-42/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.wristwatchreview.com/introducing-the-benarus-vintage-moray/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.wristwatchreview.com/benarus-megalodon-back-deep/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wristwatchreview.com/benarus-moray-now-available-smaller-size/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://wornandwound.com/review/8035/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://techcrunch.com/2015/06/15/the-benarus-megalodon-lumbers-back-to-life-on-kickstarter/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a27453/benarus-automatic-dive-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/benarus-moray-40mm-watch-review/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wornandwound.com/brand/benarus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/benarus-moray-42-dive-watch-review",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://wristwatchreview.com/review-benarus-moray-42",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thetimebum.com/?p=679",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://wornandwound.com/review/benarus-moray-40-42mm-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/review/benarus-sea-snake-review/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=428925",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.benaruswatch.com/store?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/all/benarus-moray-bronze-44-mm-dark-black-dial--id21479061.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listings/brand/benarus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mywatchmart.com/benarus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchrecon.com/?brand=benarus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watcheers.io/marque/benarus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/brands/benarus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/zulu-gmt-v1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/caribbean-mantaray-yellow",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/square-caribbean-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/caribbean-mantaray-black-yellow",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/caribbean-mantaray-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/bonito-blue-brushed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/bonito-blue-fish-scale",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/bonito-black-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/mako-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/mako-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/mako-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/mako-laguna",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/copy-of-mako-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/megalodon-titanium-orange",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-42-vintage-blue-brushed-pacman",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-42-vintage-vertical-damast",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-38-brushed-teal-c3-lume",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/copy-of-moray-40-grey-numbers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-40-black-dart",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-38-steel-black-pacman-dial-vintage-lume-no-date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-42-vintage-black-ceramic-california",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-42-vintage-matte-black-california-vintage-lume",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-42-vintage-matte-black-dart-vintage-lume",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-38-steel-silver-dial-vintage-lume",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/mantaray-orange",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-42-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/bonito",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-38-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benaruswatch.com/moray-40-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/str/thewatchshop360",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/shop/benarus",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.benaruswatch.com/product-page/moray-42-vintage-blue-brushed-numbers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2023/02/22/off-the-cuff-benarus-moray-38-pac-man-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2023/04/26/off-the-cuff-benarus-mako-black/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wshop360.com/collections/all/benarus-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wshop360.com/collections/benarus-watches/divewatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/review-of-the-benarus-moray/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/review-of-the-benarus-remora/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/benarus-vintage-moray-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=41465",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/1773674",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pinterest.com/pin/benarus-vintage-moray-watch-model-vm05-with-a-faded-brown-dial-and-a-1-piece-olive-matte-natostrap-made-by-dalucastrap--492651646724218339/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=21489",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/psa-limited-benarus-stock-available/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/236257050987",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/335935514822",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/309847-fs-benarus-megalodon-oceanic-time-le-canada",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/listing/90205-fs-benarus-stevral-megalodon-45mm-eu-seller",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/fs-further-reduced-benarus-sea-devil-automatic-with-rare-yellow-dial-full-kit.4454306/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://forums.watchuseek.com/f29/fs-benarus-remora-ii-gold-2109274.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thesutorhouse.com/product/benarus-moray-44-500m-diver-limited-edition-50-pieces-automatic-stainless-steel-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/286860-fs-benarus-megalodon-series-black-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/fs-benarus-megalodon-pvd.993813/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/274643576139",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/231402",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/benarus-megalodon-45mm-eta-2824-2-preorder-finally.3551434/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.uk/listings/brand/benarus?old=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/benarus-owners-club-unofficial.879978/page-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/73881/sold-benarus-moray-38mm-dart-dial-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/153454-benarus-remora",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcharts.com/listing/159098",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/132238-benarus-megalodon-kit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/benarus/moray/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/brands/benarus/reviews/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/review-benarus-megalodon-diving-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/review-benarus-sea-snake-part-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2863649/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/benarus-has-bronze-morays-available",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/wait-another-bronze-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2179598/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=3888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/403964603455",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://techcrunch.com/?p=495616",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=41605",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=41519",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/benarus-sea-devil-limited-edition-50-piece-1000m-diver-45mm-white-full-lume-dial/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "http://oceanictime.blogspot.com/2012/06/benarus-remora-ii-gold-edition.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://oceanictime.blogspot.com/2011/05/benarus-remora-2.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://www.timezone.com/2012/11/03/benarus-remora-2-review-a-clear-winner/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfreeks.com/threads/watch-review-benarus-remora-2-500m-diver-blue-dial.21486/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/benarus-remora-2-150-made-review.4928187/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchforum.co.uk/threads/benarus-sea-devil.40552/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flickr.com/photos/novarese/4549255871",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2025/07/benarus-meg-gold-ed-for-oceanictime.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/sold-benarus-mil-diver-bead-blasted-case-olive-drab-dial-le-2-50-pics-are-up.639936/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchfreeks.com/threads/benarus-mil-diver.21499/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timetechtalk.com/forum51/24163.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/1992522518/benarus-megalodon-titanium-diver-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://www.kicktraq.com/projects/1992522518/benarus-megalodon-titanium-diver-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/stevral/benarus-megalodon-dive-watch/posts/1756645",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/stevral/benarus-megalodon-dive-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/the-benarus-megalodon-is-back.1990922/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/stevral/benarus-megalodon-dive-watch/posts/1421388",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/3042418748",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.backerkit.com/projects/1992522518/benarus-megalodon-titanium-diver-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/323538-sold-benarus-moray-4-black-pvd-sterile-dial-chinese-numerals",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://thompsontimepieces.com/product/benarus-vintage-moray-stainless-steel-44mm-teal-blue-dial-300m-diver-automatic/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://thesutorhouse.com/product/benarus-moray-44-bronzo-rare-green-dial-1000m-diver-swiss-eta-automatic-44mm/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://militarewatch.com/product/benarus-moray-44/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/1166489/benarus-moray-pvd-kanji-eta-44mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/benarus-moray-bronze-44-500m-diver.53949/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/benarus-moray-44-gmt-now-799.5602838/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/benarus-1km-sweet.280935/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

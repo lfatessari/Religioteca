@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 177,
- "ultima_versao": 164,
+ "proxima_linha_marcas": 178,
+ "ultima_versao": 165,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1857,6 +1857,33 @@
     }
    },
    "obs": "Site belmoto.gt bloqueado (robots); loja oficial dentro de magrette.com. Catálogo fechado: 3 Tourer + 4 Track-Day = lançamento dez/2015. Bateria só com a Belmoto porque a seguinte, Benarus (177), foi tratada como grande (ver historico/notas_benarus_dimensionamento.md). Próxima: Benarus (177), sozinha."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 165,
+   "marca": "Benarus",
+   "linha_marcas": 177,
+   "linhas_relogios": "20341-20520",
+   "relogios": 180,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 164,
+   "passadas": {
+    "1": {
+     "fontes": 136,
+     "novos": 167
+    },
+    "2": {
+     "fontes": 16,
+     "novos": 8
+    },
+    "3": {
+     "fontes": 12,
+     "novos": 3
+    }
+   },
+   "obs": "Site oficial Wix benaruswatch.com abre (loja 45 produtos + páginas escondidas: Mako ETA 2021, Megalodon 2021, Moray 44 GMT Ti 20 pçs, Moray 47 Ti, Moray 40 brass). Não usa códigos (só VM02/VM05 do Vintage Moray). Histórico 2008–2016 por Watch Report, WristWatchReview, w&w, aBlogtoWatch, OceanicTime; anúncios WatchUSeek via WatchCharts. 23 fichas da loja ficaram com link da página (sem foto). Vermelha: combinações do Megalodon 2015, Vintage Moray (8 opções), Sea Devil 300 pçs, cores de Remora/Moray 3/IV, WatchUSeek bloqueado. Próxima: Benrus (178)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1868,32 +1895,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T16:41:34Z",
- "ultimo_sinal": "2026-10-20T17:08:14Z",
- "em_andamento": {
-  "marcas": [
-   "Benarus"
-  ],
-  "linha_marcas": 177,
-  "grande": true,
-  "relogios": "historico/parcial_benarus_relogios.txt",
-  "fontes": "historico/parcial_benarus_fontes.txt",
-  "notas": "historico/notas_benarus.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3
  }
 }
