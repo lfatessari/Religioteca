@@ -15,3 +15,13 @@ Seções feitas: 1,2,2b-ok,5 parcial,6 (Chrono24 não abre),7,8,9 parcial
 ## Fim da 1ª passada (64 fontes): 4 fontes seguidas sem novidade.
 Decisão: VERMELHA — ~100 peças únicas/ano (Revolution), encomendas (Sonderanfertigungen) não publicadas, mostradores configuráveis (cores, guilloché, fontes sob pedido), Chrono24 inacessível, ONE com movimentos antigos (Patek 1917) sem correspondência certa.
 ## 2ª passada: alvo = peças únicas, leilões alemães (Dr. Crott, Auktionen Dr. Crott, Henry's), uhrforum.de, Japão, Instagram, fontes de veredelung.
+- Boutique Collection: Worldtempus (2011) diz que "Benzinger Boutique" é a 2ª linha dos sócios da Grieb & Benzinger → White Dragon e Coffee Blossom RETIRADOS (ficam para a Grieb & Benzinger, linha 597), assim como New Blossom, Regulator Pharos, Polaris.
+## Fim da 2ª passada: 11 fontes novas, 2 relógios novos (<5) → sem 3ª passada.
+## 10b Auto-auditoria
+1. Site oficial: lido inteiro (home DE, EN e versão 2023). Sem blog/imprensa no site. OK.
+2. §2c: site: no domínio não retorna páginas internas (site de página única). Feito com variações.
+3. Lojas: Watchbuys (44 + categoria Skeleton), Define (34), Exquisite, Horology by the Sea, The Limited Edition UK, Loupe This.
+4. Primeiro modelo: não encontrado; o Subskription de 2007 é o mais antigo datado. Marca começou como gravador (1978).
+5. J da aba Marcas: Subskription ✓, Regulateur ✓, Skeleton ✓, Grieb & Benzinger = marca própria (linha 597).
+6. Edições limitadas/colaborações na B ✓; peças únicas marcadas na E ✓.
+7. Fontes: 1ª passada 64, 2ª passada 11.

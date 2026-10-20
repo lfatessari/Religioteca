@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 179,
-  "ultima_versao": 166,
+  "proxima_linha_marcas": 180,
+  "ultima_versao": 167,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1911,6 +1911,29 @@
         }
       },
       "obs": "Site oficial benrus.com (Shopify) abre; 18 modelos atuais + páginas escondidas (Type I-C, Type II 500 pçs, Series #3061 2022, Orbit Robot). Fases: vintage 1921–1980, licenciamento (Sky Chief 2015, H6, Infantry, MBR japonesa), relançamento 2020, linha Suíça 2025–26, linha japonesa (TYPE-I/II/III, DTU). ~73 de 140 com foto. Vermelha: centenas de refs vintage (EveryWatch 133 anúncios só de Sky Chief), variantes 2020 sem código, Chrono24 inalcançável, eBay não abre. Próxima: Benzinger (179)."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 167,
+      "marca": "Benzinger",
+      "linha_marcas": 179,
+      "linhas_relogios": "20661-20771",
+      "relogios": 111,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 75,
+      "passadas": {
+        "1": {
+          "fontes": 64,
+          "novos": 113
+        },
+        "2": {
+          "fontes": 11,
+          "novos": 2
+        }
+      },
+      "obs": "Site oficial jochenbenzinger.de (página única) abre, incl. versão 2023 e EN: 83 itens (GAP 1/2, Regulateur, Subskription, Skelett, Classic, ONE 1–6, encomendas, movimentos refinados); rotores avulsos excluídos. Lojas Watchbuys (SKUs BE-xxx na coluna E), Define Watches, Exquisite, Horology by the Sea. Não usa códigos. Excluídos: Jaeger & Benzinger (marca à parte, sem linha em Marcas) e Benzinger Boutique (linha da Grieb & Benzinger). Vermelha: ~100 peças únicas/ano, encomendas não publicadas, mostradores configuráveis, Chrono24 inacessível. Soma 'novos' da 1ª passada inclui 4 itens depois fundidos/retirados. Próxima: Bergstern (180)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1922,32 +1945,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-20T18:41:08Z",
-  "ultimo_sinal": "2026-10-20T19:00:29Z",
-  "em_andamento": {
-    "marcas": [
-      "Benzinger"
-    ],
-    "linha_marcas": 179,
-    "grande": true,
-    "relogios": "historico/parcial_benzinger_relogios.txt",
-    "fontes": "historico/parcial_benzinger_fontes.txt",
-    "notas": "historico/notas_benzinger.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 2
   }
 }
