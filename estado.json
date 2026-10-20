@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 167,
- "ultima_versao": 156,
+ "proxima_linha_marcas": 170,
+ "ultima_versao": 157,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1642,6 +1642,63 @@
     ]
    },
    "obs": "Tratada como grande (sob encomenda, peças únicas). Inclui o relógio de mesa Celestial Infinity. 3 das 7 peças-conceito de 2021 sem nome conhecido. Beaubleu (167) adiada para a próxima execução."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 157,
+   "marca": "Beaubleu",
+   "linha_marcas": 167,
+   "linhas_relogios": "18312-18352",
+   "relogios": 41,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 54,
+   "passadas": {
+    "1": [
+     54,
+     43
+    ]
+   },
+   "obs": "Site real beaubleu-paris.com (G aponta beaubleu.com). Catálogo fechado: B01 4, Union 7, Vitruve 6, Ecce 3, Ecce Figura 6, Seconde Française 6, La Pièce 9."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 157,
+   "marca": "Beaucroft",
+   "linha_marcas": 168,
+   "linhas_relogios": "18353-18389",
+   "relogios": 37,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 40,
+   "passadas": {
+    "1": [
+     40,
+     37
+    ]
+   },
+   "obs": "Inclui Senate (2022, páginas ocultas), Bespoke (Kickstarter 2023) e edições Penfold, BWD, Solaris GMT (Time+Tide), The Punk."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 157,
+   "marca": "Beaufort",
+   "linha_marcas": 169,
+   "linhas_relogios": "18390-18455",
+   "relogios": 66,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 61,
+   "passadas": {
+    "1": [
+     61,
+     63
+    ]
+   },
+   "obs": "Revelou-se grande (peças únicas Permian Rift: 20 obsidiana S01-S20, 14 azurita A01-A14, 1 jaspe; fotos associadas pelo nº do arquivo). Site beaufort-watches.com (G vazio) só apareceu em busca estendida."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1653,27 +1710,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T07:41:26Z",
- "ultimo_sinal": "2026-10-20T08:20:31Z",
- "em_andamento": {
-  "marcas": [
-   "Beaubleu",
-   "Beaucroft",
-   "Beaufort"
-  ],
-  "linha_marcas": 167,
-  "grande": true,
-  "relogios": "historico/parcial_Beaufort_relogios.txt",
-  "fontes": "historico/parcial_Beaufort_fontes.txt",
-  "notas": "historico/notas_Beaufort.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "9"
-  ],
-  "passada": 1
  }
 }

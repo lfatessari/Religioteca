@@ -4,3 +4,4 @@ Fundador Robert Kwok (desde 2018; Kickstarter 2019, Aerotimer). Site oficial bea
 watchprozine: fundada 2015 (Kwok com 20 anos); nome do bombardeiro Bristol Beaufort (RNZAF). Planilha diz 'escala Beaufort de vento' -> errado.
 Catálogo atual (site): Aerotimer MKII Mint/Navy Gilt/Salmon/White; Pulsatimer Jet Black DLC/Black/Silver (+Salmon antigo); Fiordland GMT Martini Grey/Mojito Green/Negroni Orange/Tuxedo Black; Seatrekker MKII Silver/Blue/Yellow; Bicompax Atlantic Salmon/Circuit Panda/Slipstream Green; Permian Rift Snowflake Obsidian (20 padrões S01-S20)/Azurite/Blue Jasper. Faltam fotos (buscar páginas de produto via busca). Seatrekker MKI?
 DECISÃO: Beaufort tratada como GRANDE (peças únicas Permian Rift: S01-S20 obsidiana, A01-A14 azurita, Blue Jasper). Revelou-se grande no meio; Beaubleu e Beaucroft já completas. Fotos dos mostradores: associação provável pelo nº do arquivo.
+'Beaufort Cavalli' só numa legenda da Micromarcas; busca não confirmou -> fora.
