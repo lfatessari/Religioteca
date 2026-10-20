@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 163,
-  "ultima_versao": 153,
+  "proxima_linha_marcas": 164,
+  "ultima_versao": 154,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1546,6 +1546,33 @@
       "site_bloqueado": true,
       "fontes": 50,
       "passadas": "1: 28 fontes/18; 2: 12/5; 3: 10/1"
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 154,
+      "marca": "Baume & Mercier",
+      "linha_marcas": 163,
+      "linhas_relogios": "17312-18150",
+      "relogios": 839,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 166,
+      "passadas": {
+        "1": [
+          131,
+          724
+        ],
+        "2": [
+          22,
+          55
+        ],
+        "3": [
+          13,
+          9
+        ]
+      },
+      "obs": "Marca grande, feita sozinha. 173 atuais do site oficial (C = página oficial quando sem foto) + descontinuados (WatchBase, Essential Watches, The Watch Pages, eBay, CollectorSquare, leilões). ~470 linhas com link de página em vez de foto. Chrono24 e EveryWatch não apareceram nas buscas. M163: venda ao Damiani Group (2026). Próxima: Bausele (164)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1557,32 +1584,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-20T04:41:26Z",
-  "ultimo_sinal": "2026-10-20T05:34:56Z",
-  "em_andamento": {
-    "marcas": [
-      "Baume & Mercier"
-    ],
-    "linha_marcas": 163,
-    "grande": true,
-    "relogios": "historico/parcial_BaumeMercier_relogios.txt",
-    "fontes": "historico/parcial_BaumeMercier_fontes.txt",
-    "notas": "historico/notas_BaumeMercier.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 3
   }
 }
