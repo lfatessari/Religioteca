@@ -6,3 +6,6 @@ site oficial: Elemental Oceanic Blue, Coorong Mist, City Lights, Long Weekend; A
 hourstriker: Royal Australian Regiment Diver 75th BRARD75; JJ Machado BJJM; AF 5th Gen BAF5G; Sydney Diver Bathurst 12 Hour 2024 BSDB12H; OceanMoon V Algae Court, Orca Black
 - Decisão: Bausele GRANDE (configurador Terra Australis 850 combinações; >60 modelos). Bavarian Crono e BCHH ficam para a próxima execução.
 - Surf Watch (2012) citado no wristwatchreview: provavelmente = OceanMoon I; não vira linha.
+## Fim da 1ª passada (3 fontes seguidas sem novidade: totaldesignreviews, watchilove, europastar Endless Sunrise)
+VERMELHA: Terra Australis configurável (850 combinações); OceanMoon III tinha 5 versões (só The Drift achada); OceanMoon I sem versões nomeadas; encomendas militares privadas (SOER, ASD, No. 6 Squadron, 3CRU, RAAEC, SOHQ) sem modelo; Sands of Gallipoli e Invictus Games sem detalhes.
+2ª passada: buscar OceanMoon III versões, Sands of Gallipoli, Invictus, Skwod, Elemental City Lights/Long Weekend, Noosa, OceanMoon I, Christopher Anthony, Vintage 2.0 versões.
