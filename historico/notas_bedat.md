@@ -6,3 +6,5 @@ Grande (maison 1996, muitas refs). Linha Marcas 172.
 - Site oficial bedat.com não aparece em busca nenhuma até agora.
 - Primeiros modelos: Nº3 e Nº7 (Basel 1997); mais vendidos 304 e 314. Designer Dino Modolo (coleção 2010).
 - No.8 Limited Edition (878): 878 peças por versão (aBlogtoWatch 2011) -> pôr na B. Extravaganza = alta joalheria, estreia HK 12/10/2010 (881, 882, 883 'obra-prima').
+- Logo: https://www.gressive.jp/tokimegu/2010/basel/bedat-co/image/logo.jpg
+- Gressive.jp tem catálogo oficial (ids 267857–267896: No.2 3x, No.3 ~25, No.8 ~8, Extravaganza 1). Abrir via buscas site:gressive.jp.
