@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 181,
- "ultima_versao": 168,
+ "proxima_linha_marcas": 182,
+ "ultima_versao": 169,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1963,6 +1963,33 @@
     }
    },
    "obs": "Marca própria da rede polonesa Apart (Bergstern/R2 Trade, Sarnen; importador R2 Center, Suchy Las). Site bergstern.ch (só catálogo atual, mesmos IDs da Apart). Códigos B+modelo(001–099)+G/L+nº sequencial (001–410): faltam ~70 números, quase todos de 2014–2017. Calibres do manual da Apart na coluna E. ~32 linhas só com link de anúncio (sem foto). Coluna M preenchida. Próxima: Bering (181), grande, sozinha."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 169,
+   "marca": "Bering",
+   "linha_marcas": 181,
+   "linhas_relogios": "21110-21834",
+   "relogios": 725,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 103,
+   "passadas": {
+    "1": {
+     "fontes": 83,
+     "novos": 594
+    },
+    "2": {
+     "fontes": 10,
+     "novos": 28
+    },
+    "3": {
+     "fontes": 10,
+     "novos": 31
+    }
+   },
+   "obs": "Marca dinamarquesa de moda (2010). Site oficial beringtime.com (Shopify, 264 produtos atuais; peças antigas redirecionam para a listagem). Fontes principais: comparador guenstiger.de (1.511 anúncios; ~25 de ~76 páginas alcançadas), Helveti, Watchdirect, Kaufland (DE/AT/FR/CZ), Masters in Time, Lyst, Yodobashi/Rakuten/Mercari/Rakuma (Japão, com edições exclusivas). ~72 relógios vieram só de títulos de busca; ~344 de 725 com foto. Logo não encontrado. Vermelha: centenas de referências ainda não alcançadas. Próxima: Berne (182)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1974,33 +2001,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T20:41:30Z",
- "ultimo_sinal": "2026-10-20T21:29:50Z",
- "em_andamento": {
-  "marcas": [
-   "Bering"
-  ],
-  "linha_marcas": 181,
-  "grande": true,
-  "relogios": "historico/parcial_Bering_relogios.txt",
-  "fontes": "historico/parcial_Bering_fontes.txt",
-  "notas": "historico/notas_Bering.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a_passada",
-   "3a_passada"
-  ],
-  "passada": 3
  }
 }
