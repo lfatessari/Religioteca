@@ -1586,21 +1586,22 @@
     }
   },
   "em_execucao": "2026-10-20T05:41:32Z",
-  "ultimo_sinal": "2026-10-20T05:45:20Z",
+  "ultimo_sinal": "2026-10-20T05:47:33Z",
   "em_andamento": {
     "marcas": [
-      "Bausele",
-      "Bavarian Crono",
-      "BCHH"
+      "Bausele"
     ],
     "linha_marcas": 164,
-    "grande": false,
+    "grande": true,
     "relogios": "historico/parcial_bausele_relogios.txt",
     "fontes": "historico/parcial_bausele_fontes.txt",
     "notas": "historico/notas_bausele.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "3",
+      "5",
+      "9"
     ],
     "passada": 1
   }
