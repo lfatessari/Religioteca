@@ -1,0 +1,567 @@
+{
+ "marca": "Baltic",
+ "usa_codigos": false,
+ "logo": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/logobaltic.png?v=1633605441",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I: tirar '[⚠️ verificar]'; 'Peren' não existe — a colaboração é com Perpétuel (boutique de Dubai). Fundação: 2016 (site oficial), primeiros relógios em 2017. J: Bicompax 003 saiu de linha em abril de 2025; MR01 hoje se chama MR Classic; faltam Scalegraph, Prismic e Heures du Monde.",
+ "fontes": [
+  {
+   "url": "https://baltic-watches.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/collections/watches",
+   "passada": 1,
+   "novos": 66
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/baltic",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/baltic?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://baltic-watches.com/en/collections/hms-001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/hms-001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/bicompax-001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/bicompax-003",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://baltic-watches.com/en/products/hms-001-cream",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/aquascaphe-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/aquascaphe-classic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/tricompax-peter-auto",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/mr-moissanite",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/hermetique-dual-time-enduropale",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/only-watch-2024",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/onlywatch-2021",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/perpetuel-2021-uae-50th-anniversary",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/revolution-2021-pink-dial-project",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/perpetuel-mr01-2022",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/perpetuel-2020",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/a-collected-man-mr01-blue-roulette",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/bicompax-001-panda-reverse-panda",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/bicompax-002",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/rally-timer-tour-auto-2026-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/collections/bicompax-001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.baltic-watches.com/fr/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/5th-anniversary",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/scalegraph-tour-auto-2025-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/hermetique-glacier",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/worn-and-wound-2020",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/watch-act-2020",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/the-vortex-swim-2019",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/prismic-stone",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/archives/tricompax-tour-auto-2024",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/baltic-scalegraph-transat-cafe-lor-limited-edition-skipper-inspired-chronograph-introducing-price",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hms-watchstore.com/c/limited/bl-aquagray-jpltd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://loupethis.com/auctions/baltic-x-perpetuel-tricompax-tropical-dial-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thehourglass.com/story/baltic-mr01-watches-of-switzerland-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/listing/3441296/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/baltic-watches-chronograph-3hand-vintage-kickstarter/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/products/bicompax-001-cream",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/products/bicompax-001-black-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2020/03/23/baltic-watches-bicompax-001-mechanical-hand-wound-chronograph-and-hms-001-three-hands-automatic-watches/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://wornandwound.com/review/baltic-watches-hms-bicompax-001-review/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/baltic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/baltic-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.co.uk/collections/baltic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com.au/collections/baltic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/baltic-bicompax",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/products/baltic-hermetique-the-rift-limited-edition-37mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/products/baltic-heures-du-monde-horizon-line-time-tide-studio-edition-8908331090110",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1623821/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/baltic/176112",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/baltic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.acollectedman.com/collections/baltic/products/baltic-for-a-collected-man-mr01-blue-roulette",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/baltic-watches-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/baltic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/us/buy/baltic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/the-historic-rise-of-baltic-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a34055972/baltic-bicompax-hms-002-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/baltic-aquascaphe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/baltic-bicompax-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/products/baltic-hms-002-salmon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://san-tatsu.jp/pressrelease/560281/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2020/12/baltic-perpetuel-hms-bicompax-dubai.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/baltic/hms/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wos60.thehourglass.com/limited-editions/baltic-tricompax/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000080.000119496.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.e-bigmoon.com/brand/baltic-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatch-tearoom.com/category/watch-brands/micro-brands/baltic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/ja/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/everything-you-need-to-know-about-french-independent-baltic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/nuevo-baltic-crono.588818/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2020/12/baltic-aquascaphe-gmt.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/baltic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/baltic/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/baltic/page/3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/baltic/page/4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/baltic-mr-classic-for-the-bangladesh-watch-club-introducing/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-aquascaphe-baltics-first-vintage-inspired-dive-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/baltics-aquascaphe-mk2-diver-now-with-date-function-introducing-price/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://wornandwound.com/baltic-adds-a-new-bezel-to-the-aquascaphe/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/baltic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/baltic-unveils-the-all-new-hermetique-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/baltic-introduces-their-latest-tour-auto-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/baltic-mr-moissanite-final-edition-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch/%E3%83%90%E3%83%AB%E3%83%81%E3%83%83%E3%82%AF/23264",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/products/aquascaphe-mk2-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/baltic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/the-baltic-tricompax-gets-regular-production-panda-reverse-panda-references/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loft.watches/en/blogs/blog/nuevos-baltic-tricompax-panda-reverse-panda",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/timeforart-auction",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchfinder.co.uk/articles/feature-these-5-awesome-watches-are",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/baltic/NY080424/83",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/baltic/211245",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/products/coffret-mr01",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/en/products/hermetique-the-rift",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/baltic-mr01-black",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.belmontwatches.com/products/baltic-mr-moissanite-limited-edition-mr01",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2021/10/baltic-mr01-micro-rotor.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourglass.com/story/baltic-tricompax-watches-of-switzerland",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://acquiremag.com/style/baltic-time-tide-night-mode-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2021/12/baltic-titanium-collection-perpetuel.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://baltic-watches.com/chronographes",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2017/11/introducing-the-baltic-watches-bicompax-001-chronograph.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/baltic-aquascaphe-date/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/brands/baltic/?p_number=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/baltic/bicompax-02-chronograph-limited-edition/watch-2924890",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/baltic?auctionType=result",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/baltic/premier-quantieme-perpetuel/qp01/watch-9575037",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

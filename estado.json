@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 156,
-  "ultima_versao": 148,
+  "proxima_linha_marcas": 157,
+  "ultima_versao": 149,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1400,6 +1400,29 @@
         ]
       },
       "obs": "sozinha: a seguinte, Baltic (156), foi dimensionada como GRANDE (muitas variações e edições desde 2017) e fica sozinha na próxima execução. Catálogo pequeno: BDX001-004, 006, 007, LAX001 (100 peças), LAX002/003/004/007 (só no catálogo, páginas inalcançáveis por busca) e a peça única Mission Alpha. Coleções 'archives' e 'lax' do site não apareceram em busca. M155 preenchido. Próxima: Baltic (156)."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 149,
+      "marca": "Baltic",
+      "linha_marcas": 156,
+      "linhas_relogios": "16802-16945",
+      "relogios": 144,
+      "vermelho": true,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 111,
+      "passadas": {
+        "1": [
+          96,
+          141
+        ],
+        "2": [
+          15,
+          1
+        ]
+      },
+      "obs": "sozinha (grande: EveryWatch 201 à venda/2.340 vendidos; 66 no catálogo + 35 entradas de arquivo). Site oficial (catálogo, arquivo 2017-2026, páginas ocultas via busca), Time+Tide US/UK/AU, Kickstarter 2017 (6 cores HMS 001 e Bicompax 001), colaborações (Perpétuel, Revolution, Worn & Wound, A Collected Man, WoS, H°M'S Japão, Bangladesh Watch Club, SpaceOne, Only Watch, TimeForArt). Marca identifica por nome; refs internas (HMS13CSALM37, TRI11PAND38, HDM11TTCA99, PRI12TFA16, QP01) só onde lojas/leilões mostraram. Vermelha: refs internas não publicadas, página 2 de WoS no arquivo inalcançável, Bicompax 001 DLC Gilt e GMT MK-II sem foto, possíveis edições de lojas não achadas. Rally Timer 2026 (não é de pulso) incluído. M156 preenchido. Próxima: Bamford (157)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1411,33 +1434,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-20T00:41:50Z",
-  "ultimo_sinal": "2026-10-20T01:09:52Z",
-  "em_andamento": {
-    "marcas": [
-      "Baltic"
-    ],
-    "linha_marcas": 156,
-    "grande": true,
-    "relogios": "historico/parcial_baltic_relogios.txt",
-    "fontes": "historico/parcial_baltic_fontes.txt",
-    "notas": "historico/notas_baltic.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "11b"
-    ],
-    "passada": 2
   }
 }

@@ -12,3 +12,11 @@
 - Baltic tem referências internas (HMS13CSALM37, TRI11PAND38, HDM11TTCA99, PRI12TFA16) mas não as publica no site: códigos só quando uma loja/leilão mostra.
 ## Passada 1 encerrada (~99 fontes; últimas 3 sem relógio novo). Decisão: VERMELHA — referências internas existem e não são publicadas; edições de lojas/colaborações e cores do Kickstarter 2017 sem foto/nome completos. Passada 2: ir atrás de refs, edições exclusivas, Only Watch 2023, TimeForArt, Perpétuel, Tour Auto 2023.
 ## Passada 2: 15 fontes, 1 relógio novo (MR01 Black) -> sem 3ª passada. EveryWatch: 201 à venda / 2.340 vendidos (confirma grande).
+## 10b Auto-auditoria
+1. Blog: o site não tem blog; Arquivo (35 entradas) lido por inteiro, exceto 3 colaborações sem página própria (Beyond Cool, West Wood Time, Time+Tide: fotos do arquivo usadas) e a página 2 da seção Watches of Switzerland (não veio no texto). Área de imprensa = página de reviews, sem lista de lançamentos.
+2. §2c: buscas site:baltic-watches.com/en/products (aquascaphe, bicompax/tricompax/hermetique, hms/mr01/prismic, limited edition) — páginas ocultas redirecionam para coleções; nomes aproveitados (Aquascaphe Black Cream, Bicompax 001 Cream/Black Silver/Blue Gilt, HMS 001 Cream, MR01).
+3. Lojas: Time+Tide (US, UK, AU, produtos ocultos via busca), FiveFortyFive, Delray, A Collected Man, HMS Watch Store, Big Moon, Swiss Collector, Belmont.
+4. Primeiro modelo: HMS 001 e Bicompax 001 (Kickstarter 2017), 6 cores cada — 11 de 12 com foto.
+5. I/J: todos os nomes de J achados; "Peren" em I não existe (é Perpétuel).
+6. Limitadas com nº de peças na B; peças únicas (Only Watch 2021/2024, Watch Act, Vortex Swim, protótipo Pink Dial, TimeForArt) com "Peça única." na E.
+7. Fontes: 111 (96 na 1ª passada, 15 na 2ª).

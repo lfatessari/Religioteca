@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 156,
-  "ultima_versao": 148,
+  "proxima_linha_marcas": 157,
+  "ultima_versao": 149,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1400,6 +1400,29 @@
         ]
       },
       "obs": "sozinha: a seguinte, Baltic (156), foi dimensionada como GRANDE (muitas variações e edições desde 2017) e fica sozinha na próxima execução. Catálogo pequeno: BDX001-004, 006, 007, LAX001 (100 peças), LAX002/003/004/007 (só no catálogo, páginas inalcançáveis por busca) e a peça única Mission Alpha. Coleções 'archives' e 'lax' do site não apareceram em busca. M155 preenchido. Próxima: Baltic (156)."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 149,
+      "marca": "Baltic",
+      "linha_marcas": 156,
+      "linhas_relogios": "16802-16945",
+      "relogios": 144,
+      "vermelho": true,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 111,
+      "passadas": {
+        "1": [
+          96,
+          141
+        ],
+        "2": [
+          15,
+          1
+        ]
+      },
+      "obs": "sozinha (grande: EveryWatch 201 à venda/2.340 vendidos; 66 no catálogo + 35 entradas de arquivo). Site oficial (catálogo, arquivo 2017-2026, páginas ocultas via busca), Time+Tide US/UK/AU, Kickstarter 2017 (6 cores HMS 001 e Bicompax 001), colaborações (Perpétuel, Revolution, Worn & Wound, A Collected Man, WoS, H°M'S Japão, Bangladesh Watch Club, SpaceOne, Only Watch, TimeForArt). Marca identifica por nome; refs internas (HMS13CSALM37, TRI11PAND38, HDM11TTCA99, PRI12TFA16, QP01) só onde lojas/leilões mostraram. Vermelha: refs internas não publicadas, página 2 de WoS no arquivo inalcançável, Bicompax 001 DLC Gilt e GMT MK-II sem foto, possíveis edições de lojas não achadas. Rally Timer 2026 (não é de pulso) incluído. M156 preenchido. Próxima: Bamford (157)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
