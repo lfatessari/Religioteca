@@ -10,3 +10,4 @@ Grande (maison 1996, muitas refs). Linha Marcas 172.
 - Gressive.jp tem catálogo oficial (ids 267857–267896: No.2 3x, No.3 ~25, No.8 ~8, Extravaganza 1). Abrir via buscas site:gressive.jp.
 - Essential Watches: No.8 (95 anúncios) e No.3 Lady (119+, página cortada no fim; faltam subpáginas White/Yellow Gold). Coleções extra: No.33, No.3 Mens, Concept B3 (CB03.*). Fotos não acessíveis -> link da página.
 - Nomes a ajustar no fim: 388.010.101 = 'No. 3 GMT' (Essential); 388.010.310 = dual time/GMT (CollectorSquare).
+- 2008: Ref.307 (No.3 tonneau, madrepérola, arcos de ouro com diamantes); Ref.207 (No.2 oval); Ref.394 (No.3 conversível em pulseira, 6 variantes). 2011: Ref.315 crono feminino; 827/828 redesenhados; Ref.830 crono feminino No.8.
