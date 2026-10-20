@@ -1609,7 +1609,7 @@
   }
  },
  "em_execucao": "2026-10-20T06:41:17Z",
- "ultimo_sinal": "2026-10-20T06:46:31Z",
+ "ultimo_sinal": "2026-10-20T06:50:46Z",
  "em_andamento": {
   "marcas": [
    "Bavarian Crono",
@@ -1622,11 +1622,8 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "bavarian:1",
-   "3",
-   "5",
-   "8",
-   "9"
+   "Bavarian Crono: completa (dados_bavarian.txt, marca_bavarian.json, RESULTADO OK em tmp)",
+   "BCHH: iniciando"
   ],
   "passada": 1
  }
