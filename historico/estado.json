@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 170,
- "ultima_versao": 157,
+ "proxima_linha_marcas": 171,
+ "ultima_versao": 158,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1699,6 +1699,25 @@
     ]
    },
    "obs": "Revelou-se grande (peças únicas Permian Rift: 20 obsidiana S01-S20, 14 azurita A01-A14, 1 jaspe; fotos associadas pelo nº do arquivo). Site beaufort-watches.com (G vazio) só apareceu em busca estendida."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 158,
+   "marca": "Beauregard",
+   "linha_marcas": 170,
+   "linhas_relogios": "18456-18516",
+   "relogios": 61,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 59,
+   "passadas": {
+    "1": [
+     59,
+     61
+    ]
+   },
+   "obs": "Tratada como grande (Dahlias peças únicas por pedra; Lili/Lili Bouton 8 pedras × 2 ouros). Catálogo conferido pela página Download do site e pela coleção da Oster Jewelers. Próximas: Beda'a (pequena) e Bedat & Co (provável grande)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
