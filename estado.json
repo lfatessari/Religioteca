@@ -1434,5 +1434,20 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-20T01:15:43Z",
+  "ultimo_sinal": "2026-10-20T01:15:43Z",
+  "em_andamento": {
+    "marcas": [
+      "Baltic"
+    ],
+    "linha_marcas": 156,
+    "grande": true,
+    "complemento": true,
+    "relogios": "historico/parcial_baltic3_relogios.txt",
+    "fontes": "historico/parcial_baltic3_fontes.txt",
+    "notas": "historico/notas_baltic.md",
+    "secoes_feitas": [],
+    "passada": 3
   }
 }
