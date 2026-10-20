@@ -15,3 +15,14 @@ Só Benrus nesta execução.
 - EveryWatch: só Sky-Chief tem 133 anúncios (20 lojas) → GRANDE confirmado. Família/anúncios precisam vir de busca.
 - Hypebeast: Ultra-Deep 2023 (set/2023), Orbit Robot 2023, Type II 2022, DTU-2A/P 2021 "modernizado", uniform experiment × Benrus (2010, jan/2011, out/2011 SOPH.HANKYU) → buscar.
 - Japão: Benrus Japão vendeu série MBR (quartzo militar, ~2015–2018?) — 23 SKUs na Yodobashi; colaborações BEAMS PLUS Type-I (2022), Journal Standard Type II (2022), uniform experiment (2010–11). Buscar mais lojas japonesas (rakuten, zozotown).
+## Fim da 1ª passada (18:08 UTC): 3 fontes seguidas sem novidade (ebth, etsy, 1stdibs creators).
+- Chrono24: busca site:chrono24.com não traz nada indexado (só outras lojas) → usado EveryWatch/WatchPatrol.
+- Catálogos PDF (§4): busca sem resultado útil.
+### §10 buracos / §10b auditoria
+1. Journal oficial: lido o comeback; outros são reproduções de imprensa (Monochrome, Gear Patrol...). Imprensa coberta por aBlogtoWatch, W&W, T+T, WatchTime, Hypebeast.
+2. §2c: feito com type/limited/sky chief/field/classic; achados escondidos: type-i-c, type-ii-original, series-3061, sky-chief oembed. Refazer na 2ª passada (sea lord, orbit, wrist alarm, type-i-c cores).
+3. Lojas: Windup, King, Watch Preserve, Analog Shift, C&T, FiveFortyFive (NZ), neel/ANA/Yodobashi/Rakuten (JP).
+4. Primeiro modelo: Airman 1929 (entrou); relógio esportivo Babe Ruth sem nome.
+5. J da aba Marcas: Type I, Type II, DTU-2A/P, Sky Chief — todos encontrados. I diz "relógios usados por JFK" — história oficial: relógio presenteado a JFK em 1963 (modelo sem nome) — não vira linha.
+6. Edições limitadas na B: 250th (250), Type II 2022 (500), Type I 2020 (1000), Wrist Alarm reedição (500), Mets 1969 (1969). Colaborações: Journal Standard, BEAMS PLUS, uniform experiment, Mets. Sem peças únicas.
+VERMELHA: centenas de referências vintage (EveryWatch 133 anúncios só de Sky Chief, WatchPatrol 126), variantes 2020 sem código, linha japonesa e licenciamento incompletos.
