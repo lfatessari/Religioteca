@@ -11,3 +11,4 @@ Grande (manufatura estatal, catálogo enorme). Linha Marcas 174.
 - Site oficial: robots bloqueia (search ROBOTS_DISALLOWED) e item/* redireciona https→http. Itens colhidos por títulos de busca site:beijingwatch.com (oficial_items.txt). Categorias: 3 高端定制, 4 北海, 5 经典, 10 Complex Movement, 23 潜锋系列 (Qianfeng).
 - 潜锋系列 = Bladelegant (cat 23); 启航 = cat 25; 丝语 Silk Whisper = cat 22 (feminino); Oriental Culture = cat 24; 复刻 Reissue = cat 6.
 - Séries oficiais: 猎户 Orion (BG09xxxx). Itens 56/57 são movimentos (não entram).
+- State of Mind BG080102: GPHG 2017, 99 pç, 42,5 mm, 63h; foto eastwatchreview gphg2017_beijing_01.jpg (https://images.squarespace-cdn.com/content/v1/55472d68e4b0f235dbd272ce/1500261694614-BFLLM4M5RGEKIO3F2Z5H/gphg2017_beijing_01.jpg)
