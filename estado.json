@@ -1584,5 +1584,21 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-20T05:41:32Z",
+  "ultimo_sinal": "2026-10-20T05:41:32Z",
+  "em_andamento": {
+    "marcas": [
+      "Bausele",
+      "Bavarian Crono",
+      "BCHH"
+    ],
+    "linha_marcas": 164,
+    "grande": false,
+    "relogios": "historico/parcial_bausele_relogios.txt",
+    "fontes": "historico/parcial_bausele_fontes.txt",
+    "notas": "historico/notas_bausele.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
