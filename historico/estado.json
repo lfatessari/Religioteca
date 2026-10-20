@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 182,
- "ultima_versao": 169,
+ "proxima_linha_marcas": 184,
+ "ultima_versao": 170,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1990,6 +1990,44 @@
     }
    },
    "obs": "Marca dinamarquesa de moda (2010). Site oficial beringtime.com (Shopify, 264 produtos atuais; peças antigas redirecionam para a listagem). Fontes principais: comparador guenstiger.de (1.511 anúncios; ~25 de ~76 páginas alcançadas), Helveti, Watchdirect, Kaufland (DE/AT/FR/CZ), Masters in Time, Lyst, Yodobashi/Rakuten/Mercari/Rakuma (Japão, com edições exclusivas). ~72 relógios vieram só de títulos de busca; ~344 de 725 com foto. Logo não encontrado. Vermelha: centenas de referências ainda não alcançadas. Próxima: Berne (182)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 170,
+   "marca": "Berne",
+   "linha_marcas": 182,
+   "linhas_relogios": "21835",
+   "relogios": 1,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 16,
+   "passadas": {
+    "1": {
+     "fontes": 16,
+     "novos": 1
+    }
+   },
+   "obs": "Marca quase sem rastro: sem site, sem logo. Só 1 relógio (anúncio eBay, 38 mm preto). Buscas poluídas por Berny, Berney, Bernex e Brighton 'Berne'. Chrono24 (página da marca) não abre. Não vermelha: nenhuma prova concreta de outros modelos. Coluna M preenchida."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 170,
+   "marca": "Berneron",
+   "linha_marcas": 183,
+   "linhas_relogios": "21836-21844",
+   "relogios": 9,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 35,
+   "passadas": {
+    "1": {
+     "fontes": 35,
+     "novos": 9
+    }
+   },
+   "obs": "Site real berneron.ch (G diz .com). Catálogo fechado conferido: arquivo oficial + Watchonista + Phillips. Referências 3438MS-G02/W01, 3034MS-W32/G23/W35; Miroir e Quantième Annuel sem ref. Logo em K. Próxima: Bernhard Lederer (184), tratada como grande na dúvida -> sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
