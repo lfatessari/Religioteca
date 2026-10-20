@@ -2064,7 +2064,7 @@
   }
  },
  "em_execucao": "2026-10-20T23:41:23Z",
- "ultimo_sinal": "2026-10-20T23:52:47Z",
+ "ultimo_sinal": "2026-10-20T23:54:00Z",
  "em_andamento": {
   "marcas": [
    "Bernhardt"
@@ -2076,7 +2076,9 @@
   "notas": "historico/notas_Bernhardt.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "9"
   ],
   "passada": 1
  }
