@@ -15,3 +15,4 @@ Grande (muitas linhas/cores/colabs). G=behrens.watch
 - Decisão: VERMELHA. Motivos: site oficial behrenswatches.com não abre (não aparece em busca); chinawatchshop tem 83 itens Behrens, muitos só com título "Behrens" e paginação inacessível; linhas antigas (Star Trek 2017, Navigator 2017, Starship 1ª geração B011, Interstellar/Space Traveller, Astronomer) com versões/cores não listáveis.
 - 2ª passada: buscar linhas antigas, Navigator, Star Trek, Starship B011, Space Traveller cores, Rotary versões, Navigraph cores, fóruns, Yahoo JP, Watchuseek, Instagram/Pinterest.
 - behrens2012.com (parece site oficial antigo, produtos B012B-GRN): ROBOTS_DISALLOWED. hinnovations.co e thewatchdrobe.com: erro.
+- Navigraph: Worldtempus diz azul ou preto (temos azul BHR015-B e cinza BHR015). gressive.jp hotitems 339751/339914/339301/337849/332921: erro.
