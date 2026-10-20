@@ -13,3 +13,4 @@ Grande (catálogo enorme, centenas de refs). Sozinha.
 - Títulos de busca (não contam como fonte aberta): lote 1 = 39 relógios novos (passada 1).
 - Títulos de busca lote 2: +2
 - Títulos de busca lote 3: +n (ver contagem do add)
+- preissuchmaschine.de/in-Uhr/von-Bering/ deu erro (não abriu).
