@@ -5,3 +5,4 @@
 - Sublinha: baltic-spaceone.com (Seconde Majeure, 2026).
 ## Seções feitas: 1,2 (parcial)
 ## Falta: fotos de cada produto; abrir páginas de archive; 2c, 3..10b
+2c: products ocultos via busca: aquascaphe-black-cream, sb01, white, bicompax-001-cream/black-silver (redirecionam para coleção)
