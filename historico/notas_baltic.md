@@ -11,3 +11,4 @@
 - Faltam: Aquascaphe MK2 "white com luneta preta" citado na Monochrome (não confirmado); Kickstarter HMS/Bicompax 001 sem fotos individuais de Blue Gilt e DLC Gilt do Bicompax.
 - Baltic tem referências internas (HMS13CSALM37, TRI11PAND38, HDM11TTCA99, PRI12TFA16) mas não as publica no site: códigos só quando uma loja/leilão mostra.
 ## Passada 1 encerrada (~99 fontes; últimas 3 sem relógio novo). Decisão: VERMELHA — referências internas existem e não são publicadas; edições de lojas/colaborações e cores do Kickstarter 2017 sem foto/nome completos. Passada 2: ir atrás de refs, edições exclusivas, Only Watch 2023, TimeForArt, Perpétuel, Tour Auto 2023.
+## Passada 2: 15 fontes, 1 relógio novo (MR01 Black) -> sem 3ª passada. EveryWatch: 201 à venda / 2.340 vendidos (confirma grande).
