@@ -13,3 +13,4 @@ Grande (manufatura estatal, catálogo enorme). Linha Marcas 174.
 - Séries oficiais: 猎户 Orion (BG09xxxx). Itens 56/57 são movimentos (não entram).
 - State of Mind BG080102: GPHG 2017, 99 pç, 42,5 mm, 63h; foto eastwatchreview gphg2017_beijing_01.jpg (https://images.squarespace-cdn.com/content/v1/55472d68e4b0f235dbd272ce/1500261694614-BFLLM4M5RGEKIO3F2Z5H/gphg2017_beijing_01.jpg)
 - State of Mind foto watchpro: https://www.watchpro.com/wp-content/uploads/2017/08/Beijing-Watch-Company-State-of-Mind.jpg (cinza ardósia, 42,5 mm, 63 h, 99 pç, £2760). Athena = item 44, peça única (watchprosite). Hong Jin acrescentado (Europa Star conta como fonte que trouxe 1 → ajustar).
+- 儒迦双擒纵 (Rujia, B24 dual escapement 100h) = provavelmente Confucian DY Watch (item 46). Lingyan tourbillon (smzdm 2ª foto) = mesma família BG080003.
