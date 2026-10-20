@@ -7,3 +7,5 @@
 - MT3 = ouro branco ou vermelho, 43 mm, numerado. A linha MT3 (ouro branco) já gravada; acrescentar ouro vermelho se tiver foto.
 - Pragnell innovations: Paramagnetic 100,000 Gauss (2016) — procurar foto/nome; relógios de mesa (1986 Masterpiece, 1996 Brazil) não entram. Gagarin nº1 para Príncipe Albert.
 - AHCI dá o site oficial como ledererwatches.com (G diz lederer-watches.com).
+- Falta foto: blu Diamant (ouro 18k, 308 diamantes, 6 safiras), blu Maestro (cronógrafo, mostrador preto fosco ou cobre), Casino, Lady Planet, Ladies Calendar, El Noor, Goldpfeil Seven Masters, Paramagnetic, MT3 ouro vermelho, Open Planet/Majesty MT3 swisstime
+- Paramagnético (2016): é movimento desenvolvido p/ Marinha alemã, sem modelo comercial com nome -> não vira linha (relatar).
