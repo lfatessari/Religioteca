@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 184,
- "ultima_versao": 170,
+ "proxima_linha_marcas": 185,
+ "ultima_versao": 171,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2028,6 +2028,29 @@
     }
    },
    "obs": "Site real berneron.ch (G diz .com). Catálogo fechado conferido: arquivo oficial + Watchonista + Phillips. Referências 3438MS-G02/W01, 3034MS-W32/G23/W35; Miroir e Quantième Annuel sem ref. Logo em K. Próxima: Bernhard Lederer (184), tratada como grande na dúvida -> sozinha."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 171,
+   "marca": "Bernhard Lederer (BLU)",
+   "linha_marcas": 184,
+   "linhas_relogios": "21845-21898",
+   "relogios": 54,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 88,
+   "passadas": {
+    "1": {
+     "fontes": 71,
+     "novos": 52
+    },
+    "2": {
+     "fontes": 17,
+     "novos": 3
+    }
+   },
+   "obs": "Site oficial (G lederer-watches.com; AHCI diz ledererwatches.com) não aparece em buscas, não aberto. Fontes: Exquisite Timepieces, The Limited Edition, Oster, Pragnell, Phillips, Europa Star (artigos BLU 2004/2005/2006), Masterhorologer, Gressive (catálogo 2008), SJX, Monochrome. Inclui fase BLU (2000–2013), Goldpfeil Seven Masters e Time Dimension. Vermelha: variações BLU (metais/tamanhos/mostradores, Casino, Diamant, Maestro, Lady Planet, El Noor) sem foto/código. Coluna M preenchida. Próxima: Bernhardt (185)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2039,31 +2062,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T22:41:25Z",
- "ultimo_sinal": "2026-10-20T22:58:50Z",
- "em_andamento": {
-  "marcas": [
-   "Bernhard Lederer (BLU)"
-  ],
-  "linha_marcas": 184,
-  "grande": true,
-  "relogios": "historico/parcial_lederer_relogios.txt",
-  "fontes": "historico/parcial_lederer_fontes.txt",
-  "notas": "historico/notas_lederer.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
  }
 }
