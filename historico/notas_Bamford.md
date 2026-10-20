@@ -13,3 +13,13 @@
 - MARCA VERMELHA (decidido): configurador (Mayfair original, TAG/Zenith/GP/FM customizados), Rolex customizados sob encomenda, peças únicas Fordite.
 - Bremont redirect www.bremont.com/en-us pediu permissão (PROVENANCE): não repetir.
 - hypebeast brands page/2 (link de página) pediu permissão: não repetir.
+## Passada 1 encerrada (02:27 UTC): últimas 3 fontes (silodrome, jura blog, luxe.digital) sem novidade.
+## 10b Auto-auditoria
+1. Blog oficial: 20 páginas de imprensa; lidos ~5 artigos (Miami pack, GMT launch, Selfridges). Página 2+ inalcançável por busca. -> 2ª passada busca artigos do blog por site:.
+2. §2c bamfordlondon.com/products: feito com termos GMT, B347, B80, Mayfair, Nepro, Ltd Ed, Snoopy, collab; achados ocultos: Mr A, Snoopy 75th, Bad Mof'r, Hackett, Love GMT, Jeremyville, Hypebeast Snoopy, Harrods PVD, King Nerd, Commando PVD, Aether GMT, Babar. 2ª passada: termos Popeye, Sesame, Peanuts, Time+Tide, Selfridges, Midnight, Joe Preppy, Beagle, D-300, Mayfair Date.
+3. Lojas site:/products: Collective, Jura, Ace, Analog Shift, Exquisite, Topper, Serious, Delray. 
+4. Primeiro modelo: Mayfair 2017 (quartzo), achado. BWD: Rolex PVD c. 2004-2007.
+5. J: Mayfair, London GMT, B347, colaborações TAG/Zenith — todos achados.
+6. LEs/colabs na B com nº de peças; Fordite como Peça única em E.
+7. ~142 fontes.
+- Vermelha: sim (configurador, Rolex sob encomenda, Fordite únicos, blog/collections page 2 inalcançáveis).
