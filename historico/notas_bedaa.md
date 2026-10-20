@@ -17,3 +17,13 @@ Linha Marcas 171. Bedat & Co (172) tratada como grande (1996, dezenas de refs B3
 - Albidaa (grupo, 2005, Hader Al-Suwaidi): adagas/espadas, óculos; relógios lançados como Beda'a em abr/2024.
 - Faltam fotos: Angles 37 Brown, Diamond Angles 37 ×3, Eclipse II Malachite.
 - Guichets Silver: azul calfskin, BQAS0526-37 (Watchonista). Sem mercado de usados (EveryWatch/Chrono24 sem resultados).
+## 10b Auto-auditoria
+1. Site: sem blog; "Our Story" lido; arquivo de LEs lido (7). Imprensa: WAQT (página da marca com 15 artigos), Monochrome, aBlogtoWatch, Europa Star, Watchilove, Masterhorologer, Hour Markers, Haute Time, Watchonista, Revolution.
+2. Buscas site:bedaawatches.com/product com vários termos: handles novos param (fortress-black, test12, attrayant-qatar-18-december-35mm ocultos).
+3. Lojas: WAQT shop (UAE), Time Keeper (Kuwait, 24 produtos). Regal Qatar não aparece em busca.
+4. Primeiro modelo: Fortress (2024, 1ª geração maroon/green/black) — marca relançada em abr/2024; Attrayant original 2016 (Al-Bidaa) sem nome/foto encontrados.
+5. I/J: J genérico ("Coleções com numerais árabes"). I: fundador errado.
+6. LEs com nº de peças na B. Sem peças únicas.
+7. ~72 fontes abertas. Parada: últimas 3 (WAQT Eclipse, WAQT Eclipse Qatar, Straps) sem novidades.
+Não vermelha: catálogo pequeno e conferido entre site oficial, arquivo de LEs e loja Time Keeper.
+Falhas: oracleoftime (2 páginas ROBOTS), ebay.de item, páginas ocultas do site (CLIENT_ERROR). Sem mercado de usados (EveryWatch/Chrono24 nada).

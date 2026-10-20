@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 171,
- "ultima_versao": 158,
+ "proxima_linha_marcas": 172,
+ "ultima_versao": 159,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1718,6 +1718,25 @@
     ]
    },
    "obs": "Tratada como grande (Dahlias peças únicas por pedra; Lili/Lili Bouton 8 pedras × 2 ouros). Catálogo conferido pela página Download do site e pela coleção da Oster Jewelers. Próximas: Beda'a (pequena) e Bedat & Co (provável grande)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 159,
+   "marca": "Beda'a",
+   "linha_marcas": 171,
+   "linhas_relogios": "18517-18562",
+   "relogios": 46,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 71,
+   "passadas": {
+    "1": [
+     71,
+     46
+    ]
+   },
+   "obs": "Site oficial real bedaawatches.com (G errado). Catálogo conferido com loja oficial, arquivo de edições limitadas e loja Time Keeper (Kuwait). Bedat & Co (172) tratada como grande: fica sozinha na próxima execução."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
