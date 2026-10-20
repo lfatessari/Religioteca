@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 178,
- "ultima_versao": 165,
+ "proxima_linha_marcas": 179,
+ "ultima_versao": 166,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1884,6 +1884,33 @@
     }
    },
    "obs": "Site oficial Wix benaruswatch.com abre (loja 45 produtos + páginas escondidas: Mako ETA 2021, Megalodon 2021, Moray 44 GMT Ti 20 pçs, Moray 47 Ti, Moray 40 brass). Não usa códigos (só VM02/VM05 do Vintage Moray). Histórico 2008–2016 por Watch Report, WristWatchReview, w&w, aBlogtoWatch, OceanicTime; anúncios WatchUSeek via WatchCharts. 23 fichas da loja ficaram com link da página (sem foto). Vermelha: combinações do Megalodon 2015, Vintage Moray (8 opções), Sea Devil 300 pçs, cores de Remora/Moray 3/IV, WatchUSeek bloqueado. Próxima: Benrus (178)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 166,
+   "marca": "Benrus",
+   "linha_marcas": 178,
+   "linhas_relogios": "20521-20660",
+   "relogios": 140,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 135,
+   "passadas": {
+    "1": {
+     "fontes": 98,
+     "novos": 123
+    },
+    "2": {
+     "fontes": 26,
+     "novos": 7
+    },
+    "3": {
+     "fontes": 11,
+     "novos": 2
+    }
+   },
+   "obs": "Site oficial benrus.com (Shopify) abre; 18 modelos atuais + páginas escondidas (Type I-C, Type II 500 pçs, Series #3061 2022, Orbit Robot). Fases: vintage 1921–1980, licenciamento (Sky Chief 2015, H6, Infantry, MBR japonesa), relançamento 2020, linha Suíça 2025–26, linha japonesa (TYPE-I/II/III, DTU). ~73 de 140 com foto. Vermelha: centenas de refs vintage (EveryWatch 133 anúncios só de Sky Chief), variantes 2020 sem código, Chrono24 inalcançável, eBay não abre. Próxima: Benzinger (179)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1895,34 +1922,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T17:41:12Z",
- "ultimo_sinal": "2026-10-20T18:16:07Z",
- "em_andamento": {
-  "marcas": [
-   "Benrus"
-  ],
-  "linha_marcas": 178,
-  "grande": true,
-  "relogios": "historico/parcial_benrus_relogios.txt",
-  "fontes": "historico/parcial_benrus_fontes.txt",
-  "notas": "historico/notas_benrus.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2",
-   "p3"
-  ],
-  "passada": 3
  }
 }
