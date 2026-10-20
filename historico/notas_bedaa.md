@@ -10,3 +10,6 @@ Linha Marcas 171. Bedat & Co (172) tratada como grande (1996, dezenas de refs B3
 - Fundador: Hader Al Suwaidi (Monochrome) — coluna I diz Mohammed Al-Darwish (provável erro). CEO/designer Sohaib Maghnam. Origem 2016 sob grupo Albidaa; marca acelerada em 2024. Doha + gestão em Londres.
 - Fortress 1ª geração (2024) com numerais árabes orientais: cores desconhecidas; handle oculto fortress-black. Fortress II (2025, W&W): cinza, branco, azul, numerais de Wissam Shawkat.
 - Eclipse II: 100 peças/ano (Monochrome).
+- oracleoftime stone: ROBOTS_DISALLOWED (outros oracleoftime abrem).
+- Attrayant original de 2016 (coleção Al-Bidaa), octogonal; sem nome/foto ainda. Procurar.
+- Mecaline Boutique (GWD 2026) já no arquivo de LEs. Angles lançado inicialmente com o nome Albidaa (2023?).
