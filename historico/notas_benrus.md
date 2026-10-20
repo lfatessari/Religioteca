@@ -11,3 +11,5 @@ Só Benrus nesta execução.
 - Fases: vintage 1921–1977; licenciamento (anos 2000–2010s, quartzo, Sky Chief 2015 $295); relançamento 2020 (Field/Classic/Air Chief, Miyota/Ronda); Type I 2021 / Type I-C / Type II 500 pçs 2022 (Soprod); fase atual Suíça 2025 (Type 1/2 Mil Spec ETA 2892, DTU 2025 ETA 2671, 3061, Sky Chief ETA 2894, Ultra-Deep, Type 3X, 250th).
 - Códigos de duas letras + número (CE 13, FG 25, AR15, FY33, DN2F, BB3, DR2-F1) = calibres Benrus, não referência.
 - Original Type I: Class A (lume) e Class B; ~16.000 feitos. Type I 2020 (1000 pçs, ETA 2681). Sea Lord 2022/2023: preto tropic e verde bracelete.
+- eBay: itens não abrem (CLIENT_ERROR); 3 modelos entraram só pelos títulos da busca (não contam como fonte).
+- EveryWatch: só Sky-Chief tem 133 anúncios (20 lojas) → GRANDE confirmado. Família/anúncios precisam vir de busca.
