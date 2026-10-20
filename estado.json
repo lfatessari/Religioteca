@@ -1748,5 +1748,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T10:42:06Z",
+ "ultimo_sinal": "2026-10-20T10:42:06Z",
+ "em_andamento": {
+  "marcas": [
+   "Bedat & Co"
+  ],
+  "linha_marcas": 172,
+  "grande": true,
+  "relogios": "historico/parcial_bedat_relogios.txt",
+  "fontes": "historico/parcial_bedat_fontes.txt",
+  "notas": "historico/notas_bedat.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
