@@ -13,3 +13,6 @@ Linha Marcas 171. Bedat & Co (172) tratada como grande (1996, dezenas de refs B3
 - oracleoftime stone: ROBOTS_DISALLOWED (outros oracleoftime abrem).
 - Attrayant original de 2016 (coleção Al-Bidaa), octogonal; sem nome/foto ainda. Procurar.
 - Mecaline Boutique (GWD 2026) já no arquivo de LEs. Angles lançado inicialmente com o nome Albidaa (2023?).
+- Fortress 1ª geração (BQF0524, 2024): maroon, green, black. Fortress II (2025): gray/silver, white, blue (BQF0524-28).
+- Albidaa (grupo, 2005, Hader Al-Suwaidi): adagas/espadas, óculos; relógios lançados como Beda'a em abr/2024.
+- Faltam fotos: Angles 37 Brown, Diamond Angles 37 ×3, Eclipse II Malachite.
