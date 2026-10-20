@@ -1976,7 +1976,7 @@
   }
  },
  "em_execucao": "2026-10-20T20:41:30Z",
- "ultimo_sinal": "2026-10-20T21:21:04Z",
+ "ultimo_sinal": "2026-10-20T21:21:17Z",
  "em_andamento": {
   "marcas": [
    "Bering"
@@ -1996,8 +1996,9 @@
    "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10"
   ],
-  "passada": 1
+  "passada": 2
  }
 }

@@ -16,3 +16,7 @@ Grande (catálogo enorme, centenas de refs). Sozinha.
 - preissuchmaschine.de/in-Uhr/von-Bering/ deu erro (não abriu).
 - eBay categoria Ceramic (bn_7118121805): WebFetch recusou o resumo (erro de política do modelo resumidor); pulada.
 - Limpeza: remover 11938-003 (duplicata de 11938-003DD).
+## Fim da 1ª passada (21:21 UTC): 83 fontes, 658 relógios
+- Critério §11: watchpro 62422, PBI, FCW Time to Care e cijintl seguidas sem novidade.
+- Vermelha: catálogo de mais de 1.500 anúncios (guenstiger), ~76 páginas do comparador e só ~20 alcançadas; páginas 2–3 da Helveti e da Watchdirect não alcançadas; muitas variações sem foto.
+## 2ª passada (alvo): modelos antigos 2010–2016, masculinos, edições japonesas, páginas de listas não alcançadas.
