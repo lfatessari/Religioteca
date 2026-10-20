@@ -8,3 +8,6 @@
 - Relógios de mesa (Desk Clock GMT x4) — não entram (não são de pulso); citar no relatório.
 - GM-5 Caribbean Blue (anúncio) provavelmente = GMT-5 Hawaii; não entrou.
 - Buracos a buscar: FM Snoopy Crazy Hours; Zenith El Primero Superconductor (BWD x Black Badger); GP Laureato Ghost; FC Highlife Bamford; TAG Heuer Monaco/Carrera/Aquaracer Bamford; Bulgari; Hublot; Beagle Scout Snoopy (Goodwoof); Big Bird; Bad Mof'r; Sesame Street outros
+- BWD site (bamfordwatchdepartment.com) tem loja WooCommerce com colaborações: página collaborations-and-limited-editions (44+ itens, corta no fim). Limpar no fim: duplicatas Radar, Edge of Space, Laureato Ghost (dividir couro UB7A / cerâmica 32A), nomes BWD em formato B.
+- Fordite Carrera: duas séries [001-004] e [1-10] = 14 peças únicas + Zenith Pilot CP-2 Fordite 1/1.
+- MARCA VERMELHA (decidido): configurador (Mayfair original, TAG/Zenith/GP/FM customizados), Rolex customizados sob encomenda, peças únicas Fordite.
