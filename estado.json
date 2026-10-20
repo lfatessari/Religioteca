@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 176,
- "ultima_versao": 163,
+ "proxima_linha_marcas": 177,
+ "ultima_versao": 164,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1838,6 +1838,25 @@
     }
    },
    "obs": "Site oficial bellross.com (Shopify) abre; fichas de produtos antigos achadas por busca. Base: WatchBase (br-01, br-03, vintage, marine), coleção oficial Other Collections (100 refs), Essential Watches (arquivo 1995–2015), Hourstriker, Exquisite, The Watch Company. Só 273 de 671 com foto; o resto tem link da página. Vermelha: arquivo oficial de 789 produtos (40 págs) inalcançável, BR S (89 oficiais), variantes antigas sem refs. Fundação divergente (1994 x 1992) anotada em M. Próxima: Belmoto (176)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 164,
+   "marca": "Belmoto",
+   "linha_marcas": 176,
+   "linhas_relogios": "20334-20340",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 25,
+   "passadas": {
+    "1": {
+     "fontes": 25,
+     "novos": 6
+    }
+   },
+   "obs": "Site belmoto.gt bloqueado (robots); loja oficial dentro de magrette.com. Catálogo fechado: 3 Tourer + 4 Track-Day = lançamento dez/2015. Bateria só com a Belmoto porque a seguinte, Benarus (177), foi tratada como grande (ver historico/notas_benarus_dimensionamento.md). Próxima: Benarus (177), sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1849,19 +1868,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T15:41:32Z",
- "ultimo_sinal": "2026-10-20T15:41:32Z",
- "em_andamento": {
-  "marcas": [
-   "Belmoto"
-  ],
-  "linha_marcas": 176,
-  "grande": false,
-  "relogios": "historico/parcial_belmoto_relogios.txt",
-  "fontes": "historico/parcial_belmoto_fontes.txt",
-  "notas": "historico/notas_belmoto.md",
-  "secoes_feitas": [],
-  "passada": 1
  }
 }
