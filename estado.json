@@ -1559,7 +1559,7 @@
     }
   },
   "em_execucao": "2026-10-20T04:41:26Z",
-  "ultimo_sinal": "2026-10-20T04:55:51Z",
+  "ultimo_sinal": "2026-10-20T04:59:35Z",
   "em_andamento": {
     "marcas": [
       "Baume & Mercier"
@@ -1571,7 +1571,8 @@
     "notas": "historico/notas_BaumeMercier.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "5"
     ],
     "passada": 1
   }

@@ -7,3 +7,4 @@
 - Imprensa: presspage 2026: Damiani Group adquiriu a B&M da Richemont (2026) -> observação coluna I/D (diz Richemont).
 - Limitadas: 10897/10898 GPSI 2026; 10839 Ano Novo Chinês 100 pç; 10808 limitada; 10735 edição especial; 10741 Musée Soulages.
 - Seções: 2 (oficial+presspage), 5 (watchbase hampton/classima/clifton, hourstriker), 7 parcial
+- Vintage: CollectorSquare lpi (Riviera, other-model), Wikipedia (Galaxie, Stardust, 2-register 1940s)
