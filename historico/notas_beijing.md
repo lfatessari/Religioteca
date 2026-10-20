@@ -19,3 +19,13 @@ Grande (manufatura estatal, catálogo enorme). Linha Marcas 174.
 - State of Mind BG080102 ainda falta entrar (com foto watchpro).
 - beijingwatches.com = loja Shopify internacional da marca (coleções: oriental-culture, bladelegant, replica, architectural, star-hunter, silk-whisper, expedition, inspiration, classic, beihai, best-seller). Abrir só via busca. Han Style Tourbillon = BG953502 (Shichen).
 - 1912 = ZuanShi Great Wall (outra marca). GPHG foto State of Mind: https://cms.gphg.org/uploads/photothumbnail_gphg2017_beijing_01_3a071065e0.jpg
+## Fim da 1ª passada (13:11 UTC) — ~135 fontes, ~206 relógios
+Critério: últimas fontes independentes (watchprosite editor, hktdc te, hktdc couple, best-seller etc.) sem novidade; buscas site:chinawatchshop só repetem IDs.
+## Auto-auditoria 10b
+1. Blog da loja internacional: listagem lida + 1 artigo (Beihai review). Site oficial chinês: só títulos via busca (bloqueado).
+2. site:beijingwatch.com e site:beijingwatches.com/products feitos com muitos termos até repetirem.
+3. Lojas: chinawatchshop (busca site: exaustiva), jamtangan, neobiao, beijingwatches.com.
+4. Primeiro modelo BS-1 (1958) ✓, BS-2 ✓, SB-5 ✓, SZB-1 ✓, Shuangling ✓.
+5. J: Wu Ji ✓, Beihai ✓, BS-1 Reissue ✓, "Zun Da Ming Enamel" NÃO encontrado → buscar na 2ª passada.
+6. Limitadas na B com nº ✓; peça única Athena e repetição cloisonné em E ✓.
+## VERMELHA: site oficial tem ~480 itens (IDs até 480) e só ~95 apareceram em busca; centenas de modelos antigos sem título.

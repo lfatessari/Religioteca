@@ -1797,7 +1797,7 @@
   }
  },
  "em_execucao": "2026-10-20T12:41:50Z",
- "ultimo_sinal": "2026-10-20T13:10:14Z",
+ "ultimo_sinal": "2026-10-20T13:12:52Z",
  "em_andamento": {
   "marcas": [
    "Beijing Watch Factory"
@@ -1811,11 +1811,16 @@
    "1",
    "2",
    "2c",
+   "3",
+   "4",
    "5",
+   "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10",
+   "10b"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
