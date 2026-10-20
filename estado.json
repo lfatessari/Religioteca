@@ -1824,7 +1824,7 @@
   }
  },
  "em_execucao": "2026-10-20T13:41:25Z",
- "ultimo_sinal": "2026-10-20T13:58:01Z",
+ "ultimo_sinal": "2026-10-20T14:03:05Z",
  "em_andamento": {
   "marcas": [
    "Bell & Ross"
@@ -1835,7 +1835,8 @@
   "fontes": "historico/parcial_bellross_fontes.txt",
   "notas": "historico/notas_bellross.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2"
   ],
   "passada": 1
  }
