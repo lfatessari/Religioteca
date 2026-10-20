@@ -15,3 +15,4 @@
 7. Fontes: ~150.
 ## Decisão: VERMELHA — Megalodon 2015 (6 combinações sem detalhe), Vintage Moray (8 opções, códigos VM01–VM08 só VM02/VM05 vistos), Sea Devil 300 pçs em vários acabamentos, Remora/Mildiver/Moray 3/IV com cores não listadas, Megalodon Ti com várias cores, centenas de anúncios do WatchUSeek sem acesso.
 ## 2ª passada: alvo = Sea Devil, Mildiver, Remora, Moray IV, Vintage Moray VM, Megalodon Ti, fotos das fichas restantes, §2c com termos novos.
+## 2ª passada: 16 fontes, ~12 relógios novos (Sea Devil branco 50 pçs, Remora 2 azul/PVD, Mil-Diver oliva 50 pçs, Worldiver PVD, Megalodon Gold Ed. e Meg X OceanicTime, Megalodon Bronze ETA 2016). §2c refeito com termos novos (date/no date, titanium white/damast/green): nada novo. → 3ª passada obrigatória.
