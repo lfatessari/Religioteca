@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 180,
-  "ultima_versao": 167,
+  "proxima_linha_marcas": 181,
+  "ultima_versao": 168,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1934,6 +1934,35 @@
         }
       },
       "obs": "Site oficial jochenbenzinger.de (página única) abre, incl. versão 2023 e EN: 83 itens (GAP 1/2, Regulateur, Subskription, Skelett, Classic, ONE 1–6, encomendas, movimentos refinados); rotores avulsos excluídos. Lojas Watchbuys (SKUs BE-xxx na coluna E), Define Watches, Exquisite, Horology by the Sea. Não usa códigos. Excluídos: Jaeger & Benzinger (marca à parte, sem linha em Marcas) e Benzinger Boutique (linha da Grieb & Benzinger). Vermelha: ~100 peças únicas/ano, encomendas não publicadas, mostradores configuráveis, Chrono24 inacessível. Soma 'novos' da 1ª passada inclui 4 itens depois fundidos/retirados. Próxima: Bergstern (180)."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 168,
+      "marca": "Bergstern",
+      "linha_marcas": 180,
+      "linhas_relogios": "20772-21109",
+      "relogios": 338,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 73,
+      "passadas": {
+        "1": {
+          "fontes": 53,
+          "novos": 311
+        },
+        "2": {
+          "fontes": 10,
+          "novos": 4,
+          "novos_por_titulo_de_busca": 9
+        },
+        "3": {
+          "fontes": 10,
+          "novos": 2,
+          "novos_por_titulo_de_busca": 3
+        }
+      },
+      "obs": "Marca própria da rede polonesa Apart (Bergstern/R2 Trade, Sarnen; importador R2 Center, Suchy Las). Site bergstern.ch (só catálogo atual, mesmos IDs da Apart). Códigos B+modelo(001–099)+G/L+nº sequencial (001–410): faltam ~70 números, quase todos de 2014–2017. Calibres do manual da Apart na coluna E. ~32 linhas só com link de anúncio (sem foto). Coluna M preenchida. Próxima: Bering (181), grande, sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

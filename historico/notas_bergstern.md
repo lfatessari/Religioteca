@@ -20,3 +20,13 @@ Marcas: G vazio (site bergstern.ch segundo masterhorologer); C vazio.
 - Decisão: VERMELHA. Numeração sequencial vai até 410 e faltam ~95 números; muitos modelos antigos (2014–2017) só aparecem em anúncios de usados sem foto.
 - 2ª passada: atrás dos números faltantes (B004–B013, B016–B026, B033–B044, B055–B060) em lojas de penhores/usados, Allegro Lokalnie, Vinted, Domodi, WatchUSeek, Apart (wydarzenia), catálogo 2018.
 - Apart diz "Harmony Chronograph B038G189"; B058G272 aparece como Harmony 40 mm no Allegro mas a Apart põe B058 em Active.
+## 3ª passada (2ª trouxe 13 novos: 4 de páginas abertas + 9 de títulos de busca)
+## 10b Auto-auditoria
+1. Blog/imprensa: site oficial não tem blog; página "brand" lida (patrocínios, edição Jungfrau Marathon 2019 sem código achado). Europa Star (5 fichas), Kaminsky, rp.pl, fashion.apart lidos.
+2. §2c: bergstern.ch e Apart só mostram o catálogo atual; IDs antigos da Apart redirecionam para a lista. Buscas "Active / B0", "Harmony / B0" feitas.
+3. Lojas: Apart (pl/eu), Faceluxus (CH), Stepec (FR), Miłośnik Biżuterii, Forretas, Desertcart/Amazon, Touch of Modern (não abriu), Loombard, Sprzedajemy, L66, Allegro.
+4. Primeiro modelo: linha B001–B009 (2014/15, Brilliance/Harmony) achada via Znajdzmy e manual; data de fundação não encontrada (planowaniestrategiczne: "início da década de 2010").
+5. I/J da aba Marcas: genéricos; coleções reais Active/Harmony/Brilliance.
+6. Sem edições limitadas com código; edição Jungfrau Marathon e relógios FIS sem código (não entram).
+7. Fontes: 73 (1ª 53, 2ª 10, 3ª 10).
+Fim: 3ª passada trouxe 5 novos (2 de páginas abertas + 3 de títulos); últimas fontes (Miłośnik 28, minuta.pl) sem novidade -> parar. Faltam ~70 números da sequência (principalmente 2014–2017), só vendidos na época pela Apart.
