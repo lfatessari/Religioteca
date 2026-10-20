@@ -1,0 +1,722 @@
+{
+ "marca": "Bedat & Co",
+ "usa_codigos": true,
+ "logo": "https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/bedatco_logo_t.png",
+ "site_bloqueado": "Site bloqueado – bedat.com não aparece em nenhuma busca (não pôde ser aberto sem aprovação); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G: bedat.com não apareceu em nenhuma busca (não confirmado se está no ar). I: Gucci comprou 85% em 2000 e 100% em 2005; LuxuryConcepts (Malásia) desde 2009 – status atual não confirmado. J: faltam as linhas No. 33 e Extravaganza (alta joalheria); No. 1 é de 2003, No. 8 de 2004, No. 2 de 2008.",
+ "fontes": [
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Bedat_%26_Co",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/bedat--co-collection-n3-collection-no-3-394010603-27991",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.hourstriker.com/database/bedat--co-collection-n1-collection-no-1-114010100-21820",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/bedat--co-collection-n2-collection-no-2-18k-wg-lug-207300602-15427",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.hourstriker.com/database/bedat--co-collection-n8-no-8-gmt-832011300-0001-8320113000001-24628",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.hourstriker.com/database/bedat--co-collection-n1-collection-no-1-with-diamonds-114050100-31534",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/bedat--co-extravaganza-extravaganza-881560999-21494",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.berrysjewellers.co.uk/collections/bedat-and-co-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/bedat-co/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/bedat-&-co/lpi",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Bedat_%26_Co",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bedat-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.fashionmodeldirectory.com/brands/bdat-co/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bedat-no-7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bedat-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchmaxx.com/watch/bedat-797.010.620",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/bedat-et-co-ref-827-et-828-7772.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/bedat-co/no8/watch-9990739",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://everywatch.com/bedat-co/314/watch-9140845",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.prestigetime.com/preowned/Bedat-&-Co.-No.-2-Quartz-36.5mm-228.031.600-19291",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/bedat-co-334340800-ladies-18kt-gold-watch-210000066937.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/15938.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/14345.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/16847.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/29792.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/15977.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/bedatco-no7jumbo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bedat-watch-3",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bedat-no3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/bedat-co-swiss-watch-18-carat-rose-gold-automatic-model-no1/id-j_11073582",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/bedat-co-no-7-728010109-w-65-mm-band-stainless-steel-bezel-silver-dial/id-j_5292802",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/bedat-co-no-7-708-silver-dial-certified-warranty/id-j_10118912",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/bedat-co-no-7-18k-gold-rectangle-black-dial-automatic-watch-ref-737/id-j_14693752",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/mens-bedat-co-no-7-ref-778-stainless-steel-quartz-chrono-watch/id-j_6402961",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/bedat-co-number-8-watches-for-2010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/bedat-co-no-8-watch-for-men-available-on-james-list",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/bedat-et-co-ref-828040101-16782.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/bedat-et-co-premier-of-2010-collection-in-hong-kong-9048.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://archives.ahsoc.org/index.php/bedat-co-press-kit-and-release-from-time-products-plc-regarding-the-distribution-of-bedat-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-54-228",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://senatus.net/album/view/10909",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://senatus.net/tv/bedat-co-novelties-2012-showcase/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/bedat-co-damenuhr-mit-3-quarz-silber-zifferblatt-305401100/id-j_19362652",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/bedat-co-no-3-wei%C3%9Fe-edelstahl-damenuhr-mit-zifferblatt-314051109/id-j_19309272",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/bedat-co-no-3-silbernes-diamant-zifferblatt-damenuhr-305401109/id-j_19362612",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/bedat-co-geneve-montre-pour-femme-n-8-style-n838011z01/id-j_12054772",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267890",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/bedat-co/02-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/bedat/no7/ref727_313_800/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/bedat-co/01-01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267896",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267889",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267892",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/news/155546",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/hotitem",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.8",
+   "passada": 1,
+   "novos": 57
+  },
+  {
+   "url": "https://fellows.co.uk/bidding/2131-the-watch-sale-715/12-bedat-co-a-gentlemans-stainless-steel-no-8-bracelet-watch-216681",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-3-Lady",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.33",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-1",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-3-Lady/Yellow-Gold",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-3-Lady/White-Gold",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-3-Mens",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.7/Chronopocket",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.7",
+   "passada": 1,
+   "novos": 58
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-3-Lady/Steel-with-Diamonds",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Bedat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267861",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267864",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267865",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267870",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267880",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267882",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267879",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267876",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267883",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267893",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267894",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003878391-ref-307-a-whole-new-take-on-the-bedat-c-x00ba.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003920194-bedat-co-releases-the-no-2-adorned-with-diamonds.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004083679.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1003782640.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004084242.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/bedat-co/catalog/267872",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bonhams.com/auction/16908/lot/706/bedat-and-co-a-fine-stainless-steel-automatic-wristwatch-with-second-time-zone-and-date-displayno-3-ref-388010310ss-case-no-0558-circa-2007",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-39-271",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-39-272",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-171-304",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fellows.co.uk/bidding/2510-the-watch-sale-855/404-bedat-co-a-ladys-18ct-yellow-gold-no-3-bracelet-watch-280926",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchmaxx.com/bedat-watch-867-010-310",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/bedat/jewelry/watches/wrist-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jp.mercari.com/s/197920",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2008/01/18/bedat-co-n-8-888-418-640-automatic-watch-yellow-gold-case-large-date/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/08/bedat-co-ref-830-ladies-automatic-chronograph-stainless-steel-case-diamond-set-besel-eta-2894-2-movement/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/bedat-co/01-03.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/bedat-co-watches-archives/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2010/06/08/bedat-co-extravaganza-collection-references-880-and-881-high-jewellery-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2010/06/08/bedat-co-ref-227-and-ref-228-no2-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2008/06/01/bedat-co-ref-867-n8-collection-automatic-chronograph-eta-caliber-2894-2-stainless-steel-round-in-a-cushion-shaped-case/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/02/bedat-co-extravaganza-collection-ref-188-ladies-watch-white-gold-case-set-with-diamonds/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/04/bedat-co-extravaganza-collection-ref-325-ref-327/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2014/06/03/bedat-co-ref-384-no-3-collection-new-models-2014/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/03/bedat-co-no-8-collection-ref-838-and-ref-888-ladies-watches-diamond-set-case-automatic-eta-movement/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/03/bedat-co-ref-316-ladies-quartz-watch-tonneau-shaped-case/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/02/bedat-co-ref-823-no-8-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/02/bedat-co-ref-305-ladies-watch-tonneau-shaped-case-diamond-set-bezel-quartz-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/bedat-et-co-2012-novelties-12189.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/bedat-et-co-refinement-expressed-in-the-feminine-mode-14939.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/bedat-et-co-collection-no3-5446.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/bedat-et-co-collection-no-8-new-models-9649.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/bedat-et-co-extravaganza-887550e01-17833.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2008/06/01/bedat-co-ref-394-n3-collection-ladies-watch-stainless-steel-tonneau-shaped-case-eta-caliber-976-001-quartz-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-240-103",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-271-285",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/good-bad-indifferent-tell-me-about-bedat-co-watches.113640/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-315460809-Bedat-No.3-in-Rose-Gold-with-Diamond-Bezel-on-Black-Leather-Strap-with-Opaline-Dial/48362",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-CB03SSBCOR-Ladys-No.-3-Concept-B3-in-Steel-on-Steel-Bracelet-with-Red-Dial/13619",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-CB03SSBSIL-Ladys-No.-3-Concept-B3-in-Steel-on-Steel-Bracelet-with-Silver-Dial/13816",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-CB03DDBWHI-Ladys-No.-3-Concept-B3-in-Steel-on-Steel-Bracelet-with-White-Dial-Diamond-Bezel/13813",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-CB03SSBWHI-Ladys-No.-3-Concept-B3-in-Steel-on-Steel-Bracelet-with-White-Dial/13624",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-CB03SDBWHI-No.-3-in-Stainless-Steel-with-Diamond-Bezel-on-Steel-Bracelet-with-Silver-Dial/13814",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-315424800-Bedat-No.3-in-Rose-Gold-on-Rose-Gold-Bracelet-with-Opalin-Dial/48367",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-338503109-Ladys-Bedat-No.33-in-White-Gold-on-White-Gold-Bracelet-with-Silver-Dial/13826",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-338533109-Ladys-Bedat-No.33-in-White-Gold-With-Diamond-Bezel-on-White-Gold-Bracelet-with-Silver-Dial/13829",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-338563109-No.33-in-White-Gold-with-Diamond-Bezel-on-White-Gold-Bracelet-with-Silver-and-Diamonds-Dial/13827",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/18-karat-bedat-co-montre-bracelet-suisse-%C3%A0-diamants-no-33/id-j_10434482",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Bedat/Bedat-No.-1/Steel",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/355000261777",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1004082639-bedat-co-presents-model-883-extravaganza.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atimelyperspective.com/?p=9442",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/watch/Bedat-227600909-Bedat-No.-2-Ladys-in-Rose-Gold-on-Brown-Satin-Strap-with-MOP-Dial/48314",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003825290-bedat-co-partners-with-designer-orianne-collins.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=32698",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/bedat-et-co-swiss-fine-craftsmanship-and-art-deco-spirit-10635.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1003782640-b-x00e9-dat-co-celebrates-2008-with-a-lucky.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/it/scopri/marche/bedat/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/bedat-co-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/463299",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/bedat-et-co-christian-bedat-14246.html",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

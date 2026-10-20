@@ -18,3 +18,11 @@ Grande (maison 1996, muitas refs). Linha Marcas 172.
 ## 2ª passada — alvo: fotos para refs só com link; novas refs (hourstriker/lojas), §2c e §3 com termos novos.
 - Orianne Collins (2008): coleção de JOIAS 'Bédat & Cº Exclusive' sob encomenda — não são relógios; fica fora.
 - No.1 lançada 2003; No.8 2004; No.2 2008; No.33 = versão reversível da No.3 (Watchonista).
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: site oficial inalcançável; compensado com Masterhorologer (arquivo de press releases 2006–2014), Worldtempus, Europa Star, Gressive (catálogo JP).
+2. §2c no site oficial: impossível; feito nas lojas (site: Essential Watches, 1stDibs, hourstriker).
+3. site:<loja> feito em Essential, 1stDibs, Hourstriker, EveryWatch, WatchMaxx.
+4. Primeiros modelos (Nº3 e Nº7, Basel 1997) estão na lista (refs 3xx/7xx); fotos específicas de 1997 não achadas.
+5. I/J: Nº1, Nº2, Nº3, Nº7, Nº8 encontrados; extras No.33, Extravaganza, Concept B3.
+6. Limitadas: No.8 LE (878 peças/versão), RIKAKO × Bedat, Extravaganza 3+3, No.7 'The Spirit', 888.060.909 LE; Japão: No.7 exclusivo. Sem peças únicas.
+7. 142 fontes (118 na 1ª passada, 24 na 2ª).

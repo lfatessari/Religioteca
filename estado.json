@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 172,
- "ultima_versao": 159,
+ "proxima_linha_marcas": 173,
+ "ultima_versao": 160,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1737,6 +1737,26 @@
     ]
    },
    "obs": "Site oficial real bedaawatches.com (G errado). Catálogo conferido com loja oficial, arquivo de edições limitadas e loja Time Keeper (Kuwait). Bedat & Co (172) tratada como grande: fica sozinha na próxima execução."
+  },
+  {
+   "data": "2026-10-20",
+   "marca": "Bedat & Co",
+   "linha_marcas": 172,
+   "linhas_relogios": "18563-19067",
+   "relogios": 505,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 142,
+   "passadas": {
+    "1": {
+     "fontes": 118,
+     "novos": 319
+    },
+    "2": {
+     "fontes": 24,
+     "novos": 3
+    }
+   }
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1748,31 +1768,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T10:42:06Z",
- "ultimo_sinal": "2026-10-20T11:23:03Z",
- "em_andamento": {
-  "marcas": [
-   "Bedat & Co"
-  ],
-  "linha_marcas": 172,
-  "grande": true,
-  "relogios": "historico/parcial_bedat_relogios.txt",
-  "fontes": "historico/parcial_bedat_fontes.txt",
-  "notas": "historico/notas_bedat.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
  }
 }
