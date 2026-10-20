@@ -6,3 +6,5 @@ Grande (catálogo enorme, centenas de refs). Sozinha.
 - guenstiger.de: 1511 relógios Bering listados (com repetidos), ~76 páginas `?mehr=N`; páginas só alcançáveis via busca. Imagens via proxy (decodificar base64). Otto = pixel de rastreio → sem foto (link da página).
 - Helveti.eu: fichas individuais e mens-watches-bering (17).
 - Fazer: E com "Visto só no comparador" deve ser apagado se a foto for melhorada depois.
+- Japão: linhas próprias/edições (Changes, Northern Lights 2026/Aurora, Ocean Forest 2026, Classic Diamond Sakura, Air Titanium 18640 [exclusivo online; fundir com 18640-122?], Charity Automatic urso-polar 19435/19441, Good Design Award 11935, Arctic Circle, Time to Care, Classic Scandinavian Small Second). Rakuten Nordic Feeling 121 itens (pág. 2 e 3 não achadas na busca).
+- chromeburner: Bering = roupas (outra marca Bering de moto!) → ignorar.
