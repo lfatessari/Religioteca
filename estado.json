@@ -1947,7 +1947,7 @@
     }
   },
   "em_execucao": "2026-10-20T19:41:20Z",
-  "ultimo_sinal": "2026-10-20T19:46:07Z",
+  "ultimo_sinal": "2026-10-20T19:50:22Z",
   "em_andamento": {
     "marcas": [
       "Bergstern"
@@ -1959,7 +1959,11 @@
     "notas": "historico/notas_bergstern.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c-parcial",
+      "4",
+      "5-parcial",
+      "7-parcial"
     ],
     "passada": 1
   }
