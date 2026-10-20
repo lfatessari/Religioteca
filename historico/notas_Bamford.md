@@ -23,3 +23,4 @@
 6. LEs/colabs na B com nº de peças; Fordite como Peça única em E.
 7. ~142 fontes.
 - Vermelha: sim (configurador, Rolex sob encomenda, Fordite únicos, blog/collections page 2 inalcançáveis).
+## Passada 2 encerrada (02:31): 20 fontes, 5 novos (>=5) -> 3ª passada obrigatória.
