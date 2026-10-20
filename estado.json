@@ -1750,7 +1750,7 @@
   }
  },
  "em_execucao": "2026-10-20T10:42:06Z",
- "ultimo_sinal": "2026-10-20T10:42:06Z",
+ "ultimo_sinal": "2026-10-20T10:48:40Z",
  "em_andamento": {
   "marcas": [
    "Bedat & Co"
@@ -1760,7 +1760,9 @@
   "relogios": "historico/parcial_bedat_relogios.txt",
   "fontes": "historico/parcial_bedat_fontes.txt",
   "notas": "historico/notas_bedat.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
