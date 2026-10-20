@@ -1712,7 +1712,7 @@
   }
  },
  "em_execucao": "2026-10-20T08:41:38Z",
- "ultimo_sinal": "2026-10-20T08:48:49Z",
+ "ultimo_sinal": "2026-10-20T08:50:48Z",
  "em_andamento": {
   "marcas": [
    "Beauregard"
@@ -1724,7 +1724,10 @@
   "notas": "historico/notas_beauregard.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2b",
+   "3",
+   "4"
   ],
   "passada": 1
  }
