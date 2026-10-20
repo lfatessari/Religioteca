@@ -1,0 +1,887 @@
+{
+ "marca": "Bamford",
+ "usa_codigos": false,
+ "logo": "https://www.bamfordwatchdepartment.com/wp-content/uploads/2024/06/bwd-logo-icon-1.png",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G aponta bamfordwatchdepartment.com (customização/colaborações BWD); os relógios próprios ficam em bamfordlondon.com. I: fundação 2004 (BWD), mas o site da Bamford London diz \"Est. 2009\" e a Jura cita 2016; I tem \"[⚠️ verificar]\". J poderia incluir B80, D-300, Mayfair 2.0 e Nepro.",
+ "fontes": [
+  {
+   "url": "https://bamfordlondon.com/pages/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collectivehorology.com/collections/bamford-london",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/mens-bamford-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/bamford-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/bamford/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://delraywatch.com/bamford",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristcheck.com/buy/bamford",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.acejewelers.com/en/watches/bamford-london",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.watches-of-switzerland.co.uk/c/Brands/Bamford",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/bamford/subcat-b80",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/bamford-watches-for-men/case-material-carbon-fibre",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/mens-bamford-watches/dial-colour-blue",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/mens-bamford-watches/case-width-39mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/mens-bamford-watches/case-width-41-5mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/bamford-watches-and-wonders-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/bamford-watches-and-wonders-2021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/bamford-watches-for-men/dial-colour-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/bamford/watch-9008088",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.loupe.watch/prices/bamford",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/bamford-london-launches-new-heritage-pepsi-night-owl-and-mirage-gmt-models/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/bamford-london-commando-gmt-and-predator-gmt-introducing-price/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ablogtowatch.com/the-versatile-traveler-watch-bamford-london-gmt-forged-carbon-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/products/gmt-mirage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/all-watches",
+   "passada": 1,
+   "novos": 40
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/bamford-watch-collaborations",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/b347-1",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/b80",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/d-300",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/vendors?q=Bamford+London",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/preorder",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/mayfair",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://shop.app/m/bamfordlondon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/round-up",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/best-selling-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/products/bamford-london-snoopy-limited-edition-gmt-75th-anniversary",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/products/mr-a-x-bamford-london-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/products/commando-bamford-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2020/10/bamford-london-peanuts-snoopy-watches-details",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://hypebeast.com/2021/5/bamford-london-sesame-street-knows-how-to-get-to",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.apetogentleman.com/bamford-watch-department-bamford-mayfair-watches/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bamfordlondon.com/blogs/news/bamford-watch-department-brings-miami-to-mayfair-collection-in-time-for-father-s-day",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/sphere-magazine-bamford-watch-department-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.g-central.com/g-shocks-third-collaboration-with-bamford-london-is-a-gm-5600-coming-in-december/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-bamford-london-popeye-gmt-limited-edition-price/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.franckmuller.com/news/vanguard-popeye",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ablogtowatch.com/tag-heuer-bamford-autavia-monaco-carrera-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://quillandpad.com/2018/08/03/tag-heuer-monaco-chronograph-forged-carbon-bamford-edition-lvmh-bamford-a-match-made-in-heaven-or/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2020/11/girard-perregaux-laureato-ghost-bamford.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/zenith-bamford-mr-porter-el-primero-revival-a384-edge-of-space-introducing-price",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ablogtowatch.com/zenith-chronomaster-el-primero-radar-watch-with-bamford-watch-department",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://asset.everywatch.com/bamford/watch-12493139",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collecting.com/for-sale/2018-bamford-bvlgari-octo-velocissimo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uncrate.com/fr/article/bamford-watch-department-x-daniel-arsham-bulgari-solotempo-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mrporter.com/en-ie/journal/watches/introducing-the-new-limited-edition-zenith-x-bamford-watch-1055548",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/bwd-x-frederique-constant-highlife-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/our-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/collaborations-and-limited-editions/",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product-category/limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product-category/collaboration/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/limited-edition-bamford-heuer-monza/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/seiko-5-sports-x-bamford-limited-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/bwd-girard-perregaux-deep-diver/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/zenith-el-primero-superconductor-bwd-x-black-badger/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/archive/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product-category/georges-watches/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/all-zenith-watches/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/?product_cat=tag-heuer",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/?post_type=product",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/bamford-watch-department-shop-2-2/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://us.bremont.com/products/s502-dlc-bamford-l-s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lacotedesmontres.com/en/The-Chopard-Mille-Miglia-Bamford-Edition-An-exclusive-limited-edition-of-the-legendary-Mille-Miglia-Classic-Chronograph-No_12764.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/oris-x-bamford-watch-department-limited-edition-mission-control-47mm-black-dial-black-textile-strap-01-793-7775-8724-set-p-199655/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/limited-edition-bamford-x-rowing-blazers-tag-heuer-carrera/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/wes-lang-tag-heuer-carrera-yg/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/the-tag-heuer-carrera-chronograph-x-team-ikuzawa-by-bamford-is-one-for-the-motoring-enthusiasts/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.franckmuller.com/news/crazy-hours-arctic-snoopy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/tag-heuer/aquaracer/way208f-bf0638",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=94048",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/tag-heuer/monaco-bamford/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/sphere-magazine-bamford-watch-department-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/bamford/HK080115/5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.monacolegendauctions.com/auction/exclusive-timepieces-25/lot-232",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/bamford-customized-rolex-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://hypebeast.com/brands/bamford-watch-department",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/products/bamford-london-x-seconde-seconde-b347-bad-mofr-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2026/7/tag-heuer-team-ikuzawa-and-bamford-reunite-for-a-150-piece-carrera-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2024/10/bamford-watch-department-x-franck-muller-crazy-love-snoopy-crazy-hours-limited-edition-release-info",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-the-bamford-x-peanuts-beagle-scout-gmt-limited-edition-for-hodinkee/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.goodwood.com/products/bamford-snoopy-2024",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/news/bamford-london-x-snoopy-in-style-limitededition-steel-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hourstriker.com/news/bamford-x-ræburn-snoopy-b80",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/products/king-nerd-x-bamford-london-x-peanuts-limited-edition-tennis-snoopy-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/en/marca/bamford-london/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wallpaper.com/watches-and-jewellery/bamford-watch-dover-street-market",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://worldwatchmuseum.com/marca/bamford-london/gmt/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://worldwatchmuseum.com/en/marca/bamford-london/b347/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/products/bamford-london-x-jeremyville-limited-edition-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/products/hypebeast-snoopy-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/products/bamford-london-harrods-limited-edition-snoopy-pvd-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/bamford-x-seconde-seconde-bad-form-gmt-limited-edition-as09441",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/tags/bamford-london",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://hourstriker.com/news/rowing-blazers-x-bamford-babar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/bamford-x-thomas-pink-automatic-titanium-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://aetherapparel.com/journal/our-premier-watch-in-collaboration-with-bamford-london",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/gmt/products/hackett-x-bamford-london-gmt-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/gmt/products/love-by-bamford-london-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/news/bamford-x-selfridges-x-disney-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://vmagazine.com/article/billionaire-boys-club-x-bamford-london-unveil-impressive-limited-edition-timepiece",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://news.dupontregistry.com/blogs/watches/the-new-bamford-london-x-city-street-market-peanuts-snoopy-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/friday-wind-down-11-12-20/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://media.goodwood.com/globalassets/press--media/goodwoof/goodwoof-x-bamford-press-release-final-may-2023---gw.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=55381",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/bamford/111359",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/bamford/100916",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/bamford/97814",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/bamford/watch-9007965",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/116484201963",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://arabwatchguide.com/bamford-and-awg-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=46905",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mrporter.com/en-gb/daily/whats-new-exclusive-bamford-watches-to-brighten-your-day/4585",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/bamford.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/405623275862",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mrporter.com/en-jp/mens/product/bamford-watch-department/luxury-watches/sports-watches/plus-gmt-automatic-stainless-steel-watch/1647597324701196",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classicdriver.com/en/article/watches/popeye-and-beetle-bailey-bamford-watches-cartoon-time",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://sothebys.com/en/buy/watches/mens-watches/_fm-popeye-vanguard-rose-gold-de28",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://popeye.com/?p=13412",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://topperjewelers.com/products/pre-owned-bamford-21454",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/bamford-gmt-black-aqua-custom-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/blogs/news/bamford-london-unveils-its-second-collection-and-announces-first-placement-at-selfridges",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/blogs/news/introducing-the-bamford-london-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/products/bamford-d-300-ceramic-dive-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seikowatches.com/global-en/products/5sports/srpl95",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcollecting.com/for-sale/2012-rolex-gmt-master-ii-by-bamford-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/pages/bamford-watches-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.apetogentleman.com/bamford-london/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://silodrome.com/bamford-gmt-steel-heritage/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/introducing-bamford-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxe.digital/brands/bamford/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/bamford-london-elton-john-partner-again-limited-edition-mayfair-date-watch/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://timeandtidewatches.com/bamford-london-popeye-steel-gmt-introducing/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://bamfordlondon.com/collections/mayfair-sport",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2022/4/peanuts-x-bamford-london-limited-edition-joe-preppy-gmt-hodinkee",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/blogs/news?page=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/zenith/236047",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/illest-x-bwd-tag-heuer-carrera/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/product/tiktok-x-bamford-watch-department-tag-heuer-carrera/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/bamford-watch-department-debuts-limited-edition-ruf-x-bamford-x-highsnobiety-tag-heuer-carrera-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/christies-watches-online-horological-holiday/tag-heuer-bamford-watch-dep-jonas-wood-limited-edition-carrera-calibre-119/78735",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bamfordlondon.com/blogs/news/hands-on-with-the-customizable-bamford-mayfair-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://therake.com/default/stories/bamford-donates-unique-pink-green-gmt-to-revolution-x-the-rake-covid-19-solidarity-auction",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/articles/novelties/exclusive-hands-tag-heuer-monaco-bamford",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=81282",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://loupethis.com/auctions/bamford-london-b347-pink",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/tags/Bamford",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.acejewelers.com/en/bamford-london-x-ace-jewelers-limited-edition-b80-ace",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=41598",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=39830",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2018/10/zenith-heritage-146-bamford-limited.html?m=0",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/customised-girard-perregaux-watches/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/customised-franck-muller-watches/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/sphere-magazine-bamford-watch-department-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/watches-week-official-customised-zeniths-bamford-watch-dept/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/sphere-magazine-bamford-watch-department-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-3-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-3-1-2/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/?p=34082",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2018/05/30/corum-admiral-legend-42-bamford-special-edition-timepiece-in-partnership-with-bamford-watch-department-london/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://robbreport.com/style/watch-collector/corum-partners-with-bamford-watch-department-on-admiral-watch-2794853",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=56411",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/articles/novelties/why-new-girard-perregaux-x-bamford-laureato-ghost-lesson-collaboration",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/casio-g-shock-x-bamford-watch-department-hands-on-review/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-central.com/?p=37376",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bamfordwatchdepartment.com/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

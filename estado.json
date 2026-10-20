@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 157,
-  "ultima_versao": 150,
+  "proxima_linha_marcas": 158,
+  "ultima_versao": 151,
   "historico": [
     {
       "data": "2026-10-16",
@@ -1441,6 +1441,33 @@
         ]
       },
       "obs": "3a passada a pedido: +1 (Stepgraph protótipo em tântalo 'Art of the earth', TimeForArt 2026, peça única) e melhorias em 21 linhas (fotos GMT MK-II e Seconde Majeure; MR01 'Oracle' West Wood Time 300 peças; Tricompax Tropical 200 peças; Heures du Monde 1a série 200 peças; numeração 1a série Tourer). Lojistas oficiais (30) checados: Red Army SG/MY, West Wood Time HK, Delugs, H°M'S. Chrono24 e Long Beach Watch Club não abriram. Próxima continua Bamford (157)."
+    },
+    {
+      "data": "2026-10-20",
+      "versao": 151,
+      "marca": "Bamford",
+      "linha_marcas": 157,
+      "linhas_relogios": "16947-17197",
+      "relogios": 251,
+      "vermelho": true,
+      "site_bloqueado": "",
+      "grande": true,
+      "fontes": 175,
+      "passadas": {
+        "1": [
+          142,
+          243
+        ],
+        "2": [
+          20,
+          5
+        ],
+        "3": [
+          13,
+          3
+        ]
+      },
+      "obs": "sozinha (grande). Bamford London (GMT, B347, B80, D-300, Mayfair, Mayfair 2.0, Mayfair Sport, Nepro) + colaborações Bamford Watch Department (TAG Heuer, Zenith, Bulgari, GP, Franck Muller, Chopard, Bremont, Oris, Seiko, FC, Corum, G-Shock) + Rolex personalizados vistos em leilões. Vermelha: configurador, Rolex sob encomenda, 15 peças únicas Fordite, páginas 2 das coleções/blog inalcançáveis. 4 relógios de mesa GMT fora. M157 preenchido. Próxima: Bangalore Watch Company (158)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -1452,34 +1479,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-20T01:41:26Z",
-  "ultimo_sinal": "2026-10-20T02:32:38Z",
-  "em_andamento": {
-    "marcas": [
-      "Bamford"
-    ],
-    "linha_marcas": 157,
-    "grande": true,
-    "relogios": "historico/parcial_Bamford_relogios.txt",
-    "fontes": "historico/parcial_Bamford_fontes.txt",
-    "notas": "historico/notas_Bamford.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2",
-      "p3"
-    ],
-    "passada": 3
   }
 }
