@@ -20,3 +20,4 @@ Grande (catálogo enorme, centenas de refs). Sozinha.
 - Critério §11: watchpro 62422, PBI, FCW Time to Care e cijintl seguidas sem novidade.
 - Vermelha: catálogo de mais de 1.500 anúncios (guenstiger), ~76 páginas do comparador e só ~20 alcançadas; páginas 2–3 da Helveti e da Watchdirect não alcançadas; muitas variações sem foto.
 ## 2ª passada (alvo): modelos antigos 2010–2016, masculinos, edições japonesas, páginas de listas não alcançadas.
+- 2ª passada, títulos de busca lote A: +5
