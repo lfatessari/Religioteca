@@ -1897,7 +1897,7 @@
   }
  },
  "em_execucao": "2026-10-20T17:41:12Z",
- "ultimo_sinal": "2026-10-20T18:13:27Z",
+ "ultimo_sinal": "2026-10-20T18:14:00Z",
  "em_andamento": {
   "marcas": [
    "Benrus"
@@ -1919,8 +1919,9 @@
    "8",
    "9",
    "10",
-   "10b"
+   "10b",
+   "p2"
   ],
-  "passada": 2
+  "passada": 3
  }
 }

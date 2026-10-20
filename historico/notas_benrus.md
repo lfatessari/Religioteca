@@ -27,3 +27,4 @@ Só Benrus nesta execução.
 6. Edições limitadas na B: 250th (250), Type II 2022 (500), Type I 2020 (1000), Wrist Alarm reedição (500), Mets 1969 (1969). Colaborações: Journal Standard, BEAMS PLUS, uniform experiment, Mets. Sem peças únicas.
 VERMELHA: centenas de referências vintage (EveryWatch 133 anúncios só de Sky Chief, WatchPatrol 126), variantes 2020 sem código, linha japonesa e licenciamento incompletos.
 - aucfan.com bloqueado (robots).
+## Fim da 2ª passada (18:14): 3 fontes seguidas sem novidade (crazywatches, hourstriker learn, secondtimearound). Trouxe ≥5 novos → 3ª passada.
