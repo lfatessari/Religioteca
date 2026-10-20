@@ -1849,5 +1849,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T15:41:32Z",
+ "ultimo_sinal": "2026-10-20T15:41:32Z",
+ "em_andamento": {
+  "marcas": [
+   "Belmoto"
+  ],
+  "linha_marcas": 176,
+  "grande": false,
+  "relogios": "historico/parcial_belmoto_relogios.txt",
+  "fontes": "historico/parcial_belmoto_fontes.txt",
+  "notas": "historico/notas_belmoto.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
