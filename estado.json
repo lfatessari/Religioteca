@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 165,
- "ultima_versao": 155,
+ "proxima_linha_marcas": 167,
+ "ultima_versao": 156,
  "historico": [
   {
    "data": "2026-10-16",
@@ -1596,6 +1596,52 @@
     ]
    },
    "obs": "Tratada como grande (Terra Australis configurável com 850 combinações; >100 modelos desde 2011), feita sozinha. Vermelha: OceanMoon III tinha 5 versões (só The Drift achada), OceanMoon I sem versões nomeadas, encomendas militares privadas. Chrono24 e EveryWatch não apareceram nas buscas. Próxima: Bavarian Crono (165), depois BCHH (166)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 156,
+   "marca": "Bavarian Crono",
+   "linha_marcas": 165,
+   "linhas_relogios": "18256-18284",
+   "relogios": 29,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 31,
+   "passadas": {
+    "1": [
+     20,
+     26
+    ],
+    "2": [
+     11,
+     3
+    ]
+   },
+   "obs": "Relógios-velocímetro de carros clássicos. Loja oficial bavarian-crono.de não abre; eBay não abre. Sem códigos (BC/42 e BC/60 são caixas)."
+  },
+  {
+   "data": "2026-10-20",
+   "versao": 156,
+   "marca": "BCHH",
+   "linha_marcas": 166,
+   "linhas_relogios": "18285-18311",
+   "relogios": 27,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 45,
+   "passadas": {
+    "1": [
+     31,
+     26
+    ],
+    "2": [
+     14,
+     1
+    ]
+   },
+   "obs": "Tratada como grande (sob encomenda, peças únicas). Inclui o relógio de mesa Celestial Infinity. 3 das 7 peças-conceito de 2021 sem nome conhecido. Beaubleu (167) adiada para a próxima execução."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -1607,23 +1653,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-20T06:41:17Z",
- "ultimo_sinal": "2026-10-20T06:55:26Z",
- "em_andamento": {
-  "marcas": [
-   "Bavarian Crono",
-   "BCHH"
-  ],
-  "linha_marcas": 165,
-  "grande": true,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Bavarian Crono: completa",
-   "BCHH: 1,2 (loja oficial),5,9"
-  ],
-  "passada": 1
  }
 }
