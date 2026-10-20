@@ -14,3 +14,5 @@ Grande (catálogo enorme, centenas de refs). Sozinha.
 - Títulos de busca lote 2: +2
 - Títulos de busca lote 3: +n (ver contagem do add)
 - preissuchmaschine.de/in-Uhr/von-Bering/ deu erro (não abriu).
+- eBay categoria Ceramic (bn_7118121805): WebFetch recusou o resumo (erro de política do modelo resumidor); pulada.
+- Limpeza: remover 11938-003 (duplicata de 11938-003DD).
