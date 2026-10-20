@@ -14,3 +14,5 @@ Grande (maison, 132 produtos no site oficial atual; WatchBase 218; centenas de r
 - Linha antiga (era Sinn, anos 1990–2000): Space 1/2/3, Hydromax, Type Démineur, Type Marine, Vintage 120/121/123/126/130/583, Classic, Professional Diver 300M, Geneva 123/126 → buscar (seção 10).
 - Hourstriker famílias: BR 01 (123), BR 02 (14), BR 120 (6), BR 126 (61), BR S (75) — índices não aparecem em busca; só br05 e br-123 apareceram.
 - EveryWatch: página da marca não aparece em busca.
+- §2c IMPORTANTE: bellross.com mantém fichas de produtos antigos/esgotados (ex.: /products/br-01-tourbillon, br-01-compass, br-01-92-red-radar) com ref + foto oficial. Buscar "bellross.com products <termo>" (modo extended) e abrir cada ficha nova.
+- Remover no fim (duplicados sem ref): "BR 01 Laughing Skull White" (sjx) = BR01-SKULL-O-SK-ST.
