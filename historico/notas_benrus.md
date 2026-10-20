@@ -28,3 +28,4 @@ Só Benrus nesta execução.
 VERMELHA: centenas de referências vintage (EveryWatch 133 anúncios só de Sky Chief, WatchPatrol 126), variantes 2020 sem código, linha japonesa e licenciamento incompletos.
 - aucfan.com bloqueado (robots).
 ## Fim da 2ª passada (18:14): 3 fontes seguidas sem novidade (crazywatches, hourstriker learn, secondtimearound). Trouxe ≥5 novos → 3ª passada.
+## Fim da 3ª passada (18:16): 11 fontes, 2 novos; últimas 4 sem novidade.
