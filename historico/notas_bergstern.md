@@ -16,3 +16,7 @@ Marcas: G vazio (site bergstern.ch segundo masterhorologer); C vazio.
 - Europa Star: Harmony 2017 Ronda 7004.P (dia retrógrado, data grande) = família B040G (sem saber a variante); Sport 2015 cronógrafo azul guilloché (provável B020G/B022G).
 - Lojas fora da Polônia: Stepec (França, 4 refs), Faceluxus (Suíça, catálogo 2018 PDF: faceluxus.ch/app/download/13393501488/bergstern-catalogue-2018.pdf)
 - §2c: páginas antigas da Apart (IDs 6555, 6562) redirecionam para a lista da marca — produtos fora de linha não ficam acessíveis no site oficial/Apart.
+## Fim da 1ª passada (~19:58 UTC): 52 fontes; 3 seguidas sem novidade (Allegro Harmony, ZegarkiCentrum, Planowanie Strategiczne, ZegarkiClub).
+- Decisão: VERMELHA. Numeração sequencial vai até 410 e faltam ~95 números; muitos modelos antigos (2014–2017) só aparecem em anúncios de usados sem foto.
+- 2ª passada: atrás dos números faltantes (B004–B013, B016–B026, B033–B044, B055–B060) em lojas de penhores/usados, Allegro Lokalnie, Vinted, Domodi, WatchUSeek, Apart (wydarzenia), catálogo 2018.
+- Apart diz "Harmony Chronograph B038G189"; B058G272 aparece como Harmony 40 mm no Allegro mas a Apart põe B058 em Active.

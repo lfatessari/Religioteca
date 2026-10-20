@@ -1947,7 +1947,7 @@
     }
   },
   "em_execucao": "2026-10-20T19:41:20Z",
-  "ultimo_sinal": "2026-10-20T19:57:04Z",
+  "ultimo_sinal": "2026-10-20T19:58:03Z",
   "em_andamento": {
     "marcas": [
       "Bergstern"
@@ -1960,13 +1960,18 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c-parcial",
+      "2c",
+      "3",
       "4",
-      "5-parcial",
-      "7-parcial",
-      "8-parcial",
-      "9-parcial"
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b-pendente"
     ],
-    "passada": 1
+    "passada": 2,
+    "vermelho": true
   }
 }
