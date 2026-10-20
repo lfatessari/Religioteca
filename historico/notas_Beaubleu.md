@@ -3,3 +3,4 @@ site real beaubleu-paris.com (G diz beaubleu.com). Fundada 2017 por Nicolas Duco
 Coleções: B01, Union, Vitruve (LE antigas), Ecce (Lys, Vesperal, Smalt) 2023, Figura (Sienna...), Seconde Française 19.24/20.24 (2024), La Pièce n°1/n°2 (2026), Flat White, Intrepide(J)
 
 Union: Olympe, Audace, Intrepide Blue, Intrepide Alabaster White (Rive Gauche), Brio Blue/Emerald/Rouge (Rive Droite), 500 cada? B01 4x125: Lumineux, Survolté, Mystérieux, Dynamique. Vitruve 888 total. dialicious/union pediu permissão (link de página).
+refs internas: B01 (B01), B03-DAT (Vitruve Date), B04-19-24 (Seconde Fr), BB-VES (Ecce). Galeries Lafayette cita 'Union Stellar' e 'Intrepid Abyss' - verificar.
