@@ -11,3 +11,5 @@ Grande (catálogo enorme, centenas de refs). Sozinha.
 - Arctic Circle = automáticos 19441 (41 mm, Seiko) e 19435 (35 mm feminino). Na limpeza: apagar a linha "Arctic Circle" sem código e nomear 19441/19435 como "Arctic Circle Automatic".
 - EveryWatch e Chrono24: busca não trouxe nenhuma página de Bering.
 - Títulos de busca (não contam como fonte aberta): lote 1 = 39 relógios novos (passada 1).
+- Títulos de busca lote 2: +2
+- Títulos de busca lote 3: +n (ver contagem do add)
