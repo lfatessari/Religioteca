@@ -1454,7 +1454,7 @@
     }
   },
   "em_execucao": "2026-10-20T01:41:26Z",
-  "ultimo_sinal": "2026-10-20T02:27:17Z",
+  "ultimo_sinal": "2026-10-20T02:28:26Z",
   "em_andamento": {
     "marcas": [
       "Bamford"
@@ -1476,7 +1476,8 @@
       "8",
       "9",
       "10",
-      "10b"
+      "10b",
+      "p2"
     ],
     "passada": 2
   }
