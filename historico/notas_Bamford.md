@@ -11,3 +11,4 @@
 - BWD site (bamfordwatchdepartment.com) tem loja WooCommerce com colaborações: página collaborations-and-limited-editions (44+ itens, corta no fim). Limpar no fim: duplicatas Radar, Edge of Space, Laureato Ghost (dividir couro UB7A / cerâmica 32A), nomes BWD em formato B.
 - Fordite Carrera: duas séries [001-004] e [1-10] = 14 peças únicas + Zenith Pilot CP-2 Fordite 1/1.
 - MARCA VERMELHA (decidido): configurador (Mayfair original, TAG/Zenith/GP/FM customizados), Rolex customizados sob encomenda, peças únicas Fordite.
+- Bremont redirect www.bremont.com/en-us pediu permissão (PROVENANCE): não repetir.
