@@ -14,3 +14,4 @@ Só Benrus nesta execução.
 - eBay: itens não abrem (CLIENT_ERROR); 3 modelos entraram só pelos títulos da busca (não contam como fonte).
 - EveryWatch: só Sky-Chief tem 133 anúncios (20 lojas) → GRANDE confirmado. Família/anúncios precisam vir de busca.
 - Hypebeast: Ultra-Deep 2023 (set/2023), Orbit Robot 2023, Type II 2022, DTU-2A/P 2021 "modernizado", uniform experiment × Benrus (2010, jan/2011, out/2011 SOPH.HANKYU) → buscar.
+- Japão: Benrus Japão vendeu série MBR (quartzo militar, ~2015–2018?) — 23 SKUs na Yodobashi; colaborações BEAMS PLUS Type-I (2022), Journal Standard Type II (2022), uniform experiment (2010–11). Buscar mais lojas japonesas (rakuten, zozotown).
