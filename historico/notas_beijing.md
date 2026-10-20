@@ -29,3 +29,4 @@ Critério: últimas fontes independentes (watchprosite editor, hktdc te, hktdc c
 5. J: Wu Ji ✓, Beihai ✓, BS-1 Reissue ✓, "Zun Da Ming Enamel" NÃO encontrado → buscar na 2ª passada.
 6. Limitadas na B com nº ✓; peça única Athena e repetição cloisonné em E ✓.
 ## VERMELHA: site oficial tem ~480 itens (IDs até 480) e só ~95 apareceram em busca; centenas de modelos antigos sem título.
+## Fim da 2ª passada 13:23 (~44 fontes novas, ~235 relógios novos, quase tudo do xbiao). Início da 3ª passada.
