@@ -1586,7 +1586,7 @@
     }
   },
   "em_execucao": "2026-10-20T05:41:32Z",
-  "ultimo_sinal": "2026-10-20T05:50:54Z",
+  "ultimo_sinal": "2026-10-20T05:52:26Z",
   "em_andamento": {
     "marcas": [
       "Bausele"
@@ -1599,8 +1599,11 @@
     "secoes_feitas": [
       "1",
       "2",
+      "2c",
       "3",
       "5",
+      "7",
+      "8",
       "9"
     ],
     "passada": 1
