@@ -1536,5 +1536,20 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-20T03:41:47Z",
+  "ultimo_sinal": "2026-10-20T03:41:47Z",
+  "em_andamento": {
+    "marcas": [
+      "Batavi",
+      "Bathys"
+    ],
+    "linha_marcas": 161,
+    "grande": false,
+    "relogios": "historico/parcial_batavi_relogios.txt",
+    "fontes": "historico/parcial_batavi_fontes.txt",
+    "notas": "historico/notas_batavi.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
