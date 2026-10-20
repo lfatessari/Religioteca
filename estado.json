@@ -1653,5 +1653,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-20T07:41:26Z",
+ "ultimo_sinal": "2026-10-20T07:41:26Z",
+ "em_andamento": {
+  "marcas": [
+   "Beaubleu"
+  ],
+  "linha_marcas": 167,
+  "grande": false,
+  "relogios": "historico/parcial_Beaubleu_relogios.txt",
+  "fontes": "historico/parcial_Beaubleu_fontes.txt",
+  "notas": "historico/notas_Beaubleu.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
