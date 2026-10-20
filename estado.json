@@ -1945,5 +1945,20 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-20T19:41:20Z",
+  "ultimo_sinal": "2026-10-20T19:41:20Z",
+  "em_andamento": {
+    "marcas": [
+      "Bergstern"
+    ],
+    "linha_marcas": 180,
+    "grande": false,
+    "relogios": "historico/parcial_bergstern_relogios.txt",
+    "fontes": "historico/parcial_bergstern_fontes.txt",
+    "notas": "historico/notas_bergstern.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "obs": "dimensionando Bergstern/Bering/Berne"
   }
 }
