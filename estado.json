@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 196,
- "ultima_versao": 180,
+ "proxima_linha_marcas": 197,
+ "ultima_versao": 181,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2282,6 +2282,25 @@
     }
    },
    "obs": "Tratada como grande (na dúvida) e feita sozinha. Fontes principais: 31 artigos masterhorologer (linha antiga BM xxxxxT, 2010–2014) + listas completas de bijoumontre.cn (Around the World, Secret Garden, Carat Diamond, Petite; códigos J0xx do arquivo de imagem). bijoumontre.ch/shop quase todo com erro (L parcial). Obs em M. Próxima: Biver (196)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 181,
+   "marca": "Biver",
+   "linha_marcas": 196,
+   "linhas_relogios": "23488-23527",
+   "relogios": 40,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 67,
+   "passadas": {
+    "1": {
+     "fontes": 67,
+     "novos": 40
+    }
+   },
+   "obs": "Tratada como grande (maison de Jean-Claude Biver) e feita sozinha. Site jcbiver.com /watches/ = 29 atuais + 4 páginas ocultas + peças únicas (protótipo 00/00, Catharsis Only Watch, Bucherer, Doha, Malaquita, La Danse du Temps, Desert Rose, Echoes of this Moment). Códigos PRF da Bucherer/Phillips/EveryWatch. Obs em M. Próxima: Black Belt Watch (197)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2293,28 +2312,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T08:42:03Z",
- "ultimo_sinal": "2026-10-21T09:01:11Z",
- "em_andamento": {
-  "marcas": [
-   "Biver"
-  ],
-  "linha_marcas": 196,
-  "grande": true,
-  "relogios": "historico/parcial_Biver_relogios.txt",
-  "fontes": "historico/parcial_Biver_fontes.txt",
-  "notas": "historico/notas_Biver.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 1
  }
 }
