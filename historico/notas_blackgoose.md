@@ -10,3 +10,4 @@ Heritage = evolução do SPITFIR. Berlinette hommage Alpine 100 pç (retropassio
 Seções feitas: 1,2,3(parte),9(parte). Falta: 2c (veloce-ii, stradale, iconic-66 erro), Pinterest, lojas, usados, Instagram.
 Iconic 66 = esqueleto 66 pç NH70 (Rétromobile 2025). SuperSport (1ª) quartzo 40mm 100 pç 350€ (2021). Roadmaster Pioneer + Chronograph Series quartzo Miyota 199/299€ (2020). Miami 67 = esqueleto 50 pç p/ Michel Disdier (NASCAR). Chronos-01 = crono manual de painel (rali). Peça única Bugatti (mostrador madeira, grade do radiador) 2026.
 Erros (páginas ocultas que não abrem): veloce-ii, chronograph-stradale, supersport-ii, chronograph-berlinette, iconic-66, shop/p/supersport, shop/p/continental, shop. Pinterest e Facebook: robots.
+1ª passada encerrada (3+ fontes seguidas sem novidade). Decisão: VERMELHO (ateliê ACH faz peças sob encomenda não publicadas; 5 cores originais dos cronos sem nome). 2ª passada: focar encomendas, cronos originais, Veloce I.

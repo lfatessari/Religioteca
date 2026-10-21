@@ -2314,7 +2314,7 @@
   }
  },
  "em_execucao": "2026-10-21T09:42:06Z",
- "ultimo_sinal": "2026-10-21T09:52:25Z",
+ "ultimo_sinal": "2026-10-21T09:54:56Z",
  "em_andamento": {
   "marcas": [
    "Black Belt Watch",
@@ -2328,8 +2328,8 @@
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
    "Black Belt Watch: todas",
-   "Black Goose: 1,2,2c parcial,3,9 parcial"
+   "Black Goose: 1ª passada completa (36 fontes, 33 relógios); falta 2ª passada (vermelha)"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
