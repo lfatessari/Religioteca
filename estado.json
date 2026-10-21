@@ -2558,7 +2558,7 @@
     }
   },
   "em_execucao": "2026-10-21T16:42:15Z",
-  "ultimo_sinal": "2026-10-21T17:11:59Z",
+  "ultimo_sinal": "2026-10-21T17:14:17Z",
   "em_andamento": {
     "marcas": [
       "Boderry"
@@ -2581,7 +2581,8 @@
       "9",
       "10",
       "10b-p1",
-      "p2"
+      "p2",
+      "p3"
     ],
     "passada": 3
   }
