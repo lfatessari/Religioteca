@@ -13,3 +13,4 @@
 - J 'Sei He Ki' não encontrado em busca nenhuma. WatchPatrol diz 'China, 2013' (errado: Portugal).
 - eBay itm 227156106930 e ebay.de 226459333844: CLIENT_ERROR.
 - Estoril 300 GMT também chamado 'Estoril Traveler GMT' (Miyota 9075).
+- watchuseek thread borealis-olisipo.5085405: CLIENT_ERROR. Loja PL czasuprzestrzen (steinhart-zegarki.pl) vende Borealis; categoria /pl/c/Borealis/59 (link de página, não de busca).
