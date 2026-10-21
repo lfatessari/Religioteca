@@ -13,3 +13,6 @@
 - timepiece.com: 105 produtos com foto (turbify) — melhor fonte de fotos. Mercari: B268 Galeria cerâmica, RB2951, RB7026M (eBay: modelo Lombardo, borracha 44mm), RB90910, RB18490 Medellin, H262.
 - Nome RB7060x: site oficial/Bloomgem "Valencio"; Ashford/Timepiece "Valentino". Usar Valencio.
 - master 132 às 05:15. Falta: EveryWatch/Chrono24, linha antiga (fotos), Ashford outros, eBay.de, Walmart, Pinterest.
+- 05:19 Passada 1 encerrada (3 fontes seguidas sem novidade: accuratime rb70605, simon, pickyourplum). 167 relógios.
+- DECISÃO: VERMELHO. Motivo: catálogos de Ashford/Bezali/Accuratime/Jomashop não abrem por inteiro (só por busca); linha antiga Bianci 2008–2013 (Pro Racing, Professional Commando, Florence, Diamond) com muitas refs sem fonte.
+- 2ª passada: foco linha antiga + códigos faltantes por loja.
