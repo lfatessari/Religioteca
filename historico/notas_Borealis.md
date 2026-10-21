@@ -10,3 +10,5 @@
 - Outros nomes a buscar: Scout Sniper (2014), Cascais, Sea Storm v1, Porto Santo, Batial, Seafarer I/II, Bull Shark V1, Umi, Sea Diver, Adraga, Estoril 300 DW, Santa Cruz Bronze, Scorpionfish V2, Neptuno, Sei He Ki, Icarus, Sintra.
 - +Sea Hawk (citado), Bull Shark Bronze (anunciado 2017).
 - +Seadog (anunciado 2015), Neptuno tem 10 variantes (5 sanduíche) – só 4 nomeadas; Sea Storm MK2 GMT: 5 lunetas×data/sem data (achadas AA..BI1, falta BF?/BH? – buscar).
+- J 'Sei He Ki' não encontrado em busca nenhuma. WatchPatrol diz 'China, 2013' (errado: Portugal).
+- eBay itm 227156106930 e ebay.de 226459333844: CLIENT_ERROR.
