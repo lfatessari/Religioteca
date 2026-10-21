@@ -16,3 +16,13 @@
 - 05:19 Passada 1 encerrada (3 fontes seguidas sem novidade: accuratime rb70605, simon, pickyourplum). 167 relógios.
 - DECISÃO: VERMELHO. Motivo: catálogos de Ashford/Bezali/Accuratime/Jomashop não abrem por inteiro (só por busca); linha antiga Bianci 2008–2013 (Pro Racing, Professional Commando, Florence, Diamond) com muitas refs sem fonte.
 - 2ª passada: foco linha antiga + códigos faltantes por loja.
+- 2ª passada (05:20–05:24): 13 fontes novas, 4 relógios novos (Donati RB18570/18571/18573, B-271M). Parou: 3 fontes seguidas sem novidade (superwatchman, BBB, Simon). <5 novos → sem 3ª passada.
+- BBB: Bianci Watches, Agoura Hills, Califórnia (EUA), desde 1989, dono Haim Lousky; site extra biancicollection.com.
+## 10b auto-auditoria
+1. Blog/imprensa: site não tem blog nem área de imprensa (só Our Story). Resenhas 2010–2012 lidas (aBlogtoWatch x2, WatchReport x3, WristWatchReview, 300 Magazine, JCK, WatchUSeek).
+2. site:bianciwatches.com/products: 15+ buscas, até parar de surgir handle novo.
+3. site:<loja>: Bloomgem, Ashford, Jomashop (bloqueada), Bezali, Accuratime, JacobTime, Timepiece.
+4. Primeiro modelo: não achado; linha antiga (Pro Racing, Professional Commando, Florence, Diamond, Prestigio, Tungsten) incluída com o que existe.
+5. I/J da planilha são genéricos ("Coleções de design contemporâneo"): nada a conferir.
+6. Sem edições limitadas/colaborações conhecidas; nenhuma peça única.
+7. ~133 fontes (114 na 1ª, 13 na 2ª) — muitas são páginas de produto do site oficial.

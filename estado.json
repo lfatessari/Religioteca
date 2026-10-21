@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 192,
- "ultima_versao": 176,
+ "proxima_linha_marcas": 193,
+ "ultima_versao": 177,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2198,6 +2198,29 @@
     }
    },
    "obs": "usa códigos (CBSBFTGD4, UFFTSKCBW…); catálogo conferido: site oficial (32 atuais) + TheWatchPages (52 com 20 descontinuados) + Exquisite (42); obs em M. Próxima: Bianci (192)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 177,
+   "marca": "Bianci",
+   "linha_marcas": 192,
+   "linhas_relogios": "23007-23177",
+   "relogios": 171,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "grande": true,
+   "fontes": 126,
+   "passadas": {
+    "1": {
+     "fontes": 113,
+     "novos": 159
+    },
+    "2": {
+     "fontes": 13,
+     "novos": 4
+    }
+   },
+   "obs": "marca 'Roberto Bianci' (bianciwatches.com, Agoura Hills CA); site publica só 25, ~50 escondidos abertos; timepiece.com, Bloomgem, Ashford, Bezali, Accuratime; linha antiga 2010-12 (Pro Racing, Commando, Prestigio, Tungsten) com link de página; obs em M. Próxima: Biatec (193); Bifora (194) parece grande."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2209,32 +2232,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T04:41:18Z",
- "ultimo_sinal": "2026-10-21T05:18:35Z",
- "em_andamento": {
-  "marcas": [
-   "Bianci"
-  ],
-  "linha_marcas": 192,
-  "grande": true,
-  "relogios": "historico/parcial_Bianci_relogios.txt",
-  "fontes": "historico/parcial_Bianci_fontes.txt",
-  "notas": "historico/notas_Bianci.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7p",
-   "8p",
-   "9"
-  ],
-  "passada": 2,
-  "obs": "Bianci (Roberto Bianci, bianciwatches.com) tratada como grande: 26 coleções, muitos produtos escondidos + linha antiga; Biatec fica para a próxima",
-  "master": "historico/master_bianci.json",
-  "vermelho": true
  }
 }
