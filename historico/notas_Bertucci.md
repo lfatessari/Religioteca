@@ -26,3 +26,5 @@
 - Seções feitas: 1,2,2c,3(parcial),4 (nenhum catálogo PDF achado; só manuais),5,6 (Chrono24 vazio),7 (watches.com, watchco, LIW, windup, northriver, outland),8 (eBay só placeholder; WatchCharts)
 - PROVENANCE_REQUIRED: wornandwound ballista (link tirado de página). Não repetir.
 - Removidos itens sem código que têm versão com código: A-2S Vintage Pantera Six, A-6A Experior Italia, DX3 Compass, M-1S Women's, A-2S Field (prata/preto), A-2S Ballista, A-2S Pantera Six, A-3T Vintage 42, E-1S Ballista, A-11T Americana; foto desertcart passou para 13334.
+## Fim da 1ª passada (02:20 UTC): 3 fontes seguidas sem novidade (opticsplanet, gearpatrol, theslenderwrist). Marca VERMELHA: centenas de referências de 5 dígitos ao longo de 20 anos, páginas 12–19 de collections/all da loja oficial não alcançadas, páginas 3–6 da Long Island Watch bloqueadas, várias páginas do site antigo bloqueadas; muitas fotos não obtidas.
+## 2ª passada: alvo = buracos de numeração, linhas antigas (A-2T Field Colors/ProColor, M1-T, A-2S Ventara, Commando Camo, Women's Sport, A-5P, B-1T, G-1T, D-1T), Collectors Corner p2, Studio Builds p2, fotos.
