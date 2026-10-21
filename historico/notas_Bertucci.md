@@ -17,3 +17,5 @@
 - 17023-17028 aparecem na loja oficial como 'D-3T NATO Epic' (mesmos códigos já gravados como D-3T Retroform Epic da página antiga; mantido nome antigo, E menciona). CPO (CA/CB) pulados.
 - A-2T Vintage Patina Series citada (coleção vazia, sem códigos).
 - Páginas de produto do ultimatefieldwatch.com dão CLIENT_ERROR (não contar).
+- não abriu (robots): https://longislandwatch.com/bertucci-performance-field-watches/?p=2&page=3
+- não abriu (robots): https://longislandwatch.com/bertucci-performance-field-watches/?page=4
