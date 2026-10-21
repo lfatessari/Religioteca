@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 185,
- "ultima_versao": 171,
+ "proxima_linha_marcas": 186,
+ "ultima_versao": 172,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2051,6 +2051,33 @@
     }
    },
    "obs": "Site oficial (G lederer-watches.com; AHCI diz ledererwatches.com) não aparece em buscas, não aberto. Fontes: Exquisite Timepieces, The Limited Edition, Oster, Pragnell, Phillips, Europa Star (artigos BLU 2004/2005/2006), Masterhorologer, Gressive (catálogo 2008), SJX, Monochrome. Inclui fase BLU (2000–2013), Goldpfeil Seven Masters e Time Dimension. Vermelha: variações BLU (metais/tamanhos/mostradores, Casino, Diamant, Maestro, Lady Planet, El Noor) sem foto/código. Coluna M preenchida. Próxima: Bernhardt (185)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 172,
+   "marca": "Bernhardt",
+   "linha_marcas": 185,
+   "linhas_relogios": "21899-21987",
+   "relogios": 89,
+   "vermelho": true,
+   "site_bloqueado": "Parcial",
+   "grande": false,
+   "fontes": 125,
+   "passadas": {
+    "1": {
+     "fontes": 92,
+     "novos": 76
+    },
+    "2": {
+     "fontes": 22,
+     "novos": 4
+    },
+    "3": {
+     "fontes": 11,
+     "novos": 1
+    }
+   },
+   "obs": "Marca americana (High Point, NC; 2005). Sem códigos. Inclui era Bernhardt Instruments (Globemaster, Binnacle ETA), Sea Shark/Binnacle Diver antigos, Manifest (peças únicas com movimentos de bolso), edições de encomenda com página (MARSOC, NCIS, Greenville PD, K-9, 101st Airborne). Vermelha: encomendas sem página pública e coleções ocultas por senha (past-collections, women's, corsair-gmt). Na 2ª passada +7 modelos vieram só por títulos de busca. Bertolucci (186) tratada como grande -> sozinha na próxima. Coluna M preenchida."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

@@ -1,0 +1,637 @@
+{
+ "marca": "Bernhardt",
+ "usa_codigos": false,
+ "logo": "https://www.bernhardtwatch.com/cdn/shop/files/bernhardt-logo-dark.svg?v=1787244937&width=527",
+ "site_bloqueado": "Parcial – bernhardtwatch.com: várias coleções aparecem vazias/protegidas por senha e algumas fichas de produto não abrem para leitura automática; revisitar com navegador",
+ "vermelho": true,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "C: a sede é High Point (Carolina do Norte), não Charlotte. Fundada em 2005 por Fred B. Amos (começou como Bernhardt Instruments; virou Bernhardt Watch Company em 2007). F (preço médio 2000) acima da faixa real, cerca de US$250–1.500. J: o Sea Shark foi o primeiro modelo e depois passou a se chamar Binnacle Diver. O site também vende relógios de outras marcas (Pro Diver, Le Jour), que não entraram.",
+ "fontes": [
+  {
+   "url": "https://bernhardtwatch.com/pages/introducing-the-new-binnacle-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/index.php?sp=11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/captain-cove",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/manifest-by-bernhardt",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/the-statesman-5228.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/frontpage/products/field-diver-black",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/bernhardt/globemaster/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/bernhardt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/bernhardt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/pages/our-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand-highlight-bernhardt-watch/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wornandwound.com/tag/bernhardt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/the-bernhardt-watch-company-introduces-the-cipher-diver/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/the-cipher-diver",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/the-cipher-diver-bg-fall-2026-pre-order",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/?p=41546",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/20th-anniversary-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/tempest-limited-edition-bernhardt-x-rampart-studio",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/retro-world-timer-burgundy-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/retro-world-white-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/binnacle-diver-atlantic-swell",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/field-diver-white-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/corsair-diver-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/outpost-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/starboard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/binnacle-anchor-steel-champagne-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/binnacle-anchor-101st-airborne-final-payment",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/captain-moonlight-quartz.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/captain-fog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/x-haven-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/binnacle-timer-regent-blue-in-house-painted-and-printed-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/binnacle-submersion-black-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/collections/dive/products/binnacle-anchor-black-white",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/binnacle-timer-grey-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/bernhardt-globemaster-gmt-watch-review-by-ablogtoreadcom-reader",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.wristwatchreview.com/bernhardt-keeps-you-in-place/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/blogs/news/the-story-behind-bernhardts-marsoc-collaboration",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/pages/our-values",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/index.php?id=36",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/the-bernhardt-watch-company-microbrand/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.badgerandblade.com/forum/threads/my-review-on-the-bernhardt-b-b-le-watch.242538/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/bernhardts-predator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/binnacle-diver-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.badgerandblade.com/forum/threads/watch-help-bernhardt-info.161818/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=14327",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=15046",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/bernhardt-binnacle-timer-hands-on-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/new-binnacle-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/copy-of-binnacle-diver-cool-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/retro-world-burgundy-gray",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/retro-world-green-yellow",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/index.php?id=61",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-giveaway-bernhardt-tempest",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/corsair-diver-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/corsair-diver-yellow",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/field-diver-usa-250-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/ncis-custom-field-diver-29mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/a/s/products/k-9-field-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/ncis-custom-field-diver-28mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a7607/bernhardt-watch-company-corsair/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/divers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/binnacle-anchor-steel-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/binnacle-diver-champagne",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/pages/introducing-the-20th-anniversary-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bernhardtwatch.com/a/s/products/binnacle-diver-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/binnacle-diver-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/field-diver-yellow-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/pages/reviews",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/captains-watch-champagne-silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/scrub-off-the-barnacles-its-the-bernhardt-binnacle-gmt-ii-back-from-the-deeps",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watches.jlind.net/2015/06/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/best-microbrand-watches-2023/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/bernhardt/binnacle/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/14390763",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2009921/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2914714/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/3655258/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/3454492/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/2089247/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/1960996/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/listing/2089249/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/bernhardt-cipher-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/bernhardt-captain-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/microbrand-corner-may-2023s-best-new-releases/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.findglocal.com/US/High-Point/140061006062742/Bernhardt-Watch-Company",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/bernhardt-the-cipher-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/which-vintage-inspired-dress-watch-wins-bernhardt-captain-vs-baltic-mr01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=101264",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/starboard-seafarer-field-watch-bracelet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/it/annuncio/1963693/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bernhardtwatch.com/products/binnacle-world-black-white?variant=49801632653",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/lazimi-chronograph-black",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://bernhardtwatch.com/pages/custom-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/corsair",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/womenswatches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/the-horizon-collection",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/classics",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/precision-quartz",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/corsair-gmt",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/best-sellers",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/all",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/quartz",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/chronograph-and-field",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/index.php?page=review",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/binnacle-anchor-black-champagne-gold",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/captains-watch-black-silver",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/dive",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/new-arrivals",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/frontpage",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/retro-world",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/collections/gmt",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/index.php?id=58",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/index.php?id=60",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/pages/tutorials",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=bzy0pBznVu0",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/?p=139958",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/ablogtowatch-bernhardt-tempest-watch-giveaway-winner-announced/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/fr/annonce/2996044/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/fr/annonce/2177379/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/fr/annonce/3311339/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/the-best-microbrand-watches-to-buy-in-september-2024/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/binnacle-anchor-101st-airborne",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
