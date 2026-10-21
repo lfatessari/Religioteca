@@ -8,3 +8,4 @@ Decisão: VERMELHA — relógios de encomenda (MARSOC, NC/GA Wildlife, xerifes, 
 ## Passada 2 (alvo: encomendas, Corsair GMT, cores Sea Shark/Retro, Ladies Diver, Globemaster)
 - Loja vende também relógios de outras marcas (seção "Curated": Pro Diver 200/1000 ~US$250, Le Jour Flieger/Hammerhead/Le Mans) — NÃO incluídos.
 - Coleções vazias/ocultas (senha): past-collections, womenswatches, corsair-gmt, quartz, precision-quartz.
+## Passada 2 encerrada: 22 fontes, 11 novos -> passada 3 obrigatória (fontes fora do site: páginas antigas index.php, imprensa, fóruns, vídeos)
