@@ -18,3 +18,4 @@ Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uo
 - Site oficial bertolucci-watches.com aparece na busca (collection-voglia.php) mas entra em laço de redirecionamento https->http: não lê. L = bloqueado. G diz bertolucciwatches.com (sem hífen) -> obs M. Worldtempus /watches/ também em laço.
 - watch-winder: Uomo 824 Medium, 854 Chrono Chronometer, 854 Flash, 884 Gents; Vir 144, 634; Serena Garbo Gent Automatic -> buscar Uomo 854 / Flash
 - Fontes que deram erro mas tiveram título usado: rago 854.55.41, essential 854.21.41.10D, amazon 8455541601 (contadas com 0 e o relógio atribuído à Europa Star)
+- 429 também em 1004103733 (Mini Poésie)
