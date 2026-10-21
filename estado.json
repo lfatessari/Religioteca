@@ -2438,5 +2438,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-21T12:41:34Z",
+ "ultimo_sinal": "2026-10-21T12:41:34Z",
+ "em_andamento": {
+  "marcas": [
+   "Blancier"
+  ],
+  "linha_marcas": 203,
+  "grande": false,
+  "relogios": "historico/parcial_Blancier_relogios.txt",
+  "fontes": "historico/parcial_Blancier_fontes.txt",
+  "notas": "historico/notas_Blancier.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
