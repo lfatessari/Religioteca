@@ -10,3 +10,7 @@
 - WDL.sk tem códigos (LV02, LV03, MVSE01WDL, HT02, CVNTG02) -> usar como código quando houver.
 - Majestic 03 N na Helveti fica na URL majestic-03g-f (talvez existiu "03G F" dourado?) - checar.
 - Pendentes: Marína Set, Bratislava LE50 x2, CS TAMI, Magnifique 03, Majestic 01 N, CS 02 F, CS SE 02, CS30B, Corsair 01/02/03F/05 Premium, CS 01-04 Premium, Golden Ratio 04/05, Majestic 01/02/03 Premium, Marine 03 (desc.), Night Sky, Magnifique LE50 original, Chronoshop 09 (colab), Leviathan 01 (sem F).
+- Fundadores (Monochrome/TDR): Peter Kožár e designer Miloš Jakubec, 2016. Coluna I diz "Petr Vesely" e Bratislava -> obs M. Empresa em Zvolen.
+- Site watches-1 = 70 produtos (35 atuais + 35 descontinuados): catálogo oficial completo conferido.
+- "Premium" = 1ª série 2016-18 com Eterna 3901A (Corsair 01-05, Majestic 01-05). "F" = série Sellita seguinte; "N" = atual.
+- Pendentes de foto: Marína Set, CS TAMI, Magnifique 03, Majestic 01 N, CS 02 F, CS SE 02, CS30B, Corsair 02/03F/05 Premium, CS 01-04 Premium, Golden Ratio 04/05, Majestic 01 Premium, Marine 03 (desc.), Leviathan 01?
