@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 204,
- "ultima_versao": 185,
+ "proxima_linha_marcas": 205,
+ "ultima_versao": 186,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2454,6 +2454,33 @@
     }
    },
    "obs": "Holandesa (Willem Kamerman, 2005), feita pela Lottermann & Söhne (Mannheim). Configurador ~470.000 combinações -> vermelho. Worldtimer BWT 1 x3, Crazy Planet, Grand Cru (Nespresso), Desert Wolf, One Glance, Regulator, Coin Edge, Pilot, Seminar etc. 3ª passada só 6 fontes: a web não tem mais nada. Blancpain (204, grande) fica sozinha na próxima. Obs em M."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 186,
+   "marca": "Blancpain",
+   "linha_marcas": 204,
+   "linhas_relogios": "23712-24403",
+   "relogios": 692,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 138,
+   "passadas": {
+    "1": {
+     "fontes": 100,
+     "novos": 639
+    },
+    "2": {
+     "fontes": 26,
+     "novos": 42
+    },
+    "3": {
+     "fontes": 12,
+     "novos": 22
+    }
+   },
+   "obs": "Maison grande, sozinha. blancpain.com parcial (JS; produtos/PDFs com erro) -> L. Base: WatchBase (294 refs, link da página do relógio), Exquisite Timepieces, The Watch Pages, Berry's, 1stDibs, Christie's, Phillips, Collector Square, Hourstriker, imprensa. 417 de 692 com foto. Vermelha: centenas de refs 1990-2000 (Léman/Villeret/Le Brassus) só por número de família, vintage sem referência, Métiers d'Art peças únicas, Chrono24 inalcançável. Inclui Blancpain×Swatch (7) e 3 relógios de bolso. Próxima: Blok (205)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2465,32 +2492,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T13:42:11Z",
- "ultimo_sinal": "2026-10-21T14:29:43Z",
- "em_andamento": {
-  "marcas": [
-   "Blancpain"
-  ],
-  "linha_marcas": 204,
-  "grande": true,
-  "relogios": "historico/parcial_blancpain_relogios.txt",
-  "fontes": "historico/parcial_blancpain_fontes.txt",
-  "notas": "historico/notas_blancpain.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3
  }
 }

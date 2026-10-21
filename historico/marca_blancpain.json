@@ -1,0 +1,702 @@
+{
+ "marca": "Blancpain",
+ "usa_codigos": true,
+ "logo": "https://cdn.watchbase.com/brand/blancpain-70.png",
+ "site_bloqueado": "Parcial – blancpain.com: páginas de coleção carregam por JavaScript (o leitor só vê 1 relógio) e páginas de produto, PDFs de imprensa e Ladybird Tribute dão erro na leitura automática; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://watchbase.com/blancpain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/blancpain/villeret",
+   "passada": 1,
+   "novos": 137
+  },
+  {
+   "url": "https://watchbase.com/blancpain/fifty-fathoms",
+   "passada": 1,
+   "novos": 98
+  },
+  {
+   "url": "https://watchbase.com/blancpain/leman",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://watchbase.com/blancpain/l-evolution",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://watchbase.com/blancpain/le-brassus",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://watchbase.com/blancpain/specialites",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchbase.com/blancpain/ladybird",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/blancpain-watches.html",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/blancpain-watches.html?page=2",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/blancpain-watches.html?page=3",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/blancpain-watches.html?page=7",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/blancpain-watches.html?page=10",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/blancpain-watches/sold-out.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/blancpain-watches/stainless-steel.html?page=4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/blancpain-watches/",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.berrysjewellers.co.uk/collections/blancpain-watches.oembed?page=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.coveted.com/discover/blancpain-watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.coveted.com/discover/blancpain-fifty-fathoms-gold-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.loupe.watch/watch/blancpain/50001230b52a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/blancpain/aqualung/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blancpain.com/en/collections/fifty-fathoms-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand_index/blancpain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blancpain.com/en/collections/metiers-d-art-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/blancpain/fifty-fathoms/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/brands/blancpain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/blancpain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/blancpain.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watches-of-switzerland.co.uk/c/Watches/Pre-Owned-Watches/Pre+Owned-Blancpain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/blancpain/watch-32590958",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.watchtime.net/brands/swatch-group/swatch-x-blancpain-scuba-fifty-fathoms",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.fratellowatches.com/hot-take-new-blancpain-x-swatch-fifty-fathoms-scuba-fifty-fathoms-pink-ocean/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/new-release-blancpain-x-swatch-scuba-fifty-fathoms-ocean-of-storms-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blancpain-ocean-commitment.com/en/initiative/fifty-fathoms-limited-editions",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.analogshift.com/collections/blancpain-sold/products/blancpain-fifty-fathoms-barakuda-limited-edition-as09493",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/blancpain-sold/products/blancpain-air-command-flyback-chronograph-as09016",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/blancpain-sold/products/blancpain-half-hunter-complete-calendar-moonphase-le-as06021",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/blancpain-sold/products/blancpain-le-man-day-night-as04665",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/blancpain-sold/products/blancpain-leman-triple-date-moonphase-as01229",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/blancpain-sold/products/blancpain-villeret-ultra-thin-as00435",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://christies.com.cn/en/artists/blancpain",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/blancpain-fifty-fathoms",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/blancpain/207712",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/zh/detail/blancpain/216660",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/blancpain/HK080319/968",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/zh/detail/blancpain/160157",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/blancpain-bathyscaphe-as03506",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/blog/blancpain-bathyscaphe-70th-anniversary-limited-edition-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2023/01/04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/blancpain-fifty-fathoms-70th-anniversary-act-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/mens-blancpain",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/blancpain-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/blancpain-vintage-watch",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/blancpain-gmt",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain-women",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain-women?page=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/blancpain-ladies",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeandwatches.com/2017/07/blancpain-villeret-battle-of-queen-cows.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/villeret-cadran-shakudo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeandwatches.com/2022/12/blancpain-fifty-fathoms-history.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/blancpain-fifty-fathoms-the-icons/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain?page=5",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain?page=9",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain-le-brassus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.getbezel.com/watches/blancpain/l%C3%A9man-flyback-chronograph-perpetual-calendar-40-rose-gold-black-strap/ref-2685f-3630-53b/id-34443",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/blancpain-4082-1540-55-villeret-chrono-wg-blue-dial-11287",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://europeanwatch.com/watch/blancpain-2185f-1130-71-flyback-ss-ss-11260",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://europeanwatch.com/watch/blancpain-2100-1127-11-leman-2100-white-dial-ss-38mm-28541",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://europeanwatch.com/watch/blancpain-2185-1127-53b-2185-ss-white-14284",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/watch/blancpain-2100-1542-53b-blancpain-leman-white-gold-silver-dial-39510",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/watch/blancpain-2100-1418-31-2100-leman-yg-yg-14281",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/24276.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/watch/blancpain-2100-1127-53b-leman-date-ss-silver-dial-59247",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/blancpain/leman/ref-leman/lpi",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/blancpain/leman/leman-gmt-alarm/blancpain-leman-gmt-anniversary-in-pink-gold-ref-2041b-3630-64b-circa-2000-limited-edition-410618.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiquorum.swiss/?p=248757",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/blancpain-2160-1542-53-2160-leman-gmt-dual-time-day-night-18k-whi-69897",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/fr/decouvrir/marques/blancpain/leman/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://professionalwatches.com/blancpain-fifty-fathoms-mil-spec-hodinkee-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=45626",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2019/07/17/hodinkee-blancpain-fifty-fathoms-bathyscaphe/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain?page=6",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/blancpain/le-brassus/ref-le-brassus/lpi",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/blancpain-watches/men.html?page=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/blancpain-watches/platinum.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain-blue.oembed",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/blancpain-blue.oembed?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://berrysjewellers.co.uk/collections/blancpain-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/en-al/collections/blancpain",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bqwatches.com/product-category/blancpain",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blowers-jewellers.co.uk/blancpain-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ramsdensjewellery.co.uk/blancpain/watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-89-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-166-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeandwatches.com/2023/07/blancpain-fifty-fathoms-unique-piece.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=46511",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/blancpain-ladybird-guide",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=16741",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2025/10/blancpain-villeret-golden-hour-2025-new.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://waqt.com/en/article/the-new-blancpain-villeret-traditional-chinese-calendar-2025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/blancpain/news/metiers-dart-blancpain-honoring-great-beauties-ancient-china",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/blancpain-villeret-metiers-dart-binchotan-and-the-manufacturing-process-explained",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/three-new-watches-celebrate-the-year-of-the-wood-dragon/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://professionalwatches.com/dispatch-blancpain-les-metiers-dart-shakudo/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/new-blancpain-metiers-dart-porcelaine-chinese-new-year-of-the-rat/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.com/featured/beginning-the-year-of-the-rabbit-with-seven-symbolic-timepieces/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://loft.watches/en/blogs/blog/blancpain-marca-el-paso-al-ano-chino-2022-con-una-nueva-edicion-del-calendrier-chinois-traditionnel",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/blancpain-villeret-calendrier-chinois-traditionnel-0888k-3431-55b-1127",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.hautetime.com/?p=113237",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bucherer.com/uk/en/watches/brands/blancpain.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/blancpain/leman/lpi",
+   "passada": 2,
+   "novos": 11
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/blancpain/villeret/lpi",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/blancpain/villeret-minute-repeater/lpi",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/blancpain/lpi",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://collectorsquare.com/en/watches/blancpain/fifty-fathoms/ref-blancpain-570/lpi",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/blancpain/super-trofeo/lpi",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/BLANCPAIN/CH080016/27",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/blancpain/92967",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blancpain.com/en-us/fifty-fathoms/fifty-fathoms-automatique-5010-36b30-b64a",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.blancpain.com/en/fifty-fathoms/fifty-fathoms-automatique-5010-36b40-o64b",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://lettresdubrassus.blancpain.com/en/issue-17/ladybird",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://lettresdubrassus.blancpain.com/en/issue-12/villeret",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/blancpain/CH080218/176",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/blancpain-celebrates-fifty-fathoms-anniversary/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://hourstriker.com/database/blancpain-fifty-fathoms-bathyscaphe-limited-edition-mokarran-5005-0153-naba-880",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.coveted.com/watches/blancpain-fifty-fathoms-bathyscaphe-limited-edition-mokarran",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchmaxx.com/blancpain-watch-3653-1954l-58b",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/blancpain-ultra-slim-womens-watch-3300-45a55-64b.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.hourstriker.com/database/blancpain-main-catalog-main-catalog-3300452964b-9276",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.coveted.com/watches/blancpain-ladybird-heure-decentree",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hourstriker.com/database/blancpain-le-brassus-le-brassus-4277344655b-8771",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://europeanwatch.com/watch/blancpain-4246f-3442-55b-le-brassus-split-plat-10625",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.coveted.com/watches/blancpain-le-brassus-tourbillon-quantieme-perpetuel",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://prestigetime.com/preowned/Blancpain-L-Evolution-Super-Trofeo-Chronograph-43-5mm-560st-11d30-52b-60394",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://drouot.com/en/l/25913514-",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/52615.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finews.ch/themen/high-end/73303-blancpain-taucheruhren-bathyscaphe-limitiert-fifty-fathoms-marc-a-hayek-ceo",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://awco.nl/shop/icons/rare-finds/blancpain-bathyscape/",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "I: marcada '[⚠️ verificar]'. Conferido: fundação 1735 (Jehan-Jacques Blancpain, Villeret), Fifty Fathoms 1953, Swatch Group 1992. A compra por Biver e Piguet costuma ser datada de 1983 (I diz 1982). A frase 'nunca produziu quartzo' é slogan da marca, não verificado. B, C, D, G, H, J conferem (todos os nomes de J foram achados)."
+}
