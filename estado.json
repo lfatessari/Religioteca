@@ -2251,5 +2251,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-21T06:41:57Z",
+ "ultimo_sinal": "2026-10-21T06:41:57Z",
+ "em_andamento": {
+  "marcas": [
+   "Bifora"
+  ],
+  "linha_marcas": 194,
+  "grande": true,
+  "relogios": "historico/parcial_Bifora_relogios.txt",
+  "fontes": "historico/parcial_Bifora_fontes.txt",
+  "notas": "historico/notas_Bifora.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
