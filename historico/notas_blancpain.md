@@ -6,3 +6,4 @@ Usa códigos (ex.: 5015-1130-52A, 6654-3642-55B).
 - Pocket watch 0151-3631 (WB) incluído; avisar.
 - Ideia de fonte de imagens: tourneau, cortinawatch, gassan, berrys, analogshift, everywatch.
 - 14:10 TWP(80/148), Berrys oembed p2, Coveted (697 no total, poucas por página), loupe pede p/ não reproduzir dados -> não usado. WatchPatrol aqualung só vintage sem ref. Vintage: AquaLung No Radiations 1960s.
+- 14:10 OceanCommitment oficial (prestigedam imagens), Swatch collab (6 + Pink), AnalogShift vendidos. Próximo: vintage FF (LIP, Bathyscaphe 60s, Aqua Lung, Barracuda), Le Brassus/Léman antigos 2000s (2100,2125,2185,2360), Métiers d'Art peças únicas, imprensa (monochrome, ablogtowatch).

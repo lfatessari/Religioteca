@@ -2467,7 +2467,7 @@
   }
  },
  "em_execucao": "2026-10-21T13:42:11Z",
- "ultimo_sinal": "2026-10-21T13:56:54Z",
+ "ultimo_sinal": "2026-10-21T14:01:42Z",
  "em_andamento": {
   "marcas": [
    "Blancpain"
@@ -2480,7 +2480,9 @@
   "secoes_feitas": [
    "1",
    "2",
-   "5"
+   "2c",
+   "5",
+   "9"
   ],
   "passada": 1
  }
