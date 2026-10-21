@@ -4,3 +4,5 @@
 - Refs formato 313.55.68P.8.2BM (Serena)
 - Site oficial antigo: bertolucci-watches.com (grail-watch); G diz bertolucciwatches.com. WatchPatrol: fundada 1976?; Bella Costa coleção
 - 123 41-77798 e 093.41.70681 parecem ref+serial (Loupe) — manter grafia; 111.8055.68 = 111 8055 68 (mesmo)
+- JCK 2001: raízes na Mimo Watch (1911); Michelotti 1946; Remo casou com a filha 1968; 1ª coleção completa 1987; mudança p/ Neuchâtel 1998; 2001 vendida a consórcio (Gembler, Gaillard). Vir = carro-chefe; Serena ganhou Prêmio do Público 1998; Uomo masculino. 2005 Dickson. Coluna I diz "esposa Iris" e fundação 1987 — não confirmado Iris; obs M.
+- SCMP: Voglia ouro com diamantes; Ouni 5 estilos.
