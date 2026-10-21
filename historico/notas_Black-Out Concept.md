@@ -22,3 +22,12 @@ Tratada como grande (personalizações + modelos próprios).
 ## Fim da 2ª passada; ≥5 novos -> 3ª passada (10+ fontes novas): mais buscas site:blackoutconcept.com (en/fr/produit), Chrono24 títulos, Facebook/Instagram, eBay, outras lojas.
 - Site antigo tinha 'BOC Simulator' (configurador de personalização de Rolex) -> reforça vermelho.
 - Série H (Blackout Geneve): Blackstar H1, H1-2, H3, H4, H4-2(+Vintage), H4-3, H4-4, H5, H5-2, H6, H7 GMT; GMT Driver H7-11; Barakuda H8 (100 numerados). Lildeal: Seagull 1902 nos Blackstar Kickstarter.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: site atual sem blog legível; página Presse não indexada; site antigo vazio (JS). Artigos de imprensa externos lidos (Hypebeast, Unfinished Man, aBlogtoWatch, Automotiv Press x2, Moonwatch, Chronohunter, Watchisthis, Dialicious, Oracle of Time, dime/openers/gressive).
+2. site:blackout-watches.com/products e site:blackoutconcept.com feitos com vários termos até pararem os títulos novos.
+3. Lojas: Swiss Collector, Alpinzeit, Ocarat, Vendome, Montredo, Serious Watches, Gressive/Fortune Time, Daniel Gerard; Chrono24/EveryWatch.
+4. Primeiro modelo: personalizações Rolex 2007–2011 (Daytona, GMT-Master II); primeiros modelos próprios citados: Barakuda (2016), Blackstar/Darkshield (Kickstarter 2017).
+5. J genérico ("Coleções em revestimento preto") – nada a procurar.
+6. Edições limitadas/colaborações na B; peça única (Daytona esqueleto Antiquorum) na E.
+7. 162 fontes (85+54+23).
+Catálogo atual conferido: 34 produtos = 31 relógios + 3 pulseiras; todos os 31 na lista.

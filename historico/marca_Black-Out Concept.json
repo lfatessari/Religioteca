@@ -1,0 +1,822 @@
+{
+ "marca": "Black-Out Concept",
+ "usa_codigos": false,
+ "logo": "https://blackout-watches.com/cdn/shop/files/logo-blackout-watches.svg?v=1738866082",
+ "site_bloqueado": "Parcial – blackoutconcept.com (site antigo) abre vazio para leitura automática (só JavaScript); blackout-watches.com (atual) mostra só 16 de 34 produtos por página e algumas fichas (P-One) não abrem; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G vazio: site atual blackout-watches.com (antigo blackoutconcept.com); a marca hoje se chama Blackout Watches. C vazio: Genebra. I genérico/[⚠️ verificar]: fundada em 2007 por Fabrice Letellier (o site atual diz 2006), personalizava Rolex, AP, JLC e Omega em preto; desde 2022 de Étienne Rousseaux e Tymothy Plubeau, com modelos próprios (XP1/XPE Tourbillon, Singularity, FL-One, P-One, Eternal, Blackstar). J genérico. F (15.000) parece alto: modelos próprios de ~500 a 7.580 €.",
+ "fontes": [
+  {
+   "url": "https://www.danielgerard.lu/en/blackout-concept/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/tag/black-out-concept/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/blackout_concept",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/rolex-paul-newman-tribute-daytona-watch-by-black-out-concept",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/6383-13480-blackout-concept-stratos.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/5321-black-out-concept-p-03.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/xp-1-tourbillon-phantom",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oracleoftime.com/blackout-watches-xp1-tourbillon-swiss-made-watch-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/xp1-tourbillon-phantom-blackout-watches-x-ocarat-limited-edition-watch-114159.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/blackout-watches-xpe-tourbillon-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches/catalog/324233",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches/catalog/324230",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches/catalog/324231",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches/catalog/324232",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches/catalog/324234",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches/catalog/324235",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/ocean-master/2227-3229-blackout-ocean-master-black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/qAgia",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dime.jp/genre/2103915/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gressive.jp/brand/blackout-watches/news/321784/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/storm-mk-ii/4411-9397-black-out-concept-storm-mkii-silver.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christies.com.cn/en/lot/lot-6042592",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://christies.com.cn/lot/lot-5690597",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-1799564",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/rolex-lot-242-154",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/rolex-lot-242-461",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/gmt-master-ii/7223-14380-rolex-gmt-master-ii-black-out-concept.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dialicious.com/en/blackout/p03/review/692c3fa10d9db05902437e9d",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dialicious.com/en/blackout/xp1_tourbillon/review/69414e66413d6d2954f1934b",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=55140",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/5320-10537-black-out-concept-p-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/5324-black-out-concept-p-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/4672-black-out-concept-p-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/412482962",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/dont-be-late-blackstar-from-blackout-concepts-kickstarter-is-ending-soon",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://collectorstudio.com/?p=69741",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collectorstudio.com/?p=40699",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/7933-15907-black-out-concept-xp1-tourbillon.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/156968561965",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/100-black-out-concept-ocean-master-skeleton.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.danielgerard.lu/en/product/montre-blackout-concept-storm-trinity-turquoise-quartz-bracelet-acier-41mm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chrono24.com/blackoutconcept/index.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2009/6/black-out-concept-custom-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.unfinishedman.com/the-black-out-concept-a-new-take-on-a-rolex/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsletterbuilder.com/email/newsletter/1410249559",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/18-black-out-concept",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sdtconcept.com/product-category/blackout/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackoutconcept.com/en/the-concept/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/Nemanja01/posts/blackout-concept-p-one-635461",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/blackout-concept-watches-worst-experience-ever-%F0%9F%98%AA.5335748/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/en",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://alpinzeit.ch/collections/blackout-concept",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://chronohunter.com/chronicles/blackout-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/storm-mkii-trinity-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.ca/blackoutconcept/prices-for-watches--new.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/en/collections/all",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://blackout-watches.com/products/wormhole",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blackout-watches.com/products/xp1-tourbillon-ultimate",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/en/products/p-one-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blackout-watches.com/en/products/p-one-b",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blackout-watches.com/products/xp1-tourbillon-swiss-made",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/products/xp1-tourbillon-orange-racing",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blackout-watches.com/products/xp1-tourbillon-lt-ultraviolet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/products/xpe-tourbillon-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/products/xpw-enigma",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blackout-watches.com/en/products/black-p-one",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blackout-watches.com/products/xp1-tourbillon-lt-black",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://blackout-watches.com/en/pages/know-how",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/blackout/wormhole/review/69a4ae6ef6f1c2503827bb07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/en/collections/watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://blackout-watches.com/en/collections/xp1",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://blackout-watches.com/en/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/blacked-out-rolex",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/rolex-dlc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.linkedin.com/company/black-out-concept",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/en/pages/resellers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/oracle-recommends-microbrand-watches-for-may-2025/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koubo.jp/press-release/prtimes/c47204_r212",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dime.jp/genre/2063417/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0724/hotitem/340063",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/?p=208273",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/?p=228605",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/135010247968",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchisthis.com/black-concept-barakuda/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/blackout-watches/2388-black-out-barakuda-steel-black.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/blackout-concept/watch-9679138",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamesedition.com/watches/black-out-concept/rolex-daytona",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ricardo.ch/de/a/black-out-concept-barakuda-stahl-pvd-1290266480/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chrono24.de/blackoutconcept/index.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/somdipdey/posts/why-people-don-t-like-the-black-out-concept-xp1-286988",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en?specs=10009",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=hJ4-B8PGgfs",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/blackout-concept/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/fl-one-r-watch-blackout-watches-124732.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blackout-watches.com/collections/fl-one",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://vendome.com.au/products/blackout-fl-one-black-with-black-rubber-strap-and-folding-clasp",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/ocean-master/466-black-out-concept-ocean-masterpicsou.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/186295290672",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.montredo.com/de-de/uhren/blackout-concept/p-one-b/watponblu001/42855/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://swisswatches1999.com/brand/blackout-concept/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.moonwatch.fr/blackout-concept-p-one-montre-tonneau-sport-cool/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchdealers.com.au/product/blackout-concept-p-one-b-on-black-premium-rubber/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchdealers.com.au/product/blackout-p-one-r-on-black-premium-rubber/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/storm-mk-ii/4410-black-out-concept-storm-mk-ii.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/blackout-watches/4510-black-out-concept-p-one-r.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/black-out-concept/4588-black-out-concept-p-one-b.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/fr/black-out-concept/10394-21748-black-out-concept-p-one.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/fr/blackout-concept-xp1-ultraviolet",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/fr/black-out-concept-storm-mk-ii",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/blackout-concept/watch-12915976",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/blackout-concept/watch-12915966",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/blackout-concept/watch-10035513",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/blackout-concept-eternal-aria-pre-owned",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.montredo.com/watches/blackout-concept/eternal/wateteblu001/42859/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montredo.com/fr-fr/montres/blackout-concept/eternal/watetewhi001/42857/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.montredo.com/fr-fr/montres/blackout-concept/eternal/watetebla001/42858/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timez.com/watch/blackout-concept-aria?lang=en_us&region=cn",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/18-blackout-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/eternal-aria/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/product-category/watches/h-series/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/product-category/watches/h-series-cartoon-en/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/p-one-s/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/storm-trinity-piros/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/storm-mkii-nicolas-anelka/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/xp1-tourbillon-mike-james/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/product/pilot-p02-s-2/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/product/barakuda-h8-automatic/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/product/blackstar-h5-scrooge-uncle-limited-series/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/category/storm-en/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/storm-trinity-verde/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/storm-mki-lady/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/product/ocean-master-ii-automatique-2/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/product/225199/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/product/ocean-master-ii-ceramic/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/ocean-master-mickey/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/ocean-master-ii-red/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "http://www.blackoutconcept.com/product/ocean-master-skeleton/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/product/dark-knight-2/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/product/blackstar-h4-2-vintage/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/boc-simulator-2-2/rolex-milgauss-gv-simulator-2/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/produit/storm-mkii-leather-blue/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/produit/storm-mkii-black-blue/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://blackoutconcept.com/en/product/black-gmt-driver/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/product/rolex-gmt-master-ii/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/colio/rolex-deepsea/boc-blackout-concept-rolex-deepsea-06/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/gmt-driver-yvan-muller-2/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/boc-simulator/ap-royal-oak-simulator/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/boc-simulator/rolex-yacht-master-simulator/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/boc-simulator/audemars-piguet-royal-oak-off-shore-simulator/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.blackoutconcept.com/fr/boc-simulator/rolex-gmt-master-ii-simulator/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.blackoutconcept.com/en/product/gmt-driver-h7-10-automatic-2/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.automotivpress.fr/revue-horlogere-blackout-concept-blackstar-h5-2-limited-series/",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://thegadgetflow.com/portfolio/vintage-watch-collection",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lildeal.com/review-of-luxury-vintage-h-series-watch-collection-by-blackout-geneve/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/2749047-blackout-concept-barakuda-h8-automatic",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/blackoutconcept/blackstar-h7-type-gmt--id28594649.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.pricecheck.co.za/offers/167276206/Blackstar+H1-2",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.automotivpress.fr/daytona-connection-reinterpretation-dun-chrono-de-legende/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ubuy.sc/en/product/2O44ERZO-blackout-concept-swiss-brand-blackstar-vintage-h3-chrono-tachymeter",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/236189269087",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

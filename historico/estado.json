@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 199,
- "ultima_versao": 182,
+ "proxima_linha_marcas": 200,
+ "ultima_versao": 183,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2343,6 +2343,33 @@
     }
    },
    "obs": "Francesa (Nice, 2016, Marc-Olivier Rinaldi). Vermelha: ateliê ACH faz encomendas não publicadas e várias páginas antigas de produto não abrem (L parcial). Fotos boas da Field Automobile. Black-Out Concept (199) adiada: parece grande (personalizações de relógios de outras marcas + modelos próprios) → fica sozinha na próxima."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 183,
+   "marca": "Black-Out Concept",
+   "linha_marcas": 199,
+   "linhas_relogios": "23563-23665",
+   "relogios": 103,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 162,
+   "passadas": {
+    "1": {
+     "fontes": 85,
+     "novos": 81
+    },
+    "2": {
+     "fontes": 54,
+     "novos": 27
+    },
+    "3": {
+     "fontes": 23,
+     "novos": 16
+    }
+   },
+   "obs": "Hoje Blackout Watches (blackout-watches.com). Fundada 2007 por Fabrice Letellier (personalização Rolex/AP); 2022 novos donos e modelos próprios (XP1/XPE Tourbillon, Singularity, FL-One, P-One, Eternal, série H Blackstar). Catálogo atual conferido (31 relógios). Vermelha: personalizações sob encomenda e site antigo ilegível. Obs em M. Próxima: Blacksand Genève (200)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
