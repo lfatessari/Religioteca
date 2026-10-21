@@ -2623,5 +2623,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-21T20:41:40Z",
+  "ultimo_sinal": "2026-10-21T20:41:40Z",
+  "em_andamento": {
+    "marcas": [
+      "Bomberg"
+    ],
+    "linha_marcas": 214,
+    "grande": true,
+    "relogios": "historico/parcial_Bomberg_relogios.txt",
+    "fontes": "historico/parcial_Bomberg_fontes.txt",
+    "notas": "historico/notas_Bomberg.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
