@@ -1,0 +1,942 @@
+{
+ "marca": "Bertucci",
+ "usa_codigos": true,
+ "logo": "https://ultimatefieldwatch.com/cdn/shop/files/UFW-Logo-2026_300x.png?v=1784681701",
+ "site_bloqueado": "Parcial – bertucciwatches.com (site antigo da coluna G): várias páginas de modelo bloqueadas (robots) e sem fotos na leitura automática; ultimatefieldwatch.com (loja oficial atual): páginas de produto dão erro e páginas 12–19 do catálogo não foram alcançadas; revisitar com navegador",
+ "observacoes": "G desatualizado: a loja oficial atual é ultimatefieldwatch.com (bertucciwatches.com é o site antigo). C traz o estado (Illinois), não a cidade. Fundação: empresa criada em 2003 por Michael (Mike) Bertucci, vendas desde 2004; 1º modelo A-2T Original Classics (2004).",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/luminous.oembed?page=2",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.bertucciwatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A2TOC.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/DX3HYBRID.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A1RFieldComfort.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A2TSuperClassic.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A2A-GoldenField.html",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A-2TS_SolarClassic.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/A2S-Vintage.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/GMT.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/DX3Canvas.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/A-1S-SuperField.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A1SField.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/M2RA-Womens.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A2TVintage.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/A3TVintage.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/SYILLCM-3.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A4TSYIlluminated.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A4TSYankee.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A2SVintageBlack.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/A2S-PSix3.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/A2SBallista.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/A2S-PanteraSix.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A2TSuperClassicLume.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/A2THP.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/DX3CAMO.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/DX3PlusGlow.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/DX3Super.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/Italia2.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/1WotWa.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/RETROFORM-C2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/DX3-Compass1.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/DX3Plus2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/8WotW1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A6ATempo.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A6AExperiorItalia.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/EPIC.html",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A11TAmericana.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A2SELsi.html",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/FieldPro.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A5SBallista.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A11TOfficersEd.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A11TAmericanaFieldChrono.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/A-3P_OpticWhite.html",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/pdf/Bertucci_Chrono_Manual.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/stripes2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/Solar24-1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/RETROFORM.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/ConstructionKing.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bertucciwatches.com/nws/2023FDay.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bertucciwatches.com/Bertucci/pdf/EL_Manual.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://www.watches.com/collections/watches/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/men",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/40mm",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/20-atm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/10-atm",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.watches.com/collections/watches-on-sale/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/24-hour",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/vintage-style-watches/bertucci?id=161",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watches.com/products/bertucci-dx3-field-all-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/products/bertucci-dx3-field-black-forest-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches.com/products/13905-a-4ts-super-yankee%e2%84%a2-solar-black-dial-black-nylon-band",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches.com/products/bertucci-a-2s-field-silver-khaki",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches.com/products/bertucci-a-2s-field-silver-drab-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://windupwatchshop.com/en-au/collections/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchco.com/collections/bertucci",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchco.com/collections/bertucci?page=2&order=sku",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.watchco.com/products/bertucci-watch-11104",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchco.com/products/bertucci-watch-11094",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchco.com/collections/bertucci?order=sku&page=3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bertucciwatches.com/Bertucci/home.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/luminous-watches/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/36mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/bertucci-watches/44mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ubuy.hk/zh/brand/bertucci-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=21497",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.northriveroutdoors.com/products/bertucci-a-2t-original-classics-dial-men-s-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-bertucci-retroform-a-2ra-field-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.ae/products/169323035-bertucci-a-11t-americana",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.zappos.com/b/bertucci/brand/1661",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://techwriteredc.com/best-bertucci-watches-of-all-time/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearculture.com/goods/bertucci-heritage-collection-field-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fieldtheory.us/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mossyoak.com/our-obsession/blogs/gamekeeper-gear-review-bertucci-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://300magazine.com/?p=2585",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.benswatchclub.com/blog/bertucci-watches-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/bertucci-a-2s-nato-watch/talk?sort=votes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/watches?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InBvc2l0aW9uIiwic3YiOjI0LCJkIjoiZiIsInVpZCI6Mzg4ODAzODAyODkxOTQsImwiOjI0LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.CwKyWPWTxcbldw34Fcu9clGM-hZYMCbVENO3zrQvCKQ",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/watches?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/watches?page=9",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/collectors-corner",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=3",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=4",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=5",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=7",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=8",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=9",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=6",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/all?page=10",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/studio-builds%e2%84%a2",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/dx3%C2%AE-camo%E2%84%A2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/dx3%C2%AE-glow%E2%84%A2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/dx3-plus%E2%84%A2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/frontpage",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/frontpage?page=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/pages/watch-case-overview",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/dx3-field%E2%84%A2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/bertucci-bargin-bin%e2%84%a2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/vintage%E2%84%A2-patina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/a-1s-super-field",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/collections/bertucci%C2%AE-certified-pre-owned-watches%E2%84%A2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/bertucci-performance-field-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/bertucci-10303-field-watch-10303",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/bertucci-13420-field-watch-13420/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/bertucci-22028-watch-22028/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/bertucci-13300-watch-13300",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/bertucci-performance-field-watches?p=2&page=2&sort=bestselling",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/all?cat=1836&page=1&searching=Y&show=120&sort=11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/bertucci-performance-field-watches?abproductid=12782754&p=6&page=3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://longislandwatch.com/bertucci-11034-watch-11034/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listings/brand/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.uk/listings/brand/bertucci?page=1&price_max=500&price_min=0&status=unsold&q=",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.outlandusa.com/m/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/brands/bertucci/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/p/1702350929?iid=",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/1902358139",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/22026751589",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprojects.com/2012/07/03/introducing-bertuccis-field-watches-designed-in-the-usa/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtraderhub.com/brands/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/pages/brand-reviews/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviator.shop/en/field-watches-from-bertucci/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/bertucci",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.northriveroutdoors.com/products/bertucci-a-2t-watch-12051",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/field-test-affordable-b-1t-titanium-field-watch-bertucci/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/blogs/news/snews-bertucci-celebrates-15th-anniversary-with-a-special-edition-field-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/blogs/news/bertucci-a-2tr-vintage-gmt-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/pages/about-bertucci-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ultimatefieldwatch.com/blogs/news/bertucci-launches-their-latest-solar-powered-ultimate-field-watch-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.upcitemdb.com/info-bertucci",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://dungarees.com/bertucci-13301-a-3t-vintage-42mm-black---british-tan-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/bertucci-watches-a-4t-illuminated-titanium-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/bertucci-a-2t-field-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theslenderwrist.com/bertucci-a-1s-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timemachineplus.com/collections/bertucci-watches/titanium-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.northriveroutdoors.com/products/bertucci-a-2t-field-colors-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://dungarees.com/bertucci-13501-a-5p-illuminated-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://dungarees.com/bertucci-12066-imola-bronze-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dungarees.com/bertucci-13310-a-3t-navigator-ti-matic-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://dungarees.com/bertucci-12000-a-2t-original-international-orange-black",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://dungarees.com/gear/watches/bertucci",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://tacticalwatch.wordpress.com/tag/bertucci-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/126515608731",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/405694391095",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/178453936422",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-m-1s-womens-field-watch-nylon-strap",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-2sel-super-illuminated-field-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://kevinscatalog.com/products/bertucci-inc-bertucci-a-2sel-super-illumina-50-2029",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/collections/bertucci",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-2ct-cera-ti-rhino-gray-watch",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-4t-super-yankee-illuminated-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-2t-highpolish-field-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-gamekeeper-watch",
+   "passada": 3,
+   "novos": 15
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-dx3-plus-watch-patrol-khaki-blue?variant=47302203144",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/collections/bertucci/watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-3p-sportsman-vintage-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-6a-experior-field-watch-nylon-strap",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-e-1s-ballista-watch-nylon-strap",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-dx3-performance-field-watch-canvas-band",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.sportique.com/products/a-5s-ballista-illuminated-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-11t-americana-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-dx3-hybrid-watch-nylon-leather-band",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-dx3-field-watch-white-defender-drab?variant=1231707644",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-2tr-vintage-gmt-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-m-2ra-womens-field-watch-comfort-webb-band",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-2s-ballista-watch-black-dial",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-2t-super-classic-luminous-watch-super-luminous-dial-nylon-band",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/bertucci-a-1r-field-comfort-watch",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

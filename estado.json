@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 187,
-  "ultima_versao": 173,
+  "proxima_linha_marcas": 188,
+  "ultima_versao": 174,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2105,6 +2105,24 @@
         }
       },
       "obs": "Usa códigos (formato 313.55.41.xx). Site oficial bertolucci-watches.com só abre em line.php (Forza, Giro automático); demais coleções em laço de redirecionamento. Vermelha: centenas de variações Pulchra/Vir/Serena/Uomo sem foto, fichas Europa Star com 429, line.php das outras coleções sem busca. Logo em K, obs em M. Próxima: Bertucci (187)."
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 174,
+      "marca": "Bertucci",
+      "linha_marcas": 187,
+      "linhas_relogios": "22220-22666",
+      "relogios": 447,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes_abertas": 186,
+      "passadas": {
+        "1": "152 fontes, 369 novos",
+        "2": "10 fontes, 4 novos (+~20 por títulos de busca)",
+        "3": "24 fontes, 33 novos"
+      },
+      "obs": "loja oficial atual ultimatefieldwatch.com (G aponta o site antigo); 277 linhas sem foto (link da página); códigos = nº de modelo oficial de 5 dígitos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2116,34 +2134,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-21T01:41:18Z",
-  "ultimo_sinal": "2026-10-21T02:28:23Z",
-  "em_andamento": {
-    "marcas": [
-      "Bertucci"
-    ],
-    "linha_marcas": 187,
-    "grande": true,
-    "relogios": "historico/parcial_Bertucci_relogios.txt",
-    "fontes": "historico/parcial_Bertucci_fontes.txt",
-    "notas": "historico/notas_Bertucci.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2",
-      "p3"
-    ],
-    "passada": 3
   }
 }
