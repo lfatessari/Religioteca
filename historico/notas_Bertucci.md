@@ -19,3 +19,4 @@
 - Páginas de produto do ultimatefieldwatch.com dão CLIENT_ERROR (não contar).
 - não abriu (robots): https://longislandwatch.com/bertucci-performance-field-watches/?p=2&page=3
 - não abriu (robots): https://longislandwatch.com/bertucci-performance-field-watches/?page=4
+- Nomes inferidos: 12134/12137 'A-2T Ceramic' (título só diz 'Swiss Quartz Field Watch with Ceramic Coated Titanium Case'); 11034 'DX3 Women's Solar Orange' (título: women's quartz sport watch with solar orange resin case). Verificar.
