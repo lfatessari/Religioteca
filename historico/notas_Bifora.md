@@ -6,3 +6,5 @@
 - EveryWatch: 54 anúncios (5 à venda + 49 vendidos), genéricos sem referência.
 - Mikrolisk marcas: Bimetta, Binetta, Stratos (1934), Sigilla, Anima, Lasso (1937), Avisa (1938), Bifora unima (1956), Bidora (1957), Unimax (~1962), Bimag, Allshock. Wikipedia: falência 1977, Índia 1978, fim produção alemã 1983; hoje não faz relógios (só museu).
 - bifora.eu robots em kaufen.php, Automaticuhr.html, modelle.html (relançamento 2011+ só visto por terceiros).
+## Fim da 1ª passada (07:03 UTC): últimas 4 fontes sem novidade. Marca VERMELHA: vintage com centenas de anúncios genéricos, referências sem nome; Monatsuhren 2022/2024/2025 do Freundeskreis não alcançados; site oficial bloqueado.
+## 2ª passada: alvo = Monatsuhren 2022/24/25, marcas registradas (Avisa, Anima, Sigilla, Unimax, Binetta), leilões, coleções de calibres com fotos de relógios.
