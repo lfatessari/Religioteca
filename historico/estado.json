@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 214,
-  "ultima_versao": 192,
+  "proxima_linha_marcas": 215,
+  "ultima_versao": 193,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2612,6 +2612,24 @@
         "2": 25
       },
       "grande": true
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 193,
+      "marca": "Bomberg",
+      "linha_marcas": 214,
+      "linhas_relogios": "25256-25579",
+      "relogios": 324,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes_abertas": 116,
+      "passadas": {
+        "1": "88 fontes/320",
+        "2": "18 fontes/15",
+        "3": "10 fontes/0"
+      },
+      "obs": "site oficial só alcançável por páginas que aparecem em busca; EveryWatch 884 anúncios (737 vendidos não abertos); Liverpool 139 itens, só pág. 1; J 'Spider Neon' não encontrado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
