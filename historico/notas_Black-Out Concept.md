@@ -15,3 +15,4 @@ Tratada como grande (personalizações + modelos próprios).
 - CONFERÊNCIA catálogo atual: all=34 (31 relógios + 3 pulseiras); XP=24 (16 vistos + Gold, Ultimate, XPE x4, XPW x2 = 24); + Wormhole, Black/White Hole, FL-One x4 = 31. Fecha.
 ## Fim da 1ª passada (85 fontes): últimas 3+ sem novidade. VERMELHA: personalizações sob encomenda (Rolex, AP, JLC, Omega) desde 2007 sem catálogo; site antigo blackoutconcept.com só JS; P-One e linhas antigas (Barakuda, Storm, Ocean Master) com variações não listadas; Chrono24 dealer não abre.
 ## 2ª passada: alvo = personalizações, linhas antigas (Barakuda, Storm, Ocean Master, Stratos, P-One), FL-One, Singularity.
+- Site antigo: blackoutconcept.com/en/blackout-watches/76-barakuda.html (watchisthis). EveryWatch: 15 anúncios (Chrono24 + The Sutor House).
