@@ -17,3 +17,4 @@
 - lug2lug.org/brands/borealis-watch-co: robots. shop.app redireciona p/ shop.com (não aberto). relojesexclusivos cita coleções Cascais, Azores, Madeira.
 - watchuseek (threads e forums.watchuseek.com) bloqueado: CLIENT_ERROR/robots.
 - PROVENANCE: watchpatrol.net/discover/brands/borealis/adraga/ (link tirado de página) pediu permissão — não repetir.
+- Busca interna do site (miyota gmt*) = 88 resultados em 2 págs (inclui pulseiras e Prometheus); p1 só repetiu o que já havia: catálogo publicado coberto.
