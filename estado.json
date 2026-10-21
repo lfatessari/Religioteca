@@ -2536,7 +2536,7 @@
   }
  },
  "em_execucao": "2026-10-21T15:42:26Z",
- "ultimo_sinal": "2026-10-21T15:49:42Z",
+ "ultimo_sinal": "2026-10-21T15:52:41Z",
  "em_andamento": {
   "marcas": [
    "Bobroff"
@@ -2548,7 +2548,9 @@
   "notas": "historico/notas_Bobroff.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3"
   ],
   "passada": 1,
   "obs": "Blu (207) = duplicata de Bernhard Lederer (BLU) linha 184; só observação em M"
