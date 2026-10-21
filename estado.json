@@ -2494,7 +2494,7 @@
   }
  },
  "em_execucao": "2026-10-21T14:41:09Z",
- "ultimo_sinal": "2026-10-21T14:52:22Z",
+ "ultimo_sinal": "2026-10-21T14:58:29Z",
  "em_andamento": {
   "marcas": [
    "Blok",
@@ -2507,9 +2507,9 @@
   "notas": "historico/notas_Blonie.md",
   "secoes_feitas": [
    "Blok: todas",
-   "Blonie: 1,2,2c parcial,5"
+   "Blonie: passada 1 completa (1-10b)"
   ],
-  "passada": 1,
+  "passada": 2,
   "blok_pronta": "historico/dados_Blok.txt + historico/marca_Blok.json",
   "obs": "Blonie tratada como grande; Blu (207) fica para a próxima"
  }
