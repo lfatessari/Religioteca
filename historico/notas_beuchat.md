@@ -5,3 +5,4 @@ Tratada como grande (vintage + muitas referências BEU).
 - Pendentes: boutikenvogue (arquivo de descontinuados), Hero (BEU0340/0341/0342/0346), Apnea, vintage antigo, chrono24, everywatch, ebay, imprensa.
 - Lumitech V3 sem referência (subchandlers): nomear com cor.
 - Vintage: Constant Beuchat (C. Beuchat SA, 1905, Marselha, segundo watch-wiki) — Professional 1000 m ref 1.187.1.0.04 (1978), Envers ACW 1987, Ocean Energy; EveryWatch tem 31 vendidos de 'Constant Beuchat'. Linhas citadas: Booster, Hero Color, HPS2, Activ 50.
+- BPlus comprou Beuchat Chronographes em jan/2002 (licenças Serge Blanco, Caroll, Speedo). Watch-wiki fala em C. Beuchat SA 1905; dialicious/diveavenue em 1904 (Constant Beuchat). Coluna I fala só de 1934 (mergulho).
