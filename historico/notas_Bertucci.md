@@ -30,3 +30,4 @@
 ## 2ª passada: alvo = buracos de numeração, linhas antigas (A-2T Field Colors/ProColor, M1-T, A-2S Ventara, Commando Camo, Women's Sport, A-5P, B-1T, G-1T, D-1T), Collectors Corner p2, Studio Builds p2, fotos.
 - 2ª passada: bertucciwatches.com/Bertucci/titanium.html e Amazon B-1T bloqueados (robots); não contados.
 ## 2ª passada encerrada 02:24 (≥10 fontes, ~22 novos incluindo títulos de busca) → 3ª passada
+- A-2TR Vintage GMT (sportique, blog 2018) = mesmos códigos 12117/12118 do A-2TR Field Pro GMT. Gamekeeper (13367–13382, sem 13374) achado na 3ª passada.
