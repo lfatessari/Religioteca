@@ -12,3 +12,4 @@
 - +Seadog (anunciado 2015), Neptuno tem 10 variantes (5 sanduíche) – só 4 nomeadas; Sea Storm MK2 GMT: 5 lunetas×data/sem data (achadas AA..BI1, falta BF?/BH? – buscar).
 - J 'Sei He Ki' não encontrado em busca nenhuma. WatchPatrol diz 'China, 2013' (errado: Portugal).
 - eBay itm 227156106930 e ebay.de 226459333844: CLIENT_ERROR.
+- Estoril 300 GMT também chamado 'Estoril Traveler GMT' (Miyota 9075).
