@@ -5,3 +5,4 @@
 - Fundação: Kleinanzeigen diz 1900 Schwäbisch Gmünd, marca Bifora registrada 1934, falência 1977; calibre 2025 (1928), 103 SA (1951 automático). Marcas diz 1902 Jakob e B910/B934 → observação.
 - EveryWatch: 54 anúncios (5 à venda + 49 vendidos), genéricos sem referência.
 - Mikrolisk marcas: Bimetta, Binetta, Stratos (1934), Sigilla, Anima, Lasso (1937), Avisa (1938), Bifora unima (1956), Bidora (1957), Unimax (~1962), Bimag, Allshock. Wikipedia: falência 1977, Índia 1978, fim produção alemã 1983; hoje não faz relógios (só museu).
+- bifora.eu robots em kaufen.php, Automaticuhr.html, modelle.html (relançamento 2011+ só visto por terceiros).
