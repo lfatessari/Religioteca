@@ -2293,5 +2293,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-21T08:42:03Z",
+ "ultimo_sinal": "2026-10-21T08:42:03Z",
+ "em_andamento": {
+  "marcas": [
+   "Biver"
+  ],
+  "linha_marcas": 196,
+  "grande": true,
+  "relogios": "historico/parcial_Biver_relogios.txt",
+  "fontes": "historico/parcial_Biver_fontes.txt",
+  "notas": "historico/notas_Biver.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
