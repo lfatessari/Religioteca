@@ -2211,7 +2211,7 @@
   }
  },
  "em_execucao": "2026-10-21T04:41:18Z",
- "ultimo_sinal": "2026-10-21T04:48:51Z",
+ "ultimo_sinal": "2026-10-21T04:52:17Z",
  "em_andamento": {
   "marcas": [
    "Bianci"
@@ -2221,7 +2221,11 @@
   "relogios": "historico/parcial_Bianci_relogios.txt",
   "fontes": "historico/parcial_Bianci_fontes.txt",
   "notas": "historico/notas_Bianci.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c"
+  ],
   "passada": 1,
   "obs": "Bianci (Roberto Bianci, bianciwatches.com) tratada como grande: 26 coleções, muitos produtos escondidos + linha antiga; Biatec fica para a próxima"
  }

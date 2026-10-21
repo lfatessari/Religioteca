@@ -1,0 +1,9 @@
+# Bianci (Roberto Bianci) – notas
+- Site oficial: bianciwatches.com (Shopify) — G da planilha está VAZIO. Marca = "Roberto Bianci", EUA (fundador Robert/Roberto Bianci, gemólogo italiano). B/C vazios.
+- Loja publicada: 25 produtos (20 fem, 5 masc). Muitos escondidos (RB58750, RB70603, RB90730 abrem).
+- Linha antiga (2010): Tungsten 5837M, H262LWS, Pro Racing, Professional Commando, Florence, Diamond line, ceramic 5843.
+- Imagens oficiais têm UUID no nome: precisa abrir cada página ou usar foto de loja.
+- Publicados (25): RB58751 Amadeo; RB0310 Eterno M; RB18765 Fontana; RB0131, RB0132 Fratelli; RB0610, RB0613 Alessandra; RB58721 Allegra; RB0202,RB0206,RB0207,RB0204 Brillare; RB2791 Casaria; RB90360 Cassandra; RB80711 Classic W; RB0402,RB0404 Cristallo; RB0410,RB0411 Eterno W; RB58730 Florenca; RB0248,RB0240,RB0241 Gemma; RB0232 Pietra; RB0843 Valentini.
+- Seções feitas: 1, 2 (parcial)
+- 2c buscas site: feitas (11 buscas). Escondidos achados (38): Enzo RB71010/71011/71013; Ricci RB70995; Messina RB70981; Benzo RB0740/0741/0742; Lombardo RB70963/70968; Gemma RB0244/0245/0246/0247/0249; Alessandra RB0614/0615; Casaria RB2790; Cristallo RB0407; Brillare RB0200; Amadeus RB18580/18581/18586; Fratelli RB0137; Valentini RB0840/0841/0844; Galeria RB26802; Valerio RB54470/54471; Aveta RB0211/0216; Aulia RB55050/55053; Classic RB99105; Eterno M RB0311; Classico RB58760; Milana RB58771.
+- Próximo: abrir páginas escondidas (fotos), depois lojas (jacobtime, bloomgem, newegg, walmart, ebay.de, accuratime), linha antiga 2010 (Tungsten 5837M, H262LWS, Pro Racing/Jay Leno, Commando, ceramic 5843).
