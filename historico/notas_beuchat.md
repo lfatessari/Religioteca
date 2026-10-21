@@ -1,2 +1,6 @@
 # Notas Beuchat (linha 188)
 Tratada como grande (vintage + muitas referências BEU).
+- Site oficial real: beuchat.com (WooCommerce, loja com ~120 produtos; /shop/page/1,3,5 não apareceram em busca; page/4 robots). G diz beuchat-watches.com (não aparece em busca nenhuma).
+- Coleções oficiais: GB1950, BEUBRB, Océa Deville, Océa, Blue Ocean, Lumitech, Revolve (by Constant, CBR), Intemps, RDN 360, Hero (antiga), Apnea Automatique, Hero Skeleton, Hero Color (antigas).
+- Pendentes: boutikenvogue (arquivo de descontinuados), Hero (BEU0340/0341/0342/0346), Apnea, vintage antigo, chrono24, everywatch, ebay, imprensa.
+- Lumitech V3 sem referência (subchandlers): nomear com cor.
