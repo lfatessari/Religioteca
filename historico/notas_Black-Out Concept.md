@@ -7,3 +7,6 @@ Tratada como grande (personalizações + modelos próprios).
 - Fundada 2006 como marca de customização de luxo; 2022 Etienne e Tim donos; relojoeiro David (gressive news).
 - Submariner 16610 da Antiquorum lote 461 é da Militarized DLC, NÃO da BOC (excluído).
 - Origem (wristwatchreview): trabalho começou em 2006, fundador gostava de carros todos pretos; 2015 pesquisa quartzo carbono/cerâmica; boutique perto do Ródano. Kickstarter 2017 Blackstar H3/H4/H4-2/H4-3/H4-4 + Darkshield.
+- Fundador Fabrice Letellier, Genebra, 2007 (Hypebeast 2009, Unfinished Man 2011); site antigo blackoutconcept.com; B.O.C Coating 10 anos de garantia. Chrono24 tem página de revendedor chrono24.com/blackoutconcept (não abriu); newsletter GETSMedia robots.
+- Site oficial blackoutconcept.com abre só JS (vazio) -> L. Categoria Swiss Collector: Tourbillon Rouge/Black/White, Whirlpool Blue, Yellow swirl, Trinity Limited Edition.
+- Site atual: blackout-watches.com (Shopify) — coleções XP, Singularity, FL-One; logo https://blackout-watches.com/cdn/shop/files/logo-blackout-watches.svg?v=1738866082 ; donos 2022 Étienne Rousseaux e Tymothy Plubeau; fundador Fabrice Letellier 2007 (chronohunter). Customizou AP, JLC, Omega, Rolex. P-ONE 2023 Miyota 82S0, descontinuado 2025.
