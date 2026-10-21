@@ -5,3 +5,4 @@
 - Códigos PRF-xxxxx existem (vistos em Phillips/EveryWatch/Ace): Two-Tone PRF-00018, Oeil de Fer PRF-00010, Platinum PRF-00046, Pietersite PRF-12154 (ouro rosa), Echoes PRF-12248, Carillon No.1 PRF-11193.
 - Seções feitas: 1, 2 (parcial), 5 (EveryWatch: só 2 à venda + 6 vendidos -> pequena em anúncios). Falta: 2c mais termos, imprensa (SJX, Monochrome, Fratello AB, Japan), lojas (Bucherer, Ace, Hour Glass), Chrono24.
 - Carillon 2023: titânio $570k, ouro vermelho 5N $625k, versão com diamantes $1.315M (sodalita ou obsidiana prateada).
+- Muitas peças únicas do Carillon (protótipo, Doha, Malaquita, Catharsis, Bucherer, Desert Rose, México 'La Danse du Temps'?). Série inicial de 50 Carillon. Logo: https://r2.watchonista.com/app/uploads/Biver-logo-watchonista.webp
