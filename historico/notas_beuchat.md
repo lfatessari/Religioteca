@@ -10,3 +10,9 @@ Tratada como grande (vintage + muitas referências BEU).
 - Coleções de 2011 (bijourama/190): Abyss, Apnea, Atlantis, Revolve, Big Hero, Cadène, Cap 100, Chrono Diver, Grand Racer, Hero, Horizon, Lumitech, Murena, Nautyl, Overstep, S-Bike, Scubatech, Seagul. Catálogo Ushuaïa 1992 (eBay).
 - mode-in-motion: robots. cdiscount: só casca JS. vvanat: erro.
 - Pinterest: robots. Mais linhas citadas: Skipper II, X-Sport, B330, Technova 550, Atlantis, Cadène, Big Hero, Seagul (sem ref). Marcas licenciadas BPlus (Serge Blanco, Lola Carra, Jet Time, Technograph) não entram.
+## Fim da 1ª passada (03:08 UTC)
+- Últimas 3 fontes sem novidade: dialicious best models, classicwatch, wikipedia → critério §11 atingido.
+- Marca VERMELHA: catálogo antigo enorme (BEU0001–BEU9501, dezenas de linhas 1990–2015: Activ 50, Horizon, Apnea, Abyss, Hero, Nautyl, Overstep, Oceanium, Mondiale, Nautic Sport, Grand Racer, Skipper, S-Bike, Scubatech, Big Hero, Atlantis, Cadène, Seagul…), cada uma com várias referências não listáveis; Constant Beuchat vintage (31 vendidos no EveryWatch) sem refs.
+- 2ª passada: ir atrás de refs das linhas antigas (sous-la-mer modelos, boutikenvogue títulos, fnac, eBay, Big Hero/Cap 180/Ushuaia refs).
+## Auto-auditoria 10b
+1. Blog/imprensa oficial: beuchat.com não tem blog de relógios; galeria só coleções. 2. site:beuchat.com/produit feito (Google traz pouco; ocarat domina). 3. site: nas lojas: ocarat, ateliernet, stylos-montres feitos; boutikenvogue/mode-in-motion/amazon só títulos (robots). 4. Primeiro modelo (1904–) não identificado; vintage Constant Beuchat parcialmente. 5. I/J: Océa ok, Intense NÃO encontrado, Hero Vintage → só "Hero" (BEU034x). 6. Edições limitadas: Activ 50 Limited, Ushuaia limitada (sem tiragem). Nenhuma peça única. 7. ~70 fontes.
