@@ -16,3 +16,4 @@
 - Pulados (iguais aos códigos base): 12074CC, 12075CC, 12042CA. Bonés A0030/A0031 não entram.
 - 17023-17028 aparecem na loja oficial como 'D-3T NATO Epic' (mesmos códigos já gravados como D-3T Retroform Epic da página antiga; mantido nome antigo, E menciona). CPO (CA/CB) pulados.
 - A-2T Vintage Patina Series citada (coleção vazia, sem códigos).
+- Páginas de produto do ultimatefieldwatch.com dão CLIENT_ERROR (não contar).
