@@ -2253,7 +2253,7 @@
   }
  },
  "em_execucao": "2026-10-21T06:41:57Z",
- "ultimo_sinal": "2026-10-21T06:48:47Z",
+ "ultimo_sinal": "2026-10-21T06:54:34Z",
  "em_andamento": {
   "marcas": [
    "Bifora"
@@ -2265,7 +2265,10 @@
   "notas": "historico/notas_Bifora.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "3",
+   "5",
+   "6"
   ],
   "passada": 1
  }
