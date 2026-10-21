@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 193,
- "ultima_versao": 177,
+ "proxima_linha_marcas": 194,
+ "ultima_versao": 178,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2221,6 +2221,25 @@
     }
    },
    "obs": "marca 'Roberto Bianci' (bianciwatches.com, Agoura Hills CA); site publica só 25, ~50 escondidos abertos; timepiece.com, Bloomgem, Ashford, Bezali, Accuratime; linha antiga 2010-12 (Pro Racing, Commando, Prestigio, Tungsten) com link de página; obs em M. Próxima: Biatec (193); Bifora (194) parece grande."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 178,
+   "marca": "Biatec",
+   "linha_marcas": 193,
+   "linhas_relogios": "23178-23255",
+   "relogios": 78,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 69,
+   "passadas": {
+    "1": {
+     "fontes": 69,
+     "novos": 78
+    }
+   },
+   "obs": "site real biatecwatches.com (70 produtos: 35 atuais + 35 descontinuados, conferido) + variantes só na Helveti e colaboração Chronoshop 09; sem códigos de catálogo (códigos WDL LV02/LV03/HT02/CVNTG02/MVSE01WDL e CS30M/B); obs em M. Bateria só com Biatec porque Bifora (194) é grande. Próxima: Bifora (194)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2232,24 +2251,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T05:41:35Z",
- "ultimo_sinal": "2026-10-21T05:56:48Z",
- "em_andamento": {
-  "marcas": [
-   "Biatec"
-  ],
-  "linha_marcas": 193,
-  "grande": false,
-  "relogios": "historico/parcial_Biatec_relogios.txt",
-  "fontes": "historico/parcial_Biatec_fontes.txt",
-  "notas": "historico/notas_Biatec.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3"
-  ],
-  "passada": 1
  }
 }

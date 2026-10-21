@@ -19,3 +19,12 @@
 - Fábrica em Banská Bystrica (startitup 2018).
 - Chronoshop tem categorias Biatec (biatec, heritage-1, corsair, majestic, water-marine, leviathan, exclusive) - buscar.
 - Seções feitas: 1,2,2c,3,5(watchpolice),6(chrono24 index falhou),7 parcial,9 parcial.
+## 10b Auto-auditoria
+1. Site sem blog/imprensa; li home, watches, special-editions, discontinued e watches-1 (70 produtos) + páginas de produto. Artigos da imprensa lidos (aBlogtoWatch x3, Fratello x2, Monochrome, Chronoshop blog, Oracle of Time, TDR, WatchClicker x2, WatchGecko, Bratislavský Večerník, Startitup).
+2. Busca de páginas escondidas: site:biatecwatches.com com termos (watches, shop, Premium, Golden Ratio, Night Sky...) e Helveti por coleção -> achei Marine SE, Majestic 02F/03F, Marine 01/02.
+3. Lojas: Helveti, WDL, Watchbandit, MamyCzas, Chronoshop, TAMI, Chronomag fórum.
+4. Primeiro modelo: Corsair 01 (2016, Eterna 3901A) e Majestic 01-05 = série "Premium".
+5. J: Corsair, Majestic, Leviathan ok; Gondola não encontrado.
+6. Edições limitadas com nº na B. Sem peças únicas.
+7. 69 fontes. Catálogo fechado: site oficial (70) = WatchPolice (41 de amostra) + Helveti (75 itens com pulseiras). Não vermelho.
+- Chrono24 (index) e WatchUSeek não abriram. EveryWatch não apareceu em busca.

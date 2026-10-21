@@ -1,0 +1,357 @@
+{
+ "marca": "Biatec",
+ "usa_codigos": false,
+ "logo": "https://files.cdn-files-a.com/uploads/5448711/400_6a72f4af11a31.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "G errado: site oficial é biatecwatches.com (biatec.watch não aparece). C: empresa Biatec Watches s.r.o. fica em Zvolen e a montagem em Banská Bystrica (não Bratislava). I: fundador é Peter Kožár (com o designer Miloš Jakubec), 2016, não \"Petr Vesely\". J: \"Gondola\" não encontrado; faltam Heritage, Marine, Fusion, Magnifique. Movimentos: Eterna 3901A/3902A (1ª série) e Sellita SW200-1/SW221-1, não ETA.",
+ "fontes": [
+  {
+   "url": "https://www.helveti.eu/biatec",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-cs30m-limited-edition-30-years-czech-and-slovak-republic-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/biatec-watches-slovakia-watch-heritage/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/special-editions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-corsair-04-premium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/discontinued-models",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://watchpolice.com/brands/biatec",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-golden-ratio-le-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-golden-ratio-le-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-golden-ratio-le-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-majestic-04-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-majestic-05-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-corsair-cs-05-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/mens-watches-biatec",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-m-r-stefanik-limitovana-edice",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-leviathan-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-leviathan-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-heritage-first-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-corsair-cs-01-f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-corsair-cs-03-f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-corsair-cs-se-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-corsair-vintage-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-majestic-01-f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-majestic-02g-f",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-majestic-03-f",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-majestic-02-n",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wdl.sk/en/biatec-leviathan-03-lv03/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/biatec-majestic-chronoshop-09/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/the-biatec-corsair-a-pilots-watch-from-slovakia/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/biatec-majestic-chronoshop-09-slovakia-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blog.chronoshop.cz/?p=13915",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.totaldesignreviews.com/2016/10/10/biatec-watch-corsair-01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/in-focus-biatec/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/shop/biatec-night-sky",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/magnifique",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-majestic-bratislava-le-50-silver-preorder",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-majestic-bratislava-le-50-rosegold-preorder",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-corsair-cs-02-f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-corsair-cs-se-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-magnifique-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-cs30b-limitovana-edice-30-let-cr-a-sr-bila",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-marine-se-modra",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-corsair-cs-04-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-heritage-le-helveti-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/biatec-leviathan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.chronomag.cz/topic/178105-p-biatec-corsair-tami-limited-edition-35",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/biatec-corsair-watch-review-finding-acceptance-with-the-updated-version-of-one-of-my-own-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tami.sk/hodinky/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wdl.sk/en/biatec-corsair-cvntg02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.startitup.sk/local-slovak-patri-do-svetovej-spicky-vo-vyrobe-hodiniek-a-reprezentuje-nas-nimi-vo-svete/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-golden-ratio-le-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-corsair-05-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-corsair-02-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/collections/biatec",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronoshop.cz/biatec-golden-ratio-le-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-majestic-01-n",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/watches/biatec-majestic-01-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biatecwatches.com/t-sk/watches/biatec-corsair-cs-03-premium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/panske-hodinky-biatec-majestic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/biatec-marine-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchgecko.com/blogs/magazine/the-biatec-majestic-03-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mamyczas.net/products/zegarek-biatec-majestic-01-n",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/?p=11558",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-giveaway-biatec-corsair-cs/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bratislavskyvecernik.sk/2025/02/20/slovenske-hodinky-biatec-oslavuju-vesmirny-let-ivana-bellu-limitovana-edicia-len-v-100-kusoch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wdl.sk/en/magazin/vianocne-tipy-panske-hodinky-do-2000-eur",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
