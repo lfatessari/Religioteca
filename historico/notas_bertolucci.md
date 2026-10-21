@@ -20,3 +20,4 @@ Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uo
 - Fontes que deram erro mas tiveram título usado: rago 854.55.41, essential 854.21.41.10D, amazon 8455541601 (contadas com 0 e o relógio atribuído à Europa Star)
 - 429 também em 1004103733 (Mini Poésie)
 ## Fim da 2ª passada (01:09): 3 seguidas sem novidade. 2ª passada trouxe muito (>5) -> 3ª passada obrigatória (10+ fontes novas).
+- Logo oficial: https://www.bertolucci-watches.com/image/logo-interieur.gif. Site oficial abre por https em line.php (achado na busca). Menu: Bella Costa, Giro, Serena, Serena Garbo, Volta, Volta II, Voglia, Forza, Forza II, Stria, Stria II, Stria III, Ouni, Gioco -> buscar line.php de cada
