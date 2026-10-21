@@ -12,3 +12,5 @@ FCW: Safari GMT Serengeti (SFR-GT-SER-40-20), Venture Green Dusk (VE-GD-TI-20-44
 - Voyage (2015, smartwatch analógico no Kickstarter) foi CANCELADO -> não vira linha. Journey (2016, Kickstarter): Wasp, Warhawk, Sopwith.
 - Microbrand.store: "Odyssey Bronze Meteo-Black" e "Bronze Meteogray" tratados como os Odyssey MeteoBlack/MeteoGrey de aço (títulos da loja parecem errados).
 - PROVENANCE: links de produto tirados de páginas (sportique, seriouswatches pre-owned) pediram permissão -> não repetir.
+## Decisão: VERMELHA. 1ª passada encerrada (~229 fontes; últimas dezenas sem novidade). Motivo: muitas edições antigas/exclusivas (Explorer, Globetrotter, Journey 2016-2018, Venture/Odyssey de lojas) só aparecem em anúncios; certeza de que há mais.
+## 2ª passada (alvos: Explorer I/II, Globetrotter, Journey, edições de lojas, Voyager, Venture/Odyssey antigos)
