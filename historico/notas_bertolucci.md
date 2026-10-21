@@ -21,3 +21,4 @@ Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uo
 - 429 também em 1004103733 (Mini Poésie)
 ## Fim da 2ª passada (01:09): 3 seguidas sem novidade. 2ª passada trouxe muito (>5) -> 3ª passada obrigatória (10+ fontes novas).
 - Logo oficial: https://www.bertolucci-watches.com/image/logo-interieur.gif. Site oficial abre por https em line.php (achado na busca). Menu: Bella Costa, Giro, Serena, Serena Garbo, Volta, Volta II, Voglia, Forza, Forza II, Stria, Stria II, Stria III, Ouni, Gioco -> buscar line.php de cada
+## Fim da 3ª passada (01:13): 30 fontes novas. Parou por tempo/rendimento decrescente; site oficial line.php das demais coleções não aparece em busca.

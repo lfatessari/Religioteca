@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 186,
-  "ultima_versao": 172,
+  "proxima_linha_marcas": 187,
+  "ultima_versao": 173,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2078,6 +2078,33 @@
         }
       },
       "obs": "Marca americana (High Point, NC; 2005). Sem códigos. Inclui era Bernhardt Instruments (Globemaster, Binnacle ETA), Sea Shark/Binnacle Diver antigos, Manifest (peças únicas com movimentos de bolso), edições de encomenda com página (MARSOC, NCIS, Greenville PD, K-9, 101st Airborne). Vermelha: encomendas sem página pública e coleções ocultas por senha (past-collections, women's, corsair-gmt). Na 2ª passada +7 modelos vieram só por títulos de busca. Bertolucci (186) tratada como grande -> sozinha na próxima. Coluna M preenchida."
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 173,
+      "marca": "Bertolucci",
+      "linha_marcas": 186,
+      "linhas_relogios": "21988-22219",
+      "relogios": 232,
+      "vermelho": true,
+      "site_bloqueado": "Parcial",
+      "grande": true,
+      "fontes": 207,
+      "passadas": {
+        "1": {
+          "fontes": 121,
+          "novos": 149
+        },
+        "2": {
+          "fontes": 60,
+          "novos": 83
+        },
+        "3": {
+          "fontes": 26,
+          "novos": 10
+        }
+      },
+      "obs": "Usa códigos (formato 313.55.41.xx). Site oficial bertolucci-watches.com só abre em line.php (Forza, Giro automático); demais coleções em laço de redirecionamento. Vermelha: centenas de variações Pulchra/Vir/Serena/Uomo sem foto, fichas Europa Star com 429, line.php das outras coleções sem busca. Logo em K, obs em M. Próxima: Bertucci (187)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2089,33 +2116,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-21T00:42:11Z",
-  "ultimo_sinal": "2026-10-21T01:11:53Z",
-  "em_andamento": {
-    "marcas": [
-      "Bertolucci"
-    ],
-    "linha_marcas": 186,
-    "grande": true,
-    "relogios": "historico/parcial_bertolucci_relogios.txt",
-    "fontes": "historico/parcial_bertolucci_fontes.txt",
-    "notas": "historico/notas_bertolucci.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2"
-    ],
-    "passada": 3
   }
 }
