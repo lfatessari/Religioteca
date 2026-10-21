@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 205,
- "ultima_versao": 186,
+ "proxima_linha_marcas": 207,
+ "ultima_versao": 187,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2481,6 +2481,48 @@
     }
    },
    "obs": "Maison grande, sozinha. blancpain.com parcial (JS; produtos/PDFs com erro) -> L. Base: WatchBase (294 refs, link da página do relógio), Exquisite Timepieces, The Watch Pages, Berry's, 1stDibs, Christie's, Phillips, Collector Square, Hourstriker, imprensa. 417 de 692 com foto. Vermelha: centenas de refs 1990-2000 (Léman/Villeret/Le Brassus) só por número de família, vintage sem referência, Métiers d'Art peças únicas, Chrono24 inalcançável. Inclui Blancpain×Swatch (7) e 3 relógios de bolso. Próxima: Blok (205)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 187,
+   "marca": "Blok",
+   "linha_marcas": 205,
+   "linhas_relogios": "24404-24423",
+   "relogios": 20,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes": 26,
+   "passadas": {
+    "1": {
+     "fontes": 26,
+     "novos": 20
+    }
+   },
+   "obs": "Relógio infantil (Neil Ferrier/Discommon e James Walker). Blok 33 (6 cores de 2022 + 2ª edição), Blok 31 (5 cores, esgotado), Blok 38 GMT (4). Catálogo fechado: loja oficial com 40 produtos conferida. Obs em M."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 187,
+   "marca": "Blonie",
+   "linha_marcas": 206,
+   "linhas_relogios": "24424-24512",
+   "relogios": 89,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 71,
+   "passadas": {
+    "1": {
+     "fontes": 56,
+     "novos": 85
+    },
+    "2": {
+     "fontes": 15,
+     "novos": 4
+    }
+   },
+   "obs": "Tratada como grande (na dúvida) -> Blu (207) ficou para a próxima. Site real zegarkiblonie.com (G errado). 71 modernos (Zodiak, Jantar, Polan, Elektro, Super, BH300, WX302, Dukat, Delfin x MARE, Prezydencki, T-2077 Cyberpunk etc.) + 18 linhas históricas 1959-69. Vermelha: variantes vintage sem catálogo. Obs em M, L parcial."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2492,25 +2534,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T14:41:09Z",
- "ultimo_sinal": "2026-10-21T14:58:29Z",
- "em_andamento": {
-  "marcas": [
-   "Blok",
-   "Blonie"
-  ],
-  "linha_marcas": 205,
-  "grande": false,
-  "relogios": "historico/parcial_Blonie_relogios.txt",
-  "fontes": "historico/parcial_Blonie_fontes.txt",
-  "notas": "historico/notas_Blonie.md",
-  "secoes_feitas": [
-   "Blok: todas",
-   "Blonie: passada 1 completa (1-10b)"
-  ],
-  "passada": 2,
-  "blok_pronta": "historico/dados_Blok.txt + historico/marca_Blok.json",
-  "obs": "Blonie tratada como grande; Blu (207) fica para a próxima"
  }
 }
