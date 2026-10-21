@@ -19,3 +19,4 @@ Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uo
 - watch-winder: Uomo 824 Medium, 854 Chrono Chronometer, 854 Flash, 884 Gents; Vir 144, 634; Serena Garbo Gent Automatic -> buscar Uomo 854 / Flash
 - Fontes que deram erro mas tiveram título usado: rago 854.55.41, essential 854.21.41.10D, amazon 8455541601 (contadas com 0 e o relógio atribuído à Europa Star)
 - 429 também em 1004103733 (Mini Poésie)
+## Fim da 2ª passada (01:09): 3 seguidas sem novidade. 2ª passada trouxe muito (>5) -> 3ª passada obrigatória (10+ fontes novas).
