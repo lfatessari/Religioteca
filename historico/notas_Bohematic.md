@@ -21,3 +21,4 @@
 - Outros "Robot by Bohematic": Graphic Sutnar Pin Up, Minor Superbike (12 ks), Graphic Sutnar Lion Brown.
 - Imagens heureka: img-cdn.heureka.group/v1/<uuid>.jpg (sem width)
 - DECISÃO REVISTA: Bohematic leva as 3 linhas criadas na era Bohematic (Graphic Sutnar, Minor, Aerodynamic) com TODAS as variantes, inclusive as vendidas depois como 'Robot by Bohematic'; linhas novas da era Robot (Aplos, Albatros, Ida, Spectra, Robotic One, Graphic Analog, Artisan, Skywatch, Legends?) ficam para Robot (1170).
+- 1ª passada encerrada: 3 fontes seguidas sem novidade (UTB pdf, gdnonline, helveti graphic-sutnar). VERMELHA: edições privadas/corporativas e configurador (personalização) não listáveis; Expo/Falcon sem foto. 2ª passada: edições limitadas/privadas, códigos faltantes.
