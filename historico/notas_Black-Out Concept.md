@@ -19,3 +19,4 @@ Tratada como grande (personalizações + modelos próprios).
 - P-One: 'gamme Eternal' citada (moonwatch); Karl Lagerfeld e Kanye West clientes; Black P-One = P-One Black (fundido).
 - Site antigo tem categorias H SERIES e H SERIES CARTOON (relação com Blackstar H3/H4?).
 - 2ª passada: buscas site:blackoutconcept.com trazem títulos de produtos antigos (páginas vazias). Títulos sem página aberta (Storm Trinity Verde, MKI Lady, OM III, GMT Driver, OM II Ceramic, OM Mickey, OM II Red) entram pelo título da busca; o crédito de 'novos' foi dado às páginas abertas.
+## Fim da 2ª passada; ≥5 novos -> 3ª passada (10+ fontes novas): mais buscas site:blackoutconcept.com (en/fr/produit), Chrono24 títulos, Facebook/Instagram, eBay, outras lojas.

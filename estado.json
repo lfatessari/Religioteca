@@ -2356,7 +2356,7 @@
   }
  },
  "em_execucao": "2026-10-21T10:42:24Z",
- "ultimo_sinal": "2026-10-21T11:00:39Z",
+ "ultimo_sinal": "2026-10-21T11:01:07Z",
  "em_andamento": {
   "marcas": [
    "Black-Out Concept"
@@ -2377,8 +2377,9 @@
    "7",
    "8",
    "9",
-   "10"
+   "10",
+   "p2"
   ],
-  "passada": 2
+  "passada": 3
  }
 }
