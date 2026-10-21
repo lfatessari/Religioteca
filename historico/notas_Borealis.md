@@ -18,3 +18,6 @@
 - watchuseek (threads e forums.watchuseek.com) bloqueado: CLIENT_ERROR/robots.
 - PROVENANCE: watchpatrol.net/discover/brands/borealis/adraga/ (link tirado de página) pediu permissão — não repetir.
 - Busca interna do site (miyota gmt*) = 88 resultados em 2 págs (inclui pulseiras e Prometheus); p1 só repetiu o que já havia: catálogo publicado coberto.
+## 1ª passada encerrada (22:11 UTC): 3 últimas fontes sem novidade (relojes-especiales Adraga dorado, Sea Storm, Bullshark).
+MARCA VERMELHA: Adraga tem 9 versões (só parte listada), Neptuno 10 mostradores (6 achados), Sea Storm V2 4 layouts×cor×lume×data, Sea Storm MK2 GMT faltam códigos (BF/BH?), Olisipo só BF1 com código, Umi sem cores nomeadas, Bull Shark V1 data/sem data, Porto Covo original 4 cores×data.
+## 2ª passada: alvo = Olisipo (códigos), Neptuno, Adraga, Sea Storm V2/Bronze, Sea Storm MK2 (códigos faltantes), Umi, Santa Cruz, Navale, Scorpionfish V2, Cascais V2, Porto Covo original.
