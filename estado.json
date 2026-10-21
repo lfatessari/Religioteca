@@ -2536,19 +2536,20 @@
   }
  },
  "em_execucao": "2026-10-21T15:42:26Z",
- "ultimo_sinal": "2026-10-21T15:42:26Z",
+ "ultimo_sinal": "2026-10-21T15:46:58Z",
  "em_andamento": {
   "marcas": [
-   "Blu",
-   "Bobroff",
-   "Boderry"
+   "Bobroff"
   ],
-  "linha_marcas": 207,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "linha_marcas": 208,
+  "grande": true,
+  "relogios": "historico/parcial_Bobroff_relogios.txt",
+  "fontes": "historico/parcial_Bobroff_fontes.txt",
+  "notas": "historico/notas_Bobroff.md",
+  "secoes_feitas": [
+   "1"
+  ],
+  "passada": 1,
+  "obs": "Blu (207) = duplicata de Bernhard Lederer (BLU) linha 184; só observação em M"
  }
 }
