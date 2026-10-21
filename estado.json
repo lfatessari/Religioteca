@@ -2641,5 +2641,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-21T21:41:51Z",
+  "ultimo_sinal": "2026-10-21T21:41:51Z",
+  "em_andamento": {
+    "marcas": [
+      "Borealis"
+    ],
+    "linha_marcas": 215,
+    "grande": true,
+    "relogios": "historico/parcial_Borealis_relogios.txt",
+    "fontes": "historico/parcial_Borealis_fontes.txt",
+    "notas": "historico/notas_Borealis.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
