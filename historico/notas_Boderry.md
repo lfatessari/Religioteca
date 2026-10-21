@@ -15,3 +15,4 @@ Falta: mens p6, women, quartz, collections (hou, goldace, falcon, checkmate, eli
 - DECISÃO: VERMELHO. Motivos: Urban Date (aço e titânio) vendido em "4 cores" sem cada cor listada; Urban Skeleton aço com cores não vistas;
   cores limitadas do Kickstarter (Panda); AliExpress/Amazon (era 2019–2021) bloqueados. 2ª passada mira isso.
 - WatchPatrol /voyager/ pediu permissão (link tirado de WebFetch) — não repetir.
+- 2ª passada: 17 fontes, 6 novos (Urban Date titânio 3 cores + aço 3 cores) -> 3ª passada obrigatória. Elite lançado no Indiegogo 2021; Storm no Indiegogo; Landmaster GMT/Chrono no Kickstarter jul-ago/2025.
