@@ -2492,5 +2492,21 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-21T14:41:09Z",
+ "ultimo_sinal": "2026-10-21T14:41:09Z",
+ "em_andamento": {
+  "marcas": [
+   "Blok",
+   "Blonie",
+   "Blu"
+  ],
+  "linha_marcas": 205,
+  "grande": false,
+  "relogios": "historico/parcial_Blok_relogios.txt",
+  "fontes": "historico/parcial_Blok_fontes.txt",
+  "notas": "historico/notas_Blok.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
