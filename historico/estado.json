@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 188,
-  "ultima_versao": 174,
+  "proxima_linha_marcas": 189,
+  "ultima_versao": 175,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2123,6 +2123,24 @@
         "3": "24 fontes, 33 novos"
       },
       "obs": "loja oficial atual ultimatefieldwatch.com (G aponta o site antigo); 277 linhas sem foto (link da página); códigos = nº de modelo oficial de 5 dígitos"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 175,
+      "marca": "Beuchat",
+      "linha_marcas": 188,
+      "linhas_relogios": "22667-22922",
+      "relogios": 256,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial (beuchat.com /shop/page/4 robots)",
+      "fontes_abertas": 91,
+      "passadas": {
+        "1": 70,
+        "2": 11,
+        "3": 10
+      },
+      "obs": "site real beuchat.com (G diz beuchat-watches.com); catálogo antigo enorme (1990–2015) com muitas linhas só por título; Constant Beuchat vintage incluída"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
