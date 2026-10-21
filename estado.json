@@ -2134,5 +2134,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-21T02:41:32Z",
+  "ultimo_sinal": "2026-10-21T02:41:32Z",
+  "em_andamento": {
+    "marcas": [
+      "Beuchat"
+    ],
+    "linha_marcas": 188,
+    "grande": true,
+    "relogios": "historico/parcial_beuchat_relogios.txt",
+    "fontes": "historico/parcial_beuchat_fontes.txt",
+    "notas": "historico/notas_beuchat.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
