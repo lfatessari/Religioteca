@@ -2661,19 +2661,21 @@
   }
  },
  "em_execucao": "2026-10-21T22:41:07Z",
- "ultimo_sinal": "2026-10-21T22:41:07Z",
+ "ultimo_sinal": "2026-10-21T22:42:09Z",
  "em_andamento": {
   "marcas": [
    "Borgeaud",
-   "Borman",
-   "Botta Design"
+   "Borman"
   ],
   "linha_marcas": 216,
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "secoes_feitas": [
+   "1"
+  ],
+  "passada": 1,
+  "obs": "Botta Design (linha 218) dimensionada como grande: fica para a próxima execução, sozinha"
  }
 }
