@@ -2356,7 +2356,7 @@
   }
  },
  "em_execucao": "2026-10-21T10:42:24Z",
- "ultimo_sinal": "2026-10-21T10:42:24Z",
+ "ultimo_sinal": "2026-10-21T10:46:05Z",
  "em_andamento": {
   "marcas": [
    "Black-Out Concept"
@@ -2366,7 +2366,10 @@
   "relogios": "historico/parcial_Black-Out Concept_relogios.txt",
   "fontes": "historico/parcial_Black-Out Concept_fontes.txt",
   "notas": "historico/notas_Black-Out Concept.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "3"
+  ],
   "passada": 1
  }
 }
