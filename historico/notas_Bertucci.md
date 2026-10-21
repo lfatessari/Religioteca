@@ -25,3 +25,4 @@
 - História: fundada 2003 por Michael (Mike) Bertucci, vendas desde 2004; 1º modelo = A-2T Original Classics (2004) (watchprojects 2012). A-2R = DX3 Field (resina). Mascote Enzo (fox terrier).
 - Seções feitas: 1,2,2c,3(parcial),4 (nenhum catálogo PDF achado; só manuais),5,6 (Chrono24 vazio),7 (watches.com, watchco, LIW, windup, northriver, outland),8 (eBay só placeholder; WatchCharts)
 - PROVENANCE_REQUIRED: wornandwound ballista (link tirado de página). Não repetir.
+- Removidos itens sem código que têm versão com código: A-2S Vintage Pantera Six, A-6A Experior Italia, DX3 Compass, M-1S Women's, A-2S Field (prata/preto), A-2S Ballista, A-2S Pantera Six, A-3T Vintage 42, E-1S Ballista, A-11T Americana; foto desertcart passou para 13334.
