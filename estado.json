@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 200,
- "ultima_versao": 183,
+ "proxima_linha_marcas": 203,
+ "ultima_versao": 184,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2370,6 +2370,63 @@
     }
    },
    "obs": "Hoje Blackout Watches (blackout-watches.com). Fundada 2007 por Fabrice Letellier (personalização Rolex/AP); 2022 novos donos e modelos próprios (XP1/XPE Tourbillon, Singularity, FL-One, P-One, Eternal, série H Blackstar). Catálogo atual conferido (31 relógios). Vermelha: personalizações sob encomenda e site antigo ilegível. Obs em M. Próxima: Blacksand Genève (200)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 184,
+   "marca": "Blacksand Genève",
+   "linha_marcas": 200,
+   "linhas_relogios": "23666-23689",
+   "relogios": 24,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 50,
+   "passadas": {
+    "1": {
+     "fontes": 50,
+     "novos": 24
+    }
+   },
+   "obs": "Genebra, 2011, Alain Mouawad. Uniformity Stratomatic (9 refs UN1.1), tântalo x2, Joaillerie (8 pç), Stratographe (UN1.2 x2 + ouro branco), Continuity Sea Turtle x3, Koala x4 (CTN.3), peças únicas Dragon e Ocean. Catálogo fechado conferido pela tag MasterHorologer (6 lançamentos). blacksandgeneve.com fora do ar (L). Logo Worldtempus. Obs em M."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 184,
+   "marca": "Blancarré",
+   "linha_marcas": 201,
+   "linhas_relogios": "23690-23697",
+   "relogios": 8,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 16,
+   "passadas": {
+    "1": {
+     "fontes": 16,
+     "novos": 8
+    }
+   },
+   "obs": "Suíça, 2016/2018, Nicolas Mertenat. 6 versões do quadrado de 37 mm (aBlogtoWatch) + 2 códigos da Ashford sem versão identificada (podem repetir). blancarre.com fora do ar (L). Sem logo. Obs em M."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 184,
+   "marca": "Blanchefontaine",
+   "linha_marcas": 202,
+   "linhas_relogios": "",
+   "relogios": 0,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 15,
+   "passadas": {
+    "1": {
+     "fontes": 15,
+     "novos": 0
+    }
+   },
+   "obs": "Fabricante private label (Bonfol, 1998, J.-F. Muller), sem modelos com nome próprio. Domínio expirado. 0 linhas; L e M gravados à parte (só L202/M202). Próxima: Blancier (203)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2381,25 +2438,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T11:41:38Z",
- "ultimo_sinal": "2026-10-21T11:52:56Z",
- "em_andamento": {
-  "marcas": [
-   "Blacksand Genève",
-   "Blancarré",
-   "Blanchefontaine"
-  ],
-  "linha_marcas": 200,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Blacksand Genève: pronta",
-   "Blancarré: pronta"
-  ],
-  "passada": 1,
-  "obs": "Blacksand e Blancarré prontas (historico); falta Blanchefontaine"
  }
 }
