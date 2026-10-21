@@ -13,3 +13,5 @@ Tratada como grande (personalizações + modelos próprios).
 - XP1 Swiss Made = XP1 Ultimate (mesma página). Coleção all tem 34 produtos; só 16 vistos (Load more). P-One R/B páginas CLIENT_ERROR. Faltam 18 produtos da coleção all: buscar por site:.
 - Carrossel XP1 LT Black: + XP1 Ti Centurion, Ti Red (xp1-ti-red), Romain Monti, Ti Rose Gold, XPW Aurora, Phantom x Ocarat. Wormhole lançado 14/10/2025.
 - CONFERÊNCIA catálogo atual: all=34 (31 relógios + 3 pulseiras); XP=24 (16 vistos + Gold, Ultimate, XPE x4, XPW x2 = 24); + Wormhole, Black/White Hole, FL-One x4 = 31. Fecha.
+## Fim da 1ª passada (85 fontes): últimas 3+ sem novidade. VERMELHA: personalizações sob encomenda (Rolex, AP, JLC, Omega) desde 2007 sem catálogo; site antigo blackoutconcept.com só JS; P-One e linhas antigas (Barakuda, Storm, Ocean Master) com variações não listadas; Chrono24 dealer não abre.
+## 2ª passada: alvo = personalizações, linhas antigas (Barakuda, Storm, Ocean Master, Stratos, P-One), FL-One, Singularity.
