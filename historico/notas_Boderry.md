@@ -11,3 +11,7 @@ Falta: mens p6, women, quartz, collections (hou, goldace, falcon, checkmate, eli
 - Sites clones/suspeitos: boderry.store, boderrywatches.com, boderryhq.shop (phishdestroy) — relatar.
 - Bloqueados (robots): aliexpress, amazon, kwartz.shop, horologystory.com.
 - Seções feitas: 1,2,2c,3,5(parcial),7,8. Falta: 4 catálogos (nada), 6 chrono24 (nada na busca), 9 imprensa, 10, 10b.
+- 1ª passada encerrada às 17:05 (últimas 3 fontes sem novidade: kickstarter FAQ, landmaster-chronograph, dream-watches).
+- DECISÃO: VERMELHO. Motivos: Urban Date (aço e titânio) vendido em "4 cores" sem cada cor listada; Urban Skeleton aço com cores não vistas;
+  cores limitadas do Kickstarter (Panda); AliExpress/Amazon (era 2019–2021) bloqueados. 2ª passada mira isso.
+- WatchPatrol /voyager/ pediu permissão (link tirado de WebFetch) — não repetir.
