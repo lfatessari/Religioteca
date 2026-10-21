@@ -297,7 +297,7 @@
 "code": "BF0004bn-BFSTB",
 "name": "Tabarca (nuevos modelos)",
 "img": "https://bobroff.es/wp-content/uploads/2024/01/BF0004bn-BFSTB.jpg",
-"feat": "Mergulhador 1000 m; Pulseira de borracha branca; visto só na Joyería Canovas (link da página)",
+"feat": "Masculino, aço, automático, safira, 100 atm, pulseira de borracha branca, coroa e mostrador laranja; visto só na Joyería Canovas (link da página)",
 "src": "oficial-nuevos"
 },
 "BF0004BN": {
@@ -465,7 +465,7 @@
 "code": "BF0002i",
 "name": "Tabarca (nuevos modelos)",
 "img": "https://bobroff.es/wp-content/uploads/2024/01/BF0002i.jpg",
-"feat": "Mergulhador 1000 m; visto só na lista da Joyería Canovas, sem foto (link da página)",
+"feat": "Mergulhador 1000 m; visto só na lista da Joyería Canovas, sem foto (link da página); automático, verde, 44 mm (Mimovrste)",
 "src": "oficial-nuevos"
 },
 "BF0002BV-BFSTN": {
@@ -612,7 +612,7 @@
 "code": "BF1002M25",
 "name": "Bobroff",
 "img": "https://watch2day.nl/cdn/shop/products/bobroff-chronograph-bf1002m25-products_35073_42406b.jpg?v=1696754485",
-"feat": "Masculino, pulseira de borracha branca; visto só na lista da Joyería Canovas, sem foto (link da página); Cronógrafo",
+"feat": "Masculino, pulseira de borracha branca; visto só na lista da Joyería Canovas, sem foto (link da página); Cronógrafo; unissex, quartzo, pulseira de borracha (Privalia)",
 "src": "canovas"
 },
 "BF1002L25": {
@@ -624,9 +624,9 @@
 },
 "BF0004I": {
 "code": "BF0004I",
-"name": "Bobroff",
+"name": "Tabarca",
 "img": "https://int.joyeriacanovas.com/bobroff-watches-a11f/",
-"feat": "Masculino, aço; visto só na lista da Joyería Canovas, sem foto (link da página)",
+"feat": "Masculino, aço; visto só na lista da Joyería Canovas, sem foto (link da página); Masculino, automático, mergulhador 1000 m, laranja, 44 mm, válvula de hélio; visto só na lista da Privalia (link da página)",
 "src": "canovas"
 },
 "BF0003I-BFSTN": {
@@ -759,14 +759,14 @@
 "code": "BF1001M65",
 "name": "Bobroff",
 "img": "https://watch2day.nl/cdn/shop/files/BF1001M65.jpg?v=1712934804",
-"feat": "Masculino, 44 mm, 10 atm",
+"feat": "Masculino, 44 mm, 10 atm; quartzo, pulseira de couro (Privalia)",
 "src": "w2d/canovas/tradeinn"
 },
 "BF1002M15": {
 "code": "BF1002M15",
 "name": "Bobroff",
 "img": "https://watch2day.nl/cdn/shop/files/BF1002M15.jpg?v=1713096230",
-"feat": "Masculino, 43 mm, 10 atm",
+"feat": "Masculino, 43 mm, 10 atm; quartzo, pulseira de aço e silicone, safira, 10 atm (PriceSpy)",
 "src": "w2d/canovas/tradeinn"
 },
 "BF0001-BFSTN": {
@@ -831,5 +831,33 @@
 "img": "https://www.accessoryhut.com/ladies-watch-bobroff-bf0031-36-mm.html",
 "feat": "Feminino, 36 mm, quartzo, pulseira de aço",
 "src": "title"
+},
+"BF0003BV-BFSTA": {
+"code": "BF0003bv-BFSTA",
+"name": "Tabarca",
+"img": "https://es.privalia.com/gr/b/bobroff",
+"feat": "Masculino, automático, pulseira de silicone; visto só na lista da Privalia (link da página)",
+"src": "privalia"
+},
+"BF0002IBVBF": {
+"code": "BF0002ibvBF",
+"name": "Tabarca",
+"img": "https://www.mimovrste.com/modne-ure/bobroff-ura-bf0002ibvbf-avtomatska-100170659177",
+"feat": "Masculino, automático, verde, 44 mm; visto só na Mimovrste (link da página)",
+"src": "mimovrste"
+},
+"BF0004IBNBF": {
+"code": "BF0004IBNBF",
+"name": "Tabarca",
+"img": "https://www.compari.ro/ceasuri-c65/bobroff/bf0004ibnbf-p1135819774/",
+"feat": "Visto só no título de comparador de preços (link da página)",
+"src": "compari"
+},
+"BF1002M65": {
+"code": "BF1002M65",
+"name": "Bobroff",
+"img": "https://cdn.pji.nu/product/standard/800/3619008.jpg",
+"feat": "Masculino, cronógrafo de quartzo, 43 mm, safira, pulseira de borracha, 10 atm",
+"src": "pricespy"
 }
 }
