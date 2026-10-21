@@ -22,3 +22,4 @@
 - Imagens heureka: img-cdn.heureka.group/v1/<uuid>.jpg (sem width)
 - DECISÃO REVISTA: Bohematic leva as 3 linhas criadas na era Bohematic (Graphic Sutnar, Minor, Aerodynamic) com TODAS as variantes, inclusive as vendidas depois como 'Robot by Bohematic'; linhas novas da era Robot (Aplos, Albatros, Ida, Spectra, Robotic One, Graphic Analog, Artisan, Skywatch, Legends?) ficam para Robot (1170).
 - 1ª passada encerrada: 3 fontes seguidas sem novidade (UTB pdf, gdnonline, helveti graphic-sutnar). VERMELHA: edições privadas/corporativas e configurador (personalização) não listáveis; Expo/Falcon sem foto. 2ª passada: edições limitadas/privadas, códigos faltantes.
+- 2ª passada: 12 fontes, 1 novo (Minor Le Mans 58). Parou: <5 novos, sem 3ª. FliegerFriday x Micro Praha LE (50) e Legends Mašín (32) = linhas novas Robot -> ficam p/ Robot.
