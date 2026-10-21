@@ -2274,5 +2274,22 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-21T07:41:59Z",
+ "ultimo_sinal": "2026-10-21T07:41:59Z",
+ "em_andamento": {
+  "marcas": [
+   "BijouMontre",
+   "Biver",
+   "Black Belt Watch"
+  ],
+  "linha_marcas": 195,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "obs": "dimensionando"
  }
 }
