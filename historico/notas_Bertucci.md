@@ -29,3 +29,4 @@
 ## Fim da 1ª passada (02:20 UTC): 3 fontes seguidas sem novidade (opticsplanet, gearpatrol, theslenderwrist). Marca VERMELHA: centenas de referências de 5 dígitos ao longo de 20 anos, páginas 12–19 de collections/all da loja oficial não alcançadas, páginas 3–6 da Long Island Watch bloqueadas, várias páginas do site antigo bloqueadas; muitas fotos não obtidas.
 ## 2ª passada: alvo = buracos de numeração, linhas antigas (A-2T Field Colors/ProColor, M1-T, A-2S Ventara, Commando Camo, Women's Sport, A-5P, B-1T, G-1T, D-1T), Collectors Corner p2, Studio Builds p2, fotos.
 - 2ª passada: bertucciwatches.com/Bertucci/titanium.html e Amazon B-1T bloqueados (robots); não contados.
+## 2ª passada encerrada 02:24 (≥10 fontes, ~22 novos incluindo títulos de busca) → 3ª passada
