@@ -8,3 +8,5 @@
 - SCMP: Voglia ouro com diamantes; Ouni 5 estilos.
 - Europa Star brand index: europastar.com/brand-index/1004082984-bertolucci.html (link de página, precisa busca)
 - Antiquorum HK 13th 2024: lotes 13-20 Bertolucci NOS na pág 1; checar páginas seguintes (lotes 21+). Stria III 11513... = erro de digitação de 1513.50.45.B88.6C1.501 (já tenho)
+## Europa Star swisstime (fichas a alcançar por busca site:)
+Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uomo Large, Mini Vir Jewellery, Serena Steel, Le Bouquet Serena Joaillerie, Uomo Bicolor, Uomo Gold, Vir Joaillerie, Uomo Medium, Vir Ladies et Mini Vir Ladies, Serena, Uomo Steel, Eternelle Preciosa, Mini Poésie (x2), Serena, Vir Maris (x2), Bertolucci (vários), Pretiosa, Vir Large, Maris, Dea, Chronographe Vir, Pulchra Joaillerie, Genus 1, Genus 2, Pulchra (x2), Docta, Oldtimer
