@@ -2494,12 +2494,11 @@
   }
  },
  "em_execucao": "2026-10-21T14:41:09Z",
- "ultimo_sinal": "2026-10-21T14:46:32Z",
+ "ultimo_sinal": "2026-10-21T14:52:22Z",
  "em_andamento": {
   "marcas": [
    "Blok",
-   "Blonie",
-   "Blu"
+   "Blonie"
   ],
   "linha_marcas": 205,
   "grande": false,
@@ -2507,9 +2506,11 @@
   "fontes": "historico/parcial_Blonie_fontes.txt",
   "notas": "historico/notas_Blonie.md",
   "secoes_feitas": [
-   "Blok: todas (1-10b)"
+   "Blok: todas",
+   "Blonie: 1,2,2c parcial,5"
   ],
   "passada": 1,
-  "blok_pronta": "historico/dados_Blok.txt + historico/marca_Blok.json"
+  "blok_pronta": "historico/dados_Blok.txt + historico/marca_Blok.json",
+  "obs": "Blonie tratada como grande; Blu (207) fica para a próxima"
  }
 }
