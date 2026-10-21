@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 210,
-  "ultima_versao": 189,
+  "proxima_linha_marcas": 211,
+  "ultima_versao": 190,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2558,6 +2558,19 @@
       "site_bloqueado": false,
       "fontes_abertas": 104,
       "obs": "tratada como grande (site com ~176 relógios publicados + escondidos); passadas 73/17/14 fontes, 220/6/3 relógios; Amazon, AliExpress, kwartz.shop, horologystory e watchpolice bloqueados (robots); WatchPatrol /voyager/ pediu permissão; Boegli fica para a próxima"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 190,
+      "marca": "Boegli",
+      "linha_marcas": 210,
+      "linhas_relogios": "24879-25016",
+      "relogios": 138,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes_abertas": 175,
+      "obs": "tratada como grande (site oficial boegli.com com 57 modelos + linhas antigas Grand Festival/Grand Orchestre com dezenas de refs); passadas 142/20/13 fontes, 141/9/2 relógios novos; site da coluna G errado (oficial boegli.com); Bohematic fica para a próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

@@ -21,3 +21,5 @@ Catálogo antigo de bolso confirmado na pocketwatch-shop.jp (M.1/R,1/A,10/R,10/A
 6. Edições limitadas na B com nº; sem peças únicas.
 7. ~148 fontes na 1ª passada.
 VERMELHA: a linha Grand Festival (M.700–M.793) e Grand Orchestre têm dezenas de referências vistas só por número; Union Jack (3 modelos sem nome); refs antigas 700.xxxx. → 2ª passada.
+## 2ª passada encerrada (4 seguidas sem novidade). Trouxe 9 novos (>=5) → 3ª passada.
+História (montre24): fábrica fundada em 1904 por Louis Schwab em Moutier, primeiro chamada Swiza; neto Jacques Boegli; filho François criou os relógios musicais Boegli. Bolsos citados: Russia, Grand Amour, Jacques du Manoir.

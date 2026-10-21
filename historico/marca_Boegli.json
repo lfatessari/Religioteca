@@ -1,0 +1,887 @@
+{
+ "marca": "Boegli",
+ "usa_codigos": true,
+ "logo": "https://boegli.com/cdn/shop/files/logo.svg?v=1679392861&width=137",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G errado: site oficial é boegli.com (boegli.ch não existe). C: sede atual em Biel/Bienne (Moutier é a origem da família, fábrica Swiza de 1904). I: marca Boegli criada em 2000 por François Boegli (não 1990); raízes em 1904 (Louis Schwab/Swiza). J: 'Fantasia' e 'Rhapsody' não encontradas; 'Symphony' = Symphonia; coleções atuais: Grand Opéra (pulso), Baroque, Adagio, Concerto, Soprano, Symphonia, Composers, National Anthems, Four Seasons, The Godfather (bolso); antigas: Grand Festival, Grand Orchestre, Grand Tenor, Serie Zero, Union Jack.",
+ "fontes": [
+  {
+   "url": "https://www.syohbido.co.jp/en/products/boegli-101",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisiteandrare.com/Boeglicover.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ablogtowatch.com/boegli-grand-opera-limited-edition-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/symphonia-luxus-taschenuhr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/boegli-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/boegli-releases-serie-zero",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/boegli-grand-festival-8643.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/un-reloj-de-bolsillo-unico-del-concerto.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/wunderschoene-herrentaschenuhr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/gold-plated-desk-travel-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/beautiful-pocket-watch-decorated-with-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/reich-verzierte-taschenuhr.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/a-richly-decorated-pocket-watch-1.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/luxury-pocket-watch-lockable.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/gold-and-white-pocket-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/vintage-taschenuhr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/a-unique-boegli-pocket-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/boegli-pocket-watch-absolutely-unique.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/a-unique-lockable-boegli-playing-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxury.mdssoftware.pl/en/elegant-men-s-pocket-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/adagio-herrentaschenuhr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/boegli-herrentaschenuhr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/reloj-gran-opera-suiza-aida.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxury.mdssoftware.pl/en/a-beautiful-lockable-playing-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/elegante-herrentaschenuhr.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/elegante-taschenuhr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/a-beautiful-men-s-pocket-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/beautiful-baroque-pocket-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/luxury-men-s-watch.html?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/swiss-men-s-watch-grand-opera-chopin.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/reloj-de-bolsillo-barroco-unico-decorado-con-oro.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/226995095276",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/5485017-boegli-grand-festival-musical-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://techcrunch.com/?p=212410",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/boegli-serie-zero-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.en.anticstore.com/126184P",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/boegli-mouvement-musical-mozart-fl%C3%BBte-enchant%C3%A9e.276823/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1004085600-union-jack-by-boegli.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.orologioblog.net/en/boegli-collezione-union-jack/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=3956",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/reloj-boegli-musical.114329/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m912",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/pages/introduction",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m901",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m903",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m905",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m906",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m907",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m908",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m910",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m911",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m913",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m914",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m902",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m900",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m904",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m915",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/collections/wrist-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://boegli.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/collections/pocket-watches",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://boegli.com/collections/baroque",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/collections/concerto",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/collections/symphonia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/collections/national-anthems",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/collections/the-godfather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m20-be",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m20-mo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m20-ch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m60-ch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/is231",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/us234",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/kz232",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/mgf250w",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m40-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m132",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m121-le-summer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m60",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m124",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/collections/four-seasons-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m10-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m135",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m122",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m81-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m133",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m131",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m130",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m62-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m120",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m909",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/products/m123",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m121",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/mgf250b",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m80-a",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boegli.com/products/m917",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/product-category/pocket-watches/soprano/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boegli.com/product-category/pocket-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://boegli.com/shop/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxpodarki.ru/en/catalog/chasi/naruchnye_chasy/naruchnye_chasy_muzhkie/naruchnye-chasy-muzykalnye-grand-festival-m782.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.presentwatch.com/boegli/782421.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sovogue.ch/en/men-s-watch-boegli-grand-opera-m900-rose-pvd-musical-watch-mozart.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sovogue.ch/en/brands/boegli-pocketwatch-buy.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sovogue.ch/en/brands/boegli-pocketwatch-buy/grand-opera-pocketwatch-collection.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sovogue.ch/en/pocket-watch-boegli-symphonia-m136.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://montre24.com/Boegli/Pocket-Watches/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://sunflowerman.com/blog/boegli-m900-mozart",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montredo.com/blogs/magazine/boegli-watch-grand-opera",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montredo.com/blogs/magazine/boegli-pocket-watches-a-leap-into-the-past-yet-with-timeless-style",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Boegli-Watches/31387/bn_80610770",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/p/2226932550",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shopemco.com/products/boegli-men-grand-festival-automatic-stainless-steel-caramel-leather-watch-m-732",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.liveauctioneers.com/en-gb/item/21288696_boegli-mens-watch-grand-festival-vivaldi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/27069744645?iid=166878878818",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/146357825279",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://montre24.com/Boegli/Grand-Orchestre/",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.095shop.ru/naruchnye-chasy/boegli-m-701.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxpodarki.ru/catalog/brands/boegli.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2008/05/08/boegli-grand-festival-collection-2008-mechanical-music-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shopemco.com/products/boegli-mens-grand-festival-automatic-rose-gold-plated-black-leather-watch-m-750",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shopemco.com/products/boegli-mens-grand-festival-automatic-stainless-steel-brown-leather-watch-56572",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxpodarki.ru/catalog/chasi/naruchnye_chasy/naruchnye_chasy_muzhkie/casy-narucnye-muzykal-nye-grand-festival-boegli_new.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.myjewels.ru/product/Chasy_naruchnye_muzykalnye_Boegli,_Shveytsariya_va_m.732/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/05/08/boegli-grand-festival-classic-rock-limited-edition-mechanical-music-watches-eta-2660-skeleton-calibre-with-17-notes-musical-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lux-fair.ru/category/brands/yuvelirnye-ukrasheniya-b/boegli",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://allwatches.org/de/boegli/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://boegli.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxpodarki.ru/en/catalog/brands/boegli.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lux-fair.ru/product/m43israel-chasy-karmannye-boegli/D6odz3m0",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://luxpodarki.ru/catalog/chasi/karmannye_chasy/karmannye_chasy_muzykalnye_grand_tenor_m102.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lux-fair.ru/category/yuvelirnye-ukrasheniya/muzhskie-y/chasy-naruchnye-m",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blog.syohbido.co.jp/boegli-musicbox-pocketwatch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pocketwatch-shop.jp/boegli.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://item.fril.jp/bd85a860e5df836e2d60a1461579722a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/boegli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/boegli/grand-festival-vivaldi-four-seasons/watch-9303782",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.musichouseshop.com/store/product5293.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kuldkroon.ee/en/toode/mozart-pocket-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alscher.ch/de/uhren_boegli.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://swisstime.co/en/boegli/?action=12&cat=2303",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.musichouseshop.com/store/BoegliM120.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/444798173",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=RblySPJ7Lys",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://rutube.ru/video/319bdcaee14a1e562b6a06d1c71c838e/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://forum.watch.ru/showthread.php?t=142347",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://www.pam65.ru/brand.php?name=Boegli&epag=Boegli",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boegli-dewitt/boegli-grand-orchestre-vivaldi-automatic-m-605-v-pre-owned",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=RoE5u39H2vQ",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://rutube.ru/video/b34cdba5c57b28401422fb869cc439af/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boegli-watches",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boegli-watches-ab20683f-71e5-422c-acc9-df6743aad8b3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boegli-more",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timecube.ru/tablica_podzavoda_chasov/boegli/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.presentwatch.com/boegli/800933.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.liveauctioneers.com/price-result/boegli-m553-grand-orchestre-musical-watch-mb/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worthpoint.com/worthopedia/reuge-boegli-musical-pocket-watch-728796859",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.ph/boegli/index.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://trademarks.justia.com/owners/montres-boegli-sa-2064805",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kreativ-exclusiv.com/product-page/boegli-grand-opera-limited-99-pieces",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoscope.ru/2012/08/boegli-grand-opera-le/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://data.epo.org/gpi/EP3537229B1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Boegli-Mechanical-Automatic-Wristwatches/31387/bn_80633304",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Boegli-Watches-Parts-Accessories/260324/bn_81201652",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://rutube.ru/video/ae4c0950f480fa7347a37f7b3977c1d6/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Boegli-Analog-Wristwatches/31387/bn_80622183",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/168132372083",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.veraclasse.it/viaggi/collezione-grand-festival-di-boegli_11171/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://orafix.it/blog/articoli/boegli-il-marchio-di-orologi-che-rendono-omaggio-alla-musica-classica.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "http://montre24.com/brand/Boegli/Boegliwatch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=V7eRflc113k",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.swiss-knife.com/en/watches-clocks/boegli-watches.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.swiss-knife.com/en/watches-clocks/boegli-watches/pocket-watches/jacques-du-manoir-pocket-watch-42.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.swiss-knife.com/en/watches-clocks/boegli-watches/jacques-du-manoir-pocket-watch-36.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pinterest.com/pin/221872719114351538/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
