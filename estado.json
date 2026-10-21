@@ -2154,7 +2154,7 @@
     }
   },
   "em_execucao": "2026-10-21T03:41:17Z",
-  "ultimo_sinal": "2026-10-21T03:41:17Z",
+  "ultimo_sinal": "2026-10-21T03:48:09Z",
   "em_andamento": {
     "marcas": [
       "Bexei",
@@ -2166,7 +2166,9 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "Bexei: todas (1ª passada encerrada)"
+    ],
     "passada": 1
   }
 }
