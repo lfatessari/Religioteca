@@ -2118,7 +2118,7 @@
     }
   },
   "em_execucao": "2026-10-21T01:41:18Z",
-  "ultimo_sinal": "2026-10-21T01:41:18Z",
+  "ultimo_sinal": "2026-10-21T01:45:11Z",
   "em_andamento": {
     "marcas": [
       "Bertucci"
@@ -2128,7 +2128,9 @@
     "relogios": "historico/parcial_Bertucci_relogios.txt",
     "fontes": "historico/parcial_Bertucci_fontes.txt",
     "notas": "historico/notas_Bertucci.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
