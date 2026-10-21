@@ -24,3 +24,4 @@
 - eBay /p/ só trouxe a imagem placeholder 7WgAAOSwQ7haxTU1 (não usada); ebay /b/ falhou.
 - História: fundada 2003 por Michael (Mike) Bertucci, vendas desde 2004; 1º modelo = A-2T Original Classics (2004) (watchprojects 2012). A-2R = DX3 Field (resina). Mascote Enzo (fox terrier).
 - Seções feitas: 1,2,2c,3(parcial),4 (nenhum catálogo PDF achado; só manuais),5,6 (Chrono24 vazio),7 (watches.com, watchco, LIW, windup, northriver, outland),8 (eBay só placeholder; WatchCharts)
+- PROVENANCE_REQUIRED: wornandwound ballista (link tirado de página). Não repetir.
