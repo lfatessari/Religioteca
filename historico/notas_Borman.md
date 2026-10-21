@@ -13,3 +13,7 @@ Dimensionar: pequena/obscura. G vazio, sem pais.
 - BM3541 (made-in-china, 41,5x11 moonphase 28800, img image.made-in-china.com/2f0j00wEAqynCJiabc/...jpg)
 - 1ª passada encerrada com 25 fontes; últimas 7 sem novidade. Moon Phase 41,5 Hangzhou (bobs) = provavelmente BM3541. Falharam: amazon (robots), aliexpress item (robots), westieswatches (robots), watchuseek thread movimento (erro), ebay.de itens (erro), gressive.
 - Decisão: VERMELHA (marca de AliExpress/JD com muitos SKUs; Amazon e lojas AliExpress não abrem). 2ª passada: AliExpress/JD/Tmall/Amazon via busca, lojas por país.
+- 2ª: 3537 = 远航系列 (série Yuanhang/Viagem), JD 1288 yuan (smzdm). 3868 confirmado. fumw.com e amazon falharam.
+- SITE OFICIAL bormanwatch.com (achado na 2ª): home e find.html em loop https->http (bloqueado); fichas de produto abrem. Logo: https://img.alicdn.com/imgextra/i2/1753051500/O1CN01VoaIV31Mx2iIZh8Em_!!1753051500.png. Loja Tmall borman.tmall.com.
+- Menu "腕表系列": BM-3801 (801系列, ¥1180), 3537, 3541 (¥1580), 3739 (¥1380), 3901 (¥1480), 3902 (¥1680-1780), 3903 (¥1680-1780). Busca site: também 3561 e 3817 (não abrem, loop). Imagem: bormanwatch.com/products/<n>/sku/0.png. Fichas usam texto-modelo (40mm, ref 215.32.43.21.04.001 repetida) -> não usar o código nem confiar no diâmetro.
+- 801 (grmontre) = BM-3801.
