@@ -1,0 +1,847 @@
+{
+ "marca": "Borealis",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "J: 'Sei He Ki' não encontrado em nenhuma fonte; J/I omitem linhas importantes (Bull Shark, Sea Storm, Adraga, Neptuno, Sintra, Olisipo, Porto Covo). C: a imprensa (aBlogtoWatch 2026) situa a marca perto de Lisboa, não em Maia (Porto) — verificar. I: 'ativa desde meados dos anos 2010' ok (1º modelo visto: Scout Sniper/Sea Hawk, 2014; WatchCharts/WatchPatrol dizem 'China, 2013', o que parece errado). Atenção: existe a loja borealiswatchcompanyhq.shop que se apresenta como Borealis (provável clone).",
+ "fontes": [
+  {
+   "url": "https://www.borealiswatch.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/all",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/borealis-bull-shark",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/borealis/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/borealis",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/all/jamanta",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/microbrand-watch-collection",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/diver-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/new-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/all/miyota-9015",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/blogs/microbrand-borealis-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/blogs/microbrand-borealis-watch/tagged/diver-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/blogs/microbrand-borealis-watch/tagged/open-heart",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/blogs/microbrand-borealis-watch/tagged/miyota-9075-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatch.com/store/Borealis-Cascais-c20690194",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/brands/borealis/reviews/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/watch-review-borealis-sea-dragon/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=406",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.fratellowatches.com/checking-out-the-borealis-portus-cale-a-highly-specd-and-affordable-diver/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/hands-on-the-borealis-porto-covo-nazare-edition-dive-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/borealis-batial-watch-review/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchreport.com/borealis-seafarer-dive-watch-review-and-video-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchreport.com/?p=23156",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchreport.com/borealis-bull-shark-watch-review/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wristwatchreview.com/introducing-borealis-umi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/borealis-sea-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/borealis-goes-exploring-the-new-adraga-is-open-for-pre-order",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/hands-on-with-borealis-cascais-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.borealiswatch.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/borealis-sintra",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.watchreport.com/brands/borealis/reviews/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=758",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/borealis/estoril-300/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/borealis/sea-storm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/borealis/cascais/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/borealis/sea-dragon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=313",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=405",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=436",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=390",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/borealis-sea-hawk-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/introducing-borealis-sea-storm-mk2-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2021/01/20/other-watchy-bits-borealis-neptuno/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/%C2%BFborealis-har%C3%A1-realidad-mis-sue%C3%B1os-m%C3%A1s-h%C3%BAmedos-estoril-300m.376587/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=694",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/borealis-sea-storm-v2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/borealis-sea-dragon-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.carousell.sg/borealis-watch/q/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristwatchreview.com/limited-edition-the-bronze-borealis-adraga-watch-big-bold-bronze",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchreport.com/tag/borealis-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.lowyat.net/topic/5379083",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1752276",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-adraga-snow-flake-dial-39mm-tipo-rolex-explorer-i.589748/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-sea-hawk-1500m-azul-el-primero-en-fcv.460690/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/diver-borealis.413978/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/borealis-estoril-300-dw-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/pre-owned-archive/products/borealis-estoril-300-dw-pre-owned-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/borealis-sea-storm-mk2-gmt-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/borealis-bull-shark-v2-white-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/borealis-neptuno-white-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/borealis-sea-dragon-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-medusa.403534/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blog.onparticipe.fr/products/borealis-neptuno-driver-watch/20315308",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1757652",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/listing/1942612/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/listing/1992486/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/listing/1942476/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1717196",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1697748",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.borealiswatch.com/pages/borealis-bull-shark-landing-page",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatch.com/en-gb/collections/diver-watches/neptuno",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatch.com/store/Diver-Watches-c6645472",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/store/Borealis-Olisipo-Teal-Blue-BF1-Date-Miyota-9015-p154953011",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/diver-watches/umi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatch.com/en-ca/products/pre-order-borealis-sea-storm-mk2-random-rob-special-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-icarus-cerakote-pilot-watch-swiss-ronda-r150-automatic-movement",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listings/brand/borealis",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchcharts.com/listing/2088400-borealis-olisipo-teal-blue-date-bobf1date-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/2895258-borealis-olisipo-dive-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://il.ebay.com/b/Borealis-Watches/31387/bn_72955084",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://br.ebay.com/b/Borealis-Watches/31387/bn_72955084?_pgn=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://steinhart-zegarki.pl/pl/p/OLISIPO-LIGHT-BLUE-NO-DATE/404",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/18044293242",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/19053300844",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Borealis/bn_7064043709",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojesexclusivos.com/en/brand/borealis/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wshop360.com/collections/borealis-watch-company",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchintyme.com/index.php?threads/the-borealis-sea-storm-in-cusn8-bronze-edition-is-now-open-for-pre-order-nh38-or-nh35-390-00.719753/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-bull-shark-negro-2000m.545511/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-bull-shark-azul-no-date.441340/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-scorpionfish-negro-agujas-plongeur.381255/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/umboxing-borealis-sea-storm.444378/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/9058183316",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1639570",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/443939256",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/de/eintrag/1665118/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/borealis/bull-shark/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/borealis/porto-santo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-lumed-dial-red-green-bezel-big-triangle-no-date-version-f-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-lumed-dial-red-green-bezel-arabic-numbers-date-version-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-blue-dial-big-triangle-blue-red-bezel-version-g1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-black-dial-arabic-numbers-date-version-i",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-blue-dial-arabic-numbers-date-blue-red-bezel-version-c",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-blue-turquoise-dial-arabic-numbers-date-version-d",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-blue-turquoise-dial-big-triangle-version-h1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-black-dial-big-triangle-no-date-version-i-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatch.com/search?q=miyota+gmt*&type=product",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatch.com/en-gb/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/best-selling-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-porto-covo-nazare-cerakote-diver-watch-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/borealis-porto-covo/cerakote",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-black-dial-arabic-numbers-black-red-bezel-date-version-k",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-black-dial-big-triangle-yellow-bezel-version-e1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-estoril-300-gmt-lumed-dial-arabic-numbers-date-version-j",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-caloura-diver-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/pre-order-borealis-caloura-300m-blue-sunburst-dial-date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-bull-shark-v2-black-dial-black-snow-pattern-snow-flake-hands-date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/borealis-seafarer-ii-depth-rated-13142-feet",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/borealis-bullshark-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thetimebum.com/?p=596",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/borealis-sea-hawk-great-looking-affordable-diver",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristwatchreview.com/brightening-up-with-the-borealis-porto-santo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/Matt84/reviews/borealis-sintra-review-21573",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-cascais.441903/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-batial.377646/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-sea-dragon.435424/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-neptuno.544022/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-sea-storm-v2-azul-nuevo.482008/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/es/listado/1890052/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2132051/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/2144946/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-adraga-dial-negro-numeros-dorados-39mm-tipo-rolex-explorer-i.602473/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-sea-storm.522788/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/borealis-bullshark.440039/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zaltekreviews.com/borealis-neptuno/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.oramagazin.hu/borealis-neptuno/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.extropian.co/watches-index-1-2000",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.extropian.co/watches-index-2001-4000",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/products/borealis-porto-covo-diver-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchrecon.com/?brand=borealis",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatch.com/store/Pre-order-c14605010",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://borealiswatchcompanyhq.shop/store",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatch.com/collections/borealis-sea-storm-mk2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=TdWXbyrVhFc",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christopherwardforum.com/other-brands/borealis-santa-cruz-cusn8-automatic-diver-watch-t48799.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://thesutorhouse.com/product/borealis-navale-bronze-fumed-green-dial-300m-diver-42mm-miyota-automatic/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/722314-borealis-santa-cruz-bronze-diver-watch-type-nh38-automatic-movement",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/153136/borealis-estoril",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/listing/718902-fs-borealis-cascais",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.microbrandhub.com/brands/borealis",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2016/01/borealis-estoril-300-prototypes.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rolexforums.com/showthread.php?t=640300",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/2841591-borealis-estoril-300-seamaster-black-dial-date-automatic-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/5276269-borealis-sea-storm-v2",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/listing/6315145-borealis-adraga",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/760804-wts-borealis-estoril-300",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/listing/8431543/300-usd-fs-borealis-estoril-300",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/7872883-borealis-estoril-300-divers-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/36083684-borealis-scorpionfish-v2",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/2733404-borealis-scorpionfish",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/1499091-borealis-sea-storm-v2-automatic-diver-watch-extra-strap",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/14546137-borealis-estoril-300-gmt-sm300-homage-traveler-gmt",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatchforum.com/threads/borealis-medusa-500m-lugless-diver-watch.4889/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.borealiswatchforum.com/tags/miyota-9015/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/2018/11/04/borealis-sea-storm-v2-review/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/2545270/borealis-batial-bronze-cusn8-brown",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

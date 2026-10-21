@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 215,
-  "ultima_versao": 193,
+  "proxima_linha_marcas": 216,
+  "ultima_versao": 194,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2630,6 +2630,24 @@
         "3": "10 fontes/0"
       },
       "obs": "site oficial só alcançável por páginas que aparecem em busca; EveryWatch 884 anúncios (737 vendidos não abertos); Liverpool 139 itens, só pág. 1; J 'Spider Neon' não encontrado"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 194,
+      "marca": "Borealis",
+      "linha_marcas": 215,
+      "linhas_relogios": "25580-25734",
+      "relogios": 155,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes_abertas": 167,
+      "passadas": {
+        "1": "135 fontes/135 relógios",
+        "2": "19 fontes/17 relógios (parte via títulos de busca de sites com robots)",
+        "3": "13 fontes/3 relógios"
+      },
+      "obs": "usa códigos só em parte (Bull Shark V2 BBSV2xx, Estoril GMT/Sea Storm MK2/Sintra 'Version', Olisipo BxF1) → usa_codigos=false; Jamanta é Prometheus (não entrou); sem logo; J 'Sei He Ki' não encontrado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2641,33 +2659,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-21T21:41:51Z",
-  "ultimo_sinal": "2026-10-21T22:18:48Z",
-  "em_andamento": {
-    "marcas": [
-      "Borealis"
-    ],
-    "linha_marcas": 215,
-    "grande": true,
-    "relogios": "historico/parcial_Borealis_relogios.txt",
-    "fontes": "historico/parcial_Borealis_fontes.txt",
-    "notas": "historico/notas_Borealis.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a"
-    ],
-    "passada": 3
   }
 }
