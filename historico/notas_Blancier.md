@@ -13,3 +13,6 @@
 - VERMELHO: configurador com ~470.000 combinações + encomendas sob medida -> 2ª passada.
 - 2ª passada: One Glance (2014, um ponteiro), Worldtimer BWT 1 (2007, 3 caixas), regulador ouro turbilhão peça única. Crazy Planet ~6.000 euros, limitado. Configurador de ~900 a ~40.000 euros (turbilhões no topo).
 - 2ª passada: 14 fontes, 6 novos -> 3ª passada obrigatória. Lenzkircher Paten Uhr = Lottermann (não Blancier?), fora. blancier.de citado.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: site não alcançável; página de novidades da Lottermann lida (Regulator, Crazy Planet, Weltzeit 1). 2. §2c: impossível (site não indexado). 3. Lojas: nenhuma loja vende a marca hoje. 4. Primeiro modelo: configurador de 2005 (relógio de usuário 2005/2017 entrou como "Configurado com Molnija"). 5. I/J: Gerard te Kaat não encontrado; Grand Cru achado. 6. Crazy Planet limitada na B; regulador ouro peça única em E. 7. 55 fontes (1ª 34, 2ª 14, 3ª 6 sem novidade - a web acabou).
+- Fora: Poker Face (fonte não confiável), Lenzkircher Paten Uhr (Lottermann, não Blancier), Pixie (máquina Nespresso).

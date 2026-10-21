@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 203,
- "ultima_versao": 184,
+ "proxima_linha_marcas": 204,
+ "ultima_versao": 185,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2427,6 +2427,33 @@
     }
    },
    "obs": "Fabricante private label (Bonfol, 1998, J.-F. Muller), sem modelos com nome próprio. Domínio expirado. 0 linhas; L e M gravados à parte (só L202/M202). Próxima: Blancier (203)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 185,
+   "marca": "Blancier",
+   "linha_marcas": 203,
+   "linhas_relogios": "23698-23711",
+   "relogios": 14,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 54,
+   "passadas": {
+    "1": {
+     "fontes": 34,
+     "novos": 10
+    },
+    "2": {
+     "fontes": 14,
+     "novos": 6
+    },
+    "3": {
+     "fontes": 6,
+     "novos": 0
+    }
+   },
+   "obs": "Holandesa (Willem Kamerman, 2005), feita pela Lottermann & Söhne (Mannheim). Configurador ~470.000 combinações -> vermelho. Worldtimer BWT 1 x3, Crazy Planet, Grand Cru (Nespresso), Desert Wolf, One Glance, Regulator, Coin Edge, Pilot, Seminar etc. 3ª passada só 6 fontes: a web não tem mais nada. Blancpain (204, grande) fica sozinha na próxima. Obs em M."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2438,31 +2465,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T12:41:34Z",
- "ultimo_sinal": "2026-10-21T12:52:26Z",
- "em_andamento": {
-  "marcas": [
-   "Blancier"
-  ],
-  "linha_marcas": 203,
-  "grande": false,
-  "relogios": "historico/parcial_Blancier_relogios.txt",
-  "fontes": "historico/parcial_Blancier_fontes.txt",
-  "notas": "historico/notas_Blancier.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
  }
 }
