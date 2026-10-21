@@ -8,3 +8,4 @@ Tratada como grande (vintage + muitas referências BEU).
 - BPlus comprou Beuchat Chronographes em jan/2002 (licenças Serge Blanco, Caroll, Speedo). Watch-wiki fala em C. Beuchat SA 1905; dialicious/diveavenue em 1904 (Constant Beuchat). Coluna I fala só de 1934 (mergulho).
 - Amazon.fr: robots (não abre); títulos só pela busca. Boutikenvogue: robots; títulos só pela busca.
 - Coleções de 2011 (bijourama/190): Abyss, Apnea, Atlantis, Revolve, Big Hero, Cadène, Cap 100, Chrono Diver, Grand Racer, Hero, Horizon, Lumitech, Murena, Nautyl, Overstep, S-Bike, Scubatech, Seagul. Catálogo Ushuaïa 1992 (eBay).
+- mode-in-motion: robots. cdiscount: só casca JS. vvanat: erro.
