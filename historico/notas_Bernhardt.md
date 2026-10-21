@@ -3,3 +3,6 @@ Site Shopify bernhardtwatch.com; coleções não aparecem em busca (só manifest
 Manifest = conversões de movimentos de bolso antigos -> peça única (número = nº do movimento?).
 Achados: ver parcial_Bernhardt_relogios.txt
 - Linhas de encomenda (contract/custom: MARSOC, NCIS, Greenville PD, K-9, 101st Airborne, universidades, xerifes, FBI) — muitas sem página pública -> candidato a vermelho
+## Passada 1 encerrada (3 fontes seguidas sem novidade: W&W p=101264, Starboard bracelet, WatchPatrol 1963693)
+Decisão: VERMELHA — relógios de encomenda (MARSOC, NC/GA Wildlife, xerifes, FBI, NCIS, HPU, NCSU, Wake Forest) sem página pública; Sea Shark em 5 cores sem nome; Binnacle Retro 3 cores; Corsair GMT só citado em vídeo.
+## Passada 2 (alvo: encomendas, Corsair GMT, cores Sea Shark/Retro, Ladies Diver, Globemaster)
