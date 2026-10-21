@@ -1,0 +1,9 @@
+# Biatec (linha 193)
+- Bifora (194) é grande (manufatura 1902, vintage enorme) -> bateria só Biatec.
+- Site G biatec.watch não aparece em busca (procurar). Códigos: híbrido (CS 01 N, Vintage 02, 01 F); usa_codigos=false (nome+número identificam).
+- Helveti: 75 produtos (60 na p1, 32 relógios); p2 ?strana=2 a buscar. Variante branca CS30B vista na ficha CS30M.
+- Coleções Helveti: Corsair, Exclusive, Heritage, Leviathan, Magnifique, Majestic, Marine (+ Fusion, Dark Sky).
+- SITE REAL: biatecwatches.com (G "biatec.watch" errado). Empresa Biatec Watches s.r.o., Zvolen (não Bratislava). Logo https://files.cdn-files-a.com/uploads/5448711/400_6a72f4af11a31.png
+- Site: 35 atuais (8 coleções) + 35 descontinuados (lista completa nas fontes). Pendentes sem foto: Marína Set (100 sets), Bratislava LE50 silver/rosegold, CS TAMI, Magnifique 03, Majestic 01 N, 02 N, Heritage First Edition, Corsair CS 01/02/03 F, CS SE 01/02, CS30B, Corsair 01-05 Premium (03F Premium), CS 01-05 Premium, Golden Ratio LE 01-05, Majestic 01-05 Premium, Marine 03, Majestic 01 F, Leviathan 02, 03, Night Sky, M.R.Stefanik LE100, Magnifique LE50 original, Vintage 05, Majestic 02 F, Leviathan 01 (sem F?), Marine 01/02 (sem N, Helveti).
+- 1º modelo (aBlogtoWatch 2017): Majestic 02 (Eterna 3901A) e Corsair 01-05 -> correspondem aos "Premium"?
+- Seções feitas: 1, 2 (parcial).
