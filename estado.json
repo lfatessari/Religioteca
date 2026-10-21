@@ -2467,7 +2467,7 @@
   }
  },
  "em_execucao": "2026-10-21T13:42:11Z",
- "ultimo_sinal": "2026-10-21T13:42:11Z",
+ "ultimo_sinal": "2026-10-21T13:52:18Z",
  "em_andamento": {
   "marcas": [
    "Blancpain"
@@ -2477,7 +2477,10 @@
   "relogios": "historico/parcial_blancpain_relogios.txt",
   "fontes": "historico/parcial_blancpain_fontes.txt",
   "notas": "historico/notas_blancpain.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
