@@ -2295,7 +2295,7 @@
   }
  },
  "em_execucao": "2026-10-21T08:42:03Z",
- "ultimo_sinal": "2026-10-21T08:46:53Z",
+ "ultimo_sinal": "2026-10-21T08:50:04Z",
  "em_andamento": {
   "marcas": [
    "Biver"
@@ -2308,7 +2308,8 @@
   "secoes_feitas": [
    "1",
    "2",
-   "5"
+   "5",
+   "9"
   ],
   "passada": 1
  }
