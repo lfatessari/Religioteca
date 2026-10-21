@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 211,
-  "ultima_versao": 190,
+  "proxima_linha_marcas": 213,
+  "ultima_versao": 191,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2571,6 +2571,32 @@
       "site_bloqueado": false,
       "fontes_abertas": 175,
       "obs": "tratada como grande (site oficial boegli.com com 57 modelos + linhas antigas Grand Festival/Grand Orchestre com dezenas de refs); passadas 142/20/13 fontes, 141/9/2 relógios novos; site da coluna G errado (oficial boegli.com); Bohematic fica para a próxima"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 191,
+      "marca": "Bohematic",
+      "linha_marcas": 211,
+      "linhas_relogios": "25017-25052",
+      "relogios": 36,
+      "vermelho": true,
+      "grande": false,
+      "site_bloqueado": true,
+      "fontes_abertas": 63,
+      "obs": "marca renomeada Robot (2022); ficaram aqui as linhas Graphic Sutnar, Minor e Aerodynamic; linhas novas da era Robot ficam para Robot (linha 1170); passadas 51/12 fontes, 35/1 relógios"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 191,
+      "marca": "Bohen",
+      "linha_marcas": 212,
+      "linhas_relogios": "25053-25066",
+      "relogios": 14,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes_abertas": 33,
+      "obs": "catálogo fechado conferido com o site oficial (6 modelos); Boldr (grande) fica para a próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
