@@ -2643,7 +2643,7 @@
     }
   },
   "em_execucao": "2026-10-21T21:41:51Z",
-  "ultimo_sinal": "2026-10-21T21:41:51Z",
+  "ultimo_sinal": "2026-10-21T21:47:28Z",
   "em_andamento": {
     "marcas": [
       "Borealis"
@@ -2653,7 +2653,10 @@
     "relogios": "historico/parcial_Borealis_relogios.txt",
     "fontes": "historico/parcial_Borealis_fontes.txt",
     "notas": "historico/notas_Borealis.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
