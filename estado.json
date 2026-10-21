@@ -2625,7 +2625,7 @@
     }
   },
   "em_execucao": "2026-10-21T20:41:40Z",
-  "ultimo_sinal": "2026-10-21T20:41:40Z",
+  "ultimo_sinal": "2026-10-21T20:49:13Z",
   "em_andamento": {
     "marcas": [
       "Bomberg"
@@ -2635,7 +2635,11 @@
     "relogios": "historico/parcial_Bomberg_relogios.txt",
     "fontes": "historico/parcial_Bomberg_fontes.txt",
     "notas": "historico/notas_Bomberg.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "5",
+      "7"
+    ],
     "passada": 1
   }
 }
