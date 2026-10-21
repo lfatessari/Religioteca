@@ -4,3 +4,4 @@ Tratada como grande (vintage + muitas referências BEU).
 - Coleções oficiais: GB1950, BEUBRB, Océa Deville, Océa, Blue Ocean, Lumitech, Revolve (by Constant, CBR), Intemps, RDN 360, Hero (antiga), Apnea Automatique, Hero Skeleton, Hero Color (antigas).
 - Pendentes: boutikenvogue (arquivo de descontinuados), Hero (BEU0340/0341/0342/0346), Apnea, vintage antigo, chrono24, everywatch, ebay, imprensa.
 - Lumitech V3 sem referência (subchandlers): nomear com cor.
+- Vintage: Constant Beuchat (C. Beuchat SA, 1905, Marselha, segundo watch-wiki) — Professional 1000 m ref 1.187.1.0.04 (1978), Envers ACW 1987, Ocean Energy; EveryWatch tem 31 vendidos de 'Constant Beuchat'. Linhas citadas: Booster, Hero Color, HPS2, Activ 50.

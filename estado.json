@@ -2136,7 +2136,7 @@
     }
   },
   "em_execucao": "2026-10-21T02:41:32Z",
-  "ultimo_sinal": "2026-10-21T02:51:09Z",
+  "ultimo_sinal": "2026-10-21T02:53:26Z",
   "em_andamento": {
     "marcas": [
       "Beuchat"
@@ -2148,7 +2148,9 @@
     "notas": "historico/notas_beuchat.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "5"
     ],
     "passada": 1
   }
