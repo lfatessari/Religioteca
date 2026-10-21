@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 194,
- "ultima_versao": 178,
+ "proxima_linha_marcas": 195,
+ "ultima_versao": 179,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2240,6 +2240,29 @@
     }
    },
    "obs": "site real biatecwatches.com (70 produtos: 35 atuais + 35 descontinuados, conferido) + variantes só na Helveti e colaboração Chronoshop 09; sem códigos de catálogo (códigos WDL LV02/LV03/HT02/CVNTG02/MVSE01WDL e CS30M/B); obs em M. Bateria só com Biatec porque Bifora (194) é grande. Próxima: Bifora (194)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 179,
+   "marca": "Bifora",
+   "linha_marcas": 194,
+   "linhas_relogios": "23256-23359",
+   "relogios": 104,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 138,
+   "passadas": {
+    "1": {
+     "fontes": 118,
+     "novos": 110
+    },
+    "2": {
+     "fontes": 20,
+     "novos": 3
+    }
+   },
+   "obs": "Vintage sem códigos; base principal = arquivo 'Uhr des Monats' do Bifora Freundeskreis (2020, 2021, 2023; 2022/2024/2025 não alcançados), wikis, leilões e anúncios. Inclui JB-60 (2014) e edições do Freundeskreis (2010–2026). bifora.eu bloqueado (L). Obs em M. Próxima: BijouMontre (195)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2251,32 +2274,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T06:41:57Z",
- "ultimo_sinal": "2026-10-21T07:02:27Z",
- "em_andamento": {
-  "marcas": [
-   "Bifora"
-  ],
-  "linha_marcas": 194,
-  "grande": true,
-  "relogios": "historico/parcial_Bifora_relogios.txt",
-  "fontes": "historico/parcial_Bifora_fontes.txt",
-  "notas": "historico/notas_Bifora.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
  }
 }
