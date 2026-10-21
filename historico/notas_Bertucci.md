@@ -21,3 +21,6 @@
 - não abriu (robots): https://longislandwatch.com/bertucci-performance-field-watches/?page=4
 - Nomes inferidos: 12134/12137 'A-2T Ceramic' (título só diz 'Swiss Quartz Field Watch with Ceramic Coated Titanium Case'); 11034 'DX3 Women's Solar Orange' (título: women's quartz sport watch with solar orange resin case). Verificar.
 - Chrono24: busca site:chrono24.com bertucci só traz Bertolucci — nenhum anúncio Bertucci indexado. EveryWatch: nenhuma página Bertucci indexada.
+- eBay /p/ só trouxe a imagem placeholder 7WgAAOSwQ7haxTU1 (não usada); ebay /b/ falhou.
+- História: fundada 2003 por Michael (Mike) Bertucci, vendas desde 2004; 1º modelo = A-2T Original Classics (2004) (watchprojects 2012). A-2R = DX3 Field (resina). Mascote Enzo (fox terrier).
+- Seções feitas: 1,2,2c,3(parcial),4 (nenhum catálogo PDF achado; só manuais),5,6 (Chrono24 vazio),7 (watches.com, watchco, LIW, windup, northriver, outland),8 (eBay só placeholder; WatchCharts)
