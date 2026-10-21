@@ -17,3 +17,4 @@ Tratada como grande (personalizações + modelos próprios).
 ## 2ª passada: alvo = personalizações, linhas antigas (Barakuda, Storm, Ocean Master, Stratos, P-One), FL-One, Singularity.
 - Site antigo: blackoutconcept.com/en/blackout-watches/76-barakuda.html (watchisthis). EveryWatch: 15 anúncios (Chrono24 + The Sutor House).
 - P-One: 'gamme Eternal' citada (moonwatch); Karl Lagerfeld e Kanye West clientes; Black P-One = P-One Black (fundido).
+- Site antigo tem categorias H SERIES e H SERIES CARTOON (relação com Blackstar H3/H4?).
