@@ -2354,5 +2354,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-21T10:42:24Z",
+ "ultimo_sinal": "2026-10-21T10:42:24Z",
+ "em_andamento": {
+  "marcas": [
+   "Black-Out Concept"
+  ],
+  "linha_marcas": 199,
+  "grande": true,
+  "relogios": "historico/parcial_Black-Out Concept_relogios.txt",
+  "fontes": "historico/parcial_Black-Out Concept_fontes.txt",
+  "notas": "historico/notas_Black-Out Concept.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
