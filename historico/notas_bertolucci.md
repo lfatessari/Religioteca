@@ -15,3 +15,5 @@ Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uo
 - Decisão: VERMELHA — centenas de referências (Pulchra/Vir/Serena/Uomo em vários metais e mostradores) sem foto/código público; fichas Europa Star swisstime (≈35) não alcançáveis por busca.
 - Buracos p/ 2ª passada: fichas swisstime (Vir Lady, Uomo Large/Medium/Gold/Bicolor, Chrono Uomo, Mini Vir, Pretiosa, Eternelle, Mini Poésie, Dea, Genus 1/2, Oldtimer, Pulchra Joaillerie, Serena Steel Rubber/Lizard, Le Bouquet), Oleane (sem achado), Voglia fotos, Ouni, Japão.
 - 429 Europa Star em 1004099971 (Pulchra) e 1004101752 (Chronographe Vir) — não reabrir
+- Site oficial bertolucci-watches.com aparece na busca (collection-voglia.php) mas entra em laço de redirecionamento https->http: não lê. L = bloqueado. G diz bertolucciwatches.com (sem hífen) -> obs M. Worldtempus /watches/ também em laço.
+- watch-winder: Uomo 824 Medium, 854 Chrono Chronometer, 854 Flash, 884 Gents; Vir 144, 634; Serena Garbo Gent Automatic -> buscar Uomo 854 / Flash
