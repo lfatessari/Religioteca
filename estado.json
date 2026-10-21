@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 216,
- "ultima_versao": 194,
+ "proxima_linha_marcas": 218,
+ "ultima_versao": 195,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2648,6 +2648,33 @@
     "3": "13 fontes/3 relógios"
    },
    "obs": "usa códigos só em parte (Bull Shark V2 BBSV2xx, Estoril GMT/Sea Storm MK2/Sintra 'Version', Olisipo BxF1) → usa_codigos=false; Jamanta é Prometheus (não entrou); sem logo; J 'Sei He Ki' não encontrado"
+  },
+  {
+   "marca": "Borgeaud",
+   "data": "2026-10-21",
+   "linha_marcas": 216,
+   "linhas_relogios": "25735-25739",
+   "relogios": 5,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 18,
+   "versao": 195
+  },
+  {
+   "marca": "Borman",
+   "data": "2026-10-21",
+   "linha_marcas": 217,
+   "linhas_relogios": "25740-25763",
+   "relogios": 24,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 45,
+   "passadas": {
+    "1": 25,
+    "2": 10,
+    "3": 10
+   },
+   "versao": 195
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2660,23 +2687,5 @@
    "linhas_relogios": "6829-7094"
   }
  },
- "em_execucao": "2026-10-21T22:41:07Z",
- "ultimo_sinal": "2026-10-21T22:54:02Z",
- "em_andamento": {
-  "marcas": [
-   "Borgeaud",
-   "Borman"
-  ],
-  "linha_marcas": 216,
-  "grande": true,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Borgeaud: completa",
-   "Borman: 1-10b (1ª passada, 25 fontes); vermelha, 2ª passada em curso"
-  ],
-  "passada": 2,
-  "obs": "Borman se revelou grande (marca chinesa de AliExpress). Botta Design (grande) fica para a próxima."
- }
+ "observacao_proxima": "Botta Design (linha 218) dimensionada como grande: fazer sozinha."
 }
