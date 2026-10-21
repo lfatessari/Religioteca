@@ -11,3 +11,5 @@ Tratada como grande (personalizações + modelos próprios).
 - Site oficial blackoutconcept.com abre só JS (vazio) -> L. Categoria Swiss Collector: Tourbillon Rouge/Black/White, Whirlpool Blue, Yellow swirl, Trinity Limited Edition.
 - Site atual: blackout-watches.com (Shopify) — coleções XP, Singularity, FL-One; logo https://blackout-watches.com/cdn/shop/files/logo-blackout-watches.svg?v=1738866082 ; donos 2022 Étienne Rousseaux e Tymothy Plubeau; fundador Fabrice Letellier 2007 (chronohunter). Customizou AP, JLC, Omega, Rolex. P-ONE 2023 Miyota 82S0, descontinuado 2025.
 - XP1 Swiss Made = XP1 Ultimate (mesma página). Coleção all tem 34 produtos; só 16 vistos (Load more). P-One R/B páginas CLIENT_ERROR. Faltam 18 produtos da coleção all: buscar por site:.
+- Carrossel XP1 LT Black: + XP1 Ti Centurion, Ti Red (xp1-ti-red), Romain Monti, Ti Rose Gold, XPW Aurora, Phantom x Ocarat. Wormhole lançado 14/10/2025.
+- CONFERÊNCIA catálogo atual: all=34 (31 relógios + 3 pulseiras); XP=24 (16 vistos + Gold, Ultimate, XPE x4, XPW x2 = 24); + Wormhole, Black/White Hole, FL-One x4 = 31. Fecha.
