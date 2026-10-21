@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 189,
-  "ultima_versao": 175,
+  "proxima_linha_marcas": 192,
+  "ultima_versao": 176,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2141,6 +2141,63 @@
         "3": 10
       },
       "obs": "site real beuchat.com (G diz beuchat-watches.com); catálogo antigo enorme (1990–2015) com muitas linhas só por título; Constant Beuchat vintage incluída"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 176,
+      "marca": "Bexei",
+      "linha_marcas": 189,
+      "linhas_relogios": "22923-22947",
+      "relogios": 25,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "grande": false,
+      "fontes": 37,
+      "passadas": {
+        "1": {
+          "fontes": 37,
+          "novos": 25
+        }
+      },
+      "obs": "site real bexei.hu (G diz bexei.com); peças quase todas sob encomenda; rebrand 2026 'Aaron Becsei' (J.Z.A., Pameus) incluído; 3 relógios de mesa incluídos; homônimo chinês 'BEXEI 貝克斯' excluído; obs em M"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 176,
+      "marca": "Bezel",
+      "linha_marcas": 190,
+      "linhas_relogios": "",
+      "relogios": 0,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "grande": false,
+      "fontes": 16,
+      "passadas": {
+        "1": {
+          "fontes": 16,
+          "novos": 0
+        }
+      },
+      "obs": "nenhuma marca de relógios 'Bezel' identificável (marketplace Bezel Inc., lojas, termo técnico); 0 linhas; coluna M gravada à parte (só M190 mudou)"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 176,
+      "marca": "Bianchet",
+      "linha_marcas": 191,
+      "linhas_relogios": "22948-23006",
+      "relogios": 59,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "grande": false,
+      "fontes": 42,
+      "passadas": {
+        "1": {
+          "fontes": 42,
+          "novos": 59
+        }
+      },
+      "obs": "usa códigos (CBSBFTGD4, UFFTSKCBW…); catálogo conferido: site oficial (32 atuais) + TheWatchPages (52 com 20 descontinuados) + Exquisite (42); obs em M. Próxima: Bianci (192)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2152,25 +2209,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-21T03:41:17Z",
-  "ultimo_sinal": "2026-10-21T03:55:25Z",
-  "em_andamento": {
-    "marcas": [
-      "Bexei",
-      "Bezel",
-      "Bianchet"
-    ],
-    "linha_marcas": 189,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Bexei: todas",
-      "Bezel: todas (0 relógios)",
-      "Bianchet: 1,2,5,7 parcial,9 parcial"
-    ],
-    "passada": 1
   }
 }
