@@ -21,3 +21,4 @@ Tratada como grande (personalizações + modelos próprios).
 - 2ª passada: buscas site:blackoutconcept.com trazem títulos de produtos antigos (páginas vazias). Títulos sem página aberta (Storm Trinity Verde, MKI Lady, OM III, GMT Driver, OM II Ceramic, OM Mickey, OM II Red) entram pelo título da busca; o crédito de 'novos' foi dado às páginas abertas.
 ## Fim da 2ª passada; ≥5 novos -> 3ª passada (10+ fontes novas): mais buscas site:blackoutconcept.com (en/fr/produit), Chrono24 títulos, Facebook/Instagram, eBay, outras lojas.
 - Site antigo tinha 'BOC Simulator' (configurador de personalização de Rolex) -> reforça vermelho.
+- Série H (Blackout Geneve): Blackstar H1, H1-2, H3, H4, H4-2(+Vintage), H4-3, H4-4, H5, H5-2, H6, H7 GMT; GMT Driver H7-11; Barakuda H8 (100 numerados). Lildeal: Seagull 1902 nos Blackstar Kickstarter.
