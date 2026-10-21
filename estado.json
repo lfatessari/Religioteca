@@ -2091,7 +2091,7 @@
     }
   },
   "em_execucao": "2026-10-21T00:42:11Z",
-  "ultimo_sinal": "2026-10-21T00:59:37Z",
+  "ultimo_sinal": "2026-10-21T01:00:15Z",
   "em_andamento": {
     "marcas": [
       "Bertolucci"
@@ -2112,8 +2112,9 @@
       "7",
       "8",
       "9",
-      "10"
+      "10",
+      "10b"
     ],
-    "passada": 1
+    "passada": 2
   }
 }

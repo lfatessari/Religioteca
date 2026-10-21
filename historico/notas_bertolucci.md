@@ -14,3 +14,4 @@ Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uo
 - Site oficial bertolucci-watches.com / bertolucciwatches.com: não aparece em busca nenhuma (marca aparentemente inativa desde ~2012). Não aberto. L: "Parcial"? -> não: site não existe na busca; registrar "Site bloqueado – não encontrado em buscas".
 - Decisão: VERMELHA — centenas de referências (Pulchra/Vir/Serena/Uomo em vários metais e mostradores) sem foto/código público; fichas Europa Star swisstime (≈35) não alcançáveis por busca.
 - Buracos p/ 2ª passada: fichas swisstime (Vir Lady, Uomo Large/Medium/Gold/Bicolor, Chrono Uomo, Mini Vir, Pretiosa, Eternelle, Mini Poésie, Dea, Genus 1/2, Oldtimer, Pulchra Joaillerie, Serena Steel Rubber/Lizard, Le Bouquet), Oleane (sem achado), Voglia fotos, Ouni, Japão.
+- 429 Europa Star em 1004099971 (Pulchra) e 1004101752 (Chronographe Vir) — não reabrir
