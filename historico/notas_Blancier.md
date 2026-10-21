@@ -12,3 +12,4 @@
 - 1ª passada encerrada: últimas 3 fontes (watchprosite digest, Fratello seminário, wristwatchreview gift guide) sem novidade.
 - VERMELHO: configurador com ~470.000 combinações + encomendas sob medida -> 2ª passada.
 - 2ª passada: One Glance (2014, um ponteiro), Worldtimer BWT 1 (2007, 3 caixas), regulador ouro turbilhão peça única. Crazy Planet ~6.000 euros, limitado. Configurador de ~900 a ~40.000 euros (turbilhões no topo).
+- 2ª passada: 14 fontes, 6 novos -> 3ª passada obrigatória. Lenzkircher Paten Uhr = Lottermann (não Blancier?), fora. blancier.de citado.
