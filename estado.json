@@ -2584,7 +2584,7 @@
     }
   },
   "em_execucao": "2026-10-21T18:41:56Z",
-  "ultimo_sinal": "2026-10-21T18:55:46Z",
+  "ultimo_sinal": "2026-10-21T18:58:46Z",
   "em_andamento": {
     "marcas": [
       "Bohematic",
@@ -2595,7 +2595,10 @@
     "relogios": "historico/parcial_Bohen_relogios.txt",
     "fontes": "historico/parcial_Bohen_fontes.txt",
     "notas": "historico/notas_Bohen.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1,
     "obs": "Bohematic pronta em historico (dados/marca json); fazendo Bohen"
   }
