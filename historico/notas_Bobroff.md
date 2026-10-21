@@ -11,3 +11,4 @@ Passada 1 encerrada (~38 fontes; últimas 3+ sem novidade). Seções: 1,2,2c,3,4
 VERMELHA: watch2day tem 92 produtos (pág 2-4 não alcançadas), Canovas 78 (pág 2 não alcançada), Amazon bloqueada; muitas variantes BF00xxV2-Sxxx, BF1001Mxx/BF1002Mxx, femininas.
 2ª passada: atacar watch2day por modelo, linhas V2 (BF0010-16), BF1001/BF1002, femininos BF003x, Tabarca BF0001/8/9.
 Resenha 2018 diz marca lançada em 2016 (TimeBrand diz 2013).
+2ª passada: ~25 fontes, 17 novos (>=5) -> 3ª passada obrigatória.

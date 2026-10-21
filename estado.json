@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 207,
- "ultima_versao": 187,
+ "proxima_linha_marcas": 209,
+ "ultima_versao": 188,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2523,6 +2523,28 @@
     }
    },
    "obs": "Tratada como grande (na dúvida) -> Blu (207) ficou para a próxima. Site real zegarkiblonie.com (G errado). 71 modernos (Zodiak, Jantar, Polan, Elektro, Super, BH300, WX302, Dukat, Delfin x MARE, Prezydencki, T-2077 Cyberpunk etc.) + 18 linhas históricas 1959-69. Vermelha: variantes vintage sem catálogo. Obs em M, L parcial."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 188,
+   "marca": "Blu",
+   "linha_marcas": 207,
+   "relogios": 0,
+   "vermelho": false,
+   "obs": "duplicata provável de Bernhard Lederer (BLU), linha 184; nenhuma linha gravada; observação em M207"
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 188,
+   "marca": "Bobroff",
+   "linha_marcas": 208,
+   "linhas_relogios": "24513-24649",
+   "relogios": 137,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes_abertas": 73,
+   "obs": "tratada como grande; passadas 38/25/10 fontes, 121/16/0 relógios; Watch2day pág. 2-4 e Joyería Canovas pág. 2 não alcançadas; Boderry fica para a próxima"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2534,32 +2556,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-21T15:42:26Z",
- "ultimo_sinal": "2026-10-21T15:59:32Z",
- "em_andamento": {
-  "marcas": [
-   "Bobroff"
-  ],
-  "linha_marcas": 208,
-  "grande": true,
-  "relogios": "historico/parcial_Bobroff_relogios.txt",
-  "fontes": "historico/parcial_Bobroff_fontes.txt",
-  "notas": "historico/notas_Bobroff.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2,
-  "obs": "Blu (207) = duplicata de Bernhard Lederer (BLU) linha 184; só observação em M"
  }
 }
