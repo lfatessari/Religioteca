@@ -1,0 +1,51 @@
+# dados dos relógios de bolso oficiais (boegli.com): code -> (nome, img ou '', desc)
+B='https://boegli.com/cdn/shop/'
+D={
+'M20 BE':('Composers "Für Elise" (bolso) – edição limitada de 250 peças',B+'files/M20BE-grid.jpg?v=1684095030&width=720','Relógio de bolso, caixa polida com banho de ródio, corda manual ETA 2660 com movimento musical B.01 cromado, toca "Für Elise" (Beethoven).'),
+'M20 MO':('Composers "A Flauta Mágica" (bolso) – edição limitada de 250 peças',B+'products/1_60c05136-8769-464c-bc4d-39ade9174e32.jpg?v=1681989619','Relógio de bolso, caixa polida com banho de paládio 5 mícrons, ETA 2660 com movimento musical B.01 cromado, toca "A Flauta Mágica" (Mozart).'),
+'M20 CH':('Composers "Tristesse" (bolso) – edição limitada de 250 peças',B+'products/M20CH-grid.jpg?v=1684250078','Relógio de bolso, caixa polida com banho de ródio, ETA 2660 com movimento musical B.01 cromado, toca "Tristesse" (Chopin).'),
+'M60 CH':('Composers "Tristesse" (bolso, dourado) – edição limitada de 250 peças',B+'products/1_fb40ddf8-c008-44e7-9fdd-1b6b5210ead7.jpg?v=1681989525','Relógio de bolso, caixa polida com banho de ouro 10 mícrons, ETA 2660 com movimento musical B.01 dourado, toca "Tristesse" (Chopin).'),
+'IS231':('National Anthems "Hatikvah" (bolso) – edição limitada',B+'products/1_83323fc6-d9fe-4a04-ad2d-c3f8d6b0474a.jpg?v=1681739864','Relógio de bolso, caixa banhada a paládio 5 mícrons, ETA 2660 com movimento musical B.01, toca o hino de Israel.'),
+'US234':('National Anthems "The Star-Spangled Banner" (bolso) – edição limitada',B+'products/US234-grid.jpg?v=1684252236','Relógio de bolso, caixa banhada a ouro 10 mícrons, ETA 2660 com movimento musical B.01 dourado, toca o hino dos Estados Unidos.'),
+'KZ232':('National Anthems Cazaquistão (bolso) – edição limitada',B+'products/1_a03f1472-2272-4569-8a4a-d7c03f4051b3.jpg?v=1681739934','Relógio de bolso, caixa banhada a ouro 10 mícrons, ETA 2660 com movimento musical B.01 dourado, toca o hino do Cazaquistão.'),
+'MGF250W':('The Godfather (bolso) – edição limitada de 250 peças',B+'files/1_ebd177a7-9f81-43d0-a44f-52fcd1aa052b.jpg?v=1682688662','Relógio de bolso, caixa polida banhada a ouro 10 mícrons com gravação especial, ETA 2660 com movimento musical B.01 dourado, toca o tema de "O Poderoso Chefão".'),
+'M40/A':('Concerto (bolso, com tampa)',B+'products/1_0e28dea2-31ba-40fa-9556-eb7c7eedecdc.jpg?v=1681470649','Relógio de bolso com tampa (savonnette), banho de paládio 5 mícrons, mostrador esmaltado com algarismos arábicos, ETA 2660 com movimento musical B.01; toca Beethoven, Vivaldi ou Mozart.'),
+'M132':('Symphonia (bolso)',B+'products/1_b1f1b1f4-fb26-44b7-bfb2-54aa09c621fe.jpg?v=1681813276','Relógio de bolso, banho de ouro 10 mícrons, mostrador guilloché prateado com algarismos arábicos, ETA 2660 com movimento musical B.01 dourado; toca Beethoven, Vivaldi ou Mozart.'),
+'M121 LE':('Four Seasons "Summer" (bolso) – edição limitada de 20 peças',B+'products/1_820032bd-f8c3-4ff2-aa20-5d2ce0527297.jpg?v=1681823941','Relógio de bolso, banho de paládio 5 mícrons, mostrador esmaltado branco com mostrador pintado pelo artista australiano Timothy John, ETA 2660 com movimento musical B.01, toca "As Quatro Estações" (Vivaldi).'),
+'M60':('Concerto (bolso, com tampa)',B+'products/1_b12e15a7-d42f-469d-af17-a46cebc1fc1f.jpg?v=1681470748','Relógio de bolso com tampa, banho de ouro 10 mícrons, mostrador guilloché prateado com algarismos romanos, ETA 2660 com movimento musical B.01 dourado; toca Beethoven, Vivaldi ou Mozart.'),
+'M124':('Adagio (bolso)',B+'products/M124-grid.jpg?v=1684248842','Relógio de bolso, banho de ouro 10 mícrons (também paládio), mostrador esmaltado branco, ETA 2660 com movimento musical B.01; toca Beethoven, Vivaldi ou Mozart.'),
+}
+D.update({
+'M10/R':('Baroque (bolso)',B+'products/1_781142bc-a1d3-4980-8b57-79ec5b87de80.jpg?v=1681823565','Relógio de bolso, banho de ouro 10 mícrons (também paládio), mostrador esmaltado com algarismos romanos, ETA 2660 esqueleto com movimento musical B.01 dourado.'),
+'M11':('Baroque (bolso)',B+'products/1_62ac0442-25d7-40eb-be49-e0c78d390f9d.jpg?v=1681823681','Relógio de bolso, banho de ouro 10 mícrons (também paládio), mostrador guilloché prateado com algarismos romanos, ETA 2660 esqueleto com movimento musical B.01 dourado.'),
+'M2':('Baroque (bolso)',B+'files/M2-grid_e3525be8-78cb-4bd8-a6b9-0447c00f61ba.jpg?v=1684094707&width=720','Relógio de bolso, banho de paládio 5 mícrons (também dourado), mostrador esmaltado com algarismos romanos, ETA 2660 esqueleto com movimento musical B.01 cromado.'),
+'M3':('Baroque (bolso)',B+'files/M3-grid.jpg?v=1684094827&width=720','Relógio de bolso, banho de ouro rosa 10 mícrons (também paládio), mostrador guilloché prateado com algarismos romanos, ETA 2660 esqueleto com movimento musical B.01 dourado.'),
+'M135':('Symphonia (bolso)',B+'files/M135-grid.jpg?v=1684096269&width=720','Relógio de bolso, banho de paládio 5 mícrons, mostrador guilloché chocolate com algarismos arábicos, ETA 2660 com movimento musical B.01 cromado.'),
+'M122':('Adagio (bolso, com tampa)',B+'products/7_76691dd8-b66f-41ab-a45d-5af8e568477e.jpg?v=1681412721','Relógio de bolso com tampa, banho de paládio 5 mícrons, mostrador esmaltado branco, ETA 2660 com movimento musical B.01 cromado.'),
+'M81/A':('Soprano (bolso, com suporte)',B+'files/M81A-grid.jpg?v=1684096060&width=1200','Relógio de bolso sem tampa com pé de apoio (serve de relógio de mesa), banho de paládio 5 mícrons, mostrador esmaltado com algarismos arábicos, ETA 2660 esqueleto com movimento musical B.01 cromado.'),
+'M133':('Symphonia (bolso)',B+'files/M133-grid.jpg?v=1684096245&width=720','Relógio de bolso, banho de paládio 5 mícrons, mostrador guilloché azul com algarismos arábicos, ETA 2660 com movimento musical B.01 cromado.'),
+})
+D.update({
+'M131':('Symphonia (bolso)',B+'products/M131-grid.jpg?v=1684251601','Relógio de bolso, banho de ouro 10 mícrons, mostrador guilloché azul com algarismos arábicos, ETA 2660 com movimento musical B.01 dourado.'),
+'M130':('Symphonia (bolso)',B+'products/1_700e984e-135e-4f0a-a753-95e91c616bbf.jpg?v=1681813223','Relógio de bolso, banho de ouro 10 mícrons, mostrador guilloché chocolate com algarismos arábicos, ETA 2660 com movimento musical B.01 dourado; também com tampa e em paládio.'),
+'M62/R':('Concerto (bolso, com tampa)',B+'products/1_b9e717e6-d483-4ec6-a355-cf378feb61c7.jpg?v=1681470824','Relógio de bolso com tampa, banho de ouro 10 mícrons, mostrador guilloché champanhe com algarismos romanos, ETA 2660 com movimento musical B.01 dourado.'),
+'M120':('Adagio (bolso)',B+'products/10.jpg?v=1681412433','Relógio de bolso, banho de paládio 5 mícrons, mostrador esmaltado branco com apliques niquelados, ETA 2660 com movimento musical B.01 cromado.'),
+'M123':('Adagio (bolso)',B+'files/M123-grid.jpg?v=1684093878&width=720','Relógio de bolso, banho de ouro rosa 10 mícrons, mostrador esmaltado branco, ETA 2660 com movimento musical B.01 cromado.'),
+'M121':('Adagio (bolso)',B+'products/9_033f76fa-15d3-4d09-a068-ed59e2f33562.jpg?v=1681412608','Relógio de bolso, banho de ouro 10 mícrons, mostrador esmaltado branco com apliques dourados, ETA 2660 com movimento musical B.01 dourado.'),
+'MGF250B':('The Godfather (bolso, mostrador preto) – edição limitada de 250 peças',B+'files/1_899251c5-ab8e-4590-bbb3-65734706e689.jpg?v=1682688122','Relógio de bolso, banho de ouro 10 mícrons com gravação especial, submostrador preto fosco, ETA 2660 com movimento musical B.01 dourado, toca o tema de "O Poderoso Chefão".'),
+'M80/A':('Soprano (bolso, com suporte)',B+'products/1_3be00d96-c678-4b9a-a888-7443cd850491.jpg?v=1681456235','Relógio de bolso sem tampa com pé de apoio, banho de ouro 10 mícrons (também ródio e paládio), mostrador esmaltado com algarismos arábicos, ETA 2660 esqueleto com movimento musical B.01 dourado, toca a "Marcha Nupcial" (Mendelssohn).'),
+'M909':('Grand Opéra "As Quatro Estações"','https://boegli.com/cdn/shop/files/1_9e7ca7bb-8cf3-43c7-8e2a-6084d42c8bc5.jpg?v=1682670684','Aço, 47 mm x 14,8 mm, fundo em titânio, safira, automático ETA 2671 com módulo musical redondo (cilindro de 17 dentes), mostrador em três níveis com Côtes de Genève e data às 6h. Luneta com IP ouro amarelo. Toca "As Quatro Estações" (Vivaldi).'),
+})
+D['M917']=('Grand Opéra "Tristesse"','https://boegli.com/cdn/shop/files/1_468ddde9-c981-4262-bae3-1d0df7e374a5.jpg?v=1682670796','Aço, 47 mm x 14,8 mm, fundo em titânio, safira, automático ETA 2671 com módulo musical redondo (cilindro de 17 dentes), mostrador em três níveis com Côtes de Genève e data às 6h. Luneta com IP ouro rosa. Toca "Tristesse" (Chopin).')
+LP='Visto só na lista da coleção do site oficial (link da página). '
+for c,n,h,d in [('M136','Symphonia (bolso)','m136','Relógio de bolso, coleção Symphonia, ETA 2660 com movimento musical B.01.'),
+ ('M61/R','Concerto (bolso, com tampa)','m61-r','Relógio de bolso, coleção Concerto, ETA 2660 com movimento musical B.01.'),
+ ('M30 BE','Composers "Für Elise" (bolso) – edição limitada','m30-be','Relógio de bolso, toca "Für Elise" (Beethoven), ETA 2660 com movimento musical B.01.'),
+ ('AR233','National Anthems Armênia (bolso) – edição limitada','ar233','Relógio de bolso, toca o hino da Armênia, ETA 2660 com movimento musical B.01.'),
+ ('M4/R','Baroque (bolso)','m4-r','Relógio de bolso, coleção Baroque, ETA 2660 esqueleto com movimento musical B.01.'),
+ ('M120 LE','Four Seasons "Spring" (bolso) – edição limitada de 20 peças','m120-le-spring','Relógio de bolso com mostrador pintado pelo artista australiano Timothy John, toca "As Quatro Estações" (Vivaldi).'),
+ ('M122 LE','Four Seasons "Autumn" (bolso) – edição limitada de 20 peças','m122-le-autumn','Relógio de bolso com mostrador pintado pelo artista australiano Timothy John, toca "As Quatro Estações" (Vivaldi).'),
+ ('M123 LE','Four Seasons "Winter" (bolso) – edição limitada de 20 peças','m123-le-winter','Relógio de bolso com mostrador pintado pelo artista australiano Timothy John, toca "As Quatro Estações" (Vivaldi).')]:
+    D[c]=(n,'https://boegli.com/products/'+h,LP+d)
+D['M1/R']=('Baroque (bolso)','', 'Relógio de bolso, coleção Baroque, ETA 2660 esqueleto com movimento musical B.01.')
+D['M134']=('Symphonia (bolso)','', 'Relógio de bolso, coleção Symphonia, ETA 2660 com movimento musical B.01.')
