@@ -6,3 +6,5 @@ Fundador Marc Aeschbacher, 2007; site borgeaudwatches.com (G vazio). Lançamento
 - Imagens: europastar Borgeaud111_*.jpg; techcrunch rahu.jpg
 - Panchang (Baselworld abr/2008, mecânico e quartzo, a partir de SFr 2.695; cronógrafo e turbilhão "desenvolvidos"); Gland VD (swissinfo). Imagem swissinfo sriimg20080409.
 - Septagraph 46mm: mostrador branco 6 peças, BRG 11501 base A10 (worldtempus 9315) = modelo 1885.
+## 10b auto-auditoria
+1 site oficial fora do ar (sem blog). 2/3 sem loja. 4 primeiro modelo Panchang 2008 achado. 5 J genérico. 6 edição 650 na B. 7 18 fontes; últimas 3 sem novidade -> parar.
