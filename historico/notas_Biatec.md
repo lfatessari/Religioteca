@@ -7,3 +7,6 @@
 - Site: 35 atuais (8 coleções) + 35 descontinuados (lista completa nas fontes). Pendentes sem foto: Marína Set (100 sets), Bratislava LE50 silver/rosegold, CS TAMI, Magnifique 03, Majestic 01 N, 02 N, Heritage First Edition, Corsair CS 01/02/03 F, CS SE 01/02, CS30B, Corsair 01-05 Premium (03F Premium), CS 01-05 Premium, Golden Ratio LE 01-05, Majestic 01-05 Premium, Marine 03, Majestic 01 F, Leviathan 02, 03, Night Sky, M.R.Stefanik LE100, Magnifique LE50 original, Vintage 05, Majestic 02 F, Leviathan 01 (sem F?), Marine 01/02 (sem N, Helveti).
 - 1º modelo (aBlogtoWatch 2017): Majestic 02 (Eterna 3901A) e Corsair 01-05 -> correspondem aos "Premium"?
 - Seções feitas: 1, 2 (parcial).
+- WDL.sk tem códigos (LV02, LV03, MVSE01WDL, HT02, CVNTG02) -> usar como código quando houver.
+- Majestic 03 N na Helveti fica na URL majestic-03g-f (talvez existiu "03G F" dourado?) - checar.
+- Pendentes: Marína Set, Bratislava LE50 x2, CS TAMI, Magnifique 03, Majestic 01 N, CS 02 F, CS SE 02, CS30B, Corsair 01/02/03F/05 Premium, CS 01-04 Premium, Golden Ratio 04/05, Majestic 01/02/03 Premium, Marine 03 (desc.), Night Sky, Magnifique LE50 original, Chronoshop 09 (colab), Leviathan 01 (sem F).
