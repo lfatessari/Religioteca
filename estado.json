@@ -2571,7 +2571,7 @@
     }
   },
   "em_execucao": "2026-10-21T17:41:42Z",
-  "ultimo_sinal": "2026-10-21T17:45:12Z",
+  "ultimo_sinal": "2026-10-21T17:47:59Z",
   "em_andamento": {
     "marcas": [
       "Boegli"
@@ -2582,7 +2582,10 @@
     "fontes": "historico/parcial_Boegli_fontes.txt",
     "notas": "historico/notas_Boegli.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "3",
+      "9"
     ],
     "passada": 1
   }
