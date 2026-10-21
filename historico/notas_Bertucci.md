@@ -7,3 +7,6 @@
 - Fontes que NÃO abriram (robots/erro/JS) — não contar como fontes no json final: A2Sfield.html, DX3Plus.html, DX3Field.html, A3PSportsman.html, M1womens.html, E1SBallista.html, battband.html, nws/A2T-SC-3.html (JS)
 - Itens sem código (A-2S Vintage Pantera Six, A-2S Pantera Six, A-2S Ballista, A-3T Vintage 42, A-6A Experior Italia, A-11T Americana, DX3 Compass, E-1S Ballista, M-1S Women's): no fim, remover os que tiverem variante com código do mesmo modelo (A-6A Experior Italia e A-11T Americana já têm).
 - L: "Parcial – bertucciwatches.com: várias páginas de modelo bloqueadas (robots) e fotos não legíveis automaticamente; revisitar com navegador"
+- Excluir também do json final (redirecionaram para índice de marcas): watches.com/products/bertucci-dx3-field-white-olive-green, -dx3-plus-hi-viz-yellow-black, -a-2s-field-silver-black, -a-2t-vintage-titanium-olive-green, -dx3-plus-glow-patrol-green-11046; watches-on-sale (vazio) conta como aberta.
+- Itens só por título de busca (§2c): 11120, 13800, 11027, 11135, 11092, 11500, 11504, 11046, A-2S Field silver black.
+- watchco.com/collections/bertucci: página 1 de 3 (48 itens, inclui pulseiras); páginas 2 e 3 a buscar via search
