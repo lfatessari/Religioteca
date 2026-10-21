@@ -12,3 +12,4 @@
 - watchco.com/collections/bertucci: página 1 de 3 (48 itens, inclui pulseiras); páginas 2 e 3 a buscar via search
 - 13388B (watchco) = variante 13388 com fivela preta? não entrou separado.
 - 11132 "Sage dial" nome DX3 Plus é inferência (watches.com tem DX3 Plus Aquamarine/Cobalt); 11039 "Savvy" inferido do título.
+- ultimatefieldwatch.com = LOJA OFICIAL atual (Shopify, 15 páginas de 24 em /collections/watches). G da aba Marcas aponta o site antigo bertucciwatches.com. Logo: https://ultimatefieldwatch.com/cdn/shop/files/UFW-Logo-2026_300x.png?v=1784681701
