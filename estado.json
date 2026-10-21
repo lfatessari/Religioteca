@@ -2608,5 +2608,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-21T19:41:41Z",
+  "ultimo_sinal": "2026-10-21T19:41:41Z",
+  "em_andamento": {
+    "marcas": [
+      "Boldr"
+    ],
+    "linha_marcas": 213,
+    "grande": true,
+    "relogios": "historico/parcial_Boldr_relogios.txt",
+    "fontes": "historico/parcial_Boldr_fontes.txt",
+    "notas": "historico/notas_Boldr.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
