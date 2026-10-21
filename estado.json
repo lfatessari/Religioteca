@@ -2584,7 +2584,7 @@
     }
   },
   "em_execucao": "2026-10-21T18:41:56Z",
-  "ultimo_sinal": "2026-10-21T18:45:50Z",
+  "ultimo_sinal": "2026-10-21T18:48:33Z",
   "em_andamento": {
     "marcas": [
       "Bohematic",
@@ -2596,7 +2596,9 @@
     "fontes": "historico/parcial_Bohematic_fontes.txt",
     "notas": "historico/notas_Bohematic.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "3"
     ],
     "passada": 1
   }

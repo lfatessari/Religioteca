@@ -16,3 +16,7 @@
 - RENOMEAÇÃO: fim do verão 2022 (cc.cz 19/11/2022). Era Bohematic = 2019–ago/2022. Fittipaldi LE (nov/2022) = Robot.
 - Achados era Bohematic: Graphic Sutnar Tapir White/Rhino Black/Camel Ardoise/Elephant Blue/Walrus Silver; Minor Le Mans Blue/Spa Gray/Indy Sunburn/Monaco Black; Aerodynamic (2021, cores?); Venuše LE; Royal Golf LE (115 anos RGC Mariánské Lázně); Graphic Sutnar Expo Dubai 2020 LE; Graphic Sutnar Falcon LE; Graphic Sutnar Dunes (série limitada, design Michal Karafiát) + peça única Dunes Dubai 21/3/2022.
 - Fontes 17 abertas até agora.
+- CÓDIGOS (heureka/recenzopedia/helvetia): 1901ST01 Tapir White, 1901ST03 Camel Ardoise, 1901ST05 Walrus Silver, 1901LE01 Lion Brown (edição limitada); 2001ST01 Minor Spa Grey, 2001ST02 (Minor ?), 2001ST04 Minor Le Mans Blue; 2101ST01 Aerodynamic Silver Metallic, 2101ST02 Black Nickel, 2101ST07 Titanium Green; 2101_23-35 Streamline Beige, 2101_23-36 Copper Brown, 2101_23-153 Bronze Aura (2023 = era Robot), 2101_25-043 Cobalt Blue (2025 Robot). 2201LE01, 2202ST02 = 2022 (Robot?).
+- => USA CÓDIGOS (padrão AAMM: 19=Graphic Sutnar, 20=Minor, 21=Aerodynamic).
+- Outros "Robot by Bohematic": Graphic Sutnar Pin Up, Minor Superbike (12 ks), Graphic Sutnar Lion Brown.
+- Imagens heureka: img-cdn.heureka.group/v1/<uuid>.jpg (sem width)
