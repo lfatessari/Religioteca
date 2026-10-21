@@ -9,3 +9,6 @@ Usados (WatchCharts): Rally I Wells 008, Venture Rally 797, Expedition II Eiger,
 FCW: Safari GMT Serengeti (SFR-GT-SER-40-20), Venture Green Dusk (VE-GD-TI-20-44)
 - Linhas antigas: Journey (1º relógio, cronógrafo meca-quartzo, nomes de aviões da 2ª Guerra; Journey 2 com fundo de Kevin Tan), Voyager (mergulho bronze 42 mm), Explorer (GMT barato), Globetrotter GMT, Expedition (2017, Kickstarter), Air. Coleções vazias no site -> buscar fora.
 - fb-catalog tem 11 páginas (feed completo).
+- Voyage (2015, smartwatch analógico no Kickstarter) foi CANCELADO -> não vira linha. Journey (2016, Kickstarter): Wasp, Warhawk, Sopwith.
+- Microbrand.store: "Odyssey Bronze Meteo-Black" e "Bronze Meteogray" tratados como os Odyssey MeteoBlack/MeteoGrey de aço (títulos da loja parecem errados).
+- PROVENANCE: links de produto tirados de páginas (sportique, seriouswatches pre-owned) pediram permissão -> não repetir.
