@@ -2136,7 +2136,7 @@
     }
   },
   "em_execucao": "2026-10-21T02:41:32Z",
-  "ultimo_sinal": "2026-10-21T02:41:32Z",
+  "ultimo_sinal": "2026-10-21T02:48:01Z",
   "em_andamento": {
     "marcas": [
       "Beuchat"
@@ -2146,7 +2146,10 @@
     "relogios": "historico/parcial_beuchat_relogios.txt",
     "fontes": "historico/parcial_beuchat_fontes.txt",
     "notas": "historico/notas_beuchat.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
