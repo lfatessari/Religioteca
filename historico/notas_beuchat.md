@@ -9,3 +9,4 @@ Tratada como grande (vintage + muitas referências BEU).
 - Amazon.fr: robots (não abre); títulos só pela busca. Boutikenvogue: robots; títulos só pela busca.
 - Coleções de 2011 (bijourama/190): Abyss, Apnea, Atlantis, Revolve, Big Hero, Cadène, Cap 100, Chrono Diver, Grand Racer, Hero, Horizon, Lumitech, Murena, Nautyl, Overstep, S-Bike, Scubatech, Seagul. Catálogo Ushuaïa 1992 (eBay).
 - mode-in-motion: robots. cdiscount: só casca JS. vvanat: erro.
+- Pinterest: robots. Mais linhas citadas: Skipper II, X-Sport, B330, Technova 550, Atlantis, Cadène, Big Hero, Seagul (sem ref). Marcas licenciadas BPlus (Serge Blanco, Lola Carra, Jet Time, Technograph) não entram.
