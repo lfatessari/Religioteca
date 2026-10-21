@@ -16,3 +16,12 @@ Falta: mens p6, women, quartz, collections (hou, goldace, falcon, checkmate, eli
   cores limitadas do Kickstarter (Panda); AliExpress/Amazon (era 2019–2021) bloqueados. 2ª passada mira isso.
 - WatchPatrol /voyager/ pediu permissão (link tirado de WebFetch) — não repetir.
 - 2ª passada: 17 fontes, 6 novos (Urban Date titânio 3 cores + aço 3 cores) -> 3ª passada obrigatória. Elite lançado no Indiegogo 2021; Storm no Indiegogo; Landmaster GMT/Chrono no Kickstarter jul-ago/2025.
+## 10b Auto-auditoria
+1. Blog: o site não tem blog de artigos (só páginas: about, women-automatic-skeleton, landmaster-million, 7th-anniversary). Lidas about, women-skeleton, landmaster-million. Imprensa: sem área de imprensa.
+2. §2c: buscas por urban, skeleton, voyager, seaturtle, windmill, asymmetry, admiral, landmaster, dragonfly, starry, flower, elegant, goldace, storm, steel, ladies — acharam os handles escondidos (urban steel, seaturtle t003, dragonfly 4sl/4rg/6, voyager salmon, elegant blue x2). Parou de aparecer handle novo.
+3. Lojas: a marca vende quase só direto (site, Walmart, Amazon, AliExpress); Amazon/AliExpress bloqueados (robots); Walmart aberto.
+4. Primeiro modelo: Urban Titanium Skeleton (resenha ago/2020, BDA001T) e linha de 2020 na AliExpress; incluído como "1ª versão".
+5. J: Voyager, Landmaster, Urban Skeleton, Storm, Admiral, SeaTurtle — todos achados.
+6. Edições limitadas na B: Voyager 5º aniversário (888), SeaTurtle Ti e Bronze (150). Sem peças únicas.
+7. 104 fontes (73/17/14).
+- 3ª passada: 14 fontes, 3 novos (<5) -> parar. Últimas 3 fontes sem novidade.

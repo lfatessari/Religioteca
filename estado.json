@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 209,
-  "ultima_versao": 188,
+  "proxima_linha_marcas": 210,
+  "ultima_versao": 189,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2545,6 +2545,19 @@
       "site_bloqueado": false,
       "fontes_abertas": 73,
       "obs": "tratada como grande; passadas 38/25/10 fontes, 121/16/0 relógios; Watch2day pág. 2-4 e Joyería Canovas pág. 2 não alcançadas; Boderry fica para a próxima"
+    },
+    {
+      "data": "2026-10-21",
+      "versao": 189,
+      "marca": "Boderry",
+      "linha_marcas": 209,
+      "linhas_relogios": "24650-24878",
+      "relogios": 229,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes_abertas": 104,
+      "obs": "tratada como grande (site com ~176 relógios publicados + escondidos); passadas 73/17/14 fontes, 220/6/3 relógios; Amazon, AliExpress, kwartz.shop, horologystory e watchpolice bloqueados (robots); WatchPatrol /voyager/ pediu permissão; Boegli fica para a próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2556,34 +2569,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-21T16:42:15Z",
-  "ultimo_sinal": "2026-10-21T17:14:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Boderry"
-    ],
-    "linha_marcas": 209,
-    "grande": true,
-    "relogios": "historico/parcial_Boderry_relogios.txt",
-    "fontes": "historico/parcial_Boderry_fontes.txt",
-    "notas": "historico/notas_Boderry.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b-p1",
-      "p2",
-      "p3"
-    ],
-    "passada": 3
   }
 }
