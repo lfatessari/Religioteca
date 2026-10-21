@@ -6,3 +6,5 @@ Achados: ver parcial_Bernhardt_relogios.txt
 ## Passada 1 encerrada (3 fontes seguidas sem novidade: W&W p=101264, Starboard bracelet, WatchPatrol 1963693)
 Decisão: VERMELHA — relógios de encomenda (MARSOC, NC/GA Wildlife, xerifes, FBI, NCIS, HPU, NCSU, Wake Forest) sem página pública; Sea Shark em 5 cores sem nome; Binnacle Retro 3 cores; Corsair GMT só citado em vídeo.
 ## Passada 2 (alvo: encomendas, Corsair GMT, cores Sea Shark/Retro, Ladies Diver, Globemaster)
+- Loja vende também relógios de outras marcas (seção "Curated": Pro Diver 200/1000 ~US$250, Le Jour Flieger/Hammerhead/Le Mans) — NÃO incluídos.
+- Coleções vazias/ocultas (senha): past-collections, womenswatches, corsair-gmt, quartz, precision-quartz.
