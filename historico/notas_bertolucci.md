@@ -10,3 +10,7 @@
 - Antiquorum HK 13th 2024: lotes 13-20 Bertolucci NOS na pág 1; checar páginas seguintes (lotes 21+). Stria III 11513... = erro de digitação de 1513.50.45.B88.6C1.501 (já tenho)
 ## Europa Star swisstime (fichas a alcançar por busca site:)
 Giro, Stria, Serena Steel Lizard, Vir Lady, Chrono Uomo, Serena Steel Rubber, Uomo Large, Mini Vir Jewellery, Serena Steel, Le Bouquet Serena Joaillerie, Uomo Bicolor, Uomo Gold, Vir Joaillerie, Uomo Medium, Vir Ladies et Mini Vir Ladies, Serena, Uomo Steel, Eternelle Preciosa, Mini Poésie (x2), Serena, Vir Maris (x2), Bertolucci (vários), Pretiosa, Vir Large, Maris, Dea, Chronographe Vir, Pulchra Joaillerie, Genus 1, Genus 2, Pulchra (x2), Docta, Oldtimer
+## Fim da 1ª passada (01:00 UTC): 3 fontes seguidas sem novidade (CS es, ebay pulseira, Bentley 175).
+- Site oficial bertolucci-watches.com / bertolucciwatches.com: não aparece em busca nenhuma (marca aparentemente inativa desde ~2012). Não aberto. L: "Parcial"? -> não: site não existe na busca; registrar "Site bloqueado – não encontrado em buscas".
+- Decisão: VERMELHA — centenas de referências (Pulchra/Vir/Serena/Uomo em vários metais e mostradores) sem foto/código público; fichas Europa Star swisstime (≈35) não alcançáveis por busca.
+- Buracos p/ 2ª passada: fichas swisstime (Vir Lady, Uomo Large/Medium/Gold/Bicolor, Chrono Uomo, Mini Vir, Pretiosa, Eternelle, Mini Poésie, Dea, Genus 1/2, Oldtimer, Pulchra Joaillerie, Serena Steel Rubber/Lizard, Le Bouquet), Oleane (sem achado), Voglia fotos, Ouni, Japão.
