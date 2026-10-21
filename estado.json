@@ -2625,7 +2625,7 @@
     }
   },
   "em_execucao": "2026-10-21T20:41:40Z",
-  "ultimo_sinal": "2026-10-21T21:07:09Z",
+  "ultimo_sinal": "2026-10-21T21:09:08Z",
   "em_andamento": {
     "marcas": [
       "Bomberg"
@@ -2646,7 +2646,8 @@
       "7",
       "8",
       "9",
-      "10"
+      "10",
+      "p2-parcial"
     ],
     "passada": 2
   }
