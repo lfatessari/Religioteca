@@ -2571,17 +2571,19 @@
     }
   },
   "em_execucao": "2026-10-21T17:41:42Z",
-  "ultimo_sinal": "2026-10-21T17:41:42Z",
+  "ultimo_sinal": "2026-10-21T17:45:12Z",
   "em_andamento": {
     "marcas": [
       "Boegli"
     ],
     "linha_marcas": 210,
-    "grande": false,
+    "grande": true,
     "relogios": "historico/parcial_Boegli_relogios.txt",
     "fontes": "historico/parcial_Boegli_fontes.txt",
     "notas": "historico/notas_Boegli.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
