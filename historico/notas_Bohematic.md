@@ -20,3 +20,4 @@
 - => USA CÓDIGOS (padrão AAMM: 19=Graphic Sutnar, 20=Minor, 21=Aerodynamic).
 - Outros "Robot by Bohematic": Graphic Sutnar Pin Up, Minor Superbike (12 ks), Graphic Sutnar Lion Brown.
 - Imagens heureka: img-cdn.heureka.group/v1/<uuid>.jpg (sem width)
+- DECISÃO REVISTA: Bohematic leva as 3 linhas criadas na era Bohematic (Graphic Sutnar, Minor, Aerodynamic) com TODAS as variantes, inclusive as vendidas depois como 'Robot by Bohematic'; linhas novas da era Robot (Aplos, Albatros, Ida, Spectra, Robotic One, Graphic Analog, Artisan, Skywatch, Legends?) ficam para Robot (1170).

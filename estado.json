@@ -2584,7 +2584,7 @@
     }
   },
   "em_execucao": "2026-10-21T18:41:56Z",
-  "ultimo_sinal": "2026-10-21T18:48:33Z",
+  "ultimo_sinal": "2026-10-21T18:51:22Z",
   "em_andamento": {
     "marcas": [
       "Bohematic",
@@ -2598,7 +2598,9 @@
     "secoes_feitas": [
       "1",
       "2",
-      "3"
+      "2c",
+      "3",
+      "5"
     ],
     "passada": 1
   }
