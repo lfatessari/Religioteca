@@ -2610,7 +2610,7 @@
     }
   },
   "em_execucao": "2026-10-21T19:41:41Z",
-  "ultimo_sinal": "2026-10-21T19:59:09Z",
+  "ultimo_sinal": "2026-10-21T20:05:43Z",
   "em_andamento": {
     "marcas": [
       "Boldr"
@@ -2623,7 +2623,8 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c"
+      "2c",
+      "3"
     ],
     "passada": 1
   }
