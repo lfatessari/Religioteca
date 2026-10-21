@@ -2643,7 +2643,7 @@
     }
   },
   "em_execucao": "2026-10-21T21:41:51Z",
-  "ultimo_sinal": "2026-10-21T22:16:45Z",
+  "ultimo_sinal": "2026-10-21T22:17:24Z",
   "em_andamento": {
     "marcas": [
       "Borealis"
@@ -2665,8 +2665,9 @@
       "8",
       "9",
       "10",
-      "10b"
+      "10b",
+      "2a"
     ],
-    "passada": 2
+    "passada": 3
   }
 }

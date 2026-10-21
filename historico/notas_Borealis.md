@@ -24,3 +24,5 @@ MARCA VERMELHA: Adraga tem 9 versões (só parte listada), Neptuno 10 mostradore
 - 2ª passada: watchmark-store.com e extropian.co = robots (títulos de busca usados).
 - 2ª passada: buscas site:extropian.co e site:watchmark-store.com trouxeram títulos (sites com robots): Adraga V2 bandeira (4), Cascais V2 BA.1/BE, Sea Storm V2 Bronze BA.A3, Navale CR, Oceanaut verde data.
 - borealiswatchcompanyhq.shop: loja .shop que se apresenta como Borealis (provável clone/golpe) — não usada como fonte de dados. Sea Storm MK2: coleção oficial confirma 9 versões GMT + Random Rob (catálogo fechado).
+## 2ª passada encerrada (22:17): 18 fontes, ~19 relógios novos (Adraga V2 bandeira, Olisipo BC1/BD1/BE1, Cascais V2 BA.1/BE, Sea Storm V2 Bronze BA.A3, Navale CR, Santa Cruz A/B, Estoril 1ª geração, Neptuno). Últimas 4 sem novidade. → 3ª passada (≥10 fontes novas).
+## 3ª passada: alvo = WatchCharts anúncios individuais, Sea Storm V2 layouts/códigos, Estoril 1ª geração (8 versões), Batial/Bull Shark V1 data, Umi cores, Medusa produção.
