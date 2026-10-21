@@ -14,3 +14,13 @@ Site oficial: bijoumontre.ch (G vazio na planilha). Fundada 2004 por Willi Salad
 - Store locator: Suíça, Qatar, Filipinas, Malásia, Macau, HK, China, Camboja.
 - Buracos: J001–J026, J054, J059, J060.
 - Bloqueados: instagram, marieclaire.com.hk, baike (robots); carousell, ebay itm, bijoumontre.ch/shop/ e vários produtos .ch (CLIENT_ERROR).
+## Auto-auditoria (10b)
+1. Blog/imprensa: todos os 31 artigos do arquivo masterhorologer lidos; site oficial sem blog/imprensa visível.
+2. 2c: buscas site:bijoumontre.ch/shop com vários termos; nomes novos só repetiam o .cn, exceto Switzerland (J061).
+3. Lojas: kaenel-villars.ch (erro), carousell (erro), ebay (erro); marca quase sem revenda online.
+4. Primeiro modelo: não identificado (2004–2009 sem registro); mais antigo achado: Magical Night BM 22020T (2010).
+5. I/J genéricos (sem nomes a conferir).
+6. Edições limitadas na B com nº de peças; sem peças únicas.
+7. 55 fontes. Parou: últimas 8+ fontes sem novidade.
+Buracos: J001–J026, J054, J059, J060; Charms avulsos não entram (acessórios).
+Gravada v180: linhas 23360–23487 (128 relógios). Não vermelha.
