@@ -6,3 +6,5 @@
 - 123 41-77798 e 093.41.70681 parecem ref+serial (Loupe) — manter grafia; 111.8055.68 = 111 8055 68 (mesmo)
 - JCK 2001: raízes na Mimo Watch (1911); Michelotti 1946; Remo casou com a filha 1968; 1ª coleção completa 1987; mudança p/ Neuchâtel 1998; 2001 vendida a consórcio (Gembler, Gaillard). Vir = carro-chefe; Serena ganhou Prêmio do Público 1998; Uomo masculino. 2005 Dickson. Coluna I diz "esposa Iris" e fundação 1987 — não confirmado Iris; obs M.
 - SCMP: Voglia ouro com diamantes; Ouni 5 estilos.
+- Europa Star brand index: europastar.com/brand-index/1004082984-bertolucci.html (link de página, precisa busca)
+- Antiquorum HK 13th 2024: lotes 13-20 Bertolucci NOS na pág 1; checar páginas seguintes (lotes 21+). Stria III 11513... = erro de digitação de 1513.50.45.B88.6C1.501 (já tenho)
