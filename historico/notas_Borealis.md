@@ -21,3 +21,5 @@
 ## 1ª passada encerrada (22:11 UTC): 3 últimas fontes sem novidade (relojes-especiales Adraga dorado, Sea Storm, Bullshark).
 MARCA VERMELHA: Adraga tem 9 versões (só parte listada), Neptuno 10 mostradores (6 achados), Sea Storm V2 4 layouts×cor×lume×data, Sea Storm MK2 GMT faltam códigos (BF/BH?), Olisipo só BF1 com código, Umi sem cores nomeadas, Bull Shark V1 data/sem data, Porto Covo original 4 cores×data.
 ## 2ª passada: alvo = Olisipo (códigos), Neptuno, Adraga, Sea Storm V2/Bronze, Sea Storm MK2 (códigos faltantes), Umi, Santa Cruz, Navale, Scorpionfish V2, Cascais V2, Porto Covo original.
+- 2ª passada: watchmark-store.com e extropian.co = robots (títulos de busca usados).
+- 2ª passada: buscas site:extropian.co e site:watchmark-store.com trouxeram títulos (sites com robots): Adraga V2 bandeira (4), Cascais V2 BA.1/BE, Sea Storm V2 Bronze BA.A3, Navale CR, Oceanaut verde data.
