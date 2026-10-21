@@ -10,3 +10,5 @@
 - Excluir também do json final (redirecionaram para índice de marcas): watches.com/products/bertucci-dx3-field-white-olive-green, -dx3-plus-hi-viz-yellow-black, -a-2s-field-silver-black, -a-2t-vintage-titanium-olive-green, -dx3-plus-glow-patrol-green-11046; watches-on-sale (vazio) conta como aberta.
 - Itens só por título de busca (§2c): 11120, 13800, 11027, 11135, 11092, 11500, 11504, 11046, A-2S Field silver black.
 - watchco.com/collections/bertucci: página 1 de 3 (48 itens, inclui pulseiras); páginas 2 e 3 a buscar via search
+- 13388B (watchco) = variante 13388 com fivela preta? não entrou separado.
+- 11132 "Sage dial" nome DX3 Plus é inferência (watches.com tem DX3 Plus Aquamarine/Cobalt); 11039 "Savvy" inferido do título.
