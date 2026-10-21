@@ -10,3 +10,6 @@
 - master_bianci.json = lista mestra (109 em 04:58). Bloomgem: 101 produtos RB (pág. 2 não abre: devolve a pág. 1). Foto Bloomgem = padrão cdn/shop/products/S<nº>_01_1200x1200.jpg (conferido em 2). Ashford = cdn/shop/files/RB<code>_F.jpg (conferido em 7). Ashford coleção bloqueada (PROVENANCE).
 - Linha antiga a incluir: 5837M Tungsten; H262LWS cerâmica; RB-B293L cerâmica branca (Prestigio); 9084-L Prestigio dourado; Black Ceramic 5843; Red Burn Out 7060 (Pro Racing); Bella (JCK). 
 - Seções feitas: 1,2,2c,3(parcial),7(parcial),9(parcial)
+- timepiece.com: 105 produtos com foto (turbify) — melhor fonte de fotos. Mercari: B268 Galeria cerâmica, RB2951, RB7026M (eBay: modelo Lombardo, borracha 44mm), RB90910, RB18490 Medellin, H262.
+- Nome RB7060x: site oficial/Bloomgem "Valencio"; Ashford/Timepiece "Valentino". Usar Valencio.
+- master 132 às 05:15. Falta: EveryWatch/Chrono24, linha antiga (fotos), Ashford outros, eBay.de, Walmart, Pinterest.
