@@ -7,3 +7,4 @@ Usa códigos (ex.: 5015-1130-52A, 6654-3642-55B).
 - Ideia de fonte de imagens: tourneau, cortinawatch, gassan, berrys, analogshift, everywatch.
 - 14:10 TWP(80/148), Berrys oembed p2, Coveted (697 no total, poucas por página), loupe pede p/ não reproduzir dados -> não usado. WatchPatrol aqualung só vintage sem ref. Vintage: AquaLung No Radiations 1960s.
 - 14:10 OceanCommitment oficial (prestigedam imagens), Swatch collab (6 + Pink), AnalogShift vendidos. Próximo: vintage FF (LIP, Bathyscaphe 60s, Aqua Lung, Barracuda), Le Brassus/Léman antigos 2000s (2100,2125,2185,2360), Métiers d'Art peças únicas, imprensa (monochrome, ablogtowatch).
+- 14:20 FIM 1ª passada: 3 fontes seguidas sem novidade (luxurybazaar 2024, golden hour, waqt). ~103 fontes, 651 relógios. Marca VERMELHA (centenas de refs anos 1990-2000 Léman/Villeret, vintage sem ref, Métiers d'Art peças únicas, Chrono24 inalcançável). Início da 2ª passada.
