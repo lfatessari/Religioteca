@@ -2091,7 +2091,7 @@
     }
   },
   "em_execucao": "2026-10-21T00:42:11Z",
-  "ultimo_sinal": "2026-10-21T00:45:01Z",
+  "ultimo_sinal": "2026-10-21T00:46:48Z",
   "em_andamento": {
     "marcas": [
       "Bertolucci"
@@ -2103,7 +2103,8 @@
     "notas": "historico/notas_bertolucci.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "5"
     ],
     "passada": 1
   }
