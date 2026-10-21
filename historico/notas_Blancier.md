@@ -5,3 +5,9 @@
 - Seções feitas: 1, 3 (primeira página), 9 parcial. Site blancier.com: nenhuma busca traz o domínio (só citado). Lottermann & Söhne: Mannheim-Seckenheim, ~470.000 combinações -> vermelho.
 - Pista: "blancier-pixie.jpg" no aBlogtoWatch (modelo Pixie?), sem confirmação.
 - eBay: só Blancpain; 2 páginas .de não abriram.
+- Poker Face Chronograph: só no timesticking.com, que também diz fundador "Jörg Hysek Jr." em Frankfurt (falso: Kamerman/Mannheim) -> fonte não confiável, modelo NÃO entra (relatar).
+- "blancier-pixie.jpg" no aBlogtoWatch: Pixie é máquina Nespresso, não modelo. Fora.
+- Fóruns watchuseek (Blancier Info, One Glance, Grand Cru) e uhrforum (Crazy Planets) não abriram (robots/erro). Título "SCOOP: Blancier Lottermann & Sohne: One Glance" sugere modelo One Glance -> buscar na 2ª passada.
+- Agregadores (EveryWatch, WatchBase, WatchCharts, Chrono24 via site:) não têm Blancier. eBay: só Blancpain.
+- 1ª passada encerrada: últimas 3 fontes (watchprosite digest, Fratello seminário, wristwatchreview gift guide) sem novidade.
+- VERMELHO: configurador com ~470.000 combinações + encomendas sob medida -> 2ª passada.
