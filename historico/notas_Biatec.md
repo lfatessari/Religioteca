@@ -14,3 +14,8 @@
 - Site watches-1 = 70 produtos (35 atuais + 35 descontinuados): catálogo oficial completo conferido.
 - "Premium" = 1ª série 2016-18 com Eterna 3901A (Corsair 01-05, Majestic 01-05). "F" = série Sellita seguinte; "N" = atual.
 - Pendentes de foto: Marína Set, CS TAMI, Magnifique 03, Majestic 01 N, CS 02 F, CS SE 02, CS30B, Corsair 02/03F/05 Premium, CS 01-04 Premium, Golden Ratio 04/05, Majestic 01 Premium, Marine 03 (desc.), Leviathan 01?
+- WDL: Vintage 02 = CVNTG02 (inferido), Leviathan LV02/LV03, Majestic SE 01 WDL = MVSE01WDL, Heritage 02 = HT02.
+- Watchbandit (16): fotos webp melhores para atuais (Marine 01N/02N/03N, Leviathan 01F/02, Vintage 01-05, CS 01N/02N/03N, Heritage 01-03). Trocar fotos.
+- Fábrica em Banská Bystrica (startitup 2018).
+- Chronoshop tem categorias Biatec (biatec, heritage-1, corsair, majestic, water-marine, leviathan, exclusive) - buscar.
+- Seções feitas: 1,2,2c,3,5(watchpolice),6(chrono24 index falhou),7 parcial,9 parcial.
