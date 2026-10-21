@@ -14,3 +14,4 @@
 - 11132 "Sage dial" nome DX3 Plus é inferência (watches.com tem DX3 Plus Aquamarine/Cobalt); 11039 "Savvy" inferido do título.
 - ultimatefieldwatch.com = LOJA OFICIAL atual (Shopify, 15 páginas de 24 em /collections/watches). G da aba Marcas aponta o site antigo bertucciwatches.com. Logo: https://ultimatefieldwatch.com/cdn/shop/files/UFW-Logo-2026_300x.png?v=1784681701
 - Pulados (iguais aos códigos base): 12074CC, 12075CC, 12042CA. Bonés A0030/A0031 não entram.
+- 17023-17028 aparecem na loja oficial como 'D-3T NATO Epic' (mesmos códigos já gravados como D-3T Retroform Epic da página antiga; mantido nome antigo, E menciona). CPO (CA/CB) pulados.
