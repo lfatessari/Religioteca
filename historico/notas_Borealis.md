@@ -14,3 +14,4 @@
 - eBay itm 227156106930 e ebay.de 226459333844: CLIENT_ERROR.
 - Estoril 300 GMT também chamado 'Estoril Traveler GMT' (Miyota 9075).
 - watchuseek thread borealis-olisipo.5085405: CLIENT_ERROR. Loja PL czasuprzestrzen (steinhart-zegarki.pl) vende Borealis; categoria /pl/c/Borealis/59 (link de página, não de busca).
+- lug2lug.org/brands/borealis-watch-co: robots. shop.app redireciona p/ shop.com (não aberto). relojesexclusivos cita coleções Cascais, Azores, Madeira.
