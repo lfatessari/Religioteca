@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 197,
- "ultima_versao": 181,
+ "proxima_linha_marcas": 199,
+ "ultima_versao": 182,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2301,6 +2301,48 @@
     }
    },
    "obs": "Tratada como grande (maison de Jean-Claude Biver) e feita sozinha. Site jcbiver.com /watches/ = 29 atuais + 4 páginas ocultas + peças únicas (protótipo 00/00, Catharsis Only Watch, Bucherer, Doha, Malaquita, La Danse du Temps, Desert Rose, Echoes of this Moment). Códigos PRF da Bucherer/Phillips/EveryWatch. Obs em M. Próxima: Black Belt Watch (197)."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 182,
+   "marca": "Black Belt Watch",
+   "linha_marcas": 197,
+   "linhas_relogios": "23528-23529",
+   "relogios": 2,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "grande": false,
+   "fontes": 15,
+   "passadas": {
+    "1": {
+     "fontes": 15,
+     "novos": 2
+    }
+   },
+   "obs": "Catálogo fechado: Black Belt Watch automático (2009) + Black Belt Spirit (2010, 300 pç); Europa Star (Arpa) confirma 'um só modelo básico'. blackbeltwatch.com fora do ar (L). Obs em M."
+  },
+  {
+   "data": "2026-10-21",
+   "versao": 182,
+   "marca": "Black Goose",
+   "linha_marcas": 198,
+   "linhas_relogios": "23530-23562",
+   "relogios": 33,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes": 44,
+   "passadas": {
+    "1": {
+     "fontes": 34,
+     "novos": 43
+    },
+    "2": {
+     "fontes": 10,
+     "novos": 0
+    }
+   },
+   "obs": "Francesa (Nice, 2016, Marc-Olivier Rinaldi). Vermelha: ateliê ACH faz encomendas não publicadas e várias páginas antigas de produto não abrem (L parcial). Fotos boas da Field Automobile. Black-Out Concept (199) adiada: parece grande (personalizações de relógios de outras marcas + modelos próprios) → fica sozinha na próxima."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
