@@ -1,0 +1,1282 @@
+{
+ "marca": "Boldr",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "J: \"Expedition GMT\" não existe como modelo (há Expedition, e GMT nas linhas Safari GMT, Odyssey Freediver GMT e Globetrotter GMT). K: logo não encontrado em arquivo de imagem.",
+ "fontes": [
+  {
+   "url": "https://www.boldrsupply.co/collections/all-watches",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all?page=4",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/boldr",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/boldr-supply-co-watches-c-5828/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/boldr-supply-co",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://windupwatchshop.com/collections/boldr-supply-co-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/daring-dive-ready/products/odyssey-freediver-gmt-ck1886",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/venture",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/odyssey",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/limited-edition",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/members-only",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/safari",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/odyssey-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/medics",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/expedition",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/archive",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/discontinued-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/pokemon",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/boldr-globetrotter-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/archive?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/fb-catalog",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/journey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/boldr-voyager",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/boldr-explorer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/fb-catalog?page=5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/fb-catalog?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/fb-catalog?page=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/fb-catalog?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all?page=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all?page=3",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all?page=5",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/limited-edition?page=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all-watches-1?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/all-watches?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/venture?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/chronographs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/collections/boldr-supply-co-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.sportique.com/collections/boldr",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/boldr",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/boldr/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/boldr-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://parse.gl/brands/boldrsupply-co",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/collections/boldr-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/boldr-watches/products/boldr-watch-venture-wayfarer-khaki-venture-wayfarer-khaki",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/collections/boldr-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/boldr",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-bronze-aventurine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-bronze-auburn",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-bronze-pine-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-bronze-prussian-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-bronze-coal-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-odyssey-meteogrey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-i-white-sands",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-eiger?currency=EUR",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/field-medic-camo-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/field-medic-salamander",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/pfp-field-medic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/field-medic-iv",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/field-medic-iii",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-288",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-mint-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-wb1985",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-202",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-citrus-orange",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-white-frost",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-gmt-rb1876",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-indonesia",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-everest",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-rushmore",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-el-capitan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-matterhorn",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-sinai",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-dune-7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-odyssey-metal-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-mgp",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-regatta-admiral-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-odyssey-cali-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-black-abyss-20",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-earth",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-gmt-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-venture",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-coral-brown-20",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-pacific-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-dark-meteo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-i-karekare",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-green-star",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-un-dark",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-staghorn",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-wayfarer-tangerine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-chaigo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-wayfarer-admiral",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/gmt-banff",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/merlion-50th-anniversary",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/gmt-tarangire",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/ranger-kopje",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-x-artstory-ii",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-x-nitecore-kraken",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/five-in-a-row-ii",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/enigmath-sinharaja",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venusaur",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/charizard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/pokemon/products/pikachu",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-bronze-serpentine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-bronze-slate-grey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/the-t-rex-by-boldr-x-nitecore",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/voyage-mediterranean",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/voyage-pfp",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/expedition-i-karakum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/voyage-antarctic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-regatta",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-gmt-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-earth-sp",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-gmt-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-gmt-khaki",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-venture-dlc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-venture-carbon-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/field-medic-lagoon-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-abyss-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-coral-brown",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/rally-iii-wells-junior",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/odyssey-freediver-meteo113",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/five-in-a-row-i",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/blastoise",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-x-artstory",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-jungle-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-venture-adventure-khaki",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/enigmath-schwarzwald",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/boldr-x-ogl",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/products/venture-wayfarer-sierra",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windupwatchshop.com/collections/all/products/worn-wound-x-boldr-rtcc-limited-edition-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/the-boldr-odyssey-collection-in-focus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-odyssey-reef-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/boldr-odyssey-45-bronze-lumicast/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/hands-on-with-the-boldr-odyssey-lumicast/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/boldr-meteorite-odyssey-diver/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-globetrotter-meteorite-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-globetrotter-meteorite-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-globetrotter-black-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/introducing-boldr-globetrotter-automatic-gmt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/kickstarter-boldr-voyage/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://thetimebum.com/?p=581",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=534",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/boldr-journey-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coolhunting.com/design/boldr-affordable-chronograph-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://vulcanpost.com/578237/boldr-journey-kickstarter-16-hours",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-journey-chronograph-corsair-display",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wahsoshiok.com/watch-review-boldr-journey-review/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boldr-watches/boldr-journey-chronograph-corsair-quartz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boldr-watches/boldr-explorer-ii-gmt-grey-quartz",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boldr-watches/boldr-explorer-ii-gmt-black-quartz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaminskyblog.com/2018/05/14/boldr-explorer-ii-gmt-review-short-interview-with-co-founder/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/fs-boldr-explorer-ii-gmt.5509207/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-voyager-caspian",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-voyager-aegean",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaminskyblog.com/2018/12/14/boldr-voyager-mediterranean-review/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/882388634/from-where-to-wear-go-afield-with-boldr-expedition",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://wornandwound.com/review/boldr-expedition-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/2017/11/boldr-expedition-rushmore.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.com/BOLDR-Expedition-Automatic-Field-Kilimanjaro/dp/B07F7KPQZW",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.shop.yuehwa.com/collections/lifestyle_accessories/products/boldr-odyssey-bronze-tourbillon-green-otg1911005",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/collections/boldr-supply-co-watches/odyssey",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/boldr-odyssey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-boldr-odyssey-affordable-500-meter-dive-watch-now-kickstarter/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thetimebum.com/2018/03/boldr-odyssey-meteobronze.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://microbrand.store/products/boldr-odyssey-steel-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/products/boldr-odyssey-bronze-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/products/boldr-odyssey-metal-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/products/boldr-odyssey-bronze-meteo-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/products/boldr-voyager-caspian",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/boldr/index.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/boldr/explorer-gmt/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/boldr/voyager/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/hands-on-with-the-boldr-venture-worn-wound-le/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/new-boldr-watch-releases-for-2023",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/boldr/expedition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/boldr/odyssey-freediver-288--id17402790.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/learn/boldr-watches-a-journey-through-time-and-adventure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/why-boldr-is-the-enthusiast-brand-that-you-should-have-on-your-radar/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/odyssey-carbon-special-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-odyssey-carbon-red",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-odyssey-carbon-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-odyssey-carbon-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/top-watches-of-february/products/boldr-venture-navy-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/boldr/products/boldr-sandstorm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpolice.com/brands/boldr",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/boldr?referenceNumberRaw=EXPEDITION+I+-",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/boldr",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/18625919-boldr-odyssey-freediver-202-boldr-od-fd-202",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/boldr?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-odyssey-bronze-white-knight",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/boldr/products/boldr-odyssey-bronze-sw-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.amazon.com/Boldr-Odyssey-Silver-Watch-Stainless/dp/B09KJC8K79",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-boldr-odyssey-bronze-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/boldr-watch-odyssey-silver-wave-odyssey-silver-wave",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/mens-251-1-000/products/boldr-watch-odyssey-lumicast-aged-steel-black-abyss-limited-edition-odyssey-lumicast-aged-steel-black-abyss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/boldr-watch-globetrotter-gmt-meteoblue-globetrotter-gmt-meteoblue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/blog/boldr-odyssey-bronze-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/BOLDR-Wristwatches/31387/bn_7116493822",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.com/itm/128088573930",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/205548612100",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177019511105",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/317124321877",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/listing/4738786-wts-boldr-windup-watch-shop-venture",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Boldr-Mens-Wristwatches/31387/bn_7117067183",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/boldr-globetrotter-gmt-dive-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-odyssey-freediver-545",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/boldr-supply-co-odyssey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/making-an-impression-with-the-boldr-odyssey-freediver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/blogs/press-releases",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/blogs/b-roll/boldr-design-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/blogs/b-roll",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/blogs/b-roll?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/blogs/press-releases/first-in-its-class-boldr-supply-company-releases-its-latest-addition-to-the-odyssey-family",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thecoolector.com/boldr-x-worn-wound-3xt-gmt-limited-edition-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/boldr/products/boldr-venture-un-dark",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=69795",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=103972",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/boldr-x-watchgecko-polaris-100-piece-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/products/boldr-watch-odyssey-silver-wave-odyssey-silver-wave",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/all/products/boldr-venture-earth-the-pink-fighter-project",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=4885",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/boldr-explorer-gmt-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.methodist.org.sg/methodist-message/the-boys-brigade-in-singapore-celebrates-90-years-of-enriching-young-lives/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/venture?page=3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/collections/venture-automatic",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/titanium-boldr-venture-watch-built-for-extreme-use-in-the-field/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/2018/10/boldr-venture.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://petervonpanda.blogspot.com/2017/09/boldr-explorer-gmt-black-steel-watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://allthingswatches.wordpress.com/2020/01/09/boldr-explorer-ii-gmt-stealth-hands-on-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/boldr-explorer-gmt-black-version-with-2-color-lume.4682791/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/boldr-watches-fd0b5e1b-d6d3-4199-8de6-2cf2a36ed6ac/boldr-explorer-gmt-quartz-0638455380202",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://windupwatchshop.com/blogs/chronicle/windup-watch-shop-x-boldr-the-new-venture-series",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sekvens.com/product-category/watches/boldr-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/boldr-venture-gmt-green",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/882388634/boldr-watches-every-journey-begins-with-a-single-t",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=124457",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/all/products/boldr-x-worn-wound-3xt-blue-gmt-limited-edition-boldr-3xt-blue",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/boldr/odyssey/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-boldr-journey/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://nushorology.wordpress.com/2016/05/21/introducing-the-boldr-journey-chronograph/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/all/products/boldr-globetrotter-gmt-blue-black",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/the-boldr-journey-watch-built-to-accompany-you-on-every-step-of-your-journey/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boldrsupply.co/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://casebackchron.com/watch-releases-september-1-2026/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/worn-and-wound-boldr-conquer-2026/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-the-new-boldr-odyssey/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.visitsingapore.com/id_id/madewithpassion/brands/boldr-supply-co/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krisshop.com/en/store/withlovesg/boldr",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

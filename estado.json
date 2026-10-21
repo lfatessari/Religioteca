@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 213,
-  "ultima_versao": 191,
+  "proxima_linha_marcas": 214,
+  "ultima_versao": 192,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2597,6 +2597,21 @@
       "site_bloqueado": false,
       "fontes_abertas": 33,
       "obs": "catálogo fechado conferido com o site oficial (6 modelos); Boldr (grande) fica para a próxima"
+    },
+    {
+      "data": "2026-10-21",
+      "marca": "Boldr",
+      "linha_marcas": 213,
+      "linhas_relogios": "25067-25255",
+      "relogios": 189,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 254,
+      "passadas": {
+        "1": 229,
+        "2": 25
+      },
+      "grande": true
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2608,33 +2623,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-21T19:41:41Z",
-  "ultimo_sinal": "2026-10-21T20:26:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Boldr"
-    ],
-    "linha_marcas": 213,
-    "grande": true,
-    "relogios": "historico/parcial_Boldr_relogios.txt",
-    "fontes": "historico/parcial_Boldr_fontes.txt",
-    "notas": "historico/notas_Boldr.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2"
-    ],
-    "passada": 2
   }
 }
