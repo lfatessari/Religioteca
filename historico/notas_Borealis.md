@@ -7,3 +7,5 @@
 - Blog oficial = só artigos SEO (sem lançamentos). Loja antiga Ecwid borealiswatch.com/store/... (p70304331 Cascais Black Cathedral C3-X1) redireciona. smtp.borealiswatch.com/tags/adraga = robots.
 - Imagens: páginas de coleção não trazem fotos dos produtos; usar link da página do produto na C quando não houver foto.
 ## Seções feitas: 1, 2 (coleções, blog), 2c parcial
+- Outros nomes a buscar: Scout Sniper (2014), Cascais, Sea Storm v1, Porto Santo, Batial, Seafarer I/II, Bull Shark V1, Umi, Sea Diver, Adraga, Estoril 300 DW, Santa Cruz Bronze, Scorpionfish V2, Neptuno, Sei He Ki, Icarus, Sintra.
+- +Sea Hawk (citado), Bull Shark Bronze (anunciado 2017).
