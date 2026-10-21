@@ -2661,7 +2661,7 @@
   }
  },
  "em_execucao": "2026-10-21T22:41:07Z",
- "ultimo_sinal": "2026-10-21T22:42:09Z",
+ "ultimo_sinal": "2026-10-21T22:44:31Z",
  "em_andamento": {
   "marcas": [
    "Borgeaud",
@@ -2673,7 +2673,10 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2",
+   "3",
+   "9"
   ],
   "passada": 1,
   "obs": "Botta Design (linha 218) dimensionada como grande: fica para a próxima execução, sozinha"
