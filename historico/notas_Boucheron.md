@@ -15,3 +15,13 @@
 - Epure aço 2015: 38 e 42 mm (preto/prata) = códigos Selfridges WA021203/204/301 provavelmente; não criadas linhas genéricas extras. Logo: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/boucheron_logo_t.png?itok=-VAEtKMH
 - Collectorsquare 'Crazy Jungle Seahorse' (2011) = Crazy Seahorse: mantida só a linha 'Crazy Jungle Seahorse'? — resolvido: fundidos
 - J cita 'Quatre': é coleção de joias; nenhum relógio Quatre encontrado (grazia.sg, buscas).
+## 1ª passada encerrada (01:06 UTC): 5 fontes seguidas sem novidade. 133 fontes, 126 relógios.
+## 10b auto-auditoria
+1. Blog/imprensa oficial: site oficial é JS; aberta a página "exceptional watches" e fichas de produto; sem blog acessível.
+2. site:boucheron.com por coleção/código feito (Reflet, Epure, Serpent Bohème, Ajourée, Joy, excepcionais).
+3. Lojas: Selfridges, Harrods, Maier, Castafiore, 58 Facettes, Delray, Collectorsquare, 1stdibs.
+4. Primeiro relógio: relógios desde o séc. XIX; Reflet 1947 (vintage Reflet Omega anos 50/60 incluído).
+5. J: Reflet, Serpent Bohème, Epure OK; Quatre = joias, sem relógio.
+6. Limitadas com nº na B; peças únicas no começo da E.
+7. Fontes: 133.
+- MARCA VERMELHA: EveryWatch 269 à venda; muitas referências WA atuais/antigas (WA009xxx, WA010xxx, WA0110…) e vintage só com números de série. 2ª passada: EveryWatch famílias, códigos WA009/WA010, Ajourée, Epure, Serpent.
