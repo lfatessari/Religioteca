@@ -2842,7 +2842,7 @@
     }
   },
   "em_execucao": "2026-10-22T07:41:31Z",
-  "ultimo_sinal": "2026-10-22T07:41:31Z",
+  "ultimo_sinal": "2026-10-22T07:49:05Z",
   "em_andamento": {
     "marcas": [
       "Breil"
@@ -2852,7 +2852,9 @@
     "relogios": "historico/parcial_Breil_relogios.txt",
     "fontes": "historico/parcial_Breil_fontes.txt",
     "notas": "historico/notas_Breil.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
