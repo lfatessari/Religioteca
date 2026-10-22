@@ -23,3 +23,5 @@
 7. Fontes 1ª passada: 73.
 - DECISÃO: VERMELHA. Marca de moda com milhares de referências desde os anos 80 (TW0001–TW2213, EW0001–EW0862, BW0001–BW0581, 2519xxxxxx, vintage 5xxxx); muitas só com link de anúncio; site oficial só mostra fichas recentes; Chrono24 e EveryWatch inacessíveis.
 ## 2ª passada: foco em vintage (Okay, Pareo, Target, Elysée, Charme, Starlight, Vogue, Grafic, Midway 1996, Manta anos 80-90), linhas 2000s (Tribe, Milano, Orchestra, Mantalite, Escape), EW0001-0300.
+## Fim da 2ª passada (~08:27): 10 fontes, ~113 relógios novos -> 3ª passada obrigatória
+- ebay.de 5 ATM: WebFetch devolveu erro de política (não abriu)
