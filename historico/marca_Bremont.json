@@ -1,0 +1,507 @@
+{
+ "marca": "Bremont",
+ "usa_codigos": true,
+ "logo": "https://logowik.com/content/uploads/images/bremont-watches-new4880.logowik.com.webp",
+ "site_bloqueado": "Parcial – bremont.com: listagens www.bremont.com/collections e os endereços regionais (us./au.bremont.com, que redirecionam) não abrem pela leitura automática; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I tem \"[⚠️ verificar mudanças recentes]\": o catálogo atual do site oficial é Altitude, Supermarine, Terra Nova e Supernova (a linha Martin-Baker virou Altitude MB Meteor); MBII, ALT1 e U-2 citados em J saíram do catálogo.",
+ "fontes": [
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bremont.com/products/brompton-cheaney-r-s",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.thewatchcompany.com/bremont/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/bremont-watches-and-wonders-2021?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/bremont-watches-for-men/case-width-42mm",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-bremont-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bremont-watch-used",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Bremont",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/bremont/martin-baker",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://watchbase.com/bremont/supermarine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/range/martin-baker",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://berrysjewellers.co.uk/collections/bremont-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/bremont-limited-editions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/bremont-watches.html?page=3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=154495",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.righttime.com/rt/bremont/wwoldmodels.htm",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://mozerisfineantiques.com/watches/p/bremont-ss-day-date-chronometer-bc-s2-mens-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches-of-switzerland.co.uk/c/Brands/Bremont/Mens-Watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/bremont-bc-f1-bk-07-watch-bc-f1-bk-07-bm-015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bremont.com/collections/steel-watches.oembed?page=2",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.bremont.com/collections/steel-watches.oembed?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/en-hk/collections/rose-gold-watches.oembed",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.bremont.com/en-hk/collections/martin-baker.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/collections/solo-34",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont-gold.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont-armed-forces.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/collections/broadsword-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/bremont-watches/boeing.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchbase.com/bremont/america-s-cup",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont-americas-cup-oracle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.bremont.com/collections/watches-mens-1918-ltd?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/pages/bremont-watches-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/bremont/page/4/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/brands/bremont/watches",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/bremont-launches-new-longitude-limited-edition-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bremont.com/en-ae/products/bremont-h-4-hercules-rose-gold.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bremont.com/collections/limited-editions.oembed?page=2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.bremont.com/en-hk/collections/special-editions.oembed",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.bremont.com/en-hk/collections/aviation-watches.oembed",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.bremont.com/en-hk/collections/diving-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/en-ae/collections/sailing-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/collections/h1-generation.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bremont.com/products/ep120",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/presenting-the-bremont-hawking-watch-collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ablogtowatch.com/bremont-1918-limited-edition-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/news-presenting-the-bremont-wright-flyer-limited-edition-450-pieces-across-three-different-models",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2013/06/news-bremont-codebreaker-flyback-chronograph-gmt-tribute-to-bletchley-park.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.bremont.com/blogs/blogbook/bremont-jaguar-what-drives-this-iconic-partnership",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wakefieldsjewellers.co.uk/blog/brand-exclusive-bremont-jaguar-timepiece-collaboration-jaguar-mki-mkii",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://luxuriousmagazine.com/british-watch-company-bremont-partners-with-jaguar-to-create-a-series-of-six-limited-edition-wristwatches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/bremont-watches/alt1-z-zulu.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/bremont-kingsman-special-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prideandpinion.com/products/bremont-kingsman",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfinder.com/watches/bremont/supermarine",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/bremont/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/2026-new-versions-of-the-bremont-terra-nova-jumping-hour-including-a-new-35mm-size/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/bremont-supernova-hawking-limited-edition-chronograph-black-dlc-meteorite-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bremont.com/products/mbi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/watches/bremont/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/b/bremont-watches/mbii-mbiii.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://martin-baker.com/watches/mb-i/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/bremont",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bremont.com/pages/bamford",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/brands/bremont/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/bremont-watches-archives/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/a-look-at-the-new-bremont-maya-ladies-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/bremont/alt1/alt1-p-bl/watch-32497474",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/pages/military-projects",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.crownandcaliber.com/p/a-look-at-bremonts-military-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=42989",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/bremont-offers-exclusive-c-17-watch-for-charity-auction/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fellows.co.uk/blog/news/2021/02/02/limited-edition-1-of-275-raf-watch-to-soar-at-auction",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wwtest.bonhams.com/press_release/38769",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/bremont-rolling-stones-guitarist-ronnie-wood-on-limited-edition-1947-collection",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/bremont-2021-limited-edition-watches",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://blog.peterjackson.co.uk/bremont-townhouse-2022-watch-releases/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://bremont.com/products/1947-collection-no3",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://bremont.com/products/1947-collection-no1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://bremont.com/range/kingsman",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bremont.com/en-hk/collections/homepage-featured-products.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bremont.com/en-hk/collections/mens-watches.oembed?page=3",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bqwatches.com/product-category/bremont?p=1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wakefieldsjewellers.co.uk/blog/brand-exclusive-bremont-redevelops-icon-introducing-new-designs-original-alt1-c-range",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/two-blueblood-brits/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mrporter.com/en-be/hub/luxury-watch-guide/brands/bremont/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://us.bremont.com/collections/lewis-moodys-christmas-cracker-collection.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.michaeljonesjeweller.co.uk/blogs/mjj-blog/bremont-watches-wonders-2026",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=1388",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thegentlemansjournal.com/article/introducing-bremonts-beautiful-limited-edition-alt1-c/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/bremont-2019-watch-collection",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://hardybrothers.com.au/blogs/hardy-brothers-world/bremont-2022-novelties",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://cdnlogo.com/logo/bremont_205488.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://logowik.com/bremont-watches-new-logo-vector-67441.html",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

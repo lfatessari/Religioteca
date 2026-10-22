@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 231,
-  "ultima_versao": 207,
+  "proxima_linha_marcas": 232,
+  "ultima_versao": 208,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2898,6 +2898,24 @@
         "1": "48 fontes/10 relógios"
       },
       "obs": "usa_codigos=false; catálogo fechado (site oficial 10 relógios = Chronoscout = imprensa); Havana = antigo Cohiba; 'Three Hand 36mm' de J não encontrado; observações em M230; próxima: Bremont (grande, sozinha)"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 208,
+      "marca": "Bremont",
+      "linha_marcas": 231,
+      "linhas_relogios": "29456-29754",
+      "relogios": 299,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial (www.bremont.com/collections e us./au. redirecionam; só abrem endereços vindos de busca)",
+      "fontes_abertas": 99,
+      "passadas": {
+        "1": "73 fontes/279 relógios",
+        "2": "13 fontes/18 relógios",
+        "3": "13 fontes/2 relógios"
+      },
+      "obs": "usa_codigos=true; um relógio por referência sem sufixo de pulseira (demais na E); ~67 linhas só com link de página; edições militares restritas, configurador MBII e a 1947 Collection de Ronnie Wood (47 peças únicas, só 4 nomeadas) não listáveis por inteiro; EveryWatch fechado para membros; WatchBase famílias alt1/supermarine com erro; observações em M231; próxima: Breva (linha 232)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2909,33 +2927,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-22T11:42:22Z",
-  "ultimo_sinal": "2026-10-22T12:30:01Z",
-  "em_andamento": {
-    "marcas": [
-      "Bremont"
-    ],
-    "linha_marcas": 231,
-    "grande": true,
-    "relogios": "historico/parcial_Bremont_relogios.txt",
-    "fontes": "historico/parcial_Bremont_fontes.txt",
-    "notas": "historico/notas_Bremont.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p2",
-      "p3"
-    ],
-    "passada": 3
   }
 }
