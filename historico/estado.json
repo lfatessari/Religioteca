@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 219,
-  "ultima_versao": 196,
+  "proxima_linha_marcas": 220,
+  "ultima_versao": 197,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2693,6 +2693,24 @@
         "3": "10 fontes/5 relógios"
       },
       "obs": "usa_codigos=false (Art.-Nr. de 6 dígitos só em revendedores: 24 linhas com código); relógios de parede não entraram; links internos do site pedem permissão — só abertos os vindos de busca"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 197,
+      "marca": "Boucheron",
+      "linha_marcas": 219,
+      "linhas_relogios": "25862-26038",
+      "relogios": 177,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes_abertas": 178,
+      "passadas": {
+        "1": "133 fontes/109 relógios",
+        "2": "24 fontes/18 relógios",
+        "3": "21 fontes/32 relógios"
+      },
+      "obs": "usa_codigos=true (WA......); muitas linhas só com link de página (site oficial sem foto; lojas japonesas); vintage só com números de série não entram como código; Quatre é joia, sem relógio"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

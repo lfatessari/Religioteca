@@ -1,0 +1,902 @@
+{
+ "marca": "Boucheron",
+ "usa_codigos": true,
+ "logo": "https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/boucheron_logo_t.png?itok=-VAEtKMH",
+ "site_bloqueado": "Parcial – boucheron.com: páginas de coleção carregam por JavaScript (vazias na leitura automática) e as fichas de produto não trazem foto; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I e J citam 'Quatre' como linha de relógios, mas Quatre é coleção de joias (nenhum relógio Quatre encontrado); I tem '[⚠️ verificar]' — fundação 1858, Place Vendôme 1893, Reflet 1947 e grupo Kering conferem; principais linhas de relógio que faltam em J: Epure d'Art, Ajourée, Crazy Jungle, Solis, Mec, Carrée, Paname",
+ "fontes": [
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/reflet/lpi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.selfridges.com/CA/en/cat/boucheron/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/boucheron/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boucheron.com/us/watch-epure-cypris-wa021435.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boucheron.com/us/watches/watches-by-collection/serpent-boheme.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boucheron.com/gb/serpent-boheme-yellow-gold-wa015510.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.selfridges.com/US/en/product/boucheron-wa030504-reflet-small-stainless-steel-diamond-and-sapphire-cabochon-watch_785-10169-WA030504/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.selfridges.com/GB/en/cat/boucheron/?pn=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.selfridges.com/GB/en/cat/boucheron/?pn=3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.selfridges.com/GB/en/cat/boucheron/?pn=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castafiore.com/collections/montres-boucheron",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ferret.fr/en/watches/boucheron-timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/boucheron/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/boucheron/jewelry/watches/wrist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/maison-boucheron/jewelry/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/boucheron/watch-13714944",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112417-boucheron-chronographe-automatique-or.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chronext.com/boucheron",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernardwatch.com/Boucheron?View=list",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/products/boucheron-clous-de-paris-dress-watch-as12193",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/boucheron/watches/reflet/reflet-large_wa030301",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/boucheron/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boucheron.com/kw_en/serpent-boheme-watch-wa015708.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/ja_en/serpent-boheme-watch-wa015803.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/us/serpent-bohme-watch-wa015705.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boucheron.com/gb/serpent-bohme-watch-wa015707.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/boucheron/watches/serpent-boheme/serpent-boheme_wa015605",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/us/epure-ble-d-or-wa021404.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boucheron.com/us/epure-tourbillon-vitis-wa021446.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/us/epure-tourbillon-hopi-wa021447.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/qa_en/epure-lierre-de-paris-white-wa021439.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boucheron.com/gb/watch-epure-cypris-wa021436.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/ja_en/watch-epure-selene-wa021409.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boucheron.com/us/exceptional-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://boucheron.com/gb/epure-tourbillon-peacock-feather-white-wa021450.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.boucheron.com/us/epure-tourbillon-plume-de-paon-pink-wa021453.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://signemagazine.com/watches/boucheron-celebrates-160-years-with-160-reflet-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/gb/epure-tourbillon-acanthe-wa021449.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/en/epure-vague-de-lumiere-wa021416.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/boucheron/watches/epure-vague-de-lumiere",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/reflet-pompon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/reflet-large",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/epure",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2021/07/02/boucheron-ajouree-masy-le-cameleon-for-only-watch-2021/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/watch-2017-boucheron-epure-ble-dete/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/ajouree-hera",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/node/480758",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/womens-watches-from-boucheron/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/crazy-collection/lpi",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.boucheron.com/en/joy-de-lumiere-wa027203.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/gb/joy-de-lumiere-wa027205.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/boucheron-joy-de-lumiere-only-watch-2023/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/only-watch-miniature-fauna-for-the-wrist-27786.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.superyachts.com/lifestyle/story/the-epure-tourbillon-andlsquoama-fishandrsquo-by-boucheron-3025",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/boucheron/90065",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/boucheron/191147",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/boucheron/234172",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/boucheron/HK060423/527",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/boucheron/210942/zh",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/boucheron/HK060423/564",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/boucheron/HK060423/560",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/ronde-ellipse-anniversaire",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/reflet-xl-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/895754-montre-boucheron-ronde-38-mm-quartz-wa010301",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://collecting.com/for-sale/2000s-boucheron-paname-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/boucheron-elegante-montre-de-dame-cira-4050-or-rose",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://58facettes.com/products/boucheron-montre-chronographe-en-acier",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://58facettes.com/products/230253-montre-boucheron",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.selfridges.com/CA/en/product/boucheron-wa030411-reflet-medium-stainless-steel-automatic-watch_R03919539/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrods.com/en-gb/p/boucheron-steel-and-diamond-serpent-boheme-watch-23mm-000000000007162209",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/la-carree/carree/boucheron-carree-in-yellow-gold-ref-carree-circa-1980-415483.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/boucheron-reflet-icare-parallele-montre-quartz-en-acier",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jewelry.ha.com/itm/timepieces/wristwatch/boucheron-reflet-parallele-men-s-steel-chronograph-modern/a/687-59631.s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/boucheron/mec/lpi",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://asset.everywatch.com/boucheron/carree-clou-de-paris/watch-12539507",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/reflet-solis/lpi",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/reflet-icare/lpi",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/reflet-pointe-de-diamant/lpi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/boucheron-autres-horlogerie/lpi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/reflet/reflet-solis/boucheron-reflet-solis-in-yellow-gold-circa-2000-427208.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/boucheron/reflet/reflet-icare/boucheron-reflet-large-model-watch-in-stainless-steel-circa-2000-347777.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castafiore.com/products/montre-a-secret-boucheron-en-or-18k-platine-saphirs-et-diamants-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/boucheron/reflet/reflet-icare/boucheron-reflet-icare-watch-in-steel-circa-2000-433699.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castafiore.com/products/855559-boucheron-coffret-complet-montre-reflet-solis",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://harrods.com/en-gb/p/boucheron-stainless-steel-reflet-classic-watch-21mm-000000000006241191",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harrods.com/en-bs/p/boucheron-stainless-steel-medium-reflet-watch-21mm-000000000007162210",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harrods.com/en-gb/p/boucheron-steel-and-diamond-serpent-boheme-watch-32mm-000000000007376470",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://harrods.com/en-ua/p/boucheron-stainless-steel-reflet-watch-18mm-000000000007163474",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.webchronos.net/news/92806/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-epure-acier-chronograph-19441.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-epure-14780.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2015/06/01/boucheron-epure-collection-epure-automatic-38mm-42mm-and-epure-automatic-chronograph-43mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/boucheron-ronde-automatic-chronograph-5412.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/auctions-and-vintage/boucheron-epure-steel-18973.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-baselworld-2014-rectangles-and-symbols-16948.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-ajouree-bouquet-dailes-14896.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-epure-dart-fleur-de-jour-17042.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/boucheron-crazy-jungle-hathi-14368.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/french-jewelry-houses-french-roots-give-rise-to-superb-timepieces-16060.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/epure-je-pense-a-toi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/epure-tourbillon-vitis",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/crazy-jungle-hathi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-khepri-a-secret-14838.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-khepri-15219.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/104971036-boucheron-26-place-vendome-ronde-automatic-caliber-gp-4000-men-2005",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/summer-watches-insects-and-other-strange-little-creatures-17816.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/tourbillon-grenouille",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/events/exhibitions/boucheron-gphg-2013-15752.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.2luxury2.com/?p=14564",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/dior-and-boucheron-for-the-ladies-at-baselworld-12291.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://loupiosity.com/2014/04/boucheron-breath-paris/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://piazo.jp/article/Baselworld2016-Boucheron-new-models-review/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.superyachts.com/lifestyle/story/boucheron-launch-orient-inspired-watch-range-603",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://archive.atimelyperspective.com/?p=4362",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/innovation-and-technology/boucheron-only-watch-2015-19825.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/mbf-with-boucheron-present-the-hm3-jwlrymachine-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://grazia.sg/watches-jewellery/boucheron-quatre-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-boucheron-bumblebee-18k-yg-dress-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105119922-boucheron-chrono-golf-men-2000-2010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112244-boucheron-diamant-joaillerie.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/655156-boucheron-montre-reflet-paris-omega-or-rose",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.iconeek.com/boucheronrefletomega/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/boucheron-reflet-clous-de-paris-watch-18ct-yellow-gold/id-j_25624322",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/boucheron-vintage-bamboo-anyolite-diamonds-18k-yellow-gold-watch-france-1970s/id-j_22472912",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/boucheron-ladys-yellow-gold-bakelite-diamond-bracelet-watch-circa-1970s/id-j_125453",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.langantiques.com/university/boucheron_art_deco_watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/boucheron/watches/reflet/reflet-medium_wa030411",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/ja/l/105119922-boucheron-chrono-golf-men-2000-2010",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.harrods.com/en-gb/p/boucheron-yellow-gold-and-diamond-serpent-boheme-watch-23mm-000000000007767273",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-int/jewelry/boucheron/serpent-boheme/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thejewelleryeditor.com/shop/product/boucheron-reflet-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://senatus.net/album/view/15692",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://node2.senatus.net/album/view/15093",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/boucheron/reflet-xl/watch-14128753",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105619511-boucheron-reflet-1858-paris-signature-men-2000-2010",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/page-c.collection.detail/boucheron-unknown/ti-1662836/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/boucheron/reflet/watch-13049101",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/boucheron/ronde/lpi",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrods.com/en-gb/p/boucheron-stainless-steel-and-diamond-reflet-watch-295mm-000000000006241250",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://boucheron.com/en/the-creations/watches/reflet.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/boucheron/watch-32492873",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/boucheron-xl-automatic-designer-wristwatch-steel-18-karat-rose-gold/id-j_7533871",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/ajouree-volute",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/boucheron-ajouree-aronda-18305.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.calibremagazine.com/boucheron-serpent-boheme-collection/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://boucheron.com/qa_en/reflet-small-yellow-gold-yellow-gold-dial-paved-with-diamonds-wa030508.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/boucherons-new-epure-watches/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://rubaiyat.com/products/boucheron-wa015803-2613",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicdriver.com/en/watch/boucheron/1111/336866",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/boucheron-paris-diamond-white-gold-wristwatch/id-j_16969692",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-171-215?page=0",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-157-170",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://loupethis.com/auctions/boucheron-reflet-solis-quartz-chronograph-stainless-steel",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/boucheron/reflet/reflet-xl/boucheron-reflet-xl-watch-in-18k-yellow-gold-circa-2000-346028.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.harpersbazaar.com.sg/jewels-watches/boucheron-reflet-watch-turns-70",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/boucheron/reflet/reflet/boucheron-reflet-in-stainless-steel-limited-edition-430746.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://skyjems.ca/pages/encyclopedia-boucheron-reflet",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/38236/",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/U-WA010303.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/U-BCRNWH2000YG.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/276535693841",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/187039353958",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://brandrevalue.com/purchase-items/pr20260610-watch-boucheron-bw1484",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://siegelson.com/products/boucheron_watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://brandrevalue.com/purchase-items/pr20260627-watch-boucheron-bx358",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://fril.jp/brand/2160/used/47",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/item/0000903311/price/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/brand/ブシュロン/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/result/boucheron/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/boucheron/reflet/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000007631/",
+   "passada": 3,
+   "novos": 23
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/brand/ブシュロン/パナム/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://hodinkee.jp/articles/the-golden-age-of-boucheron-wristwatches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/?p=50585",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://komehyo.jp/kaitori/item/br-140448/pd-202401/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/1636/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://komehyo.jp/kaitori/item/br-140448/pd-202502/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://precious.jp/articles/-/36799",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
