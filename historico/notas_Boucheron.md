@@ -11,3 +11,4 @@
 - Excepcionais (página oficial): Bouquet d'Ailes (Ajourée), Plume de Lumière (26), Fleur du Jour (26), Joy de Lumière, Héra, Khepri (26), Cypris (8), Amvara, 26 Vendôme/Vendôme Liseré, Reflet Pompon. Faltam códigos: Bouquet d'Ailes, Plume de Lumière, Fleur du Jour, Joy de Lumière, Khepri, 26 Vendôme.
 - Only Watch: 2015 Vague de Lumière WA021432, 2017 Blé d'été, 2021 Masy WA017317. Procurar 2013/2019/2023.
 - Faltam: Epure Tourbillon Ama Fish, Cypris tourbillon refs, Crazy Jungle (vários), Ajourée Hans, Epure je pense à toi, Quatre watch? MC/Solis/Paname/Chrono Golf/Parallèle/Carrée/Medea/20173.
+- Selfridges R04447367 (aço 1,21 ct) = provavelmente WA015801 (Harrods) — removida a duplicata.
