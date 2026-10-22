@@ -2822,5 +2822,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-22T06:41:27Z",
+  "ultimo_sinal": "2026-10-22T06:41:27Z",
+  "em_andamento": {
+    "marcas": [
+      "Breguet"
+    ],
+    "linha_marcas": 226,
+    "grande": true,
+    "relogios": "historico/parcial_Breguet_relogios.txt",
+    "fontes": "historico/parcial_Breguet_fontes.txt",
+    "notas": "historico/notas_Breguet.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
