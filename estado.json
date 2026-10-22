@@ -2893,5 +2893,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-22T10:41:48Z",
+  "ultimo_sinal": "2026-10-22T10:41:48Z",
+  "em_andamento": {
+    "marcas": [
+      "Bremoir"
+    ],
+    "linha_marcas": 230,
+    "grande": false,
+    "relogios": "historico/parcial_Bremoir_relogios.txt",
+    "fontes": "historico/parcial_Bremoir_fontes.txt",
+    "notas": "historico/notas_Bremoir.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
