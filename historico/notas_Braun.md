@@ -8,3 +8,4 @@
 - Fotos vintage: faltam; procurar (die-kettwiger, ebay, catawiki, braun archive)
 - Kulthifi: 87 itens, páginas 2-3 não alcançadas por busca.
 - Faltam: BN0046, BN0231 (feminino), BN0115, BN0036?, AW24 já ok, BN0142 marrom, BN0171 stone beige, BN0021 ladies (BN0021WHL?), BN0281 outras cores
+- Seções feitas: 1,2,2c(limitado: buscador não indexa braun-clocks),3. Fontes 66. Próximo: 5 agregadores (watchbase? everywatch, chrono24 via busca), 7 lojas (scarce, end, amazon), 8 usados (catawiki), 9 imprensa (ablogtowatch BN0095, gear patrol, hodinkee)
