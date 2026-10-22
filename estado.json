@@ -2724,7 +2724,7 @@
   }
  },
  "em_execucao": "2026-10-22T01:41:16Z",
- "ultimo_sinal": "2026-10-22T01:41:16Z",
+ "ultimo_sinal": "2026-10-22T01:43:16Z",
  "em_andamento": {
   "marcas": [
    "Bourbon Watch Company"
@@ -2734,7 +2734,10 @@
   "relogios": "historico/parcial_Bourbon_relogios.txt",
   "fontes": "historico/parcial_Bourbon_fontes.txt",
   "notas": "historico/notas_Bourbon.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
