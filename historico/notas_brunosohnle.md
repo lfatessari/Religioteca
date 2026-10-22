@@ -9,3 +9,4 @@
 - Linhas antigas sem ref ainda: Armida Chronograph, Milano GMT, Lago (grande data), Hamburg II (17-13205-961 visto em busca), La Spezia I 17-13209-921 (busca), Pesaro I 17-13073-742 (busca), Rondo 17-33105-241 (busca), Stuttgart 17-13175-340 (definewatches), Triest Sport 17-43222-361 (busca), Stuttgart Handaufzug 17-11190-261.
 - eBay imagens são placeholder 7WgAAOSwQ7haxTU1 → usar link da página.
 - Provável VERMELHA (linhas antigas desde 2000, centenas de refs).
+- watch.de blog 2013: Atrium Chrono, Milano GMT 2, Lagomat, Corpus I, Mechanik Edition No.5; coleções Stellina, Volomat sem ref. Fundada 2000; 1º mecânico 2008; 1ª coleção automática 2010. Mais de 35 coleções.
