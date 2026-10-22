@@ -2993,5 +2993,21 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-22T16:43:05Z",
+ "ultimo_sinal": "2026-10-22T16:43:05Z",
+ "em_andamento": {
+  "marcas": [
+   "Brüggler"
+  ],
+  "linha_marcas": 236,
+  "grande": true,
+  "relogios": "historico/parcial_bruggler_relogios.txt",
+  "fontes": "historico/parcial_bruggler_fontes.txt",
+  "notas": "historico/notas_bruggler.md",
+  "secoes_feitas": [
+   "1"
+  ],
+  "passada": 1
  }
 }
