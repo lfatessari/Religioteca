@@ -2945,7 +2945,7 @@
   }
  },
  "em_execucao": "2026-10-22T13:46:27Z",
- "ultimo_sinal": "2026-10-22T13:55:50Z",
+ "ultimo_sinal": "2026-10-22T13:59:32Z",
  "em_andamento": {
   "marcas": [
    "Brew Watch Co."
@@ -2956,7 +2956,8 @@
   "fontes": "historico/parcial_brew_fontes.txt",
   "notas": "historico/notas_brew.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "9-parcial"
   ],
   "passada": 1
  }
