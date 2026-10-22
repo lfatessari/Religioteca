@@ -27,3 +27,4 @@
 - Logo: não encontrado em fonte aberta (cdnlogo deu erro; site oficial sem imagem de logo; Wikipédia sem URL). K fica vazio.
 - DECISÃO: VERMELHA. Milhares de referências desde 1884 (vintage 7xx/8xx/2xxx, anos 90 A/B/D/K/L-13xxx, edições do Japão), muitas só com link de página; Chrono24/EveryWatch/WatchBase inacessíveis; listagens oficiais em JS.
 ## 2ª passada: foco em vintage (Premier/Datora/Top Time/Navitimer anos 50–70, Sprint, Cadette, Bidynator, Unitime), anos 90 (Chronomat 81950/A13047/A13048, Old Navitimer, Aerospace/Jupiter/Pluton), edições limitadas (militares, Japão, aniversários).
+- 09:23 fim da 2ª passada: 12 fontes, 31+ relógios novos (vintage Premier/Sprint/outros modelos, edições do Japão) -> 3ª passada obrigatória (foco: famílias CollectorSquare ainda não abertas, leilões Fellows, edições militares).
