@@ -2911,7 +2911,7 @@
     }
   },
   "em_execucao": "2026-10-22T11:42:22Z",
-  "ultimo_sinal": "2026-10-22T12:27:35Z",
+  "ultimo_sinal": "2026-10-22T12:30:01Z",
   "em_andamento": {
     "marcas": [
       "Bremont"
@@ -2932,8 +2932,10 @@
       "7",
       "8",
       "9",
-      "10"
+      "10",
+      "p2",
+      "p3"
     ],
-    "passada": 2
+    "passada": 3
   }
 }

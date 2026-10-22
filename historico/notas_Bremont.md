@@ -11,3 +11,5 @@ Início 11:41 UTC. Grande (maison, linha extensa).
 - Vermelha: edições militares/esquadrões (venda restrita, dezenas, sem lista pública), MBII configurador (combinações sob encomenda), exclusivas de lojas (ex. ALT1-ZT Watches of Switzerland 30 pçs).
 - Passada 2: buscar edições militares, exclusivas de lojas, Bremont Bespoke/one-off, leilões beneficentes, modelos antigos.
 - Rock-A-Bye (Ronnie Wood): 47 mostradores únicos pintados à mão, uma linha só (não listáveis um a um).
+- 12:28 Passada 2 encerrada (13 fontes, ~22 novos). Como trouxe ≥5, começa passada 3.
+- 12:31 Passada 3 encerrada (11 fontes; 3 últimas sem novidade). Próximo: curadoria e gravação.
