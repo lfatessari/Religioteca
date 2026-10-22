@@ -11,3 +11,4 @@
 - Não abriram (erro do site): ricardo.ch 1405 (entrou pelo título da busca), chrono24 (bloqueada), watchyouwant.it, breil.orologii.biz, preissuchmaschine.de, motorionline, subito.it, vários ebay /itm/. breil.com/en/special-projects/manta/ pediu permissão.
 - §2c (site:breil.com com termos novos/antigos): rendimento baixo (1-2 novos por busca); páginas de produtos antigos (Orchestra, Mantalite, Escape, Syren) não aparecem — o site só mantém fichas de ~2015 em diante.
 - Manta Seeker 2025: 4 cores (Sea Blue Napoli, Black Deep Ostia, Steel Grey Milano, Wild Green Punta Ala) = TW2065/2066/2067 + 1 a achar
+- Europa Star 2003: coleções Wide, Runaway, Soon, Lander (anos 90), Chross, Bold, Ice (2003) — buscar.
