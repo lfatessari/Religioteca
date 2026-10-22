@@ -2943,5 +2943,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-22T13:46:27Z",
+ "ultimo_sinal": "2026-10-22T13:46:27Z",
+ "em_andamento": {
+  "marcas": [
+   "Brew Watch Co."
+  ],
+  "linha_marcas": 233,
+  "grande": true,
+  "relogios": "historico/parcial_brew_relogios.txt",
+  "fontes": "historico/parcial_brew_fontes.txt",
+  "notas": "historico/notas_brew.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
