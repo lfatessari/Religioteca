@@ -2842,7 +2842,7 @@
     }
   },
   "em_execucao": "2026-10-22T07:41:31Z",
-  "ultimo_sinal": "2026-10-22T08:00:29Z",
+  "ultimo_sinal": "2026-10-22T08:03:08Z",
   "em_andamento": {
     "marcas": [
       "Breil"
@@ -2855,7 +2855,8 @@
     "secoes_feitas": [
       "1",
       "2",
-      "3"
+      "3",
+      "5"
     ],
     "passada": 1
   }
