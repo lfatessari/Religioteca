@@ -2704,5 +2704,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-22T00:41:50Z",
+  "ultimo_sinal": "2026-10-22T00:41:50Z",
+  "em_andamento": {
+    "marcas": [
+      "Boucheron"
+    ],
+    "linha_marcas": 219,
+    "grande": true,
+    "relogios": "historico/parcial_Boucheron_relogios.txt",
+    "fontes": "historico/parcial_Boucheron_fontes.txt",
+    "notas": "historico/notas_Boucheron.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
