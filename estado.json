@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 243,
- "ultima_versao": 218,
+ "proxima_linha_marcas": 246,
+ "ultima_versao": 219,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3086,6 +3086,44 @@
    "fontes_abertas": 145,
    "passadas": "1: 94 fontes/1344 novos; 2: 28/175; 3: 23/28",
    "obs": "vintage 1917-79 via Watchophilia (~640 nomes sem referência); Accutron moderno fica na linha 16; Caravelle e Harley-Davidson by Bulova incluídos; 326 linhas com link da ficha oficial no lugar da foto"
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 219,
+   "marca": "Bunkyo Tokyo",
+   "linha_marcas": 243,
+   "linhas_relogios": "32320-32337",
+   "relogios": 18,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "grande": false,
+   "fontes_abertas": 72,
+   "obs": "= Kurono Tokyo (778); só os 3 ponteiros de 37 mm"
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 219,
+   "marca": "Bunz",
+   "linha_marcas": 244,
+   "linhas_relogios": "32338-32344",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": "não verificado (bunz.com sem busca)",
+   "grande": false,
+   "fontes_abertas": 20
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 219,
+   "marca": "Buser Frères",
+   "linha_marcas": 245,
+   "linhas_relogios": "32345-32356",
+   "relogios": 12,
+   "vermelho": false,
+   "site_bloqueado": "não verificado (buserfreres.de sem busca)",
+   "grande": false,
+   "fontes_abertas": 18,
+   "obs": "Bvlgari (246) é grande e fica sozinha"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3098,23 +3136,7 @@
    "linhas_relogios": "6829-7094"
   }
  },
- "em_execucao": "2026-10-22T22:41:53Z",
- "ultimo_sinal": "2026-10-22T23:03:42Z",
- "em_andamento": {
-  "marcas": [
-   "Bunkyo Tokyo",
-   "Bunz",
-   "Buser Frères"
-  ],
-  "linha_marcas": 243,
-  "grande": false,
-  "relogios": "historico/parcial_buser_relogios.txt",
-  "fontes": "historico/parcial_buser_fontes.txt",
-  "notas": "historico/notas_buser.md",
-  "secoes_feitas": [
-   "Bunkyo Tokyo completa (historico/dados_bunkyo.txt)",
-   "Bunz completa (historico/dados_bunz.txt)"
-  ],
-  "passada": 1
+ "avisos": {
+  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  }
 }
