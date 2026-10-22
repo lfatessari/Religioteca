@@ -2860,7 +2860,7 @@
     }
   },
   "em_execucao": "2026-10-22T08:41:22Z",
-  "ultimo_sinal": "2026-10-22T09:19:35Z",
+  "ultimo_sinal": "2026-10-22T09:20:29Z",
   "em_andamento": {
     "marcas": [
       "Breitling"
@@ -2880,8 +2880,10 @@
       "6",
       "7",
       "8",
-      "9"
+      "9",
+      "10",
+      "10b"
     ],
-    "passada": 1
+    "passada": 2
   }
 }
