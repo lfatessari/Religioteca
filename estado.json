@@ -3048,7 +3048,7 @@
   }
  },
  "em_execucao": "2026-10-22T19:41:42Z",
- "ultimo_sinal": "2026-10-22T19:41:42Z",
+ "ultimo_sinal": "2026-10-22T19:45:21Z",
  "em_andamento": {
   "marcas": [
    "Buci",
@@ -3059,7 +3059,12 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Buci:1",
+   "Buci:2",
+   "Buci:3",
+   "Buci:9"
+  ],
   "passada": 1,
   "obs": "Buler (241) parece grande (linha vintage extensa): fica sozinha na próxima execução"
  }
