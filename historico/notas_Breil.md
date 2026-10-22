@@ -25,3 +25,4 @@
 ## 2ª passada: foco em vintage (Okay, Pareo, Target, Elysée, Charme, Starlight, Vogue, Grafic, Midway 1996, Manta anos 80-90), linhas 2000s (Tribe, Milano, Orchestra, Mantalite, Escape), EW0001-0300.
 ## Fim da 2ª passada (~08:27): 10 fontes, ~113 relógios novos -> 3ª passada obrigatória
 - ebay.de 5 ATM: WebFetch devolveu erro de política (não abriu)
+## Fim da 3ª passada (~08:33): 12 fontes, ~27 relógios novos; últimas 4 fontes sem novidade -> parar
