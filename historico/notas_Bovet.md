@@ -16,3 +16,4 @@ Virtuoso IV, V (red dial), VII, VIII (10-day flying tourbillon big date), IX, XI
 1|https://www.mayors.com/Bovet-R%C3%A9cital-23-R230011+SD14/p/18410255 (busca mayors: imagens montadas pelo padrão content.thewosgroup.com/productimage/<código>/<código>_1.jpg confirmado na página aberta)
 - Watchonista brands/bovet/watches: páginas 2 e 7 não vieram em busca (não abertas).
 - watchcollecting.com redirecionou para collecting.com (não aberto).
+- masterhorologer 19thirty: não abriu (client_error).
