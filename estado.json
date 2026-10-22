@@ -2758,7 +2758,7 @@
     }
   },
   "em_execucao": "2026-10-22T03:41:22Z",
-  "ultimo_sinal": "2026-10-22T03:41:22Z",
+  "ultimo_sinal": "2026-10-22T03:44:47Z",
   "em_andamento": {
     "marcas": [
       "Bower",
@@ -2766,10 +2766,13 @@
     ],
     "linha_marcas": 222,
     "grande": false,
-    "relogios": "historico/parcial_Bower_relogios.txt",
-    "fontes": "historico/parcial_Bower_fontes.txt",
-    "notas": "historico/notas_Bower.md",
-    "secoes_feitas": [],
+    "relogios": "historico/parcial_Bramier_relogios.txt",
+    "fontes": "historico/parcial_Bramier_fontes.txt",
+    "notas": "historico/notas_Bramier.md",
+    "secoes_feitas": [
+      "Bower:todas",
+      "Bramier:"
+    ],
     "passada": 1
   }
 }
