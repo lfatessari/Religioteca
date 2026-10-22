@@ -19,3 +19,4 @@
 - Logo: pendente.
 - manuall.de e notice-facile.com não abrem (client_error), mas os títulos nas buscas dão nome+ref → entram com link da página do manual.
 - Títulos de manuais (manuall.de/notice-facile): Matera, Bravura II, Salerno, Stuttgart II, Forte, Legato, Flamur, Corpus I/II, Nuvola II, Pesaro Automatik 17-12150, Frankfurt 17-12193, Lagomat, Volomat, Rondomat I/III, Florenz, Aquarius, Stellina, Fenna 17-12113.
+- 2ª passada: 16 fontes, 7 relógios novos → fazer 3ª passada (10 fontes novas).
