@@ -12,3 +12,14 @@
 - Ano Novo Chinês 2019 (porco): edição de 8 peças citada em breguet.com/en/node/69435 sem modelo/ref -> não entrou
 - CollectorSquare Marine/Tourbillon: omitidos números ambíguos 1476,1889,2025,2180,2280,3025,3272,6471,6571,771,8171; 2292,486,3030,3208,3243,3266,3567,3577,3760,3784. EveryWatch: páginas de anúncio exigem login (gate).
 - loupe.watch: página pede que IA não reproduza dados -> não usada
+## Fim da 1ª passada (07:21) — 156 fontes, ~589 relógios
+### 10b auto-auditoria
+1. Blog/imprensa oficial: notícias lidas (Only Watch, Type XX 1967, Marine diamantes, publications); press.breguet.com fica para a 2ª passada.
+2. §2c: breguet.com não é Shopify; buscas site:breguet.com/en/watches trouxeram fichas (5177, 5395); fichas oficiais listam variantes sem foto (fotos só via ficha individual).
+3. Lojas: Exquisite (EUA), Berrys (UK), Wempe (DE), Watchswiss (AU), Wristler (NL), WoS (EUA), Analog Shift (EUA), Bachmann-Scher (DE), Zadok, King, 1916 Co., Bob's. site: em Analog Shift feito.
+4. Primeiro modelo: nº 2639 (1810, Caroline Murat) e Marie-Antoinette nº 160 citados em I -> entram na 2ª passada como peças históricas.
+5. J (Classique, Marine, Type XX, Tradition, Reine de Naples): todos encontrados.
+6. Edições limitadas/colabs na B (Tiffany, Ano Novo Lunar, 250 anos, centenário Aéronavale, 8905 Namorados); peças únicas Only Watch com "Peça única." na E.
+7. Fontes 1ª passada: 156.
+- DECISÃO: VERMELHA (Coveted fala em 608 refs; muitas linhas só com link de página; EveryWatch exige login; WatchBase por família não abre; vintage pré-1990 pouco documentado).
+## 2ª passada: foco em fotos/vintage/peças históricas/imprensa oficial
