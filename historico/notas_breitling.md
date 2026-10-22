@@ -13,3 +13,5 @@
 - Fashionphile: grade em JS (0). Bob's Watches: parâmetros de página ignorados (sempre a 1ª página de cada filtro).
 - 09:15 1ª passada perto de saturar: CollectorSquare lpi (famílias) e WoS renderam muito; agora 0–5 novos por fonte. Chrono24: buscas site:chrono24.com não retornam resultados (motor de busca não indexa) — usar EveryWatch/1stDibs/CollectorSquare.
 - WatchCharts brand_index e várias famílias dão client_error; /watches/brand/breitling/<familia> funciona às vezes (avenger, colt, bentley).
+- gressive.jp (notícias de lojas no Japão): robots_disallowed — não abriu.
+- rasin.co.jp (Japão, 1.139 anúncios Breitling em ~29 páginas): páginas 6, 14, 15, 16, 19, 23, 24, 26 + Bentley + review abertas (vieram de buscas). Muitas edições limitadas do Japão (Blue Impulse, JSP, Black Eye, Roman, Japan Edition…). Edições com a mesma referência base entram como linhas separadas (prefixo ! no add.py).
