@@ -3030,7 +3030,7 @@
   }
  },
  "em_execucao": "2026-10-22T18:41:20Z",
- "ultimo_sinal": "2026-10-22T19:06:18Z",
+ "ultimo_sinal": "2026-10-22T19:07:10Z",
  "em_andamento": {
   "marcas": [
    "Buccellati"
@@ -3051,8 +3051,9 @@
    "7",
    "8",
    "9",
-   "10"
+   "10",
+   "p2"
   ],
-  "passada": 2
+  "passada": 3
  }
 }

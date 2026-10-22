@@ -17,3 +17,4 @@
 ## 2ª passada: alvos — buscas site:buccellati.com com termos novos (rombi-watch, tulle-watch, opera-watch, en_row/it), Olympochron, Apollochron, Siriochron, Venuschron, Oktachron refs, Macri antigos, Ornatino Sotheby's.
 - Conferência de catálogo fechado: en_us (71 = 64 for-her + 7 for-him) e en_sg ('71 of 71') batem.
 - Códigos E…AA/BB/KK são SKUs da loja Dover Jewelry (Miami) -> movidos para E.
+## 2ª passada encerrada (19:08): 20 fontes, 9 novos -> fazer 3ª passada (>=5 novos).
