@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 222,
-  "ultima_versao": 199,
+  "proxima_linha_marcas": 224,
+  "ultima_versao": 200,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2745,6 +2745,38 @@
         "3": "11 fontes/7 relógios"
       },
       "obs": "usa_codigos=true; ~170 linhas só com link de página (sem foto); relógios de bolso históricos não entraram; parte dos códigos veio de títulos de busca (Hourstriker); imagens da Mayors montadas pelo padrão content.thewosgroup.com/productimage/<código>/<código>_1.jpg; próximas: Bower, Bramier, Braun"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 200,
+      "marca": "Bower",
+      "linha_marcas": 222,
+      "linhas_relogios": "26384-26386",
+      "relogios": 3,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes_abertas": 20,
+      "passadas": {
+        "1": "20 fontes/3 relógios"
+      },
+      "obs": "catálogo fechado: só o Tide Seeker (azul, branco, Midnight 20 pçs); site bowerwatches.shop; usa_codigos=false"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 200,
+      "marca": "Bramier",
+      "linha_marcas": 223,
+      "linhas_relogios": "26387-26395",
+      "relogios": 9,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes_abertas": 35,
+      "passadas": {
+        "1": "35 fontes/9 relógios"
+      },
+      "obs": "ex-Bencler (Rocks Diver 2022 incluído); Trilayer GMT Black citado só num link de vídeo, não entrou; usa_codigos=false; próxima: Braun (grande, sozinha)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
