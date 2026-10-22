@@ -3097,5 +3097,20 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-22T22:41:53Z",
+ "ultimo_sinal": "2026-10-22T22:41:53Z",
+ "em_andamento": {
+  "marcas": [
+   "Bunkyo Tokyo"
+  ],
+  "linha_marcas": 243,
+  "grande": true,
+  "relogios": "historico/parcial_kurono_relogios.txt",
+  "fontes": "historico/parcial_kurono_fontes.txt",
+  "notas": "historico/notas_kurono.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "obs": "Bunkyo Tokyo = Kurono Tokyo (linha 778); pesquisa conjunta"
  }
 }
