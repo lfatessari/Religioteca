@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 229,
-  "ultima_versao": 205,
+  "proxima_linha_marcas": 230,
+  "ultima_versao": 206,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2865,6 +2865,23 @@
         "3": "10 fontes/29 relógios"
       },
       "obs": "usa_codigos=true; dedupe por referência sem sufixo de pulseira; ~750 linhas só com link de página (WatchBase, CollectorSquare, lojas); edições do Japão (Rasin) com a mesma ref. base entram como linhas separadas; logo não encontrado; Chrono24/EveryWatch/WatchBase/WatchCharts inacessíveis; próxima: Brellum"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 206,
+      "marca": "Brellum",
+      "linha_marcas": 229,
+      "linhas_relogios": "29375-29445",
+      "relogios": 71,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "",
+      "fontes_abertas": 100,
+      "passadas": {
+        "1": "85 fontes/81 achados (71 após juntar variações de pulseira e duplicatas)",
+        "2": "15 fontes/0 relógios"
+      },
+      "obs": "usa_codigos=true; site real brellum.swiss (G diz brellum.com); códigos DB.CH/Pilot/WGMT com último dígito = pulseira (um relógio por mostrador, demais códigos na coluna E); The Watch Pages não abre (códigos só por títulos de busca); Duobox LE.6/LE.7 não encontradas; páginas ocultas do site (TC Moonphase Burgundy, Ice Blue) não abrem; tratada como grande, Bremoir (linha 230) fica para a próxima, já vista: bremoir.com/collections/all com 18 produtos; próxima: Bremoir"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2876,32 +2893,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-22T09:41:09Z",
-  "ultimo_sinal": "2026-10-22T10:03:57Z",
-  "em_andamento": {
-    "marcas": [
-      "Brellum"
-    ],
-    "linha_marcas": 229,
-    "grande": true,
-    "relogios": "historico/parcial_Brellum_relogios.txt",
-    "fontes": "historico/parcial_Brellum_fontes.txt",
-    "notas": "historico/notas_Brellum.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 2
   }
 }
