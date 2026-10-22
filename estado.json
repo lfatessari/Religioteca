@@ -3069,5 +3069,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-22T20:41:59Z",
+ "ultimo_sinal": "2026-10-22T20:41:59Z",
+ "em_andamento": {
+  "marcas": [
+   "Buler"
+  ],
+  "linha_marcas": 241,
+  "grande": true,
+  "relogios": "historico/parcial_buler_relogios.txt",
+  "fontes": "historico/parcial_buler_fontes.txt",
+  "notas": "historico/notas_buler.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
