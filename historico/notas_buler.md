@@ -13,3 +13,4 @@
 - Jewels on Hampton (loja EUA) cita também: Ocean Hero Chronograph, Twinkle, Mountain Quest, Top Gear Chronograph, Alpha Performance Chronograph, Sea Legend Automatic, Buccaneer (sem fotos).
 - buler.ch: redireciona https→http em laço (302), não abre. L: Site bloqueado.
 - Renley 1997 (Europa Star) = mesma linha do Chronograph 1996; não duplicado. Mystery dial calendar anos 1960 (justintimesvintage, robots) – entra só pelo título.
+## 3ª passada (2ª trouxe ~30 novos). Pistas: Jemaflex 30 ATM, Seaflower, Astromaster (homenagem AP), Cavallo 25 rubis, relógio de Doctor Who
