@@ -11,3 +11,4 @@ Virtuoso IV, V (red dial), VII, VIII (10-day flying tourbillon big date), IX, XI
 - Journal bovet.com/news tem 25 páginas (?page=N não vem de busca). Récital 12 especial Seddiqi 75 anos (blood jasper); Récital 30 Seddiqi verde LE.
 - CollectorSquare índice: 271 resultados, só 40 vistos. Relógios de bolso chineses sem nome/ref não entram (relatar).
 - Récital 32 GMT (2026): 3 cores, 60 peças cada, titânio ou ouro vermelho, 42 mm — buscar códigos/cores.
+- NÃO ABRIRAM (tirar da lista de fontes no fim): gressive.jp/catalog/bovet, gressive.jp/brand/bovet/hotitem, aucfan q-BOVET, watchpatrol amadeo/sportster/fr, bovet.watchonista.com (redirect)
