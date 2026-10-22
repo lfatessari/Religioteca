@@ -2895,7 +2895,7 @@
     }
   },
   "em_execucao": "2026-10-22T10:41:48Z",
-  "ultimo_sinal": "2026-10-22T10:45:36Z",
+  "ultimo_sinal": "2026-10-22T10:48:15Z",
   "em_andamento": {
     "marcas": [
       "Bremoir"
@@ -2907,7 +2907,9 @@
     "notas": "historico/notas_Bremoir.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "5",
+      "6"
     ],
     "passada": 1
   }

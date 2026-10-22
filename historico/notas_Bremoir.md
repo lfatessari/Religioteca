@@ -8,3 +8,5 @@ Seções feitas: 1, 2 (parcial)
 - Havana = antigo "Cohiba" (blog Montauk Dawn). Lexington lançado em 4 cores (Tuxedo, Cohiba/Havana, Morocco, Cloud Club), 5ª = Montauk Dawn (nov/2022). Eastern (set/2023) Pacific; luneta dourada pequena série (dez/2023). South Beach (2025): Surf Club, Riptide.
 - Blog: 10 posts, 9 vistos na pág. 1 (pág. 2 não alcançada). "Three Hand 36mm" (J) ainda não achado.
 Seções feitas: 1, 2, 9 (parcial)
+- vibetime.us redireciona para senha (fechado). Chrono24: busca não traz Bremoir. Eastern gold bezel usa Sellita SW200-1b (the-wind-up). South Beach Kickstarter 2025 (US$1.585/1.985). Lexington pré-venda jul/2021 US$985.
+- Não abriram: watchuseek thread 5442337, watchpatrol ja/listing/1931178 (client_error), kicktraq (redireciona p/ http), vibetime.us (senha). Seções feitas: 1,2,2c(parcial),3(parcial),5,6,7(parcial),9(parcial)
