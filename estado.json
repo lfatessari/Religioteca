@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 221,
-  "ultima_versao": 198,
+  "proxima_linha_marcas": 222,
+  "ultima_versao": 199,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2727,6 +2727,24 @@
         "1": "18 fontes/3 relógios"
       },
       "obs": "catálogo fechado: 1 coleção (Rue Canal) em 3 mostradores; usa_codigos=false; próxima (Bovet) é grande e fica sozinha"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 199,
+      "marca": "Bovet",
+      "linha_marcas": 221,
+      "linhas_relogios": "26042-26383",
+      "relogios": 342,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes_abertas": 175,
+      "passadas": {
+        "1": "150 fontes/252 relógios",
+        "2": "14 fontes/6 relógios",
+        "3": "11 fontes/7 relógios"
+      },
+      "obs": "usa_codigos=true; ~170 linhas só com link de página (sem foto); relógios de bolso históricos não entraram; parte dos códigos veio de títulos de busca (Hourstriker); imagens da Mayors montadas pelo padrão content.thewosgroup.com/productimage/<código>/<código>_1.jpg; próximas: Bower, Bramier, Braun"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2738,36 +2756,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-22T02:41:43Z",
-  "ultimo_sinal": "2026-10-22T03:21:25Z",
-  "em_andamento": {
-    "marcas": [
-      "Bovet"
-    ],
-    "linha_marcas": 221,
-    "grande": true,
-    "relogios": "historico/parcial_Bovet_relogios.txt",
-    "fontes": "historico/parcial_Bovet_fontes.txt",
-    "notas": "historico/notas_Bovet.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2b",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "11",
-      "p2",
-      "p3"
-    ],
-    "passada": 3
   }
 }
