@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 220,
- "ultima_versao": 197,
+ "proxima_linha_marcas": 221,
+ "ultima_versao": 198,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2711,6 +2711,22 @@
     "3": "21 fontes/32 relógios"
    },
    "obs": "usa_codigos=true (WA......); muitas linhas só com link de página (site oficial sem foto; lojas japonesas); vintage só com números de série não entram como código; Quatre é joia, sem relógio"
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 198,
+   "marca": "Bourbon Watch Company",
+   "linha_marcas": 220,
+   "linhas_relogios": "26039-26041",
+   "relogios": 3,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes_abertas": 18,
+   "passadas": {
+    "1": "18 fontes/3 relógios"
+   },
+   "obs": "catálogo fechado: 1 coleção (Rue Canal) em 3 mostradores; usa_codigos=false; próxima (Bovet) é grande e fica sozinha"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2722,22 +2738,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-22T01:41:16Z",
- "ultimo_sinal": "2026-10-22T01:43:16Z",
- "em_andamento": {
-  "marcas": [
-   "Bourbon Watch Company"
-  ],
-  "linha_marcas": 220,
-  "grande": false,
-  "relogios": "historico/parcial_Bourbon_relogios.txt",
-  "fontes": "historico/parcial_Bourbon_fontes.txt",
-  "notas": "historico/notas_Bourbon.md",
-  "secoes_feitas": [
-   "1",
-   "2"
-  ],
-  "passada": 1
  }
 }
