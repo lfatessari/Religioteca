@@ -2961,5 +2961,19 @@
     }
   },
   "em_execucao": "2026-10-22T14:43:04Z",
-  "ultimo_sinal": "2026-10-22T14:43:04Z"
+  "ultimo_sinal": "2026-10-22T14:44:05Z",
+  "em_andamento": {
+    "marcas": [
+      "Brior"
+    ],
+    "linha_marcas": 234,
+    "grande": false,
+    "relogios": "historico/parcial_Brior_relogios.txt",
+    "fontes": "historico/parcial_Brior_fontes.txt",
+    "notas": "historico/notas_Brior.md",
+    "secoes_feitas": [
+      "1"
+    ],
+    "passada": 1
+  }
 }
