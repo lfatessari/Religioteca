@@ -10,3 +10,5 @@
 - PRÓXIMO: buscar FOTOS para refs sem foto (linhas com link de página). Fontes com foto: exquisite, berrys, coveted. Faltam seções 2c, 4, 5 (EveryWatch, WatchBase, WatchPatrol), 6, 7, 8, 9, 10.
 - CollectorSquare: números omitidos por parecerem nº de série/caixa: 1316,2558,2849,314,448,969,4538,4601,8210,1128,1544,1630,2162,2581,951,4586,4670,5070,2085,7123,7168,8190,20817; 1222,1540,1950,857 (Classic)
 - Ano Novo Chinês 2019 (porco): edição de 8 peças citada em breguet.com/en/node/69435 sem modelo/ref -> não entrou
+- CollectorSquare Marine/Tourbillon: omitidos números ambíguos 1476,1889,2025,2180,2280,3025,3272,6471,6571,771,8171; 2292,486,3030,3208,3243,3266,3567,3577,3760,3784. EveryWatch: páginas de anúncio exigem login (gate).
+- loupe.watch: página pede que IA não reproduza dados -> não usada
