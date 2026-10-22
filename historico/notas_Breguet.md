@@ -8,3 +8,4 @@
 - the1916company Tradition: 7057BB/11/9W6 (novo)
 - 1ª leva: Exquisite (fotos), Wristler (só refs, link da página), Berrys (fotos), Luxury Bazaar guia (137 refs sem foto).
 - PRÓXIMO: buscar FOTOS para refs sem foto (linhas com link de página). Fontes com foto: exquisite, berrys, coveted. Faltam seções 2c, 4, 5 (EveryWatch, WatchBase, WatchPatrol), 6, 7, 8, 9, 10.
+- CollectorSquare: números omitidos por parecerem nº de série/caixa: 1316,2558,2849,314,448,969,4538,4601,8210,1128,1544,1630,2162,2581,951,4586,4670,5070,2085,7123,7168,8190,20817; 1222,1540,1950,857 (Classic)
