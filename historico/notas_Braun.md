@@ -11,3 +11,5 @@
 - Seções feitas: 1,2,2c(limitado: buscador não indexa braun-clocks),3. Fontes 66. Próximo: 5 agregadores (watchbase? everywatch, chrono24 via busca), 7 lojas (scarce, end, amazon), 8 usados (catawiki), 9 imprensa (ablogtowatch BN0095, gear patrol, hodinkee)
 - br-time.jp (site oficial japonês) robots_disallowed -> coluna L parcial. Japão tem BN0035B, BN0021 leather etc.
 - eBay: 'BN0231WHBKGAL' visto em título (código estranho, não entrou); AW22 'logo dial' rara (provável variante preta).
+- eBay: 'AW22 Limitiert' (sem detalhe), AW10 'mit Branding' (corporativo genérico) — não viraram linha.
+- LOGO: https://verygoodlord.com/wp-content/uploads/2026/07/logo-braun.jpg ; Zeon licença desde 2009/Baselworld 2010
