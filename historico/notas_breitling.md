@@ -11,3 +11,5 @@
 - Pendentes (achar referência): Aviator 8 Curtiss Warhawk, Chrono-Matic 44, Chronomat 44 Airborne, Cosmonaute, Navitimer 125th Anniversary, Transocean Chronograph 1915 (bernardwatch).
 - Wikipedia Breitling SA: Chronomat 1942 (Venus 175), Navitimer 1954, Cosmonaute (Navitimer 24 h, 1962 Scott Carpenter), Chrono-Matic 1969, Emergency/Emergency II (2013)/Orbiter 3 (1.999 peças), Top Time 1965 (Thunderball), Bentley 24 Le Mans, Bentley B04 GMT/B05 Unitime/B06, Aerospace, Chronospace. Buscar refs.
 - Fashionphile: grade em JS (0). Bob's Watches: parâmetros de página ignorados (sempre a 1ª página de cada filtro).
+- 09:15 1ª passada perto de saturar: CollectorSquare lpi (famílias) e WoS renderam muito; agora 0–5 novos por fonte. Chrono24: buscas site:chrono24.com não retornam resultados (motor de busca não indexa) — usar EveryWatch/1stDibs/CollectorSquare.
+- WatchCharts brand_index e várias famílias dão client_error; /watches/brand/breitling/<familia> funciona às vezes (avenger, colt, bentley).
