@@ -8,3 +8,5 @@ Pininfarina: OttantaSei 10-day tourbillon, OttantaTre tourbillon, Tourbillon Ott
 Sportster Saguaro (+ meteorite); Récital 0, 9 Miss Alexandra, 12, 15, 16 triple time zone, 18 Shooting Star, 20 Astérium, 21, 22, 23, 26 Brainstorm Ch One/Two (Sunshine LE, Purple&Sapphire), 27, 28 Prowess 1, 30 (Seddiqi verde LE), 31, 32 GMT
 Virtuoso IV, V (red dial), VII, VIII (10-day flying tourbillon big date), IX, XI; Amadeo Fleurier 43 Meteorite, Dragon dials, Tourbillon Braveheart; Battista Tourbillon LE; Rolls-Royce Boat Tail (peças únicas); Monsieur Bovet; Only Watch 2009/2011/2019 peças únicas
 - gressive.jp/catalog/bovet: robots (não abriu). AF39005 e AF39005-SD123: AF39005 é o básico; -SD123 = cravação; deixei os dois por serem códigos diferentes.
+- Journal bovet.com/news tem 25 páginas (?page=N não vem de busca). Récital 12 especial Seddiqi 75 anos (blood jasper); Récital 30 Seddiqi verde LE.
+- CollectorSquare índice: 271 resultados, só 40 vistos. Relógios de bolso chineses sem nome/ref não entram (relatar).
