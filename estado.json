@@ -2808,7 +2808,7 @@
     }
   },
   "em_execucao": "2026-10-22T05:41:23Z",
-  "ultimo_sinal": "2026-10-22T05:46:07Z",
+  "ultimo_sinal": "2026-10-22T05:50:54Z",
   "em_andamento": {
     "marcas": [
       "Bravur"
@@ -2821,7 +2821,10 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c"
+      "2c",
+      "3",
+      "5",
+      "7"
     ],
     "passada": 1
   }
