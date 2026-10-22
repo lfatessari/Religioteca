@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 236,
- "ultima_versao": 212,
+ "proxima_linha_marcas": 237,
+ "ultima_versao": 213,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2982,6 +2982,23 @@
     "3": "10 fontes/0 relógios"
    },
    "obs": "usa_codigos=true (13140.SA.T.1.NK...); 123 com foto, demais com link de página (lojas e cwsellors/jura carregam produtos só por JS; links internos de páginas abertas pedem permissão); manuall.fr (manuais por referência) só via títulos de busca; thewatchpages, manuall, lyst, rakuten bloqueados; sem logo; vermelha (centenas de variações cor x metal x pulseira, coleções Pantone/Terracotta/Kennedy incompletas, linhas antigas 2013-2018 com códigos não publicados); observações em M235; próxima: Brüggler (236)"
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 213,
+   "marca": "Brüggler",
+   "linha_marcas": 236,
+   "linhas_relogios": "30177-30185",
+   "relogios": 9,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes_abertas": 36,
+   "passadas": {
+    "1": "26 fontes/9 relógios",
+    "2": "10 fontes/0 relógios"
+   },
+   "obs": "Tratada como grande por ter configurador (Watch Creator). Modelo único Chronograph 40 mm (HB 28-929 automático, JP 17-545 quartzo) + 7 designs com nome de rua da galeria do configurador (link de página). Designs salvos por clientes com códigos pessoais não viraram linhas. bruggler.com não aparece em buscas (L236). Observações em M236. Próxima: Bruno Söhnle (237), grande, sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -2993,27 +3010,5 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
- },
- "em_execucao": "2026-10-22T16:43:05Z",
- "ultimo_sinal": "2026-10-22T16:49:14Z",
- "em_andamento": {
-  "marcas": [
-   "Brüggler"
-  ],
-  "linha_marcas": 236,
-  "grande": true,
-  "relogios": "historico/parcial_bruggler_relogios.txt",
-  "fontes": "historico/parcial_bruggler_fontes.txt",
-  "notas": "historico/notas_bruggler.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "8"
-  ],
-  "passada": 1
  }
 }
