@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 225,
-  "ultima_versao": 201,
+  "proxima_linha_marcas": 226,
+  "ultima_versao": 202,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2795,6 +2795,22 @@
         "3": "11 fontes/0 relógios"
       },
       "obs": "usa_codigos=true; inclui vintage DW 20/DW 30/AW 10…AW 200 com Typ; ~20 linhas só com link de página; FCW e br-time.jp bloqueados; kulthifi pág. 2-3 não alcançadas; próxima: Bravur"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 202,
+      "marca": "Bravur",
+      "linha_marcas": 225,
+      "linhas_relogios": "26560-26610",
+      "relogios": 51,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes_abertas": 82,
+      "passadas": {
+        "1": "82 fontes/51 relógios"
+      },
+      "obs": "usa_codigos=false; Grand Tour I-IV (2021-2024) + Grand Tour 2026 + Sprinter; Team Heritage REN/PEU/MER/STR; BW001/BW002/BW102 quartzo; BW003/Scandinavia/Geography; Zwift e Wingårdh; 6 linhas só com link de página; próxima: Breguet (grande, sozinha)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2806,26 +2822,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-22T05:41:23Z",
-  "ultimo_sinal": "2026-10-22T05:50:54Z",
-  "em_andamento": {
-    "marcas": [
-      "Bravur"
-    ],
-    "linha_marcas": 225,
-    "grande": false,
-    "relogios": "historico/parcial_bravur_relogios.txt",
-    "fontes": "historico/parcial_bravur_fontes.txt",
-    "notas": "historico/notas_bravur.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7"
-    ],
-    "passada": 1
   }
 }

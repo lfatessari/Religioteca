@@ -1,0 +1,422 @@
+{
+ "marca": "Bravur",
+ "usa_codigos": false,
+ "logo": "https://bravurwatches.com/cdn/shop/files/Bravur_Logo_Tagline.png?v=1704749716&width=2027",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "J: 'La Roja' não encontrado (o 3º Grand Tour é 'La Vuelta'); J omite Team Heritage, Geography, BW001/BW002/BW102. I: só movimentos Sellita encontrados (La Joux-Perret não); montagem em Båstad (design em Estocolmo); fundadores Magnus Äppelryd e Johan Sahlin não confirmados (achado só Magnus Äppelryd).",
+ "fontes": [
+  {
+   "url": "https://bravurwatches.com/collections/all-watches",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://bravurwatches.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/collections/bravur-x-wingardh-limited-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bravurwatches.com/products/grand-tour-la-vuelta",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/products/bravur-x-zwift-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/products/geography-midnight-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/products/bw003-gold-pvd-black-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/collections/grand-tour",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/products/grand-tour-la-corsa-rosa-iii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/products/grand-tour-la-corsa-rosa-iv",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/products/grand-tour",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/products/grand-tour-sprinter",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/new-release-bravur-completes-the-grand-tour-iii-chronograph-watches-collection/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bravurwatches.com/collections/la-grande-boucle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-completes-the-2022-grand-tour-series-with-the-new-la-vuelta-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchbuyersgroup.com/buy-a-watch-shop/watches/bravur-grand-tour-la-vuelta-limited-edition-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://acquiremag.com/style/bravur-grand-tour-la-corsa-rosa-2022",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-bravur-la-grande-boucle-iv/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-review-bravur-grand-tour-la-grande-boucle-ii-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/review/review-bravur-gran-tour-chronograph-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.acquiremag.com/style/bravur-la-grande-boucle-iv-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=131811",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=129732",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://acquiremag.com/style/bravur-la-corsa-rosa-iv-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-introduces-the-team-heritage-collection-paying-tribute-to-classic-cycling-teams-of-the-past/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/products/team-heritage-str",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/products/team-heritage-peu",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/products/team-heritage-model-ren",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windupwatchshop.com/en-ca/blogs/chronicle/now-in-the-shop-bravurs-new-mechanical-gmts-and-more",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2019/09/09/bravur-geography-gmt-limited-edition-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/products/geography-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/products/geography-sparkling-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/meet-bravur-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coolhunting.com/design/bravur-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/products/bw002-black-silver-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/products/bw001-grey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-goes-gold-with-new-versions-of-the-bw003/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/introducing-bravur-bw003-swedish-brands-first-mechanical-series/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=172309",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=192719",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/brands/bravur/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/ca/designers/bravur-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeworkshop.com/brands/bravur/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=41527",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpolice.com/brands/bravur",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/bravur-watches-bw001-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/pages/bw001b-g",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/256775668368",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/pages/collection-bw102",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bravurwatches.com/pages/collection-bw001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/pages/collection-bw002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/pages/bw003-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/pages/bw003s-w",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/pages/bw002g-w",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/pages/specifications-bw102",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bravurwatches.com/pages/bw102s-w",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timezone.com.my/collections/bravur",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/category/bravur/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/bravuur/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a716675/bravur-scandinavia-limited-edition-blue-green-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/bravur/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-unveils-a-new-cycling-inspired-watch-just-in-time-for-italys-giro-ditalia/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-introduces-the-latest-in-their-team-heritage-series-of-cycling-inspired-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/bravur/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/you-can-find-this-new-chronograph-from-bravur-watches-on-the-wrists-of-a-pro-cycling-team/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/bravur-continues-their-grand-tour-series-with-the-new-la-grand-boucle-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-introduces-the-grand-tour-sprinter-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/bravur/page/3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/tags/bravur",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/first-look-the-limited-edition-bravur-geography-gmt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-with-the-bravur-bw002/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-bravur-grand-tour-la-corsa-rosa/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2021/6/bravur-tour-de-france-la-grande-boucle-chronograph-release-info",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2021/8/bravur-cycling-chronograph-trilogy-vuelta-a-espana",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2023/8/bravur-grand-tour-chronograph-la-vuelta-iii-release-info",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-releases-the-la-grande-boucle-iii-chronograph-their-latest-in-an-ongoing-series-of-cycling-inspired-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-releases-the-la-vuelta-iii-the-third-and-final-leg-in-their-2023-grand-tour-series/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravur-completes-their-grand-tour-trilogy-with-la-vuelta/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-bravur-la-grande-boucle-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/bravurs-latest-limited-edition-is-a-clean-take-on-the-scandinavia/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=84839",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windupwatchshop.com/en-ca/blogs/chronicle/now-in-the-shop-the-bravur-scandinavia",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
