@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 227,
-  "ultima_versao": 203,
+  "proxima_linha_marcas": 228,
+  "ultima_versao": 204,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2829,6 +2829,24 @@
         "3": "12 fontes/17 relógios"
       },
       "obs": "usa_codigos=true; ~300 linhas só com link de página (refs de Luxury Bazaar, Wristler, CollectorSquare, 5D Watches); EveryWatch exige login; WatchBase por família não abre; inclui peças históricas nº 160/1160 (bolso) e nº 2639; próxima: Breil"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 204,
+      "marca": "Breil",
+      "linha_marcas": 227,
+      "linhas_relogios": "27233-28253",
+      "relogios": 1021,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial (breil.com listagens em JS)",
+      "fontes_abertas": 94,
+      "passadas": {
+        "1": "73 fontes/427 relógios (+~460 fichas oficiais vistas por buscas site:breil.com)",
+        "2": "10 fontes/113 relógios",
+        "3": "11 fontes/24 relógios"
+      },
+      "obs": "usa_codigos=true; fotos oficiais pelo padrão assets.breil.com/images-webp/<CÓDIGO>.webp (só para códigos vistos em fichas do site); ~300 linhas com link de anúncio/página em vez de foto; vintage Okay/Manta/Pareo/Midway/Target com códigos de caixa (Z960, V042, 51657.32...); Chrono24/EveryWatch inacessíveis; allwatches páginas 2,3,5,7-11 não alcançadas; próxima: Breitling (grande, sozinha)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
