@@ -2858,5 +2858,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-22T08:41:22Z",
+  "ultimo_sinal": "2026-10-22T08:41:22Z",
+  "em_andamento": {
+    "marcas": [
+      "Breitling"
+    ],
+    "linha_marcas": 228,
+    "grande": true,
+    "relogios": "historico/parcial_breitling_relogios.txt",
+    "fontes": "historico/parcial_breitling_fontes.txt",
+    "notas": "historico/notas_breitling.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
