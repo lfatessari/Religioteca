@@ -13,3 +13,13 @@
 - eBay: 'BN0231WHBKGAL' visto em título (código estranho, não entrou); AW22 'logo dial' rara (provável variante preta).
 - eBay: 'AW22 Limitiert' (sem detalhe), AW10 'mit Branding' (corporativo genérico) — não viraram linha.
 - LOGO: https://verygoodlord.com/wp-content/uploads/2026/07/logo-braun.jpg ; Zeon licença desde 2009/Baselworld 2010
+## Fim da 1ª passada (05:08) — 3 fontes seguidas sem novidade (eBay pgn2, eBay chrono, eBay round)
+### 10b auto-auditoria
+1. Blog/imprensa oficial: braun-clocks.com não tem blog indexado; imprensa lida (watchpro, dezeen, crown, revolution, t3, factqatar, hiconsumption, 2BWS, gear patrol, core77, europastar). Todos os nomes citados estão na lista.
+2. §2c: buscador quase não indexa braun-clocks.com/products; buscas site: devolveram poucos handles (todos já listados).
+3. Lojas: ameico, watchnation, kulthifi (pág.1), gessato, scarce, stardust, shadestation, elgiganten, shinwa, eBay. FCW bloqueado; kulthifi pág. 2-3 não alcançadas.
+4. Primeiro modelo: DW 20 (1977) / DW 30 (1978) e AW 10 (1989) — incluídos.
+5. J da aba Marcas: AW10, AW50, BN0021, BN0032 ok; "Prismatic" NÃO encontrado (provável nome de relógio de parede/despertador ou erro).
+6. Edições limitadas/colabs na B: Dezeen 250, Paul Smith (2020, 2021, 2023×2 100), Hodinkee ×2 100, BN0278 centenário 100, BN0279 150 ×2, BEAMS 2026, DW30 preto 200. Sem peças únicas.
+7. Fontes: ~118.
+- Decisão: VERMELHA (muitas variações de cor BN sem lista oficial completa; site japonês bloqueado; vintage com variantes sem foto; kulthifi pág. 2-3).
