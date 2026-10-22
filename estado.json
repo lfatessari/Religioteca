@@ -2806,5 +2806,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-22T05:41:23Z",
+  "ultimo_sinal": "2026-10-22T05:41:23Z",
+  "em_andamento": {
+    "marcas": [
+      "Bravur"
+    ],
+    "linha_marcas": 225,
+    "grande": false,
+    "relogios": "historico/parcial_bravur_relogios.txt",
+    "fontes": "historico/parcial_bravur_fontes.txt",
+    "notas": "historico/notas_bravur.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
