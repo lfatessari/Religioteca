@@ -2961,7 +2961,7 @@
     }
   },
   "em_execucao": "2026-10-22T14:43:04Z",
-  "ultimo_sinal": "2026-10-22T14:47:31Z",
+  "ultimo_sinal": "2026-10-22T14:50:25Z",
   "em_andamento": {
     "marcas": [
       "Brior"
@@ -2974,7 +2974,9 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c"
+      "2c",
+      "3",
+      "5"
     ],
     "passada": 1
   }

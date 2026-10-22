@@ -18,3 +18,10 @@ Dimensionamento: Brior pequena (quase sem presença online; vendida pela WatchBu
 - Grafia oficial: "Cavalletto" (allwatches usa Cavaletto).
 - busca "BRIOR Uhren edle Unikatuhren..." trouxe: Tarlo Fin Calendrier T23121, Tempio Autom. TE32412 (novo), Cavalletto Autom. C32412, NEU Calisto (novo), Vertrieb, Kollektion (robots).
 - uhrforum threads (skeleton bis 1000€; liste der uhrmacher) client_error.
+- juwelier-wecker.de/brior: sem modelos; caixas de ébano e bruyère (Toscana), núcleo de aço, até 15 componentes; e-mail info@brior.de; Langgasse 5 Kulmbach. Logo candidato (orca-media-Firmenlogo-Kunde-73-1.png) incerto = provavelmente logo da joalheria -> não usar.
+- LebensArt 2022: "BRIOR ZeitkultUhr"; BRI = bruyère, OR = ouro; Diamond Date Edition (ébano, madrepérola, brilhante girando p/ data) — NOVA linha; La Grande Edition (mostrador dourado esqueletado, corda manual) = provavelmente G14422; Wunsch-Uhren (sob encomenda, 4 semanas a 4 meses).
+- infranken "Mechanik ist was Wertiges": Wecker autônomo em 1991 (1º relógio com caixa de madeira), marca BRIOR registrada ~2000, Inhorgenta 2001; caixas também de aço e madrepérola; vendas EUA, Rússia, Taiwan, Dubai, Áustria, França.
+- creditreform: "Holger Wecker Juweliergeschäft BRIOR, Kulmbach".
+- Decisão vermelho: NÃO. Encomendas (Wunsch-Uhren) são sob medida, não catálogo; lacunas conhecidas = chronosonline p2 (10 modelos) e allwatches p2 não alcançadas; registrar no relatório.
+- allwatches tarlo-fin-calendrier-p31425: confirma foto full e T23121 (38,2 mm). Coleções no allwatches: Diamond Date 3, Tarlo 3, Mammut 1, Cavaletto 6, Tempio 2, Perla 1, Robello 3 (=19, + Luna/Oro). Tempio (2) não visto no allwatches (página de coleção não veio em busca).
+- juwelier-wecker.de/de/brior-uhren.html (site antigo) e watchexp.com (espelho do allwatches) client_error.
