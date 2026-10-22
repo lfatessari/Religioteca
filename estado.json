@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 218,
-  "ultima_versao": 195,
+  "proxima_linha_marcas": 219,
+  "ultima_versao": 196,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2675,6 +2675,24 @@
         "3": 10
       },
       "versao": 195
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 196,
+      "marca": "Botta Design",
+      "linha_marcas": 218,
+      "linhas_relogios": "25764-25861",
+      "relogios": 98,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes_abertas": 123,
+      "passadas": {
+        "1": "100 fontes",
+        "2": "13 fontes/8 relógios",
+        "3": "10 fontes/5 relógios"
+      },
+      "obs": "usa_codigos=false (Art.-Nr. de 6 dígitos só em revendedores: 24 linhas com código); relógios de parede não entraram; links internos do site pedem permissão — só abertos os vindos de busca"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2686,34 +2704,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "observacao_proxima": "Botta Design (linha 218) dimensionada como grande: fazer sozinha.",
-  "em_execucao": "2026-10-21T23:41:14Z",
-  "ultimo_sinal": "2026-10-22T00:25:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Botta Design"
-    ],
-    "linha_marcas": 218,
-    "grande": true,
-    "relogios": "historico/parcial_botta_relogios.txt",
-    "fontes": "historico/parcial_botta_fontes.txt",
-    "notas": "historico/notas_botta.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p2",
-      "p3"
-    ],
-    "passada": 2
   }
 }
