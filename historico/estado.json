@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 237,
- "ultima_versao": 213,
+ "proxima_linha_marcas": 238,
+ "ultima_versao": 214,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2999,6 +2999,24 @@
     "2": "10 fontes/0 relógios"
    },
    "obs": "Tratada como grande por ter configurador (Watch Creator). Modelo único Chronograph 40 mm (HB 28-929 automático, JP 17-545 quartzo) + 7 designs com nome de rua da galeria do configurador (link de página). Designs salvos por clientes com códigos pessoais não viraram linhas. bruggler.com não aparece em buscas (L236). Observações em M236. Próxima: Bruno Söhnle (237), grande, sozinha."
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 214,
+   "marca": "Bruno Söhnle",
+   "linha_marcas": 237,
+   "linhas_relogios": "30186-30502",
+   "relogios": 317,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes_abertas": 115,
+   "passadas": {
+    "1": "87 fontes/262 relógios",
+    "2": "16 fontes/7 relógios",
+    "3": "12 fontes/9 relógios"
+   },
+   "obs": "Site oficial brunosoehnle-glashuette.com (Shopware): listas de coleção e fichas /index.php/detail. Linhas antigas (Lagomat, Rondomat, Volomat, Corpus, Aquarius, Stellina, Frankfurt, Forte, Legato, Bravura, Matera, Thalia, Algebra, Sonate, Classico, Pisa, Flamur, Enea, Atrium GMT, Lago GMT, Armida, Triest, Hamburg I/II, Padua) vindas de Define Watches, eBay /p/, watchspace, watch.de e títulos de manuais (manuall.de/notice-facile não abrem). Vermelha: dezenas de refs antigas sem lista pública. Logo SVG oficial. Obs. em M237. Próxima: Buccellati (238)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
