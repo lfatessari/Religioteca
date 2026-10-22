@@ -17,3 +17,5 @@
 - Decisão: VERMELHA. Motivo: marca desde 2000 com >35 coleções; linhas antigas (Atrium, Milano, Lago, Armida, Stellina, Volomat, Epona, Triest, Feronia, Frankfurt, Mechanik Edition I–IX, Algebra 1–3, Thalia I/II, Sonate, Classico, Pisa, Flamur, Enea, Corpus, Lagomat, Rondomat) com dezenas de refs não publicadas; muitas só vistas em título/listas sem foto.
 - 2ª passada: ir atrás de linhas antigas (Mechanik Edition, Epona, Triest, Frankfurt, Stellina, Volomat, Atrium antigo, Milano GMT, Lago, Glashütte Lady, catálogos PDF, manuais).
 - Logo: pendente.
+- manuall.de e notice-facile.com não abrem (client_error), mas os títulos nas buscas dão nome+ref → entram com link da página do manual.
+- Títulos de manuais (manuall.de/notice-facile): Matera, Bravura II, Salerno, Stuttgart II, Forte, Legato, Flamur, Corpus I/II, Nuvola II, Pesaro Automatik 17-12150, Frankfurt 17-12193, Lagomat, Volomat, Rondomat I/III, Florenz, Aquarius, Stellina, Fenna 17-12113.
