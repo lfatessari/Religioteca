@@ -2790,7 +2790,7 @@
     }
   },
   "em_execucao": "2026-10-22T04:41:17Z",
-  "ultimo_sinal": "2026-10-22T04:46:30Z",
+  "ultimo_sinal": "2026-10-22T04:48:53Z",
   "em_andamento": {
     "marcas": [
       "Braun"
@@ -2801,7 +2801,8 @@
     "fontes": "historico/parcial_Braun_fontes.txt",
     "notas": "historico/notas_Braun.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2"
     ],
     "passada": 1
   }
