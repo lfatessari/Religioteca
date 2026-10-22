@@ -15,7 +15,7 @@ for l in open('raw.txt',encoding='utf-8'):
     if not r:
         r={'n':n,'c':c,'i':i,'e':e}; recs[key]=r; order.append(key); continue
     if n and (not r['n']): r['n']=n
-    pi=lambda u: u and not re.search(r'\.(jpe?g|png|webp)',u.lower())
+    pi=lambda u: u and not (re.search(r'\.(jpe?g|png|webp)',u.lower()) or 'maier.fr/media' in u)
     if i and (not r['i'] or (pi(r['i']) and not pi(i))): r['i']=i
     if e and (len(e)>len(r['e']) or 'link da página' in r['e']) and not ('link da página' in e and r['e'] and 'link da página' not in r['e']): r['e']=e
 out=[]
@@ -28,3 +28,18 @@ for k in order:
     out.append(f"{n}|{r['c']}|{r['i']}|{e}")
 open(sys.argv[1] if len(sys.argv)>1 else 'parcial_Briston_relogios.txt','w',encoding='utf-8').write('\n'.join(out)+'\n')
 print(len(out),'relógios;',sum(1 for x in out if re.search(r'\.(jpe?g|png|webp)',x.split('|')[2].lower())),'com foto')
+# preencher C vazio com a página da fonte
+P1='https://justintime.in/collections/briston?page=1'; P2='https://justintime.in/collections/briston?page=2'; J='https://jurawatches.co.uk/collections/briston-watches-for-men/dial-colour-red'
+pg1={'17536.PRA.T.2.NT','21536.PRA.UB.33.NMB','15140.PRA.T.8.NBDX','23142.S.T.2.SB'}
+fn=sys.argv[1] if len(sys.argv)>1 else 'parcial_Briston_relogios.txt'
+L=[]
+for l in open(fn,encoding='utf-8'):
+    n,c,i,e=l.rstrip('\n').split('|')
+    if not i:
+        i = J if c=='19640.PS.I.8.NBDX' else (P1 if c in pg1 else P2)
+        loja='Jura Watches' if i==J else 'Just In Time'
+        e=(e+'; ' if e else '')+f'visto só na listagem da loja {loja} (link da página)'
+    elif not (re.search(r'\.(jpe?g|png|webp)',i.lower()) or 'maier.fr/media' in i) and 'link d' not in e:
+        e=(e+'; ' if e else '')+'foto não aberta (link da página)'
+    L.append('|'.join([n,c,i,e]))
+open(fn,'w',encoding='utf-8').write('\n'.join(L)+'\n')
