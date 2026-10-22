@@ -26,3 +26,5 @@
 7. Fontes: 133.
 - MARCA VERMELHA: EveryWatch 269 à venda; muitas referências WA atuais/antigas (WA009xxx, WA010xxx, WA0110…) e vintage só com números de série. 2ª passada: EveryWatch famílias, códigos WA009/WA010, Ajourée, Epure, Serpent.
 ## 2ª passada encerrada 01:11 (3 seguidas sem novidade). Fez ≥5 novos → 3ª passada: Ronde/Carlotta/Monsieur antigos, Crazy, anúncios EveryWatch, eBay, Yahoo JP.
+- Piazo (piazo.jp) bloqueado por robots: refs vistas só na URL de busca WA009408 e WA002422 (Reflet).
+- Yodobashi: 31 refs descontinuadas (Epure WA0211xx/0212xx/0213xx, Reflet WA0092–0095xx, Mec WA006213, Carrée WA011305, Paname WA010212, Majorie WA012504).
