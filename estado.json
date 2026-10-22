@@ -2758,7 +2758,7 @@
     }
   },
   "em_execucao": "2026-10-22T03:41:22Z",
-  "ultimo_sinal": "2026-10-22T03:44:47Z",
+  "ultimo_sinal": "2026-10-22T03:48:48Z",
   "em_andamento": {
     "marcas": [
       "Bower",
@@ -2771,7 +2771,7 @@
     "notas": "historico/notas_Bramier.md",
     "secoes_feitas": [
       "Bower:todas",
-      "Bramier:"
+      "Bramier:1,2,3,5,9"
     ],
     "passada": 1
   }
