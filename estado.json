@@ -3083,5 +3083,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-22T21:41:49Z",
+ "ultimo_sinal": "2026-10-22T21:41:49Z",
+ "em_andamento": {
+  "marcas": [
+   "Bulova"
+  ],
+  "linha_marcas": 242,
+  "grande": true,
+  "relogios": "historico/parcial_Bulova_relogios.txt",
+  "fontes": "historico/parcial_Bulova_fontes.txt",
+  "notas": "historico/notas_Bulova.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
