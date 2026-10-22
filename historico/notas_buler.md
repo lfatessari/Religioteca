@@ -5,3 +5,7 @@
 - Europa Star swisstime lista: Sea Quest, Sky Hero, Adventurer, Challenger, Explorer, S-Elite, Marine Odyssey Chrono, Racing Star Chrono, Sea Rover Chrono, Pro Champion Automatic, Quartz 2001, Force 12, Professional Swiss Concept, LCD Alarm, Stratos by Bertone, Century 2000
 - Adventure 36123 aparece como feminino e como masculino 44 mm na 1stDibs (mesma ref; ficou uma linha)
 - Sea Quest 2010 (Europa Star) = mesmo modelo do 37141; não duplicado.
+- Pingente (eBay 395533973314) e isqueiro-relógio (eBay 177453853509) não são de pulso: fora.
+## 1ª passada encerrada (57 fontes; últimas ~10 sem novidade). Seções 1-10 feitas; buler.ch não aparece em buscas (L).
+- Vermelha: vintage de massa com centenas de refs sem nome; faltam Century (1971), Century 2000, Pro Champion, Racing Star, Sea Rover, Marine Odyssey, Force 12, Professional, LCD Alarm, Buccaneer, Sea Legend, S-Elite, Twinkle, Mountain Quest, Alpha Performance.
+## 2ª passada
