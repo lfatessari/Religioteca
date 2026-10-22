@@ -7,3 +7,5 @@
 - TWP (thewatchpages) não abre (client_error); títulos de busca dão códigos.
 - Fotos oficiais "soldats": brellum.swiss/assets/fichiers/images/soldats/... 
 - mrstateless salmon: URL tirada de página pediu permissão (PROVENANCE) — não repetir.
+- 1ª passada encerrada (3 fontes seguidas sem novidade: thewatchgallery, página DB.CH.945, watchcrunch). Vermelha: códigos do The Watch Pages não abrem, LE.6/LE.7 não achadas, páginas ocultas do site não abrem (Burgundy, Ice Blue).
+- 2ª passada em curso: alvo LE.6/LE.7, códigos/cores, páginas ocultas.
