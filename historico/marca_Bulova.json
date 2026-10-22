@@ -1,0 +1,737 @@
+{
+ "marca": "Bulova",
+ "usa_codigos": true,
+ "logo": "https://images.ctfassets.net/h3b35xfg8xpt/6wv8k4iu23zbMoa3Xw1pJt/0e865213b556afc2cd6b1d5f22053859/Logo.svg",
+ "site_bloqueado": "Parcial – bulova.com: as listagens mostram só 24 itens e a paginação (?offset), a busca (robots) e uk.bulova.com não abrem para leitura automática; fotos só nas fichas; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I conferido (fundada em 1875 por Joseph Bulova em Nova York; Citizen desde 2008; cronógrafo da Apollo 15): pode tirar o [⚠️ verificar]. Accutron virou marca própria em 2020 (linha 16): só o Accutron vintage e o Accutron II (2014-19) ficaram na Bulova. Caravelle e Harley-Davidson by Bulova (sem linha própria) incluídos aqui.",
+ "fontes": [
+  {
+   "url": "https://watchdirect.com.au/en-jp/collections/bulova",
+   "passada": 1,
+   "novos": 48
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-watches",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/96K115",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-precisionist-watches",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-curv/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-sport/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/military-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-automatic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-modern/",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-watches?offset=24",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/archive-series",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/limited-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens/",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens-collections/?offset=24",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-marine-star/?offset=24",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens-classic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens-modern/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens-rubaiyat/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens-diamonds/",
+   "passada": 1,
+   "novos": 27
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-exclusive-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-new-watches?offset=0",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/classic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-special-collections/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/frank-lloyd-wright/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/caravelle/",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens-crystal-watches/",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://joycesjewelry.com/collections/bulova",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.harveystore.com/collections/bulova",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://teddybaldassarre.com/collections/bulova",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.bulova.com/collections/all-bulova?page=2",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/bulovas-1950-1959/",
+   "passada": 1,
+   "novos": 116
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/bulovas-1960-1969/",
+   "passada": 1,
+   "novos": 64
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/bulovas-1970-1979/",
+   "passada": 1,
+   "novos": 68
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/bulovas-1940-1949/",
+   "passada": 1,
+   "novos": 145
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/bulovas-1930-1939/",
+   "passada": 1,
+   "novos": 152
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/bulovas-1917-1929/",
+   "passada": 1,
+   "novos": 93
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/others/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harveystore.com/collections/bulova?page=2",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.harveystore.com/collections/bulova?page=5",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.harveystore.com/collections/bulova?page=6",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.harveystore.com/collections/bulova?page=8",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.harveystore.com/collections/bulova/origin-switzerland?page=4",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://au.bulova.com/collections/all/current",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://au.bulova.com/collections/archive-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/bulova",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.analogshift.com/products/bulova-x-analog-shift-devil-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/bulova-super-compressor-jumbo-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/bulova-accutron-spaceview-alpha-as12116",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/bulova-accutron-golden-shield-as11347",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/bulova-accutron-doctors-watch-as10082",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/bulova-666-chronograph-as01152.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lexormiami.com/collections/bulova-watches",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.marketcrossjewellers.com/collections/bulova-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/premium-bulova-watches?page=4",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/mens-bulova-watches?page=4",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.padisgems.com/collections/bulova-collection?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nicols.es/en/brand/80-bulova?page=3",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/mens-bulova-watches?page=2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://watchdirect.com.au/collections/bulova?page=2",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://shopwatchdirect.com/collections/bulova?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.bulova.com/collections/all-bulova/discontinued?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/bulova-1?page=3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a38761418/bulova-watches/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://teddybaldassarre.com/blogs/watches/bulova-lunar-pilot",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://cicala.it/en/bulova-watches-history-collections-150-years/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.righttime.com/rt/bulova/bulovawatches.htm",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.hsamuel.co.uk/watches/brands/bulova/c/5439400000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beaverbrooks.co.uk/watches/bulova-watches/mens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/bulova/page/9/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/tag/bulova/page/2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/bulova",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/bulova/wwoldmodels.htm",
+   "passada": 1,
+   "novos": 113
+  },
+  {
+   "url": "https://www.righttime.com/rt/bulova/classic.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/bulova/archives.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/womens-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-automatic-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/new-arrivals/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchitusa.com/collections/bulova",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.themanual.com/fashion/bulovas-new-moon-watch-has-a-cosmic-aventurine-dial/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/complecto-and-bulova-launch-their-second-limited-edition-collaboration/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.maxim.com/style/bulova-stetson-are-bringing-cowboy-style-to-a-new-limited-edition-watch-collab/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bulova-watch-models-by-year",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/bulova-lot-348-29",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchophilia.com/general-information/bulova-most-collectible",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/ladies-sports-models/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchophilia.com/photogallery/lone-eagle-models/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch-wiki.net/doku.php?id=bulova_accutron",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.collectorsweekly.com/wristwatches/accutron",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Bulova",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/bulova-watch-reviews-and-news/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/bulova",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.macys.com/shop/brands/bulova?id=26215",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestjones.co.uk/l/watches-bulova",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.rogersandhollands.com/watches/designer-brands/bulova-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dorjewelry.com/bulovaprecisionistmenscollection.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.bulova.com/global/collection/mens-watches/",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://www.bulova.com/global/collection/womens-watches/",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumedico.html",
+   "passada": 2,
+   "novos": 17
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumico.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dorjewelry.com/buladico.html",
+   "passada": 2,
+   "novos": 30
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumemastco.html",
+   "passada": 2,
+   "novos": 34
+  },
+  {
+   "url": "https://www.dorjewelry.com/ind.html?viewfullsite=1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumespcaco.html",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumestcaco.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumehaco.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumehabrco.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumelestco.html",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumebrco.html",
+   "passada": 2,
+   "novos": 23
+  },
+  {
+   "url": "https://www.dorjewelry.com/bulacrco.html",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumeco.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumebvco96.html",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://www.dorjewelry.com/bulalestco98.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/150-anniversary/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/exclusives/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/snorkel/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/latin-grammy/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/collection/mens-archive-series/?redirect=false",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://shop.selcotime.com/category/bulova",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/bulova-96k112-jet-star-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/bulova",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://neel.co.jp/collections/bulova",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tokyo-watchstyle.jp/collections/bulova",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/caravelle-collections-vintage/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://mimosjewelry.com/collections/carvelle-vintage",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://leoswatches.com/en/blogs/cronostorie/caravelle-storia-di-un-brand-di-orologi-vintage-nella-galassia-bulova",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.dorjewelry.com/bumefrllwrco.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.watch-spare.com/caravelle-vintage-sea-hunter-diver.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hubcityvintage.com/archive-iii",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hubcityvintage.com/archive-iiii",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hubcityvintage.com/archive-v",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oldfathertime.com/spaceview.htm",
+   "passada": 3,
+   "novos": 10
+  },
+  {
+   "url": "https://accutron.watch/forum/retracing-bulova-history",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/bulova-vintage",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/US_military_watches",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.creationwatches.jp/product-category/bulova/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yodobashi.com/category/18457/18459/178101/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.neuve-a.net/shop/c/c100377/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/collection/womens-joseph-bulova/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdirect.com.au/products/bulova-limited-edition-frank-lloyd-wright-blue-leather-watch-97a177",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/bulova-stars-and-stripes-chronograph-c-as03140.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.co.nz/bulova/bulova-watches-watches-nz-96b406-bulova-the-rat-pack",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchdirect.shop/collections/bulova",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/collection/mens-archive-series",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/bulova-watch-frank-sinatra-chairman-of-the-board-97b224",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

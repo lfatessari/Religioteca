@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 242,
- "ultima_versao": 217,
+ "proxima_linha_marcas": 243,
+ "ultima_versao": 218,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3072,6 +3072,20 @@
    "fontes_abertas": 142,
    "passadas": "1: 57 fontes/26 novos; 2: 54/25; 3: 31/44",
    "obs": "buler.ch em laço de redirecionamento; vintage de massa com centenas de refs sem nome; Bulova (242) é grande e fica sozinha"
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 218,
+   "marca": "Bulova",
+   "linha_marcas": 242,
+   "linhas_relogios": "30770-32319",
+   "relogios": 1550,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "grande": true,
+   "fontes_abertas": 145,
+   "passadas": "1: 94 fontes/1344 novos; 2: 28/175; 3: 23/28",
+   "obs": "vintage 1917-79 via Watchophilia (~640 nomes sem referência); Accutron moderno fica na linha 16; Caravelle e Harley-Davidson by Bulova incluídos; 326 linhas com link da ficha oficial no lugar da foto"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
