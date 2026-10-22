@@ -3046,5 +3046,21 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-22T19:41:42Z",
+ "ultimo_sinal": "2026-10-22T19:41:42Z",
+ "em_andamento": {
+  "marcas": [
+   "Buci",
+   "Bulbul"
+  ],
+  "linha_marcas": 239,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "obs": "Buler (241) parece grande (linha vintage extensa): fica sozinha na próxima execução"
  }
 }
