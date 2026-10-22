@@ -2977,7 +2977,7 @@
   }
  },
  "em_execucao": "2026-10-22T15:41:38Z",
- "ultimo_sinal": "2026-10-22T15:41:38Z",
+ "ultimo_sinal": "2026-10-22T15:50:58Z",
  "em_andamento": {
   "marcas": [
    "Briston"
@@ -2987,7 +2987,10 @@
   "relogios": "historico/parcial_Briston_relogios.txt",
   "fontes": "historico/parcial_Briston_fontes.txt",
   "notas": "historico/notas_Briston.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
