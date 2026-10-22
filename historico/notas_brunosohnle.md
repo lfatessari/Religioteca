@@ -6,3 +6,6 @@
 - Falta: coleções nabucco, latina, merano, la-traviata, bologna, turin (masc), hamburg (completa), páginas de limited editions; produtos escondidos (site:); revendedores (Jura, wristler, cwsellors, define watches, steiner, windup), ebay, imprensa (watchtime, firstclass blog), modelos antigos (Facetta 1957? Stuttgart; Atrium Chrono, Mechanik Edition X, Devi, Florenz, Fenna, Thalia, Momento, Nuvola, Latina, Triest Sport, Algebra).
 - Edições: Episode V LE 125 peças (44mm, BS175); Mechanik Edition X LE 125 peças (42mm, BS 283 / Unitas 6498); Atrium Chrono LE 199 por versão (aço cinza e IP preto 17-73250-711); Facetta Automatik LE (2 pulseiras, ref?); Rondo Automatik Gangreserve LE (241, 741); Turin Automatik Bright Red 2026 (só fabricado em 2026); Algebra LE (750, 950).
 - Páginas /en/index.php/detail/<id> vindas de busca = fichas de produto (inclusive antigas?). Fazer mais buscas que tragam esses ids.
+- Linhas antigas sem ref ainda: Armida Chronograph, Milano GMT, Lago (grande data), Hamburg II (17-13205-961 visto em busca), La Spezia I 17-13209-921 (busca), Pesaro I 17-13073-742 (busca), Rondo 17-33105-241 (busca), Stuttgart 17-13175-340 (definewatches), Triest Sport 17-43222-361 (busca), Stuttgart Handaufzug 17-11190-261.
+- eBay imagens são placeholder 7WgAAOSwQ7haxTU1 → usar link da página.
+- Provável VERMELHA (linhas antigas desde 2000, centenas de refs).

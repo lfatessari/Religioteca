@@ -3012,7 +3012,7 @@
   }
  },
  "em_execucao": "2026-10-22T17:41:39Z",
- "ultimo_sinal": "2026-10-22T17:53:02Z",
+ "ultimo_sinal": "2026-10-22T17:54:36Z",
  "em_andamento": {
   "marcas": [
    "Bruno Söhnle"
@@ -3024,7 +3024,9 @@
   "notas": "historico/notas_brunosohnle.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "5",
+   "7"
   ],
   "passada": 1
  }
