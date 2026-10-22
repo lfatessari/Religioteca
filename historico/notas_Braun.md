@@ -6,3 +6,5 @@
 ## Feito: 1, 2 (parcial)
 - Vintage (designundtext programa completo): DW20/DW30/AW10..AW200 com Typ. ATENÇÃO: sufixos de Typ como "B","S","T","W","N" foram criados por mim para diferenciar variantes que dividem o mesmo Typ -> CORRIGIDO: agora só o Typ real; variantes diferenciadas pelo nome.
 - Fotos vintage: faltam; procurar (die-kettwiger, ebay, catawiki, braun archive)
+- Kulthifi: 87 itens, páginas 2-3 não alcançadas por busca.
+- Faltam: BN0046, BN0231 (feminino), BN0115, BN0036?, AW24 já ok, BN0142 marrom, BN0171 stone beige, BN0021 ladies (BN0021WHL?), BN0281 outras cores
