@@ -3,3 +3,7 @@
 - Catálogo atual: 71 itens (for-her 64 + for-him 7) — conferido: watches.html "Items 71". Todos anotados.
 - Códigos WAU... (ex. WAULDG016404). usa_codigos=true.
 - Falta: coleções Tulle/Rombi/Unica/Opera/Ornatino páginas (descrição), outras regiões (en_row, it_it), produtos escondidos (site: buscas), história (Gianmaria Buccellati Watches SA anos 90: Anthochron, Audachron, Oktachron...; Mario Buccellati vintage).
+## Histórico (Buccellati Watches SA, Gianmaria Buccellati, Chiasso; relógios desde 2000)
+- Linhas -chron: Audachron (5111, 511, 5211, 5044), Oktachron (1002), Eliochron (E1209501AA, E1313401BB, Eliochron 35), Anthochron (Dahlia, Zinnia, Camelia, Bellis; 2008), Agalmachron, Olympochron, Androchron (W0800915), Arischron, Cleopatra (cuff), Snowflake vintage (Mario).
+- 1stdibs ladies: Olympochron, Anthochron Zinnia, Eliochron 35, Agalmachron rosa — sem links ainda.
+- EveryWatch: páginas pedem login ("Only Collectors") — fraco.

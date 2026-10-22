@@ -3030,7 +3030,7 @@
   }
  },
  "em_execucao": "2026-10-22T18:41:20Z",
- "ultimo_sinal": "2026-10-22T18:45:47Z",
+ "ultimo_sinal": "2026-10-22T18:48:52Z",
  "em_andamento": {
   "marcas": [
    "Buccellati"
@@ -3041,7 +3041,8 @@
   "fontes": "historico/parcial_Buccellati_fontes.txt",
   "notas": "historico/notas_Buccellati.md",
   "secoes_feitas": [
-   "2"
+   "2",
+   "2c"
   ],
   "passada": 1
  }
