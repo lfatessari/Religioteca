@@ -10,3 +10,4 @@ Início 11:41 UTC. Grande (maison, linha extensa).
 - 12:25 Passada 1 encerrada: 3 últimas fontes (masterhorologer, jura maya, everywatch) sem novidade. EveryWatch: anúncio fechado para membros ("Only Collectors"). WatchBase: famílias alt1 e supermarine dão erro; martin-baker abriu.
 - Vermelha: edições militares/esquadrões (venda restrita, dezenas, sem lista pública), MBII configurador (combinações sob encomenda), exclusivas de lojas (ex. ALT1-ZT Watches of Switzerland 30 pçs).
 - Passada 2: buscar edições militares, exclusivas de lojas, Bremont Bespoke/one-off, leilões beneficentes, modelos antigos.
+- Rock-A-Bye (Ronnie Wood): 47 mostradores únicos pintados à mão, uma linha só (não listáveis um a um).
