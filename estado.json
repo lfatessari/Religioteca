@@ -2824,7 +2824,7 @@
     }
   },
   "em_execucao": "2026-10-22T06:41:27Z",
-  "ultimo_sinal": "2026-10-22T07:24:43Z",
+  "ultimo_sinal": "2026-10-22T07:27:17Z",
   "em_andamento": {
     "marcas": [
       "Breguet"
@@ -2846,8 +2846,9 @@
       "8",
       "9",
       "10",
-      "10b"
+      "10b",
+      "2a"
     ],
-    "passada": 1
+    "passada": 3
   }
 }
