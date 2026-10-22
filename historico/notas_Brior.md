@@ -25,3 +25,12 @@ Dimensionamento: Brior pequena (quase sem presença online; vendida pela WatchBu
 - Decisão vermelho: NÃO. Encomendas (Wunsch-Uhren) são sob medida, não catálogo; lacunas conhecidas = chronosonline p2 (10 modelos) e allwatches p2 não alcançadas; registrar no relatório.
 - allwatches tarlo-fin-calendrier-p31425: confirma foto full e T23121 (38,2 mm). Coleções no allwatches: Diamond Date 3, Tarlo 3, Mammut 1, Cavaletto 6, Tempio 2, Perla 1, Robello 3 (=19, + Luna/Oro). Tempio (2) não visto no allwatches (página de coleção não veio em busca).
 - juwelier-wecker.de/de/brior-uhren.html (site antigo) e watchexp.com (espelho do allwatches) client_error.
+## 10/10b Auto-auditoria
+1. Blog/imprensa oficial: brior.de bloqueado; títulos de páginas obtidos por busca (Tarlo Luna/Chrono/Fin Calendrier, Robello R11232/R11309, Diamond Date TE11042/11242/11343/11545, Tempio TE32412, Cavalletto C32412/C12432, La Grande G14422, Calisto). Todos na lista.
+2. §2c: buscas site:brior.de e pelo título padrão do site repetidas até não surgirem páginas novas.
+3. Lojas: Exquisite Timepieces (não abre), WatchBuys (antigo, só via blog). Não há loja online atual.
+4. Primeiro modelo: 1º relógio com caixa de madeira em 1991 (sem nome conhecido); marca em 2000. Não encontrado nome.
+5. I/J: J genérico; coleções todas encontradas.
+6. Sem edições limitadas; "Unikat" = cada caixa de madeira é única (veio da madeira), não peça única numerada -> não marcado como peça única.
+7. 26 fontes. Parada: 3 últimas (lebensart partner, eBay, creditreform) sem novidade.
+Lacunas: chronosonline p2 (10 modelos) e allwatches p2 / coleção Tempio (2) não alcançadas por busca.

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 234,
-  "ultima_versao": 210,
+  "proxima_linha_marcas": 235,
+  "ultima_versao": 211,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2948,6 +2948,22 @@
         "1": "79 fontes/66 relógios"
       },
       "obs": "usa_codigos=false (nome + cor); Special Blend (2015), HP-1, Retrograph, Mastergraph, Retromatic, 8-Bit, Method, Metric (inclui Lite, Super, Manual Wind, Automatic), colaborações W&W, Alton Brown, Teddy Baldassarre; links de páginas abertas pedem permissão (só URLs de busca); W&W /brand/brew page 2 e 4 não alcançadas; WatchBase/EveryWatch/Chrono24 sem resultado; observações em M233; próxima: Brior (234)"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 211,
+      "marca": "Brior",
+      "linha_marcas": 234,
+      "linhas_relogios": "29832-29859",
+      "relogios": 28,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": "brior.de (robots_disallowed)",
+      "fontes_abertas": 26,
+      "passadas": {
+        "1": "26 fontes/28 relógios"
+      },
+      "obs": "usa_codigos=true (T21111, C32412, TE11042...); marca do joalheiro Holger Wecker, Kulmbach (caixas de bruyère/ébano); 9 linhas com link de página (site oficial bloqueado ou só catálogo); chronosonline p2 (10 modelos) e allwatches p2/coleção Tempio não alcançadas; observações em M234; Briston (235) é grande (centenas de referências), fica sozinha; próxima: Briston (235)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2959,25 +2975,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-22T14:43:04Z",
-  "ultimo_sinal": "2026-10-22T14:50:25Z",
-  "em_andamento": {
-    "marcas": [
-      "Brior"
-    ],
-    "linha_marcas": 234,
-    "grande": false,
-    "relogios": "historico/parcial_Brior_relogios.txt",
-    "fontes": "historico/parcial_Brior_fontes.txt",
-    "notas": "historico/notas_Brior.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5"
-    ],
-    "passada": 1
   }
 }
