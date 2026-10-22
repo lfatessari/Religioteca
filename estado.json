@@ -2824,7 +2824,7 @@
     }
   },
   "em_execucao": "2026-10-22T06:41:27Z",
-  "ultimo_sinal": "2026-10-22T06:51:09Z",
+  "ultimo_sinal": "2026-10-22T06:56:12Z",
   "em_andamento": {
     "marcas": [
       "Breguet"
@@ -2835,7 +2835,8 @@
     "fontes": "historico/parcial_Breguet_fontes.txt",
     "notas": "historico/notas_Breguet.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2"
     ],
     "passada": 1
   }

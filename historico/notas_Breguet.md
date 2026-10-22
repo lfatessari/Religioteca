@@ -6,3 +6,5 @@
 - A verificar códigos inferidos: 5177BB/2Y/9V6, 5557BB/YS/5WV, 5557BR/YS/5WV
 - 1stdibs used (só títulos, sem fotos): 5817BA, 3810 Type XXI, 8818B Marine MOP, 5930 Classique, 3210 Classique 30.5mm, 3460 Marine Chrono, 4081A Marine, Type XX Transatlantique 33mm (dama), 5717BR Hora Mundi, 3800BR, 3820BR/F2, Marine Royale alarme (5847)
 - the1916company Tradition: 7057BB/11/9W6 (novo)
+- 1ª leva: Exquisite (fotos), Wristler (só refs, link da página), Berrys (fotos), Luxury Bazaar guia (137 refs sem foto).
+- PRÓXIMO: buscar FOTOS para refs sem foto (linhas com link de página). Fontes com foto: exquisite, berrys, coveted. Faltam seções 2c, 4, 5 (EveryWatch, WatchBase, WatchPatrol), 6, 7, 8, 9, 10.
