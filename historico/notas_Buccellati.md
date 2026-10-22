@@ -18,3 +18,12 @@
 - Conferência de catálogo fechado: en_us (71 = 64 for-her + 7 for-him) e en_sg ('71 of 71') batem.
 - Códigos E…AA/BB/KK são SKUs da loja Dover Jewelry (Miami) -> movidos para E.
 ## 2ª passada encerrada (19:08): 20 fontes, 9 novos -> fazer 3ª passada (>=5 novos).
+## 3ª passada encerrada (19:11): 13 fontes, 3 novos (<5) -> parar.
+## 10b Auto-auditoria
+1. Blog/imprensa: site oficial não tem blog de relógios; imprensa (aBlogtoWatch 1 e 2, WWD, montres-de-luxe, lesrhabilleurs, Lifetime, Haute Time) lida; nomes citados estão na lista (Cleopatra, Androchron, Audachron, Agalmachron, Milleluci, Anthochron, Orochron, Apollochron, Tulle Bluebell/Forget-me-not/Anemone).
+2. site:buccellati.com feitas com vários termos (macri, rombi, tulle, opera, unica, agalma, -chron): nada escondido; catálogo 71 = 71 (en_us e en_sg).
+3. Lojas: Net-a-Porter, Fecarotta, 58 Facettes, Greenleaf & Crosby, Dover, Ferret, Astrua, 1916 Company, Peter Suchy, Robinsons — feitas.
+4. Primeiro relógio: Gianmaria Buccellati entrou em relógios em 2000 (WWD); vintage Mario Buccellati com movimentos Rolex/Movado/Universal (anos 50–60) incluídos.
+5. J: Macri, Agalma (Agalmachron), Ornatino ok; "24 Ore" não achado.
+6. Edições limitadas na B (Arischron 100, Eliochron 100, Oktachron 100, Agalmachron 100, Siriochron 30, Orochron 3); peça única: Unica (E começa com "Peça única.").
+7. Fontes: ~101.

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 238,
- "ultima_versao": 214,
+ "proxima_linha_marcas": 239,
+ "ultima_versao": 215,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3017,6 +3017,24 @@
     "3": "12 fontes/9 relógios"
    },
    "obs": "Site oficial brunosoehnle-glashuette.com (Shopware): listas de coleção e fichas /index.php/detail. Linhas antigas (Lagomat, Rondomat, Volomat, Corpus, Aquarius, Stellina, Frankfurt, Forte, Legato, Bravura, Matera, Thalia, Algebra, Sonate, Classico, Pisa, Flamur, Enea, Atrium GMT, Lago GMT, Armida, Triest, Hamburg I/II, Padua) vindas de Define Watches, eBay /p/, watchspace, watch.de e títulos de manuais (manuall.de/notice-facile não abrem). Vermelha: dezenas de refs antigas sem lista pública. Logo SVG oficial. Obs. em M237. Próxima: Buccellati (238)."
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 215,
+   "marca": "Buccellati",
+   "linha_marcas": 238,
+   "linhas_relogios": "30503-30627",
+   "relogios": 125,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes_abertas": 106,
+   "passadas": {
+    "1": "75 fontes/114 relógios",
+    "2": "18 fontes/7 relógios",
+    "3": "13 fontes/3 relógios"
+   },
+   "obs": "Site oficial (Magento) com 71 relógios atuais (códigos WAU...), conferido em en_us e en_sg (71 de 71). Linhas antigas da Buccellati Watches SA (Gianmaria, desde 2000): Eliochron, Audachron (5011, 5044, 5111, 511, 5123, 5211, 5214), Oktachron (1002, 1022, 5693, F1022), Agalmachron, Anthochron, Arischron (E3222), Venuschron (35536), Siriochron, Androchron, Orochron, Apollochron, Chronochron, Cleopatra, Elio, Milleluci; vintage Mario Buccellati com movimentos Rolex 3782/Movado/Universal. Códigos W08xxxxx tratados como número de série (coluna E); SKUs E...AA da Dover Jewelry na E. Logo SVG oficial. Obs. em M238. Próxima: Buci (239)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
