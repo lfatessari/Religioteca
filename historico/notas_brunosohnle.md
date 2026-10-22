@@ -11,3 +11,4 @@
 - Provável VERMELHA (linhas antigas desde 2000, centenas de refs).
 - watch.de blog 2013: Atrium Chrono, Milano GMT 2, Lagomat, Corpus I, Mechanik Edition No.5; coleções Stellina, Volomat sem ref. Fundada 2000; 1º mecânico 2008; 1ª coleção automática 2010. Mais de 35 coleções.
 - História oficial: 2000 fundação (quartzo); 2008 Mechanik Edition I (1º mecânico); 2010 1ª coleção automática; 2014 Facetta 1957; 2016 Stuttgart; 2017 Frankfurt (titânio) + calibre próprio; 2025 Pesaro I e Stuttgart III Big.
+- preissuchmaschine.de (trend Damenuhr mehr=3,4,5,7) não abriu (client_error).
