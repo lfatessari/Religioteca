@@ -2909,5 +2909,19 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
+  },
+  "em_execucao": "2026-10-22T11:42:22Z",
+  "ultimo_sinal": "2026-10-22T11:42:22Z",
+  "em_andamento": {
+    "marcas": [
+      "Bremont"
+    ],
+    "linha_marcas": 231,
+    "grande": true,
+    "relogios": "historico/parcial_Bremont_relogios.txt",
+    "fontes": "historico/parcial_Bremont_fontes.txt",
+    "notas": "historico/notas_Bremont.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
