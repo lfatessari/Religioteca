@@ -17,3 +17,7 @@ Virtuoso IV, V (red dial), VII, VIII (10-day flying tourbillon big date), IX, XI
 - Watchonista brands/bovet/watches: páginas 2 e 7 não vieram em busca (não abertas).
 - watchcollecting.com redirecionou para collecting.com (não aberto).
 - masterhorologer 19thirty: não abriu (client_error).
+## Fim da 1ª passada (03:16 UTC)
+Parou pelo critério: time&tide (0), grail-watch (0), Antiquorum 313-184 (0), Christie's 5751880 (0) seguidas sem novidade (Ethos não abriu).
+VERMELHA: centenas de referências (Amadeo Fleurier AF/AI, antigas D/C/E, Château de Môtiers HMS, Sportster SP/C), peças únicas pintadas, 271–303 resultados de leilão na CollectorSquare só 40 visíveis.
+2ª passada: buracos de sequência por prefixo de código (NTS/NTR/NTT, AF39/AF43, AI43, AS36, HMS, R12C2, R23, SP0, C80x), §2c refeito (site oficial ?p= e lojas), buscas extras §3.
