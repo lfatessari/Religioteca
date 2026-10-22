@@ -2740,7 +2740,7 @@
     }
   },
   "em_execucao": "2026-10-22T02:41:43Z",
-  "ultimo_sinal": "2026-10-22T03:06:40Z",
+  "ultimo_sinal": "2026-10-22T03:07:52Z",
   "em_andamento": {
     "marcas": [
       "Bovet"
@@ -2752,6 +2752,7 @@
     "notas": "historico/notas_Bovet.md",
     "secoes_feitas": [
       "1",
+      "2",
       "2c",
       "3",
       "9a",

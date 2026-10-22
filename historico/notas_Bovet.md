@@ -14,3 +14,4 @@ Virtuoso IV, V (red dial), VII, VIII (10-day flying tourbillon big date), IX, XI
 - NÃO ABRIRAM (tirar da lista de fontes no fim): gressive.jp/catalog/bovet, gressive.jp/brand/bovet/hotitem, aucfan q-BOVET, watchpatrol amadeo/sportster/fr, bovet.watchonista.com (redirect)
 - Relógios de bolso históricos (mercado chinês, 'Bouquets de Chine', Butterfly, Mille Fleurs, Easel Chronometer) NÃO entram: não são de pulso; relatar.
 1|https://www.mayors.com/Bovet-R%C3%A9cital-23-R230011+SD14/p/18410255 (busca mayors: imagens montadas pelo padrão content.thewosgroup.com/productimage/<código>/<código>_1.jpg confirmado na página aberta)
+- Watchonista brands/bovet/watches: páginas 2 e 7 não vieram em busca (não abertas).
