@@ -12,3 +12,4 @@
 - Logo: https://www.europastar.com/IMG/logo/arton1004082994.jpg ; endereço Av. Léopold-Robert 96, La Chaux-de-Fonds (Jean d'Eve); site buler.ch/en/home.html
 - Jewels on Hampton (loja EUA) cita também: Ocean Hero Chronograph, Twinkle, Mountain Quest, Top Gear Chronograph, Alpha Performance Chronograph, Sea Legend Automatic, Buccaneer (sem fotos).
 - buler.ch: redireciona https→http em laço (302), não abre. L: Site bloqueado.
+- Renley 1997 (Europa Star) = mesma linha do Chronograph 1996; não duplicado. Mystery dial calendar anos 1960 (justintimesvintage, robots) – entra só pelo título.
