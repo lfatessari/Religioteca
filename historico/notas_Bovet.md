@@ -10,3 +10,4 @@ Virtuoso IV, V (red dial), VII, VIII (10-day flying tourbillon big date), IX, XI
 - gressive.jp/catalog/bovet: robots (não abriu). AF39005 e AF39005-SD123: AF39005 é o básico; -SD123 = cravação; deixei os dois por serem códigos diferentes.
 - Journal bovet.com/news tem 25 páginas (?page=N não vem de busca). Récital 12 especial Seddiqi 75 anos (blood jasper); Récital 30 Seddiqi verde LE.
 - CollectorSquare índice: 271 resultados, só 40 vistos. Relógios de bolso chineses sem nome/ref não entram (relatar).
+- Récital 32 GMT (2026): 3 cores, 60 peças cada, titânio ou ouro vermelho, 42 mm — buscar códigos/cores.
