@@ -7,3 +7,5 @@
 - 2 (parcial): coleções mens-watches (p1,p2), precisionist, curv, modern, archive-series, limited-edition, womens, womens-collections p2, marine-star p2. sport/military/automatic vieram vazias.
 ## Falta
 - mais páginas offset; vintage (mybulova.com / accutron.watch), Accutron (marca própria desde 2020? checar aba Marcas), Caravelle; WatchBase não aparece na busca.
+- Teddy Baldassarre (71 produtos, sem códigos): buracos a buscar código: Devil Diver laranja, Jet Star 50th Anniversary vermelho, Oceanographer Snorkel Coral Ceramic LE, Super Seville Year of the Horse LE, VWI Special Edition Hack, Military VWI Special Edition 42.5 verde, Lunar Pilot "Blood Moon", Lunar Pilot Black PVD SE, Aerojet cinza, My Way, Young at Heart, Frank Sinatra 21mm/30mm, MIL-SHIPS Bronze SE azul, Marine Star Series B, SHELBY Racer.
+- Decisão: Accutron moderno (marca própria desde 2020) fica na linha 16 "Accutron"; Accutron vintage Bulova (1960-) entra em Bulova. Caravelle (sem linha própria) entra em Bulova. Relógios de mesa/parede (Frank Lloyd Wright clocks, C1971) ficam fora.
