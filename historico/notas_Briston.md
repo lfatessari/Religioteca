@@ -7,3 +7,4 @@
 - Decisão: VERMELHA. Motivo: centenas de referências (cada cor x metal x pulseira tem código próprio), coleção Pantone (9 cores x 3 metais), Terracotta (4 x 3), Kennedy (2025-26, dezenas), linhas antigas 2013-2018 (Classic HMS, Sport Steel, Vintage, Outdoor, Streamliner Adventure/Digital) com códigos não publicados; lojas grandes (cwsellors, jura) só em JS.
 - Passada 2 (alvos): códigos antigos 2013-2018, Pantone/Terracotta completas, Kennedy, Streamliner Adventure/Digital, Outdoor, Traveler Worldtime, fotos.
 - Manuall.fr (manuais por referência) = melhor mina via títulos de busca; página bloqueia (client_error).
+- Passada 2 encerrada 16:14 UTC (thewatchpages, maty, tutti sem novidade). Trouxe 5+ novos -> passada 3.

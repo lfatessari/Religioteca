@@ -2977,7 +2977,7 @@
   }
  },
  "em_execucao": "2026-10-22T15:41:38Z",
- "ultimo_sinal": "2026-10-22T16:12:20Z",
+ "ultimo_sinal": "2026-10-22T16:13:17Z",
  "em_andamento": {
   "marcas": [
    "Briston"
@@ -2999,8 +2999,9 @@
    "8",
    "9",
    "10",
-   "10b"
+   "10b",
+   "p2"
   ],
-  "passada": 2
+  "passada": 3
  }
 }
