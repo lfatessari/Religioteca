@@ -15,3 +15,5 @@
 - Bloqueados/sem leitura: mybulova.com (diretórios), watchcharts subpáginas, chrono24 (todas), uk.bulova.com (redireciona p/ bulova.com/uk, não aberto), bulova.com/search (robots).
 - Vermelho: sim — milhares de referências modernas (WatchCharts diz 961 só no banco deles; site oficial 327 masc + 186 fem, paginação inacessível) e vintage 1917-79 com centenas de nomes sem referência.
 ## 2ª passada (objetivo): §2c produtos escondidos bulova.com via busca site:; refs 1990-2015 (Marine Star, Precisionist, Accutron by Bulova, Accu Swiss, Harley); Caravelle vintage; Accutron vintage; Japão.
+## 2ª passada encerrada (22:27): 28 fontes novas (Dor Jewelry ~12 categorias com refs 2000-2015, bulova.com/global, coleções snorkel/latin-grammy/archive CA, Helveti, neel.co.jp, tokyo-watchstyle). Trouxe >5 novos → 3ª passada.
+## 3ª passada: vintage Caravelle, Accutron vintage, Harley/ladies Dor, eBay, Japão.

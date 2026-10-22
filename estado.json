@@ -3085,7 +3085,7 @@
   }
  },
  "em_execucao": "2026-10-22T21:41:49Z",
- "ultimo_sinal": "2026-10-22T22:25:36Z",
+ "ultimo_sinal": "2026-10-22T22:26:20Z",
  "em_andamento": {
   "marcas": [
    "Bulova"
@@ -3098,7 +3098,7 @@
   "secoes_feitas": [
    "1",
    "2",
-   "2c-parcial",
+   "2c",
    "3",
    "4",
    "5",
@@ -3106,8 +3106,9 @@
    "7",
    "8",
    "9",
-   "10-parcial"
+   "10-parcial",
+   "2a-passada"
   ],
-  "passada": 2
+  "passada": 3
  }
 }
