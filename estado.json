@@ -2911,7 +2911,7 @@
     }
   },
   "em_execucao": "2026-10-22T11:42:22Z",
-  "ultimo_sinal": "2026-10-22T12:13:36Z",
+  "ultimo_sinal": "2026-10-22T12:17:42Z",
   "em_andamento": {
     "marcas": [
       "Bremont"
@@ -2923,7 +2923,9 @@
     "notas": "historico/notas_Bremont.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3"
     ],
     "passada": 1
   }
