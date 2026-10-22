@@ -20,3 +20,10 @@
 - Meridian Gold: titânio, mostrador "powder-gold", camurça taupe, CHF 46k, cal. 45N09E/C101, entrega outono 2026, não numerado.
 - Génie 03 Speedmeter: CHF 48.800, 44,7x17,5.
 - Seções: 1,3(parcial),5,6(sem resultado Chrono24/EveryWatch),8(Phillips x2, Catawiki, collecting),9 feitas
+## 10b auto-auditoria
+1. Blog/imprensa oficial: site breva-watches.com não aparece em busca (não aberto). Toda imprensa (WCL categoria completa, Europa Star, Monochrome, aBlogtoWatch, Deployant, Watchonista) lida.
+2. §2c: site:breva-watches.com sem resultado.
+3. Lojas: só Majestix (erro), Dialicious, Catawiki, Phillips, collecting.com — marca de alta relojoaria sem varejo aberto.
+4. Primeiro modelo: Génie 01 (2013) ok.
+5. I/J: Génie 01/02/03 achados; "velocímetro" é anemômetro.
+6. LEs na B com nº. 7. 38 fontes. Catálogo fechado: Génie 01 (2 ouros + platina), 02 (Terre, Air), 03 (Speedmeter, Sailing), Segreto (4) = 11; Watchonista (4 Segreto), Dialicious e WCL batem.
