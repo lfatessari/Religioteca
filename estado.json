@@ -2808,7 +2808,7 @@
     }
   },
   "em_execucao": "2026-10-22T05:41:23Z",
-  "ultimo_sinal": "2026-10-22T05:41:23Z",
+  "ultimo_sinal": "2026-10-22T05:46:07Z",
   "em_andamento": {
     "marcas": [
       "Bravur"
@@ -2818,7 +2818,11 @@
     "relogios": "historico/parcial_bravur_relogios.txt",
     "fontes": "historico/parcial_bravur_fontes.txt",
     "notas": "historico/notas_bravur.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c"
+    ],
     "passada": 1
   }
 }
