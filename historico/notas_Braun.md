@@ -23,3 +23,4 @@
 6. Edições limitadas/colabs na B: Dezeen 250, Paul Smith (2020, 2021, 2023×2 100), Hodinkee ×2 100, BN0278 centenário 100, BN0279 150 ×2, BEAMS 2026, DW30 preto 200. Sem peças únicas.
 7. Fontes: ~118.
 - Decisão: VERMELHA (muitas variações de cor BN sem lista oficial completa; site japonês bloqueado; vintage com variantes sem foto; kulthifi pág. 2-3).
+## Fim da 2ª passada (05:14): ~17 fontes reais, ~16 relógios novos (catálogo 2015, manuais, BN0281, BNH, Japão) -> 3ª passada obrigatória
