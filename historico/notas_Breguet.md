@@ -24,3 +24,4 @@
 - DECISÃO: VERMELHA (Coveted fala em 608 refs; muitas linhas só com link de página; EveryWatch exige login; WatchBase por família não abre; vintage pré-1990 pouco documentado).
 ## 2ª passada: foco em fotos/vintage/peças históricas/imprensa oficial
 ## Fim da 2ª passada (07:24): 18 fontes, ~20 relógios novos -> 3ª passada obrigatória
+## Fim da 3ª passada (07:28): 12 fontes, 17 relógios novos; últimas 3 fontes sem novidade -> parar

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 226,
-  "ultima_versao": 202,
+  "proxima_linha_marcas": 227,
+  "ultima_versao": 203,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2811,6 +2811,24 @@
         "1": "82 fontes/51 relógios"
       },
       "obs": "usa_codigos=false; Grand Tour I-IV (2021-2024) + Grand Tour 2026 + Sprinter; Team Heritage REN/PEU/MER/STR; BW001/BW002/BW102 quartzo; BW003/Scandinavia/Geography; Zwift e Wingårdh; 6 linhas só com link de página; próxima: Breguet (grande, sozinha)"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 203,
+      "marca": "Breguet",
+      "linha_marcas": 226,
+      "linhas_relogios": "26611-27232",
+      "relogios": 622,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial (breguet.com)",
+      "fontes_abertas": 186,
+      "passadas": {
+        "1": "156 fontes/~585 relógios",
+        "2": "18 fontes/20 relógios",
+        "3": "12 fontes/17 relógios"
+      },
+      "obs": "usa_codigos=true; ~300 linhas só com link de página (refs de Luxury Bazaar, Wristler, CollectorSquare, 5D Watches); EveryWatch exige login; WatchBase por família não abre; inclui peças históricas nº 160/1160 (bolso) e nº 2639; próxima: Breil"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -2822,33 +2840,5 @@
       "linha_marcas": 904,
       "linhas_relogios": "6829-7094"
     }
-  },
-  "em_execucao": "2026-10-22T06:41:27Z",
-  "ultimo_sinal": "2026-10-22T07:27:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Breguet"
-    ],
-    "linha_marcas": 226,
-    "grande": true,
-    "relogios": "historico/parcial_Breguet_relogios.txt",
-    "fontes": "historico/parcial_Breguet_fontes.txt",
-    "notas": "historico/notas_Breguet.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a"
-    ],
-    "passada": 3
   }
 }
