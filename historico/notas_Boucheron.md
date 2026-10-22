@@ -13,3 +13,4 @@
 - Faltam: Epure Tourbillon Ama Fish, Cypris tourbillon refs, Crazy Jungle (vários), Ajourée Hans, Epure je pense à toi, Quatre watch? MC/Solis/Paname/Chrono Golf/Parallèle/Carrée/Medea/20173.
 - Selfridges R04447367 (aço 1,21 ct) = provavelmente WA015801 (Harrods) — removida a duplicata.
 - Epure aço 2015: 38 e 42 mm (preto/prata) = códigos Selfridges WA021203/204/301 provavelmente; não criadas linhas genéricas extras. Logo: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/boucheron_logo_t.png?itok=-VAEtKMH
+- Collectorsquare 'Crazy Jungle Seahorse' (2011) = Crazy Seahorse: mantida só a linha 'Crazy Jungle Seahorse'? — resolvido: fundidos
