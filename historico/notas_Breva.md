@@ -1,0 +1,22 @@
+# Breva (linha 232) — notas
+- Fundada ~2010/2013, Génie 01 (Basel 2013), 02 (2014), 03 (2015); sumiu 2015; relançada 2025 por Julien Haenny (Segreto di Lario, Chronode/Mojon).
+- J diz "Génie 03 (velocímetro)": é anemômetro ("Speedometer/Speedmeter" = vento). Fundador em I (Vincent Dupontreué?) a verificar.
+## Relógios achados
+- Génie 03 (titânio 44,7, cal BRE03.001)
+- Segreto di Lario Serenade Blue (ouro rosa, 2025)
+- Segreto di Lario Slate Grey (titânio, 2025) / Sunset (titânio, cobre, 2025)
+- Segreto di Lario Meridian Gold (titânio, 2026)
+- Génie 01, Génie 01 Platinum LE, Génie 02 (Terre?, Air?)
+- Códigos: Génie 01 ouro branco G01.M.00.MN.C19 (Phillips, nº18/55); Génie 02 Terre G02.M.T5.MN.L11 (titânio, 55 pç); Génie 02 Air G02.F.T9.MN.L99 (titânio preto, 55 pç). usa_codigos=true
+- Génie 01 ouro branco e ouro rosa (44,7x15,6); Génie 01 platina LE 12 pç (mostrador safira)
+- Segreto di Lario Serenade Blue: ouro rosa 5N+, ed. exclusiva 25 pç, CHF 58.000
+- Fundador Vincent Dupontreué; decidiu 2010, lançou 2013. Logo: https://r2.watchonista.com/app/uploads/Breva-logo-watchonista.webp
+- Génie 01 ouro rosa (CHF150k) e ouro branco (CHF155k), 55 de cada metal (WCL). Fotos: watchesbysjx white gold.
+- Génie 02 Air: titânio preto, níveis de voo, 55 pç (WCL 29/03/2014)
+- Génie 03 Speedmeter (titânio 44,7x15,7, borracha) e Génie 03 Sailing = Anemometer LE 55 (borracha branca) — WatchBase separa.
+- Seções feitas: 1, 5 (WatchBase/Hourstriker/TWP), 9 parcial
+- Génie 01 ouro rosa: G01.M.04.MN.C99 (Phillips HK 2023, 18/55). collecting.com: Génie 01 'yellow gold' 15/55 ref 'Genie 01-03' (provável ouro rosa; não vira linha)
+- Site atual: breva-watches.com (masterpieces) — não aparece em busca; links vindos de páginas (deployant/luxurywatchworks) não abertos (regra). G aponta breva-watch.com (antigo).
+- Meridian Gold: titânio, mostrador "powder-gold", camurça taupe, CHF 46k, cal. 45N09E/C101, entrega outono 2026, não numerado.
+- Génie 03 Speedmeter: CHF 48.800, 44,7x17,5.
+- Seções: 1,3(parcial),5,6(sem resultado Chrono24/EveryWatch),8(Phillips x2, Catawiki, collecting),9 feitas
