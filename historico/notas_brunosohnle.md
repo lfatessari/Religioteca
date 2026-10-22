@@ -13,3 +13,7 @@
 - História oficial: 2000 fundação (quartzo); 2008 Mechanik Edition I (1º mecânico); 2010 1ª coleção automática; 2014 Facetta 1957; 2016 Stuttgart; 2017 Frankfurt (titânio) + calibre próprio; 2025 Pesaro I e Stuttgart III Big.
 - preissuchmaschine.de (trend Damenuhr mehr=3,4,5,7) não abriu (client_error).
 - Não abriram: heise preisvergleich, ebay itm 167543041029, ebay itm 236072038553.
+## Fim da 1ª passada (~95 fontes; últimas 4 sem novidade)
+- Decisão: VERMELHA. Motivo: marca desde 2000 com >35 coleções; linhas antigas (Atrium, Milano, Lago, Armida, Stellina, Volomat, Epona, Triest, Feronia, Frankfurt, Mechanik Edition I–IX, Algebra 1–3, Thalia I/II, Sonate, Classico, Pisa, Flamur, Enea, Corpus, Lagomat, Rondomat) com dezenas de refs não publicadas; muitas só vistas em título/listas sem foto.
+- 2ª passada: ir atrás de linhas antigas (Mechanik Edition, Epona, Triest, Frankfurt, Stellina, Volomat, Atrium antigo, Milano GMT, Lago, Glashütte Lady, catálogos PDF, manuais).
+- Logo: pendente.
