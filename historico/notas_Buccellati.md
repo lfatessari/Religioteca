@@ -7,3 +7,5 @@
 - Linhas -chron: Audachron (5111, 511, 5211, 5044), Oktachron (1002), Eliochron (E1209501AA, E1313401BB, Eliochron 35), Anthochron (Dahlia, Zinnia, Camelia, Bellis; 2008), Agalmachron, Olympochron, Androchron (W0800915), Arischron, Cleopatra (cuff), Snowflake vintage (Mario).
 - 1stdibs ladies: Olympochron, Anthochron Zinnia, Eliochron 35, Agalmachron rosa — sem links ainda.
 - EveryWatch: páginas pedem login ("Only Collectors") — fraco.
+- 1stdibs buy/buccellati-watch-18k (sem links): ELIO Bukhara 28mm, Audachron 5011 (anos 90), Girard-Perregaux, Chronochron automático, Arischron Ref. 3555, Apollochron dual time, Oktachron Ref 1022, Audachron Power Reserve (amarelo e branco), Agalma Damasco Agalmachron rubi, Olympochron, Anthochron Zinnia, Eliochron 35, Oktachron ouro branco anos 80, broche Acorn (relógio de lapela, prata).
+- Decisão: W08xxxxx parecem números de série/estoque -> E.
