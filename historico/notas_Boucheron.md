@@ -25,3 +25,4 @@
 6. Limitadas com nº na B; peças únicas no começo da E.
 7. Fontes: 133.
 - MARCA VERMELHA: EveryWatch 269 à venda; muitas referências WA atuais/antigas (WA009xxx, WA010xxx, WA0110…) e vintage só com números de série. 2ª passada: EveryWatch famílias, códigos WA009/WA010, Ajourée, Epure, Serpent.
+## 2ª passada encerrada 01:11 (3 seguidas sem novidade). Fez ≥5 novos → 3ª passada: Ronde/Carlotta/Monsieur antigos, Crazy, anúncios EveryWatch, eBay, Yahoo JP.
