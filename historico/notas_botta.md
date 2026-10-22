@@ -10,3 +10,4 @@ UNO Lumen; UNO Edition-40 (auto/quartz); UNO automatic (Tri-Titanium 40/44); UNO
 - Antigos: Helios, Helios Plus (2006 red dot), Argos (auto ETA 2824), Watchpeople-era (1993-2000) UNO quartzo 35mm; IKON (Watchpeople); Titan-1; Uno 24 Neo (2014), Nova Zeitraumuhr (2015), UNO+ (data), UNO+ Carbon 44 auto, NOVA+ Carbon, NOVA+ preto/branco, NOVA Titan, UNO Titan, TRES Papyrus, UNO+ Black Edition, UNO 24 NEO Black Edition / branco / ponteiro preto, UNO+ Anniversary Pearl Black.
 - Códigos eBay: 551190 UNO Quarz Jubiläumsuhr Titan 40mm; 569000AB TRES Titan Quarz 40mm; 811010 UNO Automatik 44mm; 428010/429010 UNO 24 titânio quartzo 40mm (LIW).
 - Junghans Solar-1: desenho de Botta para Junghans — não entra (outra marca).
+- NOVA ALPIN (foto artigo blog: NOVA-ALPIN-weisses-band-doppel-frontal) — procurar; UNO 35 Edition; TRES 24 Plus Titan; IKON (Watchpeople); Titan-1 (1993, Pro-Idee); UNO+ ; UNO+ Carbon; NOVA+ Carbon; NOVA Titan/UNO Titan (aBlogtoWatch 2016)

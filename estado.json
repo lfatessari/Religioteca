@@ -2689,7 +2689,7 @@
   },
   "observacao_proxima": "Botta Design (linha 218) dimensionada como grande: fazer sozinha.",
   "em_execucao": "2026-10-21T23:41:14Z",
-  "ultimo_sinal": "2026-10-21T23:58:06Z",
+  "ultimo_sinal": "2026-10-22T00:01:00Z",
   "em_andamento": {
     "marcas": [
       "Botta Design"
@@ -2700,7 +2700,8 @@
     "fontes": "historico/parcial_botta_fontes.txt",
     "notas": "historico/notas_botta.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2"
     ],
     "passada": 1
   }
