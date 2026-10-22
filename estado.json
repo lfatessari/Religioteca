@@ -2706,7 +2706,7 @@
     }
   },
   "em_execucao": "2026-10-22T00:41:50Z",
-  "ultimo_sinal": "2026-10-22T00:46:44Z",
+  "ultimo_sinal": "2026-10-22T00:50:27Z",
   "em_andamento": {
     "marcas": [
       "Boucheron"
@@ -2717,7 +2717,8 @@
     "fontes": "historico/parcial_Boucheron_fontes.txt",
     "notas": "historico/notas_Boucheron.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2"
     ],
     "passada": 1
   }
