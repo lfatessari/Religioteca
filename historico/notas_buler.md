@@ -9,3 +9,6 @@
 ## 1ª passada encerrada (57 fontes; últimas ~10 sem novidade). Seções 1-10 feitas; buler.ch não aparece em buscas (L).
 - Vermelha: vintage de massa com centenas de refs sem nome; faltam Century (1971), Century 2000, Pro Champion, Racing Star, Sea Rover, Marine Odyssey, Force 12, Professional, LCD Alarm, Buccaneer, Sea Legend, S-Elite, Twinkle, Mountain Quest, Alpha Performance.
 ## 2ª passada
+- Logo: https://www.europastar.com/IMG/logo/arton1004082994.jpg ; endereço Av. Léopold-Robert 96, La Chaux-de-Fonds (Jean d'Eve); site buler.ch/en/home.html
+- Jewels on Hampton (loja EUA) cita também: Ocean Hero Chronograph, Twinkle, Mountain Quest, Top Gear Chronograph, Alpha Performance Chronograph, Sea Legend Automatic, Buccaneer (sem fotos).
+- buler.ch: redireciona https→http em laço (302), não abre. L: Site bloqueado.
