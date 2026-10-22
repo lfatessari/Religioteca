@@ -15,3 +15,4 @@
 - "24 Ore" (coluna J) não encontrado como relógio.
 - Decisão: VERMELHA (dezenas de refs da era Gianmaria sem lista pública; linhas -chron com variações; vintage Mario).
 ## 2ª passada: alvos — buscas site:buccellati.com com termos novos (rombi-watch, tulle-watch, opera-watch, en_row/it), Olympochron, Apollochron, Siriochron, Venuschron, Oktachron refs, Macri antigos, Ornatino Sotheby's.
+- Conferência de catálogo fechado: en_us (71 = 64 for-her + 7 for-him) e en_sg ('71 of 71') batem.
