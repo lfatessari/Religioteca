@@ -3012,7 +3012,7 @@
   }
  },
  "em_execucao": "2026-10-22T17:41:39Z",
- "ultimo_sinal": "2026-10-22T17:41:39Z",
+ "ultimo_sinal": "2026-10-22T17:47:49Z",
  "em_andamento": {
   "marcas": [
    "Bruno Söhnle"
@@ -3022,7 +3022,10 @@
   "relogios": "historico/parcial_brunosohnle_relogios.txt",
   "fontes": "historico/parcial_brunosohnle_fontes.txt",
   "notas": "historico/notas_brunosohnle.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
