@@ -22,3 +22,4 @@ Parou pelo critério: time&tide (0), grail-watch (0), Antiquorum 313-184 (0), Ch
 VERMELHA: centenas de referências (Amadeo Fleurier AF/AI, antigas D/C/E, Château de Môtiers HMS, Sportster SP/C), peças únicas pintadas, 271–303 resultados de leilão na CollectorSquare só 40 visíveis.
 2ª passada: buracos de sequência por prefixo de código (NTS/NTR/NTT, AF39/AF43, AI43, AS36, HMS, R12C2, R23, SP0, C80x), §2c refeito (site oficial ?p= e lojas), buscas extras §3.
 ## Fim da 2ª passada (03:19): 14 fontes, 6 relógios novos -> 3ª passada obrigatória (>=5). Parou: fratello, monochrome aperto, bovet ?p=61111, ?p=58226 sem novidade.
+## 3ª passada (03:21): 11 fontes,  relógios novos. Parou: fontes da 3ª passada majoritariamente só complementam dados; a marca segue vermelha (lista não está completa).
