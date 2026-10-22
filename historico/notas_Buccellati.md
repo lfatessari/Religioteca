@@ -9,3 +9,4 @@
 - EveryWatch: páginas pedem login ("Only Collectors") — fraco.
 - 1stdibs buy/buccellati-watch-18k (sem links): ELIO Bukhara 28mm, Audachron 5011 (anos 90), Girard-Perregaux, Chronochron automático, Arischron Ref. 3555, Apollochron dual time, Oktachron Ref 1022, Audachron Power Reserve (amarelo e branco), Agalma Damasco Agalmachron rubi, Olympochron, Anthochron Zinnia, Eliochron 35, Oktachron ouro branco anos 80, broche Acorn (relógio de lapela, prata).
 - Decisão: W08xxxxx parecem números de série/estoque -> E.
+- Obs: peças Gianmaria numeradas /100 (Eliochron 67/100, Oktachron F1022 37/100, Arischron E3222 8/100, Agalmachron 28/100): cada modelo parece ter tiragem de 100.
