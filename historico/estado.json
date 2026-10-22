@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 230,
-  "ultima_versao": 206,
+  "proxima_linha_marcas": 231,
+  "ultima_versao": 207,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2882,6 +2882,22 @@
         "2": "15 fontes/0 relógios"
       },
       "obs": "usa_codigos=true; site real brellum.swiss (G diz brellum.com); códigos DB.CH/Pilot/WGMT com último dígito = pulseira (um relógio por mostrador, demais códigos na coluna E); The Watch Pages não abre (códigos só por títulos de busca); Duobox LE.6/LE.7 não encontradas; páginas ocultas do site (TC Moonphase Burgundy, Ice Blue) não abrem; tratada como grande, Bremoir (linha 230) fica para a próxima, já vista: bremoir.com/collections/all com 18 produtos; próxima: Bremoir"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 207,
+      "marca": "Bremoir",
+      "linha_marcas": 230,
+      "linhas_relogios": "29446-29455",
+      "relogios": 10,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": "",
+      "fontes_abertas": 48,
+      "passadas": {
+        "1": "48 fontes/10 relógios"
+      },
+      "obs": "usa_codigos=false; catálogo fechado (site oficial 10 relógios = Chronoscout = imprensa); Havana = antigo Cohiba; 'Three Hand 36mm' de J não encontrado; observações em M230; próxima: Bremont (grande, sozinha)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
