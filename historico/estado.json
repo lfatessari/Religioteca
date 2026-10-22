@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 239,
- "ultima_versao": 215,
+ "proxima_linha_marcas": 241,
+ "ultima_versao": 216,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3035,6 +3035,29 @@
     "3": "13 fontes/3 relógios"
    },
    "obs": "Site oficial (Magento) com 71 relógios atuais (códigos WAU...), conferido em en_us e en_sg (71 de 71). Linhas antigas da Buccellati Watches SA (Gianmaria, desde 2000): Eliochron, Audachron (5011, 5044, 5111, 511, 5123, 5211, 5214), Oktachron (1002, 1022, 5693, F1022), Agalmachron, Anthochron, Arischron (E3222), Venuschron (35536), Siriochron, Androchron, Orochron, Apollochron, Chronochron, Cleopatra, Elio, Milleluci; vintage Mario Buccellati com movimentos Rolex 3782/Movado/Universal. Códigos W08xxxxx tratados como número de série (coluna E); SKUs E...AA da Dover Jewelry na E. Logo SVG oficial. Obs. em M238. Próxima: Buci (239)."
+  },
+  {
+   "marca": "Buci",
+   "data": "2026-10-22",
+   "linha_marcas": 239,
+   "linhas_relogios": "30628-30634",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": "parcial",
+   "fontes": 27,
+   "versao": 216
+  },
+  {
+   "marca": "Bulbul",
+   "data": "2026-10-22",
+   "linha_marcas": 240,
+   "linhas_relogios": "30635-30671",
+   "relogios": 37,
+   "vermelho": false,
+   "site_bloqueado": "não",
+   "fontes": 46,
+   "versao": 216,
+   "obs": "Próxima (Buler, 241) parece grande: linha vintage extensa — fazer sozinha"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
