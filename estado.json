@@ -3010,5 +3010,19 @@
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
   }
+ },
+ "em_execucao": "2026-10-22T17:41:39Z",
+ "ultimo_sinal": "2026-10-22T17:41:39Z",
+ "em_andamento": {
+  "marcas": [
+   "Bruno Söhnle"
+  ],
+  "linha_marcas": 237,
+  "grande": true,
+  "relogios": "historico/parcial_brunosohnle_relogios.txt",
+  "fontes": "historico/parcial_brunosohnle_fontes.txt",
+  "notas": "historico/notas_brunosohnle.md",
+  "secoes_feitas": [],
+  "passada": 1
  }
 }
