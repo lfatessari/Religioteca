@@ -5,3 +5,5 @@ Início 11:41 UTC. Grande (maison, linha extensa).
 - Dedupe: um relógio por referência base (sem sufixo de pulseira -B/-L-S/-R-S/-N-S); demais códigos na E.
 - 12:02 parcial 1: Exquisite (7 pág.), TWC p1, Jura, WatchBase MB, bremont.com/range/martin-baker. Formato do parcial = bruto (título|ref|img|fonte), dedupe no fim.
 - 12:20 corrigido bug do parser (linhas sem ref perdiam a imagem); re-adicionadas. Próximo: buracos (ALT1-Z, MBII cores, S500/S2000/S300, U-2, Solo, BC, Victory/P-51) via buscas site:exquisitetimepieces.com e outras.
+- Títulos de busca usados (não contam como fonte): site:exquisitetimepieces.com S500/U-2/ALT1-Z/MBII
+- títulos: site:exquisitetimepieces.com solo/S2000/ALT1-C/Victory
