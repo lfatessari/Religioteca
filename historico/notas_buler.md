@@ -14,3 +14,13 @@
 - buler.ch: redireciona https→http em laço (302), não abre. L: Site bloqueado.
 - Renley 1997 (Europa Star) = mesma linha do Chronograph 1996; não duplicado. Mystery dial calendar anos 1960 (justintimesvintage, robots) – entra só pelo título.
 ## 3ª passada (2ª trouxe ~30 novos). Pistas: Jemaflex 30 ATM, Seaflower, Astromaster (homenagem AP), Cavallo 25 rubis, relógio de Doctor Who
+- Watch-Wiki DE: fundada 1945 por Charles e Albert Buhler; 1954 Walter Rufli; 1956 Lengnau; 1990 Onsa & Archipel; 1994 Renley (La Chaux-de-Fonds); hoje Free Town Watch Products. Logo https://watch-wiki.org/images/9/95/Buler1.jpg
+## 10b Auto-auditoria
+1. Blog/imprensa oficiais: buler.ch não abre (laço 302); notícias/coleções vistas só via Europa Star (brand index 12 fichas + 7 fichas antigas) e cópias de imagens do site (fórum Xtreme Mean Time).
+2. §2c site:buler.ch: só collections, history, news (todas em laço).
+3. Lojas: Global Timepieces (HK), 1stDibs, Jewels on Hampton, Watch Preserve, Vintage Watch Room, Joseph Watches, Speedtimer, cafenoir, vintagewatchrestoration, afinewatch, vintagewatchplace.
+4. Primeiro modelo: anos 1950 (Model 1197, Dress 10108); Century 1971 só como Century 2000.
+5. I/J: J vazio. Nomes de I: jump hours (ok), Lengnau (ok).
+6. Edições/colaborações: Stratos by Bertone (colaboração), BMW Procar (patrocínio), Wrigley's (promocional), Al-Ittihad. Sem peças únicas.
+7. Fontes: 142 (57+54+31).
+- Não encontrados com foto/página: Buccaneer, Sea Legend Automatic (só citação), Sea Rover Chrono, Marine Odyssey Chrono, Top Gear Chrono, Alpha Performance, Century 1971 original, Force 12, Professional Swiss Concept, Quartz 2001 (ficha EuropaStar), Challenger (foto).

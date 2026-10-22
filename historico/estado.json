@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 241,
- "ultima_versao": 216,
+ "proxima_linha_marcas": 242,
+ "ultima_versao": 217,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3058,6 +3058,20 @@
    "fontes": 46,
    "versao": 216,
    "obs": "Próxima (Buler, 241) parece grande: linha vintage extensa — fazer sozinha"
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 217,
+   "marca": "Buler",
+   "linha_marcas": 241,
+   "linhas_relogios": "30672-30769",
+   "relogios": 98,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "grande": true,
+   "fontes_abertas": 142,
+   "passadas": "1: 57 fontes/26 novos; 2: 54/25; 3: 31/44",
+   "obs": "buler.ch em laço de redirecionamento; vintage de massa com centenas de refs sem nome; Bulova (242) é grande e fica sozinha"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
