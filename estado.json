@@ -3099,7 +3099,7 @@
   }
  },
  "em_execucao": "2026-10-22T22:41:53Z",
- "ultimo_sinal": "2026-10-22T22:58:09Z",
+ "ultimo_sinal": "2026-10-22T23:01:23Z",
  "em_andamento": {
   "marcas": [
    "Bunkyo Tokyo",
@@ -3108,11 +3108,12 @@
   ],
   "linha_marcas": 243,
   "grande": false,
-  "relogios": "historico/parcial_bunz_relogios.txt",
-  "fontes": "historico/parcial_bunz_fontes.txt",
-  "notas": "historico/notas_bunz.md",
+  "relogios": "historico/parcial_buser_relogios.txt",
+  "fontes": "historico/parcial_buser_fontes.txt",
+  "notas": "historico/notas_buser.md",
   "secoes_feitas": [
-   "Bunkyo Tokyo completa: historico/dados_bunkyo.txt + marca_bunkyo.json"
+   "Bunkyo Tokyo completa (historico/dados_bunkyo.txt)",
+   "Bunz completa (historico/dados_bunz.txt)"
   ],
   "passada": 1
  }
