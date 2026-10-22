@@ -24,3 +24,4 @@
 7. Fontes: ~118.
 - Decisão: VERMELHA (muitas variações de cor BN sem lista oficial completa; site japonês bloqueado; vintage com variantes sem foto; kulthifi pág. 2-3).
 ## Fim da 2ª passada (05:14): ~17 fontes reais, ~16 relógios novos (catálogo 2015, manuais, BN0281, BNH, Japão) -> 3ª passada obrigatória
+## Fim da 3ª passada (05:16): 11 fontes reais, 0 relógios novos -> parar.

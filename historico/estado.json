@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 224,
-  "ultima_versao": 200,
+  "proxima_linha_marcas": 225,
+  "ultima_versao": 201,
   "historico": [
     {
       "data": "2026-10-16",
@@ -2777,6 +2777,24 @@
         "1": "35 fontes/9 relógios"
       },
       "obs": "ex-Bencler (Rocks Diver 2022 incluído); Trilayer GMT Black citado só num link de vídeo, não entrou; usa_codigos=false; próxima: Braun (grande, sozinha)"
+    },
+    {
+      "data": "2026-10-22",
+      "versao": 201,
+      "marca": "Braun",
+      "linha_marcas": 224,
+      "linhas_relogios": "26396-26559",
+      "relogios": 164,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial (br-time.jp)",
+      "fontes_abertas": 119,
+      "passadas": {
+        "1": "91 fontes/151 relógios",
+        "2": "17 fontes/13 relógios",
+        "3": "11 fontes/0 relógios"
+      },
+      "obs": "usa_codigos=true; inclui vintage DW 20/DW 30/AW 10…AW 200 com Typ; ~20 linhas só com link de página; FCW e br-time.jp bloqueados; kulthifi pág. 2-3 não alcançadas; próxima: Bravur"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

@@ -1,0 +1,607 @@
+{
+ "marca": "Braun",
+ "usa_codigos": true,
+ "logo": "https://verygoodlord.com/wp-content/uploads/2026/07/logo-braun.jpg",
+ "site_bloqueado": "Parcial – br-time.jp (site oficial da Braun no Japão) bloqueia leitura automática (robots); braun-clocks.com abre, mas a listagem não mostra fotos; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "J: 'Prismatic' não encontrado entre os relógios de pulso (talvez despertador/relógio de parede). I marcado [⚠️ verificar]: confere em geral (AW 10 de Dietrich Lubs, 1989; licença Zeon desde 2009/2010); a linha começou antes, com os digitais DW 20 (1977) e DW 30 (1978) de Rams e Lubs. G ok (braun-clocks.com, loja da licenciada Zeon); no Japão o site oficial é br-time.jp.",
+ "fontes": [
+  {
+   "url": "https://braun-clocks.com/collections/watches?page=1&view=list",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.braun-clocks.com/collections/classic-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/collections/braun-watches",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://ameico.com/collections/braun",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://ameico.com/products/braun-mens-analog-digital-dual-time-chronograph-date-functions-black-dial-black-steel-case-rubber-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://moodiedavittreport.com/braun-launches-first-braun-time-watch-collection-in-two-years",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ameico.com/collections/braun-analog-watches-1",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://ablogtowatch.com/braun-bn0106-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ameico.com/products/prestige-digital-watch-bn-0106bkbkg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.stardust.com/BN0095BKBKBTG.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://acquiremag.com/style/braun-bn0076-digital-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.designundtext.com/de/2.1.81_braun-design-armbanduhren-gesamtprogramm-lubs-rams-hartwein-pbdd.php",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://us.braun-clocks.com/pages/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://die-kettwiger.jimdofree.com/braun-design/braun-produkt/braun-aw10/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.crownwatchblog.com/braun-articles/introducing-brauns-swiss-made-automatic-watches-including-a-paul-smith-collab-ref-bn0279",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://hiconsumption.com/watches/braun-x-hodinkee-bn0279-center-seconds-and-sub-seconds-watches/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/braun-gents-bn0278-limited-edition-iconic-quartz-watch-gets-automatic-treatment/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://braun-clocks.com/products/braun-gents-bn0278-prestige-watch-black-dial-and-black-rubber-strap-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=59861",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://braun-clocks.com/products/braun-gents-bn0279-automatic-watch-black-dial-and-black-rubber-strap-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.braun-clocks.com/products/braun-gents-bn0279-automatic-watch-black-dial-and-black-rubber-strap-limited-edition-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://revolutionwatch.com/brauns-bauhaus-watches-go-swiss-automatic-bn0279/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dezeen.com/2017/09/07/dezeen-braun-watch-collaboration-bn0031-limited-edition-timepiece/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2017/9/dezeen-braun-bn0031-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://design-milk.com/the-braun-paul-smith-watches-are-worthy-of-dieter-rams-approval/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/braun-reissues-two-bauhaus-classics-the-aw-10-aw-50/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://t3.com/news/limited-edition-paul-smith-x-braun-collab-makes-me-want-to-ditch-my-smartwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=61610",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.braun-clocks.com/products/braun-unisex-bn0281-analogue-interchangeable-watch-set-white-dial-and-stainless-steel-mesh-bracelet-additional-blue-silicon-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.braun-clocks.com/products/braun-ladies-bn0021-classic-watch-black-dial-and-black-leather-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=71296",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://factqatar.com/?p=20915",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kulthifi.de/New-devices/Braun-Calculator-Watches-alarm-clocks/Braun-design-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://drop.com/buy/braun-bn0046-watch/talk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/braun-bn0231-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchspace.co.uk/2014/12/15/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kulthifi.de/66557",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.dealmoon.com/en/product/braun-ladies-bn0231-classic-watch-with-leather-strap-white/6049700",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://stardust.com/braun-mens-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://minimalgoods.co/braun-bn0171-ceramic-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wear.jp/item/15207289",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wear.jp/item/15207251/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.boijmans.nl/en/collection/artworks/111561/dw-30",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/336523933775",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.cooperhewitt.org/products/braun-mens-slim-analog-watch-white-face-with-link-band",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.core77.com/posts/24660/A-History-of-Braun-Design-Part-2-Timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/furniture/more-furniture-collectibles/collectibles-curiosities/collectible-jewelry/vintage-dieter-rams-watches-braun/id-f_561874",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/127367677525",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/t/Braun-Armbanduhr-Aw/31387/bn_7005318725",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gebraucht-kaufen.de/braun-armbanduhr-aw",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collection.cooperhewitt.org/people/18044835/objects",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://nz.shadestation.com/designer-watches/Braun/BN0013GYGYG",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sg.shadestation.com/designer-watches/Braun/BN0082BKBKMHG",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://za.shadestation.com/designer-watches/Braun/BN0032BKSLBKG",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.apetogentleman.com/braun-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://nz.shadestation.com/designer-watches/Braun/BN0013BKBKG",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.gessato.com/mens-analog-watch-bn-0024whbkg/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/braun-bn0095-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=41927",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.guenstiger.de/Produkt/Braun/Armbanduhr_BN0211_BKSLMHG.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://scarce.co/products/braun-prestige-chronograph-watch-bn0095bkbkbkg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://designcompass.org/en/2026/03/25/beams-unveils-50th-anniversary-collaboration-watch-with-braun/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.gessato.com/mens-analog-watch-bn-0021/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeshop24.co.uk/watches/braun.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rakuten.co.jp/nordicfeeling/contents/bn0301_2507/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1330888.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/004/058/4058774/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/braun-watch-vintage?_nkw=braun+watch+vintage",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.etsy.com/market/vintage_braun_watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2019/06/05/braun-aw10-evo-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.endclothing.com/us/braun-aw-10-watch-aw10.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.magazin.com/wristwatch-aw-10-evo-a203028",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000001858/p7/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elgiganten.dk/product/personlig-pleje-skonhed-velvare/modetilbehor/armbandsur/braun-klassisk-ur-med-laderrem/16609",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ifdesign.com/en/winner-ranking/project/braun-classic-slim-watch/180115",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elgiganten.dk/product/personlig-pleje-skonhed-velvare/modetilbehor/armbandsur/braun-klassisk-ur-med-laderrem/16604",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.elgiganten.dk/product/personlig-pleje-skonhed-velvare/modetilbehor/armbandsur/braun-klassisk-ur-med-mesh-armband/16614",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elgiganten.dk/product/personlig-pleje-skonhed-velvare/modetilbehor/armbandsur/braun-klassisk-ur-med-laderrem/16585",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Braun-Armbanduhr-Bn/31387/bn_7005322427",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.ebay.de/b/Braun-Armbanduhren-mit-Edelstahl-Herren/31387/bn_77352356",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Braun-Armbanduhren-mit-Leder-Armband/31387/bn_24725532",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1004022641-zeon-limited-announces-a-new-exclusive-worldwide.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://verygoodlord.com/?p=53953",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fastcompany.com/1663589/braun-returns-to-high-style-roots-with-stunning-new-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ifdesign.com/en/winner-ranking/project/braun-bn115/86345",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/1004087410.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/595100711",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=61425",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Braun-Men-Analog-Wristwatches/31387/bn_80610568",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.shinwashop.com/shopdetail/000000000614/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/b/Braun-Round-Wristwatches/31387/bn_108285006",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.slideshare.net/valdirsoares/braun-catalogue-2015web",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.manua.ls/watches/braun",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/collections/braun",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/brand/braun/watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://gearmoose.com/braun-bn0279-limited-edition-automatic-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://coolmaterial.com/watches/limited-edition-braun-bn0279-automatic-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.powerwatch.jp/2026/09/18/braun-5/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fril.jp/brand/4679/category/642",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shinwashop.com/shopdetail/000000000601/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://us.braun-clocks.com/products/braun-gents-bn0281-analogue-interchangeable-watch-set-black-dial-and-blue-silicon-strap-additional-black-silicon-strap",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://us.braun-clocks.com/products/braun-unisex-bn0281-analogue-interchangeable-watch-set-white-dial-and-stainless-steel-mesh-bracelet-additional-grey-silicon-strap",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://us.braun-clocks.com/products/braun-gents-bn0281-analogue-interchangeable-watch-set-white-dial-and-grey-silicon-strap-additional-black-silicon-strap",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://us.braun-clocks.com/collections/bn0231",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://braun-clocks.com/collections/all?page=3",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://us.braun-clocks.com/collections/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shophorne.com/collections/braun",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://goodhoodstore.com/en-ro/collections/braun",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://arslan.io/2023/11/10/braun-aw-50/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/567/1567221/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://precious.jp/articles/-/9277",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.ciacura.jp/en/products/rc_itkxlcktwkas_nb6z",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=44969",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=43328",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/316769454778",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://good-design.org/projects/braun-bn0211-classic-slim-watch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/402267504907",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://endclothing.com/gb/braun-bn0173-watch-bn0173whbkl.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/167430693237",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
