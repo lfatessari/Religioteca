@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 233,
- "ultima_versao": 209,
+ "proxima_linha_marcas": 234,
+ "ultima_versao": 210,
  "historico": [
   {
    "data": "2026-10-16",
@@ -2932,6 +2932,22 @@
     "1": "38 fontes/11 relógios"
    },
    "obs": "usa_codigos=true (G01.M.00.MN.C19 etc.); catálogo fechado: Génie 01 (ouro branco, ouro rosa, platina), Génie 02 Terre/Air, Génie 03 Speedmeter/Sailing, Segreto di Lario x4; site atual breva-watches.com não aparece em busca (não aberto); observações em M232; Brew Watch Co. (233) tratada como grande (dezenas de cores e colaborações, W&W com 3+ páginas de artigos), fica sozinha na próxima; próxima: Brew Watch Co."
+  },
+  {
+   "data": "2026-10-22",
+   "versao": 210,
+   "marca": "Brew Watch Co.",
+   "linha_marcas": 233,
+   "linhas_relogios": "29766-29831",
+   "relogios": 66,
+   "vermelho": false,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes_abertas": 79,
+   "passadas": {
+    "1": "79 fontes/66 relógios"
+   },
+   "obs": "usa_codigos=false (nome + cor); Special Blend (2015), HP-1, Retrograph, Mastergraph, Retromatic, 8-Bit, Method, Metric (inclui Lite, Super, Manual Wind, Automatic), colaborações W&W, Alton Brown, Teddy Baldassarre; links de páginas abertas pedem permissão (só URLs de busca); W&W /brand/brew page 2 e 4 não alcançadas; WatchBase/EveryWatch/Chrono24 sem resultado; observações em M233; próxima: Brior (234)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
