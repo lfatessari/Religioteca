@@ -2860,7 +2860,7 @@
     }
   },
   "em_execucao": "2026-10-22T08:41:22Z",
-  "ultimo_sinal": "2026-10-22T08:49:33Z",
+  "ultimo_sinal": "2026-10-22T08:53:30Z",
   "em_andamento": {
     "marcas": [
       "Breitling"
@@ -2871,7 +2871,8 @@
     "fontes": "historico/parcial_breitling_fontes.txt",
     "notas": "historico/notas_breitling.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2"
     ],
     "passada": 1
   }
