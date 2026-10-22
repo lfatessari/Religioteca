@@ -11,3 +11,7 @@
 - Decisão: W08xxxxx parecem números de série/estoque -> E.
 - Obs: peças Gianmaria numeradas /100 (Eliochron 67/100, Oktachron F1022 37/100, Arischron E3222 8/100, Agalmachron 28/100): cada modelo parece ter tiragem de 100.
 - Decisão revista: códigos W08xxxxx aparecem como 'Reference' em vários anúncios (Androchron W0800915, Cleopatra W0801297, Chronochron W0800827, Eliochron 35 W0801102) e são diferentes por modelo -> tratados como referência Buccellati (coluna B).
+## Fim da 1ª passada (19:03 UTC): 3 fontes seguidas sem novidade (Sotheby's 2020 Ornatino não abriu, Christie's GP, Monaco Legend 149, Eagle Audachron = 511).
+- "24 Ore" (coluna J) não encontrado como relógio.
+- Decisão: VERMELHA (dezenas de refs da era Gianmaria sem lista pública; linhas -chron com variações; vintage Mario).
+## 2ª passada: alvos — buscas site:buccellati.com com termos novos (rombi-watch, tulle-watch, opera-watch, en_row/it), Olympochron, Apollochron, Siriochron, Venuschron, Oktachron refs, Macri antigos, Ornatino Sotheby's.
