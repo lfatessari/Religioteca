@@ -12,3 +12,4 @@ UNO Lumen; UNO Edition-40 (auto/quartz); UNO automatic (Tri-Titanium 40/44); UNO
 - Junghans Solar-1: desenho de Botta para Junghans — não entra (outra marca).
 - NOVA ALPIN (foto artigo blog: NOVA-ALPIN-weisses-band-doppel-frontal) — procurar; UNO 35 Edition; TRES 24 Plus Titan; IKON (Watchpeople); Titan-1 (1993, Pro-Idee); UNO+ ; UNO+ Carbon; NOVA+ Carbon; NOVA Titan/UNO Titan (aBlogtoWatch 2016)
 ## Decisão: VERMELHA (muitos Art.-Nr. de variantes não achados; época Watch People sem fotos; Helios/Solus/Argos com versões). 1ª passada encerrada com ~105 fontes (últimas 3 sem novidade). 2ª passada iniciada às 00:16.
+- 2ª passada encerrada (15 fontes, ~8 novos) → 3ª passada obrigatória (00:17)
