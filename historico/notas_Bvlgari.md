@@ -14,3 +14,4 @@
 ## Falta (00:00): mediakit outros anos; Octo Roma; Aluminium 2020+; Serpenti modernos; Lvcea; Divas' Dream; BB 2014+; imprensa (aBlogtoWatch pags, Monochrome, Hodinkee); lojas (≥5 países); usados (Phillips, eBay); Chrono24 via busca; EveryWatch; §2c; §3 buscas extras
 - 00:0x: 48 fontes, 600 relógios. Mediakit wp-json pages 61 (Serpenti) e 348 (Lvcea) abertos; BB-CITIES deu Bvlgari Roma 1975 (primeiro relógio).
 - buscar refs: Bulgari Titanio; Octo Maserati Mono-Retro GrandSport/GrandLusso; Monete Catene Dual Time Secret; Aluminium Gran Turismo chrono; Hora Domus; Octo Roma 2017
+- 00:15 buracos p/ 2ª passada: Octo Roma Precious Naturalia/Tourbillon Lumière, Allegra pink/yellow sapphires, Divas Dream Mosaica, Serpenti Misteriosi 2023, refs antigas (Anfiteatro, Astrale, Sotirio, Endurer, Daniel Roth/Genta-Bvlgari BRRP/BGG), Assioma, Ergon, Chrono24
