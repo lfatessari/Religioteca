@@ -22,3 +22,4 @@ Decisão: tratada como GRANDE (vintage extenso desde 1924 + catálogo moderno). 
 - modernos.txt = linha atual do site (formato ref|nome|url|E), salvo como historico/parcial_BWC-Swiss_modernos.txt
 - Chrono24.de/bwcswiss abriu (111 resultados, 60 lidos, sem links/fotos).
 - Orient Crown (tabela de corda): famílias por prefixo: 20768=Skeleton Automatic, 20015=Classic Automatic, 20002/20011/20030=XXL Pilot Chronograph 47mm, 20008/20012/20023/20769/20771=Automatik Chronograph, 20011=C-Type, 21062=Classico, 20050=Pilot Automatic Chronograph.
+- watch-wiki: BWC Fabrique d'Horlogerie S.A. Bienne (Hans-Hugi-Strasse 3, Biel); Starck-Uhren Pforzheim. watcharc: site bwc-swiss.de, país Alemanha (sede atual).
