@@ -23,3 +23,4 @@ Decisão: tratada como GRANDE (vintage extenso desde 1924 + catálogo moderno). 
 - Chrono24.de/bwcswiss abriu (111 resultados, 60 lidos, sem links/fotos).
 - Orient Crown (tabela de corda): famílias por prefixo: 20768=Skeleton Automatic, 20015=Classic Automatic, 20002/20011/20030=XXL Pilot Chronograph 47mm, 20008/20012/20023/20769/20771=Automatik Chronograph, 20011=C-Type, 21062=Classico, 20050=Pilot Automatic Chronograph.
 - watch-wiki: BWC Fabrique d'Horlogerie S.A. Bienne (Hans-Hugi-Strasse 3, Biel); Starck-Uhren Pforzheim. watcharc: site bwc-swiss.de, país Alemanha (sede atual).
+- herrenuhren24: Reinhold Reeck (Pforzheim) importador 1924; Manfred Starck 2003; Carl Engelkemper (Münster) distribuição DE desde 2006; BWC Fabrique d'Horlogerie S.A., Bahnhofstrasse 42, Biel. Linhas: Valjoux, Automatic, Spezialitäten, Quarz.
