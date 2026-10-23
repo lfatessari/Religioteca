@@ -15,3 +15,6 @@
 - 00:0x: 48 fontes, 600 relógios. Mediakit wp-json pages 61 (Serpenti) e 348 (Lvcea) abertos; BB-CITIES deu Bvlgari Roma 1975 (primeiro relógio).
 - buscar refs: Bulgari Titanio; Octo Maserati Mono-Retro GrandSport/GrandLusso; Monete Catene Dual Time Secret; Aluminium Gran Turismo chrono; Hora Domus; Octo Roma 2017
 - 00:15 buracos p/ 2ª passada: Octo Roma Precious Naturalia/Tourbillon Lumière, Allegra pink/yellow sapphires, Divas Dream Mosaica, Serpenti Misteriosi 2023, refs antigas (Anfiteatro, Astrale, Sotirio, Endurer, Daniel Roth/Genta-Bvlgari BRRP/BGG), Assioma, Ergon, Chrono24
+## 1ª passada encerrada (00:17): 104 fontes, 919 relógios. Critério de 3 sem novidade atingido (worldtempus, theslenderwrist, kapoorwatch), depois fechei §2c e §8.
+- Vermelho: SIM — milhares de refs (catálogos anuais desde 1977; códigos antigos BB/SD/CH/LU/SP + 6 dígitos desde ~2010); site oficial só mostra 24 por listagem; Chrono24 inacessível.
+## 2ª passada (objetivo): refs históricas 1995-2015 (Anfiteatro, Sotirio, Endurer/Daniel Roth-Bvlgari, Gérald Genta-Bvlgari, Assioma, Ergon, Astrale, Mvsa, Parentesi), Octo Roma Precious/Naturalia, Allegra, Divas Mosaica; fontes: gressive.jp Basel 2010-2015, hourstriker database, CollectorSquare (sotirio, assioma), 1stdibs, wristler, Sotheby's.
