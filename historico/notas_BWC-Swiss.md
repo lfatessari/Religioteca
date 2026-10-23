@@ -19,3 +19,6 @@ Decisão: tratada como GRANDE (vintage extenso desde 1924 + catálogo moderno). 
 ## 2ª passada: alvo = linha moderna BWC Swiss (refs 2000x/2077x), refs vintage de 6 dígitos, nomes (Courage, Trans-Europ, Rhodos...).
 - 2ª PASSADA: site oficial achado: bwc-swiss.de (WooCommerce, 99 produtos, 9 páginas de 12). Coluna G (bwc-swiss.ch) errada → bwc-swiss.de. Logo https://bwc-swiss.de/wp-content/uploads/2020/07/bwc-swiss-logo-e1596035636306.png
 - Categorias: damen-automatik, damen-quarz, automatik, automatik-chronograph, quarz, quarz-chronograph.
+- modernos.txt = linha atual do site (formato ref|nome|url|E), salvo como historico/parcial_BWC-Swiss_modernos.txt
+- Chrono24.de/bwcswiss abriu (111 resultados, 60 lidos, sem links/fotos).
+- Orient Crown (tabela de corda): famílias por prefixo: 20768=Skeleton Automatic, 20015=Classic Automatic, 20002/20011/20030=XXL Pilot Chronograph 47mm, 20008/20012/20023/20769/20771=Automatik Chronograph, 20011=C-Type, 21062=Classico, 20050=Pilot Automatic Chronograph.
