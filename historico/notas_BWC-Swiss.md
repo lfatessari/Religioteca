@@ -8,3 +8,4 @@ Decisão: tratada como GRANDE (vintage extenso desde 1924 + catálogo moderno). 
 - Coluna J cita 'Divers vintage 666ft': busca só traz Bulova Devil Diver 666ft; não achado na BWC. ebay.de/itm/286821847072 (Courage) client_error.
 - Relojes Especiales: 1991 mudança de dono → Solothurn; comercial Reek GmbH Pforzheim; 1999 integrada à Maddox AG (Pforzheim); relógios dos 75 anos (2000) ganharam Good Design Award; site bwc-swiss.de. (Coluna C diz Grenchen — fontes dizem Buttes → Solothurn/Pforzheim.)
 - gebraucht-kaufen.de: nomes novos Transi-Tronic, Buffalo, Trans-Europ (35 mm aço), Ferrotex; Courage x3. masterhorologer client_error.
+- eBay.de BWC-Armbanduhren: 514 resultados; Analoge Herren 228; Vintage 184. Confirma grande. Nomes: Courage, Buffalo, Transi-Tronic, Trans-Europ, Rhodos, Alertic, Naval Hero, X-Treme Performance, Meeting Remember.
