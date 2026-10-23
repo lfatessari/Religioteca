@@ -17,3 +17,5 @@ Decisão: tratada como GRANDE (vintage extenso desde 1924 + catálogo moderno). 
 ## 10b auto-auditoria
 1 Blog/imprensa oficial: não existe acessível. 2 §2c: domínio não indexado. 3 site: lojas feito via busca. 4 Primeiro modelo: relógios de bolso (1924) — 1 relógio de bolso entrou. 5 J: "Classic Automatic" não achado como nome; "Divers vintage 666ft" é Bulova, não BWC (achado Diving Chronograph 2502). 6 ok. 7 52 fontes.
 ## 2ª passada: alvo = linha moderna BWC Swiss (refs 2000x/2077x), refs vintage de 6 dígitos, nomes (Courage, Trans-Europ, Rhodos...).
+- 2ª PASSADA: site oficial achado: bwc-swiss.de (WooCommerce, 99 produtos, 9 páginas de 12). Coluna G (bwc-swiss.ch) errada → bwc-swiss.de. Logo https://bwc-swiss.de/wp-content/uploads/2020/07/bwc-swiss-logo-e1596035636306.png
+- Categorias: damen-automatik, damen-quarz, automatik, automatik-chronograph, quarz, quarz-chronograph.
