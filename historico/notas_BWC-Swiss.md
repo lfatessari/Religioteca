@@ -9,3 +9,11 @@ Decisão: tratada como GRANDE (vintage extenso desde 1924 + catálogo moderno). 
 - Relojes Especiales: 1991 mudança de dono → Solothurn; comercial Reek GmbH Pforzheim; 1999 integrada à Maddox AG (Pforzheim); relógios dos 75 anos (2000) ganharam Good Design Award; site bwc-swiss.de. (Coluna C diz Grenchen — fontes dizem Buttes → Solothurn/Pforzheim.)
 - gebraucht-kaufen.de: nomes novos Transi-Tronic, Buffalo, Trans-Europ (35 mm aço), Ferrotex; Courage x3. masterhorologer client_error.
 - eBay.de BWC-Armbanduhren: 514 resultados; Analoge Herren 228; Vintage 184. Confirma grande. Nomes: Courage, Buffalo, Transi-Tronic, Trans-Europ, Rhodos, Alertic, Naval Hero, X-Treme Performance, Meeting Remember.
+## Fim da 1ª passada (52 fontes)
+- Parada: stetzco (repetido), hrd-web, finn.no → 3 seguidas sem novidade.
+- Site oficial (bwc-swiss.ch / .com / .de) não aparece em busca nenhuma → coluna L "Parcial"? Não: não foi possível nem testar. Registrar L: "Site bloqueado – bwc-swiss.ch não aparece em buscas (não verificável sem navegador); revisitar com navegador".
+- EveryWatch/WatchBase/Chrono24: sem páginas BWC indexadas. preissuchmaschine.de (modelos modernos 200025409, 207715009) client_error.
+- VERMELHO: eBay.de tem 514 anúncios BWC; muitas refs de 6 dígitos sem nome; linha moderna (Starck/Maddox) praticamente sem fontes abertas.
+## 10b auto-auditoria
+1 Blog/imprensa oficial: não existe acessível. 2 §2c: domínio não indexado. 3 site: lojas feito via busca. 4 Primeiro modelo: relógios de bolso (1924) — 1 relógio de bolso entrou. 5 J: "Classic Automatic" não achado como nome; "Divers vintage 666ft" é Bulova, não BWC (achado Diving Chronograph 2502). 6 ok. 7 52 fontes.
+## 2ª passada: alvo = linha moderna BWC Swiss (refs 2000x/2077x), refs vintage de 6 dígitos, nomes (Courage, Trans-Europ, Rhodos...).
