@@ -13,3 +13,4 @@
 - Loupe (guia BB) 19 refs; CollectorSquare BB Lady.
 ## Falta (00:00): mediakit outros anos; Octo Roma; Aluminium 2020+; Serpenti modernos; Lvcea; Divas' Dream; BB 2014+; imprensa (aBlogtoWatch pags, Monochrome, Hodinkee); lojas (≥5 países); usados (Phillips, eBay); Chrono24 via busca; EveryWatch; §2c; §3 buscas extras
 - 00:0x: 48 fontes, 600 relógios. Mediakit wp-json pages 61 (Serpenti) e 348 (Lvcea) abertos; BB-CITIES deu Bvlgari Roma 1975 (primeiro relógio).
+- buscar refs: Bulgari Titanio; Octo Maserati Mono-Retro GrandSport/GrandLusso; Monete Catene Dual Time Secret; Aluminium Gran Turismo chrono; Hora Domus; Octo Roma 2017
