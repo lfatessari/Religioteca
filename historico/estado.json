@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 246,
- "ultima_versao": 219,
+ "proxima_linha_marcas": 247,
+ "ultima_versao": 220,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3124,6 +3124,20 @@
    "grande": false,
    "fontes_abertas": 18,
    "obs": "Bvlgari (246) é grande e fica sozinha"
+  },
+  {
+   "data": "2026-10-23",
+   "versao": 220,
+   "marca": "Bvlgari",
+   "linha_marcas": 246,
+   "linhas_relogios": "32357-33335",
+   "relogios": 979,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "grande": true,
+   "fontes_abertas": 145,
+   "passadas": "1: 104 fontes/867 novos; 2: 28/43; 3: 13/13",
+   "obs": "Gérald Genta (570) e Daniel Roth (359) têm linhas próprias; aqui só modelos com marca Bvlgari (Bvlgari Daniel Roth, Bvlgari Gérald Genta). Chrono24 inacessível. 84 linhas sem referência; ~770 com link de página no lugar da foto."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

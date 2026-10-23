@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 246,
- "ultima_versao": 219,
+ "proxima_linha_marcas": 247,
+ "ultima_versao": 220,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3124,6 +3124,20 @@
    "grande": false,
    "fontes_abertas": 18,
    "obs": "Bvlgari (246) é grande e fica sozinha"
+  },
+  {
+   "data": "2026-10-23",
+   "versao": 220,
+   "marca": "Bvlgari",
+   "linha_marcas": 246,
+   "linhas_relogios": "32357-33335",
+   "relogios": 979,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "grande": true,
+   "fontes_abertas": 145,
+   "passadas": "1: 104 fontes/867 novos; 2: 28/43; 3: 13/13",
+   "obs": "Gérald Genta (570) e Daniel Roth (359) têm linhas próprias; aqui só modelos com marca Bvlgari (Bvlgari Daniel Roth, Bvlgari Gérald Genta). Chrono24 inacessível. 84 linhas sem referência; ~770 com link de página no lugar da foto."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3138,31 +3152,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-22T23:41:32Z",
- "ultimo_sinal": "2026-10-23T00:21:02Z",
- "em_andamento": {
-  "marcas": [
-   "Bvlgari"
-  ],
-  "linha_marcas": 246,
-  "grande": true,
-  "relogios": "historico/parcial_Bvlgari_relogios.txt",
-  "fontes": "historico/parcial_Bvlgari_fontes.txt",
-  "notas": "historico/notas_Bvlgari.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6(sem acesso)",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
  }
 }
