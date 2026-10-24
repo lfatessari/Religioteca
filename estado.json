@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 247,
-  "ultima_versao": 220,
+  "proxima_linha_marcas": 248,
+  "ultima_versao": 221,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3138,6 +3138,20 @@
       "fontes_abertas": 145,
       "passadas": "1: 104 fontes/867 novos; 2: 28/43; 3: 13/13",
       "obs": "Gérald Genta (570) e Daniel Roth (359) têm linhas próprias; aqui só modelos com marca Bvlgari (Bvlgari Daniel Roth, Bvlgari Gérald Genta). Chrono24 inacessível. 84 linhas sem referência; ~770 com link de página no lugar da foto."
+    },
+    {
+      "data": "2026-10-24",
+      "versao": 221,
+      "marca": "BWC-Swiss",
+      "linha_marcas": 247,
+      "linhas_relogios": "33336-33584",
+      "relogios": 249,
+      "vermelho": true,
+      "site_bloqueado": "parcial (bwc-swiss.de: páginas 5,6,8,9 da loja inalcançáveis)",
+      "grande": true,
+      "fontes_abertas": 94,
+      "passadas": "1: 52 fontes/66 novos; 2: 32/165; 3: 10/13",
+      "obs": "Execução interrompida em 23/out pelo limite semanal do WebFetch e retomada em 24/out. Site oficial bwc-swiss.de (coluna G diz .ch). Chrono24.com bloqueado; chrono24.de abriu."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3152,34 +3166,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-23T00:41:17Z",
-  "ultimo_sinal": "2026-10-24T13:28:26Z",
-  "em_andamento": {
-    "marcas": [
-      "BWC-Swiss"
-    ],
-    "linha_marcas": 247,
-    "grande": true,
-    "relogios": "historico/parcial_BWC-Swiss_relogios.txt",
-    "fontes": "historico/parcial_BWC-Swiss_fontes.txt",
-    "notas": "historico/notas_BWC-Swiss.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2b",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2"
-    ],
-    "passada": 3
   }
 }
