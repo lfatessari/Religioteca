@@ -14,3 +14,4 @@
 - watchonista /node/ redireciona para a home (inútil). essential-watches subcoleções dão PROVENANCE_REQUIRED.
 - Chrono24 não aparece nas buscas; EveryWatch bloqueado; WatchBase só família heritage; watchcharts/thewatchpages sem dados.
 - Marca será VERMELHA: linhas 2001-2015 (Patravi, Alacria, Pathos, Adamavi, Manero antigas) com centenas de refs; vintage Bucherer sem nomes.
+- 1ª passada encerrada (hourstriker, RoyalRose, GPHG Alacria Royal, essential Alacria: 4 fontes seguidas sem novidade). Vermelha -> 2ª passada a partir de worldtempus Alacria Swan.
