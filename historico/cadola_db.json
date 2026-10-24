@@ -1472,8 +1472,8 @@
 "CD101544": {
 "code": "CD-1015-44",
 "nome": "Guichet Automatic",
-"img": "https://www.youtube.com/shorts/0t0uYgUoNHM",
-"e": "Visto só no título de vídeo oficial da Cadola (link da página).",
+"img": "https://cdn.shopify.com/s/files/1/0411/8364/1757/collections/CD-1015-44_MS05_ab105245-01d7-4d5f-9d3a-5f474b56f439.jpg",
+"e": "Automático japonês. Foto da coleção Guichet no site oficial (foto de ambiente).",
 "fonte": "firecrawl_search CD-1001..CD-1022 (títulos de anúncios)"
 },
 "CD101511": {
@@ -1643,5 +1643,68 @@
 "img": "https://img.watchpatrol.net/jAZTNbahQPRnToLtaViZ8bjVzBELFyj8xOiCpwj69To/rs:fill:600:600/plain/img/full/5f8773cd48abce0fbc33e865776a8aef3984f0c4.jpg",
 "e": "Relógio de aviador com luneta de régua de cálculo, mostrador marrom. Foto de anúncio de usado (Reddit via WatchPatrol); código não informado.",
 "fonte": "watchpatrol t-bucket/volaran + ebay.de (Firecrawl)"
+},
+"CD100904": {
+"code": "CD-1009-04",
+"nome": "Volaron Chronograph Green Leather",
+"img": "https://i.ebayimg.com/images/g/GBIAAOSwWQ1m8gTN/s-l1600.jpg",
+"e": "Cronógrafo de aviador de quartzo, mostrador prateado com números pretos, pulseira de couro verde, 10 ATM. Foto de anúncio do eBay.",
+"fonte": "eBay.com itm (Firecrawl, 6 anúncios)"
+},
+"CD100944": {
+"code": "CD-1009-44",
+"nome": "Volaron Chronograph Green",
+"img": "https://i.ebayimg.com/images/g/L1wAAOSw9DNma4Q9/s-l1600.jpg",
+"e": "Cronógrafo de quartzo, aço 44 mm, mostrador verde, pulseira de aço, 10 ATM. Foto de anúncio do eBay.",
+"fonte": "eBay.com itm (Firecrawl, 6 anúncios)"
+},
+"CD100911": {
+"code": "CD-1009-11",
+"nome": "Volaron Chronograph Noire",
+"img": "https://i.ebayimg.com/images/g/0JYAAOSwtkll4h3x/s-l1600.jpg",
+"e": "Cronógrafo de aviador de quartzo, luneta giratória, 10 ATM, mostrador preto. Foto de anúncio do eBay.",
+"fonte": "eBay.com itm (Firecrawl, 6 anúncios)"
+},
+"N:triple date (vintage, anos 1960)": {
+"code": "",
+"nome": "Triple Date (vintage, anos 1960)",
+"img": "https://i.ebayimg.com/images/g/CHMAAOSwO0ljzVPL/s-l1600.jpg",
+"e": "Relógio antigo da Cadola original; calendário triplo, mostrador creme com números amarelos. Foto de anúncio do eBay.",
+"fonte": "eBay.com itm (Firecrawl, 6 anúncios)"
+},
+"N:bellator automatic green – edição limitada": {
+"code": "CD-1001",
+"nome": "Bellator Automatic Green – edição limitada",
+"img": "https://i.ebayimg.com/images/g/XfgAAOSwj0NhI7XP/s-l1600.jpg",
+"e": "Mostrador verde, pulseira de aço. Exclusivo Watch Gang. Foto de anúncio do eBay; só o código da família foi informado.",
+"fonte": "eBay.com itm (Firecrawl, 6 anúncios)"
+},
+"N:bellator white": {
+"code": "CD-1001",
+"nome": "Bellator Automatic White – edição limitada",
+"img": "https://www.ebay.com/p/18041711877",
+"e": "Automático suíço, 18 rubis, aço 43 mm, mostrador branco, pulseira de aço. Exclusivo Watch Gang. Visto só no título da página de produto do eBay (link da página; a foto do eBay é genérica).",
+"fonte": "ebay p"
+},
+"N:t-bucket blue": {
+"code": "CD-1051",
+"nome": "T-Bucket Chronograph Blue",
+"img": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/15/69dfdb777ddf56b82d75249a/l_69dfdb78bedd34ea09ee73f4.jpeg",
+"e": "Cronógrafo de quartzo, 42 mm, mostrador azul. Foto de anúncio de usado (Poshmark); só o código da família foi informado.",
+"fonte": "poshmark"
+},
+"CD1070": {
+"code": "CD-1070",
+"nome": "Endurance Chronograph Hot Wheels Track Legends – edição limitada, colaboração Hot Wheels",
+"img": "https://cadola1946.com/pages/endurance-chronograph-hot-wheels-track-legends-limited-edition-cd-1070-sign-up",
+"e": "Anunciado no site oficial para dezembro de 2026 (página de pré-cadastro; link da página, a imagem é só de divulgação).",
+"fonte": "site"
+},
+"CD1072": {
+"code": "CD-1072",
+"nome": "Testa Di Toro Chronograph Speed Racer Mach 5 – edição limitada, colaboração Speed Racer",
+"img": "https://cadola1946.com/pages/testa-di-toro-chronograph-speed-racer-mach-5-limited-edition-cd-1072-sign-up",
+"e": "Anunciado no site oficial para novembro de 2026 (página de pré-cadastro; link da página).",
+"fonte": "site"
 }
 }
