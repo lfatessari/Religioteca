@@ -1,0 +1,642 @@
+{
+ "marca": "Candino",
+ "usa_codigos": true,
+ "logo": "https://media6.festinagroup.com/static/tiendas_online/candino/images/assets/img/logos/candino.svg",
+ "site_bloqueado": "Parcial – candino.com carrega os produtos por JavaScript (12 por página, sem paginação nem sitemap); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I tem [⚠️ verificar]: confirmado fundação em 1947 por Adolf Flury-Hug em Herbetswil, escritório em Bienne desde 1954, grupo Festina desde 2002 (FH, 2007); grail-watch diz 1952 em Bienne (divergente). J: coleções atuais também incluem Candino 1947, Icon, Titanium, Couple Classic, Field Watch, Ceramic e Automatic.",
+ "fontes": [
+  {
+   "url": "https://www.helveti.eu/candino",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://www.helveti.eu/candino-elegance",
+   "passada": 1,
+   "novos": 43
+  },
+  {
+   "url": "https://www.helveti.eu/candino-sport-chronos",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.helveti.eu/candino-classic-timeless",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.helveti.eu/candino-titanium",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.helveti.eu/candino-petit",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.helveti.eu/candino-for-couples",
+   "passada": 1,
+   "novos": 27
+  },
+  {
+   "url": "https://www.helveti.eu/candino-gents-sport",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.helveti.eu/candino-casual",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.helveti.eu/quartz-candino/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/automatic-candino/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.elcorteingles.es/candino/joyeria-y-relojes/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://candino.com/en-GB",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/man",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/candino/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/candino/watch-12494155",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/collection/icon/man",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://candino.com/en-GB/collection/candino-1947/man",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/woman",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://candino.com/en-GB/collection/candino-1947/woman",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://candino.com/en-GB/collection/field-watch/man",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://candino.com/en-GB/collection/titanium-watches/man",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/collection/candino-automatic/man",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/woman/matcaja-ceramics",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://candino.com/en-GB/collection/gents-classic-timeless/man",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/woman/automatic",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/man/leatherrubber-strap",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/woman/matcaja-304-stainless-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/man/hidden",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/man/double-pusher",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/woman/hidden",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://candino.com/en-GB/watch/woman/double-pusher",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 1)",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 2)",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 3)",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 4)",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 5)",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 6)",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.dienmayxanh.com/dong-ho-deo-tay-candino-thuy-si",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.heuerchrono.com/vintage-yachting-watches/candino-yachting/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004100333-candino.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Candino",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/brand-gallery/1004083000-candino.html",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.europastar.com/news/2037935-candino-real-swiss-made-quality-watches.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2007-04-25_545.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/news/1003567724-candino-in-the-moonlight.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/sold-1970s-swedish-issued-military-watch-candino.107978/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bukowskis.com/en/auctions/667/1030-candino-tre-kronor-ca-1968",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/candino-stainless-steel-blue-sea-automatic-wristwatch-circa-1960s/id-j_3409773",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/205684794826",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/looking-for-info-on-two-vintage-60s-divers-candino-submarine-and-zedon.176125/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/candino-diver-300m-automatico-del-foro-fdr.396587/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ricardo.ch/de/a/candino-naval-hero-aeusserst-selten-1325740474/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/388828767515",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchestobuy.com/?p=24379",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/127065404152",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Candino-Men-Luxury-Wristwatches/31387/bn_108282324",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://galaxus.ch/en/s8/product/candino-c47632-42-mm-wristwatches-44819595",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 7)",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/furniture/decorative-objects/clocks/more-clocks/candino-ladies-wristwatch-case-18-carat-watchstrap-14-carat/id-f_4042073",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 8)",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/p/21006769255",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2337767584",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hn.ebay.com/b/Candino-Womens-Wristwatches/31387/bn_2973402",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 9)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.achatmoinscher.com/Montres-femme-pas-cher-candino/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dienmayxanh.com/dong-ho-deo-tay-candino",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-womens-watches",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-womens-watches?page=2",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-womens-watches?page=3",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-womens-watches?page=4",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-womens-watches?page=5",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-womens-watches?page=6",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-mens-watches",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-mens-watches?page=2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-mens-watches?page=3",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-mens-watches?page=4",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-mens-watches?page=5",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.havetime.ch/en/watch-brands/candino/candino-mens-watches?page=6",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "firecrawl_search imagens: Candino C4720 / C4779 / C4603",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.orologioblog.net/en/le-proposte-di-candino-per-la-festa-degli-innamorati/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/it/gioielli/orologi/orologi-da-polso/orologio-a-carica-manuale-vintage-da-donna-candino-in-oro-giallo-18k-con-cinturino-in-pelle-nera/id-j_19337292",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/2037815-candino-timing-your-own-challenge.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchpro.com/?p=1362",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu (fichas escondidas, lote 10)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/candino.368602/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/candino.363573/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/candino/furniture/decorative-objects",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/156950262777",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/news/1004082647-candino-watches-and-planetsolar.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/news/1003968848-candino-sponsors-solar-powered-boat-adventure.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashionbi.com/financials/brands/candino",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/candino-gents-sport-c4757-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/candino-gents-sport-c4758-3",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/candino-gents-chrono-c4779-5",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/candino-gents-chrono-c4779-4",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.zbozi.cz/vyrobek/candino-gents-sport-chrono-c4779-2/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/candino-gents-sport-chrono-c4698-2",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/candino-gents-sport-chrono-c4698-4",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.billiger.de/pricelist/4890598888-candino-classic-c4764-3-edelstahl-44-mm-uc4764-3",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.billiger.de/pricelist/4321420819-candino-classic-c4610-1-edelstahl-38-mm-uc4610-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.billiger.de/pricelist/3809046620-candino-classic-c4537-1-edelstahl-0-mm-uc4537-1",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.billiger.de/pricelist/1073612897-candino-c4626-1-edelstahl-30-mm-c4626-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/candino-lady-petite-c4684-3",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ceneje.si/Izdelek/56946015/modni-dodatki/rocne-ure/analogne-rocne-ure/candino-c47794",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/candino-titanium-c4603-f",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.billiger.de/pricelist/4321421070-candino-elegance-edelstahl-36-mm-c4595-2",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.zalando.de/candino",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loveantiques.com/items/listings/watch-gents-1960s-candino-automatic-wrist-watch-LA580700",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wannabuyawatch.com/?p=41496",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnet.co.jp/en/item/view/1021",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/el-speedy-de-candino.414110/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://dorotheum.com/en/l/8909612",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/420830585",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/recommerce/forsale/item/451058707",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.it/itm/198257519907",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zbozi.cz/vyrobek/candino-c4591-1/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.billiger.de/pricelist/4162440264-candino-sport-c4518-edelstahl-44-mm-uc4518-e",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.finn.no/441582642",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zbozi.cz/hodinky/?vyrobce=candino",
+   "passada": 3,
+   "novos": 15
+  },
+  {
+   "url": "https://www.zbozi.cz/znacka/candino/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zbozi.cz/vyrobek/candino-c4476-1/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.zbozi.cz/vyrobek/candino-c4670-1/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zbozi.cz/vyrobek/candino-c4631-1/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/str/govin",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/156928692962",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

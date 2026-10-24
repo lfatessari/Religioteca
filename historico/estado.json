@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 257,
- "ultima_versao": 227,
+ "proxima_linha_marcas": 258,
+ "ultima_versao": 228,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3289,6 +3289,20 @@
    "fontes_abertas": 17,
    "passadas": "1: 17 fontes/3 novos",
    "obs": "catálogo fechado: Fieldtimer 39 mm em 3 cores, 100 peças cada; Candino (257) fica para a próxima, sozinha (grande)"
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 228,
+   "marca": "Candino",
+   "linha_marcas": 257,
+   "linhas_relogios": "34611-35119",
+   "relogios": 509,
+   "vermelho": true,
+   "site_bloqueado": "Parcial – candino.com (JavaScript)",
+   "grande": true,
+   "fontes_abertas": 126,
+   "passadas": "1: 92 fontes/445 novos; 2: 19/20; 3: 15/23",
+   "obs": "candino.com via Firecrawl (filtros, 12 por página), Helveti (categorias + ~45 fichas escondidas), havetime.ch (12 páginas), billiger.de, zbozi.cz (419 produtos, só 1ª página abriu), Europa Star (arquivo 1970-96), vintage eBay/1stdibs/fóruns; créditos do Firecrawl acabaram no meio; ~48 linhas com link da página no lugar da foto"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
