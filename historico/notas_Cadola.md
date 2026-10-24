@@ -14,3 +14,4 @@
 - Dono atual: Dartmouth Brands (Hong Kong; também AVI-8, Spinnaker) — Hourstriker. Origem Neuchâtel (Suíça); "1946" no nome. Relógios antigos (anos 1930-50) existem.
 - VERMELHA: famílias antigas (exclusivos Watch Gang 2020-22: Bellator, Endurance, Spearfisher, Laguna, Noumea, Tahiti, Aviateur, Volaron, Intrepid, Hairpin, Guichet, Testa Ditoro, Aegir, New Caledonia, Galathea) com cores não listadas; Bellator CD-1001 e Volaron Automatic CD-1010 sem nenhuma variação achada; vintage sem nomes.
 - 2ª passada: ir atrás dessas cores (Amazon, Poshmark, Mercari, Reddit/WatchUSeek, WorthPoint, eBay.com, Mainspring Tahiti LE, 10p10, Watch Gang antigos, §2c no site oficial com termos novos).
+## 2ª passada: 15 fontes, 9 novos (Bellator x2, Volaron x3, Triple Date vintage, T-Bucket azul, Hot Wheels CD-1070, Speed Racer CD-1072) -> >=5, fazer 3ª passada
