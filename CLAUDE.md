@@ -32,6 +32,7 @@ Uma execução pode ser cortada a qualquer momento pelo limite de uso, sem chanc
 - Se o usuário colar na conversa uma lista de modelos levantados por outra execução, tratá-la como progresso salvo: comparar com o que já há, buscar o que faltar e seguir.
 
 ## Abrir sites sem pedir permissão (ninguém está olhando)
+(As regras desta seção valem para a WebFetch. Quando um endereço não puder ser aberto por ela, usar o Firecrawl — ver a seção "Firecrawl" abaixo.)
 O WebFetch só abre sem pedir aprovação ao usuário endereços que já apareceram nesta conversa: resultados de WebSearch ou links devolvidos por uma página já aberta. Endereço digitado de memória (ex.: thewatchpages.com, everywatch.com/<marca>, o site da coluna G) trava a execução esperando um clique que ninguém vai dar.
 - Antes de abrir qualquer site, fazer uma WebSearch que traga o endereço e abrir exatamente o endereço do resultado.
 - **Só abrir endereços que vieram literalmente de um resultado de WebSearch.** Links tirados do resumo de uma página aberta (paginação, fichas de produto, páginas de relógio) também pediram permissão (Armin Strom, out/2026). Exemplos que pediram: páginas `monochrome-watches.com/category/<marca>/page/N/` e fichas `europastar.com/swisstime/...` tiradas de outra página. Para uma página interna, fazer antes uma busca que a traga (ex.: `site:monochrome-watches.com <marca> <modelo>`, `site:europastar.com <marca> <modelo>`) e abrir o link do resultado.
@@ -40,7 +41,21 @@ O WebFetch só abre sem pedir aprovação ao usuário endereços que já aparece
 - **Nunca montar endereços**, nem no mesmo domínio de uma página já aberta: `/products.json`, `/wp-json/...`, `sitemap.xml`, `.oembed`, `?page=N`, `?limit=…` pedem aprovação mesmo assim (visto na Armin Strom, out/2026). Os truques de endereço da skill (§2, §5, §7) só valem quando o endereço exato apareceu numa busca ou num link devolvido; senão, usar a página normal e buscas `site:`.
 - Se o WebFetch responder PROVENANCE_REQUIRED ou pedir permissão: não repetir esse endereço; seguir com outra fonte.
 - **Não usar a ferramenta Agent (ajudantes/subagentes)**: criar ajudantes também pede aprovação. Fazer toda a pesquisa na própria execução.
-- Site que não aparece em busca nenhuma: pular e registrar no relatório.
+- Site que não aparece em busca nenhuma: tentar com o Firecrawl (abaixo); se nem assim abrir, pular e registrar no relatório.
+
+## Firecrawl (conector) — complemento, não substituto (pedido do usuário, out/2026)
+Na BWC-Swiss o Firecrawl abriu as páginas 5, 6, 8 e 9 da loja oficial (que a WebFetch não alcançava), trouxe as fotos de uma loja WooCommerce cujas fotos não apareciam na leitura normal e abriu a Chrono24.de com 27 modelos novos. Custa créditos (~5 por página), então:
+- **Continuar usando WebSearch + WebFetch como base** (buscas e a maioria das páginas).
+- **Usar `mcp__Firecrawl__firecrawl_scrape` (carregar com ToolSearch "firecrawl") nestes casos:**
+  1. páginas 2, 3, 4… de lojas, catálogos e listas que não vieram em nenhum resultado de busca (o Firecrawl abre qualquer endereço sem pedir aprovação, inclusive `/shop/page/N/`, `?page=N`, `index-2.htm`);
+  2. site que a WebFetch não abre (client_error, 403, robots, PROVENANCE_REQUIRED, redirecionamento em loop) — inclusive o site oficial e a Chrono24.de (`chrono24.de/<marca>/index.htm`, `index-2.htm`…);
+  3. lojas cujas fotos não aparecem na leitura normal (carregamento tardio);
+  4. quando a WebFetch atingir o limite semanal/diário: seguir a pesquisa só com o Firecrawl (`firecrawl_search` para buscar e `firecrawl_scrape` para abrir) em vez de parar.
+- Pedir saída em JSON (`formats: ["json"]` com `jsonOptions.prompt` + `schema`: título, referência, URL, imagem). Para conferir fotos, `formats: ["images"]` ou o `og:image` do anúncio.
+- **Fotos devolvidas pelo extrator só valem se seguirem o padrão real do site** (ex.: `bwc-swiss.de/wp-content/uploads/2020/12/<ref sem pontos>.jpg`, confirmado em outra página). Na Chrono24 o extrator inventou endereços (o formato real tem hash: `img.chrono24.com/images/uhren/<id>-<hash>-ExtraLarge.jpg`); nesses casos usar o link do anúncio na coluna C. Na dúvida, abrir um anúncio e conferir o `og:image` antes de usar o padrão.
+- **Não usar `proxy: "auto"`, `"stealth"` ou `"enhanced"`**: o controle de segurança da sessão recusou (chrono24.com, out/2026). Usar o padrão; se o site recusar, registrar e seguir.
+- Toda página aberta pelo Firecrawl entra no campo `fontes` do `marca_<marca>.json` como qualquer outra fonte, e conta para o mínimo e para o critério de parada.
+- No relatório, dizer quais fontes vieram pelo Firecrawl e quantos créditos foram usados (o resultado de cada chamada mostra `creditsUsed`).
 
 ## Roteiro de cada execução
 1. Carregar a skill `relogioteca-pesquisa-exaustiva` (ferramenta Skill) e seguir o SKILL.md inteiro, como se fosse a primeira vez.
