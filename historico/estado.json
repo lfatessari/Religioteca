@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 251,
- "ultima_versao": 223,
+ "proxima_linha_marcas": 253,
+ "ultima_versao": 224,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3206,6 +3206,33 @@
    "fontes_abertas": 59,
    "passadas": "1: 29 fontes/19 novos; 2: 19/5; 3: 11/0",
    "obs": "tratada como grande (peças únicas Luna Nera); 'Solanis' de J não encontrado; Titanic DNA (Romain Jerome) em uma linha só"
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 224,
+   "marca": "Cadence",
+   "linha_marcas": 251,
+   "linhas_relogios": "33689-33714",
+   "relogios": 26,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes_abertas": 48,
+   "obs": "Cadence Watch Company (Filadélfia, 2002–~2013), marca extinta; cadencewatch.com fora do ar; tudo via imprensa de tecnologia; Sasu Z1005-01..04 via montre24"
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 224,
+   "marca": "Cadet Chronostar",
+   "linha_marcas": 252,
+   "linhas_relogios": "33715-33750",
+   "relogios": 36,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes_abertas": 45,
+   "passadas": "1: 25 fontes/30 novos; 2: 10/6; 3: 10/4",
+   "obs": "marca italiana ligada à Chronostar/Sector; sem site; centenas de anúncios genéricos sem referência"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3219,6 +3246,7 @@
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
+  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+  "Cadisen (linha 253)": "Parece grande (muitas referências C1032, C8097, C8185, C8207, Ti-7...): fazer sozinha."
  }
 }
