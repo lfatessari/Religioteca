@@ -1,6 +1,6 @@
 import json,re
 site=json.load(open('rows_site.json'))
-cnc=json.load(open('cncom_rows.json'))
+cnc=json.load(open('cncom_rows.json'))+json.load(open('cncom_p2.json'))
 SER={'隽永':'Juanyong','荣耀':'Rongyao','时光永恒':'Shiguang Yongheng','时光见证':'Shiguang Jianzheng','尊尚':'Zunshang','骐致':'Qizhi','天锐':'Tianrui','恒心':'Hengxin','琅玥':'Langyue','朗玥':'Langyue','探索者':'Tansuozhe','至臻':'Zhizhen','极光':'Jiguang','臻金':'Zhenjin','小金表':'Xiaojinbiao','歌雅':'Geya','宇宙':'Yuzhou','黑鲨':'Heisha'}
 TR={'荣耀':'Glória','时光永恒':'Tempo Eterno','时光见证':'Testemunho do Tempo','尊尚':'Supremo','恒心':'Perseverança','探索者':'Explorador','极光':'Aurora','臻金':'Ouro Puro','小金表':'Pequeno Relógio Dourado','宇宙':'Universo','黑鲨':'Tubarão Negro'}
 rows=[r[:] for r in site]
@@ -13,6 +13,8 @@ for s,code,img,url in cnc:
   rows.append([nm,code,img,e])
 for l in open('extras.txt'):
   n,c,i,e=l.rstrip('\n').split('|'); rows.append([n,c,i,e])
+for r in rows:
+  if r[1].startswith('C8051'): r[3]='Primeiro modelo da marca (lançado em 2012, segundo o histórico do site chinês cadisen.com). '+(r[3] or '')
 # clean
 out=[]
 seen=set()
