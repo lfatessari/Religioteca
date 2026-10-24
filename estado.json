@@ -3250,7 +3250,7 @@
   "Cadisen (linha 253)": "Parece grande (muitas referências C1032, C8097, C8185, C8207, Ti-7...): fazer sozinha."
  },
  "em_execucao": "2026-10-24T16:41:45Z",
- "ultimo_sinal": "2026-10-24T17:07:07Z",
+ "ultimo_sinal": "2026-10-24T17:08:56Z",
  "em_andamento": {
   "marcas": [
    "Cadisen"
@@ -3263,9 +3263,16 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3 parcial",
-   "7 parcial"
+   "2c parcial",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10"
   ],
-  "passada": 1
+  "passada": 2
  }
 }

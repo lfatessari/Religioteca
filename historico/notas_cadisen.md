@@ -7,3 +7,4 @@
 - Achados fora dos sites: C8212M/G (Seagull ST1900), C8221G/M, C8203, C8241M/G, C8240M, C8225, C8234, C8021G, C1032G, C8175 (3 cores, primetimepiece), C8189, C8100, C7063G, C8214 verde (primetimepiece).
 - cadisen.com = site oficial CHINÊS (fundada 2011 segundo ele; cadisenwatch.com diz 2013 Shenzhen; Instagram diz 2007). Séries: 隽永, 荣耀, 时光永恒, 时光见证, 尊尚, 骐致, 天锐, 恒心, 琅玥, 探索者, 至臻, 极光, 臻金, 小金表, 歌雅, 宇宙, 黑鲨. Paginação por JS (pageNo não funciona). Parse: parse_cn2.py → cncom.json.
 - jwlraddicts, eBay (categoria), cadisen.stores.jp (Japão oficial), AliExpress loja (Firecrawl inventou dados: descartado), cadisen.net fora do ar.
+- 17:12 1ª passada encerrada (168 fontes, 546 linhas; 3 últimas fontes sem novidade). VERMELHO: catálogo chinês cadisen.com com ~70 modelos inalcançáveis (paginação por JS), variantes AliExpress, versões G. 2ª passada: en.cadisen.com, categorias 22/23/24, news, history, §2c cadisen.cn, Amazon, AliExpress.
