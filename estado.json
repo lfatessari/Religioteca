@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 248,
- "ultima_versao": 222,
+ "proxima_linha_marcas": 251,
+ "ultima_versao": 223,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3166,6 +3166,46 @@
    "fontes_abertas": 13,
    "ferramenta": "Firecrawl",
    "obs": "Pedido do usuário: completar BWC-Swiss com o conector Firecrawl. Loja oficial lida inteira (99 produtos, 9 páginas); Chrono24.de páginas 1-2. Chrono24.com negado."
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 223,
+   "marca": "Byrne",
+   "linha_marcas": 248,
+   "linhas_relogios": "33622-33640",
+   "relogios": 19,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes_abertas": 35,
+   "obs": "site byrnewatch.com aberto via Firecrawl (não aparece em busca); usa só nomes"
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 223,
+   "marca": "C.H. Wolf",
+   "linha_marcas": 249,
+   "linhas_relogios": "33641-33664",
+   "relogios": 24,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes_abertas": 26,
+   "obs": "marca inativa (ex-Hemess, insolvência 2016, relançamento 2018); Chrono24 e EveryWatch inacessíveis; várias linhas vistas só em anúncios"
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 223,
+   "marca": "Cabestan",
+   "linha_marcas": 250,
+   "linhas_relogios": "33665-33688",
+   "relogios": 24,
+   "vermelho": true,
+   "site_bloqueado": "cabestan.ch não abre",
+   "grande": true,
+   "fontes_abertas": 59,
+   "passadas": "1: 29 fontes/19 novos; 2: 19/5; 3: 11/0",
+   "obs": "tratada como grande (peças únicas Luna Nera); 'Solanis' de J não encontrado; Titanic DNA (Romain Jerome) em uma linha só"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3180,25 +3220,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-24T14:11:39Z",
- "ultimo_sinal": "2026-10-24T14:41:19Z",
- "em_andamento": {
-  "marcas": [
-   "Byrne",
-   "C.H. Wolf",
-   "Cabestan"
-  ],
-  "linha_marcas": 248,
-  "grande": true,
-  "relogios": "historico/parcial_cabestan_relogios.txt",
-  "fontes": "historico/parcial_cabestan_fontes.txt",
-  "notas": "historico/notas_cabestan.md",
-  "secoes_feitas": [
-   "Byrne:completa",
-   "C.H. Wolf:completa",
-   "Cabestan: passada 1 (30 fontes) e passada 2 (19 fontes) feitas; falta 3ª passada"
-  ],
-  "passada": 3
  }
 }
