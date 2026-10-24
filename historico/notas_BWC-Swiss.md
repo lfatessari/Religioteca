@@ -26,3 +26,5 @@ Decisão: tratada como GRANDE (vintage extenso desde 1924 + catálogo moderno). 
 - herrenuhren24: Reinhold Reeck (Pforzheim) importador 1924; Manfred Starck 2003; Carl Engelkemper (Münster) distribuição DE desde 2006; BWC Fabrique d'Horlogerie S.A., Bahnhofstrasse 42, Biel. Linhas: Valjoux, Automatic, Spezialitäten, Quarz.
 - 24/out 13:24 UTC: retomado na mesma conversa (usuário pediu para continuar) após limite semanal do WebFetch. Falta: 3ª passada (2ª trouxe muitos novos) e gravação.
 - eBay UK: também cronômetro de mão Lemania 1/5 ref. 21218 (51 mm) — não é de pulso, não entrou.
+- Complemento Firecrawl: chrono24.com negado pelo classificador (proxy auto); chrono24.de abriu com fotos. Aviator 20012 foto img.chrono24.de/p/45908215/1/1.jpg.
+- Chrono24: as URLs de foto devolvidas pelo extrator do Firecrawl não são confiáveis (formato real tem hash, ex. img.chrono24.com/images/uhren/41623058-...-ExtraLarge.jpg) → usado o link do anúncio.

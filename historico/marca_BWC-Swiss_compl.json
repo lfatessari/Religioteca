@@ -1,0 +1,77 @@
+{
+ "marca": "BWC-Swiss",
+ "usa_codigos": false,
+ "logo": "https://bwc-swiss.de/wp-content/uploads/2020/07/bwc-swiss-logo-e1596035636306.png",
+ "site_bloqueado": "Parcial – bwc-swiss.de: a leitura comum não alcança as páginas 5, 6, 8 e 9 da loja; com o Firecrawl abriu tudo (out/2026). Chrono24.com bloqueado.",
+ "vermelho": true,
+ "grande": true,
+ "complemento": true,
+ "fontes": [
+  {
+   "url": "https://bwc-swiss.de/shop/",
+   "passada": 4,
+   "novos": 0
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/2/",
+   "passada": 4,
+   "novos": 0
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/3/",
+   "passada": 4,
+   "novos": 0
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/4/",
+   "passada": 4,
+   "novos": 0
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/5/",
+   "passada": 4,
+   "novos": 5
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/6/",
+   "passada": 4,
+   "novos": 0
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/7/",
+   "passada": 4,
+   "novos": 0
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/8/",
+   "passada": 4,
+   "novos": 4
+  },
+  {
+   "url": "https://bwc-swiss.de/shop/page/9/",
+   "passada": 4,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/bwcswiss/index.htm",
+   "passada": 4,
+   "novos": 15
+  },
+  {
+   "url": "https://www.chrono24.de/bwcswiss/index-2.htm",
+   "passada": 4,
+   "novos": 10
+  },
+  {
+   "url": "https://www.chrono24.de/bwcswiss/593068--id41623058.htm",
+   "passada": 4,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chrono24.de/bwcswiss/index-3.htm",
+   "passada": 4,
+   "novos": 1
+  }
+ ],
+ "observacoes": "G errado: site oficial é bwc-swiss.de (bwc-swiss.ch não aparece em buscas). C: fundada em Buttes (Val-de-Travers); depois Solothurn e Biel (BWC Fabrique d'Horlogerie S.A.), com distribuição em Pforzheim/Münster (Alemanha); Grenchen não aparece nas fontes. H vazio: Facebook @bwcswissofficial. I: fundador Arthur Charlet (1924), genro Edwin Volkart (1953), Maddox AG (1999), Starck-Uhren (2003); 1º relógio digital LCD (Optel, 1972). J: 'Divers vintage 666ft' não achado (666ft é do Bulova Devil Diver); a BWC tem Diving Chronograph 20 atm. Coleções reais: Courage, Buffalo, Transi-Tronic, Trans-Europ, Rhodos, Alertic, Classic Automatic, XXL Pilot, Skeleton, Military III."
+}

@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 248,
-  "ultima_versao": 221,
+  "ultima_versao": 222,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3152,6 +3152,20 @@
       "fontes_abertas": 94,
       "passadas": "1: 52 fontes/66 novos; 2: 32/165; 3: 10/13",
       "obs": "Execução interrompida em 23/out pelo limite semanal do WebFetch e retomada em 24/out. Site oficial bwc-swiss.de (coluna G diz .ch). Chrono24.com bloqueado; chrono24.de abriu."
+    },
+    {
+      "data": "2026-10-24",
+      "versao": 222,
+      "marca": "BWC-Swiss (complemento)",
+      "linha_marcas": 247,
+      "linhas_relogios": "33336-33621",
+      "relogios": 286,
+      "novos": 37,
+      "fotos_trocadas": 44,
+      "vermelho": true,
+      "fontes_abertas": 13,
+      "ferramenta": "Firecrawl",
+      "obs": "Pedido do usuário: completar BWC-Swiss com o conector Firecrawl. Loja oficial lida inteira (99 produtos, 9 páginas); Chrono24.de páginas 1-2. Chrono24.com negado."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

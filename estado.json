@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 248,
-  "ultima_versao": 221,
+  "ultima_versao": 222,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3152,6 +3152,20 @@
       "fontes_abertas": 94,
       "passadas": "1: 52 fontes/66 novos; 2: 32/165; 3: 10/13",
       "obs": "Execução interrompida em 23/out pelo limite semanal do WebFetch e retomada em 24/out. Site oficial bwc-swiss.de (coluna G diz .ch). Chrono24.com bloqueado; chrono24.de abriu."
+    },
+    {
+      "data": "2026-10-24",
+      "versao": 222,
+      "marca": "BWC-Swiss (complemento)",
+      "linha_marcas": 247,
+      "linhas_relogios": "33336-33621",
+      "relogios": 286,
+      "novos": 37,
+      "fotos_trocadas": 44,
+      "vermelho": true,
+      "fontes_abertas": 13,
+      "ferramenta": "Firecrawl",
+      "obs": "Pedido do usuário: completar BWC-Swiss com o conector Firecrawl. Loja oficial lida inteira (99 produtos, 9 páginas); Chrono24.de páginas 1-2. Chrono24.com negado."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3166,20 +3180,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-24T13:50:02Z",
-  "ultimo_sinal": "2026-10-24T13:50:02Z",
-  "em_andamento": {
-    "marcas": [
-      "BWC-Swiss"
-    ],
-    "linha_marcas": 247,
-    "grande": true,
-    "complemento": true,
-    "relogios": "historico/parcial_BWC-Swiss_complemento.txt",
-    "fontes": "historico/parcial_BWC-Swiss_fontes_complemento.txt",
-    "notas": "historico/notas_BWC-Swiss.md",
-    "secoes_feitas": [],
-    "passada": 4
   }
 }
