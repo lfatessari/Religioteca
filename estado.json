@@ -3182,7 +3182,7 @@
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  },
  "em_execucao": "2026-10-24T14:11:39Z",
- "ultimo_sinal": "2026-10-24T14:22:45Z",
+ "ultimo_sinal": "2026-10-24T14:29:59Z",
  "em_andamento": {
   "marcas": [
    "Byrne",
@@ -3191,11 +3191,12 @@
   ],
   "linha_marcas": 248,
   "grande": false,
-  "relogios": "historico/parcial_ch_wolf_relogios.txt",
-  "fontes": "historico/parcial_ch_wolf_fontes.txt",
-  "notas": "historico/notas_ch_wolf.md",
+  "relogios": "historico/parcial_cabestan_relogios.txt",
+  "fontes": "historico/parcial_cabestan_fontes.txt",
+  "notas": "historico/notas_cabestan.md",
   "secoes_feitas": [
-   "Byrne:completa (dados_byrne.txt, marca_byrne.json prontos)"
+   "Byrne:completa",
+   "C.H. Wolf:completa (dados_ch_wolf.txt, marca_ch_wolf.json prontos)"
   ],
   "passada": 1
  }
