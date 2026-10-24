@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 260,
- "ultima_versao": 229,
+ "proxima_linha_marcas": 261,
+ "ultima_versao": 230,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3324,6 +3324,20 @@
    "site_bloqueado": false,
    "fontes": 77,
    "grande": true
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 230,
+   "marca": "Carl F. Bucherer",
+   "linha_marcas": 260,
+   "linhas_relogios": "35209-35569",
+   "relogios": 361,
+   "vermelho": true,
+   "site_bloqueado": "Parcial – carl-f-bucherer.com (JavaScript)",
+   "grande": true,
+   "fontes_abertas": 267,
+   "passadas": "1: 241 fontes/323 novos; 2: 13/8; 3: 13/9",
+   "obs": "marca encerrada pela Rolex em 2025; fontes principais: site oficial (páginas de produto), gressive.jp (catálogo japonês 2008-2023), catálogo Selection 2018/19 (PDF), essential-watches, majestix, Phillips, WorldTempus, Europa Star; Firecrawl sem créditos; 64 linhas com link do PDF e ~140 com link de página no lugar da foto"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3338,34 +3352,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-24T21:41:09Z",
- "ultimo_sinal": "2026-10-24T23:07:39Z",
- "em_andamento": {
-  "marcas": [
-   "Carl F. Bucherer"
-  ],
-  "linha_marcas": 260,
-  "grande": true,
-  "relogios": "historico/parcial_cfb_relogios.txt",
-  "fontes": "historico/parcial_cfb_fontes.txt",
-  "notas": "historico/notas_cfb.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2",
-   "p3"
-  ],
-  "passada": 2
  }
 }

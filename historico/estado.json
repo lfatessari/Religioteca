@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 260,
- "ultima_versao": 229,
+ "proxima_linha_marcas": 261,
+ "ultima_versao": 230,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3324,6 +3324,20 @@
    "site_bloqueado": false,
    "fontes": 77,
    "grande": true
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 230,
+   "marca": "Carl F. Bucherer",
+   "linha_marcas": 260,
+   "linhas_relogios": "35209-35569",
+   "relogios": 361,
+   "vermelho": true,
+   "site_bloqueado": "Parcial – carl-f-bucherer.com (JavaScript)",
+   "grande": true,
+   "fontes_abertas": 267,
+   "passadas": "1: 241 fontes/323 novos; 2: 13/8; 3: 13/9",
+   "obs": "marca encerrada pela Rolex em 2025; fontes principais: site oficial (páginas de produto), gressive.jp (catálogo japonês 2008-2023), catálogo Selection 2018/19 (PDF), essential-watches, majestix, Phillips, WorldTempus, Europa Star; Firecrawl sem créditos; 64 linhas com link do PDF e ~140 com link de página no lugar da foto"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
