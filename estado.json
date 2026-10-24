@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 255,
- "ultima_versao": 226,
+ "proxima_linha_marcas": 257,
+ "ultima_versao": 227,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3261,6 +3261,34 @@
    "fontes_abertas": 62,
    "passadas": "1: 37 fontes/231 novos; 2: 14/9; 3: 11/0 (+4 por busca de imagens)",
    "obs": "cadola1946.com (95 publicados + manual com 50 famílias CD-1001..CD-1073), Ashford vendors (128 códigos antigos com foto), Watches.com, LIW; exclusivos Watch Gang 2020-22 com cores incompletas; Hot Wheels CD-1070 e Speed Racer CD-1072 anunciados; Calgari e Camp Watches ficam para a próxima (Cadola tratada como grande)"
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 227,
+   "marca": "Calgari",
+   "linha_marcas": 255,
+   "linhas_relogios": "34605-34607",
+   "relogios": 3,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes_abertas": 15,
+   "passadas": "1: 15 fontes/3 novos",
+   "obs": "catálogo fechado (coleção de estreia de 3 cronógrafos, 100 peças cada); site calgari.com via Firecrawl"
+  },
+  {
+   "data": "2026-10-24",
+   "versao": 227,
+   "marca": "Camp Watches",
+   "linha_marcas": 256,
+   "linhas_relogios": "34608-34610",
+   "relogios": 3,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "grande": false,
+   "fontes_abertas": 17,
+   "passadas": "1: 17 fontes/3 novos",
+   "obs": "catálogo fechado: Fieldtimer 39 mm em 3 cores, 100 peças cada; Candino (257) fica para a próxima, sozinha (grande)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3275,22 +3303,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-24T18:41:29Z",
- "ultimo_sinal": "2026-10-24T18:49:32Z",
- "em_andamento": {
-  "marcas": [
-   "Calgari",
-   "Camp Watches"
-  ],
-  "linha_marcas": 255,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Calgari: todas"
-  ],
-  "passada": 1
  }
 }
