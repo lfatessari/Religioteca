@@ -3,14 +3,20 @@ cn=json.load(open('cn_rows.json')); cw=json.load(open('cw.json'))
 PT={'black':'preto','blue':'azul','white':'branco','gray':'cinza','grey':'cinza','green':'verde','orange':'laranja','red':'vermelho','brown':'marrom','coffee':'café','gold':'dourado','golden':'dourado','rose':'rosé','silver':'prateado','tiffany':'azul Tiffany','meteorite':'meteorito','champagne':'champanhe','violet':'violeta','ice':'gelo','light':'claro','full':'todo','all':'todo','grid':'quadriculado','wave':'ondas','leather':'couro','rubber':'borracha','steel':'aço','mesh':'malha','belt':'pulseira','starry':'céu estrelado','surface':'','yelllow':'amarelo','s':'(P)','l':'(G)','with':'com','strap':'','stainless':'','wristwatch':''}
 def pt(c):
   c=re.sub(r'\(Miyota 8215\)','',c,flags=re.I)
+  strap=''
+  for k,v in [('Black Steel Belt','preto, pulseira de aço'),('White Steel Belt','branco, pulseira de aço'),('Black Steel Belt','preto, pulseira de aço'),('Brown Belt','marrom, pulseira de couro'),('Black Belt','preto, pulseira de couro')]:
+    if c.strip().lower()==k.lower(): return v
+  m=re.match(r'(Rubber|Steel|Leather)\s+(.*)',c.strip(),re.I)
+  if m: c=m.group(2); strap={'rubber':', pulseira de borracha','steel':', pulseira de aço','leather':', pulseira de couro'}[m.group(1).lower()]
   w=[PT.get(x.lower(),x.lower()) for x in re.findall(r'[A-Za-z]+',c)]
   w=[x for x in w if x]
   s=' '.join(w); s=s.replace('azul azul Tiffany','azul Tiffany').replace('azul Tiffany azul','azul Tiffany')
-  return s
+  return s+strap
 DL={'blue':'U','black':'B','white':'W','gray':'H','grey':'H','green':'L','orange':'O','tiffany':'T','coffee':'F','red':'E','gold':'G','golden':'G','brown':'F'}
 def dial_letter(c):
   c=re.sub(r'\(.*?\)','',c); ws=[x.lower() for x in re.findall(r'[A-Za-z]+',c)]
   ws=[x for x in ws if x not in ('steel','rubber','leather','grid','wave','light','ice','champagne','meteorite','full','all','mesh','belt','with','strap','silver','rose')] or ws
+  if 'tiffany' in ws: return 'T'
   return DL.get(ws[-1]) if ws else None
 LINE={}
 for r in cn:
@@ -66,7 +72,7 @@ for slug,p in sorted(cw.items()):
     for r in pool:
       sku=r[1]
       if sku in used: continue
-      if dl and sku.rstrip('-TA').endswith(dl) and (sku[6:7]=='G')==gold:
+      if dl and re.sub(r'-(T|A)$','',sku).endswith(dl) and (sku[6:7]=='G')==gold:
         match=r;break
     cpt=pt(col)
     if match:
@@ -81,7 +87,7 @@ for r in cn:
   nm=re.sub(r'\b([A-Z]{3,})\b',lambda m:m.group(1).title(),nm)
   if not nm.startswith('Ti-7'):
     nm=re.sub(r'\s+(White|Green|Orange|Blue|Nylon Black)$','',nm)
-    cor={'U':'azul','H':'cinza','W':'branco','B':'preto','L':'verde','O':'laranja','0':'laranja','T':'azul Tiffany','G':'dourado','F':'café','E':'vermelho'}.get(r[1].rstrip('-TA')[-1])
+    cor={'U':'azul','H':'cinza','W':'branco','B':'preto','L':'verde','O':'laranja','0':'laranja','T':'azul Tiffany','G':'dourado','F':'café','E':'vermelho'}.get(re.sub(r'-(T|A)$','',r[1])[-1])
     if cor: nm+=' – '+cor
   rows.append([nm,r[1],r[2],r[3]])
 # fix names: Title-case english words left
