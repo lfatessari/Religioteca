@@ -7,3 +7,5 @@
 - Falta achar as cores das famílias antigas (lojas/usados). Família sem variação achada: linha da família com foto do manual.
 - Logo: https://cadola1946.com/cdn/shop/files/logo-cadola-2022.svg
 - Coleções: limited-edition, final-stretch-sale, new-arrivals, best-sellers.
+- Pendentes sem código (watchaholic): Intrepid Automatic Red and Black; Noumea Automatic Blue. Vintage Cadola (Pointer Date anos 1930 - therevolverclub; 1950s Etsy).
+- Pistas: Watch Gang exclusivos (Spearfisher 250 pç, Galathea LE, Volaron); timeveloria 4 páginas; 10p10.com; ebay; Ashford tem dezenas de códigos antigos (CD-xxxx-yy.json dá foto CD-xxxx-yy_F.jpg).
