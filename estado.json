@@ -3354,7 +3354,7 @@
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  },
  "em_execucao": "2026-10-24T23:41:00Z",
- "ultimo_sinal": "2026-10-24T23:47:11Z",
+ "ultimo_sinal": "2026-10-24T23:56:18Z",
  "em_andamento": {
   "marcas": [
    "Carl Suchy & Söhne",
@@ -3367,7 +3367,8 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "CarlSuchy:1,2(bloqueado),3,5,7,9 parcial"
+   "CarlSuchy: completa (pronta para gravar)",
+   "Carlingue: 1,3,7,9 em andamento"
   ],
   "passada": 1,
   "marcas_detalhe": {
@@ -3375,6 +3376,11 @@
     "relogios": "historico/parcial_carlsuchy_relogios.txt",
     "fontes": "historico/parcial_carlsuchy_fontes.txt",
     "notas": "historico/notas_carlsuchy.md"
+   },
+   "Carlingue": {
+    "relogios": "historico/parcial_carlingue_relogios.txt",
+    "fontes": "historico/parcial_carlingue_fontes.txt",
+    "notas": "historico/notas_carlingue.md"
    }
   }
  }
