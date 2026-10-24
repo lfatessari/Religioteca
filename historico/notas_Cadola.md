@@ -9,3 +9,8 @@
 - Coleções: limited-edition, final-stretch-sale, new-arrivals, best-sellers.
 - Pendentes sem código (watchaholic): Intrepid Automatic Red and Black; Noumea Automatic Blue. Vintage Cadola (Pointer Date anos 1930 - therevolverclub; 1950s Etsy).
 - Pistas: Watch Gang exclusivos (Spearfisher 250 pç, Galathea LE, Volaron); timeveloria 4 páginas; 10p10.com; ebay; Ashford tem dezenas de códigos antigos (CD-xxxx-yy.json dá foto CD-xxxx-yy_F.jpg).
+## Fim da 1ª passada (18:05 UTC)
+- ~40 fontes; últimas 4 (W&W x2, Catawiki, about) sem novidade -> critério de parada atingido.
+- Dono atual: Dartmouth Brands (Hong Kong; também AVI-8, Spinnaker) — Hourstriker. Origem Neuchâtel (Suíça); "1946" no nome. Relógios antigos (anos 1930-50) existem.
+- VERMELHA: famílias antigas (exclusivos Watch Gang 2020-22: Bellator, Endurance, Spearfisher, Laguna, Noumea, Tahiti, Aviateur, Volaron, Intrepid, Hairpin, Guichet, Testa Ditoro, Aegir, New Caledonia, Galathea) com cores não listadas; Bellator CD-1001 e Volaron Automatic CD-1010 sem nenhuma variação achada; vintage sem nomes.
+- 2ª passada: ir atrás dessas cores (Amazon, Poshmark, Mercari, Reddit/WatchUSeek, WorthPoint, eBay.com, Mainspring Tahiti LE, 10p10, Watch Gang antigos, §2c no site oficial com termos novos).
