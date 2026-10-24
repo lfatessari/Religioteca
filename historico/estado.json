@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 258,
- "ultima_versao": 228,
+ "proxima_linha_marcas": 260,
+ "ultima_versao": 229,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3303,6 +3303,27 @@
    "fontes_abertas": 126,
    "passadas": "1: 92 fontes/445 novos; 2: 19/20; 3: 15/23",
    "obs": "candino.com via Firecrawl (filtros, 12 por página), Helveti (categorias + ~45 fichas escondidas), havetime.ch (12 páginas), billiger.de, zbozi.cz (419 produtos, só 1ª página abriu), Europa Star (arquivo 1970-96), vintage eBay/1stdibs/fóruns; créditos do Firecrawl acabaram no meio; ~48 linhas com link da página no lugar da foto"
+  },
+  {
+   "data": "2026-10-24",
+   "marca": "Canopy",
+   "linha_marcas": 258,
+   "linhas_relogios": "35120-35125",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 25
+  },
+  {
+   "data": "2026-10-24",
+   "marca": "Carl Edmond",
+   "linha_marcas": 259,
+   "linhas_relogios": "35126-35208",
+   "relogios": 83,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 77,
+   "grande": true
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
