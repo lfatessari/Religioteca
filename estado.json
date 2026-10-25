@@ -3485,7 +3485,7 @@
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  },
  "em_execucao": "2026-10-25T07:41:30Z",
- "ultimo_sinal": "2026-10-25T07:42:00Z",
+ "ultimo_sinal": "2026-10-25T07:45:35Z",
  "em_andamento": {
   "marcas": [
    "Cavenago"
@@ -3496,7 +3496,9 @@
   "fontes": "historico/parcial_Cavenago_fontes.txt",
   "notas": "historico/notas_Cavenago.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2",
+   "3"
   ],
   "passada": 1,
   "obs": "CCCP (273) dimensionada como grande (refs CP-7001..CP-7060+ com várias variantes cada) -> só Cavenago nesta execução"
