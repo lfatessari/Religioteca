@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 272,
- "ultima_versao": 238,
+ "proxima_linha_marcas": 273,
+ "ultima_versao": 239,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3469,6 +3469,19 @@
    "site_bloqueado": "Parcial – cauny.com (produtos despublicados dão client_error)",
    "fontes": 205,
    "obs": "3 passadas (165/24/16 fontes; ~196/69/10 relógios); linha moderna com códigos (CAB, CAC, CAN, CAP, CEV, CFT, CFM, CLG, CLM, CLS, CMJ, CMN, CPM, CPO, CRL, CRM, CSM, CSZ, CTA) + ~80 vintage sem referência (eBay, Relojes Especiales); Firecrawl sem créditos"
+  },
+  {
+   "data": "2026-10-25",
+   "versao": 239,
+   "marca": "Cavenago",
+   "linha_marcas": 272,
+   "linhas_relogios": "39472-39488",
+   "relogios": 17,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "Parcial – cavenagowatches.it (páginas Wix de vários modelos não indexadas)",
+   "fontes": 45,
+   "obs": "1 passada (45 fontes, 17 relógios). CCCP (273) dimensionada como grande (refs CP-7001…CP-7060+, várias cores cada) -> próxima execução sozinha. Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

@@ -12,3 +12,11 @@ Firecrawl: sem créditos.
 Don Giovanni CAV-1022 (46mm PVD 1000m). Gladiator Maris CAV-1003. Tricolore CAV-1007. Subcrew Gladiator CAV-1017 (2013, 100 pcs, esgotado).
 Dealers: Oroservice Milano, Coveri Chiasso, Doroti, Watch You Want Roma, Militarewatch, Sutor House, Hepp, Precious Timepieces HK, GR Luxury SG, Cortez Bangkok, Brenmi.
 Oceanictime: redireciona em loop (http) exceto Gladiator Maris.
+## Auto-auditoria (10b)
+1. Sem blog/imprensa no site oficial; página "Link" só tem links externos (Modigliani, Mozart, Verdi etc.) — buscado, nada.
+2. Buscas site:cavenagowatches.it repetidas: só apareceram subcrewgladiator, gladiatormaris-it, dongiovanni, milano; demais páginas de produto não indexadas.
+3. Lojas: Militare Watch, Sutor House, Right Time, Touch of Modern (não abre); outras lojas da lista de dealers sem página Cavenago em busca.
+4. Primeiro modelo: Albatross GMT (fev/2011, "primeira coleção" com 3 mergulhadores).
+5. J genérico. 6. Edições/colaborações na B. 7. 45 fontes.
+Catálogo fechado: categorias oficiais (Diving 10, Chronograph 2, GMT 2, Special 2 = 16 itens, Tricolore II/Acc. contados) + 91a/Decima (Militare) = 17 linhas. Não vermelha.
+Lacunas de código não preenchidas: 1001, 1002, 1006, 1010, 1012-1016, 1018-1021, 1023, 1027 (provavelmente Albatross, TWN 100, Crono150, Subcrew GMT e variantes).

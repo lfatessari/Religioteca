@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 272,
- "ultima_versao": 238,
+ "proxima_linha_marcas": 273,
+ "ultima_versao": 239,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3469,6 +3469,19 @@
    "site_bloqueado": "Parcial – cauny.com (produtos despublicados dão client_error)",
    "fontes": 205,
    "obs": "3 passadas (165/24/16 fontes; ~196/69/10 relógios); linha moderna com códigos (CAB, CAC, CAN, CAP, CEV, CFT, CFM, CLG, CLM, CLS, CMJ, CMN, CPM, CPO, CRL, CRM, CSM, CSZ, CTA) + ~80 vintage sem referência (eBay, Relojes Especiales); Firecrawl sem créditos"
+  },
+  {
+   "data": "2026-10-25",
+   "versao": 239,
+   "marca": "Cavenago",
+   "linha_marcas": 272,
+   "linhas_relogios": "39472-39488",
+   "relogios": 17,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "Parcial – cavenagowatches.it (páginas Wix de vários modelos não indexadas)",
+   "fontes": 45,
+   "obs": "1 passada (45 fontes, 17 relógios). CCCP (273) dimensionada como grande (refs CP-7001…CP-7060+, várias cores cada) -> próxima execução sozinha. Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3483,26 +3496,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-25T07:41:30Z",
- "ultimo_sinal": "2026-10-25T07:47:18Z",
- "em_andamento": {
-  "marcas": [
-   "Cavenago"
-  ],
-  "linha_marcas": 272,
-  "grande": false,
-  "relogios": "historico/parcial_Cavenago_relogios.txt",
-  "fontes": "historico/parcial_Cavenago_fontes.txt",
-  "notas": "historico/notas_Cavenago.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "9"
-  ],
-  "passada": 1,
-  "obs": "CCCP (273) dimensionada como grande (refs CP-7001..CP-7060+ com várias variantes cada) -> só Cavenago nesta execução"
  }
 }
