@@ -3447,5 +3447,19 @@
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
     "Catorex (linha 269)": "Dimensionada como grande em 25/10/2026 (família desde 1858, vintage + moderno): fazer sozinha. A linha 270 'Cattin & Cie' é a empresa dona da Catorex (Cattin & Cie SA, Montres Catorex) — conferir sobreposição."
+  },
+  "em_execucao": "2026-10-25T04:41:23Z",
+  "ultimo_sinal": "2026-10-25T04:41:23Z",
+  "em_andamento": {
+    "marcas": [
+      "Catorex"
+    ],
+    "linha_marcas": 269,
+    "grande": true,
+    "relogios": "historico/parcial_Catorex_relogios.txt",
+    "fontes": "historico/parcial_Catorex_fontes.txt",
+    "notas": "historico/notas_Catorex.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
