@@ -21,3 +21,12 @@
 - CP-7028 = Sputnik-2 quartzo VD51 43 mm (Ashford). CP-7005-05 = Kashalot Submarine quartzo Miyota OS21 47 mm 100 m.
 - Friedmann CP-7044 NH35 42 mm; Black Sea CP-7043 42 mm 14 mm IP preto 10 ATM; Arkhipov CP-7045 NH35 42 mm. Obs: Arkhipov 7045-04 no site = verde/verde; Ashford diz preto.
 - 2ª passada encerrada (últimas: ashford 7045 0, cccptime 7043 0, ebay p 0, amazon.in 0). Trouxe ≥5 novos -> 3ª passada obrigatória (09:16).
+- Sputnik 1 CP-7001-04: IP dourado, 44 mm, 16 mm, Slava S2437 27 rubis dois tambores, 50 m (thetimebum).
+- 3ª passada encerrada: 10 fontes, 2 relógios novos (watches.com/all), depois 9 sem novidade. Naval Viktor CP-7073 54 mm 18 mm Slava 1000 m; Mriya CP-7074 40 mm 12 mm Slava 10 ATM.
+## 10b Auto-auditoria
+1. Blog/imprensa: site não tem blog; About Us e manuais lidos. Imprensa: aBlogtoWatch, watches.com blog, WatchReport, WristReview, WristwatchReview, TheTimeBum, WatchGang.
+2. Produtos escondidos: buscas site:cccptime.com e por coleção; páginas 2/5 da lista 'watches' e 2–6 do view-all não apareceram em busca (Firecrawl sem créditos) — compensado por coleções (naval, aviation, heritage-all, automatic p1-2, slava p2, quartz, chrono, limited, kashalot, gss, shchuka, space, sputnik, kirov, heroes, new-arrivals).
+3. Lojas: jamtangan (busca site:), ashford, watches.com, mainspring, h2hub, timepiece, conteenium, allwatches.
+4. Primeiro modelo: Sputnik 1 (CP-7001), Yuri Gagarin (CP-7003) — linha antiga em allwatches (só pág. 1–2 de 4).
+5. Nomes da coluna J: Naval Kirov -> existe 'Kirov' CP-7070 (coleção Naval); Shchuka ok; Sputnik-2 ok; Heritage ok.
+6. Edições limitadas marcadas na B.

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 273,
-  "ultima_versao": 239,
+  "proxima_linha_marcas": 274,
+  "ultima_versao": 240,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3482,6 +3482,24 @@
       "site_bloqueado": "Parcial – cavenagowatches.it (páginas Wix de vários modelos não indexadas)",
       "fontes": 45,
       "obs": "1 passada (45 fontes, 17 relógios). CCCP (273) dimensionada como grande (refs CP-7001…CP-7060+, várias cores cada) -> próxima execução sozinha. Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-25",
+      "marcas": [
+        "CCCP"
+      ],
+      "linha_marcas": 273,
+      "linhas_relogios": "39489-39921",
+      "relogios": 433,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 124,
+      "passadas": {
+        "1": 90,
+        "2": 23,
+        "3": 11
+      },
+      "obs": "Firecrawl sem créditos; site oficial cccptime.com; ~187 linhas com link da página no lugar da foto"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3496,31 +3514,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-25T08:42:03Z",
-  "ultimo_sinal": "2026-10-25T09:16:37Z",
-  "em_andamento": {
-    "marcas": [
-      "CCCP"
-    ],
-    "linha_marcas": 273,
-    "grande": true,
-    "relogios": "historico/parcial_CCCP_relogios.txt",
-    "fontes": "historico/parcial_CCCP_fontes.txt",
-    "notas": "historico/notas_CCCP.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
   }
 }
