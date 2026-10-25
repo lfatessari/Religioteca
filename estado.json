@@ -3462,7 +3462,7 @@
   "Cattin & Cie (linha 270)": "Empresa dona da Catorex. Catorex já feita (v236, 259 linhas). Na 270, só acrescentar o que for vendido com o nome 'Cattin' e não estiver em Catorex."
  },
  "em_execucao": "2026-10-25T05:41:25Z",
- "ultimo_sinal": "2026-10-25T05:41:25Z",
+ "ultimo_sinal": "2026-10-25T05:46:13Z",
  "em_andamento": {
   "marcas": [
    "Cattin & Cie"
@@ -3472,7 +3472,12 @@
   "relogios": "historico/parcial_Cattin_relogios.txt",
   "fontes": "historico/parcial_Cattin_fontes.txt",
   "notas": "historico/notas_Cattin.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "6"
+  ],
   "passada": 1
  }
 }

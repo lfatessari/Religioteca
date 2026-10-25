@@ -1,0 +1,16 @@
+# Cattin & Cie (linha 270) — bateria 25/out/2026
+- Aviso estado.json: Cattin & Cie é dona da Catorex (feita v236). Só acrescentar o que for vendido com o nome "Cattin" e não estiver em Catorex.
+- Dimensionamento: pequena. Seguintes: Cauny (271) = grande (loja atual com muitas colaborações + vintage Prima) -> fica para a próxima execução. Logo esta bateria = só Cattin.
+- Wikipedia Catorex: Cattin & Cie 1858 Les Breuleux (Constant Cattin); Catorex 1957 (Guy Cattin). Nenhum relógio com nome Cattin.
+- Rodolphe (Rodolphe Cattin) é outra marca (Les Bois, Watchland) — não é Cattin & Cie.
+- Justia: só marca CATOREX.
+- Patrimoine BFC (IA25001849, IA25001839): existiu OUTRA Cattin & Cie (Cattin et Cie), francesa, em Morteau: Emile Cattin 1929; marcas Cat, Milca, Mondia, Mortima (galo), e nos anos 80 26 marcas (Amstrong, Buxton, Caravelle, Freeman, Olyvia, Republic, Spoutnik, Windmaster); calibres C64, C66, C80/C81 quartzo; falência 1990, fechou 1997.
+- Firecrawl SEM CRÉDITOS (25/out) — não usar.
+- cattin.swiss = Cattin Watch Sàrl (Guy Albert Cattin, 6ª geração, desde 1858): fabricante "private label" para outras marcas, sem relógios próprios no site. Logo: https://cattin.swiss/wp-content/uploads/2022/05/LogoBlancTexte_petit.png. Coluna G vazia -> site cattin.swiss.
+- Time2Tell: na francesa, "Cattin" foi linha de luxo dos anos 80 (Mortima); calibre C-80 quartzo 1981. Marcas: Mortima, Milca, René Valentin, Alain Silberstein (designer).
+- Chrono24 tem página /cattin/index.htm (não abre; Firecrawl sem créditos).
+- relojes-especiales: calibre Cattin C64 (só movimento).
+- Fontes que não abriram: eBay (todas /itm/ client_error), Chrono24 /cattin/ (client_error), WatchUSeek "Mortima/Cattin illustrated history" (client_error). Firecrawl sem créditos.
+- Europa Star 1004089471: Catorex = divisão relojoeira da Cattin & Cie (tudo já em Catorex).
+- Bertolami: relógio de mesa Art Déco "Cattin & Co - Swiss" (anos 20-30) -> 1 linha (não é de pulso; avisar).
+- Seções feitas: 1, 2 (cattin.swiss), 3, 5 parcial, 6 (bloqueado), 8 parcial.
