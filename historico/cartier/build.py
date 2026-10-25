@@ -61,7 +61,9 @@ for r in R.values():
     n=r['name'] or 'Cartier'
     e=r['e']
     im=r['img'].lower().split('?')[0]
-    if not im.endswith(('.jpg','.jpeg','.png','.webp')) and 'Visto só' not in e: e=(e+' ' if e else '')+'Visto só na página da fonte (link da página).'
+    isimg=im.endswith(('.jpg','.jpeg','.png','.webp')) or 'r2.dev' in im or '/cdn/shop/' in im
+    if isimg: e=re.sub(r'\s*Visto só[^.]*\([^)]*\)\.','',e).strip()
+    if not isimg and 'Visto só' not in e: e=(e+' ' if e else '')+'Visto só na página da fonte (link da página).'
     out.append([n,r['code'],r['img'],e])
 out+=noc
 # ordenar por nome
