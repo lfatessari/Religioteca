@@ -12,3 +12,4 @@
 - Gressive.jp (lojas de departamento japonesas) = melhor fonte de códigos e fotos.
 - Vermelha: sim — linhas antigas (Sapphire Collection 1977, Empire 1988, Vacuum anos 60, Time Gem, Master Imperial) sem códigos; edições do Japão (Hokusai, Starlight, 60 anos com 5 peças, Veladial, Couture fim de ano 2024) sem código; ~120 refs/20 linhas por ano segundo a marca.
 ## Passada 2 (alvo): edições japonesas, Master Imperial, linhas antigas/vintage (Vacuum Chronometer, 1977), primeira página "Century watches", Mastersphere refs, outras lojas.
+## Passada 2 encerrada 14:19 — ~36 fontes, ~27 novos (Dragon Stone aço 2026, edições japonesas de fim de ano, Essentia, Latin Dreamer, Empire, Mastersphere 88 pç, Crescendo). Últimas 3 sem novidade. Como trouxe >=5, fazer passada 3.
