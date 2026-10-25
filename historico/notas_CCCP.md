@@ -12,3 +12,6 @@
 - Shchuka CP-7049: quartzo japonês ISA 9231/1890, 45 mm ouro rosé, mostrador marrom (onparticipe). Kashalot: 47 mm, Slava (massdrop, 5 versões).
 - SITE OFICIAL achado por busca extended: cccptime.com (Shopify). collections/all = 7 páginas de 48. Coluna G (cccp-watches.com) parece errada.
 - Linhas em 'Limited Edition' do site: Kamzolkin 7077, Gurevich 7071, Spetsnaz 7068, Soyuz 7067, Neujmin 7065, Soyuz-Apollo 7060, MiG-21 7059 (sem nº de peças na lista).
+- Site: Kamchatka CP-7048 Slava aut 43 mm 14 mm 10 ATM; MiG-21 CP-7101 Slava aut 47,5 mm 5 ATM. Fotos do site têm nomes variados (-Q, -MS02): não dá para montar padrão.
+- 1ª passada encerrada após kashalot/gss/shchuka/space/heroes/sputnik/kirov/about/timepiece (sequência final sem novidades: heroes 0, sputnik 0, kirov 0, about 0, timepiece 0, kamchatka 0, mig 0).
+- Decisão: VERMELHA — catálogo de ~300 variações, páginas 2/5 da lista 'watches' e 2–6 de view-all não alcançadas (Firecrawl sem créditos), muitas referências antigas (CP-7003…7024, 7058, 7061–7062, 7064, 7066, 7069, 7073–7076, 7078–7079, 7083–7088, 7091–7093, 7096, 7102–7104) fora do site.
