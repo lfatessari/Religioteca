@@ -6,3 +6,6 @@
 - Licença: ILG / Fortune Concept Limited (Hong Kong), movimentos japoneses (Asia Tatler 2018). Era 2008-14: Timex Group (Swiss, CT6xxxx).
 - watchard.com/cerruti-1881-watches: 194 itens, só p.1 (~96) aberta; ?p=2 não veio em busca (sem Firecrawl).
 - Zalando pág. 2 (de/es/fr) não alcançadas.
+- 1ª passada encerrada ~15:07 UTC: últimas fontes quase sem novidade (cherchons x2, ebay itm, zalando de analog = 0). Buscas saturadas (Chrono24/EveryWatch/WatchBase não aparecem em busca).
+- Zalando femme: Lusia, Casena, Calliano, Baccio, Vallucciole, Norcia Mini, Brescia, Perugia, Rendinara (nomes já cobertos por códigos da Watchard, não duplicados).
+- Marca VERMELHA: centenas de refs CIWG/CIWL não alcançadas (watchard p.2 ~98 itens, Zalando p.2-3, Turquia 344 itens idefix, lojas Índia/Oriente Médio).
