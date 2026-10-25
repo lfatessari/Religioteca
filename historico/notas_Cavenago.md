@@ -9,3 +9,6 @@ Refs: Diavolo di Mare CAV-1004; Milano CAV-1005 (1000m? 100ATM, 45mm, malha); De
 Também: Albatross (TW 100 SE / GMT), TWN 100, Crono150, Subcrew GMT (CAVE0025), Don Giovanni, Gladiator Maris, Tricolore (I).
 Lacunas de código: 1001-1003, 1006, 1007, 1010, 1012-1016, 1018-1023, 1027.
 Firecrawl: sem créditos.
+Don Giovanni CAV-1022 (46mm PVD 1000m). Gladiator Maris CAV-1003. Tricolore CAV-1007. Subcrew Gladiator CAV-1017 (2013, 100 pcs, esgotado).
+Dealers: Oroservice Milano, Coveri Chiasso, Doroti, Watch You Want Roma, Militarewatch, Sutor House, Hepp, Precious Timepieces HK, GR Luxury SG, Cortez Bangkok, Brenmi.
+Oceanictime: redireciona em loop (http) exceto Gladiator Maris.
