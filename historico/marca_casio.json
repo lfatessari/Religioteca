@@ -1,0 +1,752 @@
+{
+ "marca": "Casio",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – casio.com: as páginas de lista/catálogo não carregam na leitura automática (só as páginas de produto, com fotos das variações); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I termina com '[⚠️ verificar]': conferido – Casiotron 1974, G-Shock DW-5000C de 1983 (Kikuo Ibe) conferem; a empresa começou em 1946 como Kashio Seisakujo e virou Casio Computer Co. em 1957. J ok (DW-5600, GA-2100, F-91W, Oceanus, Pro Trek e Edifice encontrados). H (@casio) não conferido.",
+ "fontes": [
+  {
+   "url": "https://www.casio.com/my/watches/gshock/product.DW-6900WD-1/",
+   "passada": 1,
+   "novos": 47
+  },
+  {
+   "url": "https://casiofanmag.com/g-shock/dw-5600/",
+   "passada": 1,
+   "novos": 71
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GA-2100-2A/",
+   "passada": 1,
+   "novos": 68
+  },
+  {
+   "url": "https://www.g-central.com/specs/g-shock-ga-2100/",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/en-int/collections/g-shock?page=3",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.watchspree.com.sg/products/casio-digital-a168xes-1b?page=53",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/casio-watches/brand-casio.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.g-central.com/specs/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alza.at/EN/casio/v1508-p7.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gshock.casio.com/intl/products/catalog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/in/watches/gshock/products/digital/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gshock.casio.com/intl/products/collection/iconicstyles/2100/lineup/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.co.uk/watches-clocks/all-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://support.casio.com/en/manual/manual.php?cid=002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/sg/watches/gshock/product.DW-5600RB-3/",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.casio.com/fr/watches/gshock/product.GA-110-1A/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.casio.com/sg/watches/gshock/product.GA-700-1A/",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GA-B2100-3A",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.casio.com/sg/watches/gshock/product.GW-B5600CY-1/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.casio.com/at/watches/casio/product.GMW-B5000SS-2/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.casio.com/sg/watches/gshock/product.GA-100BL-1A/",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://watchbase.com/casio/g-shock-ga-110/ga-110ac-7a",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GM-2100MG-1A/",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.casio.com/sg/watches/gshock/product.GA-900SKE-8A/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.casio.com/my/watches/gshock/product.GA-2300-1A/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GW-9400Y-1/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.casio.com/fr/watches/gshock/product.MTG-B2000B-1A2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.g-central.com/specs/g-shock-gg-b100/",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.g-central.com/?p=60367",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://www.casio.com/jp/watches/gshock/product.GWF-A1000C-1A/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.casio.com/sg/watches/gshock/product.GM-5600-1/",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GM-S5600-1/",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GMA-S2100-1A/",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GST-B400CX-1A/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GA-B001-1A/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.casio.com/europe/watches/gshock/product.GW-M5610U-1B/",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://www.casio.com/europe/watches/casio/product.GA-140-1A1/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.g-central.com/?p=60916",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.g-central.com/?p=60911",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.g-central.com/?p=61021",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://g-central.com/?p=61801",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.g-central.com/?p=62608",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.g-central.com/?p=62359",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://g-central.com/?p=61658",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.g-central.com/?p=61521",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/casio/product.A158WA-1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.casio.com/fr/watches/casio/product.F-91W-1/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://watchard.com/casio-watches/edifice-watches",
+   "passada": 1,
+   "novos": 77
+  },
+  {
+   "url": "https://www.casio.com/africa-fr/watches/casio/product.MTP-V002L-7B3/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.casio.com/de/watches/babyg/product.BA-110AH-9A/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shopcasio.shriro.com.au/collections/casio-a158w.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.casio.com/intl/watches/casio/standard/standard/products/f-91w/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.shopcasio.shriro.com.au/collections/casio-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/intl/watches/protrek/products/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/sg/watches/gshock/product.GMA-S120GB-1A/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.casio.com/my/watches/gshock/product.GMA-S110TB-8A/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GBX-100-8",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.casio.com/jp/watches/gshock/products/g-squad/gbd-100/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/gshock/product.GST-B500D-1A/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.g-central.com/?p=79744",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.casio.com/jp/watches/options/option.GPR-H1000/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-central.com/?p=60397",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.g-central.com/?p=61806",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.g-central.com/?p=61976",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://g-central.com/?p=62287",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.g-central.com/specs/g-shock-mtg-b3000/",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.g-central.com/specs/g-shock-ga-b2100/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.g-central.com/?p=3292",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.g-central.com/?p=62422",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.g-central.com/?p=67859",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.g-central.com/?p=60385",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.g-central.com/specs/g-shock-dw-5000/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.g-central.com/specs/g-shock-g-9100/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.g-central.com/?p=60624",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Master_of_G",
+   "passada": 1,
+   "novos": 46
+  },
+  {
+   "url": "https://www.loupe.watch/prices/casio",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/casio/oceanus/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/babyg/product.BA-110PS-7A/",
+   "passada": 1,
+   "novos": 46
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/babyg/product.BGA-280DN-2A/",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/babyg/product.BGD-565-1/",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/babyg/product.BGA-320-4A1/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.casio.com/jp/watches/babyg/product.BGA-290US-4A/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/babyg/product.BGD-570-7B/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/babyg/product.BGA-270S-7A/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/edifice/product.EFR-S108D-2AV/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.righttime.com/rt/casio/prw-6900yl-5_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/edifice/product.EQS-950D-1AV/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.notebookcheck.net/8-great-Casio-Edifice-watches-under-200-that-can-challenge-Seiko-and-Citizen-s-models.1065808.0.html",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.casio.com/uk/watches/casio/product.MTP-B145D-2A2V/",
+   "passada": 1,
+   "novos": 39
+  },
+  {
+   "url": "https://www.casio.com/africa-fr/watches/casio/product.MTP-V005D-1B4/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.casio.com/ph/watches/casio/product.LTP-1234DS-2A/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.casio.com/europe/watches/casio/product.A100WEFG-9A/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.casio.com/europe/watches/casio/vintage/product.A100WEL-1A/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://mcprod.casio.co.uk/watches-clocks/casio-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/europe/watches/casio/sports/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shockbase.org/history.php",
+   "passada": 1,
+   "novos": 79
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/G-Shock",
+   "passada": 1,
+   "novos": 77
+  },
+  {
+   "url": "https://www.g-central.com/all-new-g-shock-models-released-in-2020/",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.g-central.com/blog/all-new/page/3/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.g-central.com/blog/all-new/page/5/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://g-central.com/blog/all-new/page/4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/5333/",
+   "passada": 1,
+   "novos": 64
+  },
+  {
+   "url": "https://theslenderwrist.com/brands/casio/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.endclothing.com/ca/brands/casio",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/5332/",
+   "passada": 1,
+   "novos": 57
+  },
+  {
+   "url": "https://zozo.jp/brand/protrek/?p_isize=2",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/558/",
+   "passada": 1,
+   "novos": 53
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/18028/",
+   "passada": 1,
+   "novos": 52
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008190/",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008179/p10/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008179/p2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/uk/watches/casio/vintage/brand/Story",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://g-central.com/?p=74094",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.casio.com/hk/watches/protrek/product.PRW-6900ZE-1/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008016/",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008191/p3/",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008237/",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008179/p16/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.notebookcheck.net/14-iconic-Casio-collab-watches-that-became-instant-collectibles-upon-launch.1074002.0.html",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/5334/",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Casio_Wave_Ceptor",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/casio/g-shock-ga-110",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://gshock.casio.com/intl/products/catalog/17aw-origin/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Casio_Databank",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Casio",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.webchronos.net/features/133242/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.shopcasio.shriro.com.au/collections/casio-vintage-digital-analogue-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhinds.co.uk/brand-index/casio-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casio.com/intl/watches/protrek/concept/history/",
+   "passada": 2,
+   "novos": 25
+  },
+  {
+   "url": "https://www.casio.com/intl/watches/edifice/concept/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.casio.com/us/watches/oceanus/concept/",
+   "passada": 2,
+   "novos": 11
+  },
+  {
+   "url": "https://www.casio.com/us/watches/babyg/about",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://en.everybodywiki.com/Casio_Oceanus",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://gshock.casio.com/intl/identity/",
+   "passada": 2,
+   "novos": 44
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a82850/casio-g-shock-history/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://babyg.casio.com/asia-mea/en/whats-baby-g/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.g-central.com/?p=61117",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://g-central.com/g-shock-big-bang-black-35th-anniversary-collection/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.eye-eye-isuzu.co.jp/en/blogs/column/about-mrg",
+   "passada": 3,
+   "novos": 9
+  },
+  {
+   "url": "https://www.nextpit.de/hersteller/casio",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gressive.jp/brand/casio/hotitem?page=4",
+   "passada": 3,
+   "novos": 20
+  },
+  {
+   "url": "https://www.g-central.com/?p=76829",
+   "passada": 3,
+   "novos": 14
+  },
+  {
+   "url": "https://www.g-central.com/?p=63071",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.g-central.com/?p=79026",
+   "passada": 3,
+   "novos": 8
+  },
+  {
+   "url": "https://www.broadwaylifestyle.com/hk_en/brand/casio",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-central.com/?p=79603",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://g-central.com/?p=72055",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.g-central.com/?p=66965",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

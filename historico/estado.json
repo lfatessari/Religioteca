@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 266,
-  "ultima_versao": 233,
+  "proxima_linha_marcas": 267,
+  "ultima_versao": 234,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3397,6 +3397,18 @@
       "site_bloqueado": "Parcial – cartier.com sem nomes/refs/fotos na leitura automática",
       "fontes": 87,
       "obs": "3 passadas (64/12/11 fontes); base loupe.watch, Watches of Switzerland, Coveted, WatchCharts, Collector Square, imprensa; faltam linhas vintage e alta joalheria; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 234,
+      "marca": "Casio",
+      "linha_marcas": 266,
+      "linhas_relogios": "36666-38768",
+      "relogios": 2103,
+      "vermelho": true,
+      "site_bloqueado": "Parcial – casio.com listas não carregam (só páginas de produto)",
+      "fontes": 148,
+      "obs": "3 passadas (128/10/10 fontes); base casio.com (páginas de produto com variações), G-Central (especificações), ShockBase, linhas do tempo oficiais, Yahoo Leilões JP, Yodobashi; ~980 linhas sem foto (link da página); faltam milhares de refs da linha padrão e históricas; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
