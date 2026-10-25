@@ -14,3 +14,11 @@ Falta: maison-celadon collection, página 2 celadon-hh, 'Supreme', fotos por pro
 + Maison Celadon: Imperial Peacock Burgundy/Salmon/Celadon/Purple/Blanc de Chine; Imperial Plum Red/Celadon/Blanc de Chine/Midnight Blue. + Dragon and Phoenix, Century Regulator, Yue Fei Azure/Obsidian (produtos ocultos). Calibres CH1/CH5/4414 = movimentos, não relógios (fora). collections/all pág. 2-3 não alcançadas (Firecrawl sem créditos).
 PASSADA 1 encerrada (luxuo, watchuseek, watchcrunch = 3 seguidas sem novidade). Marca VERMELHA: Century e Celestial sob encomenda (mostradores bespoke), Cloisonné Imperial com mostrador à escolha, collections/all pág. 2-3 não lidas, Imperial 3ª série sem descrição. Iniciando 2ª passada.
 2ª passada: + Cloisonné Enamel Imperial Four Nobles (2025, 4 relógios: Ermine Peacock with Plum Blossoms / Orioles Amidst the Orchids / Bamboo with Birds of Paradise / Chrysanthemum and Cranes; 25 primeiros numerados; 5 box sets). FAQ confirma desenhos exclusivos para clientes.
+## 10b Auto-auditoria
+1. Blog: site sem blog; página Press & Reviews lida (só Imperial, Imperial Peacock, Yue Fei — todos na lista).
+2. §2c: site:celadonhh.com/products com termos imperial, yue fei, century, lacquer/regulator/silk, red/midnight/jade, SOLD OUT, champleve, nine dragons etc. até parar de vir handle novo. collections/all págs. 2–3 não alcançadas (não apareceram em busca; Firecrawl sem créditos) — compensado com coleções celadon-hh, celadon-cl, maison-celadon (somam o total).
+3. Lojas: Wristcheck, Revolution shop (único revendedor achado; marca vende direto). Chrono24/eBay/WatchPatrol: nada.
+4. Primeiro modelo: Imperial Plum (ago/2012) — incluído (Red, Blanc de Chine).
+5. J: Century ok; "Imperial Dragon" e "Grand Wing" não encontrados -> M.
+6. Limitadas com nº na B; colaboração Revolution na B. Nenhuma peça única declarada (bespoke vai como "sob encomenda").
+7. Fontes: 111 (94 na 1ª, 17 na 2ª). Vermelha: encomendas exclusivas (FAQ), Celestial bespoke, págs. 2–3 não lidas. 2ª passada trouxe 4 (<5) -> sem 3ª.

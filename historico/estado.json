@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 277,
-  "ultima_versao": 241,
+  "proxima_linha_marcas": 278,
+  "ultima_versao": 242,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3543,6 +3543,23 @@
         "2": 10
       },
       "obs": "refs antigas via Antiquorum/CollectorSquare; Louis Erard x Johner Le Régulateur não incluído (é Louis Erard)"
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 242,
+      "marca": "Celadon",
+      "linha_marcas": 277,
+      "linhas_relogios": "40040-40096",
+      "relogios": 57,
+      "vermelho": true,
+      "grande": false,
+      "site_bloqueado": "",
+      "fontes": 111,
+      "passadas": {
+        "1": 94,
+        "2": 17
+      },
+      "obs": "site real celadonhh.com (G errado); encomendas exclusivas; collections/all págs. 2-3 não lidas; Firecrawl sem créditos. Próxima: Celeste (278) = Celeste Watch Company (Oregon, mostradores pintados à mão) tratada como grande, sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
