@@ -18,3 +18,4 @@
 7. ~79 fontes na 1ª passada.
 ## Vermelho: sim (vintage sem nome/ref, centenas de relógios de bolso/pingentes, site bloqueado). 2ª passada: bolso/pingentes JP, vintage, Amazon códigos curtos, produtos ocultos do site.
 - 2ª passada: as fichas 1967/1982/1986/1990s da Europa Star (abertas na 1ª: 104945,104228,102305,101778 deram 0 na hora; lançadas agora como linhas). 1004104228 = mesmo despertador BF 307 de 1004104243 (não duplicar).
+## 2ª passada encerrada (3 seguidas sem novidade). Trouxe >=5 → 3ª passada.
