@@ -14,3 +14,11 @@
 - Europa Star 1004089471: Catorex = divisão relojoeira da Cattin & Cie (tudo já em Catorex).
 - Bertolami: relógio de mesa Art Déco "Cattin & Co - Swiss" (anos 20-30) -> 1 linha (não é de pulso; avisar).
 - Seções feitas: 1, 2 (cattin.swiss), 3, 5 parcial, 6 (bloqueado), 8 parcial.
+## Auto-auditoria 10b
+1. Site oficial cattin.swiss lido inteiro (home, about, services): sem relógios próprios, sem blog/imprensa.
+2/3. Sem loja própria; lojas (eBay, Chrono24, vintagewatchroom, WatchUSeek) bloqueadas; buscas site:ebay/chrono24 só trouxeram Mortima/Catorex/Caterpillar.
+4. Primeiro "modelo": a empresa é fabricante; tudo com nome comercial é Catorex (já feita).
+5. I/J vazios ou com ⚠️: a dúvida da coluna I fica resolvida: Cattin & Cie é a dona da Catorex (hoje Cattin Watch Sàrl, private label). Não há marca comercial "Cattin" ativa.
+6. Sem edições limitadas.
+7. 25 fontes, 4 tipos (oficial, usados/leilão, bancos de dados, imprensa/patrimônio). Últimas 10+ fontes seguidas sem novidade -> parar.
+Decisão: 1 linha só (relógio de mesa "Cattin & Co - Swiss", Bertolami), avisando que não é de pulso e que a ligação não é confirmada. Mortima (francesa) não entra (não é vendida com o nome Cattin; sem linha própria na aba Marcas -> relatar).
