@@ -17,3 +17,5 @@
 - Decisão: VERMELHA — catálogo de ~300 variações, páginas 2/5 da lista 'watches' e 2–6 de view-all não alcançadas (Firecrawl sem créditos), muitas referências antigas (CP-7003…7024, 7058, 7061–7062, 7064, 7066, 7069, 7073–7076, 7078–7079, 7083–7088, 7091–7093, 7096, 7102–7104) fora do site.
 - Manuais: CP-7100 (Leonov) usa cronógrafo de quartzo japonês VD57. Chrono24: anúncio não abre (client_error). 2ª passada começa agora (09:12).
 - Chistopol CP-7024-01: automático, 38 mm, 50 m, caixa prata, couro preto (h2hub).
+- Chakhava CP-7058: retangular 42 mm, 15 mm, Slava automático 40 h, 30 m. Heritage CP-7019-03: 43 mm, 14 mm, Slava, 50 m, cinza.
+- CP-7028 = Sputnik-2 quartzo VD51 43 mm (Ashford). CP-7005-05 = Kashalot Submarine quartzo Miyota OS21 47 mm 100 m.
