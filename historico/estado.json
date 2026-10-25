@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 278,
-  "ultima_versao": 242,
+  "proxima_linha_marcas": 279,
+  "ultima_versao": 243,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3560,6 +3560,23 @@
         "2": 17
       },
       "obs": "site real celadonhh.com (G errado); encomendas exclusivas; collections/all págs. 2-3 não lidas; Firecrawl sem créditos. Próxima: Celeste (278) = Celeste Watch Company (Oregon, mostradores pintados à mão) tratada como grande, sozinha."
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 243,
+      "marca": "Celeste",
+      "linha_marcas": 278,
+      "linhas_relogios": "40097-40281",
+      "relogios": 185,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "",
+      "fontes": 223,
+      "passadas": {
+        "1": 199,
+        "2": 24
+      },
+      "obs": "Celeste Watch Company (celestewatch.com, Springfield OR); G vazio; ~72 linhas sem foto (link da página do produto) porque só abrem páginas vindas de busca; Retired Designs, coleções págs. 2+ e 4 raças de cães não alcançadas; Firecrawl sem créditos. Próxima: Century (279)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
