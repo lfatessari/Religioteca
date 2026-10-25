@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 271,
- "ultima_versao": 237,
+ "proxima_linha_marcas": 272,
+ "ultima_versao": 238,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3456,6 +3456,19 @@
    "site_bloqueado": false,
    "fontes": 25,
    "obs": "Sem relógios de pulso com nome Cattin (tudo em Catorex); 1 linha = relógio de mesa Cattin & Co. Firecrawl sem créditos. Cauny (271) dimensionada como grande -> próxima execução sozinha."
+  },
+  {
+   "data": "2026-10-25",
+   "versao": 238,
+   "marca": "Cauny",
+   "linha_marcas": 271,
+   "linhas_relogios": "39197-39471",
+   "relogios": 275,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – cauny.com (produtos despublicados dão client_error)",
+   "fontes": 205,
+   "obs": "3 passadas (165/24/16 fontes; ~196/69/10 relógios); linha moderna com códigos (CAB, CAC, CAN, CAP, CEV, CFT, CFM, CLG, CLM, CLS, CMJ, CMN, CPM, CPO, CRL, CRM, CSM, CSZ, CTA) + ~80 vintage sem referência (eBay, Relojes Especiales); Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
