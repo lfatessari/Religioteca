@@ -11,3 +11,6 @@
 - Ocultos achados por busca: Steady (esgotado), Mom (Mom and Sis). 1º modelo: Nostalgia (2013); Radiance citado no About (não achado ainda).
 - Site antigo OpenCart (index.php?product_id=N) indexado: Nostalgia id91, Sea Otter id52, Stargazer id112, Wind Chaser id70, Springer id157, Husky id190, Boxer id94 — redirecionam p/ home.
 - imgs.tsv = handle → foto og:image + E.
+- Red Dragon = edição limitada de 5; Two Hearts = edição limitada de 12. Albuquerque Sky = 3 peças únicas (Balloon Fiesta Blue; Tan over Sandia Mountains; Tan in the Albuquerque Sky) → 3 linhas.
+- Pearl Dragon: artigo "The Making of 'She' – A Pearl Dragon".
+- Blog: pág.1 e 2 lidas; artigos a buscar: one-of-38, michael-s-train, do-you-have-a-beaver-watch, friendship-watches, cigar-adventures, best-in-show, the-long-view; pág 3.
