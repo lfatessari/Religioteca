@@ -14,3 +14,6 @@
 - Red Dragon = edição limitada de 5; Two Hearts = edição limitada de 12. Albuquerque Sky = 3 peças únicas (Balloon Fiesta Blue; Tan over Sandia Mountains; Tan in the Albuquerque Sky) → 3 linhas.
 - Pearl Dragon: artigo "The Making of 'She' – A Pearl Dragon".
 - Blog: pág.1 e 2 lidas; artigos a buscar: one-of-38, michael-s-train, do-you-have-a-beaver-watch, friendship-watches, cigar-adventures, best-in-show, the-long-view; pág 3.
+- About diz Nostalgia = 1º relógio; NBC16 (2017) diz Wave = 1º desenho. Ambos entram. Página 'Retired Designs' existe (link no menu) — buscar.
+- 1ª passada encerrada (~200 fontes; últimas 4 sem novidade). Página Retired Designs = PROVENANCE (não aberta) → motivo forte p/ vermelho, junto com encomendas, cloisonné únicos e coleções paginadas (35mm 88, 38mm 65, all 7 págs) só pág.1 legível.
+- 2ª passada: buscas do catálogo antigo OpenCart (index.php), raças de cães restantes, fotos restantes, páginas ocultas.
