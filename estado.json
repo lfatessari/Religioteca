@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 280,
- "ultima_versao": 245,
+ "proxima_linha_marcas": 281,
+ "ultima_versao": 246,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3607,6 +3607,24 @@
     "3": 19
    },
    "obs": "Century Time Gems (century.ch; G diz century.com, errado). 222 refs da loja atual + descontinuados/edições do Japão (Gressive). ~46 linhas com código reconstruído de títulos de busca do The Watch Pages (link da página). Firecrawl sem créditos. Próxima: Cerruti (280)."
+  },
+  {
+   "data": "2026-10-25",
+   "versao": 246,
+   "marca": "Cerruti",
+   "linha_marcas": 280,
+   "linhas_relogios": "40886-41407",
+   "relogios": 522,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – cerruti1881watches.com não aparece em buscas",
+   "fontes": 190,
+   "passadas": {
+    "1": 108,
+    "2": 61,
+    "3": 21
+   },
+   "obs": "Cerruti 1881 (licença fashion). Quatro gerações: suíça antiga (nºs curtos), CT6xxxx (Timex, Swiss Made), CRA/CRB/CRD/CRM (Índia/França), CIWG/CIWL (2020+; ~200 refs vistas). Watchard p.2 e Zalando p.2-3 não alcançadas; 234 linhas com link de página na coluna C. 88 linhas sem código (nomes da Zalando, matérias). Firecrawl sem créditos. Próxima: Certina (281)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3621,33 +3639,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-25T14:41:32Z",
- "ultimo_sinal": "2026-10-25T15:13:26Z",
- "em_andamento": {
-  "marcas": [
-   "Cerruti"
-  ],
-  "linha_marcas": 280,
-  "grande": true,
-  "relogios": "historico/parcial_Cerruti_relogios.txt",
-  "fontes": "historico/parcial_Cerruti_fontes.txt",
-  "notas": "historico/notas_Cerruti.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a",
-   "3a"
-  ],
-  "passada": 3
  }
 }
