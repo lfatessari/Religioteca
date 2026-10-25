@@ -9,3 +9,5 @@
 - Tsiolkovsky (CP-7080): edição limitada de 300 peças, Slava dois tambores 22 rubis, 40h (catawiki 107239231). Naval Kiev CP-7069: 300 peças.
 - Ashford: foto padrão https://www.ashford.com/cdn/shop/files/CP-XXXX-XX_F.jpg (confirmado em 7 fichas). Famílias: 7010 Shchuka quartzo suíço ISA 43,5 mm; 7020 Heritage Slava 2427 43 mm; 7025 Sputnik-2 38 mm NH35; 7055 Fadeyev 40 mm Slava H3265; 7090 Heroes Togliatti 43 mm Slava 2427N; 7041 Aurora 46 mm NH35; 7036 Heritage Gospoda 43 mm Slava 2427.
 - Mais famílias (Ashford): 7035 Aviator Yak-15 automático Slava 2427N 44 mm; 7051 Gorky 42 mm Slava H335; 7054 Spasskaya retangular 39 mm Slava H3265; 7050 Gromov 40 mm Slava H335; 7057 Gorshkov 43 mm Slava 2427N (foto com hash no nome — padrão _F.jpg nem sempre vale: usar link da ficha para códigos não abertos).
+- Shchuka CP-7049: quartzo japonês ISA 9231/1890, 45 mm ouro rosé, mostrador marrom (onparticipe). Kashalot: 47 mm, Slava (massdrop, 5 versões).
+- SITE OFICIAL achado por busca extended: cccptime.com (Shopify). collections/all = 7 páginas de 48. Coluna G (cccp-watches.com) parece errada.
