@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 267,
-  "ultima_versao": 234,
+  "proxima_linha_marcas": 269,
+  "ultima_versao": 235,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3409,6 +3409,29 @@
       "site_bloqueado": "Parcial – casio.com listas não carregam (só páginas de produto)",
       "fontes": 148,
       "obs": "3 passadas (128/10/10 fontes); base casio.com (páginas de produto com variações), G-Central (especificações), ShockBase, linhas do tempo oficiais, Yahoo Leilões JP, Yodobashi; ~980 linhas sem foto (link da página); faltam milhares de refs da linha padrão e históricas; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-25",
+      "marca": "Catamaran",
+      "linha_marcas": 267,
+      "linhas_relogios": "38769-38791",
+      "relogios": 23,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 39,
+      "versao": 235
+    },
+    {
+      "data": "2026-10-25",
+      "marca": "Catena",
+      "linha_marcas": 268,
+      "linhas_relogios": "38792-38936",
+      "relogios": 145,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 81,
+      "grande": true,
+      "versao": 235
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3422,37 +3445,7 @@
     }
   },
   "avisos": {
-    "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-25T03:41:13Z",
-  "ultimo_sinal": "2026-10-25T04:04:01Z",
-  "em_andamento": {
-    "marcas": [
-      "Catamaran",
-      "Catena"
-    ],
-    "linha_marcas": 268,
-    "grande": true,
-    "relogios": "historico/catena_raw.txt (+ historico/catena_img.txt com fotos)",
-    "fontes": "historico/parcial_Catena_fontes.txt",
-    "notas": "historico/notas_Catena.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "1a passada encerrada",
-      "2a passada (10 fontes)"
-    ],
-    "passada": 2,
-    "marcas_concluidas_nao_gravadas": [
-      "Catamaran (dados prontos em historico/dados_Catamaran.txt e marca_Catamaran.json; script OK)"
-    ]
+    "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+    "Catorex (linha 269)": "Dimensionada como grande em 25/10/2026 (família desde 1858, vintage + moderno): fazer sozinha. A linha 270 'Cattin & Cie' é a empresa dona da Catorex (Cattin & Cie SA, Montres Catorex) — conferir sobreposição."
   }
 }

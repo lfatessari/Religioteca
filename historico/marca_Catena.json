@@ -1,0 +1,417 @@
+{
+ "marca": "Catena",
+ "usa_codigos": true,
+ "logo": "https://www.zeno-watch.ch/cdn/shop/collections/catena-logo_1024x1024.png?v=1717165495",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Catena",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107353281",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://calibercorner.com/?p=23038",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/x/578083-catena-watches",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.catawiki.com/en/x/699861-men-catena-wristwatch",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106704973",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106411838",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107316022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107323698",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106704966",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107438402",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106786844",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106401567",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107345658",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106553419",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106527722",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106942073",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106952189",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107315889",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107438616",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106553413",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/98857414-catena-swiss-watch-open-heart-cah026-ea-no-reserve-price-men-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots/Catena-Chronograph-Swiss-Watch-C801SEA5-No-reserve-price-Men-2010-2020/105526650-catena_chronograph_swi_watch-16.8.26-catawiki",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flickr.com/photos/44612718@N06/albums/72157623395723758/",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.finn.no/446699169",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/447876390",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/443686517",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/445770218",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/440361455",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/443188637",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/442756969",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/445390048",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/434933001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/443550262",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/443407626",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/449656889",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/446902185",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/442644141",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/453340231",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/443038668",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/448523714",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/441582620",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/449656476",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/450886567",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/451171187",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/445770216",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/443407657",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/450282377",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/440654299",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/445770250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/445930116",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/443295849",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/449955896",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/443292512",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/156720858923",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-37-603",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/CATENA-Wristwatches/31387/bn_7116485042",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://quillandpad.com/2020/06/13/meet-the-spaceman-a-popular-fashion-watch-of-the-1960s-and-1970s-that-was-almost-forgotten-in-a-drawer/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-17-124",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/market/vintage_catena_watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fashionbi.com/brands/catena/financials",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sa.opensooq.com/en/search/280342395",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106355500",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/listing/4355431311/catena-swiss-space-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coolhunting.com/tech/the-spaceman-wa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zeno-watch.ch/collections/catena",
+   "passada": 1,
+   "novos": 47
+  },
+  {
+   "url": "https://chronosphera.net/watches/watch-brands/catena-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots/Catena-Swiss-Made-Watch-CAH027-1FU-No-reserve-price-Men-2020/104975801-catena_swi_watch-19.7.26-catawiki",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003999462-ambre-takes-over-the-yema-brand.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mudah.my/catena-swiss-watch-114881015.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107323446",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/449803985",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/451025547",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/450109736",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/439885447",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/255026471067",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106786563",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://basenotes.com/goto/post?id=6255201",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/116555792339",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/257582942381",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107345824",
+   "passada": 2,
+   "novos": 1
+  }
+ ],
+ "observacoes": "G vazio: site catena.ch (citado pela Quill & Pad e Caliber Corner; a Fashionbi cita catena-uhren.com). C vazio. Fundação divergente: 1908 em Bulle (Grail Watch) x 1947/1948 em La Chaux-de-Fonds (Zeno-Watch, Fashionbi); grupo Ambre (Morteau) comprou em 2008. D/I/J genéricos: linhas Open Heart, Skeleton, Diamond, Swiss Space e o Spaceman (1969)."
+}
