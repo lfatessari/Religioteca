@@ -7,3 +7,4 @@
 ## Seções: 1 feito. 2 casio.com por série (em andamento) + 5 g-central specs (em andamento) + Wikipedia Master of G. Ver fontes em parcial_casio_fontes.txt. Ideias pendentes: Baby-G, Edifice, Pro Trek, Oceanus, Casio standard (MTP, LTP, W, AE), vintage (Casiotron, Databank, calculadora), lojas, imprensa, EveryWatch, Chrono24.
 ## 1ª passada encerrada (~128 fontes, ~1925 relógios). Vermelha: certeza de milhares de modelos não listados (linha padrão MTP/LTP/W/AE com centenas de refs; históricos 1974-2010; variantes regionais JF/DR/EF; colaborações). Critério das 3 fontes sem novidade nunca seria atingido.
 ## 2ª passada (foco): históricos (Pro Trek antigos, Edifice antigos, G-Shock 1997-2010), colaborações, Casio standard. Fontes novas só.
+## 2ª passada: 10 fontes, ~108 relógios novos (históricos oficiais Pro Trek/Edifice/Oceanus/G-Shock/Baby-G, aniversários). Como trouxe ≥5, 3ª passada obrigatória.
