@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 265,
-  "ultima_versao": 232,
+  "proxima_linha_marcas": 266,
+  "ultima_versao": 233,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3385,6 +3385,18 @@
       "site_bloqueado": false,
       "fontes": 18,
       "obs": "marca de moda vintage quase sem rastro online; Firecrawl sem créditos; Cartier (265) é a próxima e é grande"
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 233,
+      "marca": "Cartier",
+      "linha_marcas": 265,
+      "linhas_relogios": "35661-36665",
+      "relogios": 1005,
+      "vermelho": true,
+      "site_bloqueado": "Parcial – cartier.com sem nomes/refs/fotos na leitura automática",
+      "fontes": 87,
+      "obs": "3 passadas (64/12/11 fontes); base loupe.watch, Watches of Switzerland, Coveted, WatchCharts, Collector Square, imprensa; faltam linhas vintage e alta joalheria; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3399,31 +3411,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-25T00:49:29Z",
-  "ultimo_sinal": "2026-10-25T01:15:27Z",
-  "em_andamento": {
-    "marcas": [
-      "Cartier"
-    ],
-    "linha_marcas": 265,
-    "grande": true,
-    "relogios": "historico/cartier/",
-    "fontes": "historico/cartier/fontes.txt",
-    "notas": "historico/notas_cartier.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
   }
 }
