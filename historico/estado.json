@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 269,
-  "ultima_versao": 235,
+  "proxima_linha_marcas": 270,
+  "ultima_versao": 236,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3432,6 +3432,19 @@
       "fontes": 81,
       "grande": true,
       "versao": 235
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 236,
+      "marca": "Catorex",
+      "linha_marcas": 269,
+      "linhas_relogios": "38937-39195",
+      "relogios": 259,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "catorex.swiss e shop.catorex.swiss (robots)",
+      "fontes": 110,
+      "obs": "3 passadas (80/18/12 fontes); base Allwatches (113 refs, inclui bolso e pingentes), Misuzu JP (refs 2016-19), títulos de busca do site oficial (37), Pocketwatch-shop.jp, Europa Star; Firecrawl sem créditos; linha 270 Cattin & Cie = empresa dona"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3446,6 +3459,6 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
-    "Catorex (linha 269)": "Dimensionada como grande em 25/10/2026 (família desde 1858, vintage + moderno): fazer sozinha. A linha 270 'Cattin & Cie' é a empresa dona da Catorex (Cattin & Cie SA, Montres Catorex) — conferir sobreposição."
+    "Cattin & Cie (linha 270)": "Empresa dona da Catorex. Catorex já feita (v236, 259 linhas). Na 270, só acrescentar o que for vendido com o nome 'Cattin' e não estiver em Catorex."
   }
 }
