@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 274,
-  "ultima_versao": 240,
+  "proxima_linha_marcas": 277,
+  "ultima_versao": 241,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3500,6 +3500,49 @@
         "3": 11
       },
       "obs": "Firecrawl sem créditos; site oficial cccptime.com; ~187 linhas com link da página no lugar da foto"
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 241,
+      "marca": "Cecil Purnell",
+      "linha_marcas": 274,
+      "linhas_relogios": "39922-39973",
+      "relogios": 52,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": "Parcial – purnellwatches.com",
+      "fontes": 55,
+      "obs": "marca hoje chama-se Purnell; 1 passada; Firecrawl sem créditos; TWP client_error (7 linhas só com link)"
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 241,
+      "marca": "Cedric Bellon",
+      "linha_marcas": 275,
+      "linhas_relogios": "39974-40000",
+      "relogios": 27,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": "",
+      "fontes": 21,
+      "obs": "relógios feitos/vendidos pela Watch Angels (watchangels.ch)"
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 241,
+      "marca": "Cédric Johner Watches",
+      "linha_marcas": 276,
+      "linhas_relogios": "40001-40039",
+      "relogios": 39,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Site bloqueado – cedric-johner.ch",
+      "fontes": 52,
+      "passadas": {
+        "1": 42,
+        "2": 10
+      },
+      "obs": "refs antigas via Antiquorum/CollectorSquare; Louis Erard x Johner Le Régulateur não incluído (é Louis Erard)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
