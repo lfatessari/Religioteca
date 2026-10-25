@@ -15,3 +15,5 @@
 - Site: Kamchatka CP-7048 Slava aut 43 mm 14 mm 10 ATM; MiG-21 CP-7101 Slava aut 47,5 mm 5 ATM. Fotos do site têm nomes variados (-Q, -MS02): não dá para montar padrão.
 - 1ª passada encerrada após kashalot/gss/shchuka/space/heroes/sputnik/kirov/about/timepiece (sequência final sem novidades: heroes 0, sputnik 0, kirov 0, about 0, timepiece 0, kamchatka 0, mig 0).
 - Decisão: VERMELHA — catálogo de ~300 variações, páginas 2/5 da lista 'watches' e 2–6 de view-all não alcançadas (Firecrawl sem créditos), muitas referências antigas (CP-7003…7024, 7058, 7061–7062, 7064, 7066, 7069, 7073–7076, 7078–7079, 7083–7088, 7091–7093, 7096, 7102–7104) fora do site.
+- Manuais: CP-7100 (Leonov) usa cronógrafo de quartzo japonês VD57. Chrono24: anúncio não abre (client_error). 2ª passada começa agora (09:12).
+- Chistopol CP-7024-01: automático, 38 mm, 50 m, caixa prata, couro preto (h2hub).
