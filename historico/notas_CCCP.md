@@ -19,3 +19,5 @@
 - Chistopol CP-7024-01: automático, 38 mm, 50 m, caixa prata, couro preto (h2hub).
 - Chakhava CP-7058: retangular 42 mm, 15 mm, Slava automático 40 h, 30 m. Heritage CP-7019-03: 43 mm, 14 mm, Slava, 50 m, cinza.
 - CP-7028 = Sputnik-2 quartzo VD51 43 mm (Ashford). CP-7005-05 = Kashalot Submarine quartzo Miyota OS21 47 mm 100 m.
+- Friedmann CP-7044 NH35 42 mm; Black Sea CP-7043 42 mm 14 mm IP preto 10 ATM; Arkhipov CP-7045 NH35 42 mm. Obs: Arkhipov 7045-04 no site = verde/verde; Ashford diz preto.
+- 2ª passada encerrada (últimas: ashford 7045 0, cccptime 7043 0, ebay p 0, amazon.in 0). Trouxe ≥5 novos -> 3ª passada obrigatória (09:16).
