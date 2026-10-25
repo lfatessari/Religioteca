@@ -17,3 +17,4 @@
 6. Edições: Like a Lord 150 pçs, Prima Automatic 500 pçs, Man on the Moon 50th, Moneo Prado/Thyssen, Architects of Time.
 7. Fontes 1ª passada: 165.
 ## 2ª passada: foco vintage + lacunas de código
+## Fim 2ª passada: 24 fontes, ~83 novos. Iniciar 3ª passada (vintage eBay págs. 2/3, WorthPoint, lacunas modernas)
