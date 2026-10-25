@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 279,
-  "ultima_versao": 243,
+  "ultima_versao": 244,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3577,6 +3577,18 @@
         "2": 24
       },
       "obs": "Celeste Watch Company (celestewatch.com, Springfield OR); G vazio; ~72 linhas sem foto (link da página do produto) porque só abrem páginas vindas de busca; Retired Designs, coleções págs. 2+ e 4 raças de cães não alcançadas; Firecrawl sem créditos. Próxima: Century (279)."
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 244,
+      "marca": "Cartier (complemento)",
+      "linha_marcas": 265,
+      "linhas_relogios": "35661-36891",
+      "relogios": 226,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 51,
+      "obs": "4ª passada a pedido do usuário: +226 relógios; 65 nomes genéricos melhorados e 16 fotos trocadas. As marcas gravadas depois da Cartier (Casio até Celeste) desceram 226 linhas na aba Relógios."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3591,20 +3603,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-25T12:57:40Z",
-  "ultimo_sinal": "2026-10-25T13:08:10Z",
-  "em_andamento": {
-    "marcas": [
-      "Cartier"
-    ],
-    "linha_marcas": 265,
-    "grande": true,
-    "complemento": true,
-    "relogios": "historico/cartier/",
-    "fontes": "historico/cartier/fontes_c.txt",
-    "notas": "historico/notas_cartier.md",
-    "secoes_feitas": [],
-    "passada": 4
   }
 }
