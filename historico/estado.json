@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 261,
- "ultima_versao": 230,
+ "proxima_linha_marcas": 264,
+ "ultima_versao": 231,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3338,6 +3338,41 @@
    "fontes_abertas": 267,
    "passadas": "1: 241 fontes/323 novos; 2: 13/8; 3: 13/9",
    "obs": "marca encerrada pela Rolex em 2025; fontes principais: site oficial (páginas de produto), gressive.jp (catálogo japonês 2008-2023), catálogo Selection 2018/19 (PDF), essential-watches, majestix, Phillips, WorldTempus, Europa Star; Firecrawl sem créditos; 64 linhas com link do PDF e ~140 com link de página no lugar da foto"
+  },
+  {
+   "data": "2026-10-25",
+   "versao": 231,
+   "marca": "Carl Suchy & Söhne",
+   "linha_marcas": 261,
+   "linhas_relogios": "35570-35605",
+   "relogios": 36,
+   "vermelho": false,
+   "site_bloqueado": "Parcial – carlsuchy.com não aparece em buscas",
+   "fontes": 34,
+   "obs": "inclui 3 relógios de mesa Table Waltz; refs do The Watch Pages (títulos)"
+  },
+  {
+   "data": "2026-10-25",
+   "versao": 231,
+   "marca": "Carlingue",
+   "linha_marcas": 262,
+   "linhas_relogios": "35606-35629",
+   "relogios": 24,
+   "vermelho": false,
+   "site_bloqueado": "Parcial – carlingue-watches.com não aparece em buscas",
+   "fontes": 15
+  },
+  {
+   "data": "2026-10-25",
+   "versao": 231,
+   "marca": "Carlo Ferrara",
+   "linha_marcas": 263,
+   "linhas_relogios": "35630-35659",
+   "relogios": 30,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 37,
+   "obs": "marca encerrada; Cartier (264) é a próxima e é grande"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
