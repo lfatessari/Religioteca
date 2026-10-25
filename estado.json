@@ -3449,7 +3449,7 @@
     "Catorex (linha 269)": "Dimensionada como grande em 25/10/2026 (família desde 1858, vintage + moderno): fazer sozinha. A linha 270 'Cattin & Cie' é a empresa dona da Catorex (Cattin & Cie SA, Montres Catorex) — conferir sobreposição."
   },
   "em_execucao": "2026-10-25T04:41:23Z",
-  "ultimo_sinal": "2026-10-25T04:41:23Z",
+  "ultimo_sinal": "2026-10-25T04:52:49Z",
   "em_andamento": {
     "marcas": [
       "Catorex"
@@ -3459,7 +3459,9 @@
     "relogios": "historico/parcial_Catorex_relogios.txt",
     "fontes": "historico/parcial_Catorex_fontes.txt",
     "notas": "historico/notas_Catorex.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
