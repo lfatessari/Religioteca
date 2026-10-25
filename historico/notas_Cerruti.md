@@ -3,3 +3,6 @@
 - Firecrawl sem créditos. Site oficial cerruti1881watches.com não aparece em busca (G provavelmente = site sem relógios em busca).
 - Zalando: nomes sem código (Dervio, Lecco, Merano, Velletri, Ravello, Trento, Ruscello, Lucardo, Calliano) – podem duplicar CIWG.
 - Seções feitas: 1, 3 (parcial), 7 (Krishna, Titan, Idefix, Zalando), 8 (eBay 2 listas)
+- Licença: ILG / Fortune Concept Limited (Hong Kong), movimentos japoneses (Asia Tatler 2018). Era 2008-14: Timex Group (Swiss, CT6xxxx).
+- watchard.com/cerruti-1881-watches: 194 itens, só p.1 (~96) aberta; ?p=2 não veio em busca (sem Firecrawl).
+- Zalando pág. 2 (de/es/fr) não alcançadas.
