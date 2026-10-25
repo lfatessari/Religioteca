@@ -19,6 +19,7 @@ for l in sys.stdin:
     k=norm(p[1]) if p[1] else norm(p[0])
     if k in d:
         o=d[k]
+        if '–' in p[0] and '–' not in o[0]: o[0]=p[0]; upd+=1
         if p[2] and isimg(p[2]) and not isimg(o[2]):
             o[2]=p[2]; o[3]=p[3] or re.sub(r'Visto só.*$','',o[3]).strip(); upd+=1
         elif not o[3] and p[3]: o[3]=p[3]
