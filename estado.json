@@ -3516,7 +3516,7 @@
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
   },
   "em_execucao": "2026-10-25T09:41:11Z",
-  "ultimo_sinal": "2026-10-25T10:09:45Z",
+  "ultimo_sinal": "2026-10-25T10:13:43Z",
   "em_andamento": {
     "marcas": [
       "Cecil Purnell",
@@ -3525,13 +3525,13 @@
     ],
     "linha_marcas": 274,
     "grande": false,
-    "relogios": "historico/parcial_CecilPurnell_relogios.txt",
-    "fontes": "historico/parcial_CecilPurnell_fontes.txt",
-    "notas": "historico/notas_CecilPurnell.md",
+    "relogios": "historico/parcial_CedricJohner_relogios.txt",
+    "fontes": "historico/parcial_CedricJohner_fontes.txt",
+    "notas": "historico/notas_CedricJohner.md",
     "secoes_feitas": [
-      "CecilPurnell:completa (dados/marca.json em historico)",
+      "CecilPurnell:completa",
       "CedricBellon:completa",
-      "CedricJohner:em curso (16 fontes)"
+      "CedricJohner:passada1 quase completa (42 fontes)"
     ],
     "passada": 1,
     "obs": "dimensionamento provisório"
