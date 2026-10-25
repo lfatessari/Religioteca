@@ -1,0 +1,1162 @@
+{
+ "marca": "Century",
+ "usa_codigos": true,
+ "logo": "https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/century_logo_t-v2.jpg?itok=FZqb39RT",
+ "site_bloqueado": "Parcial – century.ch: páginas de produto só abrem quando vêm de busca (WebFetch); fotos de ~17 modelos atuais não conferidas; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G errado: site oficial é century.ch (century.com não é da marca). Nome completo: Century Time Gems Ltd (fundada 5/1/1966 por Hans-Ulrich Klingenberg; 1º nome Vacuum Chronometer Corp.). J: 'Time Gem' é linha antiga; faltam Dragon Stone, Bolero, Leela Blossom, Mastersphere. I tem [⚠️ verificar].",
+ "fontes": [
+  {
+   "url": "https://century.ch/media/pdf/eCatalog.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/watches/gents-collection",
+   "passada": 1,
+   "novos": 59
+  },
+  {
+   "url": "https://century.ch/watches/ladies-collection/",
+   "passada": 1,
+   "novos": 163
+  },
+  {
+   "url": "https://dev.century.ch/category/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cn.century.ch/?p=6360",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233414",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://century.ch/watch/elegance-moonphase-648-7-u-n04-12-sf/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91030",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=94733",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=4866",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dev.century.ch/?p=29311",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Century_Time_Gems",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/watch/tiara-618-9-s-p32-66-ry1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/watch/leela-blossom-659-9-s-12p-66-cfk/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=93208",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=93211",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90966",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90341",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90892",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=95461",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/prima-donna",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://century.ch/media/pdf/eCatalog_JP.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90890",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90951",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90952",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90953",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90879",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90899",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=94019",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.century.ch/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.century.ch/?p=33213",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/topics/334015",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000009.000003582.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.yodobashi.com/category/18457/m0000001668/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233405",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233415",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233413",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233412",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233402",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/230371",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/193622",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/193623",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/194135",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/237559",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0399/hotitem/296748",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0399/hotitem/204869",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0399/hotitem/294613",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0431/hotitem/307328",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0431/hotitem/324797",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0431/hotitem/324804",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/307114",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/307116",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/297164",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/297165",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/307115",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/result/century/35321",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://komehyo.jp/product/230-000-542-5968/?wovn=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/21054064689",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mfr.century.ch/about_century",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chairish.com/product/36417637/ladies-century-dragon-stone-27mm-sapphire-diamond-18k-white-gold-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/podr%C3%ADa-ser-este-un-reloj-especial.521760/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://century.ch/?p=93411",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233673",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/297118",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/297127",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312698",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/297128",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/297126",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312697",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233676",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0416/hotitem/233675",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/193620",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/hotitem/333607",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/hotitem/319045",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312695",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312699",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312688",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312700",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0399/hotitem/275925",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/193618",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0397/hotitem/196911",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0379/hotitem/309561",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0379/hotitem/334125",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0379/hotitem/314206",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312696",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/307113",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0708/hotitem/307111",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0379/hotitem/309436",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/314567",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/314573",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/314569",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/314570",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/314572",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0589/hotitem/272241",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0472/hotitem/312838",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/193619",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0589/hotitem/274908",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0589/hotitem/274910",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0472/free/131112",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.europastar.com/1004084695.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://europastar.com/news/1003955907-the-continuing-and-fascinating-saga-of-century-s.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/1004088631.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004089854.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/highlights/1002197177-century-advances-into-new-design-fields.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/1003798473.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/1004114750.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/magazine/highlights/1004083597-century-elegant-resistant-and-transparent.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/1004083611.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004115166-century-masters-the-art-of-the-small-with.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-grace-7894.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-couture-7872.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-elegance-7597.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-when-time-converses-with-light-7478.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/century-baselworld-2014-very-couture-watches-17099.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/century-wings-of-time-12446.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/century-prima-donna-in-red-gold-15178.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/century-leela-blossom-15066.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/century-all-the-facets-of-a-sapphire-14848.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://century.ch/shapes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cijintl.com/in-the-press/century-celebrate-its-50th-anniversary-with-virtuoso.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-brand-philosophy-14341.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=92922",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=92921",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=92917",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=92923",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=92920",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91220",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91219",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91221",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/collections/2024/affinity-10th-anniversary/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004114420.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90179",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=93643",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://century.ch/?p=91217",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91035",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91036",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91034",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91038",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90896",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=93204",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91033",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91027",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096063-century-elegance-chronograph-gmt.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-elegance-chronograph-gmt-esquire-10167.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/century-elegance-chronograph-gmt-11924.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/fr/watches/egos-chronograph-gmt-0",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.europastar.com/news/1002877231-egos-chronograph-gmt-by-century-sapphire-for-men.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90933",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90887",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/century-prime-time-egos-day-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-prime-time-egos-chronograph-day-et-date-10169.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/highlights/1004115063-century-introduces-a-stunning-new-prime-time.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0574/hotitem/312693",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90894",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ru.century.ch/?p=4967",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/2029239-century-perfection-and-exclusivity-for-the-ladies.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0413/hotitem/289003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91037",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/century/prime-time/ref606-7-X-501-12-SR/watch20387/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/century/prime-time/ref616_31_M_60d_10_CYL/watch27317/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.loupe.watch/prices/century/12pd-606-7-u-a5-13-15d-qyd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.takakuureru.com/tokei/century/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/prices/century/elegance",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/prices/century/prime-time-606-5-x-mbi-quartz-men-s-watch-about-16cm-wrist",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brandrevalue.com/purchase-items/pr20260510-watch-century-bt109",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/century-venus-7829.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/360981147130",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/send/shop/250918-sogo-yokohama-rwf/century.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0388/hotitem/237642",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0398/hotitem/308337",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0379/hotitem/312624",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0544/topics/332902",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/topics/293094",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0399/hotitem/253883",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0413/hotitem/298429",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0544/hotitem/238050",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/result/century/18376",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uridoki.net/pix/items/9d9e22b0-312c-48ba-b47a-ca6b77e204d2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/reviving-the-vacuum-chronometer-century-mastersphere-limited-edition-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=99388",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/century-watches-swiss-made",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0397/hotitem/249338",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0504/hotitem/332240",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0504/hotitem/332241",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=96165",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004115632-masterphere-from-century-the-power-of-the-void.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004115219-century-unveils-the-prime-time-s-with-sorbet.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0472/hotitem/312839",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0472/hotitem/312840",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0379/hotitem/309563",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0589/hotitem/272238",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0398/hotitem/243088",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0538/hotitem/250219",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0379/hotitem/309562",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/hotitem/333430",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/hotitem/319048",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/hotitem/340360",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0578/hotitem/334551",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0413/hotitem/294590",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/century-crescendo-17622.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004087908.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://cijintl.com/in-the-press/century-introduces-the-new-l-avenue-watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0413/hotitem/294817",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0413/hotitem/290193",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://precious.jp/articles/-/13352",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://forbesjapan.com/articles/detail/18620",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/itm/255065954326",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/314568",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0060/hotitem/235415",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0399/hotitem/277765",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/?p=32693",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/2029403-the-unique-harmony-of-century-timepieces.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0544/hotitem/203758",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003692352-century-inaugurates-its-first-boutique-in-china.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1004077576-century-a-new-campaign-44-the-new-men-s-elegance.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/2037814-century-44-luxury-in-motion.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/innovation-and-technology/stone-cutting-and-setting-precious-expertise-18745.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0544/hotitem/277327",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0544/hotitem/248323",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0544/hotitem/221126",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0544/hotitem/239912",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90798",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90800",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://dev.century.ch/?p=90955",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004092631.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/watch/couture-832-7-s-12x-12-sml/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90352",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=91193",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://century.ch/?p=90864",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

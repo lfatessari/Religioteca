@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 279,
-  "ultima_versao": 244,
+  "proxima_linha_marcas": 280,
+  "ultima_versao": 245,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3589,6 +3589,24 @@
       "site_bloqueado": false,
       "fontes": 51,
       "obs": "4ª passada a pedido do usuário: +226 relógios; 65 nomes genéricos melhorados e 16 fotos trocadas. As marcas gravadas depois da Cartier (Casio até Celeste) desceram 226 linhas na aba Relógios."
+    },
+    {
+      "data": "2026-10-25",
+      "versao": 245,
+      "marca": "Century",
+      "linha_marcas": 279,
+      "linhas_relogios": "40508-40885",
+      "relogios": 378,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – century.ch (páginas de produto só via busca)",
+      "fontes": 230,
+      "passadas": {
+        "1": 179,
+        "2": 32,
+        "3": 19
+      },
+      "obs": "Century Time Gems (century.ch; G diz century.com, errado). 222 refs da loja atual + descontinuados/edições do Japão (Gressive). ~46 linhas com código reconstruído de títulos de busca do The Watch Pages (link da página). Firecrawl sem créditos. Próxima: Cerruti (280)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
