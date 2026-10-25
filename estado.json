@@ -3557,5 +3557,20 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
+  },
+  "em_execucao": "2026-10-25T10:41:32Z",
+  "ultimo_sinal": "2026-10-25T10:41:32Z",
+  "em_andamento": {
+    "marcas": [
+      "Celadon",
+      "Celeste"
+    ],
+    "linha_marcas": 277,
+    "grande": false,
+    "relogios": "historico/parcial_Celadon_relogios.txt",
+    "fontes": "historico/parcial_Celadon_fontes.txt",
+    "notas": "historico/notas_Celadon.md",
+    "secoes_feitas": [],
+    "passada": 1
   }
 }
