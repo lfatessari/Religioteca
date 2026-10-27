@@ -8,3 +8,5 @@
 - Site oficial charmex.ch EXISTE (abre): hoje "Montres Charmex Ltd. – Bespoke Private Label Manufacturing". Catálogo PDF 2015/16: charmex.ch/images/instructions/catalogue2016.pdf. Fotos padrão charmex.ch/images/<Pasta>/<Nome><ref>.png.
 - CX Swiss Military (divers 20'000 Feet, Argonaut, Stingray, 12'000 Feet) = marca própria na linha 346 → NÃO entram aqui.
 - Wallstreet 2936 conflita com eBay "Zermatt II S2936" (aparentemente anúncio errado/código antigo). Mantido Wallstreet.
+- Woot/Hourstriker/eBay adicionados (Le Mans Retro, Zermatt Retrograde, Monte Carlo, Senator, avulsos do eBay). eBay "Zermatt II S2936" ignorado (2936 = Wallstreet no site oficial). Ashford "-SD" (2505-SD, 2590-SD, 2560-SD) = mesma referência com sufixo de loja → não entram.
+- Seções feitas: 1, 2, 2c (site oficial completo), 7 (Ashford ~70 fichas). Falta: 3 buscas extras, 4 catálogos, 5 agregadores, 6 Chrono24, 8 usados, 9 imprensa, 10, 10b.
