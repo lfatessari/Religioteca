@@ -15,3 +15,5 @@ Grande (maison, coluna J: Celtic, St-Tropez, Colvmbvs, Alexandre C, Supersports)
 - Números no formato NN.AA.SSS (ex.: 38.93.135, 24.90.023) parecem modelo.ano.série (ano 86–98) -> não usados como código; foram para a coluna E. Anúncios genéricos só com esse número e sem linha foram descartados (55.93.697, 15.93.121, 52.6.0127, 82.6.0248, 33.91.2222/34.91.086, 53.96.1060, 43.98.2087).
 - Fim da 2ª passada (16:43): 34 fontes novas, ~15 relógios novos (≥5) -> 3ª passada obrigatória.
 - Últimas fontes da 2ª passada: vogue.ph 0, wikipedia 0, europastar Cynthia Rowley 0 (3 seguidas sem novidade).
+- Fim da 3ª passada (16:45): 19 fontes, 17 relógios novos; últimas 4 sem novidade -> parada.
+- www.charriol.com/en-hk/pages/charriol-history (redirecionamento) pediu permissão (PROVENANCE_REQUIRED) -> não repetido.

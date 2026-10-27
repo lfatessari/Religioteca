@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 287,
-  "ultima_versao": 252,
+  "proxima_linha_marcas": 288,
+  "ultima_versao": 253,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3728,6 +3728,24 @@
         "3": 11
       },
       "obs": "Site oficial charmex.ch completo (~50 coleções atuais, fotos PNG). Antigos: Ashford (~70 fichas), allwatches.org, lojas russas/ucranianas (alltime, harold, swiss-time, gold.ua, bestwatch), Woot, Hourstriker, eBay. CX Swiss Military excluída (linha 346). Conflitos de coleção em 2401, 2436, 1815/1816 anotados na coluna E. Firecrawl sem créditos. Próxima: Charriol (287), maison com muitas referências — provavelmente GRANDE."
+    },
+    {
+      "data": "2026-10-27",
+      "versao": 253,
+      "marca": "Charriol",
+      "linha_marcas": 287,
+      "linhas_relogios": "43625-43946",
+      "relogios": 322,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – blog.charriol.com e press.charriol.com (robots); páginas 2–11 do catálogo da loja não alcançadas",
+      "fontes": 201,
+      "passadas": {
+        "1": 150,
+        "2": 34,
+        "3": 17
+      },
+      "obs": "Site Shopify: coleções e páginas de produto (handle = referência, ex. cr41as-930-005 -> CR41AS.930.005); produtos descontinuados só por título de busca (página redireciona). Antigos: eBay (browse pages), Yahoo Leilões JP, Rakuma, 1stDibs, Antiquorum, Fellows, Heritage, Europa Star swisstime. Números NN.AA.SSS tratados como série (coluna E). Firecrawl sem créditos. Próxima: Chase-Durer (288)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3742,32 +3760,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-27T15:57:01Z",
-  "ultimo_sinal": "2026-10-27T16:44:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Charriol"
-    ],
-    "linha_marcas": 287,
-    "grande": true,
-    "relogios": "historico/parcial_Charriol_relogios.txt",
-    "fontes": "historico/parcial_Charriol_fontes.txt",
-    "notas": "historico/notas_Charriol.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a"
-    ],
-    "passada": 3
   }
 }
