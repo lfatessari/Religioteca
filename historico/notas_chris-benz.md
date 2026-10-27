@@ -9,3 +9,4 @@
 - taucher.net: 156 entradas (famílias: Deep 1000M, 1000M Automatic, 1000M Sharkproject, Deep 2000M Automatic (+GMT), Deep 500M Automatic, Deep 500M Chronograph, Defense Kommando, Depthmeter Chrono 200M/300M (Black Ed.), Depthmeter Digital 200M (Gold MK1, MK2), One Lady 200M (23), One Man (22), One Medium (20), Stars & Diamonds Diamond Diver (8), Surf & Sail B. Dunkerbeck Chrono 200M) — páginas individuais não indexadas.
 - Chrono24, EveryWatch, WatchPatrol: nada / bloqueado.
 - Seções feitas: 1,3,5,6,7(parcial),8(eBay)
+- Site oficial verdadeiro: chrisbenz.de (Shopify, robots bloqueia WebFetch) e shop.chrisbenz.de (loja antiga, robots). Site antigo www.chrisbenz.de/en/watch/items/... abre! Coluna G diz chris-benz.de (errado).
