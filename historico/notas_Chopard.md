@@ -16,3 +16,4 @@
 ## 10b auto-auditoria
 1. Blog/imprensa oficial: artigo W&W 2026 lido; não há blog com peças. 2. site:chopard.com/watch feito para Happy Sport, Alpine, L.U.C, Ice Cube, LHD. 3. site: em lojas: feito em parte (michaud, jurawatches). 4. Primeiro modelo: L.U.C 1860 (16/1860/1, 1997) incluído; peças de bolso 1860 não são de pulso. 5. J da aba Marcas: Happy Diamonds, Happy Sport, Mille Miglia, L.U.C, Alpine Eagle, Ice Cube — todos achados. 6. Edições limitadas com nº na B: QS25 (8/5/100/25), Time Traveler One 250, Patina 100, Zagato 500, Brescia-Roma-Brescia 2011, Kuwait 50, Hodinkee 25; peças únicas no começo de E. 7. 108 fontes.
 ## Passada 2: foco em vintage, peças únicas/Only Watch, GPHG, linhas antigas (St. Moritz, Gstaad, Monte Carlo, La Strada, Your Hour, Two O Ten, Casmir, Pushkin), Mille Miglia race editions.
+## Passada 2 encerrada 21:24 (15 fontes, >5 novos) → passada 3
