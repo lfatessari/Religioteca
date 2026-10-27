@@ -1,0 +1,697 @@
+{
+ "marca": "Chopard",
+ "usa_codigos": true,
+ "logo": "https://1000logos.net/wp-content/uploads/2018/10/Chopard-Logo.png",
+ "site_bloqueado": "Parcial – chopard.com (listas das coleções só mostram os 32 primeiros itens; o resto fica atrás de 'Load more', inalcançável para leitura automática; revisitar com navegador)",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I marcado [⚠️ verificar]: os dados conferem com as fontes (fundação 1860 em Sonvilier, família Scheufele desde 1963, Happy Diamonds 1976, 100% ouro ético desde 2018) — o aviso pode ser retirado. J poderia incluir L'Heure du Diamant, Imperiale e La Strada.",
+ "fontes": [
+  {
+   "url": "https://www.chopard.com/en-us/watch/298600-3001.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-alpine-eagle",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chopard/?p=2",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/chopard-watches-1?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/chopard/alpine-eagle",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://watchbase.com/chopard/alpine-eagle/298600-3018",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-luc",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-men-mille-miglia",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-women-happy-sport",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-women-happy-diamonds-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-women-imperiale-watches",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-women-lheure-du-diamant-watches",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-high-jewellery-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-exceptional-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-metiers-dart",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-grand-complications",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-poincon-geneve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-women-alpine-eagle",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watches-men-alpine-eagle",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/chopard/l-u-c",
+   "passada": 1,
+   "novos": 111
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/chopard/?p=1",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://hourstriker.com/database/chopard/mille-miglia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/chopard/?p=2",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/chopard/?p=3",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/chopard/?p=4",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chopard/",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://everywatch.com/chopard/watch-32514411",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://everywatch.com/chopard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chopard/?p=3",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chopard/?p=6",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chopard/?p=7",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://wristler.eu/watches/chopard/happy-sport?page=1",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://wristler.eu/watches/chopard/happy-sport?page=2",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://wristler.eu/watches/chopard/happy-sport?page=8",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://wristler.eu/watches/chopard/imperiale",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://wristler.eu/watches/chopard/imperiale?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://wristler.eu/watches/chopard?page=1",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://wristler.eu/watches/chopard?page=4",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.lepage.fr/en/3319-chopard-watches?page=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chopard/your--hour/lpi",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.collectorsquare.com/it/orologi/chopard/two-o-ten/lpi",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://collectorsquare.com/en/watches/chopard/classic-racing-superfast/lpi",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chopard/la-strada/lpi",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://watchbase.com/chopard/classic-racing/158511-3002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/chopard/classic+racing",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/chopard?p=3",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.hourstriker.com/database/chopard?p=9",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.hourstriker.com/database/chopard?p=18",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.watchonista.com/fr/collections/1972?page=40",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/chopard/l-heure-du-diamant",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chopard.com/en-us/watch/136691-1001.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/chopard/jewelry/watches/wrist-watches/?page=3",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-happy-diamonds-watches",
+   "passada": 1,
+   "novos": 49
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-ice-cube-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/it/orologi/chopard/imperiale/lpi",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/chopard/chopard-ladies/lpi",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chopard/l.u.c/ref-l.u.c/lpi",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-1970",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-vintage-gold-watch",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.the1916company.com/watches/chopard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.crownandcaliber.com/watches/chopard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://swissparadise.in/collections/chopard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://joaillerie-royale.com/en/91-chopard?page=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchexchange.sg/watches/chopard",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/chopard-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.berrysjewellers.co.uk/watches-c10/chopard-m12",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://luxurybazaar.com/brands/chopard/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ramsdensjewellery.co.uk/chopard/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/chopard-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kingjewelers.com/collections/chopard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/chopard-watches-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrinstinkt.de/en/collections/chopard?page=5",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.michaud.ch/collections/chopard-1/products/278608-3009",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/chopard/classic/lpi",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.uhrinstinkt.de/en/collections/chopard-classic-racing-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard/bn_21822198",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren/31387/bn_1687929",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://mx.ebay.com/b/Chopard/bn_21822195",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.ebay.de/b/Mechanische-Armbanduhren-Handaufzug-mit-Chopard/31387/bn_13806793",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.ebay.com/b/Chopard-Happy-Diamonds-Wristwatches/31387/bn_80621336",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-rechteckige-Armbanduhren-fur-Damen/31387/bn_13796353",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-quadratische-Armbanduhren-fur-Damen/31387/bn_24713122",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren-fur-Damen-mit-Gold/31387/bn_7032943448",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren-aus-Edelstahl-mit-Damen-Chopard-Happy-Sport/31387/bn_7118118900",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/chopard-luc-quattro-spirit-25-guide/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.chopard.com/en-us/articles/products/watches-and-wonders-2026.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.webchronos.net/features/157183/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/watch/chopard/2986003010",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://perpetual.phillips.com/products/chopard-alpine-eagle-kuwait-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.prestigetime.com/brand/chopard.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chpremier.com/collections/chopard-watches-and-wonders-2026.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchmydiamonds.com/brand-watches/chopard/happy-sport.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.incollect.com/artists/vintage-chopard-estate-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bernardwatch.com/watch/CHO131",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-diamond-and-gold-watches",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://monochrome-watches.com/collectors-corner-chopard-luc-16-1860-one-of-the-best-kept-secrets-in-neo-vintage",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/news-chopard-introduces-the-mille-miglia-zagato-two-500-piece-limited-edition-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/chopard-l-u-c-xps-1860-officer-limited-edition-for-hodinkee-introducing/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bloombergquint.com/business/chopard-alpine-eagle-wempe-5th-avenue-edition-a-12-900-find",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://joaillerie-royale.com/en/91-chopard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/us/buy/chopard",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.withoyster.com/brands/chopard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrods.com/en-lt/designers/chopard/fine-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/chopard/?p=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bucherer.com/at/en/watches/chopard",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.phillips.com/detail/chopard/219714",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.scribd.com/document/370613504/Chopard-Opt2017",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hermitage.pl/en/watches/chopard",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.watchprozine.com/digest/chopard-gphg-2014-nominated-watches-overview/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chopard-gphg-2016-22748.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://300magazine.com/?p=45763",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.com/blog/chopard-corum-ulysse-nardin-unveil-timepieces-watch-2013/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/?p=1738",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/article/158023241/only-watch-2015-round-up",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hautetime.com/?p=106486",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/es/relojes/chopard/l-u-c-chrono-one/lpi",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/it/scopri/marche/chopard/mille-miglia/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://secondmovement.com/watches/chopard",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laingsuk.com/watches/f/chopard/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-imperiale-watch",
+   "passada": 2,
+   "novos": 22
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-dress-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chopard-automatic",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren-Damen-Quarz/31387/bn_7035653051",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren-im-Luxus-Damen/31387/bn_14403625",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren-mit-Leder-Damen/31387/bn_24763267",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren-im-Luxus-Stil-aus-Edelstahl-Damen/31387/bn_24766443",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://www.ebay.de/b/Chopard-Armbanduhren-Damen-Quarz-Chopard-Happy-Diamonds/31387/bn_7118122828",
+   "passada": 3,
+   "novos": 12
+  },
+  {
+   "url": "https://www.fratellowatches.com/chopard-mille-miglia-2019-race-edition/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2012/07/hands-on-with-the-chopard-grand-prix-de-monaco-historique-2012-edition.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/?p=26997",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.chopard.com/en-gb/articles/events/time-for-art-edition-2024.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chopard/animal-world/lpi",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/es/relojes/chopard/gstaad/lpi",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/chopard/l.u.c.-1937/lpi",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/chopard-lot-82-161",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classicdriver.com/en/watch/chopard/1111/336869",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://1000logos.net/chopard-logo/amp/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

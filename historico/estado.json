@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 291,
- "ultima_versao": 256,
+ "proxima_linha_marcas": 292,
+ "ultima_versao": 257,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3799,6 +3799,24 @@
     "2": 10
    },
    "obs": "Loja multimarcas Shopify; marca própria na coleção /collections/chez-maman (p.1,2,4 abertas; p.3 não veio em busca). Códigos CMnn na descrição das fichas (/products/<handle>), nem todas trazem. Sites antigos da marca (chezmaman-montres.com, chezmaman-timepieces.com) bloqueados: só títulos de busca (La Venus, La Goa, Primo Olive CM10). Inclui 2 reedições Lip × Chez Maman (2012, 145 peças). Firecrawl sem créditos. Próxima: Chopard (291), GRANDE."
+  },
+  {
+   "data": "2026-10-27",
+   "versao": 257,
+   "marca": "Chopard",
+   "linha_marcas": 291,
+   "linhas_relogios": "44622-45723",
+   "relogios": 1102,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – chopard.com (coleções mostram só 32 itens; 'Load more' inalcançável)",
+   "fontes": 137,
+   "passadas": {
+    "1": 108,
+    "2": 15,
+    "3": 14
+   },
+   "obs": "Foto oficial pelo padrão objects-prod.cdn.chopard.com/.../ProductsAssets/Web/<REF>_01.png (confirmado na ficha 298600-3001), usado em ~220 refs vistas no site oficial ou à venda nova (Wempe 2026). ~250 com foto de lojas/eBay/1stDibs/Bucherer/Berry's; ~630 só com link da página (WatchBase, Hourstriker, Wristler, CollectorSquare lpi, The Watch Company). EveryWatch bloqueado, WatchBase imperiale com erro, Chrono24 sem resultados, Firecrawl sem créditos. Marca inesgotável (milhares de refs vintage): vermelho. Próxima: Chotovelli & Figli (292)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
