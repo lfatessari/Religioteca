@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 285,
- "ultima_versao": 250,
+ "proxima_linha_marcas": 286,
+ "ultima_versao": 251,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3693,6 +3693,23 @@
     "1": 42
    },
    "obs": "Só relógios de pulso: Double Impulse Chronometer (2018) em aço, ouro rosa, ouro branco, ouro 22k, titânio (2025), arábicos orientais, cifras Royal Warrants, peça única Tribute to George Daniels; mais 3 relógios de pulso antigos (anos 1930-50). Relógios de bolso históricos (dezenas em leilões) não entraram. Firecrawl sem créditos. Charlie Paris (285) dimensionada como GRANDE (77 automáticos só na coleção <1000 €, mais quartzo e esgotados): fica sozinha na próxima execução."
+  },
+  {
+   "data": "2026-10-27",
+   "versao": 251,
+   "marca": "Charlie Paris",
+   "linha_marcas": 285,
+   "linhas_relogios": "42831-42981",
+   "relogios": 151,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes": 131,
+   "passadas": {
+    "1": 120,
+    "2": 11
+   },
+   "obs": "Site Shopify; WebFetch só abre endereços vindos de busca, produtos escondidos sem foto (link da página na coluna C). Códigos internos (INI-40-015 etc.) só nos nomes dos arquivos de foto -> coluna E. Fase Charlie Watch 2014-2019 (Union, Monterey, Initial Power Reserve) pouco documentada -> vermelha. Firecrawl sem créditos. commeuncamion.com e galerieslafayette.com bloqueados (client_error). Próximas: Charmex (286) parece grande (centenas de referências)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
