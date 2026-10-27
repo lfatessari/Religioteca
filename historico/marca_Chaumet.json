@@ -1,0 +1,1122 @@
+{
+ "marca": "Chaumet",
+ "usa_codigos": true,
+ "logo": "https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/chaumet_logo_t.png?itok=5--wX3EY",
+ "site_bloqueado": "Parcial – chaumet.com (loja Shopify só mostra ~25 relógios atuais; fichas de modelos descontinuados redirecionam para a coleção; listas de coleção sem fotos)",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I e J incompletos: faltam Class One (1998), Hortensia, Attrape-moi… si tu m'aimes e Style de Chaumet; grafia certa é Khésis. I marcado [⚠️ verificar]: fundação 1780 e LVMH (desde 1999) conferem.",
+ "fontes": [
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chaumet/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.chaumet.com/gb_en/our-maison/craftsmanship/swiss-watchmaking-tradition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/josephine-aigrette-watch-w85375",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chaumet.com/gb_en/watches/collections/josephine",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.chaumet.com/en/hortensia",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/chaumet/lpi",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chaumet/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Chaumet",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/chaumet/jewelry/watches/wrist-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet/",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet-dandy-w11190-30f.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet-dandy-w11190-30c.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet-dandy-w11191-30g.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet-class-one-w17322-33l.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet-hortensia-w20199-bc2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet/dandy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/chaumet/class-one/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/chaumet/khesis/watch-32490795",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/nz_en/hortensia-watch-w85414",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/nz_en/hortensia-watch-w85412",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/hortensia-watch-w85410",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/hortensia-watch-w85411",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/nz_en/sous-le-soleil-creative-complication-timepiece-w84938",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/josephine-aigrette-watch-w85373",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/sa_en/josephine-aigrette-watch-w85845",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/josephine-aigrette-watch-w85166",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/au_en/josephine-aigrette-imperiale-watch-w84499",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/nz_en/josephine-rondes-de-nuit-watch-small-model-w13511",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/ch_en/souveraine-de-chaumet-secret-watch-w85194",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/ch_en/laurier-secret-watch-w83798",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/eu_en/les-pierres-de-reve-de-chaumet-watch-w84045",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/ae_en/les-pierres-de-reve-de-chaumet-watch-w84063",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/hk_en/ecritures-de-chaumet-watches-w25120",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/josephine-aigrette-watch-w85429",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/ae_en/josephine-aigrette-watch-w85165",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/nz_en/josephine-aigrette-watch-w86052",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/au_en/josephine-aigrette-watch-w85167",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/torsade-de-chaumet-watch-w84772",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/sa_en/hortensia-eden-watch-w84254",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/sa_en/hortensia-watch-w85416",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/ca_en/hortensia-watch-w85415",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/es_en/hortensia-eden-watch-w83878",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/nz_en/josephine-rondes-de-nuit-secret-watch-w84755",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chaumet.com/gb_en/hortensia-watch-w85444",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/ca_en/josephine-aigrette-imperiale-watch-w85187",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/qa_en/l-epi-de-ble-de-chaumet-secret-watch-w84762",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/qa_en/hortensia-watch-w85413",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/sa_en/hortensia-watch-w85843",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchonista.com/fr/chaumet/accueil",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/ae_en/hortensia-watch-w85989",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bijouterie-julian.com/en/p/chaumet-hortensia-watch-28mm-964f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/liens-lumiere",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/attrape-moi-si-tu-maimes-creative-complication-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/precious-watch-attrape-moi-si-tu-maimes-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/creative-complication-colombes",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/chaumet-hortensia-tourbillon-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/josephine-aigrette-imperiale",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/infiniment-12-reverie-nocturne-timepiece",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/josephine-aigrette",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/liens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/liens-de-chaumet-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/liens",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/ecritures-de-chaumet-limited-edition-inspired-from-renoirs-work",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/soleil-de-minuit-flying-tourbillon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/frise-divine",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/les-espiegleries-de-chaumet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/deferlante-secret-timepiece",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/hortensia-creative-complication",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/chaumet-soleil-de-minuit-flying-tourbillon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/chaumet/watches/chaumet-swing",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/chaumet-dandy-watches/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://revolutionwatch.com/chaumet-dandy-pleasantly-different/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://en.worldtempus.com/article/chaumet-dandy-collection-14113.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castafiore.com/collections/montres-chaumet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castafiore.com/collections/montres-chaumet.oembed?page=2",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://58facettes.com/collections/montres-chaumet-occasion",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://manfredijewels.com/products/class-one-chronograph-yellow-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/175349-montre-chaumet-class-one-33-mm-quartz-w1722233c-acier-6-bracelets",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/291675-montre-chaumet-class-one-chronographe-624-38mm-acier-diamants-quartz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/279475-chaumet-montre-anneau-en-or-jaune-et-diamants",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://58facettes.com/products/904679-montre-chaumet-hortensia-22-mm-quartz-44-diamants-acier",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chaumet/class-one/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chaumet/lpi",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chaumet/hortensia/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chaumet/lien/lpi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chaumet/dandy/dandy/chaumet-dandy-watch-in-stainless-steel-ref-1229-circa-2006-390762.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chaumet/dandy/dandy/chaumet-dandy-watch-in-stainless-steel-ref-w11290-30a-circa-2012-320466.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/chaumet/dandy/lpi",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://mrwatchley.figure8.be/products/chaumet-jump-hour-10a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-254-9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/chaumet/khesis/lpi",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/model/232533-chaume-mod-classone-x.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/chaumet/style/lpi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/brands/chaumet/articles/?page=10",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/brands/chaumet/articles/?page=12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/brands/chaumet/articles/?page=11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/brands/chaumet/articles/?page=13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/brands/chaumet/articles/?page=9",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thejewelleryeditor.com/watches/article/chaumet-watches-class-one-loris-cecchini",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fzine.com/watches-and-jewellery/why-female-loves-the-limited-edition-white-diving-watch-by-chaumet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/luxury-ladies-watches-fish-dials-chopard-van-cleef-chaumet/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/secret-watches-high-jewellery-diamonds/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/decorative-dials-beautiful-times/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/chaumet-ladies-watches-hortensia-collection/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-horological-fauna-and-flora-in-2014-16482.html",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-montres-precieuses-13992.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://en.worldtempus.com/article/chaumet-200-years-of-creations-14093.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://masterhorologer.com/2012/12/25/chaumet-jewelry-watches-bee-my-love-collection-for-ladies/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thejewelleryeditor.com/watches/article/chaumet-liens-lumieres-watches-review",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/сhaumet-new-items",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-new-liens-collection-16056.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.selfridges.com/GB/en/cat/chaumet/womens/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harrods.com/en-gb/p/chaumet-stainless-steel-and-diamond-josephine-aigrette-watch-202mm-000000000007768932",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/chaumet/213377",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/chaumet/201442",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chaumet-vintage-watch",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/chaumet-aquila-steel-gold-35mm/id-j_26031842",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chaumet-dandy-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chaumet-paris",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/155548538900",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/126929280461",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/article/fp-journe-early-collaborations-phillips-geneva-watch-auction-xxiv-november-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/chaumet/236319",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/chaumet/235875",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/chaumet/237976",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/product/chaumet-date-pebble-automatique-yellow-gold-watch-13a/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dannysvintagewatches.com/products/chaumet-pebble-skeleton-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://loupethis.com/auctions/chaumet-power-reserve-12a-18k-yg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/chaumet/watch-9800976",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/sous-le-soleil-creative-complication-timepiece",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/chaumet-deferlante-secret-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://senatus.net/album/view/15649",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-josephine-collection-19820.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gioiellis.com/en/the-precious-hours-of-chaumet/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://m.senatus.net/album/view/14932",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fr.vestiairecollective.com/accessoires-femme/montres/chaumet/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.vestiairecollective.com/men-accessories/watches/chaumet/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/962/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://piazo.jp/chaumet/classone/refW0621G-094/watch2712/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/18392/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://piazo.jp/chaumet/classone/refW1722I-35A/watch12891/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chaumet/dandy/refW11690-30B/watch5735/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chaumet/antique/refA1500/watch1156/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://review.kakaku.com/review/K0000247568/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/37282/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jp.mercari.com/s/627492",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/s/548287",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/U-W1188816C.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/U-099349027.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://komehyo.jp/product/270-004-045-4587/?wovn=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www2.gphg.org/en/watches/dandy-metrononme-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/collectors-market/fs-chaumet-dandy/712.1533291.14930806/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.diners.co.jp/ja/magazine/article/shopping/watch_jewelry/chaumet.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2008/pre/chaumet/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1003798475-chaumet-from-past-to-present.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/chaumet-class-one-xxl-chronograph-watch-available-on-james-list",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/12581320-chaumet-class-one-crown----",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-the-dandy-vintage-grande-date-13141.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-dandy-arty-open-face-edition-ornamental-stones-13121.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/chaumet-collection-bee-my-love-14105.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2013/12/chaumet-dandy-chronograph.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.timeandwatches.com/2013/11/chaumet-liens-collection.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/15279960-jean-chaumet-1852-1928-----",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-920441",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-1752821",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fellows.co.uk/bidding/2399-watches-840/13-chaumet-a-ladys-class-one-chronograph-wrist-watch-276540",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/chaumet/230115",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chaumet.com/us_en/infiniment-12-reverie-nocturne-watch-w84530",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/chaumet/watches/hortensia/hortensia-watch_w85411-001m",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/chaumet-wristwatch-18k-gold-diamonds-model-style/id-j_13779742",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000008591/",
+   "passada": 2,
+   "novos": 22
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/?p=50553",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://komehyo.jp/kaitori/item/ml-5259/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/1237461473",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/1237458736",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0376/hotitem/219636",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashion-press.net/news/6814",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://piazo.jp/chaumet/dandy/refW11670-26A/watch3021/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chaumet/classone/refW17224-33E/watch2422/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/chaumet/classone/refW062-N-24C/watch963/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/attrape-moi-si-tu-maimes",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/chaumet",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://brandrevalue.com/purchase-items/pr-20230117-watch-chaumet-c429",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://brandrevalue.com/purchase-items/pr-20230108-watch-chaumet-c2461",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://precious.jp/articles/-/201",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://precious.jp/articles/-/2022",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceans.tokyo.jp/article/detail/43690",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceans.tokyo.jp/article/detail/26791",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-attrape-moi-si-tu-maimes-ref-w16889-38j-17088.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/attrape-moi-si-tu-maimes-0",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/attrape-moi-si-tu-maimes-2",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/precious-watch-attrape-moi-si-tu-maimes",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/chaumet-hortensia-secret-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-hortensia-precious-watches-20010.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-liens-27mm-steel-16763.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chaumet-liens-watch-16318.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://mygemma.com/products/105378-chaumet-liens-lumiere-w23272-unisex-watch-in-stainless-steel",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/birds-bees-and-butterflies-flutter-across-the-dials-of-the-latest-chaumet-watches-for-women/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/couture-special-chaumets-200th-anniversary-watch-collection/",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.europastar.com/news/1004085551-attrape-moi-si-tu-m-aimes.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/zh/detail/chaumet/236816",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jolicloset.com/de/marken-damen/chaumet/Damenschmuck/uhr/chaumet-liens-armbanduhr--3454182",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thejewelleryeditor.com/2013/02/chaumets-new-attrape-moi-jewellery-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/learn/exploring-the-captivating-world-of-chaumet-watches",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jckonline.com/?p=12468",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://58facettes.com/products/898683-montre-chaumet-frisson-en-or-blanc-diamants-et-nacre",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://300magazine.com/?p=46139",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://waqt.com/en/brand-details/chaumet",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://theluxurycloset.com/gb-en/women/womens-watches/quartz/brand-chaumet",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://gphg.org/en/watches/chaumet-hortensia-tourbillon-watch-0",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/josephine-aigrette-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/precious-time-high-jewellery-watches",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://katerinaperez.com/time-to-shine-spring-summer-2023-new-jewellery-watches",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/chaumet-envol-high-jewellery",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/trend-secret-watches",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/watches-and-wonders-2023-best-high-jewellery-models",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/katerinas-pick-best-jewelled-watches-of-sihh-2018",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/hidden-in-plain-sight-12-secret-watches/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/perspectives-de-chaumet-high-jewellery-collection-review",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://katerinaperez.com/articles/le-jardin-de-chaumet-high-jewellery-collection-review",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/a-look-back-at-2015-five-of-the-best-jewellery-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/jewelled-watches",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 289,
-  "ultima_versao": 254,
+  "proxima_linha_marcas": 290,
+  "ultima_versao": 255,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3764,6 +3764,24 @@
         "3": 26
       },
       "obs": "Site oficial real chasedurerwatch.com (linha atual CDW-NNNN; fotos oficiais pelo padrão imperiouswatch.com/storage/products/<ID>/<ID>-catalogshot_375x502.jpg, ID = âncora #features da página). Linha antiga (anos 1990-2000) via allwatches.org (p.1,3,5 + pilot/special-forces/ladies; p.2,4,6 não alcançadas), Right Time/WatchConcepts, Brands On Time, eBay browse. Códigos CDW extras pela loja de peças invictawatchbands.com (sem foto do relógio). Marca hoje ligada à Invicta. Firecrawl sem créditos. Próxima: Chaumet (289), maison LVMH — provavelmente GRANDE."
+    },
+    {
+      "data": "2026-10-27",
+      "versao": 255,
+      "marca": "Chaumet",
+      "linha_marcas": 289,
+      "linhas_relogios": "44226-44539",
+      "relogios": 314,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – chaumet.com (loja Shopify só com ~25 relógios atuais; fichas antigas redirecionam)",
+      "fontes": 222,
+      "passadas": {
+        "1": 170,
+        "2": 18,
+        "3": 34
+      },
+      "obs": "Site oficial (fichas W8xxxx com fotos cdn/shop/files e asset.chaumet.com). Antigos: thewatchcompany (foto pelo padrão media/catalog/.../C/h/Chaumet-<Linha>-<REF>.jpg, confirmado 5x), CollectorSquare (foto medias.collectorsquare.com/images/products/<ID>/00pp-<slug>.jpg, confirmado 2x), castafiore oembed, 58facettes, GPHG (código no nome do arquivo), Yahoo Leilões/Yodobashi/Piazo/brandrevalue (Japão: muitos códigos W06/W01/W03/W04/W17/W11). EveryWatch e eBay bloqueados; Chrono24 sem resultados; Firecrawl sem créditos. 120 linhas só com link da página. Próxima: Chez Maman (290)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3778,32 +3796,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-27T18:41:37Z",
-  "ultimo_sinal": "2026-10-27T19:30:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Chaumet"
-    ],
-    "linha_marcas": 289,
-    "grande": true,
-    "relogios": "historico/parcial_Chaumet_relogios.txt",
-    "fontes": "historico/parcial_Chaumet_fontes.txt",
-    "notas": "historico/notas_Chaumet.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p2"
-    ],
-    "passada": 3
   }
 }
