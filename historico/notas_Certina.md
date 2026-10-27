@@ -7,3 +7,4 @@
 - Logo: https://www.certina.com/themes/custom/certina2023/logo.svg (header do site oficial)
 - História oficial (since1888): 1888 Kurth; 1939 nome Certina; 1959 DS; 1960 Dhaulagiri; 1965 Sealab II; 1969 Tektite; 1970 Everest; 1976 Muhammad Ali; 1983 SMH; 2013 tartaruga; 2017 Sea Turtle; 2019 Nivachron; 2022 DS+.
 - 09:59: ~100 fontes, 590 relógios. Feitas: 1, 2 (site oficial categorias), 2c (parcial), 5 (WatchBase por títulos de busca, Majestix), 7 (Helveti, Laguarda, Ocarat, Jura, Teddy), 8 (vintage: Catawiki, watchpool24, 1stdibs, Wristler, wannabuyawatch), 9 (Monochrome, Europa Star, MrStateless, timeandwatches, aBlogtoWatch, T+T).
+- WatchBase diz ter 800+ referências Certina (jul/2025).
