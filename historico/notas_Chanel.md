@@ -7,3 +7,4 @@
 - 1ª passada encerrada às 12:21 UTC (113 fontes): 3 seguidas sem novidade (CollectorSquare J12, 1stdibs Matelassé, 1stdibs Mademoiselle). TheRealReal não abriu (client_error).
 - Marca VERMELHA: J12 tem centenas de variações (refs H0xxx–H11xxx), alta joalheria/peças sem ref, vintage (Première/Mademoiselle/Matelassé 1987–2000) com refs pouco publicadas.
 - 2ª passada: foco em refs vintage H0xxx, Boy-Friend, Première Rock, Mademoiselle Privé, J12 joaillerie/chromatic, edições limitadas.
+- 2ª passada encerrada 12:27 UTC: 3 seguidas sem novidade (Watchonista 2013, WorldTempus 2016, WorldTempus Première 30 anos). Trouxe ~50 relógios → 3ª passada obrigatória.
