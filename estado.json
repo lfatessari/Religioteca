@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 286,
-  "ultima_versao": 251,
+  "proxima_linha_marcas": 287,
+  "ultima_versao": 252,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3710,6 +3710,24 @@
         "2": 11
       },
       "obs": "Site Shopify; WebFetch só abre endereços vindos de busca, produtos escondidos sem foto (link da página na coluna C). Códigos internos (INI-40-015 etc.) só nos nomes dos arquivos de foto -> coluna E. Fase Charlie Watch 2014-2019 (Union, Monterey, Initial Power Reserve) pouco documentada -> vermelha. Firecrawl sem créditos. commeuncamion.com e galerieslafayette.com bloqueados (client_error). Próximas: Charmex (286) parece grande (centenas de referências)."
+    },
+    {
+      "data": "2026-10-27",
+      "versao": 252,
+      "marca": "Charmex",
+      "linha_marcas": 286,
+      "linhas_relogios": "42982-43624",
+      "relogios": 643,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – charmex.ch (catálogo PDF 2015/16 não legível)",
+      "fontes": 266,
+      "passadas": {
+        "1": 229,
+        "2": 26,
+        "3": 11
+      },
+      "obs": "Site oficial charmex.ch completo (~50 coleções atuais, fotos PNG). Antigos: Ashford (~70 fichas), allwatches.org, lojas russas/ucranianas (alltime, harold, swiss-time, gold.ua, bestwatch), Woot, Hourstriker, eBay. CX Swiss Military excluída (linha 346). Conflitos de coleção em 2401, 2436, 1815/1816 anotados na coluna E. Firecrawl sem créditos. Próxima: Charriol (287), maison com muitas referências — provavelmente GRANDE."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3724,32 +3742,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-27T14:46:00Z",
-  "ultimo_sinal": "2026-10-27T15:28:27Z",
-  "em_andamento": {
-    "marcas": [
-      "Charmex"
-    ],
-    "linha_marcas": 286,
-    "grande": true,
-    "relogios": "historico/parcial_Charmex_relogios.txt",
-    "fontes": "historico/parcial_Charmex_fontes.txt",
-    "notas": "historico/notas_Charmex.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a"
-    ],
-    "passada": 3
   }
 }
