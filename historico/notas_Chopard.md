@@ -6,3 +6,4 @@
 - WatchBase: alpine-eagle e l-u-c abertas; imperiale client_error.
 - EveryWatch marca: "Only collectors" (bloqueado); anúncios individuais abrem.
 - CollectorSquare índice aberto (refs curtas antigas).
+- thewatchcompany p2,3,6,7 (refs; fotos lazy, C = link da lista). Wristler happy-sport p1,2,8 (10 páginas; outras não vieram em busca).
