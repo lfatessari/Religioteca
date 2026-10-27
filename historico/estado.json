@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 283,
- "ultima_versao": 248,
+ "proxima_linha_marcas": 284,
+ "ultima_versao": 249,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3659,6 +3659,24 @@
     "1": 45
    },
    "obs": "Relógios-joia femininos de Neuchâtel (Keyvan Lamé, 2015). Loja oficial champselyseeswatch.com: 21 produtos; 15 sem foto (fichas não vieram em busca; link da página na C). Mercado de usados vazio. Firecrawl sem créditos. Próxima: Chanel (283, grande)."
+  },
+  {
+   "data": "2026-10-27",
+   "versao": 249,
+   "marca": "Chanel",
+   "linha_marcas": 283,
+   "linhas_relogios": "42183-42819",
+   "relogios": 637,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – chanel.com (listas JS só 24 itens; fichas só via busca; fotos não aparecem)",
+   "fontes": 178,
+   "passadas": {
+    "1": 113,
+    "2": 32,
+    "3": 33
+   },
+   "obs": "464 linhas com referência H####; 325 com foto direta, 312 com link de página na coluna C. Fontes-chave: GINZA Rasin (fotos), Essential Watches, Piazo (artigos anuais), Watchonista, Gressive. Alta joalheria/Mademoiselle Privé e vintage (Première/Mademoiselle/Matelassé 1987-2000) incompletos. Firecrawl sem créditos. Pista: pressroom.chanel.com (PDFs). Próxima: Charles Frodsham & Co. (284)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

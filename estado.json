@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 283,
- "ultima_versao": 248,
+ "proxima_linha_marcas": 284,
+ "ultima_versao": 249,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3659,6 +3659,24 @@
     "1": 45
    },
    "obs": "Relógios-joia femininos de Neuchâtel (Keyvan Lamé, 2015). Loja oficial champselyseeswatch.com: 21 produtos; 15 sem foto (fichas não vieram em busca; link da página na C). Mercado de usados vazio. Firecrawl sem créditos. Próxima: Chanel (283, grande)."
+  },
+  {
+   "data": "2026-10-27",
+   "versao": 249,
+   "marca": "Chanel",
+   "linha_marcas": 283,
+   "linhas_relogios": "42183-42819",
+   "relogios": 637,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – chanel.com (listas JS só 24 itens; fichas só via busca; fotos não aparecem)",
+   "fontes": 178,
+   "passadas": {
+    "1": 113,
+    "2": 32,
+    "3": 33
+   },
+   "obs": "464 linhas com referência H####; 325 com foto direta, 312 com link de página na coluna C. Fontes-chave: GINZA Rasin (fotos), Essential Watches, Piazo (artigos anuais), Watchonista, Gressive. Alta joalheria/Mademoiselle Privé e vintage (Première/Mademoiselle/Matelassé 1987-2000) incompletos. Firecrawl sem créditos. Pista: pressroom.chanel.com (PDFs). Próxima: Charles Frodsham & Co. (284)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3673,34 +3691,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-27T11:41:45Z",
- "ultimo_sinal": "2026-10-27T12:38:57Z",
- "em_andamento": {
-  "marcas": [
-   "Chanel"
-  ],
-  "linha_marcas": 283,
-  "grande": true,
-  "relogios": "historico/parcial_Chanel_relogios.txt",
-  "fontes": "historico/parcial_Chanel_fontes.txt",
-  "notas": "historico/notas_Chanel.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2"
-  ],
-  "passada": 3,
-  "acc": "historico/acc_Chanel.txt"
  }
 }

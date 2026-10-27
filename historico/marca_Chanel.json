@@ -1,0 +1,902 @@
+{
+ "marca": "Chanel",
+ "usa_codigos": true,
+ "logo": "https://www.gressive.jp/sites/default/files/brandLogo/164.jpg",
+ "site_bloqueado": "Parcial – chanel.com: listas carregam só 24 produtos (JavaScript), fichas só abrem quando vêm de busca e as fotos não aparecem na leitura automática; revisitar com navegador",
+ "observacoes": "I marcado '[⚠️ verificar]': datas conferem (Première 1987, J12 2000, Boy·Friend 2015, Monsieur 2016, Code Coco 2017). G: site de relógios em chanel.com/…/watches. Linhas antigas (Matelassé 1995, Mademoiselle, Chocolat, La Ronde) não constam em J.",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.chanel.com/ae-en/watches/collection/c/4x2/",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.chanel.com/ae-en/watches/collection/c/4x2/page-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chanel.com/ae-en/watches/collection/c/4x2/page-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chanel.com/ae-en/watches/collection/c/4x2/page-4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/pages/chanel-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/chanel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/242-chanel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ippojapanwatch.com/collections/chanel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchmaxx.com/chanel-watch-h5697",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/chanel-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bernardwatch.com/question.cfm?BWID=CNL47",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://asset.everywatch.com/chanel/j12/watch-13091280",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chanel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/?p=93827",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/t01/list10.html",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/list.html",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/102896/t01/list1.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/102896/t01/list2.html",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/102896/t01/list4.html",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/86065/t01/list2.html",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/86065/t01/list3.html",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/91023/t01/list2.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/91023/t01/list7.html",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/102993/list.html",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/54413/t01/list6.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://komehyo.jp/chanel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chanel.com/us/watches/p/H7430/j12-baguette-diamond-bezel-watch-caliber-12-2-33-mm/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=2",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.chanel.com/us/watches/premiere/c/4x2x2/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.chanel.com/au/watches/premiere/c/4x2x2/page-2/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/j12/c/4x2x1/page-2/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/j12/c/4x2x1/page-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/collection/c/4x2/page-4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/chanel/j-12/lpi",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/chanel/j12-gmt/lpi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/chanel/mademoiselle/lpi",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/t01/list7.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/91023/list.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chanel/hotitem?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/watch/chanel/h5697",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/article/20200302-CHANEL-J12-Paradoxe-H6515/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://piazo.jp/chanel/j12/refH1178/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://piazo.jp/chanel/j12/refH1182/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chanel/j12/refH1008/watch203/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chanel/j12/refH0969/watch359/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chanel/j12/refH4562/watch16523/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chanel/j12/refH4665/watch16434/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chanel/premiere/refH0001/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chanel/premiere/refH0451/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://komehyo.jp/product/230-000-574-9569/?wovn=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/chanel-watch-releases",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/chanel-watches-and-wonders?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/j12/c/4x2x1x2/j12-black/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/j12/c/4x2x1x1/white-ceramic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chanel.com/es/relojes/boy-friend/c/4x2x3/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/les-signatures-de-chanel/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.chanel.com/us/watches/artistic-craft-watches/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/code-coco/c/4x2x8/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chanel.com/gb/watches/monsieur/c/4x2x6/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/chanel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gc-yukizaki.com/k/watch/chanel/ mademoiselle",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.ramsdensjewellery.co.uk/chanel/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chisholmhunter.co.uk/content/ultimate-guide-to-chanel-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gc-yukizaki.com/en/k/watch/chanel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://orrsjewelers.com/collections/chanel?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gc-yukizaki.jp/k/watch/chanel/like_new/mens?page_no=31",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/chanel-j12-superleggera-chronograph-h3410-25399",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chanel-vintage-watch/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chanel-j12-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=3",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=4",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=5",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=6",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=7",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=8",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=9",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches/?paging=12",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chanel/watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.essential-watches.com/Chanel-allwatches",
+   "passada": 1,
+   "novos": 45
+  },
+  {
+   "url": "https://www.watchguynyc.com/collections/chanel/under-5000",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chanel/j12-chronograph",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chanel/j12-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronext.com/chanel/j12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chanel/mademoiselle-prive",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chanel/j12-moonphase",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/chanel",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watches-of-switzerland.co.uk/c/Brands//CHANEL",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/en-int/collections/chanel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/chanel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/article/CHANEL-2025-new-models/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.rasin.co.jp/blog/chanel_2023/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.rasin.co.jp/blog/chanel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/article/CHANEL-2022-new-models/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.rasin.co.jp/blog/chanel-2021/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.rasin.co.jp/blog/chanel2020/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/blog/chanel/premiere",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.gressive.jp/catalog/chanel",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/chanel-watch-releases-2024",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://swisswatches-magazine.com/watches-wonders-2026-chanel/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_sihh-and-basel/6657",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/chanel/201929",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/chanel/142772",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/chanel/151268",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/chanel/225452",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/chanel/HK080424/8130",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castafiore.com/collections/montres-chanel.oembed?page=4",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chanel/matelasse-wristwatch/lpi",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chanel/premiere/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/719-chanel-premiere-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chanel/mademoiselle/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/chanel/j-12/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chanel-matelasse-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/chanel-mademoiselle-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/chanel/boyfriend",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/chanel/premiere/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/chanel/j-12/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chanel/hotitem?page=3",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.g-rare.com/column/chanel-mademoiselle-watch-regularprice/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.g-rare.com/column/chanel-matelasse-watch-regularprice/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/brand/シャネル/マトラッセ/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://komehyo.jp/brand-note/article/4946",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-rare.com/column/chanel-premiere-regularprice/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-rare.com/column/chanel-j12-regularprice/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-rare.com/column/chanel-watch-popular/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chanel/Boy-Friend/Ladies",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://piazo.jp/article/20160708-chanel-h4557/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chanel.com/us/exceptional-creations/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://phillips.com/detail/chanel/90057",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/pFcog",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/chanel/watch-9008949",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chanel-j12-collection-novelties-14645.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chanel-at-the-gphg-2013-15975.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/article/Baselworld2017-CHANEL-new-models-review/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://piazo.jp/article/Baselworld2016-CHANEL-new-models-review/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://piazo.jp/article/BASELWORLD-2018-CHANEL-novelties-News/",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://piazo.jp/article/CHANEL-BASELWORLD-2019-new-models/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://piazo.jp/article/Chanel-Baselworld-2020-new-models/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2018/basel/chanel/index.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2015/basel/chanel/03-02.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_sihh-and-basel/950605",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.malaymail.com/news/life/2016/03/22/chanel-brings-beige-gold-to-its-new-watches-at-baselworld-2016/1084609",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2017/basel/flash-report/chanel/index.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/chanel/news/baselworld-2013-chanel-watches-10th-year-basel-watch-fair-10th-anniversary-j12-white",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chanel-at-baselworld-new-timepieces-for-2016-21355.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/chanel-the-premiere-is-30-years-young-24413.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kaitori-daikichi.jp/column/brand/chanel/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/chanel-code-coco-oversize-h6354/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/22321-montre-chanel-code-coco-cadran-laque-noir-serti-bracelet-ceramique-haute-resistance-noire-h9835.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/watches/chanel/j12/h5701",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/watches/chanel/j12/h5703",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/13438/54413/t01/list9.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/s1237165203",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://hikakaku.com/blog/all-category/watch/high_brand_watch/chanel-watch/967/",
+   "passada": 3,
+   "novos": 11
+  },
+  {
+   "url": "https://piazo.jp/chanel/boy-friend/",
+   "passada": 3,
+   "novos": 21
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/brand/シャネル/ボーイフレンド/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/article/20240414-chanel-watchesandwonders2024/",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/chanel-watches-and-wonders-2024.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/chanel/j12/refH1173/watch25778/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://mrstateless.com/chanel-watches-wonders-2026-new-j12-and-coco-game-collection/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mansworldindia.com/watches/at-chanel-watches-and-wonders-2026-wasn-t-about-one-headline",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://katerinaperez.com/articles/chanel-timepieces",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://whitewall.art/lifestyle/chanel-celebrates-20-years-of-j12-with-new-models/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.optionstheedge.com/node/4990",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/brand/シャネル/J12/ref/h3406/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/brand/シャネル/プルミエール/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/brand/シャネル/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.russh.com/chanel-watches-and-wonders-releases-2024/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeinternational.co.id/watches-and-wonders-picks-chanel-haute-horlogerie/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.russh.com/chanel-2023-watch-releases-watches-and-wonders/",
+   "passada": 3,
+   "novos": 13
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/chanel-watches-and-wonders-2025-j12-tourbillon-lion-pop-art/",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://fratellowatches.com/watches-wonder-2021-chanel-introduce-its-new-collection-electro",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://m.scmp.com/magazines/style/luxury/article/3173574/style-edit-chanel-unveils-new-timepieces-watches-wonders",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.russh.com/chanel-watches-and-wonders-2025-releases/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://robbreport.com.my/style/watches/chanel-dubai-watch-week-2025/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.10magazine.com.au/articles/chanel-watches-and-wonders",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://www.chanel.com/us/watches/manufacture-movement-watches/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chanel.com/gr/watches/fine-watchmaking-movements",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chanel.com/us/watches/watch-manufacture/gem-setting-workshop/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

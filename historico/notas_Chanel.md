@@ -8,3 +8,4 @@
 - Marca VERMELHA: J12 tem centenas de variações (refs H0xxx–H11xxx), alta joalheria/peças sem ref, vintage (Première/Mademoiselle/Matelassé 1987–2000) com refs pouco publicadas.
 - 2ª passada: foco em refs vintage H0xxx, Boy-Friend, Première Rock, Mademoiselle Privé, J12 joaillerie/chromatic, edições limitadas.
 - 2ª passada encerrada 12:27 UTC: 3 seguidas sem novidade (Watchonista 2013, WorldTempus 2016, WorldTempus Première 30 anos). Trouxe ~50 relógios → 3ª passada obrigatória.
+- 3ª passada encerrada 12:41 UTC: 3 seguidas sem novidade (páginas oficiais manufacture-movement, fine-watchmaking, gem-setting). 'J12 Boat Race' é evento, não relógio. Pista para o futuro: pressroom.chanel.com (PDFs oficiais de imprensa).
