@@ -8,3 +8,5 @@ Coleções vistas: Apollo, La Magnum (quartzo e automático), Topanga, La Duel, 
 - Códigos CMnn só em parte das fichas (Magnum quartzo em geral sem) → usa_codigos=false; código entra quando visto.
 - L'Île Bleue p.2 (17 itens) não alcançada. La Venus (antiga) só por título de busca. Venus → renomeada Phoenix?
 - Códigos CMnn confirmados em ~35 fichas → usa_codigos=true (Magnum quartzo 35 mm muitas vezes sem código na ficha). Sites antigos da marca: chezmaman-montres.com e chezmaman-timepieces.com (robots) – só títulos de busca.
+- 1ª passada encerrada: últimas 7+ fontes sem modelo novo. Vermelho: p.3 da coleção não alcançada, sites antigos chezmaman-montres.com / chezmaman-timepieces.com bloqueados (modelos antigos Venus/Primo). 2ª passada: buscar títulos desses sites e lojas.
+- 2ª passada: 10 fontes, 3 novos (La Goa por título; 2 reedições Lip × Chez Maman 2012, 145 peças). <5 → sem 3ª passada. Kalitrust: 'Est. 2018'.

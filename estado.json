@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 290,
- "ultima_versao": 255,
+ "proxima_linha_marcas": 291,
+ "ultima_versao": 256,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3782,6 +3782,23 @@
     "3": 34
    },
    "obs": "Site oficial (fichas W8xxxx com fotos cdn/shop/files e asset.chaumet.com). Antigos: thewatchcompany (foto pelo padrão media/catalog/.../C/h/Chaumet-<Linha>-<REF>.jpg, confirmado 5x), CollectorSquare (foto medias.collectorsquare.com/images/products/<ID>/00pp-<slug>.jpg, confirmado 2x), castafiore oembed, 58facettes, GPHG (código no nome do arquivo), Yahoo Leilões/Yodobashi/Piazo/brandrevalue (Japão: muitos códigos W06/W01/W03/W04/W17/W11). EveryWatch e eBay bloqueados; Chrono24 sem resultados; Firecrawl sem créditos. 120 linhas só com link da página. Próxima: Chez Maman (290)."
+  },
+  {
+   "data": "2026-10-27",
+   "versao": 256,
+   "marca": "Chez Maman",
+   "linha_marcas": 290,
+   "linhas_relogios": "44540-44621",
+   "relogios": 82,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – chezmaman.com (p.3 da coleção não alcançada); chezmaman-montres.com e chezmaman-timepieces.com (robots)",
+   "fontes": 77,
+   "passadas": {
+    "1": 67,
+    "2": 10
+   },
+   "obs": "Loja multimarcas Shopify; marca própria na coleção /collections/chez-maman (p.1,2,4 abertas; p.3 não veio em busca). Códigos CMnn na descrição das fichas (/products/<handle>), nem todas trazem. Sites antigos da marca (chezmaman-montres.com, chezmaman-timepieces.com) bloqueados: só títulos de busca (La Venus, La Goa, Primo Olive CM10). Inclui 2 reedições Lip × Chez Maman (2012, 145 peças). Firecrawl sem créditos. Próxima: Chopard (291), GRANDE."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3796,25 +3813,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-27T19:41:43Z",
- "ultimo_sinal": "2026-10-27T19:56:58Z",
- "em_andamento": {
-  "marcas": [
-   "Chez Maman"
-  ],
-  "linha_marcas": 290,
-  "grande": false,
-  "relogios": "historico/parcial_Chez Maman_relogios.txt",
-  "fontes": "historico/parcial_Chez Maman_fontes.txt",
-  "notas": "historico/notas_Chez Maman.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "7"
-  ],
-  "passada": 1
  }
 }
