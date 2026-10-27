@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 292,
- "ultima_versao": 257,
+ "proxima_linha_marcas": 293,
+ "ultima_versao": 258,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3817,6 +3817,24 @@
     "3": 14
    },
    "obs": "Foto oficial pelo padrão objects-prod.cdn.chopard.com/.../ProductsAssets/Web/<REF>_01.png (confirmado na ficha 298600-3001), usado em ~220 refs vistas no site oficial ou à venda nova (Wempe 2026). ~250 com foto de lojas/eBay/1stDibs/Bucherer/Berry's; ~630 só com link da página (WatchBase, Hourstriker, Wristler, CollectorSquare lpi, The Watch Company). EveryWatch bloqueado, WatchBase imperiale com erro, Chrono24 sem resultados, Firecrawl sem créditos. Marca inesgotável (milhares de refs vintage): vermelho. Próxima: Chotovelli & Figli (292)."
+  },
+  {
+   "data": "2026-10-27",
+   "versao": 258,
+   "marca": "Chotovelli & Figli",
+   "linha_marcas": 292,
+   "linhas_relogios": "45724-45865",
+   "relogios": 142,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – chotovelli.it (robots); chotovelli.com páginas 2+ de algumas coleções",
+   "fontes": 191,
+   "passadas": {
+    "1": 159,
+    "2": 20,
+    "3": 12
+   },
+   "obs": "Loja oficial Shopify (coleções + ~70 fichas abertas via busca site:, foto og:image). Linhas antigas (Torino TS 7000/7300/7900/3600, JTS 3900/4000, G1-G4, MITO) via allwatches.org (foto pelo padrão media/watches/chotovelli/<slug>.jpg, confirmado 2x), Touch of Modern, BensonTrade. ~35 linhas só com link da página. Marca tratada como grande (>80 produtos): Chouette (293) e Chris Benz (294) ficam para as próximas. Firecrawl sem créditos. Próxima: Chouette (293)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

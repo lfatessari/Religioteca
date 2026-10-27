@@ -1,0 +1,972 @@
+{
+ "marca": "Chotovelli & Figli",
+ "usa_codigos": true,
+ "logo": "https://chotovelli.com/cdn/shop/files/logoewer_clipped_rev_1_x50.png?v=1768948469",
+ "site_bloqueado": "Parcial – chotovelli.it (robots); chotovelli.com: páginas 2+ de algumas coleções e fichas antigas não alcançadas; revisitar com navegador",
+ "observacoes": "B/C: o site oficial e a imprensa (Press Farm, Kickstarter) dizem que a marca fica em Antuérpia (Bélgica), com design de inspiração italiana; a WatchReport cita Torino. G vazio: site chotovelli.com (também chotovelli.it). H vazio: Instagram @chotovelli.watches. Marca desde 2005 (família relojoeira desde o fim dos anos 1920). J genérico: linhas reais são 747 Big Pilot, 5200/5300 Aviator Pilot, 7200 Vintage, 3000/3300 Aviator, 8000 Gauge, 1919 Flieger, 1949 Navigator, 5900 Navy, 3400 Airman, Skipper, Octagon e a antiga Torino (TS 7000/7300/7900).",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://wristwatchreview.com/measuring-time-with-the-chotovelli-gauge",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/watch-review-chotovelli-figli-pilot-aviator-watch-jts-5200-11/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/176352829174",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/187530206902",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/chotovelli-airliner-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=11552",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/watch-review-chotovelli-figli-pilot-aviator-watch-jts-5200-11/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/introducing-the-chotovelli-flieger",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chotovelli.com/products/big-pilot-747-12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chotovelli.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?q=chotovelli&constraint=multi-function",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://chotovelli.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/top-20-mens-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://chotovelli.com/collections/pilot-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://chotovelli.com/collections/vintage-pilot-watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://chotovelli.com/collections/flieger-1919",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://chotovelli.com/collections/all",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?q=chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/big-pilot-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://chotovelli.com/collections/1949-navigator",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://chotovelli.com/collections/5900-navy-pilot",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chotovelli.com/collections/airman-3400",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?page=5&q=chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/all/mens-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/gauge-watch",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://chotovelli.com/collections/best-aviation-watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://chotovelli.com/collections/skipper",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chotovelli.com/collections/cinturino",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://chotovelli.com/collections/rotek-gamma-dive-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://chotovelli.com/collections/sale-pilot-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/the-paneda-watch/tool-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?constraint=made-in-belgium&q=Chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-pilot-watch-5200-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navigator-tipo-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/the-skipper-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/big-pilot-watch-ts-747-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/1919e-flieger",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chotovelli.com/products/big-pilot-watch-747-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/flieger-1919b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/airliner-3300-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/airliner-3000-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-airliner-3000-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-airliner-3000-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/big-pilot-watch-ts-747-03?variant=42109380296782",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navigator-tipo-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navigator-pilot-tipo-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navigator-pilot-tipo-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navigator-tipo-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-4000-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navy-pilot-5900-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navy-pilot-5900-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/navy-pilot-5900-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/tool-pilot-3400-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/tool-pilot-3400-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/tool-pilot-3400-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/tool-pilot-3400-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-8000-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-8000-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-8000-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-8800-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/chotovelli-dashboard-jts-8000-7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-8800-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-airliner-3000-14",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-15?variant=1231253224",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/7900-5-big-navy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/cinturino-sant-marti-cuatro",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/cinturino-diagonal-d",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/cinturino-diagonal-c",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/cinturino5-casual-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chotovelli.com/products/cinturino-sant-marti-tres",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/rotek-gamma-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/rotek-gamma-two-dive-inspired-sports-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/top-10-mens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/pages/about-best-pilot-watches-online",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/all/chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/all/flieger-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/top-7-pilot-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/1919f-flieger",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/flieger-1919a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/chotovelli-pilot-jts-7200-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/vintage-pilot-jts-7200-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/chotovelli-jts-7200-14-vintage-pilot-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-pilot-watch-jts-5200-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-pilot-watch-5200-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/en-gb/products/aviator-pilot-watch-jts-5200-13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/en-gb/products/aviator-pilot-watch-jts-5200-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/black-paneda",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/paneda-chronowhite",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/paneda-chronoblue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/big-pilot-747-13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-pilot-watch-jts-5200-14",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-pilot-watch-jts-5200-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-pilot-watch-jts-5200-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/vintage-pilot-jts-7200-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/vintage-pilot-jts-7200-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/vintage-pilot-jts-7200-13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/vintage-pilot-jts-7200-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/the-octagon-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chotovelli.com/collections/vintage-pilot-watches/7200",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?constraint=italian-leather&q=Chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/1919-flieger",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?q=Cinturino",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/chotovelli-jts-7200-4-vintage-pilot-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-airliner-3000-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-16",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviator-airliner-3000-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/cinturino-diagonal-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/all/chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/skipper/skipper-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?constraint=big-pilot-watch&q=chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/blogs/news/49268484-watch-review-chotovelli-pilot-aviator-5200-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/flieger-1919d",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/aviation-watch-3300-13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?q=chotovelli&constraint=1919",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/the-paneda-watch/canvas-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?q=cinturino",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/collections/vendors?q=chotovelli&constraint=suede-leather-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/chotovelli-timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/chotovelli-sons",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.ebay.com/b/Chotovelli-Wristwatches/31387/bn_7116487033",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://picclick.co.uk/Popular/chotovelli-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.storkz.com/chotovelli-330022.html?currency=AUD&country=AU",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/357976257218",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.it/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/chotovelli-sons/chotovelli-italian-navy-automatic-7900-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/chotovelli-sons/chotovelli-big-pilot-quartz-7900-8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/chotovelli-sons/chotovelli-big-pilot-quartz-7900-7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/chotovelli-sons/chotovelli-big-pilot-quartz-7900-9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.com/Clothing-Shoes-Jewelry-chotovelli/s?rh=n%3A7141123011%2Cp_4%3Achotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandwatchworld.com/reviews/hands-on-review-chotovelli-aviation-chronograph-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.com/stores/CHOTOVELLI/page/DD162FFF-0D37-49BD-808A-5616DE840EB5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/site/chotovelli_shop.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bensontrade.com/watches/chotovelli",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/chotovelli-figli-718640b8-92c9-4912-a31c-758f73bcb433",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forums.watchuseek.com/f29/fs-chotovelli-figli-ts5900-new-182821.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christopherwardforum.com/other-brands/chotovelli-figli-t1753.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxury4play.com/threads/l4p-exclusive-chotovelli-watch-review.4963/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/124115162371",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aviation-time.com/935/_chotovelli_ts_7900-7_gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/blogs/news/115027396-l4p-exclusive-chotovelli-ts-7000-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaminskyblog.com/2017/02/11/chotovelli-gauge-watch-jts-8000-3-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/blogs/news/tagged/review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/13793387-chotovelli-big-pilot-uboat-50mm-chronograph-watch-ref-747-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bensontrade.com/watches/chotovelli/chotovelli-ts-9900-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bensontrade.com/watches/chotovelli/chotovelli-ts-7000-5-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetoblogwatches.com/2016/09/17/watch-review-chotovelli-figli-petrolhead/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://forums.watchuseek.com/f2/chotovelli-launched-new-automotive-watch-collection-856395.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/a/press-kit/press-release/brgthsey/chotovelli-flieger-reinventing-the-pilot-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sites.google.com/site/maisiebradleyjwqc/chotovelli-torino-ts-7000-3-big-pilot-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/a/press-kit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/cinturino/redefining-luxury-watches-chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/cinturino/old-school-pilot-watch-chotovelli",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/cinturino/reinventing-pilot-watches-chotovelli-and-figli/posts/2621404",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://press.farm/chotovelli-figli-watches-time-pieces-with-history/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://www.kicktraq.com/projects/1786652269/reinventing-pilot-watches-chotovelli-and-figli/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/chotovelli/?page=2",
+   "passada": 2,
+   "novos": 16
+  },
+  {
+   "url": "https://www.watchmaster.gr/watches/chotovelli/7000.4.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bensontrade.nl/horloges/chotovelli/chotovelli-ts-7900-4",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "http://live.prokhorenko.us/2009/06/chotovelli-torino-watches.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.com.mx/Chotovelli-7900-9-Pilot-Display-Leather/dp/B00DRG2PAM",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/de/chotovelli-torino-ts-7900-5-mens-watch-p92612/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://allwatches.org/de/chotovelli/",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://allwatches.org/en/chotovelli-figli-8800-5-gauge-watch-p131212/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com.my/itm/285328278870",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/233485484355",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://il.ebay.com/b/Chotovelli-Wristwatches/31387/bn_7116487033",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-8800-2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/jts-4000-2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.it/collections/jts-8000-series/products/jts-8000-5",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.in/products/17035240-chotovelli-7300-3-big-pilot-watch-with-black-dial-analog-display-and-black-leather-strap-52-mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/cinturino/cinturino-minimal-travel-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/11054563405",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.it/collections/types?q=mito",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.it/collections/7900",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.it/products/jts-5200-13",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://montre24.com/brand/Chotovelli/Chotovelliwatch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.ca/sch/i.html?_nkw=chotovelli&_sacat=0",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/chotovelli-watches?_nkw=chotovelli+watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ubuy.ec/en/product/N2S81V102-chotovelli-men-s-flieger-pilot-watch-black-b-uhr-dial-chronograph-domed-crystal-vintage-leather-band-tipo-11",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pinterest.com/chotovelli/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pinterest.com/pin/chotoveli-big-in-pilot-watches-chotovelli-son-10-years-in-the-watch-business--354588170639345922/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://co.pinterest.com/pin/92042386119731938/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://uk.pinterest.com/pin/438186238716279447/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://italwatch.com/blogs/news/34670276-chotovelli-son-italian-watch-makers",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/big-pilot-watch-jets-747-04",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/products/big-pilot-747",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://chotovelli.com/blogs/news/81681092-video-review-vintage-pilot-watch-chotovelli-7200-1",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
