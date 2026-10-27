@@ -5,3 +5,6 @@
 - Usa códigos: sim (4 dígitos, às vezes "S2936", "CX-3036").
 - Firecrawl sem créditos.
 ## Seções: 1 feito (grande)
+- Site oficial charmex.ch EXISTE (abre): hoje "Montres Charmex Ltd. – Bespoke Private Label Manufacturing". Catálogo PDF 2015/16: charmex.ch/images/instructions/catalogue2016.pdf. Fotos padrão charmex.ch/images/<Pasta>/<Nome><ref>.png.
+- CX Swiss Military (divers 20'000 Feet, Argonaut, Stingray, 12'000 Feet) = marca própria na linha 346 → NÃO entram aqui.
+- Wallstreet 2936 conflita com eBay "Zermatt II S2936" (aparentemente anúncio errado/código antigo). Mantido Wallstreet.
