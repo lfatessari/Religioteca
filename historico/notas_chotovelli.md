@@ -22,3 +22,4 @@ Octagon the-octagon-watch (variantes?)
 Fora do site: 17-8 Hellbraun Fliegeruhr 47mm (eBay título), Flieger (Kickstarter, 44mm VH31), JTS 5200-11 = AV 5200-11.
 Seções feitas: 1, 2 (coleções). Falta: fichas (fotos), 2c, 3–10b.
 About: Antwerp, Bélgica (Ilan e Tami Chotovelli, 3ª geração, marca desde 2005, 1ª coleção 2006). Watchreport diz Torino. B=Itália na planilha -> observar em M.
+Seções 2/2c feitas (todas coleções, fichas). Cinturino p2 não alcançada, mas nomes completos via p1 + buscas. Falta 3–10b (fontes externas).
