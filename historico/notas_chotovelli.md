@@ -27,3 +27,4 @@ Seções 2/2c feitas (todas coleções, fichas). Cinturino p2 não alcançada, m
 VERMELHA: linhas antigas (TS 7000-x, TS 7900-1..4?, TS 9900-x, JTS antigos 2005-2015) só aparecem por títulos; certamente há mais referências. 2ª passada: focar linhas antigas.
 Auto-auditoria 10b: blog atual (2 artigos genéricos) e tagged/review lidos; press-kit lido (1 release); site: products feito até sem handles novos; lojas: ToM, BensonTrade, eBay (bloqueado itens); primeiro modelo: 1ª coleção 2006 "Retro Pilot" sem nome; J (Aviator, Pilot Chronograph, Big Pilot) encontrados; edição limitada 999 (3300-11) na B.
 Allwatches: imagem cheia = media/watches/chotovelli/<slug>.jpg (confirmado na ficha TS 7900-5); slug G1 etc chutado -> conferir.
+2ª passada: 20 fontes (allwatches p1/p2 = maior ganho). chotovelli.it robots. allwatches p3 não veio em busca. Encerrada (últimas 3 sem novidade). 3ª passada necessária (>=5 novos).
