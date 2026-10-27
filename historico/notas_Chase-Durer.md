@@ -7,3 +7,4 @@ Firecrawl: sem créditos.
 - Hoje: grupo Invicta (site oficial com metadado glycine.com; venda em invictastores / invictawatchco; linha "Invicta Chase Durer" com refs 695xx).
 - allwatches.org: 6 páginas (~100); abertas p.1, p.5, pilot, special-forces, ladies(via similar). Páginas 2,3,4,6 não vieram em busca.
 - FOTO OFICIAL: imperiouswatch.com/storage/products/<ID>/<ID>-catalogshot_375x502.jpg (confirmado em imperiouswatch.com/watches/CDW-0001 = 45617). ID = número da âncora #featuresNNNNN da página oficial. 0001-0019: 45616+N; 0026-0036: 51876+N; 0052-0057: 52038+N; 0025=51837.
+- 19 códigos vieram só de títulos de resultados de busca (eBay.de não abre; Invicta Stores sem foto) — coluna C = link do anúncio.
