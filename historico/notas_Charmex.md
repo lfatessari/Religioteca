@@ -13,3 +13,5 @@
 ## 1ª passada encerrada (15:24 UTC): ~235 fontes; últimas 3 (harold coleções, budilkin marca, ru.wikipedia) sem novidade.
 - Decisão: VERMELHA. Motivo: centenas de referências antigas (1500–2400 masc., 5xxx–6xxx fem.) de coleções descontinuadas (Le Mans, St. Moritz, Milano, Lausanne, Venezia, Roma, Cologne, Oxford, Ermitage, Amarillo, Diplomat, Advokat, Trieste, Beauty, Monte Carlo…), só parte achada; catálogo PDF 2015/16 não legível.
 - 2ª passada: lojas russas/ucranianas (alltime, harold, budilkin, swiss-time, gold.ua), Ashford por coleção, coleções sem ref (Trieste, Beauty, Diplomat, Advokat, Amarillo).
+## 2ª passada encerrada (15:28 UTC): ~30 fontes, ~35 relógios novos (lojas russas/ucranianas/letãs, harold, ewatcheshouse, mbuy24, eBay, Amazon). Como trouxe ≥5, segue 3ª passada.
+- Conflitos: 2401 (Ashford "Zermatt" x ewatcheshouse "Trieste"); 2436 (harold "Amarillo" x watchestars "Diplomat"); 1815/1816 (eBay "Monaco" x Ashford/alltime "Milano").
