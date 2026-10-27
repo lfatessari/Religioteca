@@ -8,3 +8,4 @@
 - CollectorSquare índice aberto (refs curtas antigas).
 - thewatchcompany p2,3,6,7 (refs; fotos lazy, C = link da lista). Wristler happy-sport p1,2,8 (10 páginas; outras não vieram em busca).
 - Wristler imperiale p1,2; marca p1,4. Lepage p2. CollectorSquare lpi: your-hour, two-o-ten, superfast, la-strada. EveryWatch marca bloqueada. Chronext/astrua sem lista.
+- Hourstriker banco: p3,9,18 (22 páginas; outras não vieram em busca). Watchonista coleções sem refs.
