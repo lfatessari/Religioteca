@@ -11,3 +11,4 @@
 - 10:14 1ª passada ENCERRADA: 3 fontes seguidas sem novidade (chisholmhunter, kulta-center, gearpatrol). 124 fontes, 703 relógios.
 - VERMELHA: WatchBase tem 800+ refs (muitas só por título de busca); vintage (Blue Ribbon, Club 2000, Certidate, Argonaut, DS-2 etc.) com dezenas de refs não alcançadas; refs formato antigo (536.xxxx, C260.xxxx) quase não cobertas.
 - 2ª passada: alvo = vintage refs, formato antigo 1990–2007, produtos escondidos no site oficial (site:certina.com/watch), fotos.
+- 10:22 2ª passada encerrada (17 fontes, ~35 relógios novos) -> 3ª passada obrigatória: refs formato antigo 1990–2007 (260.xxxx, 536.xxxx, 616...), vintage.
