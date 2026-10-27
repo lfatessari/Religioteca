@@ -6,3 +6,5 @@ Coleções vistas: Apollo, La Magnum (quartzo e automático), Topanga, La Duel, 
 - Fichas trazem "Référence CMnn" na descrição → usa_codigos=true; buscar códigos de cada ficha.
 - URLs antigas Prestashop /fr/<cat>/<id>-<handle>.html redirecionam p/ Shopify; títulos antigos revelam variantes descontinuadas (La Duel Yin Yang Brown, La Magnum Merlot Brown).
 - Códigos CMnn só em parte das fichas (Magnum quartzo em geral sem) → usa_codigos=false; código entra quando visto.
+- L'Île Bleue p.2 (17 itens) não alcançada. La Venus (antiga) só por título de busca. Venus → renomeada Phoenix?
+- Códigos CMnn confirmados em ~35 fichas → usa_codigos=true (Magnum quartzo 35 mm muitas vezes sem código na ficha). Sites antigos da marca: chezmaman-montres.com e chezmaman-timepieces.com (robots) – só títulos de busca.
