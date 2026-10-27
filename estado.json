@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 293,
-  "ultima_versao": 258,
+  "proxima_linha_marcas": 294,
+  "ultima_versao": 259,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3835,6 +3835,19 @@
         "3": 12
       },
       "obs": "Loja oficial Shopify (coleções + ~70 fichas abertas via busca site:, foto og:image). Linhas antigas (Torino TS 7000/7300/7900/3600, JTS 3900/4000, G1-G4, MITO) via allwatches.org (foto pelo padrão media/watches/chotovelli/<slug>.jpg, confirmado 2x), Touch of Modern, BensonTrade. ~35 linhas só com link da página. Marca tratada como grande (>80 produtos): Chouette (293) e Chris Benz (294) ficam para as próximas. Firecrawl sem créditos. Próxima: Chouette (293)."
+    },
+    {
+      "data": "2026-10-27",
+      "marcas": [
+        "Chouette"
+      ],
+      "linha_marcas": 293,
+      "linhas_relogios": "45866",
+      "relogios": 1,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 16,
+      "obs": "Marca quase sem presença na web; Chris Benz (294) parece grande e fica sozinha na próxima. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3849,22 +3862,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-27T22:41:48Z",
-  "ultimo_sinal": "2026-10-27T22:45:18Z",
-  "em_andamento": {
-    "marcas": [
-      "Chouette"
-    ],
-    "linha_marcas": 293,
-    "grande": false,
-    "relogios": "historico/parcial_Chouette_relogios.txt",
-    "fontes": "historico/parcial_Chouette_fontes.txt",
-    "notas": "historico/notas_Chouette.md",
-    "secoes_feitas": [
-      "1",
-      "3"
-    ],
-    "passada": 1
   }
 }
