@@ -9,3 +9,4 @@
 - Últimas fontes sem novidade: christies x2, fellows, phillips 230115.
 - VERMELHO: centenas de referências W17xxx (Class One), W11xxx (Dandy), Khésis 11K/12K/22K, Style, Liens; muitos anúncios só por título; linha de alta joalharia com peças únicas não publicadas.
 ## Passada 2: buscar referências de Class One/Dandy/Khésis/Style em lojas japonesas e leilões; Bee My Love, Attrape-moi, Frisson, Jeux de Liens com código.
+## Passada 2 encerrada 19:27 (4 fontes seguidas sem novidade). Trouxe >5 → passada 3.
