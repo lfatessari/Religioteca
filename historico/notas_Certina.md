@@ -12,3 +12,4 @@
 - VERMELHA: WatchBase tem 800+ refs (muitas só por título de busca); vintage (Blue Ribbon, Club 2000, Certidate, Argonaut, DS-2 etc.) com dezenas de refs não alcançadas; refs formato antigo (536.xxxx, C260.xxxx) quase não cobertas.
 - 2ª passada: alvo = vintage refs, formato antigo 1990–2007, produtos escondidos no site oficial (site:certina.com/watch), fotos.
 - 10:22 2ª passada encerrada (17 fontes, ~35 relógios novos) -> 3ª passada obrigatória: refs formato antigo 1990–2007 (260.xxxx, 536.xxxx, 616...), vintage.
+- vivir.com (DS Jubile) citou C902.451.11.031.00, C902.451.16.031.00, C902.451.46.011.01 — não confirmados em busca; não incluídos.
