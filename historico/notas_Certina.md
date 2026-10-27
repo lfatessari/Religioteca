@@ -13,3 +13,11 @@
 - 2ª passada: alvo = vintage refs, formato antigo 1990–2007, produtos escondidos no site oficial (site:certina.com/watch), fotos.
 - 10:22 2ª passada encerrada (17 fontes, ~35 relógios novos) -> 3ª passada obrigatória: refs formato antigo 1990–2007 (260.xxxx, 536.xxxx, 616...), vintage.
 - vivir.com (DS Jubile) citou C902.451.11.031.00, C902.451.16.031.00, C902.451.46.011.01 — não confirmados em busca; não incluídos.
+## 10b Auto-auditoria
+1. Notícias oficiais (3 páginas; só a 1ª renderiza) lidas; lançamentos citados (Ebba Andersson LE — código não achado; Padel, Summer Ti, PH2000M, DS-X, DS Concept, Cascadeur) estão na lista, exceto Ebba Andersson (sem código/foto em fonte aberta).
+2. 2c: site oficial não tem /products; buscas site:certina.com/watch trouxeram poucas páginas; páginas de produto pedem permissão. Feito o possível.
+3. Lojas: Helveti (coleções), Laguarda (várias páginas), Ocarat, Jura, Teddy Baldassarre, Kulta, Steiner, FirstClass, Majestix.
+4. Primeiro modelo: DS 1959 (5601-003 / 5601-012) está; 1888/1939 sem modelo nomeado; Biostar 1971, Argonaut, Blue Ribbon, Club 2000, Certidate, New Art, Waterking, Chronolympic, Certronic, DS-3 estão.
+5. Nomes de I/J: DS Action Diver, DS PH200M, DS-1, DS Podium achados; "Aqua" é categoria de estilo do site.
+6. Edições limitadas na B com nº quando conhecido (PH1000M 1.000, Cascadeur 1.995, PH2000M STC 1.959). Sem peças únicas.
+7. 160 fontes (passada 1: 124; 2: 17; 3: 19).

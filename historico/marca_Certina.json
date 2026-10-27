@@ -1,0 +1,812 @@
+{
+ "marca": "Certina",
+ "usa_codigos": true,
+ "logo": "https://www.certina.com/themes/custom/certina2023/logo.svg",
+ "site_bloqueado": "Parcial – certina.com: listas mostram só 24 itens (paginação não carrega) e páginas de produto só via busca; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I termina com '[⚠️ verificar]': conferido com a história oficial (1888 irmãos Kurth, 1959 DS, 1983 SMH/Swatch Group) – ok. J: 'Aqua' é uma categoria de estilo do site, não um modelo.",
+ "fontes": [
+  {
+   "url": "https://www.certina.com/no/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/no/watch/all-watches",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.certina.com/no/watch/all-watches?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/products/ds-action-diver-new-ds-concept-titanium-38mm-blue-on-bracelet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/certina-watch-releases?page=4",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://whamond.com/collections/certina-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?p=14",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.certina.com/no/watch/special-and-limited-editions",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.certina.com/no/watch/quartz-watch",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.certina.com/no/ds-ph",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.certina.com/no/ds-1",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.certina.com/no/ds-2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.certina.com/no/ds-x",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.certina.com/no/watch/automatic-watch",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.certina.com/no/ds-action",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/no/vintage",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.certina.com/no/dress",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.certina.com/no/watch/small-watch",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.certina.com/no/watch/large-watch",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.certina.com/no/modern",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.certina.com/no/couple-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.certina.com/no/watch/men/chronograph-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.certina.com/no/watch/medium-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/no/watch/men/18-ct-gold-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/no/watch/men/leather-watch",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.certina.com/no/watch/men/green-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.certina.com/no/traveler",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.certina.com/no/outdoor",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/no/watch/iconic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/no/skeleton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/no/watch/women-watch?page=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?p=23",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://laguardajoiers.com/en/watches/certina.html?p=24",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?p=18",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?p=17",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://laguardajoiers.com/en/watches/certina.html?p=16",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?p=8",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://laguardajoiers.com/en/watches/certina.html?p=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?p=12",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?p=9",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/watches/certina.html?cat=150",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://everywatch.com/certina/ds/watch-10400888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/archive/products/certina-ds-royal-chronograph-panda",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jurawatches.co.uk/products/certina-watch-ds-royal-c0104101605100",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://majestixcollection.com/brands/certina/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://majestixcollection.com/watches/certina-ds-4-big-size-black-c0226101605100/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.watch.co.uk/certina-ds-action-lady-swiss-made-cosc-certified-chronometer-ladies-watch-with-date-c0329512208100.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/certina-watches-for-men?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/certina-watch-releases-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/certina-watch-releases/brand-certina?page=5",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.certina.com/gb/watch/ds-2-turning-bezel/c0246071104102",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/certina-ds-action-diver-43mm-powermatic-80-update-2022-ceramic-hands-on-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-7",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-action-c032-851-22-087-00",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/mens-watches-certina",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.helveti.eu/womens-watches-certina",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-podium",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-action",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-1",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-8",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-caimano",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-powermatic-80",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/vintage-certina-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristler.eu/watches/25588-certina-vintage",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/certina-ds-2-super-ph-500m-divers-circa-1960s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/16758647-certina-automatic-ds-2-superph---",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpool24.com/en/30734716/certina-argonaut-8401-501-nos",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/why-the-certina-argonaut-is-a-vintage-gem/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hairspring.com/?p=7718",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/certina-chronolympic-as01126",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ateliervictor.co/en/collections/vintage-certina-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/interview-vintage-certinas/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/first-execution-certina-ds-diver-5601-012",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/unpolished-1970s-certina-revelation-ref-5801-185m-vignette-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchpool24.com/en/30735075/certina-ds-5601-113-no-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpool24.com/en/30734649/certina-ds-5801-113",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/diver-vintage-actualizando-los-certina.555817/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107114662",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2098044/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.swatchgroup.com/en/services/archive/2009/certina-new-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/certina/?ae=22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/certina/?ae=22&p=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.certina.com/en/news/ds-cascadeur-1995-icon-returns-legend-reimagined-built-strength-designed-certainty",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.windvintage.com/certina-new-art-in-18k-gold",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/certina-watches/limited-edition-yes",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchonista.com/brands/certina/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/certina-ds-2-limited-edition-watch-high-end-precidrive-movement",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.laguardajoiers.com/en/certina-c029-907-11-031-00-ds-1-skeleton.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/products/ds-super-ph1000m-black-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-certina-ds-super-ph1000m-another-value-heavy-hit/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/collections/certina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/certina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004116054-certina-ds-action-diver-38mm-titanium-three-new.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/certina-ds-x-gmt-introducing/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2026/07/certina-ds-super-ph2000m-titanium-dive-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mrstateless.com/category/certina/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetransformed.com/2015/05/01/certina/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.certina.com/es/certina-universe/since1888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetransformed.com/2014/08/17/certina-ds-2014-limited-edition-dedicated-to-ole-einar-bjorndalen/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://electric-watches.co.uk/makers/certina/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://theswisscollector.com/en/certina/3424-certina-biostar-electronic.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/blog/2025/07/16/certina-watches-database-fully-revised-and-updated",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/certina/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/watch/certina/ds2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/certina-ds-winner-watch-for-gear-heads-motorcycle-lovers-and-alike",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/104748561-certina-ds-tradition-2010-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.swatchgroup.com/en/services/archive/2020/certina-ds-action-lady",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Certina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hans/l/104893702-certina-ds-titanium-1990-1999",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/certina-ds-3-vintage-excelente-estado.564301/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/certina-watches?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/blog/certina-ds-podium-elegancia-deportiva/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/certina",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-certina-ds-2-chronolympic-ref-8601-800-blue-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxurybazaar.com/product/certina-watch-c0036172605000/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/certina-certina-ds-master-8433.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helveti.eu/certina-ds-cascadeur",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nicols.es/en/ds-2/certina-ds-2-powermatic-80-c0244071803100-12544.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chisholmhunter.co.uk/certina-ds-action-lady-powermatic-80-34mm-watch-c032-207-11-046-00.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kulta-center.com/en/ambrands/certina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/certina-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-certina-ds-2-automatic-ref-5801-300-silver-dial",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/certina-club-2000-vintage-70s.432002/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-certina-ds-ref-5301-300-blue-vignette-spider-dial",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/certina-club-2000.400609/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096936-certina-ds-podium-chronograph.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/new-entries/certina-vintage-super-ph-1000m-ds-3-ref-919-1-stainless-steel-bj-1975-rare-8556.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/hands-on-new-certina-ds-super-ph1000m-1970s-inspired-dive-watch-vintage-reissue-specs-price",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hans/l/105807152-certina-waterking-4950853-1960-1969",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/certina-ds-2-chronolympic-ref-8501-300-valjoux-72-2000.77058/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timeanagram.com/products/31179",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/es/relojes/certina/lpi",
+   "passada": 2,
+   "novos": 23
+  },
+  {
+   "url": "https://fratellowatches.com/certina-argonaut-vintage-chronograph",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vermotetassocies.com/en/lot/181412/34578705-certina-montre-bracelet-rectangulaire-antimagnetic-en-or",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/certina-argonaut-220-con-esfera-en-dos-tonos-de-marr%C3%B3n-25-66.456427/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnet.co.jp/en/item/view/4672",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/certina-vintage-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/95481-certina-vintage",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hans/l/102696543-certina-argonaut-automatic-tv-case-cal-25-651-1960-1969",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://timeanagram.com/products/19975",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/375919383643",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/104199840-certina-ds-tradition-2010-2020",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/watch/certina/c0324293805100",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gearculture.com/goods/certina-ds-action-chrono/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/introducing-the-certina-phantom-ph200m-and-ph500m/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2020/01/certina-ds-super-ph500m.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/certina-ds-jubile-c902-451-41-011-00",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://vivir.com/article/certina-ds-jubile",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-920362",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zbozi.cz/vyrobek/certina-c022-610-11-031-00/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/certina/185507",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/certina/HK080423/985",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-227-31",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/certina-ds-ph200m-39mm-powermatic-80-automatic-watch-c0362071810600-p-82207/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-222-294",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-17-82",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnet.co.jp/en/item/view/1317",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
