@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 284,
- "ultima_versao": 249,
+ "proxima_linha_marcas": 285,
+ "ultima_versao": 250,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3677,6 +3677,22 @@
     "3": 33
    },
    "obs": "464 linhas com referência H####; 325 com foto direta, 312 com link de página na coluna C. Fontes-chave: GINZA Rasin (fotos), Essential Watches, Piazo (artigos anuais), Watchonista, Gressive. Alta joalheria/Mademoiselle Privé e vintage (Première/Mademoiselle/Matelassé 1987-2000) incompletos. Firecrawl sem créditos. Pista: pressroom.chanel.com (PDFs). Próxima: Charles Frodsham & Co. (284)."
+  },
+  {
+   "data": "2026-10-27",
+   "versao": 250,
+   "marca": "Charles Frodsham & Co.",
+   "linha_marcas": 284,
+   "linhas_relogios": "42820-42830",
+   "relogios": 11,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "Parcial – frodsham.com (páginas dos relógios de pulso não aparecem em busca)",
+   "fontes": 42,
+   "passadas": {
+    "1": 42
+   },
+   "obs": "Só relógios de pulso: Double Impulse Chronometer (2018) em aço, ouro rosa, ouro branco, ouro 22k, titânio (2025), arábicos orientais, cifras Royal Warrants, peça única Tribute to George Daniels; mais 3 relógios de pulso antigos (anos 1930-50). Relógios de bolso históricos (dezenas em leilões) não entraram. Firecrawl sem créditos. Charlie Paris (285) dimensionada como GRANDE (77 automáticos só na coleção <1000 €, mais quartzo e esgotados): fica sozinha na próxima execução."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3691,22 +3707,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-27T12:43:16Z",
- "ultimo_sinal": "2026-10-27T12:50:24Z",
- "em_andamento": {
-  "marcas": [
-   "Charles Frodsham & Co.",
-   "Charlie Paris"
-  ],
-  "linha_marcas": 284,
-  "grande": false,
-  "relogios": "historico/parcial_charlie_relogios.txt",
-  "fontes": "historico/parcial_charlie_fontes.txt",
-  "notas": "historico/notas_charlie.md",
-  "secoes_feitas": [
-   "Frodsham completa"
-  ],
-  "passada": 1
  }
 }
