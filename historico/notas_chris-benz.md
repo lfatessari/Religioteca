@@ -4,3 +4,8 @@
 - Códigos: CB-500(A)-<cor>-<pulseira> Deep 500M; CB-1000A/H Deep 1000M; CB-C300(X) Depthmeter Chrono 300M; CB-D200(X) Depthmeter Digital 200M; CBM One Medium; CBO One (Man); CB-DD200 Diamond Diver. Pulseira: KBS borracha preta, MB metal, NBS nylon.
 - Seções feitas: 1, 3 (parcial), 7 (Long Island)
 - Falta: check24 páginas, ebay, eBay Defense Kommando Diver, Dunkerbeck Speed Challenge (surf-magazin), seabreeze, divers24, taucher.net, watchpatrol, nextag, preissuchmaschine, gebraucht-kaufen, One Lady, Dolphin Aid, Deep 300?
+- Não abriram (client_error), usados só os títulos da busca: seabreeze Chris-Benz-Watches-Intl, nextag.de (4 páginas), preissuchmaschine.de, ebay.de/itm/336115103669, ebay.com/itm/126943282208, guenstiger.de. eBay /p/2107981144 traz foto placeholder.
+- Marca registrada desde 1996 (seabreeze). "13 modelos básicos em mais de 162 versões". Linhas: ONE, DEEP, DEPTHMETER, SURF&SAIL. Senhoras: "Sea anemone pink", "Caribbean blue" madrepérola.
+- taucher.net: 156 entradas (famílias: Deep 1000M, 1000M Automatic, 1000M Sharkproject, Deep 2000M Automatic (+GMT), Deep 500M Automatic, Deep 500M Chronograph, Defense Kommando, Depthmeter Chrono 200M/300M (Black Ed.), Depthmeter Digital 200M (Gold MK1, MK2), One Lady 200M (23), One Man (22), One Medium (20), Stars & Diamonds Diamond Diver (8), Surf & Sail B. Dunkerbeck Chrono 200M) — páginas individuais não indexadas.
+- Chrono24, EveryWatch, WatchPatrol: nada / bloqueado.
+- Seções feitas: 1,3,5,6,7(parcial),8(eBay)
