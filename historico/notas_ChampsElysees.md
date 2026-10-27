@@ -1,0 +1,12 @@
+# Champs Élysées (linha 282) — notas
+- Champs Élysées SA, Neuchâtel; fundador/CEO Keyvan Lamé; lançada Baselworld 2015 (vendas out/2015). Relógios-joia femininos £3.600–30.000. Site champselysees.ch (G vazio na planilha; não aparece em busca). Firecrawl sem créditos.
+- Coleções: Rive Blanche (Nymphéas, Papillon), Estelle (Nuances LE), Opéra Royal.
+- Pequena (dimensionamento).
+- Site oficial atual: champselyseeswatch.com (Shopify; champselysees.ch redireciona). 21 produtos em collections/all. champs-elysees.co (robots) e champselyseestimepieces.ch (erro) não abrem.
+- Códigos: 01A/01Q (Estelle auto/quartzo), 02Q (Rive Blanche), 03Q (Opéra Royal) - material - mostrador - pedras.
+- Fichas abertas: opera-royal-steel-04 03Q-STD04-WH01-A01D; rive-blanche-butterfly 02Q-RGD06-WH01-A01A; marquetry 02Q-YGD02-BN02-S02A; rive-blanche-steel 02Q-STD04-WH04-A05D; estelle-18k-yellow-gold-2 01Q-YGD01-BN01-A02.
+- Pendentes de foto/código (links só da página, não de busca): demais 16 fichas.
+- Watchonista: Estelle 01Q-STD02-WH01 (aço) foto r2.watchonista .../401938/...; Opéra Royal 03Q-RGD01-WH01 ouro rosa foto .../401974/pictures/03q-rg_1.jpg. Fichas watchonista /watches/rive-blanche-4,-5, nuances 1-4, papillon, nympheas não vieram em busca.
+- Estelle pavé ouro rosa automático 2,9 ct (Europa Star gallery / Luxury Arabia) = Estelle Haute Joaillerie (horologydesign).
+- Rive Blanche Water Lily existe em champs-elysees.co (robots).
+- Registrar M: G vazio (site champselyseeswatch.com; antigo champselysees.ch e champs-elysees.co); C vazio: Neuchâtel; D/I genéricos: relógios-joia femininos, fundada 2011 (SA)/lançada Baselworld 2015 por Keyvan Lamé (Lamepour); J "Coleções elegantes" -> Estelle, Rive Blanche, Opéra Royal; H @champselyseeswatches? site aponta instagram.com/champselysees.
