@@ -23,3 +23,7 @@ Fora do site: 17-8 Hellbraun Fliegeruhr 47mm (eBay título), Flieger (Kickstarte
 Seções feitas: 1, 2 (coleções). Falta: fichas (fotos), 2c, 3–10b.
 About: Antwerp, Bélgica (Ilan e Tami Chotovelli, 3ª geração, marca desde 2005, 1ª coleção 2006). Watchreport diz Torino. B=Itália na planilha -> observar em M.
 Seções 2/2c feitas (todas coleções, fichas). Cinturino p2 não alcançada, mas nomes completos via p1 + buscas. Falta 3–10b (fontes externas).
+1ª passada encerrada: últimas 3 fontes independentes (press-kit, Kickstarter Octagon, press.farm) sem novidade.
+VERMELHA: linhas antigas (TS 7000-x, TS 7900-1..4?, TS 9900-x, JTS antigos 2005-2015) só aparecem por títulos; certamente há mais referências. 2ª passada: focar linhas antigas.
+Auto-auditoria 10b: blog atual (2 artigos genéricos) e tagged/review lidos; press-kit lido (1 release); site: products feito até sem handles novos; lojas: ToM, BensonTrade, eBay (bloqueado itens); primeiro modelo: 1ª coleção 2006 "Retro Pilot" sem nome; J (Aviator, Pilot Chronograph, Big Pilot) encontrados; edição limitada 999 (3300-11) na B.
+Allwatches: imagem cheia = media/watches/chotovelli/<slug>.jpg (confirmado na ficha TS 7900-5); slug G1 etc chutado -> conferir.
