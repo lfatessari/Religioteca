@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 288,
-  "ultima_versao": 253,
+  "proxima_linha_marcas": 289,
+  "ultima_versao": 254,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3746,6 +3746,24 @@
         "3": 17
       },
       "obs": "Site Shopify: coleções e páginas de produto (handle = referência, ex. cr41as-930-005 -> CR41AS.930.005); produtos descontinuados só por título de busca (página redireciona). Antigos: eBay (browse pages), Yahoo Leilões JP, Rakuma, 1stDibs, Antiquorum, Fellows, Heritage, Europa Star swisstime. Números NN.AA.SSS tratados como série (coluna E). Firecrawl sem créditos. Próxima: Chase-Durer (288)."
+    },
+    {
+      "data": "2026-10-27",
+      "versao": 254,
+      "marca": "Chase-Durer",
+      "linha_marcas": 288,
+      "linhas_relogios": "43947-44225",
+      "relogios": 279,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – chasedurerwatch.com (JavaScript: specs sem fotos/listas)",
+      "fontes": 168,
+      "passadas": {
+        "1": 121,
+        "2": 21,
+        "3": 26
+      },
+      "obs": "Site oficial real chasedurerwatch.com (linha atual CDW-NNNN; fotos oficiais pelo padrão imperiouswatch.com/storage/products/<ID>/<ID>-catalogshot_375x502.jpg, ID = âncora #features da página). Linha antiga (anos 1990-2000) via allwatches.org (p.1,3,5 + pilot/special-forces/ladies; p.2,4,6 não alcançadas), Right Time/WatchConcepts, Brands On Time, eBay browse. Códigos CDW extras pela loja de peças invictawatchbands.com (sem foto do relógio). Marca hoje ligada à Invicta. Firecrawl sem créditos. Próxima: Chaumet (289), maison LVMH — provavelmente GRANDE."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 288,
-  "ultima_versao": 253,
+  "proxima_linha_marcas": 289,
+  "ultima_versao": 254,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3746,6 +3746,24 @@
         "3": 17
       },
       "obs": "Site Shopify: coleções e páginas de produto (handle = referência, ex. cr41as-930-005 -> CR41AS.930.005); produtos descontinuados só por título de busca (página redireciona). Antigos: eBay (browse pages), Yahoo Leilões JP, Rakuma, 1stDibs, Antiquorum, Fellows, Heritage, Europa Star swisstime. Números NN.AA.SSS tratados como série (coluna E). Firecrawl sem créditos. Próxima: Chase-Durer (288)."
+    },
+    {
+      "data": "2026-10-27",
+      "versao": 254,
+      "marca": "Chase-Durer",
+      "linha_marcas": 288,
+      "linhas_relogios": "43947-44225",
+      "relogios": 279,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – chasedurerwatch.com (JavaScript: specs sem fotos/listas)",
+      "fontes": 168,
+      "passadas": {
+        "1": 121,
+        "2": 21,
+        "3": 26
+      },
+      "obs": "Site oficial real chasedurerwatch.com (linha atual CDW-NNNN; fotos oficiais pelo padrão imperiouswatch.com/storage/products/<ID>/<ID>-catalogshot_375x502.jpg, ID = âncora #features da página). Linha antiga (anos 1990-2000) via allwatches.org (p.1,3,5 + pilot/special-forces/ladies; p.2,4,6 não alcançadas), Right Time/WatchConcepts, Brands On Time, eBay browse. Códigos CDW extras pela loja de peças invictawatchbands.com (sem foto do relógio). Marca hoje ligada à Invicta. Firecrawl sem créditos. Próxima: Chaumet (289), maison LVMH — provavelmente GRANDE."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3760,32 +3778,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-27T17:41:40Z",
-  "ultimo_sinal": "2026-10-27T18:12:40Z",
-  "em_andamento": {
-    "marcas": [
-      "Chase-Durer"
-    ],
-    "linha_marcas": 288,
-    "grande": true,
-    "relogios": "historico/parcial_Chase-Durer_relogios.txt",
-    "fontes": "historico/parcial_Chase-Durer_fontes.txt",
-    "notas": "historico/notas_Chase-Durer.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a"
-    ],
-    "passada": 3
   }
 }

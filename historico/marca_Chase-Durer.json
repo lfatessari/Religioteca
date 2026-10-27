@@ -1,0 +1,852 @@
+{
+ "marca": "Chase-Durer",
+ "usa_codigos": true,
+ "logo": "https://chasedurerwatch.com/images/logo-text.svg",
+ "site_bloqueado": "Parcial – chasedurerwatch.com (páginas montadas por JavaScript: a leitura automática traz as especificações, mas não as fotos nem as listas das coleções); revisitar com navegador",
+ "observacoes": "G: o site oficial atual é chasedurerwatch.com (chasedurer.com não é da marca). H vazio. I: fontes atribuem a fundação a Brandon Chase (Wristwatch Review), não ao casal Peter e Lonnie Cohn; data diverge (1991 em I; outras fontes dizem meados dos anos 1990/1995). Status atual: marca ligada ao grupo Invicta (vendida nas lojas Invicta; linha 'Invicta Chase Durer').",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://chasedurerwatch.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chasedurerwatch.com/collections/air-warrior",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0014",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delraywatch.com/chase-durer/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://invictastores.com/collections/chase-durer-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://invictawatchco.com/chase-durer-watches/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://invictastores.com/products/chase-durer-flight-commander-one-men-s-watch-46mm-light-brown-ivory-cdw-0090",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chasedurerwatch.com/watches/CDW-0001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/CHASE-DURER-Watches/31387/bn_1851447",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://www.ebay.com/b/CHASE-DURER-Mens-Wristwatches/31387/bn_3006278",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/b/CHASE-DURER-Stainless-Steel-Men-Wristwatches/31387/bn_108271529",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/223-11873_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/223-12181_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/778.8bl_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/the-chase-durer-wing-commander-x-a-look-at-every-wannabe-fighter-pilots-wrist-companion/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer/?page=5",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.keepthetime.com/brand/chase-durer/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer/",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer/pilot-watches/",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer-ladies-watches-oxygene-no-2-p44212/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer-mens-224-2by-lea-trackmaster-pro-chronograph-2nd-edition-yellow-stitched-leather-watch-p91987/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer-pilot-watches-falcon-command-p37380/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer/special-forces/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/up-close-with-chase-durer/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chasedurerwatch.com/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/review-chase-durer-special-forces-underwater-demolition-team-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/CHASE-DURER/bn_21822107",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.ebay.com/itm/376043353091",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chasedurerwatch.com/watches/CDW-0003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0013",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0016",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0017",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0018",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0019",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0025",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chasedurerwatch.com/watches/CDW-0026",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chasedurerwatch.com/watches/CDW-0034",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0036",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0052",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0053",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0055",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0056",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0057",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://imperiouswatch.com/watches/CDW-0001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0021",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0022",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0028",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0030",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0033",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0035",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chasedurerwatch.com/watches/CDW-0058",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://all-guidesbox.com/brand/chase-durer/watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/2334690258",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/shop/chase-durer-conquest?_nkw=chase+durer+conquest",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://poshmark.com/brand/Chase%20Durer",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://alaniazapoved.ru/products/chase-durer-mens-watch-45mm-camouflage-blue-cdw-0172/20899906",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/224363",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/224316",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/224317",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebth.com/items/6808938-chase-durer-etudes-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://forums.timezone.com/index.php?t=tree&th=811273&start=0&rid=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fifthwrist.com/brands/chase-durer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fifthwrist.com/chase-durer-special-forces-1000xl-udt-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/chase-durer-abyss-1000m.205700/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.candlepowerforums.com/threads/chase-durer.23317/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/117.9wbs6.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/chase-durer-pilot-commander?_nkw=chase+durer+pilot+commander",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.keepthetime.com/videos/chase-durer-usaf-thunderbirds-117-9wa6-alarm-chrono-hd-video-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/246-4bb7-xl-br.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/431.1bb.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/216-3lg6-br05.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/246-4bb7-br04.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/preowned/chase-durer.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/777.2es.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/225.2px1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/225.2sx1.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/442.07.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/211-2bs6-br07.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/222.9br2.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/223-12334.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/146-4bb4-br12.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/cd155.4rb2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/155-1lb2-pvib.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/155.4bb2-pvib.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/chase-durer/272-2wsx.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-typhoon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/257018257458",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/156576751596",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-tattico-automatic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-oxygene-sport-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-conquest-automatic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-trackmaster-pro-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-conquest-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-conquest-automatic-steel-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-wing-gmt/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-squadron-commander-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-blackhawk-mach-3/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-trackmaster-pro-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-typhoon-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://brandsontime.com/en/product/chase-durer-special-forces-air-assault-team/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/shop/chase-durer-special-forces?_nkw=chase+durer+special+forces",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/b/CHASE-DURER-Watches-Parts-Accessories/260324/bn_2188917",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://speedtimerkollektion.com/product/156450",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bladeforums.com/threads/chase-durer-combat-command-automatic-watch.1892748/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/70344827",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/21025050256",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/13075741636",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/8085173572",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/sch/Wristwatches-/31387/i.html?_frs=1&_nkw=chase+durer&_sop=15",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/188276093600",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/127551938372",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/brand/chase-durer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/manual/622672/Chase-Durer-Special-Forces-1000.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/manual/605345/Chase-Durer-Combat-Command.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.liveauctioneers.com/price-result/chase-durer-special-forces-chronograph-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.liveauctioneers.com/price-result/chase-durer-combat-wrist-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.liveauctioneers.com/price-result/chase-durer-men-s-abyss-1000-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.liveauctioneers.com/price-result/chase-durer-pilot-commander-xv-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/chase-durer/?page=3",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://allwatches.org/es/chase-durer-limited-editions-combat-command-gmt-p28385/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/chase-durer",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/chase-durer/778.8bl.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/chase-durer/155.4ybb.pvib.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/chase-durer/236-4bb3-br02.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/chase-durer/431.4bb.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/chase-durer/117.9wbs6.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/chase-durer/211-2ww6-br07.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchconcepts.com/wc/chase-durer/246-4bb7-br04.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/brand/chase-durer/watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualsdir.com/brands/chase-durer/20.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://invictastores.com/collections/mens-watches?page=4",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://invictastores.com/collections/clearance?j=6441&jb=283&l=146_HTML&mid=526000982&page=12&sfmc_sub=2191645&u=107772",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://lebatikusa.com/product/chase-durer-mens-watch-45mm-camouflage-brown-black/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/297261308606",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.es/str/watchguyz",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rolexforums.com/showthread.php?t=22369",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch-id.com/sightings/chase-durer-special-forces-1000xl-udt-jeffrey-donovan-burn-notice",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch-id.com/brands/chase-durer",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://meneachhill.com/2020/10/01/chase-durer-special-forces-udt-1000xl-near-mint-condition-rare-all-stainless/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/collections/flight-commander",
+   "passada": 3,
+   "novos": 9
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-crossfire-men-cdw-0065",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/collections/chase-durer-everything",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.invictawatchbands.com/collections/chase-durer",
+   "passada": 3,
+   "novos": 11
+  },
+  {
+   "url": "https://www.invictawatchbands.com/collections/air-warrior",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/collections/special-forces",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/pages/chase-durer",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-men-cdw-0007",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-conquest-men-cdw-0032",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-men-cdw-0006",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/str/invictacatalog",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/collections/crossfire",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-air-fighter-men-cdw-0037",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-men-cdw-0009",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-air-fighter-men-cdw-0044",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-conquest-men-cdw-0070",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-chase-durer-men-cdw-0086",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-chase-durer-men-cdw-0108",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-chase-durer-men-cdw-0137",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-chase-durer-men-cdw-0138",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-chase-durer-men-cdw-0127",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-chase-durer-men-cdw-0114",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-chase-durer-men-cdw-0073",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-chase-durer-men-cdw-0139",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/band-for-chase-durer-chase-durer-men-cdw-0152",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invictawatchbands.com/products/parts-for-chase-durer-chase-durer-men-cdw-0184",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}
