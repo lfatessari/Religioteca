@@ -11,3 +11,5 @@ Firecrawl: sem créditos.
 ## 1ª passada encerrada (~121 fontes, 228 relógios): últimas 10+ fontes sem novidade.
 VERMELHA: allwatches p.2,3,4,6 (~54 modelos antigos) inalcançáveis; CDW-0004, 0006-0012, 0024, 0027, 0031-32, 0037-43, 0045, 0047-51, 0054, 0059-70, 0076-83 etc. não vistos; linha Invicta Chase Durer 695xx incompleta.
 ## 2ª passada
+- Logo: watch-id.com/sites/default/files/styles/list_100_high/public/upload/brand/Chase-Durer.png (oficial: chasedurerwatch.com/images/logo-text.svg)
+## 3ª passada (2ª trouxe 14 novos: 7 com fonte + 7 por títulos de busca)
