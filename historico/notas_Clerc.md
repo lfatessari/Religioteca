@@ -20,3 +20,7 @@ masterhorologer.com client_error (WebFetch); Firecrawl sem créditos
 - Fim da 2ª passada: 34 fontes, 6 relógios novos → 3ª passada obrigatória (≥10 fontes novas). Últimas 12 sem novidade.
 - Biber Architects: estande da Clerc na Basel, identidade visual de Paula Scher (Pentagram).
 ## 3ª passada
+- EveryWatch (everywatch.com/clerc) veio em busca extended mas só mostra "Only Collectors Beyond This Point" (sem anúncios). mywatchmart client_error.
+- eBay /b/Clerc-Wristwatches: 89 resultados, 59 lidos; 22 modelos novos (Icon 8 variações, CXX Scuba, C-One, Cubitus 9802, Jump Hour, 9806-W, Hydroscaph LE 149). Anúncios individuais do eBay vindos dessa página pediram permissão (PROVENANCE_REQUIRED) → não abrir.
+- eBay: "Clerc Arctic" movimento vintage automático Lorsa 237B (só o movimento) → existe linha vintage "Arctic"; buscar.
+- GPHG c-1-retrograde é da Concord (não entra).
