@@ -1,0 +1,347 @@
+{
+ "marca": "Condor",
+ "usa_codigos": true,
+ "logo": "",
+ "grande": true,
+ "vermelho": true,
+ "complemento": false,
+ "site_bloqueado": "Parcial – relogioscondor.com.br: páginas de produto, filtros e catálogos de fev–jul/2025 pedem permissão; fotos dos produtos não aparecem na leitura automática; revisitar com navegador",
+ "observacoes": "B/C/G vazios: marca brasileira do Grupo Technos (Rio de Janeiro; fábrica em Manaus), site relogioscondor.com.br. D/I/J genéricos e errados: não é marca outdoor; é a linha popular de quartzo do Grupo Technos (linhas Mini, Mini Joia, Dia a Dia, Bracelete, Elegante, Brilho, Speed, Drive, Militar, Civic, Digital, Disney/Marvel, Condor Smart, Condor Kids). Existem outras marcas 'Condor' (vintage suíça; Condor C225R) não incluídas.",
+ "fontes": [
+  {
+   "url": "https://www.dafiti.com.br/condor/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/masculino",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/relogio?O=OrderByReleaseDateDESC",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/relogio/condor/Feminino?O=OrderByReleaseDateDESC",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://m.magazineluiza.com.br/busca/relogio+condor/",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.casasbahia.com.br/relogio-condor-masculino-preto-co2035nub-4f/p/1576677311",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Digitais",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/catalogos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/7e721a7a-9eec-49a5-b69e-9809884eed64/file/attachments/Condor_Agosto_2026.pdf",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/12f25f0a-0b4f-4644-8723-26eda5a2c4a4/file/attachments/Condor_Julho_2026.pdf",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/4f165907-9332-4f4c-b1d8-a1a01bf252c7/file/attachments/Condor_Junho_2026.pdf",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/9336a8a9-a865-459a-bfe9-cdf2ce1b524b/file/attachments/Condor_Maio_2026.pdf",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/1834bd94-4e25-438a-a69f-8d56ce458d2c/file/attachments/Condor_Abril_2026.pdf",
+   "passada": 1,
+   "novos": 86
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/2bcd2614-e6b3-4865-8c04-f62892b05ee5/file/attachments/Condor_Marco_2026.pdf",
+   "passada": 1,
+   "novos": 86
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/fa6cfb55-2525-4630-8d80-babed37dbe16/file/attachments/LancamentosCondorNovembro2025.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/fa6cfb55-2525-4630-8d80-babed37dbe16/file/attachments/LancamentosCondorOutubro2025.pdf",
+   "passada": 1,
+   "novos": 78
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/990fc2aa-0348-484b-96a7-d9700d0dac0b/file/attachments/LancamentosSet25Condor.pdf",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/api/dataentities/FU/documents/3bdccfe1-0ff4-4761-9d87-977ef53f03a2/file/attachments/CondorLancaAgosto25.pdf",
+   "passada": 1,
+   "novos": 27
+  },
+  {
+   "url": "https://www.pontofrio.com.br/relogio-condor-feminino-elegante-prata-co2035nzw-4k/p/1582764446",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530221040",
+   "passada": 1,
+   "novos": 40
+  },
+  {
+   "url": "https://www.extra.com.br/kit-relogio-condor-feminino-brilho-dourado-co2035nud-k4x/p/1575555958",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.olx.com.br/bijouteria-relogios-e-acessorios/condor/all",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://mundodomarketing.com.br/condor-lanca-linha-de-relogios-disney-para-adultos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dafiti.com.br/condor._Dourado/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dafiti.com.br/condor._Prata/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://promotop.net/kit-relogio-condor-masculino-speed-prata-co2117aw-k4v-prata-verde/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Technos_(watches)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escorregaopreco.com.br/ofertas/americanas/5539573",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/institucional/sobre",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530289743",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530331862",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/off?O=OrderByPriceASC",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Quadrados",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Mini",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Preto",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Azul",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Ros%C3%A9",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/guia-de-presentes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Prata",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/Dourado",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.relogioscondor.com.br/feminino",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.olx.com.br/bijouteria-relogios-e-acessorios/condor/estado-rs",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.olx.com.br/bijouteria-relogios-e-acessorios/condor/estado-pe",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530257896",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530237836",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://marcaspelomundo.com.br/anunciantes/condor-lanca-linha-infantil-de-relogios-interativos-em-collab-com-a-disney/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.centauro.com.br/nav/marca/condor",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://grandesnomesdapropaganda.com.br/lancamentos-de-mercado/condor-lanca-linha-inspirada-no-capitao-america/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://promotop.net/kit-relogio-masculino-speed-marvel-condor-co2115mzl-ki4a/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://mundodomarketing.com.br/condor-entra-no-segmento-de-bem-estar-com-lancamento-de-smartwatch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891485512743",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/marvel+silver/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/kit+mini+relogio",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/conjunto+condor",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/condor+smart/",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://m.magazineluiza.com.br/busca/relogio+stitch/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/kit+ouro+mickey",
+   "passada": 2,
+   "novos": 11
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/mickey+pulso/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://m.magazineluiza.com.br/busca/relogios+kit/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/relogio+ref",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://m.magazineluiza.com.br/busca/condor+smartwatch/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530275449",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530303296",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530247835",
+   "passada": 3,
+   "novos": 8
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530296437",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.systax.com.br/ean/07891530220807",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.casasbahia.com.br/relogio-smarts-kids-azul-capitao-america-comarvelah-9a/p/1575555259",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

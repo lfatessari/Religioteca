@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 319,
-  "ultima_versao": 281,
+  "proxima_linha_marcas": 320,
+  "ultima_versao": 282,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4330,6 +4330,18 @@
       "fontes": 199,
       "versao": 281,
       "obs": "marca grande; 3 passadas (152/31/16 fontes); Firecrawl sem créditos; EveryWatch fechado; essential-watches bloqueou; concord.ch parcial"
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Condor",
+      "linha_marcas": 319,
+      "linhas_relogios": "51821-52450",
+      "relogios": 630,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 67,
+      "versao": 282,
+      "obs": "marca grande (Grupo Technos, Brasil); 3 passadas (41/16/10 fontes); catálogos PDF mar/2026–ago/2026 e ago–out/2025 lidos; fev–jul/2025 não abriram; fotos reais só em 24 linhas (resto: link do PDF/página oficial); Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

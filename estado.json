@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 319,
-  "ultima_versao": 281,
+  "proxima_linha_marcas": 320,
+  "ultima_versao": 282,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4330,6 +4330,18 @@
       "fontes": 199,
       "versao": 281,
       "obs": "marca grande; 3 passadas (152/31/16 fontes); Firecrawl sem créditos; EveryWatch fechado; essential-watches bloqueou; concord.ch parcial"
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Condor",
+      "linha_marcas": 319,
+      "linhas_relogios": "51821-52450",
+      "relogios": 630,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 67,
+      "versao": 282,
+      "obs": "marca grande (Grupo Technos, Brasil); 3 passadas (41/16/10 fontes); catálogos PDF mar/2026–ago/2026 e ago–out/2025 lidos; fev–jul/2025 não abriram; fotos reais só em 24 linhas (resto: link do PDF/página oficial); Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4344,31 +4356,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-28T22:41:56Z",
-  "ultimo_sinal": "2026-10-28T23:24:47Z",
-  "em_andamento": {
-    "marcas": [
-      "Condor"
-    ],
-    "linha_marcas": 319,
-    "grande": true,
-    "relogios": "historico/parcial_Condor_relogios.txt",
-    "fontes": "historico/parcial_Condor_fontes.txt",
-    "notas": "historico/notas_Condor.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 2
   }
 }

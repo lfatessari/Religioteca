@@ -3,8 +3,8 @@ os.chdir('/home/claude/trabalho')
 def norm(c): return re.sub(r'[^A-Z0-9]','',c.upper())
 R={}  # norm -> dict
 def add(code,line,desc,url,src,title=''):
-    k=norm(code)
-    if not k: return
+    k=norm(code) or ('T:'+title)
+    if k=='T:': return
     d=R.setdefault(k,{'code':code,'line':'','desc':'','url':'','src':src,'title':''})
     if line and not d['line']: d['line']=line
     if desc and len(desc)>len(d['desc']): d['desc']=desc
