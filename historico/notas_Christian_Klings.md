@@ -11,3 +11,8 @@ Próxima marca (297) Christophe Claret = grande → bateria só com Klings.
 - Phillips: lot105 ouro rosa 40.5 reserva+lua seda c.2010 mov CK1 (= Christie's 2017 Moon Phase 37mm ouro rosa 2010? = "Wristwatch N°2" no artigo Phillips → UMA linha); lot118 N°7 ouro branco 37.5 reserva 2019; Tourbillon N°6 ouro amarelo 42 c.2008; Tourbillon n°2; Desmodromic ouro rosa 41.5 c.2005 (CH080225/217326_001); Open Version (CH080223/189887_001); Tourbillon 7 (CHF 889k, 2025).
 - Phillips artigo: 1000 horas de reserva (tambor = caixa, 40mm); escapamento free balance (turbilhão 10 s); Tourbillon Nr.18 (imagem); 33 relógios = 13 turbilhões + 20 simples.
 - Firecrawl sem créditos. Lotes Phillips 220885 e 217326 em inglês pediram permissão (zh abriu).
+- 1ª passada encerrada (~47 fontes; últimas 15 sem novidade). Site oficial christianklings.com: não indexado, WebFetch pediu permissão (PROVENANCE) → L "Site bloqueado". Firecrawl sem créditos.
+- Fusões: Christie's 2017 Moon Phase = Phillips 2022 lot105 = "Wristwatch N°2" (Phillips artigo) = peça do "Darren" (fórum). Open Version No.2 (Happy Jewelers, salmão) ≈ relógio nº30 de Mark Cho (inferência).
+- VERMELHO: ~33–35 relógios no total (13 turbilhões + 20 simples), lista tem 25; faltam turbilhões Nr.3, 8–11 e vários simples sem nome. → 2ª passada.
+- Aba Marcas: C "Bad König (Odenwald)" — fontes dizem Dresden (nascido/formado), depois Saalfeld (Robb Report); G sem https ok mas site não abre; H vazio; I "[⚠️ verificar]"; J genérico.
+- Mesa: relógio de mesa com turbilhão voador em caixa de vidro (fórum) — não é de pulso, não entra.
