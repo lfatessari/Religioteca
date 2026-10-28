@@ -9,3 +9,11 @@ Decisão: VERMELHA — série Zodiac Sign (12 peças únicas, só 3 achadas), Ei
 Nomes da coluna J não achados: "CosmiC Moon", "Real Moon Tourbillon".
 2ª passada: buscar outros signos, Custom Made, Sirius, Hypernova/Supernova variantes, Real Moon Tides aço foto, Orion CK1/2.
 ## Fim da 2ª passada: ver fontes '2|'. Trouxe 9 relógios novos (Hypernova x6, Ariadne x2...) → 3ª passada
+## 10b Auto-auditoria
+1. Blog/imprensa: site oficial tem só "press" com 2 kits (Venus); notícias via Monochrome/SJX/Revolution/Q&P lidas. OK.
+2. 2c: produtos escondidos via páginas antigas /eng/ e /nl/ do site (buscas "cvdk <modelo> <ref>") — trouxeram CKCR3326, CKRL7724, CKRL3344, CKHN3335, CKOR99O4, Lady Orion (11 refs), CKRS3304.
+3. Lojas: TLE, Majestix, Colman, Ace, Delray, awco, Wristler, 1916, Horology by the Sea — feitas.
+4. Primeiro relógio: Satellite du Monde (protótipo 1994, 1995/96) — feito, com MK I/II/III/CK4/CKSM.
+5. J: Planetarium, Real Moon Joure OK; "CosmiC Moon" e "Real Moon Tourbillon" NÃO encontrados.
+6. LE/colaborações na B; peças únicas em E.
+7. Fontes: 161 (130+20+11).
