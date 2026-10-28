@@ -8,3 +8,4 @@ Seções: 1, 2 (parcial: coleção, history), 8 (wristler)
 Decisão: VERMELHA — série Zodiac Sign (12 peças únicas, só 3 achadas), Eise Eisinga com nome de planeta por peça, coleção Custom Made, refs antigas (Astrolabium, Eclips, Venus, Orion CK1/CK2) sem código.
 Nomes da coluna J não achados: "CosmiC Moon", "Real Moon Tourbillon".
 2ª passada: buscar outros signos, Custom Made, Sirius, Hypernova/Supernova variantes, Real Moon Tides aço foto, Orion CK1/2.
+## Fim da 2ª passada: ver fontes '2|'. Trouxe 9 relógios novos (Hypernova x6, Ariadne x2...) → 3ª passada
