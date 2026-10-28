@@ -16,3 +16,4 @@ masterhorologer.com client_error (WebFetch); Firecrawl sem créditos
 - Decisão: VERMELHA — linhas Icon 8 (reserva de marcha, grande data, GMT, tourbillon, cerâmica LE), CXX (Diamonds, Scuba, Plongeur), C-One, C125, Odyssey (várias refs ODY), joias e as peças vintage da família (assinadas Clerc Paris, parcerias Rolex/VC/JLC) têm muitas referências sem fonte aberta.
 ## 2ª passada
 - eBay 116229867530 / Barnebys: 'Cler C Watch Co' / 'Cler' = outra marca (movimento avulso), não entra. Barnebys robots.
+- RE 2021: marca parou lançamentos; teria sido comprada por fundo (não verificado). Site clercwatches.com citado.
