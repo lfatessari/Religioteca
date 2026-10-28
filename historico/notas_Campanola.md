@@ -8,3 +8,4 @@ hrd-web lista p.2 não alcançada (não veio em busca).
 Buraco: Mechanical 2014 (2 relógios, cal Y513, sem ref no aBlogtoWatch). Buscar refs NZ0000-0x 2014.
 15º aniv (2015): 琉雅 NZ0000-07F, 紅明 NZ0000-07W, 聚楽 Juraku (ref?). Perpetual Calendar gold month ring LE 999 (ref?).
 Impress 1350367 PROVENANCE_REQUIRED (não abriu).
+## Passada 1 encerrada (68 fontes; últimas 10 sem novidade). Marca VERMELHA: linha 2000–2014 incompleta (CTR57/CTV57/CTU57/CTY57/CTS57 etc.). Passada 2: foco em modelos antigos, nomes Kōchō/Tokei Bijin da coluna J.
