@@ -12,3 +12,4 @@ Seções feitas: 1 (grande: ~20 anos, centenas de refs).
 - Últimas fontes sem modelos novos: everywatch (bloqueado), fellows (0), T+T moonphase/jump hour/sealander (0).
 - Vermelha: centenas de variações de cor/pulseira (Delugs: Sealander 51, Twelve 59, Trident 38, Bel Canto 34, Dune 43 só nas linhas atuais), séries antigas (C5, C60 Mk1/Mk2, C65 Trident) sem lista de referências, edições bespoke (Royal Marines, Everton etc.).
 - 2ª passada: §2c com termos novos; Trident Mk1/Mk2; bespoke; C5/C9/C8 antigos; hourstriker.
+## 2ª passada fechada (04:20): 19 fontes, 24 novos (bespoke sh-bespoke, hidden-gems, LEs). 3ª passada obrigatória.
