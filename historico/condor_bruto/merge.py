@@ -17,7 +17,7 @@ for f in sorted(glob.glob('pdf_*.txt')):
         p=l.rstrip('\n').split('|')
         if len(p)==3: add(p[0],p[1],p[2],'',f)
         elif len(p)==2: add(p[0],p[1].split(',')[0],p[1],'',f)
-for f in ['raw_site.txt','raw_site2.txt']:
+for f in ['raw_site.txt','raw_site2.txt','raw_site3.txt','raw_site4.txt']:
     if os.path.exists(f):
         for l in open(f):
             c,t,u=l.rstrip('\n').split('|')[:3]; add(c,'','',u,f,t)
