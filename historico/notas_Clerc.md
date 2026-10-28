@@ -17,3 +17,6 @@ masterhorologer.com client_error (WebFetch); Firecrawl sem créditos
 ## 2ª passada
 - eBay 116229867530 / Barnebys: 'Cler C Watch Co' / 'Cler' = outra marca (movimento avulso), não entra. Barnebys robots.
 - RE 2021: marca parou lançamentos; teria sido comprada por fundo (não verificado). Site clercwatches.com citado.
+- Fim da 2ª passada: 34 fontes, 6 relógios novos → 3ª passada obrigatória (≥10 fontes novas). Últimas 12 sem novidade.
+- Biber Architects: estande da Clerc na Basel, identidade visual de Paula Scher (Pentagram).
+## 3ª passada
