@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 312,
-  "ultima_versao": 276,
+  "proxima_linha_marcas": 313,
+  "ultima_versao": 277,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4238,6 +4238,19 @@
         ]
       },
       "obs": "Base: Europa Star swisstime, GPHG, Gressive (JP), It Must Be Time/Kenjo (Icon 8, Odyssey, CXX), eBay (página de navegação da marca), Feldmar, fórum Relojes Especiales. Chrono24, EveryWatch, Jomashop e Touch of Modern não abrem. Busca 'extended' foi a que achou as lojas com códigos. Próxima: Click (312)."
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Click",
+      "linha_marcas": 312,
+      "linhas_relogios": "51272-51356",
+      "relogios": 85,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "grande": true,
+      "fontes": 81,
+      "versao": 277,
+      "obs": "Click grande (site oficial click-watch.com com ~85 relógios): feita sozinha; Coblor (313) fica para a próxima execução."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
