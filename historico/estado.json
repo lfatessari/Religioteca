@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 297,
-  "ultima_versao": 262,
+  "proxima_linha_marcas": 298,
+  "ultima_versao": 263,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3901,6 +3901,30 @@
         "2": 13
       },
       "obs": "Relojoeiro independente com ~33–35 peças únicas no total; 27 identificadas (Phillips, Christie's, SJX, Quill & Pad, Haute Time, Independent in Time, A Collected Man, PuristSPro). 6 linhas só com link da página. Firecrawl sem créditos. Próxima: Christophe Claret (297, grande)."
+    },
+    {
+      "marca": "Christophe Claret",
+      "linha_marcas": 297,
+      "data": "2026-10-28",
+      "linhas_relogios": "46243-46354",
+      "relogios": 112,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 125,
+      "passadas": {
+        "1": [
+          91,
+          77
+        ],
+        "2": [
+          21,
+          8
+        ],
+        "3": [
+          13,
+          2
+        ]
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
