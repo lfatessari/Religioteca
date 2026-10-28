@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 294,
- "ultima_versao": 259,
+ "proxima_linha_marcas": 295,
+ "ultima_versao": 260,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3848,6 +3848,24 @@
    "site_bloqueado": true,
    "fontes": 16,
    "obs": "Marca quase sem presença na web; Chris Benz (294) parece grande e fica sozinha na próxima. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-10-28",
+   "versao": 260,
+   "marca": "Chris Benz",
+   "linha_marcas": 294,
+   "linhas_relogios": "45867-46082",
+   "relogios": 216,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "chrisbenz.de, shop.chrisbenz.de, depthmeters.com (robots)",
+   "fontes": 104,
+   "passadas": {
+    "1": 69,
+    "2": 22,
+    "3": 13
+   },
+   "obs": "Site oficial real é chrisbenz.de (G diz chris-benz.de). Fotos de Dive With Us (nomes de arquivo = código), Long Island, check24, Timeshop4you/Uhren4You, Zeitlounge, Letzshop, salepix, eBay, allwatches (1ª geração). 38 linhas só com link da página. Firecrawl sem créditos. Próxima: Christiaan Van Der Klaauw (295)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -3862,31 +3880,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-27T23:41:17Z",
- "ultimo_sinal": "2026-10-28T00:21:03Z",
- "em_andamento": {
-  "marcas": [
-   "Chris Benz"
-  ],
-  "linha_marcas": 294,
-  "grande": true,
-  "relogios": "historico/parcial_chris-benz_relogios.txt",
-  "fontes": "historico/parcial_chris-benz_fontes.txt",
-  "notas": "historico/notas_chris-benz.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
  }
 }

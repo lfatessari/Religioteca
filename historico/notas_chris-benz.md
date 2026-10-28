@@ -19,3 +19,11 @@
 ## 2ª passada (alvos): One Lady (só 6 linhas vs 23 no Taucher.Net), Stars & Diamonds, Depthmeter Chrono 200M, Deep 2000M Automatic, Deep 1000M quartzo, One Man 1ª geração, SSI/edições.
 - Fundador: Christian 'Chris' Benzing (blog Uhren4You, 2017); marca registrada desde 1996; Ocean Team.
 ## Fim da 2ª passada; 3ª passada (2ª trouxe >5)
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: chrisbenz.de bloqueado (robots); lido o blog antigo (wordpress 2013), Flickr oficial, títulos do blog via busca (Copper Edition, Défi Wind, 30 anos). OK dentro do possível.
+2. §2c: buscas site:chrisbenz.de com edition/deep/limited/charity/blogs/collections/Black Haven/surf/gold — títulos novos (Pink, Défi Wind, 30 Years, Tauchen, Diamond Diver nomes) entraram.
+3. Lojas: Long Island, Timeshop4you, Uhren4You (pág. 1), Zeitlounge, Letzshop, Dive With Us, Tradeinn, salepix, h2opassion, divezone.ch, xdive.pl, ssi-store.
+4. Primeiro modelo: não achado com data; 1ª geração (Depthmeter Analog, CB-C-..., CB-D-...) entrou via allwatches.
+5. J (Deep 500, Deep 1000M, Depthmeter Chronograph, One): todos achados.
+6. Edições/colaborações na B: SSI, Sharkproject, Dunkerbeck, Albeau, Tauchen (200 peças), Rescue Diver, Copper, Pink, Chamäleon, Stachelrochen, Gold MK1/MK2, 30 anos, Défi Wind. Sem peças únicas.
+7. 104 fontes abertas (69 + 22 + 13).
