@@ -9,3 +9,6 @@
 - plus9time.com: posts "All 20XX Citizen Announcements" (2022, 2023, 2023 H1, 2024, 2024 H1, 2025 H1, 2026 H1) = fonte de ouro com fotos oficiais (squarespace). Página é cortada (~70k chars): usar versão H1 para seções finais.
 - Campanola EXCLUÍDA (linha própria 307 "Citizen Campanola").
 - The Citizen 1995-2022 via plus9time history/timeline (CTZ57/CTQ57... códigos de caixa).
+- Seção 2: arquivo oficial citizenwatch.com/us/en/collection/archive (1382 produtos, 48/pág) — páginas alcançadas por busca: 0,48,144,192,240,288,528,576,672,768,864,1008,1056,1152,1296,1344. Faltam: 96,336,384,432,480,624,720,816,912,960,1104,1200,1248 (não indexadas).
+- Seção 8 (usados): Catawiki, Atelier Victor, Kitamura (recompra).
+- Vintage: plus9time catálogos 1968-1974 (nº2,6,7,8,9,10,11); nº3,4,5 não indexados.
