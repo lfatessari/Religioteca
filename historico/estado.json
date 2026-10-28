@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 318,
-  "ultima_versao": 280,
+  "proxima_linha_marcas": 319,
+  "ultima_versao": 281,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4318,6 +4318,18 @@
       "fontes": 15,
       "versao": 280,
       "obs": "não é marca: categoria do aBlogtoWatch"
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Concord",
+      "linha_marcas": 318,
+      "linhas_relogios": "51450-51820",
+      "relogios": 371,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 199,
+      "versao": 281,
+      "obs": "marca grande; 3 passadas (152/31/16 fontes); Firecrawl sem créditos; EveryWatch fechado; essential-watches bloqueou; concord.ch parcial"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

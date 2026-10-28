@@ -10,3 +10,12 @@ Nomes ainda não abertos: Impresario Lady (096866), Mariner Lady (096741), Marin
 Critério das 3 fontes seguidas sem novidade NÃO foi atingido (quase toda fonte nova traz referências novas: marca enorme, 1908–2017, joias, Movado).
 Decisão: marca VERMELHA. Motivos: centenas de referências vintage (códigos XX.XX.XXX) sem foto; 88 fichas da Europa Star (só ~20 abertas); peças únicas (Saratoga Splendour/Exor/Grand Master); EveryWatch fechado; Firecrawl sem créditos; essential-watches bloqueou.
 2ª passada: fichas Europa Star restantes, C1/C2 refs (0320xxx), vintage anos 40–70, edições especiais (Oriente Médio), Japão.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: concord.ch/ournews quase todo bloqueado (client_error); só Mariner SL Gent abriu. Notícias de lançamentos cobertas por Europa Star, Watchonista, aBlogtoWatch, worldtempus, gressive (2010), PR Newswire.
+2. §2c no site oficial: buscas site:concord.ch shop-watches (mariner-x, mariner sl, saratoga, lady, delirium, impresario, c1) até repetirem handles. ~45 referências atuais (0320xxx).
+3. Lojas: essential-watches (bloqueou após ~15 páginas), movadocompanystore (lista + 9 fichas), theluxurycloset, delraywatch, grayandsons, 1stdibs, luxurybazaar, mygemma, analogshift, thewatchpreserve.
+4. Primeiro modelo/antigos: não há nome do primeiro modelo (1908); peças antigas: joia retrô anos 1940, cronógrafo de três registros, relógios para Cartier e Tiffany, Delirium 1979–1980, Mariner 1981, La Costa e Centurion 1984, Saratoga 1986.
+5. Coluna J (C1, C2, Mariner, Impresario, La Scala): todos encontrados.
+6. Edições limitadas/colabs na B; peças únicas com "Peça única." na E (Saratoga Splendour x3? — Rubeus, Sapphirus, Adamas, Esmeraude; Exor; Grand Master Tourbillon; C1 EternalGravity).
+7. Fontes: ~200 (3 passadas).
+Logo: não encontrado link confiável (logo do nó de 2018 não apareceu em busca).
