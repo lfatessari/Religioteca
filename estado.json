@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 309,
-  "ultima_versao": 273,
+  "proxima_linha_marcas": 310,
+  "ultima_versao": 274,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4167,6 +4167,31 @@
         ]
       },
       "obs": "Base: site oficial (Shopify), uhren-zubehoer, uhrenschmuck24, seriouswatches, helveti, timeshop24, h2hub, eBay; muitas referências descontinuadas vieram de títulos de buscas por família (watch.co.uk, helveti, longislandwatch) com link da ficha. 105 de 470 com foto. Jubilé (col. J) não encontrado. Firecrawl sem créditos. Próxima: Claude Meylan (309)."
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Claude Meylan",
+      "linha_marcas": 309,
+      "linhas_relogios": "50984-51119",
+      "relogios": 136,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 110,
+      "passadas": {
+        "1": [
+          82,
+          66
+        ],
+        "2": [
+          17,
+          11
+        ],
+        "3": [
+          11,
+          2
+        ]
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4181,34 +4206,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-28T14:43:19Z",
-  "ultimo_sinal": "2026-10-28T14:58:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Claude Meylan"
-    ],
-    "linha_marcas": 309,
-    "grande": true,
-    "relogios": "historico/parcial_Claude_Meylan_relogios.txt",
-    "fontes": "historico/parcial_Claude_Meylan_fontes.txt",
-    "notas": "historico/notas_Claude_Meylan.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a_passada",
-      "3a_passada"
-    ],
-    "passada": 3
   }
 }

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 309,
-  "ultima_versao": 273,
+  "proxima_linha_marcas": 310,
+  "ultima_versao": 274,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4167,6 +4167,31 @@
         ]
       },
       "obs": "Base: site oficial (Shopify), uhren-zubehoer, uhrenschmuck24, seriouswatches, helveti, timeshop24, h2hub, eBay; muitas referências descontinuadas vieram de títulos de buscas por família (watch.co.uk, helveti, longislandwatch) com link da ficha. 105 de 470 com foto. Jubilé (col. J) não encontrado. Firecrawl sem créditos. Próxima: Claude Meylan (309)."
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Claude Meylan",
+      "linha_marcas": 309,
+      "linhas_relogios": "50984-51119",
+      "relogios": 136,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 110,
+      "passadas": {
+        "1": [
+          82,
+          66
+        ],
+        "2": [
+          17,
+          11
+        ],
+        "3": [
+          11,
+          2
+        ]
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

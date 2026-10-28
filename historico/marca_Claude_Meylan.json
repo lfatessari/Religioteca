@@ -1,0 +1,562 @@
+{
+ "marca": "Claude Meylan",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – claudemeylan.ch não aparece em nenhuma busca e não pôde ser aberto (Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G errado: site oficial é claudemeylan.ch (sem hífen). J: Solvang, Fleuri e Grand Pont não encontrados em nenhuma fonte; coleções reais: Lac, Tortue, Tortue Lady, Lionne (Ondine, Dentelle, Shéhérazade), L'Abbaye, Légendes, Millésime. I: fundada em 1988 (compra da Georges Gay SA); dono desde 2010 Philippe Belais; não usa Unitas só – também ETA 2892/2671, Peseux 7001, Valjoux antigos.",
+ "fontes": [
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Claude_Meylan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/brands/claude-meylan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchaser.com/collections/claude-meylan-men-women-swiss-watches",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.watchaser.com/collections/claude-meylan-men-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kirchhofer.com/brand/claudemeylan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watch-brand/claude-meylan-414",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/claude-meylan-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/tortue-de-joux",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/motorities-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/lac-mat",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/ma-lilas",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/la-pointe-de-sable",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/tortue-white",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/lac-tortue-de-joux",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/claude-meylan-vintage",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/claude-meylan-vintage-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/claude-meylan-micro-rotor-turtle",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/4623-9639-claude-meylan-turtle-of-joux-calavera.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/claude-meylan-lac-watch-42-mm-6144-wp-129931.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/claude-meylan-lac-watch-42-mm-6046-f-129930.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/claude-meylan-tortue-watch-31-mm-6080-nb-130077.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/claude-meylan-tortue-watch-40-mm-6047-bm-129932.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/6673-claude-meylan-chrono-automatiquue.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/6965-14103-claude-meylan-date-moonphase.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/4012-8362-claude-meylan-skeleton.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/4358-claude-meylan-turtle-lady.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ts-t.jp/en/products/282769",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-151-70",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-131-325",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/meylan-lot-299-290",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/claude-meylan-schweizer-chronograph-kaliber-22-valjoux-uhr/id-j_2880153",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/108/57253",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/18302517-claude-meylan---cm-claude---",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/la-repetition-5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/claude-meylan-tortue-6091-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://asset.everywatch.com/claude-meylan/watch-13114445",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/brands/claude-meylan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2023_05_11_01_Claude_Meylan.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112749-claude-meylan-just-for-you.html",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://monochrome-watches.com/claude-meylan-lionne-dentelles-skeletonized-handwound-womens-watch-hands-on-specs-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095906-claude-meylan-eclipse.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/claude-meylan-watches-archives/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/5420-claude-meylan-window-on-time.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/claude-meylan-windows-of-time/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchilove.com/?p=45136",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/tortue-reborn-claude-meylans-ligne-tortue-6091-claude-meylan-81083.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/claude-meylan-ondine-time-gentle-motion-claude-meylan-81269.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fratellowatches.com/claude-meylan-lac-motorities",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/claude-meylan-tortue-6090-c/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/legende-88",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/full-calendar",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/tortue-petite-fleur",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/claude-meylan-legende-69-vintage-valjoux-69-chronograph-movement-hands-on-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/4625-9642-CLAUDE-MEYLAN-TURTLE-LADY-Fire.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/claude-meylan-lionne-scheherazade-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/145263224180",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/317067231878",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/claude-meylan/watch-1428534",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/claude-meylan-adopt-a-turtle-31419.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/people-and-interviews/claude-meylan-sculptors-of-skeletons-20768.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/collectors-corner/claude-meylan-when-exposure-reveals-beauty-watchmaking-tradition-claude-meylan-80921.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watch-knowledge/tortue-lady-step-full-speed-refined-universe-claude-meylan-81713.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/claude-meylan-holy-cow-32383.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/people-and-interviews/claude-meylan-philippe-belais-19038.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/claude-meylan/3397-7001-claude-meylan-turtle-skeleton.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/claude-meylan-tortue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/claude-meylan-skeleton-turtle",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/claude-meylan-ondine-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gva-watch-days.com/claude-meylan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loupiosity.com/2022/09/claude-meylan-fenetres-sur-temps/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://yourluxury.africa/watches-jewels/watches/claude-meylan-sculpting-time-with-playful-precision/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://signemagazine.com/watches/philippe-belais-owner-and-ceo-of-claude-meylan-watches-speaks-exclusively-to-signe",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://iwmagazine.com/?p=2448",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetransformed.com/?p=17049",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/claude-meylan-tortue-lady-la-pointe-de-sable-review-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/claude-meylan-legende-88-22336.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/damenuhren/claude-meylan-ondine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/02/23/claude-meylan-eclipse-mechanical-skeleton-watch-unitas-6497-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastarjewellery.com/jewellery-highlights/claude-meylan-we-weren-t-expected-in-this-category.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/claude-meylan-tortue-de-joux-18869.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096136-claude-meylan-repetition-5-ref-8731.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=8631",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yumpu.com/fr/document/view/9060832/nouveau-catalogue-claude-meylan",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095589-claude-meylan-dans-l-air-du-temps.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-155-270",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-102-254",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2014/important-watches-ge1404/lot.116.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://lacotedesmontres.com/Enchere-No_37244.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2014/09/14/claude-meylan-the-magic-skeleton-chronograph-white-gold-watch-hand-wound-movemene-with-column-wheel/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2014/09/13/claude-meylan-the-twenties-chronograph-pink-gold-case-hand-wound-movement-with-column-wheel-valjoux-calibre-enamel-dial/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-87-188?page=0",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harpersbazaararabia.com/?p=5713",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/claude-meylan-new-partner-17823.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watch-knowledge/tortue-thats-democratizing-independent-watchmaking-claude-meylan-80571.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://worldtempus.substack.com/p/claude-meylan-ups-the-game-breguet",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/claude-meylans-lioness-lace-claude-meylan-76323.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/ondine-claude-meylan-78148.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watch-knowledge/when-ripples-and-rivers-inspire-design-claude-meylan-78468.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/fr/watches/motorities",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/user/343",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watch-knowledge/if-good-vibes-could-be-encased-watch-claude-meylan-77461.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/claude-meylan-tantalising-tortue-31236.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://loupiosity.com/?p=31783",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://loupiosity.com/news/claude-meylan-ondine/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004114863.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://loupiosity.com/?p=30158",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004087873.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://hoodmuseum.dartmouth.edu/objects/2007.1.80",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=34328",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/claude-meylan-ma-lilas/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
