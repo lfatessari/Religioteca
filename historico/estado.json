@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 299,
-  "ultima_versao": 264,
+  "proxima_linha_marcas": 300,
+  "ultima_versao": 265,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3952,6 +3952,17 @@
         ]
       },
       "obs": "176 linhas vêm da lista oficial de manuais do proprietário (modelos descontinuados; 138 só com link do PDF). Variações de cor/pulseira de 20 anos não listáveis uma a uma; edições bespoke (35 na página oculta sh-bespoke, 13 achadas). Firecrawl sem créditos. Próxima: Chronora (299)."
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Chronora",
+      "linha_marcas": 299,
+      "linhas_relogios": "46824-46828",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": "parcial (chronora.ae em JavaScript)",
+      "fontes": 15,
+      "versao": 265
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
