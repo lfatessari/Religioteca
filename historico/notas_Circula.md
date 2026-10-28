@@ -4,3 +4,4 @@
 - Firecrawl sem créditos.
 - Feito: home, all-watches (cortada em 62), 4 categorias, LIW coleção p1 (p2 não abre), watchpatrol, dialicious, ablogtowatch brand.
 - Falta: produtos escondidos site: (aquasport I, divesport, heritage, classic, protrail antigo, proflight antigo), ProLab Laco collab, vintage, chrono24, lojas, imprensa.
+- LE: Original LE 70 pç; MoP 70 pç; Guilloche 7 pç; ProLab Laco 170 conjuntos; Purple peça única (leilão).
