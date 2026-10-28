@@ -3,3 +3,4 @@ Coleções conhecidas: Delirium (1979), Delirium IV (1980), Centurion, Saratoga,
 ## Seções feitas
 ## Buracos
 - EveryWatch: página fechada (exige login) em out/2026. WatchPatrol c1 client_error. Firecrawl sem créditos.
+- essential-watches passou a responder 'Please contact to administrator' (bloqueio) depois de ~15 páginas.
