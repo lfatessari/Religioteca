@@ -7,3 +7,4 @@ Seções feitas: 1 (grande: ~20 anos, centenas de refs).
 - Time+Tide shop p1 (36 produtos com foto com código). p2/p3 não vieram em busca.
 - Firecrawl sem créditos.
 - Falta: fórum CW (Rough Guide), Ward Hoard, EveryWatch, Chrono24, lojas, imprensa, fotos dos modelos antigos.
+- Ward Hoard (models explained): extra não-manuais: Submariner Trident Mk1 (2014, 60 pç, bespoke), C70 Monte Carlo (2011), C70 GP França/Itália/EUA/Bélgica/GB/Alemanha (500 pç cada), C90 Becketts, C4 Battle of Britain, C9 Harrison Baby Blue/Big Blue, C8 Revival (200 prata/50 PVD), C9 World Timer, C1 Power Reserve.
