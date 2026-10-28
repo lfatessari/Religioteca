@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 301,
- "ultima_versao": 266,
+ "proxima_linha_marcas": 303,
+ "ultima_versao": 267,
  "historico": [
   {
    "data": "2026-10-16",
@@ -3990,6 +3990,29 @@
     ]
    },
    "obs": "Firecrawl sem créditos. 182 linhas com link de página/anúncio no lugar da foto. Muitas variações de cor e edições de varejistas não listáveis uma a uma. Próxima: Churchill Watch Company (301)."
+  },
+  {
+   "data": "2026-10-28",
+   "versao": 267,
+   "marca": "Churchill Watch Company",
+   "linha_marcas": 301,
+   "linhas_relogios": "47266-47269",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": "não (não há site oficial)",
+   "fontes": 18
+  },
+  {
+   "data": "2026-10-28",
+   "versao": 267,
+   "marca": "Churpfälzische Uhrenmanufaktur",
+   "linha_marcas": 302,
+   "linhas_relogios": "47270-47277",
+   "relogios": 8,
+   "vermelho": false,
+   "site_bloqueado": "chuma.de (robots; domínio à venda)",
+   "fontes": 15,
+   "obs": "Firecrawl sem créditos; muitas páginas com client_error. Próxima: CIGA Design (303), grande, sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4004,22 +4027,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-28T06:41:48Z",
- "ultimo_sinal": "2026-10-28T06:46:44Z",
- "em_andamento": {
-  "marcas": [
-   "Churchill Watch Company",
-   "Churpfälzische Uhrenmanufaktur"
-  ],
-  "linha_marcas": 301,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Churchill: todas (pronta para gravar)"
-  ],
-  "passada": 1
  }
 }
