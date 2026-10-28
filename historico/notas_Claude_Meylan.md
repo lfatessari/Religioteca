@@ -19,3 +19,4 @@ Usa códigos: sim (6044, 6045 DLP...).
 7. Fontes 1ª passada: ~80. Parou: 3 fontes seguidas sem novidade (worldtempus Tortue de Joux, Europa Star Répétition 5, Escapement 6090 C).
 ## 2ª passada (vermelha): alvo = refs antigas (650 refs antes de 2010), Légendes, Classic Line/Sportster, Dentelle/Eclipse, pocket.
 - 2ª passada encerrada (3 sem novidade: WT Ondine, WT Ripples, GPHG Motorities fr). Trouxe 11 novos → 3ª passada obrigatória.
+- 3ª passada encerrada: 11 fontes, 2 novos (<5) → sem 4ª. Parou por 3 seguidas sem novidade (Hood Museum, Escapement Tortue Lady, Watchonista MA Lilas).
