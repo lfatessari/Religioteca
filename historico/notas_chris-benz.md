@@ -14,3 +14,6 @@
 - Limites: divers24, timeshop4you .htm, www.chrisbenz.de/de|fr: client_error.
 - Bloqueados nesta rodada: chrono24.in, zeitlounge, markenuhren-billiger, subchandlers produto, time-line24, uhren-onlineshop, taucheruhren24, amazon.de (robots), fruugo, extremedivers, watchuseek. EveryWatch fechado (só colecionadores).
 - Dedução (só nas notas): na One/One Medium, R parece ser rosa 'Anemone Pink' e H 'Caribbean Blue/hellblau'; não usei códigos deduzidos na coluna B.
+## Fim da 1ª passada (69 fontes): últimas 3 fontes (eBay itm x2, Kleinanzeigen) sem novidade.
+- Vermelha: site oficial bloqueado e marca tem 156 versões no Taucher.Net / "162 versões" na entrevista; muitas cores/pulseiras só como título.
+## 2ª passada (alvos): One Lady (só 6 linhas vs 23 no Taucher.Net), Stars & Diamonds, Depthmeter Chrono 200M, Deep 2000M Automatic, Deep 1000M quartzo, One Man 1ª geração, SSI/edições.
