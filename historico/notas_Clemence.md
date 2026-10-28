@@ -14,3 +14,15 @@
 - MKI nomes (W&W review 2021): Abyss (preto fosco), Atoll (azul sunburst), Photic (azul degradê). Ponteiros prata ou gilt => 6 combinações. MKII 'Photic' = 'Photic Gilt'.
 - Clemence x Anachronist Photic MKII 'Breakwater' (topperjewelers, título da busca; página não abriu).
 - Munro 2025 Concept Edition (British Watchmakers' Day 2025): preto c/ bronze gilt e vermelho, 10 peças.
+- Kibble: 2024 Munro British Watchmakers Day Exclusive (2 anúncios), 2025 Munro Tay Salmon (fotos).
+- BWD 2024: Munro azul com vermelho/branco, 'Britain' no mostrador, 4 peças em 2 variações de mostrador (Kibble; Oracle diz 2 peças únicas), £650. Kibble 'Reference CE-CA1' (duvidoso -> E).
+
+## Auto-auditoria (§10b)
+1. Blog do site (Journal) não apareceu em busca; lido o que a imprensa cobre (W&W 4 artigos, Oracle Time tag com 9 artigos, Fratello, aBlogtoWatch, Hodinkee JP). Todos os nomes citados estão na lista.
+2. Site Wix sem products.json; buscas site:clemencewatches.com só trouxeram shop/munro/photic-mkii/photicmkii. Firecrawl sem créditos.
+3. Loja que vende a marca: Kibble Watches (3 anúncios), Topper (1). Venda direta pela marca.
+4. Primeiro modelo: Photic Diver 2021 (Kickstarter) — feito.
+5. J (Aviness, Aristar, Field, Dress Automatic) não encontrados -> coluna M.
+6. Edições: Horologium (B), BWD 2024 (4 peças), BWD 2025 (10), Swiss Edition (25), Anachronist Breakwater (B). Nenhuma peça única.
+7. 74 fontes; últimas 5 sem novidade -> parada.
+Não vermelha: buracos conhecidos só a 2ª variação de mostrador do BWD 2024 e detalhes do Breakwater.

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 310,
-  "ultima_versao": 274,
+  "proxima_linha_marcas": 311,
+  "ultima_versao": 275,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4192,6 +4192,25 @@
           2
         ]
       }
+    },
+    {
+      "data": "2026-10-28",
+      "versao": 275,
+      "marca": "Clemence",
+      "linha_marcas": 310,
+      "linhas_relogios": "51120-51147",
+      "relogios": 28,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes": 74,
+      "passadas": {
+        "1": [
+          74,
+          28
+        ]
+      },
+      "obs": "Sem códigos (só nomes). Site Wix sem products.json; Firecrawl sem créditos. Clerc (311) dimensionada como grande -> próxima execução sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
