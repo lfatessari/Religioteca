@@ -9,3 +9,12 @@ Usa códigos: sim (6044, 6045 DLP...).
 - "Lionne 6043" (TWP) = mesmo código do MA Lilas (GPHG) → uma linha só.
 - eBay.de: páginas /itm/ dão client_error (145263224180, 336144582500, 405697249248, 226787514208). Fiz uma com 317067231878: sem marca (não conta).
 - Signé Magazine: a marca tinha ~650 referências antes de Belais (2010) → muitas refs antigas impossíveis de listar → VERMELHA, fazer 2ª passada (≥10 fontes novas) focada em refs antigas (anos 1990–2000) e Légendes.
+## 10b auto-auditoria (1ª passada)
+1. Blog/imprensa oficial: site claudemeylan.ch não indexado em busca; Firecrawl sem créditos → não aberto (coluna L).
+2. §2c: impossível sem o site indexado; feito equivalente via site:thewatchpages.com (6 buscas) e site:theswisscollector.com.
+3. Lojas: The Swiss Collector, Watchaser, Ocarat, Kirchhofer (0), ts-t.jp; eBay não abre.
+4. Primeiro modelo: calendário perpétuo com fase lunar (Basel 1992) — sem foto/nome; entram 4 peças dos anos 1990 de leilões.
+5. J: Tortue Squelette ok, Lac ok; Solvang, Fleuri, Grand Pont NÃO encontrados (buscados) → coluna M.
+6. Limitadas: Just for You (30), Répétition 5 (100). Peça única: Pointe de Sable.
+7. Fontes 1ª passada: ~80. Parou: 3 fontes seguidas sem novidade (worldtempus Tortue de Joux, Europa Star Répétition 5, Escapement 6090 C).
+## 2ª passada (vermelha): alvo = refs antigas (650 refs antes de 2010), Légendes, Classic Line/Sportster, Dentelle/Eclipse, pocket.
