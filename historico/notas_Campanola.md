@@ -7,3 +7,4 @@ Site oficial citizen.jp/campanola não aparece em busca (L parcial). Firecrawl s
 hrd-web lista p.2 não alcançada (não veio em busca).
 Buraco: Mechanical 2014 (2 relógios, cal Y513, sem ref no aBlogtoWatch). Buscar refs NZ0000-0x 2014.
 15º aniv (2015): 琉雅 NZ0000-07F, 紅明 NZ0000-07W, 聚楽 Juraku (ref?). Perpetual Calendar gold month ring LE 999 (ref?).
+Impress 1350367 PROVENANCE_REQUIRED (não abriu).
