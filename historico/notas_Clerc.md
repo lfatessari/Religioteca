@@ -24,3 +24,6 @@ masterhorologer.com client_error (WebFetch); Firecrawl sem créditos
 - eBay /b/Clerc-Wristwatches: 89 resultados, 59 lidos; 22 modelos novos (Icon 8 variações, CXX Scuba, C-One, Cubitus 9802, Jump Hour, 9806-W, Hydroscaph LE 149). Anúncios individuais do eBay vindos dessa página pediram permissão (PROVENANCE_REQUIRED) → não abrir.
 - eBay: "Clerc Arctic" movimento vintage automático Lorsa 237B (só o movimento) → existe linha vintage "Arctic"; buscar.
 - GPHG c-1-retrograde é da Concord (não entra).
+## Sites que não abriram (não contam como fonte)
+masterhorologer.com (client_error), gressive.jp/brand/top/clerc (client_error), ebay.de/itm/336070702887, watchpatrol ja/listing/3541728, mywatchmart.com/clerc, chrono24.com / .co.uk / .com.au /clerc/index.htm (client_error), picclick, watchuseek (2 tópicos), burdeens, barnebys (robots), timelessluxury, amazon (robots), watchfreeks, watchlords; anúncios eBay tirados da página de navegação → PROVENANCE_REQUIRED. Firecrawl sem créditos.
+- everywatch watch-621587 (ODY112, 2007) bloqueado para não-colecionadores; chrono24 pre-owned client_error; touchofmodern C1LD-PPL client_error. OKDWO: H1-4R.9… truncado.
