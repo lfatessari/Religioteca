@@ -1,0 +1,9 @@
+# Cincinnati Watch Co. (linha 304) — notas
+- Site real: cincinnatiwatch.com (coluna G diz cincinnatiwatchcompany.com — errado). Shopify. Não usa códigos (só nome/cor).
+- Circula (305) parece grande; Citizen (306) grande -> bateria só Cincinnati.
+- Firecrawl sem créditos.
+- Coleções: Union Terminal (mech, gold, automatic, auto blue R&P, ladies, ladies black), Concourse (champagne, silver-white, burgundy), Cincinnatus Field (black, burgundy, white, blue, red, sand; manual wind "centurion 2024"), Cincinnatus GMT (black, burgundy, white, green, blue), Guild (steel, gold, ladies purple), Desk Diver Pro (black/orange, electric blue, black/gold), P-40 A-11 (black, green, brown, mocha mousse; manual e automatic; V2), P-40M (2018 V1, 2019 white hands, Blue Pilot LE, Warbird Green), Total Eclipse, Captain R&P LE, Cincinnatian, Time Hill automatic LE, Bespoke enamel (Numbers on Green, Green Enamel Hammered, Rico the Porcupine, Spirit/Silver Beauty Year of Horse, Year of the Horse, When Pigs Fly(R&P)).
+- DECISÃO: marca de peças únicas (galeria de esmalte com 29+ peças, bespoke 11, architectural 11) => grande (mín. 25 fontes).
+- Fotos: pedir ao WebFetch "markdown images ![alt](url)" na página do produto funciona (Cincinnatus Red).
+- Seções feitas: 1, 2 (parcial)
+- ATENÇÃO: links tirados de páginas pedem permissão (rust-red-1, numbers-on-turquoise, when-pigs-fly-1/2/3 falharam). Só URLs de busca.
