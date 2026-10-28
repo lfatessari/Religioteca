@@ -8,3 +8,5 @@ Pulse One Titanium; Pulse GMT outros; Opus Chrono Titanium; Delphis decorative d
 - Seção 2 site oficial: bloqueado (JS). Registrar L.
 - Primeiro modelo: cronógrafo mecânico com fase da lua e fundo de vidro (1982/83), sem nome/ref. publicados; Régulateur 1987/88 (CH 1223/1221?). Linha antiga Kelek (Five Minutes Repeater CH 8735, DK87-211A).
 - A caçar: Minute Repeater Tourbillon (1995-2000), Régulateur à Tourbillon Squelette LE 200, Régulateur 30 (30 anos), Achtelzähler-Chrono, Timemaster Grand Prix LE, Regulator Rallye LE (Kitzbühel), Lady Lunar, Frosted, Neo Digiteur pastel LE 99.
+## 1ª passada encerrada (~06:22): 3 fontes seguidas sem modelo novo (Dorotheum, Catawiki, WatchReport). Marca VERMELHA: centenas de variações de cor/pulseira, edições limitadas de varejistas, linha antiga sem lista oficial, site oficial bloqueado.
+## 2ª passada: §2c refeito (site:exquisitetimepieces.com, site:chronoswiss.com com termos novos), Only Watch outros anos, edições exclusivas (Japão, Oriente Médio), referências antigas.
