@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 307,
- "ultima_versao": 271,
+ "proxima_linha_marcas": 308,
+ "ultima_versao": 272,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4117,6 +4117,29 @@
     ]
    },
    "obs": "Base: site oficial EUA (coleções atuais + arquivo de 1382 descontinuados, 16 de 29 páginas), Citizen HK, plus9time (anúncios anuais 2022-2026 com fotos oficiais, história The Citizen 1995-2022, catálogos 1968-1974), Yodobashi/Kitamura/Gressive (Japão), Just In Time (Índia), WatchUSeek (títulos de tópicos). 1257 de 2750 com foto; o resto com link da ficha oficial/página. Campanola fora (linha 307). Firecrawl sem créditos. Próxima: Citizen Campanola (307)."
+  },
+  {
+   "data": "2026-10-28",
+   "versao": 272,
+   "marca": "Citizen Campanola",
+   "linha_marcas": 307,
+   "linhas_relogios": "50408-50513",
+   "relogios": 106,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Site bloqueado – citizen.jp/campanola (não aparece em buscas)",
+   "fontes": 83,
+   "passadas": {
+    "1": [
+     67,
+     112
+    ],
+    "2": [
+     16,
+     0
+    ]
+   },
+   "obs": "Base: Gressive (catálogo 2021-2025, listas de lojas, Basel 2009/2011/2012, catálogo 2008), Piazo (página da marca com ~75 refs), Sakura Watches, HRD (loja oficial), Kitamura, Impress Watch, webchronos, aBlogtoWatch (modelos 2007-2016), Citizen global news 2018. Linha 2000-2007 (CTR57/CTV57/CTU57 antigos) incompleta: vermelha. Firecrawl sem créditos. Próxima: Claude Bernard (308)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4131,29 +4154,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-28T12:43:19Z",
- "ultimo_sinal": "2026-10-28T13:08:27Z",
- "em_andamento": {
-  "marcas": [
-   "Citizen Campanola"
-  ],
-  "linha_marcas": 307,
-  "grande": true,
-  "relogios": "historico/parcial_Campanola_relogios.txt",
-  "fontes": "historico/parcial_Campanola_fontes.txt",
-  "notas": "historico/notas_Campanola.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 2
  }
 }
