@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 303,
- "ultima_versao": 267,
+ "proxima_linha_marcas": 304,
+ "ultima_versao": 268,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4013,6 +4013,33 @@
    "site_bloqueado": "chuma.de (robots; domínio à venda)",
    "fontes": 15,
    "obs": "Firecrawl sem créditos; muitas páginas com client_error. Próxima: CIGA Design (303), grande, sozinha."
+  },
+  {
+   "data": "2026-10-28",
+   "versao": 268,
+   "marca": "CIGA Design",
+   "linha_marcas": 303,
+   "linhas_relogios": "47278-47400",
+   "relogios": 123,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "não (cigadesign.com abre, mas sem fotos/códigos na leitura; Firecrawl sem créditos)",
+   "fontes": 161,
+   "passadas": {
+    "1": [
+     110,
+     112
+    ],
+    "2": [
+     16,
+     9
+    ],
+    "3": [
+     35,
+     6
+    ]
+   },
+   "obs": "Códigos achados em lojas (Ocarat, Watchard, Nykaa, Jamtangan, Maigoo). 24 linhas com link de página no lugar da foto. Próxima: Cincinnati Watch Co. (304)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4027,31 +4054,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-28T07:41:52Z",
- "ultimo_sinal": "2026-10-28T08:07:01Z",
- "em_andamento": {
-  "marcas": [
-   "CIGA Design"
-  ],
-  "linha_marcas": 303,
-  "grande": true,
-  "relogios": "historico/parcial_CIGA_relogios.txt",
-  "fontes": "historico/parcial_CIGA_fontes.txt",
-  "notas": "historico/notas_CIGA.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
  }
 }
