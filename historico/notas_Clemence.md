@@ -1,0 +1,14 @@
+# Clemence (linha 310) — notas
+- Site: clemencewatches.com (Wix). Firecrawl sem créditos.
+- Não usa códigos (só nomes/cores). Coleções atuais: Munro (Pitch Black, Spindrift, Highland Amber, Ridgeline), Photic MKII (Moray, Nemo, Shoal, Kraken, Photic), Photic MKII Swiss Edition. Primeiro modelo: Photic (MKI).
+- J da aba Marcas: "Aviness, Aristar, Field, Dress Automatic" — não encontrados (parecem inventados).
+- Clerc (311) dimensionada como grande (maison 1874, várias coleções) -> fica para a próxima execução.
+- MKI Photic Diver (2021, 39mm, Miyota 9039): dial Photic (azul→preto), preto fosco, azul sunray; ponteiros prata ou bronze-gilt (6 opções). Nomes a confirmar.
+- 2022: Orca White e Nemo Orange (colaboração Horologium), Kelp Green, Reef Coral, Anemone Purple. Fotos oracleoftime.
+- Munro (2023): Pitch Black, Spindrift, Highland Amber, Ridgeline (nov/2023).
+- Photic MKII (nov/2025): Photic, Nemo, Kraken, Shoal, Moray. Swiss Edition (out/2026) Atoll Blue, Soprod M100, 25 peças.
+- PROVENANCE: wornandwound.com/review/clemence-dive-watch-photic-diver/ (link de página aberta).
+- 2022: MKI recebeu Reef/Anemone/Kelp (fumé) e Nemo/Orca (matte, Horologium), Miyota 9035 segundo W&W.
+- Munro 2025: Ridgeline Dusk + dials cinza escovado, teal (petróleo), salmão — buscar nomes.
+- Munro também: Cairn (cinza pedra escovado), Juniper (teal), Tay Salmon, Ridgeline Dusk (mainspring).
+- MKI nomes (W&W review 2021): Abyss (preto fosco), Atoll (azul sunburst), Photic (azul degradê). Ponteiros prata ou gilt => 6 combinações. MKII 'Photic' = 'Photic Gilt'.
