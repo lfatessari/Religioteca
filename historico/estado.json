@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 315,
-  "ultima_versao": 279,
+  "proxima_linha_marcas": 318,
+  "ultima_versao": 280,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4284,6 +4284,40 @@
           "novos": 4
         }
       }
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Codek",
+      "linha_marcas": 315,
+      "linhas_relogios": "51425-51426",
+      "relogios": 2,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 15,
+      "versao": 280
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Collins Watch Company",
+      "linha_marcas": 316,
+      "linhas_relogios": "51427-51441",
+      "relogios": 15,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 35,
+      "versao": 280
+    },
+    {
+      "data": "2026-10-28",
+      "marca": "Concept Creations",
+      "linha_marcas": 317,
+      "linhas_relogios": "51442-51449",
+      "relogios": 8,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "versao": 280,
+      "obs": "não é marca: categoria do aBlogtoWatch"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
