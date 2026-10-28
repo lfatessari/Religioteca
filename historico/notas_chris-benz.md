@@ -13,3 +13,4 @@
 - chrisbenz.de: robots bloqueia tudo (produtos, coleções, blog). Títulos de produtos vistos só nas buscas site:. Coleções: ONE, DEEP, SURF & SAIL, STARS & DIAMONDS, DIVER Black Haven, GESAMTKOLLEKTION, APPROVED (usados). Blog: TBT 30 anos (desde 1996).
 - Limites: divers24, timeshop4you .htm, www.chrisbenz.de/de|fr: client_error.
 - Bloqueados nesta rodada: chrono24.in, zeitlounge, markenuhren-billiger, subchandlers produto, time-line24, uhren-onlineshop, taucheruhren24, amazon.de (robots), fruugo, extremedivers, watchuseek. EveryWatch fechado (só colecionadores).
+- Dedução (só nas notas): na One/One Medium, R parece ser rosa 'Anemone Pink' e H 'Caribbean Blue/hellblau'; não usei códigos deduzidos na coluna B.
