@@ -6,3 +6,6 @@ masterhorologer.com client_error (WebFetch); Firecrawl sem créditos
 - Gressive 161961 não apareceu em busca (não aberto).
 - Europa Star swisstime lista 34 fichas; faltam abrir: Hydroscaph Titane, Big Date Power Reserve, Odyssey Silicium x2, Icon8 Grande Date Double-Temps, CXX Chrome Diamonds Chrono, CXX Scuba LE, CXX Scuba Chrono, C-ONE Collection, Red White and Blue, C125 GD ROD, C-Collection 850 L, CXX Chronograph, Pink Black & Yellow, H1 (1004096424), H1 Chronometer 1004096373, LE Central 1004096106, Steel GMT 1004096096/1004095989
 - Met Museum 194208 é de Daniel Le Clerc (c.1630), outra pessoa: não entra.
+- História: Charles Rémy Clerc fundou em 1874 (joias/pedras); família trabalhou com Rolex, VC e JLC até fim dos anos 70 (peças assinadas Clerc Paris); Gérald Clerc (4ª geração) lançou relógios próprios (caixa octogonal "Fetish"), foco EUA (~40 joalherias); 2008 Odyssey, Icon 8 (reserva de marcha, grande data, GMT, tourbillon, esqueleto, mostrador de cerâmica pintado LE), CXX Diamonds, CXX Plongeur; depois Hydroscaph (2008→), H1, Central Chrono, GMT PR; H140 Carbon LE 140 peças (2014).
+- Col I de Marcas diz "George-Émile Clerc fundou" — fontes (300magazine) dizem Charles Rémy Clerc; Europa Star diz Gérald Clerc 4ª geração. Relatar.
+- Fórum RE: imagens 'ClercOdyssey12' = tourbillon (Odyssey Tourbillon 2007?) — buscar.
