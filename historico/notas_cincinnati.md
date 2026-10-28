@@ -8,3 +8,5 @@
 - Seções feitas: 1, 2 (parcial)
 - ATENÇÃO: links tirados de páginas pedem permissão (rust-red-1, numbers-on-turquoise, when-pigs-fly-1/2/3 falharam). Só URLs de busca.
 - About: fundada 2018 (antes 'Build Your Own Watch') por Rick Bell e Mark Stegman; Jordan Ficklin sócio desde 2020. Primeiros: Union Terminal V1 (2018) e P-40M (2018). Coluna J cita Music Hall, Roebling, Carew Tower — ainda não achados.
+- watchcharts e watchpatrol: client_error. eBay 126670656070 é Benrus (não é da marca).
+- Coluna J (Music Hall, Roebling, Carew Tower): nenhuma busca encontrou relógios com esses nomes. Coluna I diz 'movimentos japoneses e quartzo' — hoje usa Sellita suíço (e Ronda quartzo); Seiko só no Cincinnatus V1/V2.
