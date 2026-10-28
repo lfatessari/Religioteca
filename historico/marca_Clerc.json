@@ -1,0 +1,902 @@
+{
+ "marca": "Clerc",
+ "usa_codigos": true,
+ "logo": "https://www.gressive.jp/sites/default/files/brandLogo/logo_6.jpg",
+ "site_bloqueado": "Site bloqueado – clercwatches.com não aparece em nenhuma busca e não pôde ser aberto (Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I: fundador citado como George-Émile Clerc; fontes (300 Magazine) dão Charles Rémy Clerc (1874) e Gérald Clerc (4ª geração) como criador da linha atual. J: faltam Odyssey, C-One e C125. Status: fórum (2021) diz que a marca parou lançamentos; site clercwatches.com parece fora do ar.",
+ "fontes": [
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/clerc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/mens-clerc-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/clerc-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/pages/clerc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/clerc/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.velvetboxsociety.com/clerc.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/clerc/jewelry/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/chy-585-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/h-1-4-a-10-6-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/hydroscaph-limited-edition-central-chronograph-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/hydroscaph-limited-edition-central-chronograph-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/hydroscaph-h-140-carbon-limited-edition-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/hydroscaph-h-1-chronometer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/brands/clerc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/clerc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/en-cy/products/clerc-ody341bw-po",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/clerc-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/ody-312",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jewelry.ha.com/itm/timepieces/wristwatch/clerc-hydroscaph-central-chronograph-reference-chy-585/a/21180-12019.s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jewelry.ha.com/itm/timepieces/wristwatch/clerc-hydroscaph-h1-chronometer-reference-h1-4a10r6-with-booklet-and-cosc-papers/a/21180-12020.s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095508-clerc-odyssey.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095226-clerc-odyssey.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095452-clerc-odyssey.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095616-clerc-hydroscaph.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095453-clerc-hydroscaph.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096705-clerc-hydroscaph-h1-chronometer.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095627-clerc-odyssey-lady-skeleton.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096222-clerc-hydroscaph-l-e-central-chronograph.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096352-clerc-hydroscaph-limited-edition-central.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096519-clerc-hydroscaph-limited-edition-central.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112280-clerc-c-125.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112460-clerc-joaillerie-862.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096865-clerc-hydroscaph-gmt-power-reserve-chronometer.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096667-clerc-hydroscaph-h1-chronometer.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096518-clerc-hydroscaph-h1-chronometer.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095883-clerc-hydroscaph-steel-gmt.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161964",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161960",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/catalog/clerc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161965",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161966",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161967",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161968",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161969",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161962",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161963",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catawiki.com/pt/l/86080501-clerc-hydroscaph-central-chronograph-carbon-limited-edition-homem-2011-presente",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/blog/clerc-hydroscaph-un-repaso-a-la-coleccion/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/clerc/catalog/161961",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095626-clerc-hydroscaph-big-date-power-reserve.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/hydroscaph-grande-date-reserve-de-marche",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1000497115-clerc-is-back-and-beautiful.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/itm/146785205925",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/143650759822",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/167236177532",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/286599748896",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/3538410.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/clerc-mens-icon-8-luxury-watch-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/266514974717",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/clerc-watch-hydroscaph-h1-auto-h1-1-4-v-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/clerc-watch-hydroscaph-h1-auto-h1-1-4-3-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/clerc-watch-hydroscaph-le-central-chrono-h-140-7-carbon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/clerc-watch-releases",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/clerc-watch-releases-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manfredijewels.com/products/clerc-geneve-with-blue-sapphires",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.manfredijewels.com/collections/all/products/clerc-geneve-ladys-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/clerc-odyssey-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/watch-galleries/1004083665-odyssey-silicium-by-clerc.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.scmp.com/article/713639/clerc-revamps-two-old-timers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/ody-311",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/ody-122",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/clerc-hydroscaph-gmt-power-reserve-chronometer-gmt-1-4-4-cz406.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/clerc-hydroscaph-central-chronograph-chy-266-26953",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/267305161638",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/20045808207",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/itm/155139574013",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/145360409858",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therealreal.com/products/94970476/appraisal_report",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/archive/products/clerc-hydroscaph-h1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drouot.com/en/l/19890999-clerc-hydroscaph-le-central-ch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monacolegendauctions.com/auction/exclusive-timepieces-35/lot-208",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/194208",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1003702711.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://300magazine.com/?p=2776",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=8017",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/2091650-clerc-passion-44-style-craftsmanship.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhren-muser.de/cn/42365",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/clerc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tendancehorlogerie.com/clerc-geneve-hydroscaph-limited-edition-gold-tourbillon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=27898",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.horbiter.com/en/?p=25959",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.horbiter.com/en/clerc-hydroscaph-central-chronograph-limited-edition-part-1-milan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=304783",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/hay-algo-mas-impresionante.221960/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/426861",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/clerc-hydroscaph-h1-watch-bracelet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://diveintowatches.com/2011/04/02/baselworld-2011-clerc-hydroscaph-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/clerc-geneva-hydroscaph-odyssey-gte-2012-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/the-clerc-way",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/pre-baselworld-2009-clerc-hydr/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/clerc-hydroscaph-central-chronograph-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/clerc-hydroscaph-conceptual-clarity-hands-on-with-live-photos/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/clerc-hydroscaph-limited-edition-chronograph-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/clerc-hydroscaph-h1-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coolhunting.com/design/clerc-hydroscaph-h140/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://techcrunch.com/2011/05/16/clerc-hydroscaph-gmt-futuristic-dive-watch-review/amp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tendancehorlogerie.com/?p=2028",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=60516",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=5080",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/?p=21715",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/?p=16855",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/horological-meandering/clerc/17.927738.6404798/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/clerc/index.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/clerc/01-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/clerc/02-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/catalog/clerc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/clerc-hydroscaph-h1-4c12r8-mens-watch-dlc/id-j_21502762",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mygemma.com/products/125408-clerc-hydroscaph-h1-4c-12r-8-mens-watch-in-dlc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2010/basel/clerc/02-03.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1003949194-sophisticated-diving-with-clerc.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/clerc-hydroscaph-gmt-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1004044778-clerc-hydroscaph.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://diveintowatches.com/2008/03/26/clerc-hydroscaph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchsite.com/posts/2667701",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/426959",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/426849",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=32808",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/clerc-hydroscaph-h1-chronometer/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/clerc.245000/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/clerc-hydroscaph-l-e-central-chronograph/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/clerc-hydroscaph-h1-watch-review/2/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/dudas-razonables-2.452683/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/116229867530",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/relojes-clerc.535135/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/relojes-clerc.443707/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/clerc-hydroscaph-con-muchos-extras.550544",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/clerc-hydroscaph-h1dlc.541550/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/clerc-hydroscaph-h1-chronometer-azul-armis-correa.579566/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/entrevista-a-gerald-clerc-por-pere-rosich.422358/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096106-clerc-hydroscaph-limited-edition-central.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/tag/baselworld-2008/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/clerc-hydroscaph-limited-edition-chronograph-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/thoughts-on-purchasing-this-watch.174420/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/user/345",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=1796",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/blog/monochrome-review-clerc-hydroscaph/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.horbiter.com/en/clerc/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/clerc-hydroscaph-h1-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/hydroscaph-limited-edition-central-chronograph",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biber.co/architecture/clerc-watches-basel-switzerland",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/clerc",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Clerc-Wristwatches/31387/bn_99087996",
+   "passada": 3,
+   "novos": 22
+  },
+  {
+   "url": "https://www.ebay.com/itm/364851292724",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/c-1-retrograde",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/325880944614",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/sch/i.html?_nkw=clerc+watches&_sop=12",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/sch/Jewelry-Watches-/281/i.html?_frs=1&_nkw=clerc+watch&_sop=23",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Clerc-Watches-Parts-Accessories/260324/bn_105972129",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://itmustbetime.com/collections/clerc",
+   "passada": 3,
+   "novos": 19
+  },
+  {
+   "url": "https://www.ebay.com/b/Clerc-Analog-Wristwatches/31387/bn_108290963",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.itmustbetime.com/brand/clerc",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/137582434664",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kenjo.net/brand/clerc",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.okdwo.com/xc457p-Clerc",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/clerc-watches/clerc-hydroscaph-h1-chronometer-automatic-h1-1-11-1-pre-owned",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/preowned-1-clerc-odyssey-ody121-black-dial-mens-watch-ody121.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://feldmarwatch.com/product/archived/clerc-archived/hydroscaph/hydroscaph-h1-chronometer-11/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mjewelry.com/products/clerc-hydroscraph-limited-edition-chronograph-45mm-preowned-chy5-445587",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rostovskywatches.com/watch/Clerc-HydroscaphH1-Hydroscaph-H1-in-Steel-on-Bracelet-with-Silver-Dial-caseback-has-a-few-hairlines/100909",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/clerc-ladies-c-1-diamonds-mother-of-pearl-dial-35mm-swiss-quartz-c1ds-ns68/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112870-clerc-the-c-one-collection.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://poshmark.com/listing/Ladies-sapphire-and-diamond-Clerc-COne-watch-592c0dc1ea3f362d7f022350",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/clerc-i8ska11blkst-sdv.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ashford.com/clerc-ody341bw-po.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/brand/clerc.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://feldmarwatch.com/product/archived/clerc-archived/hydroscaph/hydroscaph-central-chronograph-9/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/hydroscaph-h1-chronometer/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ecjmiami.com/products/clerc-hydroscaph-h1-chronometer-h1-1-11-1",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

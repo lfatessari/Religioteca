@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 311,
-  "ultima_versao": 275,
+  "proxima_linha_marcas": 312,
+  "ultima_versao": 276,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4211,6 +4211,33 @@
         ]
       },
       "obs": "Sem códigos (só nomes). Site Wix sem products.json; Firecrawl sem créditos. Clerc (311) dimensionada como grande -> próxima execução sozinha."
+    },
+    {
+      "data": "2026-10-28",
+      "versao": 276,
+      "marca": "Clerc",
+      "linha_marcas": 311,
+      "linhas_relogios": "51148-51271",
+      "relogios": 124,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "clercwatches.com não aparece em busca; Firecrawl sem créditos",
+      "fontes": 178,
+      "passadas": {
+        "1": [
+          124,
+          68
+        ],
+        "2": [
+          26,
+          6
+        ],
+        "3": [
+          28,
+          49
+        ]
+      },
+      "obs": "Base: Europa Star swisstime, GPHG, Gressive (JP), It Must Be Time/Kenjo (Icon 8, Odyssey, CXX), eBay (página de navegação da marca), Feldmar, fórum Relojes Especiales. Chrono24, EveryWatch, Jomashop e Touch of Modern não abrem. Busca 'extended' foi a que achou as lojas com códigos. Próxima: Click (312)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
