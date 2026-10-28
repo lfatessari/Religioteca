@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 298,
-  "ultima_versao": 263,
+  "proxima_linha_marcas": 299,
+  "ultima_versao": 264,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3925,6 +3925,33 @@
           2
         ]
       }
+    },
+    {
+      "data": "2026-10-28",
+      "versao": 264,
+      "marca": "Christopher Ward",
+      "linha_marcas": 298,
+      "linhas_relogios": "46355-46823",
+      "relogios": 469,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – listas >12 produtos bloqueadas por robots",
+      "fontes": 171,
+      "passadas": {
+        "1": [
+          140,
+          360
+        ],
+        "2": [
+          19,
+          24
+        ],
+        "3": [
+          12,
+          5
+        ]
+      },
+      "obs": "176 linhas vêm da lista oficial de manuais do proprietário (modelos descontinuados; 138 só com link do PDF). Variações de cor/pulseira de 20 anos não listáveis uma a uma; edições bespoke (35 na página oculta sh-bespoke, 13 achadas). Firecrawl sem créditos. Próxima: Chronora (299)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

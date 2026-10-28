@@ -1,45 +1,49 @@
-import re,sys
-NAMES={'140':'Clubmaster Classic Chrono','240':'Clubmaster Classic HMS','142':'Clubmaster Sport Chrono','342':'Clubmaster Sport HMS','536':'Clubmaster Chic','642':'Clubmaster Diver','644':'Clubmaster Diver Pro','740':'Clubmaster Iconic Automatic','924':'Clubmaster Lady','842':'Clubmaster Traveler','2236':'Streamliner Kennedy Large','2030':'Streamliner Kennedy','2025':'Streamliner Kennedy Petite','1838':'Streamliner Kennedy Chrono','1936':'Streamliner Kennedy Auto','3640':'Streamliner Urban HMS Automatic','1740':'Clubmaster Legend Diver Automatic','1639':'Clubmaster Legend Petite Seconde Automatic','5639':'Clubmaster Legend Classic Automatic','5739':'Clubmaster Legend Open Automatic','6642':'Clubmaster Legend Compressor Automatic','4142':'Streamliner Gentleman Driver Chrono','2142':'Clubmaster Regatta Chrono'}
-def norm(c): return re.sub(r'[^A-Z0-9]','',c.upper()).replace('O','0')
-def guess(c):
-    p=c.split('.')[0]
-    for k in sorted(NAMES,key=len,reverse=True):
-        if p.endswith(k): return NAMES[k]
-    return 'Briston'
-recs={};order=[]
-for l in open('raw.txt',encoding='utf-8'):
-    if not l.strip(): continue
-    n,c,i,e,src=(l.rstrip('\n').split('|')+['']*5)[:5]
-    c=c.strip().upper(); key=norm(c) if c else 'N:'+n.lower()
-    r=recs.get(key)
-    if not r:
-        r={'n':n,'c':c,'i':i,'e':e}; recs[key]=r; order.append(key); continue
-    if n and (not r['n']): r['n']=n
-    pi=lambda u: u and not (re.search(r'\.(jpe?g|png|webp)',u.lower()) or 'maier.fr/media' in u)
-    if i and (not r['i'] or (pi(r['i']) and not pi(i))): r['i']=i
-    if e and (len(e)>len(r['e']) or 'link da página' in r['e']) and not ('link da página' in e and r['e'] and 'link da página' not in r['e']): r['e']=e
-out=[]
-for k in order:
-    r=recs[k]; n=r['n'] or guess(r['c'])
-    e=r['e']
-    if re.search(r'\.(jpe?g|png|webp)',(r['i'] or '').lower()):
-        e=re.sub(r';? ?(foto não aberta|visto)[^;]*\(link da página[^)]*\)','',e).strip(' ;') ; e=re.sub(r'^Visto na página do produto no site oficial','',e).strip(' ;')
-    e=e[:1].upper()+e[1:] if e else ''
-    out.append(f"{n}|{r['c']}|{r['i']}|{e}")
-open(sys.argv[1] if len(sys.argv)>1 else 'parcial_Briston_relogios.txt','w',encoding='utf-8').write('\n'.join(out)+'\n')
-print(len(out),'relógios;',sum(1 for x in out if re.search(r'\.(jpe?g|png|webp)',x.split('|')[2].lower())),'com foto')
-# preencher C vazio com a página da fonte
-P1='https://justintime.in/collections/briston?page=1'; P2='https://justintime.in/collections/briston?page=2'; J='https://jurawatches.co.uk/collections/briston-watches-for-men/dial-colour-red'
-pg1={'17536.PRA.T.2.NT','21536.PRA.UB.33.NMB','15140.PRA.T.8.NBDX','23142.S.T.2.SB'}
-fn=sys.argv[1] if len(sys.argv)>1 else 'parcial_Briston_relogios.txt'
-L=[]
-for l in open(fn,encoding='utf-8'):
-    n,c,i,e=l.rstrip('\n').split('|')
-    if not i:
-        i = J if c=='19640.PS.I.8.NBDX' else (P1 if c in pg1 else P2)
-        loja='Jura Watches' if i==J else 'Just In Time'
-        e=(e+'; ' if e else '')+f'visto só na listagem da loja {loja} (link da página)'
-    elif not (re.search(r'\.(jpe?g|png|webp)',i.lower()) or 'maier.fr/media' in i) and 'link d' not in e:
-        e=(e+'; ' if e else '')+'foto não aberta (link da página)'
-    L.append('|'.join([n,c,i,e]))
-open(fn,'w',encoding='utf-8').write('\n'.join(L)+'\n')
+import json,re,unicodedata
+def n(s,full=False):
+    if not full: s=re.sub(r' – .*','',s)
+    else: s=s.replace(' – ',' le ')
+    s=unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower(); s=re.sub(r'[^a-z0-9 ]',' ',s); s=re.sub(r'\b(mm|the)\b',' ',s)
+    return ' '.join(s.split())
+db=json.load(open('cw_db.json'))
+PDF='https://www.christopherward.com/on/demandware.static/-/Library-Sites-cw-library/default/'
+hb=[l.rstrip('\n').split('|') for l in open('handbooks.txt')]
+img={}
+for l in open('hb_img.txt'):
+    p=l.rstrip('\n').split('|')
+    if len(p)<3: continue
+    k=n(p[0],' – ' in p[0])
+    if k not in img: img[k]=(p[1],p[2])
+    elif not img[k][0] and p[1]: img[k]=(p[1],img[k][1] or p[2])
+names=[n(v['nome']) for v in db.values()]
+# equivalências manuais: manual -> prefixo de nome já presente
+eq={'c60 trident biscay':'trident biscay automatic','c60 trident biscay bronze':'trident biscay bronze','c60 trident biscay gmt':'trident biscay gmt',
+'c60 trident 30x30':'trident 30x30','c63 sealander rocks':'c63 sealander rocks','twelve ti':'twelve titanium','c65 dune aeolian automatic':'c65 dune aeolian',
+'c1 bel canto negroni':'c1 bel canto classic negroni','ice cream twelves':'twelve 38 ice cream','twelve x':'twelve x ti','twelve x steel':'twelve x steel special edition',
+'c63 sealander gmt extreme':'c63 sealander extreme gmt','c63 sealander automatic 2026':'c63 sealander automatic 39','c63 sealander gmt 2026':'c63 sealander gmt 42',
+'goodison':'goodison 3 1','c12 loco':'c12 loco','c60 trident 316l orange':'c60 trident 316l orange','c60 trident lumiere':'c60 trident lumiere',
+'c63 sh21 blue marine':'c63 sh21 blue marine','c1 loco 7326':'c1 loco 7326','c1 jump hour xv':'c1 jump hour xv','desk diver':'NAO',
+'c60 pool diver':'c60 pool diver','c63 valour':'c63 valour','twelve 36 alta gold':'twelve 36 alta gold','c65 gmt worldtimer':'c65 gmt worldtimer'}
+eqle={'c63 sealander rocks le edicao limitada':'c63 sealander rocks','c60 trident lumiere le edicao limitada':'c60 trident lumiere yellow'}
+skip={'spring colour collection'}  # caderno de cores, não é um modelo
+rows=[];vistos=set();hbn=0;hbimg=0
+for nm,p in hb:
+    k=n(nm); kf=n(nm,True)
+    if kf in vistos or k in skip: continue
+    vistos.add(kf)
+    le=(' – ' in nm)
+    tgt=eqle.get(kf) if le else eq.get(k,k)
+    if tgt and any(x==tgt or x.startswith(tgt+' ') for x in names): continue
+    u,e=img.get(kf,img.get(k,('','')) if not le else ('',''))
+    if u: hbimg+=1
+    ee=(e+'. ' if e else '')+'Modelo listado entre os manuais do proprietário do site oficial'+('' if u else ' (sem foto encontrada; link do manual em PDF)')
+    rows.append((nm,'',u or PDF+p.split('#')[0],ee)); hbn+=1
+for k,v in db.items():
+    rows.append((v['nome'],v['cod'],v['img'],v['e']))
+# nomes únicos para linhas sem código iguais
+from collections import Counter
+c=Counter((r[0],r[1]) for r in rows)
+print('dup',[x for x,m in c.items() if m>1])
+with open('dados_ChristopherWard.txt','w') as f:
+    for r in rows:
+        f.write('|'.join(x.replace('|','/').replace('\n',' ').strip() for x in r)+'\n')
+print('total',len(rows),'manuais',hbn,'manuais com foto',hbimg)
