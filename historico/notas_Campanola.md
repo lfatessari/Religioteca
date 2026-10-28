@@ -6,3 +6,4 @@ Nomes sem código (gressive hotitem): 千夜燈 Chiyo no Tomoshi; 皨雨 Hoshi n
 Site oficial citizen.jp/campanola não aparece em busca (L parcial). Firecrawl sem créditos.
 hrd-web lista p.2 não alcançada (não veio em busca).
 Buraco: Mechanical 2014 (2 relógios, cal Y513, sem ref no aBlogtoWatch). Buscar refs NZ0000-0x 2014.
+15º aniv (2015): 琉雅 NZ0000-07F, 紅明 NZ0000-07W, 聚楽 Juraku (ref?). Perpetual Calendar gold month ring LE 999 (ref?).
