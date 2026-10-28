@@ -7,3 +7,4 @@
 - Fotos: pedir ao WebFetch "markdown images ![alt](url)" na página do produto funciona (Cincinnatus Red).
 - Seções feitas: 1, 2 (parcial)
 - ATENÇÃO: links tirados de páginas pedem permissão (rust-red-1, numbers-on-turquoise, when-pigs-fly-1/2/3 falharam). Só URLs de busca.
+- About: fundada 2018 (antes 'Build Your Own Watch') por Rick Bell e Mark Stegman; Jordan Ficklin sócio desde 2020. Primeiros: Union Terminal V1 (2018) e P-40M (2018). Coluna J cita Music Hall, Roebling, Carew Tower — ainda não achados.
