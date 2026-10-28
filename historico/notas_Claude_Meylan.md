@@ -5,3 +5,5 @@ Usa códigos: sim (6044, 6045 DLP...).
 ## História (grail-watch): fundada 1988 (compra da Georges Gay SA/Desotos, Les Bioux); 1992 Basel: calendário perpétuo fase lunar; 1993 Le Sentier, cronógrafo roda de colunas = Classic Line; Sportster; 2011 Philippe Belais compra; Eclipse (Unitas 6497 esqueleto preto), Dentelle (ETA 2892), repetição de minutos, Tortue (2015).
 ## Seções feitas
 - C.H. Meylan / Meylan Watch Co (bolso séc. XIX, cronógrafos 816A) = OUTRA marca, excluída.
+- TheWatchPages: 106 relógios segundo título da busca; páginas dão client_error. 53 refs entraram pelos títulos das buscas site:thewatchpages.com (link da página em C). Não contadas como fontes abertas.
+- "Lionne 6043" (TWP) = mesmo código do MA Lilas (GPHG) → uma linha só.
