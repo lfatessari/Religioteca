@@ -9,3 +9,4 @@
 - Heritage Automatic (PUW 1661s, 41mm, azul/preto/branco/branco ouro rosé; 499 de cada) sem fotos ainda.
 - Feito até aqui: site oficial, blog LE, news, LIW, JMB, aBlogtoWatch, W&W, Monochrome GMT, timebum, Serious Watches.
 - AquaSport II 2023 (cinza ondas, vermelho ondas, degradê vermelho-preto) provavelmente = ae-st-gs / ae-st-rs; não incluídos para não duplicar.
+- 1ª passada encerrada ~10:14 (critério 3 sem novidade cumprido). Marca VERMELHA: 2ª passada começa (alvo: quartzo do relançamento, Classic/Heritage, AquaSport 1ª ger., vintage).
