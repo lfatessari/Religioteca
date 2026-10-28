@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 296,
-  "ultima_versao": 261,
+  "proxima_linha_marcas": 297,
+  "ultima_versao": 262,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3884,6 +3884,23 @@
         "3": 11
       },
       "obs": "Site oficial klaauw.com: coleção Astronomical Masterpieces (29 refs) e páginas antigas /eng/ e /nl/ achadas por busca (Lady Orion, Hypernova, Real Moon 1980, Ceres, Real Moon Tides). Fotos: Majestix, The Limited Edition, Wristler, awco, Monochrome, SJX, Grail-Watch (Satellite du Monde), Phillips, Christie's. ~20 linhas só com link da página. Firecrawl sem créditos. Próxima: Christian Klings (296)."
+    },
+    {
+      "data": "2026-10-28",
+      "versao": 262,
+      "marca": "Christian Klings",
+      "linha_marcas": 296,
+      "linhas_relogios": "46216-46242",
+      "relogios": 27,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "christianklings.com (não indexado; PROVENANCE)",
+      "fontes": 60,
+      "passadas": {
+        "1": 47,
+        "2": 13
+      },
+      "obs": "Relojoeiro independente com ~33–35 peças únicas no total; 27 identificadas (Phillips, Christie's, SJX, Quill & Pad, Haute Time, Independent in Time, A Collected Man, PuristSPro). 6 linhas só com link da página. Firecrawl sem créditos. Próxima: Christophe Claret (297, grande)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
