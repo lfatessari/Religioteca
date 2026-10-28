@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 308,
-  "ultima_versao": 272,
+  "proxima_linha_marcas": 309,
+  "ultima_versao": 273,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4140,6 +4140,33 @@
         ]
       },
       "obs": "Base: Gressive (catálogo 2021-2025, listas de lojas, Basel 2009/2011/2012, catálogo 2008), Piazo (página da marca com ~75 refs), Sakura Watches, HRD (loja oficial), Kitamura, Impress Watch, webchronos, aBlogtoWatch (modelos 2007-2016), Citizen global news 2018. Linha 2000-2007 (CTR57/CTV57/CTU57 antigos) incompleta: vermelha. Firecrawl sem créditos. Próxima: Claude Bernard (308)."
+    },
+    {
+      "data": "2026-10-28",
+      "versao": 273,
+      "marca": "Claude Bernard",
+      "linha_marcas": 308,
+      "linhas_relogios": "50514-50983",
+      "relogios": 470,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – shop.claudebernard.ch (robots) e site antigo www.claudebernard.ch/product (erro); claudebernard.ch abre (coleções de 24 em 24)",
+      "fontes": 90,
+      "passadas": {
+        "1": [
+          67,
+          304
+        ],
+        "2": [
+          12,
+          3
+        ],
+        "3": [
+          11,
+          0
+        ]
+      },
+      "obs": "Base: site oficial (Shopify), uhren-zubehoer, uhrenschmuck24, seriouswatches, helveti, timeshop24, h2hub, eBay; muitas referências descontinuadas vieram de títulos de buscas por família (watch.co.uk, helveti, longislandwatch) com link da ficha. 105 de 470 com foto. Jubilé (col. J) não encontrado. Firecrawl sem créditos. Próxima: Claude Meylan (309)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4154,33 +4181,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-28T13:46:04Z",
-  "ultimo_sinal": "2026-10-28T14:21:32Z",
-  "em_andamento": {
-    "marcas": [
-      "Claude Bernard"
-    ],
-    "linha_marcas": 308,
-    "grande": true,
-    "relogios": "historico/parcial_ClaudeBernard_relogios.txt",
-    "fontes": "historico/parcial_ClaudeBernard_fontes.txt",
-    "notas": "historico/notas_ClaudeBernard.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a_passada",
-      "3a_passada"
-    ],
-    "passada": 3
   }
 }
