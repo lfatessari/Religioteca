@@ -28,3 +28,13 @@ masterhorologer.com client_error (WebFetch); Firecrawl sem créditos
 masterhorologer.com (client_error), gressive.jp/brand/top/clerc (client_error), ebay.de/itm/336070702887, watchpatrol ja/listing/3541728, mywatchmart.com/clerc, chrono24.com / .co.uk / .com.au /clerc/index.htm (client_error), picclick, watchuseek (2 tópicos), burdeens, barnebys (robots), timelessluxury, amazon (robots), watchfreeks, watchlords; anúncios eBay tirados da página de navegação → PROVENANCE_REQUIRED. Firecrawl sem créditos.
 - everywatch watch-621587 (ODY112, 2007) bloqueado para não-colecionadores; chrono24 pre-owned client_error; touchofmodern C1LD-PPL client_error. OKDWO: H1-4R.9… truncado.
 - Poshmark: C-One com safiras azuis e diamantes 29×33 mm, madrepérola — parecido com 806.8 (Manfredi); não virou linha nova. Ashford collections/clerc só veio como link interno (não aberto).
+- Jomashop (3 páginas) e chrono24 steel: client_error. Títulos de busca deram CHY.117 e H1-1.11R.18 (entraram como 'visto só no título').
+- Fim da 3ª passada: últimas 4 fontes abertas sem modelo novo (Ashford brand, Feldmar CHY-217, Watchonista H1-4R.2.5, ECJ Miami). Ainda há referências conhecidas só de nome (Icon 8 I8RMA19, C1LD-PPL etc.) e Chrono24/EveryWatch/Jomashop/Touch of Modern não abrem → continua vermelha.
+## Auto-auditoria (10b)
+1. Blog/imprensa oficial: site oficial (clercwatches.com) não aparece em busca e não pôde ser aberto (Firecrawl sem créditos) → L "Site bloqueado".
+2. §2c site: impossível sem o site; feito em lojas (itmustbetime/kenjo, feldmar, ashford, jomashop por busca).
+3. site: em lojas: Jura, Whamond, Ashford, Exquisite, eBay, Touch of Modern.
+4. Primeiro modelo: linha própria de Gérald Clerc com caixa octogonal "Fetish" (anos 90/2000) — não achado com nome; vintage da família (JLC assinado Clerc Paris c.1955, bracelete 1974 ref. 4038) entraram.
+5. I/J: Hydroscaph OK, Icon OK, CXX OK.
+6. Edições limitadas com nº na B: 500 (Central Chrono), 140 (H140), 28 (Gold Tourbillon), 250 (CXX Scuba), 149 (Hydroscaph chrono). Sem peças únicas.
+7. Fontes: ver parcial_Clerc_fontes.txt.
