@@ -12,3 +12,5 @@
 - Munro 2025: Ridgeline Dusk + dials cinza escovado, teal (petróleo), salmão — buscar nomes.
 - Munro também: Cairn (cinza pedra escovado), Juniper (teal), Tay Salmon, Ridgeline Dusk (mainspring).
 - MKI nomes (W&W review 2021): Abyss (preto fosco), Atoll (azul sunburst), Photic (azul degradê). Ponteiros prata ou gilt => 6 combinações. MKII 'Photic' = 'Photic Gilt'.
+- Clemence x Anachronist Photic MKII 'Breakwater' (topperjewelers, título da busca; página não abriu).
+- Munro 2025 Concept Edition (British Watchmakers' Day 2025): preto c/ bronze gilt e vermelho, 10 peças.
