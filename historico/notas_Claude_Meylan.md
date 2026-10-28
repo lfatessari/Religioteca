@@ -18,3 +18,4 @@ Usa códigos: sim (6044, 6045 DLP...).
 6. Limitadas: Just for You (30), Répétition 5 (100). Peça única: Pointe de Sable.
 7. Fontes 1ª passada: ~80. Parou: 3 fontes seguidas sem novidade (worldtempus Tortue de Joux, Europa Star Répétition 5, Escapement 6090 C).
 ## 2ª passada (vermelha): alvo = refs antigas (650 refs antes de 2010), Légendes, Classic Line/Sportster, Dentelle/Eclipse, pocket.
+- 2ª passada encerrada (3 sem novidade: WT Ondine, WT Ripples, GPHG Motorities fr). Trouxe 11 novos → 3ª passada obrigatória.
