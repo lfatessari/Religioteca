@@ -10,3 +10,8 @@ masterhorologer.com client_error (WebFetch); Firecrawl sem créditos
 - Col I de Marcas diz "George-Émile Clerc fundou" — fontes (300magazine) dizem Charles Rémy Clerc; Europa Star diz Gérald Clerc 4ª geração. Relatar.
 - Fórum RE: imagens 'ClercOdyssey12' = tourbillon (Odyssey Tourbillon 2007?) — buscar.
 - H1 2013 (aBlogtoWatch): aço 44mm, azul metálico, ponteiro de minutos verde — provavelmente uma das refs H1-1.4.x; não virou linha.
+## Fim da 1ª passada (126 fontes; últimas 9 sem novidade)
+- Chrono24: nenhuma página indexada em busca (site:chrono24.com clerc / chrono24 Clerc Hydroscaph). EveryWatch também não aparece em busca. Firecrawl sem créditos.
+- Catálogo PDF: não encontrado.
+- Decisão: VERMELHA — linhas Icon 8 (reserva de marcha, grande data, GMT, tourbillon, cerâmica LE), CXX (Diamonds, Scuba, Plongeur), C-One, C125, Odyssey (várias refs ODY), joias e as peças vintage da família (assinadas Clerc Paris, parcerias Rolex/VC/JLC) têm muitas referências sem fonte aberta.
+## 2ª passada
