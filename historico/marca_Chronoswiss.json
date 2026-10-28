@@ -1,0 +1,982 @@
+{
+ "marca": "Chronoswiss",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – chronoswiss.com (páginas montadas em JavaScript, leitura automática vem vazia); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "",
+ "fontes": [
+  {
+   "url": "https://chronoswiss.com/en/CH/product/timemaster-chronograph-pointer-date-automatic-ch-7533d-bk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoswiss.com/en/jp/flying-grand-regulator-ch-6723-blbl",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/brand/chronoswiss/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/chronoswiss-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/chronoswiss-classic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/chronoswiss-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.essential-watches.com/Chronoswiss-allwatches",
+   "passada": 1,
+   "novos": 86
+  },
+  {
+   "url": "https://exquisitetimepieces.com/collections/chronoswiss",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://collectorsquare.com/en/luxprice-index-watches/chronoswiss.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/chronoswiss/space-timer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/chronoswiss-heritage-flying-regulator-jumping-hour-ch8325bkbk-6731",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/chronoswiss-men?page=2",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/chronoswiss-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/chronoswiss/sold-out.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-chronoswiss-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/chronoswiss-open-gear",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/mens-chronoswiss-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/chronoswiss-watch-releases-2020/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/chronoswiss-watches-and-wonders-2021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/chronoswiss-watch-flying-regulator-night-day-ch-8763-blsi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/chronoswiss.html?page=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/chronoswiss/sirius.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.chronoswiss.com/fr/flying-regulator-open-gear-ch-8753-yebk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoswiss.com/en/EU/products/cpo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/chronoswiss-stainless-steel.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-open-gear-ch-6927-rebk.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ch.chronoswiss.com/en/timemaster-automatic-ch-2833-brm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/chronoswiss-watch-open-gear-resec-kingfisher-limited-edition-ch-6923-blor",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-sirius-chronograph-moon-phase.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-regulator-manufacture-blue-dial-red-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-regulator-manufacture-black-dlc.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-sirius-flying-regulator-jumping-hour.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-grand-regulator-open-gear-resec-black-red.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://exquisitetimepieces.com/chronoswiss-space-timer-solaris-ch-9343-2-sol.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/chronoswiss-automatic.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/chronoswiss-delphis.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-open-gear-tourbillon-limited-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-grand-regulator-open-gear-resec-gold-grey.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-regulator-open-gear-lucerne-edition-blue-ch-87531-siblb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://exquisitetimepieces.com/chronoswiss-flying-regulator-open-gear-ch-8753-bkbk.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-regulator-open-gear-ch-8753-blbl.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-regulator-open-gear-ch-8753-sisi.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://exquisitetimepieces.com/chronoswiss-ch1421-delphis-jump-hour-retrograde-210000079810.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-ch-1420-delphis-platinum-210000073417.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-delphis-oracle.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-lunar-chronograph-ch-7543l-210000009277.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-opus-chronograph-skeleton.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-ch-7543s-opus-chronograph-210000038206.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/chronoswiss/collections/heritage?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/chronoswiss/home",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chronoswiss/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/chronoswiss/watches/?paging=6",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristreview.com/chronoswiss-the-three-apes-only-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/chronoswiss-ouroboros-for-only-watch-2015/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/2017/10/18/chronoswiss-flying-regulator-red-passion-unique-piece-watch-2017-matter-heart/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/chronoswiss-ch-1263-orea-steel-auto-14235",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/watch/Chronoswiss-CH-1523-Chronoscope-Chronograph-SS-51434.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/brand/chronoswiss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronext.com/chronoswiss/pacific",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Chronoswiss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dialicious.com/en/chronoswiss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2008/catalog/chronoswiss/index.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/chronoswiss/?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/buy/brand/クロノスイス/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/chronoswiss/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/chronoswiss/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/chronoswiss/page/3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/chronoswiss/page/4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/hands-on-chronoswiss-delphis-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/hands-on-chronoswiss-pulse-one-titanium-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/hands-on-chronoswiss-opus-chronograph-titanium-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-review-chronoswiss-flying-regulator-open-gear-purple-haze/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/chronoswiss-flying-grand-regulator-watch-bright-new-colors/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/chronoswiss-pacific-watches-hands-on/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/chronoswiss-offers-quintet-of-festive-favorites/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149890",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149872",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149877",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149880",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149874",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149878",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149888",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149876",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2017/basel/chronoswiss/index.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2012/basel/chronoswiss/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2012/basel/chronoswiss/02-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2012/basel/chronoswiss/03-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2012/basel/chronoswiss/04-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2012/basel/chronoswiss/01-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2017/basel/chronoswiss/03-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2024/brand/chronoswiss/02.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2024/brand/chronoswiss/09.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2025/brand/chronoswiss/06.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2026/brand/chronoswiss/02.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/artist/13223/chronoswiss",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chronoswiss/chronograph",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chronoswiss/regulator",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chronoswiss/sirius",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.loupe.watch/prices/chronoswiss/lunar-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/chronoswiss/timemaster/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/catalog/149873",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chronoswiss-sirius-lion-edition-17620.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/chronoswiss-flying-regulator-night-and-day-ch-8763-blbl",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Timemaster",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Lunar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Kairos",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Regulateur/Grand",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Chronoscope",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronoswiss.com/en/posts/33",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/chronoswiss?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/chronoswiss?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/brands/chronoswiss/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Regulateur/Tourbillon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Regulateur/Mechanical",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Regulateur-24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Sirius-Chronograph/Day-Date-Steel",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Sirius/Big-Date",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Swing",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Sirius",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Sirius-Chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Opus-Chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Tora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Pathos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Klassik",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Opus/Rose-Gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Opus/Yellow-Gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Opus/Platinum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Opus/2-Tone",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Delphis/Steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Delphis/Rose-Gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoswiss.com/en/history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/magazine/luxury-watches-brand-stories/chronoswiss/chronoswiss-story.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/pages/chronoswiss-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/hidden-gems-baselworld-2013-the-classic-chronoswiss-regulator-30-le-with-digital-hour-display/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/innovation-and-technology/chronoswiss-regulator-rallye-limited-edition-21645.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2008/08/03/chronoswiss-regulateur-a-tourbillon-squelette-limited-edition-platinum-and-gold-versions-38mm-case-hand-wound-movement/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.net/brands/chronoswiss/chronoswiss-timemaster-grand-prix-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/chronoswiss-video-timemaster-chronograph-20-skeleton-gold-launch-19800.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-104-42",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-119-39",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-81-261",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-212-197?page=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-206-378",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-237-179",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/14228.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-73-70",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2009/10/04/chronoswiss-grand-regulateur-edition-2006-platinum-gold-and-steel-versions-hand-wound-movement-based-on-an-eta-6498-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-119-213",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/chronoswiss/ch-8735/watch-13714792",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/chronoswiss/antique/refC1994/watch1550/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://piazo.jp/chronoswiss/regulateur/refCH-1241-1R/watch19882/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://piazo.jp/chronoswiss/Sirius/refCH-7543L/watch19874/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/chronoswiss/timemaster/refCH7633/watch6107/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/chronoswiss/kairos/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://piazo.jp/chronoswiss/Lunar/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://piazo.jp/chronoswiss/delphis/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://whamond.com/pages/chronoswiss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/pages/chronoswiss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/introducing-chronoswiss-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seddiqi.com/chronoswiss-75th-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.coinspeaker.com/swiss-watchmaker-chronoswiss-reveals-limited-edition-cryptocurrency-watches/amp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/chronoswiss-creates-cryptocurrency-inspired-watches-to-be-auctioned-via-exchange-platform-zaif",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://exquisitetimepieces.com/chronoswiss-flying-regulator-open-gear-bitcoin.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dorotheum.com/en/l/10103674/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/106069979",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/brands/chronoswiss/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-grand-regulator-limited-edition-dlc.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/chronoswiss-opus-chronograph-limited-edition.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://exquisitetimepieces.com/chronoswiss-ch-8755-bkbk.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-grand-regulator-skeleton-ch-6721rs-blsi.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/chronoswiss-flying-grand-regulator-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/new-entries/chronoswiss-edition-zeitzeichen-vii-ref-ch6721zrvii-limited-edition-18k-rose-gold-no-04-11-papers-box-bj-2008-12196.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Chronoswiss/Zeitzeichen",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-101-166",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://pursuitist.com/chronoswiss-zeitzeichen-v-by-benzinger-engraved-watch/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1003824178-chronoswiss-celebrates-25-years-with-a-new.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-regulator-manufacture-red-gold.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://exquisitetimepieces.com/chronoswiss-flying-regulator-manufacture-white-dial.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/chronoswiss-flying-regulator-manufacture.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2023/brand/chronoswiss/05.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2025/brand/chronoswiss/17.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/news/289407",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/news/312657",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chronoswiss/news/321483",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://dime.jp/genre/1911090/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2020/brand/chronoswiss/07.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2019/brand/chronoswiss/02.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2018/basel/chronoswiss/02.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2023/brand/chronoswiss/01.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/ja/l/104354664-chronoswiss-unisex-2000-2010",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/117890-chronoswiss-sirius",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wristler.eu/watches/165010-chronoswiss-unknown",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://wristler.eu/watches/213683-chronoswiss-unknown",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}

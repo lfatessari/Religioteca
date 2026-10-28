@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 300,
-  "ultima_versao": 265,
+  "proxima_linha_marcas": 301,
+  "ultima_versao": 266,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3963,6 +3963,33 @@
       "site_bloqueado": "parcial (chronora.ae em JavaScript)",
       "fontes": 15,
       "versao": 265
+    },
+    {
+      "data": "2026-10-28",
+      "versao": 266,
+      "marca": "Chronoswiss",
+      "linha_marcas": 300,
+      "linhas_relogios": "46829-47265",
+      "relogios": 437,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "chronoswiss.com em JavaScript",
+      "fontes": 194,
+      "passadas": {
+        "1": [
+          167,
+          301
+        ],
+        "2": [
+          15,
+          9
+        ],
+        "3": [
+          12,
+          8
+        ]
+      },
+      "obs": "Firecrawl sem créditos. 182 linhas com link de página/anúncio no lugar da foto. Muitas variações de cor e edições de varejistas não listáveis uma a uma. Próxima: Churchill Watch Company (301)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -3977,31 +4004,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-28T05:41:37Z",
-  "ultimo_sinal": "2026-10-28T06:24:42Z",
-  "em_andamento": {
-    "marcas": [
-      "Chronoswiss"
-    ],
-    "linha_marcas": 300,
-    "grande": true,
-    "relogios": "historico/parcial_Chronoswiss_relogios.txt",
-    "fontes": "historico/parcial_Chronoswiss_fontes.txt",
-    "notas": "historico/notas_Chronoswiss.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
   }
 }

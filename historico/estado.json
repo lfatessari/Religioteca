@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 300,
-  "ultima_versao": 265,
+  "proxima_linha_marcas": 301,
+  "ultima_versao": 266,
   "historico": [
     {
       "data": "2026-10-16",
@@ -3963,6 +3963,33 @@
       "site_bloqueado": "parcial (chronora.ae em JavaScript)",
       "fontes": 15,
       "versao": 265
+    },
+    {
+      "data": "2026-10-28",
+      "versao": 266,
+      "marca": "Chronoswiss",
+      "linha_marcas": 300,
+      "linhas_relogios": "46829-47265",
+      "relogios": 437,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "chronoswiss.com em JavaScript",
+      "fontes": 194,
+      "passadas": {
+        "1": [
+          167,
+          301
+        ],
+        "2": [
+          15,
+          9
+        ],
+        "3": [
+          12,
+          8
+        ]
+      },
+      "obs": "Firecrawl sem créditos. 182 linhas com link de página/anúncio no lugar da foto. Muitas variações de cor e edições de varejistas não listáveis uma a uma. Próxima: Churchill Watch Company (301)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
