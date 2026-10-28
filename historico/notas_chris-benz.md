@@ -18,3 +18,4 @@
 - Vermelha: site oficial bloqueado e marca tem 156 versões no Taucher.Net / "162 versões" na entrevista; muitas cores/pulseiras só como título.
 ## 2ª passada (alvos): One Lady (só 6 linhas vs 23 no Taucher.Net), Stars & Diamonds, Depthmeter Chrono 200M, Deep 2000M Automatic, Deep 1000M quartzo, One Man 1ª geração, SSI/edições.
 - Fundador: Christian 'Chris' Benzing (blog Uhren4You, 2017); marca registrada desde 1996; Ocean Team.
+## Fim da 2ª passada; 3ª passada (2ª trouxe >5)
