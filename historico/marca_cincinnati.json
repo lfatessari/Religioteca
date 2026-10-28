@@ -1,0 +1,632 @@
+{
+ "marca": "Cincinnati Watch Co.",
+ "usa_codigos": false,
+ "logo": "https://cincinnatiwatch.com/cdn/shop/files/Cincinnati-Watch-Company-Logo-Corner-Cleared_400x.png?v=1739581807",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G errado: o site é cincinnatiwatch.com. I: hoje usa movimentos suíços (Sellita e quartzo Ronda), não japoneses (Seiko só no Cincinnatus Field V1/V2, 2019-20); fundada em 2018 (antes 'Build Your Own Watch') por Rick Bell e Mark Stegman; o relojoeiro Jordan Ficklin é sócio desde 2020 e faz mostradores de esmalte peça única. J: 'Music Hall', 'Roebling' e 'Carew Tower' não foram encontrados; linhas reais: Union Terminal, Cincinnatus, P-40, Guild, Concourse, Desk Diver, Captain, esmaltes Bespoke.",
+ "fontes": [
+  {
+   "url": "https://cincinnatiwatch.com",
+   "passada": 1,
+   "novos": 40
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://cincinnatiwatch.com/pages/archive",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://cincinnatiwatch.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatian",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-captain-richter-phillips-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/pages/limited-edition-time-hill-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/union-terminal-automatic-blue-richter-phillips-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/union-terminal-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://richterphillips.com/products/union-terminal-black-26mm.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://richterphillips.com/products/union-terminal.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://richterphillips.com/products/captain-r-p-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://richterphillips.com/products/bespoke-when-pigs-fly",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/cincinnatus-field",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/p-40m",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/enamel-watch-gallery",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/bespoke-timepieces",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/architectural-enamel-watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/union-terminal",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/enamel-dial-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/teal-green-enamel-over-hammered-finish.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/rose-window-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/rose-window-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/rose-window-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/rose-window-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/cincinnatis-favorite-hippo-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/irish-terrier-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/rico-the-porcupine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/phantom",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-numbers-on-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/silver-beauty-year-of-the-horse",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches-in-stock/products/year-of-the-horse",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/rust-red-enamel-over-hammered-finish-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches-in-stock/products/cincinnatis-riverfront-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/home-page-display/products/spirit-year-of-the-horse",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/sugar-skull",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://richterphillips.com/products/bespoke-stripes",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/green-enamel-over-hammered-finish",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/poison-dart-frog",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches-in-stock/products/ice-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/robins-egg-blue-enamel-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-burgundy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-white",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/cincinnatus-centurion-2024",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/concourse",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/concourse-silver-white",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/concourse-burgundy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cincinnatiwatch.com/products/union-terminal-watch-mechanical",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/union-terminal-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/p-40-a-11-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/p-40-a-11-black-automatic-mechanical-pilot-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/p-40-a-11-mocha-mousse",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches/products/p-40-automatic-pilot-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/p-40-a-11-brown-automatic-mechanical-pilot-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/p-40-a-11-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/ladies-union-terminal-watch-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/ladies-union-terminal-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/ladies-guild-shimmering-purple",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/guild-mechanical-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/pre-order-guild-mechanical-stainless-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/pages/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/pages/guild-history-gruens-time-hill",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/desk-diver-professional-black-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/desk-diver-professional-electric-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/desk-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/professional-desk-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://richterphillips.com/products/desk-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/eclipse",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-white-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-red-automatic-field",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-black-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gearjunkie.com/technology/cincinnatus-centurion-field-watch-review",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thetimebum.com/?p=54",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/guild",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thetimebum.com/?p=148",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thetimebum.com/?p=49",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=4474",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/top-cincinnati-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cincymuseum.org/press/limited-edition-union-terminal-watch-gives-back-to-building-that-inspired-it/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://community.citybeat.com/best-of/2019/shops-and-services/best-commemorative-watch-for-a-national-landmark-12253749",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/cincinnatus-centurion-white-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-blue-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-burgundy-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/the-cincinnatus-red-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://richterphillips.com/products/the-cincinnatus-field-blue-automatic-1.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/cincinnatus-red-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-review-the-cincinnati-watch-co-concourse/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches-in-stock/products/red-panda",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches-in-stock/products/curling",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/sunflower",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/33215319",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/2006614/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/126670656070",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/cincinnati-watch-company-cincinnatus-owner-thoughts.184805/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://topperjewelers.com/products/pre-owned-cincinnati-watch-company-22322",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/pages/brand-reviews/cincinnati-watch-company",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/cincinnati-watch-companys-captain-gives-a-nod-to-american-watchmakings-heyday-and-to-its-future/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://cincinnatiwatch.com/pages/retailers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-the-cincinnati-watch-co-desk-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearjunkie.com/?p=202228",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.app/products/8033915961596/concourse-silver-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.app/products/8234575069436/total-eclipse",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/1886333/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cincymuseum.org/?p=4611",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://guide.artswave.org/?p=52284",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kicktraq.com/projects/458635093/series-one-watch-by-build-your-own-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=140",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/cincinnati-watch-co-p-40-mechanical/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/p-40-a-11-brown",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/rising-star",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/tree-frog",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/products/stripes",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches-1/products/sugar-skull",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/interview-with-master-watchmaker-jordan-ficklin/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/jordan-ficklin",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cincinnatiwatch.com/pages/assembly",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/time-workshop/products/union-terminal-watch-mechanical",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://cincinnatiwatch.com/collections/watches-in-stock/products/more-coming-soon",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://richterphillips.com/products/the-cincinnatus-blue",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://richterphillips.com/products/union-terminal-mechanical-watch-gold-pvd",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/cincywatchshots-x-awci-build-a-watch-class-cincinnati.193005/",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

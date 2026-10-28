@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 304,
- "ultima_versao": 268,
+ "proxima_linha_marcas": 305,
+ "ultima_versao": 269,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4040,6 +4040,29 @@
     ]
    },
    "obs": "Códigos achados em lojas (Ocarat, Watchard, Nykaa, Jamtangan, Maigoo). 24 linhas com link de página no lugar da foto. Próxima: Cincinnati Watch Co. (304)."
+  },
+  {
+   "data": "2026-10-28",
+   "versao": 269,
+   "marca": "Cincinnati Watch Co.",
+   "linha_marcas": 304,
+   "linhas_relogios": "47401-47502",
+   "relogios": 102,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "não (cincinnatiwatch.com abre; algumas fotos e a coleção Cincinnatus GMT não aparecem na leitura; Firecrawl sem créditos)",
+   "fontes": 124,
+   "passadas": {
+    "1": [
+     112,
+     99
+    ],
+    "2": [
+     12,
+     3
+    ]
+   },
+   "obs": "Marca de peças únicas de esmalte (Jordan Ficklin): página 2 da galeria (8 peças) inacessível. 30 linhas com link de página no lugar da foto. Próxima: Circula (305), provavelmente grande."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4054,33 +4077,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-28T08:41:37Z",
- "ultimo_sinal": "2026-10-28T09:05:25Z",
- "em_andamento": {
-  "marcas": [
-   "Cincinnati Watch Co."
-  ],
-  "linha_marcas": 304,
-  "grande": true,
-  "relogios": "historico/parcial_cincinnati_relogios.txt",
-  "fontes": "historico/parcial_cincinnati_fontes.txt",
-  "notas": "historico/notas_cincinnati.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2"
-  ],
-  "passada": 1
  }
 }

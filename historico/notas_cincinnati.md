@@ -12,3 +12,12 @@
 - Coluna J (Music Hall, Roebling, Carew Tower): nenhuma busca encontrou relógios com esses nomes. Coluna I diz 'movimentos japoneses e quartzo' — hoje usa Sellita suíço (e Ronda quartzo); Seiko só no Cincinnatus V1/V2.
 - 1ª passada encerrada (3+ fontes seguidas sem novidade: timebum 140, watchclicker, kicktraq). DECISÃO: VERMELHA — galeria de esmalte tem 29 peças e só 21 foram vistas (pág. 2 inacessível); várias peças sem foto; GMT sem página. 2ª passada: buscar peças da pág. 2 da galeria, fotos, GMT.
 - Kicktraq: projeto "Series One Watch by Build Your Own Watch" (antecessora), redirecionamento em loop, não abriu.
+## 10b Auto-auditoria
+1. Blog: índice lido (artigos sobre história/Gruen; não citam modelos); "How it started" e Time Hill lidos. Sem área de imprensa.
+2. site:/products com vários termos até repetir só handles já vistos.
+3. Richter & Phillips (única loja online além da oficial) buscada; Kirk & Co e Geraci não têm loja indexada.
+4. Primeiros modelos: Union Terminal V1 e P-40M (2018) — incluídos.
+5. J: Music Hall, Roebling, Carew Tower NÃO encontrados (relatado em M).
+6. LEs com nº na B (Desk Diver 75, Total Eclipse 100, Captain R&P 100, UT Auto Blue R&P 100); peças únicas com "Peça única." na E.
+7. 1ª passada ~112 endereços tentados; 2ª passada 12 novos (3 relógios novos) -> sem 3ª.
+Fotos: WebFetch não mostra imagens de algumas páginas; Google Imagens não está disponível nas ferramentas (WebSearch só devolve links). Firecrawl sem créditos.
