@@ -5,3 +5,4 @@ Seções: 1 feito.
 Nomes sem código (gressive hotitem): 千夜燈 Chiyo no Tomoshi; 皨雨 Hoshi no Ame (GC); 塵地螺鈿 Chiji Raden ring solar 300 pcs; 星顕 Hoshi no Araware; 天満星; 織部 GC=AH4080-10W; Premium Doors 150 pcs; Cosmosign limitado 150; Minute repeater 深緋.
 Site oficial citizen.jp/campanola não aparece em busca (L parcial). Firecrawl sem créditos.
 hrd-web lista p.2 não alcançada (não veio em busca).
+Buraco: Mechanical 2014 (2 relógios, cal Y513, sem ref no aBlogtoWatch). Buscar refs NZ0000-0x 2014.
