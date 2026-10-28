@@ -10,3 +10,5 @@
 - Chrono24, EveryWatch, WatchPatrol: nada / bloqueado.
 - Seções feitas: 1,3,5,6,7(parcial),8(eBay)
 - Site oficial verdadeiro: chrisbenz.de (Shopify, robots bloqueia WebFetch) e shop.chrisbenz.de (loja antiga, robots). Site antigo www.chrisbenz.de/en/watch/items/... abre! Coluna G diz chris-benz.de (errado).
+- chrisbenz.de: robots bloqueia tudo (produtos, coleções, blog). Títulos de produtos vistos só nas buscas site:. Coleções: ONE, DEEP, SURF & SAIL, STARS & DIAMONDS, DIVER Black Haven, GESAMTKOLLEKTION, APPROVED (usados). Blog: TBT 30 anos (desde 1996).
+- Limites: divers24, timeshop4you .htm, www.chrisbenz.de/de|fr: client_error.
