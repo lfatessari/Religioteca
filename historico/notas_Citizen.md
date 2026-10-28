@@ -4,3 +4,5 @@
 - citizenwatch.com: fichas abrem (foto citizenwatch.widen.net/content/<id>/webp); listagens JS.
 - MINA: Shopify collection .oembed?page=N (littleswitzerland.com) dá título, ref e foto de ~50 produtos por página. Buscar outras URLs .oembed via busca.
 ## Seções
+- Fontes boas: citizenwatch.com/us/en/collection/<x>?offset=N (48/pág, só nome+ref; C=ficha oficial); citizen.com.hk products (refs + ficha HK); watchdirect.com.au/collections/citizen?page=N (fotos); loupe.watch (fotos r2.dev); Yodobashi maker 0000008392 (Citizen Collection JP) e 0000008031 (Attesa).
+- Seções 1, 2 (em andamento), 5 (loupe), 7 (watchdirect, yodobashi) iniciadas.
