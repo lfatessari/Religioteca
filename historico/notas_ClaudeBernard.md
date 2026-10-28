@@ -10,3 +10,5 @@
 - Firecrawl sem créditos. Chrono24 e EveryWatch bloqueados.
 - Vermelha: catálogo antigo enorme (centenas de referências descontinuadas: 10101-10247, 20059-20509, 53007-65004, 70xxx, 80xxx, vintage 30xxx/34xxx anos 80).
 ## 2ª passada: buscas por família + fichas de lojas, vintage, Chrono24 via busca.
+## 2ª passada encerrada (~14:33): 12 fontes abertas novas (ablogtowatch, europastar, wristwatchreview, masterhorologer, 2 eBay, prezly NL, luxurious, eurospapool, 2 desertcart, helveti 70203) + buscas por família (títulos) => ~50 novos. Precisa 3ª passada.
+- Jubilé (coluna J) não encontrado em nenhuma fonte. "Sporting Soul" = nome antigo da linha esportiva (Aquarider).
