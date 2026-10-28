@@ -1,0 +1,392 @@
+{
+ "marca": "CODE41",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – code41.com feito em JavaScript (Storyblok): a leitura automática só vê os metadados; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I: NB24 é cronógrafo esqueletizado (não só 'esqueleto'). J incompleto: faltam Anomaly-01/02, Anomaly-T4, Anomaly Evolution, T360 Tourbillon, Moon Inception, Unify e Open Heart (2026). G code41.com ok, mas loja antiga em code41watches.com.",
+ "fontes": [
+  {
+   "url": "https://code41.com/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://code41.com/en/projects/nb24/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/code41/anomaly-01/an01-in-sil-st-per-be",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/code41/anomaly-01/an01-bk-st-lea-cou-sp",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/brands/code41/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://majestixcollection.com/watches/code41-anomaly-01-black-pvd-black-an01-bk-st-per-br-1/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://hourstriker.com/learn/unwinding-time-the-audacious-journey-of-code41-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/brands/code41/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=60013",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004116029-code41-celebrates-its-10th-anniversary-with-the.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.apetogentleman.com/code41-nb24-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-code41-unify-sharoz-makarechi-sellita-sw-290-small-seconds-time-date-limited-edition-specs-price",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-code41-moon-inception-moonphase-watch-specs-price/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-2023-updated-code41-nb24-chronograph-collection-new-orange-stratom-case-specs-price",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-the-cool-code41-mecascape-sublimation-one-is-both-a-pocket-watch-and-a-desk-clock-specs-price",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=65806",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://verygoodlord.com/code41-x41-edition-6/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/code41-x41-watch-third-edition-available-in-limited-quantities",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ablogtowatch.com/code41-x41-edition-4-aerocarbon-affordable-high-end-swiss-watchmaking",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-review-code41-x41-generation-5-titanium/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/in-depth-the-code41-anomaly-t4-further-refines-the-collection-and-distinguishes-the-brand/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://manofmany.com/fashion/watches/code41-reinvents-an-iconic-range-with-the-new-anomaly-evolution",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.totaldesignreviews.com/2024/11/04/code41-anomaly-evolution-ed2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.apetogentleman.com/code-41-anomaly-evolution/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.apetogentleman.com/code41-anomaly-t4-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/code41-anomaly-t4-creator-edition/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://fratellowatches.com/new-code41-anomaly-01-collector-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://a.storyblok.com/f/119298/x/f8c1999d64/pr-anomaly-t4-en-2023.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/celebrate-in-style-the-code41-holiday-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/code41-launches-day41-edition-2-unisex-watch",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.apetogentleman.com/code41-day-41-edition-3-watch/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=11614",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/code41-launches-the-nb24-a-skeletonized-chronograph-with-a-dial-side-peripheral-rotor",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ablogtowatch.com/the-code41-nb24-chronograph-with-dial-side-peripheral-rotor-is-back-with-new-case-and-color-options",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.apetogentleman.com/code41-nb24-edition-2/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/code41-t360-tourbillon-accessible-tourbillon-swiss-made-watch-specs-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/code41-take-the-next-step-with-the-t360-tourbillon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://code41.com/en/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch-deal.com/watches-brand/code41",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/code41-onto-a-new-project/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/code41/anomaly-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/code41/anomaly-01/review/67f91f8150a0492e4516bd97",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/code41/the-mechanical-watches-disrupting-swiss-watchmakin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/code41/anomaly-01/review/68c6cc1262f9e254e7858456",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/x-41",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/anomaly-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashionbeans.com/article/code41-tourbillon-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchgecko.com/blogs/magazine/an-introduction-to-the-code41-brand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mtr-watches.com/watch-reviews/a-closer-look-at-code41-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/tag/code41/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/code41-day41-edition-2-is-an-affordable-modern-skeleton-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-code41-moon-inception/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=85951",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=111423",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxuo.com/style/watches/the-second-edition-of-code41s-anomaly-evolution-is-born-in-the-face-of-adversity.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.commeuncamion.com/guide/marques/code-41/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/code41/x41_areocarbon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://verygoodlord.com/code41-anomaly-01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.code41.com/en/projects/historic-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://code41.com/fr/projects/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://code41.com/en/projects/open-heart/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://montre-luxe-occasion.com/avis-code41-montre/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.com/?p=152069",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=134107",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/the-code41-x41-edition-6-delivers-an-ultra-hard-full-sapphire-case-at-an-astonishing-price/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2026/03/20/code41-open-heart-stephane-peterhansel-limited-edition/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.apetogentleman.com/code41-unify-watches/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://watchtime.com/?p=160731",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://code41.com/en/projects/unify/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/code41-unify-small-seconds-quartz-blue-anthracite/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/code41-unify-small-seconds-steel/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montredo.com/code41-unify-setting-an-example-for-human-ideals/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxuo.com/style/watches/unify-when-watchmaking-takes-on-the-challenges-of-our-times.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/promotion/top-thema-code41-die-uhrmacherei-mit-menschlichem-antrieb",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.montres-bonnes-affaires.com/blog/unify-code41/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://uhrforum.de/threads/neue-uhr-code-41-unify.572989/",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
