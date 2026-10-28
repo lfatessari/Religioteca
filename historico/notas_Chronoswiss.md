@@ -6,3 +6,5 @@ CH7420 Tora GMT chrono; CH2321 Kairos skeleton chrono LE600; CH2821W Kairos LE; 
 ## A caçar (artigos aBlogtoWatch)
 Pulse One Titanium; Pulse GMT outros; Opus Chrono Titanium; Delphis decorative dials; Open Gear Purple Haze; Space Timer Black Hole; quinteto festivo; FGR Open Gear ReSec Blue Note; FGR Skeleton; FGR cores; Sirius Flying Regulator; Artist Régulateur Jumping Hour; Timemaster Chrono GMT LE; Pacific/Grand Pacific; Balance chrono; Timemaster Big Date Power Reserve; Regulator 30 LE digital hour; Strike Two Golden Hour.
 - Seção 2 site oficial: bloqueado (JS). Registrar L.
+- Primeiro modelo: cronógrafo mecânico com fase da lua e fundo de vidro (1982/83), sem nome/ref. publicados; Régulateur 1987/88 (CH 1223/1221?). Linha antiga Kelek (Five Minutes Repeater CH 8735, DK87-211A).
+- A caçar: Minute Repeater Tourbillon (1995-2000), Régulateur à Tourbillon Squelette LE 200, Régulateur 30 (30 anos), Achtelzähler-Chrono, Timemaster Grand Prix LE, Regulator Rallye LE (Kitzbühel), Lady Lunar, Frosted, Neo Digiteur pastel LE 99.
