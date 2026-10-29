@@ -5,3 +5,5 @@ Notas: press kit 2012 refs CT10101, CT20100, CT10104, CT20101 (Saturno/Corsa, 46
 - eBay títulos (não abriram): Bull Head Carbon Fiber Chronograph (256628247029); Racer CT-244-P marrom; Racer Bullhead CT-241-P. Greentoe: Due Tempi CT-272-P.
 - Ebay falharam: 256628247029, 116751463344, 127284112909, 255099723599, 255099753676.
 - Jura CS40300 Tempi Dual Time (CTS-002) por abrir.
+- Touch of Modern (WWR): City Racer em 4 variações (aço/preto com detalhes verdes, amarelos, brancos; IP preto) sem códigos; Corsa amarelo/verde NATO; Saturno vermelho/amarelo/azul. Buscar códigos.
+- Windingroad: Acciaio Touring, Saturno Nero (sem código). Watch Journal 2017: faixa US$800–3.400.
