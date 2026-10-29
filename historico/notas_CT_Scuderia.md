@@ -12,3 +12,6 @@ Notas: press kit 2012 refs CT10101, CT20100, CT10104, CT20101 (Saturno/Corsa, 46
 - SITE OFICIAL ctscuderia.com (WooCommerce) VIVO: 34 produtos atuais (Bullet 19, Scrambler 4, Touring 7, Corsa 4). Arquivo oficial.txt com dados de cada ficha. Catálogo 2019 PDF em julienf2.sg-host.com (não veio em busca; Scribd só resumo).
 - Joyería MDM (9 páginas, ~100+ produtos) bloqueia leitura (client_error) — só títulos de busca. Safont Joyeros robots. eBay browse page erro.
 - Fontes que não abriram: ctscuderia.jp e ctscuderia-store.jp (robots), tictacarea, watatime, touchofmodern (client_error). Temi Store páginas 1-2 não vieram em busca.
+## 1ª passada ENCERRADA (18:09 UTC): 4 fontes seguidas sem novidade (superwatchman, blessthisstuff, jura coleção, conteenium).
+- Marca VERMELHA: Joyería MDM (9 páginas) ilegível; ctscuderia.jp e loja japonesa oficial bloqueados (robots); Temi Store pág. 1-2 não alcançadas; Chrono24 bloqueada; buracos nas sequências CS101xx, CS102xx, CS201xx, CS205xx, CS30xxx, CS403xx, CS70xxx; linha CT-2xx-P (Timex/Miyota) só parcialmente.
+## 2ª passada: alvos = linha CT-2xx-P, buracos CS, títulos de busca de lojas japonesas/espanholas, Amazon, Bluefly, Simon, Modesens.
