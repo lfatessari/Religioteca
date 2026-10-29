@@ -4,3 +4,4 @@
 - Seções feitas: 1, 2 (parcial)
 - Fontes boas: Yoshida (mens/ladies), Piazo (série signo tem tabela enorme)
 - Falta: rasin, Phillips, imprensa, Chrono24 via search, vintage (refs 4 dígitos-4 dígitos), Eichi I, Sonnerie, Minute Repeater, Fugaku, Node, Phoenix, Pacifique, Genta Locomotive original 1979
+- 10:03 UTC: 1ª passada encerrada (g-rare, fril base, komehyo, rasin t01 sem novidade). Marca VERMELHA: centenas de refs vintage (códigos de caixa 4 díg-4 díg) e muitas G-refs só vistas em tabelas, sem foto. 2ª passada: catálogos antigos, lojas japonesas de vintage, linhas descontinuadas.
