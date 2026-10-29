@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 343,
-  "ultima_versao": 302,
+  "proxima_linha_marcas": 344,
+  "ultima_versao": 303,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4725,6 +4725,24 @@
         "3": 18
       },
       "obs": "Bloco novo no fim da aba; as 2 linhas antigas (2-3) foram mantidas (coluna A trocada temporariamente para o script e restaurada; conferido por snapshot). Fontes principais: site oficial WooCommerce (categorias; fotos wp-content/uploads/AAAA/MM/<ref>-Soldier.png), Whamond oembed, Helveti, Gressive JP (catálogos Basel 2008-2019), eBay.de browse, Delray, Gray & Sons, leilões (CollectorSquare, Baer & Bosch, Antiquorum). Firecrawl sem créditos. Próxima: Culem (343)."
+    },
+    {
+      "data": "2026-10-29",
+      "versao": 303,
+      "marcas": [
+        "Culem"
+      ],
+      "linha_marcas": 343,
+      "linhas_relogios": "56632-56647",
+      "relogios": 16,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes": 40,
+      "passadas": {
+        "1": 40
+      },
+      "obs": "Marca real: CuleM (Espanha, Matthew Cule, 2018), GMTs de viagem; aba Marcas descreve outra marca (anotado em M343). Catálogo fechado: 12 World GMT + 4 Skyline confere com entrevista (12 World GMT). Sem códigos. Firecrawl sem créditos. Cvstos (344) é GRANDE → próxima execução sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4739,23 +4757,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T21:41:51Z",
-  "ultimo_sinal": "2026-10-29T21:50:57Z",
-  "em_andamento": {
-    "marcas": [
-      "Culem"
-    ],
-    "linha_marcas": 343,
-    "grande": false,
-    "relogios": "historico/parcial_Culem_relogios.txt",
-    "fontes": "historico/parcial_Culem_fontes.txt",
-    "notas": "historico/notas_Culem.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c"
-    ],
-    "passada": 1
   }
 }
