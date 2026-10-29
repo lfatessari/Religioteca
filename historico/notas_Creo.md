@@ -8,3 +8,7 @@ creo.com.tr/en (robots), facebook CREOSAAT (robots), e-creo.com (robots), europa
 - Hepsiburada listagens não trazem fotos. Trendyol ficha traz og:image cdn.dsmcdn.com.
 - Endereço: Molla Fenari Mah. Kürkçüler Pazarı Sok. 11-13, Çemberlitaş, Istanbul (jewelxy). Movimentos a pilha (quartzo), vidro mineral, aço/couro; cronógrafo, calendário, alarme (yandex resumo IA). Vende em franquias "corner" na Turquia e 14 países.
 - Mais falhas: gittigidiyor (robots), eticaret.gov.tr (robots), akakce (client_error), pinterest (robots), saatforumu (manutenção), forum.watch.ru (server_error).
+## 1ª passada encerrada (29 fontes): 3 seguidas sem novidade (enginkuyumculuk, morfikirler, sikayetvar reclamação).
+- VERMELHA: Hepsiburada mostra 97 itens e só ~36 por página (páginas 2 e 4 não alcançadas), cimri tem ≥5 páginas (bloqueado), Çiçeksepeti centenas (bloqueado), site oficial bloqueado.
+- Fotos: só Hepsiburada (fichas que aparecem na busca) e Trendyol. Resto com link da página.
+## 2ª passada: buscar mais fichas Hepsiburada/Çiçeksepeti com termos novos, PTTAVM, Pazarama, cimri fichas.
