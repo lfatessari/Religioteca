@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 337,
-  "ultima_versao": 296,
+  "proxima_linha_marcas": 338,
+  "ultima_versao": 297,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4613,6 +4613,24 @@
       },
       "versao": 296,
       "obs": "Site oficial cronos.watch (Shopify; coluna G vazia) abriu bem: coleções e páginas 1–5 vieram por busca. Códigos L6001…L6058; não achados L6002, L6013, L6014, L6023, L6034, L6043, L6044, L6054 (por isso vermelha) e cores não viraram linhas. eBay/WatchPatrol/WatchUSeek/Amazon/AliExpress (itens) bloqueados; títulos de anúncios usados com link. Firecrawl sem créditos. J de Marcas cita Airdiver/Bluefin/L6002 — não encontrados (coluna M)."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Cronus"
+      ],
+      "linha_marcas": 337,
+      "linhas_relogios": "55640-55651",
+      "relogios": 12,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes": 23,
+      "passadas": {
+        "1": 23
+      },
+      "versao": 297,
+      "obs": "Marca alemã de Juri Schob (Herrsching/Munique), mergulhadores Prototype 1/2/3. Catálogo fechado conferido: página oficial 'current models' lista 11 referências (PR-02W/B/V; PR-03MB/MV/MG/GB/GG/V/PVD/PVD-V) + Prototype 1 (2011, sem código); OceanicTime confirma 6 versões no lançamento do P3 + 2 PVD em 2020. Chrono24, Montredo (fichas), eBay, WatchPatrol, uhrforum, Facebook não abriram. Firecrawl sem créditos. Croton (338) é GRANDE (marca de 1878 com dezenas de referências vintage) → próxima execução sozinha; Crude (339) depois."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4627,23 +4645,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T15:10:10Z",
-  "ultimo_sinal": "2026-10-29T15:13:44Z",
-  "em_andamento": {
-    "marcas": [
-      "Cronus"
-    ],
-    "linha_marcas": 337,
-    "grande": false,
-    "relogios": "historico/parcial_Cronus_relogios.txt",
-    "fontes": "historico/parcial_Cronus_fontes.txt",
-    "notas": "historico/notas_Cronus.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "6"
-    ],
-    "passada": 1
   }
 }
