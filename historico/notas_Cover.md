@@ -20,3 +20,7 @@
 ## Falta: about-us, produtos escondidos (site:coverwatches.com/products), lojas (irisimo, exquisite-luxury, molard, conteenium, watchandjewelry.shop), eBay brand page, Europa Star galerias, vintage (Co23, Co33, Co92...), Facebook.
 - about-us diz 'coleções COVER desde 1999'; Europa Star 2003 diz empresa familiar com +20 anos; Fashionbi 1983. Para M: fundação divergente.
 - pro-time.ru: Chrono fundada 1982 por Theo Ingold; marca COVER criada 1999. AllTime: linhas Expressions (Palatino XL), Classic, Co196 Fly Me To The Moon.
+## Passada 1 encerrada (~06:33): últimas fontes chrono24 CO72, 3-15 crazy, alltime crazy, yana24, slava, slim-time catálogo = sem novidade.
+- Decisão: VERMELHA (lojas russas mostram 436 (Hoolly), 254 (KronosTime quartzo), 155 (3-15) itens; paginação não alcançável; muitas refs antigas sem nome/foto).
+- Crazy Seconds = sub-linha (crazyseconds.com, robots), CO1000-CO1009, vendida em conjunto com pulseira (SET.).
+## Passada 2: focar refs antigas (Co1..Co99, Co12x-Co19x), fotos, Impressions/Expressions, Trend SC.
