@@ -19,3 +19,4 @@
 ## Seções feitas: 1, 2 (loja oficial), 3 parcial
 ## Falta: about-us, produtos escondidos (site:coverwatches.com/products), lojas (irisimo, exquisite-luxury, molard, conteenium, watchandjewelry.shop), eBay brand page, Europa Star galerias, vintage (Co23, Co33, Co92...), Facebook.
 - about-us diz 'coleções COVER desde 1999'; Europa Star 2003 diz empresa familiar com +20 anos; Fashionbi 1983. Para M: fundação divergente.
+- pro-time.ru: Chrono fundada 1982 por Theo Ingold; marca COVER criada 1999. AllTime: linhas Expressions (Palatino XL), Classic, Co196 Fly Me To The Moon.
