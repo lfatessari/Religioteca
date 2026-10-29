@@ -21,3 +21,12 @@
 - pistas: Electronic 350 (Hiko), Treasury Automatic, chrono ref 1006, Potez Panda white, Speciale pocket, Viking Sport/Viking Tank, Bloc.
 ## Fim da 2ª passada (03:01): ~25 fontes, 9 relógios novos -> 3ª passada obrigatória. Parou: 3 seguidas sem novidade (antiquorum 348-54, etsy, fellows 532).
 - 3ª passada: ACHADO site oficial da linha moderna cortebert1790.com (Shopify; coleções Clipper, Couzinet, Elevation, Elevation Worldtime, Mirage, Mystère, Northstar, Ouragan, Potez, Toulon Multifunction, Rodez, Vitesse, Voisin). Refazer linhas modernas pelo catálogo oficial (1 linha por referência CB-xxxx-xx). -0X couro / -XX pulseira de aço (preço maior).
+## 10b Auto-auditoria
+1. Blog/imprensa: site oficial moderno sem blog; página About lida (sem modelos). Imprensa: Fratello, Gear Patrol, Worldtempus, perezcope.
+2. site:/products: buscador não aceita site:; usei buscas por coleção (extended) que trouxeram páginas de produto; catálogo completo (130 refs) pelas 3 páginas de the-collection + all.
+3. Lojas: Analog Shift, Atelier Victor, AWCO, Kalmar, Timeanagram, Watchgang, Mainspring (não abriu), eBay (vários), Chrono24.de.
+4. Primeiro modelo/antigos: Pallweber de bolso (1890s), Bracelet-chevalet (1929), Rébus (1931), Corté-date (1947), Corterotor 700 (1954).
+5. I/J: Ferroviário (TCDD/FS), Sport achados; 'Classic' não achado (obs. coluna M).
+6. Limitadas: Mystère (1.200 no total), Northstar (250), Chronomètre de marinha (20). Sem peças únicas.
+7. Fontes: ver marca_Cortebert.json.
+- Site oficial só foi achado na 3ª passada (busca por referências CB-30xx) — falha da 1ª passada, registrada no relatório.
