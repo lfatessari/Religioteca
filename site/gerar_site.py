@@ -109,8 +109,31 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
             "preco": int(preco) if preco else 0,
             "site": limpar_site(r[6]), "insta": limpar_insta(r[7]),
             "hist": paras, "aviso": aviso, "principais": lista(r[9]),
-            "relogios": [],
+            "relogios": [], "logo": "", "claro": 0, "lat": None, "lon": None,
+            "_logo_url": limpar_url(r[10]),
         })
+
+    # logos (coluna K), baixados pelo baixar_fotos.py
+    for m in marcas:
+        f = (manifest.get(m["_logo_url"]) or {}).get("f", "")
+        if f:
+            usadas.add(f)
+            m["logo"] = "fotos/" + f
+            m["claro"] = logo_claro(os.path.join(pasta_fotos, "img", f))
+
+    # coordenadas da cidade de origem (pins do globo)
+    try:
+        from geo import Geo
+        geo = Geo()
+    except ImportError:
+        geo = None
+        print("aviso: pacote geonamescache ausente; o globo sai sem pins")
+    if geo:
+        ws = wb["Marcas"]
+        for m, r in zip(marcas, (r for r in ws.iter_rows(min_row=2, values_only=True, max_col=3) if limpo(r[0]))):
+            v = geo.local(r[1], r[2])
+            if v:
+                m["lat"], m["lon"] = round(v[0], 2), round(v[1], 2)
 
     por_chave = {chave(m["marca"]): m for m in marcas}
     orfas = defaultdict(int)
@@ -174,13 +197,15 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
         busca = " ".join([m["marca"], m["pais"], m["cidade"]] + m["principais"])
         indice.append([m["id"], m["marca"], m["pais"], m["cidade"], m["faixa"],
                        len(m["relogios"]), n, 0 if m["aviso"] else 1, m["carac"],
-                       chave_busca(busca)])
+                       chave_busca(busca), m["logo"], m["claro"], m["lat"], m["lon"]])
     grava()
 
     with open(os.path.join(AQUI, "modelo.html"), encoding="utf-8") as fh:
         html = fh.read()
     dados = {"faixas": faixas, "marcas": indice}
     html = html.replace("/*__DADOS__*/null", json.dumps(dados, ensure_ascii=False, separators=(",", ":")))
+    with open(os.path.join(AQUI, "terra.json"), encoding="utf-8") as fh:
+        html = html.replace("/*__TERRA__*/null", fh.read().strip())
     if completo:
         html = ('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">'
                 '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
@@ -204,6 +229,28 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
     print(f"marcas: {len(marcas)} | com relógios: {com} | relógios: {total} | com foto própria: {com_foto} | lotes: {n}")
     if orfas:
         print("relógios sem marca correspondente:", dict(orfas))
+
+
+def logo_claro(caminho):
+    """1 se o logo é claro (branco/prateado) e precisa de fundo escuro."""
+    from PIL import Image
+    try:
+        im = Image.open(caminho).convert("RGBA")
+    except Exception:  # noqa: BLE001
+        return 0
+    im.thumbnail((120, 120))
+    px = [p for p in im.getdata() if p[3] > 128]
+    if not px:
+        return 0
+    # pixels do "desenho": ignora o fundo branco opaco
+    tinta = [p for p in px if not (p[0] > 235 and p[1] > 235 and p[2] > 235)]
+    transparente = len(px) < 0.9 * im.width * im.height
+    if not transparente:
+        return 0
+    if not tinta:
+        return 1
+    lum = sum(0.299 * p[0] + 0.587 * p[1] + 0.114 * p[2] for p in tinta) / len(tinta)
+    return 1 if lum > 190 else 0
 
 
 PACOTE_MAX = 750_000   # bytes por pacote de fotos
@@ -231,7 +278,7 @@ def empacotar(marcas, pasta_fotos, saida):
     cache = os.path.join(pasta_fotos, "previa")
     tarefas, pendentes = [], set()
     for m in marcas:
-        for r in m["relogios"]:
+        for r in ([[None, m["logo"]]] if m["logo"] else []) + m["relogios"]:
             if r[1]:
                 rel = r[1][len("fotos/"):]
                 dest = os.path.join(cache, rel[:-5] + ".avif")
@@ -260,8 +307,9 @@ def empacotar(marcas, pasta_fotos, saida):
             n += 1
             buf = bytearray()
 
-    for m in marcas:
-        for r in m["relogios"]:
+    logos = [[None, m["logo"], m] for m in marcas if m["logo"]]
+    for m in [None] + marcas:
+        for r in (logos if m is None else m["relogios"]):
             if not r[1]:
                 continue
             rel = r[1][len("fotos/"):]
@@ -275,6 +323,10 @@ def empacotar(marcas, pasta_fotos, saida):
             r[1] = ja[rel] = f"#{n},{len(buf)},{len(b)}"
             buf += b
             total += len(b)
+        if m is None:
+            for r in logos:
+                r[2]["logo"] = r[1]
+            fecha()   # logos ficam em pacotes só deles (a Home carrega todos de uma vez)
     fecha()
     print(f"prévia: {n} pacotes, {total / 1e6:.0f} MB de fotos")
 
