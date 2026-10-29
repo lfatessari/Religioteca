@@ -384,6 +384,8 @@ function preencher(m,d){
     gal.querySelectorAll("img").forEach(img=>{
       const ok=()=>{img.classList.add("ok");img.parentElement.classList.add("carregou");};
       const erro=()=>img.remove();
+      if(img.dataset.p){ img.addEventListener("load",ok,{once:true}); img.addEventListener("error",erro,{once:true});
+        urlFoto(img.dataset.p).then(u=>{img.src=u;}).catch(erro); return; }
       if(img.complete&&img.naturalWidth) ok(); else { img.addEventListener("load",ok,{once:true}); img.addEventListener("error",erro,{once:true}); }
     });
   };
@@ -392,13 +394,29 @@ function preencher(m,d){
   if(bm) bm.addEventListener("input",e=>{q=norm(e.target.value.trim());lim=24;desenhar();});
   desenhar();
 }
+/* prévia: fotos guardadas em pacotes (p/NNN.bin); cada foto é um pedaço do pacote */
+const PACOTES = {}, URLS = {};
+function pacote(n){
+  if(!PACOTES[n]) PACOTES[n] = fetch(`p/${String(n).padStart(3,"0")}.bin`).then(r=>{ if(!r.ok) throw new Error(r.status); return r.arrayBuffer(); })
+    .catch(e=>{ delete PACOTES[n]; throw e; });
+  return PACOTES[n];
+}
+function urlFoto(ref){
+  if(!URLS[ref]){
+    const [n,o,l] = ref.slice(1).split(",").map(Number);
+    URLS[ref] = pacote(n).then(b=>URL.createObjectURL(new Blob([b.slice(o,o+l)],{type:"image/avif"})));
+    URLS[ref].catch(()=>{ delete URLS[ref]; });
+  }
+  return URLS[ref];
+}
 const SILHUETA = `<svg width="38" height="54" viewBox="0 0 38 54" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true"><rect x="10" y="1" width="18" height="11" rx="2"/><rect x="10" y="42" width="18" height="11" rx="2"/><circle cx="19" cy="27" r="15"/><path d="M19 27V18M19 27l6 3"/></svg>`;
 const host = u => { try { return new URL(u).hostname.replace(/^www\./,""); } catch(e){ return ""; } };
 function cartao(r){
   const [nome,foto,desc,fonte]=r;
   const h = host(fonte);
   const vazio = `<div class="sem">${SILHUETA}<span>${fonte?"Foto na fonte ↗":"Sem foto registrada"}</span></div>`;
-  const inner = `<div class="foto">${foto?`<img src="${esc(foto)}" alt="${esc(nome)}" loading="lazy">`:""}${vazio}</div>
+  const tagFoto = !foto ? "" : foto[0]==="#" ? `<img data-p="${esc(foto)}" alt="${esc(nome)}">` : `<img src="${esc(foto)}" alt="${esc(nome)}" loading="lazy">`;
+  const inner = `<div class="foto">${tagFoto}${vazio}</div>
     <div class="nome-m">${esc(nome)}</div>${desc?`<div class="desc">${esc(desc)}</div>`:""}${foto&&h?`<div class="credito">Foto: ${esc(h)}</div>`:""}`;
   return fonte ? `<a class="relogio" href="${esc(fonte)}" target="_blank" rel="noopener">${inner}</a>` : `<div class="relogio">${inner}</div>`;
 }

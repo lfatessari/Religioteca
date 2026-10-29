@@ -55,3 +55,16 @@ def links_da_planilha(planilha):
             vistos.add(u)
             saida.append(u)
     return saida
+
+
+def logos_da_planilha(planilha):
+    """Links da coluna K (Logo) da aba Marcas."""
+    import openpyxl
+    wb = openpyxl.load_workbook(planilha, read_only=True, data_only=True)
+    saida = []
+    for r in wb["Marcas"].iter_rows(min_row=2, values_only=True, max_col=11):
+        if limpo(r[0]):
+            u = limpar_url(r[10])
+            if u and u not in saida:
+                saida.append(u)
+    return saida

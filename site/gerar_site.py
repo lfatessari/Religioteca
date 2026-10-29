@@ -73,7 +73,7 @@ def lista(s):
     return [x for x in itens if x and len(x) < 120]
 
 
-def main(planilha, saida, pasta_fotos=None, completo=False):
+def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
     manifest = {}
     if pasta_fotos:
         with open(os.path.join(pasta_fotos, "manifest.json"), encoding="utf-8") as fh:
@@ -145,6 +145,10 @@ def main(planilha, saida, pasta_fotos=None, completo=False):
         usados.add(s)
         m["id"] = s
 
+    if pacotes and pasta_fotos:
+        empacotar(marcas, pasta_fotos, saida)
+        usadas.clear()
+
     # lotes de fichas
     os.makedirs(os.path.join(saida, "dados"), exist_ok=True)
     for f in os.listdir(os.path.join(saida, "dados")):
@@ -202,6 +206,79 @@ def main(planilha, saida, pasta_fotos=None, completo=False):
         print("relógios sem marca correspondente:", dict(orfas))
 
 
+PACOTE_MAX = 750_000   # bytes por pacote de fotos
+PREVIA_LADO, PREVIA_QUALIDADE = 300, 50
+
+
+def _converter(args):
+    origem, destino = args
+    from PIL import Image
+    im = Image.open(origem)
+    im.thumbnail((PREVIA_LADO, PREVIA_LADO))
+    tmp = destino + ".tmp"
+    im.save(tmp, "AVIF", quality=PREVIA_QUALIDADE)
+    os.replace(tmp, destino)
+    return destino
+
+
+def empacotar(marcas, pasta_fotos, saida):
+    """Prévia no Artifact do Claude: fotos menores (AVIF) juntadas em pacotes .bin.
+
+    O Artifact aceita no máximo 511 arquivos por versão, então as fotos vão em
+    pacotes de ~750 KB; a página corta cada foto do pacote quando precisa dela.
+    """
+    from multiprocessing import Pool
+    cache = os.path.join(pasta_fotos, "previa")
+    tarefas, pendentes = [], set()
+    for m in marcas:
+        for r in m["relogios"]:
+            if r[1]:
+                rel = r[1][len("fotos/"):]
+                dest = os.path.join(cache, rel[:-5] + ".avif")
+                if dest not in pendentes and not os.path.exists(dest):
+                    pendentes.add(dest)
+                    os.makedirs(os.path.dirname(dest), exist_ok=True)
+                    tarefas.append((os.path.join(pasta_fotos, "img", rel), dest))
+    if tarefas:
+        print(f"convertendo {len(tarefas)} fotos para a prévia…", flush=True)
+        with Pool() as pool:
+            for i, _ in enumerate(pool.imap_unordered(_converter, tarefas, chunksize=64), 1):
+                if i % 5000 == 0:
+                    print(f"  {i}/{len(tarefas)}", flush=True)
+    pasta_p = os.path.join(saida, "p")
+    os.makedirs(pasta_p, exist_ok=True)
+    for f in os.listdir(pasta_p):
+        os.remove(os.path.join(pasta_p, f))
+    buf, n, total = bytearray(), 0, 0
+    ja = {}   # mesma foto usada por mais de um modelo: guarda uma vez só
+
+    def fecha():
+        nonlocal buf, n
+        if buf:
+            with open(os.path.join(pasta_p, f"{n:03d}.bin"), "wb") as fh:
+                fh.write(buf)
+            n += 1
+            buf = bytearray()
+
+    for m in marcas:
+        for r in m["relogios"]:
+            if not r[1]:
+                continue
+            rel = r[1][len("fotos/"):]
+            if rel in ja:
+                r[1] = ja[rel]
+                continue
+            with open(os.path.join(cache, rel[:-5] + ".avif"), "rb") as fh:
+                b = fh.read()
+            if len(buf) + len(b) > PACOTE_MAX:
+                fecha()
+            r[1] = ja[rel] = f"#{n},{len(buf)},{len(b)}"
+            buf += b
+            total += len(b)
+    fecha()
+    print(f"prévia: {n} pacotes, {total / 1e6:.0f} MB de fotos")
+
+
 def chave_busca(s):
     s = unicodedata.normalize("NFKD", s.lower()).encode("ascii", "ignore").decode()
     return re.sub(r"\s+", " ", s)
@@ -214,5 +291,6 @@ if __name__ == "__main__":
     ap.add_argument("saida")
     ap.add_argument("--fotos")
     ap.add_argument("--completo", action="store_true")
+    ap.add_argument("--pacotes", action="store_true", help="prévia para o Artifact do Claude (fotos em pacotes)")
     a = ap.parse_args()
-    main(a.planilha, a.saida, a.fotos, a.completo)
+    main(a.planilha, a.saida, a.fotos, a.completo, a.pacotes)

@@ -20,7 +20,7 @@ import requests
 from PIL import Image, ImageOps
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from comum import caminho_foto, links_da_planilha  # noqa: E402
+from comum import caminho_foto, links_da_planilha, logos_da_planilha  # noqa: E402
 
 LADO = 400
 QUALIDADE = 72
@@ -86,10 +86,18 @@ def foto_da_pagina(html, base):
     return ""
 
 
-def reduzir(dados, destino):
-    im = Image.open(io.BytesIO(dados))
+def abrir_imagem(dados):
+    cab = dados[:600].lstrip().lower()
+    if cab.startswith(b"<svg") or (cab.startswith(b"<?xml") and b"<svg" in dados[:4000].lower()):
+        import cairosvg  # logos em SVG
+        dados = cairosvg.svg2png(bytestring=dados, output_width=800)
+    return Image.open(io.BytesIO(dados))
+
+
+def reduzir(dados, destino, menor=MENOR_ACEITO):
+    im = abrir_imagem(dados)
     im = ImageOps.exif_transpose(im)
-    if max(im.size) < MENOR_ACEITO:
+    if max(im.size) < menor:
         raise ValueError(f"imagem pequena demais ({im.size[0]}x{im.size[1]})")
     tem_alfa = im.mode in ("RGBA", "LA", "PA") or (im.mode == "P" and "transparency" in im.info)
     im = im.convert("RGBA" if tem_alfa else "RGB")
@@ -100,17 +108,17 @@ def reduzir(dados, destino):
     os.replace(tmp, destino)
 
 
-def processar(url, pasta_img):
+def processar(url, pasta_img, menor=MENOR_ACEITO):
     rel = caminho_foto(url)
     destino = os.path.join(pasta_img, rel)
     tipo, corpo, final = pegar(url, "image/avif,image/webp,image/*,text/html;q=0.8,*/*;q=0.5")
     foto_url = final
-    if "html" in tipo or corpo[:200].lstrip().lower().startswith((b"<!doctype", b"<html")):
+    if "svg" not in tipo and ("html" in tipo or corpo[:200].lstrip().lower().startswith((b"<!doctype", b"<html"))):
         foto_url = foto_da_pagina(corpo, final)
         if not foto_url:
             raise ValueError("página sem foto de capa")
         _, corpo, foto_url = pegar(foto_url, "image/avif,image/webp,image/*,*/*;q=0.5")
-    reduzir(corpo, destino)
+    reduzir(corpo, destino, menor)
     return {"f": rel, "o": foto_url}
 
 
@@ -130,11 +138,16 @@ def main():
             manifest = json.load(fh)
 
     agora = time.time()
-    links = links_da_planilha(a.planilha)
+    logos = logos_da_planilha(a.planilha)
+    eh_logo = set(logos)
+    links = logos + [u for u in links_da_planilha(a.planilha) if u not in eh_logo]
     fila = []
     for u in links:
         m = manifest.get(u)
         if m and m.get("f") and os.path.exists(os.path.join(pasta_img, m["f"])):
+            continue
+        if m and m.get("e") and u in eh_logo and m.get("n", 1) == 1 and "pequena" in m["e"]:
+            fila.append(u)
             continue
         if m and m.get("e"):
             transitorio = any(t in m["e"] for t in TRANSITORIOS)
@@ -164,7 +177,7 @@ def main():
         if time.time() > limite:
             return u, None
         try:
-            return u, processar(u, pasta_img)
+            return u, processar(u, pasta_img, 40 if u in eh_logo else MENOR_ACEITO)
         except Exception as e:  # noqa: BLE001
             return u, {"e": f"{type(e).__name__}: {str(e)[:160]}"}
 
