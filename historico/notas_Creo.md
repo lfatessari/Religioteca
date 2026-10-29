@@ -6,3 +6,5 @@
 ## Falhas de abertura (não contam como fonte)
 creo.com.tr/en (robots), facebook CREOSAAT (robots), e-creo.com (robots), europages (robots), ciceksepeti (client_error), cimri (client_error), n11 (client_error), badem.shop (client_error), pazarama (client_error), hepsiburada magaza (robots), trendyol WZ 023 (robots), trendyol W0061 (client_error); hepsiburada fichas de produto: links tirados de listagem pedem permissão; ficha 1290 server_error.
 - Hepsiburada listagens não trazem fotos. Trendyol ficha traz og:image cdn.dsmcdn.com.
+- Endereço: Molla Fenari Mah. Kürkçüler Pazarı Sok. 11-13, Çemberlitaş, Istanbul (jewelxy). Movimentos a pilha (quartzo), vidro mineral, aço/couro; cronógrafo, calendário, alarme (yandex resumo IA). Vende em franquias "corner" na Turquia e 14 países.
+- Mais falhas: gittigidiyor (robots), eticaret.gov.tr (robots), akakce (client_error), pinterest (robots), saatforumu (manutenção), forum.watch.ru (server_error).
