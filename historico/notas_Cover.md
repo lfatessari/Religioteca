@@ -24,3 +24,5 @@
 - Decisão: VERMELHA (lojas russas mostram 436 (Hoolly), 254 (KronosTime quartzo), 155 (3-15) itens; paginação não alcançável; muitas refs antigas sem nome/foto).
 - Crazy Seconds = sub-linha (crazyseconds.com, robots), CO1000-CO1009, vendida em conjunto com pulseira (SET.).
 ## Passada 2: focar refs antigas (Co1..Co99, Co12x-Co19x), fotos, Impressions/Expressions, Trend SC.
+## Passada 2 encerrada ~06:46 (conteenium Aragon/Concerta, originalwatch.uz, slim-time, kronostime spb, aswatch, galaxus, yumpu). Passada 3 começa.
+## Passada 3 (~06:52): kronostime brand, lojas Irã (bloqueadas), 4-izmerenie (389 itens, só 1ª página), Tempus PL. Encerrada com 3 sem novidade.
