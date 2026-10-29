@@ -24,3 +24,6 @@
 - eBay img: trocar s-l140 por s-l1600.
 - Excluso (NL, dealer oficial; páginas client_error, só títulos de busca): Fantôme LE150, Fantôme II LE175, Conifère LE200. Conifère II LE249 (2025). Sand Militaire LE175 (2021); Vert Militaire (2020). Visage chrono SS 150 + RG 150. Ciel Nocturne II MOP LE150 (eBay). H40 Visage Three LE200 (eBay AU). Codes CW-HC-BL (chrono navy), CW-HC-SS (chrono preto), CWHCSC (Historique Club des Sports Courchevel), CW-H-PLM (Paloma), CW-H36-SWB.
 - Números 65407/70983/70984/104369 etc. = IDs de variação WooCommerce, NÃO referências.
+- Our Story: Mistral 40 primeiro (16/08/2013, romanos). Historique Club des Sports Courchevel LE250; Heritage 40 Paloma Beach LE499; Heritage 40 Saint-Jean-Cap-Ferrat Prestige LE250 (mas sjcfp.html = Heritage Chronograph SJCF Prestige LE150, preto, panda reverso; = "Heritage Chronograph SJCFP 2019" do dropdown).
+- H40 C1 Cercle d'Acier (2017) midnight blue setorial.
+- Falhas (client_error): excluso, thewatchlibrary, timezone.com.my, watchuseek, mywatchmart, deal.town, whatdropsnow(robots), ltmena, watchcharts, klassy produtos.
