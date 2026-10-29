@@ -13,3 +13,7 @@
 - A buscar fotos: Cortebert Extra (bolso militar britânico GSTP, cal 526), Kriegsmarine KM bolso, bolso TCDD, Braille c.1950. Fratello Sport Chronograph foto alternativa: https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/09/cortebert-sport-chronograph-2-1.jpg
 - KM: Cortébert só como calibre (618) em relógios de mergulhadores Kampfschwimmer com caixa Rolex/Panerai — não é relógio da marca. Kriegsmarine bolso KM cal 526 (Noonans) sem foto -> buscar.
 - ebay.de 236166981645 feminino militar 25mm: genérico (não entrou).
+## Fim da 1ª passada (02:58 UTC)
+- Parou: 3 fontes seguidas sem novidade (worldtempus, ebay TCDD 739, watchprosite).
+- VERMELHA: eBay mostra ~887 anúncios (1.286 no .ch), centenas de vintage sem nome/ref; linha moderna (CB-30xx) com muitas cores/sufixos não listáveis um a um.
+- 2ª passada: foco em variantes modernas CB-30xx, refs vintage (8xxx), relógios de bolso TCDD/ferroviários, WorthPoint/PicClick/Japão/Turquia, leilões.
