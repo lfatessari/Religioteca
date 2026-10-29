@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 335,
-  "ultima_versao": 294,
+  "proxima_linha_marcas": 336,
+  "ultima_versao": 295,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4576,6 +4576,24 @@
       },
       "versao": 294,
       "obs": "Marca de Zaragoza (não Madri), não usa códigos; 23 modelos do site oficial + variantes de cor/versão vindas do fórum Relojes Especiales, Tiempo Dinámico, Extropian (títulos) e lojas. Vermelha: modelos configuráveis (coroa 3/9, ponteiros, acabamentos) e cores não todas nomeadas (Batiscafo 4 cores, só 2 achadas). Tactico (marca irmã, TC1/TC2/TC3) não entrou: não tem linha em Marcas. Kickstarter, EveryWatch, WatchPatrol, WatchUSeek, eBay bloqueados; Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Creux Automatiq"
+      ],
+      "linha_marcas": 335,
+      "linhas_relogios": "55525-55554",
+      "relogios": 30,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": true,
+      "fontes": 47,
+      "passadas": {
+        "1": 47
+      },
+      "versao": 295,
+      "obs": "Site oficial bloqueia (robots); modelos levantados por buscas site:creuxautomatiq.com/product + imprensa (aBlogtoWatch, Monochrome, Time+Tide, Fratello), PR Times (Principe Prive, Japão) e lojas (SwissTimepieces, Wristshot, Culture Kings). Não vermelha: numeração CA-01…CA-11 coberta; DB II Midnight/Gold/Graphite sem código. Cronos (336) avaliada como GRANDE (L6001–L6040+ com variantes) → próxima execução sozinha. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4590,27 +4608,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T12:55:37Z",
-  "ultimo_sinal": "2026-10-29T13:03:58Z",
-  "em_andamento": {
-    "marcas": [
-      "Creux Automatiq"
-    ],
-    "linha_marcas": 335,
-    "grande": false,
-    "relogios": "historico/parcial_Creux Automatiq_relogios.txt",
-    "fontes": "historico/parcial_Creux Automatiq_fontes.txt",
-    "notas": "historico/notas_Creux Automatiq.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "9(parcial)"
-    ],
-    "passada": 1
   }
 }
