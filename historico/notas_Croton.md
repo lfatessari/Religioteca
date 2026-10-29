@@ -13,3 +13,4 @@ Super-Automatic 1940s; Aquamedico (ouro, corda manual 1950s); Nivada Grenchen Wa
 - EveryWatch: páginas de anúncio fechadas ("Only Collectors"); títulos de busca usados (9839, Buccaneer, 105-66129).
 - LOGO oficial: https://www.crotonwatch.com/cdn/shop/files/Logo_1_9bdc698d-cce9-416a-a128-43f87d46ee0f.png?v=1630541574
 - §2c: ~22 buscas site:crotonwatch.com/products; parou de aparecer handle novo.
+- Livro Chronomaster (Rossier/Marquié): CASD criado 1961, parceria Nivada–Croton desde 1939. Uhren-Muser e Monaco Legend: ref 9870 com Valjoux 23 (c.1963-65).
