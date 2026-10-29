@@ -10,3 +10,4 @@ Super-Automatic 1940s; Aquamedico (ouro, corda manual 1950s); Nivada Grenchen Wa
 - §2c site oficial: ~15 buscas site:/products feitas; muitas páginas ocultas (client_error) entram com link.
 - Logo: https://chronopedia.club/images/thumb/9/91/Croton_logo.png/300px-Croton_logo.png
 - Linhas Nivada vendidas também como Croton (Chronopedia): Rollamatic/Rollador, Reglavit, Antarctic, Depthmaster, Depthomatic, Alertamatic, Ultramatic 36000, Wanderer (alarme Vulcain Cricket), Compensamatic, Chronoking, Croton Chronograph 1878. Buscar exemplares com nome Croton.
+- EveryWatch: páginas de anúncio fechadas ("Only Collectors"); títulos de busca usados (9839, Buccaneer, 105-66129).
