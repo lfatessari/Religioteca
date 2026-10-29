@@ -11,3 +11,4 @@ Notas: press kit 2012 refs CT10101, CT20100, CT10104, CT20101 (Saturno/Corsa, 46
 - Ashford pendentes (rate limit): cw1016219, cs10170 (Saturno), cs10282-n (Scrambler), cs10184-n (Fibra di Carbonio).
 - SITE OFICIAL ctscuderia.com (WooCommerce) VIVO: 34 produtos atuais (Bullet 19, Scrambler 4, Touring 7, Corsa 4). Arquivo oficial.txt com dados de cada ficha. Catálogo 2019 PDF em julienf2.sg-host.com (não veio em busca; Scribd só resumo).
 - Joyería MDM (9 páginas, ~100+ produtos) bloqueia leitura (client_error) — só títulos de busca. Safont Joyeros robots. eBay browse page erro.
+- Fontes que não abriram: ctscuderia.jp e ctscuderia-store.jp (robots), tictacarea, watatime, touchofmodern (client_error). Temi Store páginas 1-2 não vieram em busca.
