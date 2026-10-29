@@ -17,3 +17,11 @@
 - Flameante 3130.1FGR (linha antiga 3) = exclusivo C W Sellors/Jura, ed. limitada 30 peças (British Green) — só relatar, não mexer.
 - Pistas 2009 (Gressive): Historiador Cronógrafo, Torpedo Historiador Semanal, Torpedo Pirata Horas del Mundo (tenho), Amapola, Esplendidos Dual Time.
 - 2ª passada encerrada (~26 fontes, ~27 novos) → 3ª passada obrigatória.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: site novo (WordPress) não tem blog de produtos indexado; stories antigas lidas (Bratislava sem modelos). Imprensa externa lida (Monochrome, aBlogtoWatch, Europa Star, Gressive, Openers, Quill&Pad, Worldtempus).
+2. §2c: produtos do site oficial não são indexados (busca site: sem fichas); categorias todas abertas; shop páginas 2–7 e historiador/primera-dama page 2 inalcançáveis (PROVENANCE); Firecrawl sem créditos.
+3. Lojas: Whamond (oembed completo), Jura, CW Sellors (JS), Helveti, Ocarat, Delray (p.1), Gray & Sons, HRD (JP), Gressive (JP), 1stDibs, eBay.de.
+4. Primeiro modelo/antigos: peças da loja de Havana (1910-1950: gun metal, prata e niello, Cyma, Roskopf, Cricket, cronógrafo Landeron, Zenith, Delbana) incluídas; relançamento 2002 (Esplendidos, Prominente, Torpedo, Robusto, Habana) incluído via leilões/eBay.
+5. Nomes de I/J (Historiador, Robusto, Prominente, Buceador) encontrados.
+6. Edições limitadas/colaborações na B (CSWC, Macanudo, Scott Jacobs/Harley, Hanshin Tigers, CronotempVs×Watchonista, Pedro Murias×House of Grauer, C W Sellors/Jura). Peças únicas: nenhuma confirmada (Tocororo Carlos Acosta = personalizada).
+7. Fontes: ~214 (1ª 170, 2ª 26, 3ª 18).
