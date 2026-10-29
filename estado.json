@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 344,
-  "ultima_versao": 303,
+  "proxima_linha_marcas": 345,
+  "ultima_versao": 304,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4743,6 +4743,26 @@
         "1": 40
       },
       "obs": "Marca real: CuleM (Espanha, Matthew Cule, 2018), GMTs de viagem; aba Marcas descreve outra marca (anotado em M343). Catálogo fechado: 12 World GMT + 4 Skyline confere com entrevista (12 World GMT). Sem códigos. Firecrawl sem créditos. Cvstos (344) é GRANDE → próxima execução sozinha."
+    },
+    {
+      "data": "2026-10-29",
+      "versao": 304,
+      "marcas": [
+        "Cvstos"
+      ],
+      "linha_marcas": 344,
+      "linhas_relogios": "56648-57087",
+      "relogios": 440,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – cvstos.com não aparece em buscas; aberto só via Firecrawl",
+      "fontes": 153,
+      "passadas": {
+        "1": 122,
+        "2": 15,
+        "3": 16
+      },
+      "obs": "Site oficial (7 coleções) via Firecrawl; Wristler (138 anúncios do revendedor oficial), Chrono24.de p.1-6, Gressive (catálogos 2015/2021 e novidades 2014-2017), Hourstriker (coleções de arquivo), The Watch Pages, lojas japonesas, leilões. Firecrawl esgotou os créditos às 23:05 UTC. Próxima: CWC (345)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4757,34 +4777,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T22:41:47Z",
-  "ultimo_sinal": "2026-10-29T23:13:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Cvstos"
-    ],
-    "linha_marcas": 344,
-    "grande": true,
-    "relogios": "historico/parcial_Cvstos_relogios.txt",
-    "fontes": "historico/parcial_Cvstos_fontes.txt",
-    "notas": "historico/notas_Cvstos.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2",
-      "p3-parcial"
-    ],
-    "passada": 3
   }
 }

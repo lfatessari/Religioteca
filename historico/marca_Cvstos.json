@@ -1,0 +1,777 @@
+{
+ "marca": "Cvstos",
+ "usa_codigos": true,
+ "logo": "https://www.cvstos.com/sites/default/files/Cvstos_Geneve_Logo.svg",
+ "site_bloqueado": "Parcial – cvstos.com não aparece em buscas (leitura automática comum não alcança); aberto só via Firecrawl; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "H: Instagram oficial é @cvstos_official (link do site). J/D incompletos: coleções atuais são Jetliner, Challenge Purity, Sealiner, Racing, Metropolitan, Re-Belle e Complication (Tourbillon 8); linhas antigas: Challenge-R 50, Evosquare, Twin-Time, Inkvaders. I confere (2005, Sassoun Sirmakes e Antonio Terranova).",
+ "fontes": [
+  {
+   "url": "https://www.cvstos.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cvstos.com/en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cvstos.com/collections/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cvstos.com/collection/jetliner",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.cvstos.com/collection/challenge-purity",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.cvstos.com/collection/sealiner",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.cvstos.com/collection/racing",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.cvstos.com/collection/metropolitan",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.cvstos.com/collection/re-belle",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.cvstos.com/collection/complication",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.cvstos.com/novelties",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cvstos.com/news",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cvstos.com/brand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/luxprice-index-watches/cvstos.html",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://wristler.eu/watches/cvstos",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://wristler.eu/watches/cvstos?page=2",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://wristler.eu/watches/cvstos?page=3",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://wristler.eu/watches/219826-cvstos-unknown",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/cvstos-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150346",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150341",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150342",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150343",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150344",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150345",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150347",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150348",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150349",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150350",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150351",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150352",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150353",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150354",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150355",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150356",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150357",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/150358",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/catalog/cvstos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/230287",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/230289",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/230290",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/230303",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/catalog/230296",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/cvstos-sealiner-gt-regata-c001074503001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/cvstos",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos-challenge-twin-time-ctt-swr-13324",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/brands/cvstos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos-challenger-50-qp-s-red-gold-cr-50-qps-rg-12492",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos/challenge-chrono",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos/challenge",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos/challenger",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos/challegner",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.hourstriker.com/database/cvstos/main-catalog",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.chrono24.de/cvstos/index.htm",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.chrono24.de/cvstos/index-2.htm",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.chrono24.de/cvstos/index-3.htm",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.chrono24.de/cvstos/index-4.htm",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.chrono24.de/cvstos/index-5.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/cvstos/index-6.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delraywatch.com/cvstos",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.genevaseal.com/timepieces/cvstos/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/cvstos/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.aviandco.com/collections/cvstos-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/cvstos-challenge-r50-chronograph-hf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/16197.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://alexanderscolumbus.com/products/cvstos-challenge-chrono-ii-742st",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://grailzee.com/products/2024-cvstos-challenge-chronograph-iii-41mm-skeleton-dial-rubber-strap-cvs577",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/cvstos/120286",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/watches-online-ultimate-collection-ii/cvstos-limited-edition-25-pieces-challenge-tourbillon-yachting-club-60/192010",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://senatus.net/album/view/12750",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/challenge-r-50-hms",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/evosquare-chrono",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/challenge-rmt-s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/cvstos/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watch-brand/cvstos-39",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/cvstos-x-juncos-hollinger-racing-team-watch-indy-500-race",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/category/CVSTOS",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.as-web.jp/supergt/995699",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Cvstos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/111/60013",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/111/60002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2017/important-watches-n09696/lot.29.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/cvstos-challenge-jetliner-inkvaders-pirate-guns-25402.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/cvstos-tattoos-and-watches-21718.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2017/important-watches-n09696/lot.28.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/introducing-the-cvstos-metropolitan-ps-skeleton-cafu-breel-embolo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/cvstos-challenge-ii-chronograph-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-the-cvstos-re-belle-moon-collection-diamonds-moonphase-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/cvstos-challenge-chrono-ii-color-storm-23324.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/cvstos-the-new-challenge-ctr-s-7333.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/cvstos-challenge-chrono-ii-by-eric-kuster-23685.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fr.worldtempus.com/article/montres/style-et-tendance/cvstos-challenge-sea-liner-13852.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1704/lot.5.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/cvstos-watches-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/cvstos-challenge-jet-liner-world-coat-of-arms-14006.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2014/wphh/cvstos/03-01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2015/wphh/cvstos/02-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2015/wphh/cvstos/01-01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2015/wphh/cvstos/index.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2014/wphh/cvstos/02-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2014/wphh/cvstos/01-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2017/basel/flash-report/cvstos/01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2016/04/06/cvstos-challenge-jet-liner-ii-gt-shah-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/adv/160704-cvstos/03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://passion-horlogere.com/cvstos-presente-une-edition-limitee-du-challenge-iii-chronographe-s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/adv/160704-cvstos/01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/adv/160704-cvstos/02.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/result/cvstos/challange/42284/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hrd-web.com/?pid=166563045",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/U-CVTJETSLCP5N.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/?p=42254",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/?p=42290",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/result/cvstos/challange/42376/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/result/cvstos/challange/42287/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/result/cvstos/challange/42261/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hrd-web.com/?pid=149148939",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hrd-web.com/?pid=148677840",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.otakaraya.jp/brand-tokei/?p=42372",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hrd-web.com/apps/note/movie/cvt-metro-ps-gry-tt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hrd-web.com/apps/note/movie/cvt-metro-sqt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/cvstos/watch-16470",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.revolution.watch/motorcycle-madness-cvstos-challenge-dani-pedrosa-limited-edition/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/cvstos-challenge-sea-liner/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=3079",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/7241",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://en.webchronos.net/features/136890/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://en.webchronos.net/features/64250/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://travel.watch.impress.co.jp/docs/news/1227766.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://bestcarweb.jp/?p=276496",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dev.atimelyperspective.com/watch-brands/cvstos/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/155557610426",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dev.atimelyperspective.com/cvstos-unveils-re-belle-moonphase-watches-prices/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2018/05/23/cvstos-challenge-chrono-ii-inkvaders-pirate-limited-edition-watch-tonneau-shaped-case-in-steel-or-black-pvd-steel-hand-finished-pirate-dial-calibre-cvstos-577-automatic-chronograph/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/cvstos-challenge-sealiner-arman-tsarukyan-edition-white-ceramic-watch-hands-on/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceans.tokyo.jp/article/detail/29183?page=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/182717",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2015/wphh/cvstos/03-02.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/cvstos/news/155540",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/baselworld-sihh/--cvstos/636.492951.2959816/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/eifell-inspired",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/cvstos-test-drive-challenge-chrono-ii-loris-baz-22984.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/business-news/cvstos-celebrates-its-official-launch-kuwait-behbehani-prestige-cvstos-81845.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://collecting.com/for-sale/2024-cvstos-metropolitan-ps",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/zh/auctions/ecatalogue/2017/important-watches-ge1701/lot.46.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/cvstos-challenge-chrono-ii-brazil-edition/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/cvstos-a-statement-on-the-wrist-18506.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://en.worldtempus.com/article/cvstos-world-premier-boutique-in-singapore-8279.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://iwmagazine.com/teak-tock/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/introducing-cvstos-challenge-chrono-ii-brazil-limited-edition-watch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/cvstos-challenge-gt-ii-chrono-pride-of-nigeria-watch-review/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://my.asiatatler.com/style/cvstos-dani-pedrosa-makes-sports-and-time-meet",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
