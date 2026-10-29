@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 325,
-  "ultima_versao": 284,
+  "proxima_linha_marcas": 326,
+  "ultima_versao": 285,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4402,6 +4402,19 @@
       "fontes": 18,
       "versao": 284,
       "obs": "Cornell Watch Co. revivida (Chicago, 2021); relógios de bolso da original (1870s) não entraram"
+    },
+    {
+      "data": "2026-10-29",
+      "marca": "Corniche",
+      "linha_marcas": 325,
+      "linhas_relogios": "52542-52635",
+      "relogios": 94,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 73,
+      "versao": 285,
+      "grande": true,
+      "obs": "tratada como grande (dropdown oficial com ~49 cronógrafos); site real cornichewatches.com; Firecrawl sem créditos; Cortébert (326) parece grande e fica sozinha na próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4416,27 +4429,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T01:41:56Z",
-  "ultimo_sinal": "2026-10-29T01:55:20Z",
-  "em_andamento": {
-    "marcas": [
-      "Corniche"
-    ],
-    "linha_marcas": 325,
-    "grande": true,
-    "relogios": "historico/parcial_Corniche_relogios.txt",
-    "fontes": "historico/parcial_Corniche_fontes.txt",
-    "notas": "historico/notas_Corniche.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3(parcial)",
-      "7(parcial)",
-      "8(parcial)",
-      "9(parcial)"
-    ],
-    "passada": 1
   }
 }

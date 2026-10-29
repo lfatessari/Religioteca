@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 325,
-  "ultima_versao": 284,
+  "proxima_linha_marcas": 326,
+  "ultima_versao": 285,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4402,6 +4402,19 @@
       "fontes": 18,
       "versao": 284,
       "obs": "Cornell Watch Co. revivida (Chicago, 2021); relógios de bolso da original (1870s) não entraram"
+    },
+    {
+      "data": "2026-10-29",
+      "marca": "Corniche",
+      "linha_marcas": 325,
+      "linhas_relogios": "52542-52635",
+      "relogios": 94,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 73,
+      "versao": 285,
+      "grande": true,
+      "obs": "tratada como grande (dropdown oficial com ~49 cronógrafos); site real cornichewatches.com; Firecrawl sem créditos; Cortébert (326) parece grande e fica sozinha na próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
