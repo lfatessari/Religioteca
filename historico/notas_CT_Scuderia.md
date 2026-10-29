@@ -15,3 +15,5 @@ Notas: press kit 2012 refs CT10101, CT20100, CT10104, CT20101 (Saturno/Corsa, 46
 ## 1ª passada ENCERRADA (18:09 UTC): 4 fontes seguidas sem novidade (superwatchman, blessthisstuff, jura coleção, conteenium).
 - Marca VERMELHA: Joyería MDM (9 páginas) ilegível; ctscuderia.jp e loja japonesa oficial bloqueados (robots); Temi Store pág. 1-2 não alcançadas; Chrono24 bloqueada; buracos nas sequências CS101xx, CS102xx, CS201xx, CS205xx, CS30xxx, CS403xx, CS70xxx; linha CT-2xx-P (Timex/Miyota) só parcialmente.
 ## 2ª passada: alvos = linha CT-2xx-P, buracos CS, títulos de busca de lojas japonesas/espanholas, Amazon, Bluefly, Simon, Modesens.
+## 2ª passada encerrada 18:13 (3 fontes seguidas sem novidade: blog LCM 2016-02, 2015-11, 2016-07). Trouxe >5 novos → 3ª passada.
+- Highsnobiety: fundada em 2011 por Enrico Margaritelli (ex-Fossil, Armani, Burberry, Diesel); homenagem ao cronômetro do avô na 2ª Guerra. Comunicado 2019 diz fundada em 2013. Logo: ctscuderia.com/wp-content/uploads/2019/08/logo1.png
