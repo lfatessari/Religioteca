@@ -8,3 +8,5 @@
 - Helveti cita linhas Pirata, Lonsdale. Joyería Gordillo: Historiador Retrógrado.
 - Seções feitas: 1 (grande). Em curso: 2, 7.
 - Logo: https://www.cuervoysobrinos.com/wp-content/uploads/2025/07/Logo.png ; fotos oficiais wp-content/uploads/AAAA/MM/<ref>_Soldier.png
+- Site oficial: categorias todas abertas (exceto historiador page/2, shop page/2+ — PROVENANCE). Shop total 95 variações. §2 feito.
+- Falta: linhas antigas (2002-2018): Robusto Day-Date/Perpetual GMT/Tricalendografo/Manjuari, Torpedo, Pirata, Esplendidos antigos, Prominente antigos, Buceador antigos; Gressive pistas.
