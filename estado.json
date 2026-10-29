@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 336,
-  "ultima_versao": 295,
+  "proxima_linha_marcas": 337,
+  "ultima_versao": 296,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4594,6 +4594,25 @@
       },
       "versao": 295,
       "obs": "Site oficial bloqueia (robots); modelos levantados por buscas site:creuxautomatiq.com/product + imprensa (aBlogtoWatch, Monochrome, Time+Tide, Fratello), PR Times (Principe Prive, Japão) e lojas (SwissTimepieces, Wristshot, Culture Kings). Não vermelha: numeração CA-01…CA-11 coberta; DB II Midnight/Gold/Graphite sem código. Cronos (336) avaliada como GRANDE (L6001–L6040+ com variantes) → próxima execução sozinha. Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Cronos"
+      ],
+      "linha_marcas": 336,
+      "linhas_relogios": "55555-55639",
+      "relogios": 85,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 58,
+      "passadas": {
+        "1": 45,
+        "2": 13
+      },
+      "versao": 296,
+      "obs": "Site oficial cronos.watch (Shopify; coluna G vazia) abriu bem: coleções e páginas 1–5 vieram por busca. Códigos L6001…L6058; não achados L6002, L6013, L6014, L6023, L6034, L6043, L6044, L6054 (por isso vermelha) e cores não viraram linhas. eBay/WatchPatrol/WatchUSeek/Amazon/AliExpress (itens) bloqueados; títulos de anúncios usados com link. Firecrawl sem créditos. J de Marcas cita Airdiver/Bluefin/L6002 — não encontrados (coluna M)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4608,31 +4627,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T14:03:53Z",
-  "ultimo_sinal": "2026-10-29T14:19:37Z",
-  "em_andamento": {
-    "marcas": [
-      "Cronos"
-    ],
-    "linha_marcas": 336,
-    "grande": true,
-    "relogios": "historico/parcial_Cronos_relogios.txt",
-    "fontes": "historico/parcial_Cronos_fontes.txt",
-    "notas": "historico/notas_Cronos.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 1
   }
 }

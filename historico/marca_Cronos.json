@@ -1,0 +1,302 @@
+{
+ "marca": "Cronos",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G vazio: site oficial cronos.watch (loja Shopify; também lojas oficiais no eBay 'cronoswatchofficial' e na AliExpress). J: 'L6002', 'Airdiver' e 'Bluefin' não encontrados em nenhuma fonte; o Sub homage é o L6005/L6015 e os GMT são L6020/L6021/L6022/L6029. I: movimentos usados são NH35/NH34, PT5000/PT5004, SW200, Miyota 9015/90S5 (Seagull não aparece); vendida também como 'LUGYOU Cronos'.",
+ "fontes": [
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/cronos/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/str/cronoswatchofficial",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.aliexpress.com/s/wiki-ssr/article/cronos-time",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://es.aliexpress.com/s/wiki-ssr/article/l6026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://es.aliexpress.com/s/wiki-ssr/article/cronos-sw",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ubuy.co.nl/en/product/TMAWN175M-cronos-39mm-watches-for-men-pt5000-movement-l6037-automatic-wristwatch-with-sapphire-glass-blue-luminous-16-bar-waterproof",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bladeforums.com/threads/cronos-water-ghost-l6005-green-starbucks-submariner-homage-watch-relisted.1985919/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/archive/products/cronos-gmt-stainless-steel-pepsi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/collections/watches/gmt",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-watch",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-watch?page=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-watch?page=3",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-watch?page=4",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-watch?page=5",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-classic-style-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-pliot-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-gmt-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/collections/pre-owned-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-sub-dive-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cronos.watch/collections/cronos-explore-climbing-series",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cronos.watch/collections/watches?page=5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cronos.watch/collections/all?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/collections/all?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/collections/all?page=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/products/cronos-no-date-pt5000-sub-diver-watch-l6005-sunray-green-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cronos.watch/products/cronos-submariner-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/products/cronos-2025-rhombus-perlage-dial-limited-39mm-see-through-caseback-l6028-v3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdives.com/collections/cronos-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.skbwatches.com/Cronos-watch-c112722/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://pickedwatches.com/collections/cronos-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cronos-watch.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.skbwatches.com/review/Cronos-watch-c112722/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aliexpress.com/w/wholesale-cronos-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/@CronosWatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.aliexpress.com/store/group/L6020/911785379_40000004275479.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.aliexpress.com/store/1101712995",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/13047040806",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cronos.watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/blogs/blog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cronos.watch/blogs/blog/unlock-timeless-style-meet-the-cronos-watch-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://panwenchen.medium.com/cronos-subby-the-best-submariner-homage-7a99733ea36f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetheowrist.com/post/best-chinese-alternatives-to-the-rolex-explorer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/236961801722",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdives.com/products/cronos-l6005",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/185427820897",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/cronos-watch?_nkw=cronos+watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jwlraddicts.com/cronos-sub-diver-pt5000-40mm-200m/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://alitools.io/en/showcase/cronos-sub-diver-luxury-men-watch-stainless-steel-pt5000-bracelet-ceramic-rotating-bezel-200-meters-water-resistant-33030086322",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aliexpress.com/s/wiki-ssr/article/kronos-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aliexpress.com/w/wholesale-cronos-l6005.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://watchdives.com/products/cronos-36mm-explore-dive-watch-l6016m",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=jA4jE7ACMR4",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aliexpress.com/w/wholesale-cronos-official-watch-store.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aliexpress.com/w/wholesale-cronos-watch-automatic.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bobswatchstore.com/category/cronos/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/Welshman/reviews/cronos-l6009-review-19326",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fr.aliexpress.com/w/wholesale-cronos-watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aliexpress.com/s/wiki-ssr/article/cronos-sports",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
