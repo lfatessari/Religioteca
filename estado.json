@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 331,
-  "ultima_versao": 290,
+  "proxima_linha_marcas": 332,
+  "ultima_versao": 291,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4500,6 +4500,24 @@
       },
       "versao": 290,
       "obs": "Site oficial macchinacp5.com (coluna G vazia) só abre fichas https; ~65 linhas com foto oficial/loja/eBay, o resto com link da página. Crafter Blue (331) fica para a próxima; Credor (332) parece grande. Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Crafter Blue"
+      ],
+      "linha_marcas": 331,
+      "linhas_relogios": "54652-54669",
+      "relogios": 18,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes": 80,
+      "passadas": {
+        "1": 80
+      },
+      "versao": 291,
+      "obs": "Site oficial crafterblue.com (Shopify) só aparece em WebSearch modo extended; abre normalmente. Catálogo fechado conferido: 11 relógios na coleção All Watches + Mechanic Ocean 45 mm de 2018 (6 refs) + Bon Voyage Enamel White. Credor (332) parece GRANDE e fica sozinha na próxima. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4514,26 +4532,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T08:41:40Z",
-  "ultimo_sinal": "2026-10-29T08:49:20Z",
-  "em_andamento": {
-    "marcas": [
-      "Crafter Blue"
-    ],
-    "linha_marcas": 331,
-    "grande": false,
-    "relogios": "historico/parcial_CrafterBlue_relogios.txt",
-    "fontes": "historico/parcial_CrafterBlue_fontes.txt",
-    "notas": "historico/notas_CrafterBlue.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "7",
-      "9"
-    ],
-    "passada": 1
   }
 }
