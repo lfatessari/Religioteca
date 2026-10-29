@@ -7,3 +7,6 @@
 - Sport anos 40 (omegaforums, mostrador radial bicolor) = mesma família Sport já listada; não virou linha nova.
 - Antiquorum 343-77 bolso Art Deco ouro 14K cal 592R: genérico, não entrou (decidir depois)
 - in-vendita: faltam foto/linha: Clipper CB-3010-44, CB-3015-44, Elevation Worldtime, Adriatic blue, North Star Limited, Vitesse, Sport 1569-76, Chronomètre, CB-3014, CB-3017-66, Toulon CB-3017-33. Tellus = marca alemã com calibre Cortébert (não entra).
+- Genéricos sem nome (não viraram linha): dumarko cal 739 preto; vintagewatchroom dress guilloché; vestiaire 4 anúncios sem modelo.
+- Títulos eBay a investigar: World Timer verde (ebay.de 157225506538), Grand Prix.
+- Envoy Automatic (ebay.de 127466497219, título 'Corterbert Envoy Automatic') — não abriu; buscar.
