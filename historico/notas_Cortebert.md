@@ -19,3 +19,5 @@
 - 2ª passada: foco em variantes modernas CB-30xx, refs vintage (8xxx), relógios de bolso TCDD/ferroviários, WorthPoint/PicClick/Japão/Turquia, leilões.
 - in-vendita 'orologio-cortebert': pistas Electronic 350 (Hiko/UFO), DX282G, 'Bloc' anos 50.
 - pistas: Electronic 350 (Hiko), Treasury Automatic, chrono ref 1006, Potez Panda white, Speciale pocket, Viking Sport/Viking Tank, Bloc.
+## Fim da 2ª passada (03:01): ~25 fontes, 9 relógios novos -> 3ª passada obrigatória. Parou: 3 seguidas sem novidade (antiquorum 348-54, etsy, fellows 532).
+- 3ª passada: ACHADO site oficial da linha moderna cortebert1790.com (Shopify; coleções Clipper, Couzinet, Elevation, Elevation Worldtime, Mirage, Mystère, Northstar, Ouragan, Potez, Toulon Multifunction, Rodez, Vitesse, Voisin). Refazer linhas modernas pelo catálogo oficial (1 linha por referência CB-xxxx-xx). -0X couro / -XX pulseira de aço (preço maior).
