@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 328,
-  "ultima_versao": 287,
+  "proxima_linha_marcas": 329,
+  "ultima_versao": 288,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4447,6 +4447,20 @@
         "3": 11
       },
       "obs": "Firecrawl sem créditos; site oficial client_error; ~85% das linhas com link de página na coluna C (sem foto direta)."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Costins"
+      ],
+      "linha_marcas": 328,
+      "linhas_relogios": "54015-54019",
+      "relogios": 5,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "obs": "Microbrand londrina (Elysian 2025 em 3 cores; Arcadia hora saltante 2026, preto/azul). Sem lojas nem anúncios de usados. Cover (329) parece GRANDE (refs CO100-CO200+, empresa de Solothurn com 40+ anos) e fica sozinha na próxima. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4461,21 +4475,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T04:41:09Z",
-  "ultimo_sinal": "2026-10-29T04:41:09Z",
-  "em_andamento": {
-    "marcas": [
-      "Costins",
-      "Cover",
-      "CP5"
-    ],
-    "linha_marcas": 328,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
   }
 }
