@@ -9,3 +9,4 @@
 - Listas de refs só em dígitos sem nome (73 ref-corum-XXXX) NÃO entram (sem nome do modelo).
 - ATENÇÃO heredoc: usar <<'EOF' quando houver $ no texto.
 - Fontes fracas sem nada: goldentree, watchreport, grail-watch wiki, dialicious, righttime (só 1 ref). Wristcheck 19 refs (slug).
+- Site oficial: corum-watches.com aparece em busca extended mas WebFetch dá client_error (home, coleções, fichas, press tag). press.corum-watches.com: alguns artigos ABREM (Label Noir, category/the-collection). Títulos das fichas via busca site: (§2c) → C = link da ficha.
