@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 333,
- "ultima_versao": 292,
+ "proxima_linha_marcas": 334,
+ "ultima_versao": 293,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4538,6 +4538,24 @@
    },
    "versao": 292,
    "obs": "96 com foto oficial (credor.com, 68 atuais + 28 da Yoshida em padrão não conferido); ~457 linhas com link de página (Piazo, Yahoo! Leilões, WatchProSite, Fril, Gressive). Muitos códigos de caixa vintage (formato 4+4). Firecrawl sem créditos; EveryWatch exige login; Chrono24/WatchCharts/aucfan bloqueados."
+  },
+  {
+   "data": "2026-10-29",
+   "marcas": [
+    "Creo"
+   ],
+   "linha_marcas": 333,
+   "linhas_relogios": "55283-55470",
+   "relogios": 188,
+   "vermelho": false,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 28,
+   "passadas": {
+    "1": 28
+   },
+   "versao": 293,
+   "obs": "Creo é marca turca (HBM Saat ve Takı, Istanbul), não microbrand americana. creo.com.tr, Çiçeksepeti, cimri, n11, akakce, PTTAVM, Pazarama, Gardrops bloqueiam leitura; listas montadas pela Hepsiburada (abre) + títulos de busca da Çiçeksepeti (98 códigos só com link). Só 6 com foto (Hepsiburada/Trendyol). Não pintada de vermelho: listas saturaram (Hepsiburada 97 itens ≈ 91 códigos cobertos; buscas site:ciceksepeti pararam de trazer códigos). Crepas (334) parece GRANDE e fica sozinha na próxima. Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4552,32 +4570,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-29T10:41:48Z",
- "ultimo_sinal": "2026-10-29T10:57:51Z",
- "em_andamento": {
-  "marcas": [
-   "Creo"
-  ],
-  "linha_marcas": 333,
-  "grande": true,
-  "relogios": "historico/parcial_Creo_relogios.txt",
-  "fontes": "historico/parcial_Creo_fontes.txt",
-  "notas": "historico/notas_Creo.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 2
  }
 }
