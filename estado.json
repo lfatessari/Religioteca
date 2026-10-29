@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 320,
- "ultima_versao": 282,
+ "proxima_linha_marcas": 322,
+ "ultima_versao": 283,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4342,6 +4342,30 @@
    "fontes": 67,
    "versao": 282,
    "obs": "marca grande (Grupo Technos, Brasil); 3 passadas (41/16/10 fontes); catálogos PDF mar/2026–ago/2026 e ago–out/2025 lidos; fev–jul/2025 não abriram; fotos reais só em 24 linhas (resto: link do PDF/página oficial); Firecrawl sem créditos"
+  },
+  {
+   "data": "2026-10-29",
+   "marca": "Confrerie Horlogere",
+   "linha_marcas": 320,
+   "linhas_relogios": "52451-52454",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 22,
+   "versao": 283,
+   "obs": "coletivo BNB Concept 2008–2010; site confreriehorlogere.ch extinto; 4 modelos de 2009; protótipos sem nome não entraram"
+  },
+  {
+   "data": "2026-10-29",
+   "marca": "Corgeut",
+   "linha_marcas": 321,
+   "linhas_relogios": "52455-52525",
+   "relogios": 71,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 41,
+   "versao": 283,
+   "obs": "marca grande (783 anúncios no eBay); sem site oficial; 3 passadas (20/11/10 fontes); Amazon bloqueada (modelos com código pelo título da busca); Firecrawl sem créditos; Cornehl adiada"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4356,37 +4380,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-28T23:41:43Z",
- "ultimo_sinal": "2026-10-29T00:00:26Z",
- "em_andamento": {
-  "marcas": [
-   "Confrerie Horlogere",
-   "Corgeut"
-  ],
-  "linha_marcas": 320,
-  "grande": true,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": {
-   "Confrerie": [
-    "todas"
-   ],
-   "Corgeut": [
-    "1",
-    "2",
-    "2c",
-    "3",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "10"
-   ]
-  },
-  "passada": 1,
-  "obs": "Corgeut se revelou grande (783 anúncios no eBay); Cornehl fica para a próxima execução."
  }
 }
