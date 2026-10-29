@@ -12,3 +12,4 @@
 - Falta: linhas antigas (2002-2018): Robusto Day-Date/Perpetual GMT/Tricalendografo/Manjuari, Torpedo, Pirata, Esplendidos antigos, Prominente antigos, Buceador antigos; Gressive pistas.
 - Pistas loupe (só como pista; página pede para não reproduzir): 2860.1AZ, 2451.1SJ, 3196.1BL, 2451.1SLE, 1015.1GN, 3194.1BS, 3146.1W, 3202 Cadiz?. Vintage: cronógrafo Landeron 48 (eBay.de 286951031424, não abriu).
 - Lonsdale: Candela/Claro/Oscuro, colab CronotempVs × The Lounge by Watchonista (3×82). EveryWatch fechado (login).
+- 20:31 UTC: ~161 fontes, ~301 relógios. Últimas 3 (gressive cys-02/03/04) sem novidade → critério de parada atingido na 1ª passada para o bloco atual, mas ainda há linhas antigas sem foto/sem ref (Delray p2-3, Watchonista Doble Tiempo, Robusto/Esplendidos antigos). Marca será VERMELHA (centenas de refs antigas 2002-2015 sem catálogo completo; site oficial shop páginas 2-7 inalcançáveis).
