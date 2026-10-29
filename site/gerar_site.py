@@ -214,8 +214,11 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
     with open(os.path.join(saida, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(html)
 
+    import shutil
+    # contornos detalhados do globo (carregados só quando a pessoa aproxima)
+    shutil.copytree(os.path.join(AQUI, "geo"), os.path.join(saida, "geo"), dirs_exist_ok=True)
+
     if pasta_fotos:
-        import shutil
         destino = os.path.join(saida, "fotos")
         shutil.rmtree(destino, ignore_errors=True)
         for rel in usadas:
