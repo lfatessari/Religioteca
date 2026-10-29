@@ -206,6 +206,8 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
     html = html.replace("/*__DADOS__*/null", json.dumps(dados, ensure_ascii=False, separators=(",", ":")))
     with open(os.path.join(AQUI, "terra.json"), encoding="utf-8") as fh:
         html = html.replace("/*__TERRA__*/null", fh.read().strip())
+    blocos10 = sorted(f[:-5] for f in os.listdir(os.path.join(AQUI, "geo", "t10")) if f.endswith(".json"))
+    html = html.replace("/*__BLOCOS10__*/[]", json.dumps(blocos10))
     if completo:
         html = ('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">'
                 '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'

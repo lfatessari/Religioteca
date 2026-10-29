@@ -244,6 +244,7 @@ header{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:rg
 <script>
 const DADOS = /*__DADOS__*/null;
 const TERRA = /*__TERRA__*/null;
+const BLOCOS10 = new Set(/*__BLOCOS10__*/[]);
 const FAIXAS = DADOS.faixas;
 /* [id, marca, pais, cidade, faixa, nRelogios, lote, verificada, carac, busca, logo, logoClaro, lat, lon] */
 const MARCAS = DADOS.marcas.map(a=>({id:a[0],marca:a[1],pais:a[2],cidade:a[3],faixa:a[4],n:a[5],lote:a[6],ok:!!a[7],carac:a[8],busca:a[9],logo:a[10]||"",claro:!!a[11],lat:a[12],lon:a[13]}));
@@ -396,20 +397,49 @@ function iniciarGlobo(){
       .then(d=>{ camadas[nivel] = {terra:partes(d.land), costa:partes(d.coast), fronteiras:partes(d.borders)}; sujo=true; })
       .catch(()=>{ delete pedindo[nivel]; });
   }
+  /* nível de cidade: contornos de 1:10 milhões em blocos de 30°, baixados só para a área na tela */
+  const B10 = {}, pedindo10 = {}, combinados = {};
+  function carregarBloco(id){
+    if(B10[id] || pedindo10[id]) return;
+    pedindo10[id] = fetch(`geo/t10/${id}.json`).then(r=>{ if(!r.ok) throw 0; return r.json(); })
+      .then(d=>{ B10[id] = {terra:partes(d.land), costa:partes(d.coast), fronteiras:partes(d.borders)}; sujo=true; })
+      .catch(()=>{ setTimeout(()=>{ delete pedindo10[id]; }, 5000); });
+  }
   function camadaAtual(){
-    if(k>=14){ carregar(10); carregar(50); if(camadas[10]) return camadas[10]; }
+    if(k>=14){
+      carregar(50);
+      const cx = caixaTela();
+      if(cx){
+        const nec=[];
+        for(let i=Math.floor((cx[0]-5+180)/30); i<=Math.floor((cx[2]+5+180)/30); i++)
+          for(let j=Math.floor((cx[1]-5+90)/30); j<=Math.floor((cx[3]+5+90)/30); j++){
+            const id = `${((i%12)+12)%12}_${Math.max(0,Math.min(5,j))}`;
+            if(BLOCOS10.has(id) && !nec.includes(id)) nec.push(id);
+          }
+        nec.forEach(carregarBloco);
+        if(nec.length && nec.every(id=>B10[id])){
+          const ch = nec.join(",");
+          return combinados[ch] ||= {terra:nec.flatMap(id=>B10[id].terra), costa:nec.flatMap(id=>B10[id].costa), fronteiras:nec.flatMap(id=>B10[id].fronteiras)};
+        }
+      }
+    }
     if(k>=2.2){ carregar(50); if(camadas[50]) return camadas[50]; }
     return camadas[110];
   }
-  function visiveis(itens){
-    if(k < 3) return itens;
+  /* área do mapa na tela, em graus [oeste, sul, leste, norte]; null quando aparece meio planeta */
+  function caixaTela(){
+    if(k < 3) return null;
     const pts=[]; for(let i=0;i<=4;i++) for(let j=0;j<=4;j++){ const q=proj.invert([W*i/4, W*j/4]); if(q && isFinite(q[0])) pts.push(q); }
-    if(pts.length < 25) return itens;
+    if(pts.length < 25) return null;
     let [x0,y0,x1,y1] = [180,90,-180,-90];
     for(const [x,y] of pts){ x0=Math.min(x0,x); x1=Math.max(x1,x); y0=Math.min(y0,y); y1=Math.max(y1,y); }
-    if(x1-x0 > 180) return itens;
-    const m = Math.max(2, (x1-x0)*.25);
-    x0-=m; x1+=m; y0-=m; y1+=m;
+    if(x1-x0 > 180) return null;
+    const m = Math.max(.2, (x1-x0)*.25);
+    return [x0-m, y0-m, x1+m, y1+m];
+  }
+  function visiveis(itens){
+    const cx = caixaTela(); if(!cx) return itens;
+    const [x0,y0,x1,y1] = cx;
     return itens.filter(({b})=>{
       const [[a0,b0],[a1,b1]] = b;
       if(b1 < y0 || b0 > y1) return false;
@@ -427,13 +457,13 @@ function iniciarGlobo(){
   const raio = p => (2 + Math.sqrt(p.marcas.length)*1.15) * (k>=3 ? 1.15 : 1);
   function centro(){ return [-rot[0], -rot[1]]; }
   function desenhar(){
-    proj.rotate(rot).scale(base*k);
+    proj.rotate(rot).scale(base*k).precision(k>2 ? 2 : .4);
     ctx.clearRect(0,0,W,W);
     const g = ctx.createRadialGradient(W*.38,W*.32,W*.05,W/2,W/2,W/2);
     g.addColorStop(0,C.mar1); g.addColorStop(1,C.mar2);
     ctx.beginPath(); caminho({type:"Sphere"}); ctx.fillStyle=g; ctx.fill();
     ctx.lineWidth=1; ctx.strokeStyle=C.borda; ctx.stroke();
-    ctx.beginPath(); caminho(grade); ctx.lineWidth=.6; ctx.strokeStyle=C.grade; ctx.stroke();
+    if(k < 6){ ctx.beginPath(); caminho(grade); ctx.lineWidth=.6; ctx.strokeStyle=C.grade; ctx.stroke(); }
     const cam = camadaAtual();
     ctx.beginPath(); for(const {g} of visiveis(cam.terra)) caminho(g);
     ctx.fillStyle=C.terra; ctx.fill();
@@ -471,8 +501,9 @@ function iniciarGlobo(){
       if(box[2] > W-4) { box[0] = x-r-6-w; box[2] = x-r-4; }
       if(ocupado.some(o=>!(box[2]<o[0]||box[0]>o[2]||box[3]<o[1]||box[1]>o[3]))) continue;
       ocupado.push(box);
-      ctx.lineWidth = 3; ctx.strokeStyle = "rgba(7,7,8,.9)"; ctx.strokeText(txt, box[0], y);
+      ctx.shadowColor = "rgba(7,7,8,.95)"; ctx.shadowBlur = 4;
       ctx.fillStyle = p===pinSel ? C.pinClaro : C.texto; ctx.fillText(txt, box[0], y);
+      ctx.shadowBlur = 0; ctx.shadowColor = "transparent";
     }
   }
   function pinEm(x,y){
