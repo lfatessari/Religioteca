@@ -22,3 +22,5 @@
 - Refs (lojas/eBay): CRN002A H40; CRN002R H40 Roquebrune(?)/RG black; CRN002J H40 YG green; CRN004A H36 SS white; CRN0020A Courchevel chrono LE200 azul; CRN016A Heritage Chrono; CRN0025A chrono LE300 azul (Bluebird?); CRN0028A Demande Spéciale LE200; CRN0030A La Grande auto; CRN0042A chrono LE300; CW-H-PLM Paloma; CW-H36-SWB.
 - Novos: Heritage 40 C1 Midnight Blue Cercle d'Acier; Ciel Nocturne II MOP LE150; H40 RG blue dial; H40 YG green; H40 black; Mistral 40.
 - eBay img: trocar s-l140 por s-l1600.
+- Excluso (NL, dealer oficial; páginas client_error, só títulos de busca): Fantôme LE150, Fantôme II LE175, Conifère LE200. Conifère II LE249 (2025). Sand Militaire LE175 (2021); Vert Militaire (2020). Visage chrono SS 150 + RG 150. Ciel Nocturne II MOP LE150 (eBay). H40 Visage Three LE200 (eBay AU). Codes CW-HC-BL (chrono navy), CW-HC-SS (chrono preto), CWHCSC (Historique Club des Sports Courchevel), CW-H-PLM (Paloma), CW-H36-SWB.
+- Números 65407/70983/70984/104369 etc. = IDs de variação WooCommerce, NÃO referências.
