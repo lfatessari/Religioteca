@@ -8,7 +8,7 @@ A planilha mais recente fica em `planilha/`.
 
 ## Site público
 
-O site (Atlas Horológico) é gerado a partir da planilha pelo GitHub Actions (`.github/workflows/site.yml`) e publicado no GitHub Pages:
+O site (Atlas Horológico) é gerado a partir da planilha pelo GitHub Actions (`.github/workflows/site.yml`) e (quando ligado) publicado no GitHub Pages. Por enquanto só as fotos são baixadas; para publicar, ligar o Pages e criar a variável `PUBLICAR_SITE` = `sim` em Settings → Secrets and variables → Actions → Variables.
 
 - `site/baixar_fotos.py` baixa as fotos da aba Relógios, reduz para 400 px (WebP) e guarda no ramo `fotos` (só as novas a cada vez).
 - `site/gerar_site.py` monta a página e os arquivos de dados com as marcas, histórias e galerias.

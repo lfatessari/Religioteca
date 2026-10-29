@@ -1,5 +1,7 @@
 # Site público da Relogioteca (GitHub Pages)
-# A cada planilha nova: baixa só as fotos novas, guarda no ramo "fotos" e publica o site.
+# A cada planilha nova: baixa só as fotos novas e guarda no ramo "fotos".
+# Publicar o site no GitHub Pages fica DESLIGADO até a variável PUBLICAR_SITE do repositório
+# ser "sim" (Settings → Secrets and variables → Actions → Variables) e o Pages estar ligado.
 # Uma vez por dia também roda sozinho, para tentar de novo as fotos que falharam.
 name: Site público
 
@@ -82,11 +84,13 @@ jobs:
           if [ "$TAM" -gt 900 ]; then echo "::warning::O site está com ${TAM} MB, perto do limite de 1 GB do GitHub Pages."; fi
 
       - uses: actions/upload-pages-artifact@v3
+        if: vars.PUBLICAR_SITE == 'sim'
         with:
           path: _site
 
   publicar:
     needs: construir
+    if: vars.PUBLICAR_SITE == 'sim'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
