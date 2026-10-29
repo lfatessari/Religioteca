@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 329,
-  "ultima_versao": 288,
+  "proxima_linha_marcas": 330,
+  "ultima_versao": 289,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4461,6 +4461,26 @@
       "site_bloqueado": false,
       "fontes": 15,
       "obs": "Microbrand londrina (Elysian 2025 em 3 cores; Arcadia hora saltante 2026, preto/azul). Sem lojas nem anúncios de usados. Cover (329) parece GRANDE (refs CO100-CO200+, empresa de Solothurn com 40+ anos) e fica sozinha na próxima. Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Cover"
+      ],
+      "linha_marcas": 329,
+      "linhas_relogios": "54020-54543",
+      "relogios": 524,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 165,
+      "passadas": {
+        "1": 134,
+        "2": 20,
+        "3": 11
+      },
+      "versao": 289,
+      "obs": "156 do site oficial coverwatches.com (fotos oficiais); restante de lojas (Rússia: Hoolly, KronosTime, Slim Time, 3-15, 4 Измерение; Conteenium; eBay; Syohbido; Al Muftah). ~50% das linhas com link de página na coluna C. Lojas russas indicam 300-430 itens; paginação inacessível. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4475,31 +4495,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T05:42:19Z",
-  "ultimo_sinal": "2026-10-29T06:52:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Cover"
-    ],
-    "linha_marcas": 329,
-    "grande": true,
-    "relogios": "historico/parcial_Cover_relogios.txt",
-    "fontes": "historico/parcial_Cover_fontes.txt",
-    "notas": "historico/notas_Cover.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "passada": 3,
-    "oficial": "historico/oficial.py"
   }
 }

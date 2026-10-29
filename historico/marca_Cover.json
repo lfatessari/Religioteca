@@ -1,0 +1,837 @@
+{
+ "marca": "Cover",
+ "usa_codigos": true,
+ "logo": "https://static.wixstatic.com/media/89ca0b_e1db0aada8be4473880273f5448d85d1~mv2.jpg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "C vazio: Solothurn (Weissensteinstrasse 49). G vazio: site coverwatches.com. I com aviso [⚠️ verificar]: a marca COVER foi criada em 1999 pela Chrono AG, empresa familiar fundada em 1981/1982 por Theo Ingold em Solothurn (a mesma da Swiss Military by Chrono); relógios montados à mão em Solothurn com movimentos Ronda/ETA; vendida em mais de 45 países. J genérico: coleções atuais Iconosteel, Chapman (Chrono II, Moon & Stars), Marville, Alston, Arena Automatic, Lovis, Valentina, Sandara, Noble Square; antigas Aragon e Concerta Open Heart (automáticos), Trend Piedra, Quartino, Aureus, Palatino XL, Langham, Nobila, Amelia; sub-linha Crazy Seconds.",
+ "fontes": [
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15806",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/news/2037812-cover-creative-watch-design-made-in-switzerland.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxoia.com/en/cover",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096744-cover-cover-coa10-watchmaker-limited-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://silverstripe.org/community/showcase/listing/coverwatches-switzerland",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14504",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15206",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co16501",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://almuftahcenter.com/products/cover-iconosteel-stainless-steel-silver-mens-chronograph-watch-co21206",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://almuftahcenter.com/products/cover-valentina-mini-white-pearl-bicolor-stainless-steel-womens-watch-co22402",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://almuftahcenter.com/products/cover-sandara-stainless-steel-silver-womens-watch-co20301",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://almuftahcenter.com/products/cover-noble-square-stainless-steel-black-dial-gold-womens-watch-co22204",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14510",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14507",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14503",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14502",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14509",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14505",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14506",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14508",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14501",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15207",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/11st1lbk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15808",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15807",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15801",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15804",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15811",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co14003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dienmayxanh.com/kinh-nghiem-hay/top-dong-ho-cover-cho-nam-cao-cap-1540949",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thegioididong.com/dong-ho-deo-tay/cover-coa9-02-nu",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/2164030783",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.de/itm/256887114673",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/396553389048",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/146140111660",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/146139580924",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/156453483985",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/234820255622",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/315064874411",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/146351819081",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manor.ch/de/p/10003064627",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/135329815039",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jewellerybusiness.com/news/valangin-teams-up-with-cover/print",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashionbi.com/financials/brands/cover",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://swissmilitarywatches.ch/brand/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ceneje.si/Izdelek/67244413/modni-dodatki/rocne-ure/analogne-rocne-ure/cover-co205006",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ceneje.si/Izdelek/49576593/modni-dodatki/rocne-ure/analogne-rocne-ure/cover-co21205",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://emalls.ir/مشخصات_Marville-Gent~id~3596671",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://emalls.ir/%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA_Nobila~id~1085227",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/u1237676382",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/co15208",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2110005/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/es/listado/2272988/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004083227-cover-switzerland.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/collections/all",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://coverwatches.com/collections/all?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/collections/all-watches",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://coverwatches.com/collections/mens-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://coverwatches.com/collections/womens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/collections/iconosteel-collection",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://coverwatches.com/collections/noble-square",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://coverwatches.com/collections/cardea-crystal",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://coverwatches.com/collections/valentina-mini",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/collections/jumeira",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://coverwatches.com/collections/andara-diamond",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://coverwatches.com/collections/valentina",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://coverwatches.com/collections/sandara",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://coverwatches.com/collections/lady-diamond-open-heart",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://coverwatches.com/collections/alston-lady",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://coverwatches.com/collections/marville-lady",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://coverwatches.com/collections/marville-gent",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://coverwatches.com/collections/chapman-moon-stars",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://coverwatches.com/collections/iconosteel",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://coverwatches.com/collections/iconosteel-chrono",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://coverwatches.com/collections/chapman-chrono-ii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://coverwatches.com/collections/cover-lovis-square-watch-collection",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://coverwatches.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/products/co203-05-cover-sandara",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://coverwatches.com/products/co213-01-cover-iconosteel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://coverwatches.com/products/co216-05-cover-alston-gent",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/products/co215-01-cover-marville-lady",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/products/co220-01-cover-chapman-chrono-ii",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/products/co214-03-cover-marville-gent",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/products/co212-01-cover-iconosteel-chrono",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/products/co207-01-cover-valentina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coverwatches.com/products/co224-01-cover-valentina-mini",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.irisimo.com/watches/cover",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisite-luxury.com/category/brand/cover-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.molardsouvenirs.com/watch-brands/cover-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchandjewelry.shop/shop/cover-watches-2476s1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/COVER-Wristwatches/31387/bn_7116476101",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/372090280035",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/365164109222",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/333610919577?_ul=IL",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronostore.com/brands/COVER.html?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchandjewelry.shop/shop/cover-lady-2478c1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/watch-galleries/1004086218-co158-piedra-by-cover.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/watch-galleries/1004084793-co152-quartino-by-cover.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096503-cover-co175-palatino-xl.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096260-cover-co165-aureus-chronograph.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alltime.ru/watch/lady/filter/brand:cover/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alltime.ru/watch/man/filter/brand:cover",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pro-time.ru/brands/cover/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bestwatch.ru/watch/filter/pol:ladies/brand:Cover/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bestwatch.ru/watch/filter/pol:mens/brand:Cover/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono.ru/brendy/cover/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pro-time.ru/catalog/chasy/cov/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.alltime.ru/watch/cover/Co196.04/369671/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://3-15.ru/watch/co184-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pro-time.ru/catalog/chasy/cov/?PAGEN_1=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pro-time.ru/catalog/chasy/cov/?PAGEN_1=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alltime.ru/watch/filter/brand:cover/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://3-15.ru/watch/cover",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://kronostime.ru/brand:cover-mechanism:quartz/",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://hoolly.ru/brands/cover",
+   "passada": 1,
+   "novos": 43
+  },
+  {
+   "url": "https://kronostime.ru/brand:cover-mechanism:quartz/?PAGEN_1=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hoolly.ru/brands/cover?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hoolly.ru/naruchnye-chasy/cover",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://hoolly.ru/shveitsarskie-naruchnye-chasy/zhenschinam/cover?page=2",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://kronostime.ru/for:men-country:switzerland-function:lunar/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hoolly.ru/shveitsarskie-naruchnye-chasy/zhenschinam/cover?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hoolly.ru/shveitsarskie-naruchnye-chasy/zhenschinam/cover",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hoolly.ru/shveitsarskie-naruchnye-chasy/muzhchinam/cover",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://hoolly.ru/shveitsarskie-naruchnye-chasy/muzhchinam/cover?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/all/cover-switzerland-co72-sapphire-chronograph--id9343853.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://3-15.ru/watch/brand-is-cover_crazy_seconds/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alltime.ru/watch/filter/brand:cover/collection:crazy_seconds/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://yana24.ru/catalog/naruchnye_chasy/cover_crazy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://slim-time.ru/katalog-watches/cover/cover-crazy-seconds/komplekt-chasov-naruchnyx-kover-coverset-co1000-05s-brasletom/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://slava.su/en/set-co1000-01-wrist-watch-cover",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://slim-time.ru/katalog/cover/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://slim-time.ru/katalog/cover/muzhskie-chasy-cover/",
+   "passada": 2,
+   "novos": 13
+  },
+  {
+   "url": "https://slim-time.ru/katalog/cover/zhenskie-chasy-cover/",
+   "passada": 2,
+   "novos": 18
+  },
+  {
+   "url": "https://slim-time.ru/katalog/cover/zhenskie-chasy-cover-crazy-seconds/",
+   "passada": 2,
+   "novos": 13
+  },
+  {
+   "url": "https://spb.kronostime.ru/for:men-brand:cover-glass:sapphire/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://originalwatch.uz/product/cover-langham-co123-43/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://3-15.ru/watch/muzhskie-chasy-cover-langham-co123-44",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://originalwatch.uz/product-category/category-brand/cover/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://conteenium.com/brand/cover-watch/",
+   "passada": 2,
+   "novos": 28
+  },
+  {
+   "url": "https://conteenium.com/product/cover-aragon-open-heart-gent-coa4-16/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswissclock.com/product/cover-aragon-coa4-30/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yumpu.com/en/document/view/5510656/the-cover-brand-coverwatches-switzerland-swiss-watch-watches",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.yumpu.com/en/document/view/5510656/the-cover-brand-coverwatches-switzerland-swiss-watch-watches/2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/de/s16/product/cover-co159-auria-lady-analoguhr-28mm-armbanduhr-6208269",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/de/brand/cover-16871",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yumpu.com/en/document/view/5510656/the-cover-brand-coverwatches-switzerland-swiss-watch-watches/4",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yumpu.com/en/document/view/5510656/the-cover-brand-coverwatches-switzerland-swiss-watch-watches/5",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://aswatch.ru/product/cover-co166-05-lumina",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.com/itm/177354538616",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.irisimo.com/fi/cover-co159-04",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://aswatch.ru/catalog/watch/attribute-brend-cover",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kronostime.ru/brand:cover/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mraghrabeh.com/brands/midrange-watch/coverwatches.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://parsehwatch.com/shop/2906-cover/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ahadigallery.com/product/cover-co178-02/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.irantimer.com/Fa-Product-36030",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://amatistwatch.com/product/am-10101/cover-watch-co209-03.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://4-izmerenie.ru/category/cover/",
+   "passada": 3,
+   "novos": 21
+  },
+  {
+   "url": "https://www.tuszelodz.pl/brand/23-cover",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.e-zegarki.pl/zegarki-damskie-cover",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watches24.pl/pl/producer/Cover/34/1/full/4",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://4-izmerenie.ru/category/cover/?page=2",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
