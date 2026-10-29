@@ -14,3 +14,5 @@ Super-Automatic 1940s; Aquamedico (ouro, corda manual 1950s); Nivada Grenchen Wa
 - LOGO oficial: https://www.crotonwatch.com/cdn/shop/files/Logo_1_9bdc698d-cce9-416a-a128-43f87d46ee0f.png?v=1630541574
 - §2c: ~22 buscas site:crotonwatch.com/products; parou de aparecer handle novo.
 - Livro Chronomaster (Rossier/Marquié): CASD criado 1961, parceria Nivada–Croton desde 1939. Uhren-Muser e Monaco Legend: ref 9870 com Valjoux 23 (c.1963-65).
+- História (River Journal): fundada por Jacob Horton (suíço) em NY 1878 segundo jornais de 1963/1978; site diz raízes em Crotone (Itália), NY desde 1928; mudou para Croton-on-Hudson em 1963; vendida em 1991 à Nationwide Time (NJ). Wikipedia: distribuidora da Nivada nos EUA.
+- Aba Marcas: B "USA (herança suíça)" ok; I diz "ítalo-americana/suíça (1878)"; G vazio → crotonwatch.com; H vazio. J: Aquamatic, Chronomaster, Imperial — todos achados.
