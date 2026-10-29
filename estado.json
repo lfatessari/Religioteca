@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 339,
-  "ultima_versao": 298,
+  "proxima_linha_marcas": 340,
+  "ultima_versao": 299,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4651,6 +4651,24 @@
       },
       "versao": 298,
       "obs": "Site oficial crotonwatch.com (Shopify; G vazio) abriu, mas páginas 2+ e muitos produtos despublicados não; ~22 buscas site:/products. Vintage (Chronomaster Aviator Sea Diver refs 105/106/107/9870/9839/394-1/903011/953011 etc., Aquamatic, Antarctic, Aquamedico, Depthmaster, Wanderer, Colorama, Skymaster) por Craft & Tailored, Analog Shift, Watch Preserve, 1stDibs, Chronopedia, leilões. Moderno por páginas de categoria do eBay (muito produtivas) e lista de 52 códigos do ManualsLib (sem foto). 96 linhas com link no lugar da foto. Vermelha: catálogo moderno tem centenas de códigos. Firecrawl sem créditos. EveryWatch fechado ('Only Collectors')."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Crude"
+      ],
+      "linha_marcas": 339,
+      "linhas_relogios": "56078-56088",
+      "relogios": 11,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": "parcial",
+      "fontes": 15,
+      "passadas": {
+        "1": 15
+      },
+      "versao": 299,
+      "obs": "Crude Studio (Grexs Movement GmbH, Remchingen/Pforzheim; fundador Gregor Bieniek, Ibiza). Só a linha Gypsetter (prata 925 fundida com diamantes, 2019). Loja oficial Wix não abre (client_error); 6 nomes de produto vieram de títulos de busca. Firecrawl sem créditos. CT Scuderia (340) é GRANDE (dezenas de refs CS10xxx/CS20xxx/CS70xxx/CWEJ, distribuída pela Timex) → próxima execução sozinha; Cubli (341) depois (não achei marca de relógio com esse nome na checagem rápida)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4665,23 +4683,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T16:41:54Z",
-  "ultimo_sinal": "2026-10-29T16:50:06Z",
-  "em_andamento": {
-    "marcas": [
-      "Crude"
-    ],
-    "linha_marcas": 339,
-    "grande": false,
-    "relogios": "historico/parcial_Crude_relogios.txt",
-    "fontes": "historico/parcial_Crude_fontes.txt",
-    "notas": "historico/notas_Crude.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c"
-    ],
-    "passada": 1
   }
 }
