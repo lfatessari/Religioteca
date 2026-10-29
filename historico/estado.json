@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 330,
-  "ultima_versao": 289,
+  "proxima_linha_marcas": 331,
+  "ultima_versao": 290,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4481,6 +4481,25 @@
       },
       "versao": 289,
       "obs": "156 do site oficial coverwatches.com (fotos oficiais); restante de lojas (Rússia: Hoolly, KronosTime, Slim Time, 3-15, 4 Измерение; Conteenium; eBay; Syohbido; Al Muftah). ~50% das linhas com link de página na coluna C. Lojas russas indicam 300-430 itens; paginação inacessível. Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "CP5"
+      ],
+      "linha_marcas": 330,
+      "linhas_relogios": "54544-54651",
+      "relogios": 108,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 47,
+      "passadas": {
+        "1": 37,
+        "2": 10
+      },
+      "versao": 290,
+      "obs": "Site oficial macchinacp5.com (coluna G vazia) só abre fichas https; ~65 linhas com foto oficial/loja/eBay, o resto com link da página. Crafter Blue (331) fica para a próxima; Credor (332) parece grande. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
