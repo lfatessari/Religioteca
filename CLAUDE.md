@@ -8,6 +8,7 @@ Este repositório guarda a planilha da Relogioteca e o estado do trabalho. Cada 
 - `gravar_marca.py` — script padrão de gravação, com a trava de profundidade. Nunca contornar a trava.
 - `historico/` — notas, dados e marca.json de cada marca já feita.
 - `docs/SKILL_relogioteca-pesquisa-exaustiva.md` — cópia de referência do roteiro. A versão que vale é a skill `relogioteca-pesquisa-exaustiva` da conta.
+- `site/` e `.github/workflows/site.yml` — o site público (GitHub Pages). Ele se atualiza sozinho a cada planilha nova enviada para `planilha/`, e as fotos ficam no ramo `fotos`. As execuções de pesquisa não mexem nesses arquivos nem no ramo `fotos`.
 
 ## Trava contra execuções simultâneas (com sinal de vida)
 Uma execução pode ser cortada a qualquer momento pelo limite de uso, sem chance de salvar nada no fim. Por isso o progresso é salvo DURANTE o trabalho, e a trava mostra se a execução ainda está viva.

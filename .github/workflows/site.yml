@@ -1,0 +1,95 @@
+# Site público da Relogioteca (GitHub Pages)
+# A cada planilha nova: baixa só as fotos novas, guarda no ramo "fotos" e publica o site.
+# Uma vez por dia também roda sozinho, para tentar de novo as fotos que falharam.
+name: Site público
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'planilha/**'
+      - 'site/**'
+      - '.github/workflows/site.yml'
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site-publico
+  cancel-in-progress: false
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Pegar a planilha e os scripts do site
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            planilha
+            site
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar bibliotecas
+        run: pip install pillow requests openpyxl
+
+      - name: Abrir o acervo de fotos (ramo "fotos")
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          URL="https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$URL" fotos >/dev/null; then
+            git clone -q --depth 1 --branch fotos --single-branch "$URL" acervo
+          else
+            mkdir acervo && cd acervo && git init -q -b fotos && git remote add origin "$URL"
+          fi
+          cd acervo
+          git config user.name "relogioteca-site"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Baixar as fotos novas (rodadas de 45 min, salvando a cada rodada)
+        run: |
+          PLANILHA=$(ls planilha/*.xlsx | sort -V | tail -1)
+          for i in 1 2 3 4 5 6; do
+            python3 site/baixar_fotos.py "$PLANILHA" acervo --minutos 45
+            cd acervo
+            git add -A
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Fotos: rodada $i ($(date -u +%Y-%m-%d))"
+              git push -q origin fotos
+            fi
+            cd ..
+            if [ "$(cat acervo/pendentes.txt)" = "0" ]; then break; fi
+          done
+
+      - name: Montar o site
+        run: |
+          PLANILHA=$(ls planilha/*.xlsx | sort -V | tail -1)
+          python3 site/gerar_site.py "$PLANILHA" _site --fotos acervo --completo
+          touch _site/.nojekyll
+          TAM=$(du -sm _site | cut -f1)
+          echo "Tamanho do site: ${TAM} MB (limite do GitHub Pages: 1024 MB)"
+          if [ "$TAM" -gt 900 ]; then echo "::warning::O site está com ${TAM} MB, perto do limite de 1 GB do GitHub Pages."; fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publicar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
