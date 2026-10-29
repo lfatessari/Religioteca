@@ -10,3 +10,6 @@
 - Genéricos sem nome (não viraram linha): dumarko cal 739 preto; vintagewatchroom dress guilloché; vestiaire 4 anúncios sem modelo.
 - Títulos eBay a investigar: World Timer verde (ebay.de 157225506538), Grand Prix.
 - Envoy Automatic (ebay.de 127466497219, título 'Corterbert Envoy Automatic') — não abriu; buscar.
+- A buscar fotos: Cortebert Extra (bolso militar britânico GSTP, cal 526), Kriegsmarine KM bolso, bolso TCDD, Braille c.1950. Fratello Sport Chronograph foto alternativa: https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/09/cortebert-sport-chronograph-2-1.jpg
+- KM: Cortébert só como calibre (618) em relógios de mergulhadores Kampfschwimmer com caixa Rolex/Panerai — não é relógio da marca. Kriegsmarine bolso KM cal 526 (Noonans) sem foto -> buscar.
+- ebay.de 236166981645 feminino militar 25mm: genérico (não entrou).
