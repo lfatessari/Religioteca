@@ -275,10 +275,10 @@ function mostrador(m, tam){
     <line x1="50" y1="58" x2="38.5" y2="35" stroke="#8A7444" stroke-width=".9" stroke-linecap="round"/>
     <circle cx="50" cy="50" r="1.9" fill="#E3CC96"/></svg>`;
 }
-/* prévia: fotos guardadas em pacotes (p/NNN.bin); cada foto é um pedaço do pacote */
+/* prévia: fotos guardadas em pacotes (p/NNN.avif); cada foto é um pedaço do pacote */
 const PACOTES = {}, URLS = {};
 function pacote(n){
-  if(!PACOTES[n]) PACOTES[n] = fetch(`p/${String(n).padStart(3,"0")}.bin`).then(r=>{ if(!r.ok) throw new Error(r.status); return r.arrayBuffer(); })
+  if(!PACOTES[n]) PACOTES[n] = fetch(`p/${String(n).padStart(3,"0")}.avif`).then(r=>{ if(!r.ok) throw new Error(r.status); return r.arrayBuffer(); })
     .catch(e=>{ delete PACOTES[n]; throw e; });
   return PACOTES[n];
 }

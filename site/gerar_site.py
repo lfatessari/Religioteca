@@ -269,7 +269,7 @@ def _converter(args):
 
 
 def empacotar(marcas, pasta_fotos, saida):
-    """Prévia no Artifact do Claude: fotos menores (AVIF) juntadas em pacotes .bin.
+    """Prévia no Artifact do Claude: fotos menores (AVIF) juntadas em pacotes .avif.
 
     O Artifact aceita no máximo 511 arquivos por versão, então as fotos vão em
     pacotes de ~750 KB; a página corta cada foto do pacote quando precisa dela.
@@ -302,7 +302,7 @@ def empacotar(marcas, pasta_fotos, saida):
     def fecha():
         nonlocal buf, n
         if buf:
-            with open(os.path.join(pasta_p, f"{n:03d}.bin"), "wb") as fh:
+            with open(os.path.join(pasta_p, f"{n:03d}.avif"), "wb") as fh:  # extensão aceita pelo Artifact
                 fh.write(buf)
             n += 1
             buf = bytearray()
