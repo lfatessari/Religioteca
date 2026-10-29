@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 342,
- "ultima_versao": 301,
+ "proxima_linha_marcas": 343,
+ "ultima_versao": 302,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4707,6 +4707,24 @@
    },
    "versao": 301,
    "obs": "Não é marca de relógios (Cubli = robô cubo da ETH Zurique; etiqueta de marca do aBlogtoWatch). 0 linhas; script não roda sem linhas, M341 gravado à parte (só M341 mudou). Firecrawl sem créditos. Cuervo y Sobrinos (342) é GRANDE → próxima execução sozinha."
+  },
+  {
+   "data": "2026-10-29",
+   "versao": 302,
+   "marca": "Cuervo y Sobrinos",
+   "linha_marcas": 342,
+   "linhas_relogios": "56306-56631",
+   "relogios": 326,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – cuervoysobrinos.com: páginas 2+ da loja e das categorias não abrem para leitura automática",
+   "fontes": 214,
+   "passadas": {
+    "1": 170,
+    "2": 26,
+    "3": 18
+   },
+   "obs": "Bloco novo no fim da aba; as 2 linhas antigas (2-3) foram mantidas (coluna A trocada temporariamente para o script e restaurada; conferido por snapshot). Fontes principais: site oficial WooCommerce (categorias; fotos wp-content/uploads/AAAA/MM/<ref>-Soldier.png), Whamond oembed, Helveti, Gressive JP (catálogos Basel 2008-2019), eBay.de browse, Delray, Gray & Sons, leilões (CollectorSquare, Baer & Bosch, Antiquorum). Firecrawl sem créditos. Próxima: Culem (343)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4720,36 +4738,6 @@
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
-  "Cuervo y Sobrinos (linha 342)": "Já tem 2 linhas ANTIGAS em Relógios (linhas 2-3, bloco antigo do início). O gravar_marca.py, ao ver linhas existentes, reescreveria tudo a partir da linha 2 (e a contiguidade falharia). Gravar o bloco novo no FIM da aba sem mexer nas 2 antigas (como Akrone/Alcadus), p.ex. rodando o script numa cópia em que as linhas 2-3 tenham a coluna A temporariamente trocada e restaurando-as depois, conferindo por snapshot; e não repetir nomes das 2 antigas."
- },
- "em_execucao": "2026-10-29T19:43:37Z",
- "ultimo_sinal": "2026-10-29T20:45:42Z",
- "em_andamento": {
-  "marcas": [
-   "Cuervo y Sobrinos"
-  ],
-  "linha_marcas": 342,
-  "grande": true,
-  "relogios": "historico/parcial_cuervo_relogios.txt",
-  "fontes": "historico/parcial_cuervo_fontes.txt",
-  "notas": "historico/notas_cuervo.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a passada",
-   "3a passada"
-  ],
-  "passada": 3
+  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  }
 }
