@@ -10,3 +10,4 @@
 - Logo: https://www.cuervoysobrinos.com/wp-content/uploads/2025/07/Logo.png ; fotos oficiais wp-content/uploads/AAAA/MM/<ref>_Soldier.png
 - Site oficial: categorias todas abertas (exceto historiador page/2, shop page/2+ — PROVENANCE). Shop total 95 variações. §2 feito.
 - Falta: linhas antigas (2002-2018): Robusto Day-Date/Perpetual GMT/Tricalendografo/Manjuari, Torpedo, Pirata, Esplendidos antigos, Prominente antigos, Buceador antigos; Gressive pistas.
+- Pistas loupe (só como pista; página pede para não reproduzir): 2860.1AZ, 2451.1SJ, 3196.1BL, 2451.1SLE, 1015.1GN, 3194.1BS, 3146.1W, 3202 Cadiz?. Vintage: cronógrafo Landeron 48 (eBay.de 286951031424, não abriu).
