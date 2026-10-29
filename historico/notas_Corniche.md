@@ -27,3 +27,9 @@
 - Our Story: Mistral 40 primeiro (16/08/2013, romanos). Historique Club des Sports Courchevel LE250; Heritage 40 Paloma Beach LE499; Heritage 40 Saint-Jean-Cap-Ferrat Prestige LE250 (mas sjcfp.html = Heritage Chronograph SJCF Prestige LE150, preto, panda reverso; = "Heritage Chronograph SJCFP 2019" do dropdown).
 - H40 C1 Cercle d'Acier (2017) midnight blue setorial.
 - Falhas (client_error): excluso, thewatchlibrary, timezone.com.my, watchuseek, mywatchmart, deal.town, whatdropsnow(robots), ltmena, watchcharts, klassy produtos.
+- Obscur (I) LE200 (excluso título); Obscur II LE349 (HMS foto select.itembox.cloud/product/096/000000009671/000000009671-01.jpg). DS VI foto wristwatch-tearoom 2025/02/000000009672-12-lfix-1024x1024.webp.
+- Demande Spéciale (I) = salmão LE200 (HMS cw-ds-89476, foto .../072/000000007288/000000007288-01.jpg) = CRN0028A.
+- Noir Blanc LE300 panda (HMS foto .../099/000000009974/000000009974-01.jpg).
+- LGC Automática NH35A 39mm verde sunray com bracelete (HMS cw-91870, foto .../076/000000007667/000000007667-01.jpg) — LGC original automática (10ATM) diferente da LGC atual VK64? Site atual diz VK64 39x11.5 (provável erro de ficha). LGC CRN0030A automática date.
+- H36: Gold dark dial (=YG black), SS white, RG cream white, SS taupe, RG taupe (thewatchdrobe). H40 RG dark dial, C1.
+- Códigos CW-xx (HMS/eBay) = códigos do distribuidor japonês -> coluna E.
