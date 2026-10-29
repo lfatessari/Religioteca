@@ -12,3 +12,9 @@
 - Mistral 40 (primeiro modelo, 2013): YG white LE250, YG black LE250, SS white LE250, SS Tuxedo LE50.
 - L'Heure d'Or chrono LE 300; Obscur II LE 349; Nocturne II LE 250; Mirage LE 250 (2026); Nocturne aventurine.
 - Rate limit no cornichewatches.com: abrir uma página por vez. whitegold.html não abriu ainda.
+- Klassy (Tailândia): Demande Spéciale V (LE), VI, Sand Militaire Deux, LGC Salmon/Bleu Azur/Horizon, H36 Taupe. Esconde vendidos.
+- Visage N°1 (Heritage 40 Visage One RG LE, 2015; RedArmy foto COR.HER40.36526); Visage N°2 LE 399 (2016, thecoolector fotos).
+- Heritage 40 Roquebrune = First Anniversary Edition, ref CRN002R (keepthetime), RG, mostrador cinza, LE 499(?)
+- Heritage 40 Tuxedo LE 250 (2014) — e Mistral 40 Tuxedo LE 50 (2013). H40 base 3 modelos €295 (2014) + Graphite (2015) => "cinco versões".
+- Mon Coeur chrono: RG, chocolate sunburst, exclusivo One Fifty Five (Tailândia), 2024.
+- Bluebird LE 300 (eBay title). theme pages: heritage-bleu-ardoise-chronograph.html, chronograph_rose_gold.html ainda não abertas.
