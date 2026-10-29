@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 340,
-  "ultima_versao": 299,
+  "proxima_linha_marcas": 341,
+  "ultima_versao": 300,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4669,6 +4669,26 @@
       },
       "versao": 299,
       "obs": "Crude Studio (Grexs Movement GmbH, Remchingen/Pforzheim; fundador Gregor Bieniek, Ibiza). Só a linha Gypsetter (prata 925 fundida com diamantes, 2019). Loja oficial Wix não abre (client_error); 6 nomes de produto vieram de títulos de busca. Firecrawl sem créditos. CT Scuderia (340) é GRANDE (dezenas de refs CS10xxx/CS20xxx/CS70xxx/CWEJ, distribuída pela Timex) → próxima execução sozinha; Cubli (341) depois (não achei marca de relógio com esse nome na checagem rápida)."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "CT Scuderia"
+      ],
+      "linha_marcas": 340,
+      "linhas_relogios": "56089-56305",
+      "relogios": 217,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 201,
+      "passadas": {
+        "1": 163,
+        "2": 28,
+        "3": 10
+      },
+      "versao": 300,
+      "obs": "Site oficial ctscuderia.com (WooCommerce) abriu: 34 modelos atuais (Bullet Head, Corsa Classic 012, Scrambler Saturno, Touring) com fotos oficiais. Arquivo por Ashford (padrão cdn/shop/files/<REF>_F.jpg), Right Time (atuais + descontinuados), Gressive.jp, Uhrenheld (fotos Amazon), blog Louis Collection Marunouchi, Temi Store. Linhas de códigos: CS (2012-2018), CWE/CWG (2019-2020, Timex), CW...19, CT-2xx-P (Miyota). Vermelha: Joyería MDM (9 páginas) ilegível, ctscuderia.jp/loja japonesa (robots), Chrono24 e Touch of Modern fechados, buracos de sequência. ~30 linhas com link no lugar da foto. Firecrawl sem créditos. Cubli (341) é a próxima."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

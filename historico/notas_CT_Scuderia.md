@@ -17,3 +17,4 @@ Notas: press kit 2012 refs CT10101, CT20100, CT10104, CT20101 (Saturno/Corsa, 46
 ## 2ª passada: alvos = linha CT-2xx-P, buracos CS, títulos de busca de lojas japonesas/espanholas, Amazon, Bluefly, Simon, Modesens.
 ## 2ª passada encerrada 18:13 (3 fontes seguidas sem novidade: blog LCM 2016-02, 2015-11, 2016-07). Trouxe >5 novos → 3ª passada.
 - Highsnobiety: fundada em 2011 por Enrico Margaritelli (ex-Fossil, Armani, Burberry, Diesel); homenagem ao cronômetro do avô na 2ª Guerra. Comunicado 2019 diz fundada em 2013. Logo: ctscuderia.com/wp-content/uploads/2019/08/logo1.png
+## 3ª passada encerrada 18:20 (10 fontes; últimas 3 sem novidade exceto Silodrome). Parar.
