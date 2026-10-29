@@ -29,13 +29,13 @@ jobs:
     timeout-minutes: 350
     steps:
       - name: Pegar a planilha e os scripts do site
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           sparse-checkout: |
             planilha
             site
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -50,11 +50,12 @@ jobs:
           if git ls-remote --exit-code --heads "$URL" fotos >/dev/null; then
             git clone -q --depth 1 --branch fotos --single-branch "$URL" acervo
           else
-            mkdir acervo && cd acervo && git init -q -b fotos && git remote add origin "$URL"
+            mkdir acervo
+            git -C acervo init -q -b fotos
+            git -C acervo remote add origin "$URL"
           fi
-          cd acervo
-          git config user.name "relogioteca-site"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C acervo config user.name "relogioteca-site"
+          git -C acervo config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Baixar as fotos novas (rodadas de 45 min, salvando a cada rodada)
         run: |
