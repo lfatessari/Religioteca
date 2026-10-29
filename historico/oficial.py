@@ -8,57 +8,57 @@ def add(nome,ref,img,e): rows.append((nome,ref,img,e))
 cores={1:'mostrador preto, prateado',2:'mostrador prata, todo prateado',3:'mostrador azul, prateado',4:'mostrador verde, prateado',5:'mostrador preto, bicolor prata/dourado',6:'mostrador prata, bicolor prata/dourado',7:'mostrador azul, bicolor prata/dourado',8:'mostrador verde, bicolor prata/dourado',9:'mostrador preto, bicolor prata/rosé',10:'mostrador prata, bicolor prata/rosé'}
 for n,c in cores.items():
     r=f'Co216.{n:02d}'
-    img={7:O+'Co216.07-579430.jpg'}.get(n, O+r+'.jpg' if n in (1,3,5,9) else P+f'co216-{n:02d}-cover-alston-gent')
-    add('Alston Gent',r,img,'Aço, '+c+('' if n in (1,3,5,7,9) else '; foto não exibida na listagem (link da página do produto)'))
+    img={7:O+'Co216.07-579430.jpg'}.get(n, O+r+'.jpg')
+    add('Alston Gent',r,img,'Aço, '+c+', quartzo suíço Ronda 715')
 for n,c in cores.items():
     r=f'Co217.{n:02d}'
-    img=O+r+'.jpg' if n in (1,3,5,7,9) else P+f'co217-{n:02d}-cover-alston-ladies'
-    add('Alston Lady',r,img,'Aço, '+c+('; feminino' if n in (1,3,5,7,9) else '; feminino; foto não exibida na listagem (link da página do produto)'))
+    img=O+r+'.jpg'
+    add('Alston Lady',r,img,'Aço, '+c+'; feminino'+('' if n in (1,3,5,7,9) else '; foto pelo padrão de endereço do site oficial'))
 mg={1:'mostrador preto, prateado',2:'todo prateado',3:'mostrador azul, prateado',4:'mostrador verde, prateado',5:'mostrador prata, bicolor prata/dourado',6:'mostrador azul, bicolor prata/dourado',7:'mostrador verde, bicolor prata/dourado',8:'mostrador prata, bicolor prata/rosé',9:'mostrador azul, bicolor prata/rosé',10:'mostrador verde, bicolor prata/rosé'}
 for n,c in mg.items():
     r=f'Co214.{n:02d}'
-    img=O+r+'.jpg' if n in (1,2,6,8,9) else P+f'co214-{n:02d}-cover-marville-gent'
-    add('Marville Gent',r,img,'Aço, '+c+('' if n in (1,2,6,8,9) else '; foto não exibida na listagem (link da página do produto)'))
+    img=O+r+'.jpg'
+    add('Marville Gent',r,img,'Aço, '+c+', quartzo suíço Ronda 715')
 ml={1:'mostrador preto, prateado',2:'todo prateado',3:'mostrador azul, prateado',4:'mostrador verde, prateado',5:'mostrador azul-claro, prateado',6:'mostrador prata, bicolor prata/dourado',7:'mostrador azul, bicolor prata/dourado',8:'mostrador verde, bicolor prata/dourado',9:'mostrador prata, bicolor prata/rosé',10:'mostrador azul, bicolor prata/rosé',11:'mostrador verde, bicolor prata/rosé'}
 for n,c in ml.items():
     r=f'Co215.{n:02d}'
-    img=O+r+'.jpg' if n in (1,2,3,7,10) else P+f'co215-{n:02d}-cover-marville-lady'
-    add('Marville Lady',r,img,'Aço, '+c+'; feminino'+('' if n in (1,2,3,7,10) else '; foto não exibida na listagem (link da página do produto)'))
+    img=O+r+'.jpg'
+    add('Marville Lady',r,img,'Aço, '+c+', safira, quartzo suíço Ronda 773; feminino')
 cm={1:'mostrador branco, pulseira de couro azul, prateado',2:'mostrador azul, pulseira de couro preta, prateado',3:'mostrador azul, pulseira de couro marrom, prateado',4:'mostrador cinza, pulseira de couro preta, prateado',5:'mostrador branco, pulseira de couro preta, dourado',6:'mostrador branco, pulseira de couro marrom, rosé',7:'mostrador azul, pulseira de couro marrom, rosé'}
 for n,c in cm.items():
     r=f'Co202.{n:02d}'
-    img=O+r+'.jpg' if n in (2,3,4,5,7) else P+f'co202-{n:02d}-cover-chapman-moon-stars'
-    add('Chapman Moon & Stars',r,img,'Aço, fase da lua, '+c+('' if n in (2,3,4,5,7) else '; foto não exibida na listagem (link da página do produto)'))
-cc={1:'mostrador preto, prateado',2:'prateado',3:'mostrador azul, prateado',4:'mostrador verde, prateado',5:'mostrador preto, pulseira de couro',6:'mostrador azul, pulseira de couro',7:'mostrador verde, pulseira de couro',8:'mostrador champanhe, pulseira de couro',9:'caixa rosé, mostrador azul, pulseira de couro'}
+    img=O+r+'.jpg'
+    add('Chapman Moon & Stars',r,img,'Aço, fase da lua, '+c+('' if n in (2,3,4,5,7) else '; foto pelo padrão de endereço do site oficial'))
+cc={1:'mostrador preto, prateado',2:'prateado',3:'mostrador azul, prateado',4:'mostrador verde, prateado',5:'mostrador preto, pulseira de couro',6:'mostrador azul, pulseira de couro',7:'mostrador verde, pulseira de couro',8:'mostrador areia ("dune"), pulseira de couro preta',9:'caixa rosé, mostrador azul, pulseira de couro'}
 for n,c in cc.items():
     r=f'Co220.{n:02d}'
-    img=O+r+'.jpg' if n in (3,4,6,7,9) else A.format(f'CO220-{n:02d}') if n in (2,5,8) else P+f'co220-{n:02d}-cover-chapman-chrono-ii'
-    add('Chapman Chrono II',r,img,'Aço, cronógrafo, '+c)
+    img=O+r+'.jpg'
+    add('Chapman Chrono II',r,img,'Aço, 42,5 mm, cronógrafo, quartzo suíço Ronda 5040.D, 100 m, '+c)
 ic={1:'mostrador preto, prateado',2:'mostrador azul, prateado',3:'mostrador preto, bicolor',4:'mostrador azul, bicolor',5:'mostrador verde, bicolor',6:'mostrador prata, prateado (41 mm, 9 mm, safira, quartzo suíço Ronda 5040.D, 100 m)',7:'mostrador azul-claro, marrom',8:'dourado bicolor'}
-im={4:O+'co212.04-772642.png',5:O+'co212.05-270680.png'}
+im={1:O+'co212.01_953aa9f4-711b-410e-8aee-9f755fcf3769-119836.png',2:O+'co212.02-303293.png',3:O+'co212.03-802782.png',4:O+'co212.04-772642.png',5:O+'co212.05-270680.png'}
 for n,c in ic.items():
     r=f'Co212.{n:02d}'
     img=O+r+'.jpg' if n in (6,7,8) else im.get(n, P+f'co212-{n:02d}-cover-iconosteel-chrono')
-    add('Iconosteel Chrono',r,img,'Aço, cronógrafo, '+c)
+    add('Iconosteel Chrono',r,img,'Aço, cronógrafo, quartzo suíço Ronda 5040.D, data, safira, 100 m, '+c)
 i3={1:'mostrador preto, prateado',2:'mostrador azul, prateado',3:'mostrador preto, bicolor prata/dourado',4:'mostrador azul, bicolor prata/dourado',5:'mostrador verde, bicolor prata/dourado',6:'mostrador azul-claro, prateado',7:'mostrador azul, prateado',8:'mostrador "dune" (areia), bicolor',9:'dourado, bicolor'}
 for n,c in i3.items():
     r=f'Co213.{n:02d}'
-    img=O+r+'.jpg' if n in (6,7,8,9) else (O+'co213.05-631691.png' if n==5 else P+f'co213-{n:02d}-cover-iconosteel')
-    add('Iconosteel',r,img,'Aço, '+c)
+    img=O+r+'.jpg' if n in (6,7,8,9) else {1:O+'co213.01_0fa6b048-cc40-4799-8a7b-11d792e6036d-914905.png',2:O+'co213.02-899922.png',3:O+'co213.03-668658.png',4:O+'co213.04-251486.png',5:O+'co213.05-631691.png'}[n]
+    add('Iconosteel',r,img,'Aço, safira, quartzo suíço Ronda 5040.D, data, '+c)
 il={1:'mostrador perolado branco, prateado',2:'mostrador perolado azul, prateado',3:'mostrador verde, bicolor dourado',4:'mostrador verde-claro, bicolor dourado',5:'dourado, bicolor',6:'todo dourado'}
 for n,c in il.items():
     r=f'Co223.{n:02d}'
-    img=O+r+'.jpg' if n!=1 else A.format('CO223-01')
+    img=O+r+'.jpg'
     add('Iconosteel Lady',r,img,'Aço, '+c+'; feminino')
 ns={1:'mostrador preto, prateado',2:'prateado',3:'mostrador azul-claro, prateado',4:'mostrador preto, dourado (30,2 x 22 mm, 6,8 mm, safira, quartzo Ronda 762, 50 m)',5:'mostrador prata, dourado',6:'mostrador champanhe, dourado'}
 for n,c in ns.items():
     r=f'Co222.{n:02d}'
-    img=O+r+'.jpg' if n!=1 else P+'co222-01-cover-noble-square'
+    img=O+r+'.jpg'
     add('Noble Square',r,img,'Aço, quadrado, '+c+'; feminino')
 cd={1:'prateado',2:'mostrador azul-claro, prateado',3:'mostrador prata, bicolor dourado',4:'mostrador azul, bicolor dourado',5:'mostrador verde, bicolor dourado',6:'bicolor rosé'}
 for n,c in cd.items():
     r=f'Co221.{n:02d}'
-    img=O+r+'.jpg' if n!=1 else P+'co221-01-cover-cardea-crystal'
+    img=O+r+'.jpg'
     add('Cardea Crystal',r,img,'Aço com cristais, '+c+'; feminino')
 vm={1:'mostrador perolado azul, prateado',2:'mostrador perolado branco, bicolor (30 mm, 8,3 mm, safira, quartzo Ronda 763, 50 m)',3:'mostrador perolado verde, bicolor',4:'mostrador perolado branco, bicolor rosé',5:'mostrador perolado branco, dourado'}
 for n,c in vm.items():
@@ -69,12 +69,12 @@ for n,(c,f) in jm.items():
 ad={1:('mostrador perolado azul, prateado','co210.01-477804.png'),2:('mostrador perolado branco, prateado','co210.02-648468.png'),3:('mostrador perolado verde, prateado','co210.03-495025.png'),4:('mostrador perolado branco, bicolor dourado','co210.04-766349.png'),5:('mostrador perolado branco, bicolor rosé','co210.05-181815.png')}
 for n,(c,f) in ad.items():
     add('Andara Diamond',f'Co210.{n:02d}',O+f,'Aço com diamantes, '+c+'; feminino')
-vc={1:('mostrador preto, prateado','Co207.01-330458.png'),2:('mostrador de madrepérola branca, prateado',None),3:('mostrador de madrepérola branca, dourado',None),4:('mostrador verde, dourado',None),5:('mostrador de madrepérola branca, pulseira de couro marrom','co207.05-875339.png'),6:('mostrador de madrepérola branca, prateado, pulseira de couro','co207.06-453741.png'),7:('mostrador de madrepérola branca, dourado, pulseira de couro','co207.07-590088.png'),8:('mostrador verde, pulseira de couro verde','co207.08-770071.png')}
+vc={1:('mostrador de madrepérola preta com cristais, prateado','Co207.01-330458.png'),2:('mostrador de madrepérola branca, prateado',None),3:('mostrador de madrepérola branca, dourado',None),4:('mostrador verde, dourado',None),5:('mostrador de madrepérola branca, pulseira de couro marrom','co207.05-875339.png'),6:('mostrador de madrepérola branca, prateado, pulseira de couro','co207.06-453741.png'),7:('mostrador de madrepérola branca, dourado, pulseira de couro','co207.07-590088.png'),8:('mostrador verde, pulseira de couro verde','co207.08-770071.png')}
 hv={2:'co207-02-cover-valentina-chrono-mother-of-pearl-watch-white-silver',3:'co207-03-cover-valentina-chrono-mother-of-pearl-watch-white-gold',4:'co207-04-cover-valentina-chrono-mother-of-pearl-watch-green-gold'}
 for n,(c,f) in vc.items():
     img=O+f if f else P+hv[n]
     add('Valentina Chrono',f'Co207.{n:02d}',img,'Aço, cronógrafo, '+c+'; feminino'+('' if n in (2,3,4,5) else '; referência deduzida da foto da listagem'))
-sd={1:('todo prateado (28 mm, 7 mm, vidro mineral K1 com camada de safira, quartzo Ronda 763, 50 m)',None),2:('mostrador azul, prateado','co203.02-651552.png'),3:('mostrador prata, bicolor',None),4:('mostrador verde, bicolor prata/dourado','co203.04-601105.png'),5:('mostrador prata, bicolor',None),6:('mostrador azul, bicolor prata/rosé','co203.06-185372.png'),7:('mostrador rosa, prateado','co203.07-946349.png'),8:('mostrador azul-claro, prateado','co203.08-200278.png')}
+sd={1:('todo prateado (28 mm, 7 mm, vidro mineral K1 com camada de safira, quartzo Ronda 763, 50 m)','Co203.01-559456.png'),2:('mostrador azul, prateado','co203.02-651552.png'),3:('mostrador prata, bicolor prata/dourado','co203.03-227144.png'),4:('mostrador verde, bicolor prata/dourado','co203.04-601105.png'),5:('mostrador prata raiado, bicolor prata/rosé','co203.05-304093.png'),6:('mostrador azul, bicolor prata/rosé','co203.06-185372.png'),7:('mostrador rosa, prateado','co203.07-946349.png'),8:('mostrador azul-claro, prateado','co203.08-200278.png')}
 for n,(c,f) in sd.items():
     img=O+f if f else (A.format(f'CO203-{n:02d}') if n in (1,3) else P+'co203-05-cover-sandara')
     add('Sandara Crystal',f'Co203.{n:02d}',img,'Aço com cristais, '+c+'; feminino')
@@ -84,7 +84,7 @@ for n,(c,f) in ldo.items():
 ar={1:'mostrador preto, pulseira de aço',2:'mostrador azul, pulseira de aço',3:'mostrador areia ("dune"), pulseira de aço',4:'mostrador preto, pulseira de couro',5:'mostrador azul, pulseira de couro',6:'mostrador areia, pulseira de couro',7:'mostrador bordô, pulseira de couro'}
 for n,c in ar.items():
     r=f'CoA225.{n:02d}'
-    img=O+r+'.jpg' if n in (3,4,5,6,7) else P+f'coa225-{n:02d}-cover-arena'
+    img=O+r+'.jpg'
     add('Arena Automatic',r,img,'Automático, aço, '+c)
 lv={1:('mostrador prata, bicolor prata/dourado','COVER_Lovis_Square_Watch_Silver_Dial_Bicolor_Gold_Co229.01.jpg'),2:('mostrador verde-claro, bicolor prata/dourado','Co229.02COVER_Lovis_Square_Watch_Light_Green_Dial_Bicolor_Gold_Co229.02.jpg'),3:('mostrador prata, bicolor prata/rosé','COVER_Lovis_Square_Watch_Silver_Dial_Bicolor_Rosegold_Co229.03.jpg'),4:('mostrador prata, dourado','COVER_Lovis_Square_Watch_Silver_Dial_Gold_Co229.04.jpg'),5:('mostrador verde, dourado',None),6:('todo dourado','COVER_Lovis_Square_Watch_Full_Gold_Co229.06.jpg')}
 for n,(c,f) in lv.items():
