@@ -20,3 +20,4 @@ Super-Automatic 1940s; Aquamedico (ouro, corda manual 1950s); Nivada Grenchen Wa
 ## Fim da 1ª passada (16:30 UTC): 3 fontes seguidas sem novidade (EBTH, eBay.de, eBay.com itens). VERMELHA: catálogo moderno (CN/CC/CA/CR…) tem centenas de códigos; eBay mostra 841 anúncios só numa categoria; site oficial esconde páginas 2+ (all, ladies, types) e muitos produtos despublicados; Chronomaster vintage com muitas variantes de mostrador.
 ## 2ª passada: alvo = códigos modernos com foto (Google Imagens/busca por código), §2c com termos novos, buscas extras do §3, anúncios Croton 1878/aniversário, lojas não usadas.
 ## 2ª passada encerrada (15 fontes, muitos novos ≥5) → 3ª passada (16:32).
+## 3ª passada encerrada: 3 fontes seguidas sem novidade (eBay.de itens).

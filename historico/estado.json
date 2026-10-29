@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 338,
-  "ultima_versao": 297,
+  "proxima_linha_marcas": 339,
+  "ultima_versao": 298,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4631,6 +4631,26 @@
       },
       "versao": 297,
       "obs": "Marca alemã de Juri Schob (Herrsching/Munique), mergulhadores Prototype 1/2/3. Catálogo fechado conferido: página oficial 'current models' lista 11 referências (PR-02W/B/V; PR-03MB/MV/MG/GB/GG/V/PVD/PVD-V) + Prototype 1 (2011, sem código); OceanicTime confirma 6 versões no lançamento do P3 + 2 PVD em 2020. Chrono24, Montredo (fichas), eBay, WatchPatrol, uhrforum, Facebook não abriram. Firecrawl sem créditos. Croton (338) é GRANDE (marca de 1878 com dezenas de referências vintage) → próxima execução sozinha; Crude (339) depois."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Croton"
+      ],
+      "linha_marcas": 338,
+      "linhas_relogios": "55652-56077",
+      "relogios": 426,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 192,
+      "passadas": {
+        "1": 166,
+        "2": 15,
+        "3": 11
+      },
+      "versao": 298,
+      "obs": "Site oficial crotonwatch.com (Shopify; G vazio) abriu, mas páginas 2+ e muitos produtos despublicados não; ~22 buscas site:/products. Vintage (Chronomaster Aviator Sea Diver refs 105/106/107/9870/9839/394-1/903011/953011 etc., Aquamatic, Antarctic, Aquamedico, Depthmaster, Wanderer, Colorama, Skymaster) por Craft & Tailored, Analog Shift, Watch Preserve, 1stDibs, Chronopedia, leilões. Moderno por páginas de categoria do eBay (muito produtivas) e lista de 52 códigos do ManualsLib (sem foto). 96 linhas com link no lugar da foto. Vermelha: catálogo moderno tem centenas de códigos. Firecrawl sem créditos. EveryWatch fechado ('Only Collectors')."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

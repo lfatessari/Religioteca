@@ -1,0 +1,972 @@
+{
+ "marca": "Croton",
+ "usa_codigos": true,
+ "logo": "https://www.crotonwatch.com/cdn/shop/files/Logo_1_9bdc698d-cce9-416a-a128-43f87d46ee0f.png?v=1630541574",
+ "site_bloqueado": "Parcial – crotonwatch.com: páginas 2+ das coleções e dezenas de produtos despublicados não abrem para leitura automática; revisitar com navegador",
+ "observacoes": "G vazio: site oficial crotonwatch.com. H vazio. I: fundação 1878 (jornais de 1963/1978 citam o suíço Jacob Horton em Nova York; o site fala em raízes em Crotone, Itália, e NY desde 1928); sede mudou para Croton-on-Hudson em 1963 e a empresa foi vendida em 1991 à Nationwide Time (NJ); parceria com a Nivada desde 1939. E vazio. J ok (Aquamatic, Chronomaster, Imperial achados).",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://delraywatch.com/croton",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/crotons-mens-stainless-steel-watch-with-diamond-markers",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/all",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/mens",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/ladies",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/chronomaster",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/men-s-black-limited-edition-sea-diver-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/croton/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/croton-watch-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://craftandtailored.com/products/1970s-croton-chronomaster-aviator-sea-diver-ref-106-yachting",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-croton-aviator-sea-diver-chronograph-ref-9870",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/croton-aviator-sea-diver-chronograph-ref-107-yachting",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://craftandtailored.com/products/1960s-croton-chronomaster-aviator-sea-diver-ref-105-valjoux-cal-93",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-croton-106-chronomaster-ref-903011-paul-newman",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-croton-106a-chronograph-ref-953011-paul-newman",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/croton-chronomaster-aviator-sea-diver-ref-394-1-w-papers",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/140th-limited-edition-anniversary-tourbillon-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-imperial-all-stainless-steel-skeleton-automatic-with-leather-strap-and-free-watch-winder",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-imperial-watch-with-goldtone-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-silvertone-stainless-automatic-with-ying-yang-design-and-leather-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-all-stainless-steel-two-tone-automatic-with-magnified-date-black-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-stainless-two-tone-floating-crystal-watch-with-black-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-emerald-colored-crystals-spinning-dial-watch-with-leather-strap-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-stainless-silvertone-floating-crystal-watch-with-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-topaz-colored-crystals-spinning-dial-watch-with-leather-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-silvertone-swiss-parts-bracelet-watch-with-square-cz-pave-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-silvertone-three-rope-cuff-watch-with-mother-of-pearl-dial-crystal-bezel-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-japan-quartz-black-ceramic-stainless-steel-dress-watch-with-day-date-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-japan-quartz-all-stainless-steel-gray-dial-bracelet-dress-watch-with-date-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/men-s-swiss-movement-all-stainless-steel-with-black-mother-of-pearl-dial-and-diamond-markers",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-silvertone-mosaic-mother-of-pearl-dial-crystal-baguette-bracelet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/croton-men-s-rosetone-limited-edition-sea-diver-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-swiss-movement-two-tone-watch-with-1-kt-diamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-two-tone-2017-silver-dollar-coin-watch-with-goldtone-case-leather-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/cintra-preorder",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-silvertone-all-stainless-japan-quartz-strap-watch-with-date-seconds-sub-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-silvertone-two-time-zone-automatic-quartz-with-day-date-and-black-dials",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/croton-ladies-balliamo-silvertone-quartz-strap-watch-with-square-austrian-crystals",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/croton-ladies-balliamo-birthstone-watch-with-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/croton-mens-circuit-breaker-swiss-quartz-see-through-dial-watch",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-swiss-parts-dress-watch-with-green-dial-and-leather-strap",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-all-stainless-22-jewel-swiss-automtaic-with-black-dial-and-purple-accents",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/mens-all-stainless-steel-day-date-chronograph-with-blackdial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/croton-mens-industrial-stainless-multi-function-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-all-stainless-steel-goldtone-mesh-bracelet-watch-with-silver-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-goldtone-swiss-parts-bracelet-watch-with-square-cz-pave-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/croton-womens-quartz-crystal-accented-beveled-bracelet-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-silvertone-bolero-cz-watch-and-bracelet-set",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-stainless-silvertone-floating-crystal-watch-with-black-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/copy-of-mens-ultra-thin-black-swiss-parts-dress-watch-with-black-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/copy-of-mens-ultra-thin-goldtone-swiss-parts-dress-watch-with-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/copy-of-mens-ultra-thin-silvertone-swiss-parts-dress-watch-with-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/croton-mens-vortex-stainless-quartz-watch-with-black-silicon-strap",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.crotonwatch.com/products/ladies-quartz-crystal-crocodile-bangle-watch-with-mother-of-pearl-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/affordable-vintage-croton-chronomaster/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Croton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronopedia.club/Croton_Nivada_Grenchen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronopedia.club/Croton_Nivada_Grenchen_-_Flat_Top_Lug_Antarctic_Models_1954-64",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://chronopedia.club/Croton_Nivada_Grenchen_Aquamatic_61T_360EL",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Croton_Aquamatic_Black_Dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://grailium.com/product/watch/croton-nivada-depthmaster-ref-9864-diver-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Croton_Nivada_Grenchen_Aquamatic_81C_360EL",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/0-inventory/products/croton-reliance-as10839",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/croton-nivada-grenchen-colorama-as10822",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/croton-skymaster-chronograph-as02319",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/croton-aquamatic-as10823",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/croton-nivada-grenchen-aquamatic-as11843",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/croton-chronomaster-aviator-sea-diver-as02321",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/croton-nivada-grenchen-chronomaster-aviator-sea-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/nivada-grenchen-wanderer-alarm-as09838",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/croton-nivada-grenchen",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/croton-chronomaster",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/croton-yellow-gold-aquamedico-original-dial-manual-wind-watch-1950s/id-j_16043692",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/croton/?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/all/products/croton-cn307423-imperial-tourbillion-mens-automatic-wristwatch-usa-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-croton-nivada-grenchen-aviator-seadiver-mens-chronograph-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/wrist-watches/products/vintage-croton-109a-mens-chronograph-wristwatch-landeron-248-steel-w-gray-sub?_pos=169&_fid=69cf4dd6e&_ss=c",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-croton-fancy-lugs-mens-mechanical-wristwatch-c2116-steel-10k-rgp",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-33mm-croton-marshall-university-mens-mechanical-wristwatch-as-1809",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-croton-6e-s-c-aquamatic-mens-automatic-wristwatch-swiss-10k-rgp-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-croton-nivada-grenchen-antartic-mens-automatic-wristwatch-e3ec-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-croton-aviator-sea-diver-chronograph-ref-106-903006",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/croton-aviator-sea-diver-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/croton-aviator-sea-diver-chronograph-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1960s-croton-chronomaster-aviator-sea-diver-ref-105-9865-valjoux-cal-92",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/tropical-1950s-croton-chronomaster-aviator-sea-diver-ref-105",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/croton-watch-co/watch-1872040",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iconeek.com/crotonchronomasteraviator/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/325304432736",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/croton-stahl-superautomatic-art-deco-uhr-mit-original-zifferblatt-1940er-jahre/id-j_23804092",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/153789751969",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/335885384816",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/166856934008",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/193865964767",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/193563238894",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/173250523444",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/22042258079",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/p/5055256688",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/143744468051",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/shophq-11-23",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/best-selling",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/types?page=3&q=watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/types?q=watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.crotonwatch.com/collections/all?page=3",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.crotonwatch.com/pages/world-of-croton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wannabuyawatch.com/maker/croton/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/croton-divers-alarm-ref-9877-circa-1960s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/croton-oversized-divers-chronograph-circa-1960s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/croton-divers-model-circa-1960s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/croton-aquamatic-stainless-steel-circa-1950s/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/market/croton_watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/croton/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.velvetboxsociety.com/croton.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/146362288974",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/itm/333659367680",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/croton-j178898-mens-diver-style-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/a-spendy-skeleton",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/186761056812",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeanagram.com/products/19069",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/croton/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/brand/croton/watch.html",
+   "passada": 1,
+   "novos": 52
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2019/important-watches-ge1901/lot.128.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uhren-muser.de/en/catalogue/55601",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.monacolegendauctions.com/auction/rare-watches-fine-jewels-modern-art-8/lot-429",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jewelry.ha.com/itm/timepieces/croton-steel-chronograph-valjoux-cal-7736-double-boxed-circa-1960-s/a/5526-54057.s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://nivadagrenchenofficial.com/pages/the-book",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loveantiques.com/items/listings/gents-croton-wrist-watch-c1960-LA464349",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/croton-stainless-steel-antarctic-wristwatch-circa-1960s/id-j_3408753",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Nivada",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://riverjournalonline.com/business/a-tale-of-two-villages-croton-watch-company/23762/amp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://electric-watches.co.uk/makers/croton/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wornandwound.com/gallery-croton-chronomaster-aviator-seadiver/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/croton-aquamatic-as01127",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/croton-aquamatic-as03931",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/watches-under-5000/products/croton-chronomaster-aviator-sea-diver-as11840",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/0-inventory/products/croton-chronomaster-aviator-sea-diver-as08829",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/0-inventory/products/croton-chronomaster-aviator-sea-diver-as10945",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105274262-croton-cronomaster-aviator-sea-diver-ref-107-men-1960-1969",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/ebay-finds-croton-chronomaster-sea-diver-aviator-chronograph-movado-sub-sea-kingmatic-and-more/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/croton-stainless-steel-chronomaster-aviator-sea-diver-manual-wristwatch-c-1960s/id-j_4552033",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thingtesting.com/brands/croton-group/products",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ubuy.co.nl/en/brand/croton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/croton-triple-register-chronograph-as03413",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jckonline.com/?p=37691",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-watches-2500-below/products/croton-14k-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfid.com/nivada-grenchen-sa/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iconeek.com/crotonnivadagrenchen/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/a-brief-history-of-time-nivada-grenchens-complete-brand-history/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/tbt-croton-skymaster-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.douban.com/note/75036804",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://trademark.justia.com/owners/croton-watch-co-inc-2488029",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Mechanical-Automatic-Wristwatches/31387/bn_56285602",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Stainless-Steel-Band-Wristwatches/31387/bn_2961172",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Men-Wristwatches-with-Vintage/31387/bn_7113454140",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Watches/31387/bn_1849144",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Men-Sport-Wristwatches/31387/bn_7112210103",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Stainless-Steel-Men-Analog-Wristwatches/31387/bn_56310242",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Sports-Wristwatches/31387/bn_2998315",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.com/shop/croton-watches-prices?_nkw=croton+watches+prices",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Open-Face-Pocket-Watch-Pocket-Watches-with-Vintage/3937/bn_69290449",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Men-Stainless-Steel-Case-Wristwatches/31387/bn_56318427",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Wristwatches-with-Chronograph/31387/bn_7113408443",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.ebth.com/items/12667307-two-croton-quartz-wristwatches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/285934041481",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/226906970762",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.macys.com/shop/featured/croton-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/croton-cr307817ssdw-po.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/800547383590",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/croton-cr307996-black-diamond-date-mens-quartz-wristwatch-swiss-made",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.watchgang.com/products/pietra-ladies-quartz-mother-of-pearl-dial-watch-with-crystal-bezel-cn207514grma",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timeanagram.com/products/19416",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://artmosphereinternational.com/uncovering-the-fascinating-history-of-croton-watches-from-humble-beginnings-to-iconic-timepieces/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/375630773456",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/252736666345",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://community.qvc.com/t5/Jewelry/WATCH-COLLECTORS-APRIL-2017/td-p/3652629/page/8",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/itm/297548443642",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.finn.no/439193275",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Quartz-Luxury-Wristwatches/31387/bn_80612781",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Diamond-Accent-Wristwatches/31387/bn_7113556580",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.etsy.com/market/womens_croton_watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Quartz-Stainless-Steel-Band-Wristwatches/31387/bn_56311978",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.com/b/Croton-Men-Diamond-Accent-Wristwatches/31387/bn_7113794355",
+   "passada": 3,
+   "novos": 8
+  },
+  {
+   "url": "https://www.etsy.com/market/croton_vintage_ladies_watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-croton-c2449-veri-thin-17j-mens-mechanical-wristwatch-n35-swiss-steel",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/325614019178",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/205751786219",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/297357593154",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/266495655735",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/226558344771",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/336018701552",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/222153243465",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
