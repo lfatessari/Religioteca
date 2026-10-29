@@ -17,3 +17,5 @@
 - Parou: 3 fontes seguidas sem novidade (worldtempus, ebay TCDD 739, watchprosite).
 - VERMELHA: eBay mostra ~887 anúncios (1.286 no .ch), centenas de vintage sem nome/ref; linha moderna (CB-30xx) com muitas cores/sufixos não listáveis um a um.
 - 2ª passada: foco em variantes modernas CB-30xx, refs vintage (8xxx), relógios de bolso TCDD/ferroviários, WorthPoint/PicClick/Japão/Turquia, leilões.
+- in-vendita 'orologio-cortebert': pistas Electronic 350 (Hiko/UFO), DX282G, 'Bloc' anos 50.
+- pistas: Electronic 350 (Hiko), Treasury Automatic, chrono ref 1006, Potez Panda white, Speciale pocket, Viking Sport/Viking Tank, Bloc.
