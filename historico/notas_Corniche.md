@@ -18,3 +18,7 @@
 - Heritage 40 Tuxedo LE 250 (2014) — e Mistral 40 Tuxedo LE 50 (2013). H40 base 3 modelos €295 (2014) + Graphite (2015) => "cinco versões".
 - Mon Coeur chrono: RG, chocolate sunburst, exclusivo One Fifty Five (Tailândia), 2024.
 - Bluebird LE 300 (eBay title). theme pages: heritage-bleu-ardoise-chronograph.html, chronograph_rose_gold.html ainda não abertas.
+- Klassy (busca site:): Noir Blanc, 1945 LE, Courchevel LE, Obscure II, L'Heure d'Or, Bluebird LE, Demande Spéciale V, Chrono SS cream, SS black, RG cream, YG green, H40 RG black dial, H36 RG taupe/SS taupe, LGC Verte Olive, LGC SS blue. Páginas de produto da Klassy dão client_error.
+- Refs (lojas/eBay): CRN002A H40; CRN002R H40 Roquebrune(?)/RG black; CRN002J H40 YG green; CRN004A H36 SS white; CRN0020A Courchevel chrono LE200 azul; CRN016A Heritage Chrono; CRN0025A chrono LE300 azul (Bluebird?); CRN0028A Demande Spéciale LE200; CRN0030A La Grande auto; CRN0042A chrono LE300; CW-H-PLM Paloma; CW-H36-SWB.
+- Novos: Heritage 40 C1 Midnight Blue Cercle d'Acier; Ciel Nocturne II MOP LE150; H40 RG blue dial; H40 YG green; H40 black; Mistral 40.
+- eBay img: trocar s-l140 por s-l1600.
