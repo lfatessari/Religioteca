@@ -1,0 +1,917 @@
+{
+ "marca": "Corum",
+ "usa_codigos": true,
+ "logo": "https://r2.watchonista.com/app/uploads/Corum-logo-watchonista.webp",
+ "site_bloqueado": "Site bloqueado – corum-watches.com (client_error em home, coleções e fichas; só os títulos das fichas aparecem na busca) e press.corum-watches.com (parcial: poucos artigos abriram); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I: diz que pertence ao grupo China Haidian/Citychamp — desatualizado: em 2025 a Corum voltou a ser 100% suíça (compra pela gestão, liderada por Haso Mehmedovic). I: o Admiral's Cup de 1960 tinha caixa quadrada; o mostrador dodecagonal com flâmulas náuticas é de 1983. I: '[⚠️ verificar]' — dados centrais conferidos (fundação 1955 por René Bannwart e Gaston Ries; Golden Bridge 1980; Coin Watch 1964; Bubble 2000). G: corum-watches.com está certo, mas o site não abre para leitura automática. J: faltam linhas importantes como Romvlvs, Heritage, Ti-Bridge, Buckingham, Rolls-Royce, Tabogan e LAB 02; nova coleção 2026: Admiral 39/36 com calibre próprio CO231.",
+ "fontes": [
+  {
+   "url": "https://delraywatch.com/corum-1/",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/corum",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxurybazaar.com/brands/corum/watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/corum/heritage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.cortinawatch.com/collections/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/corum/jewelry/watches/wrist-watches",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/corum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.secondmovement.com/watches/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/mens-corum-watches/case-width-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum-allwatches",
+   "passada": 1,
+   "novos": 349
+  },
+  {
+   "url": "https://watchbase.com/corum/bubble",
+   "passada": 1,
+   "novos": 39
+  },
+  {
+   "url": "https://watchbase.com/corum",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gressive.jp/brand/corum/catalog/151006",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/corum",
+   "passada": 1,
+   "novos": 51
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/corum-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/corum",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/corum/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/catalog/corum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-corum-watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/corum/admiral-s-cup/lpi",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/corum/corum-other-model/lpi",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/corum/coin-watch/lpi",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.watchmaxx.com/corum-watch-a411-04174",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dialicious.com/en/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/corum_w/corum_wwatches_a.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/us/buy/corum",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://goldentreejewellers.com/corum-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/brands/corum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/artists/corum",
+   "passada": 1,
+   "novos": 34
+  },
+  {
+   "url": "https://phillips.com/artist/9297/corum",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/corum/?page=2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.watchonista.com/articles/novelties/comeback-corum-returns-new-interpretations-its-core-collections",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2026/04/04/corum-relaunches-with-new-ownership-and-2026-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/sports-watch/corum-admiral-ceramic-2026",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/first-admiral-all-ceramic-three-new-creations-unveiled-geneva-watch-days-2026-corum-83165.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchilove.com/2026/04/corum-reloaded-the-key-turns-again-in-la-chaux-de-fonds/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.collectorsquare.com/montres/corum/bubble/lpi",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://majestixcollection.com/brands/corum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/es/relojes/corum/haute-joaillerie/lpi",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/corum-ref-13150-golden-bridge-lot-346-75",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://press.corum-watches.com/2023/01/11/corum-and-label-noir-create-a-unique-bubble/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://press.corum-watches.com/category/the-collection/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://press.corum-watches.com/2024/03/26/celestial-splendor-and-elegance-corum-redefines-excellence-with-its-admiral-novelties/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://press.corum-watches.com/history/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bqwatches.com/product-category/corum",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hourstriker.com/database/corum-main-catalog-chinese-hat-237101690081-pn01-24785",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hourstriker.com/database/corum/main-catalog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/358-ti-bridge.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/tourbillon-classical/566-golden-tourbillon-panoramique-grey-sapphire.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-legend/4732-admirals-cup-legend-42-meteorite-dual-time.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-challenger/1434-admirals-cup-challenger-44-chrono-split-second.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup/363-admirals-cup-challenge-44-black-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-legend/3414-admirals-cup-legend-42-tourbillon-micro-rotor.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/admirals-cup-challenger/2732-admirals-cup-challenger-40-chrono-diamonds.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-legend/4176-admirals-cup-legend-42.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/admirals-cup-legend/3838-admirals-cup-legend-38-fiancee.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/126-corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/126-corum?p=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/heritage/5298-bubble-squelette.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/heritage/5296-bubble-vintage.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/heritage/5297-bubble-all-black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/563-black-ti-bridge.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/1206-ti-bridge-tourbillon.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/1204-golden-brigde-tourbillon.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/4693-golden-bridge.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/1566-golden-bridge-automatic.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/4628-golden-bridge-ceramic.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/corum-bridges/294-golden-bridge-lady.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/2024-golden-bridge-tourbillon-avec-pont-saphir.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/565-golden-bridge-black-titanium.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/637-golden-bridge-titanium.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/romvlvs/567-romvlvs-tourbillon.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/vintage/2414-grand-precis.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/vintage/4295-charge-daffaires.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-legend/3413-admirals-cup-legend-42-chrono.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-seafender/1873-admirals-cup-seafender-46-dive.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-seafender/1202-admirals-cup-seafender-48-deep-dive.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup/4767-admirals-cup-ac-one-45-chronograph.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-seafender/2078-admirals-cup-seafender-48-chrono-bol-dor-mirabaud.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-seafender/1420-admirals-cup-seafender-44-chrono-centro.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup/4769-admirals-cup-ac-one-45-regatta.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-seafender/359-admirals-cup-seafender-50-chrono-lhs.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/4387-ti-bridge-automatic-dual-winder.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-legend/4244-admirals-cup-legend-46-minute-repeater-acoustica.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-legend/3412-admirals-cup-legend-42-annual-calendar.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-challenger/1435-admirals-cup-challenger-44-chrono.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-challenger/4178-admirals-cup-challenger-44-chrono-rubber.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup/626-admirals-cup-black-hull-48.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup/2736-admirals-cup-45-minute-repeater-tourbillon.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/200-corum",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/corum-bridges/4694-golden-bridge-miss.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/admirals-cup/1405-admirals-cup-black-chronograph-40.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/admirals-cup/4207-admirals-cup-44-chrono-centro-didier-cuche.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/admirals-cup-legend/4603-admirals-cup-legend-38-chronograph.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/corum-bridges/932-miss-golden-bridge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/women/admirals-cup-challenger/295-admirals-cup-challenger-40-chrono-diamonds.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/3415-ti-bridge-power-reserve.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/corum-bridges/1935-ti-bridge-power-reserve.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-seafender/1874-admirals-cup-seafender-46-chrono-dive.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup-seafender/2412-admirals-cup-seafender-47-tourbillon-gmt.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/admirals-cup/1208-admirals-cup-chronograh-48-grand-prix-corum.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/259-admirals-cup",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.my-watchsite.com/345-corum-bridges",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.grayandsons.com/fine-watches/other-watches-brands/corum-watches-for-sale/?p=1",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://watchexchange.sg/watches/corum",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/corum-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/collections/vintage-pre-owned-corum-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.grayandsons.com/sitemap/fine-watches/other-watches-brands/corum-watches-for-sale/",
+   "passada": 1,
+   "novos": 83
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Corum_(watchmakers)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/corum-is-making-a-swiss-owned-comeback/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cortinawatch.com/en/corum/bubble/082-320-98-0601-sx01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/corum/tabogan/lpi",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://h.senatus.net/article/corum-bubble-gaming-limited-editions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/corum/golden-bridge/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/corum/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.cortinawatch.com/my/en/corum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/corum/admiral/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/corum/lab/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.cortinawatch.com/my/en/corum/admiral/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/corum/heritage/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/corum/bubble/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/corum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/corum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://awco.nl/shop/archive/a-corum/corum-buckingham-18k/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/corum-heritage-vintage-ingot-gold-standard/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/corum-heritage-artisans-coin-watch-hobo-updating-a-classic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/corum-bubble-47-flying-tourbillon-skull/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/corum-bubble-shark-mono-pusher-chronograph-hands-on-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/heritage-corum-lab-01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/news-corum-is-back-with-the-revamped-admiral-39-powered-by-a-proprietary-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/gold-watches/corum-heritage-coin-50-US-states",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.com/wristwatch-industry-news/watches/bridge-to-yesterday-corum-golden-bridge-rectangle-limited-editions-mark-40th-anniversary/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://deployant.com/new-corum-concept-watch-2023/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/corum-golden-bridge-rectangle-40th-anniversary-editions-introudcing/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/golden-bridge-round-43-art-deco/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=46833",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2021/06/corum-10-years-golden-bridge-automatic.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/shop/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wilson55.com/watches/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bonhams.com/auction/25281/lot/1142/corum-a-rare-limited-edition-pink-gold-coin-wristwatch-made-for-the-25th-anniversary-1964-1989-with-box-and-certificate",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/collections/vintage-corum-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.invaluable.com/mens-corum-watches/sc-FWFRVPJI83/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://timeanagram.com/products/corum-feather-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.demesy.com/collections/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/corum/goldenbridge/lpi",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://analogshift.com/products/corum-romvlvs-chronograph-as04664",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/corum-rolls-royce-spirit-of-ecstasy-as09281",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/corum-buckingham-as07458",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/corum-pheasant-feather-dial-watch-as09847",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/corum-reserve-de-march-as09554",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ubuy.hk/zh/brand/corum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/corum/watch-32492725",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/corum/?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/pre-owned-watches/corum.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://secondmovement.com/corum-admiral-753-231-06-0371-an12g17a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpress.com/features/corum-re-issues-for-2010-the-golden-tube-the-chinese-hat-and-the-round-golden-bridge",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/magazine/watch-galleries/1004082841-vintage-golden-tube-by-corum.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/corum/bubble-lucifer/lpi",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Corum/Bubble/Special-Editions-Steel",
+   "passada": 2,
+   "novos": 31
+  },
+  {
+   "url": "https://iwmagazine.com/tag/bubble",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchswiss.com/pre-owned-watches/pre-owned-corum-watches/pre-owned-corum-bubble-lucifer-collector-series-no-513-666",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://press.corum-watches.com/admiral/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Golden-Bridge",
+   "passada": 2,
+   "novos": 69
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Classic",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Bubble",
+   "passada": 2,
+   "novos": 16
+  },
+  {
+   "url": "https://essential-watches.com/Corum/Heritage",
+   "passada": 2,
+   "novos": 11
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Vintage",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Gold-Coin-Watch",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://essential-watches.com/Corum/Ti-Bridge",
+   "passada": 3,
+   "novos": 12
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Square-Bubble",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Corum/Debutante-Ladies/Stainless-Steel",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Bubble-Automatic",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Admirals-Cup/44mm-Rose-Gold",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Admirals-Cup/40mm-Steel",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://essential-watches.com/Corum/Admirals-Cup/Chronograph-48mm-Rose-Gold",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Romvlvs/Dual-Time",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Corum/Admirals-Cup/Chronograph-44mm-Steel",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.essential-watches.com/Corum/Golden-Bridge/Platinum",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

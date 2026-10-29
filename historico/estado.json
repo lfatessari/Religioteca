@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 327,
-  "ultima_versao": 286,
+  "proxima_linha_marcas": 328,
+  "ultima_versao": 287,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4428,6 +4428,25 @@
       "versao": 286,
       "grande": true,
       "obs": "130 refs da linha moderna Cortebert 1790 (cortebert1790.com, achado só na 3ª passada) + 71 vintage/bolso; Firecrawl sem créditos; EveryWatch exige login"
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Corum"
+      ],
+      "linha_marcas": 327,
+      "linhas_relogios": "52837-54014",
+      "relogios": 1178,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 181,
+      "passadas": {
+        "1": 157,
+        "2": 13,
+        "3": 11
+      },
+      "obs": "Firecrawl sem créditos; site oficial client_error; ~85% das linhas com link de página na coluna C (sem foto direta)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
