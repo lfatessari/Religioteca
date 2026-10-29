@@ -4724,7 +4724,7 @@
   "Cuervo y Sobrinos (linha 342)": "Já tem 2 linhas ANTIGAS em Relógios (linhas 2-3, bloco antigo do início). O gravar_marca.py, ao ver linhas existentes, reescreveria tudo a partir da linha 2 (e a contiguidade falharia). Gravar o bloco novo no FIM da aba sem mexer nas 2 antigas (como Akrone/Alcadus), p.ex. rodando o script numa cópia em que as linhas 2-3 tenham a coluna A temporariamente trocada e restaurando-as depois, conferindo por snapshot; e não repetir nomes das 2 antigas."
  },
  "em_execucao": "2026-10-29T19:43:37Z",
- "ultimo_sinal": "2026-10-29T19:43:37Z",
+ "ultimo_sinal": "2026-10-29T19:49:09Z",
  "em_andamento": {
   "marcas": [
    "Cuervo y Sobrinos"
@@ -4734,7 +4734,9 @@
   "relogios": "historico/parcial_cuervo_relogios.txt",
   "fontes": "historico/parcial_cuervo_fontes.txt",
   "notas": "historico/notas_cuervo.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
