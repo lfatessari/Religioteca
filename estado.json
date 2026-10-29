@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 322,
-  "ultima_versao": 283,
+  "proxima_linha_marcas": 325,
+  "ultima_versao": 284,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4366,6 +4366,42 @@
       "fontes": 41,
       "versao": 283,
       "obs": "marca grande (783 anúncios no eBay); sem site oficial; 3 passadas (20/11/10 fontes); Amazon bloqueada (modelos com código pelo título da busca); Firecrawl sem créditos; Cornehl adiada"
+    },
+    {
+      "data": "2026-10-29",
+      "marca": "Cornehl",
+      "linha_marcas": 322,
+      "linhas_relogios": "52526-52530",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "versao": 284,
+      "obs": "ateliê de Steffen Cornehl (Stuttgart); site cornehl-watches.com não abriu (pede aprovação); Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-29",
+      "marca": "Cornelius & Cie",
+      "linha_marcas": 323,
+      "linhas_relogios": "52531-52536",
+      "relogios": 6,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "versao": 284,
+      "obs": "alta relojoaria gravada por Kees Engelbarts (c. 2008–2013); site extinto; descrição da aba Marcas parece de outra marca"
+    },
+    {
+      "data": "2026-10-29",
+      "marca": "Cornell",
+      "linha_marcas": 324,
+      "linhas_relogios": "52537-52541",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18,
+      "versao": 284,
+      "obs": "Cornell Watch Co. revivida (Chicago, 2021); relógios de bolso da original (1870s) não entraram"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4380,25 +4416,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T00:41:53Z",
-  "ultimo_sinal": "2026-10-29T00:56:26Z",
-  "em_andamento": {
-    "marcas": [
-      "Cornehl",
-      "Cornelius & Cie",
-      "Cornell"
-    ],
-    "linha_marcas": 322,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Cornehl: todas",
-      "Cornelius & Cie: todas",
-      "Cornell: todas; gravando"
-    ],
-    "passada": 1
   }
 }
