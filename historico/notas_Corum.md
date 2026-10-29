@@ -1,0 +1,7 @@
+# Corum (linha 327) — GRANDE (maison 1955, Citychamp)
+- usa códigos (antigos XX.XXX.XX + sufixos; novos A082/03224 com letra da linha: A Admiral, B Golden Bridge, L Bubble, C Coin/Heritage, Z Ti-Bridge...).
+- Site oficial corum-watches.com NÃO aparece em nenhuma busca (3 tentativas) → não aberto. Firecrawl SEM CRÉDITOS (erro "Insufficient credits") → não usado.
+- Fotos: Delray (bigcommerce) ok; essential-watches tem 349 refs mas foto só na ficha (rackcdn id_MAIN_n imprevisível) → C = link da ficha; add.py troca por foto se outra fonte trouxer.
+- Cortina shop: 24 produtos sem código (nomes guardados p/ buscar código): Admiral 42 Auto Black/Gold online exclusive LE; Admiral 42 white ceramic color splash (aço / bezel ouro rosa); Admiral 38 titânio diamantes; Admiral Chrono 45/38 PVD; Golden Bridge Miss; Golden Bridge Classic; Heritage Artisans Coin Zecca; Bubble 47 Dragon Eye; Bubble 47 Dragon; Admiral 38 malaquita/aventurina; Admiral 45 Openworked Luminescent Carbon; Golden Bridge Avant-Garde (2); Bubble X-Ray 47 skull.
+- 1stdibs títulos (sem link): Rolls Royce, Ingot 4550056, Antika 024.653.69, Clipper Club 49425, Trapeze Chrono 196.404.20, The Aston 57219, Golden Bridge LE B113/04069, Meteorite 50.450.65, Admiral's Cup Legend A984/03598, Wood Roman platinum.
+## Seções feitas: 1 (grande), 2 (oficial inacessível), 5 parcial (watchbase, watchpatrol, hourstriker)
