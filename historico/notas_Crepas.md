@@ -6,3 +6,4 @@
 ## Seções feitas
 - 2 site oficial feito (páginas de 22 de 23 modelos; Le Grand/Loggerhead/Banana/Aquamatic/Hydrographer páginas não vieram em busca; foto do menu)
 - Le Grand = primeiro modelo (2011); Tektite out/2011; Cayman 3000 out/2012; El Buzo projeto fórum RE 2011; Loggerhead 2018 (branco/preto/azul); Magnum Opus 2021 (3 versões x azul/preto); Hydrographer 2018 OceanicTime; Aquamatic Kickstarter 05/2024 (há 'Yellow Pumpkin'); Ocean Project Kickstarter 01/2025. Kickstarter/EveryWatch/watchcharts bloqueados. Firecrawl sem créditos.
+- títulos de busca extropian.co: Aquamatic Yellow Pumpkin/Grey Taupe/Blue; Megamatic azul big hands/azul big plongée/preto plongée (coroa às 9); Plongeur preto com data; Tornado All Sapphire preto; Engelsfish escovado; Magnum Opus 2824-2. Configurável (coroa 3/9, ponteiros, acabamento) -> candidata a vermelho.
