@@ -7,7 +7,8 @@ Uso: python3 baixar_fotos.py <planilha.xlsx> <pasta_fotos> [--minutos N] [--thre
 - Quando o link é uma página (e não a imagem), usa a foto de capa da página
   (og:image / twitter:image / JSON-LD).
 - <pasta_fotos>/manifest.json guarda o resultado de cada link, para nunca
-  baixar duas vezes. Falhas são tentadas de novo depois de 14 dias (até 3 vezes).
+  baixar duas vezes. Falhas passageiras (site ocupado, tempo esgotado) são
+  tentadas de novo depois de 6 horas; as outras, depois de 14 dias.
 - Para sozinho quando acaba o tempo (--minutos); a próxima execução continua.
 """
 import argparse, io, json, os, re, sys, threading, time
@@ -24,7 +25,9 @@ from comum import caminho_foto, links_da_planilha  # noqa: E402
 LADO = 400
 QUALIDADE = 72
 MENOR_ACEITO = 150          # fotos menores que isso costumam ser ícones ou logos
-REPETIR_APOS = 14 * 86400
+REPETIR_APOS = 14 * 86400   # erros permanentes (404, página sem foto...)
+REPETIR_TRANSITORIO = 6 * 3600  # bloqueio temporário, servidor fora do ar, tempo esgotado
+TRANSITORIOS = ("429", "500", "502", "503", "504", "Timeout", "ConnectionError", "SSLError", "ChunkedEncoding")
 MAX_TENTATIVAS = 3
 POR_SITE = 3                # downloads simultâneos no mesmo site
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -133,8 +136,12 @@ def main():
         m = manifest.get(u)
         if m and m.get("f") and os.path.exists(os.path.join(pasta_img, m["f"])):
             continue
-        if m and m.get("e") and (m.get("n", 1) >= MAX_TENTATIVAS or agora - m.get("t", 0) < REPETIR_APOS):
-            continue
+        if m and m.get("e"):
+            transitorio = any(t in m["e"] for t in TRANSITORIOS)
+            espera = REPETIR_TRANSITORIO if transitorio else REPETIR_APOS
+            limite_tent = MAX_TENTATIVAS + (3 if transitorio else 0)
+            if m.get("n", 1) >= limite_tent or agora - m.get("t", 0) < espera:
+                continue
         fila.append(u)
     # intercala sites diferentes para não martelar um só
     por_host = defaultdict(list)
