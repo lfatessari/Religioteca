@@ -15,3 +15,14 @@
 - my-watchsite.com: fichas por modelo (ref + foto large_default) — ótima fonte; achar fichas via busca site:my-watchsite.com corum <modelo>.
 - OBS aba Marcas (coluna M): I diz "Pertence ao grupo China Haidian/Citychamp" — desatualizado: desde 2025 a Corum voltou a 100% suíça (compra pela gestão liderada por Haso Mehmedovic, Wikipedia/WatchTime). I diz Admiral's Cup (1960) com bandeiras — o de 1960 era quadrado; as flâmulas náuticas vieram em 1983 (press.corum-watches.com/history). Site G corum-watches.com correto mas não abre para leitura automática.
 - Buracos: World Series of Poker (2007), Classical Skylight Skeleton, Bubble Baron Samedi (tem), Classical Vanitas, Tabogan, Golden Tube, Admiral's Cup quadrado 1960, Golden Book 1996.
+## 1ª passada encerrada (04:24): últimas 4 fontes sem novidade (ubuy.hk, everywatch listing (bloqueado p/ colecionadores), exquisitetimepieces .html, secondmovement ficha). depop client_error.
+- Bloqueados: corum-watches.com (client_error em tudo), press.corum-watches.com (parcial), watchcharts, chrono24 (client_error), luxois, watchbase admiral-s-cup (client_error na 2ª vez), aucfan (robots), masterhorologer (client_error), Firecrawl sem créditos.
+## 10b auditoria
+1. Blog/imprensa oficial: press site parcialmente (history, category/the-collection, Label Noir, Admiral 2024); demais artigos client_error.
+2. §2c site:corum-watches.com: ~10 buscas feitas, ~50 fichas.
+3. site:<loja>: Cortina, my-watchsite, Jura, gray&sons via sitemap.
+4. Primeiro modelo: 1956 primeiros relógios / 1957 Golden Tube / 1958 Chinese Hat (só reedição 2010 com ref) — Golden Tube e Admiral's Cup quadrado 1960 SEM linha (não achados com nome/foto) → 2ª passada.
+5. J: Golden Bridge, Admiral, Bubble, Coin Watch, Lab 01 — todos achados.
+6. LEs/colabs na B: sim; peças únicas na E.
+7. Fontes: ~160.
+- VERMELHO: sim — milhares de refs (essential 349 só de uma loja; Gray&Sons 270 anúncios; CollectorSquare 104+152+126 lotes por família, só ~40 visíveis por página), vintage 1955-1990 com centenas de peças sem nome, site oficial inacessível. 2ª passada: vintage nomeado (Golden Tube, Admiral's Cup 1960, Buckingham, Feather, Rolls-Royce variantes, Coin variantes de moedas), Bubble edições (Collectors Series), Admiral's Cup Competition/Trophy, Romvlvs, Classical.
