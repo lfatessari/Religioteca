@@ -5,3 +5,8 @@
 - Refs: formato CoNNN.NN (ex.: Co158.06 Trend Piedra), CoA10 (Watchmaker LE 200, 2015), 11ST1LBK (Eleven), CO140-S2LBK (eBay.de).
 ## Seções feitas
 ## Fontes
+- Fashionbi: fundada 1983, Solothurn, site coverwatches.com (não aparece em busca). Dona: Chrono AG (mesma da Swiss Military by Chrono), CEO Markus Ingold (2012). Valangin (Montreal) distribuidor América do Norte 2012.
+- Vietnã (thegioididong/dienmayxanh, robots): refs CoA9.01/.02, Co196.02/.03, Co189.02, Co123.09, Co171.07, Co188.01/.02, Co198.06, Co197.01, Co124.03/.07 — sem nome.
+- eBay ChronoStoreUSA vende Cover novos (CO123.34, CO194.06 Nobila Gent, CO193.14 Amelia, CO201.15 Marville Lady).
+- ceneje.si (bloqueado) refs: CO201.31, CO165.03, CO217.04, CO201.03, CO228.05, CO125.02, CO226.04, CO206.03, CO216.01, CO167.05, CO196.01/.03, CO212.03/.05, CO200.15; e slugs de 6 dígitos ambíguos co202504, co202604, co205003/04/06, co203704, co204202 (CO2025.04? não confirmado).
+- emalls.ir (robots) refs: Co33.01, Co33.04, Co35.01, Co40.05, Co137.04, Co169.05; nomes Nobila, Marville Gent, Dreams.
