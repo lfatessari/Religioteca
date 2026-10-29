@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 332,
-  "ultima_versao": 291,
+  "proxima_linha_marcas": 333,
+  "ultima_versao": 292,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4518,6 +4518,26 @@
       },
       "versao": 291,
       "obs": "Site oficial crafterblue.com (Shopify) só aparece em WebSearch modo extended; abre normalmente. Catálogo fechado conferido: 11 relógios na coleção All Watches + Mechanic Ocean 45 mm de 2018 (6 refs) + Bon Voyage Enamel White. Credor (332) parece GRANDE e fica sozinha na próxima. Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Credor"
+      ],
+      "linha_marcas": 332,
+      "linhas_relogios": "54670-55282",
+      "relogios": 613,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 81,
+      "passadas": {
+        "1": 58,
+        "2": 11,
+        "3": 12
+      },
+      "versao": 292,
+      "obs": "96 com foto oficial (credor.com, 68 atuais + 28 da Yoshida em padrão não conferido); ~457 linhas com link de página (Piazo, Yahoo! Leilões, WatchProSite, Fril, Gressive). Muitos códigos de caixa vintage (formato 4+4). Firecrawl sem créditos; EveryWatch exige login; Chrono24/WatchCharts/aucfan bloqueados."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -4532,31 +4552,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-29T09:41:33Z",
-  "ultimo_sinal": "2026-10-29T10:06:36Z",
-  "em_andamento": {
-    "marcas": [
-      "Credor"
-    ],
-    "linha_marcas": 332,
-    "grande": true,
-    "relogios": "historico/parcial_Credor_relogios.txt",
-    "fontes": "historico/parcial_Credor_fontes.txt",
-    "notas": "historico/notas_Credor.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
   }
 }

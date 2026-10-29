@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 332,
-  "ultima_versao": 291,
+  "proxima_linha_marcas": 333,
+  "ultima_versao": 292,
   "historico": [
     {
       "data": "2026-10-16",
@@ -4518,6 +4518,26 @@
       },
       "versao": 291,
       "obs": "Site oficial crafterblue.com (Shopify) só aparece em WebSearch modo extended; abre normalmente. Catálogo fechado conferido: 11 relógios na coleção All Watches + Mechanic Ocean 45 mm de 2018 (6 refs) + Bon Voyage Enamel White. Credor (332) parece GRANDE e fica sozinha na próxima. Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-10-29",
+      "marcas": [
+        "Credor"
+      ],
+      "linha_marcas": 332,
+      "linhas_relogios": "54670-55282",
+      "relogios": 613,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 81,
+      "passadas": {
+        "1": 58,
+        "2": 11,
+        "3": 12
+      },
+      "versao": 292,
+      "obs": "96 com foto oficial (credor.com, 68 atuais + 28 da Yoshida em padrão não conferido); ~457 linhas com link de página (Piazo, Yahoo! Leilões, WatchProSite, Fril, Gressive). Muitos códigos de caixa vintage (formato 4+4). Firecrawl sem créditos; EveryWatch exige login; Chrono24/WatchCharts/aucfan bloqueados."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
