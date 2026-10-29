@@ -7,3 +7,4 @@ Notas: press kit 2012 refs CT10101, CT20100, CT10104, CT20101 (Saturno/Corsa, 46
 - Jura CS40300 Tempi Dual Time (CTS-002) por abrir.
 - Touch of Modern (WWR): City Racer em 4 variações (aço/preto com detalhes verdes, amarelos, brancos; IP preto) sem códigos; Corsa amarelo/verde NATO; Saturno vermelho/amarelo/azul. Buscar códigos.
 - Windingroad: Acciaio Touring, Saturno Nero (sem código). Watch Journal 2017: faixa US$800–3.400.
+- Falharam (client_error): e-ami 82137, jura cs10108, isaac italia/pikes peak/touring RG, touchofmodern sale, e-katalog.pl, long-slow-distance (robots), pinterest (robots), wallapop, vários eBay.
