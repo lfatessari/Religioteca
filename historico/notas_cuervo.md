@@ -15,3 +15,4 @@
 - 20:31 UTC: ~161 fontes, ~301 relógios. Últimas 3 (gressive cys-02/03/04) sem novidade → critério de parada atingido na 1ª passada para o bloco atual, mas ainda há linhas antigas sem foto/sem ref (Delray p2-3, Watchonista Doble Tiempo, Robusto/Esplendidos antigos). Marca será VERMELHA (centenas de refs antigas 2002-2015 sem catálogo completo; site oficial shop páginas 2-7 inalcançáveis).
 - 1ª passada encerrada ~20:33 (3 últimas fontes: righttime 3195.1gs, story Bratislava, exquisite = 0 novos). Decisão: VERMELHA. Começa 2ª passada: foco linhas antigas (Robusto, Esplendidos, Torpedo, Prominente 2002-2015), Delray p2/3, produtos ocultos no site oficial, outras lojas.
 - Flameante 3130.1FGR (linha antiga 3) = exclusivo C W Sellors/Jura, ed. limitada 30 peças (British Green) — só relatar, não mexer.
+- Pistas 2009 (Gressive): Historiador Cronógrafo, Torpedo Historiador Semanal, Torpedo Pirata Horas del Mundo (tenho), Amapola, Esplendidos Dual Time.
