@@ -10,3 +10,11 @@
 - eBay ChronoStoreUSA vende Cover novos (CO123.34, CO194.06 Nobila Gent, CO193.14 Amelia, CO201.15 Marville Lady).
 - ceneje.si (bloqueado) refs: CO201.31, CO165.03, CO217.04, CO201.03, CO228.05, CO125.02, CO226.04, CO206.03, CO216.01, CO167.05, CO196.01/.03, CO212.03/.05, CO200.15; e slugs de 6 dígitos ambíguos co202504, co202604, co205003/04/06, co203704, co204202 (CO2025.04? não confirmado).
 - emalls.ir (robots) refs: Co33.01, Co33.04, Co35.01, Co40.05, Co137.04, Co169.05; nomes Nobila, Marville Gent, Dreams.
+- SITE OFICIAL: coverwatches.com (Shopify; achado só em busca extended). Endereço: Weissensteinstrasse 49, 4502 Solothurn (Europa Star). G vazio na planilha.
+- Coleções atuais: Lovis, Urban Muse, Eternal Pearl, Altea, Iconosteel Lady, Noble Square, Cardea Crystal, Valentina Mini, Jumeira, Andara Diamond, Valentina Chrono, Sandara, Lady Diamond Open Heart, Alston Lady, Marville Lady; Arena Automatic, Chapman Chrono II, Iconosteel, Iconosteel Chrono, Chapman Moon & Stars, Alston Gent, Marville Gent.
+- Europa Star galerias: CO158 Piedra (2013), CO152 Quartino (2012).
+- Outras lojas (busca extended): irisimo.com, exquisite-luxury.com, molardsouvenirs.com, conteenium.com, watchandjewelry.shop, eBay brand page, facebook coverwatchesofficial.
+- oficial.py: 156 relógios do site oficial (bate com "156 results" da coleção all). Fotos oficiais padrão CoNNN.NN.jpg (2024-26) ou com sufixo hash (.png de jun/2024); sem foto visível → almuftah (padrão CO220-02-1.jpg confirmado) ou link da página do produto.
+- Na montagem final: oficial.py primeiro, depois parcial_Cover_relogios.txt sem códigos repetidos.
+## Seções feitas: 1, 2 (loja oficial), 3 parcial
+## Falta: about-us, produtos escondidos (site:coverwatches.com/products), lojas (irisimo, exquisite-luxury, molard, conteenium, watchandjewelry.shop), eBay brand page, Europa Star galerias, vintage (Co23, Co33, Co92...), Facebook.
