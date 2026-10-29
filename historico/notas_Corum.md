@@ -8,3 +8,4 @@
 - CollectorSquare: índices lpi por modelo (31 slugs: $20-coin-watch, admiral-s-cup-challenge, -chronograph, -competition, -deep-hull, -legend-38, -seafender, -tides, bubble, bubble-casino, bubble-diver, bubble-lucifer, bubble-skeleton, buckingham, coin-watch, goldenbridge, goldenbridge-tourbillon, golden-tourbillon-panoramique, grand-precis, haute-joaillerie, ingot, miss-goldenbridge, rolls-royce, romvlvs, sugar-cube, tabogan, ti-bridge-*). Abertos: lpi geral, admiral-s-cup, corum-other-model, coin-watch(de). Abrir os outros só se aparecerem em busca.
 - Listas de refs só em dígitos sem nome (73 ref-corum-XXXX) NÃO entram (sem nome do modelo).
 - ATENÇÃO heredoc: usar <<'EOF' quando houver $ no texto.
+- Fontes fracas sem nada: goldentree, watchreport, grail-watch wiki, dialicious, righttime (só 1 ref). Wristcheck 19 refs (slug).
