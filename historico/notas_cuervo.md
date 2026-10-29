@@ -7,3 +7,4 @@
 - Pistas Gressive JP: Prominente Solo Tiempo, Historiador Tradición, Vuelo Domingo Rosillo, Prominente Crono Cuba×Japão 90 anos (limitado), Historiador 1519.
 - Helveti cita linhas Pirata, Lonsdale. Joyería Gordillo: Historiador Retrógrado.
 - Seções feitas: 1 (grande). Em curso: 2, 7.
+- Logo: https://www.cuervoysobrinos.com/wp-content/uploads/2025/07/Logo.png ; fotos oficiais wp-content/uploads/AAAA/MM/<ref>_Soldier.png
