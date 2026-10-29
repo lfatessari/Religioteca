@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 334,
- "ultima_versao": 293,
+ "proxima_linha_marcas": 335,
+ "ultima_versao": 294,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4556,6 +4556,26 @@
    },
    "versao": 293,
    "obs": "Creo é marca turca (HBM Saat ve Takı, Istanbul), não microbrand americana. creo.com.tr, Çiçeksepeti, cimri, n11, akakce, PTTAVM, Pazarama, Gardrops bloqueiam leitura; listas montadas pela Hepsiburada (abre) + títulos de busca da Çiçeksepeti (98 códigos só com link). Só 6 com foto (Hepsiburada/Trendyol). Não pintada de vermelho: listas saturaram (Hepsiburada 97 itens ≈ 91 códigos cobertos; buscas site:ciceksepeti pararam de trazer códigos). Crepas (334) parece GRANDE e fica sozinha na próxima. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-10-29",
+   "marcas": [
+    "Crepas Watches"
+   ],
+   "linha_marcas": 334,
+   "linhas_relogios": "55471-55524",
+   "relogios": 54,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "parcial",
+   "fontes": 85,
+   "passadas": {
+    "1": 63,
+    "2": 11,
+    "3": 11
+   },
+   "versao": 294,
+   "obs": "Marca de Zaragoza (não Madri), não usa códigos; 23 modelos do site oficial + variantes de cor/versão vindas do fórum Relojes Especiales, Tiempo Dinámico, Extropian (títulos) e lojas. Vermelha: modelos configuráveis (coroa 3/9, ponteiros, acabamentos) e cores não todas nomeadas (Batiscafo 4 cores, só 2 achadas). Tactico (marca irmã, TC1/TC2/TC3) não entrou: não tem linha em Marcas. Kickstarter, EveryWatch, WatchPatrol, WatchUSeek, eBay bloqueados; Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4570,33 +4590,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-29T11:42:19Z",
- "ultimo_sinal": "2026-10-29T11:57:01Z",
- "em_andamento": {
-  "marcas": [
-   "Crepas Watches"
-  ],
-  "linha_marcas": 334,
-  "grande": true,
-  "relogios": "historico/parcial_Crepas_relogios.txt",
-  "fontes": "historico/parcial_Crepas_fontes.txt",
-  "notas": "historico/notas_Crepas.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2"
-  ],
-  "passada": 3
  }
 }
