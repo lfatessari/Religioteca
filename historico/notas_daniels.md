@@ -8,3 +8,14 @@ Spring-detent chronometer tourbillon 1970 do site = qual? (Sotheby's 2017 lot 78
 Millennium: 48 YG (incl. protótipo) + 8 WG; nº01 WG único 2001. Anniversary: 35.
 Fontes até agora: 19.
 Science Museum: protótipo Anniversary 2010 e protótipo co-axial Patek Philippe/Daniels — ver fichas. Faltam fotos das peças de bolso nomeadas. 'Two further tourbillon wristwatches made with Roger Smith' (Phillips CH080322/27) — investigar.
+## 10b Auto-auditoria
+1. Site oficial (danielslondon.com) sem blog/loja; todas as páginas de relógios lidas (5 + Anniversary + home). 
+2. §2c: site:danielslondon.com não trouxe nada (buscador não indexa); sem loja.
+3. Lojas: A Collected Man (Millennium WG, Blue, Anniversary YG), The Limited Edition (Anniversary) — sem peças novas escondidas.
+4. Primeiro modelo: Clutton (1969) ✓; cronômetro marinho Thomas Mercer (c.1952/53) não é relógio de pulso/bolso → fora.
+5. I/J: J vazio; I cita Space Traveller e Anniversary ✓.
+6. Edições limitadas na B com nº de peças ✓; peças únicas marcadas na E ✓.
+7. 69 fontes. Catálogo raisonné (Phillips) fechado: 23 de bolso + inacabado + 4 de pulso sob medida = conferido (Sotheby's diz 23 de bolso; Phillips 24 com o inacabado).
+Decisão: 'Spring-Detent Chronometer Tourbillon 1970' do site oficial = uma das peças de 1970 (Elsom I ou Sarah Jane); não virou linha separada para não duplicar.
+Fora: conversões co-axiais de Rolex Datejust, Urban Jürgensen e Omega 000/999 (feitas por Daniels sobre relógios de outras marcas); Anniversary ouro branco/vermelho entram como linhas (rwsmith diz concluídas até 2025).
+Firecrawl: sem créditos (não usado).

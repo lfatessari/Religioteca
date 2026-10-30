@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 362,
-  "ultima_versao": 319,
+  "proxima_linha_marcas": 363,
+  "ultima_versao": 320,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5068,6 +5068,17 @@
       "fontes": 125,
       "grande": true,
       "pendente": "~200 números DW00100xxx sem modelo identificado (descontinuados). Sondagem Mastersintime historical-dw00100NNN.htm (Firecrawl) parou no 118 por falta de créditos; continuar do 119 (132,134,138,152-160,184,191-200,287-302,315-340,351-366,371-413...) quando houver créditos (complemento)."
+    },
+    {
+      "data": "2026-10-30",
+      "marca": "Daniels London",
+      "linha_marcas": 362,
+      "linhas_relogios": "59370-59406",
+      "relogios": 37,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 69,
+      "versao": 320
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5082,25 +5093,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-30T15:31:50Z",
-  "ultimo_sinal": "2026-10-30T15:41:13Z",
-  "em_andamento": {
-    "marcas": [
-      "Daniels London"
-    ],
-    "linha_marcas": 362,
-    "grande": true,
-    "relogios": "historico/parcial_daniels_relogios.txt",
-    "fontes": "historico/parcial_daniels_fontes.txt",
-    "notas": "historico/notas_daniels.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "5",
-      "8",
-      "9"
-    ],
-    "passada": 1
   }
 }
