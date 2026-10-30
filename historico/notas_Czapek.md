@@ -9,3 +9,4 @@
 - WatchBase/Majestix: códigos QDBnn (QDB21..33, bis, Lady QDB1..11). Aplicar QDB33/31/29/27/25/23 nas linhas Nº correspondentes. usa_codigos=true.
 - Midnight in Geneva M (1268) = boutique 2026, 40,5 mm, LE 18. PV Complicité Glacier Blue = platina, LE 10.
 - LE: Rattrapante Ice Blue 99; Silver Grey 77; Roaring Forties 40. Fotos Phillips p/ Ice Blue 192605, Silver Grey 207644, Roaring Forties 222468 se faltar.
+- Terre Adélie: original LE 99 prata? vs Gressive Terre Adélie (genérico) -> manter Gressive como 'Terre Adélie' e Bulang como prata LE99? possível duplicata; unificar: Terre Adélie = LE 99.
