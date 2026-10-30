@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 368,
-  "ultima_versao": 323,
+  "proxima_linha_marcas": 369,
+  "ultima_versao": 324,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5149,6 +5149,21 @@
         "2": "12 fontes, 2 novos"
       },
       "versao": 323
+    },
+    {
+      "data": "2026-10-30",
+      "marca": "Davosa",
+      "linha_marcas": 368,
+      "linhas_relogios": "59553-59929",
+      "relogios": 377,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 98,
+      "passadas": {
+        "1": 55,
+        "2": 31,
+        "3": 12
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5167,31 +5182,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-30T19:42:05Z",
-  "ultimo_sinal": "2026-10-30T20:05:55Z",
-  "em_andamento": {
-    "marcas": [
-      "Davosa"
-    ],
-    "linha_marcas": 368,
-    "grande": true,
-    "relogios": "historico/raw_all.txt + raw_helveti.txt + raw_cws8.txt",
-    "fontes": "historico/parcial_Davosa_fontes.txt",
-    "notas": "historico/notas_Davosa.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
   }
 }

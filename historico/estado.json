@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 368,
-  "ultima_versao": 323,
+  "proxima_linha_marcas": 369,
+  "ultima_versao": 324,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5149,6 +5149,21 @@
         "2": "12 fontes, 2 novos"
       },
       "versao": 323
+    },
+    {
+      "data": "2026-10-30",
+      "marca": "Davosa",
+      "linha_marcas": 368,
+      "linhas_relogios": "59553-59929",
+      "relogios": 377,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 98,
+      "passadas": {
+        "1": 55,
+        "2": 31,
+        "3": 12
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
