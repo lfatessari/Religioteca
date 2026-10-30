@@ -12,3 +12,4 @@
 - Logo: https://davosa-usa.com/cdn/shop/files/Dav-Logo-RGB_rot.png
 ## 2ª passada: foco em antigos, LEs sem código, produtos escondidos do site oficial
 ## Fim da 2ª passada (31 fontes, ~50 novos). Como trouxe ≥5, fazer 3ª passada (≥10 fontes novas): linhas antigas (Insight, Quadro, Urban Player, Parangon, Pianos, Titanium XL, femininos antigos, Panamericana).
+## Fim da 3ª passada (12 fontes). Parou: 3 seguidas sem novidade (eBay Military, aBlogtoWatch Day-Date, Helveti Titanium).
