@@ -12,3 +12,5 @@ Usa códigos: sim (ex. 99.1 (02) ST).
 - Especiais: Gorch Fock I (75 pç, 2008/09, relógio em cardan tipo cronômetro de navio, 48 mm); 99.ZS Marineuhr bronze (10 pç); Mitsukoshi 350 (5 pç, base Q-2010.1, 2023); Timetotalk 99.4 (7 pç, 2017, mostrador marrom); CHR 2022 (62 pç); 99.0 (2) ST nº 24 c.2005 (Antiquorum, foto); 99.0 Enamel dial (awco)
 - Jubilar = 20 pç (15 aço, 3 ouro rosa, 2 platina), 20 anos (watchgecko). Zentrumsekunde C × Chronos 25 pç 2022 azul prussiano. 99.1M Gruene About Timepieces 5 pç. Quintus 40.0 Klassik salmão peça única nº141. Quintus Gold Classic Ceramic Black 2025. Titan Auf&Ab "edição limitada" sem nº.
 - Majestix: 28 refs (achei 26).
+- 1ª passada encerrada (últimas 7 fontes sem novidade). Novos: 04.0 LE 75 (2006, 38 mm, GUB), 99.1-M vermelho com data. Iniciar 2ª passada: configurador/mostradores especiais, Quintus 40.0, edições de lojas, 2005-2010, leilões, Japão.
+- 2ª passada: 15 fontes, 5 novos (bronze Russian 15 pç, 99.5 Ti, Q-REG bronze, 99.3 WG, 99.6-M vinho) => 3ª passada
