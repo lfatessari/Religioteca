@@ -8,3 +8,5 @@ Cable Watch (1994, primeiros relógios), Thoroughbred (Basel 1999), Mercer, Chel
 Logo: https://teddybaldassarre.com/cdn/shop/files/david_yurman_logo_0c393a65-33d1-4508-9c20-0d222aea3a79.png?v=1765356242&width=800
 Firecrawl: sem créditos (renova em ~20h) — não usado.
 Site oficial davidyurman.com: não aparece em busca para relógios (marca parece ter deixado de vender relógios no site). Coluna G ok (domínio da marca).
+## Pendentes (1stdibs/buy/used-david-yurman-watch): buscar página de cada
+Double Cable T-42875; Cable T10349; Bangle T-3833; T209-S; Cable MOP T-29106; Cable T-61533; Albion T9005QSSTBRAC; Belmont Shadow "Limited Edition"; Cable 10mm; Cable garnet; Madison oval cable; Tourmaline/emerald bangle; Cable 18k MOP 7mm cuff; Cuff watch 18k (id-j_24065202).
