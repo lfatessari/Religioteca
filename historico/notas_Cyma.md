@@ -8,3 +8,6 @@ Modelos antigos (grail-watch): Hermosa, Nonpareil, Advance, Diana (1903); Admira
 - getcyma.shop: loja com -65% (provável clone/golpe) — usar refs só com aviso.
 - Coleções modernas: Grand Maestro (Steel Cross, The Chess, Imperia), Charisma, Intelligentsia, Signature, Myriad (2010), Navystar (reedição 2009 GMT), Athena, Nineteen Forty, Conquistador, Divingstar.
 - Logo: https://cdn.watchtraderhub.com/brands/019dc5c7-0231-4ebf-b439-b15208246d5e/logo-1774991764747-90o2Sx7HqK.webp
+## 1ª passada encerrada (~121 fontes): últimas 3 sem novidade (Kalmar, Jensen, Wilson55).
+Vermelha: sim — centenas de referências vintage sem nome/foto (Cymaflex, Navystar, Watersport, Tavannes), site oficial bloqueado (robots), catálogo atual só parcial (City Chain SG 46 peças).
+## 2ª passada: foco em catálogo atual (Grand Maestro Steel Cross/Imperia/Intelligentsia, outras City Chain), Navystar/Watersport/Divingstar com ref, Synchron.
