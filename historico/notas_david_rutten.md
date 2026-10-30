@@ -1,0 +1,2 @@
+# David Rutten — notas
+Designer belga (n. 1974, Bruxelas); marca vendida como U-Krony (Ukrony Watches SARL, Rolle), dirigida por Malik Bahri. Modelos: DR-01 Streamline meteorito (88), Streamline bronze (12, só citado no fórum). Fontes de fórum (WatchProSite) quase todas sem abrir; davidrutten.com robots; timezone pediu permissão (não respondida). Sem anúncios em Chrono24/lojas. 16 fontes; últimas 3 sem novidade.
