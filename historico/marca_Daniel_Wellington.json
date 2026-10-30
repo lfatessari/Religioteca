@@ -1,0 +1,637 @@
+{
+ "marca": "Daniel Wellington",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I marcada [⚠️ verificar]: dados conferem (fundada em 2011 por Filip Tysander, Estocolmo). J incompleta: coleções atuais também incluem Bound, Ophelia, Marlon, Margot, Pathfinder, Elan, Retro Digital; descontinuadas: Classy, Dapper, Grace, Classic Black.",
+ "fontes": [
+  {
+   "url": "https://my.danielwellington.com/collections/mens-watches",
+   "passada": 1,
+   "novos": 50
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=30&page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.danielwellington.com/collections/mens-watches/products.json?limit=12&page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://za.danielwellington.com/collections/mens-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.danielwellington.com/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://trychannel3.com/product-data/brands/daniel-wellington",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.danielwellington.com/collections/mens-watches.atom",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 128
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 51
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=250&page=3",
+   "passada": 1,
+   "novos": 120
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=250&page=4",
+   "passada": 1,
+   "novos": 65
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=250&page=5",
+   "passada": 1,
+   "novos": 61
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=250&page=6",
+   "passada": 1,
+   "novos": 104
+  },
+  {
+   "url": "https://www.danielwellington.com/products.json?limit=250&page=7",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://us.danielwellington.com/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://au.danielwellington.com/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://au.danielwellington.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.danielwellington.com/products.json?limit=250&page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.danielwellington.com/products.json?limit=250&page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.danielwellington.com/products.json?limit=250&page=5",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://au.danielwellington.com/products.json?limit=250&page=6",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://au.danielwellington.com/products.json?limit=250&page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://my.danielwellington.com/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdirect.com.au/collections/daniel-wellington/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/daniel-wellington-watch-dapper-38-bristol-dw00100086",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/daniel-wellington/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/vendors?q=Daniel%20Wellington",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ippojapanwatch.com/collections/daniel-wellington/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/collections/daniel-wellington/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 64
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/daniel-wellington/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdirect.shop/collections/daniel-wellington/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/collections/daniel-wellington/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/collections/daniel-wellington/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100130.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/daniel-wellington/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100059.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100060.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100008.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100010.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100012.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100013.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100022.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100024.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100025.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100026.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100027.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100037.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100040.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100042.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100043.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100044.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100045.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100048.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100049.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100054.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100055.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100057.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100061.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100062.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100063.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100064.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100065.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100066.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100067.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100068.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100069.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100070.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100071.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100072.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100073.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100074.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100075.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100076.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100077.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100078.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100079.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100080.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100081.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100082.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100090.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100091.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100093.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100094.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100096.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100099.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100100.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100101.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100102.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100103.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100104.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100105.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100106.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100107.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100108.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100112.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100113.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100115.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100116.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100118.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://my.danielwellington.com/collections/steven-harrington-x-dw",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://za.danielwellington.com/blogs/editorial/dw-x-steven-harrington",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.danielwellington.com/en-it/products/steven-harrington-x-dw-iconic-link-dual-tone-gold",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://m.jiemian.com/article/5437548.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jurawatches.co.uk/pages/daniel-wellington-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Daniel_Wellington",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/daniel-wellington-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxoia.com/en/daniel-wellington/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/32631139?pg=5",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/32631139?pg=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/32631139?pg=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/32631139?pg=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://moodiedavittreport.com/daniel-wellington-extends-its-flagship-classic-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/a-look-at-one-of-the-most-popular-fashion-watches-daniel-wellington",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/pages/brand-reviews/daniel-wellington",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100221.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-dw00100227.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Daniel-Wellington-Classic-32-35-9-mm-Daniel-Wellington-Armbanduhren/31387/bn_7116518242",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://prisjagt.dk/s/daniel-wellington-petite-sterling/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://pricespy.co.uk/s/daniel-wellington-watches-for-women/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.prisjakt.no/s/daniel-wellington-herre/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrenschmuck24.ch/en/daniel-wellington-classic-swansea-lady-o-36mm-0504dw.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timewatches.co.za/products/daniel-wellington-ladies-watch-classic-glasgow-34mm-dw00100078",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://alaniazapoved.ru/products/daniel-wellington-classy-glasgow-white-dial-two-tone-nylon-s/203168823",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewellershop.com/en/0102dw",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/152323293892",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

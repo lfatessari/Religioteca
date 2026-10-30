@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 361,
-  "ultima_versao": 318,
+  "proxima_linha_marcas": 362,
+  "ultima_versao": 319,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5056,6 +5056,18 @@
         "1": 45
       },
       "obs": "Mesma marca que Strom (Marcas 1273, Relógios 961-1001, 41 linhas antigas); gravado só o que faltava lá. Firecrawl sem créditos. Próxima: Daniel Wellington (361, grande — sozinha)."
+    },
+    {
+      "data": "2026-10-30",
+      "marca": "Daniel Wellington",
+      "linha_marcas": 361,
+      "linhas_relogios": "58523-59369",
+      "relogios": 847,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 125,
+      "grande": true,
+      "pendente": "~200 números DW00100xxx sem modelo identificado (descontinuados). Sondagem Mastersintime historical-dw00100NNN.htm (Firecrawl) parou no 118 por falta de créditos; continuar do 119 (132,134,138,152-160,184,191-200,287-302,315-340,351-366,371-413...) quando houver créditos (complemento)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
