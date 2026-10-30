@@ -13,3 +13,4 @@
 ## 1ª passada encerrada (12:11 UTC): 3 fontes seguidas sem novidade (Seddiqi, WatchTime, Wristcheck tourbillon).
 - Decisão: VERMELHA. Motivos: centenas de variantes de mostrador/metal das refs Bvlgari (247, 807, 857, 118, 196...), Le Sentier/Sport sem refs, joias femininas (Numero), peças únicas; páginas anuais horlogerie-suisse 2002-2010 inacessíveis; EveryWatch fechado ("Only Collectors").
 ## 2ª passada (alvos): horlogerie-suisse 2011 (veio em busca), Le Sentier/Sport, femininos/joias, Bvlgari DR 2010-2015 (Magsonic, Hora Domvs, Papillon Voyageur, Tourbillon...), Masters Chrono variantes, peças únicas, refs C207/2207, 2ª geração.
+## 2ª passada encerrada 12:14 (4 seguidas sem novidade). >=5 novos -> 3ª passada.
