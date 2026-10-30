@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 357,
- "ultima_versao": 315,
+ "proxima_linha_marcas": 359,
+ "ultima_versao": 316,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4982,6 +4982,42 @@
     "3": 12
    },
    "obs": "Maison de joalheria tratada como grande. 2ª passada achou loja oficial (12/24), LuxGroups.ua (pág. 1 de 3) e anuário Orologi.it. Faltam pág. 2 da loja oficial, págs. 2–3 da LuxGroups e fichas Watchonista belle-epoque-1..10 (não aparecem em busca). Firecrawl sem créditos. Próxima: Damoiselle D (357)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 316,
+   "marcas": [
+    "Damoiselle D"
+   ],
+   "linha_marcas": 357,
+   "linhas_relogios": "58294-58299",
+   "relogios": 6,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "passadas": {
+    "1": 17
+   },
+   "obs": "Marca de joias-relógio de Jean e Véronique Muller (Besançon), lançada no GTE 2011; damoiselle-d.com fora do ar; Masterhorologer (client_error) só pelos títulos (Capucine, O). Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 316,
+   "marcas": [
+    "Dan Spitz"
+   ],
+   "linha_marcas": 358,
+   "linhas_relogios": "58300-58302",
+   "relogios": 3,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "Parcial – danspitz.com (páginas com senha)",
+   "fontes": 17,
+   "passadas": {
+    "1": 17
+   },
+   "obs": "Liberty (J11.13), Libre Excentrique série 2 (29 pç), protótipo JeanRichard Aeroscope 2014. 'Double Freak' só em nome de arquivo de imagem (não incluído). Próxima: Daniel Roth (359, grande)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4996,20 +5032,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T10:42:44Z",
- "ultimo_sinal": "2026-10-30T10:42:44Z",
- "em_andamento": {
-  "marcas": [
-   "Damoiselle D",
-   "Dan Spitz"
-  ],
-  "linha_marcas": 357,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
  }
 }

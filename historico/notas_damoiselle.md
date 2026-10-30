@@ -1,0 +1,1 @@
+# Damoiselle D: fundada por Véronique e Jean Muller, estreia GTE 2011 (Genebra), Swiss made, site damoiselle-d.com; marca registrada 'Damoiselle D - Le temps précieux' 2011. Modelo Damoiselle Rosa (Masterhorologer 2017).
