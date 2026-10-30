@@ -10,3 +10,6 @@
 - Basel 2008: Athys II, 8-Day Tourbillon QP, Papillon Chronograph, Il Giocatore Veneziano.
 - Faltam: Metropolitan 857, Premier 807, Datomax 208, Academy/Athys III 110.Y.50, Ellipsocurvex 121/0167, Grande Lune, Bvlgari-DR (Papillon Voyageur, Carillon, Grande Sonnerie), Numero 528?, Sport, minute repeater, Papillon Chrono, Instantaneous, joalheria/senhoras.
 - 1stDibs fichas individuais pediram permissão (PROVENANCE) – erro meu; só usar URLs de busca.
+## 1ª passada encerrada (12:11 UTC): 3 fontes seguidas sem novidade (Seddiqi, WatchTime, Wristcheck tourbillon).
+- Decisão: VERMELHA. Motivos: centenas de variantes de mostrador/metal das refs Bvlgari (247, 807, 857, 118, 196...), Le Sentier/Sport sem refs, joias femininas (Numero), peças únicas; páginas anuais horlogerie-suisse 2002-2010 inacessíveis; EveryWatch fechado ("Only Collectors").
+## 2ª passada (alvos): horlogerie-suisse 2011 (veio em busca), Le Sentier/Sport, femininos/joias, Bvlgari DR 2010-2015 (Magsonic, Hora Domvs, Papillon Voyageur, Tourbillon...), Masters Chrono variantes, peças únicas, refs C207/2207, 2ª geração.
