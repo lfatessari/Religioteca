@@ -12,3 +12,5 @@
 - WCL (watchcollectinglifestyle) listou: DB8REWS3 (DB Eight azul royal), LVDB-03 Louis Vuitton × De Bethune, DB25 Mexican Civilization (peça única), DB28 Dark Shadows LE, DB25 White Night, Cempasúchil II, DB25sQP 40mm Ti -> buscar fotos/refs (contar WCL como fonte quando adicionar)
 - A fazer: Urwerk×DB OW2019 (Moon Satellite), Cempasúchil I/II, Armilia, Tigre & Dragon, Al Amal, Maestri'Art I/II, Dream Watch 1-4,6, DB28 Digitale, DB28 GS, DB28 Black Gold, Imperial Fountain, DB25T, DB28 Skybridge ref, DB27 refs (thehourglass db27)
 - EWC: padrão de foto images.europeanwatch.com/images/<2 dígitos>/<estoque>-1.jpg confirmado no 54991; refs vindas de títulos de busca EWC
+## Fim da 1ª passada (~133 fontes). Últimas fontes rendendo 0–1. Decisão: VERMELHA — o catálogo histórico oficial (filtro por ano 2002–2025) não abre por inteiro; CollectorSquare tem 99 resultados (só 38 lidos); muitas refs só por título; peças únicas/encomendas especiais (CS) sem lista.
+## 2ª passada: foco em catálogo por ano, Hour Glass catalog, watchprosite collection, Sotheby's/Christie's/Bonhams, CS (encomendas), Monochrome.
