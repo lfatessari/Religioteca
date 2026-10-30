@@ -6,3 +6,4 @@
 - fairtime.dk: Seawolf One (4 cores), Airforce One (4)+Evo(4), Conger(4), Conger Nero(4), 20.000 Feet (4: prata, preto, azul, amarelo).
 - Grenadier GMT = 1951 (Watchpartners). Logo: https://www.watchpartners.com.au/media/brands/menu-logos/cx-swiss-military.jpg. Swisswatchdistributors 1948-1957/2041-2048 ambíguos (SKU ou ref?) → nomes sem ref + nº em E.
 - Stingray = marca Charmex (já em Charmex 2162) → não entra. Site da campanha: 20000feet.com. Argonaut 1000 auto = 1916 (refs 19xx reais).
+- SWD: TODOS os números são SKU da loja (prova: SKU 1053 = 20000 ft amarelo, foto 1948). Ref real no nome do arquivo da foto. Rally Auto, Nautilus Auto, Neptune Auto: só nomes (sem ref) por ora.
