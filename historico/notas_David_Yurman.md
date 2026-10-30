@@ -17,3 +17,4 @@ Decisão: VERMELHA — há muitas referências vistas só como título (T-61533,
 Site oficial: davidyurman.com/womens/watches.html citado na página "about", mas não aparece em busca e o Firecrawl estava sem créditos → coluna L "Parcial".
 ## 2ª passada — alvos
 T-61533, T-29106, T-42875, T-3833, T9005QSSTBRAC, Classic Three Hands/Small Seconds ref, Revolution variantes, Belmont/Thoroughbred chronograph variantes, Cable antigos (anos 90), Classic 30/34 mm feminino, Thoroughbred cable (cabo).
+## 2ª passada encerrada: 3 últimas sem novidade; trouxe 13 novos (>=5) → 3ª passada obrigatória.
