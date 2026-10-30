@@ -13,3 +13,4 @@
 ## Passada 1 encerrada (3 fontes seguidas sem novidade: aBlogtoWatch, Sotheby's, Europa Star).
 - Vermelho: SIM (Bespoke Atelier/peças sob encomenda, edições de lojas e boutiques pouco documentadas, muitas linhas só com título).
 - 2ª passada: buscar exclusivos de lojas (Sincere, Collective P.01-03, Watches of Switzerland, Hodinkee, Wempe, Bucherer, Ahmed Seddiqi, Dubai Watch Week), bespoke, Only Watch, §2c no ET .html e Jura.
+- LE (Oster): Tourbillon Victory Green 10; Transparencies Aqua Blue 38; S Frozen Meteor 25; Frozen Meteor 38; Goutte de Rosée 25; S Révélation Ti Cosmic Blue 25; Révélation Ti Cosmic Blue 50; S Dark Sector Cosmic Blue 10; Dark Sector Cosmic Blue 25; Crossroads Victory Green 18; Time Jumper ouro 30; aço 100; Tourbillon Secret Alloy 50; Erebus Deep Blue YG 50 (W&W: RG 100); S Polar Sky 77; Polar Sky 99.
