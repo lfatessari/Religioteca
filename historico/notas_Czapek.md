@@ -10,3 +10,6 @@
 - Midnight in Geneva M (1268) = boutique 2026, 40,5 mm, LE 18. PV Complicité Glacier Blue = platina, LE 10.
 - LE: Rattrapante Ice Blue 99; Silver Grey 77; Roaring Forties 40. Fotos Phillips p/ Ice Blue 192605, Silver Grey 207644, Roaring Forties 222468 se faltar.
 - Terre Adélie: original LE 99 prata? vs Gressive Terre Adélie (genérico) -> manter Gressive como 'Terre Adélie' e Bulang como prata LE99? possível duplicata; unificar: Terre Adélie = LE 99.
+## Passada 1 encerrada (3 fontes seguidas sem novidade: aBlogtoWatch, Sotheby's, Europa Star).
+- Vermelho: SIM (Bespoke Atelier/peças sob encomenda, edições de lojas e boutiques pouco documentadas, muitas linhas só com título).
+- 2ª passada: buscar exclusivos de lojas (Sincere, Collective P.01-03, Watches of Switzerland, Hodinkee, Wempe, Bucherer, Ahmed Seddiqi, Dubai Watch Week), bespoke, Only Watch, §2c no ET .html e Jura.
