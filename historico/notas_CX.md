@@ -25,3 +25,4 @@
 ## 2ª passada (começa 01:05): buscas de referências faltantes por faixa de números; lojas novas.
 (2ª) +Tank 2735 (Ashford título), 2742 (ToM título), Hawk Snowpatrol 2725 (Jomashop título), GMT 2771 (Ashford título) — contados nas fontes de busca? Não: só títulos de busca, entram por anúncio (visto só no título).
 - (2ª) Catálogo 2010 no Issuu (issuu.com/charmex.com/docs/swissmilitary_flipbook2010) não abriu (client_error).
+## 2ª passada encerrada (01:08): últimas 3 sem novidade; trouxe ≥5 → 3ª passada (outras lojas/países, Amazon, categorias Watchpartners).
