@@ -9,3 +9,4 @@
 - EveryWatch: maioria das fichas com "Only Collectors" (bloqueado). EW 14075811 listou: Ellipsocurvex Papillon WG 318.Y.60.350.CN.BD, Le Sentier T157 vermelho, S177 cinza, Master 118.X.40 YG, Grand Lune 101845 (Bvlgari), Le Sentier 7622 YG salmão, T157STPL (=T157STPI Phillips).
 - Basel 2008: Athys II, 8-Day Tourbillon QP, Papillon Chronograph, Il Giocatore Veneziano.
 - Faltam: Metropolitan 857, Premier 807, Datomax 208, Academy/Athys III 110.Y.50, Ellipsocurvex 121/0167, Grande Lune, Bvlgari-DR (Papillon Voyageur, Carillon, Grande Sonnerie), Numero 528?, Sport, minute repeater, Papillon Chrono, Instantaneous, joalheria/senhoras.
+- 1stDibs fichas individuais pediram permissão (PROVENANCE) – erro meu; só usar URLs de busca.
