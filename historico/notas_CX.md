@@ -12,3 +12,14 @@
 - Loja oficial swiss-military.net (robots) e site swiss-military-watch.info (robots) → coluna L.
 - Ashford: padrão de foto cdn/shop/files/<ref>_F.jpg. 24151 'Classic Ambassador' (corda manual, GMT) — duvidoso se é CX (UPC diferente) → fora.
 - Invincible TT = antigo Dreadnought TT (página oficial dreadnought-tt.html). Invincible 3010-3013 (aut., bicolor) e TT 3111; TTQ quartzo.
+## 1ª passada encerrada (01:05 UTC): ~166 fontes; últimas 6 sem novidade.
+### 10b auto-auditoria
+1. Blog/imprensa do site oficial: site oficial (swiss-military-watch.info, swiss-military.net, swiss-military.com) bloqueado/robots → não lido; compensado com Europa Star, aBlogtoWatch, Total Design Reviews, Microbrand Watch World, PRLog, Moodie Davitt.
+2. 2c: buscas site: no domínio oficial só deram títulos de páginas (modelos) — registrados.
+3. site:/products nas lojas: Ashford (/products/swiss-military-<ref>), Watchpartners, SWD, Swiss Watch Boutique — feito por buscas.
+4. Primeiro modelo: não achado (história: Charmex 1926; CX linha militar anos 2000; Seewolf I e Delta Force já em 2007; Argonaut 1000 2007; 12'000 Feet 2007).
+5. I/J: 20'000 Feet Deep Diver ok, 12'000 Feet ok, Hurricane ok, Tank ok.
+6. Edições limitadas na B: 20'000 Feet (1.000), 12'000 Feet (365), Hurricane (200), Argonaut 1000 TQ (200), Conger Nero Auto (100), Sea Wolf I Scuba (600/ano).
+7. Fontes: ~166.
+- Decisão: VERMELHA. Motivo: catálogo de ~95 peças na Watchpartners (só ~50 alcançadas), loja e site oficiais bloqueados, várias cores de cada linha sem referência (Conger, Airforce I Evo, Hawk, Seawolf, Typhoon, Desert Storm, Calypso, Lightning), modelos antigos (Delta Force, Paratrooper, Argonaut) sem lista.
+## 2ª passada (começa 01:05): buscas de referências faltantes por faixa de números; lojas novas.
