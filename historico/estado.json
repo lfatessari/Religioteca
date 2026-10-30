@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 356,
- "ultima_versao": 314,
+ "proxima_linha_marcas": 357,
+ "ultima_versao": 315,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4962,6 +4962,26 @@
    "site_bloqueado": false,
    "fontes": 68,
    "grande": true
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 315,
+   "marcas": [
+    "Damiani Watches"
+   ],
+   "linha_marcas": 356,
+   "linhas_relogios": "58163-58293",
+   "relogios": 131,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – damiani.com (client_error)",
+   "fontes": 128,
+   "passadas": {
+    "1": 99,
+    "2": 17,
+    "3": 12
+   },
+   "obs": "Maison de joalheria tratada como grande. 2ª passada achou loja oficial (12/24), LuxGroups.ua (pág. 1 de 3) e anuário Orologi.it. Faltam pág. 2 da loja oficial, págs. 2–3 da LuxGroups e fichas Watchonista belle-epoque-1..10 (não aparecem em busca). Firecrawl sem créditos. Próxima: Damoiselle D (357)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

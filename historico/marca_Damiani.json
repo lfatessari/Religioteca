@@ -1,0 +1,652 @@
+{
+ "marca": "Damiani Watches",
+ "usa_codigos": true,
+ "logo": "https://www.gressive.jp/sites/default/files/brandLogo/D4.jpg",
+ "site_bloqueado": "Parcial – damiani.com recusa leitura automática (client_error) nas fichas de produto e na maioria das listas; só abriu it_it/gioielleria/orologi (12 de 24 relógios). Revisitar com navegador.",
+ "observacoes": "I traz '[⚠️ verificar]'. J incompleto: relógios também nas linhas Ego, Margherita, Eden, Notte di San Lorenzo, Damianissima, D.Lace e Ode all'Italia. Grupo Damiani comprou a Baume & Mercier (2026).",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.astaguru.com/blogs/a-guide-to-damiani-watches-714",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/damiani-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/damiani/home",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/damiani/jewelry/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://montre24.com/brand/Damiani/Damianiwatch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-main-catalog-mens-chronograph-watch-000-45841-28204",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095885-damiani-belle-epoque.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096180-damiani-belle-epoque-ceramic.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1004082518-damiani-the-new-belle-epoque-watch-collection.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0589/hotitem/282235",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0589/hotitem/289816",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_jewelry-news/15964",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/margherita-desert-garden-secret-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/margherita-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/colline-in-fiore-secret-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/watches/damiani-margherita-desert-garden-secret-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/watches/damiani-margherita-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vicenzaoro.com/en/component/zoo/the-mimosa-watches-for-damiani-centennial?Itemid=345",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-belle-epoque-ladies-ceramic-quartz-watch-30014566127-29053",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-belle-epoque-ladies-ceramic-quartz-watch-30014565141-31669",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-belle-epoque-ladies-ceramic-quartz-watch-30014567105-29064",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-belle-epoque-ladies-ceramic-quartz-watch-30014567101-29073",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-belle-epoque-ladies-ceramic-quartz-watch-30014563-26068",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/07/damiani-d-side-chronograph-limited-edition-39mm-gold-case-valjoux-7750-automatic-movement/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/12736212",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theluxurycloset.com/us-en/damiani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/damiani-watch-genuine-damiani-diamond-ego-ladies-watch/id-j_25930922",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/damiani/jewelry/watches/wrist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/damiani-belle-epoque/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/156094532392",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/157450085508",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jolicloset.com/de/marken-damen/damiani/Damenschmuck/uhr/dside-5-diamanten-2400-eur--104382",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000005413/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/6938/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.isaacjewelers.com/product/damiani-belle-epoque-watch-belle-epoque-masterpieces-38-mm-sapphires/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0218/hotitem/225217",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/g1224517937",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.g-rare.com/c/jewelry/damiani/11426240",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uridoki.net/watch/kiji_135182/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.afpbb.com/articles/-/3231287",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0589/hotitem/271264",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/damiani/hotitem",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-main-catalog-d-side-diamond-watch-0-1775648-16756",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/damiani/jewelry/more-jewelry-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/damiani-belle-epoque-ladies-ceramic-quartz-watch-30014562183-29139",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cijintl.com/in-the-press/damiani-belle-epoque-ceramic.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gioiellis.com/en/nuovi-gioielli-belle-epoque-di-damiani/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.embassy.ch/en/schmuck/damiani/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gioiellis.com/en/belle-epoque-collection-by-damiani-is-renewed/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0218/hotitem/228821",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://skyjems.ca/pages/encyclopedia-damiani-belle-epoque",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/07/damiani-mimosa-dragon-ladies-gold-watch-set-with-diamonds-and-sapphires/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/07/damiani-new-mimosa-ladies-watch-collection-set-with-diamonds-sapphires-rubies/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/07/damiani-eden-masterpiece-ladies-watch-diamond-set-white-gold-case-mother-of-pearl-dial-7-rows-bracelet-with-brilliant-cut-diamonds/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/07/damiani-belle-epoque-watch-collection-belle-epoque-150th-anniversary-limited-edition-and-belle-epoque-with-rubies-or-sapphires/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hauteliving.com/2011/07/italian-trade-commission/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.journalduluxe.fr/fr/montres-joaillerie/100-ans-damiani-borsalino/amp",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2010/06/07/damiani-new-belle-epoque-watch-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/07/damiani-belle-epoque-watch-collection-new-black-and-white-ceramic-models/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://komehyo.jp/product/230-000-245-1076/?wovn=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jolicloset.com/pt/marcas-luxo/damiani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://about-j.vicenzaoro.com/en/news/newsby-vicenzaoro/damiani-from-history-to-a-new-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/157068322268",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/38403/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/brand/38418/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fril.jp/brand/2380",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://komehyo.jp/product/230-000-265-8437/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://komehyo.jp/product/230-000-303-7477/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://item.rakuten.co.jp/jbworksinc/193041/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/6509",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/user/380",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lifestyle.inquirer.net/?p=187117",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/damiani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaeruleon.jp/en/collections/damiani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/321171",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://arabwatchguide.com/damianis-centenary-arrives-in-dubai/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.udedokeitoushi.com/categories/843/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Damiani-Wristwatches/31387/bn_84893197",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.ebay.com/b/Damiani-Watches-Parts-Accessories/260324/bn_77213620",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.mako78.co.jp/products/n21080500906",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/Damiani-Women-Wristwatches/31387/bn_108292680",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.ie/sch/Watches-Parts-Accessories/14324/i.html?_nkw=damiani&_sop=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://il.ebay.com/b/Damiani-Women-Analog-Wristwatches/31387/bn_108267134",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/en_us/jewelry/belle-epoque",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.cl/all/damiani-belle-epoque--id44440885.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono.lv/damiani-belle-epoque",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono.lv/damiani-belle-epoque-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/damiani/watches/belle-epoque-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.charitystars.com/product/orologio-damiani-oro-bianco-e-brillanti-it",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/102463/158076/t01/list31.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/102463/158076/t01/list2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/item/0000902446/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.otakaraya.jp/?p=117650",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ilgiornale.it/news/oro-e-diamanti-lode-allitalia-firmata-damiani-2498327.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.milanofinanza.it/news/damiani-adesso-accelera-sull-high-jewelry-2707390",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loupiosity.com/2015/04/damiani-wrapped-around-finger/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bella.tw/articles/jewelry/38794",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.drezzy.it/gioielli-e-orologi/gioielli?marca=damiani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/stone/diamond/?page=12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/en_ww/jewelry/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/it_it/full-pave-yellow-gold-watch-with-diamonds-30030402",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/it_it/gioielleria/orologi",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://www.damiani.com/en_us/pink-gold-and-diamonds-watch-30050244",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxgroups.ua/ua/watch/damiani/belle-epoque/",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.orologi.it/brand/damiani/",
+   "passada": 2,
+   "novos": 15
+  },
+  {
+   "url": "https://www.orologi.it/brand/damiani/page/2/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.luxgroups.ua/watch/damiani/",
+   "passada": 2,
+   "novos": 14
+  },
+  {
+   "url": "https://www.luxgroups.ua/sitemaps/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeavenue.ru/watches/damiani/d-side/damiani-d-side-chasy-30017684/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gc-yukizaki.com/en/k/watch/damiani/brandnew",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.luxgroups.ua/watch/damiani/notten-di-san-lorenzo/chacy-damiani-notten-di-san-lorenzo-30002510.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.damiani.com/en/jewelry/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/fr_ch/joaillerie/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/en_eu/jewelry/mimosa/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/de_eu/schmuck/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.damiani.com/en_eu/jewelry/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologi.it/annuario/damiani-d-side-co-designed-by-damiani-and-brad-pitt-3000-1816/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://style.rbc.ru/items/57909b519a79474ab5b66d68",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://theedgemalaysia.com/content/advertise/damianis-radiance-takes-centre-stage-a-gem-of-italian-excellence-unveiled-in-seibu-the-exchange-trx",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://skyjems.ca/pages/encyclopedia-damiani-d-side",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/219482965",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://noblesse.ua/ru/chasy/chasy-ego-damiani-1",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxuryzone.it/en/product/Damiani-Ego-Chrono-34-mm/120632",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxuryzone.it/product/OROLOGIO-47-MM-EGO-OVERSIZE/106618",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gioielleriatarantino.it/orologio-damiani-ego-oversize/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioielleriatarantino.it/orologio-damiani-ego-chrono/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/all/damiani-ego--id28277269.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/eden",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
