@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 371,
- "ultima_versao": 326,
+ "proxima_linha_marcas": 374,
+ "ultima_versao": 327,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5197,6 +5197,51 @@
    },
    "versao": 326,
    "obs": "tratada como grande; ~95 modelos vistos só em títulos de busca do Hourstriker (link da ficha na coluna C); Firecrawl sem créditos"
+  },
+  {
+   "data": "2026-10-30",
+   "marca": "De Rijke",
+   "linha_marcas": 371,
+   "linhas_relogios": "60549-60574",
+   "relogios": 26,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 46,
+   "passadas": {
+    "1": "46 fontes, 26 novos"
+   },
+   "versao": 327,
+   "obs": "site oficial client_error; Firecrawl sem créditos"
+  },
+  {
+   "data": "2026-10-30",
+   "marca": "De Tournemire",
+   "linha_marcas": 372,
+   "linhas_relogios": "60575-60580",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 15,
+   "passadas": {
+    "1": "15 fontes, 6 novos"
+   },
+   "versao": 327,
+   "obs": "site server_error; imprensa escassa; Firecrawl sem créditos"
+  },
+  {
+   "data": "2026-10-30",
+   "marca": "Debaufre",
+   "linha_marcas": 373,
+   "linhas_relogios": "60581-60598",
+   "relogios": 18,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 23,
+   "passadas": {
+    "1": "23 fontes, 18 novos"
+   },
+   "versao": 327,
+   "obs": "marca extinta (ex-Steinhart EUA), site fora do ar; Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
