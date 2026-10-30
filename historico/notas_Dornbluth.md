@@ -8,3 +8,7 @@ Usa códigos: sim (ex. 99.1 (02) ST).
 - Majestix foto: majestixcollection.com/wp-content/smush-webp/2023/06/D.-Dornblueth-Sohn-<fam>-<fam>-<n>-<ST|RG>.png.webp
 - awco: 99.0 Enamel dial; Q-2010-1; 99.9; Ladies 2016.1 (31 mm); Center Second; Regulator; 99.5; 99.4; 99.3; 99.2
 - Falta: Gorch Fock LE 2008, Mitsukoshi 350 LE 2023, primeiro modelo 2002 (2005.1/2006.1?), Kalbe?, Quintus 2010 vários
+- SITE OFICIAL abre (dornblueth.com/history veio da busca; /collection e subpáginas abriram). 25 modelos oficiais com foto images/watches2020/... Configurador (mostradores, caixas aço/bronze/ouro/platina) => VERMELHA, 2ª passada obrigatória.
+- Especiais: Gorch Fock I (75 pç, 2008/09, relógio em cardan tipo cronômetro de navio, 48 mm); 99.ZS Marineuhr bronze (10 pç); Mitsukoshi 350 (5 pç, base Q-2010.1, 2023); Timetotalk 99.4 (7 pç, 2017, mostrador marrom); CHR 2022 (62 pç); 99.0 (2) ST nº 24 c.2005 (Antiquorum, foto); 99.0 Enamel dial (awco)
+- Jubilar = 20 pç (15 aço, 3 ouro rosa, 2 platina), 20 anos (watchgecko). Zentrumsekunde C × Chronos 25 pç 2022 azul prussiano. 99.1M Gruene About Timepieces 5 pç. Quintus 40.0 Klassik salmão peça única nº141. Quintus Gold Classic Ceramic Black 2025. Titan Auf&Ab "edição limitada" sem nº.
+- Majestix: 28 refs (achei 26).
