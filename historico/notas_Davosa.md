@@ -5,3 +5,9 @@
 - Arquivos: raw_helveti.txt (Helveti pág.1, imagens i00.eu/img/606/280x305f/<id>.jpg), raw_cws8.txt, raw_all.txt (ref|nome|img; NOREF = sem código).
 - Feito: site oficial (coleção blaue-uhren + produto), Helveti p1, C.W. Sellors oembed, Whamond, Syohbido p1/p3, Jura, Davosa USA, Ocarat, WatchPatrol.
 - Falta: helveti p2-4 (não vieram em busca), coleções oficiais, lojas, masterhorologer artigos (archive não abriu), modelos antigos (Simplex, Military, Titanium, X-Agon, Vanguard, Pilot, Hunter...).
+## Fim da 1ª passada (~74 fontes)
+- Parou: 3 fontes seguidas sem novidade (Yodobashi, Wristler 147155, Ceneje).
+- Decisão: VERMELHA. Motivos: Helveti tem 212 produtos e as páginas 2–4 não vieram em busca; Testberichte cita 205 produtos; Chrono24/EveryWatch inacessíveis; linhas antigas (1987–2012: Panamericana, Regulateur, Pilot Chronograph, Simplex, X-Agon, Pares, Military, Titanium, Vanguard, Ladies Delight etc.) com poucas referências.
+- masterhorologer.com: client_error em todas as páginas (artigos entram só como link).
+- Logo: https://davosa-usa.com/cdn/shop/files/Dav-Logo-RGB_rot.png
+## 2ª passada: foco em antigos, LEs sem código, produtos escondidos do site oficial
