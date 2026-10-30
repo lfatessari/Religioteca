@@ -13,3 +13,5 @@
 - Jura Watches tem páginas antigas de Dapper (DW00100084–098, 114, 117) mas a coleção está vazia (só via busca).
 - Jura (busca site:): Dapper 34/38 DW00100083–098, 114, 117; Classic Petite Durham 222 (sem foto; nomes no endereço). Mastersintime tem páginas historical-dw00100NNN.htm (Firecrawl, includeTags h1+img, 1 crédito) com nome e foto de descontinuados → hist.txt
 - Firecrawl SEM CRÉDITOS às ~14:45 (renova em ~23h). Sondagem Mastersintime parou no DW00100118 (próximos: 119, 132, 134, 138, 152–160, 184–200…). Seguir só com WebSearch/WebFetch.
+- 1ª passada encerrada: Yahoo TW pg1/2/7, Luxoia, Whamond, imprensa (Moodie, WatchGecko, Teddy B.) sem novidade. Buscas por código exato ("DW00100152") não funcionam no buscador.
+- 2ª passada (marca VERMELHA: ~200 números DW001 sem modelo identificado; Firecrawl acabou): 11 fontes novas, 2 relógios novos; parou após 3 fontes seguidas sem novidade.
