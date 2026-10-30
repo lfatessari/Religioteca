@@ -1,0 +1,1 @@
+# Decade (linha 374): identificada como marca americana de relógios de quartzo baratos (moda, lojas de departamento), vendida usada em eBay/Poshmark. Sem site oficial ativo achado. Marca registrada 'DECADE WATCH COMPANY' (Golden Hour, serial 87839691). Só números de modelo (5 dígitos) nos anúncios. Anúncios sem número não viram linha.
