@@ -11,3 +11,4 @@
 - Mapa SKU SWD→ref: 1948=2745 Rallye GMT; 1955=2758 Rally Auto; 1692=27341; 1044=17251; 1003=1736; 1013=2558; 1015=2556; 1011=2216; 1023=2476; 1040=1725; 1033=24681; 1053=1948; 1017=2223; 2042=2976; 2046=2981.
 - Loja oficial swiss-military.net (robots) e site swiss-military-watch.info (robots) → coluna L.
 - Ashford: padrão de foto cdn/shop/files/<ref>_F.jpg. 24151 'Classic Ambassador' (corda manual, GMT) — duvidoso se é CX (UPC diferente) → fora.
+- Invincible TT = antigo Dreadnought TT (página oficial dreadnought-tt.html). Invincible 3010-3013 (aut., bicolor) e TT 3111; TTQ quartzo.
