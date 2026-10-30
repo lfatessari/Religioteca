@@ -5,3 +5,4 @@
 - The Watch Pages: páginas não abrem (client_error) -> títulos de busca com link.
 - Títulos TWP a incluir: FdC Purple Panda, Secret Alloy, California Blue, Sockeye, Panda Bleu, Ocean d'Or 5N, L'Heure Bleue, Dhione & Rhea; Antarctique Rattrapante Silver Grey; QdB No 29 S, Midnight in Geneva S; PV 5N rose gold; Antarctique Terre Adélie Secret Alloy; PV Dark Matter; QdB Royal Blue; FdC Ocean d'Or.
 ## Seções feitas: 1, 3 (parcial), 5 (parcial), 7 (ET, Jura)
+- Gressive: thumbnails tokimegu por ano (bons). Polar Sky/Flying Diamonds 38,5 = versão S. Códigos oficiais: Rattrapante Ice Blue 1613, FdC Black Knight 1424, QdB 33 ter 1266, Solar Eclipse 1243, Havana Brown 1241, California Dreamin 1426, PdD Glacier Blue 1532-12-FR-P-S
