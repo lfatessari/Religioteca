@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 369,
- "ultima_versao": 324,
+ "proxima_linha_marcas": 370,
+ "ultima_versao": 325,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5164,6 +5164,22 @@
     "2": 31,
     "3": 12
    }
+  },
+  {
+   "data": "2026-10-30",
+   "marca": "De Bethune",
+   "linha_marcas": 369,
+   "linhas_relogios": "59930-60175",
+   "relogios": 246,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 183,
+   "passadas": {
+    "1": "129 fontes, 216 novos",
+    "2": "41 fontes, 23 novos",
+    "3": "13 fontes, 2 novos"
+   },
+   "versao": 325
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5182,32 +5198,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T20:42:12Z",
- "ultimo_sinal": "2026-10-30T21:17:15Z",
- "em_andamento": {
-  "marcas": [
-   "De Bethune"
-  ],
-  "linha_marcas": 370,
-  "grande": true,
-  "relogios": "historico/parcial_DeBethune_relogios.txt",
-  "fontes": "historico/parcial_DeBethune_fontes.txt",
-  "notas": "historico/notas_DeBethune.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3
  }
 }
