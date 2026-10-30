@@ -7,3 +7,6 @@ Grande (vintage militar com muitas refs NSN). Site oficial real: cwcwatch.com (S
 - Blog: links internos do blog pedem permissão (black-80, ti300). Páginas 2-9 do blog não alcançadas (nenhuma busca trouxe).
 - Worn&Wound review FAA chrono pediu permissão. Gear Patrol cita relógios de mesa/cronômetros (não pulso): Military Stopwatch, DHSS Stopwatch, Harrier Cockpit Clock — fora. Reedição antiga do cronógrafo assimétrico com Valjoux 7760 (provavelmente = RN Fleet Air Arm, ver).
 - Relógio de mesa/caixa (MOD Quartz Chronometer 6645-99-541-7361, antiquewatchstore) - fora (não é de pulso). W10 Airborne citado só em legenda (hourstriker) - buscar.
+## Fim da 1ª passada (00:13 UTC): ~127 fontes, 79 relógios. Parou: 3 fontes seguidas sem novidade.
+Decisão: VERMELHA — edições especiais com mostrador personalizado para unidades/regimentos (sob encomenda), relógios da BBC (dezenas, sem nome), projetos especiais da Vault, páginas 2-9 do blog inalcançáveis, centenas de exemplares militares com variações de lote.
+## 2ª passada: foco em edições especiais/regimentais, BBC, blog via busca, produtos ocultos com termos novos, leilões.
