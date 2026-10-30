@@ -1,0 +1,6 @@
+# Notas CX Swiss Military Watch (linha 346, grande)
+- Grande (refs 4-5 dígitos, centenas de variantes; Charmex). Só ela nesta execução. Cyma (348) provavelmente grande também; Cyclos (347) pequena.
+- Firecrawl sem créditos. Site oficial (cxswissmilitary.ch / swiss-military.com) não aparece em buscas. masterhorologer: client_error.
+- Fonte-chave: watchpartners.com.au (revendedor oficial AU, Magento) — refs no título.
+- swisswatchdistributors: 1001–1057 são SKU da loja (variantes), não refs. Linhas: Airforce I, Airforce I Evo, Conger, Conger Nero Auto, Delta Evo, Hurricane Worldtimer, HW Rawhide, Navy Diver 500 (+Scuba), Sea Wolf I (+Scuba, Scuba Nero), Typhoon Scuba, 20.000 FT, Rally GMT (1948-52), Rally Auto (1953-57), Nautilus Auto (2041-44), Neptune Auto (2045-48). Pode ser que 1948-2048 sejam refs reais (ver).
+- fairtime.dk: Seawolf One (4 cores), Airforce One (4)+Evo(4), Conger(4), Conger Nero(4), 20.000 Feet (4: prata, preto, azul, amarelo).
