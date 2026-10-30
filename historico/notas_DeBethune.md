@@ -11,3 +11,4 @@
 - DB28 Maxichrono refs DB28MCRZN/DB28MCTN vieram de busca (PDFs oficiais) -> contados com A Collected Man CS151 (+2 atribuídos à busca)
 - WCL (watchcollectinglifestyle) listou: DB8REWS3 (DB Eight azul royal), LVDB-03 Louis Vuitton × De Bethune, DB25 Mexican Civilization (peça única), DB28 Dark Shadows LE, DB25 White Night, Cempasúchil II, DB25sQP 40mm Ti -> buscar fotos/refs (contar WCL como fonte quando adicionar)
 - A fazer: Urwerk×DB OW2019 (Moon Satellite), Cempasúchil I/II, Armilia, Tigre & Dragon, Al Amal, Maestri'Art I/II, Dream Watch 1-4,6, DB28 Digitale, DB28 GS, DB28 Black Gold, Imperial Fountain, DB25T, DB28 Skybridge ref, DB27 refs (thehourglass db27)
+- EWC: padrão de foto images.europeanwatch.com/images/<2 dígitos>/<estoque>-1.jpg confirmado no 54991; refs vindas de títulos de busca EWC
