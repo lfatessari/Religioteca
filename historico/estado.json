@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 370,
- "ultima_versao": 325,
+ "proxima_linha_marcas": 371,
+ "ultima_versao": 326,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5180,6 +5180,23 @@
     "3": "13 fontes, 2 novos"
    },
    "versao": 325
+  },
+  {
+   "data": "2026-10-30",
+   "marca": "De Grisogono",
+   "linha_marcas": 370,
+   "linhas_relogios": "60176-60548",
+   "relogios": 373,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 126,
+   "passadas": {
+    "1": "90 fontes, 231 novos",
+    "2": "26 fontes, 47 novos",
+    "3": "10 fontes, 2 novos"
+   },
+   "versao": 326,
+   "obs": "tratada como grande; ~95 modelos vistos só em títulos de busca do Hourstriker (link da ficha na coluna C); Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

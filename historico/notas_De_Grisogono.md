@@ -8,3 +8,5 @@ usa_codigos: true (refs tipo UNO DF S10, GS S01, SY S04, TRE 16)
 - Firecrawl sem créditos (renova em 16h). collecting.com redireciona (não seguido).
 - Site oficial degrisogono.com não aparece em nenhuma busca (marca encerrada 2020) -> L.
 - Últimas 3 fontes seguidas (openers x2, godechot, swisscollector) = 0 novos -> 1ª passada encerra.
+- 2ª passada encerrada (26 fontes, ~50 novos; últimas 3 = 0). 3ª passada obrigatória (>=5 novos na 2ª).
+- 3ª passada: 10 fontes, 2 novos; últimas 5 = 0 novos -> encerrada.

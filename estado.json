@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 370,
- "ultima_versao": 325,
+ "proxima_linha_marcas": 371,
+ "ultima_versao": 326,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5180,6 +5180,23 @@
     "3": "13 fontes, 2 novos"
    },
    "versao": 325
+  },
+  {
+   "data": "2026-10-30",
+   "marca": "De Grisogono",
+   "linha_marcas": 370,
+   "linhas_relogios": "60176-60548",
+   "relogios": 373,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 126,
+   "passadas": {
+    "1": "90 fontes, 231 novos",
+    "2": "26 fontes, 47 novos",
+    "3": "10 fontes, 2 novos"
+   },
+   "versao": 326,
+   "obs": "tratada como grande; ~95 modelos vistos só em títulos de busca do Hourstriker (link da ficha na coluna C); Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5198,33 +5215,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T21:42:01Z",
- "ultimo_sinal": "2026-10-30T21:59:59Z",
- "em_andamento": {
-  "marcas": [
-   "De Grisogono"
-  ],
-  "linha_marcas": 370,
-  "grande": true,
-  "relogios": "historico/parcial_De_Grisogono_relogios.txt",
-  "fontes": "historico/parcial_De_Grisogono_fontes.txt",
-  "notas": "historico/notas_De_Grisogono.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 2,
-  "extras": [
-   "historico/hs_raw.txt",
-   "historico/img_raw.txt"
-  ]
  }
 }
