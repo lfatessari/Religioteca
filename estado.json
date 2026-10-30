@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 354,
- "ultima_versao": 312,
+ "proxima_linha_marcas": 355,
+ "ultima_versao": 313,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4933,6 +4933,24 @@
     "1": 18
    },
    "obs": "Basquiat (3) com fotos; 8 modelos Kings/Classic só por título de busca do site oficial. Bateria de 2 marcas: Daizoh Makihara (354) é de peças únicas => grande, sozinha na próxima."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 313,
+   "marcas": [
+    "Daizoh Makihara"
+   ],
+   "linha_marcas": 354,
+   "linhas_relogios": "57996-58000",
+   "relogios": 5,
+   "vermelho": false,
+   "grande": true,
+   "site_bloqueado": "Sim – daizohmakihara.jp (não aparece em buscas; Firecrawl sem créditos)",
+   "fontes": 34,
+   "passadas": {
+    "1": 34
+   },
+   "obs": "Tratada como grande pela regra (peças sob encomenda), mas o catálogo é mínimo: Kikutsunagimon Sakura (8 pç), Beauties of Nature/Kachofugetsu (1/ano) + protótipo de aço, e 2 colaborações Knot (Fu-oh, Rin-oh, 2022). Próxima: Damasko (355)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4947,24 +4965,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T07:42:21Z",
- "ultimo_sinal": "2026-10-30T07:45:49Z",
- "em_andamento": {
-  "marcas": [
-   "Daizoh Makihara"
-  ],
-  "linha_marcas": 354,
-  "grande": true,
-  "relogios": "historico/parcial_Daizoh_Makihara_relogios.txt",
-  "fontes": "historico/parcial_Daizoh_Makihara_fontes.txt",
-  "notas": "historico/notas_Daizoh_Makihara.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "3"
-  ],
-  "passada": 1
  }
 }
