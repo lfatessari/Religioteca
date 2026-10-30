@@ -23,3 +23,4 @@
 7. Fontes: ~166.
 - Decisão: VERMELHA. Motivo: catálogo de ~95 peças na Watchpartners (só ~50 alcançadas), loja e site oficiais bloqueados, várias cores de cada linha sem referência (Conger, Airforce I Evo, Hawk, Seawolf, Typhoon, Desert Storm, Calypso, Lightning), modelos antigos (Delta Force, Paratrooper, Argonaut) sem lista.
 ## 2ª passada (começa 01:05): buscas de referências faltantes por faixa de números; lojas novas.
+(2ª) +Tank 2735 (Ashford título), 2742 (ToM título), Hawk Snowpatrol 2725 (Jomashop título), GMT 2771 (Ashford título) — contados nas fontes de busca? Não: só títulos de busca, entram por anúncio (visto só no título).
