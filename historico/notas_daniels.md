@@ -7,3 +7,4 @@ Clutton 1969 (1ª, detente pivotado, ouro e prata), Marryat 1969, Bloomfield 196
 Spring-detent chronometer tourbillon 1970 do site = qual? (Sotheby's 2017 lot 78 = feito p/ Edward Hornby?? conflito: Phillips 2021 diz Hornby; site sdc 1970 = provavelmente Elsom I ou Sarah Jane ou Hornby). DECIDIR.
 Millennium: 48 YG (incl. protótipo) + 8 WG; nº01 WG único 2001. Anniversary: 35.
 Fontes até agora: 19.
+Science Museum: protótipo Anniversary 2010 e protótipo co-axial Patek Philippe/Daniels — ver fichas. Faltam fotos das peças de bolso nomeadas. 'Two further tourbillon wristwatches made with Roger Smith' (Phillips CH080322/27) — investigar.
