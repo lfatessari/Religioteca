@@ -8,3 +8,4 @@
 - Stingray = marca Charmex (já em Charmex 2162) → não entra. Site da campanha: 20000feet.com. Argonaut 1000 auto = 1916 (refs 19xx reais).
 - SWD: TODOS os números são SKU da loja (prova: SKU 1053 = 20000 ft amarelo, foto 1948). Ref real no nome do arquivo da foto. Rally Auto, Nautilus Auto, Neptune Auto: só nomes (sem ref) por ora.
 - SITE OFICIAL = swiss-military-watch.info (robots_disallowed em todas as páginas). Títulos de páginas na busca: PANZER (=Tank), PANZER NERO RAWHIDE, 20'000 FEET, AIRFORCE I, AIRFORCE I EVO, HAWK NERO, HAWK NERO RAWHIDE, DESERT STORM, NAVY DIVER 500, DELTA EVO, HURRICANE WORLDTIMER. Coluna L.
+- Mapa SKU SWD→ref: 1948=2745 Rallye GMT; 1955=2758 Rally Auto; 1692=27341; 1044=17251; 1003=1736; 1013=2558; 1015=2556; 1011=2216; 1023=2476; 1040=1725; 1033=24681; 1053=1948; 1017=2223; 2042=2976; 2046=2981.
