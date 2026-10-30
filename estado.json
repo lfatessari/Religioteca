@@ -4913,20 +4913,22 @@
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  },
  "em_execucao": "2026-10-30T06:42:02Z",
- "ultimo_sinal": "2026-10-30T06:42:02Z",
+ "ultimo_sinal": "2026-10-30T06:46:39Z",
  "em_andamento": {
   "marcas": [
    "Da Vindice",
-   "DAEM",
-   "Daizoh Makihara"
+   "DAEM"
   ],
   "linha_marcas": 352,
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": {
+   "Da Vindice": "todas (pronta: dados_Da_Vindice.txt + marca_Da_Vindice.json)",
+   "DAEM": []
+  },
   "passada": 1,
-  "obs": "dimensionando; a bateria pode encolher"
+  "obs": "Daizoh Makihara (354) = peças únicas => grande, fica para a próxima"
  }
 }
