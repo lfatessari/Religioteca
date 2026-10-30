@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 350,
- "ultima_versao": 309,
+ "proxima_linha_marcas": 351,
+ "ultima_versao": 310,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4858,6 +4858,25 @@
     "1": 94
    },
    "obs": "Base: Exquisite Timepieces (31 atuais + usados escondidos), The Limited Edition (UK), Jura Watches, títulos do The Watch Pages (páginas não abrem), WorldTempus (Kuros, Klepcys Mars/Red Gold, Kambys), Watchonista (fichas com ref.), aBlogtoWatch, Time and Watches, Escapement. 17 linhas sem foto (link da página). Bateria só com Cyrus porque Czapek (350) é grande. Próxima: Czapek (350)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 310,
+   "marcas": [
+    "Czapek"
+   ],
+   "linha_marcas": 350,
+   "linhas_relogios": "57647-57835",
+   "relogios": 189,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – czapek.com (só our-story e archives aparecem nas buscas); Firecrawl sem créditos",
+   "fontes": 103,
+   "passadas": {
+    "1": 89,
+    "2": 14
+   },
+   "obs": "Base: Exquisite Timepieces (loja + páginas antigas), Gressive (catálogo Japão 2018-2026), arquivo oficial, WatchBase/Majestix (QDBnn), Phillips (9 lotes), Oster (tiragens), Jura, The Limited Edition, European Watch, Monochrome, mrstateless, Watchonista. Muitas linhas só com título (The Watch Pages não abre). Próxima: D.Dornblüth & Sohn (351)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

@@ -14,3 +14,11 @@
 - Vermelho: SIM (Bespoke Atelier/peças sob encomenda, edições de lojas e boutiques pouco documentadas, muitas linhas só com título).
 - 2ª passada: buscar exclusivos de lojas (Sincere, Collective P.01-03, Watches of Switzerland, Hodinkee, Wempe, Bucherer, Ahmed Seddiqi, Dubai Watch Week), bespoke, Only Watch, §2c no ET .html e Jura.
 - LE (Oster): Tourbillon Victory Green 10; Transparencies Aqua Blue 38; S Frozen Meteor 25; Frozen Meteor 38; Goutte de Rosée 25; S Révélation Ti Cosmic Blue 25; Révélation Ti Cosmic Blue 50; S Dark Sector Cosmic Blue 10; Dark Sector Cosmic Blue 25; Crossroads Victory Green 18; Time Jumper ouro 30; aço 100; Tourbillon Secret Alloy 50; Erebus Deep Blue YG 50 (W&W: RG 100); S Polar Sky 77; Polar Sky 99.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: só "our-story" e "archives" abriram (demais páginas do site não aparecem em buscas). blogantarctique.czapek.com sem modelos.
+2. §2c: buscas site: na Exquisite (.html antigas, /products), Jura, 1916, Topper — feitas até repetir.
+3. Lojas: Exquisite, Jura, Oster, Topper, The Limited Edition, European Watch, Bulang & Sons, 1916 Company, Whamond, C.W. Sellors.
+4. Primeiro modelo: Quai des Bergues Nº 25/29/31/33 (2015) e Lady Nº 1–11 (2016) — dentro.
+5. I/J: Quai des Bergues, Antarctique, Faubourg de Cracovie, Place Vendôme — todos achados.
+6. LE/colaborações na B; peças únicas na E.
+7. Fontes: ver parcial_Czapek_fontes.txt.

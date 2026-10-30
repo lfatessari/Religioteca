@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 350,
- "ultima_versao": 309,
+ "proxima_linha_marcas": 351,
+ "ultima_versao": 310,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4858,6 +4858,25 @@
     "1": 94
    },
    "obs": "Base: Exquisite Timepieces (31 atuais + usados escondidos), The Limited Edition (UK), Jura Watches, títulos do The Watch Pages (páginas não abrem), WorldTempus (Kuros, Klepcys Mars/Red Gold, Kambys), Watchonista (fichas com ref.), aBlogtoWatch, Time and Watches, Escapement. 17 linhas sem foto (link da página). Bateria só com Cyrus porque Czapek (350) é grande. Próxima: Czapek (350)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 310,
+   "marcas": [
+    "Czapek"
+   ],
+   "linha_marcas": 350,
+   "linhas_relogios": "57647-57835",
+   "relogios": 189,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – czapek.com (só our-story e archives aparecem nas buscas); Firecrawl sem créditos",
+   "fontes": 103,
+   "passadas": {
+    "1": 89,
+    "2": 14
+   },
+   "obs": "Base: Exquisite Timepieces (loja + páginas antigas), Gressive (catálogo Japão 2018-2026), arquivo oficial, WatchBase/Majestix (QDBnn), Phillips (9 lotes), Oster (tiragens), Jura, The Limited Edition, European Watch, Monochrome, mrstateless, Watchonista. Muitas linhas só com título (The Watch Pages não abre). Próxima: D.Dornblüth & Sohn (351)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4872,31 +4891,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T04:42:04Z",
- "ultimo_sinal": "2026-10-30T05:01:30Z",
- "em_andamento": {
-  "marcas": [
-   "Czapek"
-  ],
-  "linha_marcas": 350,
-  "grande": true,
-  "relogios": "historico/parcial_Czapek_relogios.txt",
-  "fontes": "historico/parcial_Czapek_fontes.txt",
-  "notas": "historico/notas_Czapek.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
  }
 }
