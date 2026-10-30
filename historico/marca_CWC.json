@@ -1,0 +1,717 @@
+{
+ "marca": "CWC",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G errado: o site oficial é cwcwatch.com. H: Instagram oficial é @cwcwatch. I/J: 'Fatboy' é o G10 de quartzo de 1980, não um cronógrafo da RAF (os cronógrafos da RAF são os 'Fab Four'/6BB, Valjoux 7733). C (Londres) não confirmado.",
+ "fontes": [
+  {
+   "url": "https://www.cwcwatch.com/pages/frontpage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/m-o-d-spec",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/the-vault",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/limited-editions",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/heritage-reissue-historical-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/general-service-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/g40-series",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/gs-range",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/w10-mellor",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/divers-watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/divers-watches-mechanical-automatic",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/chronograph",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/cwc-pocket-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/all/products/cwc-g10-issue-watch-no-date-with-battery-hatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/products/vault-cwc-sbs-issue-divers-watch-mk-1-new-old-stock-2015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-quartz-divers-watch-rn300-m-qs120",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-quartz-divers-watch-rn300-m-qs120-dd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-quartz-divers-watch-rn300-p-qs120-dd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-royal-navy-divers-quartz-watch-mk-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/vault-cwc-divers-watch-sf300-as120-d-serial-107-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/divers-watches/black.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/cwc/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hourstriker.com/brands/cwc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/cwc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wilson55.com/watches/cwc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-royal-navy-diver-automatic-mk2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/mechanical-chronograph-no-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-quartz-chronograph-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-t20-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-1970s-6bb-raf-pilots-chronograph-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/vendors/products/cabot-falcon-quartz-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-royal-navy-black-diver-automatic-mk-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-black-divers-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-mechanical-auto-general-service-watch-1970s-remake",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-g22-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-gs-sapphire-watch-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-sbs-black-ice-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-gs-sapphire-desert-silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-gs-sapphire-black-with-desert-storm-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-gs-sapphire-watch-silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-gs-sapphire-subhunter-white-dial-black-case",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-gs-sapphire-green-silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-gs-sapphire-subhunter-white-dial-stainless-steel-case",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/gs-range/products/cwc-gs-sapphire-black-with-military-green-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-g40-quartz-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-g40-subhunter-quartz-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-rn81-clearance-diver-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/blogs/news/cwc-g40-hits-makes-its-debut",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-mutineer-automatic-divers-watch-special-project",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cabot-fifty",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/all/products/cabot-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/black-80-automatic-diver.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/reissue-1980-royal-navy-diver-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/general-service-watches/products/cwc-pegasus-airborne-g10",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-1982-british-military-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-navigator-mechanical-hand-wound-gs-watch-1970-pattern",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-tamar-sbs-divers-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/vault-sbs-aged-special-project-watch-serial-3685-25",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/cwc-arctic-radar-automatic-diver/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/blogs/news/redbarraleigh-x-cwcwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-g10-fatboy-80-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/acf-special-edition-general-service-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-royal-navy-diver-automatic-mk2-with-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-e9-automatic-diver-watch-sf300-e9-as120",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/collections/divers-watches/products/cwc-royal-navy-issue-divers-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/vault-cwc-divers-special-project-all-black-watch-automatic-sf300-as120-d-serial-180-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/cwc-british-military-g10-navigator-with-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/products/cwc-mechanical-pocket-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwcwatch.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thegreynato.substack.com/p/321-cwc-and-the-cwn1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwcwatch.com/blogs/news/tgn-crew-watch-and-titanium-watches-to-come",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/pages/history-of-cwc-49-years-of-military-issue-timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/royal-navy-cwc-chronograph-as01710",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/cwc-1980-royal-navy-diver-as07608",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oliverandclarke.com/products/cwc-raf-chronograph-ref-0552-924-3306-matte-black-gilt-dial-unpolished.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1993-cwc-royal-sbs-diver-0555-6645-99-7995443",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1995-cwc-royal-navy-diver-0555-6645-99-7573314",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1990s-cwc-quartz-military-pilots-chronograph-belgium-air-force",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bonhams.com/auction/25394/lot/96/cwc-a-stainless-steel-manual-wind-military-chronograph-pilots-wristwatch-issued-to-the-raf-fab-four-circa-1980",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bonhams.com/auction/25394/lot/184/cwc-a-stainless-steel-automatic-military-issue-divers-wristwatch-sold-by-silvermans-to-civilian-and-british-military-personnel-circa-2002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/cwc-orologio-militare-assegnato-alle-forze-armate-dellesercito-inglese-anno-1976",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://mrjoneswatches.com/products/copy-of-precista-g10-raf-issue-1984",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://eu.mrjoneswatches.com/products/cwc-g10-fat-boy-1980-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://mrjoneswatches.com/products/cwc-royal-navy-chronograph-1980",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/cwc-cabot-watch-company-mechanical-chronograph-with-asymmetric-steel-case-awarded-to-the-royal-air-force-in-the-late-1990s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeline.watch/watch/1975-cwc-royal-navy-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/cwc/royal-airforce-pilo/watch-32413316",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/cwc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2019/09/30/these-rugged-watches-were-issued-to-the-british-military-and-you-can-still-buy-the-modern-versions/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/the-cwc-watches-issued-to-bbc-war-correspondents/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/cwc-sbs-diver-issue-mkii-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/de/uhren/cwc/lpi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-39mm-1973-cwc-military-pilot-mens-chronograph-wristwatch-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1765343",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-spending-time-with-the-cwc-w10-navigator/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://graysantiques.com/product/cwc-w10-british-military-issued-1977",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.graysantiques.com/product/cwc-6bb-military-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/cwc-brings-you-some-true-military-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/cwc/royal-navy-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofespionage.com/blogs/woe-dispatch/cwc-sbs-issue-dive-watch-history",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cwcwatch.com/blogs/news/cwc-back-on-the-big-screen-in-operation-fortune-ruse-de-guerre",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/blogs/news/cwc-features-and-press",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/blogs/news/cwc-sonar",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=237701",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/blogs/news/cwc-hits-the-big-screen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://milled.com/cwc/cwc-heading-into-2021-eAnGXfNScdA7byV-",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwcwatch.com/pages/fratello-article-the-cwc-watches-issued-to-bbc-war-correspondents",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/pages/about-us-web-home-page",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/blogs/news/customised-dials-for-most-models-of-cwc-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/products/cwc-101",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/cwc-2024-divers-watch-mk-2-sf300-qs120-dd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bulangandsons.fr/en/products/cwc-chronograph-issued-to-the-british-royal-air-force",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.trinitymarine.co.uk/products/original-army-issued-cwc-g10-watch-1991-75313",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windycitywatchcollector.com/products/cwc-sbs-diver-watch-w-2-straps",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.anchorsupplies.com/cwc-g10-quartz-5552.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/cwc-quartz-british-military-chronograph-circa-1980s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1977-cwc-british-military-navigator-field-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fifthwrist.com/cwc-royal-navy-spec-mk1-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiquewatchstore.com/product/anon-cwc-cabot-watch-company-serial-no-097-80-m/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/learn/cwc-military-procurement-and-tool-watch-engineering",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/blogs/news/royal-navy-issue-spec-qm60-back-in-stock",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/cwc-w10-british-military-watch-circa-2005/id-j_21644252",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/cwc-w10-british-military-field-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwcwatch.com/products/vault-cwc-gs2000-quartz-watch-serial-4239-13-pre-worn",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/36724039",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jpressonline.com/products/1970s-cwc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fifthwrist.com/brands/cwc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1973-cwc-royal-navy-pilots-chronograph-sterile-dial",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelanesarmoury.co.uk/shop.php?code=25067",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/en-int/blogs/watches/watches-of-the-sas",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/cwc-british-military-automatic-divers-watch-1984-issue.193256/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lyonandturnbull.com/auctions/london-watches-848/lot/68",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.liveauctioneers.com/item/236676861",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cambiaste.com/uk/auction-0841/cwc-chronograph-two-subdials-asymmetric-steel-case-with-screw-down-cas-282663",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.graysantiques.com/product/cwc-british-military-quartz-watch-1987",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/cwc-automatic-royal-navy-divers-watch-t-logo-broad-arrow-pheon-c-b-2004/id-j_23974702",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofespionage.com/blogs/woe-dispatch/tagged/cwc",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://milivault.com/products/527780",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.belmontwatches.com/products/cwc-quartz-divers-watch-mk-2-sbs-no-date-black-lhd-sf300-qs120",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1614239",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1484936/",
+   "passada": 2,
+   "novos": 1
+  }
+ ]
+}

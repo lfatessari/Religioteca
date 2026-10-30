@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 345,
- "ultima_versao": 304,
+ "proxima_linha_marcas": 346,
+ "ultima_versao": 305,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4763,6 +4763,25 @@
     "3": 16
    },
    "obs": "Site oficial (7 coleções) via Firecrawl; Wristler (138 anúncios do revendedor oficial), Chrono24.de p.1-6, Gressive (catálogos 2015/2021 e novidades 2014-2017), Hourstriker (coleções de arquivo), The Watch Pages, lojas japonesas, leilões. Firecrawl esgotou os créditos às 23:05 UTC. Próxima: CWC (345)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 305,
+   "marcas": [
+    "CWC"
+   ],
+   "linha_marcas": 345,
+   "linhas_relogios": "57088-57169",
+   "relogios": 82,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 141,
+   "passadas": {
+    "1": 127,
+    "2": 14
+   },
+   "obs": "Site oficial cwcwatch.com (Shopify; G diz cwc.ch). Fotos das páginas de produto vindas de busca e do oembed da coleção divers. Vintage militar com NSN (W10, G10, cronógrafos 0552/6BB 924-3306, mergulhadores RN/SBS 0552/0555). Firecrawl sem créditos. Páginas 2-9 do blog e links internos do blog pediram permissão. Próxima: CX Swiss Military Watch (346)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4777,32 +4796,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-29T23:42:14Z",
- "ultimo_sinal": "2026-10-30T00:12:35Z",
- "em_andamento": {
-  "marcas": [
-   "CWC"
-  ],
-  "linha_marcas": 345,
-  "grande": true,
-  "relogios": "historico/parcial_CWC_relogios.txt",
-  "fontes": "historico/parcial_CWC_fontes.txt",
-  "notas": "historico/notas_CWC.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 2
  }
 }
