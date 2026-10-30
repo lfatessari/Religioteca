@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 355,
- "ultima_versao": 313,
+ "proxima_linha_marcas": 356,
+ "ultima_versao": 314,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4951,6 +4951,17 @@
     "1": 34
    },
    "obs": "Tratada como grande pela regra (peças sob encomenda), mas o catálogo é mínimo: Kikutsunagimon Sakura (8 pç), Beauties of Nature/Kachofugetsu (1/ano) + protótipo de aço, e 2 colaborações Knot (Fu-oh, Rin-oh, 2022). Próxima: Damasko (355)."
+  },
+  {
+   "marca": "Damasko",
+   "linha_marcas": 355,
+   "data": "2026-10-30",
+   "linhas_relogios": "58001-58162",
+   "relogios": 162,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 68,
+   "grande": true
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
