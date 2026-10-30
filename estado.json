@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 351,
- "ultima_versao": 310,
+ "proxima_linha_marcas": 352,
+ "ultima_versao": 311,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4877,6 +4877,26 @@
     "2": 14
    },
    "obs": "Base: Exquisite Timepieces (loja + páginas antigas), Gressive (catálogo Japão 2018-2026), arquivo oficial, WatchBase/Majestix (QDBnn), Phillips (9 lotes), Oster (tiragens), Jura, The Limited Edition, European Watch, Monochrome, mrstateless, Watchonista. Muitas linhas só com título (The Watch Pages não abre). Próxima: D.Dornblüth & Sohn (351)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 311,
+   "marcas": [
+    "D.Dornblüth & Sohn"
+   ],
+   "linha_marcas": 351,
+   "linhas_relogios": "57836-57965",
+   "relogios": 130,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes": 133,
+   "passadas": {
+    "1": 108,
+    "2": 15,
+    "3": 10
+   },
+   "obs": "Site oficial dornblueth.com abriu (coleção com 25 modelos e fotos oficiais; configurador com mostradores/caixas sob encomenda => vermelha). Variantes: Define Watches (81 produtos), WatchBase/Majestix (26 refs 99.0/99.1/99.2 (NN) ST/RG), WatchBuys (Quintus 40.0). Especiais: 04.0 (2006, 75 pç), Gorch Fock I (75), Jubilar (20), CHR 2022 (62), Zentrumsekunde C × Chronos (25), Russian Project bronze (15), Marineuhr bronze (10), Timetotalk (7), Mitsukoshi (5), 99.1M Grüne (5). Firecrawl sem créditos. Próxima: Da Vindice (352)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4891,32 +4911,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T05:42:48Z",
- "ultimo_sinal": "2026-10-30T06:16:30Z",
- "em_andamento": {
-  "marcas": [
-   "D.Dornblüth & Sohn"
-  ],
-  "linha_marcas": 351,
-  "grande": true,
-  "relogios": "historico/parcial_Dornbluth_relogios.txt",
-  "fontes": "historico/parcial_Dornbluth_fontes.txt",
-  "notas": "historico/notas_Dornbluth.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a_passada"
-  ],
-  "passada": 3
  }
 }

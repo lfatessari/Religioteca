@@ -14,3 +14,12 @@ Usa códigos: sim (ex. 99.1 (02) ST).
 - Majestix: 28 refs (achei 26).
 - 1ª passada encerrada (últimas 7 fontes sem novidade). Novos: 04.0 LE 75 (2006, 38 mm, GUB), 99.1-M vermelho com data. Iniciar 2ª passada: configurador/mostradores especiais, Quintus 40.0, edições de lojas, 2005-2010, leilões, Japão.
 - 2ª passada: 15 fontes, 5 novos (bronze Russian 15 pç, 99.5 Ti, Q-REG bronze, 99.3 WG, 99.6-M vinho) => 3ª passada
+- 3ª passada: 10 fontes, 4 novos (<5) => parar.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: news (CHR 2022) lido; site não tem blog. OK.
+2. §2c: site oficial sem loja; páginas de coleção e de modelo abertas; buscas site: não retornam páginas ocultas (domínio quase não indexado).
+3. site:<loja> feito em definewatches, watchbuys, majestix, horologybythesea, exquisite.
+4. Primeiro modelo: 99.2 (2002) incluído; relógio de 1999 (cal. Glashütte 60.3) era peça particular de presente, sem nome — não incluído. 04.0 (2006) incluído.
+5. J da aba Marcas: "Kaliber 99, 2011, Quintus, 99.5" — '2011' não encontrado como modelo (provável confusão com Quintus-2010/2012). Fundação: I diz anos 2000; Wikipedia/manufatura citam 1962 (oficina de Dieter) e relógios próprios desde 2002.
+6. Edições limitadas na B com nº de peças; peça única (Quintus 40.0 salmão nº141) na E.
+7. Fontes: ver parcial_Dornbluth_fontes.txt
