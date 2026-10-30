@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 363,
- "ultima_versao": 320,
+ "proxima_linha_marcas": 366,
+ "ultima_versao": 321,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5079,6 +5079,45 @@
    "site_bloqueado": false,
    "fontes": 69,
    "versao": 320
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 321,
+   "marcas": [
+    "Dark Rush",
+    "David Candaux",
+    "David Rutten"
+   ],
+   "detalhes": [
+    {
+     "marca": "Dark Rush",
+     "linha_marcas": 363,
+     "linhas_relogios": "59407-59411",
+     "relogios": 5,
+     "vermelho": false,
+     "site_bloqueado": false,
+     "fontes": 18
+    },
+    {
+     "marca": "David Candaux",
+     "linha_marcas": 364,
+     "linhas_relogios": "59412-59435",
+     "relogios": 24,
+     "vermelho": false,
+     "site_bloqueado": false,
+     "fontes": 51
+    },
+    {
+     "marca": "David Rutten",
+     "linha_marcas": 365,
+     "linhas_relogios": "59436-59437",
+     "relogios": 2,
+     "vermelho": false,
+     "site_bloqueado": "davidrutten.com robots",
+     "fontes": 16
+    }
+   ],
+   "obs": "Firecrawl sem créditos nesta execução. Próxima: David Yurman (366) — dimensionar (joalheria, pode ser grande). Linha 369 'D. Candaux' é duplicata de David Candaux."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5089,29 +5128,13 @@
   "Messerschmitt": {
    "linha_marcas": 904,
    "linhas_relogios": "6829-7094"
+  },
+  "D. Candaux": {
+   "linha_marcas": 369,
+   "linhas_relogios": "59412-59435 (gravada como David Candaux; duplicata)"
   }
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T16:32:36Z",
- "ultimo_sinal": "2026-10-30T16:51:48Z",
- "em_andamento": {
-  "marcas": [
-   "Dark Rush",
-   "David Candaux",
-   "David Rutten"
-  ],
-  "linha_marcas": 363,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Dark Rush: todas",
-   "Candaux: todas",
-   "Rutten: todas"
-  ],
-  "passada": 1
  }
 }
