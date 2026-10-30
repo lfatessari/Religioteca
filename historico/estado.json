@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 366,
- "ultima_versao": 321,
+ "proxima_linha_marcas": 367,
+ "ultima_versao": 322,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5118,6 +5118,22 @@
     }
    ],
    "obs": "Firecrawl sem créditos nesta execução. Próxima: David Yurman (366) — dimensionar (joalheria, pode ser grande). Linha 369 'D. Candaux' é duplicata de David Candaux."
+  },
+  {
+   "marca": "David Yurman",
+   "linha_marcas": 366,
+   "data": "2026-10-30",
+   "linhas_relogios": "59438-59509",
+   "relogios": 72,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 133,
+   "passadas": {
+    "1": "93 fontes, 55 novos",
+    "2": "23 fontes, 10 novos",
+    "3": "17 fontes, 5 novos"
+   },
+   "versao": 322
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

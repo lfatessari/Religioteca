@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 366,
- "ultima_versao": 321,
+ "proxima_linha_marcas": 367,
+ "ultima_versao": 322,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5118,6 +5118,22 @@
     }
    ],
    "obs": "Firecrawl sem créditos nesta execução. Próxima: David Yurman (366) — dimensionar (joalheria, pode ser grande). Linha 369 'D. Candaux' é duplicata de David Candaux."
+  },
+  {
+   "marca": "David Yurman",
+   "linha_marcas": 366,
+   "data": "2026-10-30",
+   "linhas_relogios": "59438-59509",
+   "relogios": 72,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 133,
+   "passadas": {
+    "1": "93 fontes, 55 novos",
+    "2": "23 fontes, 10 novos",
+    "3": "17 fontes, 5 novos"
+   },
+   "versao": 322
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5136,32 +5152,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T17:42:11Z",
- "ultimo_sinal": "2026-10-30T17:57:07Z",
- "em_andamento": {
-  "marcas": [
-   "David Yurman"
-  ],
-  "linha_marcas": 366,
-  "grande": true,
-  "relogios": "historico/parcial_David_Yurman_relogios.txt",
-  "fontes": "historico/parcial_David_Yurman_fontes.txt",
-  "notas": "historico/notas_David_Yurman.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3
  }
 }
