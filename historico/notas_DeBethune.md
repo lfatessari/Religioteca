@@ -14,3 +14,4 @@
 - EWC: padrão de foto images.europeanwatch.com/images/<2 dígitos>/<estoque>-1.jpg confirmado no 54991; refs vindas de títulos de busca EWC
 ## Fim da 1ª passada (~133 fontes). Últimas fontes rendendo 0–1. Decisão: VERMELHA — o catálogo histórico oficial (filtro por ano 2002–2025) não abre por inteiro; CollectorSquare tem 99 resultados (só 38 lidos); muitas refs só por título; peças únicas/encomendas especiais (CS) sem lista.
 ## 2ª passada: foco em catálogo por ano, Hour Glass catalog, watchprosite collection, Sotheby's/Christie's/Bonhams, CS (encomendas), Monochrome.
+## Fim da 2ª passada: 45 fontes, 23 novos -> 3ª passada
