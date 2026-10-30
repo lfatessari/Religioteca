@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 346,
- "ultima_versao": 305,
+ "proxima_linha_marcas": 347,
+ "ultima_versao": 306,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4782,6 +4782,26 @@
     "2": 14
    },
    "obs": "Site oficial cwcwatch.com (Shopify; G diz cwc.ch). Fotos das páginas de produto vindas de busca e do oembed da coleção divers. Vintage militar com NSN (W10, G10, cronógrafos 0552/6BB 924-3306, mergulhadores RN/SBS 0552/0555). Firecrawl sem créditos. Páginas 2-9 do blog e links internos do blog pediram permissão. Próxima: CX Swiss Military Watch (346)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 306,
+   "marcas": [
+    "CX Swiss Military Watch"
+   ],
+   "linha_marcas": 346,
+   "linhas_relogios": "57170-57361",
+   "relogios": 192,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Sim – swiss-military-watch.info e swiss-military.net (robots); cxswissmilitary.ch não aparece em buscas",
+   "fontes": 199,
+   "passadas": {
+    "1": 164,
+    "2": 23,
+    "3": 12
+   },
+   "obs": "Base: Watchpartners (AU, revendedor oficial, ~95 peças; só parte alcançada), Ashford, Swiss Watch Distributors/Swiss Watch Boutique (SKU de loja≠ref; ref no nome da foto), Watchexclusive.eu, Timepiece.com, Europa Star, aBlogtoWatch. Firecrawl sem créditos. Catálogo 2010 no Issuu não abriu. Stingray fica em Charmex. Próxima: Cyclos (347); Cyma (348) provavelmente grande."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
