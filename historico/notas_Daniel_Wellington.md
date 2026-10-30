@@ -11,3 +11,5 @@
 - ippojapanwatch: 8 códigos novos mas títulos SEO ruins (DW00100840, 841, 793, 676, 108, 090; DW00600270, 041) → buscar nomes.
 - Faixas faltando (descontinuados): 59–108 (Classy 26 mm, Dapper 34/38), 112–119, 152–160, 184–200, 287–302, 315–340, 351–357, 371–413, 487–507, 569–589, 600–624, 780–794…
 - Jura Watches tem páginas antigas de Dapper (DW00100084–098, 114, 117) mas a coleção está vazia (só via busca).
+- Jura (busca site:): Dapper 34/38 DW00100083–098, 114, 117; Classic Petite Durham 222 (sem foto; nomes no endereço). Mastersintime tem páginas historical-dw00100NNN.htm (Firecrawl, includeTags h1+img, 1 crédito) com nome e foto de descontinuados → hist.txt
+- Firecrawl SEM CRÉDITOS às ~14:45 (renova em ~23h). Sondagem Mastersintime parou no DW00100118 (próximos: 119, 132, 134, 138, 152–160, 184–200…). Seguir só com WebSearch/WebFetch.
