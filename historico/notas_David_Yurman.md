@@ -10,3 +10,4 @@ Firecrawl: sem créditos (renova em ~20h) — não usado.
 Site oficial davidyurman.com: não aparece em busca para relógios (marca parece ter deixado de vender relógios no site). Coluna G ok (domínio da marca).
 ## Pendentes (1stdibs/buy/used-david-yurman-watch): buscar página de cada
 Double Cable T-42875; Cable T10349; Bangle T-3833; T209-S; Cable MOP T-29106; Cable T-61533; Albion T9005QSSTBRAC; Belmont Shadow "Limited Edition"; Cable 10mm; Cable garnet; Madison oval cable; Tourmaline/emerald bangle; Cable 18k MOP 7mm cuff; Cuff watch 18k (id-j_24065202).
+- EveryWatch: páginas de anúncio fechadas para não assinantes ('Only Collectors Beyond This Point'); asset.everywatch.com abre mas sem foto.
