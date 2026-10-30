@@ -5,3 +5,7 @@
 - Formato antigo: 2187/C187 (tourbillon), 2147/C147 (chrono), 2137/C137 mono, 2107/C107 ultra-thin, 2157 date, C907 bolso?; Bvlgari: 247.X.60 etc (X=caixa, 10 aço,40 YG,50 RG,60 WG,70 Pt).
 - CollectorSquare refs: 518.ST, 377.X.60 QP chrono, 118.X.40 QP, 196.X.60 tourb retro date, 200.Y.60 Ellipsocurvex skel tourb, 807.L.10/60 retro hours+date, S247, 247.X.40/60, 0357BCSL moon, C907BB open face, 317 Papillon, 208.X.60 Datomax, 447.X.70/60 skel chrono, 318.Y.50 Ellipsocurvex jumping, 857.ST Metropolitan, Endurer BRE56SCHS (Bvlgari).
 - wristcheck: Numero (aço, senhora, 528?), Moonphase PR 0357BBSL (YG), mid-size chronograph aço 34mm, Automatic small seconds YG. wewatches: Ellipsocurvex QP Equation 121.Y.40 (sem foto)
+- horlogerie-suisse: páginas de novidades 2002,2004-2011 existem mas não vêm em busca (Firecrawl sem créditos) -> relatar.
+- EveryWatch: maioria das fichas com "Only Collectors" (bloqueado). EW 14075811 listou: Ellipsocurvex Papillon WG 318.Y.60.350.CN.BD, Le Sentier T157 vermelho, S177 cinza, Master 118.X.40 YG, Grand Lune 101845 (Bvlgari), Le Sentier 7622 YG salmão, T157STPL (=T157STPI Phillips).
+- Basel 2008: Athys II, 8-Day Tourbillon QP, Papillon Chronograph, Il Giocatore Veneziano.
+- Faltam: Metropolitan 857, Premier 807, Datomax 208, Academy/Athys III 110.Y.50, Ellipsocurvex 121/0167, Grande Lune, Bvlgari-DR (Papillon Voyageur, Carillon, Grande Sonnerie), Numero 528?, Sport, minute repeater, Papillon Chrono, Instantaneous, joalheria/senhoras.
