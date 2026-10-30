@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 349,
- "ultima_versao": 308,
+ "proxima_linha_marcas": 350,
+ "ultima_versao": 309,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4840,6 +4840,24 @@
     "3": 15
    },
    "obs": "Catálogo atual pela City Chain Singapura (46 peças W02-008xx: Charisma, Europa, Champion, Intelligentsia, Belle, Classic), Monochrome 2026 (Grand Maestro Steel Cross e The Chess), Yahoo Taiwan (02-04xx). Vintage: Europa Star swisstime (fichas 1968–1995), Antiquorum, Phillips, Bonhams, Christie's, Sotheby's, Fellows, 1stDibs, EveryWatch (asset.), Yahoo Leilões JP, Rakuma, fóruns Omega Forums e Relojes Especiales. Myriad (2011) via aBlogtoWatch. getcyma.shop parece loja-clone (preços -65%). Firecrawl sem créditos; eBay passou a recusar páginas. Próxima: Cyrus Genève (349)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 309,
+   "marcas": [
+    "Cyrus Genève"
+   ],
+   "linha_marcas": 349,
+   "linhas_relogios": "57563-57646",
+   "relogios": 84,
+   "vermelho": false,
+   "grande": true,
+   "site_bloqueado": "Sim – cyrus-watches.ch não aparece em buscas; Firecrawl sem créditos",
+   "fontes": 94,
+   "passadas": {
+    "1": 94
+   },
+   "obs": "Base: Exquisite Timepieces (31 atuais + usados escondidos), The Limited Edition (UK), Jura Watches, títulos do The Watch Pages (páginas não abrem), WorldTempus (Kuros, Klepcys Mars/Red Gold, Kambys), Watchonista (fichas com ref.), aBlogtoWatch, Time and Watches, Escapement. 17 linhas sem foto (link da página). Bateria só com Cyrus porque Czapek (350) é grande. Próxima: Czapek (350)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -4854,29 +4872,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T03:41:57Z",
- "ultimo_sinal": "2026-10-30T04:05:20Z",
- "em_andamento": {
-  "marcas": [
-   "Cyrus Genève"
-  ],
-  "linha_marcas": 349,
-  "grande": true,
-  "relogios": "historico/parcial_Cyrus_relogios.txt",
-  "fontes": "historico/parcial_Cyrus_fontes.txt",
-  "notas": "historico/notas_Cyrus.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 1
  }
 }
