@@ -11,3 +11,4 @@
 - masterhorologer.com: client_error em todas as páginas (artigos entram só como link).
 - Logo: https://davosa-usa.com/cdn/shop/files/Dav-Logo-RGB_rot.png
 ## 2ª passada: foco em antigos, LEs sem código, produtos escondidos do site oficial
+## Fim da 2ª passada (31 fontes, ~50 novos). Como trouxe ≥5, fazer 3ª passada (≥10 fontes novas): linhas antigas (Insight, Quadro, Urban Player, Parangon, Pianos, Titanium XL, femininos antigos, Panamericana).
