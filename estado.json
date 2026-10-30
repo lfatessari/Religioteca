@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 359,
- "ultima_versao": 316,
+ "proxima_linha_marcas": 360,
+ "ultima_versao": 317,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5018,6 +5018,26 @@
     "1": 17
    },
    "obs": "Liberty (J11.13), Libre Excentrique série 2 (29 pç), protótipo JeanRichard Aeroscope 2014. 'Double Freak' só em nome de arquivo de imagem (não incluído). Próxima: Daniel Roth (359, grande)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 317,
+   "marcas": [
+    "Daniel Roth"
+   ],
+   "linha_marcas": 359,
+   "linhas_relogios": "58303-58481",
+   "relogios": 179,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 212,
+   "passadas": {
+    "1": 169,
+    "2": 31,
+    "3": 12
+   },
+   "obs": "Maison grande (independente 1988-2000, Bvlgari 2000-~2015, LVMH 2023+). Site oficial só mostra Extra Plat + 20 modelos históricos (fotos não mapeáveis). Páginas anuais horlogerie-suisse 2002-2010 e EveryWatch (\"Only Collectors\") inacessíveis; Firecrawl sem créditos. 1stDibs fichas fora de busca pediram permissão (não repetir). Próxima: Daniel Strom (360)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5032,31 +5052,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-30T11:42:07Z",
- "ultimo_sinal": "2026-10-30T12:15:05Z",
- "em_andamento": {
-  "marcas": [
-   "Daniel Roth"
-  ],
-  "linha_marcas": 359,
-  "grande": true,
-  "relogios": "historico/parcial_Daniel_Roth_relogios.txt",
-  "fontes": "historico/parcial_Daniel_Roth_fontes.txt",
-  "notas": "historico/notas_Daniel_Roth.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
  }
 }
