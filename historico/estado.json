@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 347,
- "ultima_versao": 306,
+ "proxima_linha_marcas": 348,
+ "ultima_versao": 307,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4802,6 +4802,24 @@
     "3": 12
    },
    "obs": "Base: Watchpartners (AU, revendedor oficial, ~95 peças; só parte alcançada), Ashford, Swiss Watch Distributors/Swiss Watch Boutique (SKU de loja≠ref; ref no nome da foto), Watchexclusive.eu, Timepiece.com, Europa Star, aBlogtoWatch. Firecrawl sem créditos. Catálogo 2010 no Issuu não abriu. Stingray fica em Charmex. Próxima: Cyclos (347); Cyma (348) provavelmente grande."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 307,
+   "marcas": [
+    "Cyclos"
+   ],
+   "linha_marcas": 347,
+   "linhas_relogios": "57362-57377",
+   "relogios": 16,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "Sim – cyclos-watch.ch (robots e redirecionamento em loop)",
+   "fontes": 41,
+   "passadas": {
+    "1": 41
+   },
+   "obs": "Marca suíça (Dornach) do relógio de 24 h DualPhase, 2001-c.2020. Fontes: Europa Star, Masterhorologer, Sotheby's/Christie's/Heritage, Grenon's, Keepthetime (ref CLD-RG), Pawndeluxe, okdwo, importador cyclosinternational.com. Chrono24 e WatchPatrol não abriram; Firecrawl sem créditos. Bateria só com Cyclos porque a seguinte (Cyma, 348) é grande. Próxima: Cyma (348)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
