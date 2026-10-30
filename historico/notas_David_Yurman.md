@@ -11,3 +11,9 @@ Site oficial davidyurman.com: não aparece em busca para relógios (marca parece
 ## Pendentes (1stdibs/buy/used-david-yurman-watch): buscar página de cada
 Double Cable T-42875; Cable T10349; Bangle T-3833; T209-S; Cable MOP T-29106; Cable T-61533; Albion T9005QSSTBRAC; Belmont Shadow "Limited Edition"; Cable 10mm; Cable garnet; Madison oval cable; Tourmaline/emerald bangle; Cable 18k MOP 7mm cuff; Cuff watch 18k (id-j_24065202).
 - EveryWatch: páginas de anúncio fechadas para não assinantes ('Only Collectors Beyond This Point'); asset.everywatch.com abre mas sem foto.
+## Fim da 1ª passada (~94 fontes)
+Últimas fontes sem novidade: 1stdibs Belmont Shadow LE (só tiragem), Timeless, TheRealReal, 1stdibs T304 ouro, about-us oficial, 1stdibs/buy/18k, 2× asset.everywatch.
+Decisão: VERMELHA — há muitas referências vistas só como título (T-61533, T-29106, T-42875, T-3833, Albion T9005QSSTBRAC) e variantes de sufixo da Thoroughbred/Classic sem página; site oficial (womens/watches) não alcançado; EveryWatch fechado.
+Site oficial: davidyurman.com/womens/watches.html citado na página "about", mas não aparece em busca e o Firecrawl estava sem créditos → coluna L "Parcial".
+## 2ª passada — alvos
+T-61533, T-29106, T-42875, T-3833, T9005QSSTBRAC, Classic Three Hands/Small Seconds ref, Revolution variantes, Belmont/Thoroughbred chronograph variantes, Cable antigos (anos 90), Classic 30/34 mm feminino, Thoroughbred cable (cabo).
