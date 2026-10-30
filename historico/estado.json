@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 352,
- "ultima_versao": 311,
+ "proxima_linha_marcas": 354,
+ "ultima_versao": 312,
  "historico": [
   {
    "data": "2026-10-16",
@@ -4897,6 +4897,42 @@
     "3": 10
    },
    "obs": "Site oficial dornblueth.com abriu (coleção com 25 modelos e fotos oficiais; configurador com mostradores/caixas sob encomenda => vermelha). Variantes: Define Watches (81 produtos), WatchBase/Majestix (26 refs 99.0/99.1/99.2 (NN) ST/RG), WatchBuys (Quintus 40.0). Especiais: 04.0 (2006, 75 pç), Gorch Fock I (75), Jubilar (20), CHR 2022 (62), Zentrumsekunde C × Chronos (25), Russian Project bronze (15), Marineuhr bronze (10), Timetotalk (7), Mitsukoshi (5), 99.1M Grüne (5). Firecrawl sem créditos. Próxima: Da Vindice (352)."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 312,
+   "marcas": [
+    "Da Vindice"
+   ],
+   "linha_marcas": 352,
+   "linhas_relogios": "57966-57984",
+   "relogios": 19,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "Sim – davindice.com/.ch (robots + redirecionamento em loop)",
+   "fontes": 28,
+   "passadas": {
+    "1": 28
+   },
+   "obs": "Base: Europa Star, GPHG, WorldTempus (refs), Watchonista (001TB-B/R), Masterhorologer (preços Race Challenge/GT), Grailium. Femininos só por nome. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-10-30",
+   "versao": 312,
+   "marcas": [
+    "DAEM"
+   ],
+   "linha_marcas": 353,
+   "linhas_relogios": "57985-57995",
+   "relogios": 11,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "Sim – daemwatches.com (robots)",
+   "fontes": 18,
+   "passadas": {
+    "1": 18
+   },
+   "obs": "Basquiat (3) com fotos; 8 modelos Kings/Classic só por título de busca do site oficial. Bateria de 2 marcas: Daizoh Makihara (354) é de peças únicas => grande, sozinha na próxima."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
