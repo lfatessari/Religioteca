@@ -22,3 +22,5 @@
 - Site oficial delaneau.com: não aparece em nenhuma busca (marca fechou 2017, comprada pela Luna Management). Registrar L.
 - 2ª passada: buscar peças únicas por nome (Rondo/Dôme/Atame/Amazone), refs G/L vintage, TJE images pages, CollectorSquare outras línguas, Antiquorum, Artcurial, Bonhams, Phillips NY060114.
 - Rondo Translucent Creations: 9 peças únicas (2014) — temos Aurora Borealis, Hoar Frost, Meadow, Aurora, Cherry, tabaco, lavanda + verdes/azuis da WC
+## Fim da 2ª passada (06:09): 31 fontes, 12 novos → 3ª passada obrigatória. 3 últimas sem novidade.
+- extra: 2011 David Gouten (Goutenmacher) CEO; 2010 boutique quai du Général-Guisan 10; coleções Invisibles, Magnolias, Angel Heart
