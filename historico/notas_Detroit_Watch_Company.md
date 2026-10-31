@@ -1,0 +1,4 @@
+# Detroit Watch Company
+- Site detroitwatchco.com (Shopify) abre. Catálogo atual ~30 produtos (men-and-women-collection pág.1 16 + chronographs 10 + diver 2 + gmt 3 + power-reserve 5). Produtos com variantes de mostrador. Tratada como GRANDE (mín. 25 fontes) — muitas versões + linha antiga desde 2014.
+- Pág. 2 da coleção não veio em busca.
+- Antigos: 1701 (44mm, Miyota 9132, 2 cores x50 numeradas, 2014), Pride of Detroit Aviator (44mm, Miyota 821A, 2014), M1-Woodward Chronograph (75 first editions, 2015, SW500), 1701 GMT Pontchartrain (100 pç, 2017), 1701 Pontchartrain Blue GMT (100 pç, 2019, azul/branco), 1701 L'Horloge 39mm, 1701 Pontchartrain 39mm, Great Lakes Diver/GMT Diver (150 pç, 2019), 24hr 1966 Daytona Winner Legends (+DLC), LeMans Classic (dials 6, 9, 20; 42 e 44mm), Aviator PR/Chrono DLC, City Code, Sport Chrono 98, Ponte Vecchio, Avenue Series, Gotham.
