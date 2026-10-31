@@ -1,0 +1,392 @@
+{
+ "marca": "Dievas",
+ "usa_codigos": false,
+ "logo": "https://www.gnomonwatches.com/cdn/shop/collections/dievas_591f41a8-0d42-45de-b130-7baa8421c5a0_1200x1200.png?v=1556779795",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/dievas/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gnomonwatches.com/collections/dievas?view=brand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/dievas/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/story-of-dievas",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.gnomonwatches.com/collections/all?page=47",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://gnomonwatches.com/products/vortex-39-ti",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gnomonwatches.com/pages/dievas-solaris-vortex-39mm-titanium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gnomonwatches.com/blogs/news/closer-look-at-the-new-dievas-maya-mk-iii-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/maya-mk-iii-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.GnomonWatches.com/products/maya-mk-iii-sealab-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.GnomonWatches.com/products/maya-mk-iii-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/ghost",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gnomonwatches.com/products/mg-2-prototyp-ltd-ed-30pcs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/marine-39-ti",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gnomonwatches.com/products/marine-500",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/vortex-500",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/collections/dievas/products/timeattack",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/hands-on-debut-dievas-maya-mk-iii-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/dievas-oceantimer-1330-blue-is-nice-budget-diver-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/dievas-divergraph-orange-professional-watch-review-diver-style-military-functionality-good-value/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/heroic-scale-and-minimalist-design",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-vortexpro-watch-vortexprofessional",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-focal-watch-focal",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/archive/products/dievas-2014-shadow-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-vortex-black-strap-watch-snd383",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-maya-mk2-watch-maya-mk2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/dievas/maya/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/dievas/mg-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/review-dievas-maya-mk-iii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/flieger-chronograph-m156-jet-black-ltd-ed-25pcs",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gnomonwatches.com/products/arctic-39-ti",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gnomonwatches.com/products/maya-mk-iii-pro-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/products/maya-mk-iii-sealab-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-voyageurgmt-watch-voyageurgmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-black-vintage-flieger-watch-flieger-v-bk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-vortex-watch-vortex-black2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-vortexrubber-watch-vortexrubber",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/dievas-mg-1-limited-edition-watch-snd632/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-meridian-aviator-watch-meridian",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/dievas-meridian-brown-aviator-watch-meridian-brown/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-shadow-watch-shadow-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/dievas-mg-1-weird-but-wonderful/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/dievas-classico-blue-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/?p=234",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://acquiremag.com/style/dievas-flieger-vintage/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/free-dievas-zeta-professional-automatic-tritium-gas-tube-watch-giveaway/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ablogtowatch.com/dievas-timeattack-chronograph-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/dievas-vortex-professional-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=41596",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-vintage-california-watch-vintage-ca",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchspace.co.uk/2014/12/13/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/36368910",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchspace.co.uk/2012/12/18/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/getting-up-close-with-dievas-latest-vortex-39-series-part-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/the-latest-dievas-marine-500-continues-the-legacy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gnomonwatches.com/products/flieger-chronograph-m156-petrol-blue-ltd-ed-25pcs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/closer-look-at-the-new-dievas-ghost",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/dievas/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.carousell.sg/dievas/q/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/p/175295440",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/archive/products/dievas-2022-marine-500m-diver-dm500",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/dievas-vortex-black-strap-watch-vortex-blackstrap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/watch-lust-dievas-vortex/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-with-the-dievas-maya-mkiii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gnomonwatches.com/products/maya-mk-iii-black-dlc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gnomonwatches.com/products/maya-mk-iii-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/dievas-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/dievas-maya-mk-lll-black-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/dievas-timeattack-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.crownwatchblog.com/news/watch-review-dievas-maya-mk-iii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thetimebum.com/?p=8760",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/dievas/vortex/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/brands/dievas/reviews/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/dievas-california-vintage-titatium-kampfschwimmer-en-estado-reestreno.504534/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/277208030680",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/277208029843",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "observacoes": "B/C vazios: marca alemã (fundada em 2006, relógios feitos na Alemanha; vendida pela Gnomon Watches, Singapura). G vazio: não há site oficial próprio indexado; a loja principal é gnomonwatches.com/collections/dievas. J: 'Kraken' e 'Aptor' não encontrados (Sea Kraken é da Glycine); principais: Vortex, Maya, Shadow, Focal, MG-1."
+}

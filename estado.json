@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 399,
-  "ultima_versao": 344,
+  "proxima_linha_marcas": 401,
+  "ultima_versao": 345,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5646,6 +5646,28 @@
       },
       "versao": 344,
       "obs": "Firecrawl abriu 7 lojas Shopify (products.json) + diesel.com e acabou os créditos (~26); base: NY Watch Store (371 refs antigas), lojas, PriceSpy, páginas de categoria do eBay (.com/.de/.br/.au); ~670 linhas só com link da página/anúncio (sem foto); M398 gravado; Dietrich (399) é a próxima"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dietrich",
+      "linha_marcas": 399,
+      "linhas_relogios": "63866-63899",
+      "relogios": 34,
+      "vermelho": false,
+      "site_bloqueado": "parcial (loja dietrich.com/shop não alcançada)",
+      "fontes": 60,
+      "versao": 345
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dievas",
+      "linha_marcas": 400,
+      "linhas_relogios": "63900-63945",
+      "relogios": 46,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 76,
+      "versao": 345
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5664,22 +5686,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T16:41:52Z",
-  "ultimo_sinal": "2026-10-31T16:56:03Z",
-  "em_andamento": {
-    "marcas": [
-      "Dietrich",
-      "Dievas"
-    ],
-    "linha_marcas": 399,
-    "grande": false,
-    "relogios": "historico/parcial_Dievas_relogios.txt",
-    "fontes": "historico/parcial_Dievas_fontes.txt",
-    "notas": "historico/notas_Dievas.md",
-    "secoes_feitas": [
-      "Dietrich completa (historico/dados_Dietrich.txt, marca_Dietrich.json)"
-    ],
-    "passada": 1
   }
 }
