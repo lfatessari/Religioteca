@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 406,
- "ultima_versao": 349,
+ "proxima_linha_marcas": 407,
+ "ultima_versao": 350,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5734,6 +5734,18 @@
    "site_bloqueado": "Parcial – fotos e páginas 2 das coleções da loja não aparecem na leitura automática",
    "fontes": 85,
    "obs": "Sozinha (grande: ~67 kits publicados + ~35 escondidos). Só 30 de 103 com foto; o resto tem o link da página do produto. Pacotes-presente/kits de casal/lucky bag de mergulho que repetem kits existentes ficaram de fora. Firecrawl sem créditos. Coluna M405 preenchida."
+  },
+  {
+   "data": "2026-10-31",
+   "marca": "Dodane 1857",
+   "linha_marcas": 406,
+   "linhas_relogios": "64570-64590",
+   "relogios": 21,
+   "vermelho": false,
+   "site_bloqueado": "parcial",
+   "fontes": 49,
+   "versao": 350,
+   "obs": "Dolce & Gabbana (407) dimensionada como grande: fica sozinha na próxima execução"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
