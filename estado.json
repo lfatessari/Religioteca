@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 391,
-  "ultima_versao": 339,
+  "proxima_linha_marcas": 394,
+  "ultima_versao": 340,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5514,6 +5514,54 @@
       },
       "versao": 339,
       "obs": "tratada como grande (muitas edições desde 2018) → Detrash ficou para a próxima; coleção Archives do site não apareceu em busca; Chrono24/EveryWatch sem resultados; códigos internos (WR03…, WA05…) achados em reviews.io/Galeries Lafayette/Horel; M390 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Detrash",
+      "linha_marcas": 391,
+      "linhas_relogios": "62507-62524",
+      "relogios": 18,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 41,
+      "grande": false,
+      "passadas": {
+        "1": "41 fontes, 18 relógios"
+      },
+      "versao": 340,
+      "obs": "britânica (Dorset, 2024); catálogo fechado de 18 (collections/all, low-stock e VIP batem); site detrash.com só apareceu em busca 'extended'; M391 gravado; logo K391"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Detroit Mint",
+      "linha_marcas": 392,
+      "linhas_relogios": "62525-62566",
+      "relogios": 42,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 46,
+      "grande": false,
+      "passadas": {
+        "1": "46 fontes, 42 relógios"
+      },
+      "versao": 340,
+      "obs": "site real detroitmint.net (Square, página inicial em JS); produtos abertos um a um (limite de taxa); IDs de produto sem busca não alcançados; Grand Touring e Phantom só em texto; M392 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Detroit Watch Company",
+      "linha_marcas": 393,
+      "linhas_relogios": "62567-62620",
+      "relogios": 54,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 40,
+      "grande": true,
+      "passadas": {
+        "1": "40 fontes, 54 relógios"
+      },
+      "versao": 340,
+      "obs": "tratada como grande (variantes + linha desde 2014); pág. 2 da coleção principal não apareceu em busca (cobertura pelas outras coleções); Ponte Vecchio/Avenue/Gotham não encontrados; Firecrawl sem créditos; M393 gravado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5532,25 +5580,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T11:42:33Z",
-  "ultimo_sinal": "2026-10-31T12:01:28Z",
-  "em_andamento": {
-    "marcas": [
-      "Detrash",
-      "Detroit Mint",
-      "Detroit Watch Company"
-    ],
-    "linha_marcas": 391,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Detrash completa",
-      "Detroit Mint completa",
-      "DWC: site + imprensa parcial (relógios só nas notas)"
-    ],
-    "passada": 1
   }
 }
