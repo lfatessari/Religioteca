@@ -1,0 +1,457 @@
+{
+ "marca": "Deep Blue",
+ "usa_codigos": false,
+ "logo": "https://deepbluewatches.com/cdn/shop/files/deep-blue-logo.svg?v=1788387859",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Fundador: Stan Betesh (segundo Hourstriker); WatchPatrol indica fundação em 2004, as demais fontes 2007. Site migrou para Shopify (deepbluewatches.com); a área de arquivo/esgotados (archives.html) não existe mais, mas as páginas antigas .html ainda abrem os produtos esgotados.",
+ "fontes": [
+  {
+   "url": "https://www.deepbluewatches.com/ind.html",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://deepbluewatches.com/collections/all-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deepbluewatches.com/collections/depthmaster",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.deepbluewatches.com/archives.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deepbluewatches.com/collections/tritium-watches",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://deepbluewatches.com/collections/master-2000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deepbluewatches.com/collections/steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deepbluewatches.com/collections/pro-diver",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.deepbluewatches.com/watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/deep+blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hourstriker.com/brands/deep-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/fr/decouvrir/marques/deep-blue/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faire.com/brand/b_53sdpvukwc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/deep-blue-watches.html",
+   "passada": 1,
+   "novos": 90
+  },
+  {
+   "url": "https://www.timestore24.org/en/watch-brands/deep-blue/",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.timepiece.com/deep-blue-daynight-series-watches.html",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://timestore24.org/uhren-nach-marken/deep-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timestore24.org/deep-blue-uhren/master-1000-automatic/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.timepiece.com/deep-blue-diver-series-watches.html",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.timepiece.com/deep-blue-watch-protac24greybrace.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/b/Deep-Blue-Watches/31387/bn_55178448",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.ebay.de/str/deepbluewatches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/deep-blue-juggernaut-v-usa-swiss-automatic-blue-dial-mens-watch-juggy5usabluewbluestrap.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/deep-blue/juggernaut/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/deep-blue/master-1000/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/ma10audigrma.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/ma10co.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/depro30audib1.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/soldout41.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/daretrt10yea11.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/oembrfornadi.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/searamco.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/dart1trswmac.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/de3kii.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/value-proposition-deep-blue-master-2000-diver-10-years-limited-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hourstriker.com/learn/diving-into-the-depths-of-deep-blue-an-odyssey-of-time-and-adventure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/potentially-shallow-offerings-from-new-watch-company-deep-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/tag/deep-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/deep-blue-marks-off-their-10-year-anniversary",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/introducing-the-deep-blue-diver-pro",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wristwatchreview.com/head-off-into-the-deep-blue-yonder",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ubuy.com.cv/en/brand/deep-blue-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iwmagazine.com/tag/deep-blue",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://keepthetime.com/?p=10527",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/category/deep-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/collections/archive/products/deep-blue-master-chrono-7750",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://iwmagazine.com/?p=15403",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/deep-blue-master-1000-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/deep-blue-daynight-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.shophq.com/products/deep-blue-40mm-aqua-diver-automatic-gmt-sapphire-bezel-bracelet-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/157506896899",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/116533787281",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/276965380874",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/deep-blue-sun-diver-1k-meters-per-dollar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://slickdeals.net/f/19516425-deep-blue-daynight-diver-tritium-automatic-watch-150",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://thesutorhouse.com/product/deep-blue-depthmaster-3000m-limited-edition-diver-49mm-automatic-black-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/23678011-deep-blue-depthmaster-3000m-automatic-super-diver-black-dial-sapphire-bezel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/deep-blue-nato-diver-300-grey-dial-black-bezel-automatic-watch-new.121457/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/coleccion-deep-blue-master-1000-con-armis-o-silicona.432844/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://oceanictime.blogspot.com/2016/01/deep-blue-sea-quest-automatic.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/deep-blue-sea-quest.4880487/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://milled.com/deep-blue/deep-blue-watches-blue-friday-2-new-fleet-admiral-t-100-36_kpsHMIMBsPoTy",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/deepblue/deep-blue-daynight-commander-t-100-automatic-mens-diver-watch-black-red-bezelblack-dial--id23048157.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "http://oceanictime.blogspot.com/2023/05/deep-blue-mechanical-skeleton-divers.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/daynight-commander-t-100-automatic.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.deepbluewatches.com/debljuiiiaud4.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/searamchbl2.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/debl45alma508.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/ma20gmtaudie6.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/se001mach77a.html",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.deepbluewatches.com/brcudatrtaud1.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.deepbluewatches.com/skdi300auvid.html",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.deepbluewatches.com/titrlediquda.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/proseadi10ex1.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.deepbluewatches.com/military-diver-40mm-dive-watches.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://picclick.com/DEEP-BLUE-Sea-Quest-Diver-1000-Day-Date-diving-283069750932.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/di10ii40audi88.html",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.deepbluewatches.com/44mmskelc-watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.deepbluewatches.com/debljumadion.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.deepbluewatches.com/soldout88.html",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.deepbluewatches.com/mach15yeanli.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "http://oceanictime.blogspot.com/2022/08/deep-blue-master-chrono-7750-auto-diver.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/di10quchdibl9.html",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://www.deepbluewatches.com/juivswaudire1.html",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.deepbluewatches.com/mach77audiwh2.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/ma2010yeanli10.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deepbluewatches.com/ma10ii44libl.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deepbluewatches.com/di10audiblbe5.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.deepbluewatches.com/ma1044brquch.html",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}

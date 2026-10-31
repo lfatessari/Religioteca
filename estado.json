@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 377,
-  "ultima_versao": 328,
+  "proxima_linha_marcas": 378,
+  "ultima_versao": 329,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5289,6 +5289,23 @@
       },
       "versao": 328,
       "obs": "grande; dedegumo.jp e shop-pro com robots; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Deep Blue",
+      "linha_marcas": 377,
+      "linhas_relogios": "60719-61122",
+      "relogios": 404,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 89,
+      "passadas": {
+        "1": "61 fontes, 267 novos",
+        "2": "17 fontes, 42 novos",
+        "3": "11 fontes, 23 novos"
+      },
+      "versao": 329,
+      "obs": "grande, sozinha; 194 com foto, 210 com link da página (produtos esgotados do site oficial achados por busca); Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5307,31 +5324,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T00:42:10Z",
-  "ultimo_sinal": "2026-10-31T01:06:18Z",
-  "em_andamento": {
-    "marcas": [
-      "Deep Blue"
-    ],
-    "linha_marcas": 377,
-    "grande": true,
-    "relogios": "historico/parcial_DeepBlue_relogios.txt",
-    "fontes": "historico/parcial_DeepBlue_fontes.txt",
-    "notas": "historico/notas_DeepBlue.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
   }
 }

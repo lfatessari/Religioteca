@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 377,
-  "ultima_versao": 328,
+  "proxima_linha_marcas": 378,
+  "ultima_versao": 329,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5289,6 +5289,23 @@
       },
       "versao": 328,
       "obs": "grande; dedegumo.jp e shop-pro com robots; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Deep Blue",
+      "linha_marcas": 377,
+      "linhas_relogios": "60719-61122",
+      "relogios": 404,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 89,
+      "passadas": {
+        "1": "61 fontes, 267 novos",
+        "2": "17 fontes, 42 novos",
+        "3": "11 fontes, 23 novos"
+      },
+      "versao": 329,
+      "obs": "grande, sozinha; 194 com foto, 210 com link da página (produtos esgotados do site oficial achados por busca); Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
