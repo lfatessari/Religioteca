@@ -10,3 +10,4 @@
 - velvetbox diz fundada 1949 por Yvan e Marcel Golay em Genebra (não confiável)
 - Europa Star swisstime: 34 fichas listadas na pág 1004099932 (Ginger Butterfly Diamants, Lili Marlène, Dôme, Ginger Butterfly, Butterfly, First Lady, Three Time Zones Chrono, Louka, Charleston, Concorde, Royal Jockey Club, Love Forever, La Fleur du Soir, Golden Dream, The Ultimate + ~19 'DELANEAU' sem nome). Abrir só via busca.
 - 2004: mudança para a cidade velha de Genebra; 1º turbilhão com Christophe Claret DEL 97
+- Sotheby's 2011 fine-watches-l11053 lot 100: rate limit, não lido
