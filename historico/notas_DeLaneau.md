@@ -14,3 +14,4 @@
 - 3 fontes seguidas sem novos (gphg2013 wt, watchonista 359527, europastar boutique) — mas ainda há seções a fazer (lojas, 1stdibs individuais, usados, Chrono24, catálogos)
 - Grail-Watch: Delano (1949, Albert Kneuss, Bienne), DeLaneau registrada 1969-72; Tschudin; 1997-99 venda, Delaneau SA Genebra; 2004 turbilhão Claret; 2007 horas saltantes. Logo 1982: https://wiki.grail-watch.com/images/thumb/e/e3/1982_DeLaneau_logo.jpeg/300px-1982_DeLaneau_logo.jpeg
 - primeiro modelo: anos 60 relógios de ouro com mostradores de jade/lápis/olho de tigre (sem nomes)
+- STATUS: Quill&Pad dez/2017: DeLaneau fechou em 2017; em nov/2017 Luna Management (Mônaco) comprou a marca. Coluna I '[verificar status]': fechada 2017. Site delaneau.com citado.
