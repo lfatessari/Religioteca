@@ -1,0 +1,692 @@
+{
+ "marca": "Delma",
+ "usa_codigos": true,
+ "logo": "https://r2.watchonista.com/app/uploads/legacy/watchographer/402/profile/delma_logo-640x320.jpg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G desatualizado: o site atual é delmawatches.com (delma.ch era o site antigo). I: hoje o recorde é o Blue Shark IV (2023), 5.000 m; e desde 1966 a empresa é de Ulrich Wüthrich e sócios, não mais da família Gilomen. I ainda tem '[⚠️ verificar]'.",
+ "fontes": [
+  {
+   "url": "https://www.delmawatches.com/products/blue-shark-iv",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/delma-watches?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/delma-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/delma",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://azfinetime.com/collections/delma",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/b-commodore-automatic-b-br-52701-690-6-011",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/collections/automatic-watches.oembed",
+   "passada": 1,
+   "novos": 50
+  },
+  {
+   "url": "https://www.delmawatches.com/en-ca/collections/new-releases.oembed",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.delmawatches.com/products/oceanmaster-chronograph-blue-bezel-steel",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.delmawatches.com/products/santiago-gmt-meridian-automatic",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.delmawatches.com/products/quattro-black-blue",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.delmawatches.com/products/blue-shark-4-black-blue",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/delma-52701-621-1-106-sea-star-ladies-quartz-watch.md",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/products/heritage-chronograph-blue",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.delmawatches.com/products/montego-steel-blue",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.delmawatches.com/en-ca/products/montego-100-years",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/products/montego-black-edition-red",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/products/heritage-chronograph-le-yellow-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/products/heritage-rose-gold-silver",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://delmawatches.com/products/midland-automatic-blue",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://delmawatches.com/products/midland-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/database/delma/racing-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/collections/1924-tourbillon",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/delma-midland-ladies-417016271061",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/commander",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/products/commander-big-date",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.delmawatches.com/products/commander-black-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://delmawatches.com/products/sea-star",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/products/sea-star-42mm-steel-blue",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.delmawatches.com/products/rimini-two-tone-silver",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://delmawatches.com/products/sea-star-ladies-steel-blue",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.delmawatches.com/products/cayman-steel-blue-blue",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.delmawatches.com/products/cayman-bronze-red",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.delmawatches.com/products/shell-star-rubber-black-black",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.delmawatches.com/products/commodore-steel-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/products/klondike-moonphase-two-tone-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/de-ch/products/oceanmaster-lume-blue",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://delmawatches.com/products/montego-iceblue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/santiago-automatic-rubber-black",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.delmawatches.com/products/santiago-gmt-blue-red-blue",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.delmawatches.com/products/continental-automatic-steel-salmon",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://delmawatches.com/products/continental-pulsometer",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.delmawatches.com/fr/products/continental-black",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.delmawatches.com/products/heritage-automatic-steel-red-fume-dial",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.delmawatches.com/de-ch/products/midland-34mm-mocha",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/klondike-chronotec-steel-silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/en-ch/products/klondike-classic-two-tone-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/quattro-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/blue-shark-iii-54701-700-6-044",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/blogs/news/the-evolution-of-the-blue-shark",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://delmawatches.com/pages/our-history",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://delmawatches.com/es/blogs/news/the-new-delma-classic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/brands/delma/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/shell-star-titanium-blue",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.delmawatches.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/de/blogs/news/tagged/milestones-releases",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/delma/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/2037811-delma-presents-its-new-collection-at-baselworld.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.europastar.com/news/1003953645-delma-watch-ltd-variations-in-form.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Delma/Timeline",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tradera.com/item/1000985/740725458/delma-shell-star",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/?p=5233",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/prices/delma",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/395376957618",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/388599341010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/collections/delma",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/delma-watches/subcat-aero",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/blogs/editorial/official-retailer-of-delma-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/shop/delma",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/105580880-delma-siena-rectangular-41701-535-2-514-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/delma-oceanmaster-antarctica-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/delma-marks-50-years-of-dive-watch-production-with-shell-star-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/delma-quattro-limited-edition-decompression-dive-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fliphtml5.com/kxovq/ctpi/Delma_Master_2022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/4036186823",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/26051742451",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/wp-json/wp/v2/posts/23174",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/?p=20331",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/?p=20063",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/santiago-chronograph-steel-blue",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/2020/08/top-5-nautical-delma-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=9146",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/30452/delma-shell-star/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/delma-commander-collection-new-models-for-2021/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/en-ca/products/pioneer-chronograph-two-tone-blue",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.hourstriker.com/database/delma-aero-collection-commander-chronograph-417025806049-2181",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/delma-cambridge-chronometer-d90-anniversary-watch/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://delmawatches.com/products/cambridge-41601-598-6-067",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/nl/l/105692834-delma-siena-rectangular-zonder-minimumprijs-42601-535-2-534-dames-2026",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2011/05/22/delma-versailles-round-ladies-watch-diamond-set-mother-of-pearl-dial-quartz-movement/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/107336163",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/delma-41701-621-1-036-sea-star-ladies-quartz-watch.md",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/shell-star-41mm-steel-blue",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.delmawatches.com/en-gb/products/shell-star-41mm-automatic-steel-white",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.fratellowatches.com/delma-klondike-chronotec/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/klondike-moonphase",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/delma-klondike-moonphase-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/delma-klondique-crono-de-plata-valjoux.463118/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/delma-plata-925-calendario-completo.214481/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004090159.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/delma-quattro.553488/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/delma-41801-712-6-041-cayman-worldtimer-quartz-watch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/introducing-the-new-delma-cayman-worldtimer/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/introducing-the-new-delma-continental-chronograph",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hsjohnson.com/products/delma-52701-702-6-041-continental-chronograph-automatic-watch.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/delma-cayman-worldtimer-watch-review/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delmawatches.com/en-gb/products/cayman-worldtimer-leather-black",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/delma-41701-678-6-848-oceanmaster-tide-chronograph-quartz-watch.md",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://oracleoftime.com/delmas-retro-shell-star-is-updated-with-a-decompression-timer-in-three-striking-colourways/",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/a-closer-look/a-closer-look-at-the-delma-shell-star-collection/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/delma-blue-shark-ii-3000m-dive-watch-hands-on-price/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/delma-blue-shark-iii-black-edition/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-winner-review-delma-santiago-blue-shark/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/articles/depth/big-blue-closer-look-delma-blue-shark-iii",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/delma-41603-722-6-181-classic-automatic-watch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/delma-52701-570-6-042-pioneer-automatic-watch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/b-shell-star-b-br-41501-676-6-151",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/continental-41701-704-6-031",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/cayman-41801-708-6-031",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/montego-41601-732-6-011",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/b-santiago-b-br-41701-562-6-144",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/oceanmaster-41501-676-6-038",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/b-commodore-b-br-41701-692-6-011",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/shell-star-41701-676-6-031",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/b-heritage-b-br-41601-686-6-061",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/blue-shark-4-steel-blue",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/quattro-steel-black",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/sea-star-42mm-two-tone-blue",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/rimini-steel-blue",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://delmawatches.com/products/b-cayman-automatic-b-br-41801-706-6-031",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.delmawatches.com/products/b-pioneer-b-br-52601-570-6-102",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/commander-40mm-blue",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://delmawatches.com/products/midland-automatic-black",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/b-klondike-classic-b-br-41601-660-6-032",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/continental-automatic-steel-black-dial",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delmawatches.com/products/heritage-steel-blue",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

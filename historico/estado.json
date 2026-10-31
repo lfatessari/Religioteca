@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 385,
-  "ultima_versao": 335,
+  "proxima_linha_marcas": 386,
+  "ultima_versao": 336,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5416,6 +5416,24 @@
       },
       "versao": 335,
       "obs": "grande (13 coleções atuais + linhas descontinuadas na Watchard + vintage), sozinha; site oficial delbana.ch (G diz delbana.com); página 2 da Classic e da Watchard não alcançadas; Firecrawl sem créditos; Delma (385) é grande e fica sozinha na próxima"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Delma",
+      "linha_marcas": 385,
+      "linhas_relogios": "61847-62286",
+      "relogios": 440,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 136,
+      "grande": true,
+      "passadas": {
+        "1": "83 fontes, 229 novos",
+        "2": "18 fontes, 20 novos",
+        "3": "35 fontes, 14 novos"
+      },
+      "versao": 336,
+      "obs": "grande, sozinha; site oficial delmawatches.com (G diz delma.ch); 301 de 440 com foto; Firecrawl sem créditos; blog oficial págs 2-5, TheWatchPages, EveryWatch, Chrono24 e catálogo 2022 (fliphtml5) não alcançados"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
