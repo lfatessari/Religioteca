@@ -12,3 +12,4 @@
 - 2c feito com termos: master 1000, daynight, juggernaut, alpha marine, sea ram, sun diver, master 2000, defender/pro tac/nato, depthmaster, recon/rescue, sea quest, lizzy, tritdiver, aqua gmt, explorer, juggernaut chrono.
 - História: fundada em 2007 em Nova York por Stan Betesh; primeira série Depthmaster (2008, 3000 m) segundo Hourstriker; aBlogtoWatch jun/2008 cita Master Timer chronograph. Air Blue = marca irmã (aviação), não incluir.
 - 1ª passada encerrada (3 fontes seguidas sem novidade: relojes-especiales, oceanictime, watchuseek). Marca VERMELHA: centenas de combinações de cor em 18 anos, muitas páginas ocultas sem foto. 2ª passada: §2c com termos novos + fotos das páginas ocultas.
+- 2ª passada: 17 fontes, ~40 novos (master chrono 7750, bronze, military 300, diver 1000 II, skeleton, commander, titanium lefty). Precisa 3ª passada (>=10 fontes novas).
