@@ -1,0 +1,497 @@
+{
+ "marca": "Diesel",
+ "usa_codigos": true,
+ "logo": "https://diesel.com/on/demandware.static/Sites-DieselUS-Site/-/default/dwc66fab60/imgs/favicons/favicon-32x32.png",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.timewatches.co.za/collections/diesel/products.json?limit=250",
+   "passada": 1,
+   "novos": 91
+  },
+  {
+   "url": "https://www.timewatches.co.za/collections/diesel/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/collections/diesel/products.json?limit=250",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://watches.ae/collections/diesel/products.json?limit=250",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.lexormiami.com/collections/diesel/products.json?limit=250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ippojapanwatch.com/collections/diesel/products.json?limit=250",
+   "passada": 1,
+   "novos": 51
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/diesel/products.json?limit=250",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://justintime.in/collections/diesel/products.json?limit=250",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://diesel.com/en-us/man/watches/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.nywatchstore.com/diesel.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nywatchstore.com/dieselmen.html",
+   "passada": 1,
+   "novos": 291
+  },
+  {
+   "url": "https://www.nywatchstore.com/wodiwa.html",
+   "passada": 1,
+   "novos": 52
+  },
+  {
+   "url": "https://us.shadestation.com/designer-watches/Diesel/DZ1199",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/diesel",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://watchdirect.com.au/diesel",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://uhrenschmuck24.ch/en/marken/diesel.html?p=5",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://gomez.pl/en/diesel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxoia.com/en/diesel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.com/accessories/diesel-watches-445/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pricespy.co.uk/s/diesel-watches-for-men/",
+   "passada": 1,
+   "novos": 39
+  },
+  {
+   "url": "https://www.trendyol.com/en/diesel-watches-x-b157-c34",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pricespy.co.nz/s/diesel-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://macys.com/shop/brands/diesel/diesel-watches?id=57421",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/collections/diesel-watches-for-women",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.nl/en/s8/producttype/toplist/brand/wristwatches-163/diesel-5812",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nywatchstore.com/dich.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxury-watches-2018.netlify.com/diesel-mens-classic-wrist-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mobiflip.de/diesel-on-full-guard/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartprix.com/smartwatches/diesel-brand/price-20000_to_35000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nywatchstore.com/digrwaba.html",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://hypebeast.com/2016/10/rostarr-diesel-alrite-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.trendhunter.com/trends/mister-cartoon-diesel-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://preview.lofficielusa.com/men/steve-aoki-diesel-joined-forces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nylon.com/articles/grandaddy-watch-by-diesel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://pricespy.co.uk/s/diesel-mens-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.co.nz/diesel-watches-nz/dz4686-diesel-mega-chief-slim-silver-48mm-watch-diesel-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/diesel-is-bringing-you-new-color-constructs",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchspace.co.uk/tag/diesel/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://pricespy.co.nz/s/diesel-watches-for-men/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.co.nz/diesel-watches-nz/dz4685-diesel-spiked-gold-tone-green-dial-watch-diesel-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://br.ebay.com/b/Diesel-Womens-Wristwatches/31387/bn_2963099",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Mr-Daddy-2-0-Men-Leather-Wristwatches/31387/bn_7113870426",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Mega-Chief-Wristwatches/31387/bn_80619468",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Mega-Chief-Sport-Wristwatches/31387/bn_108280403",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Mega-Chief-Mens-Chronograph-Wristwatches/31387/bn_7113393737",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://br.ebay.com/b/Sport-Men-Diesel-Mega-Chief-Wristwatches/31387/bn_108290062",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Digital-Wristwatches/31387/bn_2961025",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Leather-Band-Wristwatches/31387/bn_7113365050",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Mr-Daddy-2-0-Watches/31387/bn_87995652",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.com.au/b/Diesel-Stainless-Steel-Band-Wristwatches-with-Chronograph/31387/bn_2266885",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://br.ebay.com/b/Diesel-Stainless-Steel-Wristwatch-Bands/98624/bn_7110058908",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.ebay.com/b/Diesel-Double-Down-Casual-Wristwatches/31387/bn_108272954",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.ebay.de/b/Runde-Armbanduhren-mit-Diesel-Diesel-Overflow/31387/bn_7116514253",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.de/itm/275428096141",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.de/b/Diesel-Damen-Armbanduhren/31387/bn_13798974",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.ebay.de/b/Quadratische-Armbanduhren-aus-Edelstahl-mit-Diesel/31387/bn_13755512",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.ebay.de/b/Digitale-Quarz-Armbanduhren-mit-Diesel/31387/bn_13811664",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.ebay.de/b/Armbanduhren-mit-Edelstahl-Diesel-Diesel-Franchise/31387/bn_7116522468",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Lassige-runde-Armbanduhren-mit-Diesel/31387/bn_13843192",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-Armbanduhren-mit-Leder-Armband/31387/bn_24708484",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-24-27-9-mm-Armbanduhren/31387/bn_86276276",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Analoge-digitale-runde-Armbanduhren-mit-Diesel/31387/bn_14400079",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/b/Schwarze-Armbanduhren-aus-Edelstahl-mit-Diesel/31387/bn_85544739",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-Armbanduhren-im-Kleid-Formellen-Stil-Geburstet/31387/bn_24719644",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-Armbanduhren-fur-Erwachsene/31387/bn_13753592",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.de/b/Schwarze-Herren-Armbanduhren-mit-Diesel/31387/bn_77353058",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-Armbanduhren-Geburstet/31387/bn_13835957",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-40-43-9-mm-Armbanduhren/31387/bn_7039154972",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Herren-Armbanduhren-mit-Leder-Diesel/31387/bn_7034728890",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-Armbanduhren-mit-Edelstahl-Herren/31387/bn_7033769214",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-Armbanduhren-aus-Edelstahl-mit-Leder-Armband/31387/bn_24750528",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://digitec.ch/en/s1/product/diesel-damenuhr-vert-analogue-wristwatch-32-mm-wristwatches-45364118",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ballantynes.co.nz/accessories/mens-accessories/watches/diesel-mega-chief-grey-chronograph-watch-dz4329/3422763.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reebelo.co.nz/collections/diesel-big-daddy-series-men-s-watch-dz7395",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1001138859-fossil-inks-deal-with-diesel-discusses.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mr-mag.com/diesel-black-gold-enters-the-watch-market/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ubergizmo.com/2008/09/diesel-dz9024-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ubergizmo.com/2008/03/diesel-dz7086-watch-for-men",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://luxury-watches-2018.netlify.com/diesel-womens-franchise-wrist-watches.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/s/221895",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://view.ceros.com/hype-beast/diesel-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fruitsfamily.com/product/4g7b3/%EB%94%94%EC%A0%A4-%EA%B1%B0%EC%9A%B8-%EB%A7%81%ED%81%AC-%EC%8B%9C%EA%B3%84-mirror-link-vintage-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/diesel-mega-chief-stainless-steel-chronograph-quartz-watch/id-v_19324042",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Diesel-Uhr-Dz/31387/bn_7005332123",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/usr/anjelica.m",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dieseluhrenherrenoutlet.yolasite.com/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/recently-released-diesel-solar-watches",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://magicdrop.in/drops/diesel-watches-for-women",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.mastersintime.com/diesel-d-era-unique-stainless-steel-quartz-watch-dz5613.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.houyhnhnm.jp/en/news/11493/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.indiaretailing.com/?p=48422",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=2206",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://i-d.co/?p=191549",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://thenationalnews.com//diesel-launches-new-mens-watches-for-summer-1.204153",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.afaqs.com/company-briefs/49342_diesel-young-blood-watches",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://fashiongear.fibre2fashion.com/brand-story/fossil/latest-collections-for-2012.asp",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/blogs/watch-journal/the-diesel-big-dial-watch-collection-bold-designs-for-confident-wearers",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "I: tem o aviso '[⚠️ verificar dados atuais]'; confirmado que os relógios são feitos sob licença da Fossil desde 1999 (Europa Star). J: os 5 nomes foram encontrados. Logo em K é só o ícone do site (não achei logo com o nome em fonte aberta)."
+}

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 398,
- "ultima_versao": 343,
+ "proxima_linha_marcas": 399,
+ "ultima_versao": 344,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5628,6 +5628,24 @@
    },
    "versao": 343,
    "obs": "Dexter Sinister Inc. (~2006-2010): site antigo dexter-sinister.com lido pela Wayback Machine via Firecrawl (catálogo fechado: 13 refs = carrinho oficial 2009 = WatchWear 2008) + Hex 2009 (3 refs, WatchWear 2010); + Watch Wyoscan do estúdio de arte homônimo; Diesel (398) é grande e fica sozinha na próxima; M397 gravado"
+  },
+  {
+   "data": "2026-10-31",
+   "marca": "Diesel",
+   "linha_marcas": 398,
+   "linhas_relogios": "62904-63865",
+   "relogios": 962,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 97,
+   "grande": true,
+   "passadas": {
+    "1": "74 fontes, 886 relógios",
+    "2": "12 fontes, 8 relógios",
+    "3": "11 fontes, 14 relógios"
+   },
+   "versao": 344,
+   "obs": "Firecrawl abriu 7 lojas Shopify (products.json) + diesel.com e acabou os créditos (~26); base: NY Watch Store (371 refs antigas), lojas, PriceSpy, páginas de categoria do eBay (.com/.de/.br/.au); ~670 linhas só com link da página/anúncio (sem foto); M398 gravado; Dietrich (399) é a próxima"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5646,30 +5664,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-31T15:42:22Z",
- "ultimo_sinal": "2026-10-31T16:28:26Z",
- "em_andamento": {
-  "marcas": [
-   "Diesel"
-  ],
-  "linha_marcas": 398,
-  "grande": true,
-  "relogios": "historico/parcial_Diesel_relogios.txt",
-  "fontes": "historico/parcial_Diesel_fontes.txt",
-  "notas": "historico/notas_Diesel.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9",
-   "10",
-   "p2",
-   "p3"
-  ],
-  "passada": 1
  }
 }
