@@ -15,3 +15,9 @@
 - infinity: infinity, infinity-gold-link, infinity-steel-cascade, infinity-steel-alligator, jonquille, infinity-gold-in-red
 - for-a-mother: Diane, Catherine, My Mother's watch
 - FALTA: lacework, birthday, la-vie-en-rose (rate limit), wedding, something-blue, laxmi, ocean, watch-of-the-month
+- lacework: cascade-doree, cascade-givree, dentelle-et-diamants-roses, dentelle-in-gold, dentelle-on-ice, dentelle-or-acier, dentelle-et-satin
+- birthday: birthday(Day of birth), micheline, sweet-sixty, new-life, 47-lumieres, sweet-sixteen
+- la-vie-en-rose: valentine, gaya-laxmi, la-vie-en-rose, pink-ribbon, just-for-you, white-lily, rose-wing
+- wedding: edelweiss, just-25, orchidee, paloma, white-lotus, star-of-the-day
+- something-blue: bahiya, blue-ribbon, hillary, something-blue, myriade, perfect-ten-in-blue
+- laxmi: ashta-laxmi, dhana-laxmi, griha-laxmi, indira, mahalaxmi, padma-laxmi
