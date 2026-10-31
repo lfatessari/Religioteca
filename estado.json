@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 381,
-  "ultima_versao": 332,
+  "proxima_linha_marcas": 383,
+  "ultima_versao": 333,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5349,6 +5349,38 @@
       "versao": 332,
       "grande": true,
       "obs": "grande (maison de luxo 2003-2018), sozinha; site oficial delacour.ch não indexado; base Gressive (catálogos JP), Europa Star, Masterhorologer, GPHG, Antiquorum; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Delaloye Geneve",
+      "linha_marcas": 381,
+      "linhas_relogios": "61332-61345",
+      "relogios": 14,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18,
+      "passadas": {
+        "1": "18 fontes, 14 novos"
+      },
+      "versao": 333,
+      "obs": "pequena; sem site oficial; Nicolas Delaloye (AHCI)"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Delance",
+      "linha_marcas": 382,
+      "linhas_relogios": "61346-61459",
+      "relogios": 114,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 177,
+      "grande": true,
+      "passadas": {
+        "1": "157 fontes, 112 novos",
+        "2": "20 fontes, 2 novos"
+      },
+      "versao": 333,
+      "obs": "revelou-se grande (configurável, 17 coleções no site oficial); DeLaneau (383) é grande (peças únicas, sob medida) e fica sozinha na próxima; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5367,23 +5399,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T04:41:49Z",
-  "ultimo_sinal": "2026-10-31T05:37:15Z",
-  "em_andamento": {
-    "marcas": [
-      "Delaloye Geneve",
-      "Delance"
-    ],
-    "linha_marcas": 381,
-    "grande": true,
-    "relogios": "historico/parcial_Delance_relogios.txt",
-    "fontes": "historico/parcial_Delance_fontes.txt",
-    "notas": "historico/notas_Delance.md",
-    "secoes_feitas": [
-      "Delaloye completa",
-      "Delance completa (dados e marca.json em historico/), falta gravar"
-    ],
-    "passada": 2
   }
 }
