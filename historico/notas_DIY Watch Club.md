@@ -7,3 +7,6 @@
 - §2c: ~10 buscas site:shop.diywatch.club/products → ~35 handles escondidos (D01, D01S, D02 NH72, Destro canhoto, D05 Type A, rose gold GMT, bronze NH35, gun silver wave, 44mm EONIQ skeleton pilot, 44mm big pilot, Mosel couple, Lucky Bags...).
 - Decisão: gift sets/bundles que só repetem um kit com ferramentas → avaliar no fim; kits "Lucky Bag" (sorteio) e pares (couple) mantidos com nota.
 - Fotos: collection pages não mostram imagens; abrir página de produto (og:image).
+- §3/§9 imprensa: aBlogtoWatch 2021 (Mosel, linhas Flight/Expedition/Dive), Monochrome GMT Diver 2022, watchclicker D01 2020 (primeiro modelo DWC-D01A), thetimebum Explorer D03 38mm, calibrated wrist (D01A, D02 série fumê), T+T, W&W, Timeout HK 2020, gizmodo.jp (loja japonesa), bestcalendar (loja JP 2026 mesmos kits).
+- Novos: DWC-D01A, Explorer D03 Expedition, Expedition D02S limitado 100, 38mm Skeleton Expedition D01S.
+- Pendente: EveryWatch/Chrono24 (nenhum resultado), lojas (Amazon? Etsy?), fotos (abrir páginas de produto).
