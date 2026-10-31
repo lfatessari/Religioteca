@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 389,
-  "ultima_versao": 338,
+  "proxima_linha_marcas": 391,
+  "ultima_versao": 339,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5482,6 +5482,38 @@
       },
       "versao": 338,
       "obs": "grande, sozinha; site dennisonwatch.com (G vazio); referências completas pelo guia de pulseiras da Delugs (ALD 40, Dual Time 21, Mini 53); Dennison histórica só fazia caixas (sem linhas vintage); Model Archive, Dennison Editions e Journal (exceto 1 artigo) não apareceram em busca; Firecrawl sem créditos; M388 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dent",
+      "linha_marcas": 389,
+      "linhas_relogios": "62416-62435",
+      "relogios": 20,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 27,
+      "grande": false,
+      "passadas": {
+        "1": "27 fontes, 20 novos"
+      },
+      "versao": 339,
+      "obs": "modernos Ministry/Parliament (códigos 01-/02-xxx-Hxx do site), Denison, Ministry Chronograph/Evolution, Parliament Moonphase (dent.london) + 2 de pulso antigos (1911, 1926); restante do acervo antigo é de bolso; Firecrawl sem créditos; M389 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Depancel",
+      "linha_marcas": 390,
+      "linhas_relogios": "62436-62506",
+      "relogios": 71,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 73,
+      "grande": true,
+      "passadas": {
+        "1": "73 fontes, 70 novos"
+      },
+      "versao": 339,
+      "obs": "tratada como grande (muitas edições desde 2018) → Detrash ficou para a próxima; coleção Archives do site não apareceu em busca; Chrono24/EveryWatch sem resultados; códigos internos (WR03…, WA05…) achados em reviews.io/Galeries Lafayette/Horel; M390 gravado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5500,21 +5532,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T10:42:25Z",
-  "ultimo_sinal": "2026-10-31T11:01:06Z",
-  "em_andamento": {
-    "marcas": [
-      "Dent",
-      "Depancel"
-    ],
-    "linha_marcas": 389,
-    "grande": true,
-    "relogios": "historico/parcial_Depancel_relogios.txt",
-    "fontes": "historico/parcial_Depancel_fontes.txt",
-    "notas": "historico/notas_Depancel.md",
-    "secoes_feitas": [],
-    "passada": 1,
-    "dent_pronta": "historico/dados_Dent.txt + marca_Dent.json (gravação OK, 20 relógios)"
   }
 }

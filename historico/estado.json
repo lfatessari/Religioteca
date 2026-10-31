@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 388,
-  "ultima_versao": 337,
+  "proxima_linha_marcas": 391,
+  "ultima_versao": 339,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5466,6 +5466,54 @@
       },
       "versao": 337,
       "obs": "um único conceito (Démence Timepiece, Lucky Luxe, Genebra, 2017, 21 peças previstas); M387 gravado; Dennison (388) é grande (site com ALD, Mini, Dual Time, edições, arquivo de modelos) → sozinha na próxima"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dennison",
+      "linha_marcas": 388,
+      "linhas_relogios": "62292-62415",
+      "relogios": 124,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 60,
+      "grande": true,
+      "passadas": {
+        "1": "60 fontes, 122 novos"
+      },
+      "versao": 338,
+      "obs": "grande, sozinha; site dennisonwatch.com (G vazio); referências completas pelo guia de pulseiras da Delugs (ALD 40, Dual Time 21, Mini 53); Dennison histórica só fazia caixas (sem linhas vintage); Model Archive, Dennison Editions e Journal (exceto 1 artigo) não apareceram em busca; Firecrawl sem créditos; M388 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dent",
+      "linha_marcas": 389,
+      "linhas_relogios": "62416-62435",
+      "relogios": 20,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 27,
+      "grande": false,
+      "passadas": {
+        "1": "27 fontes, 20 novos"
+      },
+      "versao": 339,
+      "obs": "modernos Ministry/Parliament (códigos 01-/02-xxx-Hxx do site), Denison, Ministry Chronograph/Evolution, Parliament Moonphase (dent.london) + 2 de pulso antigos (1911, 1926); restante do acervo antigo é de bolso; Firecrawl sem créditos; M389 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Depancel",
+      "linha_marcas": 390,
+      "linhas_relogios": "62436-62506",
+      "relogios": 71,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 73,
+      "grande": true,
+      "passadas": {
+        "1": "73 fontes, 70 novos"
+      },
+      "versao": 339,
+      "obs": "tratada como grande (muitas edições desde 2018) → Detrash ficou para a próxima; coleção Archives do site não apareceu em busca; Chrono24/EveryWatch sem resultados; códigos internos (WR03…, WA05…) achados em reviews.io/Galeries Lafayette/Horel; M390 gravado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
