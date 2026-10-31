@@ -13,3 +13,4 @@
 - Linhas só pelo título de busca (Hourstriker): Double Fuseau x7, Iéna chrono NA 040.53 — não contam como fonte aberta.
 - Hourstriker cita GA.AU.005 (Golden Afternoon) — buscar.
 - AC.UP.001 Academia peça única (repetição minutos, crono, fase lua, dual time) — masterhorologer; buscar outra fonte. Napoleon hair watches 2014 (cnbc). loupethis Furtive. watchonista T8.TH.021 (3).
+- cnbc 2014: ~500 relógios com fios de cabelo de Napoleão (10.000 CHF), modelo não nomeado -> buscar.
