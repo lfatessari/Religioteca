@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 401,
-  "ultima_versao": 345,
+  "proxima_linha_marcas": 402,
+  "ultima_versao": 346,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5668,6 +5668,20 @@
       "site_bloqueado": false,
       "fontes": 76,
       "versao": 345
+    },
+    {
+      "data": "2026-10-31",
+      "versao": 346,
+      "marca": "Dior",
+      "linha_marcas": 401,
+      "linhas_relogios": "63946-64304",
+      "relogios": 359,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – dior.com só texto, sem fotos",
+      "fontes_abertas": 209,
+      "passadas": "P1 171 fontes/262 novos; P2 24/42; P3 14/7 (contagem de novos aproximada)",
+      "obs": "Passada 1 encerrada por orçamento, não pelo critério das 3 fontes sem novidade. ~185 linhas com link de página na coluna C (dior.com sem fotos). Gem Dior: códigos variam só pelo tamanho da pulseira (uma linha por versão). Firecrawl sem créditos nesta execução."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5686,37 +5700,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T17:42:21Z",
-  "ultimo_sinal": "2026-10-31T18:21:57Z",
-  "em_andamento": {
-    "marcas": [
-      "Dior"
-    ],
-    "linha_marcas": 401,
-    "grande": true,
-    "relogios": "historico/parcial_Dior_relogios.txt",
-    "fontes": "historico/parcial_Dior_fontes.txt",
-    "notas": "historico/notas_Dior.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p2",
-      "p3"
-    ],
-    "passada": 1,
-    "extras": [
-      "historico/dior_off.txt (dados do site oficial: código|nome|características|url)",
-      "historico/codes_dior.txt"
-    ]
   }
 }

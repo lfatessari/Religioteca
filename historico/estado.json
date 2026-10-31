@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 401,
-  "ultima_versao": 345,
+  "proxima_linha_marcas": 402,
+  "ultima_versao": 346,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5668,6 +5668,20 @@
       "site_bloqueado": false,
       "fontes": 76,
       "versao": 345
+    },
+    {
+      "data": "2026-10-31",
+      "versao": 346,
+      "marca": "Dior",
+      "linha_marcas": 401,
+      "linhas_relogios": "63946-64304",
+      "relogios": 359,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "Parcial – dior.com só texto, sem fotos",
+      "fontes_abertas": 209,
+      "passadas": "P1 171 fontes/262 novos; P2 24/42; P3 14/7 (contagem de novos aproximada)",
+      "obs": "Passada 1 encerrada por orçamento, não pelo critério das 3 fontes sem novidade. ~185 linhas com link de página na coluna C (dior.com sem fotos). Gem Dior: códigos variam só pelo tamanho da pulseira (uma linha por versão). Firecrawl sem créditos nesta execução."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
