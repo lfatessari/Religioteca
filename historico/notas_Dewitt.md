@@ -1,0 +1,3 @@
+# Dewitt (linha 396) — grande
+- Site oficial dewitt.ch NÃO aparece em nenhuma busca (site:dewitt.ch só traz outras coisas); Firecrawl sem créditos. Marca em dificuldades? -> L: site bloqueado/inacessível.
+- CollectorSquare lpi: lista ~40 refs sem foto (usar como lista de buracos): AC.6005.28A.M351, NA.015.10 Lena, AC.2001.53/102.M650, T8.TH.0008B, 1102.48, AC.8003.20.M118, 6005.53 Night Chrono, 8002.70, AC7021.35.M1001 Nebula, 1601.48 Grande Date, AC.8002.20.M958, 015.10 Tonneau Regulator, 2002.48 Double Fuseau, AC.7001.53.M702 QP bi-retro, 2041.40.01 Triple Complication GMT, 7002.31, DW7021.34, 8002.28, EN.080.53 Tourbillon Mystérieux, 6005.62, Classic HMS...
