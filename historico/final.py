@@ -1,78 +1,44 @@
-import re,collections
-W='/home/claude/trabalho/'
-L=[]
-for f in ['raw_exq.txt','raw_all.txt']:
-    for l in open(W+f):
-        p=l.rstrip('\n').split('|')
-        if len(p)<3: continue
-        t,r,i=p[0].strip(),p[1].strip(),p[2].strip()
-        t=re.sub(r'^Bremont\s+','',t)
-        L.append([t,r.upper(),i,p[3] if len(p)>3 else ''])
-STRAP=['-L-S','-R-S','-N-S','-LS','-RS','-B','-BR','/BR','-S']
-def base(r):
-    r=r.upper().replace(' ','-')
-    if r in ('ALT1-B',): return r
-    for s in STRAP:
-        if r.endswith(s) and len(r)>len(s)+3: return r[:-len(s)]
-    return r
-def ck(r): return re.sub(r'[^A-Z0-9]','',base(r))
-ALIAS={  # compact base -> canonical compact
- 'MBIIBKORANGE':'MBIIBKOR','MBIIOR':'MBIIBKOR','MBIIWHBLUE':'MBIIWHBL','MBIIORWH':'MBIIWHOR',
- 'MBIIGN':'MBIIBKGN','MBIIGRWH':'MBIIWHGN','MBIIAN':'MBIIBKAN','MBIIANWH':'MBIIWHAN',
- 'MBIIIBKOR':'MBIIIOR','U2SS':'U2','U2BL':'U2BL','U2DLC':'U2DLC','U22':'U22','U251':'U251JET',
- 'ALT1ZT':'ALT1ZTBK','ALT1PBL':'ALT1PBL','ALT1CPBK':'ALT1CPB','ALT1CPWH':'ALT1CPW',
- 'ALTWHBLCHALGROVE':'ALT1WTBL','S2000':'S2000BK','S302BKNATO':'S302','S302BK':'S302',
- 'W APEXIIHBR':'WAPEXII','WAPEXIIHBR':'WAPEXII','WAPEXIIBKR':'WAPEXII','WAPEXIIBRSHB':'WAPEXII',
- 'WATERMANR':'WATERMAN','HMAFARGONAUTD':'ARGONAUT','HMAFARROWD':'ARROW','HMAFBROADSWORDD':'BROADSWORD',
- 'SOLOCRBR':'SOLOCR','SOLOWHSI':'SOLOWHSI','SOLO37BKSI':'SOLO37BKSI','SOLO37SIRG':'SOLO37SIRG',
- 'SOLO37S1RG':'SOLO37SIRG','SOLO37SIBR':'SOLO37SI','BB1SSWH':'1WH','BB1TIGMTBKBR':'BB1TIGMTBK',
- 'ARGONAUTBZSAR':'ARGONAUTBZSAR','U2LE':'U2LE','HAWKINGRG':'HAWKINGRG','TN38NDSSTQ':'TN38NDSSTQ',
- 'MBIISSBKCOP11P':'MBIISSBKCOP11P','S500BLBR':'S500BL','S500BRBLUE':'S500BL',
- 'ALT1ZDG':'ALT1ZDG','ALT1WTWHKINGSMAN':'ALT1WTWHKINGSMAN',
-}
-NAMEMAP={ # name key -> canonical compact or DROP or NEW (keep as name group)
- 'terranova38turquoise':'TN38NDSSTQ','u2argyllejet':'U2JETARGYLLE','u251jet':'U251JET',
- 'williamsracingboxset':'WRBOX','williamsracingboxsetediolimitadade50conjuntos':'WRBOX',
- 'alt1p2':'DROP','supermarines302bluegreen':'S302BLGN','argonaut':'ARGONAUT',
- 'enduranceediolimitada':'ENDURANCE','broadsword':'BROADSWORD','supermarines301':'S301BK',
- 'supermarines302oceanediolimitada':'S302GR','supermarines501black':'S501BK',
- 'supermarinechronographblack':'SMARINECHRONOBK','supermarinechronojet':'SMARINECHRONOJET',
- 'argonautbronzeblack':'ARGONAUTBZBK','argonautazure':'ARGONAUTBL',
- 'bamfordauroraediolimitadacolaboraobamforddepartment':'S502DLCBAMFORD','altitudembmeteororangeblack':'ALT42MTTIBKOR',
- 'altitudembmeteororangesilver':'ALT42MTTISIOR','supermarines300':'DROP','alt1p2jet':'ALT1P2JET',
- 'supernovamidnight':'SUPERNOVAMNB','argonautbronzeblue':'ARGONAUTBZSAR','argonautbronzebluedial':'ARGONAUTBZSAR',
- 'supermarinewatermanapexediolimitada':'WATERMANAPEX','furyblack':'FURYBKSS','furyblue':'FURYBLSS',
- 'williamsracingwr22':'WR22SS','alt1cgriffon':'ALT1CGRIFFON','mbiii':'DROP','supernovapitch':'SUPERNOVAPIN',
- 'broadswordbronzetobacco':'BROADSWORDBZTO','supermarines2000':'DROP','supermarinedescentiisteel':'DESCENTII',
- 'mbsavanna':'MBSAVANNA','mbiisavanna':'MBSAVANNA','supermarinechronographblue':'SMARINECHRONOBL',
- 'supernovaalbus':'SUPERNOVAALN','supermarines302jet':'S302JET','supermarines500watermanediolimitada':'WATERMAN',
- 'alt1c':'DROP','mbii':'DROP','aircomach2':'DROP','solo43':'DROP','alt1zt':'ALT1ZTBK','u2':'U2',
- 'supermarines500blue':'S500BL','boeingmodel247steel':'DROP','battleofbritaincollectionboxedsetediolimitada80aniversriodabatalhadainglaterra':'BOB',
- 'supermarines302gmt':'DROP','longitude':'DROP','dambusterediolimitada':'DAMBUSTER','1918ediolimitada':'DROP',
- 'h4herculesplatinumediolimitada':'H4PT','h4herculesplatinumediolimitadade75peasmadeiraoriginaldosprucegoose':'H4PT',
- 'terranova35mmjumpinghourbluenightfrosted904l':'TN35FROSTED','terranova35mmjumpinghourfrosted':'TN35FROSTED',
- 'terranova35mmjumpinghourfrostedediolimitadade150peas':'TN35FROSTED','terranova35mmjumpinghourfrostedpink':'TN35PINK',
- 'terranova35mmjumpinghourfrostedpinkediolimitadade200peas':'TN35PINK','terranova35mmjumpinghourburgundy':'TN35JHSSBG',
- 'supernova41mmchronographhawkingedition':'SN41CHRDLCHWK','supernova41mmchronographhawkingeditionediolimitadade600peas':'SN41CHRDLCHWK',
- 'kingsmanchronographedioespecialfilmekingsman':'DROP','jaguardtype':'DTYPEBL','solo34ajmotherofpearl':'SOLO34AJMP',
- 'supermarines302black':'S302','jaguaretype60thanniversaryboxsetdropeverythinggreenediolimitadade60peas60aniversriodoetype':'ETYPE60THGNSS',
- 'mbiseparapilotosejetadoscomassentomartinbaker':'MB1','altitudembmeteortimezonesairforceblue':'METEORTZ',
- 'ionbirdcolaboraorollsroyce':'IONBIRD','broadswordrecon':'BROADSWORDRECON','alt1wtblue':'ALT1WTBL',
- 'supermarinedescentiititanium':'DESCENTIITI','supermarinedescentiibronze':'DESCENTIIBZ','broadswordjet':'BROADSWORDJET',
- 'argonautbronzebluedia':'ARGONAUTBZSAR','solo34ajblack':'SOLO34AJBK','mbisparapilotosejetadoscomassentomartinbaker':'MB1','1918steelediolimitada':'1918SS','1918steelediolimitadade275peascentenriodaraf':'1918SS','alt1wtkingsman':'ALT1WTKINGSMAN',
-}
-def nkey(t):
-    t=t.lower(); t=re.sub(r'\b(on|bracelet|strap|leather|rubber|nato|watch|pilot|the|dial)\b','',t)
-    return re.sub(r'[^a-z0-9]','',t)
-G=collections.OrderedDict()
-for t,r,i,src in L:
-    if r:
-        k=ck(r); k=ALIAS.get(k,k)
-    else:
-        nk=nkey(t); k=NAMEMAP.get(nk,'N:'+nk)
-    if k=='DROP': continue
-    G.setdefault(k,[]).append((t,r,i,src))
-import pickle; pickle.dump(G,open(W+'G.pkl','wb'))
-print(len(G))
-for k,v in G.items():
-    if k.startswith('N:'): print(k, '|', v[0][0])
+import re,json
+img=dict(l.rstrip('\n').split('|',1) for l in open('img.tsv') if l.strip())
+car=dict(l.rstrip('\n').split('|',1) for l in open('car.tsv') if l.strip())
+remove={'gift-set-diy-watchmaking-kit-nh72-dive-watch-with-sapphire-dial-dwc-d02s',
+'gift-set-diy-watchmaking-kit-pilot-watch-with-date-vintage-strap-f01-standard-lume',
+'gift-set-diy-watchmaking-kit-nh34-gmt-dive-watch-seiko-gmt-movement-ceramic-coke-gmt-bezel-dwc-d03',
+'new-year-deal-lucky-bag-dive-watch-diy-kit-with-complete-tools-and-components',
+'diy-watch-gift-for-a-couple-watch-experience-mosel-silver-vintage-dress-watch-w-miyota-movement',
+'gift-set-skeleton-couple-watch-kit-miyota-citizen-8n24-anthracite-movement-mosel-series',
+'diy-watch-gift-for-a-couple-watch-experience-blue-dial-skeleton-vintage-dress-watch-w-miyota-8n24',
+'42mm-blue-type-b-bezel-dive-watch-kit-d05-maxi-superlume-dial-with-c3-lume-copy',
+'diy-watchmaking-kit-38-5mm-mosel-series-blue-dial-skeleton-vintage-dress-watch-w-miyota-8n24-copy'}
+rename={'best-deal-lucky-bag-38mm-expedition-gmt-watch-diy-kit-with-complete-tools-and-components':'38mm Expedition GMT Watch Kit (vendido como Lucky Bag)'}
+coll=set(l.split('|')[0] for l in open('prod.tsv').read().splitlines()[:68])
+rows=[];seen=set()
+for l in open('prod.tsv'):
+    if not l.strip(): continue
+    h,t,c,e=l.rstrip('\n').split('|')
+    if h in remove or h in seen: continue
+    seen.add(h)
+    t=rename.get(h,t)
+    t=re.sub(r'^\[([^\]]+)\]\s*',r'\1 – ',t)
+    rows.append([h,t,c])
+# strip movement parentheses if unique
+def strip(t): return re.sub(r'\s*\((?:TMI|Seiko|Miyota)[^)]*\)','',t).strip()
+cand=[strip(t) for h,t,c in rows]
+keys=[(x+'|'+r[2]).lower() for x,r in zip(cand,rows)]
+from collections import Counter
+cnt=Counter(keys)
+out=[]
+for (h,t,c),x,k in zip(rows,cand,keys):
+    name=x if cnt[k]==1 else t
+    name=name.replace('|','/')
+    u=img.get(h) or ('https://shop.diywatch.club/products/'+h if not h.startswith('x-') else '')
+    e=car.get(h,'')
+    if not e: e='Kit para montar'
+    if not img.get(h): e+='. Foto não coletada (a página da loja não expôs a imagem à leitura automática): link da página do produto na loja oficial'
+    if 'Starter Bundle' in name or 'Modding' in name: e+='. Vendido como pacote com peças extras (pulseiras, luneta, inserto ou ferramenta)'
+    out.append(f'{name}|{c}|{u}|{e}')
+names=[o.split('|')[0]+o.split('|')[1] for o in out]
+assert len(names)==len(set(names)), [n for n,v in Counter(names).items() if v>1]
+open('dados_DIY Watch Club.txt','w').write('\n'.join(out)+'\n')
+print(len(out), sum(1 for h,_,_ in rows if img.get(h)))
+json.dump(sorted(coll),open('coll.json','w'))

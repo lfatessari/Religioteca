@@ -1,0 +1,437 @@
+{
+ "marca": "DIY Watch Club",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – shop.diywatch.club: as imagens dos produtos e as páginas 2 das coleções não aparecem na leitura automática; revisitar com navegador para as fotos",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Site oficial confere (diywatch.club; loja em shop.diywatch.club; loja japonesa jp.diywatch.club). I: segundo release da PR Times (ago/2026), a empresa DIY Watch Club foi criada em abril/2020 em Tsuen Wan, Hong Kong; a ligação com a EONIQ aparece em colaborações (kits EONIQ x DWC), não foi possível confirmar 'fundado em 2014' como data da DIY Watch Club. J: 'Dive Kit (NH35)', 'Open Heart Kit' e 'Skeleton Kit' são descrições genéricas; os nomes da loja são Vintage Diver VD03, Mosel (open heart/skeleton), Diver D02S/D03, Pilot F01/N03, Expedition, Master Aviator e Master Tourbillon. Logo não encontrado (a loja não expôs imagens à leitura automática).",
+ "fontes": [
+  {
+   "url": "https://shop.diywatch.club/collections/diy-watch-club-experimental-kit",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/40mm-vintage-dive-watch-kit-seiko-mechanical-with-tools-and-video-instructions-vd03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit-diver",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit-diver?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit-dress-and-vintage-watch",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit-pilot-watch",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmaking-kit-skeleton-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/tourbillon",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/diy-swiss-watch-kit",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmaking-kit-gmt-watches-mechanical",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/custom-design-your-own-diy-kit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/christmas_earlybird",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/recommended-starter-bundle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/new-arrival-diy-watchmaking-kit-nh72-dive-watch-with-sapphire-dial-black-ceramic-bezel-insert-dwc-d02s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/en-jp/products/diy-watchmaking-kit-skeleton-dive-watch-with-nh72-automatic-movement-dwc-d01s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/42mm-lefthandwatch-watchmakingkit",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/new-arrival-41mm-black-vintage-dive-watch-kit-d01-dial-with-c3-superlume",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/new-arrival-diy-watch-kit-bronze-dive-watch-w-brown-vintage-strap-blue-sandwich-dial-nh35",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/byow-build-your-own-watch-with-diy-watch-club",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/diy-watch-club-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/hands-on-my-experience-building-a-diy-watch-club-gmt-diver-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/quick-release/assemble-your-own-timepiece-with-diy-watch-club/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/diy-watch-club-dive-watch-dwc-d01/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=10291",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2021/02/12/off-the-cuff-diy-watch-club/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/diy-watch-club-d03-explorer-video-review/amp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-expedition-watch-with-sapphire-dial-dwc-d02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/spring-deal-38mm-skeleton-expedition-with-steel-bracelet-nh72-automatic-movement-dwc-d01s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchclicker.com/diy-watch-club-vintage-diver-video-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeout.com/hong-kong/shopping/diy-watch-club",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/de/eintrag/1751795",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://diywatch.club/en/vd/kit/tourbillon/main",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/diy-watch-club.596709/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gizmodo.jp/article/diy-watch-club_diy-watch-kit/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/diy-watch-club-diver-gmt-video-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/made_in_me/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bestcalendar.jp/press/115548",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/?p=143940",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.diywatch.club/t/mosel-completion/708",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watch-kit-42mm-gmt-rose-gold-dive-watch-seiko-gmt-movement-dwc-d02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit/products/diy-watchmaking-kit-42mm-gmt-tonneau-dive-watch-tmi-automatic-nh34",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit/products/diy-watchmaking-kit-38-5mm-mosel-2025-series-black-skeleton-crystal-dial-dress-watch-w-miyota-82s0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/collections/watchmakingkit/products/new-arrival-carbon-fiber-dial-42mm-gmt-dive-watch-seiko-nh34",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/new-arrival-42mm-black-type-b-bezel-dive-watch-kit-d05-maxi-superlume-dial-with-c3-lume",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-pvd-black-pilot-watch-with-date-f01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-mosel-series-blue-skeleton-vintage-dress-watch-w-miyota-8n24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-35mm-black-mosel-series-brunette-dial-skeleton-dress-watch-w-miyota-8n24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/advanced-level-44mm-eoniq-x-diy-watch-club-vintage-silver-skeleton-pilot-watch-miyota-8n24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/advance-44mm-brushed-black-big-pilot-watch-vintage-pilot-watch-with-patina-miyota-82s0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/new-arrival-diy-watchmaking-kit-pilot-watch-with-vintage-strap-f01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-mosel-lite-brunette-open-heart-vintage-dress-watch-w-miyota-82s0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-mosel-with-date-silver-vintage-dress-watch-w-miyota-8215",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-nh34-gmt-dive-watch-stainless-stain-bracelet-ceramic-coke-gmt-bezel-dwc-d04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/42mm-white-dial-diver-dress-gmt-watch-kit-stainless-stain-bracelet-silver-gmt-bezel-dwc-d03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-nh70-crystal-dial-dive-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.diywatch.club/t/assembly-eoniq-x-diy-watch-club-skeleton-expedition-kit-seiko-nh72-bgw9-superlume/935",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.themills.com.hk/en/event/diy-watch-club-x-eoniq-takeaway-watchmaking-workshop/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/advanced-level-44mm-eoniq-x-diy-watch-club-black-pvd-skeleton-pilot-watch-miyota-8n24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/dwc-signature-master-aviator-pilot-watch-with-swiss-sellita-sw200-1-and-black-leather-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/limited-eoniq-x-dwc-plated-925-silver-pilot-watch-vintage-aviator-with-patina-aging-experience-miyota-82s0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/limited-bronze-pilot-watch-kit-aluminum-bronze-watch-case-with-brown-leather-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/new-arrival-diy-watch-club-grey-tourbillon-with-black-leather-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watch-club-chronograph-watchmaking-kit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://users.standardmedia.co.ke/cnn/diy-watch-club.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-pvd-black-nh72-dive-watch-with-sapphire-dial-dwc-d02s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-42mm-nh70-dive-tonneau-watch-with-crystal-dial-dwc-d02s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-35mm-mosel-silver-vintage-dress-watch-w-miyota-8215-or-8315",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-mosel-series-salmon-dial-skeleton-vintage-dress-watch-w-silver-miyota-8n24",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/limited-diy-watchmaking-kit-nh34-gmt-all-black-coke-dive-watch-automatic-gmt-red-and-black-ceramic-coke-gmt-dwc-d03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/42mm-blue-type-b-bezel-dive-watch-kit-d05-maxi-superlume-dial-with-c3-lume2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-mosel-with-date-black-vintage-dress-watch-w-miyota-8215-or-8315",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-38-5mm-mosel-series-blue-dial-skeleton-vintage-dress-watch-w-miyota-8n24-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/special-diy-watchmaking-kit-mosel-series-brunette-skeleton-vintage-dress-watch-w-miyota-8n24-gun-silver-movement-black-mesh-band",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-nh34-gmt-blue-dive-watch-automatic-gmt-blue-bezel-stainless-steel-gmt-dwc-d03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/summer-special-diy-watch-kit-gmt-diver-with-orange-fkm-band-seiko-nh34-automatic-gmt-dwc-d03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watch-reviews/holiday-gift-guide-2024-perfect-picks-watch-enthusiasts-gift-guide-79427.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000007.000177725.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-mosel-lite-silver-open-heart-vintage-dress-watch-w-miyota-82s0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-mosel-series-silver-dial-skeleton-dress-watch-w-miyota-8n24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-35mm-mosel-black-x-rose-gold-vintage-dress-watch-w-miyota-82s0-or-8315",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.diywatch.club/products/diy-watchmaking-kit-black-mosel-brunette-skeleton-vintage-dress-watch-w-miyota-8n24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/new-arrival-42mm-blue-type-b-bezel-dive-watch-kit-d05-maxi-superlume-dial-with-c3-lume",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.diywatch.club/products/40mm-vintage-skeleton-dive-watch-kit-seiko-nh72-with-tools-and-video-instructions",
+   "passada": 1,
+   "novos": 1
+  }
+ ]
+}
