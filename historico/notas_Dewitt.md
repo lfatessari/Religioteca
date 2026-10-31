@@ -10,3 +10,5 @@
 - Twenty-8-Eight Tourbillon tem mostrador antracite/creme ou cinza/azul; Alma Utopia (feminino) — buscar. Swisstime fiches: Golden Afternoon x3, T8 Skeleton, Regulator ASW, TFC à Chaîne, TFC Mecanica, Antipode, Night Chrono, Silicium Hora Mundi, TFC, Rainbow Spirit, Tourbillon Diff, Alma Utopia.
 - Academia Slide Only Watch (worldtempus) — buscar. Worldtempus catálogo brand/dewitt-38027 não veio em busca.
 - AC.GT.001 Grand Tourbillon antracite (masterhorologer, não abre) - Grand Tourbillon horbiter pode ser esse. luxurybazaar.com/brands/dewitt/ — buscar.
+- Linhas só pelo título de busca (Hourstriker): Double Fuseau x7, Iéna chrono NA 040.53 — não contam como fonte aberta.
+- Hourstriker cita GA.AU.005 (Golden Afternoon) — buscar.
