@@ -22,3 +22,7 @@
 - something-blue: bahiya, blue-ribbon, hillary, something-blue, myriade, perfect-ten-in-blue
 - laxmi: ashta-laxmi, dhana-laxmi, griha-laxmi, indira, mahalaxmi, padma-laxmi
 - 1ª passada encerrada: imprensa/lojas/usados externos esgotados (3+ fontes seguidas sem novidade). 2ª passada: versões FR/DE do site, configurador, artigos do blog, autor.
+## Auto-auditoria 10b
+1 blog: watch-of-the-month, author p1, pink-ribbon, offering, dolphin, opal, homme, anniversary lidos; author p2 e montre-du-mois DE pediram permissão. 2 §2c: buscas site:delance.com feitas (collections, fr toutes-les-montres, montre du mois). 3 lojas: nenhuma loja vende a marca online (só eBay 1 anúncio genérico). 4 primeiro modelo 1995 sem nome; Petite (1997) incluída. 5 J (Symbol, L'Insoumise, Photo Watch) não achados -> M. 6 sem edições limitadas numeradas. 7 fontes ~178.
+Vermelho: cada modelo configurável (pedras/pulseiras/tamanhos), versões antigas (Volupté, Rocaille, eBay ouro com diamantes) sem catálogo.
+Pendant (Les Divas) é pingente, não entrou.

@@ -1,0 +1,897 @@
+{
+ "marca": "Delance",
+ "usa_codigos": true,
+ "logo": "https://delance.com/wp-content/uploads/2017/09/logo_Delance.png",
+ "site_bloqueado": "Parcial – new.delance.com bloqueado (robots) e delancewatches.com pede permissão; algumas páginas do blog de delance.com não abriram; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "J: 'Delance Symbol', 'L'Insoumise' e 'Photo Watch' não encontrados; coleções reais do site: Océane, Sakura, Floralia, Simplicity, Les Précieuses, Les Dentelles, Les Divas, Infinity, Laxmi etc. C: endereço oficial em Macolin/Magglingen (perto de Biel). I: marca ativa em 2026 (30 anos); empresa fundada em 1996, primeiro relógio em 1995. Cada modelo é personalizável (pedras, pulseiras, tamanhos pequeno/médio, configurador).",
+ "fontes": [
+  {
+   "url": "https://masterhorologer.com/delance-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/the-delance-diane",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/volupte",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/people/when-watchmaking-speaks-language-women-delance-80965.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sovereignmagazine.com/tag/delance/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=30350",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/the-delance-sweet-sixty",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/fr/watches/the-rocaille",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/the-delance-myriad",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/the-delance-isis",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004089610.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/news/1003633235-delance-and-the-international-chess-festival.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://royalcentral.co.uk/?p=62389",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.slideshare.net/gisellerufer/presentations",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sovereignmagazine.com/?p=45336",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.freemalaysiatoday.com/category/leisure/2017/12/10/delance-presents-a-watch-inspired-by-kate-middleton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/time-for-women-the-creation-of-the-delance-watch/253259727",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/3305578/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/127340327537",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/listing/1288010205",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/indra/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.delance.com/wp-content/uploads/2019/07/DELANCE_Oceane_E.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/floralia-e/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/sakura/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/precious/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/dedicated/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/dream/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/divas/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/infinity/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/for-a-mother/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/birthday/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/wedding/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/something-blue/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/laxmi/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/amapola/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/cascade/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/florencia/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/papavero/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/poppy/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/maria/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/painted-dials/marie/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/floralia-e/anae/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/floralia-e/chloe/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/floralia-e/daisy/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/floralia-e/bo/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/floralia-e/flora-gold-watch-woman/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delancewatches.com/en/collections/floralia-e/fang-yin/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/sakura/kanon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/sakura/miwa/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/sakura/miyuki/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/sakura/sakie/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/sakura/yuka/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/sakura/waka/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delancewatches.com/en/collections/simplicity-e/simplicity/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/black-wing/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/simplicity/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/origine/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/autumn/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/cognac/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/feminine-wrist-watches-diamonds/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/feminine-wrist-watches-leather/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/machaya/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/simplicity-e/star-of-the-day-cascade/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/precious/cybele/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/precious/eclat-de-rire/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/precious/trefle-a-4-feuilles/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/precious/esperanza/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/precious/heritage/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/precious/butterfly-effect/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dedicated/au-coeur-de-la-rose/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dedicated/dolphin/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dedicated/feng-shui-dawn/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dedicated/original-womens-feng-shui-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dedicated/yin-yang/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dedicated/secret/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dream/cometa/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dream/aida/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dream/amethyst/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dream/isis/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/dream/realisation/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/dream/violet/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/divas/diva/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/divas/diva-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/divas/gaia/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/divas/princess-in-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/divas/princesse/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/divas/pendant/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/infinity/infinity/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/infinity/infinity-gold-link/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/infinity/infinity-steel-cascade/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/infinity/infinity-steel-alligator/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/infinity/jonquille/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/infinity/infinity-gold-in-red/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/for-a-mother/kate/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/for-a-mother/diane/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/for-a-mother/judith/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/for-a-mother/noces-d-etain/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/for-a-mother/la-montre-de-ma-mere/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/for-a-mother/may/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/cascade-doree/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/cascade-givree/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/dentelle-et-diamants-roses/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/dentelle-in-gold/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/dentelle-on-ice/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/dentelle-or-acier/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/lacework/dentelle-et-satin/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/birthday/birthday/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/birthday/micheline/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/birthday/sweet-sixty/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/birthday/new-life/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/birthday/47-lumieres/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/birthday/sweet-sixteen/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/valentine/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/gaya-laxmi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/la-vie-en-rose/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/pink-ribbon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/just-for-you/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/white-lily/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/la-vie-en-rose/rose-wing/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/wedding/edelweiss/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/wedding/just-25/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/wedding/orchidee/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/wedding/paloma/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/wedding/white-lotus/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/wedding/star-of-the-day/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/something-blue/bahiya/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/something-blue/blue-ribbon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/something-blue/hillary/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/something-blue/something-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/something-blue/myriade/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/something-blue/perfect-ten-in-blue/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/laxmi/ashta-laxmi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/laxmi/dhana-laxmi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/laxmi/griha-laxmi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/laxmi/indira/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/laxmi/mahalaxmi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/laxmi/padma-laxmi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/doris/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/oceane/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/ondine/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/marina/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/ulla/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/coraline/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/collections/ocean/noa/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delance.com/en/category/the-watch-of-the-month/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/montre-delance-homme-copy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/swiss-watch-women-delance/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://new.delance.com/en/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/delance-2/history/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2009/05/01/delance-secret-ladies-watch-gem-set-case/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/category/brand-stories/page/58/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://watches-lexic.ch/pages/eng/gal/wat/delance3.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/the-watch/configurator-delance-watch-personalized/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/fr/ode-a-l-ocean/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/author/delance/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/de/alle-uhren/simplicity_d/herbst/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/author/delance/page/2/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/de/alle-uhren/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/pink-ribbon/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://delance.com/en/offering-the-delance-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.delance.com/de/die-uhr-monates-oktober-secret/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/dolphin-ocean-august-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/en/october-opal/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/121755741253",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003954668-delance-swiss-watches-44-the-creator-of-the.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/fr/toutes-les-montres/mariee/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/en/gphg-2008/the-competing-watches-2008",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/en/gphg-2009/the-competing-watches-2009",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://delance.com/fr/category/la-montre-du-mois/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/fr/watches/delance-volupte",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.linkedin.com/pulse/highly-symbolic-delance-collection-giselle-rufer",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/fr/watches/delance-diane",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
