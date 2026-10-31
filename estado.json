@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 403,
- "ultima_versao": 347,
+ "proxima_linha_marcas": 405,
+ "ultima_versao": 348,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5695,6 +5695,32 @@
    "site_bloqueado": false,
    "fontes": 78,
    "obs": "Tratada como grande (120 produtos na loja oficial), sozinha; Diving Armour (403) e Division Furtive (404) ficam para a próxima. Firecrawl sem créditos. Coluna M402 com dados errados (país/fundador/DRZ 01)."
+  },
+  {
+   "data": "2026-10-31",
+   "versao": 348,
+   "marca": "Diving Armour",
+   "linha_marcas": 403,
+   "linhas_relogios": "64433-64458",
+   "relogios": 26,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "pontvswatch.com client_error; divingarmour.com fora das buscas",
+   "fontes": 30,
+   "obs": "Inclui as submarcas Pontvs e Fonderia Navale (sem linha própria em Marcas). Acheron: 6 cores anunciadas, só 2 achadas. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-10-31",
+   "versao": 348,
+   "marca": "Division Furtive",
+   "linha_marcas": 404,
+   "linhas_relogios": "64459-64466",
+   "relogios": 8,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "division-furtive.com redirecionamento em loop",
+   "fontes": 21,
+   "obs": "DIY Watch Club (405) não entrou: parece grande (muitos kits na loja), fica sozinha na próxima."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5713,23 +5739,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-10-31T19:41:57Z",
- "ultimo_sinal": "2026-10-31T19:47:18Z",
- "em_andamento": {
-  "marcas": [
-   "Diving Armour",
-   "Division Furtive"
-  ],
-  "linha_marcas": 403,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "3"
-  ],
-  "passada": 1
  }
 }
