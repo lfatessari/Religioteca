@@ -6,3 +6,10 @@
 - Buser Frères (buserfreres.de) = marca parceira/irmã ligada à Dekla; Mriya.
 - Firecrawl sem créditos (renova em ~11h).
 - Seções feitas: 1, 2 (parcial)
+- Microbrand Atlas: Est. 2013, fundador Achim Bleicher (?); outras fontes: dono/cofundador Yuriy Shapiro (Stuttgart). Nome = deusa báltica (letã) do destino.
+- 2018 sem site, vendas por redes sociais. Turbulenz Pro (6Steel), mostradores Old Radium/White/White Facelift.
+- BlackJack Tu160 (cronógrafo LE com fórum watch.ru) -> renomeado Mriya An-225.
+- Kampftaucheruhr (2020, sem nome) -> provavelmente virou Seaborn (2023?).
+- Bloqueados: watchuseek (client_error), watchbuys, extropian (robots), uhrforum, thedivewatchconnection, masterhorologer/2020.
+- Seções: 1,2,2c,3 parcial
+- Buser Frères (1892) revivida pela Dekla; Dekla faz caixas/mostradores. Não incluir Buser Frères aqui (marca própria).
