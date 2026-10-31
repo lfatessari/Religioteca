@@ -11,3 +11,7 @@ Modernos: Type 21 Flyback reedição 2005 (DD 42021, 41.5mm), Type 22 (?), Type 
 - collectorsquare: Type 21 Tri-Compax Chocolat (40 pcs c.2010), CEV (65 pcs), Latécoère (130 pcs c.2007), Type 21 quartzo c.1991, Type 21 c.2006 ETA2892, Type 20 Chronofixe.
 - atimelyperspective: Type 21 flyback lim 400 $5750 imgs dodane-010.jpg
 - craft&tailored 2ª geração 1969 38mm img PSD_7685.jpg; bulang W697 1960s Valjoux 235 img
+- Type 21 quartzo ref F1950 (1990-93, Lemania 185/ETA 955.232) = linha EveryWatch 1990.
+- Type 03 AF (Air France 80 anos 2013, subscrição funcionários) — dialicious.
+- Empresa em falência set/2022, liquidação mai/2023 (Europa Star abr/2024) -> M.
+- Site oficial dodane1857.fr (G diz .com). Não aparece em busca; Firecrawl sem crédito.
