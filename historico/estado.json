@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 379,
-  "ultima_versao": 330,
+  "proxima_linha_marcas": 380,
+  "ultima_versao": 331,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5321,6 +5321,17 @@
       },
       "versao": 330,
       "obs": "pequena; WatchBase/Majestix 35 refs + modelos novos pela imprensa; site oficial não indexado; Firecrawl sem créditos; Dekla (379) tratada como grande (customizável) e fica sozinha na próxima"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dekla",
+      "linha_marcas": 379,
+      "linhas_relogios": "61185-61235",
+      "relogios": 51,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 42,
+      "grande": true
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
