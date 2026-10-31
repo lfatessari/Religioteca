@@ -6,3 +6,8 @@ Modernos: Type 21 Flyback reedição 2005 (DD 42021, 41.5mm), Type 22 (?), Type 
 - EveryWatch: Type 21 c.1960 Valjoux 223 37mm img 2024/02/07/11431442.webp; Type 21 1990 quartzo 38mm img 2023/05/21/dodane2210717.webp; outros: Type 23 336461, 4534-13, D0937, Type XXI Brown, Type 20.
 - classicwatch: Type 21 c.1969 Valjoux 235 thumb rx1441.jpg
 - europeanwatch: Type 21 reedição preto 41.5mm img 30424-1.jpg
+- lepage: Type 21 Flyback 3 compteurs T21-P-NBI ed. lim 400 (2015 venda; reedição 2005?) img lepage 51701
+- verygoodlord: T23 CF-10R-NBI (Type 23 Flyback), T22-P-NBI (Chronographe Type 21 2 compteurs, DD42022), T23-PR-SB-NBI (Power reserve, DD 42081); Type 21 160 ans (2017); Type 23 GMT.
+- collectorsquare: Type 21 Tri-Compax Chocolat (40 pcs c.2010), CEV (65 pcs), Latécoère (130 pcs c.2007), Type 21 quartzo c.1991, Type 21 c.2006 ETA2892, Type 20 Chronofixe.
+- atimelyperspective: Type 21 flyback lim 400 $5750 imgs dodane-010.jpg
+- craft&tailored 2ª geração 1969 38mm img PSD_7685.jpg; bulang W697 1960s Valjoux 235 img
