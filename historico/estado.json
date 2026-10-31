@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 408,
-  "ultima_versao": 351,
+  "proxima_linha_marcas": 409,
+  "ultima_versao": 352,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5771,6 +5771,18 @@
         ]
       },
       "versao": 351
+    },
+    {
+      "data": "2026-10-31",
+      "versao": 352,
+      "marca": "Dom Baiz International",
+      "linha_marcas": 408,
+      "linhas_relogios": "64763-64768",
+      "relogios": 6,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "fontes": 18,
+      "obs": "Marca obscura (só eBay/Catawiki, sem site oficial). Feita sozinha porque Dominatore Del Mare (409) foi dimensionada como GRANDE (refs DD-8001..DD-8029 com variantes de cor, Jomashop/Ashford): fica sozinha na próxima. Coluna M408 preenchida. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

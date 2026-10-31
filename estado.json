@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 408,
-  "ultima_versao": 351,
+  "proxima_linha_marcas": 409,
+  "ultima_versao": 352,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5771,6 +5771,18 @@
         ]
       },
       "versao": 351
+    },
+    {
+      "data": "2026-10-31",
+      "versao": 352,
+      "marca": "Dom Baiz International",
+      "linha_marcas": 408,
+      "linhas_relogios": "64763-64768",
+      "relogios": 6,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "fontes": 18,
+      "obs": "Marca obscura (só eBay/Catawiki, sem site oficial). Feita sozinha porque Dominatore Del Mare (409) foi dimensionada como GRANDE (refs DD-8001..DD-8029 com variantes de cor, Jomashop/Ashford): fica sozinha na próxima. Coluna M408 preenchida. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5789,21 +5801,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T23:41:53Z",
-  "ultimo_sinal": "2026-10-31T23:41:53Z",
-  "em_andamento": {
-    "marcas": [
-      "Dom Baiz International",
-      "Dominatore Del Mare",
-      "Dominique Renaud"
-    ],
-    "linha_marcas": 408,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
   }
 }
