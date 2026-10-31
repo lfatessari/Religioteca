@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 380,
-  "ultima_versao": 331,
+  "proxima_linha_marcas": 381,
+  "ultima_versao": 332,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5332,6 +5332,23 @@
       "site_bloqueado": false,
       "fontes": 42,
       "grande": true
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "DeLaCour",
+      "linha_marcas": 380,
+      "linhas_relogios": "61236-61331",
+      "relogios": 96,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 125,
+      "passadas": {
+        "1": "107 fontes, 94 novos",
+        "2": "18 fontes, 6 novos"
+      },
+      "versao": 332,
+      "grande": true,
+      "obs": "grande (maison de luxo 2003-2018), sozinha; site oficial delacour.ch não indexado; base Gressive (catálogos JP), Europa Star, Masterhorologer, GPHG, Antiquorum; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
