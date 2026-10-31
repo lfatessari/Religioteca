@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 394,
-  "ultima_versao": 340,
+  "proxima_linha_marcas": 396,
+  "ultima_versao": 341,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5562,6 +5562,38 @@
       },
       "versao": 340,
       "obs": "tratada como grande (variantes + linha desde 2014); pág. 2 da coleção principal não apareceu em busca (cobertura pelas outras coleções); Ponte Vecchio/Avenue/Gotham não encontrados; Firecrawl sem créditos; M393 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Deux Mers",
+      "linha_marcas": 394,
+      "linhas_relogios": "62621-62639",
+      "relogios": 19,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 29,
+      "grande": false,
+      "passadas": {
+        "1": "29 fontes, 18 relógios"
+      },
+      "versao": 341,
+      "obs": "site real deuxmers.net (Shopify, Bahrein); catálogo fechado 17 = Riviera 15 + Epure 2; + Horizon Limited (Smiths, 50 pç) e The Cadbury (só título); M394 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Devon Works",
+      "linha_marcas": 395,
+      "linhas_relogios": "62640-62661",
+      "relogios": 22,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 46,
+      "grande": false,
+      "passadas": {
+        "1": "46 fontes, 22 relógios"
+      },
+      "versao": 341,
+      "obs": "Tread 1 A-F, 1G, Group 63, Steampunk, Exoskeleton x2, Star Wars; Tread 2 x10 incl. 2G; Chrono24 não abriu; Firecrawl sem créditos; Dewitt (396) fica sozinha na próxima (grande); M395 gravado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
