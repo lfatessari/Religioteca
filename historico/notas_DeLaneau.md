@@ -21,3 +21,4 @@
 - Vermelha: SIM (sob medida, peças únicas sem nome, ~157 lotes na CollectorSquare só 40 visíveis, centenas de relógios-joia vintage com refs G/L sem nome, 19 fichas Europa Star sem nome, 139 imagens TJE em 8 páginas não alcançadas, EveryWatch com login).
 - Site oficial delaneau.com: não aparece em nenhuma busca (marca fechou 2017, comprada pela Luna Management). Registrar L.
 - 2ª passada: buscar peças únicas por nome (Rondo/Dôme/Atame/Amazone), refs G/L vintage, TJE images pages, CollectorSquare outras línguas, Antiquorum, Artcurial, Bonhams, Phillips NY060114.
+- Rondo Translucent Creations: 9 peças únicas (2014) — temos Aurora Borealis, Hoar Frost, Meadow, Aurora, Cherry, tabaco, lavanda + verdes/azuis da WC
