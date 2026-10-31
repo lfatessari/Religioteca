@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 397,
-  "ultima_versao": 342,
+  "proxima_linha_marcas": 398,
+  "ultima_versao": 343,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5612,6 +5612,22 @@
       },
       "versao": 342,
       "obs": "dewitt.ch não aparece em busca (L396); Firecrawl sem créditos; base principal Essential Watches (categorias), WorldTempus, Europa Star, Hourstriker, leilões; 44 linhas só com link da página; M396 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dexter Sinister",
+      "linha_marcas": 397,
+      "linhas_relogios": "62888-62903",
+      "relogios": 16,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 62,
+      "grande": false,
+      "passadas": {
+        "1": "62 fontes, 16 relógios"
+      },
+      "versao": 343,
+      "obs": "Dexter Sinister Inc. (~2006-2010): site antigo dexter-sinister.com lido pela Wayback Machine via Firecrawl (catálogo fechado: 13 refs = carrinho oficial 2009 = WatchWear 2008) + Hex 2009 (3 refs, WatchWear 2010); + Watch Wyoscan do estúdio de arte homônimo; Diesel (398) é grande e fica sozinha na próxima; M397 gravado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

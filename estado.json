@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 397,
-  "ultima_versao": 342,
+  "proxima_linha_marcas": 398,
+  "ultima_versao": 343,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5612,6 +5612,22 @@
       },
       "versao": 342,
       "obs": "dewitt.ch não aparece em busca (L396); Firecrawl sem créditos; base principal Essential Watches (categorias), WorldTempus, Europa Star, Hourstriker, leilões; 44 linhas só com link da página; M396 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dexter Sinister",
+      "linha_marcas": 397,
+      "linhas_relogios": "62888-62903",
+      "relogios": 16,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 62,
+      "grande": false,
+      "passadas": {
+        "1": "62 fontes, 16 relógios"
+      },
+      "versao": 343,
+      "obs": "Dexter Sinister Inc. (~2006-2010): site antigo dexter-sinister.com lido pela Wayback Machine via Firecrawl (catálogo fechado: 13 refs = carrinho oficial 2009 = WatchWear 2008) + Hex 2009 (3 refs, WatchWear 2010); + Watch Wyoscan do estúdio de arte homônimo; Diesel (398) é grande e fica sozinha na próxima; M397 gravado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5630,25 +5646,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T14:42:18Z",
-  "ultimo_sinal": "2026-10-31T14:49:33Z",
-  "em_andamento": {
-    "marcas": [
-      "Dexter Sinister"
-    ],
-    "linha_marcas": 397,
-    "grande": false,
-    "relogios": "historico/parcial_Dexter_Sinister_relogios.txt",
-    "fontes": "historico/parcial_Dexter_Sinister_fontes.txt",
-    "notas": "historico/notas_Dexter_Sinister.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5"
-    ],
-    "passada": 1
   }
 }
