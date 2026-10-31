@@ -21,3 +21,4 @@
 - wedding: edelweiss, just-25, orchidee, paloma, white-lotus, star-of-the-day
 - something-blue: bahiya, blue-ribbon, hillary, something-blue, myriade, perfect-ten-in-blue
 - laxmi: ashta-laxmi, dhana-laxmi, griha-laxmi, indira, mahalaxmi, padma-laxmi
+- 1ª passada encerrada: imprensa/lojas/usados externos esgotados (3+ fontes seguidas sem novidade). 2ª passada: versões FR/DE do site, configurador, artigos do blog, autor.
