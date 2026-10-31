@@ -5,3 +5,4 @@
 - Marca VERMELHA: linha D&G Time (Binda, ~2000-2011) tem centenas de referências DW0xxx/37197xxxxx; a coleção de 2009 tinha 52 modelos (DG7/DS5/DG7 Gems) e só parte tem código achado; site oficial não lista (bloqueado).
 - Passada 2: foco em refs D&G Time (eBay, Shade Station, outras lojas) e fichas oficiais escondidas (site: buscas).
 - Chrono24 não aparece em buscas (site:chrono24.com sem resultados da marca). EveryWatch não indexado.
+- Passada 2: 12 fontes, 11 relógios novos (>=5) -> passada 3 iniciada.
