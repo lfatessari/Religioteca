@@ -5,3 +5,4 @@ Códigos: WAxx####-#### (WAST aço, WAPG ouro rosa, WAWG ouro branco, WATI titâ
 - Eclat é relógio de bolso (9 peças) -> não entra (relatar).
 - Fotos: gressive OK; EveryWatch sem foto (link do anúncio); eBay ok.
 - gressive 155069 dá ref WATI0058-1422 para Bichrono Tech (mesma do Saqra II, erro) – ignorado.
+- Lacunas: City Medium, Grand City Duo, Griffe, Ovale Maximus, Challenger, Surfer, Harpa, Lyra, Delacour L, Saqra Weekend GraphitePi (collectorsquare só cita), Clessidra, Saqra Black Tie, Saqra Line (Classic, BiTime, Grande Réserve), Reflect Chrono Skeleton, La Liberata, Fusion.
