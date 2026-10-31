@@ -1,0 +1,17 @@
+# Delance (382). Site delance.com não indexado; Firecrawl sem créditos.
+- Configurável: 1.929.000 combinações (pulseiras, cabochões, pedras) -> tratar como GRANDE (sozinha c/ Delaloye já feita) e VERMELHA. DeLaneau fica para a próxima.
+- slideshare Ocean Collection: PROVENANCE_REQUIRED.
+- SITE OFICIAL achado (busca extended): delance.com/en/collections/<colecao>/<modelo>/ ; fichas PDF wp-content/uploads/2019/07/DELANCE_<Modelo>_E.pdf
+- Coleções: painted-dials, floralia-e, ocean, sakura, simplicity-e, precious, dedicated, dream, lacework, divas, birthday, la-vie-en-rose, infinity, for-a-mother, wedding, something-blue, laxmi; watch-of-the-month (category)
+- Ocean: oceane, ondine, marina, ulla, doris, coraline, noa, indra
+- painted-dials: amapola, cascade, florencia, papavero, poppy, maria, marie
+- floralia-e: anae, florencia, chloe, daisy, fang-yin, bo, flora-gold-watch-woman
+- sakura: kanon, miwa, miyuki, sakie, yuka, waka
+- simplicity-e (delancewatches.com!): simplicity, origine, autumn, cognac, feminine-wrist-watches-diamonds(Diversity), feminine-wrist-watches-leather(Sofia), machaya, black-wing, star-of-the-day-cascade
+- precious: Cybele, Eclat de rire, Four-leaf clover, Esperanza, Heritage, +1 sem nome (sem links)
+- dedicated: au-coeur-de-la-rose, dolphin, feng-shui-dawn, original-womens-feng-shui-watch, yin-yang, secret
+- dream: A Love Song, Amethyst (Crystal Nymph), Cometa, I am all mothers, Realisation, roxo sem nome (sem links)
+- divas: diva, diva-blue, gaia, princess-in-blue, princesse, pendant
+- infinity: infinity, infinity-gold-link, infinity-steel-cascade, infinity-steel-alligator, jonquille, infinity-gold-in-red
+- for-a-mother: Diane, Catherine, My Mother's watch
+- FALTA: lacework, birthday, la-vie-en-rose (rate limit), wedding, something-blue, laxmi, ocean, watch-of-the-month
