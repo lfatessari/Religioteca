@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 384,
-  "ultima_versao": 334,
+  "proxima_linha_marcas": 385,
+  "ultima_versao": 335,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5399,6 +5399,23 @@
       },
       "versao": 334,
       "obs": "grande (relógios-joia, peças únicas, sob medida), sozinha; marca fechou em 2017 (comprada pela Luna Management); delaneau.com não indexado; EveryWatch com login; Firecrawl sem créditos; usa_codigos=false (códigos só em revendedores)"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Delbana",
+      "linha_marcas": 384,
+      "linhas_relogios": "61655-61846",
+      "relogios": 192,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 85,
+      "grande": true,
+      "passadas": {
+        "1": "67 fontes, 188 novos",
+        "2": "18 fontes, 4 novos"
+      },
+      "versao": 335,
+      "obs": "grande (13 coleções atuais + linhas descontinuadas na Watchard + vintage), sozinha; site oficial delbana.ch (G diz delbana.com); página 2 da Classic e da Watchard não alcançadas; Firecrawl sem créditos; Delma (385) é grande e fica sozinha na próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
