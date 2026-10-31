@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 383,
-  "ultima_versao": 333,
+  "proxima_linha_marcas": 384,
+  "ultima_versao": 334,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5381,6 +5381,24 @@
       },
       "versao": 333,
       "obs": "revelou-se grande (configurável, 17 coleções no site oficial); DeLaneau (383) é grande (peças únicas, sob medida) e fica sozinha na próxima; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "DeLaneau",
+      "linha_marcas": 383,
+      "linhas_relogios": "61460-61654",
+      "relogios": 195,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 198,
+      "grande": true,
+      "passadas": {
+        "1": "152 fontes, 176 novos",
+        "2": "31 fontes, 12 novos",
+        "3": "15 fontes, 9 novos"
+      },
+      "versao": 334,
+      "obs": "grande (relógios-joia, peças únicas, sob medida), sozinha; marca fechou em 2017 (comprada pela Luna Management); delaneau.com não indexado; EveryWatch com login; Firecrawl sem créditos; usa_codigos=false (códigos só em revendedores)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5399,33 +5417,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T05:41:51Z",
-  "ultimo_sinal": "2026-10-31T06:10:38Z",
-  "em_andamento": {
-    "marcas": [
-      "DeLaneau"
-    ],
-    "linha_marcas": 383,
-    "grande": true,
-    "relogios": "historico/parcial_DeLaneau_relogios.txt",
-    "fontes": "historico/parcial_DeLaneau_fontes.txt",
-    "notas": "historico/notas_DeLaneau.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "11b-2"
-    ],
-    "passada": 3
   }
 }

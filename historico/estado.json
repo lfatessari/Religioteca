@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 383,
-  "ultima_versao": 333,
+  "proxima_linha_marcas": 384,
+  "ultima_versao": 334,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5381,6 +5381,24 @@
       },
       "versao": 333,
       "obs": "revelou-se grande (configurável, 17 coleções no site oficial); DeLaneau (383) é grande (peças únicas, sob medida) e fica sozinha na próxima; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "DeLaneau",
+      "linha_marcas": 383,
+      "linhas_relogios": "61460-61654",
+      "relogios": 195,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 198,
+      "grande": true,
+      "passadas": {
+        "1": "152 fontes, 176 novos",
+        "2": "31 fontes, 12 novos",
+        "3": "15 fontes, 9 novos"
+      },
+      "versao": 334,
+      "obs": "grande (relógios-joia, peças únicas, sob medida), sozinha; marca fechou em 2017 (comprada pela Luna Management); delaneau.com não indexado; EveryWatch com login; Firecrawl sem créditos; usa_codigos=false (códigos só em revendedores)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
