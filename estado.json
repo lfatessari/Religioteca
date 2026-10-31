@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 386,
-  "ultima_versao": 336,
+  "proxima_linha_marcas": 388,
+  "ultima_versao": 337,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5434,6 +5434,38 @@
       },
       "versao": 336,
       "obs": "grande, sozinha; site oficial delmawatches.com (G diz delma.ch); 301 de 440 com foto; Firecrawl sem créditos; blog oficial págs 2-5, TheWatchPages, EveryWatch, Chrono24 e catálogo 2022 (fliphtml5) não alcançados"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Delta",
+      "linha_marcas": 386,
+      "linhas_relogios": "62287-62290",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18,
+      "grande": false,
+      "passadas": {
+        "1": "18 fontes, 4 novos"
+      },
+      "versao": 337,
+      "obs": "identificada como Delta Watch (deltawatch.co, Hydra 2000 m); catálogo fechado (site 2 produtos/4 variações = Extropian 4 relógios); 11 páginas de fórum/anúncio deram client_error (não contadas); Firecrawl sem créditos; M386 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Démence",
+      "linha_marcas": 387,
+      "linhas_relogios": "62291",
+      "relogios": 1,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "grande": false,
+      "passadas": {
+        "1": "15 fontes, 1 novo"
+      },
+      "versao": 337,
+      "obs": "um único conceito (Démence Timepiece, Lucky Luxe, Genebra, 2017, 21 peças previstas); M387 gravado; Dennison (388) é grande (site com ALD, Mini, Dual Time, edições, arquivo de modelos) → sozinha na próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5452,24 +5484,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T08:41:44Z",
-  "ultimo_sinal": "2026-10-31T08:54:51Z",
-  "em_andamento": {
-    "marcas": [
-      "Delta",
-      "Démence",
-      "Dennison"
-    ],
-    "linha_marcas": 386,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Delta: todas, gravada em tmp",
-      "Démence: todas"
-    ],
-    "passada": 1
   }
 }
