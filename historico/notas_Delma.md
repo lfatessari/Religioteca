@@ -7,3 +7,4 @@
 - Marca VERMELHA: muitas referências antigas (linhas Santiago quartzo, Cambridge, San Marino, Rialto, Cordoba, Siena, Lady, vintage anos 60-90) sem lista completa; eBay mostra dezenas de modelos sem código; catálogo 2022 (fliphtml5) não abre; blog oficial páginas 2-5 não alcançadas; TheWatchPages e EveryWatch não abrem.
 ## 2ª passada: alvo = linhas antigas/descontinuadas e vintage.
 ## 2ª passada: 18 fontes, 20 novos -> 3ª passada (desde 08:03)
+## 3ª passada encerrada 08:06: 13 fontes; últimas 3 sem relógio novo.
