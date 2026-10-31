@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 402,
-  "ultima_versao": 346,
+  "proxima_linha_marcas": 403,
+  "ultima_versao": 347,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5682,6 +5682,19 @@
       "fontes_abertas": 209,
       "passadas": "P1 171 fontes/262 novos; P2 24/42; P3 14/7 (contagem de novos aproximada)",
       "obs": "Passada 1 encerrada por orçamento, não pelo critério das 3 fontes sem novidade. ~185 linhas com link de página na coluna C (dior.com sem fotos). Gem Dior: códigos variam só pelo tamanho da pulseira (uma linha por versão). Firecrawl sem créditos nesta execução."
+    },
+    {
+      "data": "2026-10-31",
+      "versao": 347,
+      "marca": "Direnzo",
+      "linha_marcas": 402,
+      "linhas_relogios": "64305-64432",
+      "relogios": 128,
+      "vermelho": false,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 78,
+      "obs": "Tratada como grande (120 produtos na loja oficial), sozinha; Diving Armour (403) e Division Furtive (404) ficam para a próxima. Firecrawl sem créditos. Coluna M402 com dados errados (país/fundador/DRZ 01)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5700,22 +5713,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T18:41:28Z",
-  "ultimo_sinal": "2026-10-31T18:54:34Z",
-  "em_andamento": {
-    "marcas": [
-      "Direnzo"
-    ],
-    "linha_marcas": 402,
-    "grande": true,
-    "relogios": "historico/parcial_Direnzo_relogios.txt",
-    "fontes": "historico/parcial_Direnzo_fontes.txt",
-    "notas": "historico/notas_Direnzo.md",
-    "secoes_feitas": [
-      "1",
-      "2"
-    ],
-    "passada": 1
   }
 }

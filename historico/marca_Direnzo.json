@@ -1,0 +1,402 @@
+{
+ "marca": "Direnzo",
+ "usa_codigos": false,
+ "logo": "https://direnzowatches.com/wp-content/uploads/2024/08/LOGO_FINAL_ajustado_Blanco_HR-scaled.jpg",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://dialicious.com/en/direnzo",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://wornandwound.com/brand/direnzo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/direnzo-drz-type-250f-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ablogtowatch.com/di-renzo-drz_02-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://ablogtowatch.com/direnzo-watches-drz-03-eclipse-hits-kickstarter",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wornandwound.com/review/review-the-direnzo-drz04/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-the-direnzo-drz-02r-aerolite/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://gphg.org/en/watches/drz-05-solaris-meteorite",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/aerolite",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2026/10/26/isotope-x-direnzo-drz-08-cosmonaire-gmt/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-review-direnzo-drz-06-wandering-star",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wornandwound.com/?p=93428",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://gphg.org/en/watches/drz-06-0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/drz-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/en-au/blogs/magazine/direnzo-x-sophie-cassaro-space-girl-and-the-joy-of-serious-fun",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dialicious.com/en/direnzo/drz_02r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/direnzo?page=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/direnzo-drz-02r-aerolite-red-date-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/direnzo-drz-05-solaris-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/direnzo-drz-04-mondial-blue-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/direnzo-drz-04-mondial-white-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=77182",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=7588",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/introducing-direnzo-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=426",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/direnzo-drz-type-250f-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=136",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/direnzo-watches-geneve.554907/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2020/02/15/direnzo-drz_03-eclipse-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lallement.com/Montres/viewtopic.php?p=864436",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://topperjewelers.com/products/pre-owned-direnzo-16326",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-07-universo/",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://direnzowatches.com/drz-02r-aerolite-2026/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://direnzowatches.com/drz-06-wandering-star/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-04r_38mm-mondial/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://direnzowatches.com/shop/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/sold-out/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/shop/page/3/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://direnzowatches.com/shop/page/9/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/page/3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/page/6/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/drz-02r/page/2/?v=77c15b8369ec",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/page/7/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/drz-02/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/drz-06/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/drz-04/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/drz-03/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-03/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://direnzowatches.com/drz-02/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://direnzowatches.com/drz-04v2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/drz-type-250f/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/drz-07/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://direnzowatches.com/product-tag/drz-05/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://direnzowatches.com/drz-05-solaris/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/drz-02r/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://direnzowatches.com/product-category/watches/drz-02r/page/3/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://direnzowatches.com/drz-04/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-02r/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/news/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/news/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-02r-aerolite/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-08-cosmonaire/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://direnzowatches.com/drz-02r-aerolite-2024/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/2021-direnzos-charity-event/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://direnzowatches.com/2021-direnzos-charity-event-for-ased-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://direnzowatches.com/drz-03-v2-eclipse/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-04-mondial-2023-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/drz-04-mondial-v2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/collections/direnzo-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronofactum.com/en/collections/direnzo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://finchwatches.com/collections/direnzo",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://chronoscout.co/en/watches/direnzo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://rafflecreator.com/pages/37262/covid-19-solidarity-response-fund-for-who",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://isotopewatches.com/blogs/news/isotope-direnzo-when-two-different-minds-think-alike",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/collections/direnzo-watches/limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://direnzowatches.com/",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "observacoes": "B errado: marca suíça (Genebra), não italiana. I errado: fundador é Sergio Godoy Di Renzo (não Enrico DiRenzo); fundada em 2016/2017. J: não existe DRZ 01 (1º modelo é DRZ Type 250F, 2017); linhas atuais DRZ 02R, 04R, 07, 08. C vazio: Genebra."
+}
