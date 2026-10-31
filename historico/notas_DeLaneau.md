@@ -16,3 +16,8 @@
 - primeiro modelo: anos 60 relógios de ouro com mostradores de jade/lápis/olho de tigre (sem nomes)
 - STATUS: Quill&Pad dez/2017: DeLaneau fechou em 2017; em nov/2017 Luna Management (Mônaco) comprou a marca. Coluna I '[verificar status]': fechada 2017. Site delaneau.com citado.
 - jckonline 10/11/2017: Luna Management (Mônaco) comprou a DeLaneau
+## Fim da 1ª passada (06:05 UTC)
+- Últimas fontes sem novidade: sothebys jewels 124, (ablogtowatch busca), monochrome open magic -> 0 novos; anteriores sothebys 99, dubai 42 também 0 → critério das 3 seguidas atingido.
+- Vermelha: SIM (sob medida, peças únicas sem nome, ~157 lotes na CollectorSquare só 40 visíveis, centenas de relógios-joia vintage com refs G/L sem nome, 19 fichas Europa Star sem nome, 139 imagens TJE em 8 páginas não alcançadas, EveryWatch com login).
+- Site oficial delaneau.com: não aparece em nenhuma busca (marca fechou 2017, comprada pela Luna Management). Registrar L.
+- 2ª passada: buscar peças únicas por nome (Rondo/Dôme/Atame/Amazone), refs G/L vintage, TJE images pages, CollectorSquare outras línguas, Antiquorum, Artcurial, Bonhams, Phillips NY060114.
