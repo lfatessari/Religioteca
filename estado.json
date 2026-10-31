@@ -5666,7 +5666,7 @@
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
   },
   "em_execucao": "2026-10-31T16:41:52Z",
-  "ultimo_sinal": "2026-10-31T16:46:08Z",
+  "ultimo_sinal": "2026-10-31T16:50:55Z",
   "em_andamento": {
     "marcas": [
       "Dietrich",
@@ -5674,15 +5674,11 @@
     ],
     "linha_marcas": 399,
     "grande": false,
-    "relogios": "historico/parcial_Dietrich_relogios.txt",
-    "fontes": "historico/parcial_Dietrich_fontes.txt",
-    "notas": "historico/notas_Dietrich.md",
+    "relogios": "historico/parcial_Dievas_relogios.txt",
+    "fontes": "historico/parcial_Dievas_fontes.txt",
+    "notas": "historico/notas_Dievas.md",
     "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "9"
+      "Dietrich completa (historico/dados_Dietrich.txt, marca_Dietrich.json)"
     ],
     "passada": 1
   }
