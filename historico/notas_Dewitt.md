@@ -9,3 +9,4 @@
 - Essential Watches: ~74 anúncios DeWitt (Academia 53, Glorious Knight 7, Iena 3...). Buscar páginas de produto via site:essential-watches.com <termo>. Padrão foto: rackcdn/<id>_MAIN_<n>.jpg. IE.1001.48.M101 Iena Petite Seconde 40mm WG (página não abriu).
 - Twenty-8-Eight Tourbillon tem mostrador antracite/creme ou cinza/azul; Alma Utopia (feminino) — buscar. Swisstime fiches: Golden Afternoon x3, T8 Skeleton, Regulator ASW, TFC à Chaîne, TFC Mecanica, Antipode, Night Chrono, Silicium Hora Mundi, TFC, Rainbow Spirit, Tourbillon Diff, Alma Utopia.
 - Academia Slide Only Watch (worldtempus) — buscar. Worldtempus catálogo brand/dewitt-38027 não veio em busca.
+- AC.GT.001 Grand Tourbillon antracite (masterhorologer, não abre) - Grand Tourbillon horbiter pode ser esse. luxurybazaar.com/brands/dewitt/ — buscar.
