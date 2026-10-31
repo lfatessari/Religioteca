@@ -5741,7 +5741,7 @@
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  },
  "em_execucao": "2026-10-31T20:41:27Z",
- "ultimo_sinal": "2026-10-31T20:41:27Z",
+ "ultimo_sinal": "2026-10-31T20:46:53Z",
  "em_andamento": {
   "marcas": [
    "DIY Watch Club"
@@ -5751,7 +5751,11 @@
   "relogios": "historico/parcial_DIY Watch Club_relogios.txt",
   "fontes": "historico/parcial_DIY Watch Club_fontes.txt",
   "notas": "historico/notas_DIY Watch Club.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c"
+  ],
   "passada": 1
  }
 }
