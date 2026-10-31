@@ -20,3 +20,4 @@
 - DECISÃO: marca VERMELHA — há muito mais referências (combinações ouro/titânio/diamantes/mostrador) do que foi possível listar com foto; site oficial inacessível.
 - Auto-auditoria 10b: (1) blog/imprensa oficiais inacessíveis (dewitt.ch não aparece em busca); compensado por Europa Star, WorldTempus, Watchonista. (2) §2c impossível no site oficial; feito nas lojas (Essential Watches categorias). (4) Primeiros modelos: Pressy Grande Complication 2003/04, Académie/Academia Seconde Rétrograde (GPHG 2006), Iéna (NA 015), cronógrafo tonneau NA 040.10 ✓. (5) J: Academia ✓ Twenty-8-Eight ✓ Concept Watch ✓ (WX-1, X-Watch nº3, Mathematical nº4) Glorious Knight ✓. (6) limitadas na B, peças únicas em E ✓.
 - 2ª passada: buscar mais refs (Hourstriker, WorldTempus fichas, Europa Star artigos ainda não lidos, aBlogtoWatch, Quill&Pad, SJX, Chrono24 via busca).
+- 2ª passada encerrada (3 fontes seguidas sem novidade). Trouxe >=5 novos -> 3ª passada (>=10 fontes novas).
