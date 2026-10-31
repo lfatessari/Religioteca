@@ -6,3 +6,7 @@ Códigos: WAxx####-#### (WAST aço, WAPG ouro rosa, WAWG ouro branco, WATI titâ
 - Fotos: gressive OK; EveryWatch sem foto (link do anúncio); eBay ok.
 - gressive 155069 dá ref WATI0058-1422 para Bichrono Tech (mesma do Saqra II, erro) – ignorado.
 - Lacunas: City Medium, Grand City Duo, Griffe, Ovale Maximus, Challenger, Surfer, Harpa, Lyra, Delacour L, Saqra Weekend GraphitePi (collectorsquare só cita), Clessidra, Saqra Black Tie, Saqra Line (Classic, BiTime, Grande Réserve), Reflect Chrono Skeleton, La Liberata, Fusion.
+## Passada 1 encerrada (~114 fontes; últimas buscas só repetem fontes já vistas)
+- Decisão: VERMELHA (BiTourbillon com peças de nome próprio, sob encomenda "Made to Order", Saqra Ego Zodiac 12 desenhos, muitas refs sem foto, site oficial fora do ar).
+- Coluna L: delacour.ch não aparece em nenhuma busca.
+## Passada 2: alvo = lacunas listadas acima, buscas em japonês/alemão/chinês, leilões
