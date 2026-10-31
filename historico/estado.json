@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 378,
-  "ultima_versao": 329,
+  "proxima_linha_marcas": 379,
+  "ultima_versao": 330,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5306,6 +5306,21 @@
       },
       "versao": 329,
       "obs": "grande, sozinha; 194 com foto, 210 com link da página (produtos esgotados do site oficial achados por busca); Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Defakto",
+      "linha_marcas": 378,
+      "linhas_relogios": "61123-61184",
+      "relogios": 62,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 58,
+      "passadas": {
+        "1": "58 fontes, 56 novos"
+      },
+      "versao": 330,
+      "obs": "pequena; WatchBase/Majestix 35 refs + modelos novos pela imprensa; site oficial não indexado; Firecrawl sem créditos; Dekla (379) tratada como grande (customizável) e fica sozinha na próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
