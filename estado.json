@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 396,
-  "ultima_versao": 341,
+  "proxima_linha_marcas": 397,
+  "ultima_versao": 342,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5594,6 +5594,24 @@
       },
       "versao": 341,
       "obs": "Tread 1 A-F, 1G, Group 63, Steampunk, Exoskeleton x2, Star Wars; Tread 2 x10 incl. 2G; Chrono24 não abriu; Firecrawl sem créditos; Dewitt (396) fica sozinha na próxima (grande); M395 gravado"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dewitt",
+      "linha_marcas": 396,
+      "linhas_relogios": "62662-62887",
+      "relogios": 226,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 224,
+      "grande": true,
+      "passadas": {
+        "1": "173 fontes, 192 relógios",
+        "2": "33 fontes, 21 relógios",
+        "3": "18 fontes, 9 relógios"
+      },
+      "versao": 342,
+      "obs": "dewitt.ch não aparece em busca (L396); Firecrawl sem créditos; base principal Essential Watches (categorias), WorldTempus, Europa Star, Hourstriker, leilões; 44 linhas só com link da página; M396 gravado"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5612,34 +5630,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-31T13:42:06Z",
-  "ultimo_sinal": "2026-10-31T14:14:36Z",
-  "em_andamento": {
-    "marcas": [
-      "Dewitt"
-    ],
-    "linha_marcas": 396,
-    "grande": true,
-    "relogios": "historico/parcial_Dewitt_relogios.txt",
-    "fontes": "historico/parcial_Dewitt_fontes.txt",
-    "notas": "historico/notas_Dewitt.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2",
-      "p3"
-    ],
-    "passada": 3
   }
 }
