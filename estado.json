@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 374,
-  "ultima_versao": 327,
+  "proxima_linha_marcas": 377,
+  "ultima_versao": 328,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5242,6 +5242,53 @@
       },
       "versao": 327,
       "obs": "marca extinta (ex-Steinhart EUA), site fora do ar; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Decade",
+      "linha_marcas": 374,
+      "linhas_relogios": "60599-60604",
+      "relogios": 6,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 27,
+      "passadas": {
+        "1": "27 fontes, 6 novos"
+      },
+      "versao": 328,
+      "obs": "identidade incerta: tratada como marca americana de quartzo barato; só números de modelo de anúncios usados"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Decima",
+      "linha_marcas": 375,
+      "linhas_relogios": "60605-60618",
+      "relogios": 14,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 24,
+      "passadas": {
+        "1": "24 fontes, 14 novos"
+      },
+      "versao": 328,
+      "obs": "Albânia (Tirana) confirmada; Scylla + Gatekeeper"
+    },
+    {
+      "data": "2026-10-31",
+      "marca": "Dedegumo",
+      "linha_marcas": 376,
+      "linhas_relogios": "60619-60718",
+      "relogios": 100,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 69,
+      "passadas": {
+        "1": "44 fontes, 87 novos",
+        "2": "13 fontes, 12 novos",
+        "3": "12 fontes, 0 novos"
+      },
+      "versao": 328,
+      "obs": "grande; dedegumo.jp e shop-pro com robots; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5260,25 +5307,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-10-30T23:42:10Z",
-  "ultimo_sinal": "2026-10-31T00:12:43Z",
-  "em_andamento": {
-    "marcas": [
-      "Decade",
-      "Decima",
-      "Dedegumo"
-    ],
-    "linha_marcas": 374,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Decima: todas",
-      "Decade: todas",
-      "Dedegumo: passadas 1-3; gravação em curso"
-    ],
-    "passada": 3
   }
 }
