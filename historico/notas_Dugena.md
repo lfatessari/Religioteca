@@ -5,3 +5,4 @@
 - Aba Marcas: C "Berlim/Colônia" — fundada em Eisenach (1917), Berlim 1927, Darmstadt 1948/49, hoje Meisenheim (Nova Tempora, 2009). Nome: Deutsche Uhrmacher-Genossenschaft Alpina.
 - Seções feitas: 1, 2 (site oficial), 7 parcial (Flume, myluxury, steiner). Falta: vintage (EveryWatch anúncios, WatchPatrol, Catawiki, Analog Shift sold, omegaforums, watchtime, professionalwatches, timeline.watch), imprensa (watchtime Premium), 2c.
 - 1ª passada encerrada após discounto/check24/testbericht sem novidade (3 seguidas). Marca VERMELHA (vintage enorme sem referências). 2ª passada iniciada 13:59 UTC.
+- 2ª passada encerrada (4 páginas de catálogo eBay seguidas sem novidade); trouxe ~9 → 3ª passada.
