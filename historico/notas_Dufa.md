@@ -22,3 +22,4 @@ Parou: últimas fontes (hermann-juwelier, 3 eBay, 2 Rakuten, Yodobashi categoria
 6. Limitadas: Gropius todo preto TiCTAC 150 pcs; Subtil Limited Edition (6); Bauhaus 100 (3); colaboração Krøyer Sætter-Lassen.
 7. Fontes: 127.
 VERMELHA: séries antigas com códigos faltando (9005-02/03, 9009-01, 9013-01/03, 9014-02+, 9027-03, 9029-01..03, 9030-03, 9012-01/02, 9008-02/03) e ~40 refs japonesas sem foto.
+## 2ª passada encerrada (12:10): 20 fontes; 3 seguidas sem novidade. Trouxe 16 → 3ª passada.
