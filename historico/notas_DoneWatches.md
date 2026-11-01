@@ -1,0 +1,1 @@
+# Done Watches (411) - site donewatches.ch (Shopify novo; URLs antigas PrestaShop .html dão client_error). Coleções atuais: B02,B03(50),C01-04,D01-04,E01-04,F01-03,Nine in Ten. Antigos: ME1A A01-A06, B01, B02 DLC. Aba Marcas: G donewatches.com errado (.ch); D/I 'pop/streetwear customizável' parece confusão com Undone; cidade Neuchâtel; fundador Thierry Clottu.
