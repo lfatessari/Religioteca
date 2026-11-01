@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 424,
-  "ultima_versao": 362,
+  "proxima_linha_marcas": 425,
+  "ultima_versao": 363,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5981,6 +5981,19 @@
       "fontes": 133,
       "grande": true,
       "obs": "Catálogo fechado conferido: arquivo oficial (42 variantes DBF001–006) + páginas DBF007–011 (44) = 86, mais 5 peças únicas e 1 protótipo dos leilões oficiais e o protótipo Concept TWO (Monochrome). 84 das 133 fontes são fichas oficiais abertas para pegar a foto. Sem foto: DBF008-13, DBF008-14, DBF009-02, DBF009-03 (link da página). Firecrawl sem créditos. Achados para DuBois 1785 (422) não gravados: 'Virage' (799 peças, La Joux-Perret 736.7, WatchPro) e 'Perpétuelle Sport El Primero' (1996, Wristler)."
+    },
+    {
+      "data": "2026-11-01",
+      "versao": 363,
+      "marca": "Duesenberg",
+      "linha_marcas": 424,
+      "linhas_relogios": "65842-65845",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "fontes": 16,
+      "grande": false,
+      "obs": "Marca suíça quase sem rastro: só os automáticos Rectangular e Circular anunciados para a Baselworld 2011 (aBlogtoWatch). Coluna G aponta as guitarras Duesenberg (Hannover); M424 preenchida. Bateria só com ela porque Dufa (425) é grande (Yodobashi lista 95 referências DF-). Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5999,23 +6012,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-11-01T10:41:47Z",
-  "ultimo_sinal": "2026-11-01T10:45:28Z",
-  "em_andamento": {
-    "marcas": [
-      "Duesenberg"
-    ],
-    "linha_marcas": 424,
-    "grande": false,
-    "relogios": "historico/parcial_Duesenberg_relogios.txt",
-    "fontes": "historico/parcial_Duesenberg_fontes.txt",
-    "notas": "historico/notas_Duesenberg.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3"
-    ],
-    "passada": 1
   }
 }
