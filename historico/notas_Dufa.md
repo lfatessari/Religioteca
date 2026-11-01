@@ -10,3 +10,4 @@
 - DF-9011 = Breuer Automatic (oficial); Yodobashi/Bic chamam de "Josef Albers" — mantido o nome oficial. DF-9010 = Albers Automatic.
 - Removidos DF-9007-04-O e DF-9002-03-O (sufixo -O = importação paralela, mesmo relógio).
 - Ignorados títulos Rakuten "df9018g2" e "df 9500 gmt" (códigos duvidosos).
+- NÃO reabrir: wornandwound bauhaus-turns-100 (PROVENANCE_REQUIRED, link tirado de página).
