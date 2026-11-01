@@ -1,0 +1,3 @@
+# DuFrane (linha 427) — notas
+Austin TX, fundada 2016 por Steven Lee (?). Site dufranewatches.com não aparece em busca; espelho reach.dog/shop/dufrane (sem fotos). masterhorologer bloqueado (client_error).
+Modelos: Bergstrom (aço/bronze fosco; mostrador standard/horizon; 2017; MKIV citado), Barton Springs 656 Diver (2018, 300 por variante, preto sunburst), Barton Springs III, Waterloo (dress), Deep Eddy, City Limits GMT, Littlefield GMT (Swiss Made, $1299), Travis MkI (Sky azul, Dusk preto, Juniper verde, Lagoon turquesa), Travis MkII (40 Acres laranja, Saddle Brown, Slate Grey), Mabry titânio field, Circuit Chronograph 10 anos (vermelho, prata-branco, 50 peças, ETA 7753, titânio 2026).
