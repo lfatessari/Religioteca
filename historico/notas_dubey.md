@@ -6,3 +6,4 @@ Europa Star swisstime: Coeur Blanc 1004096524, Grand Dome DT Rose Gold 100409628
 - Collectorsquare: 166 resultados de leilão. Marca provavelmente vermelha (muitas variantes ADUO/... e números de série).
 
 ## 1ª passada encerrada (3 fontes seguidas sem novidade: blowers, watchprosite, ebay box). Marca VERMELHA: 166 registros de leilão, códigos de variante (ADUO/ST/BKW/LD...), Delray pág. 2 inalcançável, site oficial dubeywatch.com inalcançável. 2ª passada: buscas por códigos, Catawiki, Sotheby's/Christie's/Phillips, Japão, Chrono24 via busca.
+## 2ª passada encerrada (3 seguidas sem novidade). Trouxe >5 → 3ª passada.
