@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 430,
- "ultima_versao": 367,
+ "proxima_linha_marcas": 431,
+ "ultima_versao": 368,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6059,6 +6059,19 @@
    "fontes": 40,
    "grande": false,
    "obs": "Site oficial (Shopify) não aparece em buscas; lido via Firecrawl (products.json completo, 16 relógios) e WebFetch. Fora do site: DM01 Blue 140 pç e Copper 50 pç (1ª série 2021) e DM02 Bespoke 25 pç (Chrono24). Bateria só com Dumoreau porque Dunhill (430) é grande. Firecrawl ficou sem créditos no meio."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 368,
+   "marca": "Dunhill",
+   "linha_marcas": 430,
+   "linhas_relogios": "66817-66976",
+   "relogios": 160,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "fontes": 137,
+   "grande": true,
+   "obs": "Marca não vende mais relógios (dunhill.com sem relógios). Pesquisa por leilões (Fellows, Antiquorum, Bonhams, Sotheby's, Bolaffi), 1stDibs, lojas de usados (Delray, Right Time, Analog Shift, Ogden, japonesas) e imprensa (Europa Star, SCMP, Openers, JCK, Moodie). eBay só por títulos (eBay.de bloqueou). EveryWatch/WatchPatrol não abriram; Firecrawl sem créditos. Passadas: 111/15/11 fontes."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

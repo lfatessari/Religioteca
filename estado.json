@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 430,
- "ultima_versao": 367,
+ "proxima_linha_marcas": 431,
+ "ultima_versao": 368,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6059,6 +6059,19 @@
    "fontes": 40,
    "grande": false,
    "obs": "Site oficial (Shopify) não aparece em buscas; lido via Firecrawl (products.json completo, 16 relógios) e WebFetch. Fora do site: DM01 Blue 140 pç e Copper 50 pç (1ª série 2021) e DM02 Bespoke 25 pç (Chrono24). Bateria só com Dumoreau porque Dunhill (430) é grande. Firecrawl ficou sem créditos no meio."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 368,
+   "marca": "Dunhill",
+   "linha_marcas": 430,
+   "linhas_relogios": "66817-66976",
+   "relogios": 160,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "fontes": 137,
+   "grande": true,
+   "obs": "Marca não vende mais relógios (dunhill.com sem relógios). Pesquisa por leilões (Fellows, Antiquorum, Bonhams, Sotheby's, Bolaffi), 1stDibs, lojas de usados (Delray, Right Time, Analog Shift, Ogden, japonesas) e imprensa (Europa Star, SCMP, Openers, JCK, Moodie). eBay só por títulos (eBay.de bloqueou). EveryWatch/WatchPatrol não abriram; Firecrawl sem créditos. Passadas: 111/15/11 fontes."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -6077,31 +6090,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-11-01T15:42:10Z",
- "ultimo_sinal": "2026-11-01T16:16:31Z",
- "em_andamento": {
-  "marcas": [
-   "Dunhill"
-  ],
-  "linha_marcas": 430,
-  "grande": true,
-  "relogios": "historico/parcial_Dunhill_relogios.txt",
-  "fontes": "historico/parcial_Dunhill_fontes.txt",
-  "notas": "historico/notas_Dunhill.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
  }
 }

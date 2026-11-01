@@ -5,3 +5,5 @@ Coleções conhecidas: Millennium (anos 80-90, tb Diver's, Longitude), Centenary
 - WatchPatrol e EveryWatch não abriram (client_error / login). Firecrawl sem créditos.
 - eBay.de bloqueou (client_error) a partir da metade.
 - Vermelha: centenas de anúncios com referências (80xx, códigos de caixa) sem foto; linha vintage 1920-60 (Tavannes, JLC, UG) sem nomes.
+## Passada 2 encerrada (rasin list7, yahoo p1234471663, collectorsquare fr sem novidade). Trouxe 5+ novos -> passada 3.
+## Passada 3: 11 fontes, 2 novos (Unique A, A Sport). Encerrada.
