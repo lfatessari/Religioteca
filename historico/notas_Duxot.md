@@ -1,3 +1,6 @@
 # Duxot (linha 433) — notas
 - Dürmeister (432) mantida PAUSADA (site bloqueado, Firecrawl sem créditos); esta execução pulou para Duxot.
 - Site real: duxotwatches.com (coluna G diz duxot.com). Shopify. Grande (all-watches com 5+ páginas).
+- Site: /collections/all = 243 itens (inclui joias), all-watches 143. Páginas de produto dão client_error no WebFetch; listagens abrem sem fotos.
+- User manuals (duxotwatches.com/pages/user-manuals) lista TODAS as famílias DX-2001..DX-2084 (Maris 2001, Trionfo 2004, Forza 2005, Trench 2006, Consillio 2007/08, Dominus 2009, Solicitus 2010, Princepio 2011, Fortera 2012, Aurum 2013/2030/31/38-41, Velocita 2014, Ascensus 2015-17, Accelero 2018/2028, Fortius 2019, Altius 2020/21/24, Audentis 2022, Patrios 2023, Altum 2025, Tortuga 2026, Tortuga Chrono 2027, Argentiere 2032 (ETA 2824), Atlantica 2033, Atlantica GMT 2034, Mergulho 2035, Tiburon 2036, Treasury 2042, Sovereign 2043/44, Sterling 2045/46, Atlantica Rainbow Diver 2047, Atlantica Rainbow Chrono 2048, Argentina 2049, Oria 2050, Argyro 2051, Auryn 2052, La Plata 2053, Numis 2054, Decimo 2055, Testudo Chrono 2056). → MARCA VERMELHA (centenas de variações antigas).
+- Seção 2c: buscas site:duxotwatches.com <família> DX-20xx rendem handles com nome da cor.
