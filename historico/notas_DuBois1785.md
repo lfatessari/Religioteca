@@ -12,3 +12,6 @@ Autorist (1931) citado nos marcos oficiais.
 ## Fim da 1ª passada (09:00 UTC): critério de parada atingido (rectangulaire, tous terrains 2, csq, butschal, ricardo sem novidade).
 Decisão: VERMELHA — numeração "Edition Nr." (24, 27, 32, 33, 38, 67) mostra dezenas de edições não achadas.
 2ª passada: buscar outras "Edition Nr./N°", Montre Chronostop, Alarm, Grand Prix d'Europe, Vintage Full Calendar, Aérienne I.
+## 2ª passada encerrada: 10+ fontes novas; 4 relógios novos (Montre Réveil, ouro 14k anos 40, Luna 499, bracelete 18k) + Grand Prix d'Europe só por título de busca (Vinted não abriu). <5 -> sem 3ª passada. Últimas 3 fontes sem novidade.
+Auto-auditoria: blog/notícias oficiais lidos (lista de 71, nenhuma cita modelo 1785); leilões oficiais lidos; primeiro modelo: relógios de pulso desde 1910, Autorist 1931 (não achado à venda); I/J genéricos. Chrono24 bloqueada (só títulos). EveryWatch fechado. Edições numeradas vistas: 24, 27, 32, 33, 38, 67.
+"Record de Luxe" (relógio Record) excluído. Pulseira/bolso excluídos.

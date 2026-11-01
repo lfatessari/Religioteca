@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 422,
-  "ultima_versao": 360,
+  "proxima_linha_marcas": 423,
+  "ultima_versao": 361,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5955,6 +5955,19 @@
       "fontes": 157,
       "grande": true,
       "obs": "Marca grande, sozinha. 3 passadas (124/23/10 fontes; 169/16/3 relógios novos). Vermelha: centenas de variantes por código (ADUO/ST/BKW/LD etc.), 166 registros de leilão na CollectorSquare, pág. 2 da Delray e Chrono24 inalcançáveis, Firecrawl sem créditos. ~25 linhas só com link de página."
+    },
+    {
+      "data": "2026-11-01",
+      "versao": 361,
+      "marca": "DuBois 1785",
+      "linha_marcas": 422,
+      "linhas_relogios": "65681-65748",
+      "relogios": 68,
+      "vermelho": true,
+      "site_bloqueado": "dubois1785.com não aparece em buscas (usado duboisfils.ch, leilões da própria marca)",
+      "fontes": 67,
+      "grande": true,
+      "obs": "Mesma casa que DuBois et fils (423). Aqui só relógios assinados DuBois 1785/Ph. Du Bois & Fils anteriores à linha DBF (edições numeradas dos anos 1990–2000 e vintage). 2 passadas (55/12 fontes; 60/4 relógios novos). Vermelha: edições numeradas (Nr. 24, 27, 32, 33, 38, 67) indicam dezenas de outras não achadas; Chrono24 e EveryWatch inalcançáveis; Firecrawl sem créditos. DuBois et fils (423) é grande: fica sozinha na próxima (archive oficial lista 42 DBF + DBF007–011)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
