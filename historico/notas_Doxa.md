@@ -5,3 +5,4 @@ Granularidade: 1 linha por modelo+cor (+mostrador Iconic/Sunray, safira, luneta 
 ## Exquisite Timepieces (273 anúncios, 9 págs) — todas abertas. 138 refs-base (sem sufixo de pulseira) em keys_exq.txt.
 Famílias: 785 Army; 795 SUB 200 II(?); 796/799 SUB 200 (2 gerações); 797 C-Graph II; 804 SUB 200T (S=sunray, D=diamantes); 805 T.Graph; 806 T.Graph II; 821 SUB300; 822 Carbon; 823 Ti5; 825 750T; 830 Beta; 840 300T; 855 250T GMT; 861/862 600T (aço jateado vs cerâmica?); 881/883 1500T.
 Falta: confirmar 861 vs 862 e 881 vs 883 e 795 vs 796 vs 799; modelos 2000-2018 (SUB 750T GMT, 1200T, 4000T, 5000T, 800T, 1000T, 6000T, SUB 300 50th anniv 2017), vintage (SUB 300 1967, Conquistador, SUB 250, T.Graph 1969, Grafic, Antimagnetic...).
+Arquivos crus: historico/doxa_raw_exq.txt (Exquisite+WoS, processar por ref-base) e historico/doxa_extras.txt (linhas prontas Nome|Cód|Img|E)
