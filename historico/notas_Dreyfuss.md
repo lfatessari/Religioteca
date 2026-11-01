@@ -6,3 +6,4 @@
 - Bons: páginas de categoria do eBay (/b/...), gbwatchshop (padrão de foto gbwatchshop.com/cdn/shop/files/<ref>.jpg confirmado em 4 páginas), thewatchblog, rotarywatchesblog, saleroom.
 - Seções feitas: 1, 2 (rotary/sem site), 3, 5 (everywatch bloqueado), 6 (chrono24 sem resultados de busca), 7 parcial, 8 parcial, 9 parcial.
 - Falta: Chrono24 via busca, mais lojas (Jura, H Samuel, Ernest Jones, Goldsmiths), fellows lots, hole-filling por números.
+- Passada 1 encerrada (3 fontes seguidas sem novidade: watchuseek, ablogtowatch, olympia). Vermelha: catálogo de centenas de códigos DGS/DGB/DLS/DLB, muitos só vistos sem foto. Iniciando passada 2.
