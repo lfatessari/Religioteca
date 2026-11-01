@@ -1,0 +1,732 @@
+{
+ "marca": "Doxa",
+ "usa_codigos": true,
+ "logo": "https://doxawatches.com/cdn/shop/files/190621_logo-DOXA-date_white_prod.png?v=1714385855&width=1350",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://doxawatches.com/products/sub-300-sea-emerald",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://doxawatches.com/collections/all-doxa-watches",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=2",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=5",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=6",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=7",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=8",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=9",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=3",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa?page=4",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/doxa-s-bold-editions-built-for-collectors",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Doxa_S.A.",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/the-new-doxa-sub-600t-watch-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.james-porter.co.uk/doxa-sub-600t-aquamarine-bracelet-watch-862-10-241-10-5403034.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/press-room",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/en-int/collections/doxa-new-arrivals",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/doxa-new-arrivals?page=4",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://uk.doxawatches.com/blogs/doxa-b-log/a-year-of-color-character-and-comebacks",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/into-the-deep-with-doxa-and-the-ships-crew",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/sub-200-ii-a-new-light-on-an-icon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/inside-the-doxa-collection-of-a-true-sub-devotee",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/reflecting-on-doxas-dynamic-2024-a-year-of-innovation-and-elegance",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/2023-a-year-of-doxa-surprises",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/a-natural-diver-doxa-sub-300-beta-seddiqi-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/the-evolution-of-excellence-doxa-s-sub-300-carbon-series",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/a-collector-s-dream-doxa-s-limited-editions",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/doxas-waterproof-history",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/doxa-army-the-legend-resurfaces",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/it-all-started-with-my-great-grandfather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://doxawatches.com/blogs/doxa-b-log/back-to-the-future-sub-600t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://au.doxawatches.com/pages/discover-all-the-limited-editions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hourstriker.com/brands/doxa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/es/descubrir/marcas/doxa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/doxa/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-doxa-sub-300t-searambler-ref-11899-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/vintage-doxa-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/doxa/sub-300/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-300-black-lung-limited-edition-as09550",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-protoype-as09771",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-565-field-watch-as10676",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-antimagnetic-tank-watch-as03889",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-eberhard-case-sharkhunter-as01823",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-grafic-as09841",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/doxa-sub-300-no-t-sharkhunter-as10382.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/doxa-sub-300-no-t-sharkhunter-whiteshark-as09066",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/doxa-sub-300-no-t-searambler",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-300t-sharkhunter-aqua-lung-blackshark-as11388",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-300t-professional-aqua-lung-as09035",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-300t-searambler-aqua-lung-as08351",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-300t-sharkhunter-as04381",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-200-t-graph-sharkhunter-as03458",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-200-t-graph-professional-as08801",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/doxa-sub-300-silver-lung-limited-edition-as09549",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/doxa-sub-300-professional-blacklung-reissue-as03596.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/doxa-sub-200-t-graph-reissue-as04023",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/doxa-sub-200-t-graph-stainless-steel-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nicols.es/en/brand/81-doxa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/14377.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.keepthetime.com/product/doxa-sub-1200t-searambler/?ref=flipr",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/2002-doxa-sub-300t-professional-ref-30010",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/doxa-sub-750t-gmt-box-papers-2007/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/watch/doxa/883.10.021.10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/luxprice-index-montres/doxa.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.belmontwatches.com/collections/doxa-sub-200-ii.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.doxawatches.com/en/collections/all-doxa-watches.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://doxawatches.com/products/sharkhunter-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://doxawatches.com/es/products/professional-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.belmontwatches.com/products/doxa-sub-4000t-professional-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/the-top-5-doxa-limited-editions/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/in-depth-review-of-the-limited-edition-doxa-sub-1200t/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2008/07/22/doxa-sub-1000t-40th-anniversary-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/doxa-sub-300t-divingstar-poseidon-edition-as03302",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.keepthetime.com/product/doxa-sub1000t-professional/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/DOXA-SUB-Wristwatches/31387/bn_108273420",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://asset.everywatch.com/doxa/watch-13407203",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.monacolegendauctions.com/auction/exclusive-timepieces-22/lot-62",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/vintage-watches-1/products/doxa-anti-magnetique-field-watch-as12212",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Doxa",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/doxa-sector-two-tone-nos-dress-watch-as12124",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1950s-doxa-dead-beat-dress-watch-ref-15001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://usa.watchpro.com/doxa-celebrates-50-years-of-sub-300t-conquistador-with-new-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2014-06-05_1359.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/zh/detail/doxa/146966",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-watches/doxa-blue-planet-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-watches/doxa-d-light-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095948-doxa-grafic-mistero.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095506-doxa-chateau-des-monts-limited-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a1215/doxa-sub-800ti/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernardwatch.com/watch/DOX18",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2019_09_05_03_Doxa_1889.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/doxa-watches/doxa-trofeo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/doxa-watches/doxa-slim-line-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fptshop.com.vn/tin-tuc/for-gamers/dong-ho-doxa-192920",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/doxa/watch-32543748",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://journal.craftandtailored.com/classic-doxa-diver-design-with-an-innovative-twist",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tradera.com/da/item/1902/734344705/doxa-aubry-sub-600-lm-quartz",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/doxa/watch-15347013",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/unpolished-1980s-doxa-sub-600t-divingstar-ref-4653-orange-dial-aubrey-era",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://raoulpop.com/tag/doxa/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://dumarko.com/products/vintage-watch-doxa-anti-magnetic-military-watch-ww2-watch-swiss-made",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://in.doxawatches.com/products/doxa-army-wos",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.calibremagazine.com/news/ceramic-for-the-cause/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/doxa-army-watches-of-switzerland-limited-edition-as11322",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/spotlights/1003576951-return-of-a-bauhaus-classic-the-doxa-grafic.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://wip.europastar.com/news/2037734-doxa-unique-in-style-and-spirit.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://grahambuddauctions.co.uk/auctions/past-auctions/2023-03-08-sports-memorabilia-7th-8th-march-2023-0e84bf71-821c-4278-a9d4-b723c0319da8/915",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/1950-s-doxa-gents-jumbo-pointer-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-250-139",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-212-29",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/doxa-watches.oembed?page=4",
+   "passada": 3,
+   "novos": 10
+  },
+  {
+   "url": "https://jp.doxawatches.com/en/collections/doxa-army.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.doxawatches.com/en/collections/sub-200-t-graph-2.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2019/08/doxa-sub-200-tgraph-steel.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.calibremagazine.com/news/double-debut-doxa/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/doxa-sold/products/doxa-sub-200-t-graph-professional-as08728",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/watch-act-auction-item-lot-13-doxa-celebrating-130-years-of-doxa/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/database/doxa/sub-200",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/unpolished-1967-doxa-sub-300-professional-ref-11889-4-thin-case",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/103862305-doxa-chronometer-1950-1959",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/doxa-neo-121-15-023-10-ladies-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nicols.es/en/doxa-529?page=3",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/doxa-ethno-automatic-205-10-103-10-men-s-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-executive-5-automatic-d167rbk-men-s-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-executive-5-automatic-d167rwh-men-s-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-slim-line-216-10-122r-02-men-s-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-d-sport-chronograph-166-90-201-17-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-light-173-15-011-10-ladies-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-d-light-173-95-021-17-ladies-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-d-lux-111-35-058-11-ladies-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-d-light-doxa-173-10-101-01-men-s-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-d-lux-111-15-208-10-ladies-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/doxa-d-light-173-95-101m-15-ladies-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/doxa?page=4",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/doxa-sub-750t-watches.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/doxa.oembed?page=2",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://topperjewelers.com/products/doxa-821-10-011-10",
+   "passada": 3,
+   "novos": 1
+  }
+ ],
+ "observacoes": ""
+}

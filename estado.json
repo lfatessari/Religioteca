@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 416,
- "ultima_versao": 355,
+ "proxima_linha_marcas": 417,
+ "ultima_versao": 356,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5877,6 +5877,19 @@
    "site_bloqueado": "Site bloqueado – doughboywatchco.com fora do ar",
    "fontes": 23,
    "obs": "Conversões de relógios de bolso antigos em trench watches (peças únicas). Gravada como não grande/não vermelha por esgotamento de fontes (marca extinta); certamente houve outras peças não documentadas."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 356,
+   "marca": "Doxa",
+   "linha_marcas": 416,
+   "linhas_relogios": "65049-65294",
+   "relogios": 246,
+   "vermelho": true,
+   "site_bloqueado": "",
+   "fontes": 144,
+   "grande": true,
+   "obs": "Marca grande, feita sozinha. Vermelha: linhas de moda/dress (Trofeo, D-Light, D-Lux, Executive, Ethno, Neo, Slim Line, Splash...) com centenas de refs e vintage com centenas de refs; 3 passadas (102/15/27 fontes). Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5895,31 +5908,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-11-01T03:41:30Z",
- "ultimo_sinal": "2026-11-01T04:32:27Z",
- "em_andamento": {
-  "marcas": [
-   "Doxa"
-  ],
-  "linha_marcas": 416,
-  "grande": true,
-  "relogios": "historico/parcial_Doxa_relogios.txt",
-  "fontes": "historico/parcial_Doxa_fontes.txt",
-  "notas": "historico/notas_Doxa.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
  }
 }
