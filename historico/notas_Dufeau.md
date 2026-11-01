@@ -18,3 +18,7 @@ Firecrawl sem créditos.
 - Swiss-Air Fliegeruhr Typ 31 motivo Mustang P51, nº 124, "25 St." (invaluable foto) -> provavelmente Swissair Type 31 Mustang
 - DC-3 Classic Air cronógrafo automático 39,5mm preto (auctionet foto)
 - dufeau.com: redirecionamento em loop https->http (WebFetch). site_bloqueado.
+- Ju 52 corda manual J222-55 mostrador creme ETA 7001 38mm (schuler foto)
+- Messerschmitt Bf109 foto lot-art; Fokker Type 31 foto auctionet 591778 (mostrador escuro, 2004)
+## Fim da 1ª passada (3 seguidas sem novidade). Vermelha: edições de companhias aéreas (KLM 750/1000, Swissair), Flightpath Kickstarter, site dufeau.com bloqueado.
+## 2ª passada
