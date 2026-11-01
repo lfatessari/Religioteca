@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 410,
- "ultima_versao": 353,
+ "proxima_linha_marcas": 413,
+ "ultima_versao": 354,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5805,6 +5805,42 @@
     ]
    },
    "obs": "Grande (site Shopify ~230 variações). Dona: Dartmouth Brands (UK). Fotos: 65 conferidas, 11 padrão Ashford, 109 padrão do CDN oficial conferido por amostragem (Q 20/20, R2 9/9, R 6/6), 25 com link de página. Faltam ~3 Maestrale (pág. 2 não alcançada) e listas completas de Bandiera/Aviatore quartzo e Viaggio Chronograph. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 354,
+   "marca": "Dominique Renaud",
+   "linha_marcas": 410,
+   "linhas_relogios": "64979-64988",
+   "relogios": 10,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "fontes": 20,
+   "obs": "DR01 Twelve First (série de 12; 1ª peça + 6 versões de apresentação) e Pulse60 (2026, 3 versões). Site oficial não aparece em busca. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 354,
+   "marca": "Done Watches",
+   "linha_marcas": 411,
+   "linhas_relogios": "64989-65018",
+   "relogios": 30,
+   "vermelho": false,
+   "site_bloqueado": "Parcial – donewatches.ch páginas antigas",
+   "fontes": 23,
+   "obs": "Site real donewatches.ch (G diz .com). Loja Shopify completa (B02,B03,C01-04,D01-04,E01-04,F01-03, Nine in Ten) + antigos ME1A A01-A06, B01, B02 PVD, Auto 2019 PVD. D/I/J da aba Marcas parecem da Undone."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 354,
+   "marca": "Doplr",
+   "linha_marcas": 412,
+   "linhas_relogios": "65019-65022",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "fontes": 16,
+   "obs": "Pulse-Watch preto e opalino (350 peças), Origine e Rescue (anunciados 2026, sem foto). Linha da aba Marcas quase vazia: dados na coluna M."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5823,24 +5859,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-11-01T01:41:54Z",
- "ultimo_sinal": "2026-11-01T01:52:14Z",
- "em_andamento": {
-  "marcas": [
-   "Dominique Renaud",
-   "Done Watches",
-   "Doplr"
-  ],
-  "linha_marcas": 410,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Dominique Renaud: completa (20 fontes, 10 relógios)",
-   "Done Watches: completa (23 fontes, 30 relógios)"
-  ],
-  "passada": 1
  }
 }
