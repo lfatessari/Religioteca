@@ -1,0 +1,417 @@
+{
+ "marca": "Duxot",
+ "usa_codigos": true,
+ "logo": "https://www.seriouswatches.com/cdn/shop/collections/Duxot_Logo_150x.png",
+ "site_bloqueado": "Parcial – duxotwatches.com: páginas de produtos despublicados dão erro (404) e as listagens não trazem fotos; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://duxotwatches.com/collections/all-watches",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-watches?page=2",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-watches?page=4",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-watches?page=5",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-watches?page=6",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all?page=12",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-products?page=8",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://duxotwatches.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all?page=2",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all?page=3",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all?page=4",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://duxotwatches.com/pages/all-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/collections/limited-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://duxotwatches.com/collections/vezeto",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://duxotwatches.com/collections/tortuga",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duxotwatches.com/collections/automatic?page=5",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://duxotwatches.com/collections/automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duxotwatches.com/collections/automatic?page=3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://duxotwatches.com/collections/chronograph?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/collections/vezeto-automatic-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/collections/livorno-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duxotwatches.com/pages/user-manuals",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/duxot",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watches.com/collections/duxot-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/duxot-henri-diver-ink-black-dx-2060-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/duxot-watches",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://longislandwatch.com/collections/duxot-watches?page=3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/duxot",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://everywatch.com/duxot/watch-2922624",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.watchgang.com/collections/duxot-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/brand/duxot-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/duxot-henri-diver-automatic-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/9057773263",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/28055225081",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/8042641805",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://12and60.com/watch-reviews/brands/duxot/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blog.kaareel.com/review-duxot-watches-timeless-elegance-and-craftsmanship",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12and60.com/duxot-consillio-watch-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duxotwatches.com/products/bastia-automatic-elite-green-dx-2068-55",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/products/henri-diver-automatic-dx-2060-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-watches/products/accelero-automatic-chronograph-luminara-limited-edition-misty-classic-dx-2080-22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-watches/products/quadrata-24-hour-automatic-slate-fusion-dx-2084-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duxotwatches.com/collections/all-watches/products/pacifico-automatic-lapidary-limited-edition-charoite-dx-2076-11",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.mainspringboutique.com/products/duxot-henri-diver-automatic-ash-grey-mens-watch-dx-2060-66",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/duxot/review/6937fd00413d6d2954f18dda",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hans/l/105538645-duxot-automatic-sapphire-firebrick-red-new-men-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mainspringboutique.com/products/accelero-rainbow-chronograph-pearl-brown-dx-2064-77",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mainspringboutique.com/collections/duxot",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchxl.com/en/watch-brands/duxot/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/duxot-dx-2025-55.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://duxotwatches.com/pages/aurum-specification-dx-2040",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/products/duxot-dx-2048-11",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://duxotwatches.com/pages/user-manuals-all",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/it/listing/1616141791/duxot-arany-oro-massiccio-14k-585-rif-dx?gpla=1&gao=1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/388356425859",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/14908673296",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamtangan.com/c/jam-tangan-pria?brand=duxot",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamtangan.com/p/duxot-dx204203-men-black-dial-with-fine-gold-bar-brown-leather-strap-limited-edition-660071",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jamtangan.com/p/duxot-dx204502-men-navy-blue-dial-navy-blue-leather-strap-limited-edition-659951",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/5281714842",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamtangan.com/p/duxot-atlantica-dx2048hh-chronograph-meca-quartz-black-dial-stainless-steel-strap-limited-edition-465371",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thewatchagency.com/duxot/atlantica/dx-2033-22/812986",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "http://www.chronopolis.co.uk/blogs/news/duxot-watches-the-7-best-models-from-affordable-brand",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thewatchaholic.co.uk/product/duxot-atlantica-professional-swiss-automatic-black-dark-grey-bezel-dx-2033-11-300m-ltd-edition/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchagency.com/duxot",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchitallabout.com/duxot-consillio-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fashionreviewz.blog/duxot-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/146578574533",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/duxot?_nkw=duxot",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamtangan.com/p/duxot-dx203901-men-black-dial-black-leather-strap-limited-edition-660001",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thewatchagency.com/duxot/altius",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchagency.com/duxot/tortuga",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/products/duxot-dx-2025-44",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/Zillah/posts/what-s-your-experience-with-the-duxot-atlantica-525370",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/287577767380",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://poshmark.com/brand/duxot-Men-Accessories-Watches",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=111",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/WatchWookiee/posts/my-first-microbrand-duxot-testudo-chronograph-granite-black-dx-2056-03-193432",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/products/duxot-dx-2020-22",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/298706533895",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "B/C vazios: marca da Dartmouth Brands Ltd (Reino Unido), controlada pela Solar Time Ltd (Hong Kong), fabricação na China. G errado: site é duxotwatches.com (não duxot.com). J: Meridian, Cassiopeia e Tempus não encontrados no catálogo; principais linhas reais: Atlantica, Accelero, Henri Diver, Serenata, Marcel, Vezeto, Bastia, Tortuga. I: diz 'design europeu' e movimentos suíços; a linha atual usa Miyota/Seiko/TMI (só linhas antigas como Aurum/Altum/Atlantica DX-2033 usam Ronda/Claro suíços)."
+}

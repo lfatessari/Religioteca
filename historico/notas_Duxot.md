@@ -13,3 +13,4 @@
 - PASSADA 1 encerrada (últimas 3+ fontes independentes sem novidade: catawiki, mainspring produto, mainspring coleção). Marca VERMELHA: dezenas de famílias antigas DX-2001..2056 sem variantes listáveis. Começa 2ª passada: foco nas famílias antigas (Aurum, Sovereign, Sterling, Argentina, Oria, Auryn, La Plata, Decimo, Argentiere, Fortius, Audentis, Altum, Velocita etc.).
 - Chronopolis: dona Dartmouth Brands Ltd (Reino Unido), controlada pela Solar Time Ltd (Hong Kong); fabricação na China. Atlantica DX-2033 = edição limitada 550, automático suíço Claro CL-888, 44 mm, 300 m.
 - 2ª passada: últimas 3 fontes independentes (watchitallabout, fashionreviewz, eBay Princepio) sem relógio novo -> 2ª passada encerrada. Como a 2ª trouxe 5+ novos, fazer 3ª passada (10 fontes novas).
+- 3ª passada encerrada: últimas fontes (thetimebum, watchcrunch, Ashford 2020-22, eBay Tortuga chrono) sem relógios novos (só fotos/dados). 3ª trouxe <5 novos -> parar.
