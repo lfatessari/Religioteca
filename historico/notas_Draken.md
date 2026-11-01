@@ -10,3 +10,6 @@ Aoraki Flieger/Milspec/Recce/Vector/Zulu(catálogo); Kruger A black, A FL, B bla
 - Peregrine original 2017 (44 mm, Miyota 9): aço/DLC, lume preto ou branco. Peregrine 2024: A/B black/white, aço/DLC.
 - Kruger 1ª geração 2022 VK63 (preto e full lume, Ti ou DLC); Kruger SE (set/2022, VK67); Kruger V2 2025 A (VK63) / B (VK67), Ti ou DLC; Kruger Auto (7750).
 ## Seções feitas: 1, 2 (loja, catálogo, blog parcial), 3 parcial, 7 parcial (LIW, 545), 9 parcial
+- Peregrine 2024 (V2, ~300 pç): A preto (DKN-11 foto LIW), A FL (DKN-13), DLC A FL (DKN-15), B preto (545 foto), B FL branco, DLC B FL. Peregrine original 2017/2018 44 mm aço/DLC.
+- Kruger V2 (2025): 24 iterações; A/B x preto/FL x Ti/DLC + Auto. Kruger DLC 'A' FL é produto oculto (?p=26391). Foto DKN-04: longislandwatch.com/cdn/shop/files/DKN-04-01__93520.1775234623.1280.1280.jpg
+- Agulhas (chrono na caixa Benguela) e conceito UTC = só propostas (não entram). Kalahari SE citado.
