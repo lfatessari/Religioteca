@@ -12,3 +12,5 @@ Viaggio: DD-8010 = Retrograde (quartzo retrógrado), DD-8012 = Chronograph. Posi
 ## Fim da passada 1 (critério: últimas fontes sem novidade)
 Decisão: VERMELHO — collections/all tem 10 págs (~230 itens), só págs 1 e 8 alcançadas; Bandiera 3h (client_error), Aviatore 3h, Acqua Sicura chrono, Viaggio chrono, Maestrale pág 2 não abertas. Provável faltar ~20-30 variações.
 ## Passada 2: alvo = coleções não abertas + páginas all?page=N + lojas novas
+Passada 2 encerrada: coleções Tropea/Amalfi/Fano/Ravello/Camogli/Acqua Sicura conferidas completas. Faltam: Maestrale pág.2 (~3), Bandiera/Aviatore quartz e Viaggio chrono sem página de coleção.
+Imagens extras (passada 2, só fotos): dd-8001-11, dd-8002-44, dd-8000-44(falhou), dd-8004-22, dd-8003-55, dd-8014-44, dd-8011-11, dd-8008-44, dd-8009-03
