@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 425,
-  "ultima_versao": 363,
+  "proxima_linha_marcas": 426,
+  "ultima_versao": 364,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5994,6 +5994,19 @@
       "fontes": 16,
       "grande": false,
       "obs": "Marca suíça quase sem rastro: só os automáticos Rectangular e Circular anunciados para a Baselworld 2011 (aBlogtoWatch). Coluna G aponta as guitarras Duesenberg (Hannover); M424 preenchida. Bateria só com ela porque Dufa (425) é grande (Yodobashi lista 95 referências DF-). Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-11-01",
+      "versao": 364,
+      "marca": "Dufa",
+      "linha_marcas": 425,
+      "linhas_relogios": "65846-66076",
+      "relogios": 231,
+      "vermelho": true,
+      "site_bloqueado": "Parcial – dufa-watches.de (site antigo) robots",
+      "fontes": 156,
+      "grande": true,
+      "obs": "3 passadas (127/220, 16/13, 13/2). Base: sitemap de produtos do site oficial deutsche-uhrenfabrik.de (fotos cdn.shopify), Yodobashi (95 itens), PR TIMES (distribuidor japonês). Vermelha: geração 2015–2018 (Gotha 9005, Weimar 9008/9012, Kiel 9009, Albers 9013/9014, Saphir 9027–9030) com códigos faltando; ~46 refs japonesas sem foto (link da página). Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

@@ -1,0 +1,792 @@
+{
+ "marca": "Dufa",
+ "usa_codigos": true,
+ "logo": "https://www.deutsche-uhrenfabrik.de/cdn/shop/files/Dufa-s-Logo-400_410x.png?v=1614325673",
+ "site_bloqueado": "Parcial – dufa-watches.de (site antigo da marca, linhas 2015–2018) bloqueia leitura automática (robots); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "C: a marca atual é relançamento (2015) sem fábrica na Turíngia; dono e assistência na Inglaterra (Mistal Time Services, segundo fórum) e distribuidor japonês Ueni Trading. I: Breuer 9011 (2016) foi o 1º automático. J omite Hannes, Albers, Breuer, Bayer, Günter, Tauchen, Flugbahn, Saphir, Gotha GMT, Kiel e Weimar GMT.",
+ "fontes": [
+  {
+   "url": "https://www.seriouswatches.com/collections/dufa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000033580/",
+   "passada": 1,
+   "novos": 45
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000033580/p2/",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://www.ippojapanwatch.com/ja/collections/dufa",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches.com/dufa-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watches.com/collections/dufa-watches/date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/dufa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ubuy.hk/zh/brand/dufa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/micro-brands?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/dufa-gunter-automatic-df-9033-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ippojapanwatch.com/collections/dufa?page=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/92633",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/65631",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/77271",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000307.000025284.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000810.000025284.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000272.000025284.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000085.000025284.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000335.000025284.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000312.000025284.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000309.000025284.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000082.000025284.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000044.000025284.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch-navi.net/brand/4149/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/dufa-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/all-watches",
+   "passada": 1,
+   "novos": 35
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/all-watches?page=2",
+   "passada": 1,
+   "novos": 48
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/all?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/bauhaus-100-speclal-edltlons",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/types?q=timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-pale-blue-df-9041-44",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-bright-yellow-df-9041-55",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-df-9038-77",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-cream-blue-df-9041-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-df-9038-44",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-platinum-black-df-9041-88",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-df-9038-55",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/freitaucher-automatic-df-9034-55",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gunter-automatic-power-reserve-df-9039-33",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gunter-automatic-df-9039-44",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gunter-automatic-df-9033-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/aalto-automatic-power-reserve-df-9024-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/aalto-automatic-regulator-df-9017-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/dufa-x-kroyer-saetter-lassen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/black-friday-sale",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/valentines-day-sale",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-men-df-9001-0u",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-men-df-9001-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-mondphase-df-9032-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-mondphase-df-9032-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-ladies-df-7001-0n",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-ladies-df-7001-0l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-men-df-9001-0f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-men-df-9001-0l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/gropius-men-df-9001-0q",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/van-der-rohe-barcelona-chrono-df-9021-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/van-der-rohe-barcelona-chrono-df-9021-0b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/products/van-der-rohe-barcelona-chrono-df-9021-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/sitemap_products_1.xml?from=437405215&to=8053354692769",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.biccamera.com/bc/item/3794558/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fril.jp/brand/14705",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sakidori.co/article/182152",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://houjin.biccamera.com/product/result.aspx?ctid=001260015010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biccamera.com/bc/item/3381655",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://www.10keiya.com/fs/pp10keiya/c/3238",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://store.shopping.yahoo.co.jp/watch-lab/a5c9a5a5a5.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://search.rakuten.co.jp/search/mall/dufa/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/pages/user-manual",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeshop24.com/dufa-df-9014-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fidelitystore.bargains/product/dufa-deutsche-uhrenfabrik-mens-watch-brown-leather-strap-df-9005-04/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fidelitystore.bargains/product/dufa-deutsche-uhrenfabrik-unisex-watch-black-leather-strap-df-9009-04-kiel/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fidelitystore.bargains/product/dufa-deutsche-uhrenfabrik-unisex-watch-blue-leather-strap-df-9009-03/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fidelitystore.bargains/product/dufa-deutsche-uhrenfabrik-unisex-watch-with-leather-strap-df-9007-05/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fidelitystore.bargains/product/dufa-deutsche-uhrenfabrik-unisex-watch-leather-strap-df-9009-02-kiel/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fidelitystore.bargains/product/dufa-grey-weimar-chronograph-watch-df-9007-11/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/284630783338",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/str/fidelitystoreltd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.s3watch.com/dufa/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/dufa-df-9030-04.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/dufa/df-9028-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchagency.com/dufa-albers-brown-leather-o42-mm-p-812935.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://swisstime.co/en/dufa-albers-automatic-mf-9013-calendar-ref--df-9013-04-made-in-germany/?action=15&id=2206",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/dufa-df-9028-11.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/dufa-df-9029-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/dufa-df-9028-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/products/dufa-df-9027-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/products/dufa-df-9028-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/products/dufa-df-9002-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchagency.com/dufa/saphir/df-9030-01/812951",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.akstroms.se/en/watches-men/dufa/df-9027-02/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fruugo.us/dufa-df-9027-04-sapphire-chronograph-mens-watch-40mm-3atm/p-143352141-302748776",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/14039789310",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/tag/dufa/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/deutsche-uhrenfabrik/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=32548",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2933501/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/fr/annonce/3374939/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/3381458/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/dufa-gotha-gmt-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/dufa-kiel-series-quartz-watch?sort=votes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a656505/dufa-gunter-integrated-bracelet-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.attitude.co.uk/uncategorised/dufa-watches-launch-new-automatic-watch-291067/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=39638",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=35423",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opumo.com/magazine/dufa-watches-review-2020/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/collections/dufa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bestwatch.com.hk/dufa/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/collections/dufa",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://conteenium.com/brand/dufa-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches.com/products/dufa-freitaucher-automatic-black-df-9034-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/dufa-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchcompany.com/dufa/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/dufa-watches-does-anyone-have-some-insight-on-these.4739651/page-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/subtil-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhrforum.de/threads/uhrenmarke-dufa.33061/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/t/Dufa-Uhren/31387/bn_7005345320",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhrforum.de/threads/dufa-weimar-chrono-df-9012-05.307772/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hermann-juwelier-uhrmacher.de/de/articles/66274433/dufa-uhr-weimar-chrono-df-9012-04-herrenuhr-415-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/2026091440",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/2246110019",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/19055288644",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://search.rakuten.co.jp/search/mall/dufa+%E6%99%82%E8%A8%88/558929/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://search.rakuten.co.jp/search/mall/dufa+9011/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yodobashi.com/category/18457/18459/243001/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://store.shopping.yahoo.co.jp/ikkodo-online/df900311.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dufa-watches.de/collections/gotha-gmt-9005",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dufa-watches.de/collections/albers-automatic-calendar-9013",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchy.ru/dufa/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://schmuck24.de/uhren:dufa/armbanduhr+geschlecht:herren",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.timeshop24.de/dufa-df-9014-03.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeshop24.com/dufa-df-9013-01.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://12and60.com/video-review-deutsche-uhrenfabrik-dufa-albers-automatic-calendar-df-9013-03/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://q-watch.ru:443/catalog/naruchnye-chasy/dufa-df-9009-01/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bestwatch.ru/watch/DuFa/DF-9009-02/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.svstime.ru/DuFa-DF-9005-03_910019t.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.grandstyl.cz/zbozi/panske-hodinky-dufa-df-9027-03-saphir/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeoutlet.cz/panske-hodinky-dufa/dufa-df-9029-03/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mainspringboutique.com/collections/vendors?q=dufa",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timezone24.bg/%D0%BC%D1%8A%D0%B6%D0%BA%D0%B8-%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B8-86/dufa",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashiola.de/accessoires/schmuck/uhren/?mrk=dufa",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/pages/retailers",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kaminskyblog.com/2018/07/31/dufa-bayer-automatic-swiss-df-9016-03-review/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchdavid.com/watches/dufa/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://12and60.com/deutsche-uhrenfabrik-dufa-walter-gropius-df-9001-02-watch-review/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/where-to-buy-this-beautiful-watch-dufa-walter-gropius.2403682/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/reloj-dufa.289411/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/dufa-%C2%BFalquien-me-puede-dar-informaci%C3%B3n.475829/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://dufa-watches.de/collections",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://verhagenkoeln.de/marken/dufa/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ceasmania.ro/ceasuri-barbatesti/dufa/dufa-df-9001-08-walter-gropius-38mm-3atm.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deutsche-uhrenfabrik.de/collections/gropius-moonphase",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchdavid.com/dufa-bayer-automatic-swiss-df-9016-33-review/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://amp.scmp.com/magazines/post-magazine/fashion/article/3039560/watches-dufa-junghans-and-omega-best-horological",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.minimalgoods.co/article/dufa-regulator-watch-review",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

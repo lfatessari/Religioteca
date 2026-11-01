@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 425,
-  "ultima_versao": 363,
+  "proxima_linha_marcas": 426,
+  "ultima_versao": 364,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5994,6 +5994,19 @@
       "fontes": 16,
       "grande": false,
       "obs": "Marca suíça quase sem rastro: só os automáticos Rectangular e Circular anunciados para a Baselworld 2011 (aBlogtoWatch). Coluna G aponta as guitarras Duesenberg (Hannover); M424 preenchida. Bateria só com ela porque Dufa (425) é grande (Yodobashi lista 95 referências DF-). Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-11-01",
+      "versao": 364,
+      "marca": "Dufa",
+      "linha_marcas": 425,
+      "linhas_relogios": "65846-66076",
+      "relogios": 231,
+      "vermelho": true,
+      "site_bloqueado": "Parcial – dufa-watches.de (site antigo) robots",
+      "fontes": 156,
+      "grande": true,
+      "obs": "3 passadas (127/220, 16/13, 13/2). Base: sitemap de produtos do site oficial deutsche-uhrenfabrik.de (fotos cdn.shopify), Yodobashi (95 itens), PR TIMES (distribuidor japonês). Vermelha: geração 2015–2018 (Gotha 9005, Weimar 9008/9012, Kiel 9009, Albers 9013/9014, Saphir 9027–9030) com códigos faltando; ~46 refs japonesas sem foto (link da página). Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -6012,32 +6025,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-11-01T11:42:16Z",
-  "ultimo_sinal": "2026-11-01T12:09:37Z",
-  "em_andamento": {
-    "marcas": [
-      "Dufa"
-    ],
-    "linha_marcas": 425,
-    "grande": true,
-    "relogios": "historico/parcial_Dufa_relogios.txt",
-    "fontes": "historico/parcial_Dufa_fontes.txt",
-    "notas": "historico/notas_Dufa.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 3
   }
 }
