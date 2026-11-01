@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 439,
- "ultima_versao": 372,
+ "proxima_linha_marcas": 440,
+ "ultima_versao": 373,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6144,6 +6144,33 @@
    "vermelho": false,
    "site_bloqueado": false,
    "fontes": 30
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 373,
+   "marca": "Earnshaw",
+   "linha_marcas": 439,
+   "linhas_relogios": "67487-68376",
+   "relogios": 890,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 118,
+   "grande": true,
+   "passadas": {
+    "1": [
+     96,
+     579
+    ],
+    "2": [
+     12,
+     15
+    ],
+    "3": [
+     10,
+     25
+    ]
+   },
+   "obs": "~270 relógios vieram só de títulos de busca (link da página na coluna C); site oficial thomas-earnshaw.com (G errado)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -6184,7 +6211,7 @@
    "9"
   ],
   "passada": 1,
-  "pausada": "2026-11-01: site oficial bloqueia leitura (robots) e Firecrawl sem créditos; retomar com Firecrawl (ver notas). | 01/11 18:50 UTC: Firecrawl ainda sem créditos (renova ~13:45 UTC de 02/11); novas buscas não acharam nada fora do site. Mantida pausada; execução pulou para Duxot (433). | Próxima execução: tentar o Firecrawl (créditos renovam ~13:45 UTC de 02/11); se ainda sem créditos, pular para a linha proxima_linha_marcas (como em 01/11 19h) e manter esta pausa. | 01/11 20h: Firecrawl ainda sem créditos; execução fez Duzu Watches (434) e Dwiss (436), DWATCH (435) também pausada. | 01/11 21h: Firecrawl ainda sem créditos; execução fez Dzmitry Samal (437) e E.C. Andersson (438). Earnshaw (439) é grande: próxima execução."
+  "pausada": "2026-11-01: site oficial bloqueia leitura (robots) e Firecrawl sem créditos; retomar com Firecrawl (ver notas). | 01/11 18:50 UTC: Firecrawl ainda sem créditos (renova ~13:45 UTC de 02/11); novas buscas não acharam nada fora do site. Mantida pausada; execução pulou para Duxot (433). | Próxima execução: tentar o Firecrawl (créditos renovam ~13:45 UTC de 02/11); se ainda sem créditos, pular para a linha proxima_linha_marcas (como em 01/11 19h) e manter esta pausa. | 01/11 20h: Firecrawl ainda sem créditos; execução fez Duzu Watches (434) e Dwiss (436), DWATCH (435) também pausada. | 01/11 21h: Firecrawl ainda sem créditos; execução fez Dzmitry Samal (437) e E.C. Andersson (438). Earnshaw (439) é grande: próxima execução. | 01/11 22h: Firecrawl ainda sem créditos; execução fez Earnshaw (439, grande, vermelha)."
  },
  "marcas_pendentes": [
   {
