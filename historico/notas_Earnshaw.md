@@ -11,3 +11,4 @@
 - 1ª passada ENCERRADA (22:17): 3 fontes seguidas sem novidade (watchesyoucanafford, czaszegarkow, timepiece Greenock). ~791 relógios.
 - 2ª passada: buscar o que deixa vermelha — páginas restantes de listas (UK/EU oficiais, lojas com catálogo antigo), famílias do manual sem relógio.
 - 2ª passada: 12 fontes, 15 relógios novos nas fontes abertas (+ dezenas vindos de buscas por família) → 3ª passada obrigatória.
+- 3ª passada: 10 fontes. Parar após a 3ª (o roteiro pede no máximo 3).
