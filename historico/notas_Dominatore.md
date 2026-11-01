@@ -7,3 +7,5 @@ Positano Automatic (Rusty Radiance, Orange Blaze) sem código - watches.com; Bar
 Manual: séries DD-8000..8006, 8008, 8009, 8019 (Bari, suíço quartzo 9238), 8020 Bandiera quartz VJ32, 8021 Aviatore VJ32, 8022 Aqua Sicura VJ32, 8024 Fano GP01, 8025-8028 NH35, 8029 Ravello P2650 (China), 8030 Atrani GP01. 8008 meca-quartz VK63, 8009 auto 8215.
 Maestrale tem pág 2 (~3 itens) não alcançada ainda.
 watchgang content robots bloqueado. Watch Gang vende DDM (shop.watchgang.com).
+Dono: Dartmouth Brands Ltd (UK; também AVI-8, mesmo padrão de código). País 'Itália' na planilha é só inspiração -> observação M. Ashford imagem padrão confirmado: ashford.com/cdn/shop/files/<COD>_F.jpg (10 confirmados). touchofmodern e beyondstyle client_error; eBay itm maioria client_error.
+Viaggio: DD-8010 = Retrograde (quartzo retrógrado), DD-8012 = Chronograph. Positano: WG Black 01, Blue 02, Orange 03 (watches.com chama Rusty Radiance/Orange Blaze — não sei qual código).
