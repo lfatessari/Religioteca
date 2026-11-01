@@ -6,3 +6,7 @@
 - Seções feitas: 1 (dimensionar), 3 parcial, 7 parcial (Yodobashi, Ippo, Serious, Watches.com), 9 parcial (PR TIMES x12)
 - A fazer: watches.com produtos (Freitaucher DF-9034, Bayer DF-9016, Aalto PR, Breuer gun grey, Tauchen Meca, Kroyer Saetter Lassen DF-9031), seriouswatches produtos (Günter DF-9033, Weimar Möller DF-9026, Gropius 0Q/0U, Aalto Regulator), Gotha GMT, Kiel, Flugbahn (drop.com), Weimar DF-9008, mainspring, eBay, imprensa (W&W, watchpro, gearpatrol, gessato, attitude, opumo, masterhorologer, watch-navi), EveryWatch, Chrono24.
 - Fotos: Yodobashi sem foto (link da página) → substituir quando possível.
+- Manual oficial: séries DF-9005 Gotha GMT (ISA 8176), 9007/9012 crono (ISA 8171), 9008 Weimar, 9009 Kiel, 9013/9014 (Miyota 9120/9122), 9028, 9029, 9026 Möller. Subtil Limited Edition citada (procurar).
+- DF-9011 = Breuer Automatic (oficial); Yodobashi/Bic chamam de "Josef Albers" — mantido o nome oficial. DF-9010 = Albers Automatic.
+- Removidos DF-9007-04-O e DF-9002-03-O (sufixo -O = importação paralela, mesmo relógio).
+- Ignorados títulos Rakuten "df9018g2" e "df 9500 gmt" (códigos duvidosos).
