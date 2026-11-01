@@ -9,3 +9,6 @@ Maestrale tem pág 2 (~3 itens) não alcançada ainda.
 watchgang content robots bloqueado. Watch Gang vende DDM (shop.watchgang.com).
 Dono: Dartmouth Brands Ltd (UK; também AVI-8, mesmo padrão de código). País 'Itália' na planilha é só inspiração -> observação M. Ashford imagem padrão confirmado: ashford.com/cdn/shop/files/<COD>_F.jpg (10 confirmados). touchofmodern e beyondstyle client_error; eBay itm maioria client_error.
 Viaggio: DD-8010 = Retrograde (quartzo retrógrado), DD-8012 = Chronograph. Positano: WG Black 01, Blue 02, Orange 03 (watches.com chama Rusty Radiance/Orange Blaze — não sei qual código).
+## Fim da passada 1 (critério: últimas fontes sem novidade)
+Decisão: VERMELHO — collections/all tem 10 págs (~230 itens), só págs 1 e 8 alcançadas; Bandiera 3h (client_error), Aviatore 3h, Acqua Sicura chrono, Viaggio chrono, Maestrale pág 2 não abertas. Provável faltar ~20-30 variações.
+## Passada 2: alvo = coleções não abertas + páginas all?page=N + lojas novas
