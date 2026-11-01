@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 418,
- "ultima_versao": 357,
+ "proxima_linha_marcas": 419,
+ "ultima_versao": 358,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5903,6 +5903,19 @@
    "fontes": 77,
    "grande": false,
    "obs": "Feita sozinha: a seguinte (Dreyfuss & Co., 418) foi tratada como grande e fica sozinha na próxima execução. Firecrawl sem créditos. Usa nomes (SKUs da loja na coluna E)."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 358,
+   "marca": "Dreyfuss & Co.",
+   "linha_marcas": 418,
+   "linhas_relogios": "65340-65457",
+   "relogios": 118,
+   "vermelho": true,
+   "site_bloqueado": "Site bloqueado – dreyfusssandco.com/dreyfussandco.com fora do ar; vendida em rotarywatches.com",
+   "fontes": 92,
+   "grande": true,
+   "obs": "Marca grande, sozinha. 3 passadas (63/16/13 fontes; 74/8/8 relógios). Vermelha: catálogo de centenas de códigos DGS/DGB/DLS/DLB desde 2006, muitos só em títulos sem foto. Firecrawl sem créditos. Fotos de vídeos da Watch Shop via miniatura do YouTube em ~8 linhas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
