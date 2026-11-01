@@ -1,0 +1,797 @@
+{
+ "marca": "Dubey & Schaldenbrand",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – dubeywatch.com (site citado pela Grail-Watch e pelo Journal du Luxe) e dubeyschaldenbrand.ch (coluna G) não aparecem em buscas; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Dubey_%26_Schaldenbrand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Dubey_%26_Schaldenbrand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/dubey-schaldenbrand",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delraywatch.com/dubey-and-schaldenbrand/?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blowers-jewellers.co.uk/dubey-schaldenbrand-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/wristwatch-industry-news/dubey-schaldenbrand-returns-to-america-with-new-collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ablogtowatch.com/dubey-schaldenbrand-grand-dome-watch-hands-on/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://essential-watches.com/dubey-and-schaldenbrand-allwatches",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/dubey_&_schaldenbrand_590_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.watch-spare.com/watches/available/dubey-schaldenbrand-aerodyn-duo-carre-cambre-dimplomatic-classic-gmt-circa-2002-ref-aduo-st-sig-ld.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.watch-spare.com/watches/available/dubey-schaldenbrand-aerodyn-cintree-curvex-trophee-sixty-limited-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/watch/dubey-and-schaldenbrand-dubey-and-schaldenbrandaerodyn-antique-9730",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/dubey-and-schaldenbrand-aerodyn-duo-gmt-18k-rg-17676",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/dubey-and-schaldenbrand-aerodyn-cosc-black-15516",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/dubey-and-schaldenbrand/jewelry/watches/wrist-watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.velvetboxsociety.com/dubeyandschaldenbrand.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://300magazine.com/?p=2956",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.journalduluxe.fr/fr/marque-de-luxe/dubey-schaldenbrand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lacotedesmontres.com/Enchere-No_45503.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-219-44",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-212-130",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classicdriver.com/en/watch/dubey-schaldenbrand/gran-chrono/269318",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/aquaduo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/fr/watches/spiral-sixty",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095752-dubey-schaldenbrand-new-spiral.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/dubey-schaldenbrand-watches/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112462-dubey-schaldenbrand-aerodyn-jump-hour.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/spiral-rattrapante",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://grayandsons.com/w528846-dubey-and-schaldenbrand-jump-hour-aer/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1004000745-the-grande-dame-and-the-young-man.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.grayandsons.com/w522425-dubey-schaldenbrand-spiral-one-40mm-s.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://grayandsons.com/w519953-dubey-and-schaldenbrand-aerodyn-duo-3/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.grayandsons.com/w519118-dubey-schaldenbrand-aerodyn-duo-33mm.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.grayandsons.com/w516001-dubey-schaldenbrand-gran-chrono-astro.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacotedesmontres.com/Enchere-No_18642.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-203-207",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-223-296",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-219-367",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-212-154",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-212-152",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-219-45",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/it/orologi/dubey-schaldenbrand/lpi",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.bonhams.com/auction/25394/lot/257/dubey-and-schaldenbrand-a-limited-edition-18k-rose-gold-automatic-calendar-chronograph-wristwatch-spiral-one-creation-no1-recent",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fellows.co.uk/bidding/3073-the-luxury-watch-sale-1072/228-dubey-schaldenbrand-a-stainless-steel-spiral-one-chronograph-wrist-watch-40mm-387938",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://revolutionwatch.com/dubey-schaldenbrand-coeur-blanc-setting-the-bar/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/spotlights/2029076-gran-39-chrono-astro-by-dubey-schaldenbrand.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://exquisitetimepieces.com/pre-dubey-schaldenbrand-grand-shar-gold-gsar.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/dubey-schaldenbrand-2581-aerodyn-duo-dual-time-mens-automatic-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.com/?p=21920",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=14271",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/dubey-and-schaldenbrand-aerodyn-duo-as07701",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiqon.com/en/antikoteka/viewItem/Dubey-&-Schaldenbrand--350",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112598-dubey-schaldenbrand-lady-celebrity.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2009/03/22/dubey-schaldenbrand-aquadyn/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whitewall.art/lifestyle/keeping-time-dubey-schaldenbrands-dome-gmt-in-blue-and-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/dubey-schaldenbrand-aerochrono-210000021694.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/dubey-schaldenbrand/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/dubey-schaldenbrand-stainless-steel-aerodyn-chronometre/id-j_19362272",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/spi1rgsibls-spiral-one-de-dubey-schaldenbrand/id-j_15309132",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-101-373",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dorotheum.com/en/l/8991089",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-90-220",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-56-285",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-26-447",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2008/09/07/dubey-schaldenbrand-aerodyn-trophee-limited-edition-watch-pink-gold-cintree-curvex-case-swiss-made-aurore-19-mechanical-manual-movement-of-1930s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.watch-spare.com/dubey-schaldenbrand-index-mobile-rattrapante-vintage-circa-1980.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.investmentwatches.com/products/dubey-schaldenbrand-aerochrono-silver-dial-73-2009",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artcurial.com/en/sales/MC6009/lots/159-a",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156716984396",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Aquadyn/Big-Date",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gphg.org/en/watches/caprice-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/coupe-caprice",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/spiral-verso-vip",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.totaldesignreviews.com/2014/07/04/dubey-schaldenbrand-grand-dome-dt-423-black-diamonds/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096285-dubey-schaldenbrand-grand-dome-dt-rose-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Coupe-City",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Black-Georges",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.essential-watches.com/Dubey-and-Schaldenbrand/Aquadyn",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Spiral-One-Chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Aerodyn",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://essential-watches.com/watch/Dubey-and-Schaldenbrand-spiralsixty18KTRG-Spiral-Sixty-Limited-Edition-Chronograph-Rose-Gold-on-Strap-with-Black-Dial-Ltd-Edition-of-10pcs/89962",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://feldmarwatch.com/?p=36539",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/dubey-schaldenbrand-grand-dome-dt-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004085165.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Buddy/Three",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Buddy/Four",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095933-dubey-schaldenbrand-grand-shar-db.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.grayandsons.com/w523400-dubey-schaldenbrand-gran-astro-37mm.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.atimelyperspective.com/?p=12480",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.atimelyperspective.com/?p=9954",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dev.atimelyperspective.com/watch-brands/dubey-schaldenbrand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.totaldesignreviews.com/?p=5811",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.totaldesignreviews.com/?p=4174",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atimelyperspective.com/?p=9454",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/watch-brands-of-yesteryear-what-happened-to-my-heroes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/388651195844",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.in-vendita.it/dubey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-226-415",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-203-419",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/12363.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/dubey-and-schaldenbrand-gran-chrono-astro-ss-strap-13166",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/12224.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/14217.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/17067.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/dubey-and-schaldenbrand-snyder-aerodyn-duo-steel-12114",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Dubey-and-Schaldenbrand-Aerodyn-Duo-Steel-Black-26482.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2010/04/19/dubey-schaldenbrand-artisans-xtreme-self-winding-chronograph-limited-edition-47mm-case/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-237-277",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-203-417",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristler.eu/watches/180001-dubey-schaldenbrand-unknown",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacotedesmontres.com/Enchere-No_59606.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greenleafcrosby.com/products/dubey-schaldenbrand-aerodyn-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/374188062587",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://do.ebay.com/b/Dubey-Schaldenbrand-Stainless-Steel-Case-Wristwatches/31387/bn_108270273",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.grayandsons.com/w520980-dubey-schaldenbrand-aerodyn-duo-33mm.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://py.ebay.com/b/Dubey-Schaldenbrand-Men-Wristwatches/31387/bn_3004342",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/index-mobile-rattrapante-for-the-people.141774/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/dubey-and-schaldenbrand",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/dubey-and-schaldenbrand/jewelry",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-81-163?page=9",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blowers-jewellers.co.uk/product-type/dubey-schaldenbrand-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/page-wf/fi-16/q-index/termId-40143/term-Dubey & Schaldenbrand/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/186169484300",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/dubey-schaldenbrand/watch-12924999",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/astro-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.grayandsons.com/w523310-dubey-schaldenbrand-gran-chrono-astro.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/dubey-schaldenbrand",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/dubeyschaldenbrand/index.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sarasotawatch.com/product-category/dubey-schaldenbrand/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.co.uk/dubeyschaldenbrand/index.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Dubey-Schaldenbrand-Wristwatches/31387/bn_2965407",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://www.ebay.com/b/Dubey-Schaldenbrand-Women-Wristwatches/31387/bn_5689026",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2009/03/24/dubey-schaldenbrand-coupe-06-automatic-limited-edition-curvex-case-steel-or-gold/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2009/03/23/dubey-schaldenbrand-coupe-city-limited-edition-mechanical-self-winding-watch-with-dual-time-zone-display/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2008/09/01/dubey-schaldenbrand-carre-cambre-calendar-pink-gold/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-1752802",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2008/12/10/dubey-schaldenbrand-aerodyn-oasis/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2009/03/25/dubey-schaldenbrand-georges-dubey-edition-limited-series-watch-with-vintage-calibrer92-chronograph-movement/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/buy/ce1565f4-3502-4543-b893-bcefb8c00a2c/lots/d8987794-d4e7-451f-83c7-9d98222f7f2b",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Buddy/Two",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Dubey-and-Schaldenbrand/Aerodyn/Date",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Dubey-and-Schaldenbrand-GSAR-RG-SIG-LD-Grand-Shar-DB-Chronograph-3-Counters-in-Rose-Gold-on-Brown-Leather-Strap-with-Silver-Dial/50987",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/aerodyn-classic",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.grayandsons.com/w521695-dubey-schaldenbrand-gran-chrono-astro.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/157306243364",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/dubey-schaldenbrand-aerodyn-duo",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2008/09/02/dubey-schaldenbrand-aerodyn-jump-hour-limited-edition/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/dubey-schaldenbrand-yellow-gold-gran-chrono-astro-wristwatch/id-j_188014",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/dubey-schaldenbrand-gran-chrono-stainless-steel-automatic-watch/id-j_10021872",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/dubey-schaldenbrand-chrome-plated-visiteur-manual-wristwatch-1960s/id-j_3275033",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprozine.com/page-wf/fi-1471/q-index/termId-86196/term-Dubey & Schaldenbrand/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-119-316",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-76-95",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-160-122",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/205600893364",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/dubey-schaldenbrand-steel-wristwatch-automatic-swiss-made/id-j_22607812",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "G: dubeyschaldenbrand.ch não encontrado; site citado pelas fontes é dubeywatch.com. C: fontes dão sede em La Chaux-de-Fonds (e Les Ponts-de-Martel 2000–2010), não Genebra. I: relançada por Cinette Robert em 1995 e comprada por Jonatan Gil em 2009; '[⚠️ verificar status atual]' continua sem confirmação."
+}
