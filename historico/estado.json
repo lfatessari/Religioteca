@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 419,
- "ultima_versao": 358,
+ "proxima_linha_marcas": 421,
+ "ultima_versao": 359,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5916,6 +5916,32 @@
    "fontes": 92,
    "grande": true,
    "obs": "Marca grande, sozinha. 3 passadas (63/16/13 fontes; 74/8/8 relógios). Vermelha: catálogo de centenas de códigos DGS/DGB/DLS/DLB desde 2006, muitos só em títulos sem foto. Firecrawl sem créditos. Fotos de vídeos da Watch Shop via miniatura do YouTube em ~8 linhas."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 359,
+   "marca": "Dryden",
+   "linha_marcas": 419,
+   "linhas_relogios": "65458-65492",
+   "relogios": 35,
+   "vermelho": false,
+   "site_bloqueado": "drydenwatchco.com não aparece em buscas",
+   "fontes": 32,
+   "grande": false,
+   "obs": "Sem códigos; tudo via imprensa (site oficial inalcançável, Firecrawl sem créditos). Linhas: Chrono Diver S1 (2019) e Gen 2 (2026), Pathfinder v1 e v1.5, Heartlander automático e Solar."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 359,
+   "marca": "du Manège",
+   "linha_marcas": 420,
+   "linhas_relogios": "65493-65502",
+   "relogios": 10,
+   "vermelho": false,
+   "site_bloqueado": "dumanege.ch não aparece em buscas",
+   "fontes": 22,
+   "grande": false,
+   "obs": "duManège (La Chaux-de-Fonds, 2011). DM-Exploration e Heritage; modelo do Kickstarter 2018 não identificado. Dubey & Schaldenbrand (421) tratada como grande: fica sozinha na próxima."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
