@@ -1,0 +1,677 @@
+{
+ "marca": "DuBois et fils",
+ "usa_codigos": true,
+ "logo": "https://www.cwsellors.co.uk/cdn/shop/files/dubois-et-fils-watches-logo_160x.jpg?v=6424907135166826343",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://duboisfils.ch/en/watches/watch-archive?redirected=true",
+   "passada": 1,
+   "novos": 42
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://duboisfils.ch/en/uhren/dbf010",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf011",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf005/dbf005-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-09",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf001/dbf001-10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf002/dbf002-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf002/dbf002-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf002/dbf002-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf003/dbf003-08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf004/dbf004-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf004/dbf004-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf004/dbf004-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf005/dbf005-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf005/dbf005-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf005/dbf005-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf005/dbf005-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-09",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf006/dbf006-13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-09",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf007/dbf007-13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-09",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-14",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf008/dbf008-15",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf009/dbf009-08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf010/dbf010-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf010/dbf010-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf010/dbf010-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf010/dbf010-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf010/dbf010-05",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf010/dbf010-06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf011/dbf011-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/dbf011/dbf011-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/auctions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/en/watches/museum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/de/auktionen/dbf006-01-11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duboisfils.ch/en/auctions/dbf001-09-90",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duboisfils.ch/en/auctions/dbf003-04-18",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duboisfils.ch/en/auctions/dbf003-03-21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://duboisfils.ch/en/auctions/dbf006-02-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/node/371023",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://escapementmagazine.com/categories/watch-reviews/dubois-et-fils/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/dubois-et-fils-dbf002-002/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/dubois-et-fils-dbf008-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/de/node/314",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://duboisfils.ch/sites/default/files/2021-07/projektpraesentation.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/DuBois_et_fils",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/mens-dubois-et-fils-watches.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/dubois-et-fils-watch-chronograph-big-date-limited-edition-dbf001-05-dbs-005",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/dubois-et-fils-watches-for-men",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/pages/dubois-et-fils-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/416095",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/dubois-et-fils/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bilanz.ch/watches/was-nati-legende-alex-frei-zu-seinem-einstieg-bei-der-uhrenfirma-dubois-et-fils-sagt/8yqrpw7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/dubois-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/228719-dubois-et-fils-unknown",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/recommerce/forsale/item/467950731",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://csq.com/?p=14197",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/dubois-et-fils/watch-9176452",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004084276.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/tag/stainless-steel-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://asset.everywatch.com/dubois-et-fils/watch-12571026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/the-new-ana-digi-watch-dubois-et-fils-bridges-past-and-present-with-the-dbf007-diver-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/becoming-partner-of-a-brand-and-we-mean-that-very-literary/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/dreizeigeruhr/dubois-et-fils-verschwundenes-uhrhandwerk-wiederbelebt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/96/45014",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/107/56342",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/111/60607",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/106/55341",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/luxprice-index-watches/dubois.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=8876",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/dubois-et-fils-dbf005-02-watch-review/",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "observacoes": "G errado: site oficial é duboisfils.ch (não .com). I: cada variante é limitada a no máximo 99 peças (11, 22, 33 ou 99), não 799 (799 era das edições DuBois 1785). J: 'Grande Complication Type Rétro' não encontrado em nenhuma fonte; linhas atuais vão de DBF001 a DBF011."
+}

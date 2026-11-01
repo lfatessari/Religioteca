@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 423,
-  "ultima_versao": 361,
+  "proxima_linha_marcas": 424,
+  "ultima_versao": 362,
   "historico": [
     {
       "data": "2026-10-16",
@@ -5968,6 +5968,19 @@
       "fontes": 67,
       "grande": true,
       "obs": "Mesma casa que DuBois et fils (423). Aqui só relógios assinados DuBois 1785/Ph. Du Bois & Fils anteriores à linha DBF (edições numeradas dos anos 1990–2000 e vintage). 2 passadas (55/12 fontes; 60/4 relógios novos). Vermelha: edições numeradas (Nr. 24, 27, 32, 33, 38, 67) indicam dezenas de outras não achadas; Chrono24 e EveryWatch inalcançáveis; Firecrawl sem créditos. DuBois et fils (423) é grande: fica sozinha na próxima (archive oficial lista 42 DBF + DBF007–011)."
+    },
+    {
+      "data": "2026-11-01",
+      "versao": 362,
+      "marca": "DuBois et fils",
+      "linha_marcas": 423,
+      "linhas_relogios": "65749-65841",
+      "relogios": 93,
+      "vermelho": false,
+      "site_bloqueado": "",
+      "fontes": 133,
+      "grande": true,
+      "obs": "Catálogo fechado conferido: arquivo oficial (42 variantes DBF001–006) + páginas DBF007–011 (44) = 86, mais 5 peças únicas e 1 protótipo dos leilões oficiais e o protótipo Concept TWO (Monochrome). 84 das 133 fontes são fichas oficiais abertas para pegar a foto. Sem foto: DBF008-13, DBF008-14, DBF009-02, DBF009-03 (link da página). Firecrawl sem créditos. Achados para DuBois 1785 (422) não gravados: 'Virage' (799 peças, La Joux-Perret 736.7, WatchPro) e 'Perpétuelle Sport El Primero' (1996, Wristler)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -5986,26 +5999,5 @@
   },
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
-  },
-  "em_execucao": "2026-11-01T09:41:49Z",
-  "ultimo_sinal": "2026-11-01T10:03:42Z",
-  "em_andamento": {
-    "marcas": [
-      "DuBois et fils"
-    ],
-    "linha_marcas": 423,
-    "grande": true,
-    "relogios": "historico/parcial_DuBoisetfils_relogios.txt",
-    "fontes": "historico/parcial_DuBoisetfils_fontes.txt",
-    "notas": "historico/notas_DuBoisetfils.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6"
-    ],
-    "passada": 1
   }
 }
