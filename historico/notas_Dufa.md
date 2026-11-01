@@ -11,3 +11,14 @@
 - Removidos DF-9007-04-O e DF-9002-03-O (sufixo -O = importação paralela, mesmo relógio).
 - Ignorados títulos Rakuten "df9018g2" e "df 9500 gmt" (códigos duvidosos).
 - NÃO reabrir: wornandwound bauhaus-turns-100 (PROVENANCE_REQUIRED, link tirado de página).
+## Fim da 1ª passada (12:07 UTC) — 127 fontes, 215 relógios
+Parou: últimas fontes (hermann-juwelier, 3 eBay, 2 Rakuten, Yodobashi categoria, ikkodo) sem modelo novo.
+### 10b auto-auditoria
+1. Blog/imprensa oficial: site sem blog visível; manual oficial lido; PR TIMES (12 releases) lidos.
+2. site:deutsche-uhrenfabrik.de/products por linha: feito (freitaucher, gunter, aalto, tauchen/flugbahn, gropius, van der rohe, wachsmann, breuer, bayer, weimar, kroyer) + sitemap_products completo.
+3. Lojas: Yodobashi, Ippo, Ashford, Sportique, Conteenium, Fidelitystore, TWA, Bic, watch-lab, Rakuten.
+4. Primeiro modelo: geração 2015 (Gotha GMT 9005, Weimar 9008, Weimar Chrono 9007/9012, Kiel 9009, Walter Gropius 9001) — W&W 2015. Primeiro automático: Breuer 9011 (2016, Liberty).
+5. J da aba Marcas: Gropius, Van der Rohe Barcelona, Wachsmann, Aalto, Freitaucher, Bauhaus 100 — todos achados.
+6. Limitadas: Gropius todo preto TiCTAC 150 pcs; Subtil Limited Edition (6); Bauhaus 100 (3); colaboração Krøyer Sætter-Lassen.
+7. Fontes: 127.
+VERMELHA: séries antigas com códigos faltando (9005-02/03, 9009-01, 9013-01/03, 9014-02+, 9027-03, 9029-01..03, 9030-03, 9012-01/02, 9008-02/03) e ~40 refs japonesas sem foto.
