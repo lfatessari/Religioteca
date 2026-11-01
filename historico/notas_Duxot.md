@@ -7,3 +7,5 @@
 - Bloqueados: longislandwatch.com/duxot-watches/?page=2 e /duxot/?p=2 (robots), duxotwatch.com (robots, site antigo?), thewatchforum (client_error), watchuseek, product pages duxotwatches.com (client_error), warehouse-sale (client_error).
 - Conteenium: fotos das linhas antigas (Altius, Patrios, Tortuga, Ascensus). "inspirados nos modelos dos anos 60". TBWS: relógio enviado de Hong Kong, fundo "China"; homenagens a Rolex/Omega/Patek.
 - Chrono24: há Duxot vintage suíço anos 60 (anúncios id12964310, id45842347) — Chrono24 não abre.
+- Famílias SEM nenhuma variante achada (só no manual): Aurum DX-2030/31/38/39/41, Sovereign 2043/44, Sterling 2045, Argentina 2049, Oria 2050, Auryn 2052, La Plata 2053, Decimo 2055, Argentiere 2032, Fortius 2019, Audentis 2022, Altum 2025. -> entram 1 linha por família (link do manual PDF) se não achar mais.
+- 12and60: Duxot é da Dartmouth Brands (Avi-8, Spinnaker, Thomas Earnshaw) — Hong Kong. Coluna B/C da aba Marcas vazios; país = Hong Kong (Dartmouth Brands). I fala em 'design europeu', J: Serenata, Meridian, Cassiopeia, Tempus — Meridian, Cassiopeia e Tempus NÃO existem no catálogo (verificar).
