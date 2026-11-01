@@ -16,3 +16,5 @@ Aoraki Flieger/Milspec/Recce/Vector/Zulu(catálogo); Kruger A black, A FL, B bla
 - Tugela 1ª série (2016-17): preto, bordô, azul (azul: 2017/02/Tugela-Blue-brown-strap-photo.jpg; último sorteado nov/2018). Tugela 2.0 (pré-venda nov/2018). Tugela 2023 ("Double Drab"): Black, Red.
 - Kalahari 2018: preto em aço jateado; full lume (areia) em PVD preto. Fotos 2018/05/Black-dial.jpg e Full-lume-dial.jpg
 - Peregrine 2017 (44 mm, 9130): jateado ou DLC; preto ou full lume. Foto timebum blogspot final+29
+- Tugela Super Blue LE (120 pç, esgotada; cores voltaram no Tugela GMT Super Blue). Tugela "Shaka" exclusivo do lançamento 2021 (foto 2020/12/Tugela-front-chaka-nylon.jpg). Kalahari 2018 teve 4 variantes.
+- Blog: pág 4, 5, announcements, in-the-works lidas. Faltam pág 1-3, 6-9 (buscas).
