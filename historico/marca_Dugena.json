@@ -1,0 +1,597 @@
+{
+ "marca": "Dugena",
+ "usa_codigos": true,
+ "logo": "https://www.dugena.de/media/21/91/24/1736848690/logo_(4).svg?ts=1736848691",
+ "site_bloqueado": "Parcial – dugena.de não aparece em buscas (WebFetch não alcança); lido via Firecrawl; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://steiner-juwelier.com/en-ca/collections/dugena",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/collections/dugena?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Dugena",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/manufacturer/dugena-549.html",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=2 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=3 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=4 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=5 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=6 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=7 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=8 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=9 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=10 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/mechanical-watches/ (Firecrawl)",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/mechanical-watches/?p=2 (Firecrawl)",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/mechanical-watches/?p=3 (Firecrawl)",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=11 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=12 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=13 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=14 (Firecrawl)",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=15 (Firecrawl)",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/quartz-watches/?p=16 (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/pocket-watches/ (Firecrawl)",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/radio-watches/ (Firecrawl)",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/titanium-watches/ (Firecrawl)",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/ceramic-watches/ (Firecrawl)",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/childrens-watches/ (Firecrawl, 404)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flume.de/en/wristwatches-and-pocket-watches/dugena-watches/titanium-watches/?p=2 (Firecrawl)",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.dugena.de/ (Firecrawl, links da home)",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.dugena.de/de/historie (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dugena.de/de/damenuhren (Firecrawl; fotos oficiais)",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.dugena.de/de/damenuhren?p=2 (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dugena.de/de/herrenuhren (Firecrawl; fotos oficiais)",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.dugena.de/de/kinderuhren/alle-kinderuhren (Firecrawl)",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://everywatch.com/dugena (Firecrawl; captcha)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/vintage-uhren/dugena-4-bezahlbare-vintage-uhren",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.analogshift.com/collections/dugena-sold/products/dugena-2-register-chronograph-as03402",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/another-atypical-addition-to-muycollection-the-rare-1970-dugena-ref-3000-valjoux-72-chronograph.149880/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://professionalwatches.com/field-report-dugena-1970s-racing-carrera/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/dugena-deepstar-tt01262.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/dugena-panda-dial-chronograph-as04305.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeline.watch/watch/1975-dugena-world-chronograph-cal-12-ref-3207/?cat=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hant/l/104772055-dugena-automatic-849029-11042-1970-1979",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/dugena/watch-32257417",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/dugena-yema-daytona-yachting-chronograph-panda-valjoux-7733.134866/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/dugena-reverse-panda-chronograph-vj7733-650.159001/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://omegaforums.net/threads/show-me-your-dugenas.122113/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-dugena-monza-chronograph-valjoux-cal-7733",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/21020459-dugena-pilot-chronograph---",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/dugena-monza-chronograph-195-cal-valjoux-7734.532363/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/19092845-dugena-chronographe-pilote---",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fellows.co.uk/bidding/1513-watches-409/125-dugena-a-gentlemans-monza-chronograph-wrist-watch-with-a-gentlemans-bracelet-watch-108964",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/101352464-dugena-monza-men-1973",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auction.catawiki.com/kavels/23457483-dugena-monza-chronomatic-chronograph-new-old-stock-cal-eta-7750-men-1970-1979",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/dugena-lot-342-41",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/dugena-lot-354-65",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/new-entries/dugena-vintage-diver-chronograph-stainless-steel-valjoux-7736-bj-1970-10256.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/20140122",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/dugena-lot-354-63",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/dugena-chronograph-valjoux-pvd-top-gun.595917/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/dugena",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/20692572-dugena-chronographe-pilote---",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/dugena-tresor-automatik",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/dugena-premium-dessau-quadra-und-festa-quadra",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/uhren-bis-1-000-euro/dugena-premium-epsilon-automatik",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mitka.co.uk/2022/03/14/the-stealth-german-swiss-premium-watch-brand/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.dugena.de/de/damenuhren/dugena-x-nadine-berneis (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dugena.de/de/herrenuhren/premium-mechanik (Firecrawl)",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bawue.museum-digital.de/pdf/object/58036.pdf?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://rheinland.museum-digital.de/pdf/object/23239.pdf?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gebraucht-kaufen.de/dugena",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.ebay.de/itm/157199731410",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1880209958",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105202574-dugena-automatic-no-reserve-price-men-1970-1979",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchspace.co.uk/2009/03/12/deutsche-uhremacher-genossenschaft-alpina/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchspace.co.uk/2010/09/03/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fifthwrist.com/ebony-and-ivory/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alamy.com/2JY558Y",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.discounto.de/Angebot/Dugena-Damenuhr-1626331-9856800/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://preisvergleich.check24.de/ul/hersteller/dugena/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.testbericht.de/produkte/dugena-4167821",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.loupe.watch/prices/dugena",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/156936267741",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yopi.de/prd_5419259",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/235957165754",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dugena.de/de/herrenuhren/nach-stil-shoppen/vintage (Firecrawl)",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dugena.de/de/herrenuhren/hochzeitsuhren (Firecrawl)",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.dugena.de/de/herrenuhren/sportliche-uhren (Firecrawl)",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/1459787/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/1539894/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.hk/l/38593293-dugena-geneve-chronograph-kaliber-lemania-1340-um-1970s",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/22192035",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/vintage-dugena-precision-carga-manual-997.523211/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/245611-dugena-unknown",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ranfft.org/caliber/2564-Dugena-2122",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1328720158",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/20042965203",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1226662370",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/17020374243",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/693134955",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/21050746757",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/23066031712",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1105096286",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/dugena/index.htm (Firecrawl)",
+   "passada": 3,
+   "novos": 24
+  },
+  {
+   "url": "https://www.chrono24.de/dugena/index-2.htm (Firecrawl)",
+   "passada": 3,
+   "novos": 17
+  },
+  {
+   "url": "https://www.chrono24.de/dugena/index-3.htm (Firecrawl)",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/dugena/ (Firecrawl)",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://picclick.de/?q=dugena+uhr+vintage (Firecrawl, 403)",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1305656314",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/106053164-dugena-1955",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flume.de/en/special-items/watches-and-pocket-watches/dugena-premium-quartz-ladies-watch/335264",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/164987990517",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/dugena/index.htm?sortorder=5 (Firecrawl)",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/196757517478",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/21713183",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cousinsuk.com/category/dugena",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "C: fundada em Eisenach (1917); sede em Berlim (1927), Darmstadt (1948/49) e hoje Meisenheim (Nova Tempora, 2009) – 'Berlim/Colônia' não confere. J: 'Traditional' e 'Dugena 1917' não encontrados como coleções."
+}
