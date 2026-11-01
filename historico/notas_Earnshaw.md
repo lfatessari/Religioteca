@@ -8,3 +8,5 @@
 - conteenium page/2 (link tirado da página) deu PROVENANCE_REQUIRED: não repetir.
 - WWR: modelos citados 1805 Grand Calendar, Beagle automatic, Meteorite, Maskelyne, Longcase. eBay: Sandy Point ES-8219, Maudslay ES-8209 (sem código completo) → buscar.
 - Manual de instruções oficial lista ~240 famílias (familias.txt). 95 famílias sem nenhum relógio ainda (ver lista no log). Marca será VERMELHA (centenas de cores por família; páginas 4,5,7,11,12,16,17,19,22,26-29,33,35-38,40-42 do types?q=watches não apareceram em buscas).
+- 1ª passada ENCERRADA (22:17): 3 fontes seguidas sem novidade (watchesyoucanafford, czaszegarkow, timepiece Greenock). ~791 relógios.
+- 2ª passada: buscar o que deixa vermelha — páginas restantes de listas (UK/EU oficiais, lojas com catálogo antigo), famílias do manual sem relógio.
