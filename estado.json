@@ -6140,7 +6140,7 @@
   "pausada": "2026-11-01: site oficial bloqueia leitura (robots) e Firecrawl sem créditos; retomar com Firecrawl (ver notas). | 01/11 18:50 UTC: Firecrawl ainda sem créditos (renova ~13:45 UTC de 02/11); novas buscas não acharam nada fora do site. Mantida pausada; execução pulou para Duxot (433). | Próxima execução: tentar o Firecrawl (créditos renovam ~13:45 UTC de 02/11); se ainda sem créditos, pular para a linha proxima_linha_marcas (como em 01/11 19h) e manter esta pausa."
  },
  "em_execucao": "2026-11-01T19:42:03Z",
- "ultimo_sinal": "2026-11-01T19:47:43Z",
+ "ultimo_sinal": "2026-11-01T19:56:55Z",
  "em_andamento_bateria": {
   "marcas": [
    "Duzu Watches",
