@@ -6104,27 +6104,41 @@
   "avisos": {
     "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
   },
+  "em_execucao": "2026-11-01T18:41:52Z",
+  "ultimo_sinal": "2026-11-01T18:43:23Z",
+  "pausadas": {
+    "Dürmeister": {
+      "marcas": [
+        "Dürmeister"
+      ],
+      "linha_marcas": 432,
+      "grande": true,
+      "relogios": "historico/parcial_Durmeister_relogios.txt",
+      "fontes": "historico/parcial_Durmeister_fontes.txt",
+      "notas": "historico/notas_Durmeister.md",
+      "secoes_feitas": [
+        "1",
+        "2",
+        "2c",
+        "3",
+        "4",
+        "8",
+        "9"
+      ],
+      "passada": 1,
+      "pausada": "2026-11-01: site oficial bloqueia leitura (robots) e Firecrawl sem créditos; retomar com Firecrawl (ver notas). | 01/11 18:50 UTC: Firecrawl ainda sem créditos (renova ~13:45 UTC de 02/11); novas buscas não acharam nada fora do site. Mantida pausada; execução pulou para Duxot (433)."
+    }
+  },
   "em_andamento": {
     "marcas": [
-      "Dürmeister"
+      "Duxot"
     ],
-    "linha_marcas": 432,
+    "linha_marcas": 433,
     "grande": true,
-    "relogios": "historico/parcial_Durmeister_relogios.txt",
-    "fontes": "historico/parcial_Durmeister_fontes.txt",
-    "notas": "historico/notas_Durmeister.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "8",
-      "9"
-    ],
-    "passada": 1,
-    "pausada": "2026-11-01: site oficial bloqueia leitura (robots) e Firecrawl sem créditos; retomar com Firecrawl (ver notas)."
-  },
-  "em_execucao": "2026-11-01T18:41:52Z",
-  "ultimo_sinal": "2026-11-01T18:41:52Z"
+    "relogios": "historico/parcial_Duxot_relogios.txt",
+    "fontes": "historico/parcial_Duxot_fontes.txt",
+    "notas": "historico/notas_Duxot.md",
+    "secoes_feitas": [],
+    "passada": 1
+  }
 }
