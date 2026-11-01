@@ -13,3 +13,6 @@ Aoraki Flieger/Milspec/Recce/Vector/Zulu(catálogo); Kruger A black, A FL, B bla
 - Peregrine 2024 (V2, ~300 pç): A preto (DKN-11 foto LIW), A FL (DKN-13), DLC A FL (DKN-15), B preto (545 foto), B FL branco, DLC B FL. Peregrine original 2017/2018 44 mm aço/DLC.
 - Kruger V2 (2025): 24 iterações; A/B x preto/FL x Ti/DLC + Auto. Kruger DLC 'A' FL é produto oculto (?p=26391). Foto DKN-04: longislandwatch.com/cdn/shop/files/DKN-04-01__93520.1775234623.1280.1280.jpg
 - Agulhas (chrono na caixa Benguela) e conceito UTC = só propostas (não entram). Kalahari SE citado.
+- Tugela 1ª série (2016-17): preto, bordô, azul (azul: 2017/02/Tugela-Blue-brown-strap-photo.jpg; último sorteado nov/2018). Tugela 2.0 (pré-venda nov/2018). Tugela 2023 ("Double Drab"): Black, Red.
+- Kalahari 2018: preto em aço jateado; full lume (areia) em PVD preto. Fotos 2018/05/Black-dial.jpg e Full-lume-dial.jpg
+- Peregrine 2017 (44 mm, 9130): jateado ou DLC; preto ou full lume. Foto timebum blogspot final+29
