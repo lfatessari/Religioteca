@@ -15,3 +15,6 @@ Firecrawl sem créditos.
 - KLM The Flying Dutchman (KLM 80 anos) chronograph KL80YRS/CC numerado (barnebys; horlogeforum foto); collectorsplaza: KLM 629/750 pilots chronograph
 - Fundada em 1994 (JETfly 2002). Air Racing Chronograph foto jetfly archivum.
 - ChronosOnline (10): Airliner Chronograph DWC 323-67; Starflight SF 423-65; Flight Instrument DC-3 Modell No 4 DC 223-65; Boeing-Chronograph 747 B323-76; Boeing 777 B 223-65; Airliner long-range ALR 323-67; Air Racing Chronograph AR 323-67; P-51 Mustang NAA 223-57; Messerschmitt Bf 109 ME 223-65; Flight-Chronograph DC-3 DC 323-67
+- Swiss-Air Fliegeruhr Typ 31 motivo Mustang P51, nº 124, "25 St." (invaluable foto) -> provavelmente Swissair Type 31 Mustang
+- DC-3 Classic Air cronógrafo automático 39,5mm preto (auctionet foto)
+- dufeau.com: redirecionamento em loop https->http (WebFetch). site_bloqueado.
