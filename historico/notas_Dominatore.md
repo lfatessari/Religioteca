@@ -14,3 +14,4 @@ Decisão: VERMELHO — collections/all tem 10 págs (~230 itens), só págs 1 e 
 ## Passada 2: alvo = coleções não abertas + páginas all?page=N + lojas novas
 Passada 2 encerrada: coleções Tropea/Amalfi/Fano/Ravello/Camogli/Acqua Sicura conferidas completas. Faltam: Maestrale pág.2 (~3), Bandiera/Aviatore quartz e Viaggio chrono sem página de coleção.
 Imagens extras (passada 2, só fotos): dd-8001-11, dd-8002-44, dd-8000-44(falhou), dd-8004-22, dd-8003-55, dd-8014-44, dd-8011-11, dd-8008-44, dd-8009-03
+Padrão Q conferido: 5/5 previsões batem (8021-22, 8024-02, 8016-22, 8009-22, 8027-02) + 15 anteriores.
