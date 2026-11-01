@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 431,
- "ultima_versao": 368,
+ "proxima_linha_marcas": 432,
+ "ultima_versao": 369,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6072,6 +6072,19 @@
    "fontes": 137,
    "grande": true,
    "obs": "Marca não vende mais relógios (dunhill.com sem relógios). Pesquisa por leilões (Fellows, Antiquorum, Bonhams, Sotheby's, Bolaffi), 1stDibs, lojas de usados (Delray, Right Time, Analog Shift, Ogden, japonesas) e imprensa (Europa Star, SCMP, Openers, JCK, Moodie). eBay só por títulos (eBay.de bloqueou). EveryWatch/WatchPatrol não abriram; Firecrawl sem créditos. Passadas: 111/15/11 fontes."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 369,
+   "marca": "Dunlaing",
+   "linha_marcas": 431,
+   "linhas_relogios": "66977-66979",
+   "relogios": 3,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "fontes": 15,
+   "grande": false,
+   "obs": "Catálogo fechado: só o Eyre em 3 cores (site oficial = WatchGecko = Oracle of Time). Bateria só com Dunlaing porque Dürmeister (432) tem configurador online (até 200.000 variações) → tratada como grande, fica sozinha na próxima. Duxot (433) também parece grande (DX-20xx-xx, dezenas de modelos com várias cores). Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
