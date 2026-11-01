@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 432,
- "ultima_versao": 369,
+ "proxima_linha_marcas": 437,
+ "ultima_versao": 371,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6085,6 +6085,42 @@
    "fontes": 15,
    "grande": false,
    "obs": "Catálogo fechado: só o Eyre em 3 cores (site oficial = WatchGecko = Oracle of Time). Bateria só com Dunlaing porque Dürmeister (432) tem configurador online (até 200.000 variações) → tratada como grande, fica sozinha na próxima. Duxot (433) também parece grande (DX-20xx-xx, dezenas de modelos com várias cores). Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 370,
+   "marca": "Duxot",
+   "linha_marcas": 433,
+   "linhas_relogios": "66980-67349",
+   "relogios": 370,
+   "vermelho": true,
+   "site_bloqueado": "Parcial – produtos despublicados dão 404",
+   "fontes": 81,
+   "grande": true,
+   "obs": "Feita fora da ordem porque Dürmeister (432) ficou pausada. Site oficial duxotwatches.com (G diz duxot.com). Catálogo DX-2001…DX-2088 (manual oficial lista ~55 famílias); 204 com foto (padrão oficial <código>-Q.png, Jamtangan, Ashford, Conteenium etc.), o resto com link da página. Passadas 49/20/12 fontes. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-01",
+   "marca": "Duzu Watches",
+   "linha_marcas": 434,
+   "linhas_relogios": "67350-67372",
+   "relogios": 23,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 34,
+   "versao": 371
+  },
+  {
+   "data": "2026-11-01",
+   "marca": "Dwiss",
+   "linha_marcas": 436,
+   "linhas_relogios": "67373-67445",
+   "relogios": 73,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 50,
+   "grande": true,
+   "versao": 371
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -6102,6 +6138,41 @@
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- }
+  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+  "Dürmeister (linha 432)": "PAUSADA sem gravar: site duermeister.de bloqueia leitura e o Firecrawl estava sem créditos em 01/11. Retomar pelos arquivos historico/*Durmeister* quando o Firecrawl tiver créditos. Duxot (433) foi feita antes dela (v370).",
+  "DWATCH (linha 435)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371)."
+ },
+ "em_andamento": {
+  "marcas": [
+   "Dürmeister"
+  ],
+  "linha_marcas": 432,
+  "grande": true,
+  "relogios": "historico/parcial_Durmeister_relogios.txt",
+  "fontes": "historico/parcial_Durmeister_fontes.txt",
+  "notas": "historico/notas_Durmeister.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c",
+   "3",
+   "4",
+   "8",
+   "9"
+  ],
+  "passada": 1,
+  "pausada": "2026-11-01: site oficial bloqueia leitura (robots) e Firecrawl sem créditos; retomar com Firecrawl (ver notas). | 01/11 18:50 UTC: Firecrawl ainda sem créditos (renova ~13:45 UTC de 02/11); novas buscas não acharam nada fora do site. Mantida pausada; execução pulou para Duxot (433). | Próxima execução: tentar o Firecrawl (créditos renovam ~13:45 UTC de 02/11); se ainda sem créditos, pular para a linha proxima_linha_marcas (como em 01/11 19h) e manter esta pausa. | 01/11 20h: Firecrawl ainda sem créditos; execução fez Duzu Watches (434) e Dwiss (436), DWATCH (435) também pausada."
+ },
+ "marcas_pendentes": [
+  {
+   "marca": "Dürmeister",
+   "linha_marcas": 432,
+   "notas": "historico/notas_Durmeister.md"
+  },
+  {
+   "marca": "DWATCH",
+   "linha_marcas": 435,
+   "notas": "historico/notas_DWATCH.md"
+  }
+ ]
 }
