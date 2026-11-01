@@ -6238,7 +6238,7 @@
     }
   ],
   "em_execucao": "2026-11-01T23:42:25Z",
-  "ultimo_sinal": "2026-11-01T23:42:25Z",
+  "ultimo_sinal": "2026-11-01T23:47:25Z",
   "em_andamento_ebel": {
     "marcas": [
       "Ebel"
@@ -6248,7 +6248,9 @@
     "relogios": "historico/parcial_Ebel_relogios.txt",
     "fontes": "historico/parcial_Ebel_fontes.txt",
     "notas": "historico/notas_Ebel.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
