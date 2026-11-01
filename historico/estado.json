@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 413,
- "ultima_versao": 354,
+ "proxima_linha_marcas": 416,
+ "ultima_versao": 355,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5841,6 +5841,42 @@
    "site_bloqueado": "",
    "fontes": 16,
    "obs": "Pulse-Watch preto e opalino (350 peças), Origine e Rescue (anunciados 2026, sem foto). Linha da aba Marcas quase vazia: dados na coluna M."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 355,
+   "marca": "Doppelganger",
+   "linha_marcas": 413,
+   "linhas_relogios": "65023-65032",
+   "relogios": 10,
+   "vermelho": false,
+   "site_bloqueado": "Site bloqueado – doppelgaenger.com robots",
+   "fontes": 17,
+   "obs": "Marca austríaca (Salzburg), não italiana: NGC-42 em aço, titânio preto e ouro. + 7 relógios da DOPPELGANGER japonesa (bicicletas, Beads Co.), homônima, sinalizados em E."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 355,
+   "marca": "Döttling",
+   "linha_marcas": 414,
+   "linhas_relogios": "",
+   "relogios": 0,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "fontes": 3,
+   "obs": "Não é marca de relógios (cofres e watch winders). Nenhuma linha em Relógios; só observação em M414 (passo separado conferido por snapshot)."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 355,
+   "marca": "Doughboy Watch Company",
+   "linha_marcas": 415,
+   "linhas_relogios": "65033-65048",
+   "relogios": 16,
+   "vermelho": false,
+   "site_bloqueado": "Site bloqueado – doughboywatchco.com fora do ar",
+   "fontes": 23,
+   "obs": "Conversões de relógios de bolso antigos em trench watches (peças únicas). Gravada como não grande/não vermelha por esgotamento de fontes (marca extinta); certamente houve outras peças não documentadas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

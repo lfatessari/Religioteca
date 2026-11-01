@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 413,
- "ultima_versao": 354,
+ "proxima_linha_marcas": 416,
+ "ultima_versao": 355,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5841,6 +5841,42 @@
    "site_bloqueado": "",
    "fontes": 16,
    "obs": "Pulse-Watch preto e opalino (350 peças), Origine e Rescue (anunciados 2026, sem foto). Linha da aba Marcas quase vazia: dados na coluna M."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 355,
+   "marca": "Doppelganger",
+   "linha_marcas": 413,
+   "linhas_relogios": "65023-65032",
+   "relogios": 10,
+   "vermelho": false,
+   "site_bloqueado": "Site bloqueado – doppelgaenger.com robots",
+   "fontes": 17,
+   "obs": "Marca austríaca (Salzburg), não italiana: NGC-42 em aço, titânio preto e ouro. + 7 relógios da DOPPELGANGER japonesa (bicicletas, Beads Co.), homônima, sinalizados em E."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 355,
+   "marca": "Döttling",
+   "linha_marcas": 414,
+   "linhas_relogios": "",
+   "relogios": 0,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "fontes": 3,
+   "obs": "Não é marca de relógios (cofres e watch winders). Nenhuma linha em Relógios; só observação em M414 (passo separado conferido por snapshot)."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 355,
+   "marca": "Doughboy Watch Company",
+   "linha_marcas": 415,
+   "linhas_relogios": "65033-65048",
+   "relogios": 16,
+   "vermelho": false,
+   "site_bloqueado": "Site bloqueado – doughboywatchco.com fora do ar",
+   "fontes": 23,
+   "obs": "Conversões de relógios de bolso antigos em trench watches (peças únicas). Gravada como não grande/não vermelha por esgotamento de fontes (marca extinta); certamente houve outras peças não documentadas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5859,29 +5895,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-11-01T02:41:59Z",
- "ultimo_sinal": "2026-11-01T02:49:50Z",
- "em_andamento": {
-  "marcas": [
-   "Doppelganger",
-   "Döttling",
-   "Doughboy Watch Company"
-  ],
-  "linha_marcas": 413,
-  "grande": true,
-  "relogios": "historico/parcial_Doughboy_relogios.txt",
-  "fontes": "historico/parcial_Doughboy_fontes.txt",
-  "notas": "historico/notas_Doughboy.md",
-  "secoes_feitas": [
-   "Doppelganger:todas",
-   "Dottling:todas",
-   "Doughboy:1,2,3,9"
-  ],
-  "passada": 1,
-  "feitas": {
-   "Doppelganger": "historico/parcial_Doppelganger_*",
-   "Döttling": "historico/notas_Dottling.md (sem relógios; só M)"
-  }
  }
 }

@@ -5,3 +5,7 @@
 - Fundadores (Inquirer 2015): Tom Lovelund (fotógrafo) e Adam Feld; fundada em 2012 (W&W diz início de 2013); oficina em Kensington; restauração por Andy Tempalski (Neighborhood Watch Repair). 6–8 relógios/mês em 2015; US$ 450–8.000. Vendia também na Amazon.
 - Falharam: masterhorologer, theamericanclassic tag, theawesomer, watchuseek, pinterest (robots).
 - Logo: https://static.wixstatic.com/media/029063_88d4aceff05644329165f2c6a5d7367b.png (portfólio hirosoga)
+- + Zenith (The Coolector 2013, nome do arquivo).
+- Buscas sem resultado novo: reddit, worthpoint, chrono24, ebay, instagram/facebook, fundadores, nomes das peças, Rolex/JLC/Breitling. Falharam também: ebay.de/itm/306535791732, watchuseek (2 tópicos), pinterest.
+- DECISÃO (desvio registrado): pela regra, peças únicas => grande (25 fontes) e vermelho (2ª passada de 10). Mas a marca está extinta (~2012–2016), o site doughboywatchco.com não aparece em busca e o universo de fontes se esgotou (~12 páginas relevantes no total). Gravada como NÃO grande e NÃO vermelha para não encher a lista com fontes irrelevantes; relatar que certamente existiram muitas outras peças (6–8/mês) não documentadas, e registrar em L/M.
+- Auto-auditoria 10b: blog/imprensa (site fora) n/a; §2c n/a (site não indexado); primeiro modelo: não identificado; I/J (field watches, movimentos japoneses/quartzo) NÃO batem — relatar; peças únicas marcadas em E.
