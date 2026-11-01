@@ -5861,7 +5861,7 @@
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
  },
  "em_execucao": "2026-11-01T02:41:59Z",
- "ultimo_sinal": "2026-11-01T02:46:15Z",
+ "ultimo_sinal": "2026-11-01T02:48:26Z",
  "em_andamento": {
   "marcas": [
    "Doppelganger",
@@ -5869,13 +5869,19 @@
    "Doughboy Watch Company"
   ],
   "linha_marcas": 413,
-  "grande": false,
-  "relogios": "historico/parcial_Doppelganger_relogios.txt",
-  "fontes": "historico/parcial_Doppelganger_fontes.txt",
-  "notas": "historico/notas_Doppelganger.md",
+  "grande": true,
+  "relogios": "historico/parcial_Doughboy_relogios.txt",
+  "fontes": "historico/parcial_Doughboy_fontes.txt",
+  "notas": "historico/notas_Doughboy.md",
   "secoes_feitas": [
-   "Doppelganger:todas"
+   "Doppelganger:todas",
+   "Dottling:todas",
+   "Doughboy:1,2,3"
   ],
-  "passada": 1
+  "passada": 1,
+  "feitas": {
+   "Doppelganger": "historico/parcial_Doppelganger_*",
+   "Döttling": "historico/notas_Dottling.md (sem relógios; só M)"
+  }
  }
 }
