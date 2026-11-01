@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 417,
- "ultima_versao": 356,
+ "proxima_linha_marcas": 418,
+ "ultima_versao": 357,
  "historico": [
   {
    "data": "2026-10-16",
@@ -5890,6 +5890,19 @@
    "fontes": 144,
    "grande": true,
    "obs": "Marca grande, feita sozinha. Vermelha: linhas de moda/dress (Trofeo, D-Light, D-Lux, Executive, Ethno, Neo, Slim Line, Splash...) com centenas de refs e vintage com centenas de refs; 3 passadas (102/15/27 fontes). Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-01",
+   "versao": 357,
+   "marca": "Draken",
+   "linha_marcas": 417,
+   "linhas_relogios": "65295-65339",
+   "relogios": 45,
+   "vermelho": false,
+   "site_bloqueado": "",
+   "fontes": 77,
+   "grande": false,
+   "obs": "Feita sozinha: a seguinte (Dreyfuss & Co., 418) foi tratada como grande e fica sozinha na próxima execução. Firecrawl sem créditos. Usa nomes (SKUs da loja na coluna E)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -5908,26 +5921,5 @@
  },
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá."
- },
- "em_execucao": "2026-11-01T04:42:08Z",
- "ultimo_sinal": "2026-11-01T04:57:16Z",
- "em_andamento": {
-  "marcas": [
-   "Draken"
-  ],
-  "linha_marcas": 417,
-  "grande": false,
-  "relogios": "historico/parcial_Draken_relogios.txt",
-  "fontes": "historico/parcial_Draken_fontes.txt",
-  "notas": "historico/notas_Draken.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3p",
-   "7p",
-   "9p"
-  ],
-  "passada": 1
  }
 }
