@@ -30,3 +30,11 @@
 - P2: wholesale-portal trouxe 23 SKUs (Chrono-Rush x5, V1-Class Chainmail/Nato x10, V1-Cubic x5, V1-Gent). Nomes de arquivo das fotos (cdn.gethypervisual) vieram do resumo; não deu para conferir (proxy).
 - P2 encerrada (05:03): 13 fontes, ~28 novos; últimas 4 sem modelo novo. Começa P3 (>=10 fontes): Colorado, Eve, Icon, Seventy, Chrono-Gen, Ryder, Evarii kits, Hunter, Shade antigos.
 - P3 encerrada (05:07): 13 fontes, 2 novos (<5) => parar. Faltam: cores de Colorado/Eve/Dali V2/Seventy/Ryder/Chrono-Gen/Poseidon/Evarii (vermelho).
+## 10b auto-auditoria
+1. Blog: 7 posts da 1ª página (sem modelos); blog/fashion review Quantus V2 lido; páginas 2-5 do blog não abertas (posts políticos/institucionais). Imprensa: aBlogtoWatch, TDR, WristwatchReview, timetransformed, thecoolector, wahsoshiok lidos.
+2. §2c: 10+ buscas site:egardwatches.com/products com termos variados até repetirem.
+3. Lojas: Jomashop, Ashford, Walmart, JTV, Accuratime, Newegg, PasteurPharmacy, Woot, Faire, eBay — feitas por busca.
+4. Primeiro modelo: Shade (2012, segundo WristwatchReview) e Hunter Blue (2013 "debut" p/ TDR) — ambos incluídos.
+5. Aba Marcas J: Passages ok, Quantus ok; Wason, Overland, Elara NÃO encontrados (prováveis erros). Fundador em I errado.
+6. Edições limitadas/colaborações na B; peças únicas: Icon protótipo (E começa com "Peça única.").
+7. ~112 fontes abertas (P1 87, P2 13, P3 12).
