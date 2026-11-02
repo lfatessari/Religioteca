@@ -9,3 +9,4 @@
 - Marca VERMELHA: milhares de referências (AR0xxx, AR1xxx, AR2xxx, AR5xxx, AR6xxx, AR11xxx, AR60xxx, AR70xxx, AR80xxxSET, ARS, ART), maioria antiga sem foto; armani.com ?page=2 bloqueado.
 - 2ª passada: foco em linhas antigas (Meccanico AR4xxx, Ceramica AR14xx, Sportivo AR5xxx, AR0xxx anos 90-2000), smartwatches ART, Swiss Made ARS, conjuntos AR80xxxSET, produtos ocultos do armani.com (site:armani.com cod-AR).
 - Modelos vistos só em títulos de resultados de busca entram com o link da página e nota na coluna E (não contam como fonte).
+- 2ª passada encerrada com 13 fontes (~51 relógios novos) → 3ª passada obrigatória (mín. 10 fontes novas): Japão feminino, smartwatches, Meccanico, conjuntos, revendedores de outros países.
