@@ -1,0 +1,427 @@
+{
+ "marca": "Ennebi",
+ "usa_codigos": true,
+ "logo": "https://www.ennebi.eu/wp-content/uploads/2015/10/nb.png",
+ "site_bloqueado": "Parcial – ennebi.eu: páginas de modelos com erro de servidor intermitente e sem fotos; catálogo antigo (ennebiwatch.com) fora do ar; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G errado: site oficial é ennebi.eu (ennebi.it não aparece em busca). C errado: sede em Prato (fundada em Chianti, perto de Florença), não Roma. I: fundada em fev/2004 por Alessandro Bettarini (ex-Panerai) e Luciano Nincheri — Ennebi = N+B; primeiro modelo Fondale (2004). J: Rassegna e Metauro não encontrados; 'Bronzo' é material; linhas reais: Fondale, Fondale 44, Fondale Toscana, Fondale Vintage, Mictofo, Decima Mas, IX Reggimento, 5218-MM, Tetrao, Seimila Metri, Venti GMT.",
+ "fontes": [
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/ennebi/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://delraywatch.com/ennebi/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.de/shop/ennebi",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ablogtowatch.com/ennebi-fondale-vintage-base-california-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/ennebi-fondale-44-marino-bronze.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.loupe.watch/prices/ennebi/ennebi-fondale-toscana",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://swisswatch.com.my/products/ennebi-fondale-toscana-bronzo-9663-le-preowned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/page-c.collection.detail/ennebi-fondale-9680-9680/ti-941483/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchprosite.com/page-c.collection.detail/ennebi-neptune-ennebi-neptune/ti-1700841/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/ennebi-watchprosite-edition-new-arrival-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/ennebi-strumento-wps2021-anniversary-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/home/thread/17.1478751.14042031/0/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/267124244977",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.the1916company.com/videos/ennebi-fondale-model-9650-luxury-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/ennebi.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/collectors-market/comment/712.807823.5441578/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.watchlounge.com/watch-lounge/andere-marken/134433-ennebi-bronze-special-edition-die-details/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologium.com.au/2012/09/20/the-new-le-ennebi-fondale-44/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://toshi-straps.co.uk/ennebi-fondale/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.9maiali.com/product-category-ennebi/?curr=usd",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://timetoblogwatches.com/2024/08/08/watch-review-ennebi-fondale/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/278118320247",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ennebi.eu/en/history/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ennebi.eu/en/category/watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ennebi.eu/en/venti-en/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ennebi.eu/en/ix-reggimento-en/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ennebi.eu/en/fondale-toscana-en/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.9maiali.com/post-ennebi/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/what-does-it-take-to-be-handmade-the-story-of-an-italian-atelier",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dannytam.com/watches/index.php/tag/vintage-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dannytam.com/watches/index.php/2011/05/09/introducing-the-ennebi-fondale-vintage-collection/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dannytam.com/watches/index.php/tag/ennebi-fondale/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/ennebi/watch-18925",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gioielleriadantecardini.it/en/ponte-vecchio-jewelry-shop/ennebi-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://militarewatch.com/ennebi/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/156859812910",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ennebi.eu/en/firenze-2016-en/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-fondale-vintage-9682-44mm-1000m-titanium-swiss-automatic-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forums.timezone.com/index.php?rid=0&t=msg&th=2304706",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ennebi.eu/en/fondale-galea-en/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ennebi.eu/en/fondale-en/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.orologiepassioni.com/listini/ennebi.pdf",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://ennebinewseng.wordpress.com/titanic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ennebinewseng.wordpress.com/category/new-watches/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://ennebinewseng.wordpress.com/feed/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/shop/ennebi-watch?_nkw=ennebi+watch",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.ca/sch/i.html?_nkw=ennebi+watch&_dcat=31387",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-fondale-9601-titanium-47mm-limited-edition-30-pieces-swiss-unitas-1000m/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-fondale-one-20-9706-bronzo-limited-edition-destro-blue-47mm-20-pieces-3/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-fondale-bronzo-limited-edition-17-pieces-bronze-44mm-blue-sandwich-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-fondale-9665-oriuolo-bronzo-limited-edition-01-33-swiss-movement-bronze/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-fondale-9682-44mm-milli-metri-bronzo-1000m-diver-swiss-automatic-bronze/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ennebitalia.forumfree.it/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://ennebinewsita.wordpress.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ennebi.eu/en/author/watchmaker/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/mario-paci-smz-black-pvd-limited-edition-rare-001-swiss-movement-made-by-ennebi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ennebitalia.forumfree.it/?f=64349748&st=30",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ennebitalia.forumfree.it/?t=69068326",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/vintage-breitling-chronograph-cadette-swiss-venus-cal-188-manual-wind-circa-1955-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpursuit.com/brand/ennebi/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/watch-listing?brand=ennebi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ennebinewseng.wordpress.com/2008/04/30/an-incredible-occasion-for-all-collectors-titanic-5218-mm/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ennebinewseng.wordpress.com/2007/11/30/waterproof-in-extreme-conditions/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://errei.es/en/ri-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://militarewatch.com/product/ennebi-ri-walrus/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timetoblogwatches.com/2023/12/10/watch-review-carlson-icon/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lionseek.com/watches/brand/ennebi/f-s-ennebi-tetrao-36407",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.9maiali.com/product-category-sold/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-mictofo-deccenale-destro-bronzo-limited-edition-60-pieces-automatic-46mm/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchrecon.com/?brand=ennebi",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/256501717418",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ennebi.eu/en/bufo-en/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "http://montre24.com/brand/Ennebi/Ennebiwatch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.watchlounge.com/index.php?thread%2F66023-ennebi-watches%2F=",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ennebinewsita.wordpress.com/category/nuovi-orologi/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.maurobandinelli.it/collezione/orologi/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://ennebitalia.forumfree.it/?t=73033801",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thesutorhouse.com/product/ennebi-seimila-metri-9712-titanium-6000m-diver-49mm-60-piece-limited-edition/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.maurobandinelli.it/en/watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://militarewatch.com/product-category/watches/ennebi/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ennebi.eu/en/6k-en/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.9maiali.com/product-ennebi-seimila-600-ref.9712-black-dial-49mm-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://maurobandinelli.it/orologi-ennebi",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
