@@ -6,3 +6,4 @@
 - Jura history: 1932 relógios para Cartier; 1939 RAF; 1964 Luna Etoile (Prix Premier suíço) – não achado anúncio; 1914 relógio-anel patenteado (Wikipedia) – não achado.
 - Out/2026: consórcio Montres Journe + Chanel + Pierre Jacques comprou 95% da Ebel da Movado (US$66,5 mi) — para coluna M.
 - Catálogos PDF oficiais: nenhum encontrado em busca.
+- 00:11 UTC: 1ª passada encerrada por limite prático (cada fonte ainda traz ~5 refs; linha enorme com centenas de variações de mostrador). Marca será VERMELHA. 2ª passada: coleções da Essential Watches que faltam, EveryWatch por família, lojas US (Gray & Sons, Right Time), vintage.
