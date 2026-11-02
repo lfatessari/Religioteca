@@ -7,3 +7,4 @@
 - 13270 = Sithon GMT quartzo (LIW + manuall); eBay chama 13270 de Minos (errado). Minos oficial: 83821 (838xx?).
 - 77001 = Monumentum Calendar (manuall).
 - Passada 1 encerrada 13h08 UTC (últimas abertas: 0,1,0 + muitas que não abrem). Vermelha: centenas de refs (femininos, linha atual sem códigos). Passada 2: femininos, Ocean Pro/GMT/Ascend/Balios códigos, Edition Jochen Mass (pistas), Graf Berghe von Trips Memorial/Taffy, vintage.
+- 'Elysee Paris' Oman Khanjar (anúncios) = outra marca, não entrou.
