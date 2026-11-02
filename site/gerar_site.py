@@ -18,6 +18,7 @@ import openpyxl
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from comum import chave, limpar_url, limpo  # noqa: E402
+from linhas import agrupar, chave_ordem, resto_do_nome  # noqa: E402
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 LIMITE_LOTE = 900_000  # bytes por arquivo de dados
@@ -172,6 +173,24 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
         empacotar(marcas, pasta_fotos, saida)
         usadas.clear()
 
+    # galeria organizada por linha (modelo), como nos sites das marcas
+    for m in marcas:
+        rel = m["relogios"]
+        m["linhas"] = []
+        if not rel:
+            continue
+        tit = agrupar([r[0] for r in rel], m["marca"])
+        ordem = sorted(range(len(rel)), key=lambda i: (chave_ordem(tit[i]), i))
+        novos = []
+        for i in ordem:
+            nome, foto, desc, fonte = rel[i]
+            curto = resto_do_nome(nome, tit[i])
+            novos.append([curto, foto, desc, fonte] + ([nome] if curto != nome else []))
+            if not m["linhas"] or m["linhas"][-1][0] != tit[i]:
+                m["linhas"].append([tit[i], 0])
+            m["linhas"][-1][1] += 1
+        m["relogios"] = novos
+
     # lotes de fichas
     os.makedirs(os.path.join(saida, "dados"), exist_ok=True)
     for f in os.listdir(os.path.join(saida, "dados")):
@@ -188,7 +207,7 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
 
     indice = []
     for m in marcas:
-        ficha = {k: m[k] for k in ("hist", "aviso", "principais", "site", "insta", "preco", "relogios")}
+        ficha = {k: m[k] for k in ("hist", "aviso", "principais", "site", "insta", "preco", "relogios", "linhas")}
         t = len(json.dumps(ficha, ensure_ascii=False).encode())
         if tam and tam + t > LIMITE_LOTE:
             grava()

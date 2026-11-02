@@ -148,7 +148,14 @@ header{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:rg
 .galeria-topo .rubrica{margin:0 0 6px;width:100%}
 .galeria-topo h4{font-family:var(--titulo);font-weight:400;font-size:27px;margin:0;line-height:1.1}
 .galeria-topo h4 span{font-family:var(--corpo);font-size:13px;color:var(--ouro-fosco);font-variant-numeric:tabular-nums;margin-left:6px}
-.busca-int{position:relative;margin-bottom:16px}
+.busca-int{position:relative;margin-bottom:14px}
+.linhas-nav{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px;max-height:148px;overflow-y:auto;padding-bottom:2px}
+.linhas-nav .chip{font-size:12.5px;padding:4px 11px}
+.linhas-nav .chip span{color:var(--ouro-fosco);font-size:11px;margin-left:6px;font-variant-numeric:tabular-nums}
+.linha{margin-top:26px}
+.linha:first-child{margin-top:14px}
+.linha-titulo{font-family:var(--titulo);font-weight:400;font-size:22px;line-height:1.15;margin:0 0 12px;padding-bottom:8px;border-bottom:1px solid var(--linha);display:flex;align-items:baseline;gap:8px;overflow-wrap:anywhere}
+.linha-titulo span{font-family:var(--corpo);font-size:12px;color:var(--ouro-fosco);font-variant-numeric:tabular-nums}
 .galeria{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px}
 .relogio{display:flex;flex-direction:column;gap:9px;min-width:0;color:var(--texto)}
 .relogio:hover{text-decoration:none}
@@ -703,34 +710,69 @@ function preencher(m,d){
   painel.innerHTML = d.relogios.length?`
       <div class="galeria-topo"><p class="rubrica">${esc(m.marca)}</p><h4>Galeria de modelos<span>${fmt(d.relogios.length)}</span></h4></div>
       ${d.relogios.length>12?`<div class="busca-int"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="busca-modelo" type="search" placeholder="Buscar modelo ou referência" aria-label="Buscar modelo ou referência"></div>`:""}
-      <div class="galeria" id="galeria"></div>
+      <div class="linhas-nav" id="linhas-nav" hidden></div>
+      <div id="galeria"></div>
       <div class="mais-int"><button class="botao" id="mais-rel" type="button" hidden>Mostrar mais modelos</button></div>
       <p class="nota-fotos">Toque num relógio para ver a página de onde veio a foto. Para pedir a retirada de uma imagem, fale com <a href="https://www.instagram.com/relogioteca/" target="_blank" rel="noopener">@relogioteca</a>.</p>`
     :`<div class="galeria-vazia">${insignia(m,220)}<div class="sem-galeria">A galeria de modelos desta marca ainda está sendo levantada. Ela aparece aqui assim que a pesquisa chegar a esta marca.</div></div>`;
   ativarImgs(corpo); ativarImgs(painel);
   if(!d.relogios.length) return;
-  let lim=24, q="";
-  const gal=painel.querySelector("#galeria"), maisRel=painel.querySelector("#mais-rel");
+  /* linha de cada relógio (os relógios já vêm em ordem de linha) */
+  const linhas = (d.linhas&&d.linhas.length) ? d.linhas : [["", d.relogios.length]];
+  const daLinha = []; linhas.forEach(([t,n],li)=>{ for(let x=0;x<n;x++) daLinha.push(li); });
+  const comTitulos = linhas.length>1 || linhas[0][0];
+  let lim=36, q="", sel=-1;
+  const gal=painel.querySelector("#galeria"), maisRel=painel.querySelector("#mais-rel"), nav=painel.querySelector("#linhas-nav");
+  if(comTitulos && linhas.length>1){
+    nav.hidden=false;
+    nav.innerHTML = `<button class="chip" type="button" data-li="-1" aria-pressed="true">Todas as linhas</button>`+
+      linhas.map(([t,n],li)=>`<button class="chip" type="button" data-li="${li}" aria-pressed="false">${esc(t||"Sem linha")}<span>${fmt(n)}</span></button>`).join("");
+    nav.addEventListener("click",e=>{
+      const b=e.target.closest("[data-li]"); if(!b) return;
+      sel=+b.dataset.li; lim=36;
+      nav.querySelectorAll("[data-li]").forEach(c=>c.setAttribute("aria-pressed", c===b));
+      desenhar();
+      gal.scrollIntoView({block:"start", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"});
+    });
+  }
   const desenhar=()=>{
-    const lista = q ? d.relogios.filter(r=>norm(r[0]+" "+r[2]).includes(q)) : d.relogios;
-    gal.innerHTML = lista.slice(0,lim).map(cartao).join("") || `<p class="carregando">Nenhum modelo com esse nome.</p>`;
-    maisRel.hidden = lista.length<=lim;
+    const idx=[];
+    d.relogios.forEach((r,i)=>{
+      if(sel>=0 && daLinha[i]!==sel) return;
+      if(q && !norm(linhas[daLinha[i]][0]+" "+r[0]+" "+(r[4]||"")+" "+r[2]).includes(q)) return;
+      idx.push(i);
+    });
+    let html="", aberta=-1, grade="";
+    const fecha=()=>{ if(aberta>=0) html+=`<div class="galeria">${grade}</div></section>`; grade=""; };
+    for(const i of idx.slice(0,lim)){
+      const li=daLinha[i];
+      if(li!==aberta){
+        fecha(); aberta=li;
+        const [t,n]=linhas[li];
+        const nVis = idx.filter(x=>daLinha[x]===li).length;
+        html+=`<section class="linha">${comTitulos?`<h5 class="linha-titulo">${esc(t||"Sem linha")}<span>${fmt(q?nVis:n)}</span></h5>`:""}`;
+      }
+      grade+=cartao(d.relogios[i]);
+    }
+    fecha();
+    gal.innerHTML = html || `<p class="carregando">Nenhum modelo com esse nome.</p>`;
+    maisRel.hidden = idx.length<=lim;
     ativarImgs(gal);
   };
-  maisRel.addEventListener("click",()=>{lim+=24;desenhar();});
+  maisRel.addEventListener("click",()=>{lim+=36;desenhar();});
   const bm=painel.querySelector("#busca-modelo");
-  if(bm) bm.addEventListener("input",e=>{q=norm(e.target.value.trim());lim=24;desenhar();});
+  if(bm) bm.addEventListener("input",e=>{q=norm(e.target.value.trim());lim=36;desenhar();});
   desenhar();
 }
 const SILHUETA = `<svg width="38" height="54" viewBox="0 0 38 54" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true"><rect x="10" y="1" width="18" height="11" rx="2"/><rect x="10" y="42" width="18" height="11" rx="2"/><circle cx="19" cy="27" r="15"/><path d="M19 27V18M19 27l6 3"/></svg>`;
 const host = u => { try { return new URL(u).hostname.replace(/^www\./,""); } catch(e){ return ""; } };
 function cartao(r){
-  const [nome,foto,desc,fonte]=r;
+  const [nome,foto,desc,fonte,completo]=r;
   const h = host(fonte);
   const vazio = `<div class="sem">${SILHUETA}<span>${fonte?"Foto na fonte ↗":"Sem foto registrada"}</span></div>`;
   const tagFoto = !foto ? "" : foto[0]==="#" ? `<img data-p="${esc(foto)}" alt="${esc(nome)}">` : `<img src="${esc(foto)}" alt="${esc(nome)}" loading="lazy">`;
   const inner = `<div class="foto">${tagFoto}${vazio}</div>
-    <div class="nome-m">${esc(nome)}</div>${desc?`<div class="desc">${esc(desc)}</div>`:""}${foto&&h?`<div class="credito">Foto: ${esc(h)}</div>`:""}`;
+    <div class="nome-m"${completo?` title="${esc(completo)}"`:""}>${esc(nome)}</div>${desc?`<div class="desc">${esc(desc)}</div>`:""}${foto&&h?`<div class="credito">Foto: ${esc(h)}</div>`:""}`;
   return fonte ? `<a class="relogio" href="${esc(fonte)}" target="_blank" rel="noopener">${inner}</a>` : `<div class="relogio">${inner}</div>`;
 }
 
