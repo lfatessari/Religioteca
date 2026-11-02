@@ -12,3 +12,4 @@ Tourbillon Springfield: ECW 1 PGT (ouro rosa), ECW 1 WGT (ouro branco), titânio
 Skymaster Aviator: carbono+aço DLC 44x54, 3 mostradores (preto carbono; versão laranja/rosa/branco na Europa Star = "new models 2012").
 RS 38: ouro rosa 42mm, cal. E.RS-38, foto masterhorologer.
 Falham (client_error): masterhorologer lady tuxedo, lady's moon, majesty chrono, skymaster new models, royal skeleton.
+Falharam: ebay.com/itm/186604826682, ebay.de 136469488420, 286635350008, watchpatrol 2149178/3137537 (client_error). EveryWatch watch-13069775 é relógio de bolso antigo para o mercado turco (não da marca moderna).
