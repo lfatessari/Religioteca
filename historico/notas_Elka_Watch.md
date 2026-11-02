@@ -11,3 +11,9 @@ Arinis: AF02W-1001 preto s/ data; AF02 preto c/ data; AF03W-1002 Loch Lat (âmba
 36mm: N preto/bege (MN01/MN02?), S prata/azul, D36 prata/azul; MS01WO-1004 S x Loch Lat; MN03 (Div II oriental, 50), MN04 (Div II hebraico, 50).
 S-Series 40,8: S LE Loch Lat âmbar 25 pç (2024), S03WO-0807 preto ed. lim. 100.
 R Series Tour des Chavannes: Pierre d'Hauterive (bege), 1736 Edition (preto) 2026.
+- S Monochrome Editions 2025: Black e White, 40,8 e 36 mm, 100 pç (4 linhas). S03WO-0807 = provável Black 40,8 (ocarat "ed. lim. 100").
+- Europa Star jan/2025: S Series verde e bordeaux, 25 pç cada (fotos s02-0810 e s05-1003 -> S02 e S05).
+- X-16 = Diversity hebraico verde (Ace, 25). Collector's Box ELKAXBOX (4 relógios mesmos números).
+- N-Series Essence (Ace, 2026, masterhorologer não abre).
+- WebFetch PROVENANCE em ocarat /en/elka-x15w e oracleoftime microbrand corner (links de páginas abertas).
+- 1ª passada encerrada ~10:08 (3 seguidas sem novidade). Marca VERMELHA: site oficial lista 15+ X e ~20 Arinis; códigos X04-X08, X15, Arinis AF01/AF04, 36mm (MN01/02, MS, MD) não achados; site elkawatch.ch fora das buscas. 2ª passada: buscar esses.
