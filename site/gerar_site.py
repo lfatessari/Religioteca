@@ -18,7 +18,7 @@ import openpyxl
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from comum import chave, limpar_url, limpo  # noqa: E402
-from linhas import agrupar, chave_ordem, resto_do_nome  # noqa: E402
+from linhas import agrupar, chave_ordem  # noqa: E402
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 LIMITE_LOTE = 900_000  # bytes por arquivo de dados
@@ -183,9 +183,7 @@ def main(planilha, saida, pasta_fotos=None, completo=False, pacotes=False):
         ordem = sorted(range(len(rel)), key=lambda i: (chave_ordem(tit[i]), i))
         novos = []
         for i in ordem:
-            nome, foto, desc, fonte = rel[i]
-            curto = resto_do_nome(nome, tit[i])
-            novos.append([curto, foto, desc, fonte] + ([nome] if curto != nome else []))
+            novos.append(rel[i])   # nome completo, com a linha (pedido do usuário)
             if not m["linhas"] or m["linhas"][-1][0] != tit[i]:
                 m["linhas"].append([tit[i], 0])
             m["linhas"][-1][1] += 1
