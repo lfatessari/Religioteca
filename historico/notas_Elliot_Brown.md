@@ -4,3 +4,5 @@
 - Firecrawl sem créditos (renova ~13:45 UTC).
 - Feito: 1, 2 (parcial), 3 (parcial).
 - Falta: coleções individuais via busca (canford-automatic 303-A6x, compressor/super compressor, land rover, holton-professional), Tyneham 305-D01..D05/305-001/004, Broadstone 505, Beachmaster 0H0-625, Wild Geese, EBSP, RNLI, Clipper; lojas; usados; imprensa.
+- Vivir.com lista "OSO" (OSO_R, 40 mm, Ronda 715Li) e "Holton 101-A11-R01 12hr" sem confirmação em outra fonte: NÃO entraram (relatar).
+- Seções feitas: 1, 2, 2c (buscas site:/products kimmeridge/bloxworth/canford/holton/beachmaster/special edition), 3 parcial, 9 parcial.
