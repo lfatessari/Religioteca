@@ -8,3 +8,7 @@
 - Firecrawl sem créditos (renova ~13:45 UTC).
 ## Seções feitas: 1, 2 (parcial), 3 (parcial), 7 (parcial), 9 (parcial)
 ## Falta: páginas de produto do site oficial (buscar cada uma), hyi-watch, momo, PChome LYXKKE, pro-watches, Pinterest, Ruten/Shopee, eBay, 2c, 4, 5, 6, 8, 10.
+## 08:10 — 67 fontes
+- História: fundador M.K. Cheng; empresa-mãe 傑本尼氏 (1997); marca elegantsis lançada em 1999 (site /about; keedan.com). Nada de "ArtTime" (I da aba Marcas errada).
+- Fontes bloqueadas: masterhorologer, orologichepassione (robots), watchuseek, watchpaper, microbrand.store, watchmark-store, japaness, amazon.com.au, carousell, watchpatrol, ebay.de, pro-watches (vazio).
+- Falta: páginas oficiais restantes (41,51,45,23,55,37,52,26,21,64,75,73,70,78,94,90,79,87,61,95,74,85,98,118,104,114,115,122,123,129,132,141,142,145,147,151,154-175,102,106), momo, Mobile01 JSK, Ruten, 2ª passada.
