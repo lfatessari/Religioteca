@@ -5,3 +5,14 @@
 - Variações de luneta/diamantes e cor de pulseira: não viram linhas.
 - Pistas para buscar: Elements Earth (review aBlogtoWatch dez/2022, não está no products.json), Datejust 41 modificado (2020), mostradores para Rolex, mostradores sob encomenda (Botticelli Vênus, Van Gogh Noite Estrelada), "Kingdom" outros animais?, primeiro relógio.
 - Seções feitas: 1, 2 (products.json)
+- Fundação: Alex Landa, Toronto (Canadá), vendas desde jan/2017 (Harmony = 1ª coleção, 10 desenhos × 10 peças). Empresa Landmark W.C.C. (Watch Corporation of Canada). Aba Marcas B/C/G/H vazios.
+- Kingdom 2018: 38,8×10,2 mm aço 316L, Soprod A10, 50 m; US$ 7.600 / 10.450 (luneta diamantes) / 11.200.
+- Harmony: edição limitada de 10 peças por desenho; US$ 6.000/9.000 (diamantes), Soprod.
+- Sprezzatura: 38,8×10,2 mm, Soprod Luxe Execution 25 rubis, 50 m.
+- Bespoke: 27 peças da galeria + Datejust 41 (5 desenhos 2020) + Elements Earth. Orçamento bespoke US$ 8–12 mil.
+- Seções feitas: 1, 2, 2c, 9 (aBlogtoWatch todos os 8 artigos, Oracle of Time 2, WatchProSite)
+- Kingdom: edição limitada de 10 peças por desenho (press release 2018, 2ª coleção). Harmony idem (10×10), lançada jan/2017.
+- Venda só direta (how-to-purchase): sem revendedores → §7 impossível; sem anúncios de usados encontrados (Chrono24/eBay/EveryWatch/WatchBase nada).
+- Neptune: foto oracleoftime Ematelier-13-Rolex-Neptune-watch.jpg (usar).
+- Van Gogh também montado em JLC Reverso e Cartier Tank (aBlogtoWatch bespoke).
+- Seções feitas: 1, 2, 2c, 3, 5 (nada), 6 (nada), 7 (venda direta), 8 (nada), 9

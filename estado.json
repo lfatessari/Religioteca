@@ -6472,7 +6472,7 @@
     }
   ],
   "em_execucao": "2026-11-02T14:01:14Z",
-  "ultimo_sinal": "2026-11-02T14:05:54Z",
+  "ultimo_sinal": "2026-11-02T14:09:00Z",
   "em_andamento_2": {
     "marcas": [
       "Ematelier"
@@ -6485,7 +6485,13 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c"
+      "2c",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
     ],
     "passada": 1
   }
