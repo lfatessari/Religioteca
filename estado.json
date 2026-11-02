@@ -6485,7 +6485,7 @@
     }
   ],
   "em_execucao": "2026-11-02T15:23:42Z",
-  "ultimo_sinal": "2026-11-02T15:23:42Z",
+  "ultimo_sinal": "2026-11-02T15:28:23Z",
   "em_andamento_2": {
     "marcas": [
       "Emile Chouriet"
@@ -6495,7 +6495,12 @@
     "relogios": "historico/parcial_Emile_Chouriet_relogios.txt",
     "fontes": "historico/parcial_Emile_Chouriet_fontes.txt",
     "notas": "historico/notas_Emile_Chouriet.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "4",
+      "9"
+    ],
     "passada": 1
   }
 }
