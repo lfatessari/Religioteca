@@ -6395,7 +6395,7 @@
   }
  ],
  "em_execucao": "2026-11-02T07:45:38Z",
- "ultimo_sinal": "2026-11-02T07:45:38Z",
+ "ultimo_sinal": "2026-11-02T07:58:16Z",
  "bateria_atual": {
   "marcas": [
    "Elegantsis"
@@ -6405,7 +6405,9 @@
   "relogios": "historico/parcial_Elegantsis_relogios.txt",
   "fontes": "historico/parcial_Elegantsis_fontes.txt",
   "notas": "historico/notas_Elegantsis.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
