@@ -4,3 +4,6 @@ usa_codigos=false (vintage sem código como padrão).
 EveryWatch: bloqueado ("Only Collectors"). Firecrawl sem créditos.
 Seções feitas: 1
 Fontes: ver parcial_Elgin_fontes.txt
+- ubuy.com.eg: client_error
+- A Wikipedia: A-11 (Elgin modelo 1783, calibre 539, 1943); MIL-W-6433A (1956-62, Bulova e Elgin). Buscar foto do MIL-W-6433A.
+- Nomes a buscar: Lord Elgin Dunbar, Lord Elgin Diver C.356, Lady Elgin, Elgin Shockmaster, Durapower, Golden Shadow?, Elgin Electronic, Swissonic(ok), Elgin Sportsman, Elgin Chronograph 7452, Black Knight, Golden Knight, Avigo (bolso), Father Time (bolso), Veritas(ok), B.W. Raymond(ok), 50 milionésimo (1950s), golfball direct-reading, Lord Elgin direct reading.
