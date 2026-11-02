@@ -6433,7 +6433,7 @@
   }
  ],
  "em_execucao": "2026-11-02T10:42:48Z",
- "ultimo_sinal": "2026-11-02T10:42:48Z",
+ "ultimo_sinal": "2026-11-02T10:45:56Z",
  "em_andamento_2": {
   "marcas": [
    "Ellicott"
@@ -6443,7 +6443,12 @@
   "relogios": "historico/parcial_Ellicott_relogios.txt",
   "fontes": "historico/parcial_Ellicott_fontes.txt",
   "notas": "historico/notas_Ellicott.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "3",
+   "5",
+   "9"
+  ],
   "passada": 1
  }
 }
