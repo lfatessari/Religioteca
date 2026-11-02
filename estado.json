@@ -6555,7 +6555,7 @@
   }
  ],
  "em_execucao": "2026-11-02T19:42:17Z",
- "ultimo_sinal": "2026-11-02T19:42:17Z",
+ "ultimo_sinal": "2026-11-02T19:46:55Z",
  "em_andamento_2": {
   "marcas": [
    "Enicar"
@@ -6565,7 +6565,9 @@
   "relogios": "historico/parcial_Enicar_relogios.txt",
   "fontes": "historico/parcial_Enicar_fontes.txt",
   "notas": "historico/notas_Enicar.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
