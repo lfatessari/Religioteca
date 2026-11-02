@@ -3,3 +3,6 @@
 - História do site: Düsseldorf desde 1960 (aba Marcas diz Colônia). Grupo: elyseegroup.de.
 - Logo: https://elysee1960.com/cdn/shop/files/ELYSEE-1960-LOGO-WHT.png?v=1784800479 (branco)
 - Firecrawl sem créditos (12h45 UTC).
+- manuall.de e notice-facile não abrem (client_error); 34 refs tiradas dos títulos das buscas (C = link da página). Trocar foto se achar depois.
+- 13270 = Sithon GMT quartzo (LIW + manuall); eBay chama 13270 de Minos (errado). Minos oficial: 83821 (838xx?).
+- 77001 = Monumentum Calendar (manuall).
