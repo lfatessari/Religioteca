@@ -12,3 +12,4 @@
 - História: fundador M.K. Cheng; empresa-mãe 傑本尼氏 (1997); marca elegantsis lançada em 1999 (site /about; keedan.com). Nada de "ArtTime" (I da aba Marcas errada).
 - Fontes bloqueadas: masterhorologer, orologichepassione (robots), watchuseek, watchpaper, microbrand.store, watchmark-store, japaness, amazon.com.au, carousell, watchpatrol, ebay.de, pro-watches (vazio).
 - Falta: páginas oficiais restantes (41,51,45,23,55,37,52,26,21,64,75,73,70,78,94,90,79,87,61,95,74,85,98,118,104,114,115,122,123,129,132,141,142,145,147,151,154-175,102,106), momo, Mobile01 JSK, Ruten, 2ª passada.
+## 08:12 — 1ª passada encerrada (85 fontes; últimas 4 sem novidade). Marca VERMELHA: centenas de variações JT/JF sem página indexada (JT46, JT35N, JT61/66, JT17/18, JT41, JF48A, JF48N, JT47, JT55A, JT75A...), Dragon Unit 1.0 e S-2T 1.0 sem dados. Começa a 2ª passada.
