@@ -3,3 +3,6 @@ Usa códigos? NÃO (vintage identificado por nome/linha; refs raras) -> usa_codi
 Histórico (grail-watch wiki): marca de 1904 (fábrica Montbrillant), família Braunschweig, La Chaux-de-Fonds; raízes 1848 (data imprecisa — aba Marcas diz 1878: divergência); falência 1931 → Nouvelle Election; sub-marcas Electron, Selection, Grand Prix, Vymo, Desport; renomeada Douest SA em 1987.
 Nomes citados no wiki: Grand Prix, Supermatic 41, Tropical Special, Electrovar, Gold Hood, Everlast, Timelight, Connoisseur, Evergreen, Ocean King, Everbest, Super-Electron, Carrier, Electrion, Superdate de Luxe.
 WatchPatrol listings: client_error. Firecrawl sem créditos (renova ~13:45 UTC).
+Relojes Especiales (thread 87316): nome registrado 1901 (L. Braunschweig); fábrica 1850; Nouvelle Fabrique Election SA 1932; André Margot diretor 1953-65; Longines usou cal. 875 como L490. Marcas: Astra, Bundh, Castor, DSC, Eden, FLB, La Victoire, Mentor, VYMO. Calibres 805, 875, 510, 645.
+OmegaForums: comprada pela Marvin em 1950 (não documentado), Superdate Deluxe possivelmente último modelo.
+Aba Marcas: fundação 1878 (fontes dizem 1850 fábrica / 1901 nome / 1904 lançamento) -> divergência p/ coluna M.
