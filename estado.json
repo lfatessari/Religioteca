@@ -6446,7 +6446,7 @@
   }
  ],
  "em_execucao": "2026-11-02T11:42:25Z",
- "ultimo_sinal": "2026-11-02T11:47:54Z",
+ "ultimo_sinal": "2026-11-02T11:50:56Z",
  "em_andamento_2": {
   "marcas": [
    "Elliot Brown"
@@ -6457,7 +6457,8 @@
   "fontes": "historico/parcial_Elliot_Brown_fontes.txt",
   "notas": "historico/notas_Elliot_Brown.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2"
   ],
   "passada": 1
  }
