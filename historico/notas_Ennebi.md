@@ -8,3 +8,4 @@ Buracos: refs Fondale 9650..9690?
 - Coluna C Marcas "Roma": errado (Prato/Florença). Instagram H @ennebi_officine a verificar.
 - ennebi.eu: fondale-44, customization, dealers deram SERVER_ERROR (tentar de novo).
 - blogspot (oceanictime, watchkzy): loop de redirecionamento http/https, não abriu.
+- 1ª passada encerrada após 3 fontes seguidas sem novidade (Sutor Kairos, watchpursuit, everywatch). VERMELHA: 137 referências em 20 anos (site oficial), ~85 achadas. 2ª passada: R&I, Sutor restante, eBay itens, lojas IT, Tetrao/Bufo/Salmo, Mario Paci.
