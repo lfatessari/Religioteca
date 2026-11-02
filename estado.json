@@ -6313,7 +6313,7 @@
     }
   ],
   "em_execucao": "2026-11-02T02:42:08Z",
-  "ultimo_sinal": "2026-11-02T02:42:08Z",
+  "ultimo_sinal": "2026-11-02T02:53:39Z",
   "bateria_atual": {
     "marcas": [
       "Edox"
@@ -6326,7 +6326,9 @@
     "relogios": "historico/parcial_Edox_relogios.txt",
     "fontes": "historico/parcial_Edox_fontes.txt",
     "notas": "historico/notas_Edox.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
