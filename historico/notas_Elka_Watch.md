@@ -17,3 +17,4 @@ R Series Tour des Chavannes: Pierre d'Hauterive (bege), 1736 Edition (preto) 202
 - N-Series Essence (Ace, 2026, masterhorologer não abre).
 - WebFetch PROVENANCE em ocarat /en/elka-x15w e oracleoftime microbrand corner (links de páginas abertas).
 - 1ª passada encerrada ~10:08 (3 seguidas sem novidade). Marca VERMELHA: site oficial lista 15+ X e ~20 Arinis; códigos X04-X08, X15, Arinis AF01/AF04, 36mm (MN01/02, MS, MD) não achados; site elkawatch.ch fora das buscas. 2ª passada: buscar esses.
+- 10:10 2ª passada: busca 'extended' trouxe o site oficial elkawatch.ch (coleções X/D/Arinis/S/N/36) e catálogo PDF E-2025-1 (heyzine). Decisão: 1 linha por referência completa (como o site). Fotos: produtos sem imagem na leitura -> usar lojas (watchaser, watchdna, mrwatchief) ou link da página.
