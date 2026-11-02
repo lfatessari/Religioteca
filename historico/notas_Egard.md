@@ -15,3 +15,7 @@
 - Evarii = coleção personalizável da Egard (firmenpresse; egardwatches.com/products/customwatch) -> incluída; configurador => vermelho provável.
 - 04:5x: site oficial ABRE (Shopify)! URLs aparecem só em WebSearch mode extended. Usar busca extended para trazer /products/ e /collections/. Coleções: luxury-watches, mens-luxury-watches, necklaces, bracelets, apparel, accessories.
 - gb.egardwatches.com bloqueado por robots (products/, collections/mens-watches). Catálogo atual do site: só 16 relógios; o resto escondido.
+- §2c: subdomínios ie/ca/au/gb/no.egardwatches.com = robots_disallowed; www/products ocultos = client_error (404). Entram com título da busca + link (ou foto loox/eBay).
+- Peças do Builder (Evarii): mostradores (Classima Black Automatic Dial, Renegade Black Dial), lunetas, pulseiras — NÃO viram linha (são peças).
+- Bundles (Dali His & Hers) não viram linha.
+- Loja Egard também vendia outras marcas (Oceanaut, Christian Van Sant) — excluídas. 'Oceana - Silver' = provável Evarii Oceana. V1-Class AUTO Black = mesma do Black leather.
