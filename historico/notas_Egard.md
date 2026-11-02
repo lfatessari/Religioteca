@@ -28,3 +28,4 @@
 - VERMELHA: linhas V1/V2 (Class, Chrono-Gen, Ryder, Poseidon, Gent, Viking, Cubic), Colorado, Eve, Phantom, Dali V2, Icon, Seventy, Evarii (configurador Builder) com muitas cores não listadas; produtos ocultos sem página legível (subdomínios robots).
 - 2ª passada: buscar cores de Colorado/Eve/Phantom/Dali/Icon/Ryder/Chrono-Gen/Poseidon/V1-Class/Cubic/Viking/Seventy; Hunter/Shade/Adoro antigos; Evarii starter kits; Chronobeast; Rush.
 - P2: wholesale-portal trouxe 23 SKUs (Chrono-Rush x5, V1-Class Chainmail/Nato x10, V1-Cubic x5, V1-Gent). Nomes de arquivo das fotos (cdn.gethypervisual) vieram do resumo; não deu para conferir (proxy).
+- P2 encerrada (05:03): 13 fontes, ~28 novos; últimas 4 sem modelo novo. Começa P3 (>=10 fontes): Colorado, Eve, Icon, Seventy, Chrono-Gen, Ryder, Evarii kits, Hunter, Shade antigos.
