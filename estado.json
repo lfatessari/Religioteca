@@ -6330,7 +6330,8 @@
   "Dürmeister (linha 432)": "PAUSADA sem gravar: site duermeister.de bloqueia leitura e o Firecrawl estava sem créditos em 01/11. Retomar pelos arquivos historico/*Durmeister* quando o Firecrawl tiver créditos. Duxot (433) foi feita antes dela (v370).",
   "DWATCH (linha 435)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371).",
   "Egotempo (linha 449)": "PAUSADA sem gravar (02/11/2026): marca de Bolonha, parece encerrada (\"ex Egotempo\"); só 2 modelos achados (Ego no Logo 2017, Ambidestro 2019) e 7 fontes abertas (mínimo 15). Site egotempo.it não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_Egotempo.md.",
-  "EHF Horlogere (linha 450)": "PAUSADA sem gravar (02/11/2026): marca de Le Locle (2011), só o Mk Zero (2012) achado, 4 fontes abertas. Site ehf-horlogere.ch não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_EHF.md."
+  "EHF Horlogere (linha 450)": "PAUSADA sem gravar (02/11/2026): marca de Le Locle (2011), só o Mk Zero (2012) achado, 4 fontes abertas. Site ehf-horlogere.ch não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_EHF.md.",
+  "El Charro (linha 452)": "PAUSADA sem gravar (02/11/2026): marca de moda italiana (cintos/couro, licença Next Way Srl); nenhum site de relógios; só 3 anúncios \"Charro\" (CH70, Savonette 9806_ch) sem confirmação de serem da El Charro; 5 fontes abertas (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_El_Charro.md."
  },
  "em_andamento": {
   "marcas": [
@@ -6373,20 +6374,27 @@
    "marca": "EHF Horlogere",
    "linha_marcas": 450,
    "notas": "historico/notas_EHF.md"
+  },
+  {
+   "marca": "El Charro",
+   "linha_marcas": 452,
+   "notas": "historico/notas_El_Charro.md"
   }
  ],
  "em_execucao": "2026-11-02T06:42:45Z",
- "ultimo_sinal": "2026-11-02T06:42:45Z",
+ "ultimo_sinal": "2026-11-02T06:44:23Z",
  "bateria_atual": {
   "marcas": [
-   "El Charro"
+   "Election"
   ],
-  "linha_marcas": 452,
-  "grande": false,
-  "relogios": "historico/parcial_El_Charro_relogios.txt",
-  "fontes": "historico/parcial_El_Charro_fontes.txt",
-  "notas": "historico/notas_El_Charro.md",
-  "secoes_feitas": [],
+  "linha_marcas": 453,
+  "grande": true,
+  "relogios": "historico/parcial_Election_relogios.txt",
+  "fontes": "historico/parcial_Election_fontes.txt",
+  "notas": "historico/notas_Election.md",
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
