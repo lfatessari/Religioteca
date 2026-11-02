@@ -6612,7 +6612,7 @@
   }
  ],
  "em_execucao": "2026-11-02T22:42:04Z",
- "ultimo_sinal": "2026-11-02T22:45:55Z",
+ "ultimo_sinal": "2026-11-02T22:47:05Z",
  "em_andamento_2": {
   "marcas": [
    "Eone"
@@ -6623,7 +6623,8 @@
   "fontes": "historico/parcial_Eone_fontes.txt",
   "notas": "historico/notas_Eone.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2"
   ],
   "passada": 1
  }
