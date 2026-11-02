@@ -6277,7 +6277,7 @@
     }
   ],
   "em_execucao": "2026-11-02T01:42:18Z",
-  "ultimo_sinal": "2026-11-02T01:42:18Z",
+  "ultimo_sinal": "2026-11-02T01:57:33Z",
   "bateria_atual": {
     "marcas": [
       "Edmond",
@@ -6289,6 +6289,9 @@
       444,
       445
     ],
-    "inicio": "2026-11-02T01:42:18Z"
+    "inicio": "2026-11-02T01:42:18Z",
+    "feitas_prontas_para_gravar": [
+      "Edmond"
+    ]
   }
 }
