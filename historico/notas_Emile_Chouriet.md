@@ -8,3 +8,4 @@
 - Blue pulseira aço 08.1169.G.6.AW.98.6 (img Challenger-Deep-blue-2-front); Blue Round Index 08.1169.G.6.AW.93.6; Black aço 08.1169.G.6.AW.58.6; Black borracha 08.1169.G.6.AW.58.8; Orange borracha 08.1169.G.6.AW.F3.8; Blue Chronograph 22.1169.G.6.AW.99.6
 - Blue borracha: provavelmente .98.8 (não confirmado) → sem código
 - Challenger Deep Yellow 08.1169.G.6.AW.33.8 (Europa Star 2021); Lac Léman Classic Chronometer = 00.1168.G40.6.6.25.6 (Monochrome 2020) = Lac Léman COSC White.
+- Removidas linhas só-miniatura King/Prince/Gold Wings da Europa Star (cobertas pelas refs do MasterHorologer Royal Pearl e Gold Wings); 08.1138G substituída pelas refs 08.1138.G.A etc.
