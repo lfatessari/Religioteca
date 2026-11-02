@@ -8,3 +8,4 @@
 - 77001 = Monumentum Calendar (manuall).
 - Passada 1 encerrada 13h08 UTC (últimas abertas: 0,1,0 + muitas que não abrem). Vermelha: centenas de refs (femininos, linha atual sem códigos). Passada 2: femininos, Ocean Pro/GMT/Ascend/Balios códigos, Edition Jochen Mass (pistas), Graf Berghe von Trips Memorial/Taffy, vintage.
 - 'Elysee Paris' Oman Khanjar (anúncios) = outra marca, não entrou.
+- Passada 2 encerrada 13h10: 15 fontes abertas, 11 novos (>=5) -> passada 3.
