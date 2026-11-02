@@ -6338,7 +6338,7 @@
   }
  ],
  "em_execucao": "2026-11-02T04:42:20Z",
- "ultimo_sinal": "2026-11-02T04:42:20Z",
+ "ultimo_sinal": "2026-11-02T04:44:30Z",
  "bateria_atual": {
   "marcas": [
    "Egard"
@@ -6348,7 +6348,9 @@
   "relogios": "historico/parcial_Egard_relogios.txt",
   "fontes": "historico/parcial_Egard_fontes.txt",
   "notas": "historico/notas_Egard.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
