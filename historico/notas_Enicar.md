@@ -6,3 +6,4 @@
 - Seções feitas: 1, 3 (parcial), 5 (parcial), 7 (parcial)
 - 1ª passada encerrada com 90 fontes (últimas 4 sem novidade). Marca VERMELHA: centenas de referências vintage (Ultrasonic 100/xx, Ocean Pearl, Star Jewels) e catálogo moderno (China/Japão) sem fotos.
 - 2ª passada: buscar fotos/refs modernas (Tmall/Taobao/Rakuten/Amazon JP), catálogos PDF antigos, mais refs Ultrasonic/Ocean Pearl/Star Jewels, Chrono24 títulos.
+- 2ª passada encerrada (29 fontes, 3 últimas sem novidade). Trouxe >5 novos → 3ª passada.
