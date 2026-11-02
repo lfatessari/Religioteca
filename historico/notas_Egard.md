@@ -23,3 +23,4 @@
 - collections/all 178 itens, maioria joias/bonés; relógios atuais ~17 (todos já listados).
 - Civil (2016?): 20 modelos em 5 sub-coleções: Maris, Fortitude, Brigade, Shade, Renegade. Códigos CVL-MRS-BLK/ROS, CVL-RDE-NZE.
 - Woot plus egard: 30 ofertas (Civil 20 modelos: Fortitude/Shade/Maris/Renegade x4 cores + Vantage x3 + Quantus Steel; Passages Steel/Black/Beauté Blue/Rose/White; Hunter Black/Blue; Chronobeast Black/Rose/Blue). Navita Black = 'Open Heart Black IP' (removida dup).
+- St. Michael (Steel, Gold, V2 Steel, V2 Stealth): provavelmente pingentes (coleção Faith Based) — não entram; relatar.
