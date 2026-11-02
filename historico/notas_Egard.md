@@ -12,3 +12,4 @@
 - A verificar: Patriot 0250 é o quê? Open Heart LE125 (nome?). Phase 1 vs 2 Tourbillon.
 - Quantus V3 = calendário Tzolk'in (maia) no fundo, dupla roda de balanço, manual; LE 3000. Mayan Calendar não é outro modelo.
 - Gentleman Warfare (2016, Kickstarter) = mesmo time (Ilan Srulovicz); V-1 Gent depois vendido como Egard. Evarii: verificar se é Egard.
+- Evarii = coleção personalizável da Egard (firmenpresse; egardwatches.com/products/customwatch) -> incluída; configurador => vermelho provável.
