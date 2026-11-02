@@ -14,3 +14,4 @@
 - Gentleman Warfare (2016, Kickstarter) = mesmo time (Ilan Srulovicz); V-1 Gent depois vendido como Egard. Evarii: verificar se é Egard.
 - Evarii = coleção personalizável da Egard (firmenpresse; egardwatches.com/products/customwatch) -> incluída; configurador => vermelho provável.
 - 04:5x: site oficial ABRE (Shopify)! URLs aparecem só em WebSearch mode extended. Usar busca extended para trazer /products/ e /collections/. Coleções: luxury-watches, mens-luxury-watches, necklaces, bracelets, apparel, accessories.
+- gb.egardwatches.com bloqueado por robots (products/, collections/mens-watches). Catálogo atual do site: só 16 relógios; o resto escondido.
