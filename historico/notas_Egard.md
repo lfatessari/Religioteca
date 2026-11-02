@@ -21,3 +21,4 @@
 - Loja Egard também vendia outras marcas (Oceanaut, Christian Van Sant) — excluídas. 'Oceana - Silver' = provável Evarii Oceana. V1-Class AUTO Black = mesma do Black leather.
 - Linha Civil (CVL-): Renegade (4 cores x125), Fortitude, Brigade, Maris, Shade Civil. Renegade Black é inferência do arquivo CVL-RDE-NZE.
 - collections/all 178 itens, maioria joias/bonés; relógios atuais ~17 (todos já listados).
+- Civil (2016?): 20 modelos em 5 sub-coleções: Maris, Fortitude, Brigade, Shade, Renegade. Códigos CVL-MRS-BLK/ROS, CVL-RDE-NZE.
