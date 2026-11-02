@@ -24,3 +24,6 @@
 - Civil (2016?): 20 modelos em 5 sub-coleções: Maris, Fortitude, Brigade, Shade, Renegade. Códigos CVL-MRS-BLK/ROS, CVL-RDE-NZE.
 - Woot plus egard: 30 ofertas (Civil 20 modelos: Fortitude/Shade/Maris/Renegade x4 cores + Vantage x3 + Quantus Steel; Passages Steel/Black/Beauté Blue/Rose/White; Hunter Black/Blue; Chronobeast Black/Rose/Blue). Navita Black = 'Open Heart Black IP' (removida dup).
 - St. Michael (Steel, Gold, V2 Steel, V2 Stealth): provavelmente pingentes (coleção Faith Based) — não entram; relatar.
+- 1ª passada encerrada (05:00): 4 fontes seguidas sem novidade (collections/, ebay shop, watch.fan, ebay /b). ~102 fontes, 145 relógios.
+- VERMELHA: linhas V1/V2 (Class, Chrono-Gen, Ryder, Poseidon, Gent, Viking, Cubic), Colorado, Eve, Phantom, Dali V2, Icon, Seventy, Evarii (configurador Builder) com muitas cores não listadas; produtos ocultos sem página legível (subdomínios robots).
+- 2ª passada: buscar cores de Colorado/Eve/Phantom/Dali/Icon/Ryder/Chrono-Gen/Poseidon/V1-Class/Cubic/Viking/Seventy; Hunter/Shade/Adoro antigos; Evarii starter kits; Chronobeast; Rush.
