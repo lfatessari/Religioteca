@@ -6459,7 +6459,7 @@
   }
  ],
  "em_execucao": "2026-11-02T12:43:17Z",
- "ultimo_sinal": "2026-11-02T12:49:39Z",
+ "ultimo_sinal": "2026-11-02T12:57:38Z",
  "em_andamento_2": {
   "marcas": [
    "Elysee"
@@ -6471,7 +6471,10 @@
   "notas": "historico/notas_Elysee.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "7(LIW, keepthetime)",
+   "8(eBay)",
+   "9(parcial)"
   ],
   "passada": 1
  }
