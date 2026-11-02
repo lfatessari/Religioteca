@@ -6315,7 +6315,9 @@
  "avisos": {
   "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
   "Dürmeister (linha 432)": "PAUSADA sem gravar: site duermeister.de bloqueia leitura e o Firecrawl estava sem créditos em 01/11. Retomar pelos arquivos historico/*Durmeister* quando o Firecrawl tiver créditos. Duxot (433) foi feita antes dela (v370).",
-  "DWATCH (linha 435)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371)."
+  "DWATCH (linha 435)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371).",
+  "Egotempo (linha 449)": "PAUSADA sem gravar (02/11/2026): marca de Bolonha, parece encerrada (\"ex Egotempo\"); só 2 modelos achados (Ego no Logo 2017, Ambidestro 2019) e 7 fontes abertas (mínimo 15). Site egotempo.it não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_Egotempo.md.",
+  "EHF Horlogere (linha 450)": "PAUSADA sem gravar (02/11/2026): marca de Le Locle (2011), só o Mk Zero (2012) achado, 4 fontes abertas. Site ehf-horlogere.ch não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_EHF.md."
  },
  "em_andamento": {
   "marcas": [
@@ -6348,19 +6350,29 @@
    "marca": "DWATCH",
    "linha_marcas": 435,
    "notas": "historico/notas_DWATCH.md"
+  },
+  {
+   "marca": "Egotempo",
+   "linha_marcas": 449,
+   "notas": "historico/notas_Egotempo.md"
+  },
+  {
+   "marca": "EHF Horlogere",
+   "linha_marcas": 450,
+   "notas": "historico/notas_EHF.md"
   }
  ],
  "em_execucao": "2026-11-02T05:42:26Z",
- "ultimo_sinal": "2026-11-02T05:42:26Z",
+ "ultimo_sinal": "2026-11-02T05:46:44Z",
  "bateria_atual": {
   "marcas": [
-   "Egotempo"
+   "Eichmüller"
   ],
-  "linha_marcas": 449,
-  "grande": false,
-  "relogios": "historico/parcial_Egotempo_relogios.txt",
-  "fontes": "historico/parcial_Egotempo_fontes.txt",
-  "notas": "historico/notas_Egotempo.md",
+  "linha_marcas": 451,
+  "grande": true,
+  "relogios": "historico/parcial_Eichmuller_relogios.txt",
+  "fontes": "historico/parcial_Eichmuller_fontes.txt",
+  "notas": "historico/notas_Eichmuller.md",
   "secoes_feitas": [],
   "passada": 1
  }
