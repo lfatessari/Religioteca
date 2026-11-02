@@ -6459,7 +6459,7 @@
   }
  ],
  "em_execucao": "2026-11-02T12:43:17Z",
- "ultimo_sinal": "2026-11-02T12:43:17Z",
+ "ultimo_sinal": "2026-11-02T12:49:39Z",
  "em_andamento_2": {
   "marcas": [
    "Elysee"
@@ -6469,7 +6469,10 @@
   "relogios": "historico/parcial_Elysee_relogios.txt",
   "fontes": "historico/parcial_Elysee_fontes.txt",
   "notas": "historico/notas_Elysee.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
