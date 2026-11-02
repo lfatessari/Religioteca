@@ -9,3 +9,13 @@
 - Refs só em títulos de busca (Amazon): 385724029073 & 385701029073 (Kal.10.500), 385732129077 (10.320), 385724129054 (10.660), 389421029001 (Damen 10.690), 386727129009 (10.160)
 - 7daysin: 389521029003 e 389571029003 (Miyota, 51 mm, 14 mm, couro 24 mm, mostrador preto, índices verde-claro)
 - Bloqueados: time-line24, uhrens24, fashiola (robots), amazon (robots), mogani/otto (client_error), uhrerbe (redirect loop), ebook PDF (redirect loop). Firecrawl sem créditos até 03/11 13:43 UTC.
+- coolstov4all: 386722019030 Damen, 42 mm, 13 mm, borracha branca 24 mm, mostrador branco-pérola, cristais, 10 bar (foto images/product_images/info_images/386722019030_01.webp)
+- Fancery blog 2013: Keramik-Damenuhr Kal. 10.800 (cerâmica, madrepérola) — sem ref, sem foto direta
+- eBay bn_13749745: 385722028053 (aço, foto i.ebayimg.com/images/g/hNEAAeSwMwxqyDPg/s-l1200.webp)
+- 7 linhas de eBay "x itm" abertos sem ser Engelhardt (resultado ruim da busca)
+- Amazon títulos: 385732029068 (10.480), 344502229005 (Damen Chrono 10.470), 387727028014
+- Seções feitas: 1,2,3 parcial,7,8 parcial
+- eBay 332954621928: ENGELHARDT RETROGRADE YEAR (autom., sol/lua) foto i.ebayimg.com/images/g/p7YAAOSwLF1X3Yk-/s-l1600.jpg
+- Fim da 1ª passada (3+ fontes seguidas sem novidade). Bloqueios: amazon, time-line24, preisroboter, kaufland, watchpatrol (client_error).
+- 2ª passada: allwatches.org/en/engelhardt (9 páginas, ~160 relógios, fotos media/thumbs/..._220x220.jpg). Business Watch 3867-015 (masterhorologer 2010). eBay UK: Dual Time sun-moon (336067615667, foto vxcAAOSwieFfBjNI), Automatic Regulator dourado (168805815018, foto pt0AAeSwFK9q17rw).
+- allwatches: fotos grandes = media/watches/engelhardt/<slug>.jpg (sem thumbs e _220x220), confirmado em 3 fichas. Páginas 2,3,5,7,8,9 não alcançadas (não aparecem em busca; Firecrawl sem créditos) → próxima execução com Firecrawl.
