@@ -7,3 +7,8 @@
 - Primeiro: Shade (wristwatchreview diz "primeiro relógio"); Hunter Blue 2013 "debut" segundo TDR.
 - eBay: "Egard Patriot Classica graues Zifferblatt Damenuhr - WCH-5076-G0H341" (códigos WCH-xxxx?).
 - Secoes feitas: 1, 3 (parcial)
+- eBay gt brand page: 65 resultados; "Civil" = sublinha (Civil Maris, Civil Brigade, Civil Shade, Civil Negro?). Página 2 (5 itens) não alcançada.
+- Códigos de SKU: WCH-5072 Quantus V3, 5073 Dali F2, 5076 Patriot Classica, 5083 V1-Viking, 5095 King Ocean, 7470EGV2 Chrono-Gen. Marca usa códigos (WCH-...) nas lojas -> usa_codigos=false (site identifica por nome), códigos entram quando vistos.
+- A verificar: Patriot 0250 é o quê? Open Heart LE125 (nome?). Phase 1 vs 2 Tourbillon.
+- Quantus V3 = calendário Tzolk'in (maia) no fundo, dupla roda de balanço, manual; LE 3000. Mayan Calendar não é outro modelo.
+- Gentleman Warfare (2016, Kickstarter) = mesmo time (Ilan Srulovicz); V-1 Gent depois vendido como Egard. Evarii: verificar se é Egard.
