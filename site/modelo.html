@@ -206,10 +206,9 @@ header{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:rg
 <section class="home" id="home">
   <div class="env home-int">
     <div class="home-texto">
-      <p class="rubrica">Atlas Horológico</p>
-      <h1>As marcas de relógios do mundo, <em>cidade por cidade.</em></h1>
+      <p class="rubrica">Relogioteca</p>
+      <h1>O Maior Atlas Horológico do Mundo</h1>
       <p class="acervo" id="acervo"></p>
-      <p class="dica">Arraste para girar, use a roda do mouse, o gesto de pinça ou os botões + e − para aproximar até as cidades, e toque num ponto dourado para ver as marcas dali.</p>
     </div>
     <div class="globo-wrap" id="globo-wrap"><canvas id="globo" role="img" aria-label="Globo com as cidades de origem das marcas"></canvas>
       <div class="zoom"><button type="button" id="zoom-mais" aria-label="Aproximar">+</button><button type="button" id="zoom-menos" aria-label="Afastar">&minus;</button><button type="button" class="voltar" id="zoom-volta" hidden>Globo</button></div>
@@ -334,7 +333,7 @@ const onde = m => [m.cidade,m.pais].filter(Boolean).join(", ");
 /* Home */
 const totalRel = MARCAS.reduce((s,m)=>s+m.n,0), comFoto = MARCAS.filter(m=>m.n>0).length;
 const noGlobo = MARCAS.filter(m=>m.lat!=null);
-document.getElementById("acervo").innerHTML = `Um acervo de <b>${fmt(MARCAS.length)}</b> marcas de relógios, de manufaturas com dois séculos de bancada a ateliês de uma pessoa só. <b>${fmt(comFoto)}</b> delas já têm a galeria de modelos levantada, somando <b>${fmt(totalRel)}</b> relógios.`;
+document.getElementById("acervo").innerHTML = `Um acervo de <b>${fmt(MARCAS.length)}</b> marcas de relógios, de manufaturas com dois séculos de história, somando <b>${fmt(totalRel)}</b> relógios.`;
 
 /* pins: uma por cidade de origem */
 const PINS = Object.values(noGlobo.reduce((acc,m)=>{
