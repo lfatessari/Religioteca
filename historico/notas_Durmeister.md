@@ -14,3 +14,9 @@
 - PRÓXIMA EXECUÇÃO: usar Firecrawl em https://www.duermeister.de/ , /meisteruhren/ (listagem das Meisteruhren pré-desenhadas), /konfigurator/meine-uhr, /komponenten/, /manufaktur/, /aktuelles/duermeister-uhren-werden-ab-maerz-2017-in-3-fertigungsreihen-angeboten. , e os tópicos do uhrforum (279226, 257620) e WatchUSeek (3268258). Cada Meisteruhr = uma linha; o configurador deixa a marca VERMELHA (2ª passada obrigatória).
 - Se o Firecrawl continuar sem créditos na próxima: gravar com o que houver, marcar vermelho e explicar no relatório (a marca é extinta, encerrada no registro comercial em 2023).
 - Seções feitas: 1, 2 (bloqueado), 2c, 3 (buscas extras), 4 (catálogo: nada), 8 (usados: nada em buscas), 9 (imprensa: t3n, butschal).
+## 02/11/2026 14h UTC — Firecrawl com créditos (baixos)
+- duermeister.de: Firecrawl dá DNS resolution failed → o DOMÍNIO NÃO EXISTE MAIS. O site oficial não pode ser lido por nenhum meio (exceto arquivos tipo web.archive, que as regras da sessão não permitem).
+- uhrforum 279226 (Firecrawl, aberto): linhas de mostrador "Heritage" (preto ou prata, data às 4) e "Design" (branco, data às 3); versão corda manual Unitas; 1.600–2.000 €; 900 peças/ano. Fotos anexas: uhrforum.de/data/attachments/1239/1239553-..., 1239621-...
+- chrono24.de/durmeister/index.htm: 404 (nenhum anúncio).
+- Novas fontes vistas em busca (não abertas): forum.watchtime.ch t=66586, commons.wikimedia File:Dürmeister_Uhr.jpeg, nrz.de artigo 11282399, uhrforum 314937 e 275431, instagram duermeisterindividual (28 posts).
+- DECISÃO: continua PAUSADA. Com o domínio extinto, o Firecrawl não resolve; mesmo somando todas as fontes restantes a marca dá 3–5 linhas de "configurações", sem catálogo. Precisa de decisão do usuário (gravar pequena e vermelha, ou deixar de fora). Execução seguiu para a linha 460.
