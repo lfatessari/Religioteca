@@ -6326,7 +6326,7 @@
     }
   ],
   "em_execucao": "2026-11-02T03:42:22Z",
-  "ultimo_sinal": "2026-11-02T03:51:12Z",
+  "ultimo_sinal": "2026-11-02T03:53:16Z",
   "bateria_atual": {
     "marcas": [
       "Edward Christopher"
@@ -6338,7 +6338,10 @@
     "notas": "historico/notas_Edward_Christopher.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3",
+      "9"
     ],
     "passada": 1,
     "obs": "Egard (448) parece grande: fica sozinha na próxima"
