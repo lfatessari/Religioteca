@@ -16,3 +16,5 @@
 - Neptune: foto oracleoftime Ematelier-13-Rolex-Neptune-watch.jpg (usar).
 - Van Gogh também montado em JLC Reverso e Cartier Tank (aBlogtoWatch bespoke).
 - Seções feitas: 1, 2, 2c, 3, 5 (nada), 6 (nada), 7 (venda direta), 8 (nada), 9
+- Sprezzatura: 1ª série de 70 relógios, 5 por modelo (página Celestial Map). Freya's Tears: inspirado em Klimt, arquivo "Zilberman" (cliente?).
+- 1ª PASSADA ENCERRADA (14h15): últimas 6 fontes sem novidade. Decisão: VERMELHA (serviço bespoke sem lista pública; Datejust sem foto individual). 2ª passada: páginas individuais bespoke, tech pages, Instagram, Reddit/fóruns.
