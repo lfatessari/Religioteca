@@ -6459,7 +6459,7 @@
   }
  ],
  "em_execucao": "2026-11-02T12:43:17Z",
- "ultimo_sinal": "2026-11-02T13:02:51Z",
+ "ultimo_sinal": "2026-11-02T13:04:23Z",
  "em_andamento_2": {
   "marcas": [
    "Elysee"
@@ -6479,8 +6479,10 @@
    "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10",
+   "10b-p1"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
