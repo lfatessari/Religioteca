@@ -7,3 +7,4 @@ Buracos: refs Fondale 9650..9690?
 - SITE OFICIAL = ennebi.eu (coluna G diz ennebi.it: errado). Fundada fev/2004 em Chianti perto de Florença, sede em Prato desde 2005; fundadores Luciano Nincheri e Alessandro Bettarini. Primeiro modelo: Fondale (2004). Outros: Mictofo, FIR/VI Nations (rúgbi), Bufo (feminino quartzo), Salmo (bússola), Naucrates Pro, IX Reggimento, Venti GMT (2024). 137 referências em 20 anos -> VERMELHA.
 - Coluna C Marcas "Roma": errado (Prato/Florença). Instagram H @ennebi_officine a verificar.
 - ennebi.eu: fondale-44, customization, dealers deram SERVER_ERROR (tentar de novo).
+- blogspot (oceanictime, watchkzy): loop de redirecionamento http/https, não abriu.
