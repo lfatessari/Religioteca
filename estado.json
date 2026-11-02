@@ -6250,7 +6250,7 @@
     }
   ],
   "em_execucao": "2026-11-02T00:42:39Z",
-  "ultimo_sinal": "2026-11-02T00:49:49Z",
+  "ultimo_sinal": "2026-11-02T00:53:21Z",
   "em_andamento_eberhard": {
     "marcas": [
       "Eberhard & Co"
@@ -6262,7 +6262,10 @@
     "notas": "historico/notas_Eberhard.md",
     "secoes_feitas": [
       "1",
-      "4"
+      "3",
+      "4",
+      "8 parcial",
+      "9 parcial"
     ],
     "passada": 1
   }
