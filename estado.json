@@ -6407,7 +6407,7 @@
   }
  ],
  "em_execucao": "2026-11-02T08:43:37Z",
- "ultimo_sinal": "2026-11-02T08:43:37Z",
+ "ultimo_sinal": "2026-11-02T08:51:50Z",
  "em_andamento_2": {
   "marcas": [
    "Elgin"
@@ -6417,7 +6417,11 @@
   "relogios": "historico/parcial_Elgin_relogios.txt",
   "fontes": "historico/parcial_Elgin_fontes.txt",
   "notas": "historico/notas_Elgin.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
