@@ -1,0 +1,402 @@
+{
+ "marca": "Emporio Armani",
+ "usa_codigos": true,
+ "logo": "https://content.beaverbrooks.co.uk/static/images/content/brandlogos/logos/emporioarmani-l.png",
+ "site_bloqueado": "Parcial – armani.com: só a 1ª página de cada lista abre na leitura automática (?page=2 bloqueado por robots) e as fotos não aparecem; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.armani.com/en-us/emporio-armani/man/watches/",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.armani.com/en-us/emporio-armani/women/watches/",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://ocarat.com/en/emporio-armani-watches/",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/shop-emporio-armani",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://justintime.in/collections/emporio-armani-watch",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://watch.co.uk/emporio-armani",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://pricespy.co.uk/s/armani-watches/",
+   "passada": 1,
+   "novos": 76
+  },
+  {
+   "url": "https://pricespy.co.uk/s/womens-armani-watches/",
+   "passada": 1,
+   "novos": 41
+  },
+  {
+   "url": "https://pricespy.co.uk/s/emporio-armani-watches-for-men/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://pricespy.co.uk/s/chronograph-emporio-armani-watches/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://pricespy.co.uk/s/armani-men-watches/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.luxoia.com/en/emporio-armani",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.goldsmiths.co.uk/c/Brands/Emporio-Armani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdirect.com.au/collections/armani",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.watchnation.com/fr-fr/collections/emporio-armani-watches",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.lowyat.net/2016/117777/emporio-armani-launches-its-first-hybrid-smartwatch-emporio-armani-connected",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Emporio-Armani-Watches/31387/bn_3003782",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.ebay.com/b/ARMANI-Emporio-Armani-Classic-Wristwatches/31387/bn_80609213",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/monsoon-sale-upto-50-off-for-emporio-armani?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/13957/emporio-armani-collezione-meccanico/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.orologioblog.net/en/16590/emporio-armani-collezione-meccanico-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096601-armani-emporio-armani-swiss-made-collection.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timetransformed.com/2016/05/24/emporio-armani-swiss-made-ars3200-limited-edition-spring-summer-2016/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/emporio-armani-esedra-automatic-watch-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/emporio-armani-swiss-made-womens-ars7501-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hk.asiatatler.com/style/emporio-armani-modern-retro-watch-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.central.co.th/en/emporio-armani/watches-jewelry/men-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.mastersintime.com/ja/emporio-armani/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armani.com/en-in/emporio-armani/woman/accessories/watches/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.armani.com/en-ae/emporio-armani/man/accessories/watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.armani.com/en-dk/experience/emporio-armani/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/29733/20-anni-di-orologi-emporio-armani/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/pages/emporio-armani-watches-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theluxurycloset.com/en/emporio-armani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zalora.com.ph/c/men/accessories/watches/emporio-armani/c-88/scat-94/b-3520",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jamtangan.com/c/jam-tangan-pria?brand=emporio-armani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wareable.com/android-wear/emporio-armani-connected-smartwatch-3-price-release-date-specs-7555",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/emporio-armani-watch-connected-art5003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.coolblue.nl/en/product/784466/emporio-armani-connected-hybrid-art3001.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/emporio-armani-matteo-dynamic-art5020-black-dial-smart-watch-for-men",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.testsieger.de/armbanduhren/emporio-armani-armbanduhren/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ebay.de/b/Emporio-Armani-Armbanduhren-mit-Emporio-Armani-Sportivo-Poliert/31387/bn_7116524377",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.armani.com/en-us/emporio-armani/man/accessories/watches/swiss-made-watches/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.2luxury2.com/emporio-armanis-first-swiss-made-watches-baselworld-2014",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchonista.com/node/355518",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fellows.co.uk/bidding/1774-watches-watch-parts-575/133-emporio-armani-a-gentlemans-ceramic-ceramica-chronograph-bracelet-watch-163331",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/emporio-armani-0?page=2",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/emporio-armani-0?page=4",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-ar1400.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/vintage-emporio-armani",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.armani.com/fr-be/emporio-armani/experience/about-emporio-armani/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/it/emporio-armani/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pricespy.co.uk/s/emporio-armani-watch-mens/",
+   "passada": 2,
+   "novos": 38
+  },
+  {
+   "url": "https://pricespy.co.uk/s/armani-watches-for-men/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/emporio-armani-meccanico-auto.315895/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/browse/jewelry/emporio-armani/silver/3891/YnJhbmQ6RW1wb3JpbyBBcm1hbml8fGNvbG9yOlNpbHZlcgieie",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchdirect.com.au/blogs/news/best-emporio-armani-watches-australia-2026",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/emporio-armani-designer-watches-worth-9636201",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://beaverbrooks.co.uk/0132124/Emporio-Armani-Black-and-Luigi-Green-Chronograph-Quartz-Mens-Watch/p",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://beaverbrooks.co.uk/0135828/Emporio-Armani-Ruggero-Exclusive-Quartz-Mens-Watch/p",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/emporio-armani-mens-claudio-blue-dial-watch-ar11541",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/emporio-armani-mens-luigi-chronograph-watch-ar11324",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.armani.com/ja-jp/emporio-armani/man/accessoires/watches/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.armani.com/ko-kr/emporio-armani/man/watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/267095082954",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jp.mercari.com/s/140831",
+   "passada": 3,
+   "novos": 35
+  },
+  {
+   "url": "https://www.armani.com/ja-jp/emporio-armani/woman/watches/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxebyhughrice.co.uk/emporio-armani-kappa-steel-gold-two-tone-41-mm-men-s-watch-15252",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/s/346217",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/s/244905",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/s/304680",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.moodiedavittreport.com/emporio-armani-extends-collaboration-with-canadian-singer-shawn-mendes/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/ar11153",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/c1237996546",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/167421260981",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/l1237757476",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/m1237671803",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/jp/auction/n1237673520",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "J: 'Swartz' não encontrado em nenhuma fonte (demais nomes de J confirmados: Classic, Luigi, Meccanico, Matteo). Relógios Emporio Armani existem desde 1997 (licença Fossil); a linha Emporio Armani foi lançada em 1981. G ok (armani.com)."
+}
