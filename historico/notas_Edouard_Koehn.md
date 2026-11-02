@@ -3,3 +3,4 @@ Histórico: Edouard Koehn (1839-1908), alemão, trabalhou na Patek Philippe, fun
 Coleções modernas: Tempus I, Tempus II, Tempus III (EK-CHR07/09/10), World Heritage (EK-WTA0x), World Heritage II, Legacy Rattrapante (EK-CHR11SS), Legacy Moonphase Chronograph (EK-CHR12SS, edições limitadas).
 Vintage: relógios de bolso Ed. Koehn em leilão (Bonhams, Antiquorum, Christie's, Drouot); números são de série -> não entram como código.
 Base: exquisitetimepieces coleção (16).
+Oficial edouardkoehn.com/collections: 36 refs (lista no texto, sem fotos). Fotos: exquisite, about-timepieces, ethos (sem foto). Faltam fotos para Tempus I, II (exceto GN), WH I variantes, WH II, Moonphase SN-ASBEI/IB-ASBE, Tempus III GR/SR GN.
