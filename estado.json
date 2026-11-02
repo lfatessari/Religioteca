@@ -6363,7 +6363,7 @@
   }
  ],
  "em_execucao": "2026-11-02T05:42:26Z",
- "ultimo_sinal": "2026-11-02T05:46:44Z",
+ "ultimo_sinal": "2026-11-02T05:54:58Z",
  "bateria_atual": {
   "marcas": [
    "Eichmüller"
@@ -6373,7 +6373,12 @@
   "relogios": "historico/parcial_Eichmuller_relogios.txt",
   "fontes": "historico/parcial_Eichmuller_fontes.txt",
   "notas": "historico/notas_Eichmuller.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "7",
+   "8"
+  ],
   "passada": 1
  }
 }
