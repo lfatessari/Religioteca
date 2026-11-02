@@ -6326,18 +6326,21 @@
     }
   ],
   "em_execucao": "2026-11-02T03:42:22Z",
-  "ultimo_sinal": "2026-11-02T03:42:22Z",
+  "ultimo_sinal": "2026-11-02T03:51:12Z",
   "bateria_atual": {
     "marcas": [
-      "Edward Christopher",
-      "Egard",
-      "Egotempo"
+      "Edward Christopher"
     ],
     "linha_marcas": 447,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "grande": false,
+    "relogios": "historico/parcial_Edward_Christopher_relogios.txt",
+    "fontes": "historico/parcial_Edward_Christopher_fontes.txt",
+    "notas": "historico/notas_Edward_Christopher.md",
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
+    "passada": 1,
+    "obs": "Egard (448) parece grande: fica sozinha na próxima"
   }
 }
