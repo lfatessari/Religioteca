@@ -1,0 +1,11 @@
+# Engelhardt (linha 464) — notas
+- GRANDE: site oficial 88 variações (engelhardt-uhren.de, não .com como na coluna G); Uhrenheld diz 216 produtos.
+- Empresa: Shaghafi GmbH, Kanalstraße 97, 48432 Rheine (Impressum) — não Ruhla! Uhrenheld: "gegründet 1893 in Pforzheim, Teil der Pointtec-Gruppe Stuttgart" (a verificar).
+- Códigos de 12 dígitos = referência (usa_codigos true). Foto oficial: engelhardt-uhren.de/wp-content/uploads/2015/09/<REF>.jpg (confirmado literal na página).
+- Logo: https://engelhardt-uhren.de/wp-content/uploads/2015/03/engelhardt_logo-300x80.png
+- Seções feitas: 1, 2 (Kollektion 88 refs; page_id=2 sem modelos; ebook PDF redirect loop)
+- Antigas vistas em Uhrenheld: 314022529002 (quartz), 386702529029, 388571029001, 386727129009, 386732629007, 384552528042, 388722518009, 385722529062, 387721128011, 385722028057, 344512629005, 385722029045
+- "Kaliber 10.xxx" = designação de modelo da Engelhardt (não é o movimento: são Miyota). Página Anleitungen lista 53 calibres → muitas famílias antigas sem variantes conhecidas → marca VERMELHA.
+- Refs só em títulos de busca (Amazon): 385724029073 & 385701029073 (Kal.10.500), 385732129077 (10.320), 385724129054 (10.660), 389421029001 (Damen 10.690), 386727129009 (10.160)
+- 7daysin: 389521029003 e 389571029003 (Miyota, 51 mm, 14 mm, couro 24 mm, mostrador preto, índices verde-claro)
+- Bloqueados: time-line24, uhrens24, fashiola (robots), amazon (robots), mogani/otto (client_error), uhrerbe (redirect loop), ebook PDF (redirect loop). Firecrawl sem créditos até 03/11 13:43 UTC.
