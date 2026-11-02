@@ -6382,7 +6382,7 @@
   }
  ],
  "em_execucao": "2026-11-02T06:42:45Z",
- "ultimo_sinal": "2026-11-02T06:44:23Z",
+ "ultimo_sinal": "2026-11-02T06:46:07Z",
  "bateria_atual": {
   "marcas": [
    "Election"
@@ -6393,7 +6393,9 @@
   "fontes": "historico/parcial_Election_fontes.txt",
   "notas": "historico/notas_Election.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "3",
+   "5"
   ],
   "passada": 1
  }
