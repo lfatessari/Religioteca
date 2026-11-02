@@ -6520,7 +6520,7 @@
   }
  ],
  "em_execucao": "2026-11-02T18:01:54Z",
- "ultimo_sinal": "2026-11-02T18:08:23Z",
+ "ultimo_sinal": "2026-11-02T18:16:11Z",
  "em_andamento_2": {
   "marcas": [
    "Emporio Armani"
@@ -6532,7 +6532,11 @@
   "notas": "historico/notas_Emporio_Armani.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "3",
+   "7",
+   "8",
+   "9"
   ],
   "passada": 1
  }
