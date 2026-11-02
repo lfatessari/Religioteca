@@ -8,3 +8,6 @@ Início 02/11 02h45 UTC. Firecrawl sem créditos (renova ~13:45 UTC).
 - gressive.jp/tokimegu/2020/brand/edox/01..22.html tem 22 modelos 2020 com refs (não abertos: links não vieram de busca).
 - §2c: buscas site:seriouswatches.com (limited, class1/chronoffshore/grand ocean, vauberts/bemonts, delfin/chronorally) trouxeram ~45 produtos escondidos. Buscas "edox.ch/product" trazem poucos produtos oficiais (site mal indexado).
 - Duplicata a remover no fim: "Delfin Mecano – edição limitada do 60º aniversário" (gressive, sem ref) = 85304 357GN NRN1.
+## 1ª passada encerrada (03:11 UTC): 68 fontes, ~423 relógios. Parou: 3 fontes seguidas sem novidade (kitamura, hrd-web, whamond).
+- Decisão: VERMELHA (certeza de mais modelos: vintage anos 50-80 sem refs, catálogo 2018 oficial não abre, páginas de coleção do site oficial pedem permissão, features gressive 2020/2022-2024 com ~60 modelos não abertas, Chrono24/EveryWatch sem índice).
+## 2ª passada: alvo vintage, linhas antigas (Royal, Classe Royale, Les Bémonts, Class-1), gressive tokimegu, produtos oficiais escondidos.
