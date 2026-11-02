@@ -6,3 +6,5 @@ Início 02/11 02h45 UTC. Firecrawl sem créditos (renova ~13:45 UTC).
 - Cronometrista: WRC e Extreme Sailing Series (aba Marcas diz Dakar — conferir). D/I: "Delfim (Les Bémonts)" errado: Delfin ≠ Les Bémonts.
 - edox.ch: páginas de coleção pedem permissão (PROVENANCE). Produtos edox.ch/product/... abrem só se vierem de busca.
 - gressive.jp/tokimegu/2020/brand/edox/01..22.html tem 22 modelos 2020 com refs (não abertos: links não vieram de busca).
+- §2c: buscas site:seriouswatches.com (limited, class1/chronoffshore/grand ocean, vauberts/bemonts, delfin/chronorally) trouxeram ~45 produtos escondidos. Buscas "edox.ch/product" trazem poucos produtos oficiais (site mal indexado).
+- Duplicata a remover no fim: "Delfin Mecano – edição limitada do 60º aniversário" (gressive, sem ref) = 85304 357GN NRN1.
