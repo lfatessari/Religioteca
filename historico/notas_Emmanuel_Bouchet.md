@@ -9,3 +9,12 @@ Achados: Complication One (EB01, 44mm, EB-1963), Complication One Contrast (GPHG
 - Passada 1 encerrada (~44 fontes; últimas 16 sem novidade). Decisão: grande (peças únicas e mostradores personalizados) e VERMELHA (mostradores sob encomenda, peças únicas não publicadas, Source com pedras configuráveis, site oficial não lido).
 - EB03 (prévia Baselworld 2017) e "Contemplation" (planejado 2026) só citados, sem detalhes: não viraram linha.
 - Passada 2: buscar peças únicas, Source/Ribbon variações, leilões, Hodinkee/SJX/Monochrome/Revolution.
+## 10b auto-auditoria
+1. Blog oficial lido (13 posts, só imprensa); modelos citados todos na lista. Área de imprensa não achada.
+2. §2c: site Webflow sem loja; buscas site: trouxeram 9 páginas (todas abertas).
+3. Lojas: Salon des Horlogers, Vaqt (Índia), K2 Luxury, Horology by the Sea, Access (Saint-Barth), Seddiqi (só citada). 
+4. Primeiro modelo: Complication One (2014, Salon QP) — incluído em todas as versões de metal.
+5. I/J: Complication One, Complication One Aleph, Source — todos achados.
+6. Limitadas na B (Blue 10, EB02 18+18, Fusion 5); peças únicas marcadas na E.
+7. 68 fontes (passada 1: 44; passada 2: 24). Passada 2 trouxe 4 novos (<5) → sem 3ª.
+Fora: EB03 (prévia 2017), Contemplation (teaser 2027), Opus 12 (Harry Winston), "Contrast Titanium" antigo da Salon (provável Complication One titânio já listado).
