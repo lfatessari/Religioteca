@@ -1,0 +1,582 @@
+{
+ "marca": "Emile Chouriet",
+ "usa_codigos": true,
+ "logo": "https://www.emilechouriet.com/wp-content/uploads/2024/02/logo-email.jpg",
+ "site_bloqueado": "Parcial – emilechouriet.com não aparece em buscas (a leitura automática comum não alcança); lido pelo Firecrawl em 02/11/2026",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.emilechouriet.com/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.emilechouriet.com/shop/ (Firecrawl)",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.emilechouriet.com/wp-json/wc/store/products?per_page=100 (Firecrawl)",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://www.emilechouriet.com/wp-json/wc/store/products?per_page=100&page=2 (Firecrawl)",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://masterhorologer.com/emile-chouriet/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-lake-geneva-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-historique-heritier-collection-spearheading-the-brand-26478.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2020/04/emile-chouriet-heritier-a-guichet.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-classic-gradient-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-heritier-geneva-legend-25934.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2009/06/01/emile-chouriet-contemporary-luxury-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watch-brand/emile-chouriet-188",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/emile-chouriet/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/watch-galleries/1004084652-les-ailes-du-temps-by-emile-chouriet.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096033-emile-chouriet-leman-collection.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/IMG/pdf/highlight_emilechouriet_217.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004089327.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095133-emile-chouriet-royal-pearl-queen-06-3882-l-rd.html (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095134-emile-chouriet-contemporary-luxury-08-1138g.html (Firecrawl)",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096598-emile-chouriet-tourbillon.html (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096588-emile-chouriet-moonphase.html (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096374-emile-chouriet-moonphase.html (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096358-emile-chouriet-lac-leman-dual-time.html (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096845-emile-chouriet-soleos.html (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.emilechouriet.com/blog/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-deep-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-deep-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-deep-blue-round-indexes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-deep-black-rubber-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-deep-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-deep",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/emile-chouriet-challenger-deep-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/emile-chouriet-silver-wings-time-special-edition-lux-mens-40mm-watch/id-v_15380192",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeandwatches.com/2015/02/emile-chouriet-challenger-deep.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxuriousmagazine.com/emile-chouriet-lac-leman-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/lac-leman-classic-chronometer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/emile-chouriet-lac-leman-classic-chronometer-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-challenger-deep-17256.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004093005.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://product.suning.com/0030002885/11638170997.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/fr/emile-chouriet/accueil",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetransformed.com/?p=10216",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timetransformed.com/tag/emile-chouriet/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/1004088468.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004083965.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004087942.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-lady-tahiti-28019.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-challenger-cliff-black-et-gold-28080.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-challenger-ice-cliff-black-27173.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/emile-chouriet-fair-lady-ballerina-23642.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-milky-way-23865.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://luxuriousmagazine.com/emile-chouriet-mr-right",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxuriousmagazine.com/emile-chouriet-new-pearl-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxuriousmagazine.com/fair-lady-lotus-red-emile-chouriet/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/emile-chouriet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/novelties/baselworld-2017-emile-chouriet-dancing-vibes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxuriousmagazine.com/lac-leman-classic-moonphase",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/lotus-dream-night",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/emile-chouriet-watches-archives/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/12/emile-chouriet-lac-leman-new-chronograph-dual-time-and-complete-calendar-models/ (Firecrawl)",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2014/06/11/emile-chouriet-horse-of-success-limited-edition-automatic-watch-chinese-year-of-horse/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/11/emile-chouriet-vicomte-swiss-made-automatic-watches-stainless-steel-case-with-18-carat-gold-or-tungsten-bezel/ (Firecrawl)",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://masterhorologer.com/2009/06/03/emile-chouriet-royal-pearl-collection/ (Firecrawl)",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://masterhorologer.com/2009/06/02/emile-chouriet-les-ailes-du-temps-collection-gold-wings/ (Firecrawl)",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://masterhorologer.com/2009/06/01/emile-chouriet-contemporary-luxury-collection/ (Firecrawl)",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://masterhorologer.com/2010/06/01/emile-chouriet-catch-the-moon-automatic-watch-stainless-steel-case-eta-2834-caliber-with-exclusive-montres-chouriet-module/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2010/06/02/emile-chouriet-traveller-quartz-watch-titanium-case-second-timezone-and-large-date/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/12/emile-chouriet-heritier-automatic-watch/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/12/emile-chouriet-nuit-des-temps-automatic-watch-inspired-by-the-church-clock-of-the-place-de-la-fusterie-in-geneva/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/01/emile-chouriet-minute-repeater-watch-rose-gold-case-gold-dial-with-enamel-painting-of-eighteenth-century-geneva-watchmaker-francois-dagobert-depery/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/12/emile-chouriet-zodiac-automatic-watch-stainless-steel-case-blue-star-dial-with-constellation-sign/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2016/06/02/emile-chouriet-classic-wisdom-automatic-watch-stainless-steel-case-two-level-dark-grey-dial/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2016/06/12/emile-chouriet-alchimie-automatic-watches-30mm-or-40mm-case-silver-white-or-bordeaux-or-champagne-or-dark-grey-dial/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2016/06/11/emile-chouriet-challenger-ice-cliff-automatic-watch-40mm-stainless-steel-case/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2017/06/01/emile-chouriet-ice-cliff-new-dial-versions-automatic-watches-brushed-sunburst-brown-mahogany-or-sandblasted-cobalt-blue-dial/ (Firecrawl)",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2017/06/12/emile-chouriet-heritier-collection-heritier-geneva-edition-and-heritier-with-windows/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2014/06/11/emile-chouriet-fair-lady-watch-29mm-stainless-steel-case-quartz-or-automatic-movement/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2017/06/01/emile-chouriet-soleos-automatic-watch-calibre-ec9316-based-on-eta2824-steel-case-with-fluted-bezel/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/12/emile-chouriet-moonphase-automatic-watch-stainless-steel-case-tungsten-bezel-movable-blue-star-dial/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/01/emile-chouriet-tourbillon-watch-rose-gold-case/ (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2014/06/11/emile-chouriet-challenger-deep-diving-watch-300-meters-water-resistance-automatic-movement/ (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-horse-of-success-17630.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-lake-geneva-blue-moon-phase",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-cliff-blue-diamonds",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.emilechouriet.com/blog/page/2/ (Firecrawl)",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/IMG/pdf/es.highlights117_10.pdf",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004089205.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/spotlights/1004089440-emile-chouriet-fair-lady-model.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-challenger-ice-cliff-23444.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-heritier-lady-23106.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-fair-lady-17130.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=46458",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://oracleoftime.com/emile-chouriet-lac-leman-chronograph-blue-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/emile-chouriet-challenger-cliff-black-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1004084241-emile-chouriet-is-a-family-firm-with-a-difference.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timetransformed.com/?p=13921",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://gphg.org/en/watches/fair-lady",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/emile-chouriet-lac-leman-chronograph-blue-27550.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/?p=48836",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/emile-chouriet-a-fine-history-to-rebuild-18799.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/tourbillon",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://luxuriousmagazine.com/emile-chouriet-lac-leman-chronometer",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/emile-chouriet (Firecrawl, 410)",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/all/page-199 (Firecrawl)",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "firecrawl_search thewatchpages.com Emile Chouriet (resultados com refs)",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/emile-chouriet-pearl-193886l66832 (Firecrawl, 410)",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-soleos-architect-blue",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-cliff-grey-skeleton",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/challenger-cliff-lady-ice",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/emile-chouriet-challenger-cliff-skeleton",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.county.wedding/grooms-news/14816/emile-chouriet-has-released-a-new-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=42138",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jewelleryfocus.co.uk/?p=25268",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/emile-chouriet-reviving-an-ancestral-spirit-14747.html",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "J: 'Gaia' não encontrado em nenhuma fonte; 'Heritage' é a coleção Héritier. I: marca moderna fundada em 1997/1998 por Jean Depéry (Meyrin/Plan-les-Ouates, Genebra); o Emile Chouriet histórico abriu ateliê por volta de 1685 (não 1675). Linhas antigas: Royal Pearl, Contemporary Luxury, Les Ailes du Temps, Catch the Moon, Vicomte, Wisdom."
+}
