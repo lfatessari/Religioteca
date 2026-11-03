@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 483,
- "ultima_versao": 408,
+ "proxima_linha_marcas": 501,
+ "ultima_versao": 409,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6736,37 +6736,42 @@
     "1": "21 fontes, 7 novos"
    },
    "obs": "Único modelo Bathyal (44 mm, Miyota 9015, 600 m): Azul, Verde, Gris, Oscuro (DLC) na pré-venda de 2020 pela Ocean Crawler; Sol, Naranja, Brillante em 2024. Marca não usa códigos. Fotos da Ocean Crawler (4) e eBay (3). Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-03",
+   "versao": 409,
+   "obs": "18 marcas novas incluídas na aba Marcas a pedido do usuário (achadas no Instagram seguido pela @relogioteca, letras A e B), em ordem alfabética, com B–M preenchidos (E como valor, sem fórmula). As linhas da aba Marcas a partir da 15 foram deslocadas; proxima_linha_marcas, marcas_pendentes, em_andamento, marcas_ja_feitas_fora_da_ordem e avisos já atualizados (o histórico antigo mantém os números antigos). Aba Relógios não mudou. As novas estão em marcas_novas_sem_relogios: ainda sem pesquisa de relógios."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
   "Erbprinz": {
-   "linha_marcas": 475,
+   "linha_marcas": 493,
    "linhas_relogios": "6773-6828"
   },
   "Messerschmitt": {
-   "linha_marcas": 904,
+   "linha_marcas": 922,
    "linhas_relogios": "6829-7094"
   },
   "D. Candaux": {
-   "linha_marcas": 369,
+   "linha_marcas": 387,
    "linhas_relogios": "59412-59435 (gravada como David Candaux; duplicata)"
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 778)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 778, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
-  "Dürmeister (linha 432)": "PAUSADA sem gravar. 02/11/2026 14h: Firecrawl voltou a ter créditos, mas o domínio duermeister.de NÃO EXISTE MAIS (DNS falha) e chrono24.de/durmeister dá 404; só o tópico do Uhrforum abriu (linhas Heritage e Design). Sem catálogo público, a marca não chega ao mínimo de 25 fontes. Precisa decisão do usuário (gravar pequena/vermelha com 2-3 linhas, ou deixar de fora). Notas em historico/notas_Durmeister.md.",
-  "DWATCH (linha 435)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371).",
-  "Egotempo (linha 449)": "PAUSADA sem gravar (02/11/2026): marca de Bolonha, parece encerrada (\"ex Egotempo\"); só 2 modelos achados (Ego no Logo 2017, Ambidestro 2019) e 7 fontes abertas (mínimo 15). Site egotempo.it não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_Egotempo.md.",
-  "EHF Horlogere (linha 450)": "PAUSADA sem gravar (02/11/2026): marca de Le Locle (2011), só o Mk Zero (2012) achado, 4 fontes abertas. Site ehf-horlogere.ch não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_EHF.md.",
-  "El Charro (linha 452)": "PAUSADA sem gravar (02/11/2026): marca de moda italiana (cintos/couro, licença Next Way Srl); nenhum site de relógios; só 3 anúncios \"Charro\" (CH70, Savonette 9806_ch) sem confirmação de serem da El Charro; 5 fontes abertas (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_El_Charro.md.",
-  "Envision (linha 467)": "PAUSADA sem gravar (02/11/2026): microbrand de Modena (Alessandro Bambini), único modelo Prisma (2024) em 4 cores + edição especial Alfa Revival Cup 2026. Site envision-watches.com não aparece em busca; Firecrawl sem créditos; lotes da Catawiki expirados. Só 5 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_Envision.md.",
-  "EQVIS (linha 474)": "PAUSADA sem gravar (03/11/2026): marca de design alemão/fabricação suíça (2012, Simon Schmid e Björn Matthiesen), um único modelo (Varius, Baselworld 2017, biseis intercambiáveis). Site eqvis.net não aparece em busca; Firecrawl sem créditos; só ~7 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_EQVIS.md."
+  "Kurono Tokyo (linha 796)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 796, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+  "Dürmeister (linha 450)": "PAUSADA sem gravar. 02/11/2026 14h: Firecrawl voltou a ter créditos, mas o domínio duermeister.de NÃO EXISTE MAIS (DNS falha) e chrono24.de/durmeister dá 404; só o tópico do Uhrforum abriu (linhas Heritage e Design). Sem catálogo público, a marca não chega ao mínimo de 25 fontes. Precisa decisão do usuário (gravar pequena/vermelha com 2-3 linhas, ou deixar de fora). Notas em historico/notas_Durmeister.md.",
+  "DWATCH (linha 453)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371).",
+  "Egotempo (linha 467)": "PAUSADA sem gravar (02/11/2026): marca de Bolonha, parece encerrada (\"ex Egotempo\"); só 2 modelos achados (Ego no Logo 2017, Ambidestro 2019) e 7 fontes abertas (mínimo 15). Site egotempo.it não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_Egotempo.md.",
+  "EHF Horlogere (linha 468)": "PAUSADA sem gravar (02/11/2026): marca de Le Locle (2011), só o Mk Zero (2012) achado, 4 fontes abertas. Site ehf-horlogere.ch não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_EHF.md.",
+  "El Charro (linha 470)": "PAUSADA sem gravar (02/11/2026): marca de moda italiana (cintos/couro, licença Next Way Srl); nenhum site de relógios; só 3 anúncios \"Charro\" (CH70, Savonette 9806_ch) sem confirmação de serem da El Charro; 5 fontes abertas (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_El_Charro.md.",
+  "Envision (linha 485)": "PAUSADA sem gravar (02/11/2026): microbrand de Modena (Alessandro Bambini), único modelo Prisma (2024) em 4 cores + edição especial Alfa Revival Cup 2026. Site envision-watches.com não aparece em busca; Firecrawl sem créditos; lotes da Catawiki expirados. Só 5 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_Envision.md.",
+  "EQVIS (linha 492)": "PAUSADA sem gravar (03/11/2026): marca de design alemão/fabricação suíça (2012, Simon Schmid e Björn Matthiesen), um único modelo (Varius, Baselworld 2017, biseis intercambiáveis). Site eqvis.net não aparece em busca; Firecrawl sem créditos; só ~7 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_EQVIS.md."
  },
  "em_andamento": {
   "marcas": [
    "Dürmeister"
   ],
-  "linha_marcas": 432,
+  "linha_marcas": 450,
   "grande": true,
   "relogios": "historico/parcial_Durmeister_relogios.txt",
   "fontes": "historico/parcial_Durmeister_fontes.txt",
@@ -6786,38 +6791,112 @@
  "marcas_pendentes": [
   {
    "marca": "Dürmeister",
-   "linha_marcas": 432,
+   "linha_marcas": 450,
    "notas": "historico/notas_Durmeister.md"
   },
   {
    "marca": "DWATCH",
-   "linha_marcas": 435,
+   "linha_marcas": 453,
    "notas": "historico/notas_DWATCH.md"
   },
   {
    "marca": "Egotempo",
-   "linha_marcas": 449,
+   "linha_marcas": 467,
    "notas": "historico/notas_Egotempo.md"
   },
   {
    "marca": "EHF Horlogere",
-   "linha_marcas": 450,
+   "linha_marcas": 468,
    "notas": "historico/notas_EHF.md"
   },
   {
    "marca": "El Charro",
-   "linha_marcas": 452,
+   "linha_marcas": 470,
    "notas": "historico/notas_El_Charro.md"
   },
   {
    "marca": "Envision",
-   "linha_marcas": 467,
+   "linha_marcas": 485,
    "notas": "historico/notas_Envision.md"
   },
   {
    "marca": "EQVIS",
-   "linha_marcas": 474,
+   "linha_marcas": 492,
    "notas": "historico/notas_EQVIS.md"
+  }
+ ],
+ "marcas_novas_sem_relogios": [
+  {
+   "marca": "Abinger",
+   "linha_marcas": 15
+  },
+  {
+   "marca": "Addiesdive",
+   "linha_marcas": 19
+  },
+  {
+   "marca": "Aerotec",
+   "linha_marcas": 25
+  },
+  {
+   "marca": "Aethelsohn",
+   "linha_marcas": 28
+  },
+  {
+   "marca": "Agelocer",
+   "linha_marcas": 31
+  },
+  {
+   "marca": "Alexandre Martin",
+   "linha_marcas": 50
+  },
+  {
+   "marca": "Angelier",
+   "linha_marcas": 67
+  },
+  {
+   "marca": "Apiar",
+   "linha_marcas": 82
+  },
+  {
+   "marca": "Area Nostalgia",
+   "linha_marcas": 98
+  },
+  {
+   "marca": "Areson",
+   "linha_marcas": 99
+  },
+  {
+   "marca": "Atelier Caradant",
+   "linha_marcas": 127
+  },
+  {
+   "marca": "Aubert & Ramel",
+   "linha_marcas": 138
+  },
+  {
+   "marca": "Auriva",
+   "linha_marcas": 146
+  },
+  {
+   "marca": "Baltany",
+   "linha_marcas": 169
+  },
+  {
+   "marca": "Baume",
+   "linha_marcas": 177
+  },
+  {
+   "marca": "Benjamin James",
+   "linha_marcas": 193
+  },
+  {
+   "marca": "Blessington",
+   "linha_marcas": 221
+  },
+  {
+   "marca": "Blütezeit",
+   "linha_marcas": 225
   }
  ]
 }
