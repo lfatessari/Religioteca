@@ -6,3 +6,4 @@ Dialicious: MY-H2, MY-H6, MY-H5 Tuna, AD2101, AD2104 Bronze Captain Willard, AD2
 Obs: AD2514 e AD2036 vistos só em títulos de resultado de busca (eBay não abriu). Fontes que falharam (client_error) ficam com novos=0.
 !! Site oficial provável: addiesdivewatches.com (Shopify; link visto no relojes-especiales). Coluna G diz addiesdive.com.
 Logo: https://cdn.shopifycdn.net/s/files/1/0524/2270/5317/files/png_240x240.png?v=1609398158 (emblema 'Our Symbol'). Sede: Hong Kong (Mong Kok) no contato. Sub-linhas: AddiesKIN (site addieskinwatches.com), Addies (feminino).
+§2c: 6 buscas site:addiesdivewatches.com/products (limited/anniversary, MY-H/H3, women/titanium/ceramic, pilot/skeleton/field, AU/pre-owned/mystery, 40/42/37mm) — só H3D-AC novo; saturou.
