@@ -14,3 +14,5 @@ Nomes de séries: Dash (E7xx), Grille (E2xx), Headlight (E6xx), Paddle (Q3xx), H
 Coleções: Turbo T1xx, Stud ET5xx, Spring Q4xx, Rollbar Q6xx, Rivet ET2xx, Push ET3xx, Paddle Q3xx, Octane Q1xx, Hub Q2xx, Hemi Q5xx, Headlight E6xx, Grille E2xx (collections/frontpage), Gasket E3xx, Dash XXL E9xx, Dash E7xx, Coil ET1xx, Chassis E8xx, Bumper E5xx, Big Block E4xx, Arciform ET41x.
 Links tirados da home pediram permissão (PROVENANCE_REQUIRED): hemi, stud, coil. Precisa vir de busca.
 Logo: https://equipewatches.com/cdn/shop/files/logo.png?v=1613541215 (a conferir)
+## Kenmar (contagem de estilos por família): Chassis 3, Dash XXL 14, Hemi 8, Hub 7, Octane 8, Paddle 8, Rollbar 9, Spring 3; Tritium: Arciform 9, Coil 10, Push 6, Rivet 5, Stud 8. Kenmar p.2 (outras famílias) não alcançada.
+- Kenmar tem também as linhas 'Corvette By Equipe' e 'Mustang By Equipe' (licenças GM/Ford).
