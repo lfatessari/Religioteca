@@ -11,3 +11,13 @@ Site oficial: eska-watches.fr (G vazio na planilha). B "França" e C "Suíça" i
 ## Fim da 1ª passada (122 fontes): 3+ fontes seguidas sem novidade (dialicious p2, uhren-muser, buyingtime, lenouveaureveil).
 Decisão: VERMELHA — >250 modelos de catálogo vintage (história oficial), maioria sem nome/foto; cloisonnés em série; linhas St. Moritz, moedas, Calendar sem foto. 2ª passada: Brasil (Eska Relógios Ltda), Japão, Bonhams/Christie's, St. Moritz, Calendar, Catawiki, Chrono24 via busca.
 - 2ª passada: 18 fontes, ~10 novos (cloisonnés via CollectorSquare, guilhochê, AS1361, feminino 18k) -> 3ª passada obrigatória (>=5 novos).
+## 3ª passada: 11 fontes, 3 novos (<5) -> parar. Últimas 7 fontes sem novidade.
+## 10b Auto-auditoria
+1. Blog/imprensa oficial: lidos os teasers (presse-specialisee) + artigos completos na Monochrome/aBlogtoWatch/Gear Patrol/Passion Horlogère; todos os nomes (Black Sea, BS, WS, RV, GT, BD, H-Hour, Black Heroes, CDP, Destro, Heritage, Panda, Racing Azur/Sunset/Midnight) estão na lista.
+2. site:/products: busca standard não indexa eskawatches.com; usado 'extended' + coleções all/all_products/series-limitees/amphibian-250/heritage-sk25 (16 relógios = todos). Eska Lab sem produtos visíveis.
+3. Lojas: Horel (14), The Watch Gallery (9), Analog Shift, 1stdibs, eBay, Catawiki, Delray, Watchnet, Watchpool24, FiveFortyFive, Bulang & Sons.
+4. Primeiro modelo: não identificado (1918); mais antigos: Duo Dial 1926, Reverso 1927, Chrono 1932.
+5. Col. J 'Ultrafinos vintage, dress watches, modelos de joalheria' — genérico; ultrafinos (Square extra-flat, St. Moritz ultra thin, Disco Volante extra-plano) e joalheria (cocktail, cloisonné) cobertos.
+6. Edições limitadas na B com nº; não há peças únicas declaradas (cloisonnés são séries pequenas, não marcados como peça única).
+7. Fontes: ~154.
+Royce (submarca) não incluída.
