@@ -89,3 +89,26 @@ Tischuhr Audi alt img watchonista erwin-sattler-table-clock-audi-design-0.jpg
 Illumina Secunda https://definewatches.com.au/wp-content/uploads/2023/05/Erwin-Sattler-Illumina-Secunda-09-jpg.webp
 jeweller: Troja Lunaris M https://www.jewellermagazine.com/dbimages/155000/155455/155455-1000px.jpg ; Rotalis 60 .../155456/155456-1000px.jpg ; Opus Moon Tourbillon .../155457/155457-1200px.jpg ; Regulateur 1920; Classica Lunaris https://www.jewellermagazine.com/dbimages/155000/155459/155459-1200px.jpg
 Excelsia (cal 1625-4, 185 cm) e Excelsia KS 130 (cal 1675-4) img KS https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Excelsia-KS-130-v1-Featured.jpg ; Excelsia img: watchonista excelsia-0.jpg
+Regulateur Grigio Secunda (aço 44, cal ES 01, antracite) sem foto -> link orologioblog
+Classica Lunaris (pulso 44mm ES 07, 2023) https://definewatches.com.au/wp-content/uploads/2023/04/Erwin-Sattler-Classica-Lunaris-01.webp
+Secunda Lunaris (precisão 145 cm cal 1915) tribbensee sem foto
+Classica K 100 II M (2026) https://definewatches.com.au/wp-content/uploads/2026/03/Erwin-Sattler-Classica-K100-II-M-11.webp
+Lunaris (1ª, Wempe HS050029 LUNARIS MOND) sem foto Wempe -> definewatches/insight? usar link wempe
+Modell 1402 (laterndluhr cal 1400, invaluable Rotherbaum 2026) img https://image.invaluable.com/housePhotos/rotherbaum/99/814099/H21083-L439010790.jpg
+Troja – Classica Secunda (1ª Troja c.2008, uhren-muser 46366) sem foto
+Classica (c.2000, teixo, Kieninger, drouot lote 38) sem foto -> link
+Opus PMD 100 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Opus-PMD-100-04.jpg ; Rotalis 3 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Rotalis-3-07.jpg
+== 1ª passada encerrada (3 fontes seguidas sem novidade). Marca VERMELHA: modelos antigos (1958-1990), Nautis, primeiros relógios de pulso, winders antigos sem lista. 2ª passada começa.
+=== 2ª PASSADA: site oficial erwinsattler.com ABRE via busca extended (G diz erwinsattler.de). shop.erwinsattler.com = robots.
+Navalis (navio, quartzo) portfolio en-navalis; Secunda Lunaris M img https://www.erwinsattler.com/wp-content/uploads/2023/05/Secunda-Lunaris-M_Raum-Beitrag-1-1024x1024.jpg
+Opus PM 70 III img https://www.erwinsattler.com/wp-content/uploads/2023/05/OpusPM70III_Raum-Beitrag-1024x1024.jpg
+Illumina Secunda (carbon) official img Illumina-Secunda-Carbon-im-Raum-Kachel1.jpg ; Maxima Secunda https://www.erwinsattler.com/wp-content/uploads/2023/05/Beitragsbild_MaximaSecunda.jpg
+Secunda Sonata https://www.erwinsattler.com/wp-content/uploads/2023/05/Secunda-Secunda-Sonata... (Secunda-Sonata-Raum_erweiterung-Kopie-1024x1024.jpg)
+Classica Secunda 1985 https://www.erwinsattler.com/wp-content/uploads/2023/05/Classica-Secunda-1985-Beitrag-1.jpg ; 1985 M .../Classica-Secunda-1985-M-im-Raum-schwarz-Beitrag-1-1.jpg ; 1995 .../ClassSecunda1995_Schwarz-Raum-gruen-Beitrag-1-1022x1024.jpg
+Rotalis 6 Wood https://www.erwinsattler.com/wp-content/uploads/2025/12/Rotalis6_Schwarz_2025_perspektive-zu-1024x1024.jpg ; Rotalis 10 Wood .../2023/05/Rotalis-10-Wood_Schwarz_Perspektive-Beitrag-1024x1024.jpg ; Rotalis 15 .../2023/05/Beitragsbild_rotalis-15.jpg ; Rotalis 24 .../2023/05/Rotalis-24_raum_auf_2026-Beitrag-1024x1024.jpg
+Troja 16 M II, Troja Lunaris M II, Troja Sonata M II (2026)
+Columna Temporis (164 cm, cal 1975) https://www.erwinsattler.com/wp-content/uploads/2023/05/Beitragsbild-Columna-Temporis-2.jpg
+Navalis https://www.erwinsattler.com/wp-content/uploads/2023/05/Navalis-Schiff_ohneNavalis.jpg (hmm 'ohneNavalis' = sem Navalis? usar glenbryde?)
+Opus Moon Tourbillon com 24 diamantes (glenbryde) — variante
+erwinsattlerclocks.com (distribuidor EUA, Shopify): Lunaris freisteller https://erwinsattlerclocks.com/cdn/shop/products/Tischuhr_lunaris_freisteller.jpg?v=1754660945 ; Operetta .../products/Operetta_3.jpg?v=1754660947 ; Opera .../products/Opera_7.jpg?v=1754660943 ; Metrica II .../products/MetricaII_2.jpg?v=1754660944 ; Opus Moon Tourbillon frontal .../files/OpusMoonTourbillon-Frontal.jpg?v=1754660812
+Mechanica M1, M3, M4, M4 Metallica, M5 (kits de montagem!) — buscar
