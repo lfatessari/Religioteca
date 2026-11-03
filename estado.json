@@ -7019,7 +7019,7 @@
     }
   ],
   "em_execucao": "2026-11-03T17:48:04Z",
-  "ultimo_sinal": "2026-11-03T17:48:04Z",
+  "ultimo_sinal": "2026-11-03T17:51:48Z",
   "em_andamento_2": {
     "marcas": [
       "Aubert & Ramel",
@@ -7030,10 +7030,14 @@
       146
     ],
     "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "relogios": "historico/parcial_Aubert_Ramel_relogios.txt",
+    "fontes": "historico/parcial_Aubert_Ramel_fontes.txt",
+    "notas": "historico/notas_Aubert_Ramel.md",
+    "secoes_feitas": [
+      "Aubert & Ramel: 1",
+      "3",
+      "9"
+    ],
     "passada": 1,
     "fora_da_sequencia": true
   }
