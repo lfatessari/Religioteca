@@ -10,3 +10,4 @@ Site oficial: eska-watches.fr (G vazio na planilha). B "França" e C "Suíça" i
 - Dialicious p2 cita 'Eska Calendar' (dia/data/mês, dress) sem foto — buraco; e 'Digital jump hour' (=Direct Read). 1ª passada encerrando: últimas fontes sem novidade: dialicious p2, uhren-muser, + próximas.
 ## Fim da 1ª passada (122 fontes): 3+ fontes seguidas sem novidade (dialicious p2, uhren-muser, buyingtime, lenouveaureveil).
 Decisão: VERMELHA — >250 modelos de catálogo vintage (história oficial), maioria sem nome/foto; cloisonnés em série; linhas St. Moritz, moedas, Calendar sem foto. 2ª passada: Brasil (Eska Relógios Ltda), Japão, Bonhams/Christie's, St. Moritz, Calendar, Catawiki, Chrono24 via busca.
+- 2ª passada: 18 fontes, ~10 novos (cloisonnés via CollectorSquare, guilhochê, AS1361, feminino 18k) -> 3ª passada obrigatória (>=5 novos).
