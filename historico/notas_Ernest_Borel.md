@@ -9,3 +9,4 @@
 - Media Center: 16 páginas de artigos (~190). Lidas p.1-2. Imagens antigas em ernestborel.cn/upload. N0735G0A-MS9S citado em 26954 = provável erro de MC9S (não entrou).
 - Media Center p.4-6: artigos antigos (2015-2018) sem referências. Parado aí (rende pouco). Coleções antigas citadas: Iris, Romance, Braque cronógrafo (2017), Grandeur (2018), Romantic/Feminine/Casual Series.
 - Europa Star swisstime: 44 fichas listadas na página 1004096303; as que não vêm de busca dão PROVENANCE. Buscar cada uma pelo título (Duke, Rocky II, Romance III, Cocktail by Synchron, 155th skeleton, Retro II, Jules Borel officially certified, 160th, fichas 1992 BE/BF).
+- Vintage citados (grail-watch): Cocktail (1953, design Henry DuPasquier; variação Hawaii), Rendez-Vous (despertador AS 1930), Dateoptic (1955), Flash (1958), Sea Gem, Incastar (dispositivo 1947), Deep Blue automatic (Wikipedia). Buscar cada um.
