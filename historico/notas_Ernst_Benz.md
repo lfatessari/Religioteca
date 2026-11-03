@@ -6,3 +6,4 @@
 - Instrument Series PVD 250 peças (matte / carbon fibre). Varvatos: GC10410 (olive JV/4, ivory /3, gray, tan; 250 cada); DLC 2014 2×25; aço preto/antracite.
 - Masterhorologer: client_error em tudo exceto Varvatos DLC. ablogtowatch Mario Batali (www) pediu permissão; versão sem www abriu.
 - Site oficial ernstbenz.com não aparece em nenhuma busca.
+- amuraworld: marca 'nascida em São Petersburgo' (família de relojoeiros), fundada 1960, instrumentos de precisão.
