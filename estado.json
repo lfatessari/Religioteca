@@ -6649,8 +6649,11 @@
   "relogios": "historico/parcial_Epos_relogios.txt",
   "fontes": "historico/parcial_Epos_fontes.txt",
   "notas": "historico/notas_Epos.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "2",
+   "2b"
+  ],
   "passada": 1
  },
- "ultimo_sinal": "2026-11-03T00:42:01Z"
+ "ultimo_sinal": "2026-11-03T00:50:19Z"
 }
