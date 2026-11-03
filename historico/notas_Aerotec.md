@@ -17,3 +17,9 @@
 - AF7 = Forte DLC mostrador preto (seriouswatches, foto PRE1544-3).
 - Forte (KS fev/2022, 50 peças por cor, Miyota 9015, 40mm Ti, 200m): AF1 ice blue, AF2 ice violet, AF3 black sand, AF4 full lume (branco), AF5 ice blue DLC, AF7 black sand DLC, AF8 full lume DLC, AF6 (provável ice violet DLC — não confirmado). Fotos FSpecSheet_<hash>_1200x1200.png: AF2 92c62976..., AF3 82e003ba..., AF5 daa6702a..., AF7 e07275c5..., AF8 360b8d72...
 - Fundador citado no blog: Terence See (autor dos posts).
+- Ace X GMT Diver (out/2022): Silver (ed. limitada 80 peças, microbrand.store), Candy Apple Red/Mars Red, Burgundy/Black, Green. 41,5mm, NH34A GMT, 200m. Foto silver: microbrand.store wrist-silver-1024.
+- Atlantic (titânio minimalista, 2024): mostrador texturizado prata esterlina (chronogaze) — cores Orange, Raspberry, Teal na loja. Foto chronogaze b-10.webp.
+- Atlantic Star: KS ago/2025 (oracleoftime: Coastal Drift, ST1731, 40mm). 
+- Dialicious: fundação 2016 (M: data divergente da coluna I, que fala 2019/2022).
+- Home: Halo (KS out-nov/2026, entrega 2027, micro-rotor ultrafino, FluidForm): Teal, Amber, Violet — fotos HaloTealWrist/HaloAmberWrist/HaloVioletWrist (cdn.shopify 0636/0740/6805). Ace Horizon (Backerkit set/2026) Blue: Horizon_Blue_Web.png. Spectra V1 fotos: V1-Blue_B, V1-Pruple_B, V1-White_B. Atlantic Star AS_x_5.png.
+- Ace MK1 páginas ocultas (vintage brown/beige) dão 404.
