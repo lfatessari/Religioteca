@@ -20,3 +20,4 @@
 - classicwatch: nomes vintage Borelelectric, Borel-Oj, Borelot, Colomborel, Couronne, Emerson, Erbo, Erbograph, Great Society, Lucky Nugget, Mallard, Society, SOS, Start, Versailles, Randez-vous (1946). Buscar os mais prováveis.
 - EveryWatch: só a página de um anúncio apareceu em busca, bloqueada ('Only Collectors'). Contagem total não disponível.
 - Bolso (não entraram): Versailles, repetição de minutos c.1890, carrilhão Westminster. Protótipo automático (Antiquorum 2004) citado sem detalhes.
+- 2ª passada: 6 anúncios eBay (3164…, 3161…, 3048…) deram client_error; não contados como fontes. Códigos tirados dos títulos da busca: GBR708N-251 (Cosmic), GS850N-49021BK.
