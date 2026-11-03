@@ -9,3 +9,4 @@ Yodobashi lista 41 Trume (37 lidos). tokei-search robots; udedokeitoushi client_
 - Site oficial Smart Canvas (epson.jp/s/products/smartcanvas/...) redireciona para suporte (linha encerrada); osirase dá client_error. TRUME também encerrado (lojas: 販売終了). Coluna L: Parcial.
 - Linhas Smart Canvas citadas sem código ainda: Origami, Junko Koshino Four Seasons, Moomin "ムーミン谷の愉快な仲間たち", Disney (2017-11), Kamen Rider, Star Wars x4, Matsumoto Yamaga 72 variações, Moomin limitados 2014.
 - Bic Camera: imagem padrão image.biccamera.com/img/<14 dígitos>_A01.jpg
+- Passada 1 encerrada (~100 fontes; últimas 3 sem novidade). Vermelha: Smart Canvas 252 itens na Yodobashi (p.2-6 inacessíveis sem Firecrawl), 72 variações Matsumoto Yamaga, Bandai. Passada 2: Smart Canvas designs faltantes + TRUME lacunas.
