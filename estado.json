@@ -6971,7 +6971,7 @@
   }
  ],
  "em_execucao": "2026-11-03T15:44:32Z",
- "ultimo_sinal": "2026-11-03T15:44:32Z",
+ "ultimo_sinal": "2026-11-03T15:56:27Z",
  "em_andamento_2": {
   "marcas": [
    "Alexandre Martin",
@@ -6987,7 +6987,10 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Angelier: todas",
+   "Alexandre Martin: pausada (poucas fontes)"
+  ],
   "passada": 1
  }
 }
