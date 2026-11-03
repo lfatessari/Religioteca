@@ -1,0 +1,632 @@
+{
+ "marca": "Epson",
+ "usa_codigos": true,
+ "logo": "https://thesvg.org/icon/epson",
+ "site_bloqueado": "Parcial – epson.jp: páginas de produto Smart Canvas e TRUME redirecionam para o suporte (linhas encerradas; TRUME fechou o site em 30/9/2023); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I: a Seiko Epson nasceu da Suwa Seikosha (e Shinshu Seiki), não da Daini Seikosha (que virou Seiko Instruments); tirar o '[⚠️ verificar]'. J: Orient é marca própria e Spring Drive é tecnologia Seiko; relógios com nome Epson: TRUME (2017-2023), Smart Canvas (2014-2019), WristableGPS/Runsense/ProSense, PULSENSE. G: epson.com não tem mais páginas de relógios.",
+ "fontes": [
+  {
+   "url": "https://www.yodobashi.com/maker/5000006276/",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://www.gressive.jp/brand/trume/catalog/151450",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/trume",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/send/brand/201105-trume/01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/send/brand/190524-trume/index.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/send/brand/181029-trume/index.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/trume-by-epson-tl1-ref-mb52-4ac0-satellite-link-light-charge-bronze-limited-model-aus-2020",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/catalog/trume",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1219856.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1274625.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/brand/epson/watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaden.watch.impress.co.jp/docs/news/1071321.html",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://news.mynavi.jp/article/20131106-epson_gps/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/273/1273649/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/518/1518578/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/002/611/2611064/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000028826/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000028820/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000028821/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000028827/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://review.kakaku.com/review/K0000925884/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000028825/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://review.kakaku.com/review/K0000851151/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/002/627/2627129/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/5000004580/",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1147099.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1164994.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://k-tai.watch.impress.co.jp/docs/news/1139545.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bcnretail.com/news/detail/20190124_102547.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://news.mynavi.jp/article/20140127-a471/images/140127.pdf",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/093/1093388/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/111/1111077/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/089/1089170/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biccamera.com/bc/item/3611652/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walkerplus.com/article/51406/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ascii.jp/elem/000/000/861/861404/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://otakuusamagazine.com/new-evangelion-watches-are-smart-sort-of/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://digitaltrends.com/?p=863622",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.trendhunter.com/trends/canvas-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/92231",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biccamera.com/bc/c/brand/womenswatch/smartcanvas/index.jsp",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.epson.jp/s/products/smartcanvas/yamaga/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.epson.jp/products/back/smartcanvas/spec.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://item.rakuten.co.jp/hstyle/item-53745/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kakaku.com/watch_accessory/watch/itemlist.aspx?pdf_se=136",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://news.mynavi.jp/article/20140808-a149/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://item.rakuten.co.jp/hstyle/item-52917/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/082/1082490/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/088/1088965/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/002/621/2621328/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gamebiz.jp/news/221537",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gamebiz.jp/news/214124",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/D0fzK",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/ZKjmm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/1595373",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.webchronos.net/features/56675/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.webchronos.net/features/57663/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/trume/catalog/163155",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/trume/catalog/163156",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0496/hotitem/208210",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0496/hotitem/208196",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0496/hotitem/208204",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0496/hotitem/208201",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sofmap.com/product_detail.aspx?sku=18227627",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://store.shopping.yahoo.co.jp/watch-lab/w1-mm10210.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.biccamera.com/bc/item/3840287/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://game.watch.impress.co.jp/docs/news/1091704.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://game.watch.impress.co.jp/docs/news/1146032.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.4gamer.net/games/394/G039478/20181003032/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://internetcom.jp/200571/smart-canvas-peanuts-65th-3rd-model",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch/%E3%82%A8%E3%83%97%E3%82%BD%E3%83%B3%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9/23140",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.sofmap.com/product_detail.aspx?sku=19260697",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch/%E3%83%A0%E3%83%BC%E3%83%9F%E3%83%B3%20%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9/0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fril.jp/brand/4823/used/31",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://epson.com/For-Home/Watches/GPS-Watches/ProSense-57-GPS-Running-Watch---Black/p/E11E222012",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.roadtrailrun.com/2017/11/epson-prosense-gps-watch-line-launches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dcrainmaker.com/2017/11/prosense-triathlon-everything.html",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://ablogtowatch.com/epson-trume-advanced-analog-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.plus9time.com/blog/2017/8/1/trume-a-new-epson-watch-brand",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/64829",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://getnavi.jp/fashion/238525/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.kitamura.jp/watch/sell/item/0000908742/price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/15078991567",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.com/p/697210004",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/2326136463",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://car.watch.impress.co.jp/docs/news/1089604.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tokusatsunetwork.com/2019/12/premium-bandai-announces-kamen-rider-zero-one-heisei-kamen-rider-x-epson-smart-canvas-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://soranews24.com/2015/12/13/this-evangelion-watch-is-on-your-wrist-all-is-right-with-the-world/amp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gogi.in/epson-smart-canvas-peanuts-65th-anniversary-joe-cool-watch-why-collectors-are-still-hunting-this-discontinued-snoopy-timepiece.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bcnretail.com/news/detail/20180604_63324.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.post.japanpost.jp/notification/pressrelease/2020/00_honsha/0110_02_01.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kunkoku.jp/?p=21344",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://news.mynavi.jp/article/20141002-epson/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/2015/01/15/epson-pulsense/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1195714.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/trume/catalog/184090",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/268/1268646/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/587/1587244/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetzamurai.jp/?p=41065",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gamebiz.jp/news/212373",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.atpress.ne.jp/news/136642",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://getnavi.jp/digital/328627/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://animeanime.jp/article/2020/05/12/53595.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://animeanime.jp/article/2019/10/27/49246.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.atpress.ne.jp/news/172711",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://resemom.jp/release/prtimes/20190208/51804.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://resemom.jp/release/prtimes/20150527/11591.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.famitsu.com/news/201910/23185495.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/60293",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://am.bandainamco-am.co.jp/documents/news/2018/06/20180607_14-P-019.pdf",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://travel.watch.impress.co.jp/docs/news/1274194.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1309644.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.epson.jp/osirase/2020/201022_2.htm",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://watch.lian-sakai.jp/2020/09/08/trume/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatch-tearoom.com/entry/disappearance-brand-0208/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.powerwatch.jp/2021/03/11/trume-2/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnavi.getnavi.jp/topics/51615",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://kaden.watch.impress.co.jp/docs/news/622151.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://kaden.watch.impress.co.jp/docs/news/599881.html",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://k-tai.watch.impress.co.jp/docs/news/1019570.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://travel.watch.impress.co.jp/docs/news/713547.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/K0000822956/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://kaden.watch.impress.co.jp/docs/news/552077.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://k-tai.watch.impress.co.jp/docs/news/20131106_622316.html",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
