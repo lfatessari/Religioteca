@@ -4,3 +4,6 @@ Site oficial: eska-watches.fr (G vazio na planilha). B "França" e C "Suíça" i
 - Pendente: 'Amphibian 250 Cœur de Paris' citado no verygoodlord (sem detalhe); buscar. Royce = submarca Sylvan Kocher (não incluída, exceto 'Eska Royce Ellipse' vendido como Eska). Site eska-watches.fr não aparece em buscas; Firecrawl sem créditos.
 - Ricardo.ch: 'St. Moritz ultra thin lapis lazuli Night Sky' (só título, não abriu) -> entra por título da busca.
 - SITE OFICIAL REAL: eskawatches.com (Shopify) — achado só com busca 'extended'. eska-watches.fr citado por jamaisvulgaire/franceclat. Refs oficiais: 1094 Black Sea (500, Kickstarter), 1094-1 BS, 1094-H H-Hour(50), 1095 WS, 1095-1 RV, 1095-2 GT, 1095-3 BD, 250-BH, CDP(136), SK25, SK25PN(25 cada). 16 relógios no all, 14 no all_products.
+- Logo: https://www.eskawatches.com/cdn/shop/files/eska_blk.svg?v=1749310093&width=159
+- História oficial: fundada 1918 em Selzach por Sylvan Kocher (S. Kocher & Co), muda p/ Grenchen 1937, fábrica no Brasil (Eska Relógios Ltda, 1949), fecha 1987 (>250 modelos de catálogo). Relançada 2024 por Chevreton e Knezevic, montagem Besançon.
+- Kibble: diz relançamento em 2019 (100 anos); oficial diz 2024. Kibble tem coleções Eska stock/sold (links não vieram de busca).
