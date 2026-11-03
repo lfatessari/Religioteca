@@ -6734,7 +6734,7 @@
     }
   ],
   "em_execucao": "2026-11-03T05:41:51Z",
-  "ultimo_sinal": "2026-11-03T05:58:19Z",
+  "ultimo_sinal": "2026-11-03T06:04:45Z",
   "em_andamento_2": {
     "marcas": [
       "Ernest Borel"
@@ -6747,6 +6747,8 @@
     "secoes_feitas": [
       "1",
       "2",
+      "4",
+      "8-parcial",
       "9-parcial"
     ],
     "passada": 1
