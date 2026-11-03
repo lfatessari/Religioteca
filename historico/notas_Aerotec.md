@@ -8,3 +8,12 @@
 - kicktraq redirecionou para endereço que pediu permissão (não aberto).
 - Loja oficial: 51 produtos (inclui acessórios) em 4 páginas; pág 1 e 3 lidas (sem fotos). Faltam pág 2 e 4. Fotos: products.json via Firecrawl após 13:43.
 - Ace X GMT Diver: Burgundy/Black, Green, Red, Silver. Ace MKII: Blue, Bronze, Green. Atlantic (titânio minimalista): Orange, Raspberry, Teal. Atlantic Star: Aurora Flame, Coastal Drift, Coastal Mirage (+ Lagoon Drift, Twilight Abyss). Sea Hunt: Blue, Blue rose gold, Burgundy, Burgundy rose gold, Meteorite, Meteorite silver. Spectra V1 Blue/Purple/White; V2 Blue/Purple/White.
+- Forte Titanium Diver AF1–AF8 (AF1 e AF5 Ice blue; AF5 com DLC preto). Foto AF5: cdn/shop/products/FSpecSheet_daa6702a..._1200x1200.png. Faltam cores AF2-4,6-8.
+- Black Label Wave (Aero Dive no KS out/2023): textured Glacier Blue, Snow White, Sunset Orange; stone Amazonite, Amethyst, Aventurine. 39mm, Miyota 9039, 300m.
+- Atlantic Star: + Lagoon Drift, Twilight Abyss (página 2).
+- Ace Horizon (bronze, piloto que vira mergulhador) — backerkit (título). Ace MKII.
+- Bay e Coral Bay não estão mais na loja.
+- Ace (bronze, KS jan/2021, NH38A, 40mm, 200m, CuSn8): Vintage Blue, Vintage Brown, Vintage Beige (+ Vintage Black visto no eBay 156400064519). Foto geral: thecoolector aerotec-ace-pilot-watches-scaled.jpg; watchdavid og Aerotec-Ace-Bronze-Watches-08.jpg
+- AF7 = Forte DLC mostrador preto (seriouswatches, foto PRE1544-3).
+- Forte (KS fev/2022, 50 peças por cor, Miyota 9015, 40mm Ti, 200m): AF1 ice blue, AF2 ice violet, AF3 black sand, AF4 full lume (branco), AF5 ice blue DLC, AF7 black sand DLC, AF8 full lume DLC, AF6 (provável ice violet DLC — não confirmado). Fotos FSpecSheet_<hash>_1200x1200.png: AF2 92c62976..., AF3 82e003ba..., AF5 daa6702a..., AF7 e07275c5..., AF8 360b8d72...
+- Fundador citado no blog: Terence See (autor dos posts).
