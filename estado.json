@@ -6717,7 +6717,7 @@
     }
   ],
   "em_execucao": "2026-11-03T04:41:50Z",
-  "ultimo_sinal": "2026-11-03T04:45:15Z",
+  "ultimo_sinal": "2026-11-03T04:54:12Z",
   "em_andamento_2": {
     "marcas": [
       "Eric Freitas"
@@ -6729,7 +6729,8 @@
     "notas": "historico/notas_Eric_Freitas.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c"
     ],
     "passada": 1
   }

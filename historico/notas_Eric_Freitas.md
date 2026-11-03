@@ -10,3 +10,9 @@
 - Archives 2009-13: Mechanical No.6, No.7, Quartz No.8-16, Cast No.2 (sem fotos individuais na leitura). Archives 2004-08: First Exhibition, Mechanical No.1-5, Quartz No.1-7.
 - quartzclocks: só IMG_xxxx sem nomes.
 - Seções feitas: 1, 2 (galeria+loja; blog p1). Falta: blog páginas antigas, deviantart por peça, imprensa.
+- Blog: offset ignorado (sempre p1). Cadeia de posts: small-and-fun(7/10/25) <- dial-markings-finished(27/9) <- getting-close-now(24/9) <- finished-front ... (só progresso). Peças nomeadas 2025-26: Thin Horizon, I-II-III, Branchy (2025), Twisted Branch (=New clock finished 31/10/25?), Tabletop Tick Tock (1º de mesa, enviado à Austrália), 7-6-5, Three; em andamento: Synodic 17, Tellurion (desenho), quartzo horizontal sem nome.
+- Lojas shop/thin-horizon e shop/i-ii-iii: client_error (vendidos).
+- Coilhouse 2008: No.5 (flickr 3120/2300186367_030dabe17f.jpg), No.2 (flickr 3073/2300186379_ddf5ea6a4c.jpg); em 2008 havia 5 mecânicos e 2 quartzo.
+- gizmodo: PROVENANCE (pulado); benedante: loop redirecionamento; pinterest robots.
+- paulshapera: fotos do site antigo via i0.wp.com/www.ericfreitas.com/gallery/{quartz,mechanical}/000N/full_X.jpg (N = número da peça): quartz 0001,0002,0007,0009; mechanical 0003,0004,0005,0006.
+- DeviantArt: Quartz No.6 (2008), Nine (2017, Big Cartel), Floating (2017, 20x9x2 quartzo), I-II-III (2017, 12x8x2.5 quartzo), Twisted Twelve v2 (2018, 5 pés, Seattle), 8th of June (2016), Horizon (660548726), Floating XII detail (637934021), No.1-1, No.6, No.7 update, Untitled (576595090). Loja antiga Big Cartel.
