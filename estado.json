@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 501,
- "ultima_versao": 416,
+ "ultima_versao": 417,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6885,6 +6885,12 @@
    },
    "fora_da_sequencia": true,
    "obs": "Loja Shopify com 31 relógios publicados + ocultos despublicados. Vermelha: cidades em séries de 10 bairros com exemplar único cada, Event Horizon com 8 buracos negros, sob medida (Solar6, Façonnage). Sem Firecrawl (sem créditos)."
+  },
+  {
+   "data": "2026-11-03",
+   "versao": 417,
+   "marca": "Abinger",
+   "obs": "corrigido a pedido do usuário: faixa 3 → 2 (F 5100 → 4700), registro em M."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
