@@ -6,3 +6,4 @@
 - Índia: AP Group distribui desde dez/2021 (Nykaa, códigos ES1L4xx–5xx).
 - Licença Egana-Goldpfeil até 2009 (insolvente); Mywa desde mai/2009. Coleções 2006 e 2009 citadas na imprensa.
 - 1ª passada encerrada às 23h15 com 62 fontes (marca enorme, fontes continuam rendendo; vermelha). 2ª passada: vintage, Esprit Collection (EL), edc (EE), kids.
+- Europa Star fev/2004: licença de relógios concedida em 1993, lançamento internacional em 1994.
