@@ -21,3 +21,4 @@ Logo: https://equipewatches.com/cdn/shop/files/logo.png?v=1613541215 (a conferir
 Decisão: VERMELHA — linhas licenciadas (Corvette by Equipe EV1xx/3xx/4xx/5xx, Mustang by Equipe EQB10x, Chevy 100th EQV10x) só parcialmente vistas; buracos E101-102, E401/404/408, E502/504/506, E715/719/721, E802/805, E905/913, ET202/204, ET301/304/305, ET403/404/406, Q401/402.
 Site oficial: collections/all p.2-5,7-9 e coleções dash/coil/stud/push/arciform/spring/rollbar/gasket/big-block/bumper/frontpage não alcançadas (links da home pedem permissão; Firecrawl sem créditos).
 ## Passada 2 (alvos: licenciadas + buracos)
+## Passada 2: 17 fontes, 5 novos (EQB107, E102, ET202, ET204, ET304) + E101 do título de busca. Parou: 3 seguidas sem novidade. 5+ novos → passada 3.
