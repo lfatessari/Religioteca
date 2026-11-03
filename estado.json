@@ -6915,8 +6915,6 @@
    "linha_marcas": 225
   }
  ],
- "em_execucao": "2026-11-03T11:34:31Z",
- "ultimo_sinal": "2026-11-03T11:34:31Z",
  "em_andamento_2": {
   "marcas": [
    "Abinger"
@@ -6927,8 +6925,13 @@
   "relogios": "historico/parcial_Abinger2_relogios.txt",
   "fontes": "historico/parcial_Abinger2_fontes.txt",
   "notas": "historico/notas_Abinger.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "3",
+   "9",
+   "instagram-tentado"
+  ],
   "passada": 2,
-  "pedido": "usuário pediu mais sobre a Abinger, inclusive Instagram"
+  "pedido": "usuário pediu mais sobre a Abinger, inclusive Instagram",
+  "pausada": "03/11 11h45: Instagram não abre (robots) e Firecrawl sem créditos até 13:43 UTC; 9 fontes, nenhum relógio novo. Retomar com Firecrawl no Instagram. Não bloqueia outras marcas."
  }
 }
