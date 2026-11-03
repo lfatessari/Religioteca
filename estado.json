@@ -6932,7 +6932,7 @@
   }
  ],
  "em_execucao": "2026-11-03T12:42:32Z",
- "ultimo_sinal": "2026-11-03T12:42:32Z",
+ "ultimo_sinal": "2026-11-03T12:52:34Z",
  "em_andamento_2": {
   "marcas": [
    "Aerotec",
@@ -6944,7 +6944,11 @@
   "relogios": "historico/parcial_Aerotec_relogios.txt",
   "fontes": "historico/parcial_Aerotec_fontes.txt",
   "notas": "historico/notas_Aerotec.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
+  "passada": 1,
+  "fontes_aethelsohn": "historico/parcial_Aethelsohn_fontes.txt"
  }
 }
