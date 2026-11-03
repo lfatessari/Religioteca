@@ -1,0 +1,457 @@
+{
+ "marca": "Blessington",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Nova (v409), achada no Instagram seguido pela @relogioteca. Também aparece como 'Blessington & Co'. Fundação 2020 e 1º lançamento 2021 (fontes divergem). Coleção 'Harro' (2024) citada no site sem descrição. Sapphire Coast, Originals e Gold Coast descontinuadas. | v421: J 'Snowy Monaro Anniversary Series' tem 4 cronógrafos (Glacial Horizon, Kosciuszko Sunset, Alpine Frost, Midnight Summit). Coleções atuais também: Great Barrier Reef, State Series (NSW, QLD, WA, TAS, SA, ACT). Primeira coleção Snowy Monaro (2021): Guthega Blue, Crackenback, Harro, Ivo (50 peças cada). Loja internacional blessingtonwatches.com (endereço nos EUA, Albuquerque NM) e .uk.",
+ "fontes": [
+  {
+   "url": "https://blessington.co/collections/all",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://blessington.co/collections/all?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/pages/special-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://blessington.co/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://blessington.co/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/collections/5-year-anniversary-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/collections/mens-constellation-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/collections/womens-constellation-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/collections/womens",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/collections/the-great-barrier-reef",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/glacial-horizon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/midnight-summit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/alpine-frost",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-blue-tongue-tungesten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-crocodile-tungesten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-eastern-brown-tungsten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-funnel-web-v2-tungesten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-green-tree-tungsten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-migaloo-tungsten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-red-belly-tungsten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-red-kangaroo-tungesten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-tiger-snake-tungesten-42mm-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-tungsten-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-tungsten-42mm-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-automatic-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-automatic-v1-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-32mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-32mm-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/great-barrier-reef-automatic-40-5mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/great-barrier-reef-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/great-barrier-reef-32mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/emerald-sky-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/emerald-sky-32mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/golden-horizon-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/golden-horizon-32mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/violet-dusk-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/violet-dusk-32mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/rose-sky-32mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-corroboree-frog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-crimson-rosella",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-rainbow-lorikeet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/pink-galah",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/pages/our-past-timepeices",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://blessington.co/pages/harro",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/pages/automatics",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/coogee",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/shore-bondi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/state-nsw",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/ocean-glow-42mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/state-qld",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/state-wa",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/state-tas",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/state-sa",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/state-act",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/southern-tide-42mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/the-western-diamondback",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/the-brown-snake",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/the-tiger-snake",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/the-whale-shark-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/the-funnel-web",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/the-migaloo-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-eastern-brown",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/products/the-funnel-web-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessingtonwatches.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessingtonwatches.uk/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eftm.com/2021/08/blessington-watch-review-how-a-couple-of-aussie-lads-created-something-that-looks-the-part-214540",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessingtonwatches.com/pages/about-us-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/products/the-migaloo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcountry.co.uk/watch-review-blessington-red-kangaroo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/pages/reviews",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://blessington.co/pages/watch-instructions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/collections/all?page=1&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InRpdGxlIiwic3YiOiJTaG9yZSB8IE5ld3BvcnQiLCJkIjoiYiIsInVpZCI6OTIxNTIyNTIwMDgyNCwibCI6MTIsIm8iOjB9.pOgTysxN2PAs6ZI0Od7CV7cPgAiqNRgaHM5YhKVjRpY",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blessington.co/collections/accessories",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.trustpilot.com/review/blessington.co",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=C8LcNgOvh4w",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blessingtonwatches.com/collections",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessingtonwatches.com/products/the-whale-shark-tungsten-42mm-3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.trustpilot.com/review/blessington.co",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/pages/faq-kalles",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/collections",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=pyVHs4DIxqM&xstg=CAMSBhUDzO3xHw%3D%3D",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessington.co/collections/tungsten-diver-the-wildlife-collection",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessingtonwatches.uk/collections/all?page=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessingtonwatches.com/collections/womens",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://blessingtonwatches.uk/products/the-whale-shark-steel-32mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessingtonwatches.uk/products/the-whale-shark-steel-32mm-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://blessingtonwatches.com/collections/the-state-collection",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
