@@ -7045,5 +7045,19 @@
       "marca": "Blütezeit",
       "linha_marcas": 225
     }
-  ]
+  ],
+  "em_execucao": "2026-11-03T19:44:36Z",
+  "ultimo_sinal": "2026-11-03T19:44:36Z",
+  "em_andamento_2": {
+    "marcas": [
+      "Baume"
+    ],
+    "linha_marcas": 177,
+    "grande": true,
+    "relogios": "historico/parcial_Baume_relogios.txt",
+    "fontes": "historico/parcial_Baume_fontes.txt",
+    "notas": "historico/notas_Baume.md",
+    "secoes_feitas": [],
+    "passada": 1
+  }
 }
