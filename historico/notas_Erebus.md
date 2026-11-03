@@ -1,0 +1,3 @@
+# Erebus (476) – notas
+Grande: ~130 relógios no site (Ascent 34/36/39/41, HAQ 36/39/41, Ascent 40 GMT, Titan, Origin 40/GMT/41, Nexus, Twenty-Four 38/40, Mother of Pearl). Fundada 2022 (WatchPatrol). Logo: https://erebuswatches.com/cdn/shop/files/erebus-logo-black.svg?v=1742277078
+Não usa códigos (só nome+cor). Coleções do menu: polar-cola, ascent-haq-burgundy-gilt, bronze-aventurine, nexus-premium, origin-limted-edition, the-new-black-ascent-41, erebus-origin, erebus-titan...
