@@ -12,3 +12,4 @@
 - Vintage citados (grail-watch): Cocktail (1953, design Henry DuPasquier; variação Hawaii), Rendez-Vous (despertador AS 1930), Dateoptic (1955), Flash (1958), Sea Gem, Incastar (dispositivo 1947), Deep Blue automatic (Wikipedia). Buscar cada um.
 - eBay: GBR809L-4599 (Herrenuhr kleiner Dreizeiger Diamant) só pelo título da busca; ebay.de/itm/316436706061 não abriu.
 - A buscar: Duke Collection, Rocky II Series, Chambord, Retro Collection II, Jules Borel Officially Certified Chronometer, Calatrava Jumbo 38 mm cal.1130, Automatik Chronometer Double Speed (só título eBay).
+- JD.com tupian: GGR8880T5 (Retro Dual-Time incompleto, = família GS8880T5) não entrou; LGR880-412TN já estava (Danaus).
