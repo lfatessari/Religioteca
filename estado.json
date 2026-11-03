@@ -7034,7 +7034,7 @@
     }
   ],
   "em_execucao": "2026-11-03T18:43:48Z",
-  "ultimo_sinal": "2026-11-03T18:43:48Z",
+  "ultimo_sinal": "2026-11-03T18:51:19Z",
   "em_andamento_2": {
     "marcas": [
       "Baltany"
@@ -7045,7 +7045,9 @@
     "fontes": "historico/parcial_Baltany_fontes.txt",
     "notas": "historico/notas_Baltany.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "2c"
     ],
     "passada": 1
   }
