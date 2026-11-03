@@ -6734,7 +6734,7 @@
     }
   ],
   "em_execucao": "2026-11-03T05:41:51Z",
-  "ultimo_sinal": "2026-11-03T06:18:50Z",
+  "ultimo_sinal": "2026-11-03T06:19:17Z",
   "em_andamento_2": {
     "marcas": [
       "Ernest Borel"
@@ -6755,8 +6755,9 @@
       "7",
       "8",
       "9",
-      "10"
+      "10",
+      "p2"
     ],
-    "passada": 2
+    "passada": 3
   }
 }
