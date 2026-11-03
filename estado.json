@@ -6958,7 +6958,7 @@
   }
  ],
  "em_execucao": "2026-11-03T14:42:33Z",
- "ultimo_sinal": "2026-11-03T14:42:33Z",
+ "ultimo_sinal": "2026-11-03T14:45:56Z",
  "em_andamento_2": {
   "marcas": [
    "Agelocer"
@@ -6968,7 +6968,10 @@
   "relogios": "historico/parcial_Agelocer_relogios.txt",
   "fontes": "historico/parcial_Agelocer_fontes.txt",
   "notas": "historico/notas_Agelocer.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
