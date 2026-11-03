@@ -6906,7 +6906,7 @@
   }
  ],
  "em_execucao": "2026-11-03T10:42:51Z",
- "ultimo_sinal": "2026-11-03T10:42:51Z",
+ "ultimo_sinal": "2026-11-03T10:50:15Z",
  "em_andamento_2": {
   "marcas": [
    "Abinger"
@@ -6916,7 +6916,12 @@
   "relogios": "historico/parcial_Abinger_relogios.txt",
   "fontes": "historico/parcial_Abinger_fontes.txt",
   "notas": "historico/notas_Abinger.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c",
+   "3"
+  ],
   "passada": 1,
   "fora_da_sequencia": true
  }
