@@ -6998,7 +6998,7 @@
   }
  ],
  "em_execucao": "2026-11-03T16:48:11Z",
- "ultimo_sinal": "2026-11-03T16:55:35Z",
+ "ultimo_sinal": "2026-11-03T16:58:34Z",
  "em_andamento_2": {
   "marcas": [
    "Atelier Caradant"
@@ -7010,7 +7010,9 @@
   "notas": "historico/notas_Atelier_Caradant.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "9"
   ],
   "passada": 1
  }
