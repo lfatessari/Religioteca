@@ -7,3 +7,6 @@ Nomes de séries: Dash (E7xx), Grille (E2xx), Headlight (E6xx), Paddle (Q3xx), H
 - E2xx Grille, E6xx Headlight, E7xx Dash, Q3xx Paddle, Q5xx Hemi, T103(?)
 - Tritium: ET1xx Coil (106-110), ET3xx Push (307), ET40x Tube, ET412 Arciform, ET5xx Stud, Rivet (sem código)
 - Firecrawl sem créditos (renova 13:43 UTC 03/11). Imagem eBay 7WgAAOSwQ7haxTU1 = placeholder (E207 usa link do anúncio).
+- 'Equipe Turbo Chronograph' (ebay 226150620235) sem código, pode ser outra marca: não entrou.
+- Séries citadas 2010: Big Block, Octane, BallJoint (US$999, alças 360°), Dash, Bumper, Rollbar, Spring, Chassis, Hemi, Paddle, Grille, Headlight. Lançada na Baselworld 2010.
+- desertcart: páginas sem código nem foto (não usar mais).
