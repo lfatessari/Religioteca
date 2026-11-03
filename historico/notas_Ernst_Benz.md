@@ -7,3 +7,4 @@
 - Masterhorologer: client_error em tudo exceto Varvatos DLC. ablogtowatch Mario Batali (www) pediu permissão; versão sem www abriu.
 - Site oficial ernstbenz.com não aparece em nenhuma busca.
 - amuraworld: marca 'nascida em São Petersburgo' (família de relojoeiros), fundada 1960, instrumentos de precisão.
+- Europa Star: quatro séries Traditional, Contemporary, Instrument, Officer. Varvatos escolheu EB para desfile 2007. Liggins Art and Time 25 peças, 3 mostradores.
