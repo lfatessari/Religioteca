@@ -6717,7 +6717,7 @@
     }
   ],
   "em_execucao": "2026-11-03T04:41:50Z",
-  "ultimo_sinal": "2026-11-03T04:41:50Z",
+  "ultimo_sinal": "2026-11-03T04:45:15Z",
   "em_andamento_2": {
     "marcas": [
       "Eric Freitas"
@@ -6727,7 +6727,10 @@
     "relogios": "historico/parcial_Eric_Freitas_relogios.txt",
     "fontes": "historico/parcial_Eric_Freitas_fontes.txt",
     "notas": "historico/notas_Eric_Freitas.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   }
 }
