@@ -7,3 +7,11 @@
 - dptribune/observer: série "Big Bang" (24 h, mostrador 4 camadas 2,4 mm) = provavelmente a atual Racing. Schwarzwald cal. A4910, Tourbillon cal. A9001.
 - zegarkiclub: 3501A1 Codex (novo), 5201A1, 9001A1.
 - eBay.de quase todos dão client_error.
+- 2c: firecrawl_search site:agelocer.com/products → 50 handles, todos já no products.json (nenhum escondido). Designer Etienne Ruffieux (ex-Zenith/Parmigiani) desenhou os tourbillons.
+- Manta (9301/9302): Makuake 2026, 150 peças, cal. 9301, 40 mm, 9,45 mm, 60 h.
+- Ice Never Melts 2.0 = Makuake (entrega fev/2026), 42,5 mm, cristal K9.
+- Space Station: Indiegogo, cal. A3350, 42x42 mm.
+- calibercorner cita "North Carolina Special Pilot" e "Luzern" → na verdade são modelos Laco (erro do site); não entram.
+- Codex Malachite (feminino quartzo 26x30 mm) = 3402A1 (descrição oficial "Retro Malachite").
+- Relojes Especiales cita "Agelocer Lucern" (pequenos segundos, 2022, AliExpress) sem código.
+- HKTDC: fornecedor Guangzhou Pinlun Watch Co., Ltd. (Guangzhou).
