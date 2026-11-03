@@ -10,3 +10,6 @@ Grande (configurador Custom Timepiece Series, 2000+ combinações). Sozinha.
 - 10654 é Clifton (não Baume). 10688 é Riviera. 10592/10593 Clifton.
 - Era 2018-19: Iconic Series 41 mm alumínio Miyota 82D7 (preto fumê; img sjx BAUME-Icon_Watch_HT-2.jpg); Custom Timepiece: tipos Small Seconds, Retrograde, Moonphase (35/41 mm, aço/ródio/PVD preto/ouro rosa). Limited: HRS (Erik Ellington, 100 peças, 42 mm, jan/2019 → lançado out/2018), ZAG (esqui, 100 peças, 42 mm, fev/2019). Peter Millar x Baume 2019 (petermillar as19a500, sem dados).
 - Fotos 2018 Custom wristreview: 41 aço coton beige, 35 or coton gris.
+- 10684: 41 mm aço, verde sunray, algodão preto costura verde, Ronda 6004.D (img watchesandbeyond). 10687: 35 mm PVD ouro rosa, prateado opalino, flange preto, algodão preto. 10685: 35 mm aço/PVD, azul, têxtil preto (descontinuado). 10686: 41 mm PVD/PACVD, cinza, cortiça (brogle).
+- Moon phase 2021: 10637 41 mm aço, azul laqueado, algodão; 10638/10639 35 mm (PVD ouro 5N azul/algodão azul OU aço branco fosco/linho natural). 10639 = linho (Mr Porter) → aço branco; 10638 = PVD ouro azul.
+- Custom 2018 retrograde: Miyota JR00; small seconds Ronda 6004D; moon phase Miyota 6P20 (bespokeunit).
