@@ -8,3 +8,5 @@ Grande (configurador Custom Timepiece Series, 2000+ combinações). Sozinha.
 - Pendente: era 2018-19 (Iconic/Custom) — buscar refs/nomes de edições (Iconic tinha edição por estação).
 - 10680 Baume Automatic 42 mm alumínio, SW200-1, azul, pulseira de plástico oceânico (ethos). 10599 = 41 mm PVD preto, antracite, cortiça preta costura verde (helveti, img i00.eu/img/606/1024x1024/13eqjq6m/278022.jpg). 10603 = 35 mm aço/PVD (ouro rosa) azul, têxtil azul (carollinum img).
 - 10654 é Clifton (não Baume). 10688 é Riviera. 10592/10593 Clifton.
+- Era 2018-19: Iconic Series 41 mm alumínio Miyota 82D7 (preto fumê; img sjx BAUME-Icon_Watch_HT-2.jpg); Custom Timepiece: tipos Small Seconds, Retrograde, Moonphase (35/41 mm, aço/ródio/PVD preto/ouro rosa). Limited: HRS (Erik Ellington, 100 peças, 42 mm, jan/2019 → lançado out/2018), ZAG (esqui, 100 peças, 42 mm, fev/2019). Peter Millar x Baume 2019 (petermillar as19a500, sem dados).
+- Fotos 2018 Custom wristreview: 41 aço coton beige, 35 or coton gris.
