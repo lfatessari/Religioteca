@@ -6676,7 +6676,7 @@
     }
   ],
   "em_execucao": "2026-11-03T02:42:09Z",
-  "ultimo_sinal": "2026-11-03T03:06:05Z",
+  "ultimo_sinal": "2026-11-03T03:07:41Z",
   "em_andamento_2": {
     "marcas": [
       "Equipe"
@@ -6690,9 +6690,10 @@
       "1",
       "2(parcial)",
       "3",
-      "5(parcial)",
+      "5",
       "7",
-      "8"
+      "8",
+      "9(parcial)"
     ],
     "passada": 1
   }
