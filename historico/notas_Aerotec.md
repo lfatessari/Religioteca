@@ -23,3 +23,4 @@
 - Dialicious: fundação 2016 (M: data divergente da coluna I, que fala 2019/2022).
 - Home: Halo (KS out-nov/2026, entrega 2027, micro-rotor ultrafino, FluidForm): Teal, Amber, Violet — fotos HaloTealWrist/HaloAmberWrist/HaloVioletWrist (cdn.shopify 0636/0740/6805). Ace Horizon (Backerkit set/2026) Blue: Horizon_Blue_Web.png. Spectra V1 fotos: V1-Blue_B, V1-Pruple_B, V1-White_B. Atlantic Star AS_x_5.png.
 - Ace MK1 páginas ocultas (vintage brown/beige) dão 404.
+- Fotos: Sea Hunt Blue ZUL07158_1200x1200.jpg?v=1653643910; Burgundy ZUL07158_f6e43adf-..._1200x1200.jpg?v=1653644027; Blue RG SHBRG_1200x1200.jpg?v=1660294265; Burgundy RG ZUL07158_01aed4d5-..._1200x1200.jpg?v=1653644314; Ace X Red CASE_43_7e0108d8-..._1200x1200.png?v=1674799324; Atlantic og compartilhado (www.aerotecwatches.com_62 / _60 orange).

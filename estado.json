@@ -6932,7 +6932,7 @@
   }
  ],
  "em_execucao": "2026-11-03T12:42:32Z",
- "ultimo_sinal": "2026-11-03T12:57:49Z",
+ "ultimo_sinal": "2026-11-03T13:00:33Z",
  "em_andamento_2": {
   "marcas": [
    "Aerotec",
@@ -6946,9 +6946,17 @@
   "notas": "historico/notas_Aerotec.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3",
+   "5",
+   "7",
+   "8",
+   "9"
   ],
   "passada": 1,
-  "fontes_aethelsohn": "historico/parcial_Aethelsohn_fontes.txt"
+  "fontes_aethelsohn": "historico/parcial_Aethelsohn_fontes.txt",
+  "relogios_aethelsohn": "historico/parcial_Aethelsohn_relogios.txt",
+  "nota": "Dados prontos; falta só melhorar fotos com Firecrawl (créditos ~13:43 UTC) e gravar."
  }
 }
