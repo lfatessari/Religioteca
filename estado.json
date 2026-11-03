@@ -7032,5 +7032,21 @@
       "marca": "Blütezeit",
       "linha_marcas": 225
     }
-  ]
+  ],
+  "em_execucao": "2026-11-03T18:43:48Z",
+  "ultimo_sinal": "2026-11-03T18:43:48Z",
+  "em_andamento_2": {
+    "marcas": [
+      "Baltany"
+    ],
+    "linha_marcas": 169,
+    "grande": true,
+    "relogios": "historico/parcial_Baltany_relogios.txt",
+    "fontes": "historico/parcial_Baltany_fontes.txt",
+    "notas": "historico/notas_Baltany.md",
+    "secoes_feitas": [
+      "1"
+    ],
+    "passada": 1
+  }
 }
