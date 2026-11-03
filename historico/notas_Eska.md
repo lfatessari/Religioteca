@@ -7,3 +7,6 @@ Site oficial: eska-watches.fr (G vazio na planilha). B "França" e C "Suíça" i
 - Logo: https://www.eskawatches.com/cdn/shop/files/eska_blk.svg?v=1749310093&width=159
 - História oficial: fundada 1918 em Selzach por Sylvan Kocher (S. Kocher & Co), muda p/ Grenchen 1937, fábrica no Brasil (Eska Relógios Ltda, 1949), fecha 1987 (>250 modelos de catálogo). Relançada 2024 por Chevreton e Knezevic, montagem Besançon.
 - Kibble: diz relançamento em 2019 (100 anos); oficial diz 2024. Kibble tem coleções Eska stock/sold (links não vieram de busca).
+- Dialicious p2 cita 'Eska Calendar' (dia/data/mês, dress) sem foto — buraco; e 'Digital jump hour' (=Direct Read). 1ª passada encerrando: últimas fontes sem novidade: dialicious p2, uhren-muser, + próximas.
+## Fim da 1ª passada (122 fontes): 3+ fontes seguidas sem novidade (dialicious p2, uhren-muser, buyingtime, lenouveaureveil).
+Decisão: VERMELHA — >250 modelos de catálogo vintage (história oficial), maioria sem nome/foto; cloisonnés em série; linhas St. Moritz, moedas, Calendar sem foto. 2ª passada: Brasil (Eska Relógios Ltda), Japão, Bonhams/Christie's, St. Moritz, Calendar, Catawiki, Chrono24 via busca.
