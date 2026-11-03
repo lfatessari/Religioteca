@@ -14,3 +14,4 @@
 - A buscar: Duke Collection, Rocky II Series, Chambord, Retro Collection II, Jules Borel Officially Certified Chronometer, Calatrava Jumbo 38 mm cal.1130, Automatik Chronometer Double Speed (só título eBay).
 - JD.com tupian: GGR8880T5 (Retro Dual-Time incompleto, = família GS8880T5) não entrou; LGR880-412TN já estava (Danaus).
 - Coleções chinesas sem código achado: 星钻 (Star Diamond), 山茶花 (Camellia), 月相典雅 (Moonphase Elegant), 蝴蝶花 (=Iris).
+- Artigo 18111: a marca tem '30 coleções com mais de 250 modelos' (c. 2014) → vermelha com certeza.
