@@ -6922,7 +6922,7 @@
   }
  ],
  "em_execucao": "2026-11-03T11:42:19Z",
- "ultimo_sinal": "2026-11-03T11:47:56Z",
+ "ultimo_sinal": "2026-11-03T11:49:43Z",
  "em_andamento_2": {
   "marcas": [
    "Addiesdive"
@@ -6934,7 +6934,9 @@
   "notas": "historico/notas_Addiesdive.md",
   "secoes_feitas": [
    "1",
+   "2",
    "3",
+   "7",
    "8"
   ],
   "passada": 1
