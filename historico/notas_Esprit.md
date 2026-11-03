@@ -4,3 +4,4 @@
 - Usa códigos: sim.
 - História das licenças: Mywa (Suíça) ~2009–jun/2017 (códigos ES10xxxxxx / ES90xxxxxx); TMS Group (Hong Kong) jul/2017– (códigos ES1L/ES1G; linhas Refreshed e Lab no Reino Unido, Bezel Watches 2018); Christ (Alemanha) licença Europa desde 01/2023 (nomes Steady, Fortune, Bonny, Elegance, Structure, sem código; GTIN 4064721…); coleção mais recente com GTIN italiano 8056783… (Little Square, Round Square).
 - Índia: AP Group distribui desde dez/2021 (Nykaa, códigos ES1L4xx–5xx).
+- Licença Egana-Goldpfeil até 2009 (insolvente); Mywa desde mai/2009. Coleções 2006 e 2009 citadas na imprensa.
