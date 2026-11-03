@@ -6658,7 +6658,7 @@
   }
  ],
  "em_execucao": "2026-11-03T01:42:21Z",
- "ultimo_sinal": "2026-11-03T01:42:21Z",
+ "ultimo_sinal": "2026-11-03T01:45:50Z",
  "em_andamento_2": {
   "marcas": [
    "Epson"
@@ -6668,7 +6668,9 @@
   "relogios": "historico/parcial_Epson_relogios.txt",
   "fontes": "historico/parcial_Epson_fontes.txt",
   "notas": "historico/notas_Epson.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
