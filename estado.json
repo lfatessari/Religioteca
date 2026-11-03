@@ -6676,7 +6676,7 @@
     }
   ],
   "em_execucao": "2026-11-03T02:42:09Z",
-  "ultimo_sinal": "2026-11-03T02:47:33Z",
+  "ultimo_sinal": "2026-11-03T02:55:45Z",
   "em_andamento_2": {
     "marcas": [
       "Equipe"
@@ -6688,7 +6688,9 @@
     "notas": "historico/notas_Equipe.md",
     "secoes_feitas": [
       "1",
+      "2(parcial)",
       "3",
+      "5(parcial)",
       "7",
       "8"
     ],
