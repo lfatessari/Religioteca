@@ -4,3 +4,4 @@ Falta: produtos escondidos (signature-citymaps-ville-au-choix, peças Event Hori
 Ocultos (§2c): achados 6 por título de busca + Black Graphite (aberto). Solar6 (Dialicious) a buscar. FL 1889 = homenagem à Torre Eiffel.
 - Monet (centenário 2026) em preparação (La Gazette abr/2026) – não lançado. Event Horizon: nomes das peças não publicados. Vermelho provável (sob medida, peças com nome de buraco negro).
 Passada 1 encerrada (31 fontes; 3 seguidas sem novidade). VERMELHA: sob medida, Event Horizon com nomes de buracos negros, ocultos sem foto. Começa passada 2.
+Passada 2: 10 fontes, 5 novos (3 de fontes abertas + 2 ocultos por busca site:). => fazer passada 3.
