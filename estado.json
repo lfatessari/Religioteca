@@ -7047,7 +7047,7 @@
     }
   ],
   "em_execucao": "2026-11-03T19:44:36Z",
-  "ultimo_sinal": "2026-11-03T20:01:32Z",
+  "ultimo_sinal": "2026-11-03T20:02:24Z",
   "em_andamento_2": {
     "marcas": [
       "Baume"
@@ -7057,7 +7057,20 @@
     "relogios": "historico/parcial_Baume_relogios.txt",
     "fontes": "historico/parcial_Baume_fontes.txt",
     "notas": "historico/notas_Baume.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b"
+    ],
+    "passada": 2
   }
 }

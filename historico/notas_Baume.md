@@ -13,3 +13,5 @@ Grande (configurador Custom Timepiece Series, 2000+ combinações). Sozinha.
 - 10684: 41 mm aço, verde sunray, algodão preto costura verde, Ronda 6004.D (img watchesandbeyond). 10687: 35 mm PVD ouro rosa, prateado opalino, flange preto, algodão preto. 10685: 35 mm aço/PVD, azul, têxtil preto (descontinuado). 10686: 41 mm PVD/PACVD, cinza, cortiça (brogle).
 - Moon phase 2021: 10637 41 mm aço, azul laqueado, algodão; 10638/10639 35 mm (PVD ouro 5N azul/algodão azul OU aço branco fosco/linho natural). 10639 = linho (Mr Porter) → aço branco; 10638 = PVD ouro azul.
 - Custom 2018 retrograde: Miyota JR00; small seconds Ronda 6004D; moon phase Miyota 6P20 (bespokeunit).
+- ZAG Limited Edition II (mar/2020, 100 peças, 42 mm, madeira+carbono de esqui, Miyota auto, EUR 1200; img maxim baum-watch-ski-promo-scaled.jpg). Riviera Aurélien Giraud 10789 é Riviera (fora).
+- 1ª passada encerrada (3 últimas sem novidade exceto ZAG II). Decisão: VERMELHA (configurador 2018-19 com 2000+ combinações; versões pré-desenhadas não listadas). 2ª passada: buscar versões da era 2018-19.
