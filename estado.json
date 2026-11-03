@@ -6734,7 +6734,7 @@
     }
   ],
   "em_execucao": "2026-11-03T05:41:51Z",
-  "ultimo_sinal": "2026-11-03T05:46:19Z",
+  "ultimo_sinal": "2026-11-03T05:50:19Z",
   "em_andamento_2": {
     "marcas": [
       "Ernest Borel"
@@ -6746,7 +6746,8 @@
     "notas": "historico/notas_Ernest_Borel.md",
     "secoes_feitas": [
       "1",
-      "2-loja"
+      "2-loja",
+      "2-noticias-parcial"
     ],
     "passada": 1
   }
