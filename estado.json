@@ -6761,6 +6761,12 @@
    "grande": false,
    "fora_da_sequencia": true,
    "obs": "Firecrawl sem créditos. Claret (ed. limitada) e Nimrod Blue sem foto (link da página)."
+  },
+  {
+   "data": "2026-11-03",
+   "marca": "Abinger",
+   "complemento": true,
+   "obs": "Pedido do usuário: procurar mais e no Instagram. 9 fontes novas, nenhum relógio novo; Instagram não abriu (robots). Usuário pediu para deixar o Firecrawl/Instagram de lado e encerrar. Notas em historico/notas_Abinger.md."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -6914,19 +6920,5 @@
    "marca": "Blütezeit",
    "linha_marcas": 225
   }
- ],
- "em_andamento_2": {
-  "marcas": [
-   "Addiesdive"
-  ],
-  "linha_marcas": 19,
-  "grande": true,
-  "relogios": "historico/parcial_Addiesdive_relogios.txt",
-  "fontes": "historico/parcial_Addiesdive_fontes.txt",
-  "notas": "historico/notas_Addiesdive.md",
-  "secoes_feitas": [],
-  "passada": 1
- },
- "em_execucao": "2026-11-03T11:42:19Z",
- "ultimo_sinal": "2026-11-03T11:42:19Z"
+ ]
 }
