@@ -6700,7 +6700,7 @@
     }
   ],
   "em_execucao": "2026-11-03T03:41:51Z",
-  "ultimo_sinal": "2026-11-03T03:48:14Z",
+  "ultimo_sinal": "2026-11-03T03:51:10Z",
   "em_andamento_2": {
     "marcas": [
       "Erebus"
@@ -6712,7 +6712,10 @@
     "notas": "historico/notas_Erebus.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3",
+      "9"
     ],
     "passada": 1
   }
