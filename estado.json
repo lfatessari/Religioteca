@@ -7086,5 +7086,19 @@
    "marca": "Blütezeit",
    "linha_marcas": 225
   }
- ]
+ ],
+ "em_execucao": "2026-11-03T21:49:05Z",
+ "ultimo_sinal": "2026-11-03T21:49:05Z",
+ "em_andamento_2": {
+  "marcas": [
+   "Blütezeit"
+  ],
+  "linha_marcas": 225,
+  "grande": false,
+  "relogios": "historico/parcial_Blutezeit_relogios.txt",
+  "fontes": "historico/parcial_Blutezeit_fontes.txt",
+  "notas": "historico/notas_Blutezeit.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
