@@ -16,3 +16,8 @@ Links tirados da home pediram permissão (PROVENANCE_REQUIRED): hemi, stud, coil
 Logo: https://equipewatches.com/cdn/shop/files/logo.png?v=1613541215 (a conferir)
 ## Kenmar (contagem de estilos por família): Chassis 3, Dash XXL 14, Hemi 8, Hub 7, Octane 8, Paddle 8, Rollbar 9, Spring 3; Tritium: Arciform 9, Coil 10, Push 6, Rivet 5, Stud 8. Kenmar p.2 (outras famílias) não alcançada.
 - Kenmar tem também as linhas 'Corvette By Equipe' e 'Mustang By Equipe' (licenças GM/Ford).
+- equipetritium.com (site da linha Tritium) bloqueia robots.
+## Fim da passada 1 (106 fontes, ~191 relógios). Parou: 3 fontes seguidas sem novidade (pinterest, ideal-fashions p3, p1).
+Decisão: VERMELHA — linhas licenciadas (Corvette by Equipe EV1xx/3xx/4xx/5xx, Mustang by Equipe EQB10x, Chevy 100th EQV10x) só parcialmente vistas; buracos E101-102, E401/404/408, E502/504/506, E715/719/721, E802/805, E905/913, ET202/204, ET301/304/305, ET403/404/406, Q401/402.
+Site oficial: collections/all p.2-5,7-9 e coleções dash/coil/stud/push/arciform/spring/rollbar/gasket/big-block/bumper/frontpage não alcançadas (links da home pedem permissão; Firecrawl sem créditos).
+## Passada 2 (alvos: licenciadas + buracos)
