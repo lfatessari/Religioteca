@@ -24,3 +24,11 @@
 - Home: Halo (KS out-nov/2026, entrega 2027, micro-rotor ultrafino, FluidForm): Teal, Amber, Violet — fotos HaloTealWrist/HaloAmberWrist/HaloVioletWrist (cdn.shopify 0636/0740/6805). Ace Horizon (Backerkit set/2026) Blue: Horizon_Blue_Web.png. Spectra V1 fotos: V1-Blue_B, V1-Pruple_B, V1-White_B. Atlantic Star AS_x_5.png.
 - Ace MK1 páginas ocultas (vintage brown/beige) dão 404.
 - Fotos: Sea Hunt Blue ZUL07158_1200x1200.jpg?v=1653643910; Burgundy ZUL07158_f6e43adf-..._1200x1200.jpg?v=1653644027; Blue RG SHBRG_1200x1200.jpg?v=1660294265; Burgundy RG ZUL07158_01aed4d5-..._1200x1200.jpg?v=1653644314; Ace X Red CASE_43_7e0108d8-..._1200x1200.png?v=1674799324; Atlantic og compartilhado (www.aerotecwatches.com_62 / _60 orange).
+## 10b auto-auditoria
+1. Blog: 2 artigos (Ace X Diver-GMT, Forte) lidos; sem área de imprensa útil (/pages/the-presss não aparece em busca).
+2. Produtos escondidos: buscas site: acharam aerotec-ace-vintage-brown-dial / beige (404) e Ace full pack deal (404). Loja com 51 itens (4 páginas; pág. 4 não alcançada — 3 itens, provavelmente acessórios/Atlantic Star repetidos).
+3. Lojas: KeepTheTime, Serious Watches, Microbrand Store, eBay. Chrono24: nada.
+4. Primeiro modelo: Sea Hunt (KS 2019). Fundação 2016 (About us).
+5. I/J: todos achados (Sea Hunt, Bay, Coral Bay, Ace, MKII, Ace X GMT, Forte, Atlantic, Atlantic Star, Black Label, Spectra).
+6. Ed. limitada: Ace X GMT Silver 80 peças (Microbrand Store). Forte: 50 por cor (texto em E).
+7. 72 fontes. Parada: últimas 3+ fontes novas sem modelo novo.
