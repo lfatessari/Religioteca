@@ -60,3 +60,32 @@ Lunaris II Schwarz (HS050041, LUNARIS MOND II SCHWARZ) https://wempe-media.com/m
 Opera Tourbillon (wempe, sem foto); Opus Moon Tourbillon Rhodium / Gilded (wempe)
 Lunaris Sanguis (tribbensee, latão polido, ponteiro vermelho) sem foto
 Troja Lunaris M II https://definewatches.com.au/wp-content/uploads/2026/06/Troja-Lunaris-M-II-01.webp
+Opus Perpetual (60) Wempe HS020196 https://wempe-media.com/media/image/OPUSPERPETUALSCHWARZ_HS020196_wempe_01.jpg
+Vitrea / Opus Vitrea (58) Wempe HS050038 https://wempe-media.com/media/image/VITREA_HS050038_wempe_01.jpg
+Opus Moon Tourbillon ródio HS050024 sem foto (link página); dourado HS050025 https://wempe-media.com/media/image/OPUSMOONTOURBILLONVERGOLDET_HS050025_wempe_01.jpg
+Opera Tourbillon HS050020 cal 1399-1 sem foto -> link https://www.wempe.com/en-us/watches/erwin-sattler/erwin-sattler-products/opera-tourbillon-opera-tourbillon
+Opus PM 70 II HS020147 https://wempe-media.com/media/image/OPUSPM70II_HS020147_wempe_01.jpg
+Tide Commander (2018, 44mm ETA 2824, maré) https://quillandpad.com/wp-content/uploads/2018/10/Erwin_Sattler_Tide-Commander.jpg
+Monumentum Temporis (2008, 8,80 m, 50 anos, peça única/monumental) img https://www.watchprosite.com/watchprosite/home/7/raw/home_image.797407.jpg (cabeçalho do artigo)
+Opus Tourbillon (58, cal 1399-1, mesa) brochura tribbensee
+Troja 16 M foto sothebys https://sothebys-com.brightspotcdn.com/8c/74/1c60a3994068809aa00f7b7e8b11/erwin-sattler-watch-winder-main-002.jpg
+Trilogie (2008, conjunto relógio de pulso 46mm Valjoux 7750 + relógio Nautis + winder Rotalis) https://www.ablogtowatch.com/wp-content/uploads/2008/09/erwin-sattler-contentgo-trilogie-000-max.jpg ; Nautis (série relógios regulador 15 dias)
+Classica Medium https://definewatches.com.au/wp-content/uploads/2023/10/Erwin-Sattler-Classica-Medium-100-1-jpg.webp
+Chronograph 66 https://definewatches.com.au/wp-content/uploads/2024/03/Erwin-Sattler-Chronograph-66-jpg.webp
+Classica Secunda 1985 / 1995 (sem M, nogueira) tribbensee — linhas próprias
+Thesaurus (escrivaninha com 2 winders Rotalis, ~2009) https://www.ablogtowatch.com/wp-content/uploads/2010/09/erwin-sattler-thesaurus-111.jpg
+Rotalis 2 edição WatchTime 20 pçs (2022) img https://cdn.ebnermediagroup.de/blt22276bff283176bd/bltfd82aa918f5dac96/66d9b1205026660f387a2d3b/e1205b2b-erwin-sattler-rotalis-2-bear_10cd0ba0ag0ba00y00001o_(1)_649x365.jpg
+Vitrea img alt contentstack Freisteller (fundo liso!) https://eu-images.contentstack.com/v3/assets/blt22276bff283176bd/bltb1b0ca5078489781/68094a7ef18e37b38431cf75/WatchTime-ErwinSattler-Vitrea-Freisteller.jpg
+## Seções feitas: 1,2(bloqueado),2c(não aplicável site; feito nas lojas),3,4
+Mechanica M1 (kit de montagem, Isetan Shinjuku 2015, preto ou cerejeira) https://nrzrbfnxu4s7ucc9gsgt7ehg.global.ssl.fastly.net/item_images/images/2015/09/1341250/tp1.jpg
+Classica S 70 alt img http://diamondsinternational.mt/cdn/shop/files/CLASSICA-S70_1200x1200.png?v=1774349106
+Columna Temporis (2009, europastar) img https://www.europastar.com/europastar/photos/04_2009/ha1.jpg (não legendado) -> usar link página
+Atlantis Orbis (mesa/barco 30°) https://r2.watchonista.com/app/uploads/legacy/watchographer/2914/articles/370341/front/erwin-sattler-atlantis-orbis-02.jpg
+Troja Opus Temporis img watchonista https://www.watchonista.com/sites/default/files/watchographer/2914/articles/370341/body/erwin-sattler-troja-opustemporis.jpg
+Troja Lunaris (1ª geração) img https://www.watchonista.com/sites/default/files/watchographer/2914/articles/370341/body/erwin-sattler-troja-lunaris-0.jpg
+Excelsia (watchonista: imagem rotulada excelsia; definewatches tem Excelsia e Excelsia KS como clocks) img https://www.watchonista.com/sites/default/files/watchographer/2914/articles/370341/body/erwin-sattler-excelsia-0.jpg
+Regulateur Classica Secunda img https://www.watchonista.com/sites/default/files/watchographer/2914/articles/370341/body/erwin-sattler-regulateur-classica-secundas.jpg
+Tischuhr Audi alt img watchonista erwin-sattler-table-clock-audi-design-0.jpg
+Illumina Secunda https://definewatches.com.au/wp-content/uploads/2023/05/Erwin-Sattler-Illumina-Secunda-09-jpg.webp
+jeweller: Troja Lunaris M https://www.jewellermagazine.com/dbimages/155000/155455/155455-1000px.jpg ; Rotalis 60 .../155456/155456-1000px.jpg ; Opus Moon Tourbillon .../155457/155457-1200px.jpg ; Regulateur 1920; Classica Lunaris https://www.jewellermagazine.com/dbimages/155000/155459/155459-1200px.jpg
+Excelsia (cal 1625-4, 185 cm) e Excelsia KS 130 (cal 1675-4) img KS https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Excelsia-KS-130-v1-Featured.jpg ; Excelsia img: watchonista excelsia-0.jpg

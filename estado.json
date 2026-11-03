@@ -6769,7 +6769,7 @@
   }
  ],
  "em_execucao": "2026-11-03T07:42:05Z",
- "ultimo_sinal": "2026-11-03T07:58:26Z",
+ "ultimo_sinal": "2026-11-03T08:02:33Z",
  "em_andamento_2": {
   "marcas": [
    "Erwin Sattler"
@@ -6782,7 +6782,11 @@
   "secoes_feitas": [
    "1",
    "2",
-   "4"
+   "2c",
+   "3",
+   "4",
+   "7",
+   "9"
   ],
   "passada": 1
  }
