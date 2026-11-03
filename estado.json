@@ -6914,5 +6914,21 @@
    "marca": "Blütezeit",
    "linha_marcas": 225
   }
- ]
+ ],
+ "em_execucao": "2026-11-03T11:34:31Z",
+ "ultimo_sinal": "2026-11-03T11:34:31Z",
+ "em_andamento_2": {
+  "marcas": [
+   "Abinger"
+  ],
+  "linha_marcas": 15,
+  "grande": false,
+  "complemento": true,
+  "relogios": "historico/parcial_Abinger2_relogios.txt",
+  "fontes": "historico/parcial_Abinger2_fontes.txt",
+  "notas": "historico/notas_Abinger.md",
+  "secoes_feitas": [],
+  "passada": 2,
+  "pedido": "usuário pediu mais sobre a Abinger, inclusive Instagram"
+ }
 }
