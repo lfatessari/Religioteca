@@ -128,3 +128,12 @@ Chrono24 .com/.de: client_error (bloqueado)
 Carbonautis (navio multi-mostrador, barômetro/higrômetro/termômetro) img https://content.easyliveauction.com/auctions/images_lots/0EC4C634B6A8090C9EE1DC55C2B3AACC_gar02/1100342463.JPG
 Secunda Accurata 1958 (c.2012, cal 1958-5, escape de mola livre) img https://images-catalog.antiquorum.swiss/images/291/lots/432/432.jpg
 Stellina (mesa, cal 2007-1, 8 dias) — ebay título; sem foto
+Catálogo IT ~2013 (yumpu 16335677): + Grande Orologio (pulso, p.44), Semi Secunda (p.55)
+== 2ª passada encerrada (4 últimas fontes sem novidade); trouxe muitos (>5) -> 3ª passada.
+=== 3ª PASSADA
+Semi Secunda 65 (gold.ua/deka.ua títulos; pinterest pin 713046553482073608 'Semi Secunda 65-02')
+Nautis (cromado, cal 1395, 21 cm) img https://archive.watch.de/media/catalog/product/cache/2843be42cc01d66c7b1dee9df6b75c87/1/0/10000044731_1_1.jpg
+Navalis img https://images.grailium.com/cdn-cgi/imagedelivery/RJZULBhRTBtHa9aHuEYtSQ/717d2b32-a8a2-4dad-0b81-8c9a011ad900/w=1200,h=1200,fit=crop
+Chronograph Classica Secunda (2014, ES 03, monopulsante, aço; versão bicolor ouro rosa/aço descontinuada) img https://c9f2k3a8.delivery.rocketcdn.me/wp-content/uploads/2014/11/740-Classic-Seconda-Chronog-1-lres.jpg
+Regulateur Classica Secunda alt img neueuhren https://www.neueuhren.de/wp-content/uploads/2014/11/RegClassicaSecunda-jpeg-lre.jpg ; Tide Commander alt https://www.neueuhren.de/wp-content/uploads/2019/01/BB-Erwin-Sattler-Tide-Comma.jpg
+1stdibs Sicis com movimento Sattler — fora (não é da marca)

@@ -1,0 +1,992 @@
+{
+ "marca": "Erwin Sattler",
+ "usa_codigos": false,
+ "logo": "https://cdn11.bigcommerce.com/s-lre93/images/stencil/100x100/c/erwinsattler-logo_1622125706__55972.original.jpg",
+ "site_bloqueado": "Parcial – erwinsattler.com só aparece em buscas avançadas (abre normalmente); loja shop.erwinsattler.com bloqueia leitura (robots); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G aponta erwinsattler.de; o site oficial é erwinsattler.com (loja shop.erwinsattler.com; EUA: erwinsattlerclocks.com). C: a sede é em Gräfelfing, perto de Munique. I/D: a marca faz sobretudo relógios de pêndulo/parede/mesa e winders, mas também relógios de pulso (Regulateur, Chronograph, Classica Medium/Lunaris).",
+ "fontes": [
+  {
+   "url": "https://www.tribbensee.de/wp-content/uploads/2023/05/Erwin-Sattler-Katalog_Einzelseiten.pdf",
+   "passada": 1,
+   "novos": 55
+  },
+  {
+   "url": "https://parse.gl/brands/erwinsattler-com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/erwin-sattler/chronograph-66-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-chronograph-66/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.definewatches.com.au/erwin-sattler/wall-desk-clocks/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.definewatches.com.au/erwin-sattler/watches/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.definewatches.com.au/erwin-sattler/watch-winders/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.tribbensee.de/repair-service/catalogs-operating-instructions/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/wp-content/uploads/2022/11/Erwin-Sattler-Katalog_Einzelseiten.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/erwin-sattler/erwin-sattler-die-grose-ganz-klein",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.net/brands/standuhr/grosuhren",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.net/brands/wanduhren",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/erwin-sattler/erwin-sattler-neuer-regulator",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.horbiter.com/en/introducing-the-erwin-sattler-watch-manufactory/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/erwin-sattler-maxima-secunda",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleinanzeigen.de/pro/wilhelmtribbensee",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/177262136159",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/erwin-sattler-tischuhr-by-audi-design",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/tischuhren/erwin-sattler-opus-moon-tourbillon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/a-watch-collectors-dream-the-horological-goodies-of-erwin-sattler/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manfredijewels.com/products/erwin-sattler-regulateur-classica-secunda-jumping-seconds",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-267-492",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhren-muser.de/cn/img.html?lot=46050",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/93/42415",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://trademarks.justia.com/owners/erwin-sattler-gmbh-co-kg-grossuhrenmanufaktur-3626651",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://insight-luxury.com/en/2026/03/13/inhorgenta-highlight-erwin-sattler",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/erwin-sattler/mounting-board-nautical-instruments-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tribbensee.de/wp-content/uploads/2022/11/5NkLKc-Erwin-Sattler-VK-Preisliste-2022_DE.pdf",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/erwin-sattler-time-commander-bronze-ii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/limitierte-uhren-editionen/erwin-sattler-time-commander-bronze",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/uhrenbeweger/limitierter-uhrenbeweger-erwin-sattler-rotalis-2-watchtime-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/promotion/hotspot-erwin-sattler-das-faszinierende-zeitobjekt-vitrea",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/erwin-sattler/erwin-sattler-graziosa-60",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/erwin-sattler/understatement-at-its-finest-three-dress-watches-to-kick-off-2023-in-style",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/erwin-sattler-classica-medium-limited",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/watch-news/erwin-sattlers-new-bronze-dial-limited-edition-watch-the-classica-medium-limited/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/watch-news/new-erwin-sattler-troja-sonata-m-ii-a-clock-lovers-view-of-a-modern-precision-masterpiece/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/watch-news/erwin-sattler-troja-16-m-ii-precision-clockmaking-with-a-collectors-hidden-world/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-secunda-1995-m/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-opus-secunda-m-130/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-troja-20/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-opus-k-100-ii-black/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/wall_clocks/classica-secunda-1985-m-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/table-clock-opera-opera-vergoldet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-metallica-100/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-aperia-iii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-ks-100/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-s-70-m/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-opus-pm-70ii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-k-130-m/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-s-100/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-p-70-m/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-60/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-60-m/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-s-70/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-regulateur-1920/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-medium-limited/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-rotalis-30/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-aperia-s-70/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-s-130-m/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-gaziosa-60/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-rotalis-3-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-rotalis-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/pulley-clocks/erwin-sattler-classica-k-100/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-troja-sonata-m-ii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-chronograph-ii-s/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/opus-metallica-100-opus-metallica-100-schw-carbon-zb-schw-weiss",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/erwin-sattler-products/table-clock-opera-opera-verchromt?c=6166",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-chronograph-iii-s/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-metallica-1799-clock/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/erwin-sattler/metallica-1799-schwarz-metallica-1799-schwarz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://old.lionel-meylan.ch/en/?p=100036",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/erwin-sattler/lunaris-ii-hell-lunaris-mond-ii-hell",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/erwin-sattler/lunaris-ii-schwarz-lunaris-mond-ii-schwarz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wempe.com/es-es/relojes/erwin-sattler/opera-tourbillon-opera-tourbillon",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/erwin-sattler/lunaris-sanguis-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-troja-lunaris-m-ii/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-lunaris/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/erwin-sattler/opus-perpetual-opus-perpetual-schwarz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/vitrea-vitrea",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wempe.com/en-int/watches/erwin-sattler/erwin-sattler-products/opus-moon-tourbillon-rhodium-plated-opus-tourbillon?c=12106",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/erwin-sattler-products/opus-moon-tourbillon-gilded-opus-tourbillon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/erwin-sattler-products/opera-tourbillon-opera-tourbillon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/erwin-sattler-products/opus-pm-70-ii-opus-pm-70-ii",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/2018/10/20/3-new-timepieces-from-germany-to-smooth-the-transition-from-warm-summer-to-colorful-fall/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/erwin-sattler-precision-pendulum-clock-manufacture/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tribbensee.de/wp-content/uploads/2022/02/OpusTourbillon_Einzelseiten.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/slideshows/luxurious-watches-to-fill-your-watch-winder-erwin-sattler?locale=de",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/general/erwin-sattler-mixes-old-new-perfectly-with-the-trilogie-watch-clock-winder-combo/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-medium/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/erwin-sattler/erwin-sattler-chronograph-66",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/manufakturkaliber/erwin-sattler-opus-metallica-100",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/erwin-sattler-thesaurus-ultimate-watch-lovers-desk/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/produkte/uhrenbeweger-erwin-sattler-rotalis-2-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/296824912084",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/tischuhren/vom-handgelenk-in-den-wohnbereich-3-aussergewoehnliche-tischuhren",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/watch-news/new-erwin-sattler-rotalis-3-2-sets-a-new-benchmark-in-automatic-watch-winders/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/erwin-sattler/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/1341250",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://diamondsinternational.mt/products/erwin-sattler-clocks",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lionel-meylan.ch/en/?p=100102",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://old.lionel-meylan.ch/en/?p=100110",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lionel-meylan.ch/en/?p=100067",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/news/1003966602-precision-pendulum-clocks-by-erwin-sattler.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/articles/pendulum-precision-erwin-sattler",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.definewatches.com.au/articles/erwin-sattlers-legacy-precision-craftsmanship-finds-home-on-australian-shores/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jewellermagazine.com/Article/13073/Erwin-Sattler-headed-to-Australian-stores",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.definewatches.com.au/shop/erwin-sattler/erwin-sattler-excelsia-ks/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/grandfather_clocks/excelsia-ks-130-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/erwin_sattler_en/excelsia-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/news/155033/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1003878824-stephanie-sattler-rick-co-owner-of-erwin-sattler.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/7082/erwin-sattler-%e2%80%93-orologio-da-polso-regulateur-grigio-secunda/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-lunaris/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/wall_clocks/secunda-lunaris-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/shop/erwin-sattler/erwin-sattler-classica-k-100-ii-m-black/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-int/detail/index/sArticle/122219",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2023/04/28/erwin-sattler-classica-lunaris/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/horological-meandering/erwin-sattler-watches/17.456731.2745171/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/fr/node/370341",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/wall_clocks/classica-secunda-1995-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tribbensee.de/shop/uncategorized/classica-secunda-1985-cherry-tree-erwin-sattler/?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.invaluable.com/auction-lot/erwin-sattler-germany-regulator-im-wiener-biederm-982-c-2be4393dd4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhren-muser.de/cn/img.html?lot=46366",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/28943114-erwin-sattler-classica-a---",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/articles/erwin-sattler-the-pinnacle-of-precision-and-timeless-craftsmanship/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/articles/safe-keep-with-erwin-sattler/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/news/news-a-peak-behind-the-doors-at-erwin-sattler/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/portfolio/nautical-instruments/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.erwinsattler.com/shop-2/nautis/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/portfolio/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/wristwatches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/watchwinder/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/regulator-pulley-clocks/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/precision-pendulum-clocks/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/new-products-2026/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/portfolio/page/2/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/table-clocks/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/ship-clocks/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.glenbryde.com/erwin-sattler?page=2",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://erwinsattlerclocks.com/collections/table-clocks",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/portfolio/columna-temporis/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://erwinsattlerclocks.com/collections/mechanica-clock-kit",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://erwinsattlerclocks.com/collections/all/pre-owned",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://erwinsattlerclocks.com/collections/precision-pendulum-clocks",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://erwinsattlerclocks.com/collections/watch-winders",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://the-luxury-well.myshopify.com/collections/dyiclocks",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://erwinsattlerclocks.com/collections/wristwatches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/erwin-sattler/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/regulator-pulley-clocks-height-100-cm/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/regulator-pulley-clocks-height-70-cm/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://juwelier-oberleitner.de/en/uhren/erwin-sattler-en/regulator-pulley-clocks/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/portfolio/page/6/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/portfolio/page/3/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/downloads_catalogues/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/en/kollektion/regulator-pulley-clocks-height-130-cm/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erwinsattler.com/wp-content/uploads/2023/05/ERWIN_SATTLER_Jubilaeum_1.pdf",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chrono24.com/erwinsattler/index.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juwelier-karat.de/marken/uhrenmarken/erwin-sattler/erwin-sattler-armbanduhren/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.armbanduhren-online.de/uhrenmarken/erwin-sattler/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.neueuhren.de/chronograph-ii-classica-seconda-von-erwin-sattler/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://wohnraumuhren.de/2019/04/27/jubilaeum-60-jahre-erwin-sattler/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yumpu.com/de/document/view/3727853/katalog-im-pdf-format-in-deutscher-sprache-erwin-sattler",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.yumpu.com/de/document/view/3728205/katalog-erwin-sattler",
+   "passada": 2,
+   "novos": 14
+  },
+  {
+   "url": "https://vdocuments.site/sattler-2010-katalog.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://www.erwinsattler.com/en/collection/precision-pendulum-clocks/secunda-accurata-1958.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juwelier-karat.de/marken/uhrenmarken/erwin-sattler/erwin-sattler-tischuhren/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chrono24.de/erwinsattler/index.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.gardinerhoulgate.co.uk/catalogue/lot/cf46468d397c5c3620181e681275e84a/63b778f7668dabe928d3800924a99077/fine-clocks-related-items-lot-1330/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/erwin-sattler-lot-291-432",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/ERWIN-SATTLER-STELLINA-TISCHUHR-UHR-HANDAUFZUG-8-TAGE-WERK-KALIBER-2007-1-BOX-/310912302191",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://deka.ua/erwin-sattler-classica-secunda-2095-3.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chelyabinsk.podarkinadom.ru/watch/Interior/erwin_sattler/all/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yumpu.com/it/document/view/16335677/catalogo-erwin-sattler",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "http://www.produkte24.com/cy/erwin-sattler-uhren-5514/uhren-2011-31800/tischuhren.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juwelier-michels.de/uhren/erwin-sattler",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/brand/erwin-sattler/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gold.ua/prod/wall-clock-semi-secunda-65-1731430",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://orologi.forumfree.it/?t=13485339",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://archive.watch.de/erwin-sattler-schiffsuhr-nautis-mit-15-tage-gangreserveanzeige-messing-verchromt-handaufzug-210mm-kaliber-1395-box-pap-full-set-ungebraucht.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://grailium.com/product/clock/erwin-sattler-navalis-ship-clock-2000s/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "http://www.produkte24.com/cy/exclusive-wohnraumuhren-2876/erwin-sattler-standuhren-14162/uhrenbeweger.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.neueuhren.de/chronograph-classica-secunda/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.neueuhren.de/regulateur-classica-secunda/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.neueuhren.de/erwin-sattler-tide-commander/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/erwinsattler/classica-bronze-limited-70pcs--id25965957.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juwelier-roller.de/pr/erwin-sattler-classica-bronze-iii/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/mehr-schmuck-und-uhren/mehr-schmuck/wanduhr-vergoldete-gold-perlen-saphir-lapislazuli-erwin-sattler-uhrwerk/id-j_9986232",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wohnraumuhren.de/2026/08/20/erwin-sattler-secunda-accurata-freie-federkrafthemmung/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tribbensee.de/produkt-kategorie/erwin_sattler/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wohnraumuhren.de/category/aktuelles/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Sattler-Uhren-in-Wanduhren-Ab-1950/261608/bn_7004990587",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.kleinanzeigen.de/s-kunst/erwin-sattler-uhren/k0c240",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wohnraumuhren.de/reduzierte-uhren/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://fridrich.de/uhren/erwin-sattler/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
