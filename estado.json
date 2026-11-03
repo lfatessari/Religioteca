@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 501,
- "ultima_versao": 422,
+ "proxima_linha_marcas": 502,
+ "ultima_versao": 423,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6995,6 +6995,24 @@
    },
    "fora_da_sequencia": true,
    "obs": "Catálogo fechado: site oficial (bluetezeit.wien, página única) lista N°1.1, 1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 4; bate com aBlogtoWatch, The Limited Edition e independentwatchmaking. Fundada em 2021. Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-03",
+   "versao": 423,
+   "marca": "Esprit",
+   "linha_marcas": 501,
+   "linhas_relogios": "75240-75652",
+   "relogios": 413,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 93,
+   "passadas": {
+    "1": "61 fontes, 192 relógios novos",
+    "2": "20 fontes, 13 relógios novos",
+    "3": "12 fontes, 9 relógios novos"
+   },
+   "obs": "Marca enorme de relógios licenciados (milhares de referências ES1L/ES1G/ES10…); ~200 linhas vieram de títulos de resultados de busca (link da página na coluna C). Só 82 com foto direta. Firecrawl sem créditos. Parou por tempo/contexto, não por esgotamento."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -7098,34 +7116,5 @@
    "notas": "historico/notas_Auriva.md"
   }
  ],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-03T22:45:10Z",
- "ultimo_sinal": "2026-11-03T23:11:09Z",
- "em_andamento_2": {
-  "marcas": [
-   "Esprit"
-  ],
-  "linha_marcas": 501,
-  "grande": true,
-  "relogios": "historico/parcial_Esprit_relogios.txt",
-  "fontes": "historico/parcial_Esprit_fontes.txt",
-  "notas": "historico/notas_Esprit.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a_passada",
-   "3a_passada"
-  ],
-  "passada": 2,
-  "vermelho": true
- }
+ "marcas_novas_sem_relogios": []
 }

@@ -1,0 +1,477 @@
+{
+ "marca": "Esprit",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.watch.co.uk/esprit/?page=2",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://watches.ae/collections/esprit/gents",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewellershop.com/en/esprit/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxoia.com/en/esprit/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/esprit-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/esprit-chronograph-watch-for-men-es1g339m0095",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/esprit-es1g366m0045-analogue-wristwatch-43-mm-wristwatches-25290885",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.it/en/s8/producttype/toplist/brand/wristwatches-163/esprit-4645",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://ebay.de/b/Esprit-Armbanduhren-fur-Damen/31387/bn_13724540",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.nykaafashion.com/designers/esprit/c/7134?p=2",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.nykaaman.com/brands/esprit-accessories/c/6348",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.ebay.de/p/16043617839",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/esprit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/esprit-round-square-damenuhr-analogue-wristwatch-40-mm-wristwatches-55162169",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jewelleryfocus.co.uk/21164-esprit-joins-bezel-watches-portfolio",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.textilwirtschaft.de/fashion-management/esprit-wechseltlizenzpartner-fuer-uhren-und-echtschmuck-138117",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=38814",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fashionunited.de/nachrichten/business/esprit-vergibt-europa-lizenz-fuer-uhren-und-schmuck-an-christ/2022090648104",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ww.fashionnetwork.com/news/Esprit-inks-new-watch-and-jewelry-licenses,809917.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/esprit-damenuhr-steady-analogue-wristwatch-38-mm-wristwatches-39968015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/esprit-damenuhr-fortune-analogue-wristwatch-38-mm-wristwatches-39958984",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/esprit-damenuhr-bonny-analogue-wristwatch-32-mm-wristwatches-39973569",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/esprit-structure-wristwatch-analogue-wristwatch-34-mm-wristwatches-42063196",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/esprit-damenuhr-elegance-analogue-wristwatch-36-mm-wristwatches-49187916",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/esprit-little-square-damenuhr-analogue-wristwatch-wristwatches-55162090",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watch.co.uk/esprit-equalizer-black-chrono-es000t31020.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-es102541004.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/esprit-geometrics-es109052006.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/esprit-chronograph-rare-chronograph-38-mm-wristwatches-39970047",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://galaxus.de/en/s8/product/esprit-herrenuhr-steady-watch-with-gemstone-42-mm-wristwatches-39968816",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/esprit-herrenuhr-spruce-analogue-wristwatch-44-mm-wristwatches-39974962",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-es107292001.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1038677383",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2238505607",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2238686156",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/5034803997",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/18020445714",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/3060621122",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/13060607218",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/16008584716",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/5052377604",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/24027259714",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/537281449",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1880831936",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/2255464587",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2054605831",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/10032629138",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gebraucht-kaufen.de/esprit-uhr",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.fibre2fashion.com/news/fashion-company-news/esprit-fall-holiday-timewear-launched-27185-newsdetails.htm",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2009/12/02/528219/time-season-giving",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.textilwirtschaft.de/fashion-management/esprit-mywa-uebernimmt-uhren-und-schmucklizenz-74921",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.ca/b/Esprit-Wristwatches-with-Chronograph/31387/bn_7113646447",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://br.ebay.com/b/Esprit-Analog-Wristwatches/31387/bn_56282992",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.ebay.de/b/Analoge-Esprit-Armbanduhren/33134/bn_7034738975",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Esprit-Damenuhr-Edelstahl/31387/bn_7005341117",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/b/Esprit-Damenuhr-Silber/31387/bn_7005347805",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/b/Analoge-Armbanduhren-mit-Edelstahl-Damen-Esprit/31387/bn_13788111",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.de/b/Esprit-Damen-Armbanduhren-in-Blau/31387/bn_91604092",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://by.ebay.com/b/Esprit-Wristwatches-with-Chronograph/31387/bn_7113646447",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://timecenter.jo/pages/esprit-spring-summer-2018-watch-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://skroutz.eu/s/31306989/Esprit-Watch-with-Silver-Metal-Bracelet-ES1L314M0165.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ormoda.com/us/brands/edc.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.at/itm/116336935935",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/285006501611",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/285315519972",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/285002420907",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/2069161269",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/21060710550",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/4036285960",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1404932589",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1440723206",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/features/2089247-e-like-esprit.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s1/product/esprit-smartwatch-smartwatch-3530-mm-smartwatches-52235232",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/esprit-edgy-ladies-watch-analogue-wristwatch-23-mm-wristwatches-36588103",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/esprit-everyday-ladies-watch-analogue-wristwatch-34-mm-wristwatches-36588395",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1319923983",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1438126817",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/10060704579",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/23020451202",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/15043001428",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/4019173549",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/6039231121",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/18040204089",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/16038106973",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/16050811834",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/21020445869",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/4048334170",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1637821746",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1308205649",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/esprit-ocean-wrist-watch-analogue-wristwatch-40-mm-wristwatches-20018845",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/esprit-unisexuhr-joy-38-mm-wristwatches-39958835",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/20043014832",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/9027984407",
+   "passada": 3,
+   "novos": 1
+  }
+ ],
+ "observacoes": "Relógios licenciados (licença desde 1993; Egana-Goldpfeil até 2009, Mywa 2009–2017, TMS Group desde 07/2017, Christ na Europa desde 01/2023). G esprit.com: não foi achada loja de relógios no site oficial. C vazio. J genérico: linhas principais Houston, Cube, Vinrose, Field, Strike, Mason, Hudson, Kale, Esprit Collection (EL), edc by Esprit (EE)."
+}
