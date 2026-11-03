@@ -18,3 +18,4 @@
 4. Primeiro modelo: Benz Micro Aircraft Chronograph (anos 1960) — sem foto/anúncio achado.
 5. J: ChronoScope ok, Great Circle (é o nome da caixa/coleção, não modelo separado), ChronoLunar ok, ChronoFlite ok.
 6. Edições limitadas na B; peças únicas Max Jamali com "Peça única." em E.
+- 03/11 ~07:15: 1ª passada encerrada (buscas de buracos GC102xx/GC401xx/GC201xx sem novidades). Marca VERMELHA. Iniciando 2ª passada.

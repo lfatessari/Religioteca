@@ -6752,7 +6752,7 @@
   }
  ],
  "em_execucao": "2026-11-03T06:42:34Z",
- "ultimo_sinal": "2026-11-03T07:14:42Z",
+ "ultimo_sinal": "2026-11-03T07:15:03Z",
  "em_andamento_2": {
   "marcas": [
    "Ernst Benz"
@@ -6772,8 +6772,10 @@
    "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10",
+   "10b"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
