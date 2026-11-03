@@ -7,3 +7,9 @@ Obs: AD2514 e AD2036 vistos só em títulos de resultado de busca (eBay não abr
 !! Site oficial provável: addiesdivewatches.com (Shopify; link visto no relojes-especiales). Coluna G diz addiesdive.com.
 Logo: https://cdn.shopifycdn.net/s/files/1/0524/2270/5317/files/png_240x240.png?v=1609398158 (emblema 'Our Symbol'). Sede: Hong Kong (Mong Kok) no contato. Sub-linhas: AddiesKIN (site addieskinwatches.com), Addies (feminino).
 §2c: 6 buscas site:addiesdivewatches.com/products (limited/anniversary, MY-H/H3, women/titanium/ceramic, pilot/skeleton/field, AU/pre-owned/mystery, 40/42/37mm) — só H3D-AC novo; saturou.
+## Fim da 1ª passada
+Parou: 4 fontes seguidas sem modelo novo (other-classic, pilot-watch, frontpage p2, superdeals p2).
+Não alcançadas: /collections/all páginas 2, 4, 6, 9–19 (ordem alfabética: muitas são acessórios e cópias de armazém), pilot-watch?page=2, divers-watch?page=2, quartz-watch?page=2-4, new-arrivial p2,4-6, best-seller p2-7, us-warehouse p3. Firecrawl sem créditos até 13:43 UTC.
+Sem presença em EveryWatch/Chrono24 (buscas sem resultado). WatchPatrol só páginas de modelo (a maioria client_error).
+VERMELHA: catálogo de 375 itens não lido inteiro; modelos citados em fórum sem código (Aquaterra, Explorer 36, GMT Pepsi, "Four Seasons" do blog); lacunas de códigos.
+2ª passada: buscar Four Seasons, Aquaterra, GMT Pepsi, lacunas AD20xx/AD25xx, Amazon/Walmart/AliExpress.
