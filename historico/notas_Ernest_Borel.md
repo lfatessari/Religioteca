@@ -10,3 +10,5 @@
 - Media Center p.4-6: artigos antigos (2015-2018) sem referências. Parado aí (rende pouco). Coleções antigas citadas: Iris, Romance, Braque cronógrafo (2017), Grandeur (2018), Romantic/Feminine/Casual Series.
 - Europa Star swisstime: 44 fichas listadas na página 1004096303; as que não vêm de busca dão PROVENANCE. Buscar cada uma pelo título (Duke, Rocky II, Romance III, Cocktail by Synchron, 155th skeleton, Retro II, Jules Borel officially certified, 160th, fichas 1992 BE/BF).
 - Vintage citados (grail-watch): Cocktail (1953, design Henry DuPasquier; variação Hawaii), Rendez-Vous (despertador AS 1930), Dateoptic (1955), Flash (1958), Sea Gem, Incastar (dispositivo 1947), Deep Blue automatic (Wikipedia). Buscar cada um.
+- eBay: GBR809L-4599 (Herrenuhr kleiner Dreizeiger Diamant) só pelo título da busca; ebay.de/itm/316436706061 não abriu.
+- A buscar: Duke Collection, Rocky II Series, Chambord, Retro Collection II, Jules Borel Officially Certified Chronometer, Calatrava Jumbo 38 mm cal.1130, Automatik Chronometer Double Speed (só título eBay).
