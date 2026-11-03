@@ -22,3 +22,12 @@ Decisão: VERMELHA — linhas licenciadas (Corvette by Equipe EV1xx/3xx/4xx/5xx,
 Site oficial: collections/all p.2-5,7-9 e coleções dash/coil/stud/push/arciform/spring/rollbar/gasket/big-block/bumper/frontpage não alcançadas (links da home pedem permissão; Firecrawl sem créditos).
 ## Passada 2 (alvos: licenciadas + buracos)
 ## Passada 2: 17 fontes, 5 novos (EQB107, E102, ET202, ET204, ET304) + E101 do título de busca. Parou: 3 seguidas sem novidade. 5+ novos → passada 3.
+## Passada 3: 11 fontes, 1 novo (EV302). Parou: 3 seguidas sem novidade.
+## 10b Auto-auditoria
+1. Blog/imprensa: site oficial não tem blog; imprensa 2010-2011 lida (newswire, worldtempus, watchtime, autoguide, autoevolution, 300magazine, gearculture, aBlogtoWatch).
+2. site:equipewatches.com feito com vários termos até repetir handles; páginas 2-5,7-9 de collections/all não alcançadas.
+3. site: nas lojas: campsaver, opticsplanet, kenmar, timepiece, ideal-fashions, allwatches.
+4. Primeira coleção (2010, Baselworld): Dash/Dash XXL, Big Block, Hemi, BallJoint, Octane, Bumper, Chassis, Rollbar, Spring — todas presentes.
+5. I/J da aba Marcas: "Cronógrafos de inspiração racing" (genérico) — ok.
+6. Licenças (Corvette, Mustang) e edição Chevy 100th na B.
+7. Fontes: ver parcial_Equipe_fontes.txt.

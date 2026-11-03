@@ -1,0 +1,682 @@
+{
+ "marca": "Equipe",
+ "usa_codigos": true,
+ "logo": "https://equipewatches.com/cdn/shop/files/logo.png?v=1613541215",
+ "site_bloqueado": "Parcial – equipewatches.com: páginas 2–5 e 7–9 da lista de produtos e as coleções Dash, Coil, Stud, Push, Arciform, Spring, Rollbar, Gasket, Big Block, Bumper e Grille não abriram para leitura automática (pedem aprovação); equipetritium.com bloqueia robots; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "B e C vazios: EUA, Detroit (Michigan). G vazio: site equipewatches.com (linha Tritium também em equipetritium.com). H vazio. I com aviso [⚠️ verificar]: fundada por Jeff Freedman em Detroit, lançada na Baselworld 2010 (15 séries de inspiração automotiva, quartzo Miyota/Citizen); tem as sublinhas Equipe Tritium, Corvette by Equipe e Mustang by Equipe. J genérico: principais séries Dash, Dash XXL, Big Block, Hemi, BallJoint, Paddle, Rollbar, Gasket, Grille e Tritium (Coil, Stud, Push, Rivet, Arciform).",
+ "fontes": [
+  {
+   "url": "https://www.newswire.com/american-automotive-meets-automotive/46774",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearculture.com/goods/equipe-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/equipe/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/30615026",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.campsaver.com/equipe-stud-tritium-wrist-watch-for-men.html",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.campsaver.com/equipe-men-s-tritium-tube-watch.html",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.campsaver.com/equipe-q501-hemi-mens-watch-timer-and-date-subdials-quartz.html",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.opticsplanet.com/equipe-tritium-arciform-watch-mens.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.com.cy/products/2323231",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.com.cy/products/39361888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/256218981022",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/256218981037",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/273553271341",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/1444260239",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/1283369080",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/193474846848",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/326926180733",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/187325237156",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/188554575389",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/326926155794",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/188554705336",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/188554588333",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/256218981046",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/256218981091",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/256218981094",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/256218981110",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/itm/256218981089",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/256218981087",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/256218981035",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/226150620235",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/30637883",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/Paddle-Mens-Watch/30645814",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/256218981036",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://300magazine.com/?p=8569",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/equipe-watches-auto-inspired-watches-7631.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=5399",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/235332552029",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/282962159231",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/251946138",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.co.th/products/15980933",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.nz/products/15675408",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.autoguide.com/auto-news/2010/07/equipe-watches-debuts-new-lineup-inspired-by-classic-cars.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/brands/detroit/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.autoevolution.com/newstag/Equipe/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.autoguide.com/auto-news/2013/08/ford-mustang-watch-celebrates-50th-anniversary.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ophelia.sdsu.edu:8443/ford/09-29-2013/news-center/press-releases-detail/pr-ford-and-detroitbased-luxury-goods-37978.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://equipewatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://equipewatches.com/collections/turbo",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://equipewatches.com/collections/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://equipewatches.com/collections/all",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://equipewatches.com/collections/hub",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://equipewatches.com/collections/paddle",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://allwatches.org/en/equipe/?page=7",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.opticsplanet.com/equipe-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/en/equipe-mens-headlight-604-p81235/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://equipewatches.com/collections?id=90568",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://equipewatches.com/collections/dash-xxl",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://equipewatches.com/collections/rivet",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://equipewatches.com/collections/all?page=6",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://equipewatches.com/collections/chassis",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://equipewatches.com/collections/hemi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://equipewatches.com/collections/headlight",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://kenmarwatches.com/collections/mens-watches-list-of-collections/brand_equipe",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://kenmarwatches.com/collections/mens-watches-list-of-collections/brand_equipe-tritium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://equipewatches.com/collections/octane",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://kenmarwatches.com/products/equipe-dash-mens-watch-silver-band-silver-case-eque707",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/146775738384",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://www.shoppewatch.com/corvette-by-equipe-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchstore.com/collections/mens-watches-list-of-collections/brand_corvette-by-equipe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kenmarwatches.com/products/corvette-by-equipe-corvette-zr1-mens-watch-black-band-silver-case-equev107",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.us/products/1392808-mustang-by-equipe-eqb103-mustang-boss-302-mens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/equipe-corvette-grand-sport-mens-watch-48mm-case-quartz-water-resistant.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/equipe-corvette-z06-mens-watch-49mm-case-quartz-water-resistant.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/equipe-mustang-boss-mens-watch-55mm-case-leather-strap-quartz-water-resistant.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jomashop.com/equipe-mustang-boss-302-watch-eqb105.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://discountwatchesonline313.wordpress.com/2013/06/13/corvette-by-equipe-ev508-c6-mens-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://discountwatchesonline313.wordpress.com/2013/06/13/corvette-by-equipe-ev511-c6-mens-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jomashop.com/equipe-watch-q106.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/226837372215",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.ca/b/Equipe-Watches-Parts-Accessories/260324/bn_2188887",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.walmart.com/browse/jewelry/mens-watches/equipe/3891_1321845_1490361/YnJhbmQ6RXF1aXBl",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/browse/jewelry/mens-watches/equipe-tritium/watches/3891_3906_1490361/YnJhbmQ6RXF1aXBlIFRyaXRpdW18fGNhdGVnb3J5OldhdGNoZXMie",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/equipe-watch-e712.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://equipewatches.com/products/equet308",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://equipewatches.com/products/eque409",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/equipe-watches.html",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/?page=4",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "http://www.bluedial.com/e507.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/?page=5",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://realry.com/products/65711db403a7486b8b41819c",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/?page=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/?page=3",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/?page=6",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/?page=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatches.org/fr/equipe/?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://equipetritium.com/product.php?id=100496",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/equipe-tritium-watches.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.opticsplanet.com:443/equipe-tritium-push-mens-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ideal-fashions.com/products/equet303",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.overstock.com/Jewelry-Watches/Equipe-Push-Mens-Quartz-Chronograph-Watch/22692023/product.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ideal-fashions.com/collections/equipe?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/equipe-corvette-zr1-mens-watch-51mm-case-quartz-water-resistant-black-rubber-strap.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.pinterest.com/vettedepot/corvette-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ideal-fashions.com/collections/equipe?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ideal-fashions.com/collections/equipe?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kenmarwatches.com/collections/shop-by-brand-list-of-collections",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kenmarwatches.com/collections/mens-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.autoevolution.com/news/equipe-100th-big-block-watch-celebrates-chevrolet-centennial-35117.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exito.com/reloj-equipe-eqb107-mustang-boss-302-negro--100140164-mp/p",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sites.google.com/site/kevinkirschmom/equipe-e102-balljoint-mens-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vintage-mustang.com/threads/classic-mustangs-turned-into-watches.1119074/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/equipe--2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.campsaver.com/equipe-tritium-rivet-mens-time-piece.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/p/1637384927",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/668297210",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.campsaver.com/equipe-tritium-et101-coil-mens-watch-men-s.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/equipe-tritium/equipe-tritium-push-men-s-watch-equet304",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.groupon.com/deals/gg-equipe-tritium-mens-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.groupon.com/pages/gg-equipe-tritium-mens-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shoppewatch.com/250500.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/equipe-tritium-watch-et412.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kenmarwatches.com/products/equipe-tritium-arciform-mens-watch-black-band-black-case-equet401",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/equipe-tritium/equipe-tritium-stud-men-s-watch-equet506",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/equipe-tritium/equipe-tritium-rivet-men-s-watch-equet205",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.myshopping.com.au/PR--611264_Equipe_Gasket_Men_s",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://demizio891.wordpress.com/2013/06/28/corvette-by-equipe-ev306-corvette-grand-sport-mens-watch/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://zoomtune110.wordpress.com/2013/06/28/equipe-q602-rollbar-mens-watch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://zoomtune110.wordpress.com/2013/06/28/corvette-by-equipe-ev511-c6-mens-watch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://realry.com/products/65711d7903a7486b8b418102",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ideal-fashions.com/collections/watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/usr/opticsplanet",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.newswiretoday.com/news/73303/American-Automotive-Meets-Automotive-Horology-with-Detroit-Based-EQUIPE-Watches-EquipeWatches.com/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.stylight.com/Equipe/Aviator-Watches/Men/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
