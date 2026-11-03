@@ -3,3 +3,4 @@ Loja Shopify: 31 relógios no catálogo atual (24+7). Títulos dos cards de Patt
 Falta: produtos escondidos (signature-citymaps-ville-au-choix, peças Event Horizon com nome, antigas Kickstarter 2022), inspirations p.2, Dialicious, Watcheers, Kickstarter, Trustpilot, shop.app, imprensa.
 Ocultos (§2c): achados 6 por título de busca + Black Graphite (aberto). Solar6 (Dialicious) a buscar. FL 1889 = homenagem à Torre Eiffel.
 - Monet (centenário 2026) em preparação (La Gazette abr/2026) – não lançado. Event Horizon: nomes das peças não publicados. Vermelho provável (sob medida, peças com nome de buraco negro).
+Passada 1 encerrada (31 fontes; 3 seguidas sem novidade). VERMELHA: sob medida, Event Horizon com nomes de buracos negros, ocultos sem foto. Começa passada 2.
