@@ -6936,7 +6936,7 @@
     "Alexandre Martin (linha 50)": "PAUSADA sem gravar (03/11/2026): relojoeiro independente de Morges, estreia 31/08/2026 com um único modelo (1965, aço, 12 peças; platina e ouro rosa previstos). Sem site oficial (só Instagram). Só ~5 fontes existem (mínimo 15). Retomar quando houver mais imprensa ou site, pelas notas historico/notas_Alexandre_Martin.md. Tirada de marcas_novas_sem_relogios para não travar a fila.",
     "Area Nostalgia (linha 98)": "PAUSADA sem gravar (03/11/2026): catálogo fechado de 8 relógios (4 Clocktower First Edition, Clocktower Manchester Bee, Mantel Midnight/Bloodmoon/Moonglow) já anotado em historico/parcial_Area_Nostalgia_relogios.txt; só 13 fontes abriram (mínimo 15). Retomar com Firecrawl (créditos 04/11 ~13:43 UTC) pelas páginas listadas em historico/notas_Area_Nostalgia.md. Tirada de marcas_novas_sem_relogios para não travar a fila.",
     "Areson (linha 99)": "PAUSADA sem gravar (03/11/2026): marca em pré-lançamento (Kickstarter ago–set/2026), 3 relógios (The Horizon, The Mosaic, The Forge) anotados em historico/parcial_Areson_relogios.txt; só ~5 fontes existem (mínimo 15). Retomar quando houver imprensa/lojas (entregas nov–dez/2026), pelas notas historico/notas_Areson.md. Tirada de marcas_novas_sem_relogios para não travar a fila.",
-    "Auriva (linha 146)": "PAUSADA sem gravar (03/11/2026): catálogo fechado de 2 relógios (Black e Blue Pelagic 300), dados prontos em historico/parcial_Auriva_relogios.txt, mas só 12 fontes reais (mínimo 15): sem imprensa nem agregadores. Retomar com Firecrawl (páginas de produto do site e das lojas, ver historico/notas_Auriva.md) ou decisão do usuário. Continua em marcas_novas_sem_relogios."
+    "Auriva (linha 146)": "PAUSADA sem gravar (03/11/2026): catálogo fechado de 2 relógios (Black e Blue Pelagic 300), dados prontos em historico/parcial_Auriva_relogios.txt, mas só 12 fontes reais (mínimo 15): sem imprensa nem agregadores. Retomar com Firecrawl (páginas de produto do site e das lojas, ver historico/notas_Auriva.md) ou decisão do usuário. Tirada de marcas_novas_sem_relogios e posta em marcas_pendentes (como Area Nostalgia e Areson)."
   },
   "em_andamento": {
     "marcas": [
@@ -7012,10 +7012,6 @@
     }
   ],
   "marcas_novas_sem_relogios": [
-    {
-      "marca": "Auriva",
-      "linha_marcas": 146
-    },
     {
       "marca": "Baltany",
       "linha_marcas": 169
