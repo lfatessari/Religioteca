@@ -16,3 +16,4 @@
 - Coleções chinesas sem código achado: 星钻 (Star Diamond), 山茶花 (Camellia), 月相典雅 (Moonphase Elegant), 蝴蝶花 (=Iris).
 - Artigo 18111: a marca tem '30 coleções com mais de 250 modelos' (c. 2014) → vermelha com certeza.
 - Busca site:masterhorologer.com: códigos dos títulos entraram (Retro I GS8380-88191, GS8880T5-18121, GS8880P3-25121, GGR8880T5-28191BR; Cocktail LGR8080-28291WH; Braque BB7350-2599). Páginas deram client_error (5 de 7) — contadas como abertas sem resultado (os títulos vieram da busca).
+- 1ª passada encerrada (3 fontes seguidas sem novidade: Cocktails vintage genéricos). Marca VERMELHA: '30 coleções/250+ modelos', catálogo asiático (Yahoo TW 154 anúncios, JD, lojas VN bloqueadas), vintage sem referência. 2ª passada: buscar refs Joss/Galaxy/Romance/Iris/Columbus/Star Diamond, vintage nomeados (Rendez-Vous, Sea Gem, Hawaii, Calatrava jumbo, Double Speed), pre-owned.
