@@ -1,0 +1,132 @@
+{
+ "marca": "Apiar",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Loja oficial em apiar.shop (G aponta apiar.co.uk, que é a vitrine). Fundação em nov/2022 confirmada pela WatchPro. J: o MR² é variante do Gen1.0 (na loja aparece como \"Gen1.1 MR^2\"); faltam Gen1.B, Gen1.1 Underground, Night Tube, White Meridian e Ti1.0 Crystalline (anunciado). Calibre: G100 no Invenire, G101 no Gen1.0/Gen1.1 (as duas fontes estão certas).",
+ "fontes": [
+  {
+   "url": "https://apiar.co.uk/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.apiar.shop/products.json?limit=250",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://apiar.co.uk/labs",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.apiar.shop/sitemap_products_1.xml?from=1&to=99999999999",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/apiar-pushes-the-limits-of-additive-manufacturing-with-the-gen1-b-for-british-watchmakers-day/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-apiar-carbon1-0-og-sports-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/apiar-invenire-micro-mondays/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/every-british-watchmakers-day-special-edition-2026/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/apiar/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/commemorate-a-personal-milestone-with-apiars-next-highly-limited-edition-gen-1-1-white-meridian/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/if-you-missed-out-on-one-of-the-coolest-releases-at-british-watchmakers-day-apiar-has-you-covered-with-the-gen1-1-night-tube/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/en-au/blogs/magazine/apiar-gen-1-dawn-dusk-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/apiars-invenire-v1-0/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.voxelmatters.com/apiar-launches-3d-printed-titanium-gen1-0-mr%C2%B2-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/apiar-bends-time-with-limited-edition-wormhole-design/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.3dnatives.com/montre-apiar-impression-3d-15102026/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-the-apiar-gen1-0/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-apiar-gen1-0-with-a-case-3d-printed-from-metal-powder/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/microbrand-watches-february-2024/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.autodesk.com/products/fusion-360/blog/apiar-pushes-the-watch-industry-forward-with-metal-additive-manufacturing-and-exposed-lattice-design/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://develop3d.com/profiles/apiar-finding-time/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.themanufacturer.com/articles/apiar-redefining-british-watchmaking/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/en-au/blogs/magazine/every-special-edition-at-british-watchmakers-day-all-23",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wallpaper.com/watches-jewellery/3d-printed-watch-apiar",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

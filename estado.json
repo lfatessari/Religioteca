@@ -6971,12 +6971,12 @@
   }
  ],
  "em_execucao": "2026-11-03T15:44:32Z",
- "ultimo_sinal": "2026-11-03T15:56:27Z",
+ "ultimo_sinal": "2026-11-03T16:09:02Z",
  "em_andamento_2": {
   "marcas": [
-   "Alexandre Martin",
    "Angelier",
-   "Apiar"
+   "Apiar",
+   "Area Nostalgia"
   ],
   "linha_marcas": [
    50,
@@ -6989,7 +6989,9 @@
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
    "Angelier: todas",
-   "Alexandre Martin: pausada (poucas fontes)"
+   "Apiar: todas",
+   "Alexandre Martin: pausada (poucas fontes)",
+   "Area Nostalgia: começando"
   ],
   "passada": 1
  }
