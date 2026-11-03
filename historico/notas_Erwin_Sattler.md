@@ -27,3 +27,36 @@ Firecrawl: sem créditos até ~13:43 UTC.
 - Troja 16 M II (2026) img https://definewatches.com.au/wp-content/uploads/2026/04/Troja-16-M-II-01.webp ; Troja Lunaris M II citado
 IMGS definewatches: Classica Secunda 1995 M https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Classica-Secunda-1995-v1-Featured.jpg ; Opus Secunda M 130 https://definewatches.com.au/wp-content/uploads/2025/06/Erwin-Sattler-Opus-Secunda-M-130-1.webp ; Troja 20 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Troja-20-Featured.jpg ; Opus K 100 II Black https://definewatches.com.au/wp-content/uploads/2026/03/Erwin-Sattler-Opus-K100-II-11-1.webp
 - Links internos de definewatches pedem permissão (PROVENANCE_REQUIRED): só abrir os que vierem da busca.
+IMGS: Opera Vergoldet (Wempe HS050018) https://wempe-media.com/media/image/operavergoldet_hs050018_wempe_01.jpg ; Opera verchromt existe (wempe c=6166)
+Opus Metallica 100 https://definewatches.com.au/wp-content/uploads/2021/09/Erwin-Sattler-Opus-Metallica-100-1.webp
+Aperia III (65, cal 1575-SK) https://definewatches.com.au/wp-content/uploads/2023/04/Erwin-Sattler-Aperia-III-01.webp
+Classica KS 100 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Classica-KS100-v1-Featured.jpg
+Classica S 70 M https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-S70M-v1-Featured.jpg
+Classica K 130 M https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Classica-K130M-1.jpg
+(Opus PM 70 II: página definewatches some — redireciona)
+Classica P 70 M https://definewatches.com.au/wp-content/uploads/2022/12/P70M-01.jpg
+Classica 60 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Classic-60-Featured.jpg
+Classica 60 M https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Classic-60M-v1-Featured.jpg
+Classica S 70 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-S70-v1-Featured.jpg
+Regulateur 1920 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Regulateur-1920-Featured.jpg
+(Classica S 100: sem foto na página)
+Rotalis 30 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Rotalis-30-Featured.jpg
+Aperia S 70 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Aperia-S-70-Featured.jpg
+Classica S 130 M https://definewatches.com.au/wp-content/uploads/2023/11/Classica-S-130-M-jpg.webp
+Opus PM 70 II (arquivo usado na página Graziosa) https://definewatches.com.au/wp-content/uploads/2023/10/OpusPM70II-jpg.webp
+Rotalis 3.2 (bordo stonegrey ou nogueira, 2025) https://definewatches.com.au/wp-content/uploads/2025/04/Erwin-Sattler-Rotalis-3-2-01.webp
+Rotalis 2 (20 pçs, 2026, nogueira) https://definewatches.com.au/wp-content/uploads/2026/03/Rotalis-2-01-1.webp
+Classica K 100 https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Classica-K100-Featured.jpg
+Troja Sonata M II https://definewatches.com.au/wp-content/uploads/2026/06/Troja-Sonata-M-II-01.webp
+Chronograph II S https://definewatches.com.au/wp-content/uploads/2022/12/Erwin-Sattler-Chronograph-II-S-Featured.jpg
+Opus Metallica 100 Carbon (Wempe HS020214, ref fabricante "OPUS METALLICA 100 SCHW-CARBON ZB SCHW./WEIß") https://wempe-media.com/media/image/OPUSMETALLICA100_HS020214_wempe_01.jpg
+Opera verchromt Wempe HS050019 sem foto
+Chronograph III S (azul ultramar, 50, 2025) https://definewatches.com.au/wp-content/uploads/2025/04/Erwin-Sattler-Chronograph-III-S-01.webp
+Metallica 1799 (15 pçs, 2025) https://wempe-media.com/media/image/METALLICA1799SCHWARZ_HS020227_wempe_01.jpg (alt definewatches 2021/09/Metallica-1799-01.webp)
+Metallica 80 (lionel-meylan, nogueira, cal 2011) sem foto -> link https://old.lionel-meylan.ch/en/?p=100036
+Wempe links: Opus PM 70 III, Lunaris II hell, Opus Perpetual, Classica S 100 M Bauhaus, S 130 M Bauhaus — buscar
+Lunaris II Hell (Wempe HS050040, ref LUNARIS MOND II HELL) https://wempe-media.com/media/image/LUNARISMONDIIHELL_HS050040_wempe_01.jpg
+Lunaris II Schwarz (HS050041, LUNARIS MOND II SCHWARZ) https://wempe-media.com/media/image/LUNARISMONDIISCHWARZ_HS050041_wempe_02.jpg
+Opera Tourbillon (wempe, sem foto); Opus Moon Tourbillon Rhodium / Gilded (wempe)
+Lunaris Sanguis (tribbensee, latão polido, ponteiro vermelho) sem foto
+Troja Lunaris M II https://definewatches.com.au/wp-content/uploads/2026/06/Troja-Lunaris-M-II-01.webp
