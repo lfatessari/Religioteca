@@ -2,3 +2,5 @@
 Site oficial: eska-watches.fr (G vazio na planilha). B "França" e C "Suíça" invertidos/errados: original Grenchen, Suíça; relançamento francês.
 - Fundador real: Sylvan Kocher (S.K.=Eska), Grenchen 1918, fechou 1987 (Monochrome; Relojes Especiales). Col. I diz Émile Schild-Aeschlimann/E.S.A. = errado. Linhas antigas: Royce, Royce Leadership 600, Amphibian 600, Passerelle(1958), Megalo(1961). Relançamento: Sinicha Knezevic e Christophe Chevreton (França, montagem Besançon).
 - Pendente: 'Amphibian 250 Cœur de Paris' citado no verygoodlord (sem detalhe); buscar. Royce = submarca Sylvan Kocher (não incluída, exceto 'Eska Royce Ellipse' vendido como Eska). Site eska-watches.fr não aparece em buscas; Firecrawl sem créditos.
+- Ricardo.ch: 'St. Moritz ultra thin lapis lazuli Night Sky' (só título, não abriu) -> entra por título da busca.
+- SITE OFICIAL REAL: eskawatches.com (Shopify) — achado só com busca 'extended'. eska-watches.fr citado por jamaisvulgaire/franceclat. Refs oficiais: 1094 Black Sea (500, Kickstarter), 1094-1 BS, 1094-H H-Hour(50), 1095 WS, 1095-1 RV, 1095-2 GT, 1095-3 BD, 250-BH, CDP(136), SK25, SK25PN(25 cada). 16 relógios no all, 14 no all_products.
