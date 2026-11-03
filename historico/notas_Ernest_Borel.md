@@ -19,3 +19,4 @@
 - 1ª passada encerrada (3 fontes seguidas sem novidade: Cocktails vintage genéricos). Marca VERMELHA: '30 coleções/250+ modelos', catálogo asiático (Yahoo TW 154 anúncios, JD, lojas VN bloqueadas), vintage sem referência. 2ª passada: buscar refs Joss/Galaxy/Romance/Iris/Columbus/Star Diamond, vintage nomeados (Rendez-Vous, Sea Gem, Hawaii, Calatrava jumbo, Double Speed), pre-owned.
 - classicwatch: nomes vintage Borelelectric, Borel-Oj, Borelot, Colomborel, Couronne, Emerson, Erbo, Erbograph, Great Society, Lucky Nugget, Mallard, Society, SOS, Start, Versailles, Randez-vous (1946). Buscar os mais prováveis.
 - EveryWatch: só a página de um anúncio apareceu em busca, bloqueada ('Only Collectors'). Contagem total não disponível.
+- Bolso (não entraram): Versailles, repetição de minutos c.1890, carrilhão Westminster. Protótipo automático (Antiquorum 2004) citado sem detalhes.
