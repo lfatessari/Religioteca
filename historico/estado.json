@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 502,
- "ultima_versao": 423,
+ "ultima_versao": 424,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7013,6 +7013,24 @@
     "3": "12 fontes, 9 relógios novos"
    },
    "obs": "Marca enorme de relógios licenciados (milhares de referências ES1L/ES1G/ES10…); ~200 linhas vieram de títulos de resultados de busca (link da página na coluna C). Só 82 com foto direta. Firecrawl sem créditos. Parou por tempo/contexto, não por esgotamento."
+  },
+  {
+   "data": "2026-11-03",
+   "versao": 424,
+   "marca": "Esprit",
+   "linha_marcas": 501,
+   "complemento": true,
+   "pedido_usuario": "nova busca profunda",
+   "linhas_relogios": "75240-75855 (bloco inteiro; 203 novas no fim)",
+   "relogios_novos": 203,
+   "relogios_total": 616,
+   "fotos_melhoradas": 15,
+   "vermelho": true,
+   "fontes": 48,
+   "passadas": {
+    "4": "48 fontes, 170 relógios novos (mais 33 vindos de títulos de busca)"
+   },
+   "obs": "Achados: códigos ESLW/ESMW da licença Christ, Esprit Collection (Herades, Aelous, Maia), coleções de imprensa 2006–2015 (Crest, Marin, Hayward, Atrium, Petco). Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
