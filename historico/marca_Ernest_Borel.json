@@ -1,0 +1,1047 @@
+{
+ "marca": "Ernest Borel",
+ "usa_codigos": true,
+ "logo": "https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/logo-ernest-borel.jpg?itok=qY_IV8qk",
+ "site_bloqueado": "Parcial – ernestborel.ch: páginas de coleção carregam os relógios por script (aparece 0) e os catálogos 2014-2026 não abrem; shop.ernestborel.ch: collections/all p.4-10 repetem a p.1 (usadas as coleções); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "C: sede atual em Le Noirmont (antes La Chaux-de-Fonds; origem em Neuchâtel). I: fundação 1856 é a data oficial; registros antigos citam Borel & Courvoisier (1858/59). Status: ativa, Ernest Borel Holdings (Bolsa de Hong Kong, código 1856). J: 'Danse' e 'Amazon' não encontrados como coleções; coleções atuais: Retro, X, Sage, Heartful, Heritage, Jules Borel, Cocktail, Grandeur, Galaxy, Yally, Eternity, Braque, Royal, Danaus, Harmonic, Gary, Urban. Loja oficial: shop.ernestborel.ch.",
+ "fontes": [
+  {
+   "url": "https://shop.ernestborel.ch/pages/ernest-borel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/all",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/all?page=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/all?page=3",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/all?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/all?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/all?page=10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/cocktail-collection",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/braque-collection",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/danaus-collection",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/eternity-collection",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/galaxy-collection-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/gary-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/grandeur-collection",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/harmonic-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/heartful",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/heritage-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/jules-borel-collection",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/royal-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/retro-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/sage-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/x-collection",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/yally-collection-1",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/retro",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/retro-collection?page=2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/retro-collection?page=3",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://shop.ernestborel.ch/collections/sage-collection?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2025/11/new-X-Collection-and-Collaboration.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2026/04/retro-reborn-return-of-a-1975-icon.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/goods/Watches/Collection/All.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/goods/Watches/Collection/Urban.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/goods/Watches/Collection/Iris.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/goods/Watches/Collection/Romance.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/goods/Watches/Collection/Cosmic.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/goods/Watches/Collection/Joss.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/goods/2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/details/1638_2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/27314.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2026/10/retro-evolves-with-904L-steel.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2026/09/ernest-borel-reaffirms-classics-with-retro-e0719g.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2026/03/x-collection-expands-with-seasonal-colourway.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/27076.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2025/07/summer-starts-with-ernest-borel.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/27000.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/26992.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center.html?id=8&page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/26963.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/26985.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/26954.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/26952.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center.html?id=8&page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/27279.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/27110.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2025/04/ernest-borel-welcomes-spring-with-watches-that-capture-the-essence-of-the-season.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/news/2025/01/ernest-borel-unveils-watches-for-upcoming-dubai-event.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center.html?id=8&page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center.html?id=8&page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center.html?id=8&page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18291.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18288.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18285.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18282.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18276.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watch-brand/ernest-borel-299",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096303-ernest-ernest-borel-jules-borel-collection.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096224-ernest-ernest-borel-chrono-collection-gbr8600d.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wip.europastar.com/swisstime/1004096220-ernest-ernest-borel-royal-collection-gbr6155w.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wip.europastar.com/swisstime/1004096014-ernest-ernest-borel-155th-anniversary-collection.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096638-ernest-ernest-borel-retro-collection-i.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095812-ernest-ernest-borel-braque-collection.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096064-ernest-borel-royal-collection-155th-anniversary.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096818-ernest-ernest-borel-jules-borel-collection-160th.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096018-ernest-ernest-borel-155th-anniversary-skeleton.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/watch-galleries/1004088661-jules-borel-collection-160th-anniversary-by.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://archive.atimelyperspective.com/?p=4679",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.2luxury2.com/baselworld-2016-jules-borel-collection-160th-anniversary/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004098292-ernest-borel.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004098289-ernest-borel.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004098290-ernest-borel.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1004083678-ernest-borel-the-dancing-couple-expands-its.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/1004083964.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004084687.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/1004077307.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/ernest-borel-vintage",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/ernest-borel-stainless-steel-mini-chronograph-manual-wind-wristwatch-ref-707007/id-j_2540753",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/ernest-borel-calendar-triple-date-watch-stainless-steel-circa-1950s/id-j_5404742",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/ernest-borel-mechanical-automatic-cocktail-watch/id-j_15803052",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thevintageur.com/shop/ernest-borel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Ernest_Borel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ernest_Borel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/tbt-an-eye-popping-ernest-borel-datoptic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/tbt-hard-to-find-ernest-borel-flash-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-35-230",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/watches/products/ernest-borel-diver-as10883",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dumarko.com/products/ernest-borel-incastar-vintage-swiss-watch-gold-plated-case-sector-style-two-tone-dial-from-1950s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/watches/products/ernest-borel-diver-as10911",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://secondtimearoundwatchco.com/collections/over-10/products/1970s-ernest-borel-by-synchron-conquistador-automatic-ref-58-004-56-stainless-steel-watch-14912",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/watches/products/borel-conquistador-alarm-watch-as10906",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kingsaud.org/en/archives/museum/king-saud-watch-by-ernest-borel-kaleidoscope-dial-cocktail/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thevintageur.com/shop/ernest-borel-baby-chronograph-pulsometric-scale-stainless-steel-waterproof-case-valjoux-69-movement-from-40s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchnet.co.jp/en/item/view/1441",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnet.co.jp/en/item/view/888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnet.co.jp/en/item/view/1275",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnet.co.jp/en/item/view/1449",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnet.co.jp/en/item/view/2654",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnet.co.jp/en/item/view/1250",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/borel-sub-200t-sharkhunter-as07151",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/175038177712",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/316436706061",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/borel-ernest-borel-yg-auto-8771",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/earnest-borel-auto-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/shop/borel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/ernest-borel-watch-kaleidoscope",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/article/18234_8.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004087903.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bulangandsons.de/blogs/watch-talks/ernest-borel-mini-step-case-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096683-ernest-borel-duke-collection.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2015/06/09/ernest-borel-duke-collection-automatic-watch-swiss-made-caliber-dd9000-complete-calendar-with-moonphase/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/09/ernest-borel-jules-borel-officially-certified-chronometer-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095811-ernest-ernest-borel-jules-borel-collection.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2015/06/09/ernest-borel-iris-collection-ladies-watch-eta-2671-automatic-movement-rose-gold-pvd-case-white-dial/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/ernest-borel-test-bench-21677.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/ernest-borel-iris-18930.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/ernest-borel-romance-collection-21224.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/ernest-borel-video-retro-collection-22305.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/ernest-borel-jules-borel-20547.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/ernest-borel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://singmalls.app/en/malls/chinatown-point/merchants/chinatown-point-ernest-borel-all-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/brands/41168227",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/38761621?pg=2",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/brands/41168227?pg=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/brands/41168227?pg=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/38761621?pg=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/38761621?pg=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/category/38761621?pg=4",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/gdsale/-4487704.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004088632.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jd.com/tupian/5025a92b29c08ba544ce.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jd.com/tupian/502508d54496e1e3001a.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jd.com/phb/zhishi/24a85edcbd93276f.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.cnpp.cn/pinpai/91324.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://tw.buy.yahoo.com/gdsale/-4507573.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/list/35.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/26967_9.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ernestborel.ch/article/26965_9.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18240.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/Media_Center/18216.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/Media_Center/18111.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/Media_Center/18087.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18069.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ernestborel.ch/en/article/article/article/article/Media_Center/18075.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/09/ernest-borel-harmonic-collection-limited-numbered-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2016/06/09/ernest-borel-160th-anniversary-jules-borel-collection-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/08/ernest-borel-jules-borel-collection-swiss-made-9094-automatic-movement-day-retrograde-date-and-power-reserve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/ernest-borel-160th-anniversary-jules-borel-collection-22840.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/08/ernest-borel-braque-chronometer/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2014/06/09/ernest-borel-danaus-quartz-series-ladies-quartz-watch-mother-of-pearl-dial-31mm-stainless-steel-case/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/08/ernest-borel-athletic-collection-chronograph-42mm-stainless-steel-case-satin-finish-swiss-made-7750-automatic-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/09/ernest-borel-romance-series-iii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2015/06/09/ernest-borel-cocktail-collection-2015-edition-ladies-watch-rose-or-yellow-gold-pvd-case-sw200-automatic-movement-white-red-or-purple-dial/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2015/06/09/ernest-borel-jules-borel-collection-automatic-skeleton-model-caliber-sw300-stainless-steel-case-or-rose-gold-plated-case/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/09/ernest-borel-retro-collection-i-model-gs8380-88191-and-model-gs8880t5-18121/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2014/06/09/ernest-borel-retro-collection-i-model-gs8880p3-25121-and-model-ggr8880t5-28191br/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2012/06/09/ernest-borel-braque-collection-model-bb7350-2599-bs7350-2590-stainless-steel-watch-41mm-case-eta-2824-or-sw200-automatic-movement/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/06/09/ernest-borel-cocktail-collection-model-lgr8080-28291wh-ladies-watch-swiss-made-2671-automatic-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/08/ernest-borel-borel-chrono-collection-automatic-watch-41mm-stainless-steel-case-diamond-set-bezel-bigdate-and-small-seconds/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2011/06/08/ernest-borel-155th-anniversary-limited-skeleton-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/borel-kaleidoscope-ladies-cocktail-watch-as12558",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://secondtimearoundwatchco.com/products/1990s-vintage-ladies-ernest-borel-cocktail-watch-in-18k-yellow-gold-over-stainless-steel-15128",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/events/arts-and-culture/competition-win-an-ernest-borel-watch-21150.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://secondtimearoundwatchco.com/products/1980s-vintage-ladies-ernest-borel-kaleidoscope-cocktail-watch-in-18k-yellow-gold-plated-stainless-steel-15438",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebth.com/items/5656548-ernest-borel-and-bulova-wristwatches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.watch-spare.com/watches/ernest-borel-cocktail-mystery-kaleidoscope-dial-vintage-circa-1960.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/1960-s-ernest-borel-gents-dress-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thevintageur.com/shop/ernest-borel-2/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classicwatch.com/history-of-Ernest Borel",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.barnebys.com/auctions/lot/ernest-borel-neuchatel-epHY7GF-633921784",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.woolleyandwallis.co.uk/print-lot/?id=465399",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/ernest-borel/watch-13510671",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bonhams.com/auction/31008/lot/4019/ernest-borel-18k-gold-cuff-wristwatch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/36855400",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.ernestborel.ch/pages/about-the-brand",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/ernest-borel-jumbo.574112/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/ernest-borel-diver-de-sra-nos-new-old-stock.252884/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://plusmodels.com/store/Vintage-Ernest-Borel-Versailles-Mechanical-Pocket-Watch-Gold-Tone-Swiss_157897786226.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bawue.museum-digital.de/pdf/object/31976.pdf?lang=en",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/it/orologi/borel/lpi",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/6721482-ernest-borel-18k-yellow-gold-dress-wristwatch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kingsaud.org/?p=23031",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fellows.co.uk/bidding/1105-wrist-pocket-watches-69/214-an-ernest-borel-wrist-watch-13177",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/109/58251",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnet.co.jp/en/item/view/3792",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnet.co.jp/en/item/view/6278",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dienmayxanh.com/kinh-nghiem-hay/top-dong-ho-ernest-borel-nam-1541022",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thegioididong.com/dong-ho-deo-tay/ernest-borel-gs5650-28421-nam",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thegioididong.com/tin-tuc/cung-tim-hieu-ernest-borel-thuong-hieu-dong-ho-cao-cap-cho-cac-cap-doi-1438233",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thevintageur.com/?p=6302",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thevintageur.com/?p=6816",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chairish.com/product/29305708/rare-vintage-ornate-ernest-borel-17-jewel-gold-plated-pendant-watch-works",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gocirculaire.com/product/30273905",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/itm/175320297964",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://forums.vintagefashionguild.org/threads/ernest-borel-watch.43048",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/vintage-1970s-ernest-borel-sub-200t-sharkhunter-mid-size-dive-watch-serviced.37761/latest",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/ernest-borel-cocktail-watch-1970s-service-advice.191777/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/presento-reloj-hab%C3%A9is-visto-algo-igual.111717/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
