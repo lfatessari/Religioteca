@@ -6752,7 +6752,7 @@
   }
  ],
  "em_execucao": "2026-11-03T06:42:34Z",
- "ultimo_sinal": "2026-11-03T06:46:34Z",
+ "ultimo_sinal": "2026-11-03T06:54:04Z",
  "em_andamento_2": {
   "marcas": [
    "Ernst Benz"
@@ -6763,7 +6763,9 @@
   "fontes": "historico/parcial_Ernst_Benz_fontes.txt",
   "notas": "historico/notas_Ernst_Benz.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2",
+   "3"
   ],
   "passada": 1
  }
