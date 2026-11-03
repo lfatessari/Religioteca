@@ -62,7 +62,7 @@ Na BWC-Swiss o Firecrawl abriu as páginas 5, 6, 8 e 9 da loja oficial (que a We
 1. Carregar a skill `relogioteca-pesquisa-exaustiva` (ferramenta Skill) e seguir o SKILL.md inteiro, como se fosse a primeira vez.
 2. Ler `estado.json`. Se houver `em_andamento`, retomar essa bateria pelos arquivos parciais em `historico/` (ver "Retomar") em vez de começar outra.
 3. Trabalhar numa cópia: `mkdir -p /home/claude/trabalho && cp planilha/*.xlsx gravar_marca.py estado.json /home/claude/trabalho/`. Arquivos de cada marca (`notas_<marca>.md`, `dados_<marca>.txt`, `marca_<marca>.json`) também nessa pasta.
-4. Escolher as marcas pela ordem da aba Marcas a partir de `proxima_linha_marcas`, pulando as de `marcas_ja_feitas_fora_da_ordem`. **Até 3 marcas por execução, se forem pequenas; marca grande sempre sozinha.** Se a próxima for grande, só ela; senão, as próximas não grandes em sequência até completar 3, parando antes da primeira grande. Esta regra vale mesmo se a cópia da skill da conta ainda disser "duas". Com mais de uma marca, rodar o `gravar_marca.py` uma vez por marca, em sequência, e entregar só a versão final.
+4. **Primeiro as marcas novas:** se `estado.json` tiver `marcas_novas_sem_relogios` com algum item, escolher a(s) marca(s) DESSA lista, na ordem em que aparecem (ver "Marcas novas fora da sequência" abaixo), em vez de seguir `proxima_linha_marcas` (esta prioridade vale acima do que a skill disser sobre "seguir a ordem da aba Marcas"). Só quando essa lista estiver vazia (ou não existir), escolher as marcas pela ordem da aba Marcas a partir de `proxima_linha_marcas`, pulando as de `marcas_ja_feitas_fora_da_ordem`. **Até 3 marcas por execução, se forem pequenas; marca grande sempre sozinha.** Se a próxima for grande, só ela; senão, as próximas não grandes em sequência até completar 3, parando antes da primeira grande. Esta regra vale mesmo se a cópia da skill da conta ainda disser "duas". Com mais de uma marca, rodar o `gravar_marca.py` uma vez por marca, em sequência, e entregar só a versão final.
 5. Pesquisar e gravar conforme a skill, fazendo o salvamento parcial a cada 10–15 fontes. Só entregar se o script terminar com `RESULTADO: OK`.
 6. Atualizar `estado.json` (próxima linha, versão, histórico).
 7. Salvar no repositório:
@@ -72,6 +72,15 @@ Na BWC-Swiss o Firecrawl abriu as páginas 5, 6, 8 e 9 da loja oficial (que a We
    - `git add -A && git commit -m "Bateria: <marca(s)> (vNN)"` e `git push origin main`.
    - Se o push falhar: `git fetch origin main && git rebase origin/main` e tentar uma vez mais. Se ainda falhar, avisar no relatório.
 8. Relatório em português do Brasil, calmo e para leigo (o usuário lê no celular): o que entrou, linhas por passada (fontes e relógios novos), por que parou, dados errados na aba Marcas (relatar E registrar na coluna M, ver abaixo), e a lista "Fontes:". Enviar o relatório com SendUserMessage e a planilha nova com SendUserFile.
+
+## Marcas novas fora da sequência (pedido do usuário, nov/2026)
+Em 03/11/2026 (v409) entraram 18 marcas novas na aba Marcas, achadas no Instagram seguido pela @relogioteca (letras A e B). Elas ficaram ANTES de `proxima_linha_marcas`, então a sequência normal nunca chegaria nelas. Por isso:
+- Enquanto `marcas_novas_sem_relogios` tiver itens, cada execução pega as marcas dessa lista (mesma regra: até 3 pequenas, ou 1 grande sozinha), na ordem da lista. Achar a linha pelo NOME na coluna A (o número `linha_marcas` da lista é só referência; o `gravar_marca.py` também acha pelo nome).
+- Pesquisar e gravar exatamente como qualquer outra marca (skill, mínimo de fontes, salvamento parcial, `em_andamento`).
+- Ao gravar com sucesso, TIRAR a marca de `marcas_novas_sem_relogios` e registrá-la no `historico` com `"fora_da_sequencia": true`.
+- **NÃO mexer em `proxima_linha_marcas`** por causa dessas marcas: ele continua apontando para onde a sequência normal parou (Esprit). Também não é preciso pôr essas marcas em `marcas_ja_feitas_fora_da_ordem`, porque ficam antes do ponteiro.
+- A Baume (linha da sub-marca encerrada da Baume & Mercier) segue a mesma regra; registrar em M o que for encontrado.
+- Se aparecerem novas marcas inseridas no meio da aba Marcas no futuro, quem inserir deve somar o deslocamento em `proxima_linha_marcas`, `marcas_pendentes`, `em_andamento`, `marcas_ja_feitas_fora_da_ordem` e nos textos de `avisos`, e pôr as marcas nesta lista.
 
 ## Se a execução for interrompida
 O corte pelo limite de uso é súbito: não dá para contar com um salvamento final. O que protege o trabalho é o salvamento parcial a cada 10–15 fontes (acima). Se a execução perceber que está perto do fim (WebFetch avisando limite, contexto cheio), fazer na hora um salvamento parcial extra e avisar no relatório. A execução seguinte retoma do último salvamento, perdendo no máximo as fontes abertas depois dele.

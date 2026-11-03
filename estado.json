@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 501,
- "ultima_versao": 409,
+ "ultima_versao": 410,
  "historico": [
   {
    "data": "2026-10-16",
@@ -6741,6 +6741,12 @@
    "data": "2026-11-03",
    "versao": 409,
    "obs": "18 marcas novas incluídas na aba Marcas a pedido do usuário (achadas no Instagram seguido pela @relogioteca, letras A e B), em ordem alfabética, com B–M preenchidos (E como valor, sem fórmula). As linhas da aba Marcas a partir da 15 foram deslocadas; proxima_linha_marcas, marcas_pendentes, em_andamento, marcas_ja_feitas_fora_da_ordem e avisos já atualizados (o histórico antigo mantém os números antigos). Aba Relógios não mudou. As novas estão em marcas_novas_sem_relogios: ainda sem pesquisa de relógios."
+  },
+  {
+   "data": "2026-11-03",
+   "versao": 410,
+   "marca": "About Vintage",
+   "obs": "corrigido a pedido do usuário: G av86.com e H @av86official (registro em M). CLAUDE.md: marcas_novas_sem_relogios passam a ter prioridade, sem mexer em proxima_linha_marcas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
