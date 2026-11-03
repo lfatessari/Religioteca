@@ -6,3 +6,5 @@ Grande (configurador Custom Timepiece Series, 2000+ combinações). Sozinha.
 - Ocean LE 42 mm SW200: 10587 (azul/preto?) e 10590 (verde). Skate Aurélien Giraud 10653 (2021, 42 mm auto, caixa de shapes de skate). Moon phase: 10637 (41 mm PVD, algodão azul), 10638 e 10639 (35 mm; 10639 linho). Small seconds/date quartz: 10599-10604 (lançamento nov/2020), 10684-10687 (2ª geração).
 - Imagens brogle: brogle.cstatic.io/media/... (por página). Presspage: content.presspage.com/uploads/2111/800_baume-et-mercier-baume-m0a106xx-....png
 - Pendente: era 2018-19 (Iconic/Custom) — buscar refs/nomes de edições (Iconic tinha edição por estação).
+- 10680 Baume Automatic 42 mm alumínio, SW200-1, azul, pulseira de plástico oceânico (ethos). 10599 = 41 mm PVD preto, antracite, cortiça preta costura verde (helveti, img i00.eu/img/606/1024x1024/13eqjq6m/278022.jpg). 10603 = 35 mm aço/PVD (ouro rosa) azul, têxtil azul (carollinum img).
+- 10654 é Clifton (não Baume). 10688 é Riviera. 10592/10593 Clifton.
