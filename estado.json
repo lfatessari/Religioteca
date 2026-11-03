@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 501,
-  "ultima_versao": 418,
+  "ultima_versao": 419,
   "historico": [
     {
       "data": "2026-10-16",
@@ -6908,6 +6908,23 @@
       },
       "fora_da_sequencia": true,
       "obs": "Catálogo fechado: Ouréa Subscription (6 platina) + Ouréa Titane (14) + Séléné (peça escolar única de Thomas Aubert, 2024). Site oficial não aparece em busca; Firecrawl sem créditos."
+    },
+    {
+      "data": "2026-11-03",
+      "versao": 419,
+      "marca": "Baltany",
+      "linha_marcas": 169,
+      "linhas_relogios": "75029-75112",
+      "relogios": 84,
+      "vermelho": false,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 47,
+      "passadas": {
+        "1": "47 fontes, 84 relógios"
+      },
+      "fora_da_sequencia": true,
+      "obs": "Catálogo do baltany.com (inclui esgotados) lido por páginas de coleção achadas em busca; fichas de produto dão client_error; fotos pelo padrão img/shop/upload/<id>-9.jpg. Firecrawl sem créditos; WatchPatrol bloqueado. Loja UK baltany.co.uk tem os mesmos produtos com nomes descritivos (não duplicados)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -7013,10 +7030,6 @@
   ],
   "marcas_novas_sem_relogios": [
     {
-      "marca": "Baltany",
-      "linha_marcas": 169
-    },
-    {
       "marca": "Baume",
       "linha_marcas": 177
     },
@@ -7032,24 +7045,5 @@
       "marca": "Blütezeit",
       "linha_marcas": 225
     }
-  ],
-  "em_execucao": "2026-11-03T18:43:48Z",
-  "ultimo_sinal": "2026-11-03T18:55:34Z",
-  "em_andamento_2": {
-    "marcas": [
-      "Baltany"
-    ],
-    "linha_marcas": 169,
-    "grande": true,
-    "relogios": "historico/parcial_Baltany_relogios.txt",
-    "fontes": "historico/parcial_Baltany_fontes.txt",
-    "notas": "historico/notas_Baltany.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3"
-    ],
-    "passada": 1
-  }
+  ]
 }
