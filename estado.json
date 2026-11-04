@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 522,
- "ultima_versao": 440,
+ "ultima_versao": 441,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7384,6 +7384,11 @@
    "data": "2026-11-04",
    "versao": 440,
    "obs": "Corrigido a pedido do usuário: coluna H (Instagram) de 22 marcas da letra A trocada pela conta oficial (que não existia ou era de outra marca) e @ removido de 14 marcas A sem conta oficial encontrada. Registro em M."
+  },
+  {
+   "data": "2026-11-04",
+   "versao": 441,
+   "obs": "Corrigido a pedido do usuário: coluna H (Instagram) das marcas B — 27 @ corrigidos/adicionados para a conta oficial e 14 @ removidos (conta inexistente ou de terceiros). Registro em M."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
