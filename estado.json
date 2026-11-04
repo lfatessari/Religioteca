@@ -7466,7 +7466,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T10:42:35Z",
- "ultimo_sinal": "2026-11-04T10:42:35Z",
+ "ultimo_sinal": "2026-11-04T11:03:28Z",
  "em_andamento_2": {
   "marcas": [
    "Farer"
@@ -7476,7 +7476,10 @@
   "relogios": "historico/parcial_Farer_relogios.txt",
   "fontes": "historico/parcial_Farer_fontes.txt",
   "notas": "historico/notas_Farer.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
