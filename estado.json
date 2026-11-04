@@ -7287,7 +7287,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-04T05:42:16Z",
-  "ultimo_sinal": "2026-11-04T05:56:33Z",
+  "ultimo_sinal": "2026-11-04T06:09:17Z",
   "em_andamento_2": {
     "marcas": [
       "Evilard",
@@ -7296,14 +7296,13 @@
     ],
     "linha_marcas": 509,
     "grande": false,
-    "relogios": "historico/parcial_Evilard_relogios.txt",
-    "fontes": "historico/parcial_Evilard_fontes.txt",
-    "notas": "historico/notas_Evilard.md",
+    "relogios": "historico/parcial_Evisu_relogios.txt",
+    "fontes": "historico/parcial_Evisu_fontes.txt",
+    "notas": "historico/notas_Evisu.md",
     "secoes_feitas": [
-      "1",
-      "2"
+      "Evilard: completa, gravada em tmp (RESULTADO OK)"
     ],
     "passada": 1,
-    "obs": "Evilard em curso (site oficial lido); Evisu e Exaequo a seguir"
+    "obs": "Evilard pronta (historico/dados_Evilard.txt, marca_Evilard.json); Evisu em curso"
   }
 }
