@@ -1,0 +1,822 @@
+{
+ "marca": "Fabergé",
+ "usa_codigos": true,
+ "logo": "https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/faberge/logo/faberge-fond-blanc.jpg?itok=n2QeZaL_",
+ "site_bloqueado": "Parcial – faberge.com (Shopify) mostra os relógios sem links, códigos e fotos na leitura automática; lojas Jura/CW Sellors/Whamond carregam o catálogo por JavaScript; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "I: as 'peças com autômatos' não foram encontradas; o 'GPHG' do texto foi ganho pelo Visionnaire DTZ (2016) e pelo Lady Compliquée Peacock (2015). I ainda tem '[⚠️ verificar dados atuais]'. Relógios: era 2006–2012 (Agathon, Alexei, Anastasia) e coleção 2009+ (Lady Fabergé/Flirt, Compliquée, Visionnaire, Altruist, Dalliance, Eggsistence).",
+ "fontes": [
+  {
+   "url": "https://www.faberge.com/collections/all-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faberge.com/collections/all-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faberge.com/collections/colours-of-love-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/faberge-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/faberge?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/collections/faberge-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/faberge-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/faberge-watch/subcat-alexei.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/user/480",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/faberge/jewelry/watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.faberge.com/products/eggsistence-watch-3550",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ethoswatches.com/brands/faberge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/faberge-watches/subcat-watch",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.faberge.com/products/lacquer-watch-1681",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ethoswatches.com/product-faberge-eggsistence-1786wa3554.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/faberge/watches/faberge-colours-love-rose-gold-rainbow-gemstone",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/faberge",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/faberge/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/faberge-watch-lady-18ct-rose-gold-opalescent-enamel-dial-773wa1500",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/faberge-watch-dalliance-gemaddict-ruby-rose-gold-1935.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.manfredijewels.com/collections/faberge-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://faberge.com/collections/compliquee",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://faberge.com/collections/faberge-visionnaire",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.faberge.com/collections/manual-winding-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.faberge.com/watches/mens-watches",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.faberge.com/blogs/news/the-altruist-wilderness-limitededition-watch-series",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://scopelliti1887.com/faberge-compliquee-peacock-18kt-rose-gold-black-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/?p=147199",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/faberge-altruist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/maki-e-tiger-limited-edition-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://faberge.com/pages/exceptional-timepieces",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/lady-compliquee-peacock",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/brands/faberge",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/faberge-compliquee-butterfly-blooms-sincere-platinum-jubilee-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/watches/faberge-dalliance-choose-hope-for-only-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/watches/faberge-lady-compliquee-winter/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/visionnaire-chronograph-dynamique/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/altruist-wilderness-lion",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.faberge.com/blogs/news/faberge-horlogerie-collection-unveiled",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/faberge/type-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1003785570.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/2011-faberge-agathon-small-seconds-18ct-rose-gold-40mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/faberge/agathon/watch-13520750",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/faberger-ref-m1103bl-lot-299-406",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hyjewellery.co.uk/mens/faberge-agathon-regulateur-rose-gold-ref-118wa212-5.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/faberge-agathon-regulateur-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristreview.com/?p=12030",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chrono.dk/en/produkter/ure/faberge/faberge-agathon-m1105",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-agathon-black-dial-mens-watch-fab-207.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lyonandturnbull.com/auctions/london-watches-872/lot/58",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.faberge.com/blogs/news/faberge-introduces-new-watch-collection-le-palais-du-temps",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchpro.com/?p=200",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchreport.com/faberge-unveils-new-ladies-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetransformed.com/2016/08/12/lady-faberge-2016/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/faberge-alexei-white-gold-and-four-numerals-watch-fbg-025",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/faberge-alexei-yellow-gold-four-numerals-and-black-diamonds-watch-fbg-022",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/faberger-ref-m1108bl-lot-299-407",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dorotheum.com/en/l/2703268",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/faberge/watch-9041429",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faberge.com/blogs/news/new-compliquee-peacock-handpainted-limited-edition-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://quillandpad.com/2016/11/23/faberge-lady-compliquee-peacock-emerald-fans-colorful-gems",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hautetime.com/baselworld-2016-faberge-wows-female-watch-collectors",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.superyachts.com/lifestyle/story/fabergandeacute-design-andlsquosummer-in-provenceandrsquo-timepiece-3167",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.2luxury2.com/?p=1182454",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/faberge-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/Faberge",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/faberge-lady-faberge-21200.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jckonline.com/?p=72788",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.faberge.com/collections/faberge-flirt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://faberge.com/collections/faberge-dalliance",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/faberge-colours-of-love-eggsistence-purple-sapphire-1786wa3554.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/releases/faberge-colours-of-love",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/faberge-flirt-1504",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/faberge-flirt-36mm-15181.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.manfredijewels.com/products/faberge-flirt-39mm-18-karat-white-gold-full-set-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/faberge-altruist-15173.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/faberge-visionnaire-dtz-15180.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/faberge-visionnaire-dtz-15196.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/dalliance-choose-hope-23853.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/lady-compliquee-peacock-13827.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.manfredijewels.com/products/lady-compliquee-peacock-white-gold-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/images/watches/?q=faberge",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://theeyeofjewelry.com/faberge/faberge-watches/lady-compliquee-faberge-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/en/artists/faberge/faberge-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchprosite.com/independents/curious-about-faberge-watches--/16.1315756.11299776/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/en/lot/lot-5192555",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/sso?ObjectID=23036.100&LotNumber=100",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/en/lot/lot-6456757",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/sso?ObjectID=22975.2294&LotNumber=2294",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/faberge-ref-1541-1-visionnaire-1-lot-321-380",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/faberge-visionnaire-i",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/99749504-faberge-the-visionnaire-diamond-baguette-bezel-watch-lim-ed-12-15pcs-men-2016",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/faberge-alexei-silver-tone-dial-mens-watch-fab-193.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-alexei-silver-tone-dial-mens-watch-fab-195.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-alexei-silver-tone-dial-mens-watch-fab-197.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-agathon-black-dial-ladies-watch-fab-200.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-agathon-brown-dial-mens-watch-fab-204.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-agathon-black-dial-mens-watch-fab-206.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/faberge-agathon-silver-tone-dial-mens-watch-fab-210.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-agathon-silver-tone-dial-mens-watch-fab-211.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-agathon-silver-tone-dial-mens-watch-fab-213.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/faberge-agathon-silver-tone-dial-mens-watch-fab-216.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.watchgang.com/products/agathon-fab-1213",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2015/04/13/faberge-visionnaire-1-hand-wound-flying-tourbillon-watch-in-platinum-or-rose-gold/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/faberge-visionnaire-i-flying-tourbillon-chiswick-auctions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/faberge-visionnaire-chronograph-only-watch-2017/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/faberge-visionnaire-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/IMG/pdf/high_faberge.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxafrique.boutique/products/faberge-visionnaire-chronograph-rose-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxafrique.boutique/collections/faberge.oembed?page=4",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://luxafrique.boutique/collections/faberge",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxafrique.boutique/collections/faberge?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aureusboutique.com/collections/faberge.oembed?page=15",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faberge.com/collections/automatic-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cijintl.com/trends-and-colours/colours/blue/watch-by-faberge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cijintl.com/trends-and-colours/colours/pink/watch-by-faberge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cijintl.com/trends-and-colours/colours/green/watch-by-faberge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cijintl.com/trends-and-colours/fauna/watch-by-faberge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/blogs/editorial/faberge-launches-altruist-wilderness-limited-edition-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gemfields.com/journals/faberge-launch-altruist-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cijintl.com/trends-and-colours/colours/multi-colour/watch-by-faberge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/faberge-18-karat-white-gold-diamond-mother-pearl-anastasia-dress/id-j_17923512",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/ladies-gold-watches/subcat-watch.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/lady-faberge",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/107/56464",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/faberge-watch-lady-18ct-rose-gold-watch-silver-dial-775wa1507-16-fbg-036",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://scopelliti1887.com/faberge-compliquee-peacock-emerald-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cijintl.com/Picture-7583-22-ACCESSORIES.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/brands/faberge/articles/?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/brands/faberge/articles/?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/new-faberge-watches-men-and-women-baselworld/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1002577115-faberga-c-agathon-m1107-a-cathedral-to-time.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/news/1003964879-faberg-x00e9-in-the-new-millennium-a-timeless.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/faberge-agathon-18k-rose-gold-m1102-00-z4-103a3/id-j_5383011",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.faberge.com/products/chronograph-watch-1994",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/faberge-watches/subcat-agathon",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://benchpeg.com/news/the-faberg-visionnaire-chronograph-collection",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-muser.de/cn/img.html?lot=52314",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/fabergs-new-complique-peacock-watch-dazzles-with-marquetry-and-craftsmanship",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.faberge.com/blogs/news/new-visionnaire-dtz-dynamist",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faberge.com/blogs/news/faberge-dtz-gallivanter",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/faberge-watch-compliquee-peacock-arte-white-gold-multicolour-limited-edition-2815-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://scopelliti1887.com/?p=41025",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.theinnatlittlewashington.com/products/eggsistence-orange-sapphire-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/faberge-compliquee-winter/id-j_10812382/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mcgrocer.com/products/white-gold-and-diamond-faberge-flirt-watch-39mm-3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manfredijewels.com/products/compliquee-compliquee-peacock",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/faberge-visionnaire-dtz-brown-18k-rose-gold-mens-watch/id-j_10798452/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/antique-faberge-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=862",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=9927",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=10065",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://us.resee.com/en/product/18k-yellow-gold-diamond-anastasia-watch-25409-040424-010",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=5261",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=7285",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/?p=33616",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/faberge-flirt-36-mm-22246.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=80894",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goldbookmagazine.com/?p=15888",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchilove.com/2017/04/dreaming-of-faberge-visionnaire-chronograph/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=56213",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.2luxury2.com/?p=1445194",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
