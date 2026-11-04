@@ -7198,7 +7198,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T02:41:18Z",
- "ultimo_sinal": "2026-11-04T02:41:18Z",
+ "ultimo_sinal": "2026-11-04T02:48:38Z",
  "em_andamento_2": {
   "marcas": [
    "Eterna"
@@ -7208,7 +7208,13 @@
   "relogios": "historico/parcial_Eterna_relogios.txt",
   "fontes": "historico/parcial_Eterna_fontes.txt",
   "notas": "historico/notas_Eterna.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "5",
+   "7",
+   "8"
+  ],
   "passada": 1
  }
 }
