@@ -7526,5 +7526,23 @@
    "notas": "historico/notas_Ezteem.md"
   }
  ],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-04T21:43:01Z",
+ "ultimo_sinal": "2026-11-04T21:43:01Z",
+ "em_andamento_2": {
+  "marcas": [
+   "Farr & Swit",
+   "Fathers"
+  ],
+  "linha_marcas": [
+   522,
+   523
+  ],
+  "grande": false,
+  "relogios": "historico/parcial_Farr_Swit_relogios.txt; historico/parcial_Fathers_relogios.txt",
+  "fontes": "historico/parcial_Farr_Swit_fontes.txt; historico/parcial_Fathers_fontes.txt",
+  "notas": "historico/notas_Farr_Swit.md; historico/notas_Fathers.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
