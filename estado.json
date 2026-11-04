@@ -7408,7 +7408,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-04T08:42:31Z",
-  "ultimo_sinal": "2026-11-04T08:42:31Z",
+  "ultimo_sinal": "2026-11-04T08:48:35Z",
   "em_andamento_2": {
     "marcas": [
       "F.P. Journe"
@@ -7418,7 +7418,9 @@
     "relogios": "historico/parcial_FP_Journe_relogios.txt",
     "fontes": "historico/parcial_FP_Journe_fontes.txt",
     "notas": "historico/notas_FP_Journe.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
