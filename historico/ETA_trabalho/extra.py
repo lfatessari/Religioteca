@@ -312,3 +312,89 @@ for l in gq.split('\n'):
     for c in cs.split(','): add(c,GW,e+'.')
 for c,e in [('9160','Diapasão "Mosaba" (ETA-ESA), anos 1960; também com nomes Eterna, Certina, Longines, Omega, Tissot, Zenith.'),('9162','Diapasão "Mosaba" (ETA-ESA), anos 1960.'),('9164','Diapasão "Mosaba" (ETA-ESA), anos 1960.'),('9210','Cronógrafo de diapasão (ETA-ESA), anos 1960.'),('9150','Eletrônico "Dynotron" (ETA-ESA), 12½ linhas, 1967–1970.'),('9154','Eletrônico "Dynotron" (ETA-ESA), 12½ linhas, 1970–1975.'),('9176','Eletrônico ETA-ESA, anos 1970, indicação digital saltante.'),('9157','Eletrônico ETA-ESA, 13 linhas, 1975 em diante.'),('9158','Eletrônico ETA-ESA, 13 linhas, 1975 em diante.'),('9159','Eletrônico ETA-ESA, 13 linhas, 1975 em diante.'),('9200','Eletrônico ETA-ESA, 7 × 8 linhas, anos 1970.'),('9315','LCD (ESA), meados dos anos 1970.'),('536','"Gabarit Quartz" (ETA/AS), 1978.'),('588.001','"Ecoline" (ESA-AS), 5½ linhas, 3,6 mm, 1981.'),('551.111','"Ecoline" (ESA-AS), 7¾ linhas, 1981.'),('554.111','"Ecoline" (ESA-AS), 11½ linhas, 3,7 mm, 1981.'),('9360','"Gabarit Quartz" (ESA/ETA), 11½ linhas, 5,5 mm, 1977.'),('9361','"Gabarit Quartz" (ESA/ETA), 11½ linhas, 5,5 mm, 1977.'),('9362','"Gabarit Quartz" (ESA/ETA), 11½ linhas, 5,5 mm, 1977.')]:
     add(c,GW,e)
+ES='https://cdn11.bigcommerce.com/s-iic0hc/images/stencil/1280x1280/products/'
+for c,i,e in [('980.105',ES+'50333/102253/980.105.2-photo3__56842.1684873393.gif?c=2','Quartzo, 3 ponteiros, 13,00 × 15,15 mm, espessura 2,40 mm, 7 rubis; substituído pelo 980.106.'),
+('956.102',ES+'46872/75234/956.102-photo1__17183.1656353612.gif?c=2','Quartzo, 3 ponteiros, Ø17,20 mm, espessura 2,50 mm, 7 rubis, platinas douradas.'),
+('G10.212',ES+'50193/98906/G10.211-3-photo1__37978.1656353637.jpg?c=2','Cronógrafo de quartzo, Ø29,80 mm, espessura 5,12 mm, 4 rubis.'),
+('255.491',ES+'50248/100094/255.491-photo3__09162.1683055025.gif?c=2','Quartzo, Ø23,30 mm, espessura 2,45 mm, pequenos segundos às 6h, 6 rubis.'),
+('955.402',ES+'51021/104168/955.402-photo2__96932.1710255906.jpg?c=2','Quartzo, 3 ponteiros, Ø23,30 mm, espessura 2,50 mm, 7 rubis.'),
+('902.101',ES+'42976/70191/902.101__94665.1656353567.gif?c=2',None),
+('802.102',ES+'42945/86398/802.102__59444.1656353566.gif?c=2',None),
+('805.112',ES+'50328/102262/805.112-430-photo2__07816.1684942339.gif?c=2',None),
+('956.112',ES+'43008/70090/956.112_side1__70615.1656353568.gif?c=2','Quartzo, 3 ponteiros, Ø17,20 mm, espessura 2,50 mm, data às 3h, 7 rubis, platinas douradas.'),
+('956.412',ES+'46497/72024/956.412-2-photo2__18238.1656353607.gif?c=2','Quartzo, Ø19,40 mm, espessura 2,50 mm, data às 3h, 7 rubis.')]:
+    setimg(c,i,e)
+add('801.004','https://www.hswalsh.com/product/eta-801004-quartz-watch-movement-mzeta801004','Quartzo. Visto só no título da página do produto na H. S. Walsh (link da página).')
+RF='https://ranfft.org/storage/'
+setimg('2789',RF+'2023/09/thumb-e312051f6fd53132dbfc990fbe6918e05ad25f91.jpg?v=1782432805','Automático (1969–1976), Ø26 mm, altura 5,90 mm, 25 rubis, 21.600 alternâncias/h, 47 h de reserva; primeiro calibre com dia e data rápidos (arquivo Ranfft).')
+add('2763-F6','https://ranfft.org/caliber/4148-ETA-2763-F6','Variante do 2763 listada no arquivo Ranfft (link da página do calibre).')
+add('2783-F6','https://ranfft.org/caliber/4166-ETA-2783-F6','Variante do 2783 listada no arquivo Ranfft (link da página do calibre).')
+rf1="""128|1925|2023/09/thumb-7fd6a0c12676deb13d76fcb98c1577d0c523ceb1.jpg?v=1782432796
+361|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+362|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+363|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+364|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+365|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+366|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+367|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+370|1930|2023/09/thumb-1cb0e8fc6389a396e2650833ef629f36cc4b831f.jpg?v=1782432811
+390|1930|2023/09/thumb-9d54e5f63652c10754fffcc7a2b6bb53c91dca86.jpg?v=1782432811
+406|1920|2023/09/thumb-915613ea9ff3f92161752552e437ec9747c2ca11.jpg?v=1782432811
+500 (1925)|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+501|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+505|1925|2024/05/thumb-20240517_174953_1716123292.92126649f69ce0e798.74405731_1716170689.8805664aafc1d6f498.28856148.jpg?v=1782433597
+506|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+507|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+508|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+509|1925|2023/09/thumb-d34b5726a9f26af0f55fa620a60f8712f3c7fd59.jpg?v=1782432811
+612|1930|2023/09/thumb-ba5b07576e2c5a70511c8227dd0d5cca0a0cae38.jpg?v=1782432811
+640|1945|2023/09/thumb-73f803e9a8be57fc1191ffceafb1ecb5f14dd7dc.jpg?v=1782432573
+651|1935|2023/09/thumb-c67d55c6d0246b7079c6becce7a963e7a1a0e1f2.jpg?v=1782432502
+652|1935|2023/09/thumb-c67d55c6d0246b7079c6becce7a963e7a1a0e1f2.jpg?v=1782432502
+653|1935|2023/09/thumb-c67d55c6d0246b7079c6becce7a963e7a1a0e1f2.jpg?v=1782432502
+654|1935|2023/09/thumb-c67d55c6d0246b7079c6becce7a963e7a1a0e1f2.jpg?v=1782432502
+655|1935|2023/09/thumb-c67d55c6d0246b7079c6becce7a963e7a1a0e1f2.jpg?v=1782432502
+658|1935|2023/09/thumb-c67d55c6d0246b7079c6becce7a963e7a1a0e1f2.jpg?v=1782432502
+705|1935|2023/09/thumb-fcabafb824accf2803b4fee95baf6c4c969a6d3e.jpg?v=1782432812
+717|1940|2023/09/thumb-d7c71e7c783507edc487e0a58e12154ccf8a5152.jpg?v=1782432812"""
+for l in rf1.split('\n'):
+    c,y,i=l.split('|')
+    add(c,RF+i,f'Calibre mecânico antigo, lançado por volta de {y} (arquivo Ranfft; foto do calibre ou da família).')
+add('610','https://ranfft.org/caliber/15402-ETA-610','Calibre antigo listado no arquivo Ranfft (sem foto; link da página do calibre).')
+add('620','https://ranfft.org/caliber/11415-ETA-620','Calibre antigo listado no arquivo Ranfft (sem foto; link da página do calibre).')
+rf2="""9157|1975|61f6a8fcccd171384858a16a9f3d568cfbb04355.jpg?v=1782432722
+9158|1975|61f6a8fcccd171384858a16a9f3d568cfbb04355.jpg?v=1782432722
+9159|1975|61f6a8fcccd171384858a16a9f3d568cfbb04355.jpg?v=1782432722
+9162|1969|586f8e57c6e129c288ac06001ebf5b5185964ccd.jpg?v=1782432639
+9164|1970|72ba0b918516ee65233867abc2651291237386b1.jpg?v=1782432640
+9176|1970|bbdfb97531058355f0bed996aea2aa2d279a3d8c.jpg?v=1782432790
+9180|1975|b1c1dd12db535e39369afcd9fc4f522b1aabbe1c.jpg?v=1782432639
+9200|1975|5fcaf0bfe4c1e87a6e497c42bb0a00231ebd97d8.jpg?v=1782432790
+9210|1970|72ba0b918516ee65233867abc2651291237386b1.jpg?v=1782432640
+9360|1977|a34d78434f959b23b9c99f7f9ade079efaa36950.jpg?v=1782432790
+9361|1977|a34d78434f959b23b9c99f7f9ade079efaa36950.jpg?v=1782432790
+9362|1977|a34d78434f959b23b9c99f7f9ade079efaa36950.jpg?v=1782432790
+205.111|1997|16e09baeee6b77330d81619cdfd12c1a0fdbb283.jpg?v=1782432788
+205.711|2000|5416a5846002049147707c1e8952099f631a0a56.jpg?v=1782432789
+205.911|2000|5416a5846002049147707c1e8952099f631a0a56.jpg?v=1782432789
+210.001|1990|88a51b336f483803059a551eac4c60ac5364976e.jpg?v=1782432789
+210.011|1990|88a51b336f483803059a551eac4c60ac5364976e.jpg?v=1782432789
+255.111|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.112|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.121|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.122|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.265|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.266|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.412|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.421|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.431|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629
+255.441|1990|f68f474b04c60f59cd30eae5589e4a9a02d70802.jpg?v=1782432629"""
+for l in rf2.split('\n'):
+    c,y,i=l.split('|')
+    k=re.sub(r'[\s.\-]','',c.upper())
+    novo = k not in D
+    add(c,RF+'2023/09/thumb-'+i,f'ETA-ESA, lançado por volta de {y} (arquivo Ranfft; foto do calibre ou da família).')
+    d=D[k]
+    if not d['img'] or any(x in d['img'] for x in ('watchbase.com/eta/caliber','wiki.grail','.pdf')): d['img']=RF+'2023/09/thumb-'+i
+    if not d['e']: d['e']=f'ETA-ESA, lançado por volta de {y} (arquivo Ranfft).'
+setimg('255.411',RF+'2024/10/thumb-DSCF7892_1727731119.94266fb15afe5fc32.70705970.jpg?v=1782433672')
