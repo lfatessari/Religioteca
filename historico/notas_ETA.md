@@ -9,3 +9,5 @@ Decisão (estado.json avisos 04/11): fabricante de movimentos; gravar calibres c
 - Fotos: eta.ch history (13), grail reference (4), calibercorner (7). Resto: link WatchBase ou PDF.
 - Scripts em historico/ETA_trabalho (build.py + extra.py + wb_list.txt) geram dados_ETA.txt.
 - Falta: lojas (§7), usados (§8), imprensa (§9), buracos (Powermatic C07.x, Valgranges, Longines A31, Gabarit, 2842, 2630, ESA).
+## 1ª passada encerrada (02:05 UTC): ~78 fontes; últimas 5 (Montredo, WristwatchReview, Europa Star FOX, Sotheby's, Gentleman's Gazette) sem calibre novo.
+Vermelha: Ranfft diz 1.172 calibres ETA + 115 ETA-ESA; a listagem paginada é bloqueada (robots) e o Firecrawl está sem créditos. 2ª passada: famílias do Ranfft por busca.

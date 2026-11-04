@@ -426,3 +426,38 @@ for c in ['2370','2373','2375','2377','2378','2379','2380','2381']:
     add(c,'https://ranfft.org/caliber/3989-ETA-2372','Família do ETA 2372 (anos 1960), citado no arquivo Ranfft (link da página do ETA 2372).')
 for c in ['955.413','955.423']:
     add(c,'https://ranfft.org/caliber/3733-ETA-ESA-955412','Quartzo ETA-ESA "Flatline II", família 955.4xx (arquivo Ranfft; link da página do 955.412).')
+for c in ['1170','1171','1172','1173','1216','1217','1218']:
+    add(c,'https://reference.grail-watch.com/family/eta-1170/','Família ETA 1170 (fim dos anos 1940), listada no Grail Watch Reference (link da página da família).')
+RE='https://relojes-especiales.com/threads/breve-resumen-de-calibre-eta-mec%C3%A1nicos.398451/'
+add('A08.231',RE,'Valgranges A08.231 (também A08.L01): cronógrafo com roda de colunas, Longines L688.2 (citado no fórum Relojes Especiales; link do tópico).')
+add('2891-9',RE,'Base 2892 com calendário perpétuo e fase da lua (citado no fórum Relojes Especiales; link do tópico).')
+add('2890-9',RE,'Base 2892 com calendário perpétuo, sem segundos (citado no fórum Relojes Especiales; link do tópico).')
+setimg('2390','https://www.emmywatch.com/wp-content/plugins/watchsearch/inc/movement/eta--2390.jpg','Corda manual, 18.000 alternâncias/h, segundos centrais e data (Emmy Watch).')
+setimg('1256','https://i.ebayimg.com/images/g/TAAAAeSwZypq52ze/s-l500.jpg','Automático; foto de anúncio do eBay (movimento Benrus CF 1 com calibre ETA 1256).')
+MO='https://cdn.shopify.com/s/files/1/1020/5534/6525/files/'
+setimg('7750',MO+'valj7750.png'); setimg('6497-1',MO+'eta6497-1-2-1.png'); setimg('2894-2',MO+'eta2894-2w.png'); setimg('2000-1',MO+'eta2000-1-3.png')
+add('1190','https://www.christophlorenz.de/watch/movements/e/eta/eta_1190.php?l=en','Corda manual, 8½ × 9½ linhas, 15 rubis, 18.000 alternâncias/h (coleção Christoph Lorenz; link da página).')
+EF='https://www.europastar.com/local/cache-gd2/b2/088427c897ed810ddfb406fb828f02.jpg?1779562215'
+for c in ['F06.115','F06.105']:
+    setimg(c,EF)
+    D[re.sub(r'[\s.\-]','',c.upper())]['e']=(D[re.sub(r'[\s.\-]','',c.upper())]['e'] or '')+' Foto da família Trendline FOX (2016), ficha da Europa Star.'
+setimg('955.414','https://www.gentlemansgazette.com/wp-content/uploads/2015/09/ETA-Watch-Movements_1200x630_wp.jpg')
+setimg('2892',RF+'2023/09/thumb-1436b17efc0ecf64cad1931b87c8d676d1af6f93.jpg?v=1782432809','Versão original do 2892 (1975–1983), 28,4 mm, altura 3,60 mm, data rápida (arquivo Ranfft / Grail Wiki).')
+GW2='https://wiki.grail-watch.com/index.php/ETA_2890_calibres'
+for c,e in [('2890','Automático (1975–1983), 12½ linhas, 3,6 mm, segundos centrais, sem data.'),('2894S2','Cronógrafo automático esqueletizado, 12½ linhas, 6,2 mm, pequenos segundos.'),('2895-1','Automático (1997–2000), 4,35 mm, pequenos segundos, data rápida.'),('2890A9','Automático (1999–2005), 5,2 mm, calendário perpétuo e fase da lua.'),('2891A9','Automático (1999–2005), 5,2 mm, calendário perpétuo, fase da lua e segundos centrais.')]:
+    add(c,GW2,e)
+GW3='https://wiki.grail-watch.com/index.php/Valjoux_7750_calibres'
+for c,e in [('7757','Cronógrafo automático (1985–2003), contadores de 30 min e 12 h, contagem regressiva de regata.'),('7758','Cronógrafo automático (1985–2003), contadores de 30 min e 12 h, fase da lua.'),('7760','Cronógrafo de corda manual (1985–2005), contadores de 30 min e 12 h.'),('7761','Cronógrafo de corda manual (1986–1998), só contador de 30 min.'),('7768','Cronógrafo de corda manual (1985–1998), contador de 30 min, fase da lua.')]:
+    add(c,GW3,e)
+S25=CC+'2021/11/ETA-2500-Series.png'
+for c in ['2500','2502','2503','2508','2509','2516','2520','2521','2522','2523','2524','2525','2526','2527','2528','2529','2532','2538','2539']:
+    d=D.get(re.sub(r'[\s.\-]','',c.upper()))
+    if d and ('wiki.grail' in (d['img'] or '') or 'ranfft.org/caliber' in (d['img'] or '')):
+        d['img']=S25; d['e']=(d['e'] or '')+' Foto genérica da série 2500 (Caliber Corner).'
+setimg('2640',CC+'2024/11/ETA-Caliber-26402.png','Corda manual, 7¾ linhas, Ø17,5 mm, altura 3,5 mm, 17 rubis, 21.600 alternâncias/h, cerca de 40 h de reserva.')
+add('2657','https://calibercorner.com/eta-caliber-2640','Calibre da família 2640/2650, citado no Caliber Corner (link da página do 2640).')
+setimg('9210',RF+'2023/09/thumb-72ba0b918516ee65233867abc2651291237386b1.jpg?v=1782432640','Cronógrafo eletromecânico de diapasão ETA-ESA (1970) (arquivo Ranfft).')
+add('1122','https://ranfft.org/caliber/3833-ETA-1123','Família do ETA 1123/1131 (1950), citado no arquivo Ranfft (link da página do ETA 1123).')
+setimg('1123',RF+'2023/09/thumb-3d69c4ca413ce8db4c0f1472794ca66e5b27e8a9.jpg?v=1782432794','Corda manual (1950) (arquivo Ranfft).')
+add('2440','https://www.emmywatch.com/wp-content/plugins/watchsearch/inc/movement/eta--2440.jpg','Corda manual de bolso, 17 linhas, Ø38,15 mm, altura 4,1 mm, 15 rubis, 18.000 alternâncias/h, pequenos segundos (Emmy Watch).')
+setimg('256.041',CC+'2017/07/eta-caliber-256-041.jpg','Quartzo, 8¼ linhas, Ø18,2 mm, altura 1,95 mm, 6 rubis, data; usado no Rado Diastar; substituído pelo E61.041.')
