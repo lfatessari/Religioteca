@@ -153,3 +153,162 @@ CC='https://calibercorner.com/wp-content/uploads/'
 for c,i in [('F06.111',CC+'2024/01/eta-caliber-f06-111.jpg'),('F07.411',CC+'2024/08/eta-caliber-f07-411-drawing-481x321.jpg'),('E64.111',CC+'2024/03/eta-caliber-e64-111-481x321.jpg'),('F06.412',CC+'2024/01/eta-caliber-f06-412-451x301.jpg'),('F07.412',CC+'2023/12/eta-caliber-f07-412-481x321.jpg'),('F05.412',CC+'2023/02/eta-caliber-f05-412-616x411.jpg'),('F06.411',CC+'2022/11/eta-caliber-f06-411-616x411.jpg')]:
     add(c,i); D[re.sub(r'[\s.\-]','',c.upper())]['img']=i
 add('C07.111',None,None,'Powermatic 80')
+def setimg(c,i,e=None):
+    add(c,i,e); D[re.sub(r'[\s.\-]','',c.upper())]['img']=i
+TT='https://timeandtidewatches.com/wp-content/uploads/2024/06/'
+setimg('2824-2',TT+'ETA-2824-2.jpg')
+setimg('6498-1',TT+'Unitas-6498.jpg')
+setimg('2892-A2',TT+'ETA-2829A2.jpg')
+setimg('7001',TT+'ETA-7001.jpg')
+C7=CC+'2023/08/ETA-Caliber-C07XXX1.png'
+for c,e in [('C07.141','Automático, família Powermatic 80 (C07). Foto genérica da família C07.'),('C07.641','Automático, família Powermatic 80 (C07). Foto genérica da família C07.'),('C07.701','Corda manual, família Powermatic 80 (C07). Foto genérica da família C07.')]:
+    add(c,C7,e)
+add('C07.811',None,'Automático com espiral de silício, família Powermatic 80 (C07).')
+add('C07.631',None,'Automático, família Powermatic 80; usado no Rado R734.')
+add('C07.611',None,'Automático, família Powermatic 80; usado no Rado R763.')
+add('C07.651',None,'Automático com data grande, família Powermatic 80.')
+add('C07.661',None,'Automático GMT, família Powermatic 80.')
+add('C07.111',None,'Automático, 80 h de reserva de marcha, 21.600 alternâncias/h, Ø25,60 mm (11½ linhas), peças sintéticas no escapamento.')
+add('C10.111','https://calibercorner.com/wp-content/uploads/2019/03/swatch-caliber-sistem51.jpg','Automático do Swatch Sistem51, montado pela ETA: 51 peças, 19 rubis, 21.600 alternâncias/h, 90 h de reserva de marcha.','Sistem51')
+setimg('A31.111',CC+'2024/11/eta-caliber-a31-111-mido.jpg','Automático, base 2892-A2: Ø25,60 mm, altura 3,85 mm, 21 rubis, 25.200 alternâncias/h, 72 h de reserva, espiral Nivachron; exclusivo da Mido (Calibre 72).')
+setimg('A05.231',CC+'2022/11/eta-valjoux-caliber-a05-231.jpg','Cronógrafo automático base 7753: Ø30 mm, altura 7,94 mm, 29 rubis, 28.800 alternâncias/h, 68 h de reserva, espiral Nivachron; usado no Tissot Telemeter 1938.')
+setimg('2892-A2',CC+'2014/11/eta-caliber-2892-a2.jpg')
+add('2892',None,'Versão original do 2892, cerca de 28 mm, c. 1975–1983.')
+add('2899',None,'Versão de pequenos segundos do 2892.')
+setimg('2850',CC+'2024/01/eta-2850.jpg','Corda manual, família "Gabarit" 28xx: Ø25,60 mm, altura 4,30 mm, 28.800 alternâncias/h, sem data.')
+GF='https://reference.grail-watch.com/family/eta-gabarit-2850/'
+for c in ['2851','2852','2853','2858','2859','2870','2871','2872','2873','2878']:
+    add(c,GF,'Família "Gabarit" 28xx (1976 – início dos anos 1980), listada no Grail Watch Reference. Sem foto: link da página da família.')
+S27=CC+'2021/11/ETA-2700-Series.png'
+s27="""2722|Automático|28.800|sem data
+2724|Automático|28.800|data rápida
+2728|Automático|28.800|dia e data
+2732|Automático|36.000|sem data
+2734|Automático|36.000|data rápida
+2738|Automático|36.000|dia e data
+2750|Corda manual|21.600|sem data
+2751|Corda manual|36.000|sem data
+2752|Corda manual|21.600|data
+2753|Corda manual|21.600|data, regulador Triovis
+2754|Corda manual|28.800|data
+2758|Corda manual|21.600|dia e data
+2759|Corda manual|28.800|dia e data, regulador Triovis
+2760|Corda manual|28.800|dia e data
+2761|Corda manual|21.600|data rápida
+2762|Corda manual|21.600|data rápida
+2763|Corda manual|21.600|data rápida
+2764|Corda manual|36.000|data rápida
+2766||28.800|
+2768|Corda manual|21.600|dia e data rápidos
+2769|Corda manual|21.600|dia e data rápidos
+2769-1|Corda manual|21.600|dia bilíngue e data rápida
+2770|Automático|21.600|sem data
+2771|Automático|28.800|sem data
+2772|Automático|21.600|data rápida
+2773|Automático|21.600|data, regulador Triovis
+2774|Automático|28.800|data
+2776|Automático|21.600|sem data
+2778|Automático|21.600|dia e data
+2779|Automático|21.600|dia e data, regulador Triovis
+2780|Automático|28.800|dia e data
+2781|Automático|21.600|data rápida
+2782|Automático|21.600|data rápida
+2783|Automático|21.600|data rápida
+2784|Automático|36.000|data rápida
+2788|Automático|21.600|dia e data rápidos
+2789|Automático|21.600|dia e data rápidos
+2789-1|Automático|21.600|dia bilíngue e data rápida
+2790|Automático|28.800|dia e data rápidos
+2790-1|Automático|36.000|dia e data rápidos
+2791|Automático|36.000|data rápida"""
+for l in s27.split('\n'):
+    c,t,f,cal=l.split('|')
+    e=', '.join(x for x in [t,f+' alternâncias/h',cal] if x)
+    add(c,S27,f'Série ETA 2700 (anos 1970–80): {e}. Foto genérica da série 2700.')
+GW='https://wiki.grail-watch.com/index.php/ETA_calibres'
+gw="""2410,2415|Corda manual, compacto, 18.000 alternâncias/h (anos 1950–60)
+2425|Automático, 18.000 alternâncias/h
+2412,2413,2417|Corda manual, 21.600 alternâncias/h
+2428|Automático, 21.600 alternâncias/h
+2390|Corda manual, 10½ linhas, sem data, 18.000 alternâncias/h
+2391|Corda manual, 11½ linhas, sem data, 18.000 alternâncias/h
+2406,2408|Corda manual, 11½ linhas, data, 18.000 alternâncias/h
+2450|Automático, 10½ linhas, sem data, 18.000 alternâncias/h
+2456|Automático, 10½ linhas, data, 18.000 alternâncias/h
+2451,2453,2471|Automático, 11½ linhas, sem data, 18.000 alternâncias/h
+2452,2454,2455,2457,2460,2462,2463,2472,2474,2475|Automático, 11½ linhas, data, 18.000 alternâncias/h
+2500|Corda manual, 11½ linhas, 18.000 alternâncias/h, sem data
+2502|Corda manual, 11½ linhas, 18.000 alternâncias/h, data
+2508|Corda manual, 11½ linhas, 18.000 alternâncias/h, dia e data
+2516|Corda manual, 11½ linhas, 18.000 alternâncias/h, dia e data rápidos
+2600|Corda manual, 11½ linhas, 21.600 alternâncias/h, sem data
+2602|Corda manual, 11½ linhas, 21.600 alternâncias/h, data
+2612|Corda manual, 11½ linhas, 21.600 alternâncias/h, data rápida
+2608|Corda manual, 11½ linhas, 21.600 alternâncias/h, dia e data
+2618|Corda manual, 11½ linhas, 21.600 alternâncias/h, dia e data rápidos
+2503|Corda manual, 13 linhas, 18.000 alternâncias/h, data
+2509|Corda manual, 13 linhas, 18.000 alternâncias/h, dia e data
+2603|Corda manual, 13 linhas, 21.600 alternâncias/h, data
+2609|Corda manual, 13 linhas, 21.600 alternâncias/h, dia e data
+2520,2524,2525,2528|Automático, 11½ linhas, 18.000 alternâncias/h, sem data
+2522,2526,2527,2529|Automático, 11½ linhas, 18.000 alternâncias/h, data
+2532|Automático, 11½ linhas, 18.000 alternâncias/h, data rápida
+2538|Automático, 11½ linhas, 18.000 alternâncias/h, dia e data rápidos
+2620|Automático, 11½ linhas, 21.600 alternâncias/h, sem data
+2622|Automático, 11½ linhas, 21.600 alternâncias/h, data
+2637|Automático, 11½ linhas, 21.600 alternâncias/h, data rápida
+2630,2632,2638|Automático, 11½ linhas, 21.600 alternâncias/h, dia e data rápidos
+2521|Automático, 13 linhas, 18.000 alternâncias/h, sem data
+2523|Automático, 13 linhas, 18.000 alternâncias/h, data
+2539|Automático, 13 linhas, 18.000 alternâncias/h, dia e data rápidos
+2623|Automático, 13 linhas, 21.600 alternâncias/h, data
+2639|Automático, 13 linhas, 21.600 alternâncias/h, dia e data rápidos
+2640|Corda manual, 7¾ linhas, 21.600 alternâncias/h, sem data
+2641|Corda manual, 7¾ linhas, 21.600 alternâncias/h, data
+2648|Corda manual, 7¾ linhas, 21.600 alternâncias/h, dia e data
+2660|Corda manual, 7¾ linhas, 28.800 alternâncias/h, sem data
+2661|Corda manual, 7¾ linhas, 28.800 alternâncias/h, data
+2668|Corda manual, 7¾ linhas, 28.800 alternâncias/h, dia e data
+2691|Corda manual, 8¾ linhas, 21.600 alternâncias/h, data
+2650|Automático, 7¾ linhas, 21.600 alternâncias/h, sem data
+2651|Automático, 7¾ linhas, 21.600 alternâncias/h, data
+2658|Automático, 7¾ linhas, 21.600 alternâncias/h, dia e data
+2670|Automático, 7¾ linhas, 28.800 alternâncias/h, sem data
+2675|Automático, 7¾ linhas, 28.800 alternâncias/h, fase da lua
+2688|Automático, 8¾ linhas, 21.600 alternâncias/h, dia e data
+2685|Automático, 8¾ linhas, 28.800 alternâncias/h, fase da lua
+2094|Cronógrafo automático com data, 10½ linhas, 2004 até hoje
+2000|Automático com data, 8¾ linhas, 2000 em diante"""
+for l in gw.split('\n'):
+    cs,e=l.split('|')
+    for c in cs.split(','): add(c,GW,e+'.')
+gq="""940|"Flatline Quartz" (ETA-ESA), 12½ linhas, 3,7 mm, 1976
+950.001|"Flatline Quartz" (ETA-ESA), 7¾ linhas, 3,1 mm, 1978–1979
+951|"Normline Quartz" (ETA-ESA), 7¾ linhas, 4,3 mm, 1978
+952|"Manufacture Quartz" (ESA/ETA), 11½ linhas, 4,5 mm, 1979
+954|"Flatline Quartz" (ETA-ESA), 11½ linhas, 3,7 mm, 1979
+977.001|"Opus Quartz" (ETA-ESA), 5¾ × 6¾ linhas, 3,6 mm, 1979
+959.001|"Elegance Quartz" (ETA-ESA), 9 linhas, 1980, topo de linha
+978.001|Quartzo ETA-ESA, 5¾ × 6¾ linhas, anos 1980
+400|"Ecoline", quartzo, anos 1980
+450|"Ecoline", quartzo, 11½ linhas, 1986, ajuste de marcha programado na fábrica
+555.111,555.112,555.115,555.121,555.122,555.125|Quartzo ETA-ESA, 11½ linhas, anos 1980
+555.411,555.412,555.415,555.419,555.421,555.422,555.425|Quartzo ETA-ESA, 10½ linhas, anos 1980
+955.031,955.032,955.101,955.102,955.111,955.114,955.121,955.124,955.291|Quartzo "Flatline II", 11½ linhas, 1979
+955.401,955.402,955.411,955.413,955.414,955.419,955.421,955.423,955.424,955.431|Quartzo "Flatline II", 10½ linhas, 1979
+956.031,956.032,956.042,956.101,956.111,956.113,956.114,956.119,956.121,956.122,956.124|Quartzo "Flatline II", 7½ linhas, 1979–1980
+956.401,956.402,956.411,956.414,956.421,956.431|Quartzo, 8¾ linhas, 1979–1980
+255.121,255.265,255.266|Quartzo ETA-ESA, 11½ linhas, anos 1990
+255.421,255.431,255.491,255.495,255.561|Quartzo ETA-ESA, 10½ linhas, anos 1990
+256.241|Cronógrafo de quartzo, 8¼ linhas, anos 1990
+G10.21A,G10.71A|Cronógrafo de quartzo, 13¼ linhas, 1/10 s, adição e rattrapante, 1998 em diante
+E01.401|Quartzo, 11 mm, 2,5 mm, 24 h, 1997
+E20.341|Quartzo "Thermoline", 2004 em diante
+F06.865|Quartzo "Trendline"
+804.192|Quartzo "Fashionline"
+281|Quartzo "Elegance", lançado em 1987"""
+for l in gq.split('\n'):
+    cs,e=l.split('|')
+    for c in cs.split(','): add(c,GW,e+'.')
+for c,e in [('9160','Diapasão "Mosaba" (ETA-ESA), anos 1960; também com nomes Eterna, Certina, Longines, Omega, Tissot, Zenith.'),('9162','Diapasão "Mosaba" (ETA-ESA), anos 1960.'),('9164','Diapasão "Mosaba" (ETA-ESA), anos 1960.'),('9210','Cronógrafo de diapasão (ETA-ESA), anos 1960.'),('9150','Eletrônico "Dynotron" (ETA-ESA), 12½ linhas, 1967–1970.'),('9154','Eletrônico "Dynotron" (ETA-ESA), 12½ linhas, 1970–1975.'),('9176','Eletrônico ETA-ESA, anos 1970, indicação digital saltante.'),('9157','Eletrônico ETA-ESA, 13 linhas, 1975 em diante.'),('9158','Eletrônico ETA-ESA, 13 linhas, 1975 em diante.'),('9159','Eletrônico ETA-ESA, 13 linhas, 1975 em diante.'),('9200','Eletrônico ETA-ESA, 7 × 8 linhas, anos 1970.'),('9315','LCD (ESA), meados dos anos 1970.'),('536','"Gabarit Quartz" (ETA/AS), 1978.'),('588.001','"Ecoline" (ESA-AS), 5½ linhas, 3,6 mm, 1981.'),('551.111','"Ecoline" (ESA-AS), 7¾ linhas, 1981.'),('554.111','"Ecoline" (ESA-AS), 11½ linhas, 3,7 mm, 1981.'),('9360','"Gabarit Quartz" (ESA/ETA), 11½ linhas, 5,5 mm, 1977.'),('9361','"Gabarit Quartz" (ESA/ETA), 11½ linhas, 5,5 mm, 1977.'),('9362','"Gabarit Quartz" (ESA/ETA), 11½ linhas, 5,5 mm, 1977.')]:
+    add(c,GW,e)

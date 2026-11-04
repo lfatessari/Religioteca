@@ -15,6 +15,11 @@ WB='https://watchbase.com/eta/caliber/'
 for c in open('/home/claude/trabalho/wb_list.txt').read().split('\n'):
     if c.strip(): add(c.strip(),WB+slug(c.strip()),None,src='wb')
 exec(open('/home/claude/trabalho/extra.py').read())
+for k in order:
+    if not D[k]['img']:
+        print('sem img',D[k]['code'])
+        D[k]['img']='https://calibercorner.com/eta-caliber-2892-a2' if D[k]['code'] in ('2892','2899') else 'https://calibercorner.com/eta-caliber-c07-xxx/'
+        D[k]['e']=(D[k]['e'] or '')+' Sem foto: link da página do Caliber Corner.'
 out=[]
 for k in order:
     d=D[k]; nome='Calibre '+d['code']+(' '+d['nick'] if d['nick'] else '')
