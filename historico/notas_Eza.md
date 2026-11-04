@@ -1,0 +1,16 @@
+# Eza (linha 515)
+- Raízes Pforzheim (Alemanha); fábrica Hermann Becker 1921-79 (cal. HB 313); relançada 2016 por Adriaan Trampe (holandês, Amsterdã?). Montagem Pforzheim.
+- Linhas: Sealander (aço preto/azul/verde, mesh, DLC, bronze preto/azul/verde), 1972 Diver (preto/azul; 36 e 39,5mm?), 1972 Limited Edition (preto/azul), AirFighter (preto/azul, couro/mesh, SW200).
+- thewatchgallery.fr/en/pages/eza: 16 produtos (fotos cdn/shop/files/...).
+- Fundadores: Diederik van Golen e Adriaan Trampe (holandeses), lançamento 21/02/2016. Site oficial ezawatches.com (não indexado; Firecrawl sem créditos). Coluna G diz eza-watches.com (antigo domínio, logo oceanictime aponta p/ eza-watches.com).
+- Sealander 1ª série 2016: Miyota 9015, 41mm, 300m, cerâmica, €849, azul/preto. Fotos monochrome .../2016/03/EZA_Watches_Sealander_Blue_1.jpg, app/uploads/2016/03/EZA_Watches_Sealander_Black_2.jpg
+- AirFighter 2017: 41mm, 13mm, 50m, ETA 2824-2 (depois SW200), preto mate; foto monochrome 2017/08/EZA-Watches-AirFighter-review-10.jpg
+- Sealander Bronze (2020, crowdfunding): CuAl9 41x14.2mm, 300m, ETA 2824-2; verde primeiro, preto e azul depois. GPHG 2022 Sealander Bronze Black CHF1095 foto cms.gphg.org/uploads/photothumbnail_gphg2022_Eza_001_be06a52ee9.jpg
+- 1972 (jan/2020): LE 35.8mm plexi 30m; padrão (Diver) 39.6mm safira cerâmica 200m; ETA 2824; preto/azul; US$759.
+- Logo: blogger EZA+Logo.jpg (oceanictime)
+- Vintage: Eza Automatic anos 1970 NOS, HB 313, tonneau 35mm, mostrador preto c/ faixa branca, 4ATM (70swatches blogspot DSCN6945_s.jpg)
+- Sealander 2016 w&w: 41x14.25, 300m; Miyota 9015 no anúncio, troca p/ ETA 2824-2 antes da entrega. Foto w&w library/uploads/2016/02/EZA.BLACK_THUMB.jpg, Blauwe-productfoto1.jpg
+- AirFighter Blue 2019 (fratello Eza-Airfighter-Blue.005-Edit.jpg)
+- masterhorologer artigos 2020 não abrem (client_error).
+- watchgallery collections/eza: 21 produtos; +1972 Diver Grey, Off-White, Blue, Anniversary Edition (50 anos, 100 peças numeradas, verde). 1972 Diver atual SW-200.
+- Sealander DLC aurifo SKU 2438 (loja), SW200.

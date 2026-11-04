@@ -7386,7 +7386,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T07:42:11Z",
- "ultimo_sinal": "2026-11-04T07:42:11Z",
+ "ultimo_sinal": "2026-11-04T07:47:49Z",
  "em_andamento_2": {
   "marcas": [
    "Eza",
@@ -7394,10 +7394,17 @@
   ],
   "linha_marcas": 515,
   "grande": false,
-  "relogios": "historico/parcial_Eza_relogios.txt",
-  "fontes": "historico/parcial_Eza_fontes.txt",
+  "relogios": "historico/notas_Eza.md",
+  "fontes": "historico/fontes_Eza.txt",
   "notas": "historico/notas_Eza.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
   "passada": 1
  }
 }
