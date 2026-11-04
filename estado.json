@@ -7431,5 +7431,20 @@
       "notas": "historico/notas_Ezteem.md"
     }
   ],
-  "marcas_novas_sem_relogios": []
+  "marcas_novas_sem_relogios": [],
+  "em_execucao": "2026-11-04T09:27:59Z",
+  "ultimo_sinal": "2026-11-04T09:27:59Z",
+  "em_andamento_2": {
+    "marcas": [
+      "F.P. Journe"
+    ],
+    "linha_marcas": 517,
+    "grande": true,
+    "complemento": true,
+    "pedido": "usuário pediu mais uma busca da F.P. Journe (04/11 09h28)",
+    "relogios": "historico/parcial_FP_Journe_c_relogios.txt",
+    "fontes": "historico/parcial_FP_Journe_c_fontes.txt",
+    "notas": "historico/notas_FP_Journe.md",
+    "passada": 4
+  }
 }
