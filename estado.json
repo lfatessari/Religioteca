@@ -7136,7 +7136,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T00:19:32Z",
- "ultimo_sinal": "2026-11-04T00:19:32Z",
+ "ultimo_sinal": "2026-11-04T00:21:10Z",
  "em_andamento_2": {
   "marcas": [
    "Esprit"
@@ -7148,7 +7148,9 @@
   "relogios": "historico/parcial_Esprit3_relogios.txt",
   "fontes": "historico/parcial_Esprit3_fontes.txt",
   "notas": "historico/notas_Esprit.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "5a_passada"
+  ],
   "passada": 5
  }
 }
