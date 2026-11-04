@@ -7448,7 +7448,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-04T09:42:07Z",
-  "ultimo_sinal": "2026-11-04T09:48:53Z",
+  "ultimo_sinal": "2026-11-04T09:54:45Z",
   "em_andamento_2": {
     "marcas": [
       "Fabergé"
@@ -7460,7 +7460,10 @@
     "notas": "historico/notas_Faberge.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3",
+      "5"
     ],
     "passada": 1
   }
