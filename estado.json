@@ -7510,5 +7510,23 @@
    "marca": "Atticus",
    "linha_marcas": 139
   }
- ]
+ ],
+ "em_execucao": "2026-11-04T20:43:05Z",
+ "ultimo_sinal": "2026-11-04T20:43:05Z",
+ "em_andamento_2": {
+  "marcas": [
+   "Aryon",
+   "Atticus"
+  ],
+  "linha_marcas": [
+   121,
+   139
+  ],
+  "grande": false,
+  "relogios": "historico/parcial_Aryon_relogios.txt; historico/parcial_Atticus_relogios.txt",
+  "fontes": "historico/parcial_Aryon_fontes.txt; historico/parcial_Atticus_fontes.txt",
+  "notas": "historico/notas_Aryon.md; historico/notas_Atticus.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
