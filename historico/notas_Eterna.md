@@ -9,3 +9,6 @@
 - Vintage: Phillips (130 FTP-4, 130 PTX/1, 106DT), Catawiki (títulos; lotes encerrados redirecionam), 1stdibs, Bulang.
 - 03h05: Europa Star swisstime (ficha Royal KonTiki 1987) lista ~95 fichas de arquivo Eterna (anos 1960–2010): nomes de linhas antigas (St-Honoré, Estrellita, Sahida, Linea, CXXV, Twin Time...) entraram com link da ficha. Fichas abertas uma a uma só via busca site:europastar.com.
 - Fontes ~92, relógios ~271. Seções feitas: 1,2,2c(parcial),3,4,5,6(títulos),7,8,9.
+- 03h10: 1ª passada encerrada (critério: 6 fontes seguidas sem modelo novo — WatchBase calibres 3510/3843/3030, Antiquorum p.2, lote 166-10, Gear Patrol). 105 fontes, 281 relógios.
+- Vermelha: milhares de referências vintage (Eterna-Matic/KonTiki/Sonic, anos 1940–90) sem nome/foto; ~95 fichas do arquivo Europa Star não abertas; the-collection p.2 do site oficial não alcançada; WatchBase contemporary/heritage e WatchPatrol bloqueados; Firecrawl sem créditos.
+- 2ª passada: §2c (site:shop.eterna.com, eterna.com product-page), buscas extras do §3 (limited, collaboration, unique, first watch), vintage com referência.
