@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 502,
- "ultima_versao": 424,
+ "ultima_versao": 425,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7031,6 +7031,24 @@
     "4": "48 fontes, 170 relógios novos (mais 33 vindos de títulos de busca)"
    },
    "obs": "Achados: códigos ESLW/ESMW da licença Christ, Esprit Collection (Herades, Aelous, Maia), coleções de imprensa 2006–2015 (Crest, Marin, Hayward, Atrium, Petco). Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-04",
+   "versao": 425,
+   "marca": "Esprit",
+   "linha_marcas": 501,
+   "complemento": true,
+   "pedido_usuario": "mais uma busca",
+   "linhas_relogios": "75240-75930 (bloco inteiro; 75 novas no fim)",
+   "relogios_novos": 75,
+   "relogios_total": 691,
+   "fotos_melhoradas": 4,
+   "vermelho": true,
+   "fontes": 25,
+   "passadas": {
+    "5": "25 fontes, 27 relógios novos (mais 48 vindos de títulos de busca)"
+   },
+   "obs": "Parou pelo critério: 3 fontes seguidas sem novidade. Fontes novas: comparadores da Polônia/Eslovênia/Indonésia, Flipkart, eBay Israel, blog da Timeshop4you. Foto do Okazje.info.pl por padrão confirmado."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -7134,23 +7152,5 @@
    "notas": "historico/notas_Auriva.md"
   }
  ],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-04T00:19:32Z",
- "ultimo_sinal": "2026-11-04T00:24:31Z",
- "em_andamento_2": {
-  "marcas": [
-   "Esprit"
-  ],
-  "linha_marcas": 501,
-  "grande": true,
-  "complemento": true,
-  "pedido": "usuário pediu mais uma busca (04/11 00h20)",
-  "relogios": "historico/parcial_Esprit3_relogios.txt",
-  "fontes": "historico/parcial_Esprit3_fontes.txt",
-  "notas": "historico/notas_Esprit.md",
-  "secoes_feitas": [
-   "5a_passada"
-  ],
-  "passada": 5
- }
+ "marcas_novas_sem_relogios": []
 }
