@@ -7408,7 +7408,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-04T08:42:31Z",
-  "ultimo_sinal": "2026-11-04T09:07:38Z",
+  "ultimo_sinal": "2026-11-04T09:09:17Z",
   "em_andamento_2": {
     "marcas": [
       "F.P. Journe"
@@ -7421,12 +7421,18 @@
     "secoes_feitas": [
       "1",
       "2",
+      "2c",
+      "3",
       "4",
       "5",
+      "6",
       "7",
-      "9"
+      "8",
+      "9",
+      "10",
+      "10b"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "Usuário pediu em 04/11 ~09h para remover a ETA da aba Relógios (não é marca de relógio): fazer com /home/claude/trabalho/remover_eta.py antes do gravar_marca.py"
   }
 }
