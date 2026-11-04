@@ -7198,7 +7198,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T02:41:18Z",
- "ultimo_sinal": "2026-11-04T02:48:38Z",
+ "ultimo_sinal": "2026-11-04T02:52:42Z",
  "em_andamento_2": {
   "marcas": [
    "Eterna"
@@ -7211,9 +7211,11 @@
   "secoes_feitas": [
    "1",
    "2",
+   "3",
    "5",
    "7",
-   "8"
+   "8",
+   "9"
   ],
   "passada": 1
  }
