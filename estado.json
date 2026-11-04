@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 524,
- "ultima_versao": 443,
+ "ultima_versao": 444,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7438,6 +7438,12 @@
    "site_bloqueado": false,
    "fontes": 22,
    "obs": "site fatherswatches.com fora das buscas; Firecrawl sem créditos"
+  },
+  {
+   "data": "2026-11-04",
+   "versao": 444,
+   "marca": "Acto",
+   "obs": "corrigido a pedido do usuário: faixa 3 → 4 (F 3500 → 13540), registro em M."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
