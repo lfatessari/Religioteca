@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 518,
-  "ultima_versao": 434,
+  "ultima_versao": 435,
   "historico": [
     {
       "data": "2026-10-16",
@@ -7319,6 +7319,21 @@
       "marca": "ETA",
       "linha_marcas": 503,
       "acao": "removida da aba Relógios a pedido do usuário (não é marca de relógio): 894 linhas de calibres apagadas; motivo anotado em M503. Linha da aba Marcas mantida."
+    },
+    {
+      "data": "2026-11-04",
+      "versao": 435,
+      "marca": "F.P. Journe",
+      "complemento": true,
+      "pedido_usuario": true,
+      "linhas_relogios": "76470-76765 (12 novas no fim do bloco)",
+      "relogios_novos": 12,
+      "fotos_trocadas": 7,
+      "fontes": 23,
+      "passadas": {
+        "4": "23 fontes, 12 novos"
+      },
+      "obs": "Mais uma busca a pedido do usuário: Joaillerie Rubis, FFC de série, Optimum e Tourbillon com mostrador de jade, lineSport 44 mm (CT2/AR2/CTS2), Octa de latão 38 mm, Sonnerie preta única; 7 fotos que eram só link trocadas por imagem."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
