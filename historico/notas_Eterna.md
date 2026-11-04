@@ -12,3 +12,4 @@
 - 03h10: 1ª passada encerrada (critério: 6 fontes seguidas sem modelo novo — WatchBase calibres 3510/3843/3030, Antiquorum p.2, lote 166-10, Gear Patrol). 105 fontes, 281 relógios.
 - Vermelha: milhares de referências vintage (Eterna-Matic/KonTiki/Sonic, anos 1940–90) sem nome/foto; ~95 fichas do arquivo Europa Star não abertas; the-collection p.2 do site oficial não alcançada; WatchBase contemporary/heritage e WatchPatrol bloqueados; Firecrawl sem créditos.
 - 2ª passada: §2c (site:shop.eterna.com, eterna.com product-page), buscas extras do §3 (limited, collaboration, unique, first watch), vintage com referência.
+- 03h13: 2ª passada encerrada (3 seguidas sem novidade: CollectorSquare ES, HiConsumption, SJX). Trouxe >5 → 3ª passada (vintage: Bonhams/Christie's/Catawiki/eBay, Europa Star).
