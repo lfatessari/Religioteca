@@ -7226,7 +7226,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T03:42:48Z",
- "ultimo_sinal": "2026-11-04T03:42:48Z",
+ "ultimo_sinal": "2026-11-04T04:01:14Z",
  "em_andamento_2": {
   "marcas": [
    "Etien",
@@ -7238,7 +7238,9 @@
   "relogios": "historico/parcial_Etien_relogios.txt",
   "fontes": "historico/parcial_Etien_fontes.txt",
   "notas": "historico/notas_Etien.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "pesquisa completa; gravando"
+  ],
   "passada": 1
  }
 }
