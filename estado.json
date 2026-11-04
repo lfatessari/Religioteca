@@ -7512,7 +7512,7 @@
   }
  ],
  "em_execucao": "2026-11-04T20:43:05Z",
- "ultimo_sinal": "2026-11-04T20:43:05Z",
+ "ultimo_sinal": "2026-11-04T20:57:31Z",
  "em_andamento_2": {
   "marcas": [
    "Aryon",
@@ -7526,7 +7526,10 @@
   "relogios": "historico/parcial_Aryon_relogios.txt; historico/parcial_Atticus_relogios.txt",
   "fontes": "historico/parcial_Aryon_fontes.txt; historico/parcial_Atticus_fontes.txt",
   "notas": "historico/notas_Aryon.md; historico/notas_Atticus.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Atticus:1-11",
+   "Aryon:1,2,2c parcial"
+  ],
   "passada": 1
  }
 }
