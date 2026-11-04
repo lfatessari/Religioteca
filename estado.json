@@ -7154,18 +7154,20 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T00:42:53Z",
- "ultimo_sinal": "2026-11-04T00:42:53Z",
+ "ultimo_sinal": "2026-11-04T00:46:03Z",
  "em_andamento_2": {
   "marcas": [
-   "Essex",
-   "ETA"
+   "Essex"
   ],
   "linha_marcas": 502,
   "grande": false,
   "relogios": "historico/parcial_Essex_relogios.txt",
   "fontes": "historico/parcial_Essex_fontes.txt",
   "notas": "historico/notas_Essex.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "3"
+  ],
   "passada": 1
  }
 }
