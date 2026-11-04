@@ -7408,7 +7408,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-04T08:42:31Z",
-  "ultimo_sinal": "2026-11-04T08:52:07Z",
+  "ultimo_sinal": "2026-11-04T08:55:02Z",
   "em_andamento_2": {
     "marcas": [
       "F.P. Journe"
@@ -7421,8 +7421,10 @@
     "secoes_feitas": [
       "1",
       "2",
+      "4",
       "5",
-      "7"
+      "7",
+      "9"
     ],
     "passada": 1
   }
