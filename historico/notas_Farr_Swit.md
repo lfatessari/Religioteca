@@ -15,3 +15,5 @@ straphabit tagged: robots (nao conta)
 - Wayfinder Diver 40 Lume (2025, 40mm, 300m, VH31, $499)
 - B Sides Cotton Candy (beneficente, irmão do Berry)
 - faire p_qs84/p_4986/p_u7eg = outras marcas (nao contam); watchpatrol 1935693/1726834/1987281 = Farer (nao contam)
+## Auto-auditoria
+Site oficial fora das buscas. Primeiro modelo Seaplane (2019) ok. Limitadas na B. Parada: moma oembed, timebum 185, ablogtowatch seaplane sem novidade. 24 fontes.

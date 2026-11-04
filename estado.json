@@ -7528,7 +7528,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-04T21:43:01Z",
- "ultimo_sinal": "2026-11-04T21:47:53Z",
+ "ultimo_sinal": "2026-11-04T21:53:20Z",
  "em_andamento_2": {
   "marcas": [
    "Farr & Swit",
@@ -7543,7 +7543,8 @@
   "fontes": "historico/parcial_Farr_Swit_fontes.txt; historico/parcial_Fathers_fontes.txt",
   "notas": "historico/notas_Farr_Swit.md; historico/notas_Fathers.md",
   "secoes_feitas": [
-   "Farr & Swit: 1,2(bloqueado),2c,3,5,7,8,9,10"
+   "Farr & Swit: pesquisa concluida",
+   "Fathers: pesquisa concluida; gravando"
   ],
   "passada": 1
  }
