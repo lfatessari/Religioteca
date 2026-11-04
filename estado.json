@@ -7171,7 +7171,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-04T01:42:29Z",
-  "ultimo_sinal": "2026-11-04T01:42:29Z",
+  "ultimo_sinal": "2026-11-04T01:53:40Z",
   "em_andamento_2": {
     "marcas": [
       "ETA"
@@ -7181,7 +7181,12 @@
     "relogios": "historico/parcial_ETA_relogios.txt",
     "fontes": "historico/parcial_ETA_fontes.txt",
     "notas": "historico/notas_ETA.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
     "passada": 1
   }
 }
