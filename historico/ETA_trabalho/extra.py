@@ -398,3 +398,31 @@ for l in rf2.split('\n'):
     if not d['img'] or any(x in d['img'] for x in ('watchbase.com/eta/caliber','wiki.grail','.pdf')): d['img']=RF+'2023/09/thumb-'+i
     if not d['e']: d['e']=f'ETA-ESA, lançado por volta de {y} (arquivo Ranfft).'
 setimg('255.411',RF+'2024/10/thumb-DSCF7892_1727731119.94266fb15afe5fc32.70705970.jpg?v=1782433672')
+setimg('1259',RF+'2023/09/thumb-173cd0433cc2e28d7ae98039be64f92ccb7a7f04.jpg?v=1782432795','Automático (1955), 11½ linhas, Ø26 mm, altura 6,00 mm, 21 rubis, 18.000 alternâncias/h, data (arquivo Ranfft).')
+setimg('1008',RF+'2023/09/thumb-8e6441a0237fdddc6426ed3e4db3d84f2d610ced.jpg?v=1782432792','Corda manual (1945), 22,2 × 20,85 mm, altura 3,25 mm, 21 rubis, 18.000 alternâncias/h, pequenos segundos (arquivo Ranfft).')
+setimg('2522',RF+'2023/09/thumb-392972707840b57314f0b79fe660a0ee7a357479.jpg?v=1782432783')
+add('2522',None,'Automático (1965), Ø26 mm, altura 4,50 mm, 25 rubis, 18.000 alternâncias/h, data (arquivo Ranfft).',force=True)
+setimg('901',RF+'2023/09/thumb-5519263f80be2bf424b57c0189fb9813fcd17547.jpg?v=1782432728','Corda manual (1950), 10½ linhas, 17 rubis, 41 h de reserva, segundos centrais (arquivo Ranfft).')
+for l in open('/home/claude/trabalho/rf_links.txt').read().split():
+    c,i=l.split('|')
+    add(c,f'https://ranfft.org/caliber/{i}-ETA-{c}','Calibre listado no arquivo Ranfft (sem foto aqui; link da página do calibre).')
+setimg('2824',RF+'2023/09/thumb-066553d97cafb70075912d0eddb90cd38e9b6eed.jpg?v=1782432806','Automático (1971), 11½ linhas, Ø26 mm; o calibre original da família 2824 (arquivo Ranfft).')
+setimg('2367',RF+'2023/09/thumb-57285111fb11e24f8d67099bf1d3fa49c5ca4a1d.jpg?v=1782432689','Automático (1959), 8¼ linhas (18,6 mm) (arquivo Ranfft).')
+setimg('964',RF+'2023/09/thumb-a9a326d2fba4a91f4a9bb33fb74b9fc0645b472e.jpg?v=1782432793','Corda manual (1945), 13½ linhas (30,45 mm) (arquivo Ranfft).')
+setimg('1131',RF+'2023/09/thumb-3d69c4ca413ce8db4c0f1472794ca66e5b27e8a9.jpg?v=1782432794','Corda manual (1950), 13 linhas (29,4 mm) (arquivo Ranfft).')
+setimg('1318',RF+'2023/09/thumb-4ab79d355d72c3a548cf60a7319ef6aeb2ad202f.jpg?v=1782432690','Automático (1955), 8¾ linhas (arquivo Ranfft).')
+for c in ['1120','1121','1123','1125','1127','1129','1130','1133','1139','1289']:
+    add(c,'https://ranfft.org/caliber/3839-ETA-1131',f'Calibre da família do ETA 1131, citado no arquivo Ranfft (sem página própria acessada; link da página do 1131).')
+setimg('1260',RF+'2023/09/thumb-aa2b21b5488e0e3a66ea224bfb2fd6dd16837e28.jpg?v=1782432498','Corda manual (1955), 10½ linhas (23,7 mm) (arquivo Ranfft).')
+add('2472','https://ranfft.org/caliber/view?id=4048','Automático (1965), Ø26 mm, altura 5,3 mm, novo mecanismo de data (arquivo Ranfft; link da página).',force=True)
+add('2391','https://ranfft.org/caliber/view?id=4007','Corda manual (1960), Ø26 mm, altura 3,6 mm (arquivo Ranfft; link da página).',force=True)
+for c in ['2392','2393','2394','2395','2396','2397','2398','2399','2400','2401','2402','2403','2404','2405','2409','2458','2459','2461','2464','2465']:
+    add(c,'https://ranfft.org/caliber/view?id=4007','Família ETA 2390/2450 (anos 1960), citado no arquivo Ranfft (link da página do ETA 2391).')
+add('1100','https://ranfft.org/caliber/view?id=3820','Corda manual (1955), 12 linhas, Ø27 mm, altura 4,5 mm, 21 rubis, 18.000 alternâncias/h (arquivo Ranfft; link da página).')
+for c in ['1101','1102','1103','1104','1105','1106','1107','1113','1114','1168']:
+    add(c,'https://ranfft.org/caliber/view?id=3820','Família do ETA 1100 (anos 1950), citado no arquivo Ranfft (link da página do ETA 1100).')
+add('2372','https://ranfft.org/caliber/3989-ETA-2372','Corda manual (1960), Ø26 mm, altura 4,2 mm, 21 rubis (arquivo Ranfft; link da página).')
+for c in ['2370','2373','2375','2377','2378','2379','2380','2381']:
+    add(c,'https://ranfft.org/caliber/3989-ETA-2372','Família do ETA 2372 (anos 1960), citado no arquivo Ranfft (link da página do ETA 2372).')
+for c in ['955.413','955.423']:
+    add(c,'https://ranfft.org/caliber/3733-ETA-ESA-955412','Quartzo ETA-ESA "Flatline II", família 955.4xx (arquivo Ranfft; link da página do 955.412).')
