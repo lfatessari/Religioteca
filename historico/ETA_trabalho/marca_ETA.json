@@ -1,0 +1,567 @@
+{
+ "marca": "ETA",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Fabricante de movimentos: as linhas em Relógios são calibres (não relógios). G: o site atual é eta.ch (eta.swatchgroup.com não abre como site próprio). H vazio. O Ranfft lista 1.172 calibres ETA + 115 ETA-ESA; a lista paginada é bloqueada, então só parte entrou (vermelho).",
+ "fontes": [
+  {
+   "url": "https://watchbase.com/eta",
+   "passada": 1,
+   "novos": 265
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/ETA_calibres",
+   "passada": 1,
+   "novos": 150
+  },
+  {
+   "url": "https://eta.ch/en/node/394",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://calibercorner.com/?p=16784",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/family/eta-2800/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-2824-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eta.ch/sites/default/files/downloads-items/ETA_Catalogue%20Quartz%202025_FR-EN.pdf",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.esslinger.com/eta-watch-movements",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.eta.ch/sites/default/files/downloads-items/ETA_Catalogue_Mecaline_2016_0.pdf",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/List_of_ETA_Movements",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/brand/eta/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/brand/eta/page/3/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://reference.grail-watch.com/brand/eta/page/9/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/brand/eta/valgranges/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-7750/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-2836-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-7765/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-6498-2/amp/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.watch-spare.com/eta-2824-2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/eta/caliber/g10-212-aj",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-2824-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/tag/mecaline/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/tag/precidrive",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/tag/28800/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.eta.ch/sites/default/files/downloads-items/ETA_Catalogue%20Quartz_FR-EN.pdf",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.eta.ch/sites/default/files/downloads-items/ETA_Quartz_2020_classic_EN-CH.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-c07-xxx/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://timeandtidewatches.com/eta-movements-watch-education/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/swatch-caliber-sistem51/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://calibercorner.com/?p=20883",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-a31-111",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/eta-valjoux-caliber-a05-231",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-2892-a2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-2825-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-2850",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://calibercorner.com/eta-2700-series/",
+   "passada": 1,
+   "novos": 41
+  },
+  {
+   "url": "https://www.hswalsh.com/watch-parts-straps-batteries/quartz-watch-movements/eta",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.esslinger.com/eta-3-hand-watch-movement-980-105-2-quartz-movement-overall-height-4-2mm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://esslinger.com/eta-3-hand-chrono-quartz-watch-movement-251-274-date-at-4-00-overall-height-7-3mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-3-hand-quartz-watch-movement-956-102-overall-height-4-4mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-watch-movement-g10-212-quartz-movement-date-at-4-00-overall-height-7-4mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://esslinger.com/eta-watch-movement-255-491-quartz-movement-overall-height-4-0mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-3-hand-quartz-watch-movement-955-402-overall-height-4-0mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-3-hand-quartz-watch-movement-902-101-overall-height-3-7mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-3-hand-quartz-watch-movement-802-102-overall-height-4-4mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-3-hand-quartz-watch-movement-805-112-430-date-at-4-30-overall-height-4-9mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-3-hand-quartz-watch-movement-956-112-date-at-3-00-overall-height-3-9mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.esslinger.com/eta-2-hand-quartz-watch-movement-956-412-2-overall-height-3-7mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/caliber/4179-ETA-2789",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/news/2037808-eta-sa-crosses-time-zones-with-its-new-automatic.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/manufacturer/88-ETA",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://ranfft.org/manufacturer/86-ETA-ESA",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ranfft.org/caliber/3916-ETA-1259",
+   "passada": 1,
+   "novos": 50
+  },
+  {
+   "url": "https://ranfft.org/caliber/3777-ETA-1008",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://ranfft.org/caliber/4069-ETA-2522",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://ranfft.org/caliber/4364-ETA-901",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://ranfft.org/caliber/4186-ETA-2824",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://ranfft.org/caliber/3991-ETA-2367",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://ranfft.org/caliber/4053-ETA-2492",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://ranfft.org/caliber/4386-ETA-964",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://ranfft.org/caliber/3839-ETA-1131",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://ranfft.org/caliber/3955-ETA-1318",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://ranfft.org/caliber/view?id=4048",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://ranfft.org/caliber/view?id=4007",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ranfft.org/caliber/view?id=3820",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://ranfft.org/caliber/3910-ETA-1260",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://ranfft.org/caliber/3989-ETA-2372",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://ranfft.org/caliber/3733-ETA-ESA-955412",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christophlorenz.de/watch/movements/e/eta/eta_1190.php?l=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/shop/eta-2452-movement",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.emmywatch.com/db/movement/eta--2390",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/family/eta-1170/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://reference.grail-watch.com/family/eta-2390-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/breve-resumen-de-calibre-eta-mec%C3%A1nicos.398451/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.montredo.com/movements-made-by-eta-sa-an-overview-of-10-of-the-most-popular-calibres/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/historical-horology-eta-and-their-movements",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096901-eta-trendline-fox.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/articles/the-a-z-of-watches-e-is-for-eta",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gentlemansgazette.com/eta-watch-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/caliber/4232-ETA-2892",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/caliber/11412-ETA-7750",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/ETA_2890_calibres",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Valjoux_7750_calibres",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://calibercorner.com/eta-2500-series",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-2640",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ranfft.org/caliber/3712-ETA-ESA-9210",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/caliber/3833-ETA-1123",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.emmywatch.com/db/movement/eta--2440",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-256-041/eta-caliber-256-041-v8",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/caliber/view?id=3812",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/?p=415",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://calibercorner.com/?p=21018",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-2485",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christophlorenz.de/watch/movements/e/eta/eta_2650.php?l=en",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://reference.grail-watch.com/?p=4875",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/?p=4877",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://reference.grail-watch.com/?p=4870",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-746/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-2412/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://reference.grail-watch.com/movement/eta-2365/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://service-manuals-pro.pages.dev/categories/watchmaking/eta",
+   "passada": 3,
+   "novos": 44
+  },
+  {
+   "url": "https://www.eta.ch/en/our-products/quartz-movements/normflatline/eta-normflatline-901001",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/tag/esa/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/ETA_955",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/ETA_956",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://calibercorner.com/esa-caliber-940-111/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://electric-watches.co.uk/?p=1582",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ranfft.org/caliber/12914-ETA-955412",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/ESA_952",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://calibercorner.com/eta-caliber-955-412/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/caliber/3713-ETA-ESA-9361",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
