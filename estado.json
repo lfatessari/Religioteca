@@ -7134,5 +7134,21 @@
    "notas": "historico/notas_Auriva.md"
   }
  ],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-04T00:19:32Z",
+ "ultimo_sinal": "2026-11-04T00:19:32Z",
+ "em_andamento_2": {
+  "marcas": [
+   "Esprit"
+  ],
+  "linha_marcas": 501,
+  "grande": true,
+  "complemento": true,
+  "pedido": "usuário pediu mais uma busca (04/11 00h20)",
+  "relogios": "historico/parcial_Esprit3_relogios.txt",
+  "fontes": "historico/parcial_Esprit3_fontes.txt",
+  "notas": "historico/notas_Esprit.md",
+  "secoes_feitas": [],
+  "passada": 5
+ }
 }
