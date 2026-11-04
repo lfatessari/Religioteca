@@ -7,3 +7,5 @@
 - Falta: delray p2, WatchBase contemporary/heritage (tentar de novo), Majestix brand, imprensa (aBlogtoWatch, Europa Star, Fratello, Worldtempus), Phillips/Catawiki, Jura/Kibble, 2c site:shop.eterna.com.
 - 03h: official eterna.com (Wix) product pages achadas por busca do título exato ("ETERNITY FOR HIM AUTOMATIC 40 MM" etc.). the-collection tem ?page=2 não alcançada. Right Time: fichas com foto padrão righttime.com/eterna/<linha>/<ref com _>m.jpg.
 - Vintage: Phillips (130 FTP-4, 130 PTX/1, 106DT), Catawiki (títulos; lotes encerrados redirecionam), 1stdibs, Bulang.
+- 03h05: Europa Star swisstime (ficha Royal KonTiki 1987) lista ~95 fichas de arquivo Eterna (anos 1960–2010): nomes de linhas antigas (St-Honoré, Estrellita, Sahida, Linea, CXXV, Twin Time...) entraram com link da ficha. Fichas abertas uma a uma só via busca site:europastar.com.
+- Fontes ~92, relógios ~271. Seções feitas: 1,2,2c(parcial),3,4,5,6(títulos),7,8,9.
