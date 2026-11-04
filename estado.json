@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 522,
- "ultima_versao": 438,
+ "ultima_versao": 439,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7374,6 +7374,11 @@
    "data": "2026-11-04",
    "versao": 438,
    "obs": "2 marcas novas incluídas na aba Marcas a pedido do usuário (achadas no Instagram seguido pela @relogioteca, letra A): Aryon (linha 121) e Atticus (linha 139), com B–M preenchidos (E como valor). As linhas a partir da 121 foram deslocadas; proxima_linha_marcas, marcas_pendentes, marcas_ja_feitas_fora_da_ordem e avisos já atualizados. Aba Relógios não mudou. As duas estão em marcas_novas_sem_relogios para as próximas execuções."
+  },
+  {
+   "data": "2026-11-04",
+   "versao": 439,
+   "obs": "Corrigido a pedido do usuário: coluna H (Instagram) de 24 marcas A/B para a conta oficial que a @relogioteca segue; anOrdaim renomeada para anOrdain (Marcas e 47 linhas da aba Relógios). Registro em M."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
