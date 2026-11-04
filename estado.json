@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 524,
- "ultima_versao": 444,
+ "ultima_versao": 445,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7444,6 +7444,18 @@
    "versao": 444,
    "marca": "Acto",
    "obs": "corrigido a pedido do usuário: faixa 3 → 4 (F 3500 → 13540), registro em M."
+  },
+  {
+   "data": "2026-11-04",
+   "versao": 445,
+   "marca": "Acto",
+   "linha_marcas": 18,
+   "linhas_relogios": "77123-77167",
+   "relogios": 45,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 19,
+   "obs": "a pedido do usuário (fora da ordem): catálogo fechado conferido — products.json = sitemap = coleções do site actowatches.com.br; AGB05 (pré-venda 10/11/2026) achado como produto escondido; logo em K."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -7458,6 +7470,10 @@
   "D. Candaux": {
    "linha_marcas": 389,
    "linhas_relogios": "59412-59435 (gravada como David Candaux; duplicata)"
+  },
+  "Acto": {
+   "linha_marcas": 18,
+   "linhas_relogios": "77123-77167"
   }
  },
  "avisos": {
