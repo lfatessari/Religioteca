@@ -1,0 +1,2 @@
+# Exaequo (511)
+Suíça, fundada 1990 em Genebra por Philippe Muller; Softwatch anos 90 (com assinatura Dalí); adormecida fim dos 90; renascida 2024 (Ticino) no centenário do Manifesto Surrealista. Site exaequowatches.com (não indexado). Coleções: Classic (EX0001 aço, EX0002 PVD ouro, EX0003 rosé?), Revolve (EX0031 aço, EX0032 IP ouro), Polyhedron prata 925 (EX0101, 3 mostradores x 101), Melting Clock EX0012. Faltam: EX0001.0006, rosé 101 pcs, fumé 301, Revolve brancos/pretos, Polyhedron preto/3o, Softwatch vintage.
