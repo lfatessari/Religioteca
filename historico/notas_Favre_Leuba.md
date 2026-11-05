@@ -7,3 +7,6 @@
 - Correção pendente: Chief Chronograph 00.20101.113.04.200 = azul-gelo (TWP 04 = ice blue).
 Fontes de busca (slugs TWP, só títulos de resultado) não contam como fontes abertas.
 - NÃO abrir links devolvidos por WebFetch (1stdibs King Hussein pediu permissão).
+- 1ª passada ENCERRADA (02:06 UTC): últimas 3 fontes sem novidade (Belmont 1737, Jura releases, Ethos Deep Blue). ~198 relógios.
+- VERMELHA: vintage enorme (CollectorSquare 66 resultados, Europa Star swisstime 56 fichas inalcançáveis sem busca, EveryWatch só para membros, Chrono24 não indexada).
+- 2ª passada: foco vintage (swisstime via busca, Antiquorum/Heritage/Bonhams/Catawiki/fóruns), §2c com termos novos, buscas extras §3.
