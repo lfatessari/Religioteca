@@ -8017,7 +8017,7 @@
   }
  ],
  "em_execucao": "2026-11-05T22:14:47Z",
- "ultimo_sinal": "2026-11-05T22:14:47Z",
+ "ultimo_sinal": "2026-11-05T22:29:59Z",
  "em_andamento_2": {
   "marcas": [
    "Accurist"
@@ -8027,7 +8027,11 @@
   "relogios": "historico/parcial_Accurist_relogios.txt",
   "fontes": "historico/parcial_Accurist_fontes.txt",
   "notas": "historico/notas_Accurist.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
+  "passada": 1,
+  "stage": "historico/stage_Accurist.txt + historico/imgs_Accurist.txt"
  }
 }
