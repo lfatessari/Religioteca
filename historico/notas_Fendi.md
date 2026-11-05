@@ -7,3 +7,5 @@ Fontes: ver parcial_Fendi_fontes.txt
 ## 05/11 05h05 — 1ª passada ENCERRADA (4 fontes seguidas sem novidade). ~98 fontes, ~300 relógios.
 Decisão: VERMELHA (centenas de referências Orologi antigas 1988-2010 só vistas em anúncios; F-refs de mostradores/variações sem foto; Firecrawl sem créditos para lojas grandes como Chrono24/Jomashop).
 2ª passada: foco em Orologi antigos (números de modelo), §2c com termos novos, catálogos/manuais, Japão (Yahoo/Rakuten), lojas com fotos.
+## 05/11 05h08 — 2ª passada ENCERRADA (22 fontes novas; ~35 relógios novos; últimas 3 fontes: 1, 0, 0 + sothebys 0). Como trouxe ≥5, fazer 3ª passada (≥10 fontes novas).
+3ª passada: foco em fotos/refs por coleção (lojas com páginas de produto), Orologi antigos restantes, Policromia/Crazy Carats edições, Japão.
