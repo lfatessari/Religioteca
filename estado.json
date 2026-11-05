@@ -8031,7 +8031,7 @@
   }
  ],
  "em_execucao": "2026-11-05T23:42:21Z",
- "ultimo_sinal": "2026-11-05T23:42:21Z",
+ "ultimo_sinal": "2026-11-05T23:48:19Z",
  "em_andamento_2": {
   "marcas": [
    "Buren",
@@ -8047,7 +8047,9 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Buren: todas (1ª passada concluída, 15 fontes)"
+  ],
   "passada": 1
  }
 }

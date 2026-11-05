@@ -1,0 +1,12 @@
+# Buren (Egito) — linha 265 Marcas
+- Marca egípcia (nome Buren desde 2001 em HK; hoje Egito, fabricação China). Site bureneg.com (WooCommerce, 51 produtos: Classique 7, Element 14, Forged 30).
+- Loja: nomes sem código (Royale – Green etc.). Galeria "ARCHIVED" tem 39 com código BU-xxxx. Revendedor citymarteg tem códigos 8014M, 70031M, 7018M, 70030M, 70029M, 20013L, 70027M, 70022M.
+- Não alcançado: shop/page/2-5, forged/page/2-3, element/page/2 (links só da paginação; Firecrawl sem créditos até 06/11 13:43 UTC). Amazon.eg robots.
+- Logo: https://bureneg.com/wp-content/uploads/2026/05/cropped-logoo.png
+- About do site diz 1968 Suíça na home, 2001 HK.
+- Amazon.eg (robots) — 4 modelos só pelo título dos resultados de busca: BU81027M, BU82028M, BU61006M, BU2708M (não contam como fonte aberta).
+- Falharam: amazon.eg (robots), facebook (robots), kanbkam (client_error), gem.app (client_error), burenwatches.com.eg/about-us (robots), everywatch (só colecionadores).
+- Corner Watches: 31 produtos (24 vistos); nomes da loja genéricos (Buren .8, metal.01, classic.02) NÃO viram linha; entram 70024M x3, BU70027 x2, 70030 x2.
+- Observações M: home do bureneg diz "fundada na Suíça em 1968" e About diz só 2001 HK; Instagram "since 1958". Há outro site, burenwatches.com.eg (texto de marketing, sem produtos). Galeria do site traz códigos BU-xxxxx.
+- Parada: verify, etsy, watchpatrol sem novidade (3 seguidas). 15 fontes abertas.
+- 10b: sem blog/imprensa; não há produtos escondidos indexados (site:bureneg.com só traz categorias); nomes de J (Royale, Vortex, Calista, Amethyst, Saphira, Solstice) achados; Aura e Isadora NÃO achados (provavelmente nas páginas 2-3 do Forged, não alcançadas).
