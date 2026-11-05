@@ -7651,7 +7651,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T06:42:45Z",
- "ultimo_sinal": "2026-11-05T06:42:45Z",
+ "ultimo_sinal": "2026-11-05T06:49:31Z",
  "em_andamento_2": {
   "marcas": [
    "Ferragamo"
@@ -7661,7 +7661,10 @@
   "relogios": "historico/parcial_Ferragamo_relogios.txt",
   "fontes": "historico/parcial_Ferragamo_fontes.txt",
   "notas": "historico/notas_Ferragamo.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
