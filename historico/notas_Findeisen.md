@@ -1,0 +1,6 @@
+# Findeisen (linha 534 da aba Marcas) — PAUSADA 05/11/2026
+Marca de Nuremberg (Franconia), fundada em 2017 por Martin Zettl. Site oficial findeisen-watches.com (coluna G vazia na planilha) NÃO aparece em busca nenhuma; Firecrawl sem créditos (renova 05/11 ~13:43 UTC).
+Coleções conhecidas: 1º modelo (2017, três ponteiros "dressy sports", nome não achado); F-1253 (mergulho, 2021); NauticMaster (4ª coleção, 2023/24: mostradores branco, verde, preto-cinza, azul, vermelho?; luneta aço ou DLC; calibre FW-4251 = Damasko A26; 41,5 mm, 200 m); NauticMaster Field Edition / Field Diver DLC Khaki (2025, Sellita SW200-1 ou Damasko A26.2); SpeedForce (2024, Damasko C51-6, 44 mm) SkyRunner azul / Desert Oak areia / Dark Guardian preto, 35 peças cada.
+Fontes abertas (7): watchtime speedforce, watchtime Findeisen, watchtime nauticmaster, watchtime düsseldorf 2025, wornandwound tag, wornandwound review, podcast.de (2 episódios). Não abriram: masterhorologer (2 páginas), ebay.de/itm (2), watchpatrol (2).
+Fotos: watchtime contentstack (SkyRunner, Dark Guardian, NauticMaster DLC Blue, Field Diver DLC Khaki), wornandwound uploads/2024/01/FINDEISEN_NAUTICMASTER_1..22.jpg.
+Retomar com Firecrawl: findeisen-watches.com (loja/coleções), masterhorologer.com/findeisen-watches/, Instagram.
