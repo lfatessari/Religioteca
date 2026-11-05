@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 547,
- "ultima_versao": 462,
+ "proxima_linha_marcas": 548,
+ "ultima_versao": 463,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7788,20 +7788,21 @@
     "1": 19
    },
    "obs": "EUA (Nova York), Izzy Alsafa. Stratonaut GMT (3 cores, 300 peças) + Scubanaut 200 e World Diver (2024)."
+  },
+  {
+   "data": "2026-11-05",
+   "versao": 463,
+   "obs": "A pedido do usuário: Houtman (Austrália) e Buren (Egito) incluídas na aba Marcas; Botta Design com Instagram @botta.watches; removida de marcas_ja_feitas_fora_da_ordem a entrada antiga \"D. Candaux\", que apontava para a linha da De Bethune (David Candaux e De Bethune são marcas diferentes e já estavam corretas nas abas Marcas e Relógios); marcas dos posts já publicados sem relógios (linhas 2–14, About Vintage, Accutron) postas em marcas_novas_sem_relogios."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
   "Erbprinz": {
-   "linha_marcas": 495,
+   "linha_marcas": 496,
    "linhas_relogios": "6773-6828"
   },
   "Messerschmitt": {
-   "linha_marcas": 924,
+   "linha_marcas": 926,
    "linhas_relogios": "6829-7094"
-  },
-  "D. Candaux": {
-   "linha_marcas": 389,
-   "linhas_relogios": "59412-59435 (gravada como David Candaux; duplicata)"
   },
   "Acto": {
    "linha_marcas": 18,
@@ -7809,34 +7810,34 @@
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 798)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 798, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
-  "Dürmeister (linha 452)": "PAUSADA sem gravar. 02/11/2026 14h: Firecrawl voltou a ter créditos, mas o domínio duermeister.de NÃO EXISTE MAIS (DNS falha) e chrono24.de/durmeister dá 404; só o tópico do Uhrforum abriu (linhas Heritage e Design). Sem catálogo público, a marca não chega ao mínimo de 25 fontes. Precisa decisão do usuário (gravar pequena/vermelha com 2-3 linhas, ou deixar de fora). Notas em historico/notas_Durmeister.md.",
-  "DWATCH (linha 455)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371).",
-  "Egotempo (linha 469)": "PAUSADA sem gravar (02/11/2026): marca de Bolonha, parece encerrada (\"ex Egotempo\"); só 2 modelos achados (Ego no Logo 2017, Ambidestro 2019) e 7 fontes abertas (mínimo 15). Site egotempo.it não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_Egotempo.md.",
-  "EHF Horlogere (linha 470)": "PAUSADA sem gravar (02/11/2026): marca de Le Locle (2011), só o Mk Zero (2012) achado, 4 fontes abertas. Site ehf-horlogere.ch não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_EHF.md.",
-  "El Charro (linha 472)": "PAUSADA sem gravar (02/11/2026): marca de moda italiana (cintos/couro, licença Next Way Srl); nenhum site de relógios; só 3 anúncios \"Charro\" (CH70, Savonette 9806_ch) sem confirmação de serem da El Charro; 5 fontes abertas (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_El_Charro.md.",
-  "Envision (linha 487)": "PAUSADA sem gravar (02/11/2026): microbrand de Modena (Alessandro Bambini), único modelo Prisma (2024) em 4 cores + edição especial Alfa Revival Cup 2026. Site envision-watches.com não aparece em busca; Firecrawl sem créditos; lotes da Catawiki expirados. Só 5 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_Envision.md.",
-  "EQVIS (linha 494)": "PAUSADA sem gravar (03/11/2026): marca de design alemão/fabricação suíça (2012, Simon Schmid e Björn Matthiesen), um único modelo (Varius, Baselworld 2017, biseis intercambiáveis). Site eqvis.net não aparece em busca; Firecrawl sem créditos; só ~7 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_EQVIS.md.",
+  "Kurono Tokyo (linha 800)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 800, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+  "Dürmeister (linha 453)": "PAUSADA sem gravar. 02/11/2026 14h: Firecrawl voltou a ter créditos, mas o domínio duermeister.de NÃO EXISTE MAIS (DNS falha) e chrono24.de/durmeister dá 404; só o tópico do Uhrforum abriu (linhas Heritage e Design). Sem catálogo público, a marca não chega ao mínimo de 25 fontes. Precisa decisão do usuário (gravar pequena/vermelha com 2-3 linhas, ou deixar de fora). Notas em historico/notas_Durmeister.md.",
+  "DWATCH (linha 456)": "PAUSADA sem gravar (01/11/2026): marca de mergulhadores 1000 m sob encomenda (EUA/Israel, ~2008-2011), modelo único Sting Ray 1000m; dwatch.net hoje é loja de réplicas. Só 7 fontes abriram de verdade (mínimo 15). Retomar com Firecrawl pelas fontes listadas em historico/notas_DWATCH.md. Dwiss (436) foi feita antes dela (v371).",
+  "Egotempo (linha 470)": "PAUSADA sem gravar (02/11/2026): marca de Bolonha, parece encerrada (\"ex Egotempo\"); só 2 modelos achados (Ego no Logo 2017, Ambidestro 2019) e 7 fontes abertas (mínimo 15). Site egotempo.it não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_Egotempo.md.",
+  "EHF Horlogere (linha 471)": "PAUSADA sem gravar (02/11/2026): marca de Le Locle (2011), só o Mk Zero (2012) achado, 4 fontes abertas. Site ehf-horlogere.ch não aparece em busca. Retomar com Firecrawl pelas notas historico/notas_EHF.md.",
+  "El Charro (linha 473)": "PAUSADA sem gravar (02/11/2026): marca de moda italiana (cintos/couro, licença Next Way Srl); nenhum site de relógios; só 3 anúncios \"Charro\" (CH70, Savonette 9806_ch) sem confirmação de serem da El Charro; 5 fontes abertas (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_El_Charro.md.",
+  "Envision (linha 488)": "PAUSADA sem gravar (02/11/2026): microbrand de Modena (Alessandro Bambini), único modelo Prisma (2024) em 4 cores + edição especial Alfa Revival Cup 2026. Site envision-watches.com não aparece em busca; Firecrawl sem créditos; lotes da Catawiki expirados. Só 5 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_Envision.md.",
+  "EQVIS (linha 495)": "PAUSADA sem gravar (03/11/2026): marca de design alemão/fabricação suíça (2012, Simon Schmid e Björn Matthiesen), um único modelo (Varius, Baselworld 2017, biseis intercambiáveis). Site eqvis.net não aparece em busca; Firecrawl sem créditos; só ~7 fontes (mínimo 15). Retomar com Firecrawl pelas notas historico/notas_EQVIS.md.",
   "Alexandre Martin (linha 50)": "PAUSADA sem gravar (03/11/2026): relojoeiro independente de Morges, estreia 31/08/2026 com um único modelo (1965, aço, 12 peças; platina e ouro rosa previstos). Sem site oficial (só Instagram). Só ~5 fontes existem (mínimo 15). Retomar quando houver mais imprensa ou site, pelas notas historico/notas_Alexandre_Martin.md. Tirada de marcas_novas_sem_relogios para não travar a fila.",
   "Area Nostalgia (linha 98)": "PAUSADA sem gravar (03/11/2026): catálogo fechado de 8 relógios (4 Clocktower First Edition, Clocktower Manchester Bee, Mantel Midnight/Bloodmoon/Moonglow) já anotado em historico/parcial_Area_Nostalgia_relogios.txt; só 13 fontes abriram (mínimo 15). Retomar com Firecrawl (créditos 04/11 ~13:43 UTC) pelas páginas listadas em historico/notas_Area_Nostalgia.md. Tirada de marcas_novas_sem_relogios para não travar a fila.",
   "Areson (linha 99)": "PAUSADA sem gravar (03/11/2026): marca em pré-lançamento (Kickstarter ago–set/2026), 3 relógios (The Horizon, The Mosaic, The Forge) anotados em historico/parcial_Areson_relogios.txt; só ~5 fontes existem (mínimo 15). Retomar quando houver imprensa/lojas (entregas nov–dez/2026), pelas notas historico/notas_Areson.md. Tirada de marcas_novas_sem_relogios para não travar a fila.",
   "Auriva (linha 148)": "PAUSADA sem gravar (03/11/2026): catálogo fechado de 2 relógios (Black e Blue Pelagic 300), dados prontos em historico/parcial_Auriva_relogios.txt, mas só 12 fontes reais (mínimo 15): sem imprensa nem agregadores. Retomar com Firecrawl (páginas de produto do site e das lojas, ver historico/notas_Auriva.md) ou decisão do usuário. Tirada de marcas_novas_sem_relogios e posta em marcas_pendentes (como Area Nostalgia e Areson).",
-  "ETA (linha 505)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
-  "Eterna (linha 506)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
-  "Hemel (linha 669)": "Eylandt (linha 515) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
-  "Ezteem (linha 518)": "PAUSADA sem gravar (04/11/2026): marca sueca (Estocolmo, ~2007-2013), linhas Lynx Automatic/Big Date/Dual Time e Lynx Aqua (~15 variações de cor). Site ezteem.com fora das buscas; só 9 fontes abriram (mínimo 15); Firecrawl sem créditos. Retomar pelas notas historico/notas_Ezteem.md.",
-  "Favre Leuba (linha 524)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
-  "Ferdinand Berthoud (linha 529)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
-  "Filippo Loreti (linha 533)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
-  "Findeisen (linha 534)": "PAUSADA sem gravar (05/11/2026): marca de Nuremberg (2017, Martin Zettl), linhas F-1253, NauticMaster (várias cores, Field Edition 2025) e SpeedForce (3 x 35 peças). Site findeisen-watches.com fora das buscas; Firecrawl sem créditos; só 8 fontes (mínimo 15). 5 relógios anotados em historico/parcial_Findeisen_relogios.txt. Retomar com Firecrawl pelas notas historico/notas_Findeisen.md.",
-  "Fiona Krüger (linha 535)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
-  "Fiyta (linha 539)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página."
+  "ETA (linha 506)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
+  "Eterna (linha 507)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
+  "Hemel (linha 670)": "Eylandt (linha 516) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
+  "Ezteem (linha 519)": "PAUSADA sem gravar (04/11/2026): marca sueca (Estocolmo, ~2007-2013), linhas Lynx Automatic/Big Date/Dual Time e Lynx Aqua (~15 variações de cor). Site ezteem.com fora das buscas; só 9 fontes abriram (mínimo 15); Firecrawl sem créditos. Retomar pelas notas historico/notas_Ezteem.md.",
+  "Favre Leuba (linha 525)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
+  "Ferdinand Berthoud (linha 530)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
+  "Filippo Loreti (linha 534)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
+  "Findeisen (linha 535)": "PAUSADA sem gravar (05/11/2026): marca de Nuremberg (2017, Martin Zettl), linhas F-1253, NauticMaster (várias cores, Field Edition 2025) e SpeedForce (3 x 35 peças). Site findeisen-watches.com fora das buscas; Firecrawl sem créditos; só 8 fontes (mínimo 15). 5 relógios anotados em historico/parcial_Findeisen_relogios.txt. Retomar com Firecrawl pelas notas historico/notas_Findeisen.md.",
+  "Fiona Krüger (linha 536)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
+  "Fiyta (linha 540)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página."
  },
  "em_andamento": {
   "marcas": [
    "Dürmeister"
   ],
-  "linha_marcas": 452,
+  "linha_marcas": 453,
   "grande": true,
   "relogios": "historico/parcial_Durmeister_relogios.txt",
   "fontes": "historico/parcial_Durmeister_fontes.txt",
@@ -7856,37 +7857,37 @@
  "marcas_pendentes": [
   {
    "marca": "Dürmeister",
-   "linha_marcas": 452,
+   "linha_marcas": 453,
    "notas": "historico/notas_Durmeister.md"
   },
   {
    "marca": "DWATCH",
-   "linha_marcas": 455,
+   "linha_marcas": 456,
    "notas": "historico/notas_DWATCH.md"
   },
   {
    "marca": "Egotempo",
-   "linha_marcas": 469,
+   "linha_marcas": 470,
    "notas": "historico/notas_Egotempo.md"
   },
   {
    "marca": "EHF Horlogere",
-   "linha_marcas": 470,
+   "linha_marcas": 471,
    "notas": "historico/notas_EHF.md"
   },
   {
    "marca": "El Charro",
-   "linha_marcas": 472,
+   "linha_marcas": 473,
    "notas": "historico/notas_El_Charro.md"
   },
   {
    "marca": "Envision",
-   "linha_marcas": 487,
+   "linha_marcas": 488,
    "notas": "historico/notas_Envision.md"
   },
   {
    "marca": "EQVIS",
-   "linha_marcas": 494,
+   "linha_marcas": 495,
    "notas": "historico/notas_EQVIS.md"
   },
   {
@@ -7906,14 +7907,98 @@
   },
   {
    "marca": "Ezteem",
-   "linha_marcas": 518,
+   "linha_marcas": 519,
    "notas": "historico/notas_Ezteem.md"
   },
   {
    "marca": "Findeisen",
-   "linha_marcas": 534,
+   "linha_marcas": 535,
    "notas": "historico/notas_Findeisen.md"
   }
  ],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [
+  {
+   "marca": "Buren",
+   "linha_marcas": 265
+  },
+  {
+   "marca": "Houtman",
+   "linha_marcas": 699
+  },
+  {
+   "marca": "1776 Atelier",
+   "linha_marcas": 2,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "2CAN",
+   "linha_marcas": 3,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "2LMX WATCHES",
+   "linha_marcas": 4,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "3H Italia",
+   "linha_marcas": 5,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "47 Zero",
+   "linha_marcas": 6,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "4N Watches",
+   "linha_marcas": 7,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "666 Barcelona",
+   "linha_marcas": 8,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "6B Watches",
+   "linha_marcas": 9,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "88 Rue Du Rhone",
+   "linha_marcas": 10,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "A. Lange & Söhne",
+   "linha_marcas": 11,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "A. Manzoni & Fils",
+   "linha_marcas": 12,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "AATOS",
+   "linha_marcas": 13,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "Abingdon",
+   "linha_marcas": 14,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "About Vintage",
+   "linha_marcas": 16,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  },
+  {
+   "marca": "Accutron",
+   "linha_marcas": 17,
+   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
+  }
+ ]
 }
