@@ -7743,7 +7743,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T11:42:55Z",
- "ultimo_sinal": "2026-11-05T11:50:33Z",
+ "ultimo_sinal": "2026-11-05T11:58:46Z",
  "em_andamento_2": {
   "marcas": [
    "Fiorucci"
@@ -7755,8 +7755,11 @@
   "notas": "historico/notas_Fiorucci.md",
   "secoes_feitas": [
    "1",
+   "2",
    "3",
-   "8"
+   "4",
+   "8",
+   "9"
   ],
   "passada": 1
  }
