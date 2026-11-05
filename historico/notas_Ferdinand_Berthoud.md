@@ -5,3 +5,6 @@
 ## 1ª passada encerrada (~108 fontes, 52 relógios). Últimas fontes sem novidade: node/478839, abtw 1RES.3, pisa1940 coleção, abtw tag.
 - Vermelha: FB RES é configurável (200+ combinações, 38 movimentos) e só 5 referências RES apareceram (1RES.3, 1RES.4, 2RES.1-1, 2RES.2-1, 2RES.6-2); site oficial inacessível (fora das buscas, Firecrawl sem créditos).
 - 2ª passada: buscar outras referências RES, edições de lojas (Art in Time, Seddiqi, Sincere...), FB 1R.6-x, FB 2T personalizados, abtw página 2, 1L outras.
+## Auto-auditoria (10b)
+1. Blog/imprensa oficial: site inacessível; lidas as listas de artigos da Monochrome (2 páginas), aBlogtoWatch, Deployant, Watchilove, Europa Star, Watchonista. 2. §2c no site oficial impossível (não indexado); feito em Watchonista/TheWatchPages/Worldtempus. 3. Lojas: Seddiqi, Pisa 1940, Pragnell, Cellini, A Collected Man, Luxury Bazaar, 1916 Company, Sincere. 4. Primeiro modelo FB 1.1/1.2 (2015) incluído. 5. J: todos achados (FB 2RE "Résonance" é erro). 6. Limitadas com nº na B; peças únicas na E. 7. 121 fontes.
+## Gravada v450: 53 relógios (Relógios 77859-77911), vermelha, 2 passadas (106+15 fontes).
