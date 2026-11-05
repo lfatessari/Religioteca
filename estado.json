@@ -7599,7 +7599,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T03:42:30Z",
- "ultimo_sinal": "2026-11-05T03:42:30Z",
+ "ultimo_sinal": "2026-11-05T03:46:05Z",
  "em_andamento_2": {
   "marcas": [
    "Feldo",
@@ -7610,7 +7610,10 @@
   "relogios": "historico/parcial_Feldo_relogios.txt",
   "fontes": "historico/parcial_Feldo_fontes.txt",
   "notas": "historico/notas_Feldo.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "3"
+  ],
   "passada": 1
  }
 }
