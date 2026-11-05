@@ -7792,7 +7792,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T14:42:36Z",
- "ultimo_sinal": "2026-11-05T14:42:36Z",
+ "ultimo_sinal": "2026-11-05T14:51:05Z",
  "em_andamento_2": {
   "marcas": [
    "Fiyta"
@@ -7802,7 +7802,10 @@
   "relogios": "historico/parcial_Fiyta_relogios.txt",
   "fontes": "historico/parcial_Fiyta_fontes.txt",
   "notas": "historico/notas_Fiyta.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
