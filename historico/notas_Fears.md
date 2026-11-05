@@ -2,3 +2,4 @@
 Site oficial fearswatches.com NÃO aparece em busca; Firecrawl sem créditos (renova 05/11 13:43 UTC). Usar lojas.
 Códigos Fears: BS139.510.041.123 (Redcliff), BS240.000.046.082 (Brunswick 40 Helmsman), BS239.030 (Perpetual).
 ## Seções feitas
+- 1/2/7: lojas Whamond/CW Sellors/Jura/Exquisite/T+T feitas; W&W artigos parcial; Coveted (categorias) feito.
