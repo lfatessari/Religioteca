@@ -9,3 +9,6 @@ FPSK25 Regulator: 10 peças, €19.500. FPSK24: White Rhodium Engraved, Black Rh
 Exquisite (18): Moonphase Two steel/bronze/platinum; FPSK24 WR engraved/BR engraved/NE; Moonphase One Meteorite; Sternenhimmel Blue, Blue Diamonds, Green, Green Diamonds; Klassik Black/Blue/Green; HTH Arabic, HTH Roman; Sternenhimmel Blue/Green 2nd gen.
 ZBM1: 25 peças, mostrador de pedra, versão SwissWatchGang com indicador de marcha. HTH série 50 peças, numerais árabes orientais/Breguet/romanos/chineses/hebraicos sob pedido.
 Sternenhimmel: muitas peças sob medida (bespoke) → sinal de vermelho.
+Site oficial felipe-pikullik.de: home abre; subpáginas antigas (watches, brand, complicated-collection, core-watches-collect/fpsk-23, pages/fpsk24, core-collection/fpsk) dão client_error → L "Parcial".
+Prius Collection 2017 (5 esqueletos) — nomes não achados. ZBM1 2020. Sternenhimmel 2021. Mondphase I 2023 (GPHG 2023, ~20 peças, €24k). Mondphase 1 Meteorite 2024 (20 peças, €32k). FP Architektur One / FPA1 2026.
+Logo: https://www.felipe-pikullik.de/images/FP-LOGO-1.png
