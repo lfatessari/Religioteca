@@ -7668,7 +7668,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T07:42:51Z",
- "ultimo_sinal": "2026-11-05T07:42:51Z",
+ "ultimo_sinal": "2026-11-05T07:58:29Z",
  "em_andamento_2": {
   "marcas": [
    "Ferro & Company Watches"
@@ -7678,7 +7678,10 @@
   "relogios": "historico/parcial_Ferro_relogios.txt",
   "fontes": "historico/parcial_Ferro_fontes.txt",
   "notas": "historico/notas_Ferro.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
