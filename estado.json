@@ -7810,7 +7810,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-05T15:43:43Z",
-  "ultimo_sinal": "2026-11-05T15:43:43Z",
+  "ultimo_sinal": "2026-11-05T15:46:50Z",
   "em_andamento_2": {
     "marcas": [
       "Fleddermann von Rieste",
@@ -7822,7 +7822,9 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "Fleddermann von Rieste: completa (dados_Fleddermann.txt pronto)"
+    ],
     "passada": 1
   }
 }
