@@ -7,3 +7,13 @@ Google store 2026: Google Fitbit Edge (2 tamanhos, ed. Stephen Curry), Google Fi
 ## Fontes
 - Model numbers FB103/FB301/FB401/FB402/FB403/FB411 etc are from my knowledge — VERIFY (device.report/FCC)
 - FB101 Classic: não confirmado ainda
+## 1ª passada encerrada (82 fontes; últimas 3 sem novidade: iclarified, adorama lista, wareable)
+## 10b Auto-auditoria
+1. Site oficial: fitbit.com redireciona para store.google.com (só linha atual: Edge, Air, Versa 4, Charge 6, Inspire 3, Sense 2, Ace LTE). Blog Google (Edge, Air Pokémon) lido.
+2. Produtos escondidos: Google Store não usa handles; feitos pelas páginas de produto/specs indexadas.
+3. Lojas: Bing Lee, CMS, Carahsoft, Adorama, B&H, Best Buy, Target, Greentoe, kakaku.com (Japão).
+4. Primeiro modelo: Fitbit Classic/Tracker (2009) — incluído; código FB101 NÃO confirmado.
+5. J (Charge, Versa, Sense, Inspire, Luxe): todos achados.
+6. Edições especiais e colaborações na B (adidas, gorjana, Minions, Stephen Curry, Pokémon Sleep).
+Decisão: VERMELHA — cores regionais/variações de pulseira e tamanhos (S/L), muitas cores sem código/foto, bundles; colaborações de pulseiras (Brother Vellies, Victor Glemaud, Tory Burch) não entram (são acessórios).
+## 2ª passada: alvo = cores que faltam (Flex 2, Alta HR, Charge HR, Blaze, Ionic, Versa 2, Charge 6/Inspire 3 extras), códigos sem confirmação, fotos.
