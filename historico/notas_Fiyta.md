@@ -5,3 +5,5 @@
 - Pulado: MOONYANG Chronograph Spaceship (outra marca vendida na loja), joias (AB...).
 - Seções feitas: 1, 2 (loja), parte 7.
 GA856000.WHW: 40 mm, 9 mm, F9019.3, 04/01/2022; GA880007.WHW Mars-500: mostrador de meteorito de Altay, 41 mm, 11,3 mm, 30/07/2022; GA880112.WBW/WLW Sellita SW200
+- Passada 1 encerrada (3+ fontes seguidas sem novidade: imprensa). Vermelha: fiyta.com (China) com milhares de refs não alcançado; Firecrawl sem créditos. Passada 2 começa.
+- Passada 2 encerrada com 15 fontes / ~22 relógios novos -> passada 3 iniciada.

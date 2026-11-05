@@ -7792,7 +7792,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T14:42:36Z",
- "ultimo_sinal": "2026-11-05T14:56:02Z",
+ "ultimo_sinal": "2026-11-05T14:58:46Z",
  "em_andamento_2": {
   "marcas": [
    "Fiyta"
@@ -7805,8 +7805,15 @@
   "secoes_feitas": [
    "1",
    "2",
-   "7"
+   "2c",
+   "3",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10"
   ],
-  "passada": 1
+  "passada": 3
  }
 }
