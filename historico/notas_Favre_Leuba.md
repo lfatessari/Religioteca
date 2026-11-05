@@ -6,3 +6,4 @@
 - Falta: TWP individuais Titan (Bivouac, Deep Blue, Sea King, Sea Bird, Bathy), catálogo PDF refs sem foto, vintage (Bivouac, Bathy, Sea Chief, Daumier, Datic, Duomatic, Memoraider, Sea Raider, Twin Power), §2c, Chrono24, usados, imprensa.
 - Correção pendente: Chief Chronograph 00.20101.113.04.200 = azul-gelo (TWP 04 = ice blue).
 Fontes de busca (slugs TWP, só títulos de resultado) não contam como fontes abertas.
+- NÃO abrir links devolvidos por WebFetch (1stdibs King Hussein pediu permissão).
