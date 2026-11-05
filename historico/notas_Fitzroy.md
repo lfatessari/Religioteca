@@ -14,3 +14,4 @@ Black/White no fim = cor do mostrador (watchco confirma: S4L1 mostrador preto; C
 K2S3/K3S3 originais: k2s3 thumb 8951fb25ea6445e1f6d283bdb058ca9c, k3s3 7bd1ba723b56abe5182f5d49d11fb9a5; k3l5 dd35da562879b7b784bcf663a8c33fef
 Specs: Original 43 mm, aço + alumínio anodizado verde, safira, fundo de exibição, MF01 automático 38 h, horas/min/peq. segundos/data, Swiss made. Chrono 46 mm, MF02 40 h, taquímetro.
 Touch of Modern: códigos novos F-S-S2L1, F-S-S3S1, F-S-K3L3, F-C-S1S1, F-C-S1S2 (sem foto). F-C-K1L1 e F-C-K2L1 são códigos distintos (ToM lista K1L1; watchco K2L1).
+Passada 1 encerrada (3+ fontes seguidas sem novidade). Vermelha: marca diz '100+ variantes', achados ~43 códigos; ToM mostrou 5 códigos fora do arquivo. 2ª passada: categorias (preços 2013 mais baixos: S $590, C $880), buzz -> resenhas watchmatchmaker, perpetuelle, watchuseek, wolfberg, watchfreeks.
