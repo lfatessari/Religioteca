@@ -7599,7 +7599,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T03:42:30Z",
- "ultimo_sinal": "2026-11-05T03:46:05Z",
+ "ultimo_sinal": "2026-11-05T03:49:36Z",
  "em_andamento_2": {
   "marcas": [
    "Feldo",
@@ -7607,12 +7607,12 @@
   ],
   "linha_marcas": 526,
   "grande": false,
-  "relogios": "historico/parcial_Feldo_relogios.txt",
-  "fontes": "historico/parcial_Feldo_fontes.txt",
-  "notas": "historico/notas_Feldo.md",
+  "relogios": "historico/parcial_Felipe_Pikullik_relogios.txt",
+  "fontes": "historico/parcial_Felipe_Pikullik_fontes.txt",
+  "notas": "historico/notas_Felipe_Pikullik.md (Feldo pronta: historico/dados_Feldo.txt + marca_Feldo.json)",
   "secoes_feitas": [
-   "1",
-   "3"
+   "Feldo completa",
+   "Felipe Pikullik: 1"
   ],
   "passada": 1
  }
