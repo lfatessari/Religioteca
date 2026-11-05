@@ -7587,7 +7587,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T02:42:38Z",
- "ultimo_sinal": "2026-11-05T02:56:45Z",
+ "ultimo_sinal": "2026-11-05T02:57:57Z",
  "em_andamento_2": {
   "marcas": [
    "Fears"
@@ -7600,11 +7600,15 @@
   "secoes_feitas": [
    "1",
    "2",
+   "2c",
    "3",
+   "4",
    "5",
+   "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10"
   ],
   "passada": 1,
   "obs": "dimensionando Fears (525), Feldo (526), Felipe Pikullik (527)"
