@@ -1,0 +1,452 @@
+{
+ "marca": "Accurist",
+ "usa_codigos": true,
+ "logo": "https://www.accurist.com/static/cms/media/logo-1.svg",
+ "site_bloqueado": "Site bloqueado – accurist.com (leitura automática pede aprovação; accurist.co.uk redireciona) e Firecrawl sem créditos em 05/11/2026; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.watchnation.com/collections/accurist.oembed",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/accurist-watches-cf-27/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/accurist-watches-c-27",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://carathea.co.uk/collections/accurist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hollinsandhollinshead.com/collections/accurist?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hollinsandhollinshead.com/collections/accurist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/accurist-mens-blue-dial-blue-leather-strap-72002-p-107082",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goldsmiths.co.uk/Accurist-Everyday-Black-Dial-Mens-Watch-74012/p/17451246",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.next.co.uk/style/st331222/c06512",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://il.shadestation.com/Accurist-Watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/accurist-watches/filter/gender-mens_watch-movement-automatic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/shop/accurist-watches/white/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesandcrystals.com/collections/accurist/case-colour_silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://foxhillsjewellers.com/collections/accurist/accurist+100-to-499+new.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thbaker.co.uk/accurist-aviation-tan-leather-watch-76003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/wp-json/wp/v2/posts/47850",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.fhinds.co.uk/watches/watches-by-brand/accurist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thbaker.co.uk/accurist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/accurist-promises-to-punch-above-its-weight-with-76-watch-relaunch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://moodiedavittreport.com/?p=395932",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://moodiedavittreport.com/?p=360253",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1960s_accurist_shockmaster_wrist_watch_a12524/as170a12524",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1960s_accurist_automatic_wrist_watch/as170a4946",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/gents_1960s_accurist_shockmaster_wristwatch_a13448/as170a13448",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/accurist-marinograf-parmentier/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/accurist-origin-light-teal-automatic-limited-edition-watch-70027",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/wp-json/wp/v2/posts/50136",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1000751983-bling-me-an-accurist.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.retrotogo.com/?p=5748",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hairspring.com/?p=7689",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/reduced-accurist-super-waterproof-400-chronograph-bakelite-bezel-jumbo-39mm.157279/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Old_England",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/accurist-x-tour-of-britian-limited-edition-origin-watch-89012",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/1428818436",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156918155964",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hollinsandhollinshead.com/products/accurist-signature-collection-ladies-watch-8363s-p1817",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/?p=121558",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/blog/accurist-watches-timeless-precision-and-elegance",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/style-blog/discover-the-timeless-elegance-of-accurist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gtrmag.com/blog/accurist-announces-brand-revitalization-and-new-collections",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/accurist-watches",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://watchard.com/accurist-origin-70008-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://davidchristopher.co.uk/accurist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/262492708812",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/2330984416",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156918152495",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/174733166004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/1055110258",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1856581068",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/406329334191",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dkwholesale.com/products/accurist-ladies-charmed-enamel-watch-lb1844w",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chriselli.com/lb1507-accurist-ladies-watch-and-necklace-gift-set.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fruugo.ca/womens-accurist-ladies-silver-plated-charmed-watch-lb1716/p-309674534-693120315",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/2256171458",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Accurist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://carathea.co.uk/blogs/brand-spotlight/accurist-watches-history-british-watchmaking",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dkwholesale.com/collections/accurist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.iwm.org.uk/p/28098/Spitfire-classic-accurist-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://pressroom.journolink.com/dapsagency/release/tour_of_britain_unveil_accurist_as_official_timekeeper_13336",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pressroom.journolink.com/dapsagency/release/who_says_you_cant_buy_time_accurist_has_the_perfect_gifts_for_loved_ones_this_christmas_13344",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/accurist-world-time.309248/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hant/l/103602091-accurist-day-date-ingen-mindstepris-maend-1970-1979",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/1950-s-accurist-military-style-gents-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/shop/accurist-watches/metallic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://retrotogo.com/tag/old-england",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/1960s_accurist_super_waterproof_400_a3327/as579a3327",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/accurist_super_waterproof_300_a3396/as579a3396",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.greenwichpocketwatch.co.uk/accurist",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/1608009026",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/227133282980",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_9ct_gold_flying_saucer_accurist_wrist_watch_a5066/as170a5066",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.edmondsjewellers.com/products/ladies-charmed-silver-crystalised-watch-3990",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/588446922",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.beaverbrooks.co.uk/0100588/Accurist-Gold-Tone-Crystal-Ladies-Watch/p",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.edmondsjewellers.com/products/ladies-gold-plated-with-roman-numerals-linked-bracelet-watch-3991",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.edmondsjewellers.com/products/ladies-special-gold-stainless-steel-watch-4023",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/286848039247",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.manualslib.com/brand/accurist/watch.html",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://e-catalog.co.uk/ACCURIST-ORIGIN-70000.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1950s_accurist_chronograph__wrist_watch/as170a6800",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/gents_accurist_400_divers_style_chronograph_a11984/as170a11984",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/4048262507",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/2256011437",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.co.uk/p/1453196158",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.marksandspencer.com/accurist-chrono-exclusive-stainless-steel-watch/p/hbp22553933",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.marksandspencer.com/accurist-stainless-steel-chronograph-watch/p/hbp22553937",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/017400330757",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/accurist-everyday-74001-watch",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Nova (v465), incluída a pedido do usuário (05/11/2026); a @relogioteca ainda não segue a marca. Site: accurist.co.uk redireciona para accurist.com; Instagram @accuristwatches tirado do link no rodapé do site oficial. Fontes: accurist.co.uk/our-story, Wikipedia (Accurist), First Class Watches (história da Accurist), WatchPro (relançamento com 76 relógios, 27/09/2022). Cidade: fundada em Londres (Clerkenwell; depois sede em West Hampstead); a Wikipedia dá a sede atual em Leicestershire, com a dona Time Products. Preços na loja oficial em 05/11/2026: £ 59 a £ 329, mediana ≈ £ 120–125 (≈ R$ 900, a cerca de R$ 7,2 por libra). | Pesquisa 05/11/2026: a coluna I dá a Old England como de 1965; a Grail-Watch Wiki e a First Class Watches dizem 1967. O site oficial accurist.com não abre para leitura automática (ver L)."
+}
