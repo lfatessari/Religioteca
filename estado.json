@@ -7776,7 +7776,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T13:43:07Z",
- "ultimo_sinal": "2026-11-05T13:52:28Z",
+ "ultimo_sinal": "2026-11-05T13:55:25Z",
  "em_andamento_2": {
   "marcas": [
    "Fitzroy"
@@ -7788,7 +7788,9 @@
   "notas": "historico/notas_Fitzroy.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3"
   ],
   "passada": 1
  }
