@@ -6,3 +6,5 @@
 ## Seções
 - 1 dimensionar: grande (453 produtos atuais no site).
 - 2 site oficial: listas all-kids-watches e ff (p.1). Buscas site: trazem fichas antigas.
+- 2c/3/7: lojas Hollins (2 p.), Ocarat (3 p.), Watchnation (oembed), watch.co.uk (coleções), First Class Watches; imprensa oficial (press: Friends Fur-ever, Faber-Castell, Gameland, Mystic Land, Let's get artsy); Europa Star (Retro 2022; Back to School 2001 sem códigos -> linhas SEMREF com link do artigo).
+- Falta: vintage 1987-2010 (eBay/catawiki/1stdibs), Selfridges/Harrods listas, Chrono24, EveryWatch, mais imprensa (Hello Kitty, Disney?).

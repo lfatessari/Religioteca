@@ -7855,7 +7855,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T16:42:31Z",
- "ultimo_sinal": "2026-11-05T16:51:15Z",
+ "ultimo_sinal": "2026-11-05T16:53:37Z",
  "em_andamento_2": {
   "marcas": [
    "Flik Flak"
@@ -7867,7 +7867,11 @@
   "notas": "historico/notas_Flik_Flak.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3",
+   "7",
+   "9"
   ],
   "passada": 1
  }
