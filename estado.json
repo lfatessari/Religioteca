@@ -8029,5 +8029,25 @@
    "linha_marcas": 18,
    "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
   }
- ]
+ ],
+ "em_execucao": "2026-11-05T23:42:21Z",
+ "ultimo_sinal": "2026-11-05T23:42:21Z",
+ "em_andamento_2": {
+  "marcas": [
+   "Buren",
+   "Houtman",
+   "1776 Atelier"
+  ],
+  "linha_marcas": {
+   "Buren": 265,
+   "Houtman": 699,
+   "1776 Atelier": 2
+  },
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
