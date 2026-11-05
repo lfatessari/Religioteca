@@ -7623,7 +7623,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T04:42:08Z",
- "ultimo_sinal": "2026-11-05T04:42:08Z",
+ "ultimo_sinal": "2026-11-05T04:47:15Z",
  "em_andamento_2": {
   "marcas": [
    "Fendi"
@@ -7633,7 +7633,9 @@
   "relogios": "historico/parcial_Fendi_relogios.txt",
   "fontes": "historico/parcial_Fendi_fontes.txt",
   "notas": "historico/notas_Fendi.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
