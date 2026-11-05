@@ -7574,7 +7574,7 @@
   ],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-05T01:42:02Z",
-  "ultimo_sinal": "2026-11-05T01:42:02Z",
+  "ultimo_sinal": "2026-11-05T01:48:03Z",
   "em_andamento_2": {
     "marcas": [
       "Favre Leuba"
@@ -7584,7 +7584,11 @@
     "relogios": "historico/parcial_Favre_Leuba_relogios.txt",
     "fontes": "historico/parcial_Favre_Leuba_fontes.txt",
     "notas": "historico/notas_Favre_Leuba.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "5parcial",
+      "7parcial"
+    ],
     "passada": 1
   }
 }
