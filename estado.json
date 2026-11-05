@@ -7759,7 +7759,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T12:43:26Z",
- "ultimo_sinal": "2026-11-05T12:47:41Z",
+ "ultimo_sinal": "2026-11-05T12:50:48Z",
  "em_andamento_2": {
   "marcas": [
    "Fitbit"
@@ -7771,7 +7771,9 @@
   "notas": "historico/notas_Fitbit.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3"
   ],
   "passada": 1
  }
