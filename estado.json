@@ -7599,7 +7599,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T03:42:30Z",
- "ultimo_sinal": "2026-11-05T03:53:45Z",
+ "ultimo_sinal": "2026-11-05T03:55:24Z",
  "em_andamento_2": {
   "marcas": [
    "Feldo",
@@ -7612,8 +7612,8 @@
   "notas": "historico/notas_Felipe_Pikullik.md (Feldo pronta: historico/dados_Feldo.txt + marca_Feldo.json)",
   "secoes_feitas": [
    "Feldo completa",
-   "Felipe Pikullik: 1"
+   "FP: 1,2,2c,3,5,7,8,9,10 — 1ª passada encerrada; vermelha → 2ª passada"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
