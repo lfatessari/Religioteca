@@ -1,0 +1,722 @@
+{
+ "marca": "Fiyta",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://store.fiyta.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://store.fiyta.com/products.json?limit=50&page=1",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://store.fiyta.com/products.json?limit=20&page=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://store.fiyta.com/products.json?limit=20&page=3",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://store.fiyta.com/products.json?limit=20&page=4",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://store.fiyta.com/products.json?limit=20&page=5",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://store.fiyta.com/products.json?limit=20&page=6",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://store.fiyta.com/products.json?limit=20&page=7",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://store.fiyta.com/sitemap_products_1.xml?from=1&to=99999999999",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://chinawatchshop.com/collections/fiyta-featured.oembed",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://chinesewatchwiki.net/Fiyta",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chinawatchshop.com/collections/china-space-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chinawatchshop.com/products/4015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/295",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/2741",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1074",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1259",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/319",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/320",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/4014",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1225",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1262",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1263",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/40",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/4018",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/3613",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/3612",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/297",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/291",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/4175",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chinawatchshop.com/products/290",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/4020",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/317",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/4019",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1217",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1226",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1229",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1008",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/2521",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/296",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/2520",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1009",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/293",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/43",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1221",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1219",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1213",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chinawatchshop.com/products/318",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/3605",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/3606",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1067",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1066",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1208",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/spacewalk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a550000/fiyta-spacemaster-astronaut-space-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drop.com/buy/fiyta-photographer-collection-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.massdrop.com/buy/fiyta-in-collection-automatic-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/2018/10/fiyta-watches-solo-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/fiyta",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://eastwatchreview.com/blog/2015/9/15/fiyta-photographer-watch-with-interchangeable-bezels",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/fiyta-3d-time-skeleton-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-extreme-leather-black-dial-fiyta-wga1008-bbr-fiywga1008bbr",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga8486-bbb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga860013-bbb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga850002-wwr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga860015-pll.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga866011-bbb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga850001-twt.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga8460-bbb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-la802008-pws.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-wga868000-wwb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-ga866002-mbr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-wga868000-pbr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/fiyta-watch-ga866000-bbb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-wga1010-wbw.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/fiyta-watch-wga1010-whb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/fiyta-watch-ga850008-pwk.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/fiyta-watch-wga868001-bbb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/fiyta-watch-wga860011-pwk.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-3d-time-leather-black-dial-fiyta-wga868002-bbb-fiywga868002bbb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-classic-stainless-steel-white-dial-fiyta-wga1010-mwm-fiywga1010mwm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/fiyta-aeronautics-chronograph-ga8370-wbw.522873/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/2522",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://conteenium.com/?p=26025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.massdrop.com/buy/fiyta-yachtsman-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.massdrop.com/buy/fiyta-pilot-automatic-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.massdrop.com/buy/61487",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxuriousmagazine.com/the-fiyta-limited-edition-turnover-tourbillon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1222",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1218",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/314",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1025",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1220",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.carrefouruae.com/mafuae/en/gents-watches/fiyta-intergalactic-series-stainless-steel-mechanical-automatic-watch-with-circle-case-and-stainless-steel-strap-for-men/p/3233002350928",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1212",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1073",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1072",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1261",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1209",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/en-ca/products/1068",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1069",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1210",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1071",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1075",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1224",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/42",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/the-watch-files/china-watch-report/1004091451-fiyta-the-horological-side-of-chinese-soft-power.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/chinese-space-watch-close-but-no-cigar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/product/fiyta-classic-ga802057-wwb/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://usa.watchpro.com/tag/fiyta",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://moodiedavittreport.com/interview-how-fiyta-is-bringing-its-chinese-watchmaking-expertise-to-the-world/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://archive.horlogerie-suisse.com/watcharound/fiyta/Chinese_watchmaking_s_upmarket_ambitions-1105130310.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://store.fiyta.com/pages/s-luxury-watches",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/1004",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://chinawatchshop.com/products/313",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/coleccion-fiyta-classic-automaticos-desde-140%E2%82%AC-una-eleccion-perfecta.369292/",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/precioso-fiyta-bauhaus-de-42mm.448057/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Watch-Heartouching-1X1XCDCL",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dialicious.com/en/fiyta/review/63d172aaf8cdf569d2f6290f",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/?p=103885",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://conteenium.com/product/fiyta-in-ga850002-wbb/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Watch-Photographer-1X1XCD8P",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Gent-Stainless-Steel-Watch--1X242TMZ",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Gent-Automatic-Watch--1X242TL0",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Lady-Automatic-Watch--1X242TK1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jd.com/tupian/50255413c1fc051b54b6.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ubuy.bf/en/brand/fiyta",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/fiyta-modelo-photographer-con-referencia-wga8170-mwr.435690/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/gran-oferta-en-fiyta-3d-el-primer-reloj-3d-galardonado-con-el-red-dot-design.373190/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dialicious.com/en/fiyta/classic/review/6614285f8d9b25302e0d7f44",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://dialicious.com/en/fiyta/aeronautics/review/63fc75bec16be1633c8a5790",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/fiyta/aeronautics_chronograph/review/67b3c5877dc4c01c9fd33feb",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catawiki.com/en/l/92934741-fiyta-ga852001-yachtsmen-solo-series-date-function-60-hour-power-reserve-ceramic-bezel-no-reserve-price-men-2020",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Watch-3D-TIME-1X1XCDEJ",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Lady-Jewelry-Watch--1X242TI3",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Watch-Klover-1X1XCDBM",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://conteenium.com/product/fiyta-klover-la8562-pwrd/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/pid/50430/womens-floriography-stainless-steel-mother-of-pearl-dial-fiyta-wla805002-pwpd-fiywla805002pwpd",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.liveauctioneers.com/item/236148584_fiyta-automatic-wristwatch-summit-nj",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://store.fiyta.com/collections/classic-collection-women.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.vu/products/668375295-fiyta-gold-watches-for-women-dainty-small-gold-watch-stainless",
+   "passada": 3,
+   "novos": 1
+  }
+ ],
+ "observacoes": "I: a Fiyta equipa os astronautas chineses desde a Shenzhou 5 (2003), não só desde a Shenzhou VII (2008). J: 'GA' é prefixo de referência (automático masculino), não coleção; coleções atuais: Aeronautics (Spacewalk, Taikonaut, Mars-500), Mach (J-20, Y-20, Z-20), Classic, Photographer, Extreme/3D-Time, IN, Joyart, Klover/Clover, Floriography, Interstellar. G: loja oficial internacional é store.fiyta.com."
+}
