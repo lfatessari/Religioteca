@@ -1,0 +1,542 @@
+{
+ "marca": "Fitbit",
+ "usa_codigos": true,
+ "logo": "https://static.carahsoft.com/concrete/files/4416/8182/0188/FitBit-microsite.png",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.androidauthority.com/how-to-know-which-fitbit-you-have-3280608",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://smartbodytouch.com/fitbit-models-by-year/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://store.google.com/category/fitbit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/List_of_Fitbit_products",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.target.com/b/fitbit/-/N-55xlp",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://store.cmsdistribution.com/vendors/fitbit/view-all",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.binglee.com.au/brands/fitbit",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.ca/b/Fitbit-Fitness-Activity-Trackers/bn_1985571",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/l/Home-Electronics/Fitbit~Wearable-Tech",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.carahsoft.com/fitbit/solutions",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://androidguys.com/news/google-fitbit-edge-arrives-at-179-99-with-seven-day-battery-life-built-in-gps-and-smarter-health-tracking/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://the-gadgeteer.com/2026/08/29/fitbit-air-pokemon-sleep-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://the-gadgeteer.com/2026/06/11/fitbit-air-available-colors/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.bestbuy.com/product/google-fitbit-air-screenless-fitness-and-health-tracking-works-with-android-and-ios-obsidian-2026/J39TC8JF6C",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://community.fitbit.com/t5/Ionic/Model-Number-and-Color-Code/m-p/3561046",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bhphotovideo.com/c/product/1395292-REG/fitbit_fb503wtnv_ionic_adidas_edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/6032166661",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cdw.com/product/fitbit-ionic-smart-watch-charcoal-smoke-gray/5244764",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb505rglv.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://electronicexpress.com/catalog/186584/fitbit-versa-special-edition-watch-charcoal-fb505bkgy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.strapcode.com/en-au/blogs/fitbit/the-fitbit-watch-story-part-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mightyape.co.nz/product/fitbit-luxe-fitness-tracker-special-edition-gorjana-soft-gold-stainless-steel-parker-link-bracelet/34809620",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitalcitizen.life/identifying-your-fitbit-model/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://equipo.co.nz/pages/what-model-fitbit-watch-model-do-i-have",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/13034412041",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/1800007188",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb103by.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb403lv.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bhphotovideo.com/c/product/1132681-REG/fitbit_fb103bk_one_wireless_activity_sleep_tracker_black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000027884/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://twen.rs-online.com/web/b/fitbit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000027873/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000027919/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000027926/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://review.kakaku.com/review/K0000922417/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000027905/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://review.kakaku.com/review/K0000889362/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000028430/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000027612/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000030031/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000031121/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000032623/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000033692/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000033694/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/FB503GYBK.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000033693/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000035848/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000036663/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000039440/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000039439/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.kakaku.com/review/J0000042894/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb415srlv.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.greentoe.com/product/Fitbit_Versa_Lite_Edition_Smartwatch__Mulberry__FB415PMPM",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.adorama.com/fb414bkbu.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb414bkpk.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/FB412BKBK.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb412byby.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.staples.ca/products/3014850-en-google-fitbit-ace-3-fitness-tracker-blackyellow-minions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.androidcentral.com/new-fitbit-ace-3-special-edition-aimed-kids-who-minions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb411srbu.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb411srpm.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.greentoe.com/product/Fitbit_Charge_4_Health__Fitness_Tracker__Special_Edition_Granite_Reflective_Woven__FB417BKGY",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://store.google.com/product/fitbit_ace_lte_specs",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bestbuy.com/product/google-fitbit-ace-lte-minecraft-do-u-mine-band-green/J39TC874R3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bestbuy.com/product/fitbit-ace-lte-kids-smartwatch-with-in-app-calling-messaging-gps-mild-2024/J39TC87JYC",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb404bys.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.adorama.com/fb501bkl.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.adorama.com/fb301m.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.com/p/1552370530",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://global.channelonline.com/acme/508/Products/overview/M010066699",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/2072690338",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb410rglv.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bhphotovideo.com/c/product/1381441-REG/fitbit_fb503wtgy_ionic_watch_blue_gray_white.html/specs",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb407stel.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Fitbit-Charge-2-Special-Edition/bn_7005659896",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://focuscamera.com/products/fitbit-fb422glpk-wearable-technology-smart-devices-smartwatches.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pcworld.com/article/857006/fitbits-new-sense-2-versa-4-and-inspire-3-go-heavy-on-feature-upgrades.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://selular.id/2021/07/fitbit-versa-3-tampil-dengan-dua-warna-baru/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.iclarified.com/i7482/fitbit-charge-6-corallight-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/l/Fitbit~Home-Electronics",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wareable.com/fitbit/fitbit-new-sense-color-designer-bands-expansion-8547",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.imore.com/all-fitbit-versa-2-colors",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://imore.com/what-fitbit-colors-are-available",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.techbuy.com.au/p/532368/MOBILE_PHONES_SMART_WATCHES/FITBT/FB507RGCR.asp",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adorama.com/fb502gpks.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://community.fitbit.com/t5/Blaze/Differences-in-Blaze-Classic-and-the-special-editions/td-p/2027900",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bestbuy.com/product/fitbit-flex-2-activity-tracker-navy/5579210?cmp=RMX",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.iclarified.com/56602/fitbit-unveils-reimagined-fitbit-charge-2-and-fitbit-flex-2",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://lowyat.net/2017/126621/fitbits-new-alta-hr-fitness-tracker-looks-like-slimmer-charge-2/autoload",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://itwire.com/health/fitbit-announces-next-gen-devices-for-better-health-and-wellness.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ao.com/l/fitbit/6/99/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/?p=18597887",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jckonline.com/?p=58610",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dummies.com/consumer-electronics/the-different-fitbit-types",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb415pmpm.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb415srwt.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb419bkrd.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bhphotovideo.com/c/product/1381435-REG/fitbit_fb503cpbu_ionic_watch_slate_blue_burnt.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iphoneincanada.ca/news/fitbit-force-wristband-canada/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.staples.ca/products/3006263-en-google-fitbit-ace-3-fitness-tracker-cosmic-blueastro-green",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb521glbmus.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://9to5google.com/2026/10/12/google-fitbit-edge-announcement/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.reliancedigital.in/product/fitbit-charge-4-storm-blueblack",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adorama.com/fb417bkgy.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/84524/",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "G: fitbit.com hoje redireciona para a Google Store (store.google.com/category/fitbit); desde 2025-2026 os novos aparelhos saem como \"Google Fitbit\" (Air, Edge). I/J: incluir Air (2026) e Edge (2026), sucessor da Charge 6. Aparelhos são trackers/smartwatches, não relógios tradicionais (aviso já em I)."
+}
