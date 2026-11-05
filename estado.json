@@ -7685,7 +7685,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T08:43:00Z",
- "ultimo_sinal": "2026-11-05T08:43:00Z",
+ "ultimo_sinal": "2026-11-05T08:48:58Z",
  "em_andamento_2": {
   "marcas": [
    "Festina"
@@ -7695,7 +7695,9 @@
   "relogios": "historico/parcial_Festina_relogios.txt",
   "fontes": "historico/parcial_Festina_fontes.txt",
   "notas": "historico/notas_Festina.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
