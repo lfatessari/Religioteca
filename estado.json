@@ -7702,7 +7702,7 @@
  ],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-05T09:42:27Z",
- "ultimo_sinal": "2026-11-05T09:47:18Z",
+ "ultimo_sinal": "2026-11-05T09:50:52Z",
  "em_andamento_2": {
   "marcas": [
    "Filippo Loreti"
@@ -7714,7 +7714,9 @@
   "notas": "historico/notas_Filippo_Loreti.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3"
   ],
   "passada": 1
  }
