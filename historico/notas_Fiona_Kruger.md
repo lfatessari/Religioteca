@@ -1,0 +1,7 @@
+# Fiona Krüger (linha 535) — notas
+Tratada como GRANDE (peças sob encomenda/personalizadas, séries com mostradores nomeados).
+Site oficial fionakruger.com NÃO aparece em busca nenhuma (nem site:); Firecrawl sem créditos → coluna L.
+Coleções: Memento Mori (protótipo 2011) → Skull FKST (12 pç, 2014) e Black Skull FKST-BL (12 pç) → Celebration Skull FK-CS-ST-A (24 pç, 2015) → Petit Skull Silver/Blue/Black (18 pç cada, 2016; FK-PS-BK, FK-PS-BLU) → Petit Skull Celebration Eternity FK-PS-C-ET / Enigma FK-PS-C-EN (18 pç, 2017) → variações vendidas na Exquisite (Green/Black FK-PS-GB, Black Diamond Teeth, Silver Ruby Smile, Tropical, Purple, Blue Diamonds) → Chaos: Mechanical Entropy Black/Rhodium FK-ME-CH-BKR e Black/Gold FK-ME-CH-BKG (2018, 40/ano) → Entropy I Purple Pow (FK-CH), Cobalt Crash FK-E1-CC, Black Bang (18 pç cada) → Entropy I "Fracture" Perpétual (7 pç, 2024) → TASAKI: Petit Skull WAC 0110-0113 (2021), Chaos WAC 0114/0115/0117/0118, Face of TASAKI WAC 0122-0126 → objetos: Vanitas Black/Color (relógio de parede L'Epée 1839, 50 pç cada, 2017), Mystery Box Forget Time (De Bethune, 20 pç, 2025).
+Códigos: usados pela marca (FK-...), vários modelos sem código publicado.
+Vermelho: sim (personalizadas não publicadas, site oficial inacessível, iterações TASAKI sem fotos).
+Seções feitas na 1ª passada: 1, 3, 4 (catálogo TASAKI), 5 (WatchBase, GPHG, Watchonista), 6 (Chrono24 só por busca: nada), 7 (Exquisite, TLE, Majestix, Gressive), 8, 9, 10.
