@@ -8144,7 +8144,7 @@
   }
  ],
  "em_execucao": "2026-11-06T03:42:31Z",
- "ultimo_sinal": "2026-11-06T03:42:31Z",
+ "ultimo_sinal": "2026-11-06T03:44:30Z",
  "em_andamento_2": {
   "marcas": [
    "6B Watches"
@@ -8154,7 +8154,11 @@
   "relogios": "historico/parcial_6B_Watches_relogios.txt",
   "fontes": "historico/parcial_6B_Watches_fontes.txt",
   "notas": "historico/notas_6B_Watches.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "3",
+   "9"
+  ],
   "passada": 1
  }
 }
