@@ -12,3 +12,11 @@
 - Linhas tardias (2018-2019): Infinite 8 (87WA1842xx), NewOld/New&Old (87WA1841xx 41mm, 87WA1830xx), La Rose Éternelle (timez). sovogue.ch e timez.com bloqueiam.
 ## Passada 1 encerrada (~92 fontes): últimas 3 fontes sem modelo novo. Marca VERMELHA: linhas 2016-2019 (Infinite 8, NewOld, La Rose Éternelle, refs 1529/1635/1729/1739/1840/1842) com muitas refs não achadas; nomes (Broadway, Old Glory, Urban Class, Black Rose) sem ref. Passada 2 a seguir.
 - Passada 2: malbatel (98 produtos, 9 páginas; só a 1ª abre; imagens cdn/shop/files/<REF>.jpg). 86CA... = códigos alternativos (Canadá?) do mesmo relógio; não viram linha.
+## Auto-auditoria (10b)
+1. Blog/imprensa oficial: site 88rdr.com bloqueia (robots) e o domínio virou cassino; imprensa lida: W&W (2), Worldtempus, WatchPro (4), WatchTime, Europa Star (2), National Jeweler, FashionBeans (2), ATimelyPerspective (4), Masterhorologer (lista + 2 artigos), Apetogentleman.
+2. Produtos escondidos: site:88rdr.com shop-online (5 fichas achadas). Loja oficial não abre.
+3. Lojas: seriouswatches, ashford, jura, jomashop, malbatel, bezali, johnross, exacttime, sovogue, egowatch, walmart, macys, watchshop, beaverbrooks, selfridges, johnlewis, righttime, eBay (várias).
+4. Primeiro modelo: coleção Double 8 Origin (2012, refs 87WA1200xx) incluída.
+5. I/J: Double 8 Origin achado.
+6. Edições: BAFTA 2013 (50 pç), BAFTA 2014, Mad Men (40 pç), Rio (Copa 2014), Encounter (Entourage), Pink Lady (NBCF) na B.
+7. Fontes: 103 (91 + 12 na 2ª passada). Passada 2 trouxe 4 relógios novos (<5): sem 3ª passada.
