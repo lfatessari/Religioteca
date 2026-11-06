@@ -8,3 +8,5 @@ imagens: 384.026 https://images.europeanwatch.com/images/73/73253-1.jpg ; 211.02
 - Site oficial: páginas de família carregam modelos por JavaScript, sem referências na leitura (llms.txt, lange-1, saxonia). L = Parcial.
 - 363.038 Odysseus (2020, wewatches) — confirmar. Coveted discover tem fotos knockout por família.
 - Lange 1 Luna Mundi = set 119.026+119.032 (101 conjuntos, 2003). 252.025 limitado 100. 720.025 limitado 100. 260.025: 200 ouro rosa + 50 platina. 191.066 limitado 250. 140.035 limitado 100; 405.034 limitado 200; 116.050 limitado 100.
+- Padrão de foto europeanwatch confirmado em 4 anúncios (32322, 57898, 66149, 73253): images.europeanwatch.com/images/<id/1000>/<id>-1.jpg. Usado com ids vindos de resultados de busca.
+- Buscas europeanwatch por família (10 buscas) deram ids para fotos (não contam como fontes abertas).
