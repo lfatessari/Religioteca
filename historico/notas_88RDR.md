@@ -10,3 +10,4 @@
 - Ashford: imagem cdn/shop/files/<REF>_F.jpg (confirmado em 2 fichas). Ashford chama parte de '88 Originals'. Masterhorologer: Rive 'Luminary' 2015.
 - Site oficial www.88rdr.com (Squarespace) aparece em busca (/shop-online/87wa154104) mas bloqueia leitura (robots) -> coluna L. Marca encerrada. BAFTA 50 pç = 2013 (Europastar fev/2013); BAFTA 2014 preto vendido Watch Shop.
 - Linhas tardias (2018-2019): Infinite 8 (87WA1842xx), NewOld/New&Old (87WA1841xx 41mm, 87WA1830xx), La Rose Éternelle (timez). sovogue.ch e timez.com bloqueiam.
+## Passada 1 encerrada (~92 fontes): últimas 3 fontes sem modelo novo. Marca VERMELHA: linhas 2016-2019 (Infinite 8, NewOld, La Rose Éternelle, refs 1529/1635/1729/1739/1840/1842) com muitas refs não achadas; nomes (Broadway, Old Glory, Urban Class, Black Rose) sem ref. Passada 2 a seguir.
