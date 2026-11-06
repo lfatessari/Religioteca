@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 548,
- "ultima_versao": 466,
+ "ultima_versao": 467,
  "historico": [
   {
    "data": "2026-10-16",
@@ -7822,6 +7822,57 @@
    },
    "fora_da_sequencia": true,
    "obs": "Site oficial e Firecrawl indisponíveis; 102 linhas com link de página em C (sem foto); 40 fotos seguem o padrão de endereço do Watchard conferido em 2 fichas."
+  },
+  {
+   "data": "2026-11-06",
+   "versao": 467,
+   "marca": "Buren",
+   "linha_marcas": 265,
+   "linhas_relogios": "80818-80905",
+   "relogios": 88,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 15,
+   "passadas": {
+    "1": "15 fontes, 82 novos"
+   },
+   "fora_da_sequencia": true,
+   "obs": "Marca egípcia (bureneg.com). Páginas 2+ da loja e das categorias não alcançadas (só links de paginação; Firecrawl sem créditos). 39 modelos de arquivo da galeria com código BU-; 4 modelos só pelo título da Amazon.eg."
+  },
+  {
+   "data": "2026-11-06",
+   "versao": 467,
+   "marca": "Houtman",
+   "linha_marcas": 699,
+   "linhas_relogios": "80906-80922",
+   "relogios": 17,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 21,
+   "passadas": {
+    "1": "21 fontes, 17 novos"
+   },
+   "fora_da_sequencia": true,
+   "obs": "Esperance ainda não lançada (early 2027)."
+  },
+  {
+   "data": "2026-11-06",
+   "versao": 467,
+   "marca": "1776 Atelier",
+   "linha_marcas": 2,
+   "linhas_relogios": "80923-80930",
+   "relogios": 8,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 18,
+   "passadas": {
+    "1": "18 fontes, 8 novos"
+   },
+   "fora_da_sequencia": true,
+   "obs": "Site oficial com client_error; coluna L preenchida."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -7947,19 +7998,6 @@
  ],
  "marcas_novas_sem_relogios": [
   {
-   "marca": "Buren",
-   "linha_marcas": 265
-  },
-  {
-   "marca": "Houtman",
-   "linha_marcas": 699
-  },
-  {
-   "marca": "1776 Atelier",
-   "linha_marcas": 2,
-   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
-  },
-  {
    "marca": "2CAN",
    "linha_marcas": 3,
    "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
@@ -8029,28 +8067,5 @@
    "linha_marcas": 18,
    "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
   }
- ],
- "em_execucao": "2026-11-05T23:42:21Z",
- "ultimo_sinal": "2026-11-05T23:52:19Z",
- "em_andamento_2": {
-  "marcas": [
-   "Buren",
-   "Houtman",
-   "1776 Atelier"
-  ],
-  "linha_marcas": {
-   "Buren": 265,
-   "Houtman": 699,
-   "1776 Atelier": 2
-  },
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Buren: todas (15 fontes)",
-   "Houtman: todas (21 fontes)"
-  ],
-  "passada": 1
- }
+ ]
 }
