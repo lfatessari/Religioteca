@@ -10,3 +10,4 @@ imagens: 384.026 https://images.europeanwatch.com/images/73/73253-1.jpg ; 211.02
 - Lange 1 Luna Mundi = set 119.026+119.032 (101 conjuntos, 2003). 252.025 limitado 100. 720.025 limitado 100. 260.025: 200 ouro rosa + 50 platina. 191.066 limitado 250. 140.035 limitado 100; 405.034 limitado 200; 116.050 limitado 100.
 - Padrão de foto europeanwatch confirmado em 4 anúncios (32322, 57898, 66149, 73253): images.europeanwatch.com/images/<id/1000>/<id>-1.jpg. Usado com ids vindos de resultados de busca.
 - Buscas europeanwatch por família (10 buscas) deram ids para fotos (não contam como fontes abertas).
+- 25º aniversário 2019 (WG, 250 pç = 10 modelos × 25): 191.066, 117.066, 116.066, 181.066, 182.066, 192.066, 139.066, 320.066, 720.066 + ? (falta 1 ref; buscar).
