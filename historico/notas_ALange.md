@@ -6,3 +6,4 @@ imagens: 384.026 https://images.europeanwatch.com/images/73/73253-1.jpg ; 211.02
 - Peças únicas sem código: código PU-* é interno; no dados final, código vazio (usar usa_codigos e nome distinto). 
 - WatchBase família saxonia (inclui Datograph, Richard Lange?) dá client_error 3x.
 - Site oficial: páginas de família carregam modelos por JavaScript, sem referências na leitura (llms.txt, lange-1, saxonia). L = Parcial.
+- 363.038 Odysseus (2020, wewatches) — confirmar. Coveted discover tem fotos knockout por família.
