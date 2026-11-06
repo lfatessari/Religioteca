@@ -8118,9 +8118,11 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2",
+   "2c"
   ],
   "passada": 1
  },
- "ultimo_sinal": "2026-11-06T02:42:27Z"
+ "ultimo_sinal": "2026-11-06T02:48:07Z"
 }
