@@ -8181,5 +8181,20 @@
    "linha_marcas": 18,
    "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
   }
- ]
+ ],
+ "em_execucao": "2026-11-06T06:43:27Z",
+ "ultimo_sinal": "2026-11-06T06:43:27Z",
+ "em_andamento_novas": {
+  "marcas": [
+   "A. Manzoni & Fils",
+   "AATOS",
+   "Abingdon"
+  ],
+  "inicio": "2026-11-06T06:43:27Z",
+  "notas": "historico/notas_<marca>.md",
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "passada": 1,
+  "secoes_feitas": []
+ }
 }
