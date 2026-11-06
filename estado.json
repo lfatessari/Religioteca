@@ -8169,7 +8169,7 @@
   }
  ],
  "em_execucao": "2026-11-06T05:42:36Z",
- "ultimo_sinal": "2026-11-06T05:57:35Z",
+ "ultimo_sinal": "2026-11-06T05:59:24Z",
  "em_andamento_2": {
   "marcas": [
    "A. Lange & Söhne"
@@ -8180,7 +8180,8 @@
   "fontes": "historico/parcial_ALange_fontes.txt",
   "notas": "historico/notas_ALange.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2"
   ],
   "passada": 1,
   "fora_da_sequencia": true,
