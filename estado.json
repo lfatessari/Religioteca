@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 548,
- "ultima_versao": 473,
+ "ultima_versao": 474,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8032,6 +8032,41 @@
    },
    "fora_da_sequencia": true,
    "obs": "Base: WatchBase (Lange 1, 1815, Zeitwerk), catálogo oficial 2020, Langepedia, WeWatches, SJX, grail-watch. Fotos oficiais (selections) + Coveted + European Watch; ~210 refs antigas sem foto (C = página da fonte). WatchBase família saxonia (client_error) e WeWatches pág. 4/6 não alcançadas."
+  },
+  {
+   "data": "2026-11-06",
+   "versao": 474,
+   "marca": "A. Manzoni & Fils",
+   "linha_marcas": 12,
+   "linhas_relogios": "81768-81771",
+   "relogios": 4,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 27,
+   "passadas": {
+    "1": "27 fontes, 4 novos"
+   },
+   "fora_da_sequencia": true,
+   "obs": "Marca revivida por Oliver Ike em 2013 (Kickstarter), inativa. Canopus Weekplanner (preto e prateado), Canopus Automatic Chronograph (2014, sem foto) e um relógio antigo Manzoni Arogno (anos 1930). Site amazoni.com fora das buscas."
+  },
+  {
+   "data": "2026-11-06",
+   "versao": 474,
+   "marca": "AATOS",
+   "linha_marcas": 13,
+   "linhas_relogios": "81772-81814",
+   "relogios": 43,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 36,
+   "passadas": {
+    "1": "25 fontes, 39 novos",
+    "2": "11 fontes, 1 novo"
+   },
+   "fora_da_sequencia": true,
+   "obs": "Marca de Amazon (fabricada na China, vendida da Alemanha, ~2010-2015). Base: Allwatches (pág. 1), blog thewatches4u (10 de 37 posts), HubPages, aBlogtoWatch (Tiago), títulos de anúncios Amazon/eBay. Amazon, eBay itm, picclick, uhrens24 bloqueados; Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8070,7 +8105,8 @@
   "Filippo Loreti (linha 534)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
   "Findeisen (linha 535)": "PAUSADA sem gravar (05/11/2026): marca de Nuremberg (2017, Martin Zettl), linhas F-1253, NauticMaster (várias cores, Field Edition 2025) e SpeedForce (3 x 35 peças). Site findeisen-watches.com fora das buscas; Firecrawl sem créditos; só 8 fontes (mínimo 15). 5 relógios anotados em historico/parcial_Findeisen_relogios.txt. Retomar com Firecrawl pelas notas historico/notas_Findeisen.md.",
   "Fiona Krüger (linha 536)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
-  "Fiyta (linha 540)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página."
+  "Fiyta (linha 540)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
+  "Abingdon (linha 14)": "Dimensionada em 06/11/2026: grande (loja Shopify com muitas cores por modelo, 18 anos de linhas). Fazer sozinha na próxima execução."
  },
  "em_andamento": {
   "marcas": [
@@ -8157,16 +8193,6 @@
  ],
  "marcas_novas_sem_relogios": [
   {
-   "marca": "A. Manzoni & Fils",
-   "linha_marcas": 12,
-   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
-  },
-  {
-   "marca": "AATOS",
-   "linha_marcas": 13,
-   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
-  },
-  {
    "marca": "Abingdon",
    "linha_marcas": 14,
    "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
@@ -8181,35 +8207,5 @@
    "linha_marcas": 18,
    "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
   }
- ],
- "em_execucao": "2026-11-06T06:43:27Z",
- "ultimo_sinal": "2026-11-06T06:57:23Z",
- "em_andamento_novas": {
-  "marcas": [
-   "A. Manzoni & Fils",
-   "AATOS"
-  ],
-  "inicio": "2026-11-06T06:43:27Z",
-  "notas": "historico/notas_<marca>.md",
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "passada": {
-   "AATOS": 2
-  },
-  "secoes_feitas": {
-   "A. Manzoni & Fils": "todas (pronta para gravar: historico/dados_Manzoni.txt, marca_Manzoni.json)",
-   "AATOS": [
-    "1",
-    "3",
-    "5",
-    "7",
-    "8",
-    "9"
-   ]
-  },
-  "obs": "Abingdon é grande (muitas variações Shopify): fica para a próxima execução.",
-  "grande": {
-   "AATOS": true
-  }
- }
+ ]
 }
