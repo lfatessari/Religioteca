@@ -5,3 +5,5 @@
 - Seções feitas: 1, 2 (parcial: coleções; produtos não abrem em lista), 9 (parcial)
 - Falta: 2c site:av86.com/products por linha, Chrono24/EveryWatch, lojas (trendhim, mrporter?), eBay, imprensa (1982 GMT, 1960 Racing, 1968 Moonphase, 1564 Chronodate, 1954 Capri/Amalfi), colabs (Crystal Palace, Newcastle, Fubon, Gatlin, KFA, DBU, WWF 2025)
 - Dúvidas: '1564 Chronodate Ice Blue' x 'Ice Blue & White' (provável mesmo); '1815 Blue Sunray' x 'Special Edition'.
+- 1ª passada encerrada (Newcastle, BladeForums, Suzie Anderson sem novidade). Decisão: VERMELHA (products.json inacessível sem Firecrawl; colaborações sem foto: Fubon Braves, Justin Gatlin, KFA; Fandango tem 4 cores e só 2 nomes; muitas variações antigas).
+- 2ª passada: buscar Fandango, Fubon, Gatlin, KFA, PDFs de produto, moonphase, 1964 Horizon, 1954 Capri, trendhim 1956.
