@@ -14,3 +14,4 @@ imagens: 384.026 https://images.europeanwatch.com/images/73/73253-1.jpg ; 211.02
 ## 06:17 — Passada 1 encerrada (3 fontes seguidas sem novidade: gressive catálogo, press Audrain 2025, WatchTime 2026). 
 Decisão: marca VERMELHA — WatchBase lista 438 e há edições de lojistas (Sincere, Wempe, Pisa, LOG, Japão, Concorso), peças únicas e boutique editions não catalogadas; ~270 refs sem foto.
 Passada 2: foco em edições especiais/peças únicas (Sincere, Wempe, Pisa, Japão, Only Watch, leilões Phillips/Sotheby's/Antiquorum), §2c com termos novos e buscas extras §3.
+## 06:19 Passada 2 encerrada: 14 fontes, ~17 novos (≥5) → passada 3 obrigatória.
