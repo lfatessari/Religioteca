@@ -8156,7 +8156,7 @@
     }
   ],
   "em_execucao": "2026-11-06T04:42:31Z",
-  "ultimo_sinal": "2026-11-06T04:47:09Z",
+  "ultimo_sinal": "2026-11-06T04:50:49Z",
   "em_andamento_2": {
     "marcas": [
       "88 Rue Du Rhone"
@@ -8167,7 +8167,10 @@
     "fontes": "historico/parcial_88RDR_fontes.txt",
     "notas": "historico/notas_88RDR.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "3",
+      "9"
     ],
     "passada": 1,
     "fora_da_sequencia": true
