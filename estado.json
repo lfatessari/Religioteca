@@ -8069,7 +8069,7 @@
   }
  ],
  "em_execucao": "2026-11-06T00:42:21Z",
- "ultimo_sinal": "2026-11-06T00:42:21Z",
+ "ultimo_sinal": "2026-11-06T01:05:21Z",
  "em_andamento_2": {
   "marcas": [
    "2CAN",
@@ -8085,7 +8085,10 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "2CAN: todas (gravada em temporário)",
+   "2LMX: todas"
+  ],
   "passada": 1
  }
 }
