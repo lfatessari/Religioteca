@@ -11,3 +11,6 @@ imagens: 384.026 https://images.europeanwatch.com/images/73/73253-1.jpg ; 211.02
 - Padrão de foto europeanwatch confirmado em 4 anúncios (32322, 57898, 66149, 73253): images.europeanwatch.com/images/<id/1000>/<id>-1.jpg. Usado com ids vindos de resultados de busca.
 - Buscas europeanwatch por família (10 buscas) deram ids para fotos (não contam como fontes abertas).
 - 25º aniversário 2019 (WG, 250 pç = 10 modelos × 25): 191.066, 117.066, 116.066, 181.066, 182.066, 192.066, 139.066, 320.066, 720.066 + ? (falta 1 ref; buscar).
+## 06:17 — Passada 1 encerrada (3 fontes seguidas sem novidade: gressive catálogo, press Audrain 2025, WatchTime 2026). 
+Decisão: marca VERMELHA — WatchBase lista 438 e há edições de lojistas (Sincere, Wempe, Pisa, LOG, Japão, Concorso), peças únicas e boutique editions não catalogadas; ~270 refs sem foto.
+Passada 2: foco em edições especiais/peças únicas (Sincere, Wempe, Pisa, Japão, Only Watch, leilões Phillips/Sotheby's/Antiquorum), §2c com termos novos e buscas extras §3.
