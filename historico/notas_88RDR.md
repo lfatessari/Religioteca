@@ -7,3 +7,4 @@
 - Logo: https://wornandwound.com/library/uploads/2012/06/logo-88rdr.jpg ; eBay /itm/ não abre, /p/ abre; Catawiki lotes redirecionam p/ categoria. finn.no 401014458: 'Double 8 Origin 42mm ETA 2824' ref 87WA1842 (incompleta)
 - Rive lançada 2016 com 25 peças (fashionbeans). Double 8 Origin: 150 peças 29-45mm (houseofwatches).
 - Double 8 Origin tem tema de filmes/atores: modelos com nomes (Frankie Blue Eyes, Marilyn, A Lady to Love - Basel 2014). Entourage = edição limitada 2015 (whatculture). Copa do Mundo 2014 LE sem nome.
+- Ashford: imagem cdn/shop/files/<REF>_F.jpg (confirmado em 2 fichas). Ashford chama parte de '88 Originals'. Masterhorologer: Rive 'Luminary' 2015.
