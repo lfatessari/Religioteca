@@ -8,3 +8,5 @@
 - Rive lançada 2016 com 25 peças (fashionbeans). Double 8 Origin: 150 peças 29-45mm (houseofwatches).
 - Double 8 Origin tem tema de filmes/atores: modelos com nomes (Frankie Blue Eyes, Marilyn, A Lady to Love - Basel 2014). Entourage = edição limitada 2015 (whatculture). Copa do Mundo 2014 LE sem nome.
 - Ashford: imagem cdn/shop/files/<REF>_F.jpg (confirmado em 2 fichas). Ashford chama parte de '88 Originals'. Masterhorologer: Rive 'Luminary' 2015.
+- Site oficial www.88rdr.com (Squarespace) aparece em busca (/shop-online/87wa154104) mas bloqueia leitura (robots) -> coluna L. Marca encerrada. BAFTA 50 pç = 2013 (Europastar fev/2013); BAFTA 2014 preto vendido Watch Shop.
+- Linhas tardias (2018-2019): Infinite 8 (87WA1842xx), NewOld/New&Old (87WA1841xx 41mm, 87WA1830xx), La Rose Éternelle (timez). sovogue.ch e timez.com bloqueiam.
