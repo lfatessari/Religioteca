@@ -15,3 +15,4 @@ imagens: 384.026 https://images.europeanwatch.com/images/73/73253-1.jpg ; 211.02
 Decisão: marca VERMELHA — WatchBase lista 438 e há edições de lojistas (Sincere, Wempe, Pisa, LOG, Japão, Concorso), peças únicas e boutique editions não catalogadas; ~270 refs sem foto.
 Passada 2: foco em edições especiais/peças únicas (Sincere, Wempe, Pisa, Japão, Only Watch, leilões Phillips/Sotheby's/Antiquorum), §2c com termos novos e buscas extras §3.
 ## 06:19 Passada 2 encerrada: 14 fontes, ~17 novos (≥5) → passada 3 obrigatória.
+## 06:22 Passada 3: 10 fontes, ~4 novos (<5) → sem 4ª passada. Restante: só fotos.
