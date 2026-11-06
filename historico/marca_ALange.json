@@ -1,0 +1,552 @@
+{
+ "marca": "A. Lange & Söhne",
+ "usa_codigos": true,
+ "logo": "https://1000logos.net/wp-content/uploads/2018/10/A.-Lange-and-Sohne-logo.png",
+ "site_bloqueado": "Parcial – alange-soehne.com: páginas de família carregam os modelos por JavaScript (sem referências na leitura automática); fichas de produto e páginas 'selections' abrem; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.alange-soehne.com/llms.txt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/a-lange-sohne",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/a-lange-sohne/lange-1",
+   "passada": 1,
+   "novos": 142
+  },
+  {
+   "url": "https://www.alange-soehne.com/ww-en/timepieces/lange-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/a-lange-sohne/catalog/151249",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/a-lange-sohne/saxonia/216-026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/A._Lange_%26_S%C3%B6hne_Saxonia",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://europeanwatch.com/brand/a-lange-and-sohne/saxonia",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.embassy.ch/wp-content/uploads/2020/08/ALS_CollectionOverview_EN_2020_high-res_2069928.pdf",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://langepedia.com/a-lange-sohne-arkade/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://watchbase.com/a-lange-sohne/1815",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://majestixcollection.com/watches/a-lange-sohne-langematik-big-date-pink-gold-308-032-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/lange-sohne-collector-family-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://elb.europeanwatch.com/a-lange-and-sohne/Datograph.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/a-lange-sohne",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/alange-soehne/watches/?paging=8",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/a-lange-sohne-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/a-lange-and-sohne-405035-405035-datograph-up-down-platinum-black-66149",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://langepedia.com/?p=104",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/A._Lange_%26_Söhne_Langematik",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/A._Lange_%26_S%C3%B6hne_Cabaret",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://watchbase.com/a-lange-sohne/zeitwerk",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/A._Lange_%26_S%C3%B6hne_Richard_Lange",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2013/07/lange-datograph-reference-versions-dates-and-unique-pieces.html",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/lange-sohne-zeitwerk-reference-guide/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.alange-soehne.com/sa-en/timepieces/saxonia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=43844",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/lange-sohne/2025/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-odysseus-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.wewatches.com/encyclopedia/a-lange-sohne/odysseus/363-179",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-lange-1-pink-gold-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-lange-1-yellow-gold-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-lange-1-blue-dial-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-saxonia-pink-gold-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-saxonia-white-gold-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-cabaret-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-saxonia-black-dial-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-saxonia-blue-dial-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/watches/collections/a-lange-so-hne-saxonia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wewatches.com/en/encyclopedia/a-lange-sohne",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.wewatches.com/en/encyclopedia/a-lange-sohne?page=5",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://www.wewatches.com/en/encyclopedia/a-lange-sohne?page=2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.wewatches.com/en/encyclopedia/a-lange-sohne?page=3",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://watches-atlas.pages.dev/brand/a-lange-sohne",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://langepedia.com/?p=8146",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/history/lange/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/a-lange-soehne/?p=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/alangesoehne/index.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/a-lange-sohne/saxonia/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wewatches.com/en/encyclopedia/a-lange-sohne/richard-lange",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://langepedia.com/richard-lange-collection/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-pink-gold-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-1815-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/a-lange-sohne-calendar-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/brands/a-lange--sohne",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hourstriker.com/database/a-lange--sohne-saxonia-lange-31-white-gold-130039f-3744",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/watch/a-lange-and-sohne-191039-lange-1-18k-white-gold-silver-dial-57898",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/watch/a-lange-and-sohne-117028-grand-lange-1-black-dial-32322",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/?p=25502",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch-wiki.net/doku.php?id=lange_1",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.alange-soehne.com/ww-en/timepieces/lange-1/grand-lange-1-25th-anniversary/grand-lange-1-25th-anniversary-in-750-white-gold-117-066",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/lange-sohne-lange-1-25th-anniversary-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://docs.google.com/spreadsheets/d/1au-UMy3OSB_9ehmn5AkR_pfAPEjNTD7zo2FK7r0W8ZI/htmlview",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://langepedia.com/a-lange-sohne-cabaret/",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://langepedia.com/encyclopedia/saxonia/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://langepedia.com/a-lange-sohne-lange-1-perpetual-calendar-tourbillon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://langepedia.com/a-lange-sohne-lange-1-perpetual-calendar/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://press.alange-soehne.com/record-price-for-unique-a-lange--soehne-piece/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2022/10/lange-zeitwerk-guide.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=29064",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=6407",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://press.alange-soehne.com/?h=1&all=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/catalog/a-lange-sohne/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://press.alange-soehne.com/a-lange--soehne-introduces-two-new-timepieces-at-audrain-concours-2025/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/chronographs/a-lange-soehne-triple-split-and-1815-up-down-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/lange-sohne-lange-1-sincere-edition-guide/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/articles/a-lange-sohne-exploring-lange-1-models-in-the-sothebys-archive",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://everywatch.com/a-lange-sohne/watch-9442547",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/article/148251283/the-top-10-a-lange-soehne-results-phillips-bacs-most-expensive",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/article/a-lange-sohne-five-watches-three-decades-phillips-hong-kong-fall-2026-online-auction",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.acollectedman.com/products/a-lange-sohne-lange-1-dubail-white-gold",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/lange-sohne-lange-one-brown-dial-le-overview/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprozine.com/digest/lange-langematik-wempe-observation-watch-history/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://langepedia.com/encyclopedia/grosse-langematik-gangreserve/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.acollectedman.com/collections/a-lange-sohne-highlights",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://langepedia.com/the-a-lange-sohne-selection/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/A._Lange_%26_Söhne_Lange_1_Tourbillon",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://langepedia.com/?p=3924",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/704-032-a-lange-sohne-lange-1-tourbillon",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2026/09/lange-sohne-1815-retrospective.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/A._Lange_%26_S%C3%B6hne_Lange_1_%22Soir%C3%A9e%22",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://langepedia.com/a-lange-sohne-lange-1-soiree/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.alange-soehne.com/us-en/timepieces/saxonia/saxonia-thin/saxonia-thin-in-750-pink-gold-211-033",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/ae-en/timepieces/saxonia/saxonia/saxonia-in-750-pink-gold-216-033",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/hk-en/timepieces/saxonia/saxonia/saxonia-in-750-pink-gold-219-043",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/kr-en/timepieces/saxonia/saxonia/saxonia-in-750-pink-gold-219-032",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://alange-soehne.com/ch-en/timepieces/selections/platinum-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/kr-en/timepieces/selections/white-gold-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/gb-en/timepieces/selections/pink-gold-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/au-en/timepieces/selections/honey-gold-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/hk-en/timepieces/selections/steel-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://alange-soehne.com/us-en/timepieces",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/ae-en/timepieces/selections/handwerkskunst-editions",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/sa-en/timepieces/selections/flagship-exclusive",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/ae-en/timepieces/selections/lumen",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alange-soehne.com/ch-en/timepieces/selections/decorated-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch-wiki.net/doku.php?id=saxonia",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://1000logos.net/a-lange-sohne-logo",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "I termina com '[⚠️ verificar dados atuais]': dados conferidos (fundação 1845 por F. A. Lange; renascimento 1990 com Walter Lange) — pode tirar o aviso. Família Richard Lange, Cabaret, 1815 e Lange 31/Triple Split também são importantes além das de J."
+}
