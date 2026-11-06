@@ -1,7 +1,6 @@
-# 3H Italia (linha 5) — NÃO feita em 06/11 00h: dimensionada como GRANDE (fica sozinha na próxima execução)
-Motivo: só a Yodobashi (Japão) lista 32 referências (todas esgotadas), com variações de cor por código; há ainda Oceandiver, Tintangraph, titânio, automáticos (46T8RG) etc.
-Fontes já abertas (passada 1):
-- https://www.yodobashi.com/maker/0000034497/ (32 refs, sem fotos): 44M1.OROROSA, 44M1.BLU, 44M1.ACQUA (limitado), 44M1, 44M1.INDACO, 44M1.FIORE (limitado, feminino); 52 mm M1: M1.ITALY, M1.VERDE, M1.BLU, M1, M1.AZZURRO, M1.ROSA, M1.ROSSO, M1.ARANCIO, M1.GIALLO, M1.NERO; Titanium Camouflage 52 mm: TC01–TC06; Titanium 52 mm: T8AV, T10B; Steel 46 mm: ODS2B, ODS10N; Oceandiver 52 mm: DPS1AN; Steel PVD 52 mm: DPB1A, DPB1L, DPB1R, DPB1T, DPB4N.
-- https://usa.watchpro.com/tag/3h-italia : artigos "3H Italia adds new titanium models to UK offering" (2014) e "3H Italia UK launches consumer-friendly website" (2013).
-- gevrilgroup.com/?p=30376 redireciona para gevril.com (Gevril Group ligado à 3H?).
-Pistas da busca: skroutz.eu 46T8RG automático; secretsales "Tintangraph" feminino; walmart ip/44043396 e 44048460; desertcart 37406935; relojes-especiales "Oceandiver Deep Pro automático"; ebay.de 356737409918, 175249248801, 177337142741, 256963285780; gevrilgroup ?p=30418 "True Blue".
+# 3H Italia (linha 5) — gravada em 06/11/2026 (v469), 47 relógios, linhas 80945-80991, VERMELHA
+Seções: 1 dimensionar (marca extinta, sem site); 2/2c site oficial inexistente; 3 buscas (primeira página + extras); 5 agregadores (EveryWatch/WatchPatrol/Chrono24 sem resultado ou client_error); 7 lojas (Yodobashi, Walmart, pvd-coatings/Amazon, desertcart, skroutz, secretsales); 8 usados (eBay, scubaboard, relojes-especiales, tori.fi); 9 imprensa (WatchPro, Gevril Group, Europa Star).
+Vermelha: há Oceandiver em várias cores/quartzo e 44 mm sem código, M1 sem fotos; Yodobashi lista 32 códigos sem foto.
+Firecrawl sem créditos (renova 13:43 UTC 06/11). eBay.de itm 356737409918, 177337142741, 254230335631, 205437476593, 326768991094 ("Ocean Diamond Diver"), 405115285710, 205575296202; WatchPatrol 3390361, 3591294, 3591604, 2111440, 3444812, 2106491, 3481469; kaufland.at 342886031 e catawiki 17226591 (Ocean Diver Deep Pro) NÃO abriram — revisitar com Firecrawl para fotos.
+gevrilgroup.com/?p=2847, 30376, 30418, 30419, 33128 redirecionam para gevril.com (artigos sobre 3H Italia, Cube, "True Blue").
+Auto-auditoria: blog/imprensa oficial inexistentes; I/J: Ocean Diver achado; Bonucci/Renato Zero/Shaggy não confirmados em fonte; sem peças únicas; 39 fontes.
