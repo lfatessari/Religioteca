@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 548,
- "ultima_versao": 474,
+ "ultima_versao": 475,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8067,6 +8067,23 @@
    },
    "fora_da_sequencia": true,
    "obs": "Marca de Amazon (fabricada na China, vendida da Alemanha, ~2010-2015). Base: Allwatches (pág. 1), blog thewatches4u (10 de 37 posts), HubPages, aBlogtoWatch (Tiago), títulos de anúncios Amazon/eBay. Amazon, eBay itm, picclick, uhrens24 bloqueados; Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-06",
+   "versao": 475,
+   "marca": "Abingdon",
+   "linha_marcas": 14,
+   "linhas_relogios": "81815-81870",
+   "relogios": 56,
+   "vermelho": false,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 75,
+   "passadas": {
+    "1": "75 fontes, 57 novos"
+   },
+   "fora_da_sequencia": true,
+   "obs": "Marca americana de relógios femininos de aviação/mergulho (2007). Site abingdonco.com bloqueado à leitura automática e Firecrawl sem créditos; base em lojas de aviação (PilotsHQ, Aircraft Spruce, MyPilotStore) e comunicados de imprensa. Usa nomes de cor; códigos de loja (JA-DW, AM-RB...) quando vistos. About Vintage (av86, muitas variações) e Accutron (grande) ficam para as próximas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8192,11 +8209,6 @@
   }
  ],
  "marcas_novas_sem_relogios": [
-  {
-   "marca": "Abingdon",
-   "linha_marcas": 14,
-   "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
-  },
   {
    "marca": "About Vintage",
    "linha_marcas": 16,
