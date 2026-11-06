@@ -8183,18 +8183,23 @@
   }
  ],
  "em_execucao": "2026-11-06T06:43:27Z",
- "ultimo_sinal": "2026-11-06T06:43:27Z",
+ "ultimo_sinal": "2026-11-06T06:50:31Z",
  "em_andamento_novas": {
   "marcas": [
    "A. Manzoni & Fils",
-   "AATOS",
-   "Abingdon"
+   "AATOS"
   ],
   "inicio": "2026-11-06T06:43:27Z",
   "notas": "historico/notas_<marca>.md",
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "passada": 1,
-  "secoes_feitas": []
+  "secoes_feitas": {
+   "A. Manzoni & Fils": "todas (pronta para gravar: historico/dados_Manzoni.txt, marca_Manzoni.json)",
+   "AATOS": [
+    "1"
+   ]
+  },
+  "obs": "Abingdon é grande (muitas variações Shopify): fica para a próxima execução."
  }
 }
