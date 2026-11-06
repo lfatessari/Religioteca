@@ -8183,7 +8183,7 @@
   }
  ],
  "em_execucao": "2026-11-06T06:43:27Z",
- "ultimo_sinal": "2026-11-06T06:55:27Z",
+ "ultimo_sinal": "2026-11-06T06:57:23Z",
  "em_andamento_novas": {
   "marcas": [
    "A. Manzoni & Fils",
@@ -8193,7 +8193,9 @@
   "notas": "historico/notas_<marca>.md",
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
-  "passada": 1,
+  "passada": {
+   "AATOS": 2
+  },
   "secoes_feitas": {
    "A. Manzoni & Fils": "todas (pronta para gravar: historico/dados_Manzoni.txt, marca_Manzoni.json)",
    "AATOS": [

@@ -7,3 +7,5 @@ Origem: fabricada na China, vendida da Alemanha (Amazon.de/.co.uk), ~2010-2015; 
 Códigos de cor: B=black, Br=brown, G=gold, Rg=rose gold, S=steel, L=leather, W=white, R=red, BL=blue, D=diamonds. Prefixo "G-" = vendedor.
 Modelos vistos (relógios no parcial_AATOS_relogios.txt).
 Pendentes: allwatches page 2 (buscar), thewatches4u page 2+ (37 posts), Jakobas, Simeri, Lucius, Hamish, Hakob, Wedus, Giacomo, Diego, Jzakko, Cecilia, Adela.
+1ª passada encerrada com 25 fontes (últimas 8 sem novidade). Marca VERMELHA: Amazon bloqueada (robots), thewatches4u tem 37 posts (vi 10), allwatches página 2 não alcançada, eBay itm não abrem.
+2ª passada em andamento: kleinanzeigen trouxe Nopeus. "Nautec No Limit Deep Sea" é outra marca (Nautec), ignorar.
