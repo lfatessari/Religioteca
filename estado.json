@@ -8209,21 +8209,23 @@
   }
  ],
  "em_execucao": "2026-11-06T07:42:56Z",
- "ultimo_sinal": "2026-11-06T07:42:56Z",
+ "ultimo_sinal": "2026-11-06T07:58:30Z",
  "em_andamento_novas": {
   "marcas": [
-   "Abingdon",
-   "About Vintage"
+   "Abingdon"
   ],
-  "linha_marcas": [
-   14,
-   16
+  "linha_marcas": 14,
+  "grande": true,
+  "relogios": "historico/parcial_Abingdon_relogios.txt",
+  "fontes": "historico/parcial_Abingdon_fontes.txt",
+  "notas": "historico/notas_Abingdon.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "9"
   ],
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "passada": 1,
+  "obs": "campo separado de em_andamento (Dürmeister pausada)"
  }
 }
