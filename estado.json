@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 551,
- "ultima_versao": 486,
+ "proxima_linha_marcas": 552,
+ "ultima_versao": 487,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8346,6 +8346,33 @@
    "versao": 486,
    "marca": "Addiesdive",
    "obs": "A pedido do usuário (post da Addiesdive): acrescentados 3 modelos novos do site oficial addiesdivewatches.com (AD2565 Scuba Diver, AD2563 Vintage 8215 39 mm, K013 AddiesKIN 38 mm Engine-Turned) ao fim do bloco; trocados os links da coluna C de 18 linhas que não abriam (páginas de produto descontinuadas) por fotos diretas (AD2059, AD2504, AD2036, AD2023-1, AD2531, AD2523, AD2514, AD2114, AD2049, AD2033, AD2527, AD2105, AD2061, AD2505, AD2542, AD2538, AD2522, MY-050), tirando de E a nota \"visto só no título\"; H3D-AC segue sem foto. M: cidade confirmada Shenzhen (Longgang) e G a confirmar (addiesdivewatches.com). Gravado com gravar_marca.py (complemento) + fixc.py, ambos RESULTADO: OK."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 487,
+   "marca": "Fortis",
+   "linha_marcas": 551,
+   "linhas_relogios": "82669-83040",
+   "relogios": 372,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 109,
+   "passadas": {
+    "1": [
+     65,
+     320
+    ],
+    "2": [
+     28,
+     39
+    ],
+    "3": [
+     16,
+     9
+    ]
+   },
+   "obs": "Site oficial é fortis-swiss.com (G errado, registrado em M). Livro oficial 'Fortis 100 anos' (PDF) lido inteiro: 111 linhas com o PDF na coluna C (sem foto). Vermelha: linhas 1990–2019 com centenas de referências e vintage sem códigos. Firecrawl sem créditos até 08/11; The Watch Pages, EveryWatch e Chrono24 não abriram. 15 linhas vieram só de títulos de busca. Próxima: Fossil (552)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8376,32 +8403,5 @@
   "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T16:42:42Z",
- "ultimo_sinal": "2026-11-07T17:18:08Z",
- "em_andamento": {
-  "marcas": [
-   "Fortis"
-  ],
-  "linha_marcas": 551,
-  "grande": true,
-  "relogios": "historico/parcial_Fortis_relogios.txt",
-  "fontes": "historico/parcial_Fortis_fontes.txt",
-  "notas": "historico/notas_Fortis.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }
