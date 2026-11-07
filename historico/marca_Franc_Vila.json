@@ -1,0 +1,817 @@
+{
+ "marca": "Franc Vila",
+ "usa_codigos": true,
+ "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5qy9dULMI4OHz-xshUYDvOounHDN6DRoV1h7vDgwNXgcgu5L5_PiyWo-g1RcxtTbRNwPR_weQLKnld0adNYyRgSoOG5ZQnpz5sC_WbL5s8oz-cNu5pqGQ6cfXwwczY6sjPzo7vzx_0A/s1600/FRANC+VILA+Logo.jpg",
+ "site_bloqueado": "Site bloqueado – francvila.com não aparece em nenhuma busca e nenhuma página dele pôde ser aberta (nov/2026); a marca atual usa o nome FVF Genève; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "D": "Alta relojoaria esportiva com caixa \"Esprit Unique\" e complicações",
+  "I": "A Franc Vila foi fundada em 2006 pelo empresário e colecionador de origem espanhola Franc Vila, em Genebra, com a ambição de criar alta relojoaria contemporânea de forte personalidade. A marca estreou de forma marcante, apostando em complicações e num design de case distintivo.\n\nA assinatura da marca é a caixa \"Esprit Unique\" — uma forma elíptica e circular, como um 8 invertido, de forte presença — combinada com complicações de peso: tourbillons, cronógrafos, calendários e reservas de marcha, muitas vezes desenvolvidos com construtores de elite. O lema \"Excellence is an Attitude\" reflete o posicionamento de luxo exclusivo e esportivo, com produção em pequenas séries e forte apelo entre colecionadores que buscam alternativas às grandes marcas.\n\nHoje a Franc Vila ocupa o nicho da alta relojoaria independente esportivo-luxo, dirigindo-se a quem valoriza complicação, exclusividade e um design ousado e reconhecível. Em 2021 Franc Vila voltou com a marca FVF Genève (FVF1 Tourbillon Superligero, 2021; FVF2 Time & Day da coleção Intrepido, 2025). [⚠️ verificar ano de fundação: as fontes falam em estreia na Baselworld de 2004 ou 2005]",
+  "J": "FV Evos 8 Cobra, Cobra Suspended Skeleton, Intrepido, Neo Alta, SuperSonico, Selenity, Tribute, FVF1 Tourbillon Superligero, FVF2"
+ },
+ "observacoes": "Corrigido em 07/11/2026: D tinha case \"Esfera\" → caixa \"Esprit Unique\" (nome usado no GPHG e na Europa Star); I tinha case \"FVa Cobra\"/\"Esfera\" tonneau → caixa \"Esprit Unique\" (8 invertido) e ganhou a volta da marca como FVF Genève em 2021; J era \"FVa Cobra, Universo Quadrus, Master Quadrus, Cobra Tourbillon\" (Universo/Master Quadrus não apareceram em nenhuma das ~150 fontes) → coleções confirmadas. Ainda a verificar: ano de fundação (I diz 2006; fontes dizem estreia na Baselworld 2004 ou 2005, 10 anos em 2015); lema \"Excellence is an Attitude\"; G francvila.com não aparece em buscas (a FVF usa francvilafounder.com segundo Time and Watches); H @francvila não conferido. Endereço (Europa Star): Franc Vila SA, 6 Grand Rue, 1204 Genève.",
+ "fontes": [
+  {
+   "url": "https://delraywatch.com/franc-vila/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004083061-franc-vila.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/category/Franc+Vila",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gphg.org/en/watches/fva-9-chronographe-master-quantieme-automatique-diehard-extreme-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/franc-vila/4618-9634-franc-vila-evos.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/franc-vila/watch-12776674",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/franc-vila",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/franc-vila/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxuryconcepts.com.my/?page_id=324",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/fine-timepieces-online-ge1811/lot.192.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/fine-timepieces-online-ge1811/lot.193.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.clinks.com/pages/franc-vila-watch-winding-specifications-clinks",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://qlekta.brandbox.digital/en/blog/news/the-return-of-franc-vila",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/franc-vila",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://revolutionwatch.com/first-look-franc-vila-at-geneva-watch-days-2025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/fva-5-1-universal-timezone-gmt-quantieme-automatique",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/fvi-17-vintage-chrono-bicompax-intrepido",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/fvt-28-jumping-hours-automatique-white-ivy-edition-hjl-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/franc-vila-fva-15-column-regulator-automatique",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/chronographe-grand-dateur-automatique-red-gold-aerospace-titanium-diehard-extreme-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/tourbillon-planetaire-120-heures-de-reserve-de-marche",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095768-franc-vila-fv-evos-8ch-cobra-black-el-bandido.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096086-franc-vila-fv-evos-8ch-cobra-large-date-automatic.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095483-franc-vila-fva-no-cuatro-tourbillon-chronograph.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004097205-franc-vila-tribute.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096304-franc-vila-fvi-no8-tourbillon-intrepido.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095404-franc-vila-fv-no-6-tourbillon-planetaire-skeleton.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095911-franc-vila-fvt71-selenity-master-quantieme.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095912-franc-vila-fva35-supersonico-5-minute-repeater.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096731-franc-vila-inaccessible-tourbillon-repetition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/fv-evos-18-cobra-suspended-skeleton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://grayandsons.com/w516101-unused-franc-vila-grand-sport-drh-49m",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://spicergreene.com/products/franc-vila-evos-8-cobra-chronograph-58x45mm-ref-8e-dlc-204",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/franc-vila-fva8ch-chrono-big-date-pearl-210000071314",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kingjewelers.com/?p=13918",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kingjewelers.com/?p=16714",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/franc-vila-fv-evos-8-cobra-blue-bandido-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://quillandpad.com/2018/01/11/franc-vila-goes-beyond-usual-craziness-create-fvf-emotional-horology-no-1-superligero-rexhep-rexhepi/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hautetime.com/brands/franc-vila",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://300magazine.com/?p=5815",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://300magazine.com/?p=8980",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/franc-vila-ref-fva-11-intrepido-lot-372-448",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/franc-vila-ref-fv1-17-intrepido-lot-377-584",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/franc-vila-ref-fva-8ch-chronograph-lot-311-61",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-261-80",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://grailzee.com/products/franc-vila-chronograph-master-quantieme-fva9",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/franc-vila/watch-39526",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.barnebys.com/auctions/lot/franc-vila-neo-alta-temper-mens-watch-Ez78QiX-631799747",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/franc-vila/6509-franc-vila-chrono-flyback-perpetual-calendar.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/franc-vila/7635-franc-vila-evos-skeleton.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/franc-vila/4619-9635-franck-vila-evo-blue.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/franc-vila/4620-franck-vila-evo-silver.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/watches-online-stories-time-collection-exceptional-watches/franc-vila-limited-edition-88-pieces-fv-evos-18-cobra-suspended-11/255629",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/207166",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/207158",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono1010.watch/products/franc-vila/c05-2022-3910-3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristler.eu/watches/36972-franc-vila-intrepido",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://zaeger.com.au/?p=358",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://konesseur.com/products/franc-vila-fv-evos-8-cobra-chronograph-ref-8e-dlc-204-carbon-fiber-dlc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/fva-8-ch-chronographe-grand-dateur-automatique-dark-side-black-diehard-extreme-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www2.gphg.org/en/watches/chronographe-grand-dateur-automatique",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/fvt-28-jumping-hours-automatique-white-ivy-edition-hjl-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/franc-vila-fv-evos-8-cobra-chronographe-grand-dateur-automatique",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/inaccessible-tourbillon-minute-repeater",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/fva-35-supersonico-5-minute-repeater-superligero-concept",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004114945.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thehourglass.com/story/franc-vila-poetic-universe",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://cronotempvscollectors.com/en/fvf-emotional-horology-no-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2021/02/fvf-tourbillon-superligero-skeleton.html?m=0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096429-franc-vila-neo-alta.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1756403",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ecjluxe.com/product/franc-vila-cobra-suspended-skeleton-18e-dld-001-carbon-fiber-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ecjluxe.com/product/franc-vila-cobra-suspended-18e-bti-ss-004-blue-carbon-fiber-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ecjluxe.com/product/franc-vila-cobra-chrono-8e-dlc-203-carbon-fiber-red-accents-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/_limited-edition-franc-vila-evos-8-cobra-stealth-esprit-unique-reference-black-titanium-and-blackened-diehard-extreme-steel-with-carbon-fiber-3cca",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2017/watches-sale-l17054/lot.10.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/watches-sale-l17054/lot.11.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2016/important-watches-ge1601/lot.40.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1701/lot.32.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1701/lot.33.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/fine-timepieces-online-ge1811/lot.194.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/franc-vila-ref-fvn-19-neo-alta-lot-357-98",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/26028759",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/watches-online-ge1814/lot.97.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/watches-online-ge1814/lot.99.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/intrepido-diver-superligero",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-intrepido-collection-10130.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-muscular-yet-light-10943.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-the-fv-evos-n-1-cobra-tourbillon-planetaire-7837.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-fvt71--selenity--10129.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-fv-evos-8ch-cobra-chronographe-grand-dateur-automatique-7836.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-fvt28-jumping-hours-automatique-ivy-edition-7809.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/franc-vila-fvi17-chrono-bicompax-intrepido-13177.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fr.worldtempus.com/article/franc-vila-kkeleton-tourbillon-movement-fv-n-6-en-version-bleue-4407.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/worldofluxuryus/products/12-9a-tidhes-cf-whg-5n-5nh-franc-vila",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/francvila-limitededition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.ma/products/17867342",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.ma/products/17867343",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/175431233640",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/collectors-market/fs-franc-vila-perpetual-calendar/712.761033.5044143/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/collectors-market/-span-style-color-gray--collectors-market--span-fs-franc-vila-fva15-column-regulator-carbon-dial/712.743068.4903388/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://baerandbosch.com/?p=93676",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.interencheres.com/en-US/art-decoration/online-2675-a-3788-maroquinerie-de-luxe-montres-et-accessoires-un-siecle-de-joaillerie-objets-precieux-montres-de-poche-bijoux-under-chf-1000-bijoux-haute-joaillerie-681311/lot-87330817.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/franc-vila-fv-evos-8ch-cobra-chronographe-grand-dateur-automatique-4898.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/franc-vila-fva15-column-regulator-automatique-4112.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-fvt28-jumping-hours-automatique-ivy-edition-pour-ladies-6937.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2015/06/franc-vila-fvi-n-62-intrepido.html?m=1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/franc-vila-fvi17-chrono-bicompax-intrepido/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://luxatic.com/the-franc-vila-fvi17-chrono-bicompax-intrepido-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1003577093-franc-vila-44-dynamic-innovator.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchmobile7.com/articles/franc-vila-cobra-18e-manual-suspended-skeleton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1004084983-monsters-machines-mechanical-marvels-and.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/1004086508.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/page-wf.forumpost/fi-17/ti-700598/dv-true/wf.responses.open_bLoB_s-0/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1003798428-fva-n-x00ba-6-by-franc-vila-44-contemporary-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.revolution.watch/interview-with-franc-vila-of-franc-vila-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchzone.blogspot.com/2013/02/franc-vila-fvi17-chrono-bicompax.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/franc-vila-fva35-supersonico-10113.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jckonline.com/editorial-article/wlg-to-distribute-franc-vila-luxury-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hautetime.com/haute-time-watch-of-the-day-franc-vila-concept-tourbillon-planetaire-skeleton-superligero/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/magazine/highlights/1002383388-the-unique-spirit-of-franc-vila.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/1001996409-tourbillon-repetition-minutes-with-cathedral-gong.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/fva-7-master-quantieme-automatique-extreme-sport-titanium-red-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004083685.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/fva-15-column-regulator-automatique",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hautetime.com/?p=5588",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/?p=17923",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004087852.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hautetime.com/?p=4976",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ecjluxe.com/product/franc-vila-ladies-parenthesis-80q-ss-sp-ros-pink-diamond-dial-watch/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/no-lot/CH080323/2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/no-lot/CH080218/63",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/25761659",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/watches-sale-l17054/lot.12.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.barnebys.com/auctions/lot/franc-vila-neo-alta-temper-mens-watch-Nuocov2-631799749",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.barnebys.com/auctions/lot/franc-vila-neo-alta-temper-mens-watch-rUtTNnA-631799750",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.barnebys.com/auctions/lot/franc-vila-neo-alta-temper-mens-watch-YwjpGYb-631799749",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcollectinglifestyle.com/home/tag/Franc+Vila",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/fvf",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/franc-villa/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.co.th/products/30726844",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/franc-vila-fv-evos-8ch-cobra-chronographe-grand-dateur-automatique-12265.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004082633.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/Franc-Vila-Wristwatches/31387/bn_105870364",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://everywatch.com/franc-vila/fv-evos-8/watch-39535",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/franc-vila-ref-fv1-17-intrepido-lot-372-449",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://setdart.com/subasta/displayimage/cat=26/relojes/pid=351355205/newlang=english.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/en/franc-vila/4642-9661-Franc-Vila-Intrepido-Diver-FVI-62.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ecjluxe.com/product/tribute-ladies-paranthese-80q-ss-sp-ora/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ecjluxe.com/product/tribute-ladies-light-80q-ss-sl-ora/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/new-arrivals/_limited-edition-evos-8-yellow-cobra-esprit-unique-a-ceramic-automatic-wristwatch-with-date-and-chronograph-6c74",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.setdart.com/subasta/displayimage/relojes/pid=351490412/newlang=english.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096641-franc-vila-ladies-tribute-ii-blue-denim.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ecjluxe.com/product/tribute-ladies-paranthese-80q-ss-sp-vio/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ecjluxe.com/product/tribute-ladies-paranthese-80q-ss-sp-bla/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots-source-click/53143430",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2026/05/fvf-geneve-fvf1-seven-poets-review.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2026/07/fvf-geneve-fvf2-openwork.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/fvf1-superligero-tourbillon-bespoke-overview/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/franc-vila-fvf-emotional-horology-no-1-superligero/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

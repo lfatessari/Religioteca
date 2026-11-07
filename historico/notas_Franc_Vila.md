@@ -18,3 +18,4 @@ Decisão: tratada como GRANDE (maison de alta relojoaria, ~20 anos de referênci
 ## Decisão: VERMELHA. Motivo: cada modelo sai em várias combinações de material/mostrador (88 peças cada, 8 nas complicações), muitas sem nome nem referência publicados; site oficial fora do ar/fora das buscas; EveryWatch e Masterhorologer (dezenas de matérias) inacessíveis.
 ## 2ª passada: alvo = variações sem nome (Cobra, Neo Alta, Tribute, Intrepido), FVF recentes, lojas/leilões ainda não abertos.
 - Chrono24 (index e carbon) client_error: não contam. eBay browse abriu: 47 anúncios, 12 relógios novos.
+## 3ª passada encerrada: 12 fontes; últimas 3 sem relógio novo. Parada.

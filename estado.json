@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 556,
- "ultima_versao": 493,
+ "proxima_linha_marcas": 557,
+ "ultima_versao": 494,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8448,6 +8448,35 @@
    ],
    "obs": "A pedido do usuário (marcas novas seguidas no Instagram): Alkin (Reino Unido, Bristol, @alkinwatches) incluída na aba Marcas na linha 57 e Belchengruppe (Suíça, Basileia, @belchengruppe) na linha 193, em ordem alfabética, com B–M preenchidos. As linhas da aba Marcas a partir da antiga 57 desceram 1 e a partir da antiga 192 desceram 2; proxima_linha_marcas, marcas_ja_feitas_fora_da_ordem e avisos atualizados. Relógios: Alkin 17 (71 fontes) e Belchengruppe 8 (44 fontes), gravados com gravar_marca.py (RESULTADO OK); verificação completa (verifica_final.py) OK.",
    "fora_da_sequencia": true
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 494,
+   "marcas": [
+    "Franc Vila"
+   ],
+   "linha_marcas": 556,
+   "linhas_relogios": "84553-84706",
+   "relogios": 154,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 160,
+   "passadas": {
+    "1": [
+     129,
+     121
+    ],
+    "2": [
+     19,
+     19
+    ],
+    "3": [
+     12,
+     5
+    ]
+   },
+   "obs": "Feita sozinha (tratada como grande). Firecrawl sem créditos nesta execução; site oficial fora das buscas; EveryWatch exige login; Masterhorologer e Chrono24 deram client_error. Corrigidos D, I, J da aba Marcas; M com observações."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8475,36 +8504,9 @@
   "Fiona Krüger (linha 537)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
   "Fiyta (linha 541)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
   "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo.",
-  "Formex (linha 551)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
+  "Formex (linha 551)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência.",
+  "Franc Vila (linha 556)": "Gravada em 07/11/2026 (v494), 154 relógios (84553-84706), vermelha. Complemento futuro com Firecrawl: francvila.com e francvilafounder.com, Chrono24 (francvila/index.htm), Masterhorologer (dezenas de matérias 2008-2015), EveryWatch; fotos das ~50 linhas só com link de página; variações de material de cada FVa/FV Evos/Intrepido/Neo Alta sem nome publicado."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T22:51:19Z",
- "ultimo_sinal": "2026-11-07T23:22:50Z",
- "em_andamento": {
-  "marcas": [
-   "Franc Vila"
-  ],
-  "linha_marcas": 556,
-  "grande": true,
-  "relogios": "historico/parcial_Franc_Vila_relogios.txt",
-  "fontes": "historico/parcial_Franc_Vila_fontes.txt",
-  "notas": "historico/notas_Franc_Vila.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "passada1"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }
