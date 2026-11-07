@@ -8508,5 +8508,19 @@
   "Franc Vila (linha 556)": "Gravada em 07/11/2026 (v494), 154 relógios (84553-84706), vermelha. Complemento futuro com Firecrawl: francvila.com e francvilafounder.com, Chrono24 (francvila/index.htm), Masterhorologer (dezenas de matérias 2008-2015), EveryWatch; fotos das ~50 linhas só com link de página; variações de material de cada FVa/FV Evos/Intrepido/Neo Alta sem nome publicado."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-07T23:42:17Z",
+ "ultimo_sinal": "2026-11-07T23:42:17Z",
+ "em_andamento": {
+  "marcas": [
+   "Franck Dubarry"
+  ],
+  "linha_marcas": 557,
+  "grande": false,
+  "relogios": "historico/parcial_Franck_Dubarry_relogios.txt",
+  "fontes": "historico/parcial_Franck_Dubarry_fontes.txt",
+  "notas": "historico/notas_Franck_Dubarry.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
