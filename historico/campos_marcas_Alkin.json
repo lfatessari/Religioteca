@@ -1,0 +1,33 @@
+{
+ "pais": "Reino Unido",
+ "cidade": "Bristol",
+ "caracteristica": "Microbrand britânica de Bristol criada pelo designer de móveis Charlie Fowler, que faz relógios automáticos de design limpo e numerais próprios, como o field watch Model One, o super compressor Model Two e o mergulhador Model Three.",
+ "preco_medio_brl": 3124,
+ "faixa": 2,
+ "site": "alkinwatches.com",
+ "instagram": "@alkinwatches",
+ "historia": "A Alkin nasceu da vontade do britânico Charlie Fowler, designer de móveis premiado e colecionador de relógios, de criar uma marca de relógios mecânicos simples, funcionais e duráveis, a preços acessíveis. Depois de visitar a Baselworld, ele começou a desenhar relógios nas horas vagas, construindo protótipos com mostradores de papel e caixas impressas em prototipagem rápida. O projeto surgiu no leste de Londres (London Fields), primeiro com o nome Albion; logo foi rebatizado como Alkin, palavra do inglês antigo que significa \"de todo tipo\". Os numerais arábicos dos mostradores foram desenhados pelo tipógrafo britânico Gareth Hague, e as pulseiras de couro de curtimento vegetal vêm de um fabricante familiar alemão.\n\nJá instalada em Bristol, a marca lançou em março de 2018 o Model One no Kickstarter: um relógio de campo de 42 mm com movimento Seiko NH35A, safira e 100 m, em aço escovado ou PVD preto, com mostrador preto ou branco totalmente luminoso, além de um mostrador azul limitado a 55 peças. A campanha bateu a meta em menos de uma semana e o modelo seguiu à venda no Indiegogo e na loja própria; em 2020 ganhou uma edição limitada de mostrador verde.\n\nEm 30 de junho de 2020 chegou o Model Two, um mergulhador inspirado nos \"super compressor\" dos anos 1960, com duas coroas, bezel interno, Miyota 9039 e 300 m, em branco totalmente luminoso, preto e azul. Em outubro de 2023 veio o Model Three, de 40,5 mm e 200 m, em duas versões sobre a mesma caixa: Diver (preto, azul e verde) e Dual Time (azul-claro, cobre escovado e amarelo). Para o British Watchmakers' Day de 2025, a Alkin lançou o Model Three Special Edition, em azul, branco e vermelho, limitado a 40 peças e esgotado.",
+ "principais_relogios": "Model One (2018) — field watch de 42 mm, Seiko NH35A, aço ou PVD preto, mostradores preto e branco luminoso; edições limitadas azul (55 peças) e verde\n\nModel Two (2020) — mergulhador super compressor de 41 mm, duas coroas, bezel interno, Miyota 9039, 300 m\n\nModel Three Diver (2023) — mergulhador de 40,5 mm com bezel cerâmico, 200 m\n\nModel Three Dual Time (2023) — bezel de 12 horas para segundo fuso, mostradores azul-claro, cobre e amarelo\n\nModel Three Special Edition (2025) — British Watchmakers' Day, 40 peças",
+ "logo": "https://cdn.shopify.com/s/files/1/2153/4121/files/Alkin_Logo_Header_WHite_WEB.jpg?v=1613778066",
+ "fundacao": 2018,
+ "fundadores": [
+  "Charlie Fowler"
+ ],
+ "grande": false,
+ "vermelho": false,
+ "observacoes": "Marca pequena e de catálogo fechado: 17 relógios. Loja oficial (products.json e sitemap: 16 relógios + 1 pouch) bate com a imprensa; a única peça fora da loja é o Model One azul limitado (55 peças, Kickstarter 2018). A marca não usa códigos de referência: os SKUs AM1-B-1/2/3 e AM1-W-1/2/3 da loja se referem à cor da pulseira e se repetem entre versões, por isso ficaram fora da coluna de código. Fundação: Gear Patrol, Microbrand Atlas e lug2lug dizem 2018 (ano do Kickstarter); o projeto já existia em 2017 em Londres (Tumblr e Fonts In Use). A página do Model Three Special Edition diz que 'red and purple dial options will be available soon', mas nenhuma versão vermelha ou roxa foi encontrada publicada (nov/2026). Distribuição quase só direta: o único revendedor achado foi a WatchGecko (Reino Unido); não há anúncios na Chrono24/EveryWatch. Logo alternativo (PNG): https://iqqobdhdaiavmynhkwop.supabase.co/storage/v1/object/public/brand-logos/03b75ddd-57a1-4c06-ad0e-d51f583bfff5.png?t=1788152014888 (Microbrand Atlas). O logo oficial do cabeçalho é a versão branca (WHite) do site. Firecrawl ficou sem créditos e não foi usado.",
+ "evidencias": {
+  "cidade": "https://alkinwatches.com/pages/about — 'independent watch company founded in Bristol, UK by furniture designer and watch collector Charlie Fowler'; tumblr page/4: projeto iniciado em London Fields (East London)",
+  "instagram": "https://alkinwatches.com/ — link https://www.instagram.com/alkinwatches/ no rodapé; também na página About e no Microbrand Atlas",
+  "fundacao": "https://www.gearpatrol.com/?p=168823 — 'founded in 2018 in Bristol, UK, by furniture designer and watch collector Charlie Fowler'; Microbrand Atlas e lug2lug: founded 2018",
+  "fundadores": "https://alkinwatches.com/pages/about — Charlie Fowler",
+  "nome": "https://alkinwatches.tumblr.com/page/4 — mudança de nome de Albion para Alkin, 'of every kind' em inglês antigo",
+  "kickstarter": "https://wornandwound.com/review/hands-on-with-the-alkin-model-one/ — meta batida em menos de uma semana (05/04/2018); https://alkinwatches.tumblr.com/page/2 — Blue Dial limitado a 55 peças, £185, pré-venda 28/03/2018",
+  "model_two": "https://www.gearpatrol.com/?p=168823 e https://wristwatchreview.co.uk/introducing-the-alkin-model-two — lançamento 30 de junho (2020)",
+  "model_three": "https://thecoolector.com/?p=138671 (09/10/2023) e https://12and60.com/review-alkin-model-three-great-british-design-bargain-price/ — 6 versões, pré-venda £375",
+  "special_edition": "https://alkinwatches.com/products/model-three-diver-blue-dial-ss-case-copy — limitado a 40 peças, British Watchmakers' Day 2025; https://chronogaze.com/alkin-model-three-special-edition/ — lançamento 14/03/2025",
+  "preco": "Preços atuais na loja oficial: Model Two e Model Three £425 → 425 × 7,35 = R$ 3.124 (faixa 2)",
+  "logo": "https://alkinwatches.com/pages/about — Alkin_Logo_Header_WHite_WEB.jpg no cabeçalho",
+  "site": "https://alkinwatches.com/ — loja Shopify oficial"
+ }
+}

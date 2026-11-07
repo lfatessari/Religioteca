@@ -1,0 +1,367 @@
+{
+ "marca": "Alkin",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "observacoes": "",
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://alkinwatches.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://alkinwatches.com/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/sitemap_products_1.xml?from=1326729134153&to=14966434234741",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/sitemap_collections_1.xml?from=433530250&to=274140266569",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/sitemap_pages_1.xml?from=18852839497&to=50084216905",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/sitemap_articles_1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/products/model-three-diver-blue-dial-ss-case-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/pages/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/blogs/news/interview-with-dave-sergeant-from-scottish-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/blogs/news/the-fascinating-evolution-of-automatic-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/collections/all?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/collections/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/collections/model-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/products/model-one-green-dial-ss-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/collections/frontpage/products/copy-of-model-one-green-dial-pvd-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/products/model-three-diver-green-dial-ss-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/products/model-three-dual-time-brushed-copper-dial-ss-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.com/products/copy-of-model-two-blue-dial-stainless-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.tz-uk.com/showthread.php?p=4994076",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tumblr.com/alkinwatches/169553413984/the-alkin-model-one-with-the-limited-edition-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.tumblr.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.tumblr.com/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.tumblr.com/page/3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alkinwatches.tumblr.com/page/4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tumblr.com/alkinwatches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://indiegogo.com/projects/the-alkin-model-one-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/alkin/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-with-the-alkin-model-one/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/first-look-alkin-model-two/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/kickstarter-alkin-model-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/introducing-the-alkin-model-two",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/the-alkin-model-one-an-automatic-for-the-people",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/alkin-model-three-diver-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/hands-on-with-the-alkin-model-three-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/alkin-model-two-watch-reveiw/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchgecko.com/alkin-model-two-watch-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/first-look-at-the-alkin-model-two",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/collections/alkin/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/collections/alkin-watches/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/en-au/blogs/magazine/pre-owned-watches-from-watchgecko-march-selection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/every-british-watchmakers-day-limited-edition-for-2025/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/every-british-watchmakers-day-special-edition-2026/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/up-and-coming-british-watch-brands-to-look-out-for/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronogaze.com/alkin-model-three-special-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/alkin-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lug2lug.org/brands/alkin-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lug2lug.org/watches/alkin-watches--model-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lug2lug.org/watches/alkin-watches--model-two",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtraderhub.com/brands/alkin-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/alkin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/de/eintrag/1652032",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1614126/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1680899",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/p/901255030",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/shop/alkin-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandwatchworld.com/reviews/review-alkin-model-one/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecoolector.com/?p=138671",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thecoolector.com/?p=42526",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=168823",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=94",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchdavid.com/watches/alkin-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://just2ticks.com/2020/06/30/the-alkin-model-two/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12and60.com/review-alkin-model-three-great-british-design-bargain-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12and60.com/hands-on-review-alkin-model-two/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12and60.com/watch-reviews/brands/alkin/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.beansandbezels.com/reviews/alkin-model-two-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fontsinuse.com/uses/16797/alkin-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://red.ks32.dev/r/MicrobrandWatches/comments/1k1797r/alkin_model_2_on_small_wrists",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

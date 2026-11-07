@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 554,
- "ultima_versao": 492,
+ "proxima_linha_marcas": 556,
+ "ultima_versao": 493,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8438,15 +8438,25 @@
    "versao": 492,
    "marca": "ADPT",
    "obs": "A pedido do usuário (\"passe a limpo as informações da marca\"): Marcas linha 21 — C \"-\" -> Nova York (Brooklyn); G ADPTGoods.com -> adptgoods.com (redireciona para a Windup); D, I e J reescritos; F = 2600; M com o resumo. Relógios (linhas 1202–1208): fotos oficiais da Windup, código ADPT-D no Terra, ADPT-MS-DT no Mossy Shale, \"(100 peças)\" no VERO x ADPT, E preenchido nas 7. Sem modelos novos (esgotados; último post do Instagram em jun/2024). limpa_adpt.py: RESULTADO OK."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 493,
+   "marcas": [
+    "Alkin",
+    "Belchengruppe"
+   ],
+   "obs": "A pedido do usuário (marcas novas seguidas no Instagram): Alkin (Reino Unido, Bristol, @alkinwatches) incluída na aba Marcas na linha 57 e Belchengruppe (Suíça, Basileia, @belchengruppe) na linha 193, em ordem alfabética, com B–M preenchidos. As linhas da aba Marcas a partir da antiga 57 desceram 1 e a partir da antiga 192 desceram 2; proxima_linha_marcas, marcas_ja_feitas_fora_da_ordem e avisos atualizados. Relógios: Alkin 17 (71 fontes) e Belchengruppe 8 (44 fontes), gravados com gravar_marca.py (RESULTADO OK); verificação completa (verifica_final.py) OK.",
+   "fora_da_sequencia": true
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
   "Erbprinz": {
-   "linha_marcas": 495,
+   "linha_marcas": 497,
    "linhas_relogios": "6773-6828"
   },
   "Messerschmitt": {
-   "linha_marcas": 925,
+   "linha_marcas": 927,
    "linhas_relogios": "6829-7094"
   },
   "Acto": {
@@ -8455,20 +8465,18 @@
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 799)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 799, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
-  "ETA (linha 505)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
-  "Eterna (linha 506)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
-  "Hemel (linha 669)": "Eylandt (linha 515) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
-  "Favre Leuba (linha 524)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
-  "Ferdinand Berthoud (linha 529)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
-  "Filippo Loreti (linha 533)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
-  "Fiona Krüger (linha 535)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
-  "Fiyta (linha 539)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
+  "Kurono Tokyo (linha 801)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 799, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+  "ETA (linha 507)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
+  "Eterna (linha 508)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
+  "Hemel (linha 671)": "Eylandt (linha 517) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
+  "Favre Leuba (linha 526)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
+  "Ferdinand Berthoud (linha 531)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
+  "Filippo Loreti (linha 535)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
+  "Fiona Krüger (linha 537)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
+  "Fiyta (linha 541)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
   "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo.",
-  "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
+  "Formex (linha 551)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T20:05:15Z",
- "ultimo_sinal": "2026-11-07T20:22:02Z"
+ "marcas_novas_sem_relogios": []
 }
