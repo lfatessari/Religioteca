@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 553,
- "ultima_versao": 488,
+ "ultima_versao": 489,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8400,6 +8400,12 @@
     ]
    },
    "obs": "473 linhas com foto (lojas Shopify via oembed, Ormoda, blog do Fossil Collectors Club, imprensa) e 1008 sem foto: 874 da lista de modelos da loja NY Watch Store (código + descrição; C = link da lista), o resto de títulos de páginas do fossil.com/lojas/eBay. fossil.com não abre listas (JS). Firecrawl sem créditos até 08/11 13:43 UTC. Defender DE/DF/DEC/Solar completos pela galeria do fã-clube. Vermelha: milhares de referências em 40 anos; faltam fotos e muitas linhas antigas (Speedway ~110 modelos, Around the World, Big Tic temáticos, Relic). Próxima: Foster (553)."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 489,
+   "marca": "Addiesdive",
+   "obs": "A pedido do usuário (\"corrija\"): aba Marcas linha 20, C vazio -> Shenzhen; G addiesdive.com -> addiesdivewatches.com (site do Instagram @addiesdivewatches). M atualizado. Só C20, G20 e M20 mudaram (corrige_addies.py, RESULTADO: OK)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8430,7 +8436,5 @@
   "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T18:23:52Z",
- "ultimo_sinal": "2026-11-07T18:23:52Z"
+ "marcas_novas_sem_relogios": []
 }
