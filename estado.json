@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 554,
- "ultima_versao": 491,
+ "ultima_versao": 492,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8432,6 +8432,12 @@
    "marca": "Fossil",
    "fora_da_sequencia": true,
    "obs": "Correção com certeza (nova regra do usuário): I552 sem 'Diesel' repetido, com fim dos smartwatches (2024) e linha suíça Signature CS-1 (2026); J552 ampliado (Neutra, Everett, Jacqueline, Carlie, Big Tic, Fossil Blue). M552 registra o que mudou. Só I552, J552, M552 mudaram (corrigir_marca.py, RESULTADO: OK)."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 492,
+   "marca": "ADPT",
+   "obs": "A pedido do usuário (\"passe a limpo as informações da marca\"): Marcas linha 21 — C \"-\" -> Nova York (Brooklyn); G ADPTGoods.com -> adptgoods.com (redireciona para a Windup); D, I e J reescritos; F = 2600; M com o resumo. Relógios (linhas 1202–1208): fotos oficiais da Windup, código ADPT-D no Terra, ADPT-MS-DT no Mossy Shale, \"(100 peças)\" no VERO x ADPT, E preenchido nas 7. Sem modelos novos (esgotados; último post do Instagram em jun/2024). limpa_adpt.py: RESULTADO OK."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8462,7 +8468,5 @@
   "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T19:37:49Z",
- "ultimo_sinal": "2026-11-07T19:37:49Z"
+ "marcas_novas_sem_relogios": []
 }
