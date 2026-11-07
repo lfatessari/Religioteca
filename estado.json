@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 553,
-  "ultima_versao": 489,
+  "proxima_linha_marcas": 554,
+  "ultima_versao": 490,
   "historico": [
     {
       "data": "2026-10-16",
@@ -8406,6 +8406,25 @@
       "versao": 489,
       "marca": "Addiesdive",
       "obs": "A pedido do usuário (\"corrija\"): aba Marcas linha 20, C vazio -> Shenzhen; G addiesdive.com -> addiesdivewatches.com (site do Instagram @addiesdivewatches). M atualizado. Só C20, G20 e M20 mudaram (corrige_addies.py, RESULTADO: OK)."
+    },
+    {
+      "data": "2026-11-07",
+      "versao": 490,
+      "marca": "Foster",
+      "linha_marcas": 553,
+      "linhas_relogios": "84522-84527",
+      "relogios": 6,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": "não",
+      "fontes": 26,
+      "passadas": {
+        "1": [
+          26,
+          6
+        ]
+      },
+      "obs": "Identificada como Foster Watch Co. (Eugene, Oregon, EUA, 2022). Único modelo 11 Atmos Skin Diver em 6 mostradores; catálogo fechado conferido no site. Linha da aba Marcas quase vazia: registrado em M. Bateria só com a Foster porque a próxima (Franc Vila) foi considerada grande. Próxima: Franc Vila (554), sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -8436,24 +8455,5 @@
     "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-07T18:41:55Z",
-  "ultimo_sinal": "2026-11-07T18:45:58Z",
-  "em_andamento": {
-    "marcas": [
-      "Foster"
-    ],
-    "linha_marcas": 553,
-    "grande": false,
-    "relogios": "historico/parcial_Foster_relogios.txt",
-    "fontes": "historico/parcial_Foster_fontes.txt",
-    "notas": "historico/notas_Foster.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3"
-    ],
-    "passada": 1
-  }
+  "marcas_novas_sem_relogios": []
 }
