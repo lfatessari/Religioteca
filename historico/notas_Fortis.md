@@ -8,3 +8,4 @@
 - Decisão: VERMELHA. Motivo: linhas 1990–2019 (B-42, Flieger, Cosmonauts, Marinemaster, Aeromaster, Terrestis, Spacematic, edições de esquadrilhas) têm centenas de referências; vintage 1912–1980 sem referências conhecidas. 2ª passada: alvo B-42/Aviatis/Cosmonautis/Terrestis e vintage.
 - Conflito F8120030/31 (DLC Gravity x Black Resin) anotado em E.
 - Frisson: livro diz 999 peças, TBWS diz 150; mantido o livro.
+- 2ª passada encerrada 17:16 (3 fontes seguidas sem novidade). Trouxe 5+ novos -> 3ª passada.
