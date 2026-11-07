@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 547,
- "ultima_versao": 482,
+ "proxima_linha_marcas": 549,
+ "ultima_versao": 483,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8256,6 +8256,44 @@
     ]
    },
    "obs": "Accutron independente (2020-) e linha Accutron by Bulova (2000-2014), Legacy, e vintage com apelido que ainda não estavam no bloco da Bulova. Site oficial lido com Firecrawl. Complemento futuro: vintage 1960-77 (centenas de caixas/mostradores), Accutron by Bulova 2000s além da Right Time, logo."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 483,
+   "marca": "Followay",
+   "linha_marcas": 547,
+   "linhas_relogios": "82373-82374",
+   "relogios": 2,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 16,
+   "passadas": {
+    "1": [
+     16,
+     2
+    ]
+   },
+   "obs": "Microbrand de Lisboa (João Pedro Dias). Único relógio produzido: F M1 Groundbreaking (200 peças); F M0 Stadium é conceito 3D. Site atual é estúdio de design/fabrico para terceiros."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 483,
+   "marca": "Fonderie 47",
+   "linha_marcas": 548,
+   "linhas_relogios": "82375-82377",
+   "relogios": 3,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "passadas": {
+    "1": [
+     17,
+     3
+    ]
+   },
+   "obs": "Só o Inversion Principle (ouro branco 2013, ouro vermelho 2014, 10+10) e o protótipo de 2013. Próxima: Formex (549), grande, sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8285,23 +8323,5 @@
   "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T13:42:35Z",
- "ultimo_sinal": "2026-11-07T13:48:56Z",
- "em_andamento": {
-  "marcas": [
-   "Followay",
-   "Fonderie 47"
-  ],
-  "linha_marcas": 547,
-  "grande": false,
-  "relogios": "historico/parcial_Followay_relogios.txt",
-  "fontes": "historico/parcial_Followay_fontes.txt",
-  "notas": "historico/notas_Followay.md",
-  "secoes_feitas": [
-   "Followay: todas",
-   "Fonderie 47: 2,9"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
