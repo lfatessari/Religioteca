@@ -10,3 +10,4 @@ Decisão: tratada como GRANDE (maison de alta relojoaria, ~20 anos de referênci
 - Retorno 2021 com marca FVF Genève (FVF1 C2 Tourbillon Superligero, FVF1 Today, Dolce Vita peça única, FVF2 Time & Day 2025/26, FVF2 Openwork 2026, Seven Poets 2026).
 - Masterhorologer (todas as páginas) responde client_error: modelos vistos só pelos títulos nos resultados de busca; não contam como fontes.
 - ablogtowatch.com/watch-brands/franc-vila/ (link de página aberta) pediu permissão e foi retirado: PROVENANCE_REQUIRED. watchcharts marketplace client_error. Site oficial antigo: francvila.com/en/cobra-squelette-collection.html e neo-alta-grande-date-collection.html (links da Quill&Pad, não aparecem em busca).
+- eBay 175431233640 é carteira Franc Vila (não relógio) — fora.
