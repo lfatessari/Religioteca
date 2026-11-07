@@ -1,0 +1,226 @@
+[
+ {
+  "marca": "Aittokoski Timecrafts Fractalis",
+  "linha": 35,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 5,
+  "preco": 36200
+ },
+ {
+  "marca": "Blancier",
+  "linha": 221,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 2,
+  "preco": 3900
+ },
+ {
+  "marca": "Buler",
+  "linha": 261,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 2,
+  "preco": 1400
+ },
+ {
+  "marca": "Bunz",
+  "linha": 264,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 4,
+  "preco": 16400
+ },
+ {
+  "marca": "C.H. Wolf",
+  "linha": 270,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 5,
+  "preco": 23800
+ },
+ {
+  "marca": "Cornehl",
+  "linha": 343,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 6,
+  "preco": 47300
+ },
+ {
+  "marca": "Delaloye Geneve",
+  "linha": 402,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 8,
+  "preco": 302000
+ },
+ {
+  "marca": "Dufeau",
+  "linha": 447,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 2,
+  "preco": 4500
+ },
+ {
+  "marca": "Fludo",
+  "linha": 544,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 3,
+  "preco": 7000
+ },
+ {
+  "marca": "Lucien Rochat",
+  "linha": 859,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 3,
+  "preco": 5700
+ },
+ {
+  "marca": "Ludovic Ballouard",
+  "linha": 861,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 10,
+  "preco": 605000
+ },
+ {
+  "marca": "Luminox",
+  "linha": 862,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 2,
+  "preco": 4600
+ },
+ {
+  "marca": "Lüm-Tec",
+  "linha": 863,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 2,
+  "preco": 3800
+ },
+ {
+  "marca": "Lundis Bleus",
+  "linha": 864,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 5,
+  "preco": 26600
+ },
+ {
+  "marca": "M.A.D. Editions",
+  "linha": 868,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 4,
+  "preco": 19500
+ },
+ {
+  "marca": "Maen",
+  "linha": 870,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 3,
+  "preco": 6100
+ },
+ {
+  "marca": "Manufacture Royale",
+  "linha": 881,
+  "antes_faixa": null,
+  "antes_preco": null,
+  "faixa": 9,
+  "preco": 377600
+ },
+ {
+  "marca": "Artur Akmaev",
+  "linha": 120,
+  "antes_faixa": 6,
+  "antes_preco": 60000,
+  "faixa": 6,
+  "preco": 66000
+ },
+ {
+  "marca": "Byrne",
+  "linha": 269,
+  "antes_faixa": 8,
+  "antes_preco": 180000,
+  "faixa": 8,
+  "preco": 127500
+ },
+ {
+  "marca": "Devon Works",
+  "linha": 416,
+  "antes_faixa": 6,
+  "antes_preco": 60000,
+  "faixa": 6,
+  "preco": 69200
+ },
+ {
+  "marca": "Hoptroff",
+  "linha": 692,
+  "antes_faixa": 6,
+  "antes_preco": 60000,
+  "faixa": 8,
+  "preco": 110300
+ },
+ {
+  "marca": "Alchemists",
+  "linha": 45,
+  "antes_faixa": null,
+  "antes_preco": 1200000,
+  "faixa": 10,
+  "preco": 1200000
+ },
+ {
+  "marca": "Concord",
+  "linha": 339,
+  "antes_faixa": null,
+  "antes_preco": 12000,
+  "faixa": 4,
+  "preco": 12000
+ },
+ {
+  "marca": "Croton",
+  "linha": 359,
+  "antes_faixa": null,
+  "antes_preco": 1500,
+  "faixa": 2,
+  "preco": 1500
+ },
+ {
+  "marca": "Dennison",
+  "linha": 409,
+  "antes_faixa": null,
+  "antes_preco": 2000,
+  "faixa": 2,
+  "preco": 2000
+ },
+ {
+  "marca": "Gruppo Gamma",
+  "linha": 621,
+  "antes_faixa": null,
+  "antes_preco": 4000,
+  "faixa": 2,
+  "preco": 4000
+ },
+ {
+  "marca": "Hanowa Swiss Watches",
+  "linha": 651,
+  "antes_faixa": null,
+  "antes_preco": 1200,
+  "faixa": 2,
+  "preco": 1200
+ },
+ {
+  "marca": "Jowissa",
+  "linha": 758,
+  "antes_faixa": null,
+  "antes_preco": 1200,
+  "faixa": 2,
+  "preco": 1200
+ }
+]

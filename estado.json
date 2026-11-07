@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 547,
- "ultima_versao": 480,
+ "ultima_versao": 481,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8223,6 +8223,11 @@
    "data": "2026-11-07",
    "versao": 480,
    "obs": "A pedido do usuário (\"corrija usando o preço médio\"): 193 faixas digitadas na coluna E de Marcas que não batiam com o preço médio (F) foram recalculadas pela Tabela de faixa de preços (165 subiram 1 faixa, 24 desceram 1, 4 mudaram 2–3 faixas: Artur Akmaev, Byrne, Devon Works, Hoptroff). Lista em historico/correcao_faixas_v480.json. A ETA (preço médio 0, faixa 1) ficou como estava. Nenhuma outra célula mudou."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 481,
+   "obs": "A pedido do usuário: (1) Findeisen G = findeisen-uhren.com; (2) preço médio pesquisado e preenchido (F) com a faixa (E) de 17 marcas que não tinham preço; Hirsch, Marburger, Eulux e Cattin & Cie ficam sem preço por não venderem relógios com o próprio nome; Dark Rush, Dom Baiz e Decade sem preço encontrado (ver M); (3) preço médio conferido e corrigido de Artur Akmaev, Byrne, Devon Works e Hoptroff (só a Hoptroff mudou de faixa: 6 -> 8); (4) faixa calculada pelo preço que já estava em F para 7 marcas com E vazia (Alchemists, Concord, Croton, Dennison, Gruppo Gamma, Hanowa, Jowissa). Fonte e câmbio de cada valor na coluna M. Lista em historico/precos_v481.json."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
