@@ -8438,7 +8438,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-07T18:41:55Z",
-  "ultimo_sinal": "2026-11-07T18:41:55Z",
+  "ultimo_sinal": "2026-11-07T18:45:58Z",
   "em_andamento": {
     "marcas": [
       "Foster"
@@ -8448,7 +8448,12 @@
     "relogios": "historico/parcial_Foster_relogios.txt",
     "fontes": "historico/parcial_Foster_fontes.txt",
     "notas": "historico/notas_Foster.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3"
+    ],
     "passada": 1
   }
 }
