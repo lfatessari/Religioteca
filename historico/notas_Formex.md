@@ -6,3 +6,6 @@
 - Firecrawl: créditos acabaram às 14:57 UTC (~73 créditos usados). Seguir só com WebSearch/WebFetch. LIW páginas 5 e 7 não lidas.
 - Special editions do site (sem link/foto na leitura): W&W Essence Sector 39; Space Rock LE 39 e 41; Skye 39 for Scottish Watches; Malachite 43; COCAB LE 43; Space Gold (43?); Earth Blue Limited Series 40 (Field); Eisenkiesel 39; Blue Agate 39; Mother-of-Sky 39. BUSCAR refs/fotos.
 - Antigos a buscar: GP997 Grand Prix, Fast Track FT900, Diver LE 2008, TS 350, Gotthard?, Motorsport Silver (seriouswatches).
+- FHS (2025): fundada em 2000 pelos irmãos Hans-Peter e Ferdinand Grädel (16 anos à frente); patente da suspensão 1999. Aba Marcas diz 1999 e só cita Granito -> observação M.
+- windupwatchshop.com/blogs/chronicle/a-history-and-guide-to-formex -> PROVENANCE_REQUIRED (usei endereço sem o /en-ca/ da busca). Não repetir.
+- Chrono24/EveryWatch: buscas site: não trouxeram páginas da Formex.
