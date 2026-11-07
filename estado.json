@@ -8264,7 +8264,10 @@
     "relogios": "historico/parcial_Accutron_relogios.txt",
     "fontes": "historico/parcial_Accutron_fontes.txt",
     "notas": "historico/notas_Accutron.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1
   },
   "marcas_pendentes": [],
@@ -8276,5 +8279,5 @@
     }
   ],
   "em_execucao": "2026-11-07T12:58:46Z",
-  "ultimo_sinal": "2026-11-07T12:58:46Z"
+  "ultimo_sinal": "2026-11-07T13:09:25Z"
 }
