@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 552,
- "ultima_versao": 487,
+ "proxima_linha_marcas": 553,
+ "ultima_versao": 488,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8373,6 +8373,33 @@
     ]
    },
    "obs": "Site oficial é fortis-swiss.com (G errado, registrado em M). Livro oficial 'Fortis 100 anos' (PDF) lido inteiro: 111 linhas com o PDF na coluna C (sem foto). Vermelha: linhas 1990–2019 com centenas de referências e vintage sem códigos. Firecrawl sem créditos até 08/11; The Watch Pages, EveryWatch e Chrono24 não abriram. 15 linhas vieram só de títulos de busca. Próxima: Fossil (552)."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 488,
+   "marca": "Fossil",
+   "linha_marcas": 552,
+   "linhas_relogios": "83041-84521",
+   "relogios": 1481,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "parcial",
+   "fontes": 92,
+   "passadas": {
+    "1": [
+     70,
+     1248
+    ],
+    "2": [
+     10,
+     89
+    ],
+    "3": [
+     12,
+     19
+    ]
+   },
+   "obs": "473 linhas com foto (lojas Shopify via oembed, Ormoda, blog do Fossil Collectors Club, imprensa) e 1008 sem foto: 874 da lista de modelos da loja NY Watch Store (código + descrição; C = link da lista), o resto de títulos de páginas do fossil.com/lojas/eBay. fossil.com não abre listas (JS). Firecrawl sem créditos até 08/11 13:43 UTC. Defender DE/DF/DEC/Solar completos pela galeria do fã-clube. Vermelha: milhares de referências em 40 anos; faltam fotos e muitas linhas antigas (Speedway ~110 modelos, Around the World, Big Tic temáticos, Relic). Próxima: Foster (553)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8403,35 +8430,5 @@
   "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T17:42:38Z",
- "ultimo_sinal": "2026-11-07T18:15:30Z",
- "em_andamento": {
-  "marcas": [
-   "Fossil"
-  ],
-  "linha_marcas": 552,
-  "grande": true,
-  "relogios": "historico/parcial_Fossil_relogios.txt",
-  "fontes": "historico/parcial_Fossil_fontes.txt",
-  "notas": "historico/notas_Fossil.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2",
-   "p3"
-  ],
-  "passada": 3,
-  "pendentes_sem_foto": "historico/pend_sem_foto.txt"
- }
+ "marcas_novas_sem_relogios": []
 }

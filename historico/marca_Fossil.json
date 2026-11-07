@@ -1,0 +1,472 @@
+{
+ "marca": "Fossil",
+ "usa_codigos": true,
+ "logo": "https://logotyp.us/file/fossil.svg",
+ "site_bloqueado": "Parcial – fossil.com: listas de produtos não abrem para leitura automática (página montada por JavaScript / client_error); fichas individuais abrem sem fotos; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.fossil.com/en-us/watches/all/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fossil.com/en-gb/men/watches/view-all/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/collections/fossil-watches?page=24",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.watchnation.com/collections/fossil-watches?page=40",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://watchdirect.com.au/collections/fossil",
+   "passada": 1,
+   "novos": 47
+  },
+  {
+   "url": "https://www.zamels.com.au/collections/fossil-watches.oembed?page=4",
+   "passada": 1,
+   "novos": 42
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/fossil-sale.oembed",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/fossil-machine.oembed",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://www.timewatches.co.za/collections/fossil-brands.oembed",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://watch.co.uk/fossil",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/fossil/?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.shadestation.com/Fossil-Watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/fossil-c-522.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thbaker.co.uk/fossil-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fossil.com/en-us/products/neutra-chronograph-brown-leather-watch/FS5380.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/fossil-dive.oembed",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchnation.com/it/collections/fossil-classic.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/collections/fossil?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ormoda.com/uk/brands/fossil.html",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/fossil-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://azuline.com/en/collections/fossil-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/collections/fossil.oembed?page=22",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.watchnation.com/collections/summer-time-sale-fossil.oembed",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/fossil-watch-releases-2019.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.simon.com/collections/curated-fossil-select-styles.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-fs4773.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nywatchstore.com/fossilmen.html",
+   "passada": 1,
+   "novos": 431
+  },
+  {
+   "url": "https://www.nywatchstore.com/fossilladies.html",
+   "passada": 1,
+   "novos": 443
+  },
+  {
+   "url": "https://www.fossil.com/en-us/collectors-club",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fossil.com/en-nl/collectors-club/collectors-club/limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fossil.com/en-IL/featured/the-edit/star-wars-x-fossil/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2014/2/10/fossil-road-trip-retrospective-all-about-anniversaries",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shopwatchdirect.com/products/fossil-x-willy-wonka-limited-edition-two-hand-multicolour-print-leather-watch-le1191",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2010/2/11/the-watch-that-started-it-all-fossil-cruise-o-matic.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/tag/checklist",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/tag/Vintage",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/tag/Military",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/category/Collectibles",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/category/Tins",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2025/4/21/fossil-speedway-watch-guide",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2021/2/9/11-years-of-the-underground-fossil-collectors-club-another-retrospective",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2021/5/27/colorful-amp-mysterious-fossil-speedways-from-2003",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/category/Watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/fossil-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/fossil/machine/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.zalando.de/watches/fossil/?p=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/fossil-unveils-the-swiss-made-signature-cs-1-watch-collection-inspired-by-mid-century-architecture/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a37406289/fossil-watches",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.fossil.com/en-us/the-fossil-blog/brand-history/history-big-tic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Fossil_Wrist_PDA",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/357908472483",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watches.com/collections/fossil-watches/men",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/fossil-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mygiftstop.com/collections/fossil-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.watchnation.com/collections/fossil-new-arrivals.oembed",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchnation.com/collections/fossil-new-arrivals.oembed?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/it/collections/fossil-rugged.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/collections/fossil-watches?page=34",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/fossil-watches?page=36",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2020/10/19/fossil-fsl-watches-european-catalog",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchnation.com/fr/collections/fossil-watches?page=28",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchnation.com/fr/collections/fossil-watches?page=13",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchnation.com/fr-fr/collections/fossil-watches?page=14",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.granarelli.com/en-de/collections/orologi-fossil.oembed",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/fossil-shaped.oembed",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/fossil-sport.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/collections/fossil",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kuck.pl/en/fossil-collections",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/fossil-watches-review-and-info/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/galleries1",
+   "passada": 2,
+   "novos": 81
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/tag/Limited+Releases",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2018/1/7/a-fossil-defender-de-series-guide-to-start-the-year",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/fossil-james-bond-limited-edition-set-nos-as11480",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/8236378-limited-edition-fossil-dracula-wristwatch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2010/6/17/1997-fossil-collectors-club-watch.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2010/2/28/fossil-appliances-watch.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchdepot.com.au/products/fossil-archival-big-tic-le1229-limited-edition-30272812",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/364665926669",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://antique-pocket-watch.com/fossil-pocket-watches.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2019/12/2/fossil-starmaster-limited-editions-it-still-lights-up",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/ritorno-agli-anni-novanta-per-fossil/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ablogtowatch.com/hands-on-fossil-star-wars-stormtrooper-automatic-watch/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=46393",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://alvinology.com/2019/09/12/fossil-turns-35-and-launches-two-limited-edition-timepieces-from-its-archival-series",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fossilgroup.com/?p=8962",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://fossilcollectorsclub.squarespace.com/blog/2015/3/8/fossil-defender-some-df-series-scans",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.t3.com/news/the-fossil-x-star-wars-limited-edition-watches-are-out-of-this-galaxy",
+   "passada": 3,
+   "novos": 10
+  },
+  {
+   "url": "https://wristwatchreview.com/reintroducing-the-fossil-starmaster",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=970857",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://blackamericaweb.com/2022/07/12/fossil-announces-limited-edition-collection-with-staple-photos",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://logotyp.us/logo/fossil/",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "I: 'Diesel' aparece repetido e há '[⚠️ verificar dados atuais]'. I não diz que a Fossil encerrou os smartwatches (2024) nem cita a linha suíça Signature CS-1 (2026). Faltam modelos clássicos em J: Big Tic, Fossil Blue, Jacqueline, Carlie, Neutra, Everett."
+}
