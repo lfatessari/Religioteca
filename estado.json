@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 548,
- "ultima_versao": 477,
+ "proxima_linha_marcas": 547,
+ "ultima_versao": 478,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8198,15 +8198,30 @@
      "site_bloqueado": false
     }
    ]
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 478,
+   "obs": "A pedido do usuário: Dürmeister excluída da aba Marcas (linha 453; não tinha relógios); as linhas seguintes subiram uma posição e os ponteiros do estado foram ajustados (ArrayFormula 641 -> 640, porque a linha da Dürmeister tinha uma). Alexandre Martin (linha 51) retomada pelo Chrome e gravada: 1 relógio (1965, aço, 12 peças), 18 fontes. gravar_marca.py agora compara as ArrayFormula com as da planilha de entrada em vez do número fixo 641.",
+   "marcas": [
+    {
+     "marca": "Alexandre Martin",
+     "linha_marcas": 51,
+     "relogios": 1,
+     "fontes": 18,
+     "vermelho": false,
+     "site_bloqueado": false
+    }
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
   "Erbprinz": {
-   "linha_marcas": 496,
+   "linha_marcas": 495,
    "linhas_relogios": "6773-6828"
   },
   "Messerschmitt": {
-   "linha_marcas": 926,
+   "linha_marcas": 925,
    "linhas_relogios": "6829-7094"
   },
   "Acto": {
@@ -8215,16 +8230,15 @@
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 800)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 800, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
-  "Alexandre Martin (linha 51)": "PAUSADA sem gravar (03/11/2026): relojoeiro independente de Morges, estreia 31/08/2026 com um único modelo (1965, aço, 12 peças; platina e ouro rosa previstos). Sem site oficial (só Instagram). Só ~5 fontes existem (mínimo 15). Retomar quando houver mais imprensa ou site, pelas notas historico/notas_Alexandre_Martin.md. Tirada de marcas_novas_sem_relogios para não travar a fila.",
-  "ETA (linha 506)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
-  "Eterna (linha 507)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
-  "Hemel (linha 670)": "Eylandt (linha 516) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
-  "Favre Leuba (linha 525)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
-  "Ferdinand Berthoud (linha 530)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
-  "Filippo Loreti (linha 534)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
-  "Fiona Krüger (linha 536)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
-  "Fiyta (linha 540)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
+  "Kurono Tokyo (linha 799)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 799, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+  "ETA (linha 505)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
+  "Eterna (linha 506)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
+  "Hemel (linha 669)": "Eylandt (linha 515) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
+  "Favre Leuba (linha 524)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
+  "Ferdinand Berthoud (linha 529)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
+  "Filippo Loreti (linha 533)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
+  "Fiona Krüger (linha 535)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
+  "Fiyta (linha 539)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
   "Abingdon (linha 14)": "Dimensionada em 06/11/2026: grande (loja Shopify com muitas cores por modelo, 18 anos de linhas). Fazer sozinha na próxima execução."
  },
  "em_andamento": null,
@@ -8235,12 +8249,5 @@
    "linha_marcas": 18,
    "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
   }
- ],
- "marcas_encerradas_sem_relogios": {
-  "Dürmeister": {
-   "linha_marcas": 453,
-   "data": "2026-11-07",
-   "motivo": "marca extinta (configurador, empresa encerrada em 2023, domínio extinto); fontes esgotadas para a 2ª passada; notas em historico/notas_Durmeister.md"
-  }
- }
+ ]
 }
