@@ -8405,7 +8405,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-07T17:42:38Z",
- "ultimo_sinal": "2026-11-07T18:14:22Z",
+ "ultimo_sinal": "2026-11-07T18:15:30Z",
  "em_andamento": {
   "marcas": [
    "Fossil"
@@ -8427,8 +8427,9 @@
    "8",
    "9",
    "10",
+   "10b",
    "p2",
-   "p3-parcial"
+   "p3"
   ],
   "passada": 3,
   "pendentes_sem_foto": "historico/pend_sem_foto.txt"

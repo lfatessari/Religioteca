@@ -22,3 +22,12 @@ Motivo: marca enorme (40 anos, milhares de refs); quase toda fonte traz novidade
 - antique-pocket-watch.com: Disney Watch Collectors Club (séries I a VI, 1992–1997, 7.500 peças cada; Looney Tunes; Roy Rogers 1994; Mickey 100 anos bolso 2023; Y2K Big Tic bolso 2026, 429 pç) — sem códigos.
 ## 2ª passada encerrada: 10 fontes, ~89 relógios novos (Defender DE/DF/DEC/Solar, LEs). => 3ª passada obrigatória.
 - Starmaster original 1994 (códigos LU-); FSL3009448 = código europeu de LE1059 (orologioblog).
+## 3ª passada: 12 fontes (com logo), ~22 relógios novos (Starmaster LE, Star Wars 2020, Big Tic Y2K, STAPLE, Georgia Mini 35 anos, DF-3001). Parou aqui (limite prático da execução; skill exige até a 3ª).
+## 10b Auto-auditoria
+1. Blog/imprensa do site oficial: fossil.com não abre listas (JS); blog Big Tic lido; collectors-club lido (nomes sem códigos). Compensado pelo blog do Fossil Collectors Club (fã-clube, ~20 posts).
+2. site:fossil.com/products: buscas por Everett, Townsman, Heritage, LE, híbridos, Gen 6, Jacqueline, Carlie — handles novos continuam aparecendo (marca enorme).
+3. Lojas: watchnation (vários idiomas), zamels, kamalwatch, timewatches, watchdirect, ormoda, granarelli — sem products.json (proibido montar).
+4. Primeiro modelo: 1º relógio à venda em 1985 (sem nome/código achado); Retro-Pilot e Paratrooper 1988 incluídos.
+5. J: Grant, Machine, Townsman, Defender, Gen 6 — todos encontrados.
+6. LEs/colaborações na B com tiragem quando conhecida. Nenhuma peça única.
+7. Fontes: ~93 (70 + 10 + 13).
