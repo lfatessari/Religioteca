@@ -9,3 +9,5 @@
 - FHS (2025): fundada em 2000 pelos irmãos Hans-Peter e Ferdinand Grädel (16 anos à frente); patente da suspensão 1999. Aba Marcas diz 1999 e só cita Granito -> observação M.
 - windupwatchshop.com/blogs/chronicle/a-history-and-guide-to-formex -> PROVENANCE_REQUIRED (usei endereço sem o /en-ca/ da busca). Não repetir.
 - Chrono24/EveryWatch: buscas site: não trouxeram páginas da Formex.
+- 1ª passada encerrada às 15:11 (3 fontes seguidas sem novidade: tag News, WatchPatrol Essence 39, WatchPatrol marca). ~272 relógios, 70 fontes.
+- Vermelha: sim. Motivo: linha 4Speed 2000-2015 (mais de 40 coleções segundo o site) quase sem referências/fotos; muitas variações de pulseira das linhas atuais não listadas. 2ª passada: foco em 4Speed/antigos (TS, AS, DS, RS, AT, GP, Fast Track, Diver LE), Element/Motorsport e anúncios usados.
