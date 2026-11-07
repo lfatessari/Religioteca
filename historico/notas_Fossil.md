@@ -21,3 +21,4 @@ Motivo: marca enorme (40 anos, milhares de refs); quase toda fonte traz novidade
 ## 2ª passada: vintage (Defender DE/DF, Speedway, Around the World, Big Tic temáticos), edições limitadas (LE), colaborações.
 - antique-pocket-watch.com: Disney Watch Collectors Club (séries I a VI, 1992–1997, 7.500 peças cada; Looney Tunes; Roy Rogers 1994; Mickey 100 anos bolso 2023; Y2K Big Tic bolso 2026, 429 pç) — sem códigos.
 ## 2ª passada encerrada: 10 fontes, ~89 relógios novos (Defender DE/DF/DEC/Solar, LEs). => 3ª passada obrigatória.
+- Starmaster original 1994 (códigos LU-); FSL3009448 = código europeu de LE1059 (orologioblog).
