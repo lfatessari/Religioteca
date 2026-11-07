@@ -16,3 +16,6 @@ Início 2026-11-07 17:42 UTC. Firecrawl sem créditos até 08/11 13:43 UTC.
 - Zalando: só códigos internos da loja (FS151M0EI…), não servem. 1stdibs: Michele by Fossil é outra marca (fora). Chrono24: busca site: não trouxe anúncios.
 - História (Gear Patrol): fundada 1984 por Tom Kartsotis; 1º relógio à venda em 1985; Big Tic (LCD dos segundos) patenteado; Wrist PDA 2003 (Palm OS).
 - Big Tic: lançado em 1998; Mickey Millennium Big Tic (1999, Disney, LE). Wrist PDA: Palm OS, 2003–05 (FX2008; FX3005 citado).
+## 1ª passada encerrada (18:10 UTC): ~70 fontes, 365 relógios com foto/página + ~1000 pendentes (lista NY Watch Store etc.)
+Motivo: marca enorme (40 anos, milhares de refs); quase toda fonte traz novidade — o critério das 3 fontes sem novidade nunca seria atingido nesta execução. Marca VERMELHA.
+## 2ª passada: vintage (Defender DE/DF, Speedway, Around the World, Big Tic temáticos), edições limitadas (LE), colaborações.
