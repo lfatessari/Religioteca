@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 547,
-  "ultima_versao": 481,
+  "ultima_versao": 482,
   "historico": [
     {
       "data": "2026-10-16",
@@ -8228,6 +8228,34 @@
       "data": "2026-11-07",
       "versao": 481,
       "obs": "A pedido do usuário: (1) Findeisen G = findeisen-uhren.com; (2) preço médio pesquisado e preenchido (F) com a faixa (E) de 17 marcas que não tinham preço; Hirsch, Marburger, Eulux e Cattin & Cie ficam sem preço por não venderem relógios com o próprio nome; Dark Rush, Dom Baiz e Decade sem preço encontrado (ver M); (3) preço médio conferido e corrigido de Artur Akmaev, Byrne, Devon Works e Hoptroff (só a Hoptroff mudou de faixa: 6 -> 8); (4) faixa calculada pelo preço que já estava em F para 7 marcas com E vazia (Alchemists, Concord, Croton, Dennison, Gruppo Gamma, Hanowa, Jowissa). Fonte e câmbio de cada valor na coluna M. Lista em historico/precos_v481.json."
+    },
+    {
+      "data": "2026-11-07",
+      "versao": 482,
+      "marca": "Accutron",
+      "linha_marcas": 18,
+      "fora_da_sequencia": true,
+      "linhas_relogios": "82130-82372",
+      "relogios": 243,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 79,
+      "passadas": {
+        "1": [
+          55,
+          226
+        ],
+        "2": [
+          13,
+          19
+        ],
+        "3": [
+          11,
+          1
+        ]
+      },
+      "obs": "Accutron independente (2020-) e linha Accutron by Bulova (2000-2014), Legacy, e vintage com apelido que ainda não estavam no bloco da Bulova. Site oficial lido com Firecrawl. Complemento futuro: vintage 1960-77 (centenas de caixas/mostradores), Accutron by Bulova 2000s além da Right Time, logo."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -8253,41 +8281,9 @@
     "Ferdinand Berthoud (linha 529)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
     "Filippo Loreti (linha 533)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
     "Fiona Krüger (linha 535)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
-    "Fiyta (linha 539)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página."
-  },
-  "em_andamento": {
-    "marcas": [
-      "Accutron"
-    ],
-    "linha_marcas": 18,
-    "grande": true,
-    "relogios": "historico/parcial_Accutron_relogios.txt",
-    "fontes": "historico/parcial_Accutron_fontes.txt",
-    "notas": "historico/notas_Accutron.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a_passada"
-    ],
-    "passada": 3
+    "Fiyta (linha 539)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
+    "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [
-    {
-      "marca": "Accutron",
-      "linha_marcas": 18,
-      "motivo": "post já publicado no Instagram; faltam os relógios na aba Relógios (pedido do usuário 05/11/2026)"
-    }
-  ],
-  "em_execucao": "2026-11-07T12:58:46Z",
-  "ultimo_sinal": "2026-11-07T13:23:50Z"
+  "marcas_novas_sem_relogios": []
 }
