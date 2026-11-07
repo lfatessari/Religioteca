@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 550,
-  "ultima_versao": 484,
+  "proxima_linha_marcas": 551,
+  "ultima_versao": 485,
   "historico": [
     {
       "data": "2026-10-16",
@@ -8321,6 +8321,25 @@
         ]
       },
       "obs": "Site oficial (BigCommerce) + produtos escondidos via busca; WatchBase (127 refs antigas AS1100/DS2100/TS3100/Element/Essence 1ª geração), Hourstriker, Long Island Watch, Helveti; linha 4Speed 2000-2015 com ~20 modelos. Firecrawl acabou os créditos (~73 usados). Próxima: Forstner (550) — é fabricante de pulseiras, avaliar."
+    },
+    {
+      "data": "2026-11-07",
+      "versao": 485,
+      "marca": "Forstner",
+      "linha_marcas": 550,
+      "linhas_relogios": "82663-82665",
+      "relogios": 3,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes": 20,
+      "passadas": {
+        "1": [
+          20,
+          3
+        ]
+      },
+      "obs": "Fabricante de pulseiras com só dois relógios próprios: A-12 (2021) e Pilot Ref. F-6B/346 (2023, preto e branco). Coluna I errada (diz que nunca fez relógios) — registrado em M. Firecrawl sem créditos até 08/11 13:43 UTC. Próxima: Fortis (551), grande, sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
