@@ -25,3 +25,5 @@ Fontes novas abertas de verdade (passada 1): instagram.com/duermeisterindividual
 Não abriram: nrz.de 11282399 (erro do site), uhrforum na 1ª tentativa (Cloudflare, abriu na 2ª).
 Total passada 1: 14 + 10 = 24 fontes; modelos com nome: Meisteruhr Roma schwarz (Handaufzug), Meisteruhr Design blau (Automatik), linha Heritage (preto/prata), foto genérica de uma configuração.
 DECISÃO 07/11/2026: a marca é configurador (vermelha obrigatória) e grande (25 fontes + 2ª passada de 10 fontes novas). Todas as fontes que existem na web foram abertas; não há mais 10 fontes novas para a 2ª passada, e a trava não pode ser contornada. Encerrada como "marca extinta sem catálogo" (registro em M); sai da lista de pendentes. Se o usuário quiser mesmo assim, as 4 linhas acima podem ser gravadas como exceção autorizada por ele.
+## 07/11/2026 (tarde) — EXCLUÍDA da planilha a pedido do usuário (v478)
+Linha 453 da aba Marcas removida (sem relógios na aba Relógios); as linhas seguintes subiram uma posição.

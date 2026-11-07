@@ -117,7 +117,8 @@ for t in before:
     print(t, 'mudanças:', mud)
     if extra: ok = False; print('  !! mudança fora do permitido:', extra)
 arr = sum(1 for c in m2._cells.values() if isinstance(c.value, ArrayFormula))
-print('ArrayFormula em Marcas:', arr); ok &= arr == 641
+arr_in = sum(1 for v in before['Marcas'].values() if isinstance(v, tuple) and v and v[0] == 'ARR')
+print('ArrayFormula em Marcas:', arr, '(entrada:', arr_in, ')'); ok &= arr == arr_in and arr >= 640
 antes_ok = all(before['Relógios'].get(k) == after['Relógios'].get(k)
                for k in before['Relógios'] if int(re.sub(r'\D', '', k)) < inicio)
 print('linhas anteriores intactas:', antes_ok); ok &= antes_ok
