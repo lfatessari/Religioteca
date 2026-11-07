@@ -8287,7 +8287,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-07T13:42:35Z",
- "ultimo_sinal": "2026-11-07T13:42:35Z",
+ "ultimo_sinal": "2026-11-07T13:48:56Z",
  "em_andamento": {
   "marcas": [
    "Followay",
@@ -8298,7 +8298,10 @@
   "relogios": "historico/parcial_Followay_relogios.txt",
   "fontes": "historico/parcial_Followay_fontes.txt",
   "notas": "historico/notas_Followay.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Followay: todas",
+   "Fonderie 47: 2,9"
+  ],
   "passada": 1
  }
 }
