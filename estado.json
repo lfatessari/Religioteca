@@ -8325,7 +8325,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-07T14:42:37Z",
-  "ultimo_sinal": "2026-11-07T14:42:37Z",
+  "ultimo_sinal": "2026-11-07T14:48:48Z",
   "em_andamento": {
     "marcas": [
       "Formex"
@@ -8335,7 +8335,11 @@
     "relogios": "historico/parcial_Formex_relogios.txt",
     "fontes": "historico/parcial_Formex_fontes.txt",
     "notas": "historico/notas_Formex.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "5"
+    ],
     "passada": 1
   }
 }
