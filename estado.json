@@ -8480,18 +8480,19 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-07T22:51:19Z",
- "ultimo_sinal": "2026-11-07T22:51:19Z",
+ "ultimo_sinal": "2026-11-07T22:51:42Z",
  "em_andamento": {
   "marcas": [
-   "Franc Vila",
-   "Franck Dubarry"
+   "Franc Vila"
   ],
   "linha_marcas": 556,
-  "grande": false,
+  "grande": true,
   "relogios": "historico/parcial_Franc_Vila_relogios.txt",
   "fontes": "historico/parcial_Franc_Vila_fontes.txt",
   "notas": "historico/notas_Franc_Vila.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
