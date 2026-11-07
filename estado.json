@@ -8480,7 +8480,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-07T22:51:19Z",
- "ultimo_sinal": "2026-11-07T22:51:42Z",
+ "ultimo_sinal": "2026-11-07T22:57:07Z",
  "em_andamento": {
   "marcas": [
    "Franc Vila"
@@ -8491,7 +8491,10 @@
   "fontes": "historico/parcial_Franc_Vila_fontes.txt",
   "notas": "historico/notas_Franc_Vila.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "3",
+   "5",
+   "9 (parcial)"
   ],
   "passada": 1
  }
