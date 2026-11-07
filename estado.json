@@ -8405,7 +8405,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-07T17:42:38Z",
- "ultimo_sinal": "2026-11-07T17:51:25Z",
+ "ultimo_sinal": "2026-11-07T17:59:04Z",
  "em_andamento": {
   "marcas": [
    "Fossil"
@@ -8416,7 +8416,9 @@
   "fontes": "historico/parcial_Fossil_fontes.txt",
   "notas": "historico/notas_Fossil.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2",
+   "7-parcial"
   ],
   "passada": 1,
   "pendentes_sem_foto": "historico/pend_sem_foto.txt"
