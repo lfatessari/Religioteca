@@ -8325,7 +8325,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-07T14:42:37Z",
-  "ultimo_sinal": "2026-11-07T15:12:25Z",
+  "ultimo_sinal": "2026-11-07T15:13:42Z",
   "em_andamento": {
     "marcas": [
       "Formex"
@@ -8347,8 +8347,9 @@
       "8",
       "9",
       "10",
-      "p2"
+      "p2",
+      "p3"
     ],
-    "passada": 2
+    "passada": 3
   }
 }
