@@ -71,7 +71,7 @@ Na BWC-Swiss o Firecrawl abriu as páginas 5, 6, 8 e 9 da loja oficial (que a We
    - copiar `estado.json` e os arquivos da marca para `historico/`;
    - `git add -A && git commit -m "Bateria: <marca(s)> (vNN)"` e `git push origin main`.
    - Se o push falhar: `git fetch origin main && git rebase origin/main` e tentar uma vez mais. Se ainda falhar, avisar no relatório.
-8. Relatório em português do Brasil, calmo e para leigo (o usuário lê no celular): o que entrou, linhas por passada (fontes e relógios novos), por que parou, dados errados na aba Marcas (relatar E registrar na coluna M, ver abaixo), e a lista "Fontes:". Enviar o relatório com SendUserMessage e a planilha nova com SendUserFile.
+8. Relatório em português do Brasil, calmo e para leigo (o usuário lê no celular): o que entrou, linhas por passada (fontes e relógios novos), por que parou, dados da aba Marcas ("Corrigido na aba Marcas" — o que teve certeza e foi corrigido — separado de "Só anotado em M"; ver "Correções com certeza" abaixo), e a lista "Fontes:". Enviar o relatório com SendUserMessage e a planilha nova com SendUserFile.
 
 ## Marcas novas fora da sequência (pedido do usuário, nov/2026)
 Em 03/11/2026 (v409) entraram 18 marcas novas na aba Marcas, achadas no Instagram seguido pela @relogioteca (letras A e B). Elas ficaram ANTES de `proxima_linha_marcas`, então a sequência normal nunca chegaria nelas. Por isso:
@@ -90,8 +90,8 @@ O corte pelo limite de uso é súbito: não dá para contar com um salvamento fi
 - Nunca alterar na aba Marcas a coluna A (nome; liga com a aba Relógios) nem E/F (faixa e preço médio). B, C, D, G, H, I e J só se corrigem quando houver certeza (ver "Correções com certeza" abaixo); K, L, M e o vermelho de A como sempre.
 
 ## Coluna M da aba Marcas (Observações) — pedido do usuário, out/2026
-- Tudo o que for notado na aba Marcas e relatado sem corrigir (B/C/G/H vazios ou errados, D/I/J genéricos ou errados, data de fundação divergente, site da coluna G errado, nome em J não encontrado, "[⚠️ verificar]" etc.) vai TAMBÉM na coluna M da linha da marca, em português, curto, com o dado certo quando se souber (ex.: "G vazio: site arlanch.se").
-- Como gravar: campo `"observacoes"` no `marca_<marca>.json`; o `gravar_marca.py` escreve em M (cabeçalho M1 "Observações") e a verificação aceita só K, L, M daquela linha.
+- Tudo o que for notado na aba Marcas e não puder ser corrigido por falta de certeza, e também o que foi corrigido (ver seção abaixo), (B/C/G/H vazios ou errados, D/I/J genéricos ou errados, data de fundação divergente, site da coluna G errado, nome em J não encontrado, "[⚠️ verificar]" etc.) vai TAMBÉM na coluna M da linha da marca, em português, curto, com o dado certo quando se souber (ex.: "G vazio: site arlanch.se").
+- Como gravar: campo `"observacoes"` no `marca_<marca>.json`; o `gravar_marca.py` escreve em M (cabeçalho M1 "Observações") e a verificação aceita só K, L, M daquela linha (mais as células do campo `correcoes`).
 - Se não houver nada a observar, deixar `"observacoes"` vazio. Não apagar o que já estiver em M de outra marca.
 
 ## Correções com certeza na aba Marcas — pedido do usuário (07/11/2026)
