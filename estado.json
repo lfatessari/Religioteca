@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 549,
-  "ultima_versao": 483,
+  "proxima_linha_marcas": 550,
+  "ultima_versao": 484,
   "historico": [
     {
       "data": "2026-10-16",
@@ -8294,6 +8294,33 @@
         ]
       },
       "obs": "Só o Inversion Principle (ouro branco 2013, ouro vermelho 2014, 10+10) e o protótipo de 2013. Próxima: Formex (549), grande, sozinha."
+    },
+    {
+      "data": "2026-11-07",
+      "versao": 484,
+      "marca": "Formex",
+      "linha_marcas": 549,
+      "linhas_relogios": "82378-82662",
+      "relogios": 285,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 99,
+      "passadas": {
+        "1": [
+          70,
+          280
+        ],
+        "2": [
+          18,
+          8
+        ],
+        "3": [
+          11,
+          2
+        ]
+      },
+      "obs": "Site oficial (BigCommerce) + produtos escondidos via busca; WatchBase (127 refs antigas AS1100/DS2100/TS3100/Element/Essence 1ª geração), Hourstriker, Long Island Watch, Helveti; linha 4Speed 2000-2015 com ~20 modelos. Firecrawl acabou os créditos (~73 usados). Próxima: Forstner (550) — é fabricante de pulseiras, avaliar."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -8320,36 +8347,9 @@
     "Filippo Loreti (linha 533)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
     "Fiona Krüger (linha 535)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
     "Fiyta (linha 539)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
-    "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo."
+    "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo.",
+    "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-07T14:42:37Z",
-  "ultimo_sinal": "2026-11-07T15:15:28Z",
-  "em_andamento": {
-    "marcas": [
-      "Formex"
-    ],
-    "linha_marcas": 549,
-    "grande": true,
-    "relogios": "historico/parcial_Formex_relogios.txt",
-    "fontes": "historico/parcial_Formex_fontes.txt",
-    "notas": "historico/notas_Formex.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p2",
-      "p3"
-    ],
-    "passada": 3
-  }
+  "marcas_novas_sem_relogios": []
 }
