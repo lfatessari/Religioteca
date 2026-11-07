@@ -3,3 +3,4 @@
 - Refs formato 0334.1.6631.100 (sufixo .100 = pulseira de aço; outros sufixos = correia). Alguns produtos sem ref no nome do arquivo.
 - Falta: Stratos (aviação, novo), Essence Leggera 39, Field Titanium? Reef chronograph?, Element, linha antiga 1999-2015 (4Speed, AutoChrono, Gotthard, TS725...), limitadas (Ocarat, Uhrforum, Watchbuys?, Fratello?), blog.
 - Seções feitas: 1 (grande), 2 (parcial: coleção)
+- Firecrawl: créditos acabaram às 14:57 UTC (~73 créditos usados). Seguir só com WebSearch/WebFetch. LIW páginas 5 e 7 não lidas.
