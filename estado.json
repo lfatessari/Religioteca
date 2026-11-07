@@ -8378,7 +8378,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-07T16:42:42Z",
- "ultimo_sinal": "2026-11-07T17:10:43Z",
+ "ultimo_sinal": "2026-11-07T17:11:54Z",
  "em_andamento": {
   "marcas": [
    "Fortis"
@@ -8395,8 +8395,12 @@
    "3",
    "4",
    "5",
-   "9"
+   "6",
+   "7",
+   "8",
+   "9",
+   "10"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
