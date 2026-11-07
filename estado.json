@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 554,
- "ultima_versao": 490,
+ "ultima_versao": 491,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8425,6 +8425,13 @@
     ]
    },
    "obs": "Identificada como Foster Watch Co. (Eugene, Oregon, EUA, 2022). Único modelo 11 Atmos Skin Diver em 6 mostradores; catálogo fechado conferido no site. Linha da aba Marcas quase vazia: registrado em M. Bateria só com a Foster porque a próxima (Franc Vila) foi considerada grande. Próxima: Franc Vila (554), sozinha."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 491,
+   "marca": "Fossil",
+   "fora_da_sequencia": true,
+   "obs": "Correção com certeza (nova regra do usuário): I552 sem 'Diesel' repetido, com fim dos smartwatches (2024) e linha suíça Signature CS-1 (2026); J552 ampliado (Neutra, Everett, Jacqueline, Carlie, Big Tic, Fossil Blue). M552 registra o que mudou. Só I552, J552, M552 mudaram (corrigir_marca.py, RESULTADO: OK)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8455,7 +8462,5 @@
   "Formex (linha 549)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-07T19:13:37Z",
- "ultimo_sinal": "2026-11-07T19:13:37Z"
+ "marcas_novas_sem_relogios": []
 }

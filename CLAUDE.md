@@ -87,9 +87,18 @@ O corte pelo limite de uso é súbito: não dá para contar com um salvamento fi
 
 ## Nunca
 - Nunca apagar o histórico do git nem forçar push (`--force`).
-- Nunca alterar na aba Marcas nada além de K (logo), L (site bloqueado), M (observações) e o vermelho da coluna A, salvo pedido do usuário com "corrija".
+- Nunca alterar na aba Marcas a coluna A (nome; liga com a aba Relógios) nem E/F (faixa e preço médio). B, C, D, G, H, I e J só se corrigem quando houver certeza (ver "Correções com certeza" abaixo); K, L, M e o vermelho de A como sempre.
 
 ## Coluna M da aba Marcas (Observações) — pedido do usuário, out/2026
 - Tudo o que for notado na aba Marcas e relatado sem corrigir (B/C/G/H vazios ou errados, D/I/J genéricos ou errados, data de fundação divergente, site da coluna G errado, nome em J não encontrado, "[⚠️ verificar]" etc.) vai TAMBÉM na coluna M da linha da marca, em português, curto, com o dado certo quando se souber (ex.: "G vazio: site arlanch.se").
 - Como gravar: campo `"observacoes"` no `marca_<marca>.json`; o `gravar_marca.py` escreve em M (cabeçalho M1 "Observações") e a verificação aceita só K, L, M daquela linha.
 - Se não houver nada a observar, deixar `"observacoes"` vazio. Não apagar o que já estiver em M de outra marca.
+
+## Correções com certeza na aba Marcas — pedido do usuário (07/11/2026)
+"Quando você encontrar coisas que tem certeza, pode corrigir, não precisa me perguntar." Esta regra vale acima do que a skill disser ("só relatar, não corrigir").
+- **Certeza** = o dado certo aparece no site oficial ou no Instagram oficial da marca, ou em 2 fontes independentes e confiáveis (imprensa relojoeira, Wikipedia com fonte, registro da empresa), e a pesquisa da própria execução abriu essas fontes. Erros evidentes do próprio texto (palavra repetida, nome de modelo com erro de digitação, site que é de outra empresa) também contam.
+- **Pode corrigir:** B (país), C (cidade), D (característica), G (site), H (Instagram), I (história), J (principais relógios). **Nunca:** A (nome), E/F (faixa/preço), nem nada fora da linha da marca da bateria.
+- **Como:** campo `"correcoes": {"G": "valor novo", "I": "texto inteiro novo", ...}` no `marca_<marca>.json`; o `gravar_marca.py` aplica e a verificação aceita só essas células, mais K, L, M. Para corrigir sem gravar relógios, usar `corrigir_marca.py ENTRADA.xlsx SAIDA.xlsx correcao.json` (mesmo formato, com `"marca"`), que confere que só essas células mudaram.
+- Em I, mudar só o trecho errado ou acrescentar o fato confirmado, mantendo o resto do texto. "[⚠️ verificar]" só sai quando tudo o que o texto afirma foi conferido.
+- **Sempre registrar em M** o que foi corrigido (valor antigo → novo, curto) e, à parte, o que ficou sem certeza ("Ainda a verificar: …"). No relatório, listar "Corrigido na aba Marcas" separado de "Só anotado".
+- Sem certeza: continua só em M, como antes.

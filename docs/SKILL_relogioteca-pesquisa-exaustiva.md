@@ -1,3 +1,5 @@
+> **Atualização 07/11/2026 (pedido do usuário):** dados da aba Marcas que a pesquisa confirmar com certeza (B, C, D, G, H, I, J) passam a ser CORRIGIDOS direto, via campo `correcoes` do `marca_<marca>.json`, e registrados em M. Ver CLAUDE.md, seção "Correções com certeza". Onde este roteiro diz "só relatar, não corrigir", vale a regra nova.
+
 ---
 name: "relogioteca-pesquisa-exaustiva"
 description: "Roteiro completo para pesquisar e gravar todos os modelos (nome, código, foto, características) de uma marca de relógios na planilha Relogioteca (abas Marcas e Relógios). Use em toda nova marca (até três pequenas por execução; marca grande sozinha), inclusive em execuções agendadas sem supervisão."

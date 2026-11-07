@@ -97,10 +97,17 @@ if cfg.get('logo'): m.cell(lm, 11).value = cfg['logo']
 if cfg.get('site_bloqueado'):
     c = m.cell(lm, 12); c.value = cfg['site_bloqueado']; c._style = copy.copy(m.cell(lm, 11)._style)
 if cfg.get('observacoes'):
-    # coluna M: dados da aba Marcas que parecem errados (só registrar, nunca corrigir B–J)
+    # coluna M: o que foi corrigido (campo correcoes) e o que ficou só registrado por falta de certeza
     if m.cell(1, 13).value is None:
         h = m.cell(1, 13); h.value = 'Observações'; h._style = copy.copy(m.cell(1, 12)._style)
     c = m.cell(lm, 13); c.value = cfg['observacoes']; c._style = copy.copy(m.cell(lm, 11)._style)
+# correções com certeza (regra de nov/2026): {"G": "novo valor", "I": "...", ...}; só B, C, D, G, H, I, J
+COLS_CORR = {'B': 2, 'C': 3, 'D': 4, 'G': 7, 'H': 8, 'I': 9, 'J': 10}
+corr = cfg.get('correcoes') or {}
+for col, val in corr.items():
+    assert col in COLS_CORR, f'coluna {col} não pode ser corrigida (só B, C, D, G, H, I, J)'
+    print(f'  correção {col}{lm}: {str(m.cell(lm, COLS_CORR[col]).value)[:80]!r} -> {str(val)[:80]!r}')
+    m.cell(lm, COLS_CORR[col]).value = val
 if cfg.get('vermelho'):
     m.cell(lm, 1).fill = PatternFill(fill_type='solid', start_color='FFFF0000', end_color='FFFF0000')
 
@@ -112,7 +119,7 @@ ok = True
 for t in before:
     if t == 'Relógios': continue
     mud = sorted(k for k in set(before[t]) | set(after[t]) if before[t].get(k) != after[t].get(k))
-    perm = {f'K{lm}', f'L{lm}', f'M{lm}', 'M1'}
+    perm = {f'K{lm}', f'L{lm}', f'M{lm}', 'M1'} | {f'{c}{lm}' for c in corr}
     extra = [k for k in mud if k not in perm]
     print(t, 'mudanças:', mud)
     if extra: ok = False; print('  !! mudança fora do permitido:', extra)
