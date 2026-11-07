@@ -8275,9 +8275,10 @@
       "7",
       "8",
       "9",
-      "10"
+      "10",
+      "2a_passada"
     ],
-    "passada": 2
+    "passada": 3
   },
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [
@@ -8288,5 +8289,5 @@
     }
   ],
   "em_execucao": "2026-11-07T12:58:46Z",
-  "ultimo_sinal": "2026-11-07T13:20:46Z"
+  "ultimo_sinal": "2026-11-07T13:23:50Z"
 }

@@ -7,3 +7,4 @@
 - 1ª passada encerrada (3 fontes seguidas sem novidade: azfinetime, windup, revolution). ~57 fontes, 223 relógios.
 - Decisão: VERMELHA. Motivo: era vintage (1960–77) tem centenas de referências/variações (caixas 2xxx, mostradores com apelido) e a linha "Accutron by Bulova" 2000–2014 tinha muitas referências (26B/28B/63B/64B/65B...) que só apareceram em parte (Right Time); Accu·Swiss posterior não entra (é Bulova).
 - 2ª passada: foco em vintage com apelido, arquivo vendido da Analog Shift, mybulova, Accutron by Bulova 2000s, §2c com termos novos.
+- 2ª passada encerrada: 16 fontes novas, 19 relógios novos (+ colaborações RedBar, La Palina Goldie, Assouline identificadas). Como trouxe 5+, fazer 3ª passada (10+ fontes).
