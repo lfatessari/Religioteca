@@ -17,7 +17,7 @@ Objetivo: na PRIMEIRA rodada, listar todos os modelos e versões (atuais e desco
 
 ## 0. Contexto da planilha (leia antes de tudo)
 - Arquivo: `Relogios_atualizada_NN.xlsx` (NN = versão; sempre trabalhar na de maior número e salvar como NN+1, nunca sobrescrever). Abas: `Marcas`, `Planilha1`, `Relógios`, `Tabela de faixa de preços`.
-- Aba **Marcas** (≈1494 linhas, uma por marca): A Marca | B País | C Cidade | D Principal Característica | E Faixa de preço (641 células são ArrayFormula – nunca mexer) | F Preço médio | G Site | H Instagram | I História | J Principais relógios | K Logo | L Site bloqueado. `max_column` informa 16384: nunca percorrer todas as colunas (trava); usar só A–L.
+- Aba **Marcas** (≈1494 linhas, uma por marca): A Marca | B País | C Cidade | D Principal Característica | E Faixa de preço (número de 1 a 10, tirado do preço médio F pela aba "Tabela de faixa de preços"; desde a v479 são só números, sem fórmulas) | F Preço médio | G Site | H Instagram | I História | J Principais relógios | K Logo | L Site bloqueado. `max_column` informa 16384: nunca percorrer todas as colunas (trava); usar só A–L.
 - Aba **Relógios** (uma linha por relógio): A Marca (texto IDÊNTICO ao da coluna A de Marcas, ex.: "anOrdaim") | B "Nome do modelo - CÓDIGO" | C URL da imagem (com hyperlink igual ao valor) | D não usar (tem links antigos em ~74 linhas; preservar) | E Características. Estilo das células novas: copiar da linha 1190.
 - Ordem de trabalho: seguir a ordem da aba Marcas. O trabalho atual começou na linha 18 (ADPT) e vai em sequência; as linhas 2–17 (1776 Atelier … Acto) ainda não foram feitas e ficam para depois, salvo pedido. No início da planilha existem blocos antigos de outras marcas (Cuervo y Sobrinos, Rado, Tag Heuer… até Ulysse Nardin) feitos em outra época: não mexer.
 - Anomalias conhecidas (só relatar, não corrigir sem pedido): blocos antigos e duplicados de Akrone, Akura, Alain Silberstein, Albert Riele, Albishorn e Alcadus nas linhas ~1191–1201; Angular Momentum dividido em dois blocos (≈4208 e ≈4802).
@@ -155,7 +155,7 @@ Responder por escrito nas notas, e corrigir o que faltar antes de gravar:
 - **Coluna C**: preferir o relógio de frente em fundo liso/branco ("knockout", "hero", "front", "soldier", "bg_processed"); senão qualquer foto do modelo (inclusive foto de artigo do blog ou de loja); senão o link da página/anúncio/PDF (indicar a página do PDF na coluna E).
 - **Coluna E**: quando o relógio for peça única, começar com "Peça única." (sempre, mesmo que o resto fique vazio). Depois, características SOMENTE do que já aparece na fonte do modelo (material, tamanho, mostrador, calibre, resistência, tiragem, ano), em texto corrido começando com maiúscula. Não pesquisar só para preencher E. Se a fonte não traz, deixar vazio. Quando C for link de página, dizer isso em E ("visto só no título da página do produto (link da página)").
 - **Aba Marcas**: só escrever K (logo), L (site bloqueado), M (observações) e o vermelho em A. Tudo o que parecer errado nas colunas B–J (e for relatado) vai também na coluna M da marca, via campo `"observacoes"` do marca.json. Corrigir outros dados só quando o usuário disser "corrija" (apontar no relatório: descrição errada, site errado etc.). Tirar o vermelho só quando o usuário pedir, restaurando o preenchimento original (copiar o fill da versão anterior).
-- **Correções pedidas pelo usuário** (ex.: "corrija o endereço") e melhorias em linhas já gravadas (foto melhor, colaboração que faltou na B): fazer num passo separado ANTES do script — abrir a planilha, mudar só as células necessárias, salvar num arquivo temporário e conferir por comparação (snapshot antes/depois) que só essas células mudaram e que as 641 ArrayFormula continuam; depois rodar o script sobre esse temporário.
+- **Correções pedidas pelo usuário** (ex.: "corrija o endereço") e melhorias em linhas já gravadas (foto melhor, colaboração que faltou na B): fazer num passo separado ANTES do script — abrir a planilha, mudar só as células necessárias, salvar num arquivo temporário e conferir por comparação (snapshot antes/depois) que só essas células mudaram; depois rodar o script sobre esse temporário.
 
 ## 13. Gravação (script padrão)
 1. Escrever os relógios em `dados_<marca>.txt`, uma linha por relógio: `Nome|CÓDIGO|URL_imagem|Características` (código vazio quando não houver; nada de "(sem referência publicada)" no nome — o script acrescenta; não usar o caractere "|" dentro dos campos).
@@ -172,6 +172,7 @@ Uso: python3 gravar_marca.py ENTRADA.xlsx SAIDA.xlsx dados.txt marca.json
 dados.txt: uma linha por relógio  ->  Nome|CÓDIGO|URL_imagem|Características
 marca.json: {"marca": "<igual à coluna A de Marcas>", "usa_codigos": true/false,
              "logo": "url ou vazio", "site_bloqueado": "texto ou vazio", "vermelho": true/false,
+             "observacoes": "texto da coluna M (dados errados na aba Marcas) ou vazio",
              "grande": true/false, "complemento": false,
              "fontes": [{"url": "...", "passada": 1, "novos": 0}, ...]}
 Trava de profundidade: sem o mínimo de fontes (15; 25 se grande) e, se vermelho, sem a
@@ -200,6 +201,7 @@ marca = cfg['marca']
 linha_marcas = [r for r in range(2, m.max_row + 1) if m.cell(r, 1).value == marca]
 assert len(linha_marcas) == 1, f'marca não encontrada (ou repetida) na aba Marcas: {linha_marcas}'
 lm = linha_marcas[0]
+
 
 # ---------- trava de profundidade (antes de gravar) ----------
 fontes = cfg.get('fontes') or []
@@ -263,6 +265,11 @@ for k, (a, b, c, d, e) in enumerate(linhas):
 if cfg.get('logo'): m.cell(lm, 11).value = cfg['logo']
 if cfg.get('site_bloqueado'):
     c = m.cell(lm, 12); c.value = cfg['site_bloqueado']; c._style = copy.copy(m.cell(lm, 11)._style)
+if cfg.get('observacoes'):
+    # coluna M: dados da aba Marcas que parecem errados (só registrar, nunca corrigir B–J)
+    if m.cell(1, 13).value is None:
+        h = m.cell(1, 13); h.value = 'Observações'; h._style = copy.copy(m.cell(1, 12)._style)
+    c = m.cell(lm, 13); c.value = cfg['observacoes']; c._style = copy.copy(m.cell(lm, 11)._style)
 if cfg.get('vermelho'):
     m.cell(lm, 1).fill = PatternFill(fill_type='solid', start_color='FFFF0000', end_color='FFFF0000')
 
@@ -274,12 +281,13 @@ ok = True
 for t in before:
     if t == 'Relógios': continue
     mud = sorted(k for k in set(before[t]) | set(after[t]) if before[t].get(k) != after[t].get(k))
-    perm = {f'K{lm}', f'L{lm}'}
+    perm = {f'K{lm}', f'L{lm}', f'M{lm}', 'M1'}
     extra = [k for k in mud if k not in perm]
     print(t, 'mudanças:', mud)
     if extra: ok = False; print('  !! mudança fora do permitido:', extra)
 arr = sum(1 for c in m2._cells.values() if isinstance(c.value, ArrayFormula))
-print('ArrayFormula em Marcas:', arr); ok &= arr == 641
+arr_in = sum(1 for v in before['Marcas'].values() if isinstance(v, tuple) and v and v[0] == 'ARR')
+print('ArrayFormula em Marcas:', arr, '(entrada:', arr_in, ')'); ok &= arr == arr_in
 antes_ok = all(before['Relógios'].get(k) == after['Relógios'].get(k)
                for k in before['Relógios'] if int(re.sub(r'\D', '', k)) < inicio)
 print('linhas anteriores intactas:', antes_ok); ok &= antes_ok
