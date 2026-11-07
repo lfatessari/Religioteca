@@ -19,3 +19,5 @@ Início 2026-11-07 17:42 UTC. Firecrawl sem créditos até 08/11 13:43 UTC.
 ## 1ª passada encerrada (18:10 UTC): ~70 fontes, 365 relógios com foto/página + ~1000 pendentes (lista NY Watch Store etc.)
 Motivo: marca enorme (40 anos, milhares de refs); quase toda fonte traz novidade — o critério das 3 fontes sem novidade nunca seria atingido nesta execução. Marca VERMELHA.
 ## 2ª passada: vintage (Defender DE/DF, Speedway, Around the World, Big Tic temáticos), edições limitadas (LE), colaborações.
+- antique-pocket-watch.com: Disney Watch Collectors Club (séries I a VI, 1992–1997, 7.500 peças cada; Looney Tunes; Roy Rogers 1994; Mickey 100 anos bolso 2023; Y2K Big Tic bolso 2026, 429 pç) — sem códigos.
+## 2ª passada encerrada: 10 fontes, ~89 relógios novos (Defender DE/DF/DEC/Solar, LEs). => 3ª passada obrigatória.
