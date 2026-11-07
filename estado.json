@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 547,
- "ultima_versao": 479,
+ "ultima_versao": 480,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8218,6 +8218,11 @@
    "data": "2026-11-07",
    "versao": 479,
    "obs": "A pedido do usuário (\"resolva sem prejuízo\"): as 640 fórmulas (ArrayFormula) da coluna E de Marcas viraram números fixos, calculados pelo preço médio (F) com a Tabela de faixa de preços (614 com faixa; 26 sem preço em F ficaram vazias, como já apareciam no site). Tabela de faixa de preços: faixa 10 passou a começar em 600.001 (antes 600.000, igual ao fim da faixa 9). Nenhuma outra célula mudou. gravar_marca.py e docs/SKILL_relogioteca-pesquisa-exaustiva.md sem o número fixo 641."
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 480,
+   "obs": "A pedido do usuário (\"corrija usando o preço médio\"): 193 faixas digitadas na coluna E de Marcas que não batiam com o preço médio (F) foram recalculadas pela Tabela de faixa de preços (165 subiram 1 faixa, 24 desceram 1, 4 mudaram 2–3 faixas: Artur Akmaev, Byrne, Devon Works, Hoptroff). Lista em historico/correcao_faixas_v480.json. A ETA (preço médio 0, faixa 1) ficou como estava. Nenhuma outra célula mudou."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
