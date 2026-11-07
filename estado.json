@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 547,
- "ultima_versao": 478,
+ "ultima_versao": 479,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8213,6 +8213,11 @@
      "site_bloqueado": false
     }
    ]
+  },
+  {
+   "data": "2026-11-07",
+   "versao": 479,
+   "obs": "A pedido do usuário (\"resolva sem prejuízo\"): as 640 fórmulas (ArrayFormula) da coluna E de Marcas viraram números fixos, calculados pelo preço médio (F) com a Tabela de faixa de preços (614 com faixa; 26 sem preço em F ficaram vazias, como já apareciam no site). Tabela de faixa de preços: faixa 10 passou a começar em 600.001 (antes 600.000, igual ao fim da faixa 9). Nenhuma outra célula mudou. gravar_marca.py e docs/SKILL_relogioteca-pesquisa-exaustiva.md sem o número fixo 641."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
