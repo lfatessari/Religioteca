@@ -13,3 +13,7 @@ Decisão: tratada como GRANDE (maison de alta relojoaria, ~20 anos de referênci
 - eBay 175431233640 é carteira Franc Vila (não relógio) — fora.
 - LOGO: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5qy9dULMI4OHz-xshUYDvOounHDN6DRoV1h7vDgwNXgcgu5L5_PiyWo-g1RcxtTbRNwPR_weQLKnld0adNYyRgSoOG5ZQnpz5sC_WbL5s8oz-cNu5pqGQ6cfXwwczY6sjPzo7vzx_0A/s1600/FRANC+VILA+Logo.jpg (OceanicTime)
 - Europa Star 2006: fundador espanhol, marca criada em Genebra; caixa 'Esprit Unique' (8 invertido); Grand Sport Alliance = 1ª coleção esportiva. WLG (Irvine) distribuidor exclusivo na América do Norte (~2008).
+## 1ª passada encerrada (23:14 UTC): 126 fontes; últimas 4 sem relógio novo (hautetime 5588, wristreview, europastar 1004087852, hautetime 4976).
+- fratellowatches.com/franc-vila-cobra-yellow-edition (link de página) → PROVENANCE_REQUIRED (não conta).
+## Decisão: VERMELHA. Motivo: cada modelo sai em várias combinações de material/mostrador (88 peças cada, 8 nas complicações), muitas sem nome nem referência publicados; site oficial fora do ar/fora das buscas; EveryWatch e Masterhorologer (dezenas de matérias) inacessíveis.
+## 2ª passada: alvo = variações sem nome (Cobra, Neo Alta, Tribute, Intrepido), FVF recentes, lojas/leilões ainda não abertos.
