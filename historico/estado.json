@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 566,
- "ultima_versao": 501,
+ "proxima_linha_marcas": 567,
+ "ultima_versao": 502,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8685,6 +8685,36 @@
     "H",
     "I",
     "J"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Fullspot",
+   "linha_marcas": 566,
+   "linhas_relogios": "86746-86815",
+   "relogios": 70,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 65,
+   "passadas": {
+    "1": [
+     42,
+     45
+    ],
+    "2": [
+     13,
+     8
+    ],
+    "3": [
+     10,
+     1
+    ]
+   },
+   "versao": 502,
+   "correcoes": [
+    "C",
+    "G",
+    "I"
    ]
   }
  ],

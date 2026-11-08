@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 566,
- "ultima_versao": 501,
+ "proxima_linha_marcas": 567,
+ "ultima_versao": 502,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8686,6 +8686,36 @@
     "I",
     "J"
    ]
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Fullspot",
+   "linha_marcas": 566,
+   "linhas_relogios": "86746-86815",
+   "relogios": 70,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 65,
+   "passadas": {
+    "1": [
+     42,
+     45
+    ],
+    "2": [
+     13,
+     8
+    ],
+    "3": [
+     10,
+     1
+    ]
+   },
+   "versao": 502,
+   "correcoes": [
+    "C",
+    "G",
+    "I"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8724,32 +8754,5 @@
   "Fullspot (linha 566)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-08T07:42:54Z",
- "ultimo_sinal": "2026-11-08T07:57:26Z",
- "em_andamento": {
-  "marcas": [
-   "Fullspot"
-  ],
-  "linha_marcas": 566,
-  "grande": true,
-  "relogios": "historico/parcial_Fullspot_relogios.txt",
-  "fontes": "historico/parcial_Fullspot_fontes.txt",
-  "notas": "historico/notas_Fullspot.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }
