@@ -8754,5 +8754,19 @@
   "Fullspot (linha 566)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-08T08:42:25Z",
+ "ultimo_sinal": "2026-11-08T08:42:25Z",
+ "em_andamento": {
+  "marcas": [
+   "Furlan Marri"
+  ],
+  "linha_marcas": 567,
+  "grande": true,
+  "relogios": "historico/parcial_Furlan_Marri_relogios.txt",
+  "fontes": "historico/parcial_Furlan_Marri_fontes.txt",
+  "notas": "historico/notas_Furlan_Marri.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
