@@ -8776,7 +8776,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T09:42:34Z",
- "ultimo_sinal": "2026-11-08T10:01:25Z",
+ "ultimo_sinal": "2026-11-08T10:11:56Z",
  "em_andamento": {
   "marcas": [
    "G. Gerlach"
@@ -8787,13 +8787,9 @@
   "fontes": "historico/parcial_G. Gerlach_fontes.txt",
   "notas": "historico/notas_G. Gerlach.md",
   "secoes_feitas": [
-   "1",
-   "2p",
-   "3",
-   "5p",
-   "9"
+   "todas"
   ],
-  "passada": 1,
+  "passada": 2,
   "extras": {
    "G. Gerlach": {
     "relogios": "historico/parcial_G. Gerlach_relogios.txt",

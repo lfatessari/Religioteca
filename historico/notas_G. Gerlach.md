@@ -6,3 +6,7 @@
 - Não usa códigos (só P52/N97 nas ORP).
 - Seções feitas: 1, parte de 3, 9 (w&w, wwr, ablogtowatch)
 - Comentários w&w Otago: Batory (data grande), RWD 6, Auroch (bullhead cronógrafo, 113 peças), Navigator 2 coroas. masterhorologer: client_error em tudo.
+- 1ª passada encerrada (3 seguidas sem novidade: polishartcorner, wwr orzel, wwr tag submarine). 58 fontes.
+- VERMELHA: cykadia págs 3-4 inacessíveis; site oficial gerlach.org.pl fora das buscas; muitas cores sem nome.
+- 2ª passada: buscar produtos das págs 3-4 da cykadia via busca; outras lojas PL.
+- GRAVADO OK em tmp (57 relógios, 65 fontes). Falta só a entrega com as outras marcas.
