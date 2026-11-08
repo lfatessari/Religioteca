@@ -8617,17 +8617,21 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T04:39:13Z",
- "ultimo_sinal": "2026-11-08T04:39:13Z",
+ "ultimo_sinal": "2026-11-08T04:42:38Z",
  "em_andamento": {
   "marcas": [
    "Frères Rochat"
   ],
   "linha_marcas": 562,
-  "grande": false,
+  "grande": true,
   "relogios": "historico/parcial_FreresRochat_relogios.txt",
   "fontes": "historico/parcial_FreresRochat_fontes.txt",
   "notas": "historico/notas_FreresRochat.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "3",
+   "9"
+  ],
   "passada": 1
  }
 }
