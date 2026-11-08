@@ -8510,7 +8510,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-07T23:42:17Z",
- "ultimo_sinal": "2026-11-08T00:14:47Z",
+ "ultimo_sinal": "2026-11-08T00:15:31Z",
  "em_andamento": {
   "marcas": [
    "Franck Dubarry"
@@ -8524,10 +8524,12 @@
    "1",
    "2",
    "3",
-   "5a",
-   "7a",
-   "8a",
-   "9a"
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9"
   ],
   "passada": 1
  }
