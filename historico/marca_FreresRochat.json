@@ -1,0 +1,626 @@
+{
+ "marca": "Frères Rochat",
+ "usa_codigos": false,
+ "logo": "https://www.gressive.jp/special/interview/201510-freres-rochat/image/logo.jpg",
+ "site_bloqueado": "Site bloqueado – freres-rochat.com não aparece em nenhuma busca e não pôde ser aberto nesta execução (Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://collectorsquare.com/de/uhren/freres-rochat/lpi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/freres-rochat/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/events/arts-and-culture/reuge-teaming-up-with-freres-rochat-21147.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/special/interview/201510-freres-rochat/01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hochedel.ch/articles-en/freres-rochat-mechanics-brought-to-life-en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_jewelry-news/1341931",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/general/the-enchanting-singing-birds-by-freres-rochat/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchprosite.com/ahci/thread/16.870053.5928468/0/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=6244",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hautetime.com/?p=32321",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/freres-rochat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxatic.com/the-amazing-freres-rochat-singing-bird-automaton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxuryretail.co.uk/?p=5155",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/freres-rochat-lot-386-442",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.richardreddingantiques.com/artworks/9566-freres-rochat-an-early-19th-century-swiss-musical-and-singing-geneva-dated-1824/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://rauantiques.com/blogs/canvases-carats-and-curiosities/fusee-swiss-silver-singing-bird-box-freres-rochat",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2019/treasures-l19303/lot.6.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2008/important-watches-n08433/lot.36.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/buy/auction/2020/the-collection-of-a-connoisseur/freres-rochat-a-magnificent-and-exceptionally-rare",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-5448775",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots/FRERES-ROCHAT-A-MAGNIFICENT-AND-EXCEPTIONALLY-RARE-GOLD-AND-ENAMEL-WATCH-WITH-SINGING-BIRD-AUTOMATON-EMERGING-FROM-THE-CASE-S/208-frere_rochat-28.10.20-sotheby",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://blog.chasenantiques.com/tag/rochat/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-31-45",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-36-471",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-31-138",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-108-835",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-108-834",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-101-643",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-155-392",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-14-413",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhren-muser.de/cn/img.html?lot=45538",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/article/watch-collection-a-singing-bird-and-precious-timepiece/38822",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/special/interview/201510-freres-rochat/02.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2016_03_24_01_Reuge.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reuge.com/en/creations/oiseaux-tabatieres",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/collections-provenant-des-familles-cosse-brissac-dormesson-la-bedoyere/boite-oiseau-chanteur-suisse-en-de-quatre-couleurs-et-email-105/273912",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2017/important-watches-n09697/lot.805.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2011/property-from-the-collection-of-carl-desantis/lot.226.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/buy/b6c4c259-6c74-4454-9352-2036891b4ba3/lots/668ef372-139c-4b6d-8d1b-323282ffcafb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/buy/a0e60471-9af8-4cce-afb8-da83e4fefd5e/lots/202e3cae-6481-44f2-a680-ca996f8ae613",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004113512.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashionbi.com/financials/brands/freres-rochat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.riteme.site/wiki/Singing_bird_box",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/freres-rochat-miniature-singing-bird-box-lot-377-487",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-31-46",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-26-45",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-17-773",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/freres-rochat-oiseau-chanteur-allegory-of-geography-lot-372-526",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/freres-rochat-lot-355-350",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-44-91",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-44-87",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-54-85",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-54-82",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-126-563",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-241-458",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-51-95",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/frères-rochat/222269",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://mechanicalcurios.com/2013/10/20/mysterious-rochat-box-number-7/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/furniture/more-furniture-collectibles/collectibles-curiosities/musical-instruments/singing-bird-box-rochat-tortoiseshell-gold-enamel/id-f_41893252",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wikipedia.com/wiki/File:Singing_bird_box_by_Fr%C3%A8res_Rochat,_circa_1820.jpg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.archivedauctions.com/s/943995/movement-punched-fr-freres-rochat/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/objets-dart-vertu/desk-accessories/freres-rochat-gold-bird-box/id-j_18480632",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://rauantiques.com/blogs/canvases-carats-and-curiosities/bird-boxes-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2017/12/19/freres-rochat-swiss-made-mechanical-singing-bird-automata-manufacturer/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/freres-rochat-lot-349-272",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-61-191",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bonhams.com/auction/26913/lot/199/a-freres-rochat-tortoiseshell-singing-bird-box-swiss-circa-1830",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-4093186",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://christies.com.cn/en/lot/lot-5789936",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicdriver.com/en/watch/fr-res-rochat-and-joly/1820/223200",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://vimeo.com/64661358",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://elitetraveler.com/?p=92281",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rauantiques.com/blog/bird-boxes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-260-114",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-260-118",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-31-137",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-256-254",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/luxprice-index-watches/freres-rochat.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.archivedauctions.com/s/969525/freres-rochat-exceptional-singing/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.archivedauctions.com/s/946241/freres-rochat/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.archivedauctions.com/s/827359/freres-rochat/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-113-87",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-114-402",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-44-88",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaeger-lecoultre-lot-103-249",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhren-muser.de/cn/41588",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://archivedauctions.com/s/941315/freres-rochat",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://archivedauctions.com/s/982988/oiseau-chanteur-freres-rochat",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.paulfrasercollectibles.com/blogs/watches-jewellery/gold-singing-bird-snuffbox-up-29-on-estimate-at-bonhams",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wwtest.bonhams.com/auction/23525/lot/17/a-rare-gold-enamel-and-diamond-encrusted-singing-bird-box-swiss-circa-1825",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/important-watches-n09879/lot.134.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/buy/18c912df-9e75-4273-9832-8c60db76a616/lots/a6dcf40d-bced-4eaa-951e-b1bca5ee9e42",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lotsearch.net/lot/fine-singing-bird-box-by-rochatfine-singing-bird-box-by-rochat-26968723",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots-source-click/32607129",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots-source-click/43213880",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/freres-rochat-singing-bird-box-lot-344-393",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-105-113",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-115-301",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lotsearch.net/lot/freres-rochat-and-joly-chenevard-joyet-an-extremely-fine-25469009",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lotsearch.net/lot/freres-rochat-and-jean-georges-remond-a-very-fine-rare-and-25469008?perPage=50",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2019/masterworks-time-adolf-lange-golden-era-glashutte-ge1924/lot.38.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mirror.mus-col.com/en/collection/watch/products-with-mechanism-and-automaton/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.auction.fr/en-US/lot/goldemaildose-mit-singvogelautomat-uhr-und-kleinem-walzenspielwerk-genf-um-1810-25-das-76020298",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kollerauktionen.ch/en/-1208_528284.html?RecPos=3",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wwtest.bonhams.com/auction/23525/lot/14/a-rochet-freres-gilt-brass-and-enamel-singing-bird-box-swiss-circa-1820",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-71-484?page=25",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kollerauktionen.auctioneersvault.com/catalogues/Kollerview_01_24_en/16/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/freres-rochat-gold-bird-box/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-2421965",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-14-212",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-127-361",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.artaaj.com/?p=3394",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atimelyperspective.com/?p=14569",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://redfernanimation.com/patek-philippe/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://mus-col.com/en/collection/watch/products-with-mechanism-and-automaton/17075",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-120-322",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-136-474",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-15-501",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-82-527",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-71-489",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-176-255",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-29-206",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "Os Frères Rochat (Irmãos Rochat) remontam a uma célebre dinastia de relojoeiros e mecânicos suíços do início do século XIX, originários da Vallée de Joux, que se tornaram mestres na arte dos autômatos e das caixas de pássaros cantores (singing birds). Trabalhando frequentemente em associação com a casa Jaquet-Droz e Leschot, os Rochat criaram algumas das mais extraordinárias peças mecânicas animadas da história — pistolas com pássaros cantores, caixas de rapé musicais e autômatos que são hoje tesouros de museu.\n\nEssa herança de mecânica animada e miniaturizada representa um dos ápices do gênio relojoeiro suíço, na fronteira entre a relojoaria, a joalheria e a engenharia de autômatos. O nome Frères Rochat está associado a esse legado de virtuosismo mecânico do período de ouro dos autômatos genebrinos.\n\nO nome também voltou como marca contemporânea: em 2010 o empresário Stéphane Velan fundou uma nova Frères Rochat, que apresentou na Baselworld de 2013, no bicentenário da oficina de Genebra, os autômatos de pássaro cantor das coleções Babylone e Intemporis, com o calibre FR2903 de 1.227 componentes, desenvolvido com Christophe Claret. Em 2016 a marca foi comprada pela Reuge e passou a funcionar em Sainte-Croix.",
+  "J": "Caixas de pássaros cantores históricas (c. 1804–1850), pistolas e gaiolas de pássaro cantor, caixas e relógios de bolso com pássaro cantor e relógio de repetição; autômatos contemporâneos Babylone (Porte du Roi) e Intemporis (Odyssée 2903), calibre FR2903"
+ },
+ "observacoes": "Corrigido: I – trocado o aviso \"[⚠️ verificar…]\" pela história confirmada da marca contemporânea (Stéphane Velan, 2010; Baselworld 2013; compra pela Reuge em 2016, Sainte-Croix). J – \"Autômatos e caixas de pássaros cantores (peças históricas)\" → lista das peças históricas e das coleções Babylone e Intemporis. Ainda a verificar: G vazio – o site citado pela marca era freres-rochat.com (fonte: entrevista Gressive e Fashionbi), mas não aparece em buscas e pode estar fora do ar desde a compra pela Reuge; H vazio – Instagram não encontrado. C: desde 2016 a marca funciona em Sainte-Croix (Reuge). Wikipedia diz que a produção parece ter parado depois de 2016."
+}

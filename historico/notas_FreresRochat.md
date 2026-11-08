@@ -9,3 +9,4 @@ Já feitos: 31-45 pistolas, 31-138, 36-471, 14-413, 101-643, 108-834/835, 155-39
 2ª passada: atrás dos lotes do CollectorSquare ainda não abertos (Antiquorum 260-114/118, 302-150, 300-375, 113-87/300, 114-402, 103-249, 71-227/484/489, 44-88, 34-198, 31-137, 26-518; Christie's 2012/2010/2005; Bonhams 2013; Sotheby's 2008/2005) e modelos modernos.
 Site oficial freres-rochat.com não aparece em busca; Firecrawl sem créditos -> não aberto.
 2ª passada encerrada (3 seguidas sem novidade: Kollerview, 1stdibs gold bird box, Christie's 2421965). Trouxe >5 -> 3ª passada.
+3ª passada encerrada (13 fontes; 3 seguidas sem novidade: 71-489, 176-255, 29-206).
