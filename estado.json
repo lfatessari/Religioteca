@@ -8756,7 +8756,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T08:42:25Z",
- "ultimo_sinal": "2026-11-08T08:48:38Z",
+ "ultimo_sinal": "2026-11-08T08:51:25Z",
  "em_andamento": {
   "marcas": [
    "Furlan Marri"
@@ -8768,7 +8768,10 @@
   "notas": "historico/notas_Furlan_Marri.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "4",
+   "5"
   ],
   "passada": 1
  }
