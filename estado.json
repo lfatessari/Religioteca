@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 559,
- "ultima_versao": 496,
+ "proxima_linha_marcas": 561,
+ "ultima_versao": 497,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8525,6 +8525,42 @@
    "correcoes": {
     "H": "@franckmuller_geneve"
    }
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Fratello",
+   "linha_marcas": 559,
+   "linhas_relogios": "85869-85897",
+   "relogios": 29,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 41,
+   "passadas": {
+    "1": 41
+   },
+   "correcoes": {
+    "J": "parceiros confirmados",
+    "I": "trecho dos parceiros"
+   }
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Frédéric Jouvenot",
+   "linha_marcas": 560,
+   "linhas_relogios": "85898-85921",
+   "relogios": 24,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 34,
+   "passadas": {
+    "1": 34
+   },
+   "correcoes": {
+    "G": "fjouvenot.com",
+    "J": "modelos confirmados"
+   }
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8555,25 +8591,9 @@
   "Formex (linha 551)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência.",
   "Franc Vila (linha 556)": "Gravada em 07/11/2026 (v494), 154 relógios (84553-84706), vermelha. Complemento futuro com Firecrawl: francvila.com e francvilafounder.com, Chrono24 (francvila/index.htm), Masterhorologer (dezenas de matérias 2008-2015), EveryWatch; fotos das ~50 linhas só com link de página; variações de material de cada FVa/FV Evos/Intrepido/Neo Alta sem nome publicado.",
   "Franck Dubarry (linha 557)": "Gravada em 08/11/2026 (v495), 70 relógios (84707-84776), vermelha. Complemento futuro com Firecrawl: franckdubarry.com (páginas de produto bloqueadas por robots: crazy-balls, crazy-colors, intrepidus, yin-yang, crazy-wheel), Gemnation (lista completa por coleção), Chrono24, Ashford collections/franck-dubarry, Jomashop; Deep Ocean DO-03/05/10 sem código completo; mais cores de Crazy Balls, Crazy Colors, Intrepidus e Yin Yang.",
-  "Franck Muller (linha 558)": "Gravada em 08/11/2026 (v496), 1092 relógios (84777-85868), vermelha. Complemento futuro: loja oficial do Japão franckmuller-japan.com (centenas de produtos com ref e foto no padrão cdn/shop/products/<REF>-<id>_p960.png; links de produto pediram permissão), essential-watches.com (famílias Master-Banker, Round, Perpetual-Calendar, Piece-Unique, Double-Mystery, Heart, Infinity, Vanguard ainda não abertas), Firecrawl (sem créditos nesta execução): notícias press-corner (Ocean Drive, Rally Maya, Vanguard Sport, Qatar), thewatchpages e watchpatrol (bloqueados), EveryWatch (login); fotos das ~150 linhas só com link de página; edições regionais/zodíaco sem referência."
+  "Franck Muller (linha 558)": "Gravada em 08/11/2026 (v496), 1092 relógios (84777-85868), vermelha. Complemento futuro: loja oficial do Japão franckmuller-japan.com (centenas de produtos com ref e foto no padrão cdn/shop/products/<REF>-<id>_p960.png; links de produto pediram permissão), essential-watches.com (famílias Master-Banker, Round, Perpetual-Calendar, Piece-Unique, Double-Mystery, Heart, Infinity, Vanguard ainda não abertas), Firecrawl (sem créditos nesta execução): notícias press-corner (Ocean Drive, Rally Maya, Vanguard Sport, Qatar), thewatchpages e watchpatrol (bloqueados), EveryWatch (login); fotos das ~150 linhas só com link de página; edições regionais/zodíaco sem referência.",
+  "Frédéric Jouvenot (linha 560)": "Gravada em 08/11/2026 (v497), 24 relógios (85898-85921). Firecrawl estava sem créditos: as páginas collections.fjouvenot.com (solar-deity e moon-deity) e a The Limited Edition (verificação anti-robô) não abriram; revisitar para fotos de Amaterasu, Surya Aventurine/Titanium DLC e Helios Diamond."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-08T01:42:31Z",
- "ultimo_sinal": "2026-11-08T01:48:43Z",
- "em_andamento": {
-  "marcas": [
-   "Fratello",
-   "Frédéric Jouvenot"
-  ],
-  "linha_marcas": 559,
-  "grande": false,
-  "relogios": "historico/parcial_Fratello_relogios.txt",
-  "fontes": "historico/parcial_Fratello_fontes.txt",
-  "notas": "historico/notas_Fratello.md",
-  "secoes_feitas": [
-   "FJ:1-10"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
