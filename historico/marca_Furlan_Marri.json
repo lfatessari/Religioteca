@@ -1,0 +1,465 @@
+{
+ "marca": "Furlan Marri",
+ "usa_codigos": true,
+ "logo": "https://teddybaldassarre.com/cdn/shop/files/Furlan_Marri_796cd82c-5b40-4bfb-afcd-9522092055a2.png?v=1765356963&width=800",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "I": "A Furlan Marri foi fundada em 2021 em Genebra pelo designer suíço Andrea Furlan e pelo colecionador saudita Hamad Al Marri — uma parceria única que une a expertise de design suíça à paixão colecionadora do Oriente Médio. A semente foi plantada quinze anos antes, quando o avô de Andrea lhe deixou de herança um armário de relojoeiro cheio de ferramentas vintage, componentes e cartas de fornecedores da Vallée de Joux. A marca é um tributo emocional a esses familiares que alimentaram sua paixão.\n\nA estreia foi meteórica: lançada no Kickstarter, a campanha atingiu a meta (CHF 75.000) em menos de um minuto e arrecadou mais de CHF 1 milhão de 2.000 apoiadores. Os primeiros modelos eram cronógrafos meca-quartz de 38mm de forte inspiração vintage nos anos 1930-40 (com claras referências a peças da Patek Philippe, como a ref. 1463), com mostradores \"setoriais\" bicompax, ponteiros azulados a fogo e acabamento muito acima do preço — tudo por menos de US$500. No mesmo ano, a marca venceu o cobiçado \"Horological Revelation Prize\" do GPHG, o Oscar da relojoaria — feito inédito para uma microbrand tão jovem. Depois vieram modelos mecânicos (com La Joux-Perret), a coleção Disco Volante e até um sofisticado calendário perpétuo secular, peça única criada para o Only Watch 2023 e vendida no leilão de maio de 2024 (o evento foi adiado).\n\nHoje a Furlan Marri é uma das histórias de sucesso mais impressionantes da relojoaria recente, com a missão de \"democratizar a horologia\" — trazer o design dos grandes clássicos vintage a preços acessíveis para a próxima geração. Mais que relógios, entrega histórias, emoção e a prova de que uma microbrand pode conquistar o establishment."
+ },
+ "observacoes": "Corrigido em I: o calendário perpétuo secular foi criado para o Only Watch 2023, mas o leilão foi adiado e aconteceu em 19/05/2024 (antes dizia 'vendido no leilão Only Watch 2023'). Ainda a verificar em I: a história do armário de relojoeiro herdado do avô e o valor/apoiadores do Kickstarter (CHF 1 milhão, 2.000 apoiadores); o site oficial só diz que a meta foi batida em 35 segundos. J: 'Cornes de Vache' e 'Disco Volante' são coleções, não modelos. Códigos 20201/20202/20205 usados pela marca são códigos gerais de caixa (repetem-se em vários modelos).",
+ "fontes": [
+  {
+   "url": "https://www.furlanmarri.com/collections/mechanical-line",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.furlanmarri.com/collections/archives",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.furlanmarri.com/collections/all-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.furlanmarri.com/collections/editions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/collections/unique-pieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/en/products/blue-sector",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/collections/mechaquartz-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/collections/disco-volante",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/collections/all-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/furlan-marri/chronographs/1085-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/furlan-marri-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Furlan_Marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/furlan-marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/furlan-marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/furlan-marri/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://checkout.furlanmarri.com/products/prototype-case00",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/brands/furlan-marri/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/buy/furlan-marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/mr-grey-1041-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/havana-green-seddiqi-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://furlanmarri.com/products/sage-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/black-sector-2116-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/solidarity-blue-piece-unique",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/bronzo-rosso",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/seconde-seconde",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/salmon-flyback-3188-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/honey-blue-flyback-3199-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/taupe-flyback-3177-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/disco-celeste-20205",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/disco-havana-20205",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/disco-verde-20205",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/only-watch-2023",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/disco-stromatolite-for-time-for-art-2024",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/grey-sector-2145-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/red-hunter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/sahra-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/octa-meteorite",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/ardesia-blu",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/sabbia-rosa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/1072-a-nero-sabbia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/1009-a-castagna",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/1085-a-rosso-grigio",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/salmon-sector-2154-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/white-sector-2161-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/outback-elegy-2222-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/disco-onyx-diamonds",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/outback-songlines",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/farro-1022-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/havana-salmon-1031-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/laccato-nero",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/tasti-tondi-1011-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/products/1051-a-mare-blu",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://nxtmag.tech/?p=26048",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wos60.thehourglass.com/limited-editions/furlan-marri-jungle-sector/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/furlan-marri/NY080424/92",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/furlan-marri/211036/zh",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loupethis.com/auctions/furlan-marri-reference-1121-a-solidarity-blue-watchfamforukraine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/en-int/blogs/watches/furlan-marri-brand-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thehourglass.com/nz/?p=194980",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/new-launch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004113473-furlan-marri.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.furlanmarri.com/our-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/furlan-marri/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004115131-gallery-1-1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/highlights/1004115981-furlan-marri-disco-onyx-a-modern-interpretation.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004115276-furlan-marri-unveils-the-disco-volante-onyx-lab.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/furlan-marri-chronograph-kickstarter-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://furlanmarri.com/community-design-lab",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/highlights/1004115025-furlan-marri-celebrates-its-4th-anniversary.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/furlan-marri/disco-volante/20205-dv",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/furlan-marri/chronograph-mecha-quartz/1072-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/furlan-marri/20201/watch-14089285",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.revolutionwatch.com/products/furlan-marri-x-auro-x-revo-flyback-chronographs-box-set-ffv3x",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/pages/brand-directory-furlan-marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/furlan-marri/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/products/furlan-marri-meteorite-octa-limited-edition.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hodinkee.jp/articles/introducing-furlan-marri-mechaquartz-2025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/taking-a-look-at-furlan-marri-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/buy/149509f7-da10-4a81-84e7-f2d75cbaf222/lots/05ff3dcb-6376-4fe2-8b5c-ed37360948d1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thehourmarkers.com/brands/furlan-marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/user/18113",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/news/the-new-furlan-marri-limited-edition-watch-launched-at-the-dubai-watch-week-2021/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.masterworks.com/academy/artists/furlan-marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/pages/brand-reviews/furlan-marri",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/furlan-marri-20201-tasti-tondi-chronograph-210000037364",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/disco-verde",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/furlan-marri-permanent-mechanical-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/furlan-marri-mecha-quartz-collection-2022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mrstateless.com/category/furlan-marri/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/brands/furlan-marri/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

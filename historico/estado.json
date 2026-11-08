@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 567,
- "ultima_versao": 502,
+ "proxima_linha_marcas": 568,
+ "ultima_versao": 503,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8714,6 +8714,26 @@
    "correcoes": [
     "C",
     "G",
+    "I"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Furlan Marri",
+   "linha_marcas": 567,
+   "linhas_relogios": "86816-86854",
+   "relogios": 39,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 90,
+   "passadas": {
+    "1": [
+     90,
+     39
+    ]
+   },
+   "versao": 503,
+   "correcoes": [
     "I"
    ]
   }
