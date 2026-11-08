@@ -9,3 +9,5 @@
 - História: fundada 2009 por Michele Zanella (Pádua) [obag.eu/history + ilnordest]; O clock apresentado no Salone del Mobile de Milão 2010 [obag history + ilnordest + wiki ipfs].
 - H @fullspot_ochic não verificado.
 - Linhas (wiki): Classic, Tone on Tone (21 mostradores), Camouflage, 80' clock, Disney, Gold & Silver, Mirror, Numbers, Flower Power, Safari; O chive (bolso, 2011); O click.
+## Passada 1 encerrada (42 fontes; últimas 4 sem novidade). Vermelha: >1.300 combinações; mostradores codificados OCLKD001…OCLKD111+, a maioria não indexada; fotos não legíveis no obag.eu.
+## Passada 2: buscar mais mostradores (termos novos site:obag.eu), outras lojas (amazon, zalando, ebay.it, subito, depop), coleções antigas.
