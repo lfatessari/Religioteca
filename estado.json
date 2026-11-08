@@ -8645,7 +8645,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-08T05:42:48Z",
-  "ultimo_sinal": "2026-11-08T05:51:20Z",
+  "ultimo_sinal": "2026-11-08T05:53:29Z",
   "em_andamento": {
     "marcas": [
       "Fromanteel"
@@ -8660,7 +8660,11 @@
       "2",
       "2c",
       "3",
-      "9-parcial"
+      "5",
+      "6",
+      "7-parcial",
+      "8-parcial",
+      "9"
     ],
     "passada": 1
   }
