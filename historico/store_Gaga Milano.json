@@ -1921,6 +1921,38 @@
 "e": "Caixa banhada a ouro rosa de 40 mm, mostrador de madrepérola, quartzo, pulseira de couro rosa, 30 m. Visto só na página da loja (link da página)",
 "src": "https://www.worldofwatches.com/unisex-leather-mother-of-pearl-dial-watch-gaga-milano-z-3ak7n",
 "p": 2
+},
+"N:tutti48gold": {
+"n": "Tutti 48 Gold",
+"c": "",
+"i": "https://grayandsons.com/w517651-gaga-milano-tutti-48mm/",
+"e": "48 mm, dourado. Código de estoque da loja: W517651. Visto só na página da loja (link da página)",
+"src": "https://grayandsons.com/fine-watches/other-watches-brands/gaga-milano",
+"p": 2
+},
+"6050": {
+"n": "Manuale 48 Chrono – edição limitada de 250 peças",
+"c": "6050",
+"i": "https://www.ebay.com/p/9034404141",
+"e": "Caixa de aço de 48 mm, quartzo, cronógrafo, mostrador multicolorido. Visto só na página de produto do eBay (link da página)",
+"src": "https://www.ebay.com/p/9034404141",
+"p": 2
+},
+"5525HY01S0LSW0": {
+"n": "Hello Kitty Steel White – 45 anos da Hello Kitty, colaboração Sanrio – edição limitada de 1000 peças",
+"c": "5525HY01S0LSW0",
+"i": "https://cdn01.pinkoi.com/product/UmFkff3N/0/1/1080x0.jpg",
+"e": "Caixa de aço de 40 mm com alças em forma de orelhas e laço vermelho, mostrador esmaltado branco com olhos e nariz bordados, quartzo, pulseira de couro italiano, fundo numerado",
+"src": "https://en.pinkoi.com/product/UmFkff3N",
+"p": 2
+},
+"5526HY01R0LSRM0": {
+"n": "Hello Kitty Rose Gold Red – 45 anos da Hello Kitty, colaboração Sanrio – edição limitada de 1000 peças",
+"c": "5526HY01R0LSRM0",
+"i": "https://cdn01.pinkoi.com/product/BVSe9a2i/0/1/1080x0.jpg",
+"e": "Caixa banhada a ouro rosa de 40 mm com orelhas e laço, mostrador esmaltado branco, quartzo, pulseira de couro vermelho",
+"src": "https://en.pinkoi.com/product/BVSe9a2i",
+"p": 2
 }
 },
 "order": [
@@ -2196,7 +2228,11 @@
 "7079FR01SBSTST0",
 "5020MN03S0LABL0",
 "5020MN01S0LAWH0",
-"5021MN01R0LAFX0"
+"5021MN01R0LAFX0",
+"N:tutti48gold",
+"6050",
+"5525HY01S0LSW0",
+"5526HY01R0LSRM0"
 ],
 "f": [
 {
@@ -2761,6 +2797,56 @@
 },
 {
 "url": "https://www.worldofwatches.com/mens-quartz-frame-one-leather-gold-dial-watch-gaga-milano-z-atstu",
+"passada": 2,
+"novos": 0
+},
+{
+"url": "https://grayandsons.com/fine-watches/other-watches-brands/gaga-milano",
+"passada": 2,
+"novos": 1
+},
+{
+"url": "https://www.ubuy.com.cv/en/brand/gaga-milano",
+"passada": 2,
+"novos": 0
+},
+{
+"url": "https://www.ebay.com/p/9034404141",
+"passada": 2,
+"novos": 1
+},
+{
+"url": "https://www.ebay.com/p/5041734331",
+"passada": 2,
+"novos": 0
+},
+{
+"url": "https://en.pinkoi.com/product/UmFkff3N",
+"passada": 2,
+"novos": 1
+},
+{
+"url": "https://en.pinkoi.com/product/BVSe9a2i",
+"passada": 2,
+"novos": 1
+},
+{
+"url": "https://store.beforward.jp/detail/Watches/Ladies-Watch/PA40150869/",
+"passada": 2,
+"novos": 0
+},
+{
+"url": "https://www.ebay.com/itm/376199264656",
+"passada": 2,
+"novos": 0
+},
+{
+"url": "https://www.ebay.com/itm/375951745542",
+"passada": 2,
+"novos": 0
+},
+{
+"url": "https://pasqualidomenici.it/en/gaga-milano-watch/5060ks02s2agbk0.html",
 "passada": 2,
 "novos": 0
 }
