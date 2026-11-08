@@ -8540,7 +8540,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-08T00:42:42Z",
-  "ultimo_sinal": "2026-11-08T00:42:42Z",
+  "ultimo_sinal": "2026-11-08T00:56:14Z",
   "em_andamento": {
     "marcas": [
       "Franck Muller"
@@ -8550,7 +8550,13 @@
     "relogios": "historico/parcial_FranckMuller_relogios.txt",
     "fontes": "historico/parcial_FranckMuller_fontes.txt",
     "notas": "historico/notas_FranckMuller.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "secoes_feitas": [
+      "1",
+      "2-masc",
+      "2-gc",
+      "2-new"
+    ],
+    "passada": 1,
+    "raw": "historico/raw_FranckMuller"
   }
 }
