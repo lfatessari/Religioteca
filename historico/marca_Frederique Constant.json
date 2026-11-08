@@ -1,0 +1,500 @@
+{
+ "marca": "Frederique Constant",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – frederiqueconstant.com e us./ca.frederiqueconstant.com abrem, mas a leitura automática não mostra a lista de produtos nem as fotos; revisitar com navegador ou Firecrawl",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://frederiqueconstant.com/collection_page/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://frederiqueconstant.com/wp-content/uploads/documents/FC_Consumer_Brochure_2024_EN.pdf",
+   "passada": 1,
+   "novos": 139
+  },
+  {
+   "url": "https://frederiqueconstant.com/wp-content/uploads/2025/10/FC_Consumer_Brochure_2025_EN.pdf",
+   "passada": 1,
+   "novos": 36
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant?page=2",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant?page=4",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant?page=5",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant?page=6",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant?page=3",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant?page=1",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://us.frederiqueconstant.com/product/FC-310S4NH6B.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://frederiqueconstant.com/watches/collection/highlife/highlife_heart-beat-automatic/fc-310b4nh6b/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/frederique-constant.html?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/frederique-constant/manufacture/fc718wm4h6b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thehourglass.com/catalog/frederique-constant/slimline/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://frederiqueconstant.com/collections/vintage-rally",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/frederique-constant-watch-releases-2019.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/frederique-constant",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helveti.eu/frederique-constant",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.helveti.eu/frederique-constant-vintage-rally",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/frederique_constant/classics.htm",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://righttime.com/rt/frederique_constant/frederique_constantwatches_a.htm",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.righttime.com/rt/frederique_constant/heart_beat_manufacture_a.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/frederique_constant?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbazar.ru/encyclopedia/frederique-constant/manufacture/fc705c4s9",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/heart-beat-manufacture-fc-941-15614.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-fc-303m4p5.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watch-brand/frederique-constant-77",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/frederique-constant/manufacture.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/frederique-constant/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/frederique-constant-watch/?p=3",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://majestixcollection.com/brands/frederique-constant/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/frederique-constant/sold-out.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-frederique-constant",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/frederique-constant-watch/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://monochrome-watches.com/frederique-constant-celebrates-its-37th-anniversary-with-the-elements-collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.timeandwatches.com/2026/10/frederique-constant-elements-collection-2026.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/Frederique-Constant/page/7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/frederique-constant/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/maxime-manufacture-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/maxime-manufacture-lady",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/maxime-manufacture",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/maxime-manufacture-automatic-0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/healey-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/runabout-chrono-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/ladies-automatic-double-heart-beat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/vintage-rally-chronograph-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095293-frederique-constant-heart-beat-manufacture.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004083065-frederique-constant.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://knar.com/collections/frederique-constant?page=3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/frederique-constant-watches-c-1231/?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/frederique-constant-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/frederique-constant-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://knar.com/collections/frederique-constant?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://knar.com/collections/frederique-constant-womens-watches?page=3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/frederique-constant-watches",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.ethoswatches.com/brands/frederique-constant.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collectorsquare.com/en/luxprice-index-watches/frederique-constant.html",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112727-frederique-constant-highlife-heart-beat-day-date.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112111-frederique-constant-heart-beat-day-date.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004112362-frederique-constant-highlife-heart-beat-day-date.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004112586-frederique-constant-highlife-heart-beat.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004112728-frederique-constant-highlife-heart-beat.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112436-frederique-constant-highlife-tourbillon-platinum.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/heart-beat-retrograde",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristler.eu/watches/179289-frederique-constant-ladies-automatic-world-heart-federation",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://frederique-constant.watchonista.com/node/479908",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004093087-frederique-constant-s-new-highlife-tourbillon.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant-highlife",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/frederique-constant-moonphase-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/frederique-constant-watches/subcat-manufacture",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/frederique-constant-manufacture-perpetual-calendar-unique-meteorite-dial-only-watch-2017",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/frederique-constant-horological-smartwatch-for-only-watch-2015/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/en-ca/blogs/magazine/ace-jewlers-frederique-constant-worldtimer-amsterdam",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/frederique-constant-dubai-watch-week-introducing/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://frederique-constant.watchonista.com/node/492066",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/frederique-constant/frederique-constant-unveils-new-classics-runabout-limited-editions",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2024/2/frederique-constant-x-seconde-seconde-limited-edition-release-info",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2023/12/frederique-constant-new-york-boutique-opening-highlife-tourbillon-perpetual-calendar-manufacture-limited-edition-info",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-166-12",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://lavianojewelers.com/blogs/news/unique-technical-monolithic-only-watch-2021-frederique-constant-unveils-its",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/frederique-constant/90043",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://luxe.digital/news/frederique-constant-french-foreign-legion-editions/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/10216-watch-frederique-constant-slimline-manufacture-monolithic-rose-gold-open-heart-limited-edition-81-pieces-white-dial-brown-crocod-810mc3s9.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=133643",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2008/catalog/frederique_constant/index.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1002384538-more-hearts-beating-at-fr-x00e9-d-x00e9-rique.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1000865528-fr-x00e9-d-x00e9-rique-constant-lives-its-passion.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1003954671-frederique-constant-launches-new-movement.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2007-10-05_575.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2014/05/frederique-constant-heart-beat.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://revolutionwatch.com/the-heart-of-the-matter-2/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/index.php/brands/featured/things-get-complicated-a-profile-of-frederique-constant",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9rique_Constant",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://frederiqueconstant.com/brand/",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://teddybaldassarre.com/blogs/watches/frederique-constant-review",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2015/basel/frederique-constant/01-02.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://frederiqueconstant.com/wp-content/uploads/documents/User_Manual_Smartwatch_FC-282_EN_SD.pdf",
+   "passada": 3,
+   "novos": 1
+  }
+ ],
+ "correcoes": {
+  "I": "A Frederique Constant foi fundada em 1988 por Peter Stas e Aletta Bax, um casal holandês, com uma missão ambiciosa: oferecer relógios suíços com acabamento e complicações de luxo a preços acessíveis — a \"alta relojoaria democrática\". O nome combina os nomes de dois antepassados dos fundadores. A primeira coleção, a 18th Century Collection, saiu em 1992; o desenho Heart Beat surgiu em 1994, e o primeiro calibre manufatura, o FC-910, em 2004.\n\nSediada em Plan-les-Ouates, o coração relojoeiro de Genebra, a marca tornou-se manufatura de verdade, desenvolvendo dezenas de calibres próprios — um feito raro em sua faixa de preço. O modelo Heart Beat, com abertura no mostrador que revela o batimento do balanço, tornou-se sua assinatura, e a marca democratizou complicações como o tourbillon e o calendário perpétuo manufatura a preços impensáveis. A linha Slimline, a Classics e a Highlife (esportiva de pulseira integrada) definem o catálogo. A FC também foi pioneira no smartwatch analógico suíço (Horological Smartwatch, 2015, criado com a Alpina) e lançou em 2018 o Classic Hybrid Manufacture, que une movimento mecânico e funções conectadas. O grupo, que inclui Alpina e Ateliers deMonaco, foi adquirido pela japonesa Citizen em 2016.\n\nHoje a Frederique Constant é referência de valor em relojoaria suíça de entrada no luxo, dirigindo-se a quem quer manufatura, complicações e elegância genebrina sem pagar fortunas. Mais que status, entrega acesso à alta relojoaria. [⚠️ verificar dados atuais]"
+ },
+ "observacoes": "Corrigido em I: Horological Smartwatch era chamado de 'híbrido' → smartwatch analógico (2015, com a Alpina) + Classic Hybrid Manufacture (2018); acrescentados 18th Century Collection (1992), Heart Beat (1994) e calibre FC-910 (2004) (site oficial e Wikipedia). Conferidos: G frederiqueconstant.com; fundação em 1988 por Peter Stas e Aletta Bax; Alpina (2002); compra pela Citizen em 2016; nomes de J encontrados. Ainda a verificar: 'dezenas de calibres próprios'; Instagram @frederiqueconstant (não aberto); C: o site oficial cita sede em Chêne-Bourg (desde 2000) e manufatura em Plan-les-Ouates (desde 2006)."
+}

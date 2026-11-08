@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 561,
- "ultima_versao": 497,
+ "proxima_linha_marcas": 562,
+ "ultima_versao": 498,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8561,6 +8561,25 @@
     "G": "fjouvenot.com",
     "J": "modelos confirmados"
    }
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Frederique Constant",
+   "linha_marcas": 561,
+   "linhas_relogios": "85922-86528",
+   "relogios": 607,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 97,
+   "passadas": {
+    "1": 70,
+    "2": 17,
+    "3": 10
+   },
+   "correcoes": {
+    "I": "smartwatch analógico/Hybrid; 1992, 1994, FC-910"
+   }
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8592,38 +8611,9 @@
   "Franc Vila (linha 556)": "Gravada em 07/11/2026 (v494), 154 relógios (84553-84706), vermelha. Complemento futuro com Firecrawl: francvila.com e francvilafounder.com, Chrono24 (francvila/index.htm), Masterhorologer (dezenas de matérias 2008-2015), EveryWatch; fotos das ~50 linhas só com link de página; variações de material de cada FVa/FV Evos/Intrepido/Neo Alta sem nome publicado.",
   "Franck Dubarry (linha 557)": "Gravada em 08/11/2026 (v495), 70 relógios (84707-84776), vermelha. Complemento futuro com Firecrawl: franckdubarry.com (páginas de produto bloqueadas por robots: crazy-balls, crazy-colors, intrepidus, yin-yang, crazy-wheel), Gemnation (lista completa por coleção), Chrono24, Ashford collections/franck-dubarry, Jomashop; Deep Ocean DO-03/05/10 sem código completo; mais cores de Crazy Balls, Crazy Colors, Intrepidus e Yin Yang.",
   "Franck Muller (linha 558)": "Gravada em 08/11/2026 (v496), 1092 relógios (84777-85868), vermelha. Complemento futuro: loja oficial do Japão franckmuller-japan.com (centenas de produtos com ref e foto no padrão cdn/shop/products/<REF>-<id>_p960.png; links de produto pediram permissão), essential-watches.com (famílias Master-Banker, Round, Perpetual-Calendar, Piece-Unique, Double-Mystery, Heart, Infinity, Vanguard ainda não abertas), Firecrawl (sem créditos nesta execução): notícias press-corner (Ocean Drive, Rally Maya, Vanguard Sport, Qatar), thewatchpages e watchpatrol (bloqueados), EveryWatch (login); fotos das ~150 linhas só com link de página; edições regionais/zodíaco sem referência.",
-  "Frédéric Jouvenot (linha 560)": "Gravada em 08/11/2026 (v497), 24 relógios (85898-85921). Firecrawl estava sem créditos: as páginas collections.fjouvenot.com (solar-deity e moon-deity) e a The Limited Edition (verificação anti-robô) não abriram; revisitar para fotos de Amaterasu, Surya Aventurine/Titanium DLC e Helios Diamond."
+  "Frédéric Jouvenot (linha 560)": "Gravada em 08/11/2026 (v497), 24 relógios (85898-85921). Firecrawl estava sem créditos: as páginas collections.fjouvenot.com (solar-deity e moon-deity) e a The Limited Edition (verificação anti-robô) não abriram; revisitar para fotos de Amaterasu, Surya Aventurine/Titanium DLC e Helios Diamond.",
+  "Frederique Constant (linha 561)": "Gravada em 08/11/2026 (v498), 607 relógios (85922-86528), vermelha. ~320 linhas só com link de página (The Watch Pages bloqueado, watch.co.uk 'historical', CollectorSquare, 1stDibs). Firecrawl sem créditos nesta execução. Complemento futuro: fotos via Firecrawl (thewatchpages.com, frederiqueconstant.com/watches/collection, us.frederiqueconstant.com/product/FC-XXX.html), enciclopédia watchbazar.ru (coleções), Watchonista (lista de relógios da marca), EveryWatch, Chrono24, catálogos antigos (2008-2023), mais de mil variações históricas desde 1988 (Persuasion, Index, Art Déco, Carrée, Junior, Delight, Healey, Peking-Paris)."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-08T02:42:46Z",
- "ultimo_sinal": "2026-11-08T03:11:50Z",
- "em_andamento": {
-  "marcas": [
-   "Frederique Constant"
-  ],
-  "linha_marcas": 561,
-  "grande": true,
-  "relogios": "historico/parcial_Frederique Constant_relogios.txt",
-  "fontes": "historico/parcial_Frederique Constant_fontes.txt",
-  "notas": "historico/notas_Frederique Constant.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a",
-   "3a"
-  ],
-  "passada": 2,
-  "imgs": "historico/parcial_Frederique Constant_imgs.txt"
- }
+ "marcas_novas_sem_relogios": []
 }
