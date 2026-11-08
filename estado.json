@@ -8673,7 +8673,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T06:42:41Z",
- "ultimo_sinal": "2026-11-08T06:53:49Z",
+ "ultimo_sinal": "2026-11-08T07:03:34Z",
  "em_andamento": {
   "marcas": [
    "FUGUE",
@@ -8686,7 +8686,9 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "FUGUE completa (gravada em tmp_1, falta entregar)"
+   "FUGUE completa",
+   "FullGear completa (gravadas em tmp_2, falta entregar)",
+   "Fullspot: dimensionar"
   ],
   "passada": 1
  }
