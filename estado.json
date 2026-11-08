@@ -8776,7 +8776,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T09:42:34Z",
- "ultimo_sinal": "2026-11-08T09:56:28Z",
+ "ultimo_sinal": "2026-11-08T09:59:11Z",
  "em_andamento": {
   "marcas": [
    "G. Gerlach"
@@ -8788,6 +8788,7 @@
   "notas": "historico/notas_G. Gerlach.md",
   "secoes_feitas": [
    "1",
+   "2p",
    "3p",
    "9p"
   ],

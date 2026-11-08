@@ -5,3 +5,4 @@
 - 7TP Tank (Czołg 7TP): 41 mm, NH35A (watchpatrol 1756206) — já na lista.
 - Não usa códigos (só P52/N97 nas ORP).
 - Seções feitas: 1, parte de 3, 9 (w&w, wwr, ablogtowatch)
+- Comentários w&w Otago: Batory (data grande), RWD 6, Auroch (bullhead cronógrafo, 113 peças), Navigator 2 coroas. masterhorologer: client_error em tudo.
