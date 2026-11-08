@@ -6,3 +6,9 @@ Firecrawl sem créditos (renova 13:43 UTC).
 ## Buracos / decisões
 - Ajustes finais: 5516.VJ.01 → "edição limitada de 300 peças" (openers.jp); "Batman 800" (thewatchcompany) = Batman 8000 (openers) → apagar a linha 800 e manter 8000.
 - 5070.3 → renomear "Manuale 48 Copa do Mundo Brasil 2014 Brasil – edição limitada de 300 peças"; apagar 6212.11 (= 6212.110 Inter Carbon).
+- Manuale 48 Mosaico (sem código, foto Fril) = 5010.MOSAICO.1S: apagar a linha sem código. 5010.ST01 (finn.no) = 5010.STARS.01.
+- Fonte ebay.de/itm/305910685727 não abriu (client_error): tirar da lista de fontes; relógio veio do título da busca.
+## História (para I)
+- Fundada em 2004 em Milão por Ruben Tomella (produtor de pulseiras), ideia: relógio de bolso do início do séc. XX virado relógio de pulso (gressive.jp, sandrascloset, luxuriousmagazine). Loja Corso Venezia 8. "Gagà" = expressão milanesa dos anos 1950 p/ homem elegante e excêntrico. Neymar Jr. embaixador (edições desde 2017/18), Inter (2017-18), Vinícius Jr.
+- Coleções vistas: Manuale 48/46/44/40/35, Slim 46, Thin, Thin Chrono, Sincrono, Chrono 48, Chrono Sport 45, Diving 48, Napoleone, Classic, Reflection 36, Lady Sport, Frame_One, Bionic Skull, Skullpture, Stars, Mirror, Mosaico, Crystal, Necklace, Hello Kitty, Batman, Evangelion, La Dolce Vita, Tourbillon (citado sem dados).
+## 1ª passada encerrada às ~11:01 (108 fontes). Vermelha: centenas de refs 15 caracteres não listadas; Fril ~1000 anúncios; fotos faltando.
