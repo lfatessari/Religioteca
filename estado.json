@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 570,
- "ultima_versao": 504,
+ "proxima_linha_marcas": 571,
+ "ultima_versao": 505,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8780,6 +8780,34 @@
     "I",
     "J"
    ]
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Gaga Milano",
+   "linha_marcas": 570,
+   "linhas_relogios": "86921-87232",
+   "relogios": 312,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 133,
+   "passadas": {
+    "1": [
+     105,
+     261
+    ],
+    "2": [
+     16,
+     9
+    ],
+    "3": [
+     12,
+     50
+    ]
+   },
+   "versao": 505,
+   "correcoes": [
+    "I"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8817,36 +8845,8 @@
   "Fromanteel (linha 563)": "Gravada em 08/11/2026 (v500), 101 relógios (86600-86700), vermelha. Site oficial fromanteel-watches.com bloqueado por robots e Firecrawl sem créditos: ~35 linhas vieram só de títulos de busca site:fromanteel-watches.com/products (link da página na coluna C). Complemento futuro com Firecrawl: products.json e coleções do site oficial, blog 'the-journal' (5 iconic military watches: GMT-298, Wildcat 300), specials.fromanteel-watches.com (Pendulum Diver, Prestige), De Bijenkorf, Brandfield, BoumanOnline, WatchXL, Touch of Modern (fotos e refs de variantes -0xx); Tulip 60/65/66 sem foto; Generations Johannes/Abraham/Time Machine e Vintage 1607 (2009-2010) com poucas fotos.",
   "Fullspot (linha 566)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha.",
   "G. Gerlach (linha 568)": "Gravada em 08/11/2026 (v504), 57 relógios (86855-86911), vermelha. Firecrawl sem créditos: loja cykadia.pl páginas 3 e 4 (producer/G.-Gerlach/6/3/full e /4/full) não abertas; site gerlach.org.pl e masterhorologer.com (14 fichas 2013-2017) fora de alcance; ~20 linhas só com link de página (Dragon, PM36, Batory II, Lux-Sport II, RWD-6, Porsche Club Poland, Tokkotai, Auroch); cores sem nome de Orzeł 85A, Navigator, Otago.",
-  "Gaga Milano (linha 570)": "Dimensionada em 08/11/2026 como GRANDE (Manuale 48/40/35, Slim, Chrono, Frame_One, centenas de combinações de cor): fazer sozinha."
+  "Gaga Milano (linha 570)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-08T10:44:01Z",
- "ultimo_sinal": "2026-11-08T11:04:32Z",
- "em_andamento": {
-  "marcas": [
-   "Gaga Milano"
-  ],
-  "linha_marcas": 570,
-  "grande": true,
-  "relogios": "historico/parcial_Gaga Milano_relogios.txt",
-  "fontes": "historico/parcial_Gaga Milano_fontes.txt",
-  "notas": "historico/notas_Gaga Milano.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }
