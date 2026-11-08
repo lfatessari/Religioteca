@@ -8822,7 +8822,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T10:44:01Z",
- "ultimo_sinal": "2026-11-08T10:50:47Z",
+ "ultimo_sinal": "2026-11-08T10:52:46Z",
  "em_andamento": {
   "marcas": [
    "Gaga Milano"
@@ -8834,7 +8834,8 @@
   "notas": "historico/notas_Gaga Milano.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c"
   ],
   "passada": 1
  }
