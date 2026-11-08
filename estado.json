@@ -8776,7 +8776,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T09:42:34Z",
- "ultimo_sinal": "2026-11-08T10:11:56Z",
+ "ultimo_sinal": "2026-11-08T10:13:11Z",
  "em_andamento": {
   "marcas": [
    "G. Gerlach",
@@ -8788,14 +8788,21 @@
   "fontes": "historico/parcial_G. Gerlach_fontes.txt",
   "notas": "historico/notas_G. Gerlach.md",
   "secoes_feitas": [
-   "todas"
+   "1",
+   "2p",
+   "7p"
   ],
-  "passada": 2,
+  "passada": 1,
   "extras": {
    "G. Gerlach": {
     "relogios": "historico/parcial_G. Gerlach_relogios.txt",
     "fontes": "historico/parcial_G. Gerlach_fontes.txt",
     "notas": "historico/notas_G. Gerlach.md"
+   },
+   "Gaga Laboratorio": {
+    "relogios": "historico/parcial_Gaga Laboratorio_relogios.txt",
+    "fontes": "historico/parcial_Gaga Laboratorio_fontes.txt",
+    "notas": "historico/notas_Gaga Laboratorio.md"
    }
   },
   "concluidas": {
