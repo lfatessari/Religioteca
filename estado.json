@@ -8560,7 +8560,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T01:42:31Z",
- "ultimo_sinal": "2026-11-08T01:42:31Z",
+ "ultimo_sinal": "2026-11-08T01:48:43Z",
  "em_andamento": {
   "marcas": [
    "Fratello",
@@ -8571,7 +8571,9 @@
   "relogios": "historico/parcial_Fratello_relogios.txt",
   "fontes": "historico/parcial_Fratello_fontes.txt",
   "notas": "historico/notas_Fratello.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "FJ:1-10"
+  ],
   "passada": 1
  }
 }
