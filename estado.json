@@ -8726,7 +8726,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T07:42:54Z",
- "ultimo_sinal": "2026-11-08T07:50:50Z",
+ "ultimo_sinal": "2026-11-08T07:54:16Z",
  "em_andamento": {
   "marcas": [
    "Fullspot"
@@ -8739,7 +8739,13 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "2b",
+   "2c",
+   "3",
+   "5",
+   "7",
+   "8",
+   "9"
   ],
   "passada": 1
  }
