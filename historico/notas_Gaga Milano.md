@@ -13,3 +13,4 @@ Firecrawl sem créditos (renova 13:43 UTC).
 - Coleções vistas: Manuale 48/46/44/40/35, Slim 46, Thin, Thin Chrono, Sincrono, Chrono 48, Chrono Sport 45, Diving 48, Napoleone, Classic, Reflection 36, Lady Sport, Frame_One, Bionic Skull, Skullpture, Stars, Mirror, Mosaico, Crystal, Necklace, Hello Kitty, Batman, Evangelion, La Dolce Vita, Tourbillon (citado sem dados).
 ## 1ª passada encerrada às ~11:01 (108 fontes). Vermelha: centenas de refs 15 caracteres não listadas; Fril ~1000 anúncios; fotos faltando.
 ## 2ª passada encerrada ~11:05: 16 fontes, 9 novos (+6 de títulos de busca). 3ª passada necessária (>=5 novos).
+- Limpeza: apagar sem código 'Manuale 48 – edição limitada de 299 peças' (=5012.LE.CH.1) e 'Manuale 48 Las Vegas – edição limitada' (=5012.LV.01S/5010 LV 01); apagar códigos de família sem foto: 5015S, 5015, 5020, 5084, 5085, 5081, 6054.
