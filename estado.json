@@ -8597,7 +8597,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T02:42:46Z",
- "ultimo_sinal": "2026-11-08T02:54:32Z",
+ "ultimo_sinal": "2026-11-08T02:58:25Z",
  "em_andamento": {
   "marcas": [
    "Frederique Constant"
@@ -8610,7 +8610,8 @@
   "secoes_feitas": [
    "1",
    "2",
-   "4"
+   "4",
+   "5"
   ],
   "passada": 1,
   "imgs": "historico/parcial_Frederique Constant_imgs.txt"
