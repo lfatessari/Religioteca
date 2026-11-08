@@ -14,3 +14,8 @@ Fontes: fontes.txt (passada|url|novos).
 - PROVENANCE: links internos franckmuller.com/press-corner/news/* e franckmuller-japan produtos watch-6xx pediram permissão. Só abrir URLs de busca.
 - Collectorsquare: refs vintage sem foto: 8005 L QZ, 8005 SC, 8002 SC D, 10000 H CC, 10000 K CC NR, 8005 K SC NR, 8005 CC.
 - Próximo: lojas (europeanwatch, tourneau, exquisite, cwsellors, analogshift, brogle, kennedy), vintage (Conquistador, Transamerica, Endurance, Master Calendar, Long Island chrono), imprensa.
+## 01:27 — FIM DA 1ª PASSADA: 4 fontes seguidas sem novidade (pisa1940, timeandtide, deployant, sjx).
+- Marca VERMELHA (milhares de variações; vintage 1991-2010 com dezenas de refs sem foto; edições regionais/limitadas).
+- 2ª passada: franckmuller-usa.com (lista com preços), loja do Japão (outras coleções), vintage (Conquistador/Transamerica/Master Square/Long Island antigos), edições limitadas.
+- "REM" = Remember (corrigido nome).
+- Instagram oficial no rodapé do site: @franckmuller_geneve (H diz @franckmuller) → corrigir H.
