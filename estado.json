@@ -8673,7 +8673,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-08T06:42:41Z",
- "ultimo_sinal": "2026-11-08T06:42:41Z",
+ "ultimo_sinal": "2026-11-08T06:53:49Z",
  "em_andamento": {
   "marcas": [
    "FUGUE",
@@ -8685,7 +8685,9 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "FUGUE completa (gravada em tmp_1, falta entregar)"
+  ],
   "passada": 1
  }
 }
