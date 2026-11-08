@@ -19,3 +19,4 @@ Fontes: fontes.txt (passada|url|novos).
 - 2ª passada: franckmuller-usa.com (lista com preços), loja do Japão (outras coleções), vintage (Conquistador/Transamerica/Master Square/Long Island antigos), edições limitadas.
 - "REM" = Remember (corrigido nome).
 - Instagram oficial no rodapé do site: @franckmuller_geneve (H diz @franckmuller) → corrigir H.
+## 01:32 — 2ª passada: 27 fontes (essential-watches muito produtiva). Vai para 3ª passada (lojas japonesas, arquivos de vendidos).
