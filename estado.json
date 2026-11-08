@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 568,
- "ultima_versao": 503,
+ "proxima_linha_marcas": 570,
+ "ultima_versao": 504,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8736,6 +8736,50 @@
    "correcoes": [
     "I"
    ]
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "G. Gerlach",
+   "linha_marcas": 568,
+   "linhas_relogios": "86855-86911",
+   "relogios": 57,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 65,
+   "passadas": {
+    "1": [
+     53,
+     52
+    ],
+    "2": [
+     12,
+     2
+    ]
+   },
+   "versao": 504,
+   "correcoes": []
+  },
+  {
+   "data": "2026-11-08",
+   "marca": "Gaga Laboratorio",
+   "linha_marcas": 569,
+   "linhas_relogios": "86912-86920",
+   "relogios": 9,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 21,
+   "passadas": {
+    "1": [
+     21,
+     9
+    ]
+   },
+   "versao": 504,
+   "correcoes": [
+    "D",
+    "I",
+    "J"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8771,42 +8815,10 @@
   "Frederique Constant (linha 561)": "Gravada em 08/11/2026 (v498), 607 relógios (85922-86528), vermelha. ~320 linhas só com link de página (The Watch Pages bloqueado, watch.co.uk 'historical', CollectorSquare, 1stDibs). Firecrawl sem créditos nesta execução. Complemento futuro: fotos via Firecrawl (thewatchpages.com, frederiqueconstant.com/watches/collection, us.frederiqueconstant.com/product/FC-XXX.html), enciclopédia watchbazar.ru (coleções), Watchonista (lista de relógios da marca), EveryWatch, Chrono24, catálogos antigos (2008-2023), mais de mil variações históricas desde 1988 (Persuasion, Index, Art Déco, Carrée, Junior, Delight, Healey, Peking-Paris).",
   "Frères Rochat (linha 562)": "Gravada em 08/11/2026 (v499), 71 peças (86529-86599), vermelha: quase tudo são caixas, gaiolas, pistolas e relógios de bolso com pássaro cantor (c. 1804-1850) vistos em leilões; mais 7 autômatos contemporâneos (2013-2015). Complemento futuro: site freres-rochat.com (fora das buscas) e páginas Sotheby's/Christie's/Bonhams sem foto (Firecrawl), lotes do CollectorSquare ainda não abertos (Antiquorum 302-150, 300-375, 113-300, 71-227, 34-198, 26-518; Christie's 2012/2010/2005; Sotheby's 2005/2008 GE0804-77), Musée d'art et d'histoire de Genebra, Patek Philippe Museum, Palace Museum de Pequim.",
   "Fromanteel (linha 563)": "Gravada em 08/11/2026 (v500), 101 relógios (86600-86700), vermelha. Site oficial fromanteel-watches.com bloqueado por robots e Firecrawl sem créditos: ~35 linhas vieram só de títulos de busca site:fromanteel-watches.com/products (link da página na coluna C). Complemento futuro com Firecrawl: products.json e coleções do site oficial, blog 'the-journal' (5 iconic military watches: GMT-298, Wildcat 300), specials.fromanteel-watches.com (Pendulum Diver, Prestige), De Bijenkorf, Brandfield, BoumanOnline, WatchXL, Touch of Modern (fotos e refs de variantes -0xx); Tulip 60/65/66 sem foto; Generations Johannes/Abraham/Time Machine e Vintage 1607 (2009-2010) com poucas fotos.",
-  "Fullspot (linha 566)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha."
+  "Fullspot (linha 566)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha.",
+  "G. Gerlach (linha 568)": "Gravada em 08/11/2026 (v504), 57 relógios (86855-86911), vermelha. Firecrawl sem créditos: loja cykadia.pl páginas 3 e 4 (producer/G.-Gerlach/6/3/full e /4/full) não abertas; site gerlach.org.pl e masterhorologer.com (14 fichas 2013-2017) fora de alcance; ~20 linhas só com link de página (Dragon, PM36, Batory II, Lux-Sport II, RWD-6, Porsche Club Poland, Tokkotai, Auroch); cores sem nome de Orzeł 85A, Navigator, Otago.",
+  "Gaga Milano (linha 570)": "Dimensionada em 08/11/2026 como GRANDE (Manuale 48/40/35, Slim, Chrono, Frame_One, centenas de combinações de cor): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-08T09:42:34Z",
- "ultimo_sinal": "2026-11-08T10:13:11Z",
- "em_andamento": {
-  "marcas": [
-   "G. Gerlach",
-   "Gaga Laboratorio"
-  ],
-  "linha_marcas": 568,
-  "grande": false,
-  "relogios": "historico/parcial_G. Gerlach_relogios.txt",
-  "fontes": "historico/parcial_G. Gerlach_fontes.txt",
-  "notas": "historico/notas_G. Gerlach.md",
-  "secoes_feitas": [
-   "1",
-   "2p",
-   "7p"
-  ],
-  "passada": 1,
-  "extras": {
-   "G. Gerlach": {
-    "relogios": "historico/parcial_G. Gerlach_relogios.txt",
-    "fontes": "historico/parcial_G. Gerlach_fontes.txt",
-    "notas": "historico/notas_G. Gerlach.md"
-   },
-   "Gaga Laboratorio": {
-    "relogios": "historico/parcial_Gaga Laboratorio_relogios.txt",
-    "fontes": "historico/parcial_Gaga Laboratorio_fontes.txt",
-    "notas": "historico/notas_Gaga Laboratorio.md"
-   }
-  },
-  "concluidas": {
-   "G. Gerlach": "pesquisa completa; dados em historico/dados_G. Gerlach.txt e marca_G. Gerlach.json (rodar gravar_marca.py)"
-  }
- }
+ "marcas_novas_sem_relogios": []
 }
