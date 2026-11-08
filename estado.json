@@ -8615,5 +8615,19 @@
   "Frederique Constant (linha 561)": "Gravada em 08/11/2026 (v498), 607 relógios (85922-86528), vermelha. ~320 linhas só com link de página (The Watch Pages bloqueado, watch.co.uk 'historical', CollectorSquare, 1stDibs). Firecrawl sem créditos nesta execução. Complemento futuro: fotos via Firecrawl (thewatchpages.com, frederiqueconstant.com/watches/collection, us.frederiqueconstant.com/product/FC-XXX.html), enciclopédia watchbazar.ru (coleções), Watchonista (lista de relógios da marca), EveryWatch, Chrono24, catálogos antigos (2008-2023), mais de mil variações históricas desde 1988 (Persuasion, Index, Art Déco, Carrée, Junior, Delight, Healey, Peking-Paris)."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-08T04:39:13Z",
+ "ultimo_sinal": "2026-11-08T04:39:13Z",
+ "em_andamento": {
+  "marcas": [
+   "Frères Rochat"
+  ],
+  "linha_marcas": 562,
+  "grande": false,
+  "relogios": "historico/parcial_FreresRochat_relogios.txt",
+  "fontes": "historico/parcial_FreresRochat_fontes.txt",
+  "notas": "historico/notas_FreresRochat.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
