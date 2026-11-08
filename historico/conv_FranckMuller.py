@@ -25,8 +25,9 @@ def build(rows):
     # dedupe identical image
     seen=set();out=[]
     for r in rows:
-        if r[2] and r[2] in seen: continue
-        seen.add(r[2]);out.append(r)
+        k=(r[2],r[1])
+        if r[2] and k in seen: continue
+        seen.add(k);out.append(r)
     g=collections.defaultdict(list)
     for r in out: g[(r[0],r[1])].append(r)
     res=[]

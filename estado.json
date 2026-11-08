@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 558,
-  "ultima_versao": 495,
+  "proxima_linha_marcas": 559,
+  "ultima_versao": 496,
   "historico": [
     {
       "data": "2026-10-16",
@@ -8506,6 +8506,25 @@
         ]
       },
       "obs": "Feita sozinha (a próxima, Franck Muller, é grande). Firecrawl sem créditos; site oficial com robots; EveryWatch exige login; Chrono24, Gemnation e clothbase deram client_error. Corrigidos I e J da aba Marcas; M com observações."
+    },
+    {
+      "data": "2026-11-08",
+      "marca": "Franck Muller",
+      "linha_marcas": 558,
+      "linhas_relogios": "84777-85868",
+      "relogios": 1092,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 200,
+      "passadas": {
+        "1": 163,
+        "2": 27,
+        "3": 10
+      },
+      "correcoes": {
+        "H": "@franckmuller_geneve"
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -8535,36 +8554,9 @@
     "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo.",
     "Formex (linha 551)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência.",
     "Franc Vila (linha 556)": "Gravada em 07/11/2026 (v494), 154 relógios (84553-84706), vermelha. Complemento futuro com Firecrawl: francvila.com e francvilafounder.com, Chrono24 (francvila/index.htm), Masterhorologer (dezenas de matérias 2008-2015), EveryWatch; fotos das ~50 linhas só com link de página; variações de material de cada FVa/FV Evos/Intrepido/Neo Alta sem nome publicado.",
-    "Franck Dubarry (linha 557)": "Gravada em 08/11/2026 (v495), 70 relógios (84707-84776), vermelha. Complemento futuro com Firecrawl: franckdubarry.com (páginas de produto bloqueadas por robots: crazy-balls, crazy-colors, intrepidus, yin-yang, crazy-wheel), Gemnation (lista completa por coleção), Chrono24, Ashford collections/franck-dubarry, Jomashop; Deep Ocean DO-03/05/10 sem código completo; mais cores de Crazy Balls, Crazy Colors, Intrepidus e Yin Yang."
+    "Franck Dubarry (linha 557)": "Gravada em 08/11/2026 (v495), 70 relógios (84707-84776), vermelha. Complemento futuro com Firecrawl: franckdubarry.com (páginas de produto bloqueadas por robots: crazy-balls, crazy-colors, intrepidus, yin-yang, crazy-wheel), Gemnation (lista completa por coleção), Chrono24, Ashford collections/franck-dubarry, Jomashop; Deep Ocean DO-03/05/10 sem código completo; mais cores de Crazy Balls, Crazy Colors, Intrepidus e Yin Yang.",
+    "Franck Muller (linha 558)": "Gravada em 08/11/2026 (v496), 1092 relógios (84777-85868), vermelha. Complemento futuro: loja oficial do Japão franckmuller-japan.com (centenas de produtos com ref e foto no padrão cdn/shop/products/<REF>-<id>_p960.png; links de produto pediram permissão), essential-watches.com (famílias Master-Banker, Round, Perpetual-Calendar, Piece-Unique, Double-Mystery, Heart, Infinity, Vanguard ainda não abertas), Firecrawl (sem créditos nesta execução): notícias press-corner (Ocean Drive, Rally Maya, Vanguard Sport, Qatar), thewatchpages e watchpatrol (bloqueados), EveryWatch (login); fotos das ~150 linhas só com link de página; edições regionais/zodíaco sem referência."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-08T00:42:42Z",
-  "ultimo_sinal": "2026-11-08T01:32:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Franck Muller"
-    ],
-    "linha_marcas": 558,
-    "grande": true,
-    "relogios": "historico/parcial_FranckMuller_relogios.txt",
-    "fontes": "historico/parcial_FranckMuller_fontes.txt",
-    "notas": "historico/notas_FranckMuller.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "passada1-fim"
-    ],
-    "passada": 3,
-    "raw": "historico/raw_FranckMuller"
-  }
+  "marcas_novas_sem_relogios": []
 }
