@@ -8595,5 +8595,19 @@
   "Frédéric Jouvenot (linha 560)": "Gravada em 08/11/2026 (v497), 24 relógios (85898-85921). Firecrawl estava sem créditos: as páginas collections.fjouvenot.com (solar-deity e moon-deity) e a The Limited Edition (verificação anti-robô) não abriram; revisitar para fotos de Amaterasu, Surya Aventurine/Titanium DLC e Helios Diamond."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-08T02:42:46Z",
+ "ultimo_sinal": "2026-11-08T02:42:46Z",
+ "em_andamento": {
+  "marcas": [
+   "Frederique Constant"
+  ],
+  "linha_marcas": 561,
+  "grande": true,
+  "relogios": "historico/parcial_Frederique Constant_relogios.txt",
+  "fontes": "historico/parcial_Frederique Constant_fontes.txt",
+  "notas": "historico/notas_Frederique Constant.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
