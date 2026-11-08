@@ -8774,5 +8774,19 @@
   "Fullspot (linha 566)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-08T09:42:34Z",
+ "ultimo_sinal": "2026-11-08T09:42:34Z",
+ "em_andamento": {
+  "marcas": [
+   "G. Gerlach"
+  ],
+  "linha_marcas": 568,
+  "grande": false,
+  "relogios": "historico/parcial_G. Gerlach_relogios.txt",
+  "fontes": "historico/parcial_G. Gerlach_fontes.txt",
+  "notas": "historico/notas_G. Gerlach.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
