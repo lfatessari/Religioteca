@@ -8820,5 +8820,19 @@
   "Gaga Milano (linha 570)": "Dimensionada em 08/11/2026 como GRANDE (Manuale 48/40/35, Slim, Chrono, Frame_One, centenas de combinações de cor): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-08T10:44:01Z",
+ "ultimo_sinal": "2026-11-08T10:44:01Z",
+ "em_andamento": {
+  "marcas": [
+   "Gaga Milano"
+  ],
+  "linha_marcas": 570,
+  "grande": true,
+  "relogios": "historico/parcial_Gaga Milano_relogios.txt",
+  "fontes": "historico/parcial_Gaga Milano_fontes.txt",
+  "notas": "historico/notas_Gaga Milano.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
