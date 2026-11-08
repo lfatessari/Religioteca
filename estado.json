@@ -8779,7 +8779,8 @@
  "ultimo_sinal": "2026-11-08T10:11:56Z",
  "em_andamento": {
   "marcas": [
-   "G. Gerlach"
+   "G. Gerlach",
+   "Gaga Laboratorio"
   ],
   "linha_marcas": 568,
   "grande": false,
@@ -8796,6 +8797,9 @@
     "fontes": "historico/parcial_G. Gerlach_fontes.txt",
     "notas": "historico/notas_G. Gerlach.md"
    }
+  },
+  "concluidas": {
+   "G. Gerlach": "pesquisa completa; dados em historico/dados_G. Gerlach.txt e marca_G. Gerlach.json (rodar gravar_marca.py)"
   }
  }
 }
