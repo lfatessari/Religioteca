@@ -8896,7 +8896,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-09T10:42:44Z",
-  "ultimo_sinal": "2026-11-09T10:42:44Z",
+  "ultimo_sinal": "2026-11-09T10:58:43Z",
   "em_andamento": {
     "marcas": [
       "Gallet"
@@ -8906,7 +8906,12 @@
     "relogios": "historico/parcial_Gallet_relogios.txt",
     "fontes": "historico/parcial_Gallet_fontes.txt",
     "notas": "historico/notas_Gallet.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c-parcial",
+      "5-parcial"
+    ],
     "passada": 1
   }
 }
