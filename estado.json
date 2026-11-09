@@ -8927,7 +8927,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T11:42:40Z",
- "ultimo_sinal": "2026-11-09T11:42:40Z",
+ "ultimo_sinal": "2026-11-09T11:53:07Z",
  "em_andamento": {
   "marcas": [
    "Galvin Watch Company",
@@ -8938,7 +8938,10 @@
   "relogios": "historico/parcial_Galvin_relogios.txt",
   "fontes": "historico/parcial_Galvin_fontes.txt",
   "notas": "historico/notas_Galvin.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "secoes_feitas": [
+   "Galvin: todas"
+  ],
+  "passada": 1,
+  "notas_gane": "historico/notas_Gane.md"
  }
 }
