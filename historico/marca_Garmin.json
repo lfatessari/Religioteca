@@ -1,0 +1,735 @@
+{
+ "marca": "Garmin",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – garmin.com carrega listas por JavaScript e as páginas de produto não aparecem nas buscas; usados sites regionais oficiais (garmin.com.my, garmin.com.hk/.sg, garmin.ae, developer.garmin.com); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://smartbodytouch.com/garmin-watch-models-by-release-date-the-ultimate-evolution-guide/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Garmin_Forerunner",
+   "passada": 1,
+   "novos": 45
+  },
+  {
+   "url": "https://en.everybodywiki.com/List_of_Garmin_products",
+   "passada": 1,
+   "novos": 95
+  },
+  {
+   "url": "https://the5krunner.com/2024/10/14/entire-garmin-watch-lineup-as-of-october-2024-u-asleep_onion/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.garmin.com.my/products/wearables/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.thewatchcompany.com/garmin",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.garmin.com.hk/products/discontinued/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/watch/brand-garmin",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://search.kakaku.com/Garmin/",
+   "passada": 1,
+   "novos": 40
+  },
+  {
+   "url": "https://search.kakaku.com/fenix7/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://search.kakaku.com/venu/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://search.kakaku.com/garmin%20instinct/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://search.kakaku.com/Approach/",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.thewatchcompany.com/garmin/marq/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gressive.jp/brand/garmin-marq",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.yodobashi.com/maker/0000000553/p3/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://varuste.net/ja/c12556/garmin-fenix-8",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://search.kakaku.com/fenix%208/",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://search.kakaku.com/epix%20Pro/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://search.kakaku.com/ForeAthlete%2055/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://search.kakaku.com/garmin%20lily2%20sport/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://kakaku.com/item/J0000030296",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/2025/09/15/garmin-discontinued-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.garmin.com/en-GB/blog/twenty-years-of-running-with-garmin/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://garmin.ae/c/wearables-smartwatches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dcrainmaker.com/2021/01/years-forerunner-released.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www8.garmin.com/specs/Forerunner_series.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/?p=11559312",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/pages/the-history-of-garmin-fenix-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.runningxpert.com/en/inspiration/garmin-fenix-through-the-years",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://search.kakaku.com/tactix%20garmin/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gpseesti.ee/arhiiv/quatix",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thegpsstore.com/Garmin-Hiking-Wearables-C735.aspx?c=735&p=1",
+   "passada": 1,
+   "novos": 39
+  },
+  {
+   "url": "https://sse.watchpatrol.net/discover/brands/garmin/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thegpsstore.com/Garmin-Wearables-C735.aspx?p=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchco.com/collections/garmin.oembed?page=17",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchco.com/en-ca/collections/garmin-smart-watches/producttype_watch.oembed",
+   "passada": 1,
+   "novos": 48
+  },
+  {
+   "url": "https://www.marketcrossjewellers.com/collections/not-ranged-garmin.oembed?page=2",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://store.treshers.com/collections/garmin-watches.oembed",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://heyupnow.com/collections/brand-garmin.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ridgeandriver.com/collections/garmin.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wareable.com/garmin/garmin-marq-gen-3-collection-announcement-diver-adventurer-athlete-aviator-commander-golfer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/garmin-launches-third-generation-premium-positioned-titanium-ceramic-marq-smartwatches/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wiki.garminrumors.com/MARQ_(original)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://the5krunner.com/specs/garmin/marq/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/garmin-marq",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://search.kakaku.com/instinct/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://the5krunner.com/garmin-instinct/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://the5krunner.com/specs/garmin/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://the5krunner.com/specs/garmin/d2-mach-1/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://the5krunner.com/specs/garmin/d2-mach-2-pro/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://the5krunner.com/specs/garmin/enduro/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://the5krunner.com/specs/garmin/descent-g1/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://logiqx.github.io/gps-details/devices/garmin/watches/d2.html",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/garmin-d2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-d2-charlie/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-d2-delta/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-d2-air-x10/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/?p=18598452",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-5/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-5-sapphire/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-6/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-7-standard-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-7x-solar-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/?p=8552442",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivosmart/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-hr/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/?p=8552508",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-descent-mk1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-descent-mk2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s40/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s20/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-approach-x10/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-venu-sq/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-610/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-620/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-910xt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-920xt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-225/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-735xt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-245/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-955",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-935/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-645-music/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/?p=18598302",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-410/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-310xt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-10-large/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.buydig.com/shop/product/GRFR410/Garmin-Forerunner-410-GPS-Enabled-Sport-Watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://developer.garmin.com/connect-iq/compatible-devices/",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://www.marketcrossjewellers.com/collections/garmin-marq.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://everywatch.com/garmin/watch-13740103",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.techradar.com/uk/news/garmin-just-quietly-released-five-new-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lcsupply.com/collections/garmin-sale.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://racycles.com/collections/garmin-fitness-watches.oembed?page=2",
+   "passada": 1,
+   "novos": 51
+  },
+  {
+   "url": "https://global.broadwaylifestyle.com/collections/garmin.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/garmin-instinct-3-limited-editions.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.primerpeak.com/?p=45955",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gizmochina.com/2022/10/24/garmin-epix-2-porsche-edition-launch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.itmedia.co.jp/mobile/spv/2603/19/news094.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.toy-people.com/en/?p=71343",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.garmin.com.sg/news/press-release/news-2019-dec-legacy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://heartratemonitorsusa.com/products/garmin-vivofit-jr-3-kids-fitness-tracker",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.wareable.com/garmin/garmin-vivofit-jr-2-price-release-date-specs-2412",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/garmin/watches/instinct/instinct-2-solar-tactical-special-edition_010-02627-0a",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.garmin.com.sg/products/discontinued/?cat=golf",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/48471312",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.garmin.com.hk/products/discontinued/?cat=marq",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.garmin.com.hk/products/discontinued/?cat=marine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.garmin.co.jp/minisite/find-your-garmin/pdf/compare_golf.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://the5krunner.com/2025/12/06/garmin-2025-product-list-favourites-passes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.notebookcheck.net/Garmin-2025-recap-Free-updates-with-new-features-big-hardware-upgrades-and-several-smartwatches-planned-for-2026.1194913.0.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phonearena.com/news/Best-Garmin-smartwatches-differences_id118386",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-row/collections/garmin-fenix-7-fitness.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/garmin-epix/brand-garmin.oembed",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gooutdoors.co.uk/products/garmin-fnix-6x-sapphire-edition-black-525707.oembed",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.evo.com/products/200914-garmin-fenixr-6-sapphire-multisport-gps-watch.oembed",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-010-02293-06.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/garmin-instinct-solar-graphite-camo-rugged-solar-gps-outdoor-smartwatch-010-02293-05.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://planetcyclery.com/garmin-instinct-solar-camo-edition",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://planetcyclery.com/accessories/electronics/watches/garmin-instinct-solar-surf-edition",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-instinct-solar-watch-tactical-edition.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.garmin.com.hk/products/outdoor/instinct-solar-surf-cloudbreak",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-forerunner-945-watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-forerunner-935-gps.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://search.kakaku.com/vivosmart4/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://search.kakaku.com/Instinct%202%20Dual%20Power/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-fenix-5-gps-watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-fenix-5s-gps-watch.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.righttime.com/rt/garmin/garminwatches.htm",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.eurooptic.com/Garmin-fenix-7-Sapphire-Solar-Mineral-Blue-DLC-Titanium-w-Whitestone-Band-Smartw.aspx",
+   "passada": 2,
+   "novos": 29
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-vivoactive-4-gps-smartwatch.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-venu-sq-gps-smartwatch.html",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-quatix-6-watch.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-tactix-delta-watch.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-tactix-delta-solar-watches-with-ballistics.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.campsaver.com/garmin-tactix-gps-watch.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/products/garmin-watch-tactix-delta-solar-gps-010-02357-11.oembed",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://azfinetime.com/products/garmin-descent-mk1-gps-dive-watch-silver-sapphire",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watch.co.uk/garmin-tactix-delta-outdoor-smartwatch-with-gps-010-02357-01.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.pcrichard.com/garmin-venu-4-45-mm-smart-watch-silver-with-silver-gray-silicone-band/010-03014-01.html",
+   "passada": 3,
+   "novos": 1
+  }
+ ],
+ "correcoes": {
+  "I": "A Garmin foi fundada em 1989 por Gary Burrell e Min Kao (cujos primeiros nomes deram origem ao nome \"Garmin\") nos Estados Unidos, tornando-se líder mundial em tecnologia de navegação por GPS — de dispositivos automotivos e náuticos à aviação. Essa expertise em posicionamento e resistência tornou-se a base de sua entrada no pulso. O primeiro relógio de pulso da marca foi o Forerunner, lançado em 2003 (modelos 201 e 101), relógio de corrida com GPS.\n\nNos wearables, a Garmin firmou-se como referência absoluta em smartwatches esportivos e de aventura de alta performance. A linha fēnix (multiesporte robusto), a Forerunner (corrida), a Instinct (outdoor tático) e a Descent (mergulho) oferecem GPS de precisão, mapas, métricas avançadas de saúde e treino, e autonomia de bateria muito superior à concorrência, conquistando atletas, aventureiros, pilotos e militares. A marca é reconhecida pela robustez de nível militar e pela profundidade de dados fisiológicos.\n\nHoje a Garmin ocupa a liderança no segmento premium de smartwatches esportivos e de aventura, dirigindo-se a quem exige desempenho, precisão e durabilidade. Mais que um relógio, seus dispositivos são computadores de pulso para esporte e exploração. [⚠️ smartwatch/wearable, não relógio tradicional — verificar enquadramento na base; dados atuais]"
+ },
+ "observacoes": "Corrigido I: acrescentado que o primeiro relógio de pulso foi o Forerunner (201/101), de 2003 (blog oficial Garmin + Wikipedia). Ainda a verificar: B/C — a holding Garmin Ltd. tem sede legal em Schaffhausen (Suíça); a sede operacional é Olathe (Kansas). K sem logo (garmin.com não abre). J poderia incluir Venu, vívoactive, Approach, quatix, tactix, D2, Enduro."
+}
