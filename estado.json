@@ -9049,7 +9049,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T17:42:53Z",
- "ultimo_sinal": "2026-11-09T18:13:31Z",
+ "ultimo_sinal": "2026-11-09T18:16:09Z",
  "em_andamento": {
   "marcas": [
    "Garrick",
@@ -9068,7 +9068,7 @@
    "5",
    "9"
   ],
-  "passada": 1,
+  "passada": 2,
   "garrick": "pesquisa concluída (3 passadas), arquivos parciais em historico/parcial_Garrick_*; falta só gravar"
  }
 }
