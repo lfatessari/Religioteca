@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 586,
- "ultima_versao": 516,
+ "proxima_linha_marcas": 587,
+ "ultima_versao": 517,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9080,6 +9080,25 @@
     ]
    },
    "obs": "Grande, sozinha. Site oficial = loja Gc dentro de guesswatches.com (coleções gc-*, collections/all, sitemap_products_1 inteiro); ~115 refs vieram de títulos de resultados de busca (watch.co.uk, mastersintime, kamalwatch, fruugo, eBay). Só ~106 linhas com foto direta; ~440 com link da página do produto (oficial na maioria) e 28 com busca no Google Imagens. Corrigidos I (fundada em 1997 por Paul Marciano) e J. Firecrawl sem créditos. Vermelha: catálogo suíço 1997-2012 (refs X/G/A/I/B) com centenas de referências não listadas. Próxima: Gebson (586)."
+  },
+  {
+   "marca": "Gebson",
+   "data": "2026-11-09",
+   "linha_marcas": 586,
+   "linhas_relogios": "89745-89750",
+   "relogios": 6,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "não",
+   "fontes": 20,
+   "versao": 517,
+   "passadas": {
+    "1": [
+     20,
+     3
+    ]
+   },
+   "obs": "Marca suíça de relógios de arte (Neuchâtel, 2007/2009, Geb Group), peças únicas ou até 8 exemplares; só ~6 peças públicas (2009-2010). Tratada como não grande apesar do sinal 'peças únicas': todo o rastro público se esgotou em ~10 fontes e as 8 últimas não trouxeram nada. Masterhorologer (3 artigos) e WatchUSeek não abriram; 3 modelos de 2010 (Unique 1, Terre Rayonnante, Flora) só pelo título de busca. Corrigidos B, C, D, G, I, J; E/F parecem baixos (anotado em M). Firecrawl sem créditos. Próxima: Geckota (587), grande, sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
