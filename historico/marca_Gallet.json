@@ -1,0 +1,746 @@
+{
+ "marca": "Gallet",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Corrigido: I — aviso \"[⚠️ verificar status atual da marca]\" trocado pelo fato confirmado (comprada pela Breitling em mar/2025 e relançada em set/2026, 200 anos); \"então coronel Harry Truman\" → \"então senador\" (Wikipedia, Chronopedia, site oficial); acrescentado que 1466 vem da história da família. J: \"Flight Officer\" e \"Flying Officer\" repetidos (são o mesmo modelo) → coleções atuais do site oficial + históricos. Ainda a verificar: H (@galletwatches) não conferido; C (La Chaux-de-Fonds) é a cidade histórica — sede atual sob a Breitling não confirmada; K sem logo (não achado em link estável).",
+ "correcoes": {
+  "I": "A Gallet reivindica uma das linhagens mais antigas da relojoaria mundial, remontando a 1466, quando Humbertus Gallet foi registrado como cidadão e relojoeiro em Genebra — o que, segundo a marca, faz dela a mais antiga empresa relojoeira documentada do mundo (a data se apoia na história da família). Formalizada como negócio moderno em 1826 por Julien Gallet, a casa estabeleceu-se em La Chaux-de-Fonds.\n\nA Gallet consagrou-se como uma das grandes especialistas em cronógrafos do século XX. O icônico MultiChron 12 e, sobretudo, o Flight Officer (Flying Officer no Reino Unido, 1939) — primeiro cronógrafo de pulso com calculadora de fusos horários, encomendado pela equipe do então senador Harry Truman para pilotos da Força Aérea do Exército dos EUA — tornaram-se lendas. A marca produziu cronógrafos militares para as forças aliadas na Segunda Guerra e o Flying Officer é cultuado por colecionadores. A Gallet foi pioneira em cronógrafos à prova d'água (caixa \"Clamshell\", patenteada em 1937) e resistentes a impactos para pilotos e médicos.\n\nHoje a Gallet é reverenciada sobretudo por sua extraordinária herança histórica e por seus cronógrafos vintage, muito procurados. Em março de 2025 a marca foi comprada pela Breitling, que a relançou em setembro de 2026, nos 200 anos da fundação, na Geneva Watch Days, como marca-irmã mais acessível (coleções Flying Officer, Multichron Pilot, Multichron Sport e Gallet Classics). Mais que uma marca, é um dos elos vivos mais antigos com as origens da relojoaria.",
+  "J": "Atuais (2026): Flying Officer Chronograph 40 e Automatic 40, Multichron Pilot 42, Multichron Sport 41, Gallet Classics (Tribute to Yachting Big Eye, Tribute to Multichron 45, Tribute to Silverlight). Históricos: Flight/Flying Officer (1939), MultiChron 12 \"Jim Clark\", MultiChron Clamshell, MultiChron Regulator, MultiChron Yachting, MultiChron Pilot, Excel-O-Graph, MultiChron Decimal"
+ },
+ "fontes": [
+  {
+   "url": "https://www.gallet.com/zz-zz/collections",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=51697",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/flying-officer/flying-officer-chronograph/AG2301131B1X2/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/flying-officer/flying-officer-chronograph/AG2301131B1A1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/flying-officer/flying-officer-chronograph/AG2301131B1S1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/flying-officer/flying-officer-chronograph/AG2301131C1W1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-pilot/multichron-pilot-chronograph/AG2303251B1W7/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-pilot/multichron-pilot-chronograph/AG2303171C1W1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-sport/multichron-sport-chronograph/AG2302101C1X1/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-sport/multichron-sport-chronograph/AG2302131B1X1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/flying-officer/flying-officer-automatic/AG1701131C1W1/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/flying-officer/flying-officer-automatic/AG1701131O1W1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/gallet-classics/classics-tribute-to-multichron-yachting/AG0910121A1S1/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/gallet-classics/classics-tribute-to-multichron-45/AG0910121B1W3/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/gallet-classics/classics-silverlight/AG0910121G1X1/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-pilot/multichron-pilot-chronograph/AG2303251B1A1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-sport/multichron-sport-chronograph/AG2302101C1W1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Gallet_MultiChron_12",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://chronopedia.club/Gallet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronopedia.club/Gallet_Flight_Officer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Gallet_MultiChron_Diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Gallet_Excel-O-Graph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Gallet_MultiChron_Astronomic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Gallet_MultiChron_Pilot",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronopedia.club/Gallet_MultiChron_Yachting",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gallet.com/is-en/icons/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Gallet_%26_Company",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Gallet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Gallet_%26_Co",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.fratellowatches.com/gallet-watches-you-may-consider-adding-into-your-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/ja/discover/brands/gallet/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-multichron-yachting-big-eye-as08623",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/gallet-multichron-as11543",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/gallet-multichron-regulator-chronograph-as01623",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/gallet-multichron-12h-as01672",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/gallet-multichron-decimal-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/gallet-multichron-pilot-as01171",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-flying-officer-as04371",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-multichron-12-jim-clark-as01826",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-multichron-12-waterproof-as08828",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-dual-register-chronograph-as02793",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-chronograph-as02219",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-multichron-as04473",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/gallet-racing-heritage-chronograph-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/blogs/transmissions/gallet-watches-history",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://pubs.nawcc.org/index.php/museum-collection-214/search-the-collection/82-museum-library-/museumlibrary/1056-gallet-museum-edition-flight-officer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/from-pit-stop-to-pole-position-the-gallet-heritage-edition-racing-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/gallet-flying-officer",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2010/08/20/gallet-museum-edition-flight-officer-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/gallet-flying-officer-2nd-generation",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.com/?p=89021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/gallet-multichron-sport",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/gallet-multichron-pilot",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/gallet-classic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-cie-lot-299-38",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-lot-357-100",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-lot-377-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-chronograph-lot-335-71",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-lot-366-78",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-clamshell-lot-333-67",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/gallet/multichron/watch-13686395",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/gallet/multichron/watch-13983913",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulangandsons.net/collections/gallet.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://bulangandsons.fr/en/products/gallet-chronograph-1940s-flying-officer-w701",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jewelry.ha.com/itm/timepieces/gallet-and-co-rare-multichron-navigator-gmt-steel-chronograph-double-boxed-circa-1943/a/5526-54067.s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1980s-gallet-multichron-12-automatic-chronograph-pvd-valjoux-cal-7750-top-gun",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/the-vintage-corner-gallet-flying-officer-pilots-chronograph/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.coronet.org/new-long-reads/an-ancient-watch-brand-the-history-of-gallet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delraywatch.com/gallet/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/gallet/jewelry/watches/wrist-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.maier.fr/watchmaking-jewelry-brands/gallet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.velvetboxsociety.com/gallet.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2017/10/gallet-heritage-edition-auto-racing.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mentawatches.com/?p=1802",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mentawatches.com/?p=19058",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://mentawatches.com/?p=7384",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-gallet-multichron-navigator-gmt-mens-chronograph-wristwatch-ep-rare",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-gallet-flying-officer-mens-chronograph-wristwatch-landeron-149-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-gallet-24-hour-dial-mens-mechanical-chronograph-wristwatch-venus-188",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-38mm-gallet-chronograph-mens-mechanical-wristwatch-valjoux-71-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oliverandclarke.com/products/gallet-multichron-30m-chronograph-clamshell-case",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/gallet-rare-pilot-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/tbt-gallet-medigraph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/tbt-the-gallet-multichron-officer-is-a-truly-rare-specimen/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-commander-lot-381-43",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrand/gallet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnet.co.jp/en/item/view/6265",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/gallet-rare-mini-chronograph-wristwatch-in-staybrite-steel-excelsior-park-caliber-1940s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/gallet-excel-o-graph-by-racine/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://secondtimearoundwatchco.com/products/1960s-vintage-gallet-3-register-multichron-12-chronograph-stainless-steel-watch-14690",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://stetzcowatches.com/product/gallet-excel-o-graph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loupethis.com/auctions/gallet-by-racine-multichron-pilot-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpool24.com/en/30734065/gallet-flying-officer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windvintage.com/gallet-flying-officer-unpolished",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-1990-gallet-6645-01-150-8115-marathon-navigator-mens-quartz-wristwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/gallet-x-l-l-bean-military-diver-navigator-as06899",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1990-gallet-desert-storm-military-prototype-one-of-six",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-1986-gallet-co-usaf-adanac-military-mens-quartz-wristwatch-usa-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/marathon-gallet-military-watch-as06896",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/13736292-vintage-gallet-multichron-regulator-chronograph-wristwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/?p=7935",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/197896201007",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/blog/gallet-is-back-four-new-collections-launch-simultaneously-at-geneva-watch-days.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/tropical-1950s-gallet-multichron-45-film-chronograph",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1960s-gallet-multichron-45",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/28988371",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/galet-multichron-12",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/gallet-24-hour-multi-chronograph",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/1960s-gallet-multichron-45-chronograph-valjoux-7730",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/8691635",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mentawatches.com/?p=665",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mentawatches.com/?p=17754",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1940s-gallet-regulator-chronograph-venus-140",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oliverandclarke.com/products/gallet-multichron-chronograph-brushed-silver-non-luminous-dial",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-37mm-gallet-multichron-mens-chronograph-wristwatch-ep-40-68-steel",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/gallet-classics/classics-silverlight/AG0910121G1S2/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/gallet-classics/classics-silverlight/AG0910121G1S1/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/ch-en/watches/gallet-classics/classics-tribute-to-multichron-45/AG0910121B1S2/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/gb-en/watches/gallet-classics/classics-silverlight/AG0910121G1W6/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/gallett/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/se-en/watches/gallet-classics/classics-silverlight/AG0910121G1W3/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-pilot/multichron-pilot-chronograph/AG2303171C1W3/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-pilot/multichron-pilot-chronograph/AG2303171C1S1/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/multichron-sport/multichron-sport-chronograph/AG2302101C1S1/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/flying-officer/flying-officer-automatic/AG1701131C1S1/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/gallet-classics/classics-tribute-to-multichron-yachting/AG0910121A1X1/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gallet.com/us-en/watches/gallet-classics/classics-tribute-to-multichron-45/AG0910121B1X1/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1960s-gallet-multichron-30-chronograph-valjoux-cal-7733-red-lacquer-dial",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/1970s-gallet-flying-officer-black-dial-4th-gen-36mm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jared-payne-jwex.squarespace.com/bot-archives/gallet-multichron-pilot-c1970s",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-35mm-gallet-chronograph-men-mechanical-wristwatch-valjoux-7733-swiss-nos",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/vintage-jumbo-gallet-multichron-45-chronograph-with-excelsior-park-movement.151763/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/record/CH080515/228",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/sold-watches/gallet-vintage-chronograph-multichron-pilot-stainless-steel-cal-valjoux-72-bj-1965-11159.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/101/50247",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots-source-click/31664291",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.liveauctioneers.com/item/241972014",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://awco.nl/shop/vintage-watches/gallet-multichron-ref-22210/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/100009941-gallet-men-1950-1959",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/gallet-baby-chronograph-lot-377-4",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1960s-gallet-multichron-45-decimal-chronograph",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1960s-gilt-gallet-chronograph",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/a/242489-vintage-watch-auction",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.shucktheoyster.com/?p=2423",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/106/55302",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/gallet-sold/products/gallet-multichron-decimal-chronograph-as00650",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 576,
-  "ultima_versao": 508,
+  "proxima_linha_marcas": 577,
+  "ultima_versao": 509,
   "historico": [
     {
       "data": "2026-10-16",
@@ -8854,6 +8854,36 @@
         "J"
       ],
       "obs": "Gagarin = coleção 'The First in Space' da Sturmanskie (Volmax). Só ela nesta execução porque a seguinte (Gallet, 576) é grande (vintage desde o séc. XIX, muitas referências). Firecrawl sem créditos nesta execução."
+    },
+    {
+      "data": "2026-11-09",
+      "marca": "Gallet",
+      "linha_marcas": 576,
+      "linhas_relogios": "87327-87491",
+      "relogios": 165,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 146,
+      "passadas": {
+        "1": [
+          103,
+          157
+        ],
+        "2": [
+          29,
+          5
+        ],
+        "3": [
+          14,
+          3
+        ]
+      },
+      "versao": 509,
+      "correcoes": [
+        "I",
+        "J"
+      ],
+      "obs": "Marca grande, sozinha. 89 referências atuais do relançamento Breitling de 2026 (inclui variações de pulseira A/S/W/X; ~48 só com link da página oficial) + 76 históricos (1910s-2018). Vermelha: centenas de anúncios vintage sem nome/referência e variações de pulseira sem foto. Soma de 'novos' da 1ª passada no marca.json ficou inflada (180) por sobreposição das páginas de variações; o real é 157. Firecrawl sem créditos; EveryWatch exige login; Wikipedia Gallet_&_Co. pediu permissão (aberta a versão Gallet_%26_Company)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -8891,34 +8921,9 @@
     "Fromanteel (linha 567)": "Gravada em 08/11/2026 (v500), 101 relógios (86600-86700), vermelha. Site oficial fromanteel-watches.com bloqueado por robots e Firecrawl sem créditos: ~35 linhas vieram só de títulos de busca site:fromanteel-watches.com/products (link da página na coluna C). Complemento futuro com Firecrawl: products.json e coleções do site oficial, blog 'the-journal' (5 iconic military watches: GMT-298, Wildcat 300), specials.fromanteel-watches.com (Pendulum Diver, Prestige), De Bijenkorf, Brandfield, BoumanOnline, WatchXL, Touch of Modern (fotos e refs de variantes -0xx); Tulip 60/65/66 sem foto; Generations Johannes/Abraham/Time Machine e Vintage 1607 (2009-2010) com poucas fotos.",
     "Fullspot (linha 570)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha.",
     "G. Gerlach (linha 572)": "Gravada em 08/11/2026 (v504), 57 relógios (86855-86911), vermelha. Firecrawl sem créditos: loja cykadia.pl páginas 3 e 4 (producer/G.-Gerlach/6/3/full e /4/full) não abertas; site gerlach.org.pl e masterhorologer.com (14 fichas 2013-2017) fora de alcance; ~20 linhas só com link de página (Dragon, PM36, Batory II, Lux-Sport II, RWD-6, Porsche Club Poland, Tokkotai, Auroch); cores sem nome de Orzeł 85A, Navigator, Otago.",
-    "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor."
+    "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor.",
+    "Gallet (linha 576)": "Gravada em 09/11/2026 (v509), 165 relógios (87327-87491), vermelha. Complemento futuro com Firecrawl: fotos das ~48 variações de pulseira (gallet.com/us-en/watches/.../AG...), variações W7/X1-X3 não vistas de FO Chronograph C1, MP B1, MS B1 e FO Automatic; EveryWatch (login), Chrono24; fotos das ~26 linhas históricas só com link (Grail-Watch/Chronopedia: Flight Officer Military, Duo-Timer, Up-Down, Profundus, Astronomic 250, Diver 7750, MultiChron 12 LE 100, Indy 500, Aerographic); referências de caixa vintage (só 5193, 7584, 22210 achadas)."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-09T10:42:44Z",
-  "ultimo_sinal": "2026-11-09T11:05:41Z",
-  "em_andamento": {
-    "marcas": [
-      "Gallet"
-    ],
-    "linha_marcas": 576,
-    "grande": true,
-    "relogios": "historico/parcial_Gallet_relogios.txt",
-    "fontes": "historico/parcial_Gallet_fontes.txt",
-    "notas": "historico/notas_Gallet.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
-  }
+  "marcas_novas_sem_relogios": []
 }
