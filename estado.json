@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 580,
- "ultima_versao": 511,
+ "proxima_linha_marcas": 581,
+ "ultima_versao": 512,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8952,6 +8952,18 @@
     "3": 11
    },
    "firecrawl_creditos": 70
+  },
+  {
+   "marca": "Ganymede",
+   "data": "2026-11-09",
+   "linha_marcas": 580,
+   "linhas_relogios": "88130-88133",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 18,
+   "versao": 512,
+   "obs": "Firecrawl: 3 páginas do site oficial (6 créditos) e depois sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8991,23 +9003,9 @@
   "G. Gerlach (linha 572)": "Gravada em 08/11/2026 (v504), 57 relógios (86855-86911), vermelha. Firecrawl sem créditos: loja cykadia.pl páginas 3 e 4 (producer/G.-Gerlach/6/3/full e /4/full) não abertas; site gerlach.org.pl e masterhorologer.com (14 fichas 2013-2017) fora de alcance; ~20 linhas só com link de página (Dragon, PM36, Batory II, Lux-Sport II, RWD-6, Porsche Club Poland, Tokkotai, Auroch); cores sem nome de Orzeł 85A, Navigator, Otago.",
   "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor.",
   "Gallet (linha 576)": "Gravada em 09/11/2026 (v509), 165 relógios (87327-87491), vermelha. Complemento futuro com Firecrawl: fotos das ~48 variações de pulseira (gallet.com/us-en/watches/.../AG...), variações W7/X1-X3 não vistas de FO Chronograph C1, MP B1, MS B1 e FO Automatic; EveryWatch (login), Chrono24; fotos das ~26 linhas históricas só com link (Grail-Watch/Chronopedia: Flight Officer Military, Duo-Timer, Up-Down, Profundus, Astronomic 250, Diver 7750, MultiChron 12 LE 100, Indy 500, Aerographic); referências de caixa vintage (só 5193, 7584, 22210 achadas).",
-  "Gant (linha 579)": "Gravada em 09/11/2026 (v511), 608 relógios (87522-88129), vermelha. ~377 com foto; ~231 só com link de página/catálogo (71 refs antigas vistas só na lista da Kulta-Center, ~120 refs W/GT antigas da Watchia/laatukoru/skroutz, 34 do catálogo 2014 no Issuu). Complemento futuro: fotos das refs W1xxxx/W7xxxx/GT0xxxxx (fichas Watchia uma a uma; nomes de arquivo variam), PriceSpy páginas 2-4 (150 produtos; Firecrawl devolveu só a 1ª), lacunas de sequência (G106001-6, G122002/4/6, G126002/3/6/7/9, G128002/3, G129004-6, G142002/4/5, G144001-4, G153001-3, G163xxx, G171004/6-8, G175004/7/8, G185002-5/7/9, G186004/6, G189004-6, K280004/5/8/9, K320001/4/5/11/14, P206005-7), catálogos GANT Time de outros anos (Issuu), GANT Rugger L.A.S. (3 cores), Park Avenue 64 e Sussex 45 sem ref."
+  "Gant (linha 579)": "Gravada em 09/11/2026 (v511), 608 relógios (87522-88129), vermelha. ~377 com foto; ~231 só com link de página/catálogo (71 refs antigas vistas só na lista da Kulta-Center, ~120 refs W/GT antigas da Watchia/laatukoru/skroutz, 34 do catálogo 2014 no Issuu). Complemento futuro: fotos das refs W1xxxx/W7xxxx/GT0xxxxx (fichas Watchia uma a uma; nomes de arquivo variam), PriceSpy páginas 2-4 (150 produtos; Firecrawl devolveu só a 1ª), lacunas de sequência (G106001-6, G122002/4/6, G126002/3/6/7/9, G128002/3, G129004-6, G142002/4/5, G144001-4, G153001-3, G163xxx, G171004/6-8, G175004/7/8, G185002-5/7/9, G186004/6, G189004-6, K280004/5/8/9, K320001/4/5/11/14, P206005-7), catálogos GANT Time de outros anos (Issuu), GANT Rugger L.A.S. (3 cores), Park Avenue 64 e Sussex 45 sem ref.",
+  "Gardé (linha 581)": "Dimensionada em 09/11/2026 como GRANDE: marca da Gardé Uhren und Feinmechanik Ruhla GmbH (pós-1990, depois UMR/Uhren-Manufaktur Ruhla; produção passou à POINTtec em 2019). eBay.de categoria 'Garde Uhren' tem 105 anúncios com dezenas de referências (Elegance 1310-6, 2462, 6825, 6831-1, 7973-1, 13813, 20285, 20621-2, 21003, 21862, 26442, 28143, 70226-2, 76115M, 81891, 91199, 91322, 17-74/17-75 para baixa visão, 49-88, 394170 relógio de enfermeira, 11414 automático). Fazer sozinha. Atenção: separar do bloco da linha 'Ruhla' (marca da RDA, mais adiante) — aqui só o que traz o nome Gardé; relógios de mesa/xadrez/despertadores só como nota."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-09T14:42:29Z",
- "ultimo_sinal": "2026-11-09T14:42:29Z",
- "em_andamento": {
-  "marcas": [
-   "Ganymede",
-   "Gardé"
-  ],
-  "linha_marcas": 580,
-  "grande": false,
-  "relogios": "historico/parcial_Ganymede_relogios.txt",
-  "fontes": "historico/parcial_Ganymede_fontes.txt",
-  "notas": "historico/notas_Ganymede.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
