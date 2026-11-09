@@ -8,3 +8,4 @@
 - Wikipedia: PROVENANCE_REQUIRED (não repetir).
 - Grail-watch: 42 modelos históricos (lista com anos/calibres) — base da parte vintage. Imagens Analog Shift: Regulator AS01623, 12H EP40 AS01672, Pilot 80s AS00907 img, Jim Clark AS01826, 12 Waterproof 5193 AS08828, Big Eye AS08623 (V7733), Multichron 1940s Venus AS11543, Multichron Paul Breguet 1940s AS04473, Flying Officer ref 7584 (1980s) AS04371, Dual register EP AS02793, Chronograph 24h V7730 AS02219.
 - 1ª passada encerrada (3 seguidas sem novidade: hairspring, ebay.de, 1916company). Decisão: VERMELHA (centenas de anúncios vintage sem nome/ref; ~60 variações de pulseira só com link). 2ª passada: Multichron 12 Scientific, fotos das linhas só com link (Grail-watch), §2c refeito, §3 extras (used, limited, collaboration).
+- 2ª passada encerrada (3 seguidas sem novidade). Trouxe 5 novos → 3ª passada obrigatória.
