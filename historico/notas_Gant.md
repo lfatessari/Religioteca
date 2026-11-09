@@ -6,3 +6,4 @@ Firecrawl sem créditos até 13:43 UTC (09/11).
 - Oficial gant.co.uk vende relógios (artigo 892280010 = K280010; 892133005 = Norwood G133005?). Categorias /c/mens/accessories/watches só vieram de link de página → abrir com Firecrawl depois das 13:43 UTC.
 - Nomes sem código ainda: Taunton, Abington, Watertown (G204), Norwood, Arcola.
 - Seções feitas: 1, 2 (parcial), 7 (kulta, watchnation, oroeora)
+- Nomes sem ref ainda: Amesbury, Scarsdale, Castine II, Taunton, Norwood, Arcola, Wantage. timeshop24 pág 2-3 (Firecrawl). Watchia: imagem só abrindo cada página (nome de arquivo varia, ex agt023007).
