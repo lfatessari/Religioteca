@@ -21,3 +21,7 @@ Início 2026-11-09 15:45 UTC.
 - Flume RUHLA-Classic Titan 42 mm (Ronda 6203B, big date + 2º fuso; cores preto/preto, preto/shimmer, preto/verde, preto/branco) = série 1708x (17077/17081-17084) — não duplicado. Flume Style prata Swarovski 35 mm = Titan Damenuhr Swarovski da Galaxus (EAN 4251765704771).
 - WatchTime 'Zeitenwechsel': legenda credita Artur Kamp como fundador da Gardé Uhren.
 - Chrono24: busca site:chrono24.de não trouxe nenhum anúncio (só lojas). manuals.online tem manual 'Garde Ruhla Business Alarm' (Funkuhr titânio, LCD duplo, CR1620). Digitec 'Polshorloge' 40 mm azul (EAN 4251765703163) = provável linha Sport 3900x, não entrou.
+## Fim da 1ª passada (16:12 UTC)
+- Parou por 3 fontes seguidas sem novidade (eBay categorias 40-43,9 mm, vergoldete, 32-35,9 mm Damen). ~80 fontes.
+- VERMELHA: Krahl (135 produtos, só 35 vistos), timeshop4you (103, só 25 vistos, páginas 2-5 fora das buscas), eBay Garde Uhren página 2 (45 anúncios), dezenas de Damenuhren Gardé dos anos 1990 sem referência, Funkuhren antigas (FU…), linhas Basic/Elegance com muitas cores.
+- 2ª passada: Flume (produtos UMR sem ref), Galaxus/Digitec, Kaufland, eBay /p de refs novas, buscas de Krahl/timeshop por modelo.
