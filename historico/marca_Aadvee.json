@@ -1,0 +1,31 @@
+{
+ "nome_marca": "AADVEE",
+ "pais": "Índia",
+ "cidade": "Bengaluru",
+ "caracteristica": "Microrrelojoaria independente indiana de Bengaluru que estreou em 2023 com o AA-01 Pioneer, um automático de 45 mm com leitura de horas inspirada no sistema planetário, discos sobrepostos coloridos e rotor próprio.",
+ "preco_medio_brl": null,
+ "faixa": null,
+ "site": "aadvee.com",
+ "instagram": "@aadvee_watches",
+ "historia": "A AADVEE nasceu de uma herança. Segundo o próprio site da marca, em 2020 um relógio de família chegou às mãos do seu criador e deixou uma pergunta que nunca mais saiu da cabeça dele: o que faz uma máquina valer uma vida inteira? Apaixonado desde sempre por mecanismos — engrenagens, molas, a lógica honesta do movimento —, ele encontrou nos relojoeiros independentes a sua inspiração: gente de fora criando o extraordinário à sombra dos gigantes. A meta nunca foi imitar ninguém, e sim contar as horas de um jeito novo, a partir de um país para o qual pouca gente olhava: a Índia.\n\nCom base em Bengaluru, a marca apresentou em 2023 o seu primeiro relógio, o AA-01, chamado de Pioneer e descrito como \"o primeiro golpe\". A leitura do tempo é inspirada no sistema planetário: discos coloridos sobrepostos fazem o papel dos ponteiros, e os índices são furados diretamente na caixa de aço 316L polida, de 45 mm. Por dentro bate um Miyota 9015 automático com rotor desenhado pela própria marca e gravado com o nome AADVEE, visível pelo fundo de safira. Antes de chegar ao metal, cada componente foi prototipado em impressão 3D, como a marca mostrou nas redes. O Pioneer saiu em várias cores — azul, branco com azul-céu, violeta, roxo e verde-limão — e hoje aparece no site como \"não disponível\".\n\nA história continua: a AADVEE já anuncia o AA-1.2, apresentado como uma evolução do 1.0 Pioneer, com o lema que resume a marca — Create, Innovate, Progress.",
+ "principais_relogios": "AA-01 Pioneer (2023) — automático Miyota 9015 de 45 mm em aço 316L, leitura por discos inspirada no sistema planetário, rotor próprio e safira dos dois lados; cores azul, branco/azul-céu, violeta, roxo e verde-limão; esgotado.\n\nAA-1.2 — anunciado como evolução do Pioneer; ainda \"em breve\" no site.",
+ "logo": "https://aadvee.com/favicon.svg",
+ "fundacao": 2020,
+ "fundadores": [],
+ "grande": false,
+ "vermelho": false,
+ "usa_codigos": true,
+ "observacoes": "Marca minúscula: um único modelo lançado (AA-01 Pioneer, 2023), hoje 'Not available', e o AA-1.2 anunciado como 'Coming soon' (não entrou em dados.txt por não ter foto nem especificação). O site oficial não publica preço nem nomes dos fundadores (o texto da história é em primeira pessoa, sem nome). Fundação: o site marca '2020' como início da história (a herança) e '2023' como o lançamento do AA-01; usei 2020 como fundação, mas pode ser considerado 2023. preco_medio_brl ficou null porque nenhum preço foi encontrado; a faixa 2 é ESTIMATIVA (microbrand com Miyota 9015 costuma custar US$ 300–600, ou R$ 1.650–3.300) e deve ser confirmada. As cores violeta, roxo e verde-limão vêm de trechos de posts do Instagram vistos nos resultados de busca (o Instagram não abriu); a separação entre 'Violet' e 'Purple' como duas versões vem da legenda 'Two watches, two moods. Violet or purple, which one is your pick?'. Pode haver outras cores da série de posts 'unveiling the variants' que não apareceram nas buscas. O código AA-01 é a referência do modelo, compartilhada por todas as cores (a marca não publica códigos por cor). Logo: só achei o favicon.svg do site; existe um pin no Pinterest 'AADVEE Wrist Watch Logo Design' (robots bloqueou) e um case da agência WeDigitalHub (Howrah, Bengala Ocidental) que hoje dá 404. Grafia: o site escreve sempre 'AADVEE' em maiúsculas; o Instagram usa 'Aadvee Watches'. Preço não publicado em nenhuma fonte (site, Instagram, review): faixa e preço médio ficaram em branco. Instagram aberto pelo navegador em 08/11/2026: confirma as versões violeta (Violet Plum) e roxa; review do @allabouthorology dá 11,15 mm de espessura e 42 h de reserva (o site diz 12 mm).",
+ "evidencias": {
+  "cidade": "https://aadvee.com/contact-us — 'AADVEE Bengaluru, India' (também no rodapé de todas as páginas: 'AADVEE Bengaluru, India')",
+  "pais": "https://aadvee.com/our-story — 'the plan was to tell time like no one had, from the country no one was watching: India.'",
+  "fundacao": "https://aadvee.com/our-story — '2020 ... An heirloom found my hands and left a question that never left' e '2023. The AA-01. The first strike.'",
+  "modelo": "https://aadvee.com/archives — 'Archives 2023 ... AA-01 Time telling inspired by the planetary system ... Not available.'",
+  "especificacoes": "https://aadvee.com/archives — 'Case material 316L SS; Lug width 20mm; Case diameter 45mm; Function Time only; Water resistance 50m/5ATM; Crystal Sapphire for both top and display case back with anti-reflective coating; Rotor Custom rotor; Thickness 12mm; Movement 9015 Miyota Premium Automatic'; desenho técnico: '53 mm lug to lug'",
+  "nome_pioneer": "https://aadvee.com/timepieces — 'The AA-1.2 will be an evolution of our first model — the 1.0 Pioneer.'; Instagram (snippet de busca): 'The AA-01 Pioneer with the rotor in action.'",
+  "cores_site": "https://aadvee.com/archives — legendas 'AADVEE watch with a blue dial', 'AADVEE watch with a white and sky-blue dial', 'The violet AADVEE watch on a wrist'",
+  "cores_instagram": "snippets de busca de instagram.com/aadvee_watches/reels/ — 'Two watches, two moods. Violet or purple, which one is your pick? · Wrist roll violet version. · A wrist check with the Lime green variant.'; instagram.com/p/C6LF_QatrIS/ — 'LIME GREEN. Continuing with the series of posts on unveiling the variants, presenting to you - Lime green.'",
+  "prototipagem": "snippet de instagram.com/p/C4FcLOfpnoO/ (4 mar. 2024) — 'we now explore prototyping by 3D printing. Each component is 3D printed before we ...'",
+  "instagram": "https://aadvee.com/contact-us — 'Instagram @aadvee_watches'"
+ }
+}

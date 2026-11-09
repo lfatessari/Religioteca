@@ -1,0 +1,31 @@
+{
+ "nome_marca": "Abback Watches",
+ "pais": "França",
+ "cidade": "Sancey",
+ "caracteristica": "Microbrand francesa do Doubs, na Franche-Comté, criada por um relojoeiro com uma década de experiência na Suíça para homenagear a Citroën 2CV com um relógio de quartzo numerado inspirado no seu velocímetro.",
+ "preco_medio_brl": 1774,
+ "faixa": 2,
+ "site": "abback-watches.fr",
+ "instagram": "@abback.watches.officiel",
+ "historia": "A Abback Watches nasceu em 2020 na Franche-Comté, berço da relojoaria francesa, pelas mãos de Jonathan Harang. Antes de abrir o próprio negócio, ele passou cerca de dez anos colocando suas habilidades a serviço de uma grande marca relojoeira na vizinha Suíça. Nas palavras dele, era hora de 'entrar de cabeça no empreendedorismo' para participar ativamente do novo impulso da relojoaria francesa. A sede ficava na Place Jeanne d'Arc, em Sancey, no departamento do Doubs.\n\nO primeiro modelo, o Club, tinha um público certeiro: os apaixonados pela Citroën 2CV. A caixa reproduz quase ponto por ponto o velocímetro trapezoidal que ficava atrás do volante da 'Deuche', e o hodômetro virou o número de série de uma edição limitada de 500 peças. Segundo a marca, as pré-vendas chegaram em poucos dias após o lançamento, e mais de 200 cartas foram enviadas a clubes, oficinas e associações da 2CV na França e no exterior. As primeiras entregas aconteceram em março de 2021, e depois o preço baixou para 289 euros.\n\nA aventura durou pouco. A empresa por trás da marca, a Compagnie des Montres Comtoises, registrada em dezembro de 2020 e presidida por Jonathan Harang, mudou-se para Pierrefontaine-les-Varans em 2022 e foi dissolvida e liquidada em 2023. O site oficial saiu do ar, mas os donos continuam exibindo nas redes seus exemplares numerados, como o nº 245 de 500.",
+ "principais_relogios": "Club (2020/2021) — inspirado no velocímetro da Citroën 2CV, aço 316L acetinado, 9 mm de espessura, quartzo suíço Ronda, edição limitada de 500 peças numeradas no 'hodômetro', 289 €",
+ "logo": "",
+ "fundacao": 2020,
+ "fundadores": [
+  "Jonathan Harang"
+ ],
+ "grande": false,
+ "vermelho": false,
+ "usa_codigos": false,
+ "observacoes": "Marca extinta. O site oficial abback-watches.fr está fora do ar (DNS não resolve; o WebFetch também recusa por robots), então foi lido pelo Internet Archive (capturas de 2021 a dez/2024). A loja WooCommerce tinha um único produto, 'La Club' (o site diz 'Premier modèle : la montre CLUB'); não achei sinal de um segundo modelo. A ligação com a empresa é forte, mas é inferência: o endereço de contato do site (Place Jeanne d'Arc, 25430 Sancey) é o mesmo da sede da Compagnie des Montres Comtoises (SAS, horlogerie 2652Z, criada em 7/12/2020, presidente Jonathan Harang; sede transferida para 3B rue du Val, Pierrefontaine-les-Varans, em 4/7/2022; dissolução em 31/3/2023; liquidação encerrada em 25/8/2023; baixa no RCS em out/2023). A PDLV (artigo atualizado em dez/2025) também diz que a empresa parece ter fechado. O Instagram continua no ar com a bio antiga ('Commandez sur notre site web'), cerca de 1,3 mil seguidores e 113 posts. O nome 'Abback Watches' é o que a marca usa no site e nas redes; no mostrador aparece só 'Abback'. Movimento: o site diz apenas 'Ronda quartz', e a PDLV diz Ronda 963 (não confirmado). Diâmetro e resistência à água não foram publicados. Preço: 289 EUR × 6,14 = R$ 1.774, mas era o preço reduzido de 2022; o preço da pré-venda não foi achado. Logo: só achei o favicon pelo Internet Archive (cropped-abback-favicon-270x270.jpg), que não abriu no navegador em 08/11/2026; a coluna K ficou vazia. A foto do relógio é a da PDLV (1080×1080), porque a foto oficial também só existe no Internet Archive. Curiosidade sem confirmação: o mesmo Jonathan Harang (nascido em 09/1991) aparece como ex-presidente da MNP (manufatura de movimentos de Sancey, depois Pierrefontaine-les-Varans, no mesmo endereço 3B rue du Val) até jan/2025. Instagram aberto pelo navegador em 08/11/2026: confirma modelo único CLUB, edição limitada de 500 peças numeradas no mostrador (no lugar do hodômetro), concebido, montado e expedido na Franche-Comté; últimos posts de abr/2023.",
+ "evidencias": {
+  "cidade": "https://web.archive.org/web/20221202193948/https://abback-watches.fr/ — 'Contact: Place Jeanne d’Arc 25430 Sancey'; Instagram bio (snippet de busca): 'Marque horlogère française Doubs (25), Franche-Comté'",
+  "pais": "Instagram bio (snippet): 'Marque horlogère française'; pdlv.fr: 'Abback Club : une montre 100 % française ... fabrique en France, plus précisément en Franche-Comté'",
+  "fundadores": "https://web.archive.org/web/20221202193948/https://abback-watches.fr/ — 'Le créateur ... cela fait près de 10 ans que je mets mes compétences au service d’une grande marque horlogère en Suisse voisine ... Jonathan Harang'; pdlv.fr: 'Le fondateur de la marque, Jonathan Harang'",
+  "fundacao": "pdlv.fr: 'C’est dans le courant de l’année 2020 que cette montre a été développée ... premières livraisons ont eu lieu en mars 2021'; Instagram post CFmHD2vIjsp (set/2020, snippet): 'Édition limitée à 500 pièces'; societe.com: Compagnie des Montres Comtoises criada em 7/12/2020",
+  "preco": "https://web.archive.org/web/20221202200401/https://abback-watches.fr/produit/la-club/ — 'La Club 289,00€'; pdlv.fr: 'le prix de vente a diminué à 289 €'",
+  "edicao_limitada": "Facebook post (snippet): 'Notre montre CLUB prend la pose ! Édition limitée à 500 pièces'; grupo do Facebook (snippet): 'Numéro 245/500'",
+  "encerramento": "https://www.societe.com/societe/compagnie-des-montres-comtoises-891688145.html — 'Fermée définitivement', dissolução em 31/03/2023, ex-sede Place Jeanne d'Arc 25430 Sancey (13/11/2020–04/07/2022); pdlv.fr EDIT: 'L’entreprise semble avoir fermé ses portes'",
+  "instagram": "https://www.instagram.com/abback.watches.officiel/ (resultado de busca; a página não abre para leitura automática)"
+ }
+}

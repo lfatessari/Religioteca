@@ -1,0 +1,32 @@
+{
+ "nome_marca": "Abordage",
+ "pais": "França",
+ "cidade": "Saint-Malo",
+ "caracteristica": "Marca bretã de Saint-Malo, criada por dois irmãos, que faz relógios automáticos de inspiração corsária e marítima, com movimento France Ébauches e quase todas as peças fabricadas e montadas na França.",
+ "preco_medio_brl": 14327,
+ "faixa": 4,
+ "site": "abordage-horlogerie.com",
+ "instagram": "@abordage_horlogerie",
+ "historia": "A Abordage nasceu em Saint-Malo, na Bretanha, como uma aventura de família. Os irmãos malouinos Guillaume Graff, designer de relógios formado em Milão, e Xavier Graff, empreendedor responsável pelo lado comercial, herdaram do avô a paixão pela relojoaria. Segundo a própria marca, a ideia de criar uma grife de relógios surgiu num café da manhã diante do mar. A empresa, Abordage SAS, foi registrada em Saint-Malo em 29 de fevereiro de 2024, com o lema \"Horloger Corsaire\" (relojoeiro corsário) e a vontade de resgatar a pouco conhecida tradição relojoeira bretã, ligada à navegação e aos armadores e corsários da cidade, como Duguay-Trouin e Surcouf.\n\nA primeira coleção, chamada 1712, foi apresentada em maio de 2025, com pré-venda direta no site de 19 de maio a 19 de junho. O nome lembra o ano em que o corsário René Duguay-Trouin trouxe para Saint-Malo a Noguette, sino da catedral que toca todas as noites às 22h. O relógio é cheio de referências: a coroa lembra os winches dos veleiros, o ponteiro de segundos vermelho evoca a bandeira içada pelos corsários antes da abordagem, o número 35 em vermelho homenageia o departamento de Ille-et-Vilaine e o rotor traz gravada a divisa da cidade, \"Semper Fidelis\".\n\nA Abordage faz questão de ir além do simples \"made in France\": caixa, mostrador, ponteiros, índices e pulseiras são produzidos na França, e o coração é um calibre automático da France Ébauches, manufatura relançada em Maîche, no Doubs. As pulseiras vêm de ateliês franceses como Bouveret e Maison Jean Rousseau. Os fundadores já anunciaram que pretendem lançar coleções futuras em homenagem a Bougainville, Jacques Cartier e Surcouf, e sonham, a longo prazo, com uma manufatura bretã.",
+ "principais_relogios": "1712 Noire (2025) — ref. 170001, aço 39 mm, mostrador preto guilhochado, France Ébauches automático, coleção permanente.\n\n1712 Bleue (2025) — ref. 170002, mesma base com mostrador azul-marinho, coleção permanente.\n\n1712 Glaz (2025) — ref. 170003, edição limitada de 300 peças numeradas, mostrador \"Glaz\" entre azul, verde e cinza, pulseira Jean Rousseau.",
+ "logo": "https://watchdna.com/cdn/shop/articles/abordage-logo_22189264-9fa3-49d8-9ec8-35c2215fe93d.png?v=1752525020",
+ "fundacao": 2024,
+ "fundadores": [
+  "Guillaume Graff",
+  "Xavier Graff"
+ ],
+ "grande": false,
+ "vermelho": false,
+ "usa_codigos": true,
+ "observacoes": "Catálogo fechado e pequeno: 3 relógios (1712 Noire, Bleue e Glaz), confirmado pela API WooCommerce do site (6 produtos = 3 relógios em versões FR/EN), pela página de coleção e pela imprensa (Comme un camion, Le Calibre, Mon Petit Horloger, WatchDNA). Referências 170001/170002/170003 aparecem nas páginas de produto (não no campo SKU da API). Preço médio = (2 250 + 2 250 + 2 500)/3 = 2 333,33 € × 6,14 = R$ 14 327 → faixa 4. Venda só direta no site (sem revendedores encontrados) e sem mercado de usados indexado (Chrono24, EveryWatch, eBay sem resultados). As metas SEO das páginas EN chamam a Noire e a Bleue de 'limited edition', mas a imprensa e o site em francês dizem coleção permanente; só a Glaz é limitada. Logo: usado o da WatchDNA (não verificado visualmente se traz o nome escrito); alternativa oficial é só o favicon https://abordage-horlogerie.com/wp-content/uploads/2024/02/favicon-abordage-300x300.png. Data de fundação 29/02/2024 vem da WatchDNA (bate com o SIREN 985 183 243, série de 2024, e com 'Fondé en 2024' do Montres à la française); Viralmag sugere que a ideia nasceu na pandemia. Nome da marca: o site escreve 'Abordage' no texto e 'ABORDAGE' no logo. Pulseira da Bleue: Mon Petit Horloger cita pulseiras Bouveret preta e conhaque, o fórum cita preta e azul-marinho Bouveret; por isso o fabricante não foi posto na linha da Bleue. Futuras coleções (Bougainville, Jacques Cartier, Surcouf) são só planos anunciados, sem modelo.",
+ "evidencias": {
+  "cidade": "https://abordage-horlogerie.com/en/legal-notices/ — 'SAS Abordage … RCS Saint-Malo B 985 183 243 … 15 rue de la Croix Desilles, 35400 Saint-Malo'",
+  "fundadores": "https://www.commeuncamion.com/2025/05/19/a-labordage-lassaut-maritime-au-poignet/ — 'Fondée par deux frères passionnés, Guillaume et Xavier Graff'",
+  "fundacao": "https://watchdna.com/blogs/history/abordage-horlogerie — 'Founded February 29, 2024, as Abordage SAS'; https://www.montresalafrancaise.fr/marque/abordage/ — 'Fondé en 2024'",
+  "instagram": "https://abordage-horlogerie.com/en/ — link no rodapé https://www.instagram.com/abordage_horlogerie",
+  "referencias": "https://abordage-horlogerie.com/produit/1712-glaz/ — '1712 / 170003 / 2500,00 € / Edition limitée - 300 exemplaires'; /en/produit/1712-black/ — 170001; /en/produit/1712-blue/ — 170002",
+  "precos": "API https://abordage-horlogerie.com/wp-json/wc/store/products — Noire 2250 €, Bleue 2250 €, Glaz 2500 €",
+  "papeis": "https://viralmag.fr/abordage-montres-bretones-a-lassaut-des-poignets/ — Guillaume formado em design horológico em Milão; Xavier desenvolvimento de negócios; https://watchdna.com/blogs/history/abordage-horlogerie — 'Xavier handles the business side and Guillaume is the designer'",
+  "avo": "https://abordage-horlogerie.com/notre-histoire/ — 'deux frères malouins Xavier et Guillaume, héritiers d’une passion horlogère transmise par leur grand-père'"
+ }
+}

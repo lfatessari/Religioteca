@@ -1,0 +1,112 @@
+{
+ "marca": "Adamas",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "observacoes": "",
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://adamaswatches.com/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://adamaswatches.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/sitemap_pages_1.xml?from=738687549774&to=743696630094",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/sitemap_blogs_1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/blogs/notizie",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/products/meraki-mercator",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/products/meraki-renard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/pages/adamas",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/pages/contact",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://adamaswatches.com/policies/privacy-policy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/the-ugly-watch-co/products/adamas-aster",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.velvetboxsociety.com/adamas.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/adamas",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/adamas.watchco/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/adamas.watchco/p/DezegaxjaAi/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/adamas.watchco/p/DfDJq4_Fey7/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/adamas.watchco/p/DfZoN4uDQDG/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/watchesofitaly/p/DezeHmHDH5f/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

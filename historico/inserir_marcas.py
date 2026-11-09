@@ -57,6 +57,8 @@ e['proxima_linha_marcas'] = novo_idx(e['proxima_linha_marcas'])
 for k, v in e.get('marcas_ja_feitas_fora_da_ordem', {}).items(): v['linha_marcas'] = novo_idx(v['linha_marcas'])
 for p_ in e.get('marcas_pendentes', []):
     if 'linha_marcas' in p_: p_['linha_marcas'] = novo_idx(p_['linha_marcas'])
+for p_ in e.get('marcas_novas_sem_relogios', []):
+    if isinstance(p_, dict) and 'linha_marcas' in p_: p_['linha_marcas'] = novo_idx(p_['linha_marcas'])
 if e.get('em_andamento') and e['em_andamento'].get('linha_marcas'): e['em_andamento']['linha_marcas'] = novo_idx(e['em_andamento']['linha_marcas'])
 import re
 av = {}

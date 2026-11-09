@@ -1,0 +1,30 @@
+{
+ "nome_marca": "Adamas",
+ "pais": "Itália",
+ "cidade": "Roma",
+ "caracteristica": "Microbrand italiana de Roma, projeto pessoal de um único criador, que estreia com o Meraki: um relógio de horas mundiais (world-timer) com mapas polares históricos no mostrador, de Gerard Mercator (1595) e de Renard (1715).",
+ "preco_medio_brl": null,
+ "faixa": null,
+ "site": "adamaswatches.com",
+ "instagram": "@adamas.watchco",
+ "historia": "O nome Adamas vem do grego antigo ἀδάμας, a palavra que deu origem a \"diamante\" e que significa, literalmente, \"o indomável\": aquilo que não pode ser quebrado. Segundo a própria marca, o nome não foi escolhido pelo som, mas porque descreve a natureza de uma ideia que se recusa a ser abandonada. A Adamas se apresenta como uma microbrand italiana e tem seu endereço em Roma; o site, a loja e as primeiras peças apareceram em 2026.\n\nO que mais chama a atenção é o tom pessoal do projeto. Na página \"About Adamas\", o criador, que não se identifica pelo nome, escreve que não existe uma empresa por trás da marca, e sim uma pessoa \"que não consegue parar de imaginar coisas até que elas existam\". Cada decisão de material, proporção e símbolo, diz ele, nasce de uma única pergunta: \"Isso pertence a este lugar, ou está apenas presente?\". O objetivo declarado não é montar um catálogo, mas deixar algo que tenha significado para quem usa.\n\nA estreia é o Meraki, um relógio de horas mundiais (world-timer) que leva a cartografia antiga ao mostrador. Ele foi anunciado em duas versões: o Mercator V., com acabamento dourado, inspirado no mapa das regiões polares do norte publicado por Gerard Mercator em 1595, e o Renard V., em aço, inspirado no mapa polar publicado em Amsterdã em 1715 e reeditado em 1792 por Jan Barend Elwe. Os dois usam a projeção azimutal com o Polo Norte no centro, unindo cartografia, ciência e arte.\n\nNo fundo da caixa, o Meraki traz a figura de Atlas carregando o mundo. Em outubro de 2026 a Watches of Italy apresentou a Adamas como uma nova marca italiana e o Meraki como sua primeira referência, e a marca anunciou presença na Watches of Italy 7, nos dias 14 e 15 de novembro de 2026, no Superstudio Più, em Milão.",
+ "principais_relogios": "Meraki – Mercator V. (2026) — acabamento dourado (Gold IPB), inspirado no mapa polar de Gerard Mercator de 1595\n\nMeraki – Renard V. (2026) — aço inoxidável, inspirado no mapa polar publicado em Amsterdã em 1715 e reeditado em 1792 por Jan Barend Elwe",
+ "logo": "https://adamaswatches.com/cdn/shop/files/Bazaart_18D7B744-3B20-4248-A7C1-0ADDDAE5D0FB.png?v=1782148828",
+ "fundacao": null,
+ "fundadores": [],
+ "grande": false,
+ "vermelho": false,
+ "usa_codigos": false,
+ "observacoes": "Marca em pré-lançamento: o site (Shopify, em italiano, preços em EUR) tem só 2 produtos, ambos 'Coming soon' com preço provisório €0,00 e sem SKU nem especificações técnicas (tamanho, movimento, resistência, cristal, pulseira). Por isso preco_medio_brl e faixa ficaram vazios: não há preço publicado. Fundação não declarada; os indícios apontam 2026 (rodapé '© 2026', blog criado em 17/03/2026, produtos criados em 22/06/2026, fotos atuais enviadas em 23/10/2026). O criador é anônimo de propósito ('There is no company behind this project. There is a person'). Cidade Roma vem do endereço na política de privacidade. O logo indicado é a imagem do cabeçalho do site (não foi possível abrir a imagem para confirmar se traz o nome escrito); alternativa: favicon https://adamaswatches.com/cdn/shop/files/Logo_Adamas.png. Mostrador branco das duas peças é inferido dos nomes dos arquivos das fotos ('oro_bianco', 'acciaio_bianco'). O 'V.' dos nomes não é explicado pela marca. Não confundir com: Adamas (joalheria italiana no 1stDibs), Adamas (joalheria de Harvey Rovinsky, Velvet Box Society), 'Adamas by Stitches & Buckles' (facebook.com/adamaswatch), @adamas.watch (outra conta no Instagram), modelo Adamas da Obaku, modelo Adamas Aster da UGLY Watch Co., peça Adámas da Speake-Marin e Adamas One (diamantes de laboratório). Nenhuma fonte externa (imprensa, lojas, Chrono24, EveryWatch, WatchPatrol, Kickstarter, eBay) menciona a marca até 08/11/2026. Instagram (@adamas.watchco, aberto em 08/11/2026): posts de 22/10 e 28/10/2026 mostram o Meraki como world-timer e o fundo 'Atlas carrying the world'; post de 06/11/2026 anuncia a Watches of Italy 7 (14–15/11/2026, Superstudio Più, Milão); os posts usam a hashtag #kickstarter, mas nenhuma campanha foi encontrada. Post da @watchesofitaly de 15/10/2026: 'Adamas è un nuovo marchio italiano' e 'Meraki è la prima referenza a catalogo'.",
+ "evidencias": {
+  "instagram": "https://adamaswatches.com/ — rodapé com link 'Instagram' para https://www.instagram.com/adamas.watchco/ (e Facebook https://www.facebook.com/profile.php?id=61590499061566)",
+  "pais": "https://adamaswatches.com/ — meta description: 'Adamas is an Italian watch microbrand. Giving shape to time through the soul of ideas'",
+  "cidade": "https://adamaswatches.com/policies/privacy-policy — 'Adamas Watches gestisce questo negozio e il sito web' ... 'contattaci all'indirizzo ... 00161 Roma RM, Italia'",
+  "nome_marca": "https://adamaswatches.com/ — título 'Adamas Watch Co.' e og:site_name 'Adamas Watches'; página 'About Adamas'",
+  "fundadores": "https://adamaswatches.com/pages/adamas — 'There is no company behind this project. There is a person – someone who cannot stop imagining things until they exist.' (nome não divulgado)",
+  "nome_origem": "https://adamaswatches.com/pages/adamas — 'The name comes from the ancient ἀδάμας – the word from which diamond originates. It means, literally, the indomitable: that which cannot be broken.'",
+  "modelos": "https://adamaswatches.com/products.json?limit=250 — 2 produtos: 'Meraki - Renard V.' ('Renard. Stainless steel') e 'Meraki - Mercator V.' ('Mercator. Gold IPB'), price 0.00, sku null, available false",
+  "fundacao": "https://adamaswatches.com/ — rodapé '© 2026'; products.json created_at 2026-06-22; sitemap_blogs lastmod 2026-03-17 (apenas indícios)",
+  "contato": "https://adamaswatches.com/pages/contact — 'mail: adamas.orologi@gmail.com'"
+ }
+}
