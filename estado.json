@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 575,
- "ultima_versao": 507,
+ "proxima_linha_marcas": 576,
+ "ultima_versao": 508,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8831,6 +8831,29 @@
     "I",
     "J"
    ]
+  },
+  {
+   "data": "2026-11-09",
+   "marca": "Gagarin",
+   "linha_marcas": 575,
+   "linhas_relogios": "87244-87326",
+   "relogios": 83,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 82,
+   "passadas": {
+    "1": [
+     82,
+     84
+    ]
+   },
+   "versao": 508,
+   "correcoes": [
+    "G",
+    "I",
+    "J"
+   ],
+   "obs": "Gagarin = coleção 'The First in Space' da Sturmanskie (Volmax). Só ela nesta execução porque a seguinte (Gallet, 576) é grande (vintage desde o séc. XIX, muitas referências). Firecrawl sem créditos nesta execução."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8871,27 +8894,5 @@
   "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-09T09:43:22Z",
- "ultimo_sinal": "2026-11-09T09:58:36Z",
- "em_andamento": {
-  "marcas": [
-   "Gagarin"
-  ],
-  "linha_marcas": 575,
-  "grande": false,
-  "relogios": "historico/parcial_Gagarin_relogios.txt",
-  "fontes": "historico/parcial_Gagarin_fontes.txt",
-  "notas": "historico/notas_Gagarin.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "9"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }

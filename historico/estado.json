@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 571,
- "ultima_versao": 505,
+ "proxima_linha_marcas": 576,
+ "ultima_versao": 508,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8808,44 +8808,90 @@
    "correcoes": [
     "I"
    ]
+  },
+  {
+   "data": "2026-11-08",
+   "versao": 506,
+   "marcas": [
+    "Aadvee",
+    "Abback",
+    "Abordage",
+    "Adamas"
+   ],
+   "obs": "A pedido do usuário (marcas novas seguidas no Instagram): Aadvee (Índia, Bengaluru) na linha 13, Abback (França, Sancey; extinta em 2023) na 15, Abordage (França, Saint-Malo) na 18 e Adamas (Itália, Roma) na 23 da aba Marcas, em ordem alfabética, com B–M preenchidos (E/F vazios em Aadvee e Adamas: sem preço publicado; K vazio em Abback: logo não encontrado em link estável). Linhas da aba Marcas a partir das antigas 13, 14, 16 e 20 deslocadas; proxima_linha_marcas, marcas_ja_feitas_fora_da_ordem e avisos atualizados. Relógios 87233–87243: Aadvee 5 (19 fontes), Abback 1 (25), Abordage 3 (31), Adamas 2 (20), gravados com gravar_marca.py (RESULTADO OK); verificação completa OK. Adrien Nicod não incluído: é relojoeiro (Simon Brette), não marca.",
+   "fora_da_sequencia": true
+  },
+  {
+   "data": "2026-11-08",
+   "versao": 507,
+   "marca": "Aadvee",
+   "obs": "Correção ao montar o post: Relógios 87235 'Pioneer – Violet' -> 'Pioneer – Purple' (o site chama o roxo de violet) e 87236 'Pioneer – Purple' -> 'Pioneer – Violet Plum' (tom vinho; C = post DAqq70MoGlq do Instagram); E das duas reescrito. Marcas linha 13: I com a origem do nome (sânscrito Advaiya, 'único'), J com as cores corrigidas, M com a nota. corrige_aadvee.py: só essas 8 células mudaram, RESULTADO OK.",
+   "fora_da_sequencia": true,
+   "correcoes": [
+    "I",
+    "J"
+   ]
+  },
+  {
+   "data": "2026-11-09",
+   "marca": "Gagarin",
+   "linha_marcas": 575,
+   "linhas_relogios": "87244-87326",
+   "relogios": 83,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 82,
+   "passadas": {
+    "1": [
+     82,
+     84
+    ]
+   },
+   "versao": 508,
+   "correcoes": [
+    "G",
+    "I",
+    "J"
+   ],
+   "obs": "Gagarin = coleção 'The First in Space' da Sturmanskie (Volmax). Só ela nesta execução porque a seguinte (Gallet, 576) é grande (vintage desde o séc. XIX, muitas referências). Firecrawl sem créditos nesta execução."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
   "Erbprinz": {
-   "linha_marcas": 497,
+   "linha_marcas": 501,
    "linhas_relogios": "6773-6828"
   },
   "Messerschmitt": {
-   "linha_marcas": 927,
+   "linha_marcas": 931,
    "linhas_relogios": "6829-7094"
   },
   "Acto": {
-   "linha_marcas": 19,
+   "linha_marcas": 22,
    "linhas_relogios": "77123-77167"
   }
  },
  "avisos": {
-  "Kurono Tokyo (linha 801)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 799, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
-  "ETA (linha 507)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
-  "Eterna (linha 508)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
-  "Hemel (linha 671)": "Eylandt (linha 517) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
-  "Favre Leuba (linha 526)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
-  "Ferdinand Berthoud (linha 531)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
-  "Filippo Loreti (linha 535)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
-  "Fiona Krüger (linha 537)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
-  "Fiyta (linha 541)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
-  "Accutron (linha 18)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo.",
-  "Formex (linha 551)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência.",
-  "Franc Vila (linha 556)": "Gravada em 07/11/2026 (v494), 154 relógios (84553-84706), vermelha. Complemento futuro com Firecrawl: francvila.com e francvilafounder.com, Chrono24 (francvila/index.htm), Masterhorologer (dezenas de matérias 2008-2015), EveryWatch; fotos das ~50 linhas só com link de página; variações de material de cada FVa/FV Evos/Intrepido/Neo Alta sem nome publicado.",
-  "Franck Dubarry (linha 557)": "Gravada em 08/11/2026 (v495), 70 relógios (84707-84776), vermelha. Complemento futuro com Firecrawl: franckdubarry.com (páginas de produto bloqueadas por robots: crazy-balls, crazy-colors, intrepidus, yin-yang, crazy-wheel), Gemnation (lista completa por coleção), Chrono24, Ashford collections/franck-dubarry, Jomashop; Deep Ocean DO-03/05/10 sem código completo; mais cores de Crazy Balls, Crazy Colors, Intrepidus e Yin Yang.",
-  "Franck Muller (linha 558)": "Gravada em 08/11/2026 (v496), 1092 relógios (84777-85868), vermelha. Complemento futuro: loja oficial do Japão franckmuller-japan.com (centenas de produtos com ref e foto no padrão cdn/shop/products/<REF>-<id>_p960.png; links de produto pediram permissão), essential-watches.com (famílias Master-Banker, Round, Perpetual-Calendar, Piece-Unique, Double-Mystery, Heart, Infinity, Vanguard ainda não abertas), Firecrawl (sem créditos nesta execução): notícias press-corner (Ocean Drive, Rally Maya, Vanguard Sport, Qatar), thewatchpages e watchpatrol (bloqueados), EveryWatch (login); fotos das ~150 linhas só com link de página; edições regionais/zodíaco sem referência.",
-  "Frédéric Jouvenot (linha 560)": "Gravada em 08/11/2026 (v497), 24 relógios (85898-85921). Firecrawl estava sem créditos: as páginas collections.fjouvenot.com (solar-deity e moon-deity) e a The Limited Edition (verificação anti-robô) não abriram; revisitar para fotos de Amaterasu, Surya Aventurine/Titanium DLC e Helios Diamond.",
-  "Frederique Constant (linha 561)": "Gravada em 08/11/2026 (v498), 607 relógios (85922-86528), vermelha. ~320 linhas só com link de página (The Watch Pages bloqueado, watch.co.uk 'historical', CollectorSquare, 1stDibs). Firecrawl sem créditos nesta execução. Complemento futuro: fotos via Firecrawl (thewatchpages.com, frederiqueconstant.com/watches/collection, us.frederiqueconstant.com/product/FC-XXX.html), enciclopédia watchbazar.ru (coleções), Watchonista (lista de relógios da marca), EveryWatch, Chrono24, catálogos antigos (2008-2023), mais de mil variações históricas desde 1988 (Persuasion, Index, Art Déco, Carrée, Junior, Delight, Healey, Peking-Paris).",
-  "Frères Rochat (linha 562)": "Gravada em 08/11/2026 (v499), 71 peças (86529-86599), vermelha: quase tudo são caixas, gaiolas, pistolas e relógios de bolso com pássaro cantor (c. 1804-1850) vistos em leilões; mais 7 autômatos contemporâneos (2013-2015). Complemento futuro: site freres-rochat.com (fora das buscas) e páginas Sotheby's/Christie's/Bonhams sem foto (Firecrawl), lotes do CollectorSquare ainda não abertos (Antiquorum 302-150, 300-375, 113-300, 71-227, 34-198, 26-518; Christie's 2012/2010/2005; Sotheby's 2005/2008 GE0804-77), Musée d'art et d'histoire de Genebra, Patek Philippe Museum, Palace Museum de Pequim.",
-  "Fromanteel (linha 563)": "Gravada em 08/11/2026 (v500), 101 relógios (86600-86700), vermelha. Site oficial fromanteel-watches.com bloqueado por robots e Firecrawl sem créditos: ~35 linhas vieram só de títulos de busca site:fromanteel-watches.com/products (link da página na coluna C). Complemento futuro com Firecrawl: products.json e coleções do site oficial, blog 'the-journal' (5 iconic military watches: GMT-298, Wildcat 300), specials.fromanteel-watches.com (Pendulum Diver, Prestige), De Bijenkorf, Brandfield, BoumanOnline, WatchXL, Touch of Modern (fotos e refs de variantes -0xx); Tulip 60/65/66 sem foto; Generations Johannes/Abraham/Time Machine e Vintage 1607 (2009-2010) com poucas fotos.",
-  "Fullspot (linha 566)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha.",
-  "G. Gerlach (linha 568)": "Gravada em 08/11/2026 (v504), 57 relógios (86855-86911), vermelha. Firecrawl sem créditos: loja cykadia.pl páginas 3 e 4 (producer/G.-Gerlach/6/3/full e /4/full) não abertas; site gerlach.org.pl e masterhorologer.com (14 fichas 2013-2017) fora de alcance; ~20 linhas só com link de página (Dragon, PM36, Batory II, Lux-Sport II, RWD-6, Porsche Club Poland, Tokkotai, Auroch); cores sem nome de Orzeł 85A, Navigator, Otago.",
-  "Gaga Milano (linha 570)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor."
+  "Kurono Tokyo (linha 805)": "Mesma marca que Bunkyo Tokyo (243). Os relógios de 3 ponteiros de 37 mm (Bunkyo Tokyo Classic, Reiwa, Grand, Special Projects 37 mm, aniversários Mori/Toki/Grand Mori/Reiwa 2024) já estão em Relógios 32320-32337 como 'Bunkyo Tokyo'. Na linha 799, fazer só cronógrafos, Calendrier, GMT, 34 mm, Diver, Sensu/Jubilee, Chrono Tokyo/TiCTAC e o que não estiver lá.",
+  "ETA (linha 511)": "Usuário pediu em 04/11/2026 para remover a ETA da tabela (não é marca de relógio). As 894 linhas saíram da aba Relógios na v434; a linha da aba Marcas foi mantida (apagar mudaria a posição das demais). Não refazer a ETA.",
+  "Eterna (linha 512)": "Gravada em 04/11/2026 (v428) com 347 relógios (linhas 76834-77180), vermelha. Complemento futuro com Firecrawl: shop.eterna.com/products.json, eterna.com/the-collection?page=2, WatchBase contemporary/heritage, ~95 fichas do arquivo Europa Star (swisstime) com fotos, Chrono24.",
+  "Hemel (linha 675)": "Eylandt (linha 521) é sub-marca da Hemel e já tem 13 relógios (Relógios 77323-77335, refs E1-E17). Ao fazer a Hemel, não repetir esses modelos.",
+  "Favre Leuba (linha 530)": "Gravada em 05/11/2026 (v446), 212 relógios (77168-77379), vermelha. Complemento futuro com Firecrawl: Europa Star swisstime (~56 fichas vintage), páginas de coleção da Pasquali Domenici (113 refs Titan), Whamond/First Class/C W Sellors (vitrines em JS), EveryWatch, Chrono24; logo.",
+  "Ferdinand Berthoud (linha 535)": "Gravada em 05/11/2026 (v450), 53 relógios (77859-77911), vermelha. Site oficial ferdinandberthoud.ch fora das buscas; complemento futuro com Firecrawl: site oficial (coleções e configurador FB RES, 200+ combinações), fichas Cellini Jewelers, EveryWatch (exige login).",
+  "Filippo Loreti (linha 539)": "Gravada em 05/11/2026 (v454), 157 relógios (79607-79763), vermelha. Complemento futuro com Firecrawl: filippoloretiwatches.com/products.json e collections/all?page=2..11, coleções dc-watches, batman-watches, metal-slug-collection, ascari-escapes-collection, aquadiver-gmt, skeleton, 2022-models (Ocean Timer); fotos das ~40 linhas só com link de página.",
+  "Fiona Krüger (linha 541)": "Gravada em 05/11/2026 (v455), 37 relógios (79764-79800), vermelha. Complemento futuro com Firecrawl: site oficial fionakruger.com, fotos das referências TASAKI (WAC 0111-0113, 0114/0117/0118, 0123-0126), peças personalizadas.",
+  "Fiyta (linha 545)": "Gravada em 05/11/2026 (v459), 217 relógios (80012-80228), vermelha. Complemento futuro com Firecrawl: chinawatchshop.com/collections/fiyta/products.json (dezenas de fichas numéricas ainda não abertas), fiyta.com (site chinês), Tmall/JD; fotos das ~15 linhas só com link de página.",
+  "Accutron (linha 21)": "Gravada em 07/11/2026 (v482), 243 relógios (Relógios 82130-82372), vermelha. Vintage 1960-77 e Accutron II (96B) já estão também no bloco da Bulova (~31248-32313). Complemento futuro: mais vintage com apelido (Analog Shift arquivo, mybulova/accutron.watch), Accutron by Bulova 2000-2014 (refs 26B/28B/63B/64B/65B além da Right Time), logo.",
+  "Formex (linha 555)": "Gravada em 07/11/2026 (v484), 285 relógios (82378-82662), vermelha. Complemento futuro com Firecrawl: Long Island Watch páginas 5 e 7 da coleção formex-watches, Chrono24, EveryWatch, fotos das ~36 linhas só com link de página (Splash, Space Rock, Sector, COCAB, 4Speed), variações de pulseira das linhas atuais, mais modelos 4Speed (TS/AS/DS/RS) com referência.",
+  "Franc Vila (linha 560)": "Gravada em 07/11/2026 (v494), 154 relógios (84553-84706), vermelha. Complemento futuro com Firecrawl: francvila.com e francvilafounder.com, Chrono24 (francvila/index.htm), Masterhorologer (dezenas de matérias 2008-2015), EveryWatch; fotos das ~50 linhas só com link de página; variações de material de cada FVa/FV Evos/Intrepido/Neo Alta sem nome publicado.",
+  "Franck Dubarry (linha 561)": "Gravada em 08/11/2026 (v495), 70 relógios (84707-84776), vermelha. Complemento futuro com Firecrawl: franckdubarry.com (páginas de produto bloqueadas por robots: crazy-balls, crazy-colors, intrepidus, yin-yang, crazy-wheel), Gemnation (lista completa por coleção), Chrono24, Ashford collections/franck-dubarry, Jomashop; Deep Ocean DO-03/05/10 sem código completo; mais cores de Crazy Balls, Crazy Colors, Intrepidus e Yin Yang.",
+  "Franck Muller (linha 562)": "Gravada em 08/11/2026 (v496), 1092 relógios (84777-85868), vermelha. Complemento futuro: loja oficial do Japão franckmuller-japan.com (centenas de produtos com ref e foto no padrão cdn/shop/products/<REF>-<id>_p960.png; links de produto pediram permissão), essential-watches.com (famílias Master-Banker, Round, Perpetual-Calendar, Piece-Unique, Double-Mystery, Heart, Infinity, Vanguard ainda não abertas), Firecrawl (sem créditos nesta execução): notícias press-corner (Ocean Drive, Rally Maya, Vanguard Sport, Qatar), thewatchpages e watchpatrol (bloqueados), EveryWatch (login); fotos das ~150 linhas só com link de página; edições regionais/zodíaco sem referência.",
+  "Frédéric Jouvenot (linha 564)": "Gravada em 08/11/2026 (v497), 24 relógios (85898-85921). Firecrawl estava sem créditos: as páginas collections.fjouvenot.com (solar-deity e moon-deity) e a The Limited Edition (verificação anti-robô) não abriram; revisitar para fotos de Amaterasu, Surya Aventurine/Titanium DLC e Helios Diamond.",
+  "Frederique Constant (linha 565)": "Gravada em 08/11/2026 (v498), 607 relógios (85922-86528), vermelha. ~320 linhas só com link de página (The Watch Pages bloqueado, watch.co.uk 'historical', CollectorSquare, 1stDibs). Firecrawl sem créditos nesta execução. Complemento futuro: fotos via Firecrawl (thewatchpages.com, frederiqueconstant.com/watches/collection, us.frederiqueconstant.com/product/FC-XXX.html), enciclopédia watchbazar.ru (coleções), Watchonista (lista de relógios da marca), EveryWatch, Chrono24, catálogos antigos (2008-2023), mais de mil variações históricas desde 1988 (Persuasion, Index, Art Déco, Carrée, Junior, Delight, Healey, Peking-Paris).",
+  "Frères Rochat (linha 566)": "Gravada em 08/11/2026 (v499), 71 peças (86529-86599), vermelha: quase tudo são caixas, gaiolas, pistolas e relógios de bolso com pássaro cantor (c. 1804-1850) vistos em leilões; mais 7 autômatos contemporâneos (2013-2015). Complemento futuro: site freres-rochat.com (fora das buscas) e páginas Sotheby's/Christie's/Bonhams sem foto (Firecrawl), lotes do CollectorSquare ainda não abertos (Antiquorum 302-150, 300-375, 113-300, 71-227, 34-198, 26-518; Christie's 2012/2010/2005; Sotheby's 2005/2008 GE0804-77), Musée d'art et d'histoire de Genebra, Patek Philippe Museum, Palace Museum de Pequim.",
+  "Fromanteel (linha 567)": "Gravada em 08/11/2026 (v500), 101 relógios (86600-86700), vermelha. Site oficial fromanteel-watches.com bloqueado por robots e Firecrawl sem créditos: ~35 linhas vieram só de títulos de busca site:fromanteel-watches.com/products (link da página na coluna C). Complemento futuro com Firecrawl: products.json e coleções do site oficial, blog 'the-journal' (5 iconic military watches: GMT-298, Wildcat 300), specials.fromanteel-watches.com (Pendulum Diver, Prestige), De Bijenkorf, Brandfield, BoumanOnline, WatchXL, Touch of Modern (fotos e refs de variantes -0xx); Tulip 60/65/66 sem foto; Generations Johannes/Abraham/Time Machine e Vintage 1607 (2009-2010) com poucas fotos.",
+  "Fullspot (linha 570)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha.",
+  "G. Gerlach (linha 572)": "Gravada em 08/11/2026 (v504), 57 relógios (86855-86911), vermelha. Firecrawl sem créditos: loja cykadia.pl páginas 3 e 4 (producer/G.-Gerlach/6/3/full e /4/full) não abertas; site gerlach.org.pl e masterhorologer.com (14 fichas 2013-2017) fora de alcance; ~20 linhas só com link de página (Dragon, PM36, Batory II, Lux-Sport II, RWD-6, Porsche Club Poland, Tokkotai, Auroch); cores sem nome de Orzeł 85A, Navigator, Otago.",
+  "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": []
