@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 575,
- "ultima_versao": 506,
+ "ultima_versao": 507,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8820,6 +8820,17 @@
    ],
    "obs": "A pedido do usuário (marcas novas seguidas no Instagram): Aadvee (Índia, Bengaluru) na linha 13, Abback (França, Sancey; extinta em 2023) na 15, Abordage (França, Saint-Malo) na 18 e Adamas (Itália, Roma) na 23 da aba Marcas, em ordem alfabética, com B–M preenchidos (E/F vazios em Aadvee e Adamas: sem preço publicado; K vazio em Abback: logo não encontrado em link estável). Linhas da aba Marcas a partir das antigas 13, 14, 16 e 20 deslocadas; proxima_linha_marcas, marcas_ja_feitas_fora_da_ordem e avisos atualizados. Relógios 87233–87243: Aadvee 5 (19 fontes), Abback 1 (25), Abordage 3 (31), Adamas 2 (20), gravados com gravar_marca.py (RESULTADO OK); verificação completa OK. Adrien Nicod não incluído: é relojoeiro (Simon Brette), não marca.",
    "fora_da_sequencia": true
+  },
+  {
+   "data": "2026-11-08",
+   "versao": 507,
+   "marca": "Aadvee",
+   "obs": "Correção ao montar o post: Relógios 87235 'Pioneer – Violet' -> 'Pioneer – Purple' (o site chama o roxo de violet) e 87236 'Pioneer – Purple' -> 'Pioneer – Violet Plum' (tom vinho; C = post DAqq70MoGlq do Instagram); E das duas reescrito. Marcas linha 13: I com a origem do nome (sânscrito Advaiya, 'único'), J com as cores corrigidas, M com a nota. corrige_aadvee.py: só essas 8 células mudaram, RESULTADO OK.",
+   "fora_da_sequencia": true,
+   "correcoes": [
+    "I",
+    "J"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8860,7 +8871,5 @@
   "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-09T02:10:43Z",
- "ultimo_sinal": "2026-11-09T02:10:43Z"
+ "marcas_novas_sem_relogios": []
 }
