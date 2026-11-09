@@ -8,3 +8,6 @@
 - Falta: chrono24, everywatch, watchbase, mais lojas (watch.co.uk, ernestjones, kamalwatch, watchia, rubicon), usados (ebay), imprensa (ablogtowatch, masterhorologer, watchpro), linhas antigas (Gc-1, Gc-2, Gc-4, B1/B2 Class, Smart Class, 47000G1...).
 - 19:1x: feitas seções 2 (site oficial: coleções gc-*, collections/all p2,3,4,6,7,8, sitemap_products_1 inteiro), 2c (sitemap = produtos escondidos), 5 (gressive, europastar swisstime), 7 (krishna, justintime p1-5, mastersintime, watch.co.uk, watchxl), 8 (eBay browse), 9 (europastar, ablogtowatch, jewellermagazine).
 - Falta: Chrono24 (site: busca não trouxe nada), EveryWatch (não apareceu), mais lojas (ernestjones, justwatches, rubicon), Sport Class XL/XXL antigos X refs, Gc-1/Gc-2/Gc-4, Smart Class, Diver Chic X refs, SE-1/SE-2 refs, buracos.
+- 19:12 1ª passada encerrada (galaxus, ebay.de, manualslib = 3 sem novidade). ~78 fontes, 526 relógios.
+- VERMELHA: catálogo de 1997-2012 (refs suíças X/G/A/I/B, nomes Gc-1/2/3/4, B1/B2 Class, Sport Class, Diver Chic, SE-1/SE-2) com centenas de refs não listadas; muitas versões por cor.
+- 2ª passada: alvo = refs antigas X/G/A/I/B com fotos; Europa Star (Femme, LadyChic Cable, Gc-3 Blue Dial); lojas UK (ernestjones, firstclass, beaverbrooks); bellaluna; zalando; poshmark; desertcart; eBay buscas antigas.
