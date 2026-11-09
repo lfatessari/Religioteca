@@ -10,3 +10,11 @@
 - Airstream (2022) = E-01 Gen 2; Sea-Hunter Slimline = G-02 Slimline; Sea-Hunter = G-02.
 - Aba Marcas: C diz Bury St Edmunds (Suffolk) mas press release oficial diz Tewkesbury (Gloucestershire) e Europa Star diz Gloucestershire. Fundada 2012 por Jon(athan) Quinn (about-us). J cita "Chevron" – verificar. Também I diz Bury St Edmunds.
 - D1 (Kickstarter): só título 'Cobalt'; Kickstarter não abre. Outras cores do D1 não achadas.
+## 10b auto-auditoria (fim da 1ª passada, ~106 fontes)
+1. Blog oficial: lidos ~25 artigos (news/press/blog) + revista WatchGecko (~15). Arquivo (collections/archive) bloqueado/robots; produtos individuais abrem quando o link vem de busca.
+2. §2c: ~15 buscas por título de produtos do geckota.com; últimas não trouxeram handles novos de modelo (só variações de pulseira).
+3. Lojas: Geckota vende quase só direto; WatchGecko (seminovos), Serious Watches, eBay, Amazon (antiga), Chrono24 (bloqueada; só títulos).
+4. Primeiro modelo: K1/K2/K3 (2014); linha Amazon de quartzo c. 2013 só por títulos.
+5. J da aba Marcas: Pioneer, Sea Hunter, K3, G-02 achados; "Chevron" NÃO encontrado em nenhuma fonte.
+6. Edições limitadas na B; peça única (G-01 Arctic roxo) com "Peça única." na E.
+Vermelha: K1 com dezenas de versões V (V27 citado), D1 Kickstarter (cores), G-02 GMT 6 cores (só 2 achadas), K4/ZD1 sem cores, arquivo bloqueado.
