@@ -8873,7 +8873,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T09:43:22Z",
- "ultimo_sinal": "2026-11-09T09:43:22Z",
+ "ultimo_sinal": "2026-11-09T09:53:20Z",
  "em_andamento": {
   "marcas": [
    "Gagarin"
@@ -8883,7 +8883,11 @@
   "relogios": "historico/parcial_Gagarin_relogios.txt",
   "fontes": "historico/parcial_Gagarin_fontes.txt",
   "notas": "historico/notas_Gagarin.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c"
+  ],
   "passada": 1
  }
 }
