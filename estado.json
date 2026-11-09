@@ -9102,7 +9102,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T18:42:24Z",
- "ultimo_sinal": "2026-11-09T19:12:15Z",
+ "ultimo_sinal": "2026-11-09T19:15:57Z",
  "em_andamento": {
   "marcas": [
    "GC Watches"
@@ -9123,7 +9123,10 @@
    "7",
    "8",
    "9",
-   "10"
+   "10",
+   "10b",
+   "p2",
+   "p3"
   ],
   "passada": 3
  }
