@@ -9148,7 +9148,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-09T20:41:55Z",
-  "ultimo_sinal": "2026-11-09T20:41:55Z",
+  "ultimo_sinal": "2026-11-09T20:47:48Z",
   "em_andamento": {
     "marcas": [
       "Geckota"
@@ -9158,7 +9158,9 @@
     "relogios": "historico/parcial_Geckota_relogios.txt",
     "fontes": "historico/parcial_Geckota_fontes.txt",
     "notas": "historico/notas_Geckota.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
