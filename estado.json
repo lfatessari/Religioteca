@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 585,
- "ultima_versao": 515,
+ "proxima_linha_marcas": 586,
+ "ultima_versao": 516,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9053,6 +9053,33 @@
     ]
    },
    "obs": "Revelou-se grande no meio (site oficial WooCommerce com ~75 produtos + edições de esquadrão). ~45 linhas só com link da página oficial (fotos em lazy-load). Corrigido I (fundador Michael Happé, 2011; Legacy marítimo). Vermelha: edições personalizadas para 30+ esquadrões (páginas protegidas). Próxima: GC Watches (585), grande."
+  },
+  {
+   "marca": "GC Watches",
+   "data": "2026-11-09",
+   "linha_marcas": 585,
+   "linhas_relogios": "89173-89744",
+   "relogios": 572,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "não",
+   "fontes": 100,
+   "versao": 516,
+   "passadas": {
+    "1": [
+     77,
+     417
+    ],
+    "2": [
+     13,
+     26
+    ],
+    "3": [
+     10,
+     14
+    ]
+   },
+   "obs": "Grande, sozinha. Site oficial = loja Gc dentro de guesswatches.com (coleções gc-*, collections/all, sitemap_products_1 inteiro); ~115 refs vieram de títulos de resultados de busca (watch.co.uk, mastersintime, kamalwatch, fruugo, eBay). Só ~106 linhas com foto direta; ~440 com link da página do produto (oficial na maioria) e 28 com busca no Google Imagens. Corrigidos I (fundada em 1997 por Paul Marciano) e J. Firecrawl sem créditos. Vermelha: catálogo suíço 1997-2012 (refs X/G/A/I/B) com centenas de referências não listadas. Próxima: Gebson (586)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9100,34 +9127,5 @@
   "GC Watches (linha 585)": "Dimensionada em 09/11/2026 como GRANDE (Guess Collection, centenas de referências Y/X): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-09T18:42:24Z",
- "ultimo_sinal": "2026-11-09T19:15:57Z",
- "em_andamento": {
-  "marcas": [
-   "GC Watches"
-  ],
-  "linha_marcas": 585,
-  "grande": true,
-  "relogios": "historico/parcial_GC Watches_relogios.txt",
-  "fontes": "historico/parcial_GC Watches_fontes.txt",
-  "notas": "historico/notas_GC Watches.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2",
-   "p3"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }
