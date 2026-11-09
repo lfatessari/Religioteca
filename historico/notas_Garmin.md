@@ -4,3 +4,4 @@ usa_codigos: true (part numbers).
 ## Seções feitas
 ## Fontes
 - 3ª geração MARQ (2026): Diver, Adventurer, Commander vistos; buscar Aviator/Athlete/Golfer/Captain Gen 3
+- HK discontinued (opened earlier) now used: +12
