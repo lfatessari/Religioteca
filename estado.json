@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 588,
- "ultima_versao": 518,
+ "proxima_linha_marcas": 591,
+ "ultima_versao": 519,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9126,6 +9126,57 @@
    "site_bloqueado": "parcial",
    "vermelho": true,
    "versao": 518
+  },
+  {
+   "marca": "Gelfman",
+   "data": "2026-11-09",
+   "linha_marcas": 588,
+   "linhas_relogios": "89907",
+   "relogios": 1,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "não",
+   "fontes": 18,
+   "versao": 519,
+   "passadas": {
+    "1": [
+     18,
+     1
+    ]
+   },
+   "obs": "Marca suíça (Gelfman AG) de Ilya Gelfman com um único modelo, o IN-16 Nixie (999 peças, GPHG 2022). Site gelfman.ch fora das buscas; Firecrawl sem créditos. Corrigidos B, D, G, I, J; C (Schindellegi, só registro) anotado em M. Linha Namfleg (esmalte, 2016) sem modelos com nome."
+  },
+  {
+   "marca": "Genesis",
+   "data": "2026-11-09",
+   "linha_marcas": 589,
+   "linhas_relogios": "89908-89946",
+   "relogios": 39,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "não",
+   "fontes": 27,
+   "versao": 519,
+   "passadas": {
+    "1": [
+     27,
+     40
+    ]
+   },
+   "obs": "Marca de Christine Genesis (Hamburgo, 2004). Site oficial genesis-uhren.de achado só com busca 'extended'; fichas técnicas dão refs 38.0x.x / 38.11.x / 39.14.2. Corrigidos C, D, G, I, J. Carpe Diem 2025 tem 5 combinações de cores sem nome (só 1 linha)."
+  },
+  {
+   "marca": "Genteel Handmade",
+   "data": "2026-11-09",
+   "linha_marcas": 590,
+   "linhas_relogios": "",
+   "relogios": 0,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "não",
+   "fontes": 6,
+   "versao": 519,
+   "obs": "Não é marca de relógios: ateliê de pulseiras de couro (George Vanoaga, 2017). Nenhuma linha em Relógios; corrigidos D, G, H, I, J e anotado em M."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9171,28 +9222,10 @@
   "Gavox (linha 584)": "Gravada em 09/11/2026 (v515), 84 relógios (89089-89172), vermelha. ~45 linhas só com link da página oficial (gavox.com usa lazy-load; páginas de produto abrem só se o endereço vier de busca). Complemento futuro com Firecrawl: fotos das páginas de produto gavox.com/product/..., categorias aurora, avidiver, longitude, stellar, roads, spitfire, gavox-eurorsa-avidiver, avidiver-2-gmt; Silverstar GMT (gavox.com/product/gavox-silverstar/); edições de esquadrão (15th Wing, 350 Sqn, 40 Sqn SAR, 53/711 Romênia, E-52, 156 Airlift, VAW-116, VAQ-139, 221, Sjöfartsverket) com fotos; Legacy 2011-13 (refs 346.x/358.x), Curtiss P-40 2012 (326/338/350 .0/.1), coleção feminina de 2019.",
   "Garrick (linha 583)": "Gravada em 09/11/2026 (v515), 68 relógios (89021-89088), vermelha. Complemento futuro com Firecrawl: garrick.co.uk/collections/discontinued-models e /collections/watches (produtos S8, S3 Deadbeat, S7 Frosted Edition), blog páginas 2-3, Instagram @garrickwatchco (peças sob encomenda), Kibble Watches e Horology by the Sea (usados).",
   "GC Watches (linha 585)": "Dimensionada em 09/11/2026 como GRANDE (Guess Collection, centenas de referências Y/X): fazer sozinha.",
-  "Geckota (linha 587)": "Gravada em 09/11/2026 (v518), 156 relógios (89751-89906), vermelha. Complemento futuro: versões K1 V01–V32 (WatchUSeek/watchcharts bloqueados), D1 Noir/Cobalt/Mercury com fotos (Kickstarter), cores do G-02 GMT, K4 (2015) e ZD1, linha de quartzo vendida na Amazon (c. 2013-14), fotos das ~62 linhas só com link (Firecrawl: geckota.com/products/...)."
+  "Geckota (linha 587)": "Gravada em 09/11/2026 (v518), 156 relógios (89751-89906), vermelha. Complemento futuro: versões K1 V01–V32 (WatchUSeek/watchcharts bloqueados), D1 Noir/Cobalt/Mercury com fotos (Kickstarter), cores do G-02 GMT, K4 (2015) e ZD1, linha de quartzo vendida na Amazon (c. 2013-14), fotos das ~62 linhas só com link (Firecrawl: geckota.com/products/...).",
+  "Genteel Handmade (linha 590)": "Fabricante de pulseiras de couro, sem relógios (verificado em 09/11/2026, v519). Não refazer; avaliar com o usuário se a linha deve continuar na aba Marcas.",
+  "Genus (linha 591)": "Próxima da sequência. Provavelmente GRANDE (GNS1.1/1.2/1.3, GNS2, Dragon, Eternal Gallop, peças com mostrador artístico/únicas): dimensionar e, se grande, fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-09T21:41:55Z",
- "ultimo_sinal": "2026-11-09T21:57:15Z",
- "em_andamento": {
-  "marcas": [
-   "Gelfman",
-   "Genesis",
-   "Genteel Handmade"
-  ],
-  "linha_marcas": 588,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Gelfman: todas",
-   "Genesis: todas",
-   "Genteel Handmade: é fabricante de pulseiras"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
