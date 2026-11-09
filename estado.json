@@ -9252,7 +9252,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T23:44:07Z",
- "ultimo_sinal": "2026-11-09T23:44:07Z",
+ "ultimo_sinal": "2026-11-09T23:48:21Z",
  "em_andamento": {
   "marcas": [
    "Geoffrey Roth Watches"
@@ -9262,7 +9262,12 @@
   "relogios": "historico/parcial_Geoffrey_Roth_relogios.txt",
   "fontes": "historico/parcial_Geoffrey_Roth_fontes.txt",
   "notas": "historico/notas_Geoffrey_Roth.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2b",
+   "3"
+  ],
   "passada": 1
  }
 }
