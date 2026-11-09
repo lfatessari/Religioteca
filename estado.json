@@ -9009,7 +9009,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T15:42:32Z",
- "ultimo_sinal": "2026-11-09T16:12:28Z",
+ "ultimo_sinal": "2026-11-09T16:16:08Z",
  "em_andamento": {
   "marcas": [
    "Gardé"
@@ -9030,7 +9030,9 @@
    "7",
    "8",
    "9",
-   "10"
+   "10",
+   "10b",
+   "2a_passada"
   ],
   "passada": 2
  }
