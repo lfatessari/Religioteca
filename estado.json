@@ -9229,7 +9229,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-09T22:42:49Z",
-  "ultimo_sinal": "2026-11-09T22:46:36Z",
+  "ultimo_sinal": "2026-11-09T22:48:55Z",
   "em_andamento": {
     "marcas": [
       "Genus"
@@ -9241,7 +9241,9 @@
     "notas": "historico/notas_Genus.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3"
     ],
     "passada": 1
   }
