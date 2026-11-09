@@ -3,3 +3,4 @@ Decisão: uma linha por modelo/edição (relógios de pulso: Forerunner, fēnix,
 usa_codigos: true (part numbers).
 ## Seções feitas
 ## Fontes
+- 3ª geração MARQ (2026): Diver, Adventurer, Commander vistos; buscar Aviator/Athlete/Golfer/Captain Gen 3
