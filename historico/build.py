@@ -8,6 +8,11 @@ for l in open('parcial_Gant_relogios.txt'):
     if c: seen.add(norm(c))
     rows.append([n,c,u,e])
 imgs={}
+for l in open('imgs_uk.txt'):
+    r,u=l.strip().split('|',1); imgs.setdefault(norm(r),u)
+ukcol={}
+for l in open('master_uk.txt'):
+    n,r,c=l.strip().split('|'); ukcol[norm(r)]=c
 for l in open('imgs.txt'):
     r,u=l.strip().split('|',1); imgs.setdefault(norm(r),u)
 specs={}
@@ -17,6 +22,7 @@ wsl={}
 for l in open('wsl.txt'):
     n,r,u=l.strip().split('|'); wsl.setdefault(norm(r),u)
 master=[l.strip().split('|') for l in open('master_refs.txt') if l.strip()]
+master_uk=[l.strip().split('|')[:2] for l in open('master_uk.txt')]
 cut=[i for i,x in enumerate(master) if x[1]=='G305002'][0]
 kulta={norm(x[1]) for x in master[:cut]}
 wo={norm(x) for x in ['G195006','P730002','P730001','P106005','P106006','K280001','K280003']}|{norm(l.split('|')[0]) for l in open('wo_seen.txt')}
@@ -28,6 +34,9 @@ order=[]
 for n,r in master:
     k=norm(r)
     if k not in names: names[k]=(n,r); order.append(k)
+for n,r in master_uk:
+    k=norm(r)
+    if k not in names: names[k]=(n,r); order.append(k)
 for k,(n,r,d) in cat.items():
     if k not in names: names[k]=(n,r); order.append(k)
 fallback=collections.Counter()
@@ -37,6 +46,7 @@ for k in order:
     n,r=names[k]
     e=specs.get(k,'')
     if k in cat and cat[k][2] and not e: e=cat[k][2]
+    if k in ukcol and not e: e='Cor no site oficial: '+ukcol[k]
     if k in imgs: u=imgs[k]
     elif k in kulta or k in wo:
         rl=r.lower(); u=f'https://www.watchesonline.com/media/catalog/product/{rl[0]}/{rl[1]}/{rl}.jpg'; fallback['wo']+=1
