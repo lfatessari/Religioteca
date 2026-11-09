@@ -17,3 +17,4 @@ Início 2026-11-09 15:45 UTC.
 - time-line24.de (Marken/Garde-Ruhla) e uhr-schmuck24.de: robots. popscreen: "Gardé Uhren aus Ruhla Funkuhr Titan / Saphirglas Business Alarm 10".
 - Logo: https://www.krahl-shop.de/cdn/shop/collections/GARDE_LOGO.png?v=1774544637
 - otto.de separa 'ruhla' (Pointtec: Space Control 4860M/4866M/4642M/4640M/4641M, Minentaucher 4960M, Glasbach 4970) de 'UMR Ruhla' (69 produtos) → confirma divisão. Funkwecker 256-3/256-4 e Projektionswecker RC-Clock 170-1/170-2 = despertadores, só nota.
+- Inhorgenta PDF: UMR GmbH (marca Uhrenmanufaktur Ruhla), Marienstraße 1, 99842 Ruhla; produção Eisenacher Straße 42c, 99848 Wutha-Farnroda. 18 solares (96961-3, 94101-3, 95951-3, com/sem M).
