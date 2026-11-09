@@ -9022,7 +9022,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T16:42:27Z",
- "ultimo_sinal": "2026-11-09T16:42:27Z",
+ "ultimo_sinal": "2026-11-09T17:01:16Z",
  "em_andamento": {
   "marcas": [
    "Garmin"
@@ -9032,7 +9032,9 @@
   "relogios": "historico/parcial_Garmin_relogios.txt",
   "fontes": "historico/parcial_Garmin_fontes.txt",
   "notas": "historico/notas_Garmin.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
