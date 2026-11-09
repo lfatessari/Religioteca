@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 577,
- "ultima_versao": 509,
+ "proxima_linha_marcas": 579,
+ "ultima_versao": 510,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8884,6 +8884,55 @@
     "J"
    ],
    "obs": "Marca grande, sozinha. 89 referências atuais do relançamento Breitling de 2026 (inclui variações de pulseira A/S/W/X; ~48 só com link da página oficial) + 76 históricos (1910s-2018). Vermelha: centenas de anúncios vintage sem nome/referência e variações de pulseira sem foto. Soma de 'novos' da 1ª passada no marca.json ficou inflada (180) por sobreposição das páginas de variações; o real é 157. Firecrawl sem créditos; EveryWatch exige login; Wikipedia Gallet_&_Co. pediu permissão (aberta a versão Gallet_%26_Company)."
+  },
+  {
+   "data": "2026-11-09",
+   "marca": "Galvin Watch Company",
+   "linha_marcas": 577,
+   "linhas_relogios": "87492-87515",
+   "relogios": 24,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 37,
+   "passadas": {
+    "1": [
+     37,
+     24
+    ]
+   },
+   "versao": 510,
+   "correcoes": [
+    "B",
+    "C",
+    "D",
+    "G",
+    "I",
+    "J"
+   ],
+   "obs": "Australiana (Sydney), Susan Galvin, 2020. Não usa códigos (GVN-xx da Long Island Watch na coluna E). Loja oficial em lucacollections.com.au."
+  },
+  {
+   "data": "2026-11-09",
+   "marca": "Gane",
+   "linha_marcas": 578,
+   "linhas_relogios": "87516-87521",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 26,
+   "passadas": {
+    "1": [
+     26,
+     6
+    ]
+   },
+   "versao": 510,
+   "correcoes": [
+    "G",
+    "I",
+    "J"
+   ],
+   "obs": "Cingapura, Raymond Pee, 2021. Type C (C1-C3) e Type D (D1-D3). Site oficial não apareceu em buscas; Firecrawl sem créditos. Parou antes da Gant (579), que é grande (centenas de referências em lojas)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -8925,23 +8974,5 @@
   "Gallet (linha 576)": "Gravada em 09/11/2026 (v509), 165 relógios (87327-87491), vermelha. Complemento futuro com Firecrawl: fotos das ~48 variações de pulseira (gallet.com/us-en/watches/.../AG...), variações W7/X1-X3 não vistas de FO Chronograph C1, MP B1, MS B1 e FO Automatic; EveryWatch (login), Chrono24; fotos das ~26 linhas históricas só com link (Grail-Watch/Chronopedia: Flight Officer Military, Duo-Timer, Up-Down, Profundus, Astronomic 250, Diver 7750, MultiChron 12 LE 100, Indy 500, Aerographic); referências de caixa vintage (só 5193, 7584, 22210 achadas)."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-09T11:42:40Z",
- "ultimo_sinal": "2026-11-09T11:53:07Z",
- "em_andamento": {
-  "marcas": [
-   "Galvin Watch Company",
-   "Gane"
-  ],
-  "linha_marcas": 577,
-  "grande": false,
-  "relogios": "historico/parcial_Galvin_relogios.txt",
-  "fontes": "historico/parcial_Galvin_fontes.txt",
-  "notas": "historico/notas_Galvin.md",
-  "secoes_feitas": [
-   "Galvin: todas"
-  ],
-  "passada": 1,
-  "notas_gane": "historico/notas_Gane.md"
- }
+ "marcas_novas_sem_relogios": []
 }
