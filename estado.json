@@ -9176,7 +9176,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T21:41:55Z",
- "ultimo_sinal": "2026-11-09T21:41:55Z",
+ "ultimo_sinal": "2026-11-09T21:57:15Z",
  "em_andamento": {
   "marcas": [
    "Gelfman",
@@ -9188,7 +9188,11 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Gelfman: todas",
+   "Genesis: todas",
+   "Genteel Handmade: é fabricante de pulseiras"
+  ],
   "passada": 1
  }
 }
