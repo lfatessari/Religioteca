@@ -1,0 +1,373 @@
+{
+ "marca": "Genus",
+ "usa_codigos": false,
+ "logo": "https://genuswatches.swiss/wp-content/uploads/2025/03/Logo_Genus_black.png",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "D": "Exibição do tempo sem ponteiros, com elementos móveis que percorrem um caminho em forma de 8 (Prêmio Exceção Mecânica do GPHG 2019)",
+  "G": "genuswatches.swiss",
+  "I": "A Genus é uma marca suíça independente de alta relojoaria, fundada em Genebra (ateliê em Plan-les-Ouates) pelo relojoeiro Sébastien Billières e por Catherine Henry, que estreou em 2019 com o GNS1.2 WG. Billières, formado na escola de relojoaria de Genebra, trabalhou na Roger Dubuis e com Felix Baumgartner, Franck Muller e Svend Andersen, participou do Harry Winston Opus V e fundou em 2011 a GMTI, que monta movimentos para outras marcas; Catherine Henry vem da gestão de empresas.\n\nO relógio não tem mostrador nem ponteiros convencionais: as horas são indicadas por 12 satélites numerados que giram na periferia, as dezenas de minutos por uma 'corrente' de 12 elementos móveis (o 'Genus', que lidera, e os 'Genera') que percorre um caminho em forma de 8 entre duas rodas que giram em sentidos opostos, e os minutos exatos por um disco numerado de 0 a 9 — um sistema protegido por duas patentes. O calibre de corda manual é feito na casa, com caixa de 43 mm em ouro 18K, titânio grau 5 ou titânio damasceno azulado a fogo. A estreia rendeu o Prêmio Exceção Mecânica (Prix de l'Exception Mécanique) do GPHG 2019.\n\nDepois vieram as versões em ouro rosa e titânio damasceno (GNS1.2 TD, 2020), o GNS1.2 Dragon (2021), com um dragão articulado de ouro no lugar da corrente de minutos, as versões cravejadas Gems (Rainbow Green, 2023), o relógio único 8-Track feito com a Singer Reimagined para o Only Watch, e, a partir de 2024, a linha GNS2 (Launch Edition de 18 peças, Infinity Blue, Nocturne, Time2Race, Eternal Gallop e Les Flux du Temps, de 2026). A produção é muito pequena, com peças numeradas e muitas versões personalizadas sob encomenda.",
+  "J": "GNS1.1, GNS1.2 (WG, RG, TD), GNS1.2 Dragon, GNS1.2 Gems (Rainbow Green, Rivière), 8-Track (Singer Reimagined), GNS2 (Launch Edition, Infinity Blue, Nocturne, Time2Race, Eternal Gallop, Les Flux du Temps)"
+ },
+ "observacoes": "Corrigido (site oficial genuswatches.swiss, GPHG, Monochrome, Worldtempus, SJX): G genus.watch → genuswatches.swiss; D 'esferas serpenteantes' → elementos móveis em caminho em 8 (não são esferas); I reescrito — o prêmio do GPHG 2019 foi o de Exceção Mecânica, não 'Revelação Relojoeira', e o site e a imprensa citam só Sébastien Billières e Catherine Henry como fundadores (Baptiste Jaeger-Moret não aparece em nenhuma fonte); J 'GNS1.2, GNS 1.3, Genus Aura' → modelos reais (GNS 1.3 e Aura não foram encontrados). Ainda a verificar: H @genus.watch não conferido (site não mostra o Instagram na leitura); C Genebra ok (ateliê em Plan-les-Ouates, cantão de Genebra); E/F (faixa 10, 900.000) parecem altos: os preços vão de CHF 58.000 a 200.000.",
+ "fontes": [
+  {
+   "url": "https://genuswatches.swiss/",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://genuswatches.swiss/the-brand/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://genuswatches.swiss/collections/gns1-2-arrows/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://genuswatches.swiss/collections/gns1-2-dragon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://genuswatches.swiss/collections/gns2-launch-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://genuswatches.swiss/collections/gns2-infinity-blue/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://genuswatches.swiss/8-track-watch-only-watch-2023/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://genuswatches.swiss/press-articles/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://genuswatches.swiss/press-room-genus/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://genuswatches.swiss/press-room/gns2-les-flux-du-temps/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://genuswatches.swiss/press-room/gns-time2race/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://genuswatches.swiss/press-room/rainbow-green/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://genuswatches.swiss/press-room/gns2-nocturne/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://genuswatches.swiss/wp-content/uploads/2026/09/GENUSxTAD-KOZH_Press-Release_GNS2-Les-Flux-du-Temps_-EN.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watch-reviews/when-five-dragons-turn-your-desk-genus-76475.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/tamer-take-time-genus-77892.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/where-dragons-guard-flow-time-genus-77108.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thehourmarkers.com/articles/geneva-watch-days-2026-genus-les-flux-du-temps",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/dragon-white-gold/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/gns-1-2-td",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/gns-1-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2021/04/genus-gns1-dragon.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/post_brands/genus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/genus-gns-1-1-rg-watch-with-figure-eight-minutes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/articles/novelties/genus-forges-ahead-new-damascus-titanium-timepiece",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=33618",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/genus-gns1-2wg/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/genus-gns2-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/genus-gns1-2-td-damascene-titanium-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/genus/220519",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/gns1-2-td/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2020/07/23/genus-gns-1-2-rg-in-rose-gold/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesandwonders.com/en/geneva-2026/brands/genus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/eternal-gallop-where-time-leaves-footprints-genus-82347.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/gns2-les-flux-du-temps/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wip.europastar.com/highlights/1004115189-genus-gns-time2race-the-endless-race.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/genus-did-you-know-india-watch-weekend",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch-wiki.net/doku.php?id=genus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/gns-2-infinity-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/the-new-ultra-impressive-genus-gns-dragon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/category/Genus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/genus-gns2-watch-hands-on-review-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchilove.com/tag/genus-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/tag/genus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/genus/home",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watch-reviews/enter-dragon-genus-77262.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bangkokpost.com/life/social-and-lifestyle/2730985/the-time-telling-dragon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesandwonders.com/en/geneva-2025/brands/genus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/brand/genus-38452",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watch-brand/genus-452",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/?p=150441",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/gns-dragon-23168.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/genus-team-test-wordtempus-x-genus-31683.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/new-watches/dragon-profusion-chinese-new-year-77253.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004113598-singer-reimagined-and-genus-collaborate-on-the-8.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/highlights/1004116253-genus-x-matteo-stauffacher-%C3%97-tad-kozh-exploring.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004114172-genus-opens-a-new-chapter-with-the-gns2-watch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gmtpost.com/post/genus-dragon-watch-price-pictures-and-specifications",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/Genus-comes-to-India",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://onlywatch.com/singer-reimagined-genus",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2019/07/10",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/2019/08/18/introducing-genus-gns1-2-by-sebastien-billieres-a-serpentine-turning-point-in-horological-indications-with-lume-video/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-6481413",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/?p=48647",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thejewelleryeditor.com/brands/genus",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dubaiwatchweek.com/2021/brands/genus",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dubaiwatchweek.com/brands/genus",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/dubai-watch-week-2023-genus-introduces-the-rainbow-green-as-an-homage-to-the-emirate-of-dubai",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004114270.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/interview-duo-at-the-helm-of-genus-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://goldsmithandcomplications.com/blogs/news/genus-paints-from-a-bold-palette-with-rainbow-green",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
