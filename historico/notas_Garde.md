@@ -19,3 +19,5 @@ Início 2026-11-09 15:45 UTC.
 - otto.de separa 'ruhla' (Pointtec: Space Control 4860M/4866M/4642M/4640M/4641M, Minentaucher 4960M, Glasbach 4970) de 'UMR Ruhla' (69 produtos) → confirma divisão. Funkwecker 256-3/256-4 e Projektionswecker RC-Clock 170-1/170-2 = despertadores, só nota.
 - Inhorgenta PDF: UMR GmbH (marca Uhrenmanufaktur Ruhla), Marienstraße 1, 99842 Ruhla; produção Eisenacher Straße 42c, 99848 Wutha-Farnroda. 18 solares (96961-3, 94101-3, 95951-3, com/sem M).
 - Flume RUHLA-Classic Titan 42 mm (Ronda 6203B, big date + 2º fuso; cores preto/preto, preto/shimmer, preto/verde, preto/branco) = série 1708x (17077/17081-17084) — não duplicado. Flume Style prata Swarovski 35 mm = Titan Damenuhr Swarovski da Galaxus (EAN 4251765704771).
+- WatchTime 'Zeitenwechsel': legenda credita Artur Kamp como fundador da Gardé Uhren.
+- Chrono24: busca site:chrono24.de não trouxe nenhum anúncio (só lojas). manuals.online tem manual 'Garde Ruhla Business Alarm' (Funkuhr titânio, LCD duplo, CR1620). Digitec 'Polshorloge' 40 mm azul (EAN 4251765703163) = provável linha Sport 3900x, não entrou.
