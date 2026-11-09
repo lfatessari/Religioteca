@@ -26,3 +26,11 @@ Início 2026-11-09 15:45 UTC.
 - VERMELHA: Krahl (135 produtos, só 35 vistos), timeshop4you (103, só 25 vistos, páginas 2-5 fora das buscas), eBay Garde Uhren página 2 (45 anúncios), dezenas de Damenuhren Gardé dos anos 1990 sem referência, Funkuhren antigas (FU…), linhas Basic/Elegance com muitas cores.
 - 2ª passada: Flume (produtos UMR sem ref), Galaxus/Digitec, Kaufland, eBay /p de refs novas, buscas de Krahl/timeshop por modelo.
 - Flume 359142: ficha diz GARDÉ fabricado por Ruhla/UMR (confirma Gardé = UMR). Flume 364075 (34,5 mm Miyota 2035, elos; preto/prata, azul/prata, branco/dourado) ≈ 32214/32216; 361352 (automático Miyota 9110 reserva azul 42 mm) ≈ 80272 — não duplicados.
+## 10b Auto-auditoria
+1. Blog/imprensa: sem site oficial ativo; lidas WatchTime (3), WatchPro, FashionUnited, brochura Ruhla 2007, watch-wiki, medium. Nomes de produtos (Funkuhr, Blindenuhr, Schachuhr) cobertos.
+2. §2c: sem domínio oficial para site:/products; feito nas lojas (Krahl, timeshop4you) por busca — índices de busca fracos.
+3. Lojas: euro-gold-berlin, Krahl, timeshop4you, Otto, Flume, Digitec/Galaxus, eBay (categorias e /p/).
+4. Primeiro modelo: não achado (Gardé 1991; Funkarmbanduhr patenteada c. 1994 sem referência).
+5. I/J: J genérico; corrigido com linhas reais.
+6. Edições limitadas na B: 80274, 80274M, 80842, 80841, 80272M, Kampfschwimmer 13-02/13-03, Straßenbahn Berlin, Alarm 105 peças. Sem peças únicas.
+7. Fontes: 90 (76 na 1ª passada, 14 na 2ª).

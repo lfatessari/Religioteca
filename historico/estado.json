@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 581,
- "ultima_versao": 512,
+ "proxima_linha_marcas": 582,
+ "ultima_versao": 513,
  "historico": [
   {
    "data": "2026-10-16",
@@ -8964,6 +8964,18 @@
    "fontes": 18,
    "versao": 512,
    "obs": "Firecrawl: 3 páginas do site oficial (6 créditos) e depois sem créditos."
+  },
+  {
+   "marca": "Gardé",
+   "data": "2026-11-09",
+   "linha_marcas": 581,
+   "linhas_relogios": "88134-88333",
+   "relogios": 200,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 90,
+   "versao": 513,
+   "obs": "Grande, sozinha. Passada 1: 76 fontes; passada 2: 14 fontes, 2 relógios novos. Inclui a linha UMR Ruhla (Uhren Manufaktur Ruhla), tratada pelas lojas como a mesma marca. Firecrawl sem créditos. Corrigidos I e J na aba Marcas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9004,7 +9016,8 @@
   "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor.",
   "Gallet (linha 576)": "Gravada em 09/11/2026 (v509), 165 relógios (87327-87491), vermelha. Complemento futuro com Firecrawl: fotos das ~48 variações de pulseira (gallet.com/us-en/watches/.../AG...), variações W7/X1-X3 não vistas de FO Chronograph C1, MP B1, MS B1 e FO Automatic; EveryWatch (login), Chrono24; fotos das ~26 linhas históricas só com link (Grail-Watch/Chronopedia: Flight Officer Military, Duo-Timer, Up-Down, Profundus, Astronomic 250, Diver 7750, MultiChron 12 LE 100, Indy 500, Aerographic); referências de caixa vintage (só 5193, 7584, 22210 achadas).",
   "Gant (linha 579)": "Gravada em 09/11/2026 (v511), 608 relógios (87522-88129), vermelha. ~377 com foto; ~231 só com link de página/catálogo (71 refs antigas vistas só na lista da Kulta-Center, ~120 refs W/GT antigas da Watchia/laatukoru/skroutz, 34 do catálogo 2014 no Issuu). Complemento futuro: fotos das refs W1xxxx/W7xxxx/GT0xxxxx (fichas Watchia uma a uma; nomes de arquivo variam), PriceSpy páginas 2-4 (150 produtos; Firecrawl devolveu só a 1ª), lacunas de sequência (G106001-6, G122002/4/6, G126002/3/6/7/9, G128002/3, G129004-6, G142002/4/5, G144001-4, G153001-3, G163xxx, G171004/6-8, G175004/7/8, G185002-5/7/9, G186004/6, G189004-6, K280004/5/8/9, K320001/4/5/11/14, P206005-7), catálogos GANT Time de outros anos (Issuu), GANT Rugger L.A.S. (3 cores), Park Avenue 64 e Sussex 45 sem ref.",
-  "Gardé (linha 581)": "Dimensionada em 09/11/2026 como GRANDE: marca da Gardé Uhren und Feinmechanik Ruhla GmbH (pós-1990, depois UMR/Uhren-Manufaktur Ruhla; produção passou à POINTtec em 2019). eBay.de categoria 'Garde Uhren' tem 105 anúncios com dezenas de referências (Elegance 1310-6, 2462, 6825, 6831-1, 7973-1, 13813, 20285, 20621-2, 21003, 21862, 26442, 28143, 70226-2, 76115M, 81891, 91199, 91322, 17-74/17-75 para baixa visão, 49-88, 394170 relógio de enfermeira, 11414 automático). Fazer sozinha. Atenção: separar do bloco da linha 'Ruhla' (marca da RDA, mais adiante) — aqui só o que traz o nome Gardé; relógios de mesa/xadrez/despertadores só como nota."
+  "Gardé (linha 581)": "Gravada em 09/11/2026 (v513), 200 relógios (88134-88333), vermelha. Inclui os modelos UMR Ruhla (Uhren Manufaktur Ruhla GmbH, Marienstraße 1, Ruhla), que lojas tratam como continuação da Gardé. ~89 linhas só com link de página. Complemento futuro com Firecrawl: krahl-shop.de/collections/garde (135 produtos, só 35 vistos; páginas de produto pediram permissão), timeshop4you.co.uk/collections/umr-ruhla-wristwatches?page=2..5 (103 produtos), eBay.de categoria Garde Uhren ?_pgn=2, time-line24.de (Marken/Garde-Ruhla, robots), uhr-schmuck24.de (robots), umr-ruhla.de; fotos das linhas Elegance/Basic/FU da Krahl; Damenuhren Gardé dos anos 1990 sem referência; Funkuhr patenteada (c. 1994).",
+  "Ruhla (linha 1219)": "Os modelos UMR Ruhla (Uhren Manufaktur Ruhla: Elegance, Style, Sport 3900x, Solar 9410x/9595x/9696x, Mondphase 2091x, Automatic 8027x/8030x/8049x/8084x, Kampfschwimmer 13-0x, Nebra, Wartburg, Abrafaxe, Taschenuhren) já estão no bloco da Gardé (Relógios 88134-88333). Na linha Ruhla fazer só a Ruhla da Pointtec (Uhrenwerke Ruhla GmbH, 2019-: Space Control 46xxM/48xxM, NVA Kommando Minentaucher 4960M, Glasbach Cup 4970), a UMF Ruhla (14xx, 19xxM, Colani, Romanus, Kampfschwimmer 1928M/1932/1942M, Ostsee) e a Ruhla histórica da DDR."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": []
