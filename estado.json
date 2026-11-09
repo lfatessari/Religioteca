@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 579,
-  "ultima_versao": 510,
+  "proxima_linha_marcas": 580,
+  "ultima_versao": 511,
   "historico": [
     {
       "data": "2026-10-16",
@@ -8933,6 +8933,25 @@
         "J"
       ],
       "obs": "Cingapura, Raymond Pee, 2021. Type C (C1-C3) e Type D (D1-D3). Site oficial não apareceu em buscas; Firecrawl sem créditos. Parou antes da Gant (579), que é grande (centenas de referências em lojas)."
+    },
+    {
+      "data": "2026-11-09",
+      "marcas": [
+        "Gant"
+      ],
+      "versao": 511,
+      "linha_marcas": 579,
+      "linhas_relogios": "87522-88129",
+      "relogios": 608,
+      "vermelho": true,
+      "site_bloqueado": false,
+      "fontes": 117,
+      "passadas": {
+        "1": 71,
+        "2": 35,
+        "3": 11
+      },
+      "firecrawl_creditos": 70
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -8971,36 +8990,9 @@
     "Fullspot (linha 570)": "Dimensionada em 08/11/2026 como GRANDE (O clock em dezenas de cores por coleção, 2010-2015, licenças Disney/Warner): fazer sozinha.",
     "G. Gerlach (linha 572)": "Gravada em 08/11/2026 (v504), 57 relógios (86855-86911), vermelha. Firecrawl sem créditos: loja cykadia.pl páginas 3 e 4 (producer/G.-Gerlach/6/3/full e /4/full) não abertas; site gerlach.org.pl e masterhorologer.com (14 fichas 2013-2017) fora de alcance; ~20 linhas só com link de página (Dragon, PM36, Batory II, Lux-Sport II, RWD-6, Porsche Club Poland, Tokkotai, Auroch); cores sem nome de Orzeł 85A, Navigator, Otago.",
     "Gaga Milano (linha 574)": "Gravada em 08/11/2026 (v505), 312 relógios (86921-87232), vermelha. Só ~86 linhas com foto; o resto tem link da página. Firecrawl sem créditos. Complemento futuro: site oficial gagamilano.com (fora das buscas), Watch Pilot páginas 2-5 (coleção gaga-milano, ~180 itens com ref), Watches & Crystals ?page=2 (~91 itens), Montredo (SKUs 46557-46621 com foto no padrão gagamilano-manuale-<ref>-<sku>-1.webp), Pasquali Domenici (13 coleções, 126 relógios), Fril (~50 páginas de anúncios com refs antigas), gressive 179118 (Stardust); fotos via Google Imagens para as linhas só com link; refs novas de 15 caracteres (5010MN.., 5310SK.., 7050FR.., 8014CR..) de cada cor.",
-    "Gallet (linha 576)": "Gravada em 09/11/2026 (v509), 165 relógios (87327-87491), vermelha. Complemento futuro com Firecrawl: fotos das ~48 variações de pulseira (gallet.com/us-en/watches/.../AG...), variações W7/X1-X3 não vistas de FO Chronograph C1, MP B1, MS B1 e FO Automatic; EveryWatch (login), Chrono24; fotos das ~26 linhas históricas só com link (Grail-Watch/Chronopedia: Flight Officer Military, Duo-Timer, Up-Down, Profundus, Astronomic 250, Diver 7750, MultiChron 12 LE 100, Indy 500, Aerographic); referências de caixa vintage (só 5193, 7584, 22210 achadas)."
+    "Gallet (linha 576)": "Gravada em 09/11/2026 (v509), 165 relógios (87327-87491), vermelha. Complemento futuro com Firecrawl: fotos das ~48 variações de pulseira (gallet.com/us-en/watches/.../AG...), variações W7/X1-X3 não vistas de FO Chronograph C1, MP B1, MS B1 e FO Automatic; EveryWatch (login), Chrono24; fotos das ~26 linhas históricas só com link (Grail-Watch/Chronopedia: Flight Officer Military, Duo-Timer, Up-Down, Profundus, Astronomic 250, Diver 7750, MultiChron 12 LE 100, Indy 500, Aerographic); referências de caixa vintage (só 5193, 7584, 22210 achadas).",
+    "Gant (linha 579)": "Gravada em 09/11/2026 (v511), 608 relógios (87522-88129), vermelha. ~377 com foto; ~231 só com link de página/catálogo (71 refs antigas vistas só na lista da Kulta-Center, ~120 refs W/GT antigas da Watchia/laatukoru/skroutz, 34 do catálogo 2014 no Issuu). Complemento futuro: fotos das refs W1xxxx/W7xxxx/GT0xxxxx (fichas Watchia uma a uma; nomes de arquivo variam), PriceSpy páginas 2-4 (150 produtos; Firecrawl devolveu só a 1ª), lacunas de sequência (G106001-6, G122002/4/6, G126002/3/6/7/9, G128002/3, G129004-6, G142002/4/5, G144001-4, G153001-3, G163xxx, G171004/6-8, G175004/7/8, G185002-5/7/9, G186004/6, G189004-6, K280004/5/8/9, K320001/4/5/11/14, P206005-7), catálogos GANT Time de outros anos (Issuu), GANT Rugger L.A.S. (3 cores), Park Avenue 64 e Sussex 45 sem ref."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-09T12:42:30Z",
-  "ultimo_sinal": "2026-11-09T13:55:33Z",
-  "em_andamento": {
-    "marcas": [
-      "Gant"
-    ],
-    "linha_marcas": 579,
-    "grande": true,
-    "relogios": "historico/parcial_Gant_relogios.txt",
-    "fontes": "historico/parcial_Gant_fontes.txt",
-    "notas": "historico/notas_Gant.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 2,
-    "extras": "historico/master_refs.txt, imgs.txt, specs.txt, wsl.txt, catalogo2014.txt"
-  }
+  "marcas_novas_sem_relogios": []
 }

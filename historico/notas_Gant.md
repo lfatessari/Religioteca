@@ -10,3 +10,4 @@ Firecrawl sem créditos até 13:43 UTC (09/11).
 - Sem ref: Park Avenue 64, Sussex 45 (sportsdirect)
 - watchesonline padrão confirmado 4x (k280001-bl.jpg). Decisão: usar o padrão nas refs vistas na Kulta/watchesonline sem outra foto.
 ## Passada 1 encerrada ~13:00 UTC (últimas fontes sem novidade: livestore, digitec, pricerunner, myer). Vermelha: centenas de refs antigas W/GT sem lista completa; gant.co.uk e lacunas Kulta pendentes. Passada 2 começa.
+## Passada 2 encerrada ~13:58 (35 fontes, ~120 relógios novos, sobretudo site oficial gant.co.uk e Kulta via Firecrawl). Passada 3 começa: lacunas de sequência e linhas antigas.
