@@ -1,0 +1,662 @@
+{
+ "marca": "Geckota",
+ "usa_codigos": false,
+ "logo": "https://www.geckota.com/cdn/shop/files/geckota-logo_410x.png?v=1629111937",
+ "site_bloqueado": "Parcial – geckota.com: coleções e parte das páginas de produto recusadas (robots) em algumas tentativas; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://watchgecko.com/watch-brands/geckota",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://geckota.com/pages/movements",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/press/geckota-launches-online-archive-showcasing-retired-timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/the-geckota-archive-reopens-a-black-friday-event-like-no-other",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/tagged/category-updates",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/en-au/products/geckota-ocean-scout-dive-watch-royal-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoscout.co/en/brand/DIFtF8SiT9e8PzUkaEj2Kw/geckota",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://chronoscout.co/en/watches/geckota/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://chronoscout.co/en/model/QZCw3NCuSRikPAbRxki8mA/geckota-classic-chronotimer-watch-grey-wolf/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronoscout.co/en/watches/geckota-chronograph-watches-from-500-to-750/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/collections/geckota-chronotimer?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/new-release-the-ocean-scout",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/new-geckota-ocean-scout-frost-and-ice-white-dial-released",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/introducing-the-geckota-airstream-frontier-where-heritage-meets-the-horizon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/the-w-01-vintage-jumping-hour-workshop-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/geckota-motorsport-the-defining-racing-watch-collection",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/save-on-geckota-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.geckota.com/blog/introducing-the-four-latest-geckota-watches/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.geckota.com/pages/about-us",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://watchgecko.com/pilot-watches-article-fliegeruhren-geckota-k1-b-uhren",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.geckota.com/en-au/products/workshop-model-2b-chronograph-watch.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.reviews.co.uk/product-reviews/store/geckota/GTA-EOR-G-02-279A-C-GN",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/geckota/geckota-workshop-model-2e-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.reviews.co.uk/company-reviews/store/geckota",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/a-new-release-the-geckota-g-02-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/introducing-the-geckota-chronotimer-g2-classic-panda-chronograph",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/geckota-g-01-diver-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchgecko.com/blogs/magazine/introducing-the-new-geckota-g-02-steel-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/blog/introducing-the-geckota-g-02-slimline",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchgecko.com/en-au/blogs/magazine/a-day-out-with-the-g-02-surfers-against-sewage-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.geckota.com/blogs/blog/the-geckota-w-02-workshop-collection",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/new-dial-for-geckota-ocean-scout",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/the-geckota-e-01-gen-2-is-here",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/the-1-1-geckota-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/october-2025-return-of-the-phalanx",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/introducing-the-s-01-phalanx-gen-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/pages/classic-pioneer",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.geckota.com/pages/classic-chronotimer",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.geckota.com/pages/sports-chronotimer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/geckota-chronotimer-chronograph-the-final-chapter",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wildbezel.com/geckota-sea-hunter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/slimmers-world-a-review-of-the-geckota-sea-hunter-slimline",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/reviewing-the-geckota-airstream-gen-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/bargain-hunting-with-pre-owned-deals",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/geckota/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/pit-row-preview-introducing-the-geckota-c-1-racing-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/geckota-c-1-racing-chronograph-watch/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europastar.com/1004091728.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/geckota-g-01-pioneer-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchclicker.com/geckota-g-02/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/2020/08/geckota-g-02-gmt.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/introducing-the-new-geckota-g-02-steel-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/introducing-the-new-geckota-s-01-phalanx-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/geckota-announces-british-watchmakers-day-special-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/revisiting-the-geckota-g-02-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/press/crafting-timeless-british-watches-with-vintage-soul-and-modern-precision",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/geckota-g-02-sea-hunter-slimline-blue-sunburst-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/shop/geckota-watches?_nkw=geckota+watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/geckota/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/blog/the-designers-notebook-8-full-ceramic-bezel-a-new-racing-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/pre-owned/products/geckota-k-03-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/geckota-pioneer-g-01-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/c-01-chronograph-classic-reverse-panda",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/classic-chronotimer-watch-empire-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/pioneer-automatic-watch-brushed-black-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/geckota-pioneer-automatic-watch-brushed-red-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/pioneer-automatic-watch-brushed-beige-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/pioneer-graphite-special-edition-yellow",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/geckota-sea-hunter-dive-watch-blue-bezel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/geckota-sea-hunter-steel-edition-dive-watch-burnt-orange",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/chronotimer-sports-edition-maroon-red-coral",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/classic-chronotimer-watch-aegean-blue-gl266",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/gt-racing-chronograph-watch-grey-and-green",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.geckota.com/products/chronotimer-chronograph-watch-yellow-racing-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/geckota-chronotimer-racing-chronograph-watch-racing-panda-dial-tp-369-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/chronotimer-chronograph-watch-brown-fume-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/the-universal-geneve-polerouter-and-how-it-influenced-the-geckota-g-01-arctic-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/geckota-ocean-scout-dive-watch-emerald-green-berwick-stainless-steel-strap",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/introducing-the-chronotimer-aurora",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.geckota.com/products/geckota-p-02-vk64-dress-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/geckota-p-01-small-seconds-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-with-the-geckota-s-01-phalanx-eta-2824-military-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/6-months-later-with-the-s-01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/watches/divers-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/ElTomstro/reviews/geckota-g-01-review-21281",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/tagged/category-watch-showcase",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/new-release-the-geckota-chronotimer-chronograph-fume-dial-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/new-oxblood-red-version-of-the-pioneer-special-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/first-look-at-the-2025-classic-chronotimer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/new-geckota-pioneer-dials-released-brushed-black-beige",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/geckota-christmas-wish-list",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thegadgetflow.com/product/geckota-k1-l01-pilot-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.geckota.com/blog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/blogs/news/geckota-tourbillon",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.geckota.com/collections/all?page=10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worthpoint.com/worthopedia/geckota-k1-vintage-style-flieger-big-677462977",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://timelessvintagewatches.com/products/geckota-k1-flieger-vintage-pilot-watch-44mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/new?price=1000-",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/geckota-launch-k2-pilots-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/geckota-launch-k3-divers-watch-classic-dial",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.worthpoint.com/worthopedia/geckota-k2-v11-pilots-chronograph-pvd-1778867606",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/8043275635",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/17043101472",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/geckota-2nd-generation-c-01-racing-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/products/geckota-sea-hunter-gmt-quartz-watch-dusty-purple-with-pepsi-bezel-nearly-new",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/p/10046175041",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/new-youtube-clip-featuring-the-geckota-k1-v27-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/geckota-k1-pilot-watch-review/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchgecko.com/gta-chi-k1-c",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finn.no/343022774",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/pre-order-opens-geckota-k-01-pilots",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://watchclicker.com/geckota-w01/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/geckotas-latest-release-the-w-01-jumping-hour",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/2017/03/geckota-c-1-racing-chronograph.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mrwatch93.com/geckota-slimline-hunter/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/products/geckota-sea-hunter-steel-edition-dive-watch-marine-blue",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://theoandharris.com/one-month-with-the-geckota-e-01/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christopherwardforum.com/other-brands/geckota-d1-timeless-luxury-divers-watch-t45422.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/travel-diary-geckota-e01-hong-kong",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/collections/gta-eor-739",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.geckota.com/products/phalanx-satin-reef-green",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/geckota-racing-c-03-silver-dial-1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/collections/all?page=4/1000",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/collections/sale",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/collections/featured-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.geckota.com/collections/archive",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Tewkesbury (Gloucestershire)",
+  "I": "A Geckota é uma marca britânica de relógios que nasceu como desdobramento da WatchGecko, uma popular loja e fabricante de pulseiras de relógio do Reino Unido, sediada em Tewkesbury, Gloucestershire. A empresa (Geckota Limited) foi fundada em 2012 por Jon Quinn, que começou vendendo relógios no eBay em 2009; os primeiros relógios próprios, K1, K2 e K3, saíram em 2014. A experiência com acessórios e a proximidade com a comunidade de entusiastas pavimentaram a entrada da marca na produção de relógios próprios.\n\nA Geckota especializa-se em tool watches acessíveis e versáteis — mergulhadores, field watches, pilot e cronógrafos —, com forte relação custo-benefício, movimentos automáticos japoneses (Seiko/Miyota) e mecaquartz, cristal de safira e bom acabamento. A marca aposta na conexão direta com os clientes e em oferecer opções robustas e estilosas a preços de entrada, frequentemente acompanhadas pela vasta gama de pulseiras da casa-mãe. Modelos como o Pioneer (G-01), o Sea-Hunter (G-02), o Chronotimer e o K3 são queridos por iniciantes e entusiastas.\n\nHoje a Geckota ocupa o segmento de tool watches britânicos acessíveis, dirigindo-se a quem busca robustez, estilo e valor com identidade britânica. [⚠️ verificar dados atuais]",
+  "J": "Pioneer (G-01), Sea-Hunter (G-02), Chronotimer, Ocean-Scout, Airstream, Phalanx, K1/K3"
+ },
+ "observacoes": "Corrigido: C Bury St Edmunds (Suffolk) → Tewkesbury (Gloucestershire) (comunicado oficial geckota.com + Europa Star); I: sede corrigida e fundação 2012 por Jon Quinn (página About us); J: 'Pioneer, Sea Hunter, K3, Chevron, G-02' → linhas do site oficial (Sea Hunter e G-02 são o mesmo modelo). Ainda a verificar: 'Chevron' não encontrado em nenhuma fonte; relação exata com a WatchGecko (a Geckota Limited é a dona da WatchGecko)."
+}

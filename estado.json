@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 587,
-  "ultima_versao": 517,
+  "proxima_linha_marcas": 588,
+  "ultima_versao": 518,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9099,6 +9099,33 @@
         ]
       },
       "obs": "Marca suíça de relógios de arte (Neuchâtel, 2007/2009, Geb Group), peças únicas ou até 8 exemplares; só ~6 peças públicas (2009-2010). Tratada como não grande apesar do sinal 'peças únicas': todo o rastro público se esgotou em ~10 fontes e as 8 últimas não trouxeram nada. Masterhorologer (3 artigos) e WatchUSeek não abriram; 3 modelos de 2010 (Unique 1, Terre Rayonnante, Flora) só pelo título de busca. Corrigidos B, C, D, G, I, J; E/F parecem baixos (anotado em M). Firecrawl sem créditos. Próxima: Geckota (587), grande, sozinha."
+    },
+    {
+      "data": "2026-11-09",
+      "fontes": 129,
+      "grande": true,
+      "linha_marcas": 587,
+      "linhas_relogios": "89751-89906",
+      "marca": "Geckota",
+      "obs": "Grande, sozinha. geckota.com (Shopify) recusa por robots parte das coleções/produtos; páginas de produto e coleções abriram quando o link veio de busca. Blog oficial e revista WatchGecko deram a história completa (K1/K2/K3 2014, D1 Kickstarter 2017, G-01, G-02, C-01..C-05, E-01, S-01 Phalanx, W-01/W-02, Ocean-Scout, Chronotimer, Pioneer, Airstream, Tourbillon). ~62 linhas só com link de página. Corrigidos C (Tewkesbury, Gloucestershire), I e J ('Chevron' não encontrado). Vermelha: K1 com dezenas de versões V (V14, V27, V32...), D1, G-02 GMT (6 cores, só 5 vistas), K4, linha inicial de quartzo da Amazon. Firecrawl sem créditos. Próxima: Gelfman (588).",
+      "passadas": {
+        "1": [
+          106,
+          126
+        ],
+        "2": [
+          13,
+          9
+        ],
+        "3": [
+          10,
+          8
+        ]
+      },
+      "relogios": 156,
+      "site_bloqueado": "parcial",
+      "vermelho": true,
+      "versao": 518
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -9143,38 +9170,9 @@
     "Ruhla (linha 1219)": "Os modelos UMR Ruhla (Uhren Manufaktur Ruhla: Elegance, Style, Sport 3900x, Solar 9410x/9595x/9696x, Mondphase 2091x, Automatic 8027x/8030x/8049x/8084x, Kampfschwimmer 13-0x, Nebra, Wartburg, Abrafaxe, Taschenuhren) já estão no bloco da Gardé (Relógios 88134-88333). Na linha Ruhla fazer só a Ruhla da Pointtec (Uhrenwerke Ruhla GmbH, 2019-: Space Control 46xxM/48xxM, NVA Kommando Minentaucher 4960M, Glasbach Cup 4970), a UMF Ruhla (14xx, 19xxM, Colani, Romanus, Kampfschwimmer 1928M/1932/1942M, Ostsee) e a Ruhla histórica da DDR.",
     "Gavox (linha 584)": "Gravada em 09/11/2026 (v515), 84 relógios (89089-89172), vermelha. ~45 linhas só com link da página oficial (gavox.com usa lazy-load; páginas de produto abrem só se o endereço vier de busca). Complemento futuro com Firecrawl: fotos das páginas de produto gavox.com/product/..., categorias aurora, avidiver, longitude, stellar, roads, spitfire, gavox-eurorsa-avidiver, avidiver-2-gmt; Silverstar GMT (gavox.com/product/gavox-silverstar/); edições de esquadrão (15th Wing, 350 Sqn, 40 Sqn SAR, 53/711 Romênia, E-52, 156 Airlift, VAW-116, VAQ-139, 221, Sjöfartsverket) com fotos; Legacy 2011-13 (refs 346.x/358.x), Curtiss P-40 2012 (326/338/350 .0/.1), coleção feminina de 2019.",
     "Garrick (linha 583)": "Gravada em 09/11/2026 (v515), 68 relógios (89021-89088), vermelha. Complemento futuro com Firecrawl: garrick.co.uk/collections/discontinued-models e /collections/watches (produtos S8, S3 Deadbeat, S7 Frosted Edition), blog páginas 2-3, Instagram @garrickwatchco (peças sob encomenda), Kibble Watches e Horology by the Sea (usados).",
-    "GC Watches (linha 585)": "Dimensionada em 09/11/2026 como GRANDE (Guess Collection, centenas de referências Y/X): fazer sozinha."
+    "GC Watches (linha 585)": "Dimensionada em 09/11/2026 como GRANDE (Guess Collection, centenas de referências Y/X): fazer sozinha.",
+    "Geckota (linha 587)": "Gravada em 09/11/2026 (v518), 156 relógios (89751-89906), vermelha. Complemento futuro: versões K1 V01–V32 (WatchUSeek/watchcharts bloqueados), D1 Noir/Cobalt/Mercury com fotos (Kickstarter), cores do G-02 GMT, K4 (2015) e ZD1, linha de quartzo vendida na Amazon (c. 2013-14), fotos das ~62 linhas só com link (Firecrawl: geckota.com/products/...)."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-09T20:41:55Z",
-  "ultimo_sinal": "2026-11-09T21:09:21Z",
-  "em_andamento": {
-    "marcas": [
-      "Geckota"
-    ],
-    "linha_marcas": 587,
-    "grande": true,
-    "relogios": "historico/parcial_Geckota_relogios.txt",
-    "fontes": "historico/parcial_Geckota_fontes.txt",
-    "notas": "historico/notas_Geckota.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2",
-      "p3",
-      "gravando"
-    ],
-    "passada": 1
-  }
+  "marcas_novas_sem_relogios": []
 }
