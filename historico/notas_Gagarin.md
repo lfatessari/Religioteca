@@ -8,3 +8,11 @@ Imagens das ocultas: WebFetch não mostra -> buscar em lojas (poljot24, syohbido
 Ainda: 2609-3751484 etc ok. Falta: Poljot comemorativos antigos (40 anos 2001 "1402"), 2609-3700476 (EveryWatch), 2609-3745477 (poljot24), lojas, imprensa.
 - poljot24: 2609-3745477 Vintage Retro branco 1000pç; Poljot 40 anos 2001 preto 33mm (loja 1402, img gagarin-40-jahre-poljot-sturmanskie_2.jpg) e branco (1403, Z2014A); Chronograph Juri Gagarin Poljot 31681 (loja 2901G, img 2901g2026ga.png); 2609-3745478 (img 2609-3745478a.jpg); imgs 3695122 sturm2026okt2.png, 3695123 gagarin2026neu1111aaa.png, 3731231/3731230.
 - SW200/3845214 65 anos (oficial), 38mm, marfim prateado, 650 pç; img poljot24 stur1965aa.jpg (cache 207e...)
+- longisland 3705126 (40mm, couro marrom, img apiysh1kg__94290...); massdrop: 2609/3725128, 3714130 novos; watchard: 2609-1701702 (500 pç, sem foto)
+- enshturm.addu.ru (espelho do site oficial): SW200/3815213, SW200/3815212 novos (Heritage), imgs .jpg/.png de todos do catálogo
+- syohbido imgs: 3747128 (titânio 1000pç) .../2609-3747128_bc1e53b9-...jpg?v=1749709842; 9045921BG (904L relevo, safira, 500pç); 3745202 (aço 500pç); 3745478LR (aço 500pç)
+- EveryWatch: bloqueado (Only Collectors). drop.com redireciona p/ corsair.
+- 2609/9045925 Legacy 904L 999pç safira, img syohbido 2609-9045925_ceaecacc-...jpg?v=1749711024; 9045922 img syohbido 2609-9045922.jpg?v=1749711104
+- 2432/4574790 Gagarin 24 / Day-Night PVD preto 40mm img syohbido 2432-4574790.jpg?v=1749710547
+- 2426/4571143 Gagarin 24 Hours azul e branco 44mm (sem img); 2432/4571789 = Automatic Sports 24h azul metálico 2000pç (poljot24)
+- SW200/3815212 38mm Heritage (sem cor); SW200/3815213 (enshturm img)
