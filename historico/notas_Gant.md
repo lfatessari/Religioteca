@@ -8,3 +8,5 @@ Firecrawl sem créditos até 13:43 UTC (09/11).
 - Seções feitas: 1, 2 (parcial), 7 (kulta, watchnation, oroeora)
 - Nomes sem ref ainda: Amesbury, Scarsdale, Castine II, Taunton, Norwood, Arcola, Wantage. timeshop24 pág 2-3 (Firecrawl). Watchia: imagem só abrindo cada página (nome de arquivo varia, ex agt023007).
 - Sem ref: Park Avenue 64, Sussex 45 (sportsdirect)
+- watchesonline padrão confirmado 4x (k280001-bl.jpg). Decisão: usar o padrão nas refs vistas na Kulta/watchesonline sem outra foto.
+## Passada 1 encerrada ~13:00 UTC (últimas fontes sem novidade: livestore, digitec, pricerunner, myer). Vermelha: centenas de refs antigas W/GT sem lista completa; gant.co.uk e lacunas Kulta pendentes. Passada 2 começa.

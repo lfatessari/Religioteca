@@ -8976,7 +8976,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-09T12:42:30Z",
-  "ultimo_sinal": "2026-11-09T12:56:55Z",
+  "ultimo_sinal": "2026-11-09T12:58:31Z",
   "em_andamento": {
     "marcas": [
       "Gant"
@@ -8989,13 +8989,18 @@
     "secoes_feitas": [
       "1",
       "2",
+      "2c",
       "3",
       "4",
+      "5",
+      "6",
       "7",
       "8",
-      "9"
+      "9",
+      "10",
+      "10b"
     ],
-    "passada": 1,
+    "passada": 2,
     "extras": "historico/master_refs.txt, imgs.txt, specs.txt, wsl.txt, catalogo2014.txt"
   }
 }
