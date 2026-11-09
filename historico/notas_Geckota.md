@@ -9,3 +9,4 @@
 - Handles por pulseira (ex.: -coral, -indigo-blue, -black-chromexcel) = mesma cor: 1 linha por cor de mostrador.
 - Airstream (2022) = E-01 Gen 2; Sea-Hunter Slimline = G-02 Slimline; Sea-Hunter = G-02.
 - Aba Marcas: C diz Bury St Edmunds (Suffolk) mas press release oficial diz Tewkesbury (Gloucestershire) e Europa Star diz Gloucestershire. Fundada 2012 por Jon(athan) Quinn (about-us). J cita "Chevron" – verificar. Também I diz Bury St Edmunds.
+- D1 (Kickstarter): só título 'Cobalt'; Kickstarter não abre. Outras cores do D1 não achadas.
