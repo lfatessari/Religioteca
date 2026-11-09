@@ -25,3 +25,4 @@ Início 2026-11-09 15:45 UTC.
 - Parou por 3 fontes seguidas sem novidade (eBay categorias 40-43,9 mm, vergoldete, 32-35,9 mm Damen). ~80 fontes.
 - VERMELHA: Krahl (135 produtos, só 35 vistos), timeshop4you (103, só 25 vistos, páginas 2-5 fora das buscas), eBay Garde Uhren página 2 (45 anúncios), dezenas de Damenuhren Gardé dos anos 1990 sem referência, Funkuhren antigas (FU…), linhas Basic/Elegance com muitas cores.
 - 2ª passada: Flume (produtos UMR sem ref), Galaxus/Digitec, Kaufland, eBay /p de refs novas, buscas de Krahl/timeshop por modelo.
+- Flume 359142: ficha diz GARDÉ fabricado por Ruhla/UMR (confirma Gardé = UMR). Flume 364075 (34,5 mm Miyota 2035, elos; preto/prata, azul/prata, branco/dourado) ≈ 32214/32216; 361352 (automático Miyota 9110 reserva azul 42 mm) ≈ 80272 — não duplicados.
