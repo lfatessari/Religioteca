@@ -9047,5 +9047,20 @@
   "Ruhla (linha 1219)": "Os modelos UMR Ruhla (Uhren Manufaktur Ruhla: Elegance, Style, Sport 3900x, Solar 9410x/9595x/9696x, Mondphase 2091x, Automatic 8027x/8030x/8049x/8084x, Kampfschwimmer 13-0x, Nebra, Wartburg, Abrafaxe, Taschenuhren) já estão no bloco da Gardé (Relógios 88134-88333). Na linha Ruhla fazer só a Ruhla da Pointtec (Uhrenwerke Ruhla GmbH, 2019-: Space Control 46xxM/48xxM, NVA Kommando Minentaucher 4960M, Glasbach Cup 4970), a UMF Ruhla (14xx, 19xxM, Colani, Romanus, Kampfschwimmer 1928M/1932/1942M, Ostsee) e a Ruhla histórica da DDR."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-09T17:42:53Z",
+ "ultimo_sinal": "2026-11-09T17:42:53Z",
+ "em_andamento": {
+  "marcas": [
+   "Garrick",
+   "Gavox"
+  ],
+  "linha_marcas": 583,
+  "grande": false,
+  "relogios": "historico/parcial_Garrick_relogios.txt",
+  "fontes": "historico/parcial_Garrick_fontes.txt",
+  "notas": "historico/notas_Garrick.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
