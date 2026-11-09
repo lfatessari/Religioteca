@@ -9049,14 +9049,14 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T17:42:53Z",
- "ultimo_sinal": "2026-11-09T18:02:28Z",
+ "ultimo_sinal": "2026-11-09T18:10:06Z",
  "em_andamento": {
   "marcas": [
    "Garrick",
    "Gavox"
   ],
   "linha_marcas": 584,
-  "grande": false,
+  "grande": true,
   "relogios": "historico/parcial_Gavox_relogios.txt",
   "fontes": "historico/parcial_Gavox_fontes.txt",
   "notas": "historico/notas_Gavox.md",
