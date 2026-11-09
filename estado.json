@@ -9009,7 +9009,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T15:42:32Z",
- "ultimo_sinal": "2026-11-09T15:53:44Z",
+ "ultimo_sinal": "2026-11-09T16:02:46Z",
  "em_andamento": {
   "marcas": [
    "Gardé"
@@ -9021,6 +9021,7 @@
   "notas": "historico/notas_Garde.md",
   "secoes_feitas": [
    "1",
+   "2",
    "3"
   ],
   "passada": 1

@@ -13,3 +13,7 @@ Início 2026-11-09 15:45 UTC.
 - FashionUnited 2021: Uhrenwerke Ruhla GmbH surgiu da Garde em 2019; museu mostra relógios da "Nachfolgefirma Garde". WatchTime: Pointtec fundou Uhrenwerke Ruhla GmbH em 2019 após a insolvência da Gardé.
 - GTIN 4251765… aparece em Gardé 1310-6, 394170 e UMR Style 32216 → mesmo fabricante (inferência: UMR = nome usado pelo grupo de Ruhla; não confirmado).
 - museum-digital/DDB: só objetos da VEB (não Gardé).
+- DECISÃO: krahl-shop.de tem a coleção "garde" (título "Uhren Manufaktur Ruhla", logo GARDE_LOGO.png, 135 produtos: Elegance, Basic, FU-…, Gardé 17-74/75, RUHLA Automatic). Com o GTIN 4251765 comum, conclui-se que UMR (Uhren Manufaktur Ruhla) é a linha atual da Gardé. Entram os modelos UMR/Gardé com referência; os da Ruhla de Pointtec (Glasbach 4970, Space Control 4660M, Minentaucher 4960M, 1466, 1942M...) e UMF vintage ficam para a linha Ruhla (1219). Avisar no estado para a Ruhla não repetir.
+- time-line24.de (Marken/Garde-Ruhla) e uhr-schmuck24.de: robots. popscreen: "Gardé Uhren aus Ruhla Funkuhr Titan / Saphirglas Business Alarm 10".
+- Logo: https://www.krahl-shop.de/cdn/shop/collections/GARDE_LOGO.png?v=1774544637
+- otto.de separa 'ruhla' (Pointtec: Space Control 4860M/4866M/4642M/4640M/4641M, Minentaucher 4960M, Glasbach 4970) de 'UMR Ruhla' (69 produtos) → confirma divisão. Funkwecker 256-3/256-4 e Projektionswecker RC-Clock 170-1/170-2 = despertadores, só nota.
