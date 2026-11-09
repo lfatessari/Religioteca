@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 592,
- "ultima_versao": 520,
+ "proxima_linha_marcas": 593,
+ "ultima_versao": 521,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9200,6 +9200,25 @@
     ]
    },
    "obs": "Site oficial é genuswatches.swiss (G corrigido). Firecrawl sem créditos. Corrigidos D, G, I, J. Vermelha: versões cravejadas/sob encomenda e cores de dragão sem nome."
+  },
+  {
+   "marca": "Geoffrey Roth Watches",
+   "data": "2026-11-09",
+   "linha_marcas": 592,
+   "linhas_relogios": "89973-89992",
+   "relogios": 20,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "parcial (gr-we.com: produtos bloqueados por robots)",
+   "fontes": 22,
+   "versao": 521,
+   "passadas": {
+    "1": [
+     22,
+     18
+    ]
+   },
+   "obs": "Site oficial gr-we.com (Geoffrey Roth Watch Engineering, Scottsdale). Firecrawl sem créditos. Marca pequena e pouco documentada; 8 linhas só com link de página. Corrigidos C, G, I, J. Bateria só com ela porque a seguinte (Georg Jensen) foi julgada grande."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9250,24 +9269,5 @@
   "Genus (linha 591)": "Gravada em 09/11/2026 (v520), 26 relógios (89947-89972), vermelha. Complemento futuro com Firecrawl: páginas genuswatches.swiss/press-room/gns2-eternal-gallop/ e the-year-of-the-dragon/ (erro/permissão), press kits PDF (Nocturne, Time2Race), Watchonista 'GNS 1.2 WG Creation Limited Edition', worldtempus 'GNS T5' (2019), versões cravejadas e cores de dragão sob encomenda (branco, amarelo, rosa, verde, azul-escuro, turquesa, vermelho), Chrono24/EveryWatch (não apareceram em busca)."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-09T23:44:07Z",
- "ultimo_sinal": "2026-11-09T23:48:21Z",
- "em_andamento": {
-  "marcas": [
-   "Geoffrey Roth Watches"
-  ],
-  "linha_marcas": 592,
-  "grande": false,
-  "relogios": "historico/parcial_Geoffrey_Roth_relogios.txt",
-  "fontes": "historico/parcial_Geoffrey_Roth_fontes.txt",
-  "notas": "historico/notas_Geoffrey_Roth.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "3"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
