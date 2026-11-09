@@ -9007,5 +9007,21 @@
   "Gardé (linha 581)": "Dimensionada em 09/11/2026 como GRANDE: marca da Gardé Uhren und Feinmechanik Ruhla GmbH (pós-1990, depois UMR/Uhren-Manufaktur Ruhla; produção passou à POINTtec em 2019). eBay.de categoria 'Garde Uhren' tem 105 anúncios com dezenas de referências (Elegance 1310-6, 2462, 6825, 6831-1, 7973-1, 13813, 20285, 20621-2, 21003, 21862, 26442, 28143, 70226-2, 76115M, 81891, 91199, 91322, 17-74/17-75 para baixa visão, 49-88, 394170 relógio de enfermeira, 11414 automático). Fazer sozinha. Atenção: separar do bloco da linha 'Ruhla' (marca da RDA, mais adiante) — aqui só o que traz o nome Gardé; relógios de mesa/xadrez/despertadores só como nota."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-09T15:42:32Z",
+ "ultimo_sinal": "2026-11-09T15:42:32Z",
+ "em_andamento": {
+  "marcas": [
+   "Gardé"
+  ],
+  "linha_marcas": 581,
+  "grande": true,
+  "relogios": "historico/parcial_Garde_relogios.txt",
+  "fontes": "historico/parcial_Garde_fontes.txt",
+  "notas": "historico/notas_Garde.md",
+  "secoes_feitas": [
+   "1"
+  ],
+  "passada": 1
+ }
 }
