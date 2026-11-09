@@ -9049,7 +9049,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-09T17:42:53Z",
- "ultimo_sinal": "2026-11-09T17:59:19Z",
+ "ultimo_sinal": "2026-11-09T18:02:28Z",
  "em_andamento": {
   "marcas": [
    "Garrick",
@@ -9060,7 +9060,10 @@
   "relogios": "historico/parcial_Gavox_relogios.txt",
   "fontes": "historico/parcial_Gavox_fontes.txt",
   "notas": "historico/notas_Gavox.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1,
   "garrick": "pesquisa concluída (3 passadas), arquivos parciais em historico/parcial_Garrick_*; falta só gravar"
  }
