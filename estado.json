@@ -9531,5 +9531,20 @@
   "Girard Perregaux (linha 604)": "Gravada em 10/11/2026 (v531), 842 relógios (91510-92351), vermelha. Só ~105 linhas com foto; o resto tem link da página (Essential Watches allwatches, WatchBase, índices CollectorSquare). Complemento futuro com Firecrawl: catálogo oficial girard-perregaux.com/en-ch/watches (JavaScript; fotos em api.girard-perregaux.com/media/catalog/product/... com hash), páginas 2-4 de Bucherer/Ethos, WatchBase laureato (client_error), EveryWatch (login), Chrono24; famílias da Essential Watches com fotos (Vintage-45, Richeville, World-Time, Sea-Hawk, Ferrari, Cat-s-Eye); vintage pré-1990 (Gyromatic, Gyrochron, Olimpico, Mercedes, quartzo 1970, relógios de bolso do século XIX); variações de pedras e cores dos Cat's Eye e 1966 Lady."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T10:42:09Z",
+ "ultimo_sinal": "2026-11-10T10:42:09Z",
+ "em_andamento": {
+  "marcas": [
+   "Giuliano Mazzuoli",
+   "Glam Rock"
+  ],
+  "linha_marcas": 605,
+  "grande": false,
+  "relogios": "historico/parcial_Giuliano_Mazzuoli_relogios.txt",
+  "fontes": "historico/parcial_Giuliano_Mazzuoli_fontes.txt",
+  "notas": "historico/notas_Giuliano_Mazzuoli.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
