@@ -9709,7 +9709,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T18:44:36Z",
-  "ultimo_sinal": "2026-11-10T18:44:36Z",
+  "ultimo_sinal": "2026-11-10T18:51:20Z",
   "em_andamento": {
     "marcas": [
       "Gorilla"
@@ -9719,7 +9719,11 @@
     "relogios": "historico/parcial_Gorilla_relogios.txt",
     "fontes": "historico/parcial_Gorilla_fontes.txt",
     "notas": "historico/notas_Gorilla.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "4"
+    ],
     "passada": 1
   }
 }
