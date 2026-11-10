@@ -9505,7 +9505,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T09:45:02Z",
- "ultimo_sinal": "2026-11-10T09:51:50Z",
+ "ultimo_sinal": "2026-11-10T09:54:44Z",
  "em_andamento": {
   "marcas": [
    "Girard Perregaux"
@@ -9517,7 +9517,9 @@
   "notas": "historico/notas_Girard_Perregaux.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "5"
   ],
   "passada": 1
  }
