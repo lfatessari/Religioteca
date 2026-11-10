@@ -9302,5 +9302,19 @@
   "Gerald Charles (linha 595)": "Dimensionada em 10/11/2026 como GRANDE (catálogo atual ~21 modelos com muitas variações GC2.0/GC3.0/8.0/9.0/GC Sport/Masterlink, edições limitadas, mais a era Genta 2000-2011; catálogos PDF 2022 e 2024): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T02:42:29Z",
+ "ultimo_sinal": "2026-11-10T02:42:29Z",
+ "em_andamento": {
+  "marcas": [
+   "Gerald Charles"
+  ],
+  "linha_marcas": 595,
+  "grande": true,
+  "relogios": "historico/parcial_Gerald Charles_relogios.txt",
+  "fontes": "historico/parcial_Gerald Charles_fontes.txt",
+  "notas": "historico/notas_Gerald Charles.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
