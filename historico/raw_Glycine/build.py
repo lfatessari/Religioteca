@@ -62,6 +62,14 @@ if os.path.exists('extras.txt'):
         if not l.strip() or l.startswith('#'): continue
         p=l.rstrip('\n').split('|'); n,c,i,e=p[:4]
         add(n,c,i,e,'extra',kx=(p[4] if len(p)>4 else ''))
+# overrides (apelidos oficiais/de loja e fotos melhores)
+if os.path.exists('overrides.txt'):
+    for l in open('overrides.txt'):
+        if not l.strip(): continue
+        c,n,i=l.rstrip('\n').split('|')[:3]; k=norm(c)
+        if k in M:
+            M[k]['nome']=n
+            if i: M[k]['img']=i
 if __name__=='__main__':
     import sys
     print(len(M))
