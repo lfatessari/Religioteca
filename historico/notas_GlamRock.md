@@ -11,3 +11,5 @@
 - Philstar 2009: coleções Smalto, relógios com estampa Pucci, 'Glam Rock' com pedras e couro laranja (sem refs). Austrália 2011: Miami, SoBe, AquaRock; >7000 pontos de venda.
 ## Fim da 1ª passada (11:53): 3+ fontes seguidas sem novidade (philstar x3, 300magazine). Vermelha: centenas de refs GR sem listar. 2ª passada: mais refs galaxus/digitec, ashford, amazon, jomashop, eBay.com, worldofwatches.
 - Europa Star 2008: Margaritelli colaborou anos com Giorgio Armani; vendas em 21 países; Neiman Marcus.
+- JCK ?p=29911: distribuição EUA/Canadá via Glam Rock Distribution LLC (GRD LLC) de Margaritelli.
+## Fim da 2ª passada: hotwomenfashion, jck 29911, jewellermag galeria = 3 seguidas sem novidade. 2ª trouxe muitos (>5) → 3ª passada.
