@@ -4,3 +4,4 @@
 - Firecrawl sem créditos nesta execução.
 - Refs vistas: FBY06.0 Bandit, FBN02.0 Thunderbolt, FBY35.0 Acid Green, FBV1.0 Drift, LR01 Leon Racing.
 - Seções feitas: 1, 2 (parcial)
+- CIGA Design Series X Gorilla: é modelo da CIGA (nome Gorilla), não é colaboração -> fora.
