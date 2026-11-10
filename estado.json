@@ -9327,7 +9327,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T03:42:25Z",
-  "ultimo_sinal": "2026-11-10T03:50:15Z",
+  "ultimo_sinal": "2026-11-10T03:52:07Z",
   "em_andamento": {
     "marcas": [
       "Gerald Genta"
@@ -9340,7 +9340,8 @@
     "secoes_feitas": [
       "1",
       "2",
-      "3"
+      "3",
+      "5"
     ],
     "passada": 1
   }
