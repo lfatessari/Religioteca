@@ -36,8 +36,15 @@ for f in sorted(glob.glob('/home/claude/trabalho/raw/*.txt'),key=os.path.getmtim
 with open('/home/claude/trabalho/parcial_Glashutte_Original_fontes.txt','w') as w:
     for p,u,n in fontes: w.write(f'{p}|{u}|{n}\n')
 print(len(fontes),'fontes')
+NM={}
+import os as _o
+if _o.path.exists('/home/claude/trabalho/nomes.txt'):
+    for l in open('/home/claude/trabalho/nomes.txt',encoding='utf-8'):
+        if '|' in l:
+            c,n=l.rstrip('\n').split('|',1); NM[re.sub(r'\D','',c)[-10:]]=n
 for k in order:
     o=out[k]
+    if k in NM: o[0]=NM[k]
     if o[2] and not weak(o[2]): o[3]=re.sub(r' ?Visto só na lista d[oa] [^.]+ \(link da página[^)]*\)\.','',o[3]).strip()
 with open('/home/claude/trabalho/parcial_Glashutte_Original_relogios.txt','w') as w:
     for k in order: w.write('|'.join(out[k])+'\n')
