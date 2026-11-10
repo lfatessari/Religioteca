@@ -9503,5 +9503,19 @@
   "Gigandet (linha 602)": "Dimensionada em 10/11/2026 como GRANDE: Gigandet suíça vintage (cronógrafos Wakmann/Gigandet, Valjoux 7733/7734, Datic) + Gigandet alemã moderna de Amazon/Galaxus com centenas de anúncios (Minimalism, Red Timeless, Sea Ground etc.). Fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T09:45:02Z",
+ "ultimo_sinal": "2026-11-10T09:45:02Z",
+ "em_andamento": {
+  "marcas": [
+   "Girard Perregaux"
+  ],
+  "linha_marcas": 604,
+  "grande": true,
+  "relogios": "historico/parcial_Girard_Perregaux_relogios.txt",
+  "fontes": "historico/parcial_Girard_Perregaux_fontes.txt",
+  "notas": "historico/notas_Girard_Perregaux.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
