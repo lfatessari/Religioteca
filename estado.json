@@ -9354,7 +9354,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T04:43:26Z",
-  "ultimo_sinal": "2026-11-10T04:43:26Z",
+  "ultimo_sinal": "2026-11-10T04:51:36Z",
   "em_andamento": {
     "marcas": [
       "Gerge",
@@ -9366,7 +9366,9 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "Gerge: todas"
+    ],
     "passada": 1
   }
 }
