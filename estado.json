@@ -9269,5 +9269,19 @@
   "Genus (linha 591)": "Gravada em 09/11/2026 (v520), 26 relógios (89947-89972), vermelha. Complemento futuro com Firecrawl: páginas genuswatches.swiss/press-room/gns2-eternal-gallop/ e the-year-of-the-dragon/ (erro/permissão), press kits PDF (Nocturne, Time2Race), Watchonista 'GNS 1.2 WG Creation Limited Edition', worldtempus 'GNS T5' (2019), versões cravejadas e cores de dragão sob encomenda (branco, amarelo, rosa, verde, azul-escuro, turquesa, vermelho), Chrono24/EveryWatch (não apareceram em busca)."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T00:42:28Z",
+ "ultimo_sinal": "2026-11-10T00:42:28Z",
+ "em_andamento": {
+  "marcas": [
+   "Georg Jensen"
+  ],
+  "linha_marcas": 593,
+  "grande": true,
+  "relogios": "historico/parcial_Georg_Jensen_relogios.txt",
+  "fontes": "historico/parcial_Georg_Jensen_fontes.txt",
+  "notas": "historico/notas_Georg_Jensen.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
