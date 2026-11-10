@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 610,
- "ultima_versao": 536,
+ "proxima_linha_marcas": 611,
+ "ultima_versao": 537,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9603,6 +9603,25 @@
     ]
    },
    "obs": "Tratada como grande por ser marca de peças únicas sob encomenda (160+ criações desde 2001). 18 linhas vieram só dos títulos de busca site:golay-spierer.ch (link da página). Base: site oficial (home, Opus 1/2, Wtoff, I&MT), Automotiv Press, Independent Watchmaking, WorldTempus (artigos e fichas Gibeon/Mysterious Lock/Napoleão), GPHG 2006 (The 117, Mystery Watch), leilões (Sotheby's, Artcurial, Gros & Delettrez, Antiquorum, Koller, Baer & Bosch), The Watch Gallery (Golay Geneva), TimeZone (Peter Pan). Firecrawl sem créditos. Corrigidos C, G, H, I, J. Golden Concept (611) parece grande (capas de Apple Watch em dezenas de variações): próxima execução faz Golby (610) sozinha ou com outras pequenas conforme dimensionamento."
+  },
+  {
+   "marca": "Golby",
+   "data": "2026-11-10",
+   "linha_marcas": 610,
+   "linhas_relogios": "94356-94387",
+   "relogios": 32,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "",
+   "fontes": 51,
+   "versao": 537,
+   "passadas": {
+    "1": [
+     51,
+     32
+    ]
+   },
+   "obs": "Catálogo fechado conferido: a loja oficial golbywatches.co.uk (página Watches) lista 33 produtos = 32 relógios + 1 pacote; bate com as páginas de coleção Aquareef, Aquareef 40, Coastal e Skipping Stone. Sem revendedores, Chrono24 ou usados. Site fora das buscas comuns (achado só com busca 'extended'). Firecrawl sem créditos. Corrigidos G, I, J. Golden Concept (611) dimensionada como grande (muitas variações de caixas para Apple Watch) e fica sozinha na próxima execução."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
