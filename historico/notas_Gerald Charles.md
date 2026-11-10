@@ -23,3 +23,4 @@ Archivedauctions: Renaissance GC2 No.152 c.2006 aço diamantes, mostrador azul (
 chrono.dk: GC19-00A foto
 luxur: GC20-DLC-01 100 pç, foto luxur.us.com/wp-content/uploads/2025/12/Gerald-Charles-Original-Time-GC20-DLC-01.jpg.webp
 Masterhorologer: GC2.0-RG-02 Premier 25 pç verde
+1ª passada encerrada: londonjewelers(1) e depois 4 fontes sem novidade. Vermelha: era Genta incompleta (Spring/Summer, refs sem foto), centenas de peças sob encomenda, período 2011-2019 pouco documentado.

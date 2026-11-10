@@ -1,4 +1,5 @@
 S="https://cdn.shopify.com/s/files/1/0664/5760/0317/files/%s_Front.png"
+P="https://www.geraldcharles.com/products/"
 W="https://www.watchesofswitzerland.com/cdn/shop/files/"
 SW="https://swisswatches-magazine.com/uploads/2025/08/"
 R=[]
@@ -14,7 +15,7 @@ a("Maestro 2.0 Ultra-Thin Timeless Black","GC2.0-A-00","https://cdn.shopify.com/
 a("Maestro 2.0 Ultra-Thin Emerald Green","GC2.0-A-02",W+"18620002_1.jpg",UT+" Mostrador verde-esmeralda solar.")
 a("Maestro 2.0 Ultra-Thin Royal Blue","GC2.0-RG-01",W+"18620000_1.jpg","Ouro rosa 18K, 39 x 41,7 mm, mostrador azul royal solar, calibre GCA2000.")
 a("Maestro 2.0 Ultra-Thin Chocolate Brown","GC2.0-RG-05",S%"GC2.0-RG-05","Ouro rosa 18K, 39 x 41,7 mm, mostrador marrom chocolate solar.")
-a("Maestro 2.0 Ultra-Thin Asia Edition Jade – edição limitada de 80 peças","GC2.0-SSPS-JD02BPS-RSPN",S%"GC2.0-SSPS-JD02BPS-RSPN","Mostrador de jade. Tiragem de 80 peças (Oster, que grafa a ref. GC2.0-SSPS-JD02PS-RSPN).")
+a("Maestro 2.0 Ultra-Thin Asia Edition Jade – edição limitada de 80 peças","GC2.0-SSPS-JD02BPS-RSPN","https://cdn.shopify.com/s/files/1/0664/5760/0317/files/GC2.0-SSPS-JD02PS-RSPN_Front.png","Mostrador de jade. Tiragem de 80 peças (Oster, que grafa a ref. GC2.0-SSPS-JD02PS-RSPN).")
 a("Maestro 2.0 Ultra-Thin Lapis Lazuli – edição limitada","GC2.0-SSPS-LS-RSPN","https://cdn.shopify.com/s/files/1/0664/5760/0317/files/GC2.0-SSPS-LS-RSPN_Front.png","Aço 316L 39 x 41,7 mm, luneta revestida de azul, mostrador de lápis-lazúli (0,55 mm), calibre GCA2000. Primeiro mostrador de pedra da marca (2025).")
 a("Maestro 2.0 Ultra-Thin Gem-Set Tsavorite","GC2.0-A-TSA-02","https://cdn.shopify.com/s/files/1/0664/5760/0317/files/GC2.0-A-TSA-02_Front.png",UT+" Luneta com 52 tsavoritas (1,68 ct), mostrador verde-esmeralda.")
 a("Maestro 2.0 Ultra-Thin Gem-Set Diamonds","GC2.0-A-DIA-00",W+"18620013_1.jpg",UT+" Luneta com 52 diamantes (1,55 ct), mostrador preto.")
@@ -23,23 +24,23 @@ a("Maestro 2.0 Meteorite Darkblast","GC2.0-SSDB-MT00-RSVC_DLE",W+"GC2.0-SSDB-MT0
 a("Maestro GC Sport Royal Blue","GC2.0-TX-TN-01",W+"18620005_1.jpg","Titânio grau 5, 39 x 41,7 mm, 8,7 mm, coroa à esquerda, mostrador azul royal solar.")
 a("Maestro GC Sport Grass – edição limitada de 200 peças","GC2.0-TX-TN-02GR",W+"18620006_1.jpg","Titânio grau 5, mostrador verde degradê granulado (tema tênis na grama). Tiragem de 200 peças (catálogo 2024).")
 a("Maestro GC Sport Clay – edição limitada de 200 peças","GC2.0-TX-TN-08GR",W+"18620007_1.jpg","Titânio grau 5, mostrador ferrugem degradê granulado (tema saibro). Tiragem de 200 peças (catálogo 2024).")
-a("Maestro GC Sport Tennis Optic Yellow – edição limitada de 200 peças","GC2.0-TX-TNSB-24GR-RSVC",S%"GC2.0-TX-TNSB-24GR-RSVC","Titânio, 64 g, calibre Manufacture 2.0, 100 m. Lançado em 2025.")
+a("Maestro GC Sport Tennis Optic Yellow – edição limitada de 200 peças","GC2.0-TX-TNSB-24GR-RSVC","https://cms.gphg.org/uploads/gphg2025_Gerald_Charles_Maestro_GC_Sport_Tennis_v2_001_1cdeb70329.jpg","Titânio grau 5 Darkblast, 39 x 41,7 x 9 mm, 64 g, mostrador granulado degradê amarelo, coroa à esquerda, pulseira de velcro, 100 m. Lançado em abril de 2025; concorreu ao GPHG 2025.")
 a("Maestro GC Sport Tennis White – edição limitada de 250 peças","GC2.0-TX-TNDB-04GR-RSVC_DLE",W+"GeraldCharlesMaestroGCSportinWhite_1050x1500_jpg.webp","Titânio Darkblast, 39 mm. Tiragem de 250 peças (Oster).")
 a("Maestro GC Sport Tennis Light Turquoise – edição limitada de 100 peças","GC2.0-TX-TNDB-33GR-RSVC_DLE",W+"GC2.0-TX-TNDB-33GR-RSVC_DLE_Front.webp","Titânio Darkblast. Tiragem de 100 peças (Oster).")
 a("Maestro 8.0 GC Sport Squelette","GC8.0-TX-TN-01",W+"18620010_1.jpg","Titânio grau 5, esqueletizado, 39 x 41,7 mm, 8,35 mm.")
-a("Maestro GC Sport Gem-Set Blue Sapphires","GC2.0-TX-TN-SAPH-01",S%"GC2.0-TX-TN-SAPH-01","Luneta com 52 safiras azuis (1,88 ct), mostrador azul.")
+a("Maestro GC Sport Gem-Set Blue Sapphires","GC2.0-TX-TN-SAPH-01","https://www.europastar.com/local/cache-vignettes/L720xH720/gc20-a-saph-01_w-adf6006c-79bf2.jpg","Luneta com 52 safiras azuis (1,88 ct), mostrador azul.")
 a("Maestro 3.0 Chronograph Royal Blue","GC3.0-TN-01",W+"GC3.0-TN-01_Front.webp",CH+" Titânio grau 5, mostrador azul royal solar.")
 a("Maestro 3.0 Chronograph Timeless Black","GC3.0-A-00",W+"18620003_1.jpg",CH+" Aço, mostrador preto solar.")
 a("Maestro 3.0 Chronograph Emerald Green","GC3.0-A-02","https://cdn.shopify.com/s/files/1/1126/5924/files/GeraldCharlesMaestro3.0ChronographGreen.png",CH+" Aço, mostrador verde-esmeralda solar.")
 a("Maestro 3.0 Chronograph GC33 Clou de Paris Grey","GC3.0-TNSB-06CP-RSPN","https://cdn.shopify.com/s/files/1/1126/5924/files/GeraldCharlesMaestro3.0ChronographClousdeParisGrey.jpg","Cronógrafo, mostrador cinza Clous de Paris inspirado no GC33 de 2006; logo dos 25 anos no rotor (2025).")
 a("Maestro 3.0 Chronograph GC33 Clou de Paris Ice Blue","GC3.0-SSPS-07CP-RSPN",W+"18620028_1.jpg","Cronógrafo, aço, mostrador azul-gelo Clous de Paris inspirado no GC33 de 2006 (2025).")
-a("Maestro 3.0 Chronograph Clay","GC3.0-SSPS-08GR-RSVC_DLE",S%"GC3.0-SSPS-08GR-RSVC_DLE","Cronógrafo, aço, mostrador cor de saibro granulado.")
+a("Maestro 3.0 Chronograph Clay","GC3.0-SSPS-08GR-RSVC_DLE","https://cdn.shopify.com/s/files/1/0664/5760/0317/files/gc3-0-ssps-08gr-rsvc_dle_front.png","Cronógrafo, aço, mostrador cor de saibro granulado.")
 a("Maestro 3.0 Chronograph Royal Blue Rose Gold","GC3.0-RG-01","https://cdn.shopify.com/s/files/1/0664/5760/0317/files/GC3.0-RG-01_Front.png",CH+" Ouro rosa 18K, mostrador azul royal.")
 a("Maestro 3.0 Chronograph Chocolate Brown Rose Gold","GC3.0-RG-05",S%"GC3.0-RG-05",CH+" Ouro rosa 18K, mostrador marrom chocolate.")
-a("Maestro 4.0 Ducati 30° Anniversario 916 – edição limitada, colaboração Ducati","GC4.0-CF-11",W+"18620015_1.jpg","Horas saltantes, 39 mm, carbono forjado. Tiragem citada como 35 peças (Luxury Bazaar) e 250 (Oster).")
+a("Maestro 4.0 Ducati 30° Anniversario 916 – edição limitada de 250 peças, colaboração Ducati","GC4.0-CF-11",W+"18620015_1.jpg","Horas saltantes esqueletizadas com roda central que lembra a roda da Ducati 916, 39 mm, carbono forjado. Tiragem de 250 peças (Oster e Europa Star; a Luxury Bazaar cita 35) (2024).")
 a("Maestro GC39 25th Anniversary Edition – edição limitada de 100 peças","GC39-TNPS-LSEN-RSDP-REM",W+"GC39_Soldatino_Front_bfb439f8-5381-475f-a0ea-9fb015822c79.webp","Titânio grau 5, 42 mm, horas saltantes, calibre Manufacture 4.0. Reedição do GC39 de 2005 (25 anos da marca, 2025).")
 a("Maestro 8.0 Squelette Black","GC8.0-SQ-A-00",W+"18620009_1.jpg",SQ+" Aço. No catálogo 2024: GC8.0-A-00.")
-a("Maestro 8.0 Squelette Ice Blue","GC8.0-SQ-A-07",S%"GC8.0-SQ-A-07",SQ+" Aço. No catálogo 2024: GC8.0-A-07.")
+a("Maestro 8.0 Squelette Ice Blue","GC8.0-SQ-A-07","https://cdn.shopify.com/s/files/1/0664/5760/0317/files/GC8.0-A-07_Front.png",SQ+" Aço. No catálogo 2024: GC8.0-A-07.")
 a("Maestro 8.0 Squelette Gold Grey","GC8.0-RG-06",S%"GC8.0-RG-06",SQ+" Ouro rosa 18K.")
 for ref,n,st in [("GC8.0-A-WG-SAPH-19","Yellow Sapphires","66 safiras amarelas (3,22 ct)"),("GC8.0-A-WG-SAPH-07","Ice Blue Sapphires","66 safiras turquesa (3,12 ct)"),("GC8.0-A-WG-SAPH-04","Violet Sapphires","66 safiras violeta (3,15 ct)"),("GC8.0-A-WG-SAPH-03","Orange Sapphires","66 safiras laranja (3,28 ct)"),("GC8.0-A-WG-DIA","Diamonds","66 diamantes (2,52 ct)"),("GC8.0-A-WG-EME","Emeralds","66 esmeraldas (2,37 ct)"),("GC8.0-A-WG-SAPH","Blue Sapphires","66 safiras azuis (2,78 ct)"),("GC8.0-A-WG-RUB","Rubies","66 rubis (2,73 ct)")]:
     a(f"Maestro 8.0 Squelette Gem-Set {n} – edição limitada",ref,S%ref,f"Aço, luneta de ouro branco 18K com {st} em cravação invisível. Lançado em 2024.")
@@ -48,16 +49,18 @@ a("Maestro 9.0 Roman Tourbillon Rose Gold – edição limitada de 50 peças","G
 a("Maestro 9.0 Roman Tourbillon White Gold – edição limitada de 50 peças","GC9.0-A-RT-WG",SW+"block-25-slider-1-gerald-charles-maestro-90-roman-tourbillon-white-gold.webp","Mostrador de ouro branco 18K martelado à mão, turbilhão voador.")
 a("Maestro 9.0 Tourbillon Gem-Set Sapphires – edição limitada","GC9.0-A-WG-SAPH-01",S%"GC9.0-A-WG-SAPH-01","Luneta de ouro branco com safiras azuis (2,78 ct).")
 a("Maestro 9.0 Tourbillon Gem-Set Diamonds – edição limitada","GC9.0-A-WG-DIA-01",S%"GC9.0-A-WG-DIA-01","Luneta de ouro branco com diamantes (2,52 ct).")
+P="https://www.geraldcharles.com/products/"
 ML="Masterlink: aço 316L 38 x 38 mm, 7,99 mm, pulseira integrada, calibre com microrrotor (2,7 mm), 100 m."
 a("Masterlink Silver","ML1.0-A-18",W+"18620012_1.jpg",ML+" Mostrador prateado listrado solar.")
 a("Masterlink Blue","ML1.0-A-01",W+"18620011_1.jpg",ML+" Mostrador azul listrado solar.")
-a("Masterlink Boutique Edition Black – edição limitada","ML1.0-SSDB-00SR-SBDP-BTQ",S%"ML1.0-SSDB-00SR-SBDP-BTQ","Edição de boutique, mostrador preto, caixa Darkblast.")
+a("Masterlink Boutique Edition Black – edição limitada","ML1.0-SSDB-00SR-SBDP-BTQ","https://cdn.shopify.com/s/files/1/0664/5760/0317/files/ml1-0-ssdb-00sr-sbdp-btq_front.png","Edição de boutique, mostrador preto, caixa Darkblast.")
 for ref,n in [("ML1.0-SSPS-WG43-18GS-SBCL","Green"),("ML1.0-SSPS-WG32-18GS-SBCL","Red"),("ML1.0-SSPS-WG31-18GS-SBCL","Blue")]:
-    a(f"Masterlink Gem-Set {n}",ref,S%ref,"Luneta de ouro branco cravejada, mostrador prateado.")
+    a(f"Masterlink Gem-Set {n} – edição limitada de 10 peças",ref,"https://monochrome-watches.com/wp-content/uploads/2025/09/Gerald-Charles-Masterlink-Stones-Featured.jpg","Aço 38 x 38 mm, luneta de ouro branco com 60 pedras baguete em cravação invisível e 13 índices baguete ("+{"Green":"tsavoritas verdes","Red":"safiras vermelhas","Blue":"safiras azuis"}[n]+"), mostrador prateado, calibre GCA5401 com microrrotor (2025). Foto de conjunto das três cores (Monochrome).")
 for ref,n,e in [("ML1.0-SSPS-WG43-47TS-SBCL","Green",""),("ML1.0-SSPS-WG31-45SB-SBCL","Purple",""),("ML1.0-SSPS-WG32-46OF-SBCL","Red","Mostrador de pedra 'Iron Eye' (Luxury Bazaar).")]:
-    a(f"Masterlink Gem-Set Stone Dial {n}",ref,S%ref,("Luneta cravejada, mostrador de pedra. "+e).strip())
+    a(f"Masterlink Gem-Set Stone Dial {n}",ref,("https://www.luxurybazaar.com/grey-market/wp-content/uploads/2026/09/image-55-1024x805.png" if n=="Red" else P+"masterlink-gem-set-stone-dial-"+n.lower()),("Luneta cravejada, mostrador de pedra. "+e+("" if n=="Red" else " Foto não localizada (link da página do site oficial).")).strip())
+ATL={"ML1.0-SSPS-SSBR-MI22HM-SBDP":"ML1_0-SSPS-SSBR-MI22HM-SBDP_Front_png.webp","ML1.0-SSPS-SSBR-MI18HM-SBDP":"ML1_0-SSPS-SSBR-MI18HM-SBDP_Front_png.webp","ML1.0-SSPS-SSBR-MI14HM-SBDP":"ML1_0-SSPS-SSBR-MI14HM-SBDP_Front_3b092055-737e-4d57-8f1f-ff06a2fde2a9_png.webp"}
 for ref,n in [("ML1.0-SSPS-SSBR-MI22HM-SBDP","Golden Yellow"),("ML1.0-SSPS-SSBR-MI18HM-SBDP","Rhodium"),("ML1.0-SSPS-SSBR-MI14HM-SBDP","Golden Rose")]:
-    a(f"Masterlink Atelier Edition {n} – edição limitada de 25 peças",ref,S%ref,"Mostrador martelado à mão. Tiragem de 25 peças (Oster).")
+    a(f"Masterlink Atelier Edition {n} – edição limitada de 25 peças",ref,"https://cdn.shopify.com/s/files/1/0712/8570/2900/files/"+ATL[ref],"Mostrador martelado à mão. Tiragem de 25 peças (Oster).")
 a("Masterlink Perpetual Calendar Sapphire Dial","ML11.0-TNBR-TNSB-SP31PS-TNDP","https://cdn.shopify.com/s/files/1/1126/5924/files/Gerald_Charles_Product_Pages_copy.jpg","Calendário perpétuo assimétrico, titânio Darkblast 40 mm, 10 mm, calibre GCA11000 (base Vaucher VMF 5401), mostrador de safira, 100 m. Watches & Wonders 2026.")
 a("Masterlink Perpetual Calendar Fumé Dial","ML11.0-TNBR-TNSB-BR00SR-TNDP","https://cdn.shopify.com/s/files/1/1126/5924/files/GeraldCharlesMasterlinkPerpetualCalendarFume.jpg","Calendário perpétuo assimétrico, titânio Darkblast 40 mm, calibre GCA11000, mostrador fumê. Watches & Wonders 2026.")
 # --- edições especiais e descontinuados ---
@@ -80,9 +83,9 @@ a("Turbo Chronograph","",SW+"block-8-gerald-genta-turbo-collection-2003-watch.we
 a("Turbo World Time","GC28",SW+"block-9-gerald-charles-turbo-world-time-gc28.webp","Aço com PVD preto, mostrador oval.")
 a("Sportside","GC13",SW+"block-11-gerald-charles-sportside-gc13-watch.webp","Aço, 40 mm, anel de madrepérola (2003).")
 a("Seaside","GC9",SW+"block-11-gerald-charles-seaside-gc9-yellow-dial-in-blue.webp","Aço, 42 mm, borracha azul, 12 parafusos de ouro branco, mostrador amarelo guilhochado (2003). Nº 068 vendido pela Antiquorum em 2007.")
-a("Star Lady 35","GC6","https://images-catalog.antiquorum.swiss/images/171/lots/113/113.jpg","Linha feminina (2003), quartzo, 35 mm. Visto em leilão da Antiquorum (2007).")
+a("Star Lady 35","GC6","https://images-catalog.antiquorum.swiss/images/171/lots/113/113.jpg","Linha feminina (2003), quartzo, 35 mm, aço com detalhes de safira, mostrador prateado. Vista na Antiquorum (2007) e num par vendido pela Sotheby's Hong Kong (c. 2015).")
 a("Star Lady 30","GC68","https://www.collectorsquare.com/en/luxprice-index-watches/gerald-charles.html","Aço, 30 mm. Conjunto de 5 vendido pela Antiquorum Hong Kong em 2017. Visto só no índice de leilões da CollectorSquare (link da página).")
-a("Round 44 A-Evolution","GC22",SW+"block-16-gerald-charles-round-44-a-evolution-gc22.webp","Hora saltante progressiva (sliding hour), 44 x 41 x 11 mm, calibre GC 22; primeiro GC com a curva 'sorriso' na caixa (2004). Em aço (nº 057) e ouro rosa (nº 06, 26, 27), vendidos pela Antiquorum em 2007-2008.")
+a("Round 44 A-Evolution","GC22",SW+"block-16-gerald-charles-round-44-a-evolution-gc22.webp","Hora saltante progressiva (sliding hour), 44 x 41 x 11 mm, calibre GC 22; primeiro GC com a curva 'sorriso' na caixa (2004). Em aço (nº 057) e ouro rosa (nº 06, 26, 27, e nº 09 ref. GC22-PG-CS02BDR-01/03 com madrepérola na Bonhams), vendidos em 2007-2008.")
 a("Round 44 Tourbillon","GC1",SW+"block-16-gerald-charles-round-44-tourbillon.webp","Ouro rosa, 44 mm, turbilhão de corda manual, feito com Antoine Preziuso (2004). Também em platina, caixa tonneau (Sotheby's 2013, Bonhams 2020).")
 a("A-Evolution-Accumulation – Only Watch 2007, homenagem ao escultor César","","https://images-catalog.antiquorum.swiss/images/166/lots/13/13.jpg","Peça única. Caixa e mostrador em ouro amarelo, rosa e branco pela técnica de 'compressão' de César, ponteiro único de minutos e hora deslizante às 12h, módulo AP sobre ETA 2892, pulseira de crocodilo preta. Vendido por 40.000 euros no leilão Only Watch (Antiquorum, Mônaco, 2007).")
 a("Maestro Tourbillon","GC35",SW+"block-12-gerald-charles-maestro-gc35-tourbillon-watch-front.webp","Primeiro Maestro (2005): turbilhão esqueletizado de corda manual com ponte 'bigode', calibre GC88, 51 x 42 x 12 mm; em ouro branco e ouro rosa (nº 0001 vendido pela Antiquorum em 2007; nº 8 na Sotheby's em 2024).")
@@ -104,12 +107,15 @@ a("Maestro Anniversary Demi-Pavé – edição limitada","GC19-00Z",WB+"gc19-00z
 a("Maestro Anniversary Full-Pavé – edição limitada","GC19-00ZZ",WB+"gc19-00zz","Versão totalmente cravejada do Maestro Anniversary (2020). Visto só na ficha do WatchBase (link da página).")
 a("Maestro Original Time Black","GC20-A-00",WB+"gc20-a-00","Aço, mostrador preto, grande data. Visto só na ficha do WatchBase (link da página).")
 a("Maestro Original Time Blue","GC20-A-01",WB+"gc20-a-01","Aço, mostrador azul, grande data. Visto só na ficha do WatchBase (link da página).")
-a("Maestro Original Time DLC Black","GC20-DLC-00",WB+"gc20-dlc-00","Aço com DLC preto, grande data. Visto só na ficha do WatchBase (link da página).")
+a("Maestro Original Time DLC Black","GC20-DLC-00","https://dyn1.heritagestatic.com/ha?p=3-3-6-3-5-33635109&it=product","Aço com DLC preto, 39 x 40 x 11 mm, mostrador preto, grande data, automático. Vendido pela Heritage em 2026.")
 a("Maestro 3.0 Chronograph Premier 2021 – edição limitada de 25 peças","GC3.0-RG-02",WB+"gc3-0-rg-02","Cronógrafo em ouro rosa 18K, mostrador verde, edição Premier 2021. Visto só na ficha do WatchBase (link da página).")
 a("Maestro 2.0 Ultra-Thin Qatar Edition – edição limitada","GC2.0-TN-QTR",WB+"gc2-0-tn-qtr","Titânio, 40 mm, 8 mm, mostrador bege solar, calibre GCA 3002, 100 m (2023). Visto só na ficha do WatchBase (link da página).")
-a("Turbo Chronograph PVD","","https://secondtime.com/turbo","Aço com PVD preto, 46 x 47 mm, mostrador preto laqueado com ponteiros vermelhos, pulseira PVD com as letras T U R B O gravadas nos elos. Visto só no anúncio da Second Time (link da página).")
+a("Turbo Chronograph PVD","","https://www.europastar.com/local/cache-gd2/96/e6b4a3975930b878a49ef5652d7d10.jpg","Aço com PVD preto, 46 x 47 mm, mostrador preto laqueado com ponteiros vermelhos, pulseira PVD com as letras T U R B O gravadas nos elos (ou crocodilo preto), contadores às 3, 6 e 9h (2005). Ficha da Europa Star e anúncio da Second Time.")
 a("Star Lady 35 Four Seasons Spring – edição limitada de 12 peças","","https://images-catalog.antiquorum.swiss/images/171/lots/116/116.jpg","Quartzo (ETA 956102), 36 x 11 mm, ouro branco 18K (c. 2006). Vendido pela Antiquorum em 2007-2008.")
 a("Star Lady 35 Four Seasons Summer – edição limitada de 12 peças","","https://images-catalog.antiquorum.swiss/images/171/lots/115/115.jpg","Quartzo (ETA 956102), 36 x 11 mm, ouro amarelo 18K (c. 2006). Vendido pela Antiquorum em 2007-2008.")
 a("Star Lady 35 Four Seasons Autumn – edição limitada de 12 peças","","https://images-catalog.antiquorum.swiss/images/171/lots/114/114.jpg","Quartzo (ETA 956102), 36 x 11 mm, ouro rosa 18K, pavê de diamantes, rubis, safiras amarelas e rodolitas, pulseira de galuchat laranja (c. 2006). Vendido pela Antiquorum em 2007-2008.")
 a("Star Lady 35 Four Seasons Winter – edição limitada de 12 peças","","https://images-catalog.antiquorum.swiss/images/388/lots/129/129.jpg","Quartzo, ouro branco 18K, luneta de diamantes e safiras, mostrador azul (2006). Exemplar 3/12 na Antiquorum.")
 a("Prototype White Gold Automatic Jump Hour","","https://www.collectorsquare.com/en/luxprice-index-watches/gerald-charles.html","Peça única. Protótipo em ouro branco com horas saltantes automáticas (c. 2005), oferecido pela Sotheby's Genebra em 2015. Visto só no índice de leilões da CollectorSquare (link da página).")
+a("Maestro GC Sport Light Turquoise London Jewelers 100th Anniversary – edição limitada, 100 anos da London Jewelers","GC20TXTNDB33GRRSVCDLELJ","https://www.londonjewelers.com/pub/media/catalog/product/1/1/1137290.jpg","Titânio, 39 mm, mostrador turquesa-claro degradê, rotor dourado com logo dos 100 anos, pulseira de velcro turquesa. Código da loja 1137290.")
+a("Maestro Carrée Tourbillon","","https://www.europastar.com/local/cache-gd2/93/3c9ed6efd696d056cee7aa85e433c5.jpg","Platina (também ouro branco e ouro rosa), mostrador transparente com índices de diamantes, safiras ou rubis, calibre manufatura BNB1000 com turbilhão suspenso, 120 horas de reserva de marcha indicadas no fundo, cada peça numerada (2006).")
+a("Maestro GC39 Remaster Diamond Baguettes – 25 anos da marca","","https://i0.wp.com/watchilove.com/wp-content/uploads/2025/11/GC39-TNPS-LSEN-RSDP-REM_Front_Piece-Unique_Background2-1.jpg","Peça única. Base GC39-TNPS-LSEN-RSDP-REM: luneta com 60 diamantes baguete (2,66 ct), mostrador meta-guilhochado com estrela barroca e centro de lápis-lazúli, horas saltantes às 12h. Apresentado na Dubai Watch Week, dezembro de 2025.")
