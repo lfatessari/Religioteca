@@ -1,0 +1,835 @@
+{
+ "marca": "Graff",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – graff.com (catálogo de relógios em JavaScript: a leitura automática não mostra a lista nem as fotos); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://graff.com/us-en/graff-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12-24.com/watches/graff/",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/graff/jewelry/watches/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://us.graff.com/us-en/jewellery-collections/view-by-collection/butterfly/classic-butterfly-diamond-watch/BF33WGDD_BF33WGDD.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://graff.com/us-en/jewellery/view-by-collection/spiral/watches/spiral-watch/GSP23WGD_GSP23WGD.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watch-brand/graff-143",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/graff/watch-12615549",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/scubagraff",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/mastergraff-skeleton-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/mastergraff-ultra-flat-tourbillon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/mastergraff-minute-repeater-tourbillon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/mastergraff-floral-tourbillon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/mastergraff-icon-skeleton-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/mastergraff-tourbillion",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/diamond-gyrograff-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://delraywatch.com/graff/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.therealreal.com/designers/graff/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/the-graff-minute-repeater-17044.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/the-graff-minute-repeater-17043.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/repetition-minute-tourbillon-7893.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/diamond-gyrograff-13174.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/structural-tourbillon-skeleton-13319.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/grand-date-dual-time-tourbillon-43mm-13732.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/chronograff-45mm-13741.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/graffstar-icon-automatic-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/graffstar-grand-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://artdesuisse.com/product/grand-date-45mm-ref-gs45wgb3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://artdesuisse.com/product/disco-butterfly-ref-fbf38wgd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://artdesuisse.com/en/product/butterfly-1-ref-bf26iwgdrl",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://artdesuisse.com/en/product/vendome-ref-vdl30pgc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://artdesuisse.com/en/product/classic-butterfly-32mm-ref-butterflys",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://artdesuisse.com/product/graffstar-slim-43mm-ref-gsu43pgb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/graff-butterfly-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/brands/graff/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/graff-watch-gus43bll",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theswisscollector.com/shop/en/graff-graffstar-diamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mozerisfineantiques.com/watches/p/graff-gxxvi-quartz-watch-18k-white-gold-2015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://Fashionphile.com/shop/brands/graff",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2009/06/23/graff-luxury-watches-mastergraff-tourbillon-limited-edition-watches-in-white-or-rose-gold-case-white-gold-case-set-with-diamonds-platnium-case-set-with-diamonds-sport-edition-in-black-dlc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/graff-baselworld-2018",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://quillandpad.com/category/watch-brands-horology/graff/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://nationaljeweler.com/articles/6394-see-graff-s-diamond-set-endangered-species-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://quillandpad.com/2019/06/02/graff-gyrograff-series-master-jeweler-mastering-high-complications-with-serious-flair/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://quillandpad.com/2016/06/15/graff-mastergraff-perpetual-calendar-technically-fabulous-even-without-sparkles/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2020/graff-elegance-and-opulence/ref-gxxviii-white-gold-wristwatch-with-date-circa",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/buy/e47fb8a4-7740-4dc8-bd7c-94e7f56fcdb2/lots/1fcd6870-fc9a-41a7-adb0-13fd0a0cbbc0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/digital-catalogues/graff-elegance-opulence",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2020/graff-elegance-and-opulence/ref-gxxix-white-gold-and-diamond-set-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2020/graff-elegance-and-opulence/graffstar-ref-gs45pg-limited-edition-pink-gold",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2020/graff-elegance-and-opulence/ref-gxxxii-white-gold-wristwatch-circa-2010-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2020/watches-online-3/graff-reference-mg45b-mastergraff-tourbillon-a",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/graff/158004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/graff/142909",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/graff/143608",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/graff/224649",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/graff/224650",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/graff/HK090321/117",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1704/lot.295.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1704/lot.297.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2016/important-watches-ge1604/lot.189.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2015/watches-l15053/lot.168.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-6321727",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.graff.com/uk-en/high-jewellery/unique-timepieces.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://gphg.org/en/watches/princess-butterfly",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/articles/graff-watches-time-told-in-the-language-of-diamonds",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/shop/product/graff-princess-butterfly-sapphire-secret-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/graff-the-babygraff-collection-10031.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/graff-the-galaxy-ladies-watch-7706.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/graff-a-45-gram-black-diamond-24452.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/graff-diamond-mosaic-motifs-8063.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/graff-butterfly-grace-23177.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/graff-the-best-of-both-worlds-23651.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/?p=146475",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchonista.com/node/436261",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/362925",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/479168",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wristaficionado.com/products/graff-chronograph-42mm-rose-gold-black-dial-limited-to-500pcs-cg42pgb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://iplaywatch.com/watches/graf/cg45dl-53878",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://joaillerie-royale.com/en/graf/18488-graff.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2020/watches-weekly-geneva-8/graff-chronograff-ref-cg45dlcwg-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theswisscollector.com/en/graff/5651-10930-graff-eclipse-titanium-dlc.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/graff/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://robbreport.com.au/?p=29768",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://tickingtales.com/category/watch-brands/graff-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.vestiairecollective.com/women-accessories/watches/graff/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=8795",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thejewelleryeditor.com/shop/product/graff-fascination-15296-carat-transformable-diamond-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/the-55m-hallucination-watch-graff-diamonds-hits-unprecedented-heights-at-baselworld-2014",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/revival-jewel-covered-ladies-secret-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hautetime.com/tag/mastergraff",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hautetime.com/tag/graff/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/graff-luxury-watches-archives/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/graff-graffiti-11526.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.worldtempus.com/article/graff-mastergraff-structural-skeleton-automatic-with-flying-tourbillon-23423.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dev.hautetime.com/baselworld-2016-introducing-the-gyrograff-world-from-graff-luxury-watches/74529/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hautetime.com/?p=92659",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hautetime.com/?p=93931",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/graff-anatomy-of-graffs-mens-watch-25109.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://12-24.com/watches/graff/spiral/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.damasjewellery.com/graff-butterfly",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.damasjewellery.com/ae-en/brands-graff-spiral-watch-gsp19wgdd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12-24.com/watches/graff/mastergraff/",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://12-24.com/watches/graff/jewellery_watches/",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://12-24.com/watches/graff/women/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://12-24.com/watches/graff/men/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://12-24.com/watches/graff/chronograff/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://12-24.com/watches/graff/graff_vendome/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://12-24.com/watches/graff/unique_timepieces/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12-24.com/watches/graff/eclipse_43_mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12-24.com/watches/graff/ref-fbf38wgsd",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://12-24.com/watches/graff/ref-gs45pgw3",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://12-24.com/watches/graff/graffstar/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://12-24.com/watches/graff/ref-bf32wgde",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://12-24.com/watches/graff/ref-mgfa37wgsldmpw",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/buy/auction/2020/watches-online-2/graff-cyprus-scubagraff-ref-sg47dlcwg-limited",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/graff-scubagraff-10047.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2014/04/graff-scubagraff-chocolate-dlc.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.damasjewellery.com/ae-en/graff-eclipse-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gmtmag.com/en/nouveaute-en-n-en/focus-2/graff-24.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hauteliving.com/2012/04/haute-time-graffs-diamond-baby-galaxy-available-also-in-ruby-sapphire-and-emerald/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/graff-graffstar-slim-eclipse-20295.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://elitetraveler.com/watches/2217/gyrograff-endangered-species",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://elitetraveler.com/watches/13776/yellow-diamond",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://elitetraveler.com/watches/13605/mastergraff-floral",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://elitetraveler.com/watches/2066/tildas-bow-diamond",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gmtmag.com/en/nouveaute-en-n-en/focus-2/graff-5.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gmtmag.com/en/nouveaute-en-n-en/focus-2/graff-17.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gmtmag.com/en/nouveaute-en-n-en/focus-2/graff-30.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gmtmag.com/en?p=7356",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrods.com/en-gb/p/graff-white-gold-and-diamond-spiral-watch-23mm-000000000007448630",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mcgrocer.com/products/graff-white-gold-and-diamond-spiral-watch-23mm-2026227413",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/accessories/graff-white-gold-and-diamond-spiral-watch-19mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://12-24.com/watches/graff/ref-diamond-mastergraff-structural-tourbillon-skeleton",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://12-24.com/watches/graff/ref-diamond-mastergraff-tourbillon-rose",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://12-24.com/watches/graff/ref-princess-butterfly-pink-diamond",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-5690641",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-4366607",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-1134207",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://k2luxury.ch/watches/watch-brand/graff/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.graff.com/watches/high-jewellery-watches/lace/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bonhams.com/auction/27040/lot/851/graff-a-pink-gold-diamond-set-and-emerald-graffstar-quartz-wristwatch-refgs30pgdsl-no001300-with-certificate",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/graff-secret-watch-18999.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://squaremile.com/style/jewellery-watches-graff/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/top-10-jewellery-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.katerinaperez.com/articles/watches-and-wonders-2023-best-high-jewellery-models",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/fine-jewels-l14052/lot.131.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2016/important-watches-ge1601/lot.44.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/fine-jewels-n09695/lot.433.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/fine-jewels-n09953/lot.356.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2010/important-jewels-n08612/lot.32.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/fine-jewels-l14052/lot.354.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2009/jewels-l09653/lot.42.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.noonans.co.uk/auctions/archive/lot-archive/results/273500/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/graff-superstar-38-mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/graff-the-ladies-graffstar-7704.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/graffstar-icon-automatic-14379.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://artdesuisse.com/en/produkt/watch-graffstar-icon/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.incollect.com/listings/jewelry/watches/graff-graff-18k-white-gold-butterfly-green-emerald-limited-edition-32mm-dial-watch-862736",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrods.com/en-fi/p/graff-platinum-and-diamond-classic-butterfly-watch-28mm-000000000007448629",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/graff-ladygraff-11642.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/graff-butterfly-watch-12210.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phigora.com/products/graff-yellow-gold-diamond-ladies-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/145680869554",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/de/de/shop/Graff-Star-Grande-GS45DBPG.html",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "J": "Hallucination, Fascination, MasterGraff (GyroGraff, Ultra Flat Tourbillon, Structural Skeleton), GraffStar, ChronoGraff, Butterfly, Spiral, Tilda's Bow, Eclipse"
+ },
+ "observacoes": "Corrigido: J (\"Hallucination, MasterGraff, GraffStar, Diamond collections\" → lista das linhas confirmadas no site oficial e em GPHG/imprensa). L: graff.com mostra o catálogo em JavaScript (sem lista nem fotos na leitura automática). Ainda a verificar: I mantém o aviso \"[⚠️ verificar dados atuais]\" (o resto do texto confere: fundação em 1960 por Laurence Graff em Londres; Hallucination de US$ 55 milhões, Baselworld 2014); a divisão de relógios (Graff Luxury Watches, Genebra) começou por volta de 2008, dado visto em uma só fonte; logo não encontrado."
+}
