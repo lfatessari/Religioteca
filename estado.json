@@ -9709,7 +9709,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T18:44:36Z",
-  "ultimo_sinal": "2026-11-10T19:01:52Z",
+  "ultimo_sinal": "2026-11-10T19:04:00Z",
   "em_andamento": {
     "marcas": [
       "Gorilla"
@@ -9726,7 +9726,9 @@
       "4",
       "5",
       "6",
-      "8"
+      "7",
+      "8",
+      "9"
     ],
     "passada": 1
   }
