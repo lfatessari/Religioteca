@@ -22,7 +22,7 @@ longt={}
 for f in ['raw/gw_pj1.txt','raw/gw_all_p4.txt']:
     for l in open(f):
         t,i=l.strip().split('|'); r=t.split()[-1]; longt[norm(r)]=(t,i.split('?')[0])
-for l in open('parcial_Glycine_relogios.txt'):
+for l in open('raw/gw_airman.txt'):
     pass
 def e_from_long(t):
     m=re.search(r"(\d+)mm\s+(Automatic|Quartz)?",t)
@@ -48,7 +48,7 @@ for k in sorted(keys):
     if not i and not any(x in t for x in ('Field','Box Ceramic')): i=f'https://www.glycinewatches.com/cdn/shop/files/{r}.png'
     add(t,r,i,e,'oficial')
 # airman page fallback images
-for l in open('parcial_Glycine_relogios.txt'):
+for l in open('raw/gw_airman.txt'):
     n,c,i,e=l.rstrip('\n').split('|')
     add(n,c,i,e,'oficial-airman')
 # extras curated by hand
