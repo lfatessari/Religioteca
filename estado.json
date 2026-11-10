@@ -9727,7 +9727,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T19:41:59Z",
-  "ultimo_sinal": "2026-11-10T19:55:44Z",
+  "ultimo_sinal": "2026-11-10T19:56:56Z",
   "em_andamento": {
     "marcas": [
       "GoS"
@@ -9749,8 +9749,9 @@
       "8",
       "9",
       "10",
-      "10b"
+      "10b",
+      "2a passada"
     ],
-    "passada": 2
+    "passada": 3
   }
 }

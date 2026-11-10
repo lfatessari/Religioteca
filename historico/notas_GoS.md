@@ -7,3 +7,4 @@ Grande (peças únicas). Site goswatches.com não aparece em busca (site:goswatc
 - Sarek Rissa: 2023 (5-6 por ano; subtítulo fala em 10).
 - 1ª passada encerrada (3 seguidas sem novidade: TLE Trollius, passion-horlogere, Europa Star Norrsken Blue). Vermelha: peças com mostrador único, sob encomenda, site oficial fora de alcance. 2ª passada: site oficial, Instagram, Only Watch Track 1, Akka bespoke 2019, Explosion, Völund, Winter Nights, outras lojas.
 - Site oficial abriu na 2ª passada (goswatches.com/collections: 13 'made to order' + 18 'previous collections'). Logo https://www.goswatches.com/images/stories/logo2.png
+- 2ª passada encerrada (3 seguidas sem novidade: blog Louis Erard, Time to Watches 2026, Doha). Trouxe >=5 novos -> 3ª passada.
