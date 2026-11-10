@@ -9605,5 +9605,19 @@
   "Glashütte Original (linha 607)": "Gravada em 10/11/2026 (v534), 987 relógios (92633-93619), vermelha. Complemento futuro: fotos das ~79 linhas só com link; WatchBase páginas 'vintage' e 'spezialist' e famílias antigas (Sport Evolution, Navigator, Karree completos); Senator Automatic/Panorama Date 39-xx dos anos 1990-2000; Meisterwerke (Julius Assmann 1-3, Alfred Helwig 1); edições regionais (China, Bucherer, Wempe, Japão); my-watchsite página 2; Chrono24 e EveryWatch (login). GUB vintage (antes de 1994) não entrou: fica para a linha 630 'GUB Glashütte'."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T14:43:53Z",
+ "ultimo_sinal": "2026-11-10T14:43:53Z",
+ "em_andamento": {
+  "marcas": [
+   "Glycine"
+  ],
+  "linha_marcas": 608,
+  "grande": true,
+  "relogios": "historico/parcial_Glycine_relogios.txt",
+  "fontes": "historico/parcial_Glycine_fontes.txt",
+  "notas": "historico/notas_Glycine.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
