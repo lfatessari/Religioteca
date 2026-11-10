@@ -9,3 +9,4 @@
 - Falta: 2c (site oficial produtos escondidos: buscar refs antigas no grand-seiko.com), 3 primeira página, 4 catálogos, 5 WatchBase/WatchPatrol, 6 Chrono24, 7 lojas (5+), 8 usados/leilões, 9 imprensa, 10 buracos, 10b.
 - 1ª passada ENCERRADA (52 fontes): últimas 4 fontes sem novidade (Fratello 2017, 2 press releases GS 2019, Monochrome). Marca VERMELHA: faltam LEs de 2015-2020, quartzos 9F antigos (SBGT/SBGF/SBGS/SBGX 0xx), variações vintage sem foto, peças regionais do Japão.
 - 2ª passada: buscar LEs 2016-2020, quartzos antigos, SBGW/SBGR 2010-2016, fotos de vintage.
+- 2ª passada encerrada (14 fontes, ~68 relógios novos) → 3ª passada.
