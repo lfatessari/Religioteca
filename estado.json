@@ -9354,7 +9354,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T04:43:26Z",
-  "ultimo_sinal": "2026-11-10T04:51:36Z",
+  "ultimo_sinal": "2026-11-10T04:54:27Z",
   "em_andamento": {
     "marcas": [
       "Gerge",
@@ -9367,7 +9367,8 @@
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
-      "Gerge: todas"
+      "Gerge: todas",
+      "German Baillot: todas"
     ],
     "passada": 1
   }
