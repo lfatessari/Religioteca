@@ -9794,7 +9794,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T22:42:15Z",
-  "ultimo_sinal": "2026-11-10T22:56:19Z",
+  "ultimo_sinal": "2026-11-10T22:58:31Z",
   "em_andamento": {
     "marcas": [
       "Grand Seiko"
@@ -9806,7 +9806,8 @@
     "notas": "historico/notas_Grand_Seiko.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "4"
     ],
     "passada": 1
   }
