@@ -9792,5 +9792,19 @@
     "Graham (linha 615)": "Gravada em 10/11/2026 (v542), 492 relógios (95021-95512), vermelha. Site oficial graham1695.com fora das buscas e Firecrawl sem créditos. ~90 linhas só com link de página. Complemento futuro: site oficial (loja Shopify; fichas técnicas em cdn.shopify.com/s/files/1/0274/0921/9648/files/...), páginas de família da Essential Watches ainda não abertas (Chronofighter-Trigger-Flyback, Mercedes-GP-TimeZone, Silverstone/Timezone e Tourist), Jura Watches (vitrines em JS; SKUs GR-xxx), The Watch Pages (bloqueado), EveryWatch (login), Chrono24; nomes das Nose Art Sally/Lilly/Nina por referência (2CVAS.B21A/U04A/U05A), Grand Vintage Graffiti (5 variações na WorldTempus), primeiros modelos 1995-2002 (Chronograph Foudroyante, Chronofighter 1ª geração com refs)."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": []
+  "marcas_novas_sem_relogios": [],
+  "em_execucao": "2026-11-10T22:42:15Z",
+  "ultimo_sinal": "2026-11-10T22:42:15Z",
+  "em_andamento": {
+    "marcas": [
+      "Grand Seiko"
+    ],
+    "linha_marcas": 616,
+    "grande": true,
+    "relogios": "historico/parcial_Grand_Seiko_relogios.txt",
+    "fontes": "historico/parcial_Grand_Seiko_fontes.txt",
+    "notas": "historico/notas_Grand_Seiko.md",
+    "secoes_feitas": [],
+    "passada": 1
+  }
 }
