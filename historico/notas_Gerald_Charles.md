@@ -24,3 +24,13 @@ chrono.dk: GC19-00A foto
 luxur: GC20-DLC-01 100 pç, foto luxur.us.com/wp-content/uploads/2025/12/Gerald-Charles-Original-Time-GC20-DLC-01.jpg.webp
 Masterhorologer: GC2.0-RG-02 Premier 25 pç verde
 1ª passada encerrada: londonjewelers(1) e depois 4 fontes sem novidade. Vermelha: era Genta incompleta (Spring/Summer, refs sem foto), centenas de peças sob encomenda, período 2011-2019 pouco documentado.
+## 2ª passada: 21 fontes, 2 relógios novos (Maestro Carrée Tourbillon; GC39 Remaster Diamond Baguettes), + fotos/tiragens corrigidas. Parou: 3 fontes seguidas sem novidade. <5 novos → sem 3ª passada.
+## 10b Auto-auditoria
+1. Blog/imprensa: site oficial "GC Tales" e press.geraldcharles.com não abriram (fora das buscas); compensado com Europa Star (índice da marca), Monochrome, Watchonista, Swisswatches. Nomes citados estão na lista.
+2. §2c: buscas site:geraldcharles.com não funcionam no buscador; usados /all-products (61) e oembeds checkout.geraldcharles.com (maestro-gc3-0, masterlink, collection-overview) + páginas /product/ antigas.
+3. Lojas: Oster (2 páginas), WoS (3), Manfredi, Wristaficionado (2), Betteridge, Mayors, BQ, London Jewelers, luxur, the1916, chrono.dk, Second Time.
+4. Primeiro modelo: Renaissance (2001) GC2 e variantes GC5/GC10/GC11/GC15 — ok.
+5. I/J: GC Sport, 2.0, 3.0, 8.0 Squelette encontrados.
+6. Edições limitadas com nº na B; peças únicas (A-Evolution-Accumulation, GC58, Sarawak, Mitoraj, ELA, GC39 Remaster, protótipo jump hour) com "Peça única." em E.
+7. ~95 fontes.
+Faltam (vermelho): Star Lady 30/35 em várias cores/pedras, peças sob encomenda ("centenas"), GC20 big date e GCM3 sem foto, Maestro dos anos 2011-2019, Star Lady Black, catálogos 2022/2026 (PDF pediu permissão).
