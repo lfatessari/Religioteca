@@ -9484,5 +9484,19 @@
   "Gigandet (linha 602)": "Dimensionada em 10/11/2026 como GRANDE: Gigandet suíça vintage (cronógrafos Wakmann/Gigandet, Valjoux 7733/7734, Datic) + Gigandet alemã moderna de Amazon/Galaxus com centenas de anúncios (Minimalism, Red Timeless, Sea Ground etc.). Fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T08:43:33Z",
+ "ultimo_sinal": "2026-11-10T08:43:33Z",
+ "em_andamento": {
+  "marcas": [
+   "Giorgio Piola"
+  ],
+  "linha_marcas": 603,
+  "grande": false,
+  "relogios": "historico/parcial_Giorgio Piola_relogios.txt",
+  "fontes": "historico/parcial_Giorgio Piola_fontes.txt",
+  "notas": "historico/notas_Giorgio Piola.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
