@@ -1,0 +1,936 @@
+{
+ "marca": "Glam Rock",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – glamrockwatches.com não aparece em busca nenhuma (site antigo, provavelmente fora do ar); gevrilgroup.com redireciona para gevril.com; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.galaxus.de/en/s8/producttype/toplist/brand/wristwatches-163/glam-rock-136847",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32039-44-mm-44-mm-wristwatches-45354605",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/glam-rock-gr77129n",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/glam-rock-gr-009-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/glam-rock-sobe-tachymeter-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/news/1002706904-glam-rock-in-miami.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://poshmark.com/brand/Glam%20Rock",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.desertcart.nl/products/14112578",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jckonline.com/?p=32434",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32153p-44-mm-44-mm-wristwatches-58075785",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32000-44-mm-44-mm-wristwatches-45353408",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32118-44-mm-44-mm-wristwatches-45353170",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32107-44-mm-44-mm-wristwatches-45323564",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr77127-40-mm-40-mm-wristwatches-45354840",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr77005-40-mm-40-mm-wristwatches-45354953",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-mens-watch-gr33003-50-mm-50-mm-wristwatches-45323077",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32050bp-44-mm-44-mm-wristwatches-45354591",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr62019-46-mm-46-mm-wristwatches-45354065",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr50112-42-mm-42-mm-wristwatches-45353648",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr77123-40-mm-40-mm-wristwatches-45354838",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32080-44-mm-44-mm-wristwatches-45353697",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32050-44-mm-44-mm-wristwatches-45323242",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr62109-46-mm-46-mm-wristwatches-45353141",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32083-44-mm-44-mm-wristwatches-45353380",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr10048-46-mm-46-mm-wristwatches-45354296",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr30103-46-mm-46-mm-wristwatches-58074707",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32062d-44-mm-44-mm-wristwatches-45354612",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32159-44-mm-44-mm-wristwatches-45323325",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr10143-46-mm-46-mm-wristwatches-45323326",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/glam-rock-ladies-watch-gr32166nc-44-mm-44-mm-wristwatches-45354567",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/glam-rock-ladies-watch-gr61112-46-mm-46-mm-wristwatches-43028642",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32154-44-mm-44-mm-wristwatches-45323562",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32153-44-mm-44-mm-wristwatches-43029408",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32040-44-mm-44-mm-wristwatches-45323296",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr31007d-40-mm-40-mm-wristwatches-45354124",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr10022-46-mm-46-mm-wristwatches-58087739",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32055-44-mm-44-mm-wristwatches-45354008",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr10050-46-mm-46-mm-wristwatches-45354620",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32049d-44-mm-44-mm-wristwatches-45354613",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr64002-40-mm-40-mm-wristwatches-43029322",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr50102-42-mm-42-mm-wristwatches-45353173",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32041-44-mm-44-mm-wristwatches-45322842",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32024-44-mm-44-mm-wristwatches-45353613",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32112-44-mm-44-mm-wristwatches-45323240",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-unisex-watch-gr62116-46-mm-46-mm-wristwatches-45322841",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr62108-46-mm-46-mm-wristwatches-45353217",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/glam-rock-mens-watch-gr32183-44-mm-44-mm-wristwatches-45354005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-unisex-watch-gr50110-42-mm-42-mm-wristwatches-45353184",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/glam-rock-ladies-watch-gr32116-44-mm-44-mm-wristwatches-45354579",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/glam-rock-ladies-watch-gr31112-40-mm-40-mm-wristwatches-45323554",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/glam-rock-ladies-watch-gr32018-bb-44-mm-44-mm-wristwatches-45353702",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32105-44-mm-44-mm-wristwatches-45354944",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32199d-44-mm-44-mm-wristwatches-45354769",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.fr/en/s8/product/glam-rock-ladies-watch-gr62020-46-mm-46-mm-wristwatches-43029385",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/glam-rock-ladies-watch-gr10101w-46-mm-46-mm-wristwatches-45354598",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/glam-rock-gr-079-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/glam-rock-gr-022-22ds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/products/glam-rock-gr-070-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-ca/products/glam-rock-gr-008-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/glam-rock-gr-005-22.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Around_The_Time_Womens_Watch_GR-060-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Around_The_Time_Womens_Watch_GR-062-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Around_The_Time_Womens_Watch_GR-059-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Around_The_Time_Womens_Watch_GR-061-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Around_The_Time_Womens_Watch_GR-063-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Ball_Harbour_Womens_Watch_GR-028-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Ball_Harbour_Womens_Watch_GR-033-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Miami_Womens_Watch_GR-014-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Miami_Womens_Watch_GR-001-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/polished-stainless-steel-rectangle-watch-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.qvc.com/glam-rock-mens-conta-tempo-rosetone-black-s-trp-watch.product.J431515.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Miami_Womens_Watch_GR-018-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Miami_Womens_Watch_GR-016-22W",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-womens-miami-beach-watch-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://skroutz.eu/s/28294351/Glam-Rock-Watch-with-Black-Rubber-Strap-GR62020.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greentoe.com/product/Glam_Rock_Miami_Womens_Watch_GR-004-23",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/211518732",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32038-44-mm-44-mm-wristwatches-58075356",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-womens-miami-beach-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-womens-miami-beach-watch-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-womens-miami-beach-watch-6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-8",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/white-mother-of-pearl-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/stainless-steel-round-watch-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/black-ion-plated-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/knotted-tonneau-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://woot.com/offers/rose-gold-tone-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://woot.com/offers/white-round-rubber-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://woot.com/offers/gold-ion-plated-rectangle-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/polished-stainless-steel-rectangle-watch-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/polished-stainless-steel-tonneau-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/gold-ion-plated-octagon-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-6",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/glam-rock-miami-beach-art-deco-10",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://woot.com/offers/gold-stainless-steel-rectangle-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-na/products/glam-rock-gr50009f",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://woot.com/offers/gold-ion-plated-round-watch-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ashford.com/en-fi/products/glam-rock-gr77054",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-ec/products/glam-rock-gr-048-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/116015055148",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://theluxurycloset.com/men/glam-rock-miami-collection-chronograph-diamond-unisex-wristwatch-44mm-p30511",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/116527628580",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://modesens.uk/product/glam-rock-women-around-the-time-40mm-quartz-watch-silver-71063112/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1819814843",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/9045806665",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1537104086",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr32018-44-mm-44-mm-wristwatches-45353393",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.co/products/50215725",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/watches/article/amy-winehouse-and-the-glam-rock-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1003598924-glam-rock-watches-set-to-hit-u-s-market.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.co.th/products/65056797",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.co/products/65056790",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebth.com/items/11480539-glam-rock-miami-chronograph-python-skin-and-stainless-steel-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/9423727-glam-rock-miami-chronograph-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://prnewswire.com/news-releases/imaginative-and-interchangeable-glam-rock-watches-join-gevril-groups-impressive-array-of-brands-275108001.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/glam-rock/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003650428-distributing-agreement-between-glam-rock-and.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mylifeonandofftheguestlist.com/2011/12/20/glam-rock-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://philstar.com/lifestyle/for-men/2011/07/13/705196/glam-rock-around-clock",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.philstar.com/lifestyle/ystyle/2009/05/22/469787/get-your-rocks-off",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://300magazine.com/?p=8193",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.philstar.com/lifestyle/supreme/2009/05/09/465340/will-you-give-your-mama-why-mix-when-you-can-match",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jewellermagazine.com/Article/1870/Glam-Rock-watches-to-get-local-release",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://skroutz.eu/s/28294427/Glam-Rock-Roloi-me-Kaoutsouk-Louraki-se-Leyko-chroma-GR64004.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr61114-46-mm-46-mm-wristwatches-43028752",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/glam-rock-ladies-watch-gr32174d-46-mm-46-mm-wristwatches-45354606",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://technowatchesbg.blogspot.com/2013/04/glam-rock-women-gr10512-blk-miami.html",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://watchesmarketingzz.blogspot.com/2011/12/glam-rock-womens-gr10172d1.html",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://womenwatchdiscountandreviewzzz0452.blogspot.com/2013/03/compare-price-glam-rock-womens-gr50137.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesforwomendiscountzzz0351.blogspot.com/2013/03/budget-glam-rock-womens-gr1005b-miami.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ladiescasualwatchessell.blogspot.com/2011/02/glam-rock-women-gr10514-smalto.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreviewandonsaleszzz008.blogspot.com/2013/02/compare-glam-rock-womens-grd11700bv.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://luxurywatches23.blogspot.com/2013/03/cheap-glam-rock-womens-gr70109d1.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://technowatchesbg.blogspot.com/2013/04/glam-rock-women-grd10108ts-miami.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gr32116rockglamchronographtextured.blogspot.com/2012/05/glam-rock-womens-gr32116-sobe.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://goldwatchdiscount.blogspot.com/2011/07/glam-rock-women-gr32055-sobe-white-dial.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://womenwatchdiscountandreviewzzz0456.blogspot.com/2013/03/compare-glam-rock-womens-gr32156-sobe.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://menswatchbrands.blogspot.com/2010/11/mens-watch-brands_17.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesreviewonsalezzz006.blogspot.com/2013/02/inexpensive-glam-rock-mens-gr90124.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://luxurywatches29.blogspot.com/2013/03/bargain-glam-rock-womens-gr70101.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://luxury-watches21.blogspot.com/2013/03/great-buy-glam-rock-womens-gr10504.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ladiescasualwatchessell.blogspot.com/2011/06/glam-rock-women-gr10501-smalto.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://whiteceramicwatcheswo.blogspot.com/2013/04/glam-rock-women-gr50104-aqua-rock.html",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/glam-rock-ladies-watch-gr10101bl-46-mm-46-mm-wristwatches-45354608",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesreviewonsalezzz007.blogspot.com/2013/02/inexpensive-glam-rock-womens-gr10158d1.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://luxurywatches23.blogspot.com/2013/03/compare-price-glam-rock-womens-gr10192.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://luxurywatches26.blogspot.com/2013/03/inexpensive-glam-rock-womens-gr10195.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchreviewandonsaleszzz019.blogspot.com/2013/02/compare-glam-rock-womens-grd10700bv.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchreviewandonsaleszzz010.blogspot.com/2013/02/buy-glam-rock-unisex-gr11129-miami.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchreviewzzz034.blogspot.com/2013/02/purchase-glam-rock-womens-gk1137-bgd.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://technowatchesbg.blogspot.com/2013/04/glam-rock-women-grd10108tg-miami.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://views97rpr5u.blogspot.com/2012/04/glam-rock-women-gr10192-miami.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://luxurywatches1.blogspot.com/2013/02/compare-glam-rock-womens-gr80008.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchreviewandonsaleszzz010.blogspot.com/2013/02/cheap-glam-rock-womens-gr40025-palm.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1003821140.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://thewatchery.blogspot.com/2011/08",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://luxurywatches26.blogspot.com/2013/03/bargain-glam-rock-womens-gr10061-miami.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://hotwomenfashiondeals.blogspot.com/2011/09/glam-rock-womens-gr10501-smalto.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jckonline.com/?p=29911",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jewellermagazine.com/Article/1870/ArticleImageGallery.aspx?id=1870",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/363781576232",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/itm/125045271945",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-se/products/glam-rock-mbd27134",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-rs/products/glam-rock-mbd27152",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-tc/products/glam-rock-mbd27042",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ashford.com/en-kn/products/glam-rock-mbd27029",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://moodiedavittreport.com/?p=363273",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dealmoon.com/en/product/-glam-rock-miami-womens-watch-sku-gr-001-22-upc-810131240721/6925810",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://modesens.es/product/glam-rock-gr70106-gulfstream-chronograph-black-dial-black-silicone-watch-51075707/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.vn/products/11810762",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/c/kp/rock-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176048568970",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/306529565189",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/264401304330",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/372683404814",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/256497391978",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/125841285122",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Corrigido: I – fundação 2004 → 2005 (Europa Star, JCK, Philstar, PRNewswire), fundadores Margaritelli e Maujean, sistema Just Click, Gevril Group desde 2014 e linha 2022; trecho \"automáticos\" trocado por quartzo (não achei automático); aviso sobre Sellita substituído. J – acrescentados Miami, Bal Harbour, Aqua Rock, Gulfstream. Ainda a verificar: G vazio – o site antigo era glamrockwatches.com (JCK 2007, Philstar 2011), não aparece mais em buscas; hoje a marca é vendida pela Gevril Group/Ashford. H @glamrockwatches não conferido. \"Lady SoBe\" não encontrado nas fontes. Matéria da Moodie Davitt cita sede Glam Rock International FZCO em Dubai (B/C mantidos: USA/Miami).",
+ "correcoes": {
+  "I": "A Glam Rock foi fundada em 2005 em Miami por Enrico Margaritelli e Isabelle Maujean, casal de ex-executivos da Fossil, capturando o espírito colorido, glamuroso e festivo de Miami Beach. A marca tornou-se popular nos anos 2000 por relógios de forte apelo fashion, com cores vibrantes, pulseiras de silicone intercambiáveis e cristais, muito usados por celebridades da época.\n\nOs relógios Glam Rock combinam essa estética statement com construção Swiss Made (movimentos suíços de quartzo, como os Ronda) e o sistema patenteado \"Just Click\", que permite trocar capas de caixa, lunetas e pulseiras, oferecendo peças chamativas e customizáveis a preços acessíveis dentro do segmento fashion-luxo. As coleções Miami Beach, SoBe (South Beach) e Lady SoBe definiram a identidade colorida e jovem da marca; vieram depois Miami, Palm Beach, Aqua Rock, Gulfstream, Bal Harbour e Miami Beach Art Deco. Desde 2014 a Gevril Group representa a marca nos EUA, no Canadá e no Caribe; a linha lançada em 2022 (referências GR-0xx-22) usa quartzo japonês Miyota ou suíço Ronda.\n\n[⚠️ verificar: site oficial atual (o antigo era glamrockwatches.com)]",
+  "J": "Miami Beach, SoBe, Lady SoBe, Palm Beach, Miami, Bal Harbour, Aqua Rock, Gulfstream"
+ }
+}

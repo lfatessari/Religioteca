@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 606,
- "ultima_versao": 532,
+ "proxima_linha_marcas": 607,
+ "ultima_versao": 533,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9495,6 +9495,33 @@
     ]
    },
    "obs": "Base: catálogo oficial 2024 (56 refs), loja oficial, Exquisite Timepieces (inclusive páginas antigas escondidas .html), aBlogtoWatch, Europa Star, Monochrome. Coleções: Manometro (polido/escovado/Soleil/Bronze/Compressed/H10/Chrono/S/Titanium/Camouflage/Italia/edições), Contagiri, Trasmissione Meccanica, Carrara, Cemento, Michelangelo, Manometrino. EveryWatch atrás de login. Corrigidos I e J. Glam Rock (606) é grande: próxima execução só com ela; Glashütte Original (607) também grande."
+  },
+  {
+   "marca": "Glam Rock",
+   "data": "2026-11-10",
+   "linha_marcas": 606,
+   "linhas_relogios": "92447-92632",
+   "relogios": 186,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "glamrockwatches.com não aparece em busca (site antigo)",
+   "fontes": 184,
+   "versao": 533,
+   "passadas": {
+    "1": [
+     131,
+     115
+    ],
+    "2": [
+     36,
+     53
+    ],
+    "3": [
+     17,
+     8
+    ]
+   },
+   "obs": "Sem site oficial ativo; base: Galaxus/Digitec (~50 refs GR3xxxx/GR6xxxx/GR10xxx com foto), Ashford (GR-0xx-22 e MBD, foto _F.jpg), Greentoe, Woot (linha barata Miami Beach Art Deco MBD/MDB), blogs-espelho da Amazon 2011-2013 (Smalto, Aqua Rock, Gulfstream, Palm Beach, Special Edition, Monogram), eBay, imprensa (Europa Star, JCK, aBlogtoWatch, Philstar). Firecrawl sem créditos. Corrigidos I e J. Glashütte Original (607) é grande: próxima execução só com ela."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

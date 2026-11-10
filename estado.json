@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 606,
- "ultima_versao": 532,
+ "proxima_linha_marcas": 607,
+ "ultima_versao": 533,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9495,6 +9495,33 @@
     ]
    },
    "obs": "Base: catálogo oficial 2024 (56 refs), loja oficial, Exquisite Timepieces (inclusive páginas antigas escondidas .html), aBlogtoWatch, Europa Star, Monochrome. Coleções: Manometro (polido/escovado/Soleil/Bronze/Compressed/H10/Chrono/S/Titanium/Camouflage/Italia/edições), Contagiri, Trasmissione Meccanica, Carrara, Cemento, Michelangelo, Manometrino. EveryWatch atrás de login. Corrigidos I e J. Glam Rock (606) é grande: próxima execução só com ela; Glashütte Original (607) também grande."
+  },
+  {
+   "marca": "Glam Rock",
+   "data": "2026-11-10",
+   "linha_marcas": 606,
+   "linhas_relogios": "92447-92632",
+   "relogios": 186,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "glamrockwatches.com não aparece em busca (site antigo)",
+   "fontes": 184,
+   "versao": 533,
+   "passadas": {
+    "1": [
+     131,
+     115
+    ],
+    "2": [
+     36,
+     53
+    ],
+    "3": [
+     17,
+     8
+    ]
+   },
+   "obs": "Sem site oficial ativo; base: Galaxus/Digitec (~50 refs GR3xxxx/GR6xxxx/GR10xxx com foto), Ashford (GR-0xx-22 e MBD, foto _F.jpg), Greentoe, Woot (linha barata Miami Beach Art Deco MBD/MDB), blogs-espelho da Amazon 2011-2013 (Smalto, Aqua Rock, Gulfstream, Palm Beach, Special Edition, Monogram), eBay, imprensa (Europa Star, JCK, aBlogtoWatch, Philstar). Firecrawl sem créditos. Corrigidos I e J. Glashütte Original (607) é grande: próxima execução só com ela."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9550,30 +9577,5 @@
   "Girard Perregaux (linha 604)": "Gravada em 10/11/2026 (v531), 842 relógios (91510-92351), vermelha. Só ~105 linhas com foto; o resto tem link da página (Essential Watches allwatches, WatchBase, índices CollectorSquare). Complemento futuro com Firecrawl: catálogo oficial girard-perregaux.com/en-ch/watches (JavaScript; fotos em api.girard-perregaux.com/media/catalog/product/... com hash), páginas 2-4 de Bucherer/Ethos, WatchBase laureato (client_error), EveryWatch (login), Chrono24; famílias da Essential Watches com fotos (Vintage-45, Richeville, World-Time, Sea-Hawk, Ferrari, Cat-s-Eye); vintage pré-1990 (Gyromatic, Gyrochron, Olimpico, Mercedes, quartzo 1970, relógios de bolso do século XIX); variações de pedras e cores dos Cat's Eye e 1966 Lady."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-10T11:41:25Z",
- "ultimo_sinal": "2026-11-10T12:00:52Z",
- "em_andamento": {
-  "marcas": [
-   "Glam Rock"
-  ],
-  "linha_marcas": 606,
-  "grande": true,
-  "relogios": "historico/parcial_GlamRock_relogios.txt",
-  "fontes": "historico/parcial_GlamRock_fontes.txt",
-  "notas": "historico/notas_GlamRock.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a-passada",
-   "3a-passada"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
