@@ -1,0 +1,616 @@
+{
+ "marca": "Georg Jensen",
+ "usa_codigos": true,
+ "logo": "https://www.georgjensen.com/on/demandware.static/-/Sites-GeorgJensen_GB-Library/default/dw8fb3d6f7/gj-logo-white.png",
+ "site_bloqueado": "Parcial – georgjensen.com: as listas de relógios não aparecem na leitura automática (só 5 Torun à venda; fotos com código variável) e páginas internas pedem permissão; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://issuu.com/georgjensen1904/docs/gj_watch-product_book_final",
+   "passada": 1,
+   "novos": 61
+  },
+  {
+   "url": "https://www.georgjensen.com/en-au/watches/womens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.georgjensen.com/zh-tw/watches/koppel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://georgjensen.com/en-gb/watches/wrist-watches/koppel---41-mm-quartz-black-dial-black-leather-strap/10019774.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/georg-jensen-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/premium-georg-jensen-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/georg-jensen-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.issuu.com/georgjensen/docs/georg_jensen_watches_catalogue_2013",
+   "passada": 1,
+   "novos": 43
+  },
+  {
+   "url": "https://www.kaplans.se/en/butiken/varor/watches/georg_jensen",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/georg-jensen/jewelry/watches/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.georgjensen.com/en-au/watches/quartz-watches/torun-bangle-watch---mirror-dial/3575625_0.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.georgjensen.com/en-au/watches/quartz-watches/torun---27mm-%2F-1.06in-quartz-mirror-dial-diamond-bezel/3575620_0.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.georgjensen.com/en-au/watches/quartz-watches/torun---34mm-%2F-1.34in-quartz-mirror-dial-diamond-bezel/3575635_0.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.georgjensen.com/en-au/watches/quartz-watches/torun-bangle-watch-hidden-heart/10020531_0.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.georgjensen.com/en-au/watches/quartz-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.georgjensen.com/en-au/watches/for-him",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://georgjensen.com/en-gb/watches/wrist-watches/koppel---38mm-%2F-1.5in-quartz-white-dial-steel-bracelet/10019773.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://georgjensen.com/en-gb/watches/wrist-watches/koppel---32mm-quartz-white-dial-black-leather-strap/10019584.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.georgjensen.com/en-gb/koppel---38-mm-quartz-black-dial-black-leather-strap/3575708.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.georgjensen.com/en-us/watches/wrist-watches/koppel---32mm-quartz-white-dial-bracelet/10019770.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://georgjensen.com/en-au/watches/quartz-watches/koppel---41mm-/-1.61in-chronograph-dial-bracelet/10019776.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.georgjensen.com/en-gb/watches/wrist-watches/koppel-wrist-watch---quartz-stainless-steel-black-calfskin/10019586.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://georgjensen.com/en-nz/watches/quartz-watches/koppel-wrist-watch---quartz-chronograph--black-calfskin/10019587.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/georg-jensen-release-2025.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/georg-jensen-watches/subcat-eve.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/georg-jensen-watches/subcat-vivianna",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/products/georg-jensen-watch-vivianna-34mm-quartz-3575655-gjn-224.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/georg-jensen-watch-koppel-3575557-gjn-128.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/georg-jensen-concave-315-3575278-watch-gjn-002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/georg-jensen-watch-koppel-3575543-gjn-114.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/georg-jensen-watch-koppel-3575541-gjn-116.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/pages/georg-jensen-watches-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/pages/about-georg-jensen-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/georg-jensen-introduces-3-new-koppel-models-at-baselworld",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/georg-jensen/watch-32768860",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/georg-jensen/watch-32713711",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/georg-jensen/watch-31023592",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/georg-jensen/watch-13469373",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/georg-jensen/watch-16831429",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/georg-jensen/vivianna/watch-9379794",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://georgjensen.com/en-gb/watches/chronograph-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://silvergroup.dk/index.php/georg-jensen-41mm-automatic-watch-henning-koppel-k392.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wallpaper.com/watches-and-jewellery/georg-jensen-reworks-classic-koppel-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lauritz.com/en/auction/henning-koppel-for-georg-jensen.-men's-watch-model-'koppel'-in-steel-with-green-dial/6521879",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lauritz.com/en/auction/henning-koppel-for-georg-jensen.-men's-watch-model-'koppel'-in-steel-with-blue-dial/6521881",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/georg-jensen-watch-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/georg-jensen-watch-silver",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/georg-jensen-gold-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/georg-jensen-wristwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/georg-jensen-torun-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/origin/danish",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://silvergroup.dk/index.php/georg-jensen-ladies-27mm-watch-vivianna-336-hammered-silver-dial-limited-edition.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://silvergroup.dk/index.php/georg-jensen-lady-watch-424-with-diamonds-and-white-mother-of-pearl-dial.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://silvergroup.dk/index.php/georg-jensen-ladies-watch-378-nanna-ditzel.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://professionalwatches.com/georg-jensen-koppel-925-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/georg-jensen-ladys-sterling-silver-bracelet-wristwatch-ref-2376/id-j_211816",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/georg-jensen-denmark-sterling-silver-watch-designed-lene-munth/id-j_11808262",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/original-georg-jensen-watch-thorup-bonderup/id-v_4809483",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono.dk/en/produkter/ure/georg-jensen/georg-jensen-koppel-grande-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://scandinavia-design.fr/shop/en/watches/42140-41mm-black-dial-koppel-chrono-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/georg-jensen-delta-classic-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono.dk/en/produkter/solgte-ure/georg-jensen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Georg-Jensen-Armbanduhren-fur-Damen/31387/bn_7116801273",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gallery925.com/store/georg-jensen-sterling-siver-watch-by-ole-kortzau-no-359",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hn.ebay.com/b/Georg-Jensen-Wristwatches/31387/bn_2959110",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.lauritz.com/en/auction/henning-koppel-for-georg-jensen-clock-jewelery-pocket-watch-design-no-319/6508001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.ca/b/Georg-Jensen-Wristwatches/bn_2959110",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://georgjensen.com/en-gb/watches/wrist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lauritz.com/en/auction/bo-bonfils-for-georg-jensen-triple-calendar-moonphase/6533254",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lauritz.com/en/auction/edvard-kindt-larsen-for-georg-jensen.-women's-wristwatch-in-steel/6501642",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lauritz.com/en/auction/thorup-og-bonderup-for-georg-jensen-ladies-wristwatch-in-steel/6584204",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lauritz.com/en/auction/torun-bulow-hube-for-georg-jensen.-steel-hoop-watch/6497115",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lauritz.com/en/auction/georg-jensen-mens-wristwatch-triple-calendar-moonphase/6533326",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bukowskis.com/en/lots/1548745-georg-jensen-designad-av-henning-koppel-armbandsur-kronograf-38-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bukowskis.com/fi/lots/1552251-georg-jensen-l-u-chopard-cie-design-torun-bulow-armbandsur-33-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bukowskis.com/en/auctions/E198/lots/950002-georg-jensen-design-allan-scharff-wristwatch-30-x-32-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bukowskis.com/en/lots/1664263-georg-jensen-vice-design-barth-nussbaumer-wristwatch-40-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bukowskis.com/en/lots/1058725-georg-jensen-armbandsur-vivianna-oval-design-vivianna-torun-bulow-hube-32x24-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bukowskis.com/en/lots/1522592-georg-jensen-design-av-bo-bonfils-armbandsur-34-5-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bukowskis.com/en/lots/1317438-georg-jensen-thorup-bonderup-2737-armbandsur-35-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bukowskis.com/en/auctions/E198/lots/949993-georg-jensen-vivianna-oval-large-armbandsur-40-7-x-35-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1004089345-denmark-s-jack-of-all-trades-georg-jensen.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bukowskis.com/en/lots/1500062-georg-jensen-design-nanna-ditzel-armbandsur-22-5-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bukowskis.com/en/lots/914009-georg-jensen-georg-jensen-design-henning-koppel-wrist-watch-38-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bukowskis.com:443/en/lots/1335929-georg-jensen-design-henning-koppel-wristwatch-32-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thejewelleryroom.com/designers/georg-jensen/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://peterjackson.co.uk/brands/georg-jensen/all-products",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mcstaging.weirandsons.ie/brands/georg-jensen/georg-jensen-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=64751",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thegentlemansjournal.com//article/watchout-georg-jensen-delta-dive/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.connox.com/georg-jensen/georg-jensen-koppel-collection.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wallpaper.com/watches-and-jewellery/georg-jensen-torun-anniversary-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fecarotta.com/en/?p=10545",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/georg-jensen-watches-and-wonders",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/georg-jensen-release-2025",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.afpbb.com/articles/-/2236616",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thejewelleryroom.com/products/vivianna-steel-montre-w-diamants-0-214-ct",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.graysantiques.com/dealer/grasilver/jewellery/watches-timepieces",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jensensilver.com/biography-ole-kortzau",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-248-209",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gearculture.com/goods/georg-jensen-koppel-517-black-edition",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=3562",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://professionalwatches.com/?p=849",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.revolution.watch/silver-lining/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://castafiore.com/collections/georg-jensen.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gregpepinsilver.com/product/georg-jensen-vivianna-torun-watch-34-mm-design-326/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.georgjensen.com/en-gb/watches/bangle-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/ja/l/105139941-georg-jensen-koppel-no-reserve-price-men-2020",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hancocksjewellers.co.uk/?p=45870",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bankslyon.co.uk/?p=17757",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://commit-watch.co.jp/en/products/kx5yyf1v",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/georg-jensen-ladies-watch-no-377-continuity-diamonds/id-j_10358752/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/pocket-watches/georg-jensen-sterling-silver-pocket-watch-table-watch-no-355/id-j_3515633",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/11697.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/lene-munthe-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/georg-jensen-stainless-steel-oval-wristwatch/id-j_105681",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Georg-Jensen-Wristwatches/31387/bn_2959110",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.graysantiques.com/product/georg-jensen-watch-359-ole-kortzau-blue-mother-of-pearl-sterling-silver-mark-constable-unit-301",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/george-jensen-stainless-steel-wristwatch/id-j_71419/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.incollect.com/listings/jewelry/watches/vivianna-torun-b-low-h-be-vivianna-torun-b-low-h-be-diamond-stainless-steel-watch-182691",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Georg Jensen foi fundada em 1904 pelo ourives e escultor Georg Jensen em Copenhague, tornando-se uma das mais icônicas casas de design escandinavo do mundo — célebre por sua prataria, joalheria e objetos de design que definem o modernismo dinamarquês, com linhas orgânicas, elegantes e atemporais.\n\nO primeiro relógio da casa foi o bracelete Vivianna, desenhado por Vivianna Torun Bülow-Hübe (design de 1969, com os primeiros movimentos feitos pela Chopard); o Koppel, de Henning Koppel, veio em 1978. Os relógios Georg Jensen levam ao pulso esse DNA de design puro: peças minimalistas e escultóricas, muitas assinadas por designers lendários que colaboraram com a casa, como Henning Koppel — cujo relógio de mostrador assimétrico e limpo tornou-se um clássico do design. A marca aposta na beleza formal, na simplicidade e na integração entre relógio e joia, com movimentos quartzo e automáticos, mais focada em design do que em complicação. Reflete a máxima escandinava de que a forma e a função devem ser inseparáveis.\n\nHoje os relógios Georg Jensen ocupam o segmento de design de luxo escandinavo, dirigindo-se a quem valoriza a estética dinamarquesa atemporal e o pedigree de uma das maiores casas de design do mundo. Mais que precisão, entregam design como arte. [⚠️ verificar dados atuais]",
+  "J": "Vivianna/Torun (relógio-bracelete), Koppel, Concave, Delta Classic e Delta Dive, Vice"
+ },
+ "observacoes": "Corrigido: J 'Koppel, Vivianna, Delphis, Reflect' → 'Vivianna/Torun, Koppel, Concave, Delta, Vice' (Delphis não foi achado como relógio e Reflect é linha de joias; coleções conferidas nos catálogos oficiais 2013 e 2014/15); I: acrescentado o 1º relógio (Vivianna, 1969) e o Koppel (1978), conforme o site oficial. Ainda a verificar: I diz que o Koppel tem 'mostrador assimétrico' (as fontes descrevem caixa orgânica e mostrador de pontos); H @georgjensen não conferido; hoje o site oficial vende só 5 relógios Torun (Vivianna foi rebatizada Torun)."
+}

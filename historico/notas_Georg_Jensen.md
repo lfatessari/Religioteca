@@ -14,3 +14,12 @@ Códigos: refs de 7 dígitos 35xxxxx (ex.: Koppel 319 3575009; Concave Nordic Ni
 - J da aba Marcas: Delphis e Reflect não são linhas de relógio (Reflect = joias). 
 - 2ª passada: Jura site: com novos termos, eBay/Japão (Yahoo, Mercari), designers vintage, §3 extras.
 - 2ª passada: 13 fontes, 5 relógios novos (AFPBB pendant 2006, Gray's 1326/1327, Koppel 517 Black Edition LE50, Koppel denim). Encerrada (3 sem novidade). ≥5 → 3ª passada.
+- 3ª passada: 14 fontes, 4 novos (377 Continuity, 355 Lene Munth, Koppel Chrono Pedro 3515-353, Mikkelsen 368). <5 → parar.
+## 10b auto-auditoria
+1. Site oficial: só 5 Torun à venda; Koppel esgotados abertos por busca; sem blog de relógios. Imprensa: Basel 2007 (AFPBB), 2013 Koppel 925, 2015 Basel 3 Koppel, Delta Dive 2014 lidos.
+2. site:georgjensen.com e site:jurawatches.co.uk com vários termos até repetir.
+3. Jura, Whamond, CW Sellors, Silvergroup, 1stDibs, eBay (3 países), Lauritz, Bukowskis.
+4. Primeiro modelo: Vivianna bangle 1969 (Chopard) — 227/226/8005-1/8006 1.
+5. J: Koppel e Vivianna achados; Delphis e Reflect não são relógios (Reflect = joias).
+6. LEs: Koppel 925 (20), 517 Black Edition (50), Delta Chrono LE (tiragem ?), Vivianna Hammered LE. Sem peças únicas.
+7. 1ª 93 fontes, 2ª 13, 3ª 14.
