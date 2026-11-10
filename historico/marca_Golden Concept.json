@@ -1,0 +1,576 @@
+{
+ "marca": "Golden Concept",
+ "usa_codigos": true,
+ "logo": "https://thegadgetflow.com/wp-content/uploads/2021/06/Golden-Concept-Brands-logo-96x96.jpg",
+ "site_bloqueado": "Parcial – goldenconcept.com (blog /blogs/news, /pages/press e coleção Miami pediram permissão; páginas antigas de produto dão erro; products.json não lido – Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://goldenconcept.com/products/apple-watch-case-rstiii49-eclipse",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://goldenconcept.com/collections/apple-watch-cases-49-mm",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://goldenconcept.com/collections/45-mm",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://goldenconcept.com/collections/41-mm",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://goldenconcept.com/collections/apple-watch-cases-46-mm",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://goldenconcept.com/collections/royal-collection-automatic-watch-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/collections/royal-evening-automatic-watch-collection",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://goldenconcept.com/collections/royal-sport-automatic-watch-collection",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://goldenconcept.com/products/automatic-watch-evsw200-sunburst-flare",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://goldenconcept.com/collections/spii-41mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://goldenconcept.com/collections/royal",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/collections/rstmdiii49-1",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://goldenconcept.com/collections/golden-concept-black-friday-2026-watch-cases",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://goldenconcept.com/collections/black-friday-45mm-watch-cases-50-off",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/collections/black-friday-41mm-watch-cases",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaeruleon.jp/en/collections/golden-concept",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wearables.in/products/apple-watch-case-rsc-albino-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/golden-concept/apple-watch-case-44mm-black-jet-black-rubber",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/collections/golden-concept-black-friday-2026-watch-cases?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/tag/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/search",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/latest_news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/pressreleases/unveiling-the-maroon-edition-collection-3419830",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/pressreleases/a-new-mechanical-watch-line-is-unveiled-3420547",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/news/golden-concept-introduces-a-wrist-case-accessory-compatible-with-the-royal-pop-pocket-watch-509334",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/pressreleases/racing-sport-redefined-3436900",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/pressreleases/golden-concept-releases-the-crown-collection-our-most-advanced-apple-watch-case-3342298",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/pressreleases/golden-concept-launches-the-worlds-most-expensive-apple-watch-case-3343280",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mynewsdesk.com/se/golden-concept/pressreleases/golden-concept-x-mansory-introducing-a-new-era-of-luxury-with-apple-watch-ultra-3-cases-3341601",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/14190/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/20226",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/19968",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/23928",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/tag/golden-concept/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/22045",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/26883",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/25842/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/27888/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/45842/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/45985/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/tag/golden-concept/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/24273/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/50707",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/?p=19284",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ablogtowatch.com/love-your-apple-watch-but-not-its-shape-golden-concept-is-on-the-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/blingy-apple-watch-ultra-case-review-golden-concept-racing-sport-edition-rstiii49-amber-rose-with-moissanites",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/golden-concept-apple-watch-series-7-case/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.appbank.net/2020/11/17/iphone-application/1994710.php",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://thegadgetflow.com/portfolio/golden-concept-ev44-apple-watch-case-has-steel-chain-bracelet-color-options/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/golden-concept/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/205721463181",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.virginmegastore.ae/en/p/268820",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gizmodo.jp/article/golden-concept-apple-watch-case-hands-on/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.buyma.com/item/129609713/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.trendhunter.com/trends/golden-concept-rsc44",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://blvck.com/products/blvck-x-golden-concept-apple-watch-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.inverse.com/input/style/the-worlds-most-expensive-apple-watch-case-is-covered-in-over-400-diamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.yankodesign.com/2023/02/15/apple-watch-ultra-case-with-transparent-crystal-design-turns-your-smartwatch-into-a-stunning-jewel/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.techradar.com/health-fitness/smartwatches/this-apple-watch-series-10-case-costs-more-than-an-ultra-and-makes-it-look-like-a-luxury-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/products/automatic-gc-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://goldenconcept.com/products/apple-watch-case-rstiii45-diablo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/products/automatic-watch-crystals",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156668915670",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/236160522422",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tbreak.com/golden-concept-crown-sport-carbon-apple-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://therealluxury.com/men/watches-and-jewellery/golden-concept-apple-watch-case/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.highsnobiety.com/p/apple-watch-case-golden-concepts",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://vmagazine.com/?p=231912",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thegadgetflow.com/portfolio/golden-concepts-sp44-apple-watch-case-has-stainless-steel-design/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/46915/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wearables.in/products/apple-watch-case-sp-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wearables.in/products/apple-watch-case-ev-rose-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wearables.in/products/apple-watch-case-rst-oyama-titan",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wearables.in/products/apple-watch-case-rsc-onyx-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gizmodo.jp/2020/11/golden-concept-apple-watch-case.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uncrate.com/golden-concept-rsc-apple-watch-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashion-headline.com/article/107573",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.trendhunter.com/trends/golden-concept.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mansory.com/news/exclusive-range-watch-cases-apple-watch-series-7",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/tag/collaborations",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/pressreleases/golden-concept-x-blvck-a-fusion-of-swedish-luxury-and-parisian-elegance-3358890",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mynewsdesk.com/se/golden-concept/pressreleases/press-release-golden-concept-x-blvck-a-fusion-of-swedish-luxury-and-parisian-elegance-3329054",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mansory.com/presszone/rs-mansory-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://old.mansory.com/signature-products/mansory-apple-watch-ultra-3-cases",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/39456",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gizmodo.jp/2024/02/golden-concept-apple-watch-case-2.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/39834",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/42057",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/45041",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/35786/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/18802",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1557844.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/29058/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/30428",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/29666",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/38252",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/29298",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/33513",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/38632",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/33069",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://iphone-mania.jp/news-433607/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.buyma.com/item/92554385/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/37323",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/53549/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/27332/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartwatchlife.jp/31458/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/products/apple-watch-case-racing-sport-49-diamond",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/products/apple-watch-case-crs46-carbon-edition",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/products/apple-watch-case-rstiii46-miami-edition",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/collections/miami-edition",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/products/apple-watch-case-rstiii49-black-phantom",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://goldenconcept.com/products/apple-watch-case-46mm-crown-classic-sport-blue",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Golden Concept foi fundada em 2015 em Estocolmo, na Suécia, ganhando notoriedade mundial ao criar caixas e carcaças de luxo para o Apple Watch — transformando o smartwatch da Apple em um objeto de luxo statement, com estruturas em aço, titânio, ouro e edições cravejadas, muito populares entre celebridades, atletas e o público de alto padrão.\n\nO fundador e CEO é Puia Shamsossadati. A marca expandiu-se do universo Apple Watch para capas de iPhone, caixas para WHOOP e, em dezembro de 2025, para relógios próprios: a Royal Collection, com calibre automático suíço (Royal Sport, Royal Evening e Royal Glace); antes disso, em 2024, já vendia módulos mecânicos (GC Watch, calibres SW200/SW300) que se encaixam nas suas caixas de 45 mm. Sempre com forte identidade de design ousado, materiais premium e estética \"hype\"/streetwear de alto padrão. Colaborações com marcas e personalidades reforçam o posicionamento aspiracional. A proposta é unir tecnologia, moda e luxo num objeto de forte presença visual.\n\nHoje a Golden Concept ocupa um nicho particular entre a customização de luxo, o lifestyle e os relógios statement, dirigindo-se a um público jovem e endinheirado que valoriza exclusividade e impacto visual. [⚠️ marca focada em cases de luxo para Apple Watch e lifestyle — verificar enquadramento e dados atuais]",
+  "J": "Racing Sport (RST, RSC, RSTR, RSM Mansory), Sport Edition (SP/SPIII), Classic (CL/CLD), Evening (EV/EVD/EVF Rainbow), Royal (RO/ROL), Crown (CRC, CRS, CRCS), Royal Collection automáticos (Royal Sport, Royal Evening, Royal Glace)"
+ },
+ "observacoes": "Corrigido: J ('Aerospace, Sport' não existem → famílias reais do site oficial); I (acrescentado fundador Puia Shamsossadati e a Royal Collection de relógios automáticos de dez/2025). Ainda a verificar: ano de fundação 2015 e cidade Estocolmo (não confirmados nas fontes abertas). Ficaram de fora: capas de iPhone, Magnetic Shield, pulseiras, caixas para WHOOP e o acessório de pulso para o Royal Pop (AP × Swatch)."
+}
