@@ -9579,7 +9579,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T12:43:15Z",
- "ultimo_sinal": "2026-11-10T13:15:44Z",
+ "ultimo_sinal": "2026-11-10T13:17:40Z",
  "em_andamento": {
   "marcas": [
    "Glashütte Original"
@@ -9599,7 +9599,8 @@
    "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10"
   ],
   "passada": 1,
   "raw": "historico/raw_Glashutte_Original/ (rodar build.py para refazer o parcial)"
