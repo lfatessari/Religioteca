@@ -9634,18 +9634,21 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T15:43:34Z",
- "ultimo_sinal": "2026-11-10T15:43:34Z",
+ "ultimo_sinal": "2026-11-10T15:47:44Z",
  "em_andamento": {
   "marcas": [
-   "Golay Spierer",
-   "Golby"
+   "Golay Spierer"
   ],
   "linha_marcas": 609,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "grande": true,
+  "relogios": "historico/parcial_golay_relogios.txt",
+  "fontes": "historico/parcial_golay_fontes.txt",
+  "notas": "historico/notas_golay.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
