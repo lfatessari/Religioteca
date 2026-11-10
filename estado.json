@@ -9304,7 +9304,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T02:42:29Z",
- "ultimo_sinal": "2026-11-10T03:08:09Z",
+ "ultimo_sinal": "2026-11-10T03:13:07Z",
  "em_andamento": {
   "marcas": [
    "Gerald Charles"
@@ -9318,9 +9318,13 @@
    "1",
    "2",
    "2c-parcial",
+   "3",
    "4",
-   "5-parcial",
-   "9-parcial"
+   "5",
+   "7-parcial",
+   "8",
+   "9-parcial",
+   "10-parcial"
   ],
   "passada": 1
  }
