@@ -9552,7 +9552,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T11:41:25Z",
- "ultimo_sinal": "2026-11-10T11:47:49Z",
+ "ultimo_sinal": "2026-11-10T11:48:44Z",
  "em_andamento": {
   "marcas": [
    "Glam Rock"
@@ -9565,7 +9565,9 @@
   "secoes_feitas": [
    "1",
    "3",
-   "7-galaxus"
+   "7-galaxus",
+   "7-ashford",
+   "7-greentoe"
   ],
   "passada": 1
  }
