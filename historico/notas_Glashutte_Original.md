@@ -4,3 +4,4 @@ Firecrawl sem créditos (renova 13:43 UTC).
 Fontes: Exquisite Timepieces páginas 1-9 (266 produtos, com foto), WatchBase senator (lista só ref+descrição; páginas de relógio dão client_error).
 Raw em raw/*.txt; build.py monta o parcial. wbconv.py converte lista WatchBase.
 Falta: WatchBase pano/seaq/sixties/seventies/vintage/serenade/spezialist; site oficial (coleções via busca); Chrono24; lojas; vintage GUB (não é GO—avaliar); imprensa (edições limitadas).
+Logo: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/2026-04/glashutte_original_logo_2026.jpg
