@@ -1,0 +1,486 @@
+{
+ "marca": "Glashütte Original",
+ "usa_codigos": true,
+ "logo": "https://www.glashuette-original.com/app/themes/go/public/images/logo.svg",
+ "site_bloqueado": "Parcial – glashuette-original.com: páginas de coleção e de modelos antigos não abrem pela leitura automática (links fora de busca pedem permissão; refs antigas dão 404); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.glashuette-original.com/collection",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=2",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=3",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=4",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=5",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://exquisitetimepieces.com/collections/glashutte-original?page=7",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=9",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=6",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=8",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/senator",
+   "passada": 1,
+   "novos": 228
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/pano",
+   "passada": 1,
+   "novos": 115
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/seaq",
+   "passada": 1,
+   "novos": 69
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/spezialist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/pavonina",
+   "passada": 1,
+   "novos": 59
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/glashutte-original",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hourstriker.com/database/glashutte-original",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/glashutte-original-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rabat.net/en/watches/glashutte-original/vintage",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.bucherer.com/fr/en/watches/glashuette-original/sixties",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://db.europeanwatch.com/glashutte.html",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/sold-out-glashtte-original",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/glashutte-original-watches/sold-out.html?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/glashutte-original-watches/sold-out.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/brand/glashutte-original/panoretrograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/glashutte/PanoRetroGraph.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/brand/glashutte-original-38387",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono1010.watch/all-watches/glashutte-original",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://europeanwatch.com/watch/glashutte-original-39-31-73-73-14-sport-evolution-impact-chronogr-14892",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://europeanwatch.com/glashutte/Senator.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://europeanwatch.com/glashutte/PanoMatic.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Glashutte/Pano-Series/PanoMaticChrono-Rose-Gold",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Glash%C3%BCtte_Original_PanoMaticChrono",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Glashutte/Pano-Series",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://essential-watches.com/Glashutte/Pano-Series/PanomaticTourbillon-Platinum",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://essential-watches.com/Glashutte/Pano-Series/PanoMaticDate-Steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Glashutte/Pano-Series/PanoMaticDate-Platinum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Glashutte/Pano-Series (continuação, offset 100000)",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://essential-watches.com/Glashutte",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/glashuette-original/seventies/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bucherer.com/ch/en/watches/glashuette-original/seventies",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/glashutte-original/",
+   "passada": 1,
+   "novos": 35
+  },
+  {
+   "url": "https://www.glashuette-original.com/en/watches/vintage/seventies-chronograph-xv-1-37-02-21-02-70/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.glashuette-original.com/en/watches/senator/senator-chronometer-tourbillon-1-58-05-01-03-30",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bucherer.com/us/en/watches/glashuette-original",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/category/glashutte-original/page/4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/glashutte-original/page/6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/glashutte-original.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.thewatchcompany.com/glashuette-original/vintage/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/en-int/pages/brands/glashutte-original",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/glashuette-original/women?page=1",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://crownandcaliber.com/collections/glashutte-original-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.swisswatchexpo.com/watches/glashutte/glashutte-vintage/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrinstinkt.de/en/collections/glashuette-original-panograph",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrinstinkt.de/en/collections/glashuette-original-senator-edition?page=6",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/glashutte-original-sixties-stainless-steel-iconic-golden-alligator-1-39-52-08-02-01/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.prestigetime.com/preowned/Glashutte-Original-Senator-Navigator-Worldview-39-47-07-07-04-49201",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://cdpeacock.com/collections/glashutte-original?page=2",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://teddybaldassarre.com/collections/glashutte-original",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Glash%C3%BCtte_Original_Senator_Panorama_Date",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.cortinawatch.com/en/glashutte-original/pano-collection",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/pre-basel-2012-glashutte-original-senator-observer-1911-julius-assmann/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/139-glashutte-original",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567718-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567706-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567679-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567674-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kollerauktionen.ch/en/329106-0001-1181-Glashuette-Original-Tourbillon-1181_439129.html?RecPos=7",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567689-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567691-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567684-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567716-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567715-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567698-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567693-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567685-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567681-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/13567705-glashutte-original-glashutte---",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/sold-out-glashutte-original.oembed",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/glashutte-original?page=1",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://watchbase.com/blog/2025/07/30/500-glashutte-original-references-updated-a-lange-sohne-archive-enriched",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004084195-glashutte-original.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/senator",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/sixties",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/seventies",
+   "passada": 3,
+   "novos": 25
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/lady-serenade",
+   "passada": 3,
+   "novos": 31
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/pano",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/seaq",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/pavonina",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/senator (fotos)",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/karree (fotos)",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/karree",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/glashutte-original/art-technik",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.glashuette-original.com/en/watches/senator/senator-meissen-1-36-16-01-05-01",
+   "passada": 2,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "H": "@glashuetteoriginal",
+  "J": "Senator, PanoMaticLunar, PanoInverse, PanoReserve, SeaQ, Sixties, Seventies, Serenade"
+ },
+ "observacoes": "Corrigido: H @glashutteoriginal → @glashuetteoriginal (link do Instagram no site oficial, página /brand); J ampliado com PanoReserve, Seventies e Serenade (coleções oficiais: Senator, Pano, Spezialist/SeaQ, Vintage/Sixties-Seventies, Serenade). Ainda a verificar: em I, 'espirais próprias' (o site oficial diz só 'quase todos os componentes feitos em casa'); data de entrada no Swatch Group (2000) não conferida. Gravados 987 relógios (vermelho): faltam fotos de ~79 referências e mais modelos das linhas antigas (Senator 39-xx, Karree, Navigator, Sport Evolution, Meisterwerke)."
+}
