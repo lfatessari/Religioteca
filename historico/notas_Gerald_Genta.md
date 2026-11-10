@@ -8,3 +8,6 @@ Bvlgari block (Relógios ~32600-33330) já tem: Gefica Hunter 2011, Octo Quadri-
 - Logo: https://r2.watchonista.com/app/uploads/Gerlad-Genta-logo-watchonista.webp
 - Site oficial: não achado em busca (geraldgenta.com não aparece). Instagram @geraldgenta não confirmado.
 - Sede atual: Meyrin (La Fabrique du Temps) — MaterialGood; LVMH: Genebra.
+## 1ª passada encerrada (04:12): últimas 3 fontes seguidas (Analog Shift Night&Day, Antiquorum 299-279, 263-11) sem modelo novo. 110 fontes, 276 relógios, ~91 com foto.
+Decisão: VERMELHA — CollectorSquare mostra 657 lotes e 171 refs; muitas refs sem foto/modelo; EveryWatch fechado; Phillips/Christie's lotes sem foto.
+2ª passada: foco em fotos/modelos das refs sem nome, linhas Royama, Bartolomeo, Solo, Disney (Pateta, Tio Patinhas), Gerald Genta para joalherias (Fred, Asprey, Mouawad), Octo era Bulgari.
