@@ -9,3 +9,7 @@ Códigos: refs de 7 dígitos 35xxxxx (ex.: Koppel 319 3575009; Concave Nordic Ni
 - Falta: site oficial atual (Torun 3575610.., Koppel 10019xxx), Jura buscas, EveryWatch, Chrono24, eBay, leilões (Torun/Chopard vintage anos 60-70), imprensa (Koppel 2015 Basel, 2021 rework, Torun 2023), lojas DK.
 - 18 linhas novas vieram só de títulos de busca site:jurawatches.co.uk e site:georgjensen.com (não contadas como fontes).
 - EveryWatch: anúncios bloqueados por login (6 abertos, 0).
+- 1ª passada encerrada: últimas 8 fontes sem modelo novo (jewelleryroom, peterjackson, weirandsons, watchtime, gentlemansjournal, connox, wallpaper, fecarotta). 
+- VERMELHA: eBay com 380 anúncios (só pág. 1 vista), Jura ~250 GJN (só ~60 vistos), site oficial sem lista, muitos nº de design sem ref de 7 dígitos.
+- J da aba Marcas: Delphis e Reflect não são linhas de relógio (Reflect = joias). 
+- 2ª passada: Jura site: com novos termos, eBay/Japão (Yahoo, Mercari), designers vintage, §3 extras.
