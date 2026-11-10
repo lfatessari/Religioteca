@@ -2,8 +2,8 @@ import json,re,glob,os
 os.chdir('/home/claude/trabalho')
 def norm(c): return re.sub(r'[^A-Z0-9]','',c.upper().replace('O','0'))
 M={}  # key -> dict(nome,cod,img,e,src)
-def add(nome,cod,img,e='',src='',force_img=False):
-    k=norm(cod) if cod else 'N:'+nome.lower()
+def add(nome,cod,img,e='',src='',force_img=False,kx=''):
+    k=(norm(cod) if cod else 'N:'+nome.lower())+kx
     if k in M:
         r=M[k]
         if (not r['img'] or force_img) and img: r['img']=img
@@ -55,8 +55,8 @@ for l in open('raw/gw_airman.txt'):
 if os.path.exists('extras.txt'):
     for l in open('extras.txt'):
         if not l.strip() or l.startswith('#'): continue
-        n,c,i,e=l.rstrip('\n').split('|')[:4]
-        add(n,c,i,e,'extra')
+        p=l.rstrip('\n').split('|'); n,c,i,e=p[:4]
+        add(n,c,i,e,'extra',kx=(p[4] if len(p)>4 else ''))
 if __name__=='__main__':
     import sys
     print(len(M))
