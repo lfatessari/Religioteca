@@ -10,3 +10,4 @@
 - PRNewswire 15/09/2014: Gevril Group representante exclusivo EUA/Canadá/Caribe; coleções Bal Harbour, Miami, Vintage Glam. Lançamento Itália jun/2006; Binda distribuição 2007.
 - Philstar 2009: coleções Smalto, relógios com estampa Pucci, 'Glam Rock' com pedras e couro laranja (sem refs). Austrália 2011: Miami, SoBe, AquaRock; >7000 pontos de venda.
 ## Fim da 1ª passada (11:53): 3+ fontes seguidas sem novidade (philstar x3, 300magazine). Vermelha: centenas de refs GR sem listar. 2ª passada: mais refs galaxus/digitec, ashford, amazon, jomashop, eBay.com, worldofwatches.
+- Europa Star 2008: Margaritelli colaborou anos com Giorgio Armani; vendas em 21 países; Neiman Marcus.
