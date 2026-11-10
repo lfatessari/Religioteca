@@ -9607,7 +9607,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T14:43:53Z",
- "ultimo_sinal": "2026-11-10T14:55:24Z",
+ "ultimo_sinal": "2026-11-10T14:57:58Z",
  "em_andamento": {
   "marcas": [
    "Glycine"
@@ -9619,7 +9619,8 @@
   "notas": "historico/notas_Glycine.md",
   "secoes_feitas": [
    "2",
-   "2c-parcial"
+   "2c-parcial",
+   "7-jura-parcial"
   ],
   "passada": 1
  }
