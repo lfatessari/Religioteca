@@ -10,3 +10,4 @@ Logo: https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public
 Bloqueados: thewatchpages (client_error), WatchBase sixties/seventies/lady-serenade/páginas de relógio (client_error), europeanwatch.com/brand (PROVENANCE).
 Padrão de foto oficial: service.glashuette-original.com/storage/masters/watches/medium/W<ref sem hífens>.png (confirmado na XV); páginas de refs antigas dão 404.
 ## 2ª passada: foco em linhas antigas (Senator antigos 39-xx, Karree, Navigator, Sport Evolution, Julius Assmann, Meissen, Sixties Iconic, Annual Editions), fotos das ~450 linhas só com link.
+## 2ª passada: 12 fontes, ~16 relógios novos (Sixties Iconic, Navigator WorldView, Senator PD antigos, Julius Assmann 4, Observer 1911) → 3ª passada obrigatória
