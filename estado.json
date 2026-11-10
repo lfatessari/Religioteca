@@ -9661,5 +9661,21 @@
   "Golden Concept (linha 611)": "Dimensionada em 10/11/2026 como provável GRANDE (capas de luxo para Apple Watch em muitas cores/materiais, coleções RST/SP/CL, colaborações Mansory e Blvck, linha mecânica suíça desde 2023): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T16:42:14Z",
+ "ultimo_sinal": "2026-11-10T16:42:14Z",
+ "em_andamento": {
+  "marcas": [
+   "Golby",
+   "Golden Concept",
+   "Gorilla"
+  ],
+  "linha_marcas": 610,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
