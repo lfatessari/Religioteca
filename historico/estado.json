@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 603,
- "ultima_versao": 529,
+ "proxima_linha_marcas": 604,
+ "ultima_versao": 530,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9430,6 +9430,25 @@
     ]
    },
    "obs": "Marca alemã (loja Gigandet na Otto, eBay, Amazon por títulos) + vintage suíça Gigandet/Wakmann. Site oficial não encontrado; Amazon bloqueada (robots); Firecrawl sem créditos. 139 com foto, 143 com link do anúncio. Corrigidos I e J."
+  },
+  {
+   "marca": "Giorgio Piola",
+   "data": "2026-11-10",
+   "linha_marcas": 603,
+   "linhas_relogios": "91467-91509",
+   "relogios": 43,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": "giorgiopiola.com robots_disallowed",
+   "fontes": 61,
+   "versao": 530,
+   "passadas": {
+    "1": [
+     61,
+     26
+    ]
+   },
+   "obs": "Site oficial bloqueado (robots); loja espelhada no duPont REGISTRY (mesmo Shopify) deu fotos e códigos GP-785xxx/887xxx. 9 coleções: Strat-3, Strat-3 HMS, Strat-3 Ladies, G5, G5 Delta, SHIFT, Speedtrap, Torque, Ignition + Hesketh. Firecrawl sem créditos. 17 linhas com link de página no lugar da foto. Corrigidos G, I, J. Girard-Perregaux (604) é grande: próxima execução só com ela."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
