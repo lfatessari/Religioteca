@@ -9533,7 +9533,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T10:42:09Z",
- "ultimo_sinal": "2026-11-10T10:42:57Z",
+ "ultimo_sinal": "2026-11-10T10:45:51Z",
  "em_andamento": {
   "marcas": [
    "Giuliano Mazzuoli"
@@ -9543,7 +9543,10 @@
   "relogios": "historico/parcial_Giuliano_Mazzuoli_relogios.txt",
   "fontes": "historico/parcial_Giuliano_Mazzuoli_fontes.txt",
   "notas": "historico/notas_Giuliano_Mazzuoli.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
