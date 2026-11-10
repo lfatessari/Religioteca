@@ -12,3 +12,13 @@ Bvlgari block (Relógios ~32600-33330) já tem: Gefica Hunter 2011, Octo Quadri-
 Decisão: VERMELHA — CollectorSquare mostra 657 lotes e 171 refs; muitas refs sem foto/modelo; EveryWatch fechado; Phillips/Christie's lotes sem foto.
 2ª passada: foco em fotos/modelos das refs sem nome, linhas Royama, Bartolomeo, Solo, Disney (Pateta, Tio Patinhas), Gerald Genta para joalherias (Fred, Asprey, Mouawad), Octo era Bulgari.
 ## 2ª passada: 18 fontes, ~13 novos (Royama, HK 1997, Disneyland HK, Tio Patinhas, Pateta, Donald beisebol, Mouawad, coração esmeralda...). >=5 → 3ª passada.
+## 3ª passada: 12 fontes, 6 novos; parou com 3 seguidas sem novidade (Gray&Sons, Watchfinder, Wristler).
+## 10b auto-auditoria
+1. Blog/imprensa: site oficial não encontrado; imprensa dos lançamentos 2024-26 lida (Monochrome, aBlogtoWatch, SJX, Europa Star, 1916). OK.
+2. §2c: sem site oficial; WoS coleção (Shopify) e buscas site: feitas.
+3. Lojas: WoS, Delray, 1stDibs, European Watch, Bulang, Watch Collectors, Analog Shift, Gray&Sons — feitas.
+4. Primeiro modelo: Gefica Safari 1984 e marca de 1969 (peças dos anos 1970-80: Fred c.1970, coral c.1980, tonneau Nº1 c.1985). Peças de 1969 sem nome não achadas.
+5. J: Arena, Gefica, Mickey, Grande Sonnerie, Octo — todos encontrados.
+6. Limitadas/colabs na B; peças únicas em E.
+7. ~150 fontes.
+Pendências (vermelho): ~180 refs sem foto (índices CollectorSquare, Christie's, Phillips); 657 lotes na CollectorSquare; EveryWatch fechado.
