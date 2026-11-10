@@ -11,3 +11,13 @@ Bloqueados: thewatchpages (client_error), WatchBase sixties/seventies/lady-seren
 Padrão de foto oficial: service.glashuette-original.com/storage/masters/watches/medium/W<ref sem hífens>.png (confirmado na XV); páginas de refs antigas dão 404.
 ## 2ª passada: foco em linhas antigas (Senator antigos 39-xx, Karree, Navigator, Sport Evolution, Julius Assmann, Meissen, Sixties Iconic, Annual Editions), fotos das ~450 linhas só com link.
 ## 2ª passada: 12 fontes, ~16 relógios novos (Sixties Iconic, Navigator WorldView, Senator PD antigos, Julius Assmann 4, Observer 1911) → 3ª passada obrigatória
+## 3ª passada (Gazette Drouot – leilão "Meisterwerke"; Firecrawl no WatchBase: senator, sixties, seventies, lady-serenade, pano, seaq, pavonina, karree, art-technik)
+Firecrawl: ~28 créditos (json 5/pg; images 1/pg). Fotos reais com hash (cdn.watchbase.com/watch/glashutte-original/<família>/<ref>-<hash>.jpg), só usadas quando o nome do arquivo traz a mesma ref.
+## 10b auto-auditoria
+1. Blog/imprensa: site oficial sem blog acessível; imprensa (Monochrome categoria p4/p6, Observer 1911, XV) lida; LEs nomeadas na B.
+2. §2c: buscas site:glashuette-original.com/en/watches, site:exquisitetimepieces.com/products (senator/pano) — páginas ocultas acrescentaram Rattrapante, PanoMaticChrono XL.
+3. Lojas: Exquisite (9 pág + sold-out + pre-owned), Bucherer, Rabat, Teddy, CD Peacock, Wempe, WoS, Prestige Time, The Watch Company.
+4. Primeiro modelo / antigos: GO nasce em 1994 (ex-GUB); linhas 1994-2005 (Karree, Senator 39-xx, Navigator, Sport Evolution, PanoRetroGraph, Julius Assmann, Alfred Helwig, Meisterwerke) incluídas parcialmente.
+5. I/J: Senator, PanoMaticLunar, SeaQ, Sixties, PanoInverse – todos achados.
+6. LEs na B com nº de peças quando a fonte deu; sem peças únicas.
+7. Fontes: ~94 (56/12/26).
