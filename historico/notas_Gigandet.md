@@ -13,3 +13,4 @@ Galaxus/Digitec: códigos "VNAG7001" = G7-001 (fornecedor).
 - Vintage: Gigandet suíça (fundada com Wakmann em 1925, Solothurn — fonte blog Bruce), co-assinados Gigandet/Wakmann.
 - J da planilha: "Red Timeless", "King Power" NÃO encontrados (King Power é Hublot). Sea Ground e Volante ok.
 ## 2ª passada: buscar séries faltantes (G1, G14, G17, G18, G20, G21, G29–G31, G37, G39, G40, G44, G46), Sea Ground 300 variações, vintage refs, lojas novas.
+## 2ª passada: 12 fontes, 8 relógios novos de fontes abertas (+8 de títulos Amazon) → 3ª passada obrigatória
