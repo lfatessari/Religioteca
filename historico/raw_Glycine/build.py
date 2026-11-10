@@ -6,7 +6,10 @@ def add(nome,cod,img,e='',src='',force_img=False,kx=''):
     k=(norm(cod) if cod else 'N:'+nome.lower())+kx
     if k in M:
         r=M[k]
-        if (not r['img'] or force_img) and img: r['img']=img
+        isimg=lambda u: bool(re.search(r'\.(jpe?g|png|webp)(\?|$)',u or '',re.I))
+        if img and (not r['img'] or force_img or (not isimg(r['img']) and isimg(img))):
+            r['img']=img
+            if e: r['e']=e
         if not r['e'] and e: r['e']=e
         return False
     M[k]=dict(nome=nome,cod=cod,img=img,e=e,src=src); return True
@@ -46,6 +49,8 @@ for k in sorted(keys):
     t=t.replace(' (sold out)','')
     t=re.sub(r'\\\\?GL\d+$','',t).strip()
     if not i and not any(x in t for x in ('Field','Box Ceramic')): i=f'https://www.glycinewatches.com/cdn/shop/files/{r}.png'
+    if not i:
+        i=f'https://www.glycinewatches.com/products/glycine-{r.lower()}'; e=(e+' ' if e else '')+'Link da página do produto na loja oficial.'
     add(t,r,i,e,'oficial')
 # airman page fallback images
 for l in open('raw/gw_airman.txt'):
