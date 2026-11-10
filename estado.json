@@ -9634,7 +9634,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T15:43:34Z",
- "ultimo_sinal": "2026-11-10T15:47:44Z",
+ "ultimo_sinal": "2026-11-10T15:53:17Z",
  "em_andamento": {
   "marcas": [
    "Golay Spierer"
@@ -9647,8 +9647,17 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "2c",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "10b"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
