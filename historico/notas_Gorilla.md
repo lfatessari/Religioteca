@@ -6,3 +6,5 @@
 - Seções feitas: 1, 2 (parcial)
 - CIGA Design Series X Gorilla: é modelo da CIGA (nome Gorilla), não é colaboração -> fora.
 - Logo: https://gorilla-watches.com/cdn/shop/files/Gorilla_text_Gold_on_white.jpg?v=1716482251
+- 1ª passada encerrada às 19:05 UTC (últimas ~12 fontes sem modelo novo). Decisão: VERMELHA (edições especiais regionais japonesas, numeração FBY com lacunas FBY1,5,12,15-17,20,26-27,29-31,33-34,36,38,40-42; variantes de pulseira).
+- 2ª passada: foco em edições especiais japonesas/lojas, lacunas de FBY, produtos escondidos.
