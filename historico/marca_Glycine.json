@@ -1,0 +1,565 @@
+{
+ "marca": "Glycine",
+ "usa_codigos": true,
+ "logo": "https://www.glycinewatches.com/cdn/shop/files/Glycine__watch__Logo_svg.png",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "I": "A Glycine foi fundada em 1914 por Eugène Meylan em Bienne, na Suíça, ganhando reputação inicial por relógios femininos finos e relógios de precisão. Mas foi na aviação que a marca escreveu seu capítulo mais lendário.\n\nEm 1953, a Glycine lançou o Airman — um dos primeiros relógios de pulso com função GMT/24 horas, criado para os pilotos comerciais da era do jato, que precisavam acompanhar múltiplos fusos horários e distinguir dia de noite em voos longos. Com seu mostrador de 24 horas e a \"hora do pin\" (bloqueio da luneta), o Airman tornou-se cultuado e foi usado por muitos pilotos militares americanos na Guerra do Vietnã. Em 1965, um Airman acompanhou o astronauta Pete Conrad na missão Gemini 5. A marca também criou o Combat (1967, tool watch robusto) e mantém forte herança de relógios de aviação. Após passar por dificuldades, a Glycine foi adquirida pela Invicta Watch Group em 2016.\n\nHoje a Glycine é reverenciada sobretudo pela herança do Airman, dirigindo-se a entusiastas de relógios de aviação e GMT com história autêntica a preços acessíveis. Mais que estilo, carrega a herança de um pioneiro dos relógios de fuso horário. [⚠️ verificar dados atuais]"
+ },
+ "observacoes": "Corrigido em I: acrescentado o Airman na missão Gemini 5 (1965, Pete Conrad) e o ano de criação do Combat (1967), conforme a página History do site oficial. G: glycine-watch.ch redireciona para a loja oficial glycinewatches.com (o domínio .ch ainda tem as fichas técnicas e a história). H @glycinewatches confirmado. Ainda a verificar: o site oficial (History) cita como fundadores Charles Perret, Georges Flury e Fernand Engel, enquanto a Wikipedia e o texto de I dão Eugène Meylan; 'reputação inicial por relógios femininos finos' sem fonte direta (há muitos relógios femininos Art Déco Glycine à venda na 1stDibs).",
+ "fontes": [
+  {
+   "url": "https://www.glycinewatches.com/collections/airman",
+   "passada": 1,
+   "novos": 48
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches.oembed?page=4",
+   "passada": 1,
+   "novos": 45
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches.oembed?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.glycinewatches.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 1,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=1",
+   "passada": 1,
+   "novos": 26,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/products.json?limit=50&page=1",
+   "passada": 1,
+   "novos": 34,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=2",
+   "passada": 1,
+   "novos": 23,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=3",
+   "passada": 1,
+   "novos": 22,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=4",
+   "passada": 1,
+   "novos": 33,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=5",
+   "passada": 1,
+   "novos": 43,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=6",
+   "passada": 1,
+   "novos": 48,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=7",
+   "passada": 1,
+   "novos": 41,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=8",
+   "passada": 1,
+   "novos": 31,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.glycinewatches.com/collections/all-watches?page=9",
+   "passada": 1,
+   "novos": 34,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://watchbase.com/glycine/airman",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://glycintennial.com/models-timeline",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://glycintennial.com/glycine-airman",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/glycine-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://righttime.com/rt/preowned/glycine.htm",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/sitemap.xml",
+   "passada": 1,
+   "novos": 0,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/sitemap_products_1.xml",
+   "passada": 1,
+   "novos": 0,
+   "obs": "(Firecrawl, cortado)"
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/search?q=glycine",
+   "passada": 1,
+   "novos": 0,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/glycine-airman-17-3865-15-d9-watch-gl-357",
+   "passada": 1,
+   "novos": 47
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/glycine-combat-sub-automatic-3863-19at2-v-1-gl-322.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/glycine-airman-7-crosswise-watch-3841181-lb8-gl-010.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/glycine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand_index/glycine",
+   "passada": 1,
+   "novos": 6,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/glycine",
+   "passada": 1,
+   "novos": 1,
+   "obs": "(Firecrawl)"
+  },
+  {
+   "url": "https://gnomonwatches.com/collections/glycine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/glycine-airman-as07068.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/glycine/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/glycine/3874.19_a.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thoughtsonwatches.substack.com/p/state-of-the-glycine-airman-collection",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://everywatch.com/glycine/3887/watch-13450601",
+   "passada": 1,
+   "novos": 0,
+   "obs": "(atrás de login)"
+  },
+  {
+   "url": "https://whamond.com/en-us/collections/glycine-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/glycine-watches-archives/",
+   "passada": 1,
+   "novos": 0,
+   "obs": "(não abriu; títulos via busca)"
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/new-glycine-airman-models-released/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://timepiece.com/glycine-watch-gl0161.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.glycinewatches.com/products/glycine-gl0523",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drop.com/buy/drop-glycine-combat-sub-gmt-sode-gmt-edition/details",
+   "passada": 1,
+   "novos": 0,
+   "obs": "(redireciona)"
+  },
+  {
+   "url": "https://whamond.com/en-us/products/glycine-watch-airman-40-no-1-limited-edition-gl0165.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://glycine-watch.ch/watches/datasheet/gl0168-airman-contemporary-men",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1960s-glycine-camaro-chronograph-ref-85007-valjoux-cal-72",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/glycine-1970s-vacuum-high-frequency-38mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/glycine-sold/products/glycine-airman-as11356",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://analogshift.com/products/glycine-airman-as03566",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/glycine-airman-as02461",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/glycine-airman-as02097",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.glycinewatches.com/pages/history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Glycine_(watch)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=30880",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windycitywatchcollector.com/collections/glycine-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/glycine/jewelry/watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.orologioblog.net/en/glycine-airman-sst-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.orologioblog.net/en/glycine-va-in-profondita/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/tag/glycine/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sse.watchpatrol.net/discover/brands/glycine/airman/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-1445247",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1701/lot.43.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/glycine-dive-watch-tt01211.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/glycine-gents-military-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.greentoe.com/product/Glycine_Glycine_Mens_Combat_Sub_GMT_42mm_Automatic_Watch_GL0381_GL0381",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/glycine.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iguanasell.com.au/collections/glycine/case-pvd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.glycinestore.eu/collections/combat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/pages/brand-directory-glycine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernardwatch.com/Glycine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/glycine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/glycine-watch-airman-base-22-3887-309-66-tb9-gl-446",
+   "passada": 2,
+   "novos": 2,
+   "obs": "(busca site: arquivo Jura, 2ª passada)"
+  },
+  {
+   "url": "https://andres55.home.xs4all.nl/frames/airmanmodel22.htm",
+   "passada": 2,
+   "novos": 0,
+   "obs": "(site fora do ar)"
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/glycine/airman",
+   "passada": 2,
+   "novos": 0,
+   "obs": "(não abriu: client_error)"
+  },
+  {
+   "url": "https://www.watchpatrol.net/es/descubrir/marcas/glycine/airfighter/",
+   "passada": 2,
+   "novos": 0,
+   "obs": "(client_error)"
+  },
+  {
+   "url": "https://sse.watchpatrol.net/discover/brands/glycine/combat/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/glycine-combat-sub-46-watch-gl0288.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/glycine-watch-gl0143.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/glycine-watch-gl0054.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://aviation-watches.blogspot.com/2009/12/glycine-watches.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://authenticwatches.blogspot.com/2009/08/glycine.html",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.watchtime.net/brands/schweizer-uhren/glycine-in-der-luft-geboren",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/glycine-watch-history",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://strapcode.com/blogs/the-latest-watches-news/glycine-watches-past-present-and-promising-future",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://secondtimearoundwatchco.com/products/2010s-vintage-glycine-altus-ref-3811-automatic-stainless-steel-watch-15784",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/glycine/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/it/scopri/marche/glycine/airman-44/",
+   "passada": 2,
+   "novos": 0,
+   "obs": "(client_error)"
+  },
+  {
+   "url": "https://wristler.eu/watches/97616-glycine-vintage",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/97614-glycine-vintage",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/100872504-glycine-lagunare-2010-2020",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/197627883460",
+   "passada": 3,
+   "novos": 0,
+   "obs": "(client_error)"
+  },
+  {
+   "url": "https://keepthetime.com/product/glycine-airman-airfighter-gmt",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.eora.it/en/watches/2784-glycine-incursore-scatola-e-garanzia-originale-06-2001-art-gl11.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/limited-editions/products/glycine-combat-sub-gl0500-limited-edition-pre-owned-pre1898",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfinder.hk/Glycine/Watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-airman-genuine-leather-silver-dial-glycine-glygl0138",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchtime.net/brands/glycine-uhren",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchtime.net/brands/glycine-airman/glycine-die-jumbo-uhr",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/ya-est%C3%A1n-aqu%C3%AD-los-nuevos-glycine.278261/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/the-forgotten-pilot-glycine-airman-1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gnomonwatches.com/blogs/news/glycine-airman-collection",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/glycine-s-combat-sub-the-aviator-s-soaring-military-divers",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://whamond.com/en-us/products/glycine-watch-incursore-gl0044.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/glycine-watch-incursore-gl0042.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-row/products/glycine-watch-combat-6-vintage-gl0122.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/glycine-watch-f104-gl0126.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/glycine-watch-f104-gl0127.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/glycine-watch-combat-chronograph-gl0100.oembed",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

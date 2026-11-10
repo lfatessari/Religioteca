@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 608,
- "ultima_versao": 534,
+ "proxima_linha_marcas": 609,
+ "ultima_versao": 535,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9549,6 +9549,33 @@
     ]
    },
    "obs": "Base: Exquisite Timepieces (9 páginas + vendidos + usados), WatchBase (senator, pano, seaq, pavonina, sixties, seventies, lady-serenade, karree – os 4 últimos e as fotos pelo Firecrawl), Essential Watches (Pano antigos), Bucherer, European Watch, my-watchsite, Gazette Drouot (leilão Meisterwerke). Corrigidos H (@glashuetteoriginal) e J. ~79 linhas só com link de página."
+  },
+  {
+   "marca": "Glycine",
+   "data": "2026-11-10",
+   "linha_marcas": 608,
+   "linhas_relogios": "93620-94311",
+   "relogios": 692,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes": 105,
+   "versao": 535,
+   "passadas": {
+    "1": [
+     68,
+     566
+    ],
+    "2": [
+     19,
+     20
+    ],
+    "3": [
+     18,
+     12
+    ]
+   },
+   "obs": "Base: loja oficial glycinewatches.com (428 produtos, 9 págs via Firecrawl) + fichas glycine-watch.ch; arquivo antigo da Jura Watches (SKUs GL-xxx, só por busca site:), WatchCharts, Glycintennial (vintage), Masterhorologer (títulos), Timepiece, World of Watches, Gnomon, Analog Shift, 1stDibs, WatchTime.net. Firecrawl acabou os créditos no meio (≈78 usados). Vermelha: arquivo Jura incompleto, WatchCharts págs 2-4, EveryWatch com login, ~180 números GL sem registro, vintage sem refs. Corrigido I. Golay Spierer (609) é a próxima."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
