@@ -7,3 +7,5 @@
 - eBay itm do ebay.de: client_error (5 tentativas). ebay /p/ abre mas só foto placeholder.
 - História: conceito criado em Miami em 2005 (Europa Star 2007; JCK 2007 diz fundada 2005) por Isabelle Maujean e Enrico Margaritelli (ex-Fossil, casal). Estreia Baselworld 2007; distribuição EUA Binda USA. Lunetas e pulseiras intercambiáveis ("just click"). Hoje Gevril Group (lojas Ashford; linha 2022 GR-0xx-22 com quartzo Miyota/Ronda). I diz 2004 → divergente (anotar).
 - Coleções vistas: Miami, Miami Beach, SoBe, SoBe Tech, SoBe Mood, SoBe Tachymeter, Lady? , Palm Beach, Bal Harbour, Aqua Rock (GR50), Gulfstream (GR70), Cruise Line, Florida, Marine, Twisted, Around The Time, Slim Vintage Glam, Vintage Glam, Miami Beach Art Deco (MBD/MDB, linha barata Woot), Conta Tempo (QVC), Black Diamonds.
+- PRNewswire 15/09/2014: Gevril Group representante exclusivo EUA/Canadá/Caribe; coleções Bal Harbour, Miami, Vintage Glam. Lançamento Itália jun/2006; Binda distribuição 2007.
+- Philstar 2009: coleções Smalto, relógios com estampa Pucci, 'Glam Rock' com pedras e couro laranja (sem refs). Austrália 2011: Miami, SoBe, AquaRock; >7000 pontos de venda.
