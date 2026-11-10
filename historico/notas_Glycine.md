@@ -20,3 +20,12 @@ G glycine-watch.ch redireciona (302) para glycinewatches.com (loja oficial Invic
 - VERMELHA: arquivo da Jura com centenas de SKUs antigos (GL-001…GL-486) só alcançável por buscas; WatchCharts 163 modelos (págs 2-4 não abertas, Firecrawl sem créditos); EveryWatch atrás de login; ~180 números GL0xxx sem nenhum registro (GL0001-0041, GL0201-0236 etc.); vintage 1914-1990 quase sem referências.
 ## 2ª passada: alvo = arquivo Jura/Whamond, fichas glycine-watch.ch, WatchCharts modelos, Chrono24, eBay, Masterhorologer.
 ## 2ª passada encerrada ~15:28 (21 fontes, ~20 novos). Trouxe >5 -> 3ª passada (>=10 fontes novas): eBay, Keepthetime, Relojes Especiales, World of Watches (fotos), Serious Watches, Wristler, eora.it etc.
+## 10b auto-auditoria
+1. Blog/imprensa oficial: loja Shopify sem blog relevante; página History lida (Airman 1953, Gemini 5 1965, Combat 1967). OK.
+2. site:glycinewatches.com/products feito com vários termos; ocultos achados: GL0176 (products.json), GL1004, GL1008, GL0334, GL0136, GL0168, GL0527, GL0532, GL0488 (fichas glycine-watch.ch).
+3. site:<loja>/products: Jura (arquivo, ~10 buscas), Gnomon, Whamond, World of Watches, Serious Watches, Timepiece.
+4. Primeiro modelo/antigos: Airman 1953, Eugène Meylan/EMSA 1930, prêmio 1926, militares WW2, Combat 1967, Airman SST 1967 — entraram (Glycintennial).
+5. I/J: Airman, Combat, Combat Sub, KMU 48, Airman 42 — todos achados.
+6. Edições limitadas com nº na B (Massdrop 50 pç, Airman No.1 1000 pç, Airman Quartz 3000, World Time 1000, SST Elapsograph 100, SST 06 600, Observer 1000, Eugène Meylan 500, Lagunare 3000 300 pç, Airman 7 DLC 10 pç, GL0500 50 pç). Sem peças únicas.
+7. 105 fontes (68 + 19 + 18).
+Fotos: 218 linhas com link de página em C (arquivo Jura, Masterhorologer, fichas sem imagem, vintage do Glycintennial).
