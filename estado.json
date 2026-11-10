@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 605,
- "ultima_versao": 531,
+ "proxima_linha_marcas": 606,
+ "ultima_versao": 532,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9476,6 +9476,25 @@
     ]
    },
    "obs": "Base: lista de modelos da Essential Watches (527 refs, sem foto), WatchBase 1966/Vintage 1945, Watches of Switzerland, Knar, Wristler, índices de leilão CollectorSquare, páginas oficiais antigas ch_en/<ref>.html, Swisswatches (história Laureato e Ferrari). Só ~105 com foto. Firecrawl sem créditos. Corrigido I (Kering → independente desde 2022)."
+  },
+  {
+   "marca": "Giuliano Mazzuoli",
+   "data": "2026-11-10",
+   "linha_marcas": 605,
+   "linhas_relogios": "92352-92446",
+   "relogios": 95,
+   "vermelho": false,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes": 89,
+   "versao": 532,
+   "passadas": {
+    "1": [
+     89,
+     95
+    ]
+   },
+   "obs": "Base: catálogo oficial 2024 (56 refs), loja oficial, Exquisite Timepieces (inclusive páginas antigas escondidas .html), aBlogtoWatch, Europa Star, Monochrome. Coleções: Manometro (polido/escovado/Soleil/Bronze/Compressed/H10/Chrono/S/Titanium/Camouflage/Italia/edições), Contagiri, Trasmissione Meccanica, Carrara, Cemento, Michelangelo, Manometrino. EveryWatch atrás de login. Corrigidos I e J. Glam Rock (606) é grande: próxima execução só com ela; Glashütte Original (607) também grande."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9531,29 +9550,5 @@
   "Girard Perregaux (linha 604)": "Gravada em 10/11/2026 (v531), 842 relógios (91510-92351), vermelha. Só ~105 linhas com foto; o resto tem link da página (Essential Watches allwatches, WatchBase, índices CollectorSquare). Complemento futuro com Firecrawl: catálogo oficial girard-perregaux.com/en-ch/watches (JavaScript; fotos em api.girard-perregaux.com/media/catalog/product/... com hash), páginas 2-4 de Bucherer/Ethos, WatchBase laureato (client_error), EveryWatch (login), Chrono24; famílias da Essential Watches com fotos (Vintage-45, Richeville, World-Time, Sea-Hawk, Ferrari, Cat-s-Eye); vintage pré-1990 (Gyromatic, Gyrochron, Olimpico, Mercedes, quartzo 1970, relógios de bolso do século XIX); variações de pedras e cores dos Cat's Eye e 1966 Lady."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-10T10:42:09Z",
- "ultimo_sinal": "2026-11-10T11:00:08Z",
- "em_andamento": {
-  "marcas": [
-   "Giuliano Mazzuoli"
-  ],
-  "linha_marcas": 605,
-  "grande": false,
-  "relogios": "historico/parcial_Giuliano_Mazzuoli_relogios.txt",
-  "fontes": "historico/parcial_Giuliano_Mazzuoli_fontes.txt",
-  "notas": "historico/notas_Giuliano_Mazzuoli.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "9"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }

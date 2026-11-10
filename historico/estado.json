@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 605,
- "ultima_versao": 531,
+ "proxima_linha_marcas": 606,
+ "ultima_versao": 532,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9476,6 +9476,25 @@
     ]
    },
    "obs": "Base: lista de modelos da Essential Watches (527 refs, sem foto), WatchBase 1966/Vintage 1945, Watches of Switzerland, Knar, Wristler, índices de leilão CollectorSquare, páginas oficiais antigas ch_en/<ref>.html, Swisswatches (história Laureato e Ferrari). Só ~105 com foto. Firecrawl sem créditos. Corrigido I (Kering → independente desde 2022)."
+  },
+  {
+   "marca": "Giuliano Mazzuoli",
+   "data": "2026-11-10",
+   "linha_marcas": 605,
+   "linhas_relogios": "92352-92446",
+   "relogios": 95,
+   "vermelho": false,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes": 89,
+   "versao": 532,
+   "passadas": {
+    "1": [
+     89,
+     95
+    ]
+   },
+   "obs": "Base: catálogo oficial 2024 (56 refs), loja oficial, Exquisite Timepieces (inclusive páginas antigas escondidas .html), aBlogtoWatch, Europa Star, Monochrome. Coleções: Manometro (polido/escovado/Soleil/Bronze/Compressed/H10/Chrono/S/Titanium/Camouflage/Italia/edições), Contagiri, Trasmissione Meccanica, Carrara, Cemento, Michelangelo, Manometrino. EveryWatch atrás de login. Corrigidos I e J. Glam Rock (606) é grande: próxima execução só com ela; Glashütte Original (607) também grande."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
