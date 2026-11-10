@@ -13,3 +13,4 @@
 - Europa Star 2008: Margaritelli colaborou anos com Giorgio Armani; vendas em 21 países; Neiman Marcus.
 - JCK ?p=29911: distribuição EUA/Canadá via Glam Rock Distribution LLC (GRD LLC) de Margaritelli.
 ## Fim da 2ª passada: hotwomenfashion, jck 29911, jewellermag galeria = 3 seguidas sem novidade. 2ª trouxe muitos (>5) → 3ª passada.
+- Moodie Davitt: Miami Beach Art Deco (caixas redonda/quadrada/barril/retangular, €175-225) estreia TFWA Cannes; sede Glam Rock International FZCO em Dubai; fundador/designer Margaritelli.
