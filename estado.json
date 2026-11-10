@@ -9437,5 +9437,21 @@
   "German Baillot (linha 598)": "Verificado em 10/11/2026 (v526): não é marca comercial, é o designer Germain Baillot (Genebra); só 3 conceitos digitais gravados (Relógios 90622-90624). Avaliar com o usuário se a linha deve continuar na aba Marcas."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-10T06:42:36Z",
+ "ultimo_sinal": "2026-11-10T06:42:36Z",
+ "em_andamento": {
+  "marcas": [
+   "Giberg Haute Horlogerie",
+   "Gigandet",
+   "Giorgio Piola"
+  ],
+  "linha_marcas": 601,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
