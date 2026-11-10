@@ -9663,19 +9663,21 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T16:42:14Z",
- "ultimo_sinal": "2026-11-10T16:42:14Z",
+ "ultimo_sinal": "2026-11-10T16:50:05Z",
  "em_andamento": {
   "marcas": [
-   "Golby",
-   "Golden Concept",
-   "Gorilla"
+   "Golby"
   ],
   "linha_marcas": 610,
   "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "relogios": "historico/parcial_Golby_relogios.txt",
+  "fontes": "historico/parcial_Golby_fontes.txt",
+  "notas": "historico/notas_Golby.md",
+  "secoes_feitas": [
+   "1",
+   "3",
+   "9"
+  ],
   "passada": 1
  }
 }
