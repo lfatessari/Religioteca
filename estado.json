@@ -9663,7 +9663,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T16:42:14Z",
- "ultimo_sinal": "2026-11-10T16:50:05Z",
+ "ultimo_sinal": "2026-11-10T16:58:29Z",
  "em_andamento": {
   "marcas": [
    "Golby"
@@ -9675,6 +9675,8 @@
   "notas": "historico/notas_Golby.md",
   "secoes_feitas": [
    "1",
+   "2",
+   "2c",
    "3",
    "9"
   ],
