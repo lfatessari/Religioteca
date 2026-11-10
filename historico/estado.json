@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 609,
- "ultima_versao": 535,
+ "proxima_linha_marcas": 610,
+ "ultima_versao": 536,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9576,6 +9576,33 @@
     ]
    },
    "obs": "Base: loja oficial glycinewatches.com (428 produtos, 9 págs via Firecrawl) + fichas glycine-watch.ch; arquivo antigo da Jura Watches (SKUs GL-xxx, só por busca site:), WatchCharts, Glycintennial (vintage), Masterhorologer (títulos), Timepiece, World of Watches, Gnomon, Analog Shift, 1stDibs, WatchTime.net. Firecrawl acabou os créditos no meio (≈78 usados). Vermelha: arquivo Jura incompleto, WatchCharts págs 2-4, EveryWatch com login, ~180 números GL sem registro, vintage sem refs. Corrigido I. Golay Spierer (609) é a próxima."
+  },
+  {
+   "marca": "Golay Spierer",
+   "data": "2026-11-10",
+   "linha_marcas": 609,
+   "linhas_relogios": "94312-94355",
+   "relogios": 44,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – golay-spierer.ch (fichas /watch/ e /product/ bloqueadas por robots ou erro)",
+   "fontes": 72,
+   "versao": 536,
+   "passadas": {
+    "1": [
+     37,
+     10
+    ],
+    "2": [
+     18,
+     7
+    ],
+    "3": [
+     17,
+     9
+    ]
+   },
+   "obs": "Tratada como grande por ser marca de peças únicas sob encomenda (160+ criações desde 2001). 18 linhas vieram só dos títulos de busca site:golay-spierer.ch (link da página). Base: site oficial (home, Opus 1/2, Wtoff, I&MT), Automotiv Press, Independent Watchmaking, WorldTempus (artigos e fichas Gibeon/Mysterious Lock/Napoleão), GPHG 2006 (The 117, Mystery Watch), leilões (Sotheby's, Artcurial, Gros & Delettrez, Antiquorum, Koller, Baer & Bosch), The Watch Gallery (Golay Geneva), TimeZone (Peter Pan). Firecrawl sem créditos. Corrigidos C, G, H, I, J. Golden Concept (611) parece grande (capas de Apple Watch em dezenas de variações): próxima execução faz Golby (610) sozinha ou com outras pequenas conforme dimensionamento."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9629,7 +9656,9 @@
   "German Baillot (linha 598)": "Verificado em 10/11/2026 (v526): não é marca comercial, é o designer Germain Baillot (Genebra); só 3 conceitos digitais gravados (Relógios 90622-90624). Avaliar com o usuário se a linha deve continuar na aba Marcas.",
   "Gigandet (linha 602)": "Dimensionada em 10/11/2026 como GRANDE: Gigandet suíça vintage (cronógrafos Wakmann/Gigandet, Valjoux 7733/7734, Datic) + Gigandet alemã moderna de Amazon/Galaxus com centenas de anúncios (Minimalism, Red Timeless, Sea Ground etc.). Fazer sozinha.",
   "Girard Perregaux (linha 604)": "Gravada em 10/11/2026 (v531), 842 relógios (91510-92351), vermelha. Só ~105 linhas com foto; o resto tem link da página (Essential Watches allwatches, WatchBase, índices CollectorSquare). Complemento futuro com Firecrawl: catálogo oficial girard-perregaux.com/en-ch/watches (JavaScript; fotos em api.girard-perregaux.com/media/catalog/product/... com hash), páginas 2-4 de Bucherer/Ethos, WatchBase laureato (client_error), EveryWatch (login), Chrono24; famílias da Essential Watches com fotos (Vintage-45, Richeville, World-Time, Sea-Hawk, Ferrari, Cat-s-Eye); vintage pré-1990 (Gyromatic, Gyrochron, Olimpico, Mercedes, quartzo 1970, relógios de bolso do século XIX); variações de pedras e cores dos Cat's Eye e 1966 Lady.",
-  "Glashütte Original (linha 607)": "Gravada em 10/11/2026 (v534), 987 relógios (92633-93619), vermelha. Complemento futuro: fotos das ~79 linhas só com link; WatchBase páginas 'vintage' e 'spezialist' e famílias antigas (Sport Evolution, Navigator, Karree completos); Senator Automatic/Panorama Date 39-xx dos anos 1990-2000; Meisterwerke (Julius Assmann 1-3, Alfred Helwig 1); edições regionais (China, Bucherer, Wempe, Japão); my-watchsite página 2; Chrono24 e EveryWatch (login). GUB vintage (antes de 1994) não entrou: fica para a linha 630 'GUB Glashütte'."
+  "Glashütte Original (linha 607)": "Gravada em 10/11/2026 (v534), 987 relógios (92633-93619), vermelha. Complemento futuro: fotos das ~79 linhas só com link; WatchBase páginas 'vintage' e 'spezialist' e famílias antigas (Sport Evolution, Navigator, Karree completos); Senator Automatic/Panorama Date 39-xx dos anos 1990-2000; Meisterwerke (Julius Assmann 1-3, Alfred Helwig 1); edições regionais (China, Bucherer, Wempe, Japão); my-watchsite página 2; Chrono24 e EveryWatch (login). GUB vintage (antes de 1994) não entrou: fica para a linha 630 'GUB Glashütte'.",
+  "Golay Spierer (linha 609)": "Gravada em 10/11/2026 (v536), 44 relógios (94312-94355), vermelha. Complemento futuro com navegador/Firecrawl: golay-spierer.ch/all-watches/ e cada ficha /watch/ e /fr/watch/ (La Libellule, La Mokume, La Charles, La Zodiac, La Sanaa, La Etile, La Christelle, Hibben, Classic Spirit, Esteban F., Esteban P, Scuderia 22), loja /product/ (Transit, Holly, I&MT SV11/SV12/SV22), portfólio antigo /website/dt_portfolio/ (Lune Passante, Legend Racer, IMT-W, Esteban, categorias vintage/chronographe), f_en_production/2006; masterhorologer.com 2012 e 2020; Instagram @golay_spierer; Heroïca Tempus Opus 3 (Sissi?).",
+  "Golden Concept (linha 611)": "Dimensionada em 10/11/2026 como provável GRANDE (capas de luxo para Apple Watch em muitas cores/materiais, coleções RST/SP/CL, colaborações Mansory e Blvck, linha mecânica suíça desde 2023): fazer sozinha."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": []
