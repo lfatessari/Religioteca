@@ -9607,7 +9607,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T14:43:53Z",
- "ultimo_sinal": "2026-11-10T15:16:56Z",
+ "ultimo_sinal": "2026-11-10T15:18:04Z",
  "em_andamento": {
   "marcas": [
    "Glycine"
@@ -9618,15 +9618,19 @@
   "fontes": "historico/parcial_Glycine_fontes.txt",
   "notas": "historico/notas_Glycine.md",
   "secoes_feitas": [
+   "1",
    "2",
    "2c",
-   "3-parcial",
-   "4-parcial",
-   "5-parcial",
-   "7-parcial",
-   "8-parcial",
-   "9-parcial"
+   "3",
+   "4",
+   "5",
+   "6-parcial",
+   "7",
+   "8",
+   "9",
+   "10",
+   "passada1"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
