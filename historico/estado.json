@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 616,
-  "ultima_versao": 542,
+  "proxima_linha_marcas": 617,
+  "ultima_versao": 543,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9730,6 +9730,33 @@
       "site_bloqueado": true,
       "fontes": 96,
       "versao": 542
+    },
+    {
+      "marca": "Grand Seiko",
+      "linha_marcas": 616,
+      "data": "2026-11-10",
+      "versao": 543,
+      "linhas_relogios": "95513-96235",
+      "relogios": 723,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 81,
+      "passadas": {
+        "1": [
+          52,
+          639
+        ],
+        "2": [
+          14,
+          63
+        ],
+        "3": [
+          15,
+          21
+        ]
+      },
+      "obs": "Base: site oficial (coleções), Exquisite Timepieces (fotos), Righttime (arquivo), plus9time/piazo/gressive/luxurybazaar/webchronos (lançamentos anuais e edições limitadas do Japão), listas de referências (WatchProZine, The Grand Seiko Guy), catálogos Seiko 2007-2015. 213 linhas só com link de página. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
