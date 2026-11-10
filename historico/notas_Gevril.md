@@ -5,3 +5,4 @@
 - Usa códigos (SKU = referência, ex. 48702, 3124B, 4850A).
 - womens-watches (629) e mens-watches (589) misturam GV2; as páginas 4,5,6,9,12 e 1 de womens eram só GV2.
 - Chrono24 abriu (184 anúncios, pág.1 de 4). Delray Watch: Tribeca antigos. Jomashop pediu permissão (PROVENANCE) - não repetir.
+- Triton (3405/3406A) e 4702 são GV2 -> fora. ebay b page deu SERVER_ERROR.
