@@ -10,3 +10,8 @@ G glycine-watch.ch redireciona (302) para glycinewatches.com (loja oficial Invic
 - Firecrawl: créditos acabaram às ~15:05 UTC (≈78 créditos usados: products.json 10, all-watches 45, Jura sitemap/busca 8, WatchCharts 10). WatchCharts brand págs 2-4 (163 modelos) não abertas.
 - Jura Watches: arquivo enorme de produtos antigos (SKU GL-001…GL-486) escondidos; só por busca site:. Fotos sem padrão fixo (gl-NNN.jpg ou gl-NNN-<handle>.jpg) -> link da página.
 - Feito: 2 (loja), parte 2c, glycintennial (vintage sem refs), WatchBase airman, WatchCharts p1 + index, Jura (buscas airman/combat/incursore/lagunare/kmu), Right Time.
+## Aba Marcas
+- G glycine-watch.ch redireciona p/ glycinewatches.com (loja oficial atual). K logo: https://www.glycinewatches.com/cdn/shop/files/Glycine__watch__Logo_svg.png
+- H @glycinewatches confirmado (página History oficial).
+- I: Wikipedia confirma 1914, Bienne, Eugène Meylan, Airman 1953, uso por pilotos da USAF no Vietnã, Invicta 2016 (WatchPro ago/2016). Site oficial (History) cita fundadores Charles Perret, Georges Flury e Fernand Engel -> divergência, anotar em M. Airman no Gemini 5 (1965, Pete Conrad), Combat 1967.
+- J ok (Airman, Combat, Combat Sub, KMU 48, Airman 42 achados).
