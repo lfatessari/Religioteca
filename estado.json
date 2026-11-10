@@ -9271,7 +9271,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T00:42:28Z",
- "ultimo_sinal": "2026-11-10T00:42:28Z",
+ "ultimo_sinal": "2026-11-10T00:49:49Z",
  "em_andamento": {
   "marcas": [
    "Georg Jensen"
@@ -9281,7 +9281,10 @@
   "relogios": "historico/parcial_Georg_Jensen_relogios.txt",
   "fontes": "historico/parcial_Georg_Jensen_fontes.txt",
   "notas": "historico/notas_Georg_Jensen.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "4"
+  ],
   "passada": 1
  }
 }
