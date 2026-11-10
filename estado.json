@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 602,
- "ultima_versao": 528,
+ "proxima_linha_marcas": 603,
+ "ultima_versao": 529,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9403,6 +9403,33 @@
     ]
    },
    "obs": "Só 3 modelos (Niura em 3 versões, Olora, Alagaro), 2018, calibre Trilevis 6118. Desde 2020 foca em joias. Site giberg.com fora das buscas; Firecrawl sem créditos. Corrigidos C, D, I, J. Gigandet (602) dimensionada como grande: execução só com Giberg."
+  },
+  {
+   "marca": "Gigandet",
+   "data": "2026-11-10",
+   "linha_marcas": 602,
+   "linhas_relogios": "91185-91466",
+   "relogios": 282,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes": 63,
+   "versao": 529,
+   "passadas": {
+    "1": [
+     39,
+     158
+    ],
+    "2": [
+     12,
+     8
+    ],
+    "3": [
+     12,
+     30
+    ]
+   },
+   "obs": "Marca alemã (loja Gigandet na Otto, eBay, Amazon por títulos) + vintage suíça Gigandet/Wakmann. Site oficial não encontrado; Amazon bloqueada (robots); Firecrawl sem créditos. 139 com foto, 143 com link do anúncio. Corrigidos I e J."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9457,34 +9484,5 @@
   "Gigandet (linha 602)": "Dimensionada em 10/11/2026 como GRANDE: Gigandet suíça vintage (cronógrafos Wakmann/Gigandet, Valjoux 7733/7734, Datic) + Gigandet alemã moderna de Amazon/Galaxus com centenas de anúncios (Minimalism, Red Timeless, Sea Ground etc.). Fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-10T07:42:44Z",
- "ultimo_sinal": "2026-11-10T08:08:21Z",
- "em_andamento": {
-  "marcas": [
-   "Gigandet"
-  ],
-  "linha_marcas": 602,
-  "grande": true,
-  "relogios": "historico/parcial_Gigandet_relogios.txt",
-  "fontes": "historico/parcial_Gigandet_fontes.txt",
-  "notas": "historico/notas_Gigandet.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a",
-   "3a"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }
