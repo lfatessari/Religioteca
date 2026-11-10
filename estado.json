@@ -9552,7 +9552,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T11:41:25Z",
- "ultimo_sinal": "2026-11-10T11:53:30Z",
+ "ultimo_sinal": "2026-11-10T11:54:58Z",
  "em_andamento": {
   "marcas": [
    "Glam Rock"
@@ -9564,11 +9564,13 @@
   "notas": "historico/notas_GlamRock.md",
   "secoes_feitas": [
    "1",
+   "2",
    "3",
    "5",
    "7",
    "8",
-   "9"
+   "9",
+   "2a-passada"
   ],
   "passada": 1
  }

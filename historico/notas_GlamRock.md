@@ -9,3 +9,4 @@
 - Coleções vistas: Miami, Miami Beach, SoBe, SoBe Tech, SoBe Mood, SoBe Tachymeter, Lady? , Palm Beach, Bal Harbour, Aqua Rock (GR50), Gulfstream (GR70), Cruise Line, Florida, Marine, Twisted, Around The Time, Slim Vintage Glam, Vintage Glam, Miami Beach Art Deco (MBD/MDB, linha barata Woot), Conta Tempo (QVC), Black Diamonds.
 - PRNewswire 15/09/2014: Gevril Group representante exclusivo EUA/Canadá/Caribe; coleções Bal Harbour, Miami, Vintage Glam. Lançamento Itália jun/2006; Binda distribuição 2007.
 - Philstar 2009: coleções Smalto, relógios com estampa Pucci, 'Glam Rock' com pedras e couro laranja (sem refs). Austrália 2011: Miami, SoBe, AquaRock; >7000 pontos de venda.
+## Fim da 1ª passada (11:53): 3+ fontes seguidas sem novidade (philstar x3, 300magazine). Vermelha: centenas de refs GR sem listar. 2ª passada: mais refs galaxus/digitec, ashford, amazon, jomashop, eBay.com, worldofwatches.
