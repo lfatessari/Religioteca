@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 600,
- "ultima_versao": 526,
+ "proxima_linha_marcas": 601,
+ "ultima_versao": 527,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9357,6 +9357,33 @@
     ]
    },
    "obs": "Munique, desde 2005. 500 m, T~500 m, 600 m. Corrigidos B, C, D, G, I, J."
+  },
+  {
+   "marca": "Gevril",
+   "data": "2026-11-10",
+   "linha_marcas": 600,
+   "linhas_relogios": "90637-91179",
+   "relogios": 543,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "",
+   "fontes": 129,
+   "versao": 527,
+   "passadas": {
+    "1": [
+     107,
+     478
+    ],
+    "2": [
+     12,
+     7
+    ],
+    "3": [
+     10,
+     12
+    ]
+   },
+   "obs": "Site oficial Shopify (~600 Gevril + GV2). GV2 fora (sem linha em Marcas). Firecrawl sem créditos. Vermelha: páginas da lista do site não alcançadas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9410,32 +9437,5 @@
   "German Baillot (linha 598)": "Verificado em 10/11/2026 (v526): não é marca comercial, é o designer Germain Baillot (Genebra); só 3 conceitos digitais gravados (Relógios 90622-90624). Avaliar com o usuário se a linha deve continuar na aba Marcas."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-10T05:43:03Z",
- "ultimo_sinal": "2026-11-10T06:09:18Z",
- "em_andamento": {
-  "marcas": [
-   "Gevril"
-  ],
-  "linha_marcas": 600,
-  "grande": true,
-  "relogios": "historico/parcial_Gevril_relogios.txt",
-  "fontes": "historico/parcial_Gevril_fontes.txt",
-  "notas": "historico/notas_Gevril.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }

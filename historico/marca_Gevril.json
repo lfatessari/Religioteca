@@ -1,0 +1,658 @@
+{
+ "marca": "Gevril",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "GV2 (marca-irmã do Gevril Group, vendida no gevril.com, centenas de modelos) não entrou: não tem linha própria na aba Marcas — sugerir criar. Vermelho: o site oficial lista ~600 Gevril (454 masc. + 146 fem.), várias páginas da lista não foram alcançadas; linhas antigas (Soho, Lenox, Columbus Circle, Washington St., Lafayette) com poucas referências achadas. Ainda a verificar: Instagram @gevrilwatches e cidade (C); J poderia incluir Hudson Yards, Yorkville e Seacloud.",
+ "correcoes": {},
+ "fontes": [
+  {
+   "url": "https://gevril.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/atlantic-avenue.oembed",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/pages/mens-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchmaxx.com/gevril",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/wall-street",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.gevril.com/collections/canal-st",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gevril.com/collections/mariner-row",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gevril.com/collections/stuyvesant",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/wall-street?page=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches/wall-street",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gevril.com/collections/grand-concourse",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.gevril.com/collections/ticonic",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gevril.com/collections/flatiron-1",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gevril.com/collections/herald-square-chronograph",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.gevril.com/collections/wall-street?page=3",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-special-editions",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-classic-watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-sports-watches",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril/vanderbilt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril/avenue-of-americas",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches?page=3",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches?page=4",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches?page=8",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches?page=9",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches?page=21",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-chronograph-multi-function-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-chronograph-multi-function-watches?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gevril.com/collections/mens-watches?page=14",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gevril.com/collections/mens-watches?page=34",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-womens-watches",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-womens-watches?page=7",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/womens-watches?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/womens-watches?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/womens-watches?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/womens-watches?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/womens-watches?page=12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/womens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/gevril?p=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tic-tock.com/watches/all/Gevril",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jomashop.com/gevril-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/blogs/history/historic-gevril-tribeca-watch-collection",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.chrono24.com/gevril/index.htm",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://delraywatch.com/gevril-1/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://everywatch.com/gevril",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/fortuna",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.gevril.com/collections/atelir-57",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gevril.com/collections/west-village-fusion-elite",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gevril.com/collections/empire",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-mens-watches/yorkville",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gevril.com/collections/mens-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/gotham-1",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gevril.com/collections/hudson-yards",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/time-square",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gevril.com/collections/mens-avenue-of-americas",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gevril.com/collections/regina",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.gevril.com/collections/high-line",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/ascari",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gevril.com/collections/roosevelt",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://gevril.com/collections/riverside",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gevril.com/collections/belmont",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://gevril.com/collections/mulberry",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://gevril.com/collections/vaughn",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/wind-master",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gevril.com/collections/montauk",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://gevril.com/collections/jones-street",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://gevril.com/collections/gramercy",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.gevril.com/collections/gandria",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/pier-90",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://gevril.com/collections/morcote",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://gevril.com/collections/airolo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gevril.com/collections/lugano",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.gevril.com/collections/lugano-diamond-30mm",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://gevril.com/collections/avenue-of-americas-mini",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.gevril.com/collections/new-york-avenue-of-americas-glamour",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gevril.com/collections/yorkville",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.gevril.com/collections/five-points-mechanical-manual-winding-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/avenue-of-americas-serenade",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/avenue-of-americas",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/gevril/tribeca/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/gevril/jewelry/watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://righttime.com/rt/pre-owned/gevril_r024_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/gevril_4702.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/gevril-4110-limited-edition-automatic-12989",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/gevril-tribeca-paul-newman-chronograph-re-issue-as12883",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gevril.com/products/3405",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/new-amsterdam",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/kingsgate-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/gevril-columbus-circle-limited",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/gevril-avenue-of-america.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004085421.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/4704_a.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/hudson-yards-1",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gevril.com/collections/hudson-yards-specialty-dials",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/hudson-yards-chronograph",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-sports-watches/?page=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril-classic-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril/seacloud",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/lenox",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gevril.com/collections/west-30th-st",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/shop/mens-gevril-watches/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.grayandsons.com/w516982-gevril-la-fayette-36mm-2900.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/collections/gevril/wall-street",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/products/gevril-oculus-automatic-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gevril.com/products/48561",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/curious-case-gevril-tribeca-5-reasons-king-homage-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112829-gevril-soho-deluxe.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2008/07/29/gevril-soho-deluxe-limited-edition-automatic-watch-full-calendar-moon-phase/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jewelry.ha.com/itm/timepieces/gevril-avenue-of-americas-gmt-automatic-with-power-reserve-ref-5023/a/5515-54245.s",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/gevril-avenue-of-americas-automatic-moon-phase-watch-available-on-james-list",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-columbus-circle-stainless-steel-blue-dial-gevril-ger2000b",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tourneau.com/watches/pre-owned-gevril/avenue-of-americas-gmt-rose-gold-automatic-5121-VGV00075.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095095-gevril-serenade-2006.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1000863594-gevril-the-best-of-old-and-new.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/1001480003-avenue-of-americas-glamour-collection-by-gevril.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.leadersmag.com/issues/2009.4_oct/PDFs/Dpts/Gevril.pdf",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://hauteliving.com/2008/02/timeless-timepieces/2318/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/gevril-tribeca",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/products/7449yl",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/gevril_7248rl.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thevirtualmall.co.uk/products/gevril/gevril-mens-43514-vaughn-swiss-made-automatic-sa110-in-brown",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/womens-avenue-of-americas-mini-calfskin-alligator-mop-dial-gevril-ger7246nv",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://windycitywatchcollector.com/collections/all/products/gevril-vaughn-pilot-44mm-automatic",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/gevril-avenue-of-americas-mini-white-dial-ladies-watch-7040nb.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/products/gevril-infinita-diamond",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gevril.com/products/13021",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://www.thevirtualmall.co.uk/products/gevril/airolo-swiss-diamond-13147b-swiss-quartz-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gevril.com/products/gevril-infinita-diamond-6",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}
