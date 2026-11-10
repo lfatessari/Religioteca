@@ -13,3 +13,4 @@ Códigos: refs de 7 dígitos 35xxxxx (ex.: Koppel 319 3575009; Concave Nordic Ni
 - VERMELHA: eBay com 380 anúncios (só pág. 1 vista), Jura ~250 GJN (só ~60 vistos), site oficial sem lista, muitos nº de design sem ref de 7 dígitos.
 - J da aba Marcas: Delphis e Reflect não são linhas de relógio (Reflect = joias). 
 - 2ª passada: Jura site: com novos termos, eBay/Japão (Yahoo, Mercari), designers vintage, §3 extras.
+- 2ª passada: 13 fontes, 5 relógios novos (AFPBB pendant 2006, Gray's 1326/1327, Koppel 517 Black Edition LE50, Koppel denim). Encerrada (3 sem novidade). ≥5 → 3ª passada.
