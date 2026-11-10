@@ -1,0 +1,598 @@
+{
+ "marca": "Gorilla",
+ "usa_codigos": true,
+ "logo": "https://gorilla-watches.com/cdn/shop/files/Gorilla_text_Gold_on_white.jpg?v=1716482251",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://redarmywatches.com/collections/gorilla-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/gorilla",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://azfinetime.com/collections/gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/pages/contact",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/collections/fastback-collection",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/collections/touring-39mm",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/collections/wandering-hours-42mm",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/collections/chronograph-skeleton-44mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/pages/press",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/blogs/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/blogs/news?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/blogs/news?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com.my/products/gorilla-fastback-carbon-trufflehunter",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/gorilla-fastback-gt-drift-mirage-fby23-0-094-210000033621.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://eye-eye-isuzu.co.jp/en/blogs/column/gorillawatches-guide",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/catalog/174647",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/catalog/174642",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/catalog/174643",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/catalog/174644",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/catalog/174645",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/catalog/174646",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gressive.jp/catalog/gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/news/207110",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/news/183024",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/news/215702",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gressive.jp/gmc/adv/210802-hassin-gorilla",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/gorilla-release-2025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/gorilla/limited-edition-yes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/gorilla-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/gorilla-fastback-watch-new-colors-2017",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/2016/11/05/design-freedom-affordable-luxury-gorilla-fastback-octavio-garcia-lukas-gopp/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://topperjewelers.com/products/pre-owned-gorilla-22785",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/gorilla-fastback-touring-nero-aurelia-fby430-ns21000929911.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://azfinetime.com/collections/men-watches/products/gorilla-fby21-1-fastback-modena-heartbeat-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://azfinetime.com/collections/men-watches/products/gorilla-fby35-0-fastback-acid-green-gt-hypercar-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://azfinetime.com/products/gorilla-fbn02-0-fastback-thunderbolt-chronograph-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronos.com.mx/relojeria/relojes-gorilla/gorilla-fastback-gt/nomad-fby35-0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bauerjoyeros.com/collections/relojes-gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://yoshinaga.biz/gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/gorilla-watch-fastback-gt-bandit-bandit-truffelhunter-limited-edition.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/products/gorilla-watch-fastback-gt-mirage-limited-edition-fastback-gt-mirage-limited-edition.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/lipGC",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/gorilla/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchcompany.com/blog/best-gorilla-watches-guide",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/?p=37646",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/gorilla-fastback-watch/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/drift-mirage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/fastback-drift",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/drift",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/fastback-gt-drift",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/blogs/news/nwa-raw-x-gorilla-watches-fastback-celebratory-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/gorilla-fastback-gt-leon-pyramid-amg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.eye-eye-isuzu.co.jp/en/blogs/column/gorillawatches-montreux-acid-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2019/07/gorilla-fastback-raw-review.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/gorilla-bandit-gorilla-mirage/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cigadesign.com/products/series-x-gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaeruleon.jp/en/collections/gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/1751980",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-review-ciga-design-series-x-gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/products/ciga-design-x-gorilla-red-ss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/thunderbolt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/gorilla-watch-fastback-drift-safari-drift-safari",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/gorilla-watch-fastback-drift-mercury-fastback-drift-mercury",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/products/gorilla-fastback-drift-outlaw-special",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/24049745283?iid=186665437468",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/all/--gorilla--gt--fby190002-250---------id45037999.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ishida-watch.com/c/bestvintage/1002900005276-f12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://azfinetime.com/products/gorilla-fby39-0-fastback-gorilla-drift-safari-wandering-hours-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/s/416015",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gorilla/hotitem",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fril.jp/brand/2751/used/3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0203/hotitem/315140",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0203/hotitem/287249",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0084/hotitem/206538",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2020/brand/gorilla/01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hourstriker.com/brands/gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/category/Gorilla+Watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/gorilla-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/watches/gorilla-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gc-yukizaki.com/en/k/watch/gorilla",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/gorilla/watch-10322880",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.housekihiroba-en.com/shop/c/c01wego/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-review-gorilla-fastback-touring-aurelia-39mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=3754",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/2018/09/09/gorilla-fastback-gt-mirage-bandit-and-drift-racing-forward/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://firstclasse.com.my/pieces/introducing-the-gorilla-fastback-drift-mercury/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com.my/products/gorilla-fastback-carbon-acid-green-v-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com.my/products/gorilla-fastback-carbon-phantom-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-review-gorilla-outlaw-drift",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.eye-eye-isuzu.co.jp/en/blogs/fair/ibento-gorirauotuti-new-timepiece-drift-in-party",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/gorilla-fastback?_nkw=gorilla+fastback",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.eye-eye-isuzu.co.jp/en/blogs/column/gorirauotuti-newmoderudebiyu-fastback-gt-specter-fastback-gt-truffel-hunter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchnavi.getnavi.jp/topics/107033",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gorilla-watches.com/en-us/products/hokkaido-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamine.co.jp/watch/gorilla/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hrd-web.com/?mode=cate&cbid=2888163&csid=0",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2020/brand/gorilla/05.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aurifo.com/en/history-and-interesting-facts-about-gorilla-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/gorilla-fastback/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/gorilla/subcat-outlaw-drift",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://azfinetime.com/products/gorilla-fby34-0-drift-mirage-mk-2-satellite-discs-carbon-automatic",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://pendulum.co.th/brand/gorilla-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sincerewatch.com/brand/watches/gorilla/fastback-gt/gorilla-fastback-gt-sunset-le-fby360/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.central.co.th/th/gorilla/watches-jewelry/men-watches/swiss-made-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sincerewatch.com/gorilla-x-sincere-fastback-gt-sunset-le/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/?p=68709",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/1477327/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=109789",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/gorillas-outlaw-drift-puts-their-wandering-hours-complication-in-a-new-case-shape/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/new-gorilla-fastback-thunderbolt-chronograph/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.revolution.watch/catching-up-with-octavio-garcia-gorilla-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0148/hotitem/223588",
+   "passada": 2,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Cressier (Neuchâtel)",
+  "G": "gorilla-watches.com",
+  "I": "A Gorilla foi fundada em 2016 por Octavio Garcia (ex-designer-chefe da Audemars Piguet, responsável por versões do Royal Oak Offshore) e Lukas Gopp, com uma proposta clara: trazer a energia, os materiais e a estética do automobilismo e da cultura de carros para relógios acessíveis de design de autor. O nome e o espírito remetem à irreverência e à força.\n\nA marca aposta em materiais de alta tecnologia emprestados do mundo automotivo e aeroespacial — fibra de carbono forjado, alumínio anodizado, titânio — e num design modular e ousado inspirado nos hot rods e muscle cars americanos e nas corridas. O Fastback (2016) e o Fastback GT trazem as horas num disco esqueletizado com ponteiro de segundos central e forte identidade racing, com movimentos automáticos Miyota a preços acessíveis para o nível de design; as complicações de horas errantes (Drift, Outlaw Drift) usam base ETA com módulo da Vaucher Manufacture Fleurier, e o Thunderbolt (2021) é um cronógrafo esqueletizado com módulo Dubois Dépraz. A marca captura o desejo por peças arrojadas e cheias de personalidade sem o preço da alta relojoaria.\n\nHoje a Gorilla ocupa o nicho dos relógios de design automotivo ousado e acessível, dirigindo-se a entusiastas de carros e de design que querem uma peça diferente e cheia de atitude. [⚠️ verificar status atual]",
+  "J": "Fastback (Phantom Black, RS White, Acid Green, Galaxy Blue), Fastback GT (Bandit, Mirage, Spectre, Nomad, Truffelhunter), Fastback Legacy, Drift / Outlaw Drift (horas errantes), Fastback Thunderbolt Chronograph, Touring Aurelia 39 mm"
+ },
+ "observacoes": "Corrigido: C Genebra → Cressier (NE) (endereço do site oficial: Route de Neuchâtel 30b, 2088 Cressier); G gorillawatches.ch → gorilla-watches.com (site atual; o .ch era o antigo); J tirados 'Drone' e 'One Shot' (não existem em nenhuma fonte) e postas as linhas reais; I: fundação em 2016, trocado 'pequeno segundo descentralizado' e 'TechnoModul' (errados) por disco das horas com segundos central, Miyota, módulo Vaucher e Dubois Dépraz. Ainda a verificar: resto do texto de I ([⚠️ verificar status atual] mantido); Lukas Gopp ainda sócio?; tiragens divergentes (Drift Safari 50 ou 100; Drift Mirage 250 ou 500)."
+}
