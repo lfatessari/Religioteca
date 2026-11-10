@@ -9754,7 +9754,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T20:42:40Z",
- "ultimo_sinal": "2026-11-10T20:42:40Z",
+ "ultimo_sinal": "2026-11-10T20:52:01Z",
  "em_andamento": {
   "marcas": [
    "Graff"
@@ -9764,7 +9764,9 @@
   "relogios": "historico/parcial_Graff_relogios.txt",
   "fontes": "historico/parcial_Graff_fontes.txt",
   "notas": "historico/notas_Graff.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
