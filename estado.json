@@ -9352,5 +9352,21 @@
     "Gerald Charles (linha 595)": "Gravada em 10/11/2026 (v524), 113 relógios (90212-90324), vermelha. Firecrawl sem créditos. Complemento futuro: catálogos PDF 2022 e 2026 (cdn.shopify.com/.../GC_Catalogue_2026.pdf, pediu permissão), blog GC Tales e press.geraldcharles.com, EveryWatch (exige login), Star Lady 30/35 em outras cores/pedras (refs GC6/GC68), Star Lady Black (Europa Star swisstime 1004112891), GC20 Big Date e GCM3 da era Genta com foto, Renaissance GC5/GC15 com foto própria, Maestro dos anos 2011-2019 e peças sob encomenda; fotos de frente dos Masterlink Gem-Set e Stone Dial (Green/Purple)."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": []
+  "marcas_novas_sem_relogios": [],
+  "em_execucao": "2026-11-10T04:43:26Z",
+  "ultimo_sinal": "2026-11-10T04:43:26Z",
+  "em_andamento": {
+    "marcas": [
+      "Gerge",
+      "German Baillot",
+      "Germano & Walter"
+    ],
+    "linha_marcas": 597,
+    "grande": false,
+    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "fontes": "historico/parcial_<marca>_fontes.txt",
+    "notas": "historico/notas_<marca>.md",
+    "secoes_feitas": [],
+    "passada": 1
+  }
 }
