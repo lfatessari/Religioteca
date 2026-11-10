@@ -9782,7 +9782,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-10T21:42:17Z",
-  "ultimo_sinal": "2026-11-10T21:42:17Z",
+  "ultimo_sinal": "2026-11-10T21:50:10Z",
   "em_andamento": {
     "marcas": [
       "Graham"
@@ -9792,7 +9792,9 @@
     "relogios": "historico/parcial_Graham_relogios.txt",
     "fontes": "historico/parcial_Graham_fontes.txt",
     "notas": "historico/notas_Graham.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1"
+    ],
     "passada": 1
   }
 }
