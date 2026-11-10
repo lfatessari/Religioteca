@@ -6,3 +6,7 @@ Pendentes: masterhorologer 2012/2020, pursuitist Legend Racer, watchaser, sotheb
 Vermelha: 150+ peças sob encomenda desde 2001, quase nenhuma publicada; site oficial golay-spierer.ch fora das buscas; masterhorologer client_error; Firecrawl sem créditos.
 2ª passada: Einstein/Sissi, peças 'La <cliente>', ponteiro anti-horário, The 117 série, Legend Racer foto, leilões 2021-2026, francês/alemão.
 Cephée (Genève) usa movimento de C. Golay — outra marca, não entra.
+## 2ª passada
+- Busca extended trouxe site oficial golay-spierer.ch (home abre; /watch/ e /product/ em parte robots_disallowed ou erro de servidor).
+- Títulos de busca site:golay-spierer.ch/watch e /product (não contam como fonte aberta): La Quenographe, La Libellule, Classic Spirit, La Mokume, Esteban F., Scuderia 22, Transit, Holly, I&MT SV11/SV12/SV22, Geneva Cross (página; parece ser joia "Croix de Genève", não entrou).
+- Não abriram: masterhorologer (client_error), páginas acima (robots/erro).
