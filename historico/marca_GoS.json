@@ -1,0 +1,586 @@
+{
+ "marca": "GoS",
+ "usa_codigos": false,
+ "logo": "https://www.goswatches.com/images/stories/logo2.png",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "I": "A GoS (Gustafsson & Sjögren) nasceu de uma parceria extraordinária entre o mestre ferreiro de lâminas Johan Gustafsson e o mestre relojoeiro Patrik Sjögren, que se conheceram em 2007 e descobriram uma paixão comum pela antiga tradição artesanal escandinava. É difícil imaginar um contraste maior: um trabalha no calor e no barulho violento da forja; o outro, na tranquilidade da bancada de relojoeiro.\n\nO resultado dessa união improvável é inconfundível: cada relógio GoS traz um mostrador feito de aço damasco (pattern-welded) forjado à mão — a mesma técnica milenar que deu aos vikings lâminas superiores às de seus adversários. Como o processo de forja jamais se repete, cada mostrador tem um padrão único, tornando cada relógio uma peça de arte irrepetível (\"piece unique\"). A marca revive padrões decorativos da era viking em mostradores, ponteiros (em forma de lança) e gravações, e busca inspiração na natureza e na mitologia nórdica — como as coleções Nordic Seasons (as estações escandinavas) e Aurora (a aurora boreal), e a Sarek, batizada em homenagem ao parque nacional sueco. Usa pulseiras de couro de alce e movimentos suíços (Soprod e, nas coleções mais recentes, o La Joux-Perret G101 e o calibre GoS03 com microrrotor, de base Schwarz Etienne) com rotores gravados. Desde 2021, Patrik Sjögren é o único dono, e o aço damasco passou a ser forjado pelo também mestre sueco Conny Persson.\n\nHoje a GoS é uma das mais originais casas de relojoaria artesanal da Escandinávia, dirigindo-se a colecionadores que valorizam artesanato ancestral, unicidade e herança viking. Mais que marcar horas, cada peça carrega mil anos de tradição nórdica no pulso.",
+  "J": "Sarek, Nordic Seasons, Aurora, Norrsken, Winter Nights, Skadi, Völund Fullerö Sword, Sarek Trollius"
+ },
+ "observacoes": "Corrigido: I 'do bancada' → 'da bancada' e acrescentados aos movimentos o La Joux-Perret G101 e o calibre GoS03 (base Schwarz Etienne), confirmados no GPHG e na imprensa; J 'Sarek, Nordic Seasons, Aurora, Fullerö Sword, Sarek Trollius' → acrescentados Norrsken, Winter Nights e Skadi e 'Fullerö Sword' → 'Völund Fullerö Sword' (site oficial goswatches.com). Ainda a verificar: H @goswatches (Instagram não aberto); I diz que os fundadores 'se conheceram em 2007' — as fontes dizem que a marca foi fundada em 2007.",
+ "fontes": [
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/gos",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/gos-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/d/gos-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/gos/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1004089311-gos-watches-crossing-swords-since-2007.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ablogtowatch.com/gustafsson-hands-on",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ablogtowatch.com/gustafsson-sjogren-winter-nights-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/gustafsson-sjogren-watches-puts-damascus-steel-on-your-wrist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/new-release-gos-watches-sarek-akka/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://deployant.com/new-gos-watches-skadi/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://monochrome-watches.com/the-new-gos-by-martin-key-sweden-prominent-fashion-designer-forged-damascus-steel-gustafsson-sjogren-sarek-introducing-specs-price",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/skadi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/gos-sarek-collection-baselworld-2017-review/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchprozine.com/digest/gos-nordic-seasons-damascus-steel-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://twp-farro.squarespace.com/features/the-gos-nordic-seasons-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://300magazine.com/?p=8573",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/2016/09/21/gustaffson-sjogren-gos-introduces-sarek-surprisingly-first-ladies-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/gos-sarek-sunset-and-sunset-glacier-emulating-the-beauty-of-nature-with-luminous-mother-of-pearl/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/review-gos-sarek-and-sarek-akka-damascus-steel-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/2023/12/04/gos-sarak-frost-scandinavian-winter-for-the-wrist/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/gos-sarek-trollius/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-gos-sarek-midnight-blue-price/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-gos-patrik-sjogren-martin-key-collaboration-2026-edition-triskele-micro-rotor-automatic-specs-price/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/zweiter-akt-in-gold-wie-gos-und-martin-key-ihre-kollaboration-weiterentwickeln",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/fullero-sword-midnight-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/sarek-frost",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-gos-watches-sarek-trollius-damascus-steel-la-joux-perret-g100-g101-inpependent-watchmaking",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://osterjewelers.com/collections/gos",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/gos-skadi-viking-goddess-of-winter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/gos-sarek-frost-midnight-blue/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dubaiwatchweek.com/brands/gos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/sky-is-the-limit/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=217507",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=37375",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=31629",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=31620",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=37400",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/gos-aurora/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/gos-winter-nights/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/ouis-erard-watch-le-regulateur-louis-erard-x-gos-limited-edition-85248aa03-bsa02.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/gos-winter-nights-iii-forged-gold-damascus-steel-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxuriousmagazine.com/the-brand-new-gos-winter-nights-timepieces/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxuriousmagazine.com/the-gos-limited-edtion-nordic-seasons-gold-timepieces/amp/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/gustafsson-sjogren-nordic-seasons-winter-nights-damascus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/gustafsson-sjogren/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://monochrome-watches.com/the-gos-x-blackbadger-norrsken-brings-aurora-borealis-on-a-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/norrsken-northern-lights-guilloche",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/the-new-gos-norrsken-blue-live-pics-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/gustafsson-sjogren-bifrost-isbla-damascus-steel-dress-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/gustafsson-sjogren-blizzard-and-aurora-watches-are-so-metal",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/gustafsson-sjogren-dragon-watch-available-on-james-list",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/gustafsson-sjogren-lapland-sky-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/gustafsson-sjogren-damascus-vile-watch-oden-knife-set",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-the-gustafsson-sjogren-bifrost-isbla-and-the-new-midnight-sun-with-engraved-midgard-serpent",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/eternal-brightness-gustafsson-sjogren-midnight-sun/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/category/watch-brands-horology/gos/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/gos-43mm-sarek-w-ice-blue-damascus-dial-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/gos-sarek-afterglow-w-purple-damascus-dial-pre-order.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/gos-sarek-rissa-serial-1-2024",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/tag/gos/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/gos-x-horology-by-the-sea-sarek-northern-lights-boutique-edition-w-green-nano-ceramic-damascus-dial-serial-hbts-1-arriving-december",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/gos-sarek-ladies-midnight-blue/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22803",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=18610",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22680",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/gos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004086708.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beckertime.com/blog/swedish-ingenuity-organic-design-gos-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/gos/home",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/gos-varing-viking-watch.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loupethis.com/auctions/gos-sarek-frost-ice-blue-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2019/watches-l19071/lot.37.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/gos-sarek-afterglow-serial-hbts1-2026.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://touchofmodern.com/sales/gustafsson-sjogren-786cf97d-4dcd-4ec2-a518-632ae5c31704/gos-sarek-automatic-red",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1003869919-introducing-a-new-exclusive-swedish-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/gos-watches-baselworld-2013-damascus-steel-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-gos-gustafson-sjogren-sarek-rissa-guilloche-damascus-steel-independent-watchmaking-specs-price",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/gos-sarek-trollius/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://passion-horlogere.com/?p=4141",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004093085.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/collections",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.goswatches.com/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/component/tags/tag/sarek",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/component/content/article/179-gos-volund-fullero-sword?catid=16&Itemid=101",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/singer-track-1-damascus-only-watch-2019-a-collaboration-with-gos-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/index.php?layout=blog&start=15",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/component/content/category/16-collections?Itemid=101&start=10",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/norrsken",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goswatches.com/press",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://goswatches.com/index.php?Itemid=951&id=109&lang=se&option=com_content&view=article",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goswatches.com/component/tags/tag/aurora",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/custom/custom-dial",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/upcoming-auction-gos-northern-lights-for-ukraine",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/gustafsson-and-sjogrens-arctic-cool/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004086882.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=16349",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/chris-cashion-and-his-rather-special-gos-skadi",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesseven.blogspot.com/search/label/GoS",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/independents/sunday-watch--a-new-arrival-from-gos-/16.1685721.17450016/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/blog-news/180-gos-collaboration-with-louis-erard",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/blog-news/185-gos-time-to-watches-2026",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goswatches.com/blog-news/108-gos-opening-ceremony-in-doha-qatar",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004085349-gos.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/gos-bifrost-dresses",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/gos-nordic-seasons-winter-damascus-steel-release/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://independentwatchmaking.com/makers/gos-watches/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004083732.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/gos-watches-norrsken-guilloche-dial-with-bezel-and-case-in-black-damascus-stainless-steel-1/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/gos-sarek-w-ice-blue-dial-bespoke-piece-for-horology-by-the-sea",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/page-wf.forumpost/fi-712/ti-824768/dv-true/wf.responses.open_bLoB_s-0/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/gos-sarek-glacier/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/gos-sarek-ladies-sunset/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/gos-sarek-ladies-ice-blue/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/highlights/1004113951-gos-watches-sarek-frost-a-winter-wonderland.html",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

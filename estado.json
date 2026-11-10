@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 613,
-  "ultima_versao": 539,
+  "proxima_linha_marcas": 614,
+  "ultima_versao": 540,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9665,6 +9665,33 @@
         "1": "96 fontes, 47 relógios",
         "2": "20 fontes, 2 relógios"
       }
+    },
+    {
+      "marca": "GoS",
+      "linha_marcas": 613,
+      "data": "2026-11-10",
+      "versao": 540,
+      "linhas_relogios": "94657-94721",
+      "relogios": 65,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": false,
+      "fontes": 114,
+      "passadas": {
+        "1": [
+          80,
+          61
+        ],
+        "2": [
+          22,
+          7
+        ],
+        "3": [
+          12,
+          2
+        ]
+      },
+      "obs": "Peças de aço damasco (2008-2026). Site oficial goswatches.com só apareceu em busca na 2ª passada (coleções atuais e anteriores). Firecrawl sem créditos. Corrigidos I e J. ~14 linhas só com link de página."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -9722,36 +9749,8 @@
     "Golay Spierer (linha 609)": "Gravada em 10/11/2026 (v536), 44 relógios (94312-94355), vermelha. Complemento futuro com navegador/Firecrawl: golay-spierer.ch/all-watches/ e cada ficha /watch/ e /fr/watch/ (La Libellule, La Mokume, La Charles, La Zodiac, La Sanaa, La Etile, La Christelle, Hibben, Classic Spirit, Esteban F., Esteban P, Scuderia 22), loja /product/ (Transit, Holly, I&MT SV11/SV12/SV22), portfólio antigo /website/dt_portfolio/ (Lune Passante, Legend Racer, IMT-W, Esteban, categorias vintage/chronographe), f_en_production/2006; masterhorologer.com 2012 e 2020; Instagram @golay_spierer; Heroïca Tempus Opus 3 (Sissi?).",
     "Golden Concept (linha 611)": "Gravada em 10/11/2026 (v538), 220 relógios (94388-94607), vermelha. ~105 linhas só com link da página. Complemento futuro com Firecrawl: goldenconcept.com/products.json (centenas de produtos, inclusive despublicados), /blogs/news, /pages/press, coleção miami-edition, goldenconcept.jp (Japão), fotos de cada produto (cdn/shop/files/WC-<código>-<cor>...), linhas 40/41 mm de cada modelo de 2020-2023 (Gizmodo: 70 variações em 2021), edições em ouro 18K/platina sob encomenda.",
     "Gorilla (linha 612)": "Gravada em 10/11/2026 (v539), 49 relógios (94608-94656), vermelha. Firecrawl sem créditos. Complemento futuro: site oficial gorilla-watches.com fora das buscas (produtos esgotados/despublicados), site antigo gorillawatches.ch/product/... (WordPress), Chrono24/EveryWatch, edições de lojas japonesas (Kamine 115th Legacy Kobe sem foto, 'Fastback GT 43/50' do eBay), lacunas de referência FBY1.0/5.0/12.0/15-17/20/26-27/29-31/33/38/40-41, versões FBY02.2 e Fastback Carbon Galaxy Blue, refs das Touring Rosa/Cielo/Mirage, Mercury, Outlaw Special, Hokkaido.",
-    "GoS (linha 613)": "Dimensionada em 10/11/2026 como GRANDE (mostradores de aço damasco, peças únicas): fazer sozinha."
+    "GoS (linha 613)": "Gravada em 10/11/2026 (v540), 65 relógios (94657-94721), vermelha. Complemento futuro: páginas de cada coleção do site oficial goswatches.com (fotos e tiragens de Sarek, Sarek Ladies, Bifrost, Aurora 2013, Midnight Sun, Väring), press kits (goswatches.com/press), blog páginas antigas, Instagram @goswatches (peças sob encomenda), primeiros relógios de 2008 batizados pelo padrão do mostrador, Lapland Ice, Winter, Blizzard, Explosion e Dragon com mais detalhes, Kaplans (leilões suecos), masterhorologer (client_error), The Watch Pages (client_error)."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-10T19:41:59Z",
-  "ultimo_sinal": "2026-11-10T19:56:56Z",
-  "em_andamento": {
-    "marcas": [
-      "GoS"
-    ],
-    "linha_marcas": 613,
-    "grande": true,
-    "relogios": "historico/parcial_GoS_relogios.txt",
-    "fontes": "historico/parcial_GoS_fontes.txt",
-    "notas": "historico/notas_GoS.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada"
-    ],
-    "passada": 3
-  }
+  "marcas_novas_sem_relogios": []
 }
