@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 615,
-  "ultima_versao": 541,
+  "proxima_linha_marcas": 616,
+  "ultima_versao": 542,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9719,6 +9719,17 @@
         ]
       },
       "obs": "Base: 12-24.com (Dubai, 249 refs, só 1ª página de cada família abriu), GPHG, Worldtempus, Sotheby's/Phillips/Bonhams, imprensa. ~190 linhas só com link de página. Firecrawl sem créditos. Corrigido J."
+    },
+    {
+      "marca": "Graham",
+      "data": "2026-11-10",
+      "linha_marcas": 615,
+      "linhas_relogios": "95021-95512",
+      "relogios": 492,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 96,
+      "versao": 542
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -9777,37 +9788,9 @@
     "Golden Concept (linha 611)": "Gravada em 10/11/2026 (v538), 220 relógios (94388-94607), vermelha. ~105 linhas só com link da página. Complemento futuro com Firecrawl: goldenconcept.com/products.json (centenas de produtos, inclusive despublicados), /blogs/news, /pages/press, coleção miami-edition, goldenconcept.jp (Japão), fotos de cada produto (cdn/shop/files/WC-<código>-<cor>...), linhas 40/41 mm de cada modelo de 2020-2023 (Gizmodo: 70 variações em 2021), edições em ouro 18K/platina sob encomenda.",
     "Gorilla (linha 612)": "Gravada em 10/11/2026 (v539), 49 relógios (94608-94656), vermelha. Firecrawl sem créditos. Complemento futuro: site oficial gorilla-watches.com fora das buscas (produtos esgotados/despublicados), site antigo gorillawatches.ch/product/... (WordPress), Chrono24/EveryWatch, edições de lojas japonesas (Kamine 115th Legacy Kobe sem foto, 'Fastback GT 43/50' do eBay), lacunas de referência FBY1.0/5.0/12.0/15-17/20/26-27/29-31/33/38/40-41, versões FBY02.2 e Fastback Carbon Galaxy Blue, refs das Touring Rosa/Cielo/Mirage, Mercury, Outlaw Special, Hokkaido.",
     "GoS (linha 613)": "Gravada em 10/11/2026 (v540), 65 relógios (94657-94721), vermelha. Complemento futuro: páginas de cada coleção do site oficial goswatches.com (fotos e tiragens de Sarek, Sarek Ladies, Bifrost, Aurora 2013, Midnight Sun, Väring), press kits (goswatches.com/press), blog páginas antigas, Instagram @goswatches (peças sob encomenda), primeiros relógios de 2008 batizados pelo padrão do mostrador, Lapland Ice, Winter, Blizzard, Explosion e Dragon com mais detalhes, Kaplans (leilões suecos), masterhorologer (client_error), The Watch Pages (client_error).",
-    "Graff (linha 614)": "Gravada em 10/11/2026 (v541), 299 relógios (94722-95020), vermelha. ~190 linhas só com link de página (12-24.com sem foto nas listas; graff.com em JavaScript). Complemento futuro com Firecrawl/navegador: 12-24.com/watches/graff/?PAGEN_1=2..9 e páginas 2-4 de mastergraff/men/women (MasterGraff 92, Butterfly 36, GraffStar 28, Technical 18, ScubaGraff 3), fotos de cada ref no 12-24 (upload/resize_cache) e no graff.com (lojas por país), Worldtempus brand/graff-38143 (coleções), EveryWatch (login), peças únicas de alta joalheria (Unique Timepieces, Peony, Kiss, Threads), refs antigas G I…G XXXII dos anos 1990-2000 e relógios Graff dos anos 1970."
+    "Graff (linha 614)": "Gravada em 10/11/2026 (v541), 299 relógios (94722-95020), vermelha. ~190 linhas só com link de página (12-24.com sem foto nas listas; graff.com em JavaScript). Complemento futuro com Firecrawl/navegador: 12-24.com/watches/graff/?PAGEN_1=2..9 e páginas 2-4 de mastergraff/men/women (MasterGraff 92, Butterfly 36, GraffStar 28, Technical 18, ScubaGraff 3), fotos de cada ref no 12-24 (upload/resize_cache) e no graff.com (lojas por país), Worldtempus brand/graff-38143 (coleções), EveryWatch (login), peças únicas de alta joalheria (Unique Timepieces, Peony, Kiss, Threads), refs antigas G I…G XXXII dos anos 1990-2000 e relógios Graff dos anos 1970.",
+    "Graham (linha 615)": "Gravada em 10/11/2026 (v542), 492 relógios (95021-95512), vermelha. Site oficial graham1695.com fora das buscas e Firecrawl sem créditos. ~90 linhas só com link de página. Complemento futuro: site oficial (loja Shopify; fichas técnicas em cdn.shopify.com/s/files/1/0274/0921/9648/files/...), páginas de família da Essential Watches ainda não abertas (Chronofighter-Trigger-Flyback, Mercedes-GP-TimeZone, Silverstone/Timezone e Tourist), Jura Watches (vitrines em JS; SKUs GR-xxx), The Watch Pages (bloqueado), EveryWatch (login), Chrono24; nomes das Nose Art Sally/Lilly/Nina por referência (2CVAS.B21A/U04A/U05A), Grand Vintage Graffiti (5 variações na WorldTempus), primeiros modelos 1995-2002 (Chronograph Foudroyante, Chronofighter 1ª geração com refs)."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": [],
-  "em_execucao": "2026-11-10T21:42:17Z",
-  "ultimo_sinal": "2026-11-10T22:16:51Z",
-  "em_andamento": {
-    "marcas": [
-      "Graham"
-    ],
-    "linha_marcas": 615,
-    "grande": true,
-    "relogios": "historico/parcial_Graham_relogios.txt",
-    "fontes": "historico/parcial_Graham_fontes.txt",
-    "notas": "historico/notas_Graham.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2",
-      "p3"
-    ],
-    "passada": 2
-  }
+  "marcas_novas_sem_relogios": []
 }
