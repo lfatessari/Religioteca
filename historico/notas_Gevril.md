@@ -6,3 +6,6 @@
 - womens-watches (629) e mens-watches (589) misturam GV2; as páginas 4,5,6,9,12 e 1 de womens eram só GV2.
 - Chrono24 abriu (184 anúncios, pág.1 de 4). Delray Watch: Tribeca antigos. Jomashop pediu permissão (PROVENANCE) - não repetir.
 - Triton (3405/3406A) e 4702 são GV2 -> fora. ebay b page deu SERVER_ERROR.
+## Fim da 1ª passada (06:07 UTC)
+- ~520 relógios. Site oficial: 454 masculinos + 146 femininos Gevril; páginas 5-7,10-20,22-38 da lista masculina não vieram em busca (sem Firecrawl). Faltam ~80-100 refs atuais + linhas antigas (Soho, Chelsea, Lenox, Washington, Columbus Circle, Serenade 2005/06, Mini antigos).
+- Decisão: VERMELHO -> 2ª passada mirando linhas antigas/descontinuadas.
