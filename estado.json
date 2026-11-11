@@ -9904,7 +9904,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-11T01:41:06Z",
- "ultimo_sinal": "2026-11-11T01:41:06Z",
+ "ultimo_sinal": "2026-11-11T01:46:25Z",
  "em_andamento": {
   "marcas": [
    "Greubel Forsey"
@@ -9914,7 +9914,10 @@
   "relogios": "historico/parcial_Greubel Forsey_relogios.txt",
   "fontes": "historico/parcial_Greubel Forsey_fontes.txt",
   "notas": "historico/notas_Greubel Forsey.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
