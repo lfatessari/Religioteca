@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 871,
- "ultima_versao": 558,
+ "ultima_versao": 559,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9847,6 +9847,17 @@
    "vermelho": true,
    "site_bloqueado": true,
    "fontes": 173
+  },
+  {
+   "data": "2026-11-11",
+   "versao": 559,
+   "marca": "Aadvee",
+   "obs": "Faixa (E) = 2 e preço médio (F) = 2355 preenchidos na linha da Aadvee, que estavam vazios. Fonte: resposta da própria marca num comentário do Instagram (review do @allabouthorology, reel C7tABHuS9Pa): 'The AA-01 is priced at INR39,531'; ₹1 = R$ 0,05957 (Wise, 11/11/2026). M atualizado. corrige_preco.py: só E, F e M da linha mudaram, RESULTADO OK. Legenda do post (instagram.com/p/Dfmdamfli0O) editada para faixa 2.",
+   "fora_da_sequencia": true,
+   "correcoes": [
+    "E",
+    "F"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9915,7 +9926,5 @@
   "Marcas novas v548 (11/11/2026)": "33 marcas do Microbrand Atlas (números e letra A) inseridas na aba Marcas, sem relógios e fora de marcas_novas_sem_relogios. Dados em historico/marcas_novas_2026-11/lote2.json."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-11T12:59:18Z",
- "ultimo_sinal": "2026-11-11T12:59:18Z"
+ "marcas_novas_sem_relogios": []
 }
