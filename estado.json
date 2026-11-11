@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 620,
- "ultima_versao": 544,
+ "proxima_linha_marcas": 622,
+ "ultima_versao": 545,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9814,6 +9814,28 @@
     ]
    },
    "obs": "GRD = GuardsRed Design; ~7 linhas só com link de página (sem fotos individuais)."
+  },
+  {
+   "marca": "Greco Genève",
+   "linha_marcas": 620,
+   "data": "2026-11-11",
+   "versao": 545,
+   "linhas_relogios": "96279-96293",
+   "relogios": 15,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 38
+  },
+  {
+   "marca": "Greiner",
+   "linha_marcas": 621,
+   "data": "2026-11-11",
+   "versao": 545,
+   "linhas_relogios": "96294-96306",
+   "relogios": 13,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 22
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9875,26 +9897,10 @@
   "Graff (linha 614)": "Gravada em 10/11/2026 (v541), 299 relógios (94722-95020), vermelha. ~190 linhas só com link de página (12-24.com sem foto nas listas; graff.com em JavaScript). Complemento futuro com Firecrawl/navegador: 12-24.com/watches/graff/?PAGEN_1=2..9 e páginas 2-4 de mastergraff/men/women (MasterGraff 92, Butterfly 36, GraffStar 28, Technical 18, ScubaGraff 3), fotos de cada ref no 12-24 (upload/resize_cache) e no graff.com (lojas por país), Worldtempus brand/graff-38143 (coleções), EveryWatch (login), peças únicas de alta joalheria (Unique Timepieces, Peony, Kiss, Threads), refs antigas G I…G XXXII dos anos 1990-2000 e relógios Graff dos anos 1970.",
   "Graham (linha 615)": "Gravada em 10/11/2026 (v542), 492 relógios (95021-95512), vermelha. Site oficial graham1695.com fora das buscas e Firecrawl sem créditos. ~90 linhas só com link de página. Complemento futuro: site oficial (loja Shopify; fichas técnicas em cdn.shopify.com/s/files/1/0274/0921/9648/files/...), páginas de família da Essential Watches ainda não abertas (Chronofighter-Trigger-Flyback, Mercedes-GP-TimeZone, Silverstone/Timezone e Tourist), Jura Watches (vitrines em JS; SKUs GR-xxx), The Watch Pages (bloqueado), EveryWatch (login), Chrono24; nomes das Nose Art Sally/Lilly/Nina por referência (2CVAS.B21A/U04A/U05A), Grand Vintage Graffiti (5 variações na WorldTempus), primeiros modelos 1995-2002 (Chronograph Foudroyante, Chronofighter 1ª geração com refs).",
   "Grayton (linha 618)": "Gravada em 11/11/2026 (v544), 15 relógios (96253-96267), vermelha. Complemento futuro com navegador/Firecrawl: grayton-watches.com (provavelmente fora do ar; arquivo), cores da Radiance (6) e Diplomat (8), combinações S.8 Automatic 36/40/44 mm com refs S.8-xx-xxx, Quinary, Elegant Sport, marca ELECTRUM (2025).",
-  "GRD (linha 619)": "Gravada em 11/11/2026 (v544), 11 relógios (96268-96278). Complemento futuro com Firecrawl: grdwatch.com (fotos de cada ref), CD Shop (fotos), coleção Outlaw do Kickstarter 2018 (8 estilos, 3 automáticos ETA 2824-2)."
+  "GRD (linha 619)": "Gravada em 11/11/2026 (v544), 11 relógios (96268-96278). Complemento futuro com Firecrawl: grdwatch.com (fotos de cada ref), CD Shop (fotos), coleção Outlaw do Kickstarter 2018 (8 estilos, 3 automáticos ETA 2824-2).",
+  "Greco Genève (linha 620)": "Gravada em 11/11/2026 (v545), 15 relógios (96279-96293), vermelha. Site greco-geneve.com fora das buscas e Firecrawl sem créditos. Complemento futuro: site oficial (coleções, página /asteroid/), coleções Timelace e Trancetime (citadas em 2016), sete versões do Racer Time RT-002, peças personalizadas Times Square, Instagram.",
+  "Greubel Forsey (linha 622)": "Dimensionada em 11/11/2026 como GRANDE (maison com dezenas de referências e variações de material): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-11T00:42:26Z",
- "ultimo_sinal": "2026-11-11T00:49:55Z",
- "em_andamento": {
-  "marcas": [
-   "Greco Genève",
-   "Greiner"
-  ],
-  "linha_marcas": 620,
-  "grande": false,
-  "relogios": "historico/parcial_Greco_relogios.txt",
-  "fontes": "historico/parcial_Greco_fontes.txt",
-  "notas": "historico/notas_Greco.md",
-  "secoes_feitas": [
-   "Greco: todas + 2ª passada",
-   "Greiner: 1ª passada"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
