@@ -1,0 +1,1 @@
+# Grayton (618) — EUA, Nova York; Grayton Inc., fundador Remi Chabrat (Europa Star); fundada 2015, lançamento 1/8/2016; site grayton-watches.com (fora do ar?). S.8 Automatic (44/40/36 mm, NH35; Original satin e Vintage/Radiance gradiente; refs S.8-44-005-DR, S.8-40-025), Origin mecânico com smart strap (Indiegogo 2016, 5 cores), Open heart.

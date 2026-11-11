@@ -9821,7 +9821,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-10T23:47:02Z",
- "ultimo_sinal": "2026-11-10T23:57:38Z",
+ "ultimo_sinal": "2026-11-11T00:02:03Z",
  "em_andamento": {
   "marcas": [
    "Gravithin",
@@ -9834,7 +9834,8 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "Gravithin: todas"
+   "Gravithin: todas",
+   "Grayton: todas + 2ª passada"
   ],
   "passada": 1
  }
