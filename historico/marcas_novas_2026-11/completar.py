@@ -9,7 +9,7 @@ def snap(wb):
     return {ws.title: {c.coordinate: (('ARR', c.value.ref, c.value.text) if isinstance(c.value, ArrayFormula) else c.value)
                        for c in ws._cells.values() if c.value is not None} for ws in wb.worksheets}
 wb = openpyxl.load_workbook(ENT); before = snap(wb); m = wb['Marcas']
-COLS = {'B': 2, 'C': 3, 'D': 4, 'F': 6, 'G': 7, 'H': 8, 'I': 9, 'J': 10, 'K': 11}
+COLS = {'B': 2, 'C': 3, 'D': 4, 'E': 5, 'F': 6, 'G': 7, 'H': 8, 'I': 9, 'J': 10, 'K': 11}
 perm = set()
 for cfg in cfgs:
     lms = [r for r in range(2, m.max_row + 1) if m.cell(r, 1).value == cfg['marca']]

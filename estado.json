@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 871,
- "ultima_versao": 561,
+ "ultima_versao": 562,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9926,5 +9926,20 @@
   "Marcas novas v548 (11/11/2026)": "33 marcas do Microbrand Atlas (números e letra A) inseridas na aba Marcas, sem relógios e fora de marcas_novas_sem_relogios. Dados em historico/marcas_novas_2026-11/lote2.json."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-11T18:39:41Z",
+ "ultimo_sinal": "2026-11-11T18:39:41Z",
+ "em_andamento": {
+  "marcas": [
+   "11i11 saat"
+  ],
+  "linha_marcas": 2,
+  "grande": false,
+  "relogios": "historico/parcial_11i11-saat_relogios.txt",
+  "fontes": "historico/parcial_11i11-saat_fontes.txt",
+  "notas": "historico/notas_11i11-saat.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "pedido": "conversa com o usuário (não agendada)"
+ }
 }
