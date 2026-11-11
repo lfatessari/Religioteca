@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 871,
-  "ultima_versao": 563,
+  "ultima_versao": 564,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9862,13 +9862,14 @@
     {
       "marca": "11i11 saat",
       "data": "2026-11-11",
-      "versao": 563,
-      "relogios": 6,
+      "versao": 564,
+      "relogios": 472,
       "vermelho": false,
       "site_bloqueado": false,
-      "fontes": 19,
+      "fontes": 21,
       "fora_da_sequencia": true,
-      "pedido": "conversa com o usuário"
+      "pedido": "conversa com o usuário",
+      "nota": "v564: combinações do Strap-based selector a pedido do usuário"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

@@ -1,12 +1,12 @@
 {
  "marca": "11i11 saat",
- "usa_codigos": true,
+ "usa_codigos": false,
  "logo": "",
  "site_bloqueado": "",
  "vermelho": false,
  "grande": false,
  "complemento": false,
- "observacoes": "Incluída a pedido do usuário em 11/11/2026 (marcas do Microbrand Atlas que faltavam). Dados da ficha do Atlas (microbrandatlas.com/brand/11i11-saat); os preços são de referência, em dólares, convertidos a R$ 5,5 — conferir no site oficial. Corrigido em I em 11/11/2026: a explicação do nome, antes uma leitura minha ('saat' em turco e línguas dos Bálcãs), passou a ser a do site oficial 11i11sa.at ('11 past 11 watch' em macedônio; ideia de 2019). K preenchido em 11/11/2026 com o logo do site oficial (arquivo 'Logo_patentamt.jpg', o logo registrado da marca, com o nome em cirílico 11И11, criado por Nebojsha Gelevski), lido pelo Firecrawl. H @11i11saat confirmado no link do site oficial. Ainda a verificar: ano de fundação (o Atlas diz 2020; o site fala na ideia em 2019). Relógios (11/11/2026): só o automático branco tem código público (KoC-M1, GPHG e Watch Anchor). Um post da marca no Facebook fala em 'modelos de edição limitada com ouro 18k', mas nenhum foi encontrado no site, no Instagram ou na imprensa; ainda a verificar.",
+ "observacoes": "Incluída a pedido do usuário em 11/11/2026 (marcas do Microbrand Atlas que faltavam). Dados da ficha do Atlas (microbrandatlas.com/brand/11i11-saat); os preços são de referência, em dólares, convertidos a R$ 5,5 — conferir no site oficial. Corrigido em I em 11/11/2026: a explicação do nome, antes uma leitura minha ('saat' em turco e línguas dos Bálcãs), passou a ser a do site oficial 11i11sa.at ('11 past 11 watch' em macedônio; ideia de 2019). K preenchido em 11/11/2026 com o logo do site oficial (arquivo 'Logo_patentamt.jpg', o logo registrado da marca, com o nome em cirílico 11И11, criado por Nebojsha Gelevski), lido pelo Firecrawl. H @11i11saat confirmado no link do site oficial. Ainda a verificar: ano de fundação (o Atlas diz 2020; o site fala na ideia em 2019). Relógios (11/11/2026): 472 linhas — KoC-M1, Edição Viena, fIIrst e 469 combinações caixa × mostrador × pulseira do Strap-based selector do site oficial (118 pulseiras × automático/quartzo × branco/preto; 3 combinações ficaram de fora porque o site mostra a foto do mostrador preto no lugar do branco: Black Osiris M no automático branco, Red Yellow Arne M/L e Black Toronto M/L/XL no quartzo branco). Só o automático branco tem código público (KoC-M1, GPHG e Watch Anchor). Um post da marca no Facebook fala em 'modelos de edição limitada com ouro 18k', mas nenhum foi encontrado no site, no Instagram ou na imprensa; ainda a verificar.",
  "fontes": [
   {
    "url": "https://11i11sa.at/products.json",
@@ -100,6 +100,16 @@
   },
   {
    "url": "https://www.instagram.com/11i11saat_for_her/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://11i11sa.at/pages/strap-based-selector?view=strap-selector",
+   "passada": 1,
+   "novos": 469
+  },
+  {
+   "url": "https://11i11sa.at/cdn/shop/t/7/assets/watch-strap-selector-data.json",
    "passada": 1,
    "novos": 0
   }
