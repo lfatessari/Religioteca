@@ -1,0 +1,1 @@
+# GRD (619) = GuardsRed Design; fundada 2012 na Escócia por Andrew E. Smith, hoje em Munique (Silodrome); loja grdwatch.com. Relógios de um ponteiro estilo conta-giros, Ronda 762, 43mm PVD preto. Refs: RL-71, RL-72, RL-73, RL-84, BM-30, BM-46, LD-52, T16-52, RS-52, A-56 (US$899, autom.?), GRD-1 (McLaren F1, 2018).
