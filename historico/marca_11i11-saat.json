@@ -1,0 +1,107 @@
+{
+ "marca": "11i11 saat",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Incluída a pedido do usuário em 11/11/2026 (marcas do Microbrand Atlas que faltavam). Dados da ficha do Atlas (microbrandatlas.com/brand/11i11-saat); os preços são de referência, em dólares, convertidos a R$ 5,5 — conferir no site oficial. Corrigido em I em 11/11/2026: a explicação do nome, antes uma leitura minha ('saat' em turco e línguas dos Bálcãs), passou a ser a do site oficial 11i11sa.at ('11 past 11 watch' em macedônio; ideia de 2019). K preenchido em 11/11/2026 com o logo do site oficial (arquivo 'Logo_patentamt.jpg', o logo registrado da marca, com o nome em cirílico 11И11, criado por Nebojsha Gelevski), lido pelo Firecrawl. H @11i11saat confirmado no link do site oficial. Ainda a verificar: ano de fundação (o Atlas diz 2020; o site fala na ideia em 2019). Relógios (11/11/2026): só o automático branco tem código público (KoC-M1, GPHG e Watch Anchor). Um post da marca no Facebook fala em 'modelos de edição limitada com ouro 18k', mas nenhum foi encontrado no site, no Instagram ou na imprensa; ainda a verificar.",
+ "fontes": [
+  {
+   "url": "https://11i11sa.at/products.json",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://11i11sa.at/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://11i11sa.at/sitemap_pages_1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://11i11sa.at/sitemap_collections_1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://11i11sa.at/sitemap_blogs_1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://11i11sa.at/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://11i11sa.at/pages/our-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://11i11sa.at/pages/inspired",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://11i11sa.at/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/koc-m-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brands/11i11-saat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/11i11-saat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/11i11saat/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/p/fIIrst",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://trn.mk/fiirst-nov-chasovnik-makedonski-dizajn-11i11-saat/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchanchor.com/brand/11i11-saat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchuseek.com/threads/since-may-2026-in-da-house-11i11saat.5679848/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=H9oyWfsBOqY",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/11i11saat_for_her/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
