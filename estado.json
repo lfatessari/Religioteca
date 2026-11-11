@@ -9880,7 +9880,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-11T00:42:26Z",
- "ultimo_sinal": "2026-11-11T00:47:40Z",
+ "ultimo_sinal": "2026-11-11T00:49:55Z",
  "em_andamento": {
   "marcas": [
    "Greco Genève",
@@ -9892,7 +9892,8 @@
   "fontes": "historico/parcial_Greco_fontes.txt",
   "notas": "historico/notas_Greco.md",
   "secoes_feitas": [
-   "Greco: todas + 2ª passada"
+   "Greco: todas + 2ª passada",
+   "Greiner: 1ª passada"
   ],
   "passada": 1
  }
