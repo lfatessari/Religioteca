@@ -9878,5 +9878,20 @@
   "GRD (linha 619)": "Gravada em 11/11/2026 (v544), 11 relógios (96268-96278). Complemento futuro com Firecrawl: grdwatch.com (fotos de cada ref), CD Shop (fotos), coleção Outlaw do Kickstarter 2018 (8 estilos, 3 automáticos ETA 2824-2)."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-11T00:42:26Z",
+ "ultimo_sinal": "2026-11-11T00:42:26Z",
+ "em_andamento": {
+  "marcas": [
+   "Greco Genève",
+   "Greiner"
+  ],
+  "linha_marcas": 620,
+  "grande": false,
+  "relogios": "historico/parcial_Greco_relogios.txt",
+  "fontes": "historico/parcial_Greco_fontes.txt",
+  "notas": "historico/notas_Greco.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
