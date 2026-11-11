@@ -1,0 +1,880 @@
+{
+ "marca": "Greubel Forsey",
+ "usa_codigos": false,
+ "logo": "https://en.worldtempus.com/sites/default/files/styles/brand_logo_1x/public/media/brand/logo_greubel_forsey.jpg.jpeg",
+ "site_bloqueado": "Parcial – greubelforsey.com: páginas de coleção abrem sem fotos nem variações; fichas técnicas PDF dão erro e newsite.greubelforsey.com bloqueia robôs; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://greubelforsey.com/en/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greubelforsey.com/en/history",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://greubelforsey.com/collections/tourbillon",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Greubel-Forsey",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/brand/greubel-forsey-38032",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/watches/greubel-forsey/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Greubel_Forsey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greubelforsey.com/en/watches/gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greubelforsey.com/collections/balancier",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greubelforsey.com/collections/hand-made",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://greubelforsey.com/en/collections/collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/brand/greubel-forsey-38032/collection/3379",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pragnell.co.uk/watches/greubel-forsey",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://europastar.com/brand-index/1004083074-greubel-forsey.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/greubel-forsey-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://everywatch.com/greubel-forsey/watch-13557934",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/greubel-forsey/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/greubel-forsey.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.greubelforsey.com/en/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/greubel-forsey/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://professionalwatches.com/category/greubel-forsey/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/greubel-forsey/page/5?amp=1",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/greubel-forsey",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/greubel-forsey/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/greubel-forsey/page/3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/greubel-forsey/page/4?amp=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/greubel-forsey/page/6",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/greubel-forsey/page/7",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/category/greubel-forsey",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/greubel-forsey/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/greubel-forsey/page/2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/category/greubel-forsey/page/3",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchilove.com/tag/greubel-forsey/page/2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchilove.com/tag/greubel-forsey/page/3/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://quillandpad.com/category/greubel-forsey/page/2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/category/greubel-forsey/page/4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/category/greubel-forsey/page/6/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/category/greubel-forsey/page/8/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/category/greubel-forsey/page/10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/category/greubel-forsey/page/12/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/articles/independent-watchmaking-exceptional-greubel-forsey-watches-from-the-sothebys-archive",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey-x-urwerk-x-dominique-buser-x-cyrano-devanthey/183981",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/234861",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/159711",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/236346",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/207982",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/183916",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/greubel-forsey/CH080123/130",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/101075",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.acollectedman.com/products/greubel-forsey-invention-piece-2-execution-speciale.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hairspring.com/products/signature-1-piece-unique",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/greubel-forsey-philippe-dufour-and-michel-boulanger-piece-d-ecole-school-watch-prototype-lot-378-349",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.acollectedman.com/collections/greubel-forsey",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://greubelforsey.com/en/history-timepieces/balancier-s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/greubel-forsey/home",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gphg.org/en/watches/signature-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://skyjems.ca/pages/encyclopedia-greubel-forsey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/double-tourbillon-30-edition-historique",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/tourbillon-24-secondes-vision",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/technique",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/quadruple-tourbillon/3216-quadruple-tourbillon-secret.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hairspring.com/products/quadruple-tourbillon-secret-pink-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristcheck.com/discover/editor's-pick/the-greubel-forsey-gmt-unique-edition-in-platinum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/grande-sonnerie",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.embassy.ch/en/watches/greubel-forsey/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.yourwatchhub.com/greubel-forsey",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.rabat.net/en/watches/greubel-forsey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gassan.com/en/greubel-forsey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/greubel-forsey-gf02-double-tourbillon-30-vision-gf02-18k-white-go-46507",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/greubel-forsey-double-balancier-double-balancier-18k-white-gold-s-66630",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/greubel-forsey-gf09xv-p1074-gf09xv-balancier-convexe-s2-titanium-67840",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://sincerewatch.com/brand/watches/greubel-forsey/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/en-int/collections/greubel-forsey",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://revolutionwatch.com/brands/greubel-forsey/?p_number=4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristaficionado.com/collections/greubel-forsey-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristaficionado.com/products/greubel-forsey-balancier-3-titanium-blue-dial-limited-edition-of-88-2025.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/brands/greubel-forsey/?p_number=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/brands/greubel-forsey/?p_number=5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://revolutionwatch.com/brands/greubel-forsey/?p_number=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/brands/greubel-forsey/?p_number=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/_technique-30-degree-double-a-black-pvd-manual-wristwatch-with-tourbillon-ec99",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2021/important-watches-2/double-tourbillon-30-technique-platinum",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/technique-9214.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/technique-9216.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://veryimportantlot.com/en/lot/view/greubel-forsey-an-extremely-rare-and-exceptional-1513745",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://veryimportantlot.com/fr/lot/view/greubel-forsey-a-very-rare-and-exceptional-semi-s-1435208",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/vision-2905.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/watches/gmt-red-gold/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Greubel_Forsey_Tourbillon_24_Seconds",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/double-tourbillon-30-secret/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/double-tourbillon-30/966-secret.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/double-tourbillon-30-technique-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/watches/double-tourbillon-30-technique/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/greubel-forsey/HK080117/952",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://prestigetime.com/preowned/Greubel-Forsey-GMT-GF_GMT_WG-39319",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/3960721.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamine.co.jp/uploads/images/events/img/1804-event/gf-data1.pdf",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/double-balancier-35-9208.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/double-balanicer-35",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://my-watchsite.com/quadruple-tourbillon/1888-invention-piece-2.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/double-tourbillon-technique-30-bi-color-12175.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/tourbillon-24-secondes/982-t24si.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/tourbillon-24-secondes/984-t24si.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/contemporaine/3215-tourbillon-24-secondes-contemporain.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/tourbillon-24-secondes/844-tourbillon-24-secondes.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/de/de/shop/Greubel-Forsey-Hand-Made-1-P00521-22.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://robbreport.com.au/?p=41778",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/2019/08/29/all-4-greubel-forsey-art-pieces-hidden-time-with-breathtaking-micro-sculptures-and-awe-inspiring-micro-mechanics/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/greubel-forseys-new-art-piece-edition-historique-in-titanium/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/fr/greubel-forsey/accueil?page=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greubelforsey.com/user/pages/11.history-timepieces/19.gmt-earth/03._bloc-tech/greubel-forsey-gmt-earth-technical-sheet-fr.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://newsite.greubelforsey.com/user/pages/02.watches/07.grande-sonnerie/06._technical-data/greubel-forsey-grande-sonnerie-technical-sheet-en.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://newsite.greubelforsey.com/user/pages/11.history-timepieces/21.gmt-quadruple-tourbillon/04._test-legacy-data/greubel-forsey-gmt-quadruple-tourbillon-technical-sheet-fr.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/126876",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/111181",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/greubel-forsey/HK080217/873",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/116425",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/greubel-forsey/NY080125/98",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/greubel-forsey-differentiel-d-egalite-lot-356-257",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://veryimportantlot.com/en/lot/view/greubel-forsey-a-magnificent-and-specially-execut-829073",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://veryimportantlot.com/en/lot/view/greubel-forsey-an-extremely-rare-and-magnificent-1307510",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/innovation-and-technology/greubel-forsey-signature-1-red-gold-21470.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/watches-online-dubai-edit/greubel-forsey-tourbillon-24-secondes-vision-extremely-rare-limited-16/239832",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://christies.com.cn/en/lot/lot-6394152",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://christies.com.cn/en/lot/lot-6485623",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/greubel-forsey-a-new-signature-and-a-new-double-balance-20931.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2012/important-watches-hk0389/lot.2158.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hautetime.com/north-america-only-greubel-forsey-and-jaeger-lecoultre-launch-tempting-limited-editions",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/132308",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/93288",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/238822",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/us/buy/greubel-forsey?locale=zh-hk",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/greubel-forsey/balancier/5028494",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kloen.senatus.net/article/greubel-forsey-launches-double-balancier-convexe-limited-edition-6-sincere-fine-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/sports-watch/greubel-forsey-shows-its-sportier-side-with-new-balancier-s-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mjrabbit.blogspot.com/2022/07/greubel-forsey-times-new-launch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/greubel-forsey-audemars-piguet-bell-ross-last-week-in-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4399580.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchbox.com/shop/4736419.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4454591.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/articles/novelties/greubel-forsey-unveils-stunning-gmt-earth-limited-edition-titanium",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/greubel-forsey-gmt-sport-final-edition-5n-red-gold-presenting?format=amp",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://WWW.GREUBELFORSEY.COM/en/history-timepieces/gmt-sport",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://materialgood.com/collections/preowned-vault/products/greubel-forsey-double-balancier-convexe-titanium-bracelet",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/greubel-forsey",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/greubel-forsey/balancier/5071486/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://newsite.greubelforsey.com/en/watches/balancier-3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/product/greubel-forsey-double-tourbillon-30-asymetrique-platinum-watch/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/greubel-forsey-double-tourbillon-30-lot-382-374",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-6367608",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/lot/lot-5309198",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095411-greubel-forsey-invention-piece-1-platine.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/237424",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/106335",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-243-121",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-226-217",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/greubel-forsey/100886",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2011/important-watches-ge1101/lot.222.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2026/brand/greubel-forsey/02.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/watches-online-dubai-edit-stories-time-collection-exceptional-watches/greubel-forsey-unique-impressive-titanium-semi-skeletonized-world-time-1/257466",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/watches-online-dubai-edit/greubel-forsey-gmt-sport-earth-blue-rare-titanium-world-time-18/145851",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/releases/greubel-forsey-balancier-3",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/catalog/greubel-forsey",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2008/catalog/greubel_forsey/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2026/brand/greubel-forsey/04.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2025/brand/greubel-forsey/02.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2025/brand/greubel-forsey/04.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2019/brand/greubel-forsey/01.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2023/brand/greubel-forsey/01.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2023/brand/greubel-forsey/02.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/tokimegu/2023/brand/greubel-forsey/03.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/334764",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0351/hotitem/334220",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Greubel Forsey foi fundada em 2004 por Robert Greubel e Stephen Forsey, dois relojoeiros que se conheceram na Renaud & Papi e compartilhavam uma obsessão: melhorar a precisão cronométrica do tourbillon através da pesquisa fundamental. Sediada em La Chaux-de-Fonds, a marca tornou-se sinônimo do que há de mais extremo em acabamento e engenharia na alta relojoaria mundial.\n\nA dupla criou uma série de \"Invenções Fundamentais\" — o Double Tourbillon 30° (com uma gaiola dentro de outra, inclinada, girando em velocidades diferentes), o Quadruple Tourbillon, o Tourbillon 24 Secondes e a busca pela \"Constância\" da força. Mas é o acabamento que define a lenda: cada peça leva centenas de horas de trabalho manual, com biselamento, polimento de cantos internos (\"black polish\") e gravações de um nível considerado insuperável — Greubel Forsey venceu o \"Aiguille d'Or\" do GPHG e é frequentemente citada como a referência absoluta em finishing. A produção é ínfima (poucas dezenas de peças por ano) e os preços estão entre os mais altos do mercado. A marca também criou o Hand Made 1, um relógio feito 95% à mão para preservar o savoir-faire artesanal.\n\nHoje a Greubel Forsey ocupa o ápice absoluto da alta relojoaria, dirigindo-se aos colecionadores mais exigentes e endinheirados do planeta. Mais que relógios, suas peças são a expressão máxima da perfeição mecânica e do artesanato relojoeiro levado ao limite. Desde 2024 a marca é dirigida pelo CEO Michel Nydegger. [⚠️ verificar dados atuais]"
+ },
+ "observacoes": "Corrigido: I – acrescentado o CEO Michel Nydegger (desde 2024; Wikipedia e WatchesBySJX). Ainda a verificar: participação minoritária da Richemont (2006), independência total (2022) e controle consolidado pelos fundadores (2025); 'poucas dezenas de peças por ano'; H (@greubelforsey) não conferido. Marca usa nomes, não códigos; códigos P0xxxx/GFxx vêm de revendedores."
+}

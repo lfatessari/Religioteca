@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 622,
- "ultima_versao": 545,
+ "proxima_linha_marcas": 623,
+ "ultima_versao": 546,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9836,6 +9836,17 @@
    "vermelho": false,
    "site_bloqueado": false,
    "fontes": 22
+  },
+  {
+   "marca": "Greubel Forsey",
+   "linha_marcas": 622,
+   "data": "2026-11-11",
+   "versao": 546,
+   "linhas_relogios": "96307-96458",
+   "relogios": 152,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 173
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9899,36 +9910,8 @@
   "Grayton (linha 618)": "Gravada em 11/11/2026 (v544), 15 relógios (96253-96267), vermelha. Complemento futuro com navegador/Firecrawl: grayton-watches.com (provavelmente fora do ar; arquivo), cores da Radiance (6) e Diplomat (8), combinações S.8 Automatic 36/40/44 mm com refs S.8-xx-xxx, Quinary, Elegant Sport, marca ELECTRUM (2025).",
   "GRD (linha 619)": "Gravada em 11/11/2026 (v544), 11 relógios (96268-96278). Complemento futuro com Firecrawl: grdwatch.com (fotos de cada ref), CD Shop (fotos), coleção Outlaw do Kickstarter 2018 (8 estilos, 3 automáticos ETA 2824-2).",
   "Greco Genève (linha 620)": "Gravada em 11/11/2026 (v545), 15 relógios (96279-96293), vermelha. Site greco-geneve.com fora das buscas e Firecrawl sem créditos. Complemento futuro: site oficial (coleções, página /asteroid/), coleções Timelace e Trancetime (citadas em 2016), sete versões do Racer Time RT-002, peças personalizadas Times Square, Instagram.",
-  "Greubel Forsey (linha 622)": "Dimensionada em 11/11/2026 como GRANDE (maison com dezenas de referências e variações de material): fazer sozinha."
+  "Greubel Forsey (linha 622)": "Gravada em 11/11/2026 (v546), 152 relógios (96307-96458), vermelha. Firecrawl sem créditos. ~35 linhas só com link de página. Complemento futuro: site oficial com navegador (páginas /en/watches/<modelo> com variações e fotos; fichas técnicas PDF), The Watch Pages e EveryWatch (bloqueados/login), WorldTempus fichas 2901-2906, 9215, 9219, 12960-12961, 15078, 15883 (só abrem vindas de busca), Watchonista fichas de relógio, gressive.jp 2025/01,03,05 e 2026/01,03,05 (referências P0xxxx), lojas Sincere/Westime/Seddiqi; variações de metal de Quadruple Tourbillon, GMT Earth (platina), Double Balancier 35° (ouro vermelho/platina), Hand Made 1, Différentiel d'Égalité; peças únicas e encomendas especiais."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-11T01:41:06Z",
- "ultimo_sinal": "2026-11-11T02:07:26Z",
- "em_andamento": {
-  "marcas": [
-   "Greubel Forsey"
-  ],
-  "linha_marcas": 622,
-  "grande": true,
-  "relogios": "historico/parcial_Greubel Forsey_relogios.txt",
-  "fontes": "historico/parcial_Greubel Forsey_fontes.txt",
-  "notas": "historico/notas_Greubel Forsey.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a",
-   "3a"
-  ],
-  "passada": 3
- }
+ "marcas_novas_sem_relogios": []
 }
