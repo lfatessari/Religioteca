@@ -1,11 +1,18 @@
-Passada 1: 35 fontes, 15 relógios novos
-Marcas mudanças: ['K316', 'M316']
+Passada 1: 25 fontes, 15 relógios novos
+Passada 2: 11 fontes, 0 relógios novos
+  correção B618: 'None' -> 'Estados Unidos'
+  correção C618: 'None' -> 'Nova York'
+  correção D618: 'Relógios fashion de design ousado e colorido' -> 'Relógios automáticos acessíveis de estilo social (Seiko NH35)'
+  correção G618: 'graytonwatches.com' -> 'grayton-watches.com'
+  correção I618: 'A Grayton é uma marca de relógios fashion de design ousado, colorido e contempor' -> 'A Grayton (Grayton Watch Co., Grayton Inc.) é uma marca de relógios automáticos '
+  correção J618: 'Coleções fashion automáticas e de quartzo' -> 'S.8 Automatic, Radiance, Origin (com pulseira inteligente), Diplomat, Quinary'
+Marcas mudanças: ['B618', 'C618', 'D618', 'G618', 'I618', 'J618', 'M618']
 Planilha1 mudanças: []
 Tabela de faixa de preços mudanças: []
-ArrayFormula em Marcas: 641
+ArrayFormula em Marcas: 0 (entrada: 0 )
 linhas anteriores intactas: True
 hyperlinks ruins: []
-blocos contíguos a partir de 51427 : True
-linhas da marca agora: 15 | novas: 15 | max_row: 51441
+blocos contíguos a partir de 96253 : True
+linhas da marca agora: 15 | novas: 15 | max_row: 96267
 placeholder eBay presente: False
 RESULTADO: OK

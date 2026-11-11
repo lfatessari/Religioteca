@@ -1,11 +1,14 @@
-Passada 1: 15 fontes, 8 relógios novos
-Marcas mudanças: ['M317']
+Passada 1: 19 fontes, 11 relógios novos
+  correção D619: 'Microbrand escocesa de relógios de design' -> 'Relógios de um ponteiro inspirados no conta-giros de carros clássicos e de corri'
+  correção I619: 'A GRD é uma microbrand escocesa de relógios, parte da pequena mas crescente cena' -> "A GRD (GuardsRed Design — o nome vem do vermelho 'Guards Red' da Porsche) é uma "
+  correção J619: 'Coleções de design escocês' -> 'RL-71, RL-72, RL-73, RL-84, BM-30, BM-46, LD-52, T16-52, RS-52, A-56, GRD-1 (col'
+Marcas mudanças: ['D619', 'I619', 'J619', 'L619', 'M619']
 Planilha1 mudanças: []
 Tabela de faixa de preços mudanças: []
-ArrayFormula em Marcas: 641
+ArrayFormula em Marcas: 0 (entrada: 0 )
 linhas anteriores intactas: True
 hyperlinks ruins: []
-blocos contíguos a partir de 51442 : True
-linhas da marca agora: 8 | novas: 8 | max_row: 51449
+blocos contíguos a partir de 96268 : True
+linhas da marca agora: 11 | novas: 11 | max_row: 96278
 placeholder eBay presente: False
 RESULTADO: OK

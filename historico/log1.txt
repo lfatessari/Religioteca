@@ -1,11 +1,15 @@
-Passada 1: 15 fontes, 3 relógios novos
-Marcas mudanças: ['L315', 'M315']
+Passada 1: 35 fontes, 17 relógios novos
+  correção B617: 'None' -> 'Itália'
+  correção G617: 'None' -> 'gravithin.com'
+  correção I617: 'A Gravithin é uma microbrand de relógios de design contemporâneo, com proposta q' -> 'A Gravithin é uma microbrand de relógios de design contemporâneo, com proposta q'
+  correção J617: 'Coleções de design contemporâneo' -> 'Argo (AR01–AR06, Gunmetal, Bronze), ArgoMatic, Focuscope, Nebulae, Satellites'
+Marcas mudanças: ['B617', 'G617', 'I617', 'J617', 'K617', 'L617', 'M617']
 Planilha1 mudanças: []
 Tabela de faixa de preços mudanças: []
-ArrayFormula em Marcas: 641
+ArrayFormula em Marcas: 0 (entrada: 0 )
 linhas anteriores intactas: True
 hyperlinks ruins: []
-blocos contíguos a partir de 51425 : True
-linhas da marca agora: 2 | novas: 2 | max_row: 51426
+blocos contíguos a partir de 96236 : True
+linhas da marca agora: 17 | novas: 17 | max_row: 96252
 placeholder eBay presente: False
 RESULTADO: OK
