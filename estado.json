@@ -9902,5 +9902,19 @@
   "Greubel Forsey (linha 622)": "Dimensionada em 11/11/2026 como GRANDE (maison com dezenas de referências e variações de material): fazer sozinha."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": []
+ "marcas_novas_sem_relogios": [],
+ "em_execucao": "2026-11-11T01:41:06Z",
+ "ultimo_sinal": "2026-11-11T01:41:06Z",
+ "em_andamento": {
+  "marcas": [
+   "Greubel Forsey"
+  ],
+  "linha_marcas": 622,
+  "grande": true,
+  "relogios": "historico/parcial_Greubel Forsey_relogios.txt",
+  "fontes": "historico/parcial_Greubel Forsey_fontes.txt",
+  "notas": "historico/notas_Greubel Forsey.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
