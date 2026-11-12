@@ -9940,7 +9940,7 @@
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
  "em_execucao": "2026-11-12T06:02:46Z",
- "ultimo_sinal": "2026-11-12T06:02:46Z",
+ "ultimo_sinal": "2026-11-12T06:05:55Z",
  "em_andamento": {
   "marcas": [
    "1977"
@@ -9950,7 +9950,9 @@
   "relogios": "historico/parcial_1977_relogios.txt",
   "fontes": "historico/parcial_1977_fontes.txt",
   "notas": "historico/notas_1977.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
