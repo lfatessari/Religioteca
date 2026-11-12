@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 871,
- "ultima_versao": 564,
+ "ultima_versao": 565,
  "historico": [
   {
    "data": "2026-10-16",
@@ -9870,6 +9870,18 @@
    "fora_da_sequencia": true,
    "pedido": "conversa com o usuário",
    "nota": "v564: combinações do Strap-based selector a pedido do usuário"
+  },
+  {
+   "data": "2026-11-12",
+   "marca": "1977",
+   "linha_marcas": 4,
+   "linhas_relogios": "96931-96959",
+   "relogios": 29,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 54,
+   "fora_da_sequencia": true,
+   "obs": "a pedido do usuário (conversa do projeto); catálogo fechado: 29 no site oficial, mesma contagem na busca do site e na sondagem do servidor de fotos; I, J, K e M atualizados na aba Marcas"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -9938,21 +9950,5 @@
   "Marcas novas v548 (11/11/2026)": "33 marcas do Microbrand Atlas (números e letra A) inseridas na aba Marcas, sem relógios e fora de marcas_novas_sem_relogios. Dados em historico/marcas_novas_2026-11/lote2.json."
  },
  "marcas_pendentes": [],
- "marcas_novas_sem_relogios": [],
- "em_execucao": "2026-11-12T06:02:46Z",
- "ultimo_sinal": "2026-11-12T06:05:55Z",
- "em_andamento": {
-  "marcas": [
-   "1977"
-  ],
-  "linha_marcas": 4,
-  "grande": false,
-  "relogios": "historico/parcial_1977_relogios.txt",
-  "fontes": "historico/parcial_1977_fontes.txt",
-  "notas": "historico/notas_1977.md",
-  "secoes_feitas": [
-   "1"
-  ],
-  "passada": 1
- }
+ "marcas_novas_sem_relogios": []
 }
