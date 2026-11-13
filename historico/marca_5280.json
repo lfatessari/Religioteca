@@ -1,0 +1,142 @@
+{
+ "marca": "5280 Watch Company",
+ "usa_codigos": false,
+ "logo": "https://static.wixstatic.com/media/bc60eb_df2bc72705904b368d7d7be1f1872e91~mv2.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Incluída a pedido do usuário em 11/11/2026 (marcas do Microbrand Atlas que faltavam), com dados da ficha do Atlas (microbrandatlas.com/brand/5280-watch-company). Completada em 13/11/2026 a pedido do usuário: 41 relógios (37 do site oficial atual + 4 retirados do site, achados no arquivo da internet: Ajax Santa Claus Red, Blanca Deep Cobalt de 10 peças e as versões sob encomenda Custom do Ajax e do Antero). Quase todos são peças únicas. Corrigido: H vazio → @5280watchcompany (link do site oficial); I reescrita — o nome vir da altitude de Denver (Worn & Wound) e os modelos levarem nomes de montanhas (página Timepieces do site oficial) agora estão confirmados; entraram o artesão Bill Brinker, a presidente Amy Davala e o torno de 1914; saiu a frase de que toda a montagem é feita em Denver, que não achei confirmada. J atualizado com anos e preços. K: logo do site oficial. F (R$ 27.500) não alterado: a média dos 40 preços achados é US$ 5.782 (≈ R$ 32.100), também faixa 5. Ainda a verificar: em 2024 o Ajax era anunciado como edição de 250 peças (Alignable, Atlas) e hoje cada peça é única; detalhes do Antero Custom (página arquivada não abriu).",
+ "correcoes": {
+  "H": "@5280watchcompany",
+  "I": "5.280 pés — exatamente uma milha — é a altitude de Denver, a \"Mile High City\", e foi daí que veio o nome desta marca do Colorado. Ela nasceu em 2024 da vontade de Rich Keel, colecionador de longa data, que procurava um relógio de esmalte e só encontrava filas de anos ou preços acima de US$ 30 mil. Em 2023, um amigo em comum o apresentou a Bill Brinker, joalheiro com mais de 40 anos de carreira e especialista em guilloché e esmalte, e foi com ele que o projeto ganhou forma. Hoje a empresa é tocada por Rich, fundador e CEO, e por Amy Davala, presidente.\n\nO coração de cada 5280 é o mostrador: um disco de prata pura (.999) gravado à mão num torno de guilhochê (rose engine) de 1914 e depois coberto por esmalte vítreo translúcido — a técnica basse-taille —, queimado a cerca de 760 °C. Cada mostrador leva até 30 horas de trabalho e, segundo a marca, três em cada quatro não sobrevivem ao forno. Por isso quase todos os relógios são peças únicas, numeradas.\n\nOs modelos levam nomes de montanhas do Colorado: Ajax (a Aspen Mountain), Antero (o Mount Antero) e Blanca (o Blanca Peak). Por dentro, batem movimentos suíços Sellita, La Joux-Perret ou Vaucher, com precisão de nível cronômetro.",
+  "J": "Ajax (2024) — caixa almofadada de 40 mm em aço, 200 m; mostrador de esmalte translúcido sobre prata guilhochada ou de nióbio anodizado; lançado em pré-venda a US$ 3.495–3.995 e hoje de US$ 4.495 a 5.995, quase sempre peça única\n\nAntero (2025) — caixa redonda de 40 mm, 100 m; mostradores basse-taille em dezenas de cores e padrões (Straightline, Basketweave); US$ 4.495 a 5.995\n\nBlanca (2025) — caixa redonda de 36 mm; mostradores basse-taille em rosa, lilás, azul-francês, chartreuse e cobalto; US$ 5.495 a 5.995"
+ },
+ "fontes": [
+  {
+   "url": "https://www.5280watchcompany.com/ (navegador; Wix, sitemap store-products, 37 páginas de produto lidas)",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://wornandwound.com/colorados-best-kept-secret-the-5280-watch-company-is-making-timepieces-with-enamel-dials-for-under-4000/ (jan/2025; Bill Brinker, 13 cores, US$ 3.495–3.995)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alignable.com/denver-co/5280-watch-company-3 (Ajax French Blue/Teal/Aoki 105B como edições de 250 peças)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/web/20260512152246id_/https://www.5280watchcompany.com/store-products-sitemap.xml (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/cdx/search/cdx?url=5280watchcompany.com/product-page/* (Firecrawl; lista de páginas arquivadas)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/web/20250624045839/https://www.5280watchcompany.com/product-page/ajax-model-santa-claus-red-translucent-dial (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://web.archive.org/web/20251013090533/https://www.5280watchcompany.com/product-page/blanca-36mm-round-case-model-deep-cobalt-dial (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://web.archive.org/web/20251013091219/https://www.5280watchcompany.com/product-page/blanca-36mm-round-case-model-deep-cobalt-straightline-pattern-dial (Firecrawl; mesma peça do Zig-Zag Straightline atual)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/web/20250624045927/https://www.5280watchcompany.com/product-page/custom-ajax-watch (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://web.archive.org/web/20250720182800/https://www.5280watchcompany.com/product-page/antero-custom-watch (Firecrawl; 429)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.5280watchcompany.com/about-us + /timepieces (navegador; fundador Rich Keel, presidente Amy Davala; modelos com nomes de montanhas)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2026/06/14/the-5280-watch-co-ajax-in-rain-shower-green-isnt-what-you-expect/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2026/01/30/5280-watch-co-antero/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hodinkee.jp/articles/watch-spotting-and-highlights-from-the-vancouver-timepiece-show (Antero no Vancouver Timepiece Show 2026)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2026/09/13/microbrand-watches-guide/ (5280 não listada)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-the-selten-grand-feu-enamel-prism-violet/ (mai/2025; cita a 5280)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.instagram.com/5280watchcompany/ (navegador; 180 posts, nada de modelo novo)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/5280-watch-company (navegador; Ajax 2024 250 pç, Antero 2025 10 pç, Blanca 2025 10 pç)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.5280watchcompany.com/our-dial-process + /our-basse-taille-dials-1 + store-categories-sitemap (navegador)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoscout.co/brands/5280-watch-company (navegador; redirecionou ao índice)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/tag/5280-watch-company/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/5280-watch-company/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/web/20250123174645/https://www.5280watchcompany.com/ (Firecrawl; Ajax em pré-venda a US$ 3.495–3.995)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/the-watch-files/watchmaking-in-the-usa/1004114918-resounding-success-for-the-minutes-and-hours.html (estreia no Minutes + Hours Austin, nov/2024)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/time-business/1004115331-minutes-hours-los-angeles-2025-time-in-the-city.html",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
