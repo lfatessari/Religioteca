@@ -9958,7 +9958,7 @@
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
   "em_execucao": "2026-11-13T01:44:48Z",
-  "ultimo_sinal": "2026-11-13T01:49:38Z",
+  "ultimo_sinal": "2026-11-13T01:54:41Z",
   "em_andamento": {
     "marcas": [
       "22 Studio"
@@ -9970,7 +9970,11 @@
     "notas": "historico/notas_22_Studio.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "4",
+      "7",
+      "9"
     ],
     "passada": 1,
     "pedido_usuario": "12/11/2026: excluir 2CAN e 2LMX, preencher 3H Italia/47 Zero/4N, 22 Studio completo"
