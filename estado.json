@@ -9984,5 +9984,20 @@
     "Marcas novas v548 (11/11/2026)": "33 marcas do Microbrand Atlas (números e letra A) inseridas na aba Marcas, sem relógios e fora de marcas_novas_sem_relogios. Dados em historico/marcas_novas_2026-11/lote2.json."
   },
   "marcas_pendentes": [],
-  "marcas_novas_sem_relogios": []
+  "marcas_novas_sem_relogios": [],
+  "em_execucao": "2026-11-13T04:56:31Z",
+  "ultimo_sinal": "2026-11-13T04:56:31Z",
+  "em_andamento": {
+    "marcas": [
+      "5280 Watch Company"
+    ],
+    "linha_marcas": 9,
+    "grande": false,
+    "relogios": "historico/parcial_5280_relogios.txt",
+    "fontes": "historico/parcial_5280_fontes.txt",
+    "notas": "historico/notas_5280.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "pedido_usuario": "13/11/2026: remover 666 Barcelona, preencher 6B Watches, 5280 Watch Company completa, post 22 Studio"
+  }
 }
