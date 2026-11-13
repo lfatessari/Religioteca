@@ -1,0 +1,136 @@
+{
+ "marca": "22 Studio",
+ "usa_codigos": true,
+ "logo": "https://22designstudio.net/cdn/shop/files/2018_22STUDIO_LOGO.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Incluída a pedido do usuário em 11/11/2026 (marcas do Microbrand Atlas que faltavam), com dados da ficha do Atlas (microbrandatlas.com/brand/22-studio). Completada em 12/11/2026 a pedido do usuário: 71 relógios — 49 do site oficial atual (com códigos CW…/CMW…) e 22 antigos de 2015–2021 (4th Dimension 30/42 mm, 4D Automatic Signature/Minimal/Oasis/Daylight/Original, Exclusive Shadow), achados no site oficial arquivado no Wayback Machine, Yanko Design, Hypebeast e Worn & Wound. Corrigido em I: 'faz relógios desde 2014' → fundada em 2005 por Sean Yu e Yiting Cheng (página Our Story do site oficial); 1º relógio 4th Dimension, protótipo de 2013 e lançamento em 2015 (site oficial e Gessato). J ampliado com todas as linhas. K: logo do site oficial. F (R$ 4.235) não alterado: a média dos 70 preços de lista achados é US$ 672 (≈ R$ 3.730), também faixa 2. Ainda a verificar: 'Quadrant Mechanical Watch' (a Pinkoi vende pulseira para ele, relógio não encontrado); a coleção de 30 mm do site tem 5 produtos ocultos; tiragem da Exclusive Shadow (2017) e se as 100 peças do Tigre são por versão ou no total.",
+ "correcoes": {
+  "I": "Concreto no pulso: essa é a assinatura da 22 Studio, de Taipé. A marca nasceu em 2005, quando o designer Sean Yu e a esposa, Yiting Cheng, parceiros de design desde a faculdade, decidiram transformar em objetos do dia a dia o encanto que sentiam pelo concreto aparente — inspirados, sobretudo, pela obra do arquiteto japonês Tadao Ando. Vieram primeiro as joias, os artigos de escritório e os objetos para a casa; o nome \"22\", dizem eles, traduz a atitude de seguir o instinto até conclusões… concretas.\n\nO primeiro relógio de pulso nasceu de um relógio de parede da casa. O protótipo do 4th Dimension estreou em 2013 no Simple Life Festival, em Taipé, e chegou ao público em 2015, por uma campanha no Kickstarter: um mostrador de concreto de 1 mm, moldado à mão em forma de escada em espiral, em que cada degrau marca uma hora e a própria sombra ajuda a ler o tempo. Em 2017 veio a versão automática, com calibre suíço Sellita; depois, os modelos de 30 e 44 mm, o Ups & Downs e o Concrete Sector, inspirado nos relógios de trincheira da Primeira Guerra.\n\nCada mostrador é vertido em molde e cura por 14 dias numa sala com temperatura e umidade controladas — e, como o concreto nunca se comporta do mesmo jeito, não existem dois relógios iguais. Desde 2022, a marca lança todo ano uma edição limitada do zodíaco chinês (Tigre, Coelho, Dragão, Serpente e Cavalo), muitas vezes em parceria com artistas taiwaneses.",
+  "J": "4D Concrete Watch Automatic — o modelo-símbolo: mostrador de concreto em escada espiral, caixa de 43 a 45 mm, automático (Sellita SW200-1 nas primeiras séries, Miyota 9015 na série DUO de 2026); US$ 935 a 1.150\n\nEdições do zodíaco — Tigre (2022), Coelho (2023, 88 peças por versão), Dragão (2024), Serpente (2025) e Cavalo (2026); US$ 825 a 1.320\n\n4D Concrete Watch 44 mm e Decade Anniversary — versões a quartzo Miyota; US$ 385 a 418\n\nUps & Downs — mostrador em degraus que sobem e descem, redondo de 44 mm ou retangular de 20 faces; quartzo Miyota; US$ 273 a 396\n\nConcrete Sector — mostrador setorizado inspirado nos relógios de trincheira; 40 mm (US$ 240), 43 mm automático Sellita SW200-1 (US$ 640 a 670) e GMT com ETA 2893-2 (US$ 1.400)"
+ },
+ "fontes": [
+  {
+   "url": "https://22designstudio.net/products.json (loja oficial Shopify, via navegador)",
+   "passada": 1,
+   "novos": 49
+  },
+  {
+   "url": "https://22designstudio.net/sitemap.xml + sitemap_products (148 produtos, todos publicados)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://22designstudio.net/collections.json + coleções watches/timepieces/30mm/4th-dimension (navegador)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gessato.com/sector-concrete-watch/ (busca; Sector, preços US$ 240–670)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/4d-concrete-automatic-watch-signature-steel.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.pinkoi.com/product/8XCP65e3 (navegador; foto do Signature Steel)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.pinkoi.com/store/22designstudio (navegador; pulseira p/ \"Quadrant Mechanical Watch\")",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/wp-json/wc/store/products?search=22 (navegador; 11 relógios, nada novo)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/22-design (navegador; 404, produtos removidos)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.2luxury2.com/?p=303498 (modelos Original, Urban, Midnight de 2015)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yankodesign.com/?p=172784 (Kickstarter 2017: Signature Steel, Signature Brass, Exclusive Shadow)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/?p=62962 (Minimal Edition, mar/2018, 45 mm, US$ 760)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gessato.com/4d-concrete-watch-shadow-edition (42mm Shadow, dez/2018)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/web/20191019040934/https://www.22designstudio.net/collections/timepieces (Firecrawl)",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://web.archive.org/web/20211209032712/https://www.22designstudio.net/collections/timepieces (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/web/20170103115159/http://22designstudio.net/collections/timepieces (Firecrawl)",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://web.archive.org/web/20190723064832/https://www.22designstudio.net/collections/timepieces (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://web.archive.org/web/20240413023610/https://22designstudio.net/collections/timepieces?page=2 (Firecrawl)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2017/11/22-design-studio-unveils-its-sleek-monochromatic-4d-concrete-shadow-edition-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kohezi.com/collections/22 (loja NL; só relógios de mesa/parede)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/22studio/ (sem artigos)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://22designstudio.net/pages/our-story-new (navegador; fundação em 2005 por Sean Yu e Yiting Cheng; logo)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aurifo.com/en/p/men-s-silver-22designstudio-watches-with-steel-strap-concrete-sport-45mm-automati (loja CZ; Sport Edition = Sellita SW200-1, 5 ATM)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/intoconcrete/products/4d-44mm-decade-anniversary-edition-shadow (agregador de lojas; preço US$ 380→418)",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
