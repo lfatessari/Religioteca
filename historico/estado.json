@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 607,
+  "ultima_versao": 608,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10173,6 +10173,13 @@
       "tipo": "lacunas_marcas",
       "marcas": "Sicura a Stewart Dawson (50)",
       "rodada": 2
+    },
+    {
+      "versao": 608,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Stolas a Tempest (50)",
+      "rodada": 1
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10246,7 +10253,10 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Stewart Dawson",
+    "ultima_marca_revisada": "Tempest",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  }
+  },
+  "em_execucao": "2026-11-14T19:42:23Z",
+  "ultimo_sinal": "2026-11-14T19:57:22Z",
+  "onda2_pendente": true
 }

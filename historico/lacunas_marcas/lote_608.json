@@ -1,0 +1,251 @@
+{
+ "versao": 608,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Stolas",
+  "Storm",
+  "Stowa",
+  "Stranger",
+  "Straton",
+  "Straum",
+  "Strayer",
+  "Street Core 219",
+  "STREHLER",
+  "Strom",
+  "Strond",
+  "Stuckx",
+  "Studio Underd0g",
+  "Stuhrling",
+  "Subdelta",
+  "S.U.F Helsinki",
+  "Sugess",
+  "SuisseMecanica",
+  "Sundays Watch Club",
+  "Sunrex",
+  "Suunto",
+  "Svalbard",
+  "Swan & Edgar",
+  "Swatch",
+  "Swiss Military",
+  "Swisstek",
+  "Swiss Watch Company",
+  "SYE",
+  "Sylvain Pinaud",
+  "Système Formel",
+  "Szanto",
+  "Tacs",
+  "Tactum Solis",
+  "TAG Heuer",
+  "Takano",
+  "Talidara",
+  "Talley & Twine",
+  "TAN ZE HUA",
+  "TAOS",
+  "Tapferkeit",
+  "Tavannes",
+  "TB Buti",
+  "Techne",
+  "Technik",
+  "Technomarine",
+  "Technos",
+  "Tecnotempo",
+  "Tedoro",
+  "Teleport",
+  "Tempest"
+ ],
+ "celulas": {
+  "Stolas": {
+   "G": "stolaswatch.co",
+   "M": "G: stolaswatch.co, link do site da marca em 2 matérias independentes (aBlogtoWatch, review do Harbormaster Spinnaker; GearCulture, review do Harbormaster Spinnaker). O site não abriu (pedido de permissão) e não aparece em buscas: pode estar fora do ar (matérias antigas, ~2011-2012). B e C a confirmar: só a WatchReport (review do Harbormaster Genoa) diz 'Alabama based company' (USA, Alabama; cidade não citada) — fonte única, não gravado. K não preenchido: site oficial não alcançado. Buscas: 'Stolas watches official site', '@stolaswatches', 'stolaswatch.co', 'Stolas Alabama'; KeepTheTime aberto, sem local."
+  },
+  "Storm": {
+   "M": "K: arquivo de logo do site oficial stormwatches.com (página /service/productinfo/, imagem og:image 'STORM_LOGO_HOMEPAGE_CROPPED.jpg'; o cabeçalho lido mostrou o nome em texto/SVG embutido, por isso foi usado esse arquivo de logo do próprio site). O WebFetch direto em stormwatches.com pediu permissão; a página veio por busca. Possível erro em H (não alterado): o rodapé do site oficial liga para instagram.com/stormlondonofficial, e na planilha está @stormlondon. Revisão: K descartado na revisão (a confirmar): o arquivo veio do og:image, o cabeçalho usa texto [candidato: https://stormwatches.com/cdn/shop/files/STORM_LOGO_HOMEPAGE_CROPPED.jpg]."
+  },
+  "Stowa": {
+   "K": "https://www.stowa.de/templates/StowaChild/themes/stowa/images/stowa_logo.svg",
+   "M": "K: logo SVG do tema do site oficial stowa.de (página /philosophy, aberta pelo link de uma busca; o WebFetch direto em stowa.de pediu permissão). O leitor indicou esse arquivo como o logo da página (o og:image é stowa_logo_small.svg). Possível erro em H (não alterado): o site oficial liga para instagram.com/stowawatches, e na planilha está @stowa_germany."
+  },
+  "Stranger": {
+   "B": "USA",
+   "C": "Fort Lauderdale",
+   "G": "strangertime.com",
+   "M": "B e C: 'headquartered in Fort Lauderdale, Florida' em 2 fontes independentes (aBlogtoWatch, matéria do Ocean Predator Diver; WristWatchReview, matéria do Megalodon). G: strangertime.com citado na aBlogtoWatch e na WristWatchReview e ligado pela WristReview ('Not Strange At All...'); o site não aparece em buscas (pode estar fora do ar). A WristReview também liga instagram.com/strangerwatches (bate com H). K não preenchido: site oficial não alcançado (sem resultado em busca; não aberto). CEO possivelmente Jahn Karsybaev (só pelo nome de arquivo de imagem na WristReview; a confirmar, não gravado)."
+  },
+  "Straton": {
+   "M": "C não achado: a WatchPro (matéria dos Day/Date automáticos) diz só 'Swiss-based microbrand' operando 'from the banks of Lake Zürich', sem cidade; Fratello, The Manual, Petrolicious e aBlogtoWatch não dizem a cidade; registro suíço não achado na busca. K não preenchido: o WebFetch direto em stratonwatch.com e em stratonwc.com pediu permissão, e o site não aparece em buscas. Possível erro em G (não alterado): Petrolicious e aBlogtoWatch (Curve Chrono) dão o site como stratonwc.com, e a Similarweb lista stratonwc.com; na planilha está stratonwatch.com. Fundador: Kyle Schut, fundada em 2015 (WatchPro; The Manual escreve 'Kyle Straut')."
+  },
+  "Straum": {
+   "M": "K não preenchido: o site oficial atual (straum.co, aberto por link de busca; o WebFetch direto em straum.no pediu permissão) não tem logo em arquivo de imagem no cabeçalho (só o nome em texto/SVG embutido; nenhuma URL de logo achada). Possível erro (não alterado): C diz 'Suíça', mas o site oficial (straum.co/blogs/journal/how-straum-started) dá a empresa em Oslo (Skog Norway AS, Husebybakken 28B, 0379 Oslo) e os relógios 'Designed in Norway. Swiss Made'; G 'straum.no' — o site oficial em uso é straum.co; Instagram ligado no site: instagram.com/straum (H diz @straumwatches, a conferir)."
+  },
+  "Strayer": {
+   "B": "Suécia",
+   "C": "Estocolmo",
+   "G": "strayerwatches.com",
+   "M": "B: Suécia, design sueco e fabricação na Suíça (aBlogtoWatch, review STR 4601; Wallpaper, 25/01/2023; Watches of Scandinavia). C: Estocolmo (CB Insights e Nordic9, bases de dados de empresas; nenhuma matéria cita a cidade). G: strayerwatches.com (aBlogtoWatch, Wallpaper, CB Insights, Nordic9). Fundador/designer: Ola Stray, designer industrial sueco; CB Insights dá fundação em 2021 (só 1 fonte). K não preenchido: o WebFetch em strayerwatches.com pediu permissão e o site não apareceu em nenhuma busca (site:strayerwatches.com sem resultado do próprio domínio)."
+  },
+  "Street Core 219": {
+   "M": "K não preenchido: o WebFetch direto em streetcore219.com pediu permissão e nem o site nem a marca apareceram em nenhuma busca (buscas 'streetcore219.com', '\"Street Core 219\" instagram', '\"Street Core\" 219 montre Genève' sem nenhum resultado sobre a marca). Marca sem documentação encontrada: a existência e os dados atuais (Genebra, site, Instagram) não puderam ser confirmados. H está sem '@' (street_core_219)."
+  },
+  "STREHLER": {
+   "M": "K: logo do site oficial astrehler.ch (aberto por links de busca: astrehler.ch/strehler/ e astrehler.ch/?p=3756); o cabeçalho não traz imagem na leitura da página, então foi usado o arquivo de logo do rodapé (footer-logo.png), o único logo da marca no site (o WebFetch direto em astrehler.ch pediu permissão). Observação: existe também a marca 'Strehler' (relógio Sirna, 2023), projeto separado de Andreas Strehler com preços menores (astrehler.ch/strehler/; Monochrome; SJX); esta linha é a da marca Andreas Strehler (Sauterelle, Papillon). Revisão: K descartado na revisão (a confirmar): é o logo do rodapé, não do cabeçalho [candidato: https://astrehler.ch/wp-content/themes/andreas-theme/images/footer-logo.png]."
+  },
+  "Strom": {
+   "C": "Biel/Bienne",
+   "M": "C: Biel/Bienne (Europa Star, 'Strom: from the skeletons of Armin to the Cruizers' — ateliês 'na metrópole relojoeira de Bienne'; Dialicious, 'casa suíça sediada em Biel'). Europa Star: Daniel Strom, filho de Armin Strom, entrou no negócio na primavera de 2001; nome oficial Strom Prestige Swiss Timepieces. K não preenchido: o WebFetch direto em stromwatch.ch pediu permissão e o domínio não apareceu em nenhuma busca (site:stromwatch.ch só trouxe páginas sobre energia elétrica); G stromwatch.ch não confirmado, a conferir."
+  },
+  "Strond": {
+   "G": "stronduk.com",
+   "K": "https://static.wixstatic.com/media/94f39f_bc2862a8807c4523bf909a9bcdde034d~mv2.png",
+   "M": "G: site oficial stronduk.com (achado por busca; página inicial e about-us abertas; about cita o fundador e designer Terrence Ray e 'Since 2020'). K: logo do cabeçalho do site oficial (arquivo Wix). C não achado: o site oficial diz só 'United Kingdom', sem cidade nem endereço. Ponto a conferir em H (não alterado): o site oficial liga o Instagram @strondtimepieces, e a planilha tem @strondwatches."
+  },
+  "Stuckx": {
+   "B": "Holanda",
+   "G": "stuckx.com",
+   "M": "B: Holanda (WatchBase: 'Zaltbommel, Netherlands'; blog Oceanic Time 2014: 'Dutch newcomer'). G: stuckx.com citado como site oficial pelo WatchBase e pelo Oceanic Time (logo da marca com link); a loja era webshop.stuckx.com (Watch Report); o site não pôde ser aberto (pediu permissão), então não se sabe se ainda está no ar. C a confirmar: Zaltbommel (só WatchBase). K não preenchido: site oficial não abriu."
+  },
+  "Studio Underd0g": {
+   "M": "K não preenchido: o site oficial atual (underd0g.com, páginas about-us e ficha 01dst abertas pela busca) não traz o logo como arquivo de imagem no cabeçalho (provavelmente desenho embutido no código); studiounderd0g.com (coluna G) não abriu direto (pediu permissão). Ponto a conferir em G (não alterado): a loja oficial hoje responde em underd0g.com."
+  },
+  "Stuhrling": {
+   "M": "K não preenchido: o site oficial stuhrling.com não abriu direto (pediu permissão) e não apareceu em nenhuma busca (4 buscas: nome, 'site:stuhrling.com', loja oficial, domínio); só apareceram revendedores e Trustpilot, que não valem para o logo."
+  },
+  "Subdelta": {
+   "M": "K não preenchido: o site oficial subdelta.com não abriu direto (pediu permissão) e não apareceu em nenhuma busca (4 buscas: nome, 'site:subdelta.com', loja, domínio); só imprensa (Monochrome, Fratello, Oceanic Time) e revendedores. Ponto a conferir em C (não alterado): está 'Alemanha', que é país, não cidade."
+  },
+  "S.U.F Helsinki": {
+   "H": "@sufhelsinki",
+   "K": "https://sufhelsinki.com/cdn/shop/files/about-logo_100x.png?v=1633435194",
+   "I": "A S.U.F Helsinki (sigla de Sarpaneva Uhrenfabrik, \"fábrica de relógios Sarpaneva\") é a segunda marca do relojoeiro finlandês Stepan Sarpaneva, criada como alternativa mais acessível e mais robusta à sua marca de alta relojoaria, a Sarpaneva. Sarpaneva entrou na escola finlandesa de relojoaria em 1989, estudou depois no WOSTEP, na Suíça, e trabalhou cerca de dez anos no país antes de voltar a Helsinque, onde em 2003 montou sua oficina na antiga fábrica de cabos (Kaapelitehdas), data que o site oficial dá como o começo da marca.\n\nOs relógios são desenhados e montados à mão em Helsinque, em séries pequenas, com o calibre automático suíço Soprod A10, conferido, lubrificado e regulado na própria oficina. As edições limitadas homenageiam pioneiros finlandeses da engenharia, da velocidade e do design: o Paroni, por exemplo, leva o apelido do piloto de motociclismo Jarno \"Paroni\" Saarinen. O Vetehinen, primeiro relógio de mergulho da marca, voltou ao catálogo em 2025, e a série comemorativa Kaaos foi feita em parceria com a Sarpaneva (S.U.F x Sarpaneva).\n\n[⚠️ a confirmar: registro da marca em 2004 e primeiros modelos Ässä e Paroni em 2005 (só Qlekta); nome do Vetehinen tirado de um submarino finlandês da Segunda Guerra (só Phillips)]",
+   "M": "H e K: do site oficial sufhelsinki.com (página 'The beginning' do logbook, aberta por link de busca; a página inicial pediu permissão): Instagram do cabeçalho/rodapé e logo do cabeçalho. I: 8 fontes abertas: (1) sufhelsinki.com/blogs/logbook/the-beginning (fundador Stepan, 1989 escola, WOSTEP, 10 anos na Suíça, 2003 oficina na antiga fábrica de cabos, desenhados e montados em Helsinque, pioneiros finlandeses); (2) sufhelsinki.com/pages/kaaos (Stepan Sarpaneva, S.U.F x Sarpaneva, € 4.750); (3) sufhelsinki.com/blogs/logbook/paroni (Jarno 'Paroni' Saarinen); (4) aBlogtoWatch, 12/01/2025 (Sarpaneva Uhrenfabrik, alternativa mais acessível, Soprod A10 regulado na oficina, volta do Vetehinen); (5) Phillips, leilão NY dez/2023 (fundada por Stepan Sarpaneva como complemento mais robusto; Vetehinen primeiro relógio de mergulho; submarino da 2ª Guerra); (6) Belmont Watches (Sarpaneva Uhrenfabrik, ateliê em Helsinque); (7) Fifth Wrist (nome, oficina na antiga fábrica de cabos, Soprod A10); (8) Qlekta (1989–1992 escola de Tapiola, Wostep, 2003 volta à Finlândia, 2004 registro da S.U.F, 2005 Ässä e Paroni). A confirmar: registro em 2004 e primeiros modelos de 2005 (só Qlekta); origem do nome Vetehinen (só Phillips). Wikipedia de Stepan Sarpaneva pediu permissão e não foi lida."
+  },
+  "Sugess": {
+   "C": "Shenzhen",
+   "G": "sugessofficial.com",
+   "M": "C: Shenzhen (sugessofficial.com, página de história: ateliê no bairro de Bantian, Shenzhen, fundada em 2010 por Coco; e guia 'Sugess 101' de sugesswatch.com: 'located in Shenzhen'). G: sugessofficial.com, que se apresenta como 'SUGESS® Watches Official International website' e, na página 'Buying a Sugess', lista a si mesma como 'Sugess Official (Shenzhen Headoffice Stock) (Direct)'; sugesswatch.com aparece ali só como loja aprovada de estoque Hong Kong/Canadá. K não preenchido: o cabeçalho de sugessofficial.com usa o nome em texto; há logo só no rodapé (sugessofficial.com/cdn/shop/files/footer_logo.png) e na imagem de compartilhamento (LOGO1200.jpg). Ponto a conferir em H (não alterado): o site oficial liga @sugessofficial, e sugesswatch.com liga @sugess_watches; a conta @sugess_watch da planilha não apareceu em nenhuma fonte."
+  },
+  "SuisseMecanica": {
+   "C": "La Chaux-de-Fonds",
+   "M": "C: La Chaux-de-Fonds (aBlogtoWatch, 20/06/2016: 'Based in La Chaux-de-Fonds'; Time and Watches, mai/2013; Velvet Box Society). G não preenchido: duas fontes dão domínios diferentes — suissemecanica.com (Time and Watches, 2013) e suissemecanica.ch (WatchiLove, 2017); nenhum apareceu em busca e o .com pediu permissão, então não deu para confirmar qual está ativo. K não achado: site oficial não alcançado. Pontos a conferir (fora das lacunas, não alterados): aBlogtoWatch cita como fundadores o casal François e Juliana Renoult; Time and Watches diz fundada em 2010; Velvet Box Society diz 2012 e Yvan Arpa (fonte pouco confiável). WatchiLove cita a página de Facebook SuisseMecanicaWatches; o Instagram @suissemecanica da planilha não foi conferido."
+  },
+  "Sundays Watch Club": {
+   "M": "H, I e K não achados: o site oficial sundayswatchclub.com pediu permissão no acesso direto e não apareceu em nenhuma de 5 buscas (nome entre aspas, domínio, Instagram, modelos Clark/Denali/Sequoia); os resultados eram só de clubes de colecionadores homônimos. História não conferida: sem fontes. Ainda a verificar: se a marca existe com esse nome/domínio (a coluna D fala em madeira e J em quartzo japonês; nada confirmado)."
+  },
+  "Sunrex": {
+   "M": "B, C, G, H e K não achados: 3 buscas ('Sunrex watch brand official site', 'Sunrex watches brand company country', 'Sunrex 611 watch') só trouxeram um catálogo genérico (metro-ruddy.vercel.app) com os modelos 'Sunrex 611 Racer' e '611 Targa Classica Edition', sem país, site nem Instagram. Nada foi gravado para evitar confusão com homônimos. Ainda a verificar: identidade da marca."
+  },
+  "Suunto": {
+   "M": "K: arquivo do logo oficial da loja oficial us.suunto.com (imagem de compartilhamento og:image 'suunto_logo_2col_pos_rgb.png'; o cabeçalho mostra o nome em texto). O site suunto.com não abriu direto (pedido de permissão) e a página suunto.com/heritage aberta pela busca não trouxe a imagem do cabeçalho. Revisão: K descartado na revisão (a confirmar): o arquivo veio do og:image da loja, o cabeçalho usa texto [candidato: https://us.suunto.com/cdn/shop/files/suunto_logo_2col_pos_rgb.png?v=1778235673]."
+  },
+  "Svalbard": {
+   "I": "A Svalbard surgiu em 2016 como marca da empresa britânica No-Watch UK Limited, criada em 2012 para produzir pequenas séries de relógios fora do comum. O nome e os modelos se inspiram nas paisagens do arquipélago norueguês de Svalbard, e as coleções foram desenhadas pelo designer gráfico sueco Gustaf Bergström.\n\nA marca se dedica a formas incomuns de mostrar as horas: mostradores de 24 horas, relógios de um ponteiro só, hora decimal e ponteiros que giram ao contrário, quase sempre com movimentos a quartzo suíços Ronda (como o 515.24H) e, na linha Time Travel, quartzo de base Miyota com módulo GearBox. Hoje a empresa responsável é a Svalbard Watches Limited, em Wan Chai, Hong Kong. [⚠️ a confirmar: ano de lançamento (2016 ou 2017) e a empresa atual em Hong Kong (uma fonte só)]",
+   "M": "I: 3 fontes independentes abertas (menos de 6: marca pouco documentada; o site svalbard.watch não abriu direto e não aparece em nenhuma busca; buscas por imprensa, Instagram e registro em Hong Kong sem resultado). Fontes: thewatchgallery.fr/en/pages/svalbard (No-Watch UK Limited 2012, marca 2016, designer sueco Gustaf Bergström, 24 h/um ponteiro/sentido inverso, Miyota+GearBox, modelo Decimal); newlabelsonly.com/?p=6036 (empresa-mãe de 2012 no Reino Unido — chamada ali de Lanswood Commerce, Greenwich —, Svalbard em 2017, Bergström, Ronda 515.24H, inspiração no arquipélago); dialicious.com/en/svalbard e /why_customers_choose_svalbard (2016, No-Watch UK Limited 2012, Svalbard Watches Limited em Wan Chai, Hong Kong; Bergström; Ronda 515.24H e X30, Seiko NH34A, Miyota+GearBox; CEO Alex Mitten — não usado, uma fonte só). A confirmar: ano (2016 em 2 fontes x 2017 em 1) e a empresa atual em Hong Kong (só Dialicious). Observação: B/C dizem Hong Kong, mas a origem é britânica (só anotado). H não achado: nenhuma fonte cita o Instagram da marca (buscas site:instagram.com e '@svalbardwatch' sem resultado). K não achado: site oficial svalbard.watch não abriu (pedido de permissão) e não aparece em buscas."
+  },
+  "Swan & Edgar": {
+   "G": "swanandedgar.com",
+   "K": "https://swanandedgar.com/cdn/shop/files/1638537818327_340x.png?v=1638537855",
+   "M": "G: swanandedgar.com, site oficial da marca (páginas 'Our Story', 'Watch Warranty' e 'Operating Instructions' vieram da busca; endereço 2nd Floor Gadd House, Arcadia Avenue, Londres N3 2JU). K: primeira imagem do logo no cabeçalho dessa página (há uma segunda versão '1638537818327-modified_340x.png'). Possível divergência em H (não alterado): o rodapé do site liga instagram.com/SwanandEdgar, e a planilha tem @swanandedgarwatches."
+  },
+  "Swatch": {
+   "M": "K não achado: swatch.com não abriu direto (pedido de permissão); as páginas swatch.com abertas pela busca (our-world, en-sg, swatchHome, ficha de produto) mostram o logo do cabeçalho só como rótulo 'Logo', sem endereço de imagem legível. Só há logos em sites de terceiros (logotyp.us, cdnlogo), que não foram usados."
+  },
+  "Swiss Military": {
+   "M": "G, H e K não preenchidos: o nome 'Swiss Military' é usado por empresas diferentes, e não dá para saber a qual a linha se refere. Candidatos achados: Swiss Military by Chrono (Chrono AG, Solothurn; licença da Confederação Suíça/armasuisse, nome usado desde 1994; site swissmilitarywatches.ch; Instagram @swissmilitarybychrono; logo https://swissmilitarywatches.ch/cdn/shop/files/SM_neg.svg — tudo da página oficial swissmilitarywatches.ch/brand/) e Swiss Military Hanowa (swissmilitary.ch redireciona para swissmilitary-hanowa.com, que não abriu). Decidir qual empresa a linha representa antes de preencher."
+  },
+  "Swisstek": {
+   "M": "Nada gravado (sem certeza). Site oficial não achado em busca (4 buscas) e marca parece inativa desde ~2012. A confirmar: B USA e C Phoenix/Gilbert (Arizona) — só Haute Living (2010: 'Phoenix-designed, Swiss-made', fundador Kunal Naik, morador de Gilbert, marca de 1996; 2012: perfil de Kunal Naik), uma só fonte; press release Newswire 29/09/2010 sem endereço; aBlogtoWatch só tem sorteios de 2011. G e K não achados: nenhum domínio oficial apareceu em busca."
+  },
+  "Swiss Watch Company": {
+   "I": "A Swiss Watch Company (SWC) é uma pequena empresa familiar americana fundada em 1996 por Stephen Roemer, que tem longa carreira na indústria relojoeira suíça. Durante anos ela fabricou relógios para forças armadas e socorristas e cuidou da produção de relógios para outras marcas; o filho, Josh Roemer, cuida da parte comercial.\n\nSó em 2018 a SWC lançou relógios com o próprio nome: o primeiro foi o SWC Diver, de mergulho, com movimento Sellita SW200, apresentado numa campanha no Kickstarter em setembro de 2018. Depois vieram outros modelos Swiss Made, como o piloto Hyper-G e o Tumbler. [⚠️ a confirmar: passagem de Stephen Roemer pelo Swatch Group (só The Time Bum); renovação do logotipo em 2024, com o lema 'Beyond Tradition' (só Ben's Watch Club)]",
+   "M": "Site oficial swcusa.com: WebFetch direto pediu permissão (PROVENANCE_REQUIRED) e o domínio não apareceu em busca; K não preenchido por isso. H não gravado: @swcusa só em uma fonte (TechWriterEDC; o Kickstarter da marca usa o usuário 'swcusa') — a confirmar. I (7 páginas, 5 veículos): fundação 1996 e marca própria em 2018 (The Time Bum 28/10/2019; Ben's Watch Club review); fundador Stephen Roemer (The Time Bum; TechWriterEDC grafa 'Stephean'); relógios para forças armadas/outras marcas (Ben's Watch Club; The Time Bum; TechWriterEDC); empresa familiar e Josh Roemer (The Time Bum; Ben's Watch Club Tumbler 09/12/2024; TechWriterEDC); Diver no Kickstarter set/2018 (Klocksnack 03/09/2018; TechWriterEDC; WristWatchReview 2019); Hyper-G (The Time Bum 04/09/2022); Sport no Kickstarter em 2020 (The Time Bum 07/09/2020, não usado no texto). C 'Las Vegas' não confirmado em nenhuma fonte aberta (só anotado)."
+  },
+  "SYE": {
+   "I": "A SYE é uma marca francesa criada por Arnaud Pézeron, entusiasta de relógios e de automóveis. O nome é a sigla de 'Start Your Engine(s)', o que dá o tom automobilístico da marca, que se apresenta com o conceito de 'sport tailoring'.\n\nAs primeiras linhas foram o MOT1ON Automatic 24 e o MOT1ON Chronograph (este com movimento mecaquartzo Seiko), com caixa sem alças e o sistema patenteado Fastback de troca de pulseira; mais tarde veio o Cannonball GMT. Os relógios são montados na França. [⚠️ a confirmar: ano de criação — 2019 segundo a Very Good Lord, 2020 segundo a Dialicious (a Fratello já falava da marca em maio de 2020); design de Ludovic Blanquer e Michel Berra (só Opumo); Pézeron também criou o blog Montresdesign.com (só Very Good Lord)]",
+   "M": "Site oficial syewatches.com: WebFetch direto pediu permissão (PROVENANCE_REQUIRED) e a página inicial não apareceu em busca; K não preenchido por isso (só o book oficial em PDF no Shopify foi aberto). H não gravado: @syewatches só em uma fonte (Very Good Lord) — a confirmar. I (10 fontes): book oficial SYE 2023/2024 (fundador, Start Your Engine, MOT1ON, Fastback patenteado, Made in France); Opumo (fundador, sigla, montagem na França, mecaquartzo Seiko, designers); Dialicious (criada em 2020 perto de Paris, sem alças, sport tailoring); Very Good Lord (primeiros relógios em 2019, Cannonball GMT, montagem na França); Franceclat (sport tailoring, Fastback, MOT1ON); WatchBase; Fratello 13/05/2020; WristWatchReview 2022; WatchClicker 29/03/2021; The Time Bum 26/09/2021. Observação sobre C (já preenchida): WatchBase e Franceclat dão o endereço 26 rue du Moulin, 78420 Carrières-sur-Seine (região de Paris), não Paris — só anotado."
+  },
+  "Sylvain Pinaud": {
+   "C": "Sainte-Croix",
+   "M": "C: oficina em Sainte-Croix, no Jura vaudois (A Collected Man, out/2026 'workshop in Sainte-Croix'; FH – Federação da Indústria Relojoeira Suíça, 10/09/2020 'in Sainte-Croix'). Atenção: Sainte-Croix fica na Suíça (cantão de Vaud); B 'França' parece ser a nacionalidade do relojoeiro — a conferir. K não preenchido: WebFetch direto em sylvainpinaud.com pediu permissão (PROVENANCE_REQUIRED) e o domínio não apareceu em busca."
+  },
+  "Système Formel": {
+   "M": "Nada gravado (sem certeza). A confirmar: G systemeformel.com e oficina na região de Nantes (França), fundador William Suquet — só aBlogtoWatch ('Système Formel watch collections bring art to the fore'); o domínio não apareceu em nenhuma busca (2 tentativas) e a página da Fratello não traz dados. C não achado: a fonte cita só 'região de Nantes', sem cidade. K não preenchido: site oficial não alcançado."
+  },
+  "Szanto": {
+   "M": "Site oficial szantowatches.com não abriu (WebFetch direto pediu permissão; não apareceu em nenhuma busca). C não preenchido: a Szanto é marca da Time Concepts LLC, fundada por Barry Cohen, ex-Luminox (aBlogtoWatch; Gear Patrol; village.ai; Recoil); só a ZoomInfo dá endereço da Time Concepts (13342 Grass Valley Ave, Grass Valley, Califórnia) — a confirmar, 1 fonte. K não preenchido: site oficial não alcançado. Possível erro em D (não alterado): D diz 'grupo por trás da Nixon', mas as fontes ligam a Szanto à Time Concepts/Barry Cohen (fundador da Luminox), não à Nixon."
+  },
+  "Tacs": {
+   "I": "A TACS foi criada pelo designer japonês Yoshiaki Motegi; o nome é a sigla de Taste, Attractive, Creative e Sense. A marca faz relógios de desenho minimalista inspirados em objetos do dia a dia, sobretudo câmeras fotográficas antigas, como o Vintage Lens Automatic (2016), com cara de lente de câmera telemétrica, e o Automatic Twin Lens (ATL), inspirado nas câmeras de duas lentes.\n\nSegundo a imprensa, a marca estreou na Baselworld de 2010 e, em dezembro de 2024, lançou com a alemã Rollei uma edição limitada de 500 peças inspirada na câmera Rolleiflex. [⚠️ a confirmar: estreia na Baselworld 2010 (só The Star, 2015) e edição Rollei de 500 peças (só Gizmodo Japão)]",
+   "M": "Site oficial tacs-watch.com não abriu (WebFetch direto pediu permissão; o domínio não apareceu em nenhuma busca). I: 7 fontes abertas — fundador Yoshiaki Motegi (SJX 2016; Deployant; The Star 2015; Red Army Watches); sigla Taste, Attractive, Creative, Sense (Deployant; The Star); Vintage Lens Automatic 2016 (SJX; Deployant); ATL (Red Army Watches; Gizmodo Japão); Baselworld 2010 (só The Star) e edição Rollei dez/2024, 500 peças, ¥165.000 (só Gizmodo Japão) → a confirmar. Também aberta: Tokyo Watch Style e Hype.my. H não achado (nenhuma fonte cita o perfil; busca site:instagram.com sem resultado). K não preenchido: site oficial não alcançado. Possíveis erros, não alterados: G — a imprensa (Gizmodo Japão; Hype.my) liga o site oficial a tacs-image.jp / tacs-image.com, não a tacs-watch.com; B/C — Gizmodo Japão chama a TACS de marca 'nascida no Japão' e a Hype.my diz 'made in Japan', mas B/C dizem Hong Kong (a confirmar)."
+  },
+  "Tactum Solis": {
+   "M": "Nada novo achado. Site oficial tactumsolis.com não abriu (WebFetch direto pediu permissão) e nenhuma das 4 buscas ('tactumsolis.com', '\"Tactum Solis\" watch', 'Tactum Solis titanium Lithuania Klaipeda DB6', em lituano 'laikrodžiai Klaipėda', e o modelo 'Falcon Ra') trouxe qualquer página sobre a marca. H, I e K não achados: sem fontes. História não conferida: sem fontes. Ainda a verificar: se a marca existe com esse nome/domínio."
+  },
+  "TAG Heuer": {
+   "K": "https://www.tagheuer.com/on/demandware.static/Sites-TAG_INT-Site/-/default/dwad2f866a/images/th-logo.svg",
+   "M": "K: logo do cabeçalho (arquivo SVG) de uma página do site oficial tagheuer.com aberta pelo link da busca (o WebFetch direto em tagheuer.com pediu permissão)."
+  },
+  "Takano": {
+   "I": "A Takano nasceu da Takano Clock Manufacturing, fábrica de relógios de parede fundada por Kotaro Takano em Nagoya em 1899; a empresa, depois chamada Takano Seimitsu Kogyo, passou a vender relógios de pulso com o próprio nome em 1957 e chegou a ter uma parceria com a americana Hamilton. Seu modelo mais famoso foi o Chateau, de calibre próprio, lançado na virada dos anos 1950 para os 1960 e tido como o relógio japonês mais fino da época, com cerca de 3,5 mm.\n\nEm setembro de 1959 o tufão de Ise danificou a fábrica e, endividada, a empresa foi absorvida em 1962 por uma empresa do grupo Ricoh (Ricoh Tokei, hoje Ricoh Elemex), o que encerrou a marca Takano.\n\nEm 2024 o relojoeiro independente Hajime Asaoka, à frente da Tokyo Watch Precision (também por trás da Kurono Tokyo), licenciou o nome junto à Ricoh e relançou a marca com o Chateau Nouvelle Chronometer: caixa de aço de 37 mm, calibre automático 90T de base Miyota ajustado à mão e preço de ¥ 880.000. Foi o primeiro relógio japonês a receber o certificado de cronômetro do Observatório de Besançon.",
+   "M": "Site oficial takanowatch.jp não abriu (WebFetch direto pediu permissão; não apareceu em nenhuma busca). I: 9 fontes abertas — 1899, Kotaro Takano, Nagoya (Monochrome 2024; Time+Tide; The Hour Markers); relógios de pulso com o nome Takano desde 1957 (Monochrome; Time+Tide; webChronos; Hodinkee Japão; Hypebeast); parceria com a Hamilton (Time+Tide; webChronos); Chateau fino, ~3,5 mm (Time+Tide; webChronos; Hodinkee Japão) — o ano varia entre as fontes (1959, 1960, 1961), por isso o texto diz 'virada dos anos 1950 para os 1960'; tufão de Ise em 1959 (Monochrome; Hodinkee Japão; webChronos; The Hour Markers); absorção pelo grupo Ricoh em 1962 (Monochrome; Time+Tide; Hodinkee Japão; The Hour Markers); relançamento por Hajime Asaoka/Tokyo Watch Precision com licença da Ricoh em 2024 (Monochrome; Hodinkee Japão; webChronos; Professional Watches; The Hour Markers); Chateau Nouvelle 37 mm, cal. 90T, ¥ 880.000 (Monochrome; Hodinkee Japão; Gressive; webChronos); primeiro relógio japonês certificado em Besançon (Hodinkee Japão; Gressive; The Hour Markers). Ficou de fora: 'quarta marca japonesa de relógios de pulso' (só Hodinkee Japão). H não achado: nenhuma das fontes cita um perfil oficial da Takano no Instagram (2 buscas sem resultado). K não preenchido: site oficial não alcançado."
+  },
+  "Talidara": {
+   "G": "talidara.com",
+   "M": "G: talidara.com (comunicado PR Newswire 15/06/2023 e aBlogtoWatch, matéria do Heiwa). B e C não preenchidos: fontes divergentes — empresa Talidara s.r.o. com comunicado datado de Praga (PR Newswire), aBlogtoWatch diz 'baseada na Dinamarca e na República Tcheca', e Mann Publications/Uncrate dizem que o Heiwa é montado à mão na Dinamarca (país do fundador Frederik Ehlers). A confirmar: país/cidade da sede. K não preenchido: site oficial não abriu (talidara.com pediu permissão). Para conferir: o comunicado cita o Instagram @talidarajewelry (planilha tem @talidara); a marca é de joias e lançou o relógio Heiwa, edição limitada de US$ 2.800 (≈ R$ 15.441 = 2.800 × 5,5146), bem acima de F = 3000 / E = 2."
+  },
+  "Talley & Twine": {
+   "H": "@talleyandtwine",
+   "K": "https://talleyandtwine.com/cdn/shop/files/Alternate_Logo_Inverted_white_Transparent_background_12-4-19_1_150x.png?v=1614356999",
+   "I": "A Talley & Twine é uma marca de relógios de Portsmouth, na Virgínia (EUA), fundada em 2014. É dirigida por Randy D. Williams, presidente, CEO e cofundador, e por Eric Heyward, diretor de operações e sócio. O nome vem de um cruzamento de ruas que já foi o centro de um bairro violento da Virgínia e que depois foi revitalizado; a marca resume a ideia com a frase \"não importa como você começa, mas como termina\".\n\nOs mostradores trazem só o número sete, que para a marca representa a conclusão, como os sete dias da semana. Além dos modelos de preço acessível, a marca lançou o Sevant, um relógio feito na Suíça, e já apareceu em publicações como Robb Report, Black Enterprise, Men's Health, HuffPost e Essence.",
+   "M": "H e K: do site oficial talleyandtwine.com (página 'our story', aberta pelo link da busca; logo do cabeçalho e Instagram do rodapé). A página inicial digitada direto não abriu (pediu permissão). I (8 fontes): fundação em 2014 e sede em Portsmouth, VA (CB Insights; Coastal Virginia Business/covabizmag, com endereço 4006 Victory Blvd.); Randy D. Williams presidente/CEO e cofundador (site oficial, páginas press e our story; Word in Black/Atlanta Voice 2022; ShoppeBlack 2017); Eric Heyward COO e sócio (site oficial, press; Ground News/Atlanta Voice); origem do nome e número sete (site oficial, 2 páginas 'our story'; Word in Black); Sevant feito na Suíça (site oficial liga a página 'Swiss Made' do Sevant; Word in Black cita o plano de um automático suíço); imprensa (site oficial, página press). Retirados por terem 1 fonte só: crescimento para 15 funcionários em 2016 (Word in Black), Williams e Heyward colegas de quarto na Albany State (Ground News), relógios a partir de US$ 200."
+  },
+  "TAN ZE HUA": {
+   "M": "C: Shenzhen (distrito de Futian), do endereço de contato no perfil oficial de membro da AHCI (ahci.ch); fonte única, mas é o perfil oficial da academia de relojoeiros independentes — a confirmar em outra fonte. G e H não achados: nenhuma fonte (AHCI, SJX 2017, Revolution, WatchProSite, Teddy Baldassarre, Time+Tide, Exquisite Timepieces) cita site ou Instagram próprios. K não preenchido: sem site oficial. Para conferir: o nome usual é Tan Zehua (Zehua Tan), membro da AHCI desde 2019, linha 'TZH'; preços vistos: Melody Guilloché HK$ 232.000 (Time+Tide) e TZH Melody Enamel Red Dragon US$ 46.500 (Exquisite Timepieces). Revisão: C descartado na revisão (a confirmar): Shenzhen só no perfil da AHCI, falta 2ª fonte [candidato: Shenzhen]."
+  },
+  "TAOS": {
+   "M": "B e C: Suíça, Genebra (Monochrome 2024; FH/Federação da Indústria Relojoeira Suíça 2024; The Jewellery Editor). G: taoswatches.com (Katerina Perez e The Jewellery Editor). K não preenchido: site oficial não abriu (pediu permissão). Possíveis erros nas colunas já preenchidas (não alterados): a TAOS de Genebra (Atelier Olivier Vaucher, Dominique Vaucher e o relojoeiro Olivier Gaud) faz peças únicas de métiers d'art, não relógios outdoor/aventura (D e J); a primeira coleção custava CHF 110.000 a 150.000 (Monochrome), ≈ R$ 715.000 a 975.000 (× 6,5), muito acima de E = 2 / F = 3000. Ano de fundação diverge: 2019 (The Jewellery Editor) x 2024 (Katerina Perez). A confirmar: se @taoswatches é o perfil desta TAOS (não achado ligado em fonte aberta). Revisão: B, C e G descartados na revisão (a confirmar): a TAOS de Genebra (métiers d'art) pode ser homônima da marca desta linha (outdoor, @taoswatches) [candidato: Suíça]."
+  },
+  "Tapferkeit": {
+   "I": "A Tapferkeit é uma marca britânica de relógios de inspiração Bauhaus, de desenho minimalista e preço acessível; o nome é a palavra alemã para \"bravura\". Seus modelos Furchtlos (\"destemido\") e Löwenherz (\"coração de leão\") usam quartzo Miyota 2115 e caixa de 42 mm, e o Freiheit (\"liberdade\") é automático, com Miyota 8215. Os dois primeiros foram lançados numa campanha no Kickstarter, a série \"Legacy\". [⚠️ a confirmar: ano da campanha no Kickstarter (2019) e nome do fundador]",
+   "M": "I (5 fontes, menos que 6: site oficial tapferkeit.com não abriu e 'site:tapferkeit.com' não trouxe páginas; procurei também no Instagram e em revistas): marca britânica de inspiração Bauhaus (The Coolector 2022; Trustpilot, 'designed in the UK'; Opumo); nome = 'bravura' em alemão (Opumo); Furchtlos e Löwenherz com Miyota 2115 e 42 mm (Time+Tide; Master Horologer; Opumo); Freiheit automático Miyota 8215 (The Coolector; Opumo); série Legacy no Kickstarter (Master Horologer, jun/2019 — fonte única). Fundador citado só como 'James' (The Coolector) — não entrou. H não achado: nenhuma fonte cita o Instagram e a busca no Instagram não trouxe perfil. K não preenchido: site oficial não abriu (pediu permissão). Para conferir: C = Londres não aparece nas fontes abertas (só 'Reino Unido'); Trustpilot dá nota 1,9/5 com 338 avaliações."
+  },
+  "Tavannes": {
+   "M": "G a confirmar: documentos oficiais da marca relançada (Tavannes Watch Co., sede em Tavannes e manufatura em La Chaux-de-Fonds) citam dois endereços — www.tavannes-watch.swiss (comunicado de imprensa Black Star Sailing, dez/2021) e www.tavannes-watch.com (ficha de produto, 2021; e-mail de imprensa @tavannes-watch.com); a wiki Grail-Watch cita tavanneswatches.com. O site não abriu (WebFetch pediu permissão), por isso G não foi gravado. H não achado: nenhum Instagram oficial em buscas, Europa Star, Time+Tide, GPHG nem nos PDFs da marca. K não preenchido: site oficial não abriu."
+  },
+  "TB Buti": {
+   "C": "Florença",
+   "M": "C: Florença (italyweloveyou.com: fundada em 2001 por Tommaso Buti no centro histórico de Florença; 300magazine.com: primeira coleção em 2001 na Via Tornabuoni, Florença, e primeira boutique em Florença em 2008). Possível erro em D (não alterado): as fontes dão como fundador Tommaso Buti, não 'Tullio Bolzan Buti'. G, H e K não achados: nenhum site oficial nem Instagram da marca apareceu nas buscas (só revendedores: Delray Watch, Catawiki, Pandolfini)."
+  },
+  "Techne": {
+   "M": "C não achado (fontes em conflito): a Long Island Watch diz que os Techné são desenhados na Suíça pela VANTGARD, empresa familiar de Grandson; a loja Payhip da Woodshores AB (que vende 'Techné Instruments' e liga para technewatches.com) fala de uma oficina familiar em Landskrona (Suécia); Worn & Wound não informa a sede. Possível erro em B (não alterado): 'USA' não foi confirmado por nenhuma fonte. K não preenchido: o site oficial technewatches.com não abriu (WebFetch pediu permissão) e não apareceu em busca."
+  },
+  "Technik": {
+   "M": "B, C, G e K não achados: buscas por 'Technik watches' e 'technikwatches' não trouxeram nenhuma marca ligada ao Instagram @technikwatches. Possível candidata (a confirmar, pode ser homônima): Technik 4X, projeto de Hans Peter Grädel (aBlogtoWatch, Oracle of Time; site technik4x.com; preços em CHF), mas nenhuma fonte liga essa marca ao @technikwatches nem dá sua cidade, por isso nada foi gravado."
+  },
+  "Technomarine": {
+   "C": "Genebra",
+   "M": "C: Genebra (Wikipedia/espelho IPFS: fundada em 1997 por Franck Dubarry em Genebra; CB Insights: sede 'Geneva, CH-1204'; Europa Star 2005: equipe em Genebra). K não preenchido: o site oficial technomarine.com não abriu (WebFetch pediu permissão) e não apareceu em nenhuma busca (os resultados trazem só revendedores e o estaleiro homônimo Tecnomar/Tecnomarine)."
+  },
+  "Technos": {
+   "M": "K não achado: o site oficial technos.com.br (com e sem www) pediu permissão (PROVENANCE_REQUIRED) e as buscas ('technos.com.br relógios Technos site oficial', 'Technos relógios logo technos.com.br svg') só trouxeram lojas (Magalu, Mercado Livre, Dafiti) e imprensa, nunca uma página do domínio oficial; Firecrawl sem créditos. Logo a buscar numa próxima rodada pelo cabeçalho do site oficial."
+  },
+  "Tecnotempo": {
+   "M": "C, G e K não achados: as buscas ('Tecnotempo watches official site', 'Tecnotempo orologi sito ufficiale sede', 'Tecnotempo designed assembled Italy website') só trouxeram anúncios em marketplaces (Catawiki, Preloved, Wallapop, tutti.ch, ricardo.ch, Vestiaire, loja eBay LeosWatches), que dizem 'designed and assembled in Italy' mas não citam cidade, empresa nem site oficial; as fichas abertas não carregaram a descrição. Nenhum domínio oficial apareceu; Firecrawl sem créditos. Possível pista a confirmar: a loja eBay 'leoswatches_com' vende edições limitadas Tecnotempo (relação com a marca não confirmada)."
+  },
+  "Tedoro": {
+   "I": "A Tedoro é uma marca independente libanesa de relógios mecânicos, fundada em 2025 por Gilbert Maalouf, que faz séries limitadas com movimentos automáticos japoneses, caixa de aço 316L e vidro de safira.\n\nA linha Harmony tem pulseira integrada; em março de 2026 saiu a Harmony 39 Sarab (\"miragem\" em árabe), GMT com mostrador de madrepérola e movimento Miyota 9075, limitada a 300 peças, por cerca de US$ 785. Em julho de 2026 veio a Quadra GMT Meteorite, de caixa quadrada de 40 mm, mostrador de meteorito e o mesmo Miyota 9075, também limitada a 300 peças (pré-venda a US$ 890).",
+   "M": "I: 7 páginas abertas (site oficial tedoro.uk e www.tedoro.uk bloqueados por permissão). Libanesa e fundador Gilbert Maalouf (Time+Tide 23/03/2026; Oracle of Time; 163.com; Trustpilot tedoro.uk). Fundação 2025 (Oracle of Time, review do Sarab; 163.com; Oracle of Time Quadra diz 'lançou a marca no ano passado' em jul/2026). Harmony com pulseira integrada (Time+Tide; Oracle of Time). Sarab: madrepérola, Miyota 9075, 300 peças, US$ 785 (Time+Tide); 'Sarab' = miragem (Time+Tide; Oracle of Time, que cita US$ 960). Quadra GMT Meteorite: 40 mm, meteorito, Miyota 9075, 300 peças, US$ 890 em pré-venda (Oracle of Time; 163.com; página da marca no Time+Tide: caixa quadrada). Aço/safira/Miyota e Seiko (Trustpilot tedorowatches.com, perfil da marca). Retirado por ter só a fonte da própria marca no Trustpilot: inspiração num presente do pai do fundador. A marca também usa o domínio tedorowatches.com (Trustpilot, Oracle of Time). H não achado: busca 'site:instagram.com tedoro watches' e as matérias (Time+Tide, Oracle of Time, Trustpilot) não citam o perfil; site oficial bloqueado. K não achado: site oficial (tedoro.uk) pediu permissão; Firecrawl sem créditos."
+  },
+  "Teleport": {
+   "I": "A Teleport é uma marca americana de relógios de moda, de preço acessível. Ficou conhecida em janeiro de 2022, quando a imprensa noticiou que o ex-presidente Barack Obama usava um cronógrafo da parceria Actively Black x Teleport, vendido por US$ 300 pela Actively Black, marca de roupas criada pelo ex-jogador de basquete Lanny Smith. [⚠️ a confirmar: sede em Nova York e controle por empresários negros, citados só pela Gear Patrol]",
+   "M": "I: 4 fontes achadas (marca pouco documentada; buscas por site oficial, fundador, Instagram e história): Quill & Pad 25/01/2022 e 04/02/2023 ('fashion watch producer' dos EUA; parceria com a Actively Black; US$ 300; Lanny Smith); Gear Patrol (Obama; US$ 300; 'New York-based'; 'Black-owned'); Wrist Enthusiast 02/01/2022 ('simple fashion watch brand'; Lanny Smith). Fundador e ano de fundação não achados. G a confirmar: teleportwatches.com aparece só como link na matéria da Gear Patrol (1 fonte, não oficial) e não surgiu em busca. H não achado: buscas 'teleportwatches.com Teleport watches instagram founder' e '@teleportwatches' sem resultado. K não achado: site oficial não alcançado; Firecrawl sem créditos."
+  },
+  "Tempest": {
+   "B": "Hong Kong",
+   "C": "Hong Kong",
+   "G": "tempestwatches.com",
+   "M": "G: tempestwatches.com (Money Inc; Worn & Wound, review do Commodore 2014; WristWatchReview; aBlogtoWatch). B e C: Hong Kong (aBlogtoWatch, review do Tempest Carbon: 'Hong Kong based indie brand'; e27, 'Hong Kong's Tempest Carbon watch surpasses US$47k Kickstarter goal', 2014). Divergência: o WatchPatrol lista a Tempest como Suíça, fundada em 2010 (página não abriu). Marca fundada em 2010 (Money Inc), dono chamado só de 'Ben' (Worn & Wound; aBlogtoWatch). K não achado: tempestwatches.com pediu permissão (com e sem www); Firecrawl sem créditos. Possível erro em D/J (não alterados): a Tempest de Hong Kong é conhecida por relógios de mergulho (Commodore em titânio, Carbon de carbono forjado, Viking), não de aviação; conferir se o @tempestwatches é desta marca."
+  }
+ },
+ "base": "Relogios_atualizada_607.xlsx"
+}
