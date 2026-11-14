@@ -1,0 +1,248 @@
+{
+ "versao": 593,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Itay Noy",
+  "i-Toc",
+  "IWC",
+  "IXDAO",
+  "J & Berg",
+  "J.N. Shapiro",
+  "Jack Mason",
+  "Jacob & Co",
+  "Jacob Jensen",
+  "Jacques Bianchi",
+  "Jacques du Manoir",
+  "Jacques Etoile",
+  "Jacques Lemans",
+  "Jaeger-LeCoultre",
+  "Jaermann & Stübi",
+  "Jaipur Watch Company",
+  "Jaquet Droz",
+  "Jason Hyde",
+  "JB Gioacchino",
+  "J-B Viot",
+  "J.Ciro",
+  "Jean d'Eve",
+  "Jean Dunand",
+  "Jean Lassale",
+  "Jean Marcel",
+  "JeanRichard",
+  "Jianghun",
+  "Jios",
+  "Jiusko",
+  "John Isaac Geneve",
+  "Joop",
+  "Jordi",
+  "Jorg Gray",
+  "Jorg Hysek",
+  "Jorg Schauer",
+  "Jowissa",
+  "Js Elliott",
+  "JS Watch",
+  "Jugbitten",
+  "Jules Jürgensen",
+  "Julien Coudray 1518",
+  "Junghans",
+  "Junkers",
+  "Justex",
+  "Justiniani",
+  "Juvenia",
+  "JWalker Watch Co.",
+  "Kairos",
+  "Kalā Watch Co.",
+  "Kallinich Claeys"
+ ],
+ "celulas": {
+  "Itay Noy": {
+   "M": "K não preenchido: o site oficial itaynoy.com pediu permissão no WebFetch direto e nenhuma página dele apareceu em 3 buscas (\"Itay Noy watches itaynoy.com\", \"site:itaynoy.com\", \"itaynoy.com watch shop\"); só vieram imprensa e lojas (aBlogtoWatch, Worn & Wound, Monochrome, Delray Watch, Majestix). Firecrawl sem créditos. Ainda a verificar: logo do cabeçalho de itaynoy.com."
+  },
+  "i-Toc": {
+   "M": "B, C, G, H e K não confirmados. Achado: o i-Toc é um relógio de design de 2009 criado por Sean Zoega, citado como 'UK designer' (Geeky Gadgets, set/2009, preço £59,95) e como designer (aBlogtoWatch, review de 02/11/2009, 'just under $100'). B = Reino Unido a confirmar (só 1 fonte diz isso). G: aBlogtoWatch e TrendHunter (2009) apontam o site i-toc.com, mas não se achou sinal de que ele ainda esteja ativo; a confirmar, não gravado. C, H e K: nenhuma fonte; a marca parece ter ficado no lançamento de 2009 (não achei menção depois disso)."
+  },
+  "IWC": {
+   "K": "https://www.iwc.com/iwc/logo-og.png",
+   "M": "K: arquivo de logo do site oficial iwc.com (https://www.iwc.com/iwc/logo-og.png, imagem og:image da página iwc.com/en/company.html, que veio da busca). O logo do cabeçalho em si não veio na leitura (o WebFetch direto em www.iwc.com pediu permissão). H @iwcwatches confere com o link do Instagram do site oficial."
+  },
+  "IXDAO": {
+   "I": "A IXDAO (Ixdao Watch Co.) é uma marca chinesa de relógios mecânicos de preço acessível, conhecida pelos relógios de mergulho de inspiração clássica, como os modelos 5305 e X02T de titânio, vendidos pela loja online oficial com entrega para o mundo todo. Segundo comunicado de imprensa de julho de 2025, foi fundada em 2022. [⚠️ a confirmar: ano de fundação 2022 (só no comunicado de imprensa)]",
+   "M": "I: só 3 fontes achadas (marca pouco documentada): comunicado de imprensa 'Chinese Horology Brand Ixdao Watch Co. Makes Global Waves…' (16/07/2025, em Observer-Reporter/Barchart/FinancialContent — mesmo texto, conta como 1: China, fundação 2022, loja online com envio mundial, site ixdaowatch.com); loja Jewelry Addicts (fichas do X02T Titanium Dive e do IPOSE 5303); WatchPatrol/WatchCharts (anúncios). Procurado também em buscas de imprensa relojoeira e de história/fundador: nada. Fundador e cidade não achados. H não achado: 'site:instagram.com ixdao watch' e buscas da marca sem perfil; o comunicado não cita redes. K não preenchido: WebFetch direto em ixdao.watch pediu permissão e o site não apareceu em busca. Ainda a verificar: o comunicado de 2025 cita o site como ixdaowatch.com, e não ixdao.watch (coluna G)."
+  },
+  "J & Berg": {
+   "B": "Finlândia",
+   "C": "Oulu",
+   "G": "jbergwatches.com",
+   "M": "B e C: Oulu, Finlândia (aBlogtoWatch 'Actually affordable J&Berg B2 titanium': design e controle de qualidade em Oulu, montagem em Hong Kong; Worn & Wound Quick Release B2; Oracle of Time review B2; WristReview 'Finland's own'). G: jbergwatches.com (link da loja nas mesmas 4 matérias). K não preenchido: o site oficial pediu permissão no WebFetch e não apareceu em busca ('site:jbergwatches.com'). Ainda a verificar: H @jandberg (já na planilha) não foi confirmado por nenhuma das matérias."
+  },
+  "J.N. Shapiro": {
+   "M": "K não preenchido: o site oficial jnshapirowatches.com não foi alcançado (o WebFetch direto pediu permissão e o domínio não apareceu em nenhum resultado das buscas 'jnshapirowatches.com', 'site:jnshapirowatches.com', 'J.N. Shapiro Watches official website' e '\"jnshapirowatches.com\" shop'; só vieram imprensa e lojas). Firecrawl sem créditos. Logo de revendedor não foi usado."
+  },
+  "Jack Mason": {
+   "K": "https://jackmasonbrand.com/cdn/shop/files/Logo-JackMason-2024-Black.svg?v=1704730020&width=165",
+   "M": "K: logo do cabeçalho do site oficial jackmasonbrand.com (página da coleção Mens Best Sellers, aberta pelo link da busca; o WebFetch direto na página inicial pediu permissão). O rodapé liga ao Instagram @jackmasonbrand, que confere com H."
+  },
+  "Jacob & Co": {
+   "M": "K não preenchido: o site oficial jacobandco.com não foi alcançado (o WebFetch direto pediu permissão e o domínio não apareceu nos resultados das buscas 'jacobandco.com watches official', 'site:jacobandco.com watches', 'Jacob & Co official website Astronomia' e 'jacobandco.com timepieces'; só vieram lojas, Watchonista e Wikipedia). Firecrawl sem créditos. Logo de revendedor não foi usado."
+  },
+  "Jacob Jensen": {
+   "K": "https://jacobjensen.com/cdn/shop/files/Logotype_JJblack__RGB.svg?v=1763891072&width=120",
+   "I": "A marca leva o nome do designer industrial dinamarquês Jacob Jensen (Copenhague, 1926 – 2015), que foi designer-chefe da Bang & Olufsen por mais de duas décadas, criando produtos como o toca-discos Beogram 4000, e que tem obras no acervo permanente do Museu de Arte Moderna (MoMA) de Nova York. Em 1958 ele abriu o próprio estúdio, a Jacob Jensen Design, mais tarde instalado em Hejlskov, às margens do Limfjord, na Dinamarca.\n\nO primeiro relógio da marca, o Classic, foi desenhado em 1985 por seu filho Timothy Jacob Jensen, que entrou como aprendiz do pai em 1978 e assumiu o estúdio em 1990. O modelo entrou para a Design Study Collection do MoMA e foi reeditado várias vezes desde então.\n\nHoje a marca pertence à empresa dinamarquesa Jacob Jensen A/S, que desenha os produtos e deixa a produção e a assistência com parceiros externos; nos relógios, a parceira é a Weisz Group.",
+   "M": "K: logo do cabeçalho (versão preta) do site oficial jacobjensen.com (página faq/time, aberta pelo link da busca; o WebFetch direto na página inicial pediu permissão). Rodapé liga ao Instagram @jacobjensen_denmark (confere com H). I (10 fontes abertas): nascimento em Copenhague 1926 e morte em 2015 (Wikipedia; Washington Times 16/05/2015; site da Bang & Olufsen); designer-chefe da B&O por mais de duas décadas (Washington Times; Wikipedia 1964–1991; B&O '27 anos') e Beogram 4000 (Wikipedia; B&O; Monocle); obras no acervo do MoMA (Wikipedia; Washington Times; watch.co.uk); estúdio próprio em 1958 (Wikipedia; B&O) e em Hejlskov/Limfjord (Wikipedia; Monocle; registro estatistik.dk com endereço Hejlskovvej 104, Højslev); primeiro relógio em 1985 e entrada na Design Study Collection do MoMA (site oficial 'Our Story'; WatchPro 19/03/2019; Europa Star dez/2008 diz que o primeiro produto da marca foi um relógio, logo levado ao MoMA); desenho de Timothy Jacob Jensen, aprendiz em 1978 e à frente do estúdio em 1990 (WatchPro; watch.co.uk 12/11/2020; Wikipedia); reedições (WatchPro; watch.co.uk); empresa atual Jacob Jensen A/S, CVR 42523747 (rodapé do site oficial; estatistik.dk), produção e assistência por parceiros externos e Weisz Group como parceira de relógios (site oficial, página faq/time). Retirado por ter só 1 fonte: modelos originais 510 e 520 (watch.co.uk), saída de Timothy em 2018 (Wikipedia), relógios de titânio e cronógrafo Ronda de 2005 (Europa Star). Divergência: o resumo da página 'Our Story' atribui o relógio de 1985 a Jacob Jensen, enquanto WatchPro e watch.co.uk dizem que foi Timothy (ficou Timothy, 2 fontes). Possível erro em C (não alterado): a empresa Jacob Jensen A/S tem sede em Højslev (Skive), não em Copenhague (estatistik.dk), a confirmar."
+  },
+  "Jacques Bianchi": {
+   "M": "K não preenchido: o site oficial jacquesbianchi.com não foi alcançado (o WebFetch direto pediu permissão e o domínio não apareceu em nenhum resultado das buscas 'jacquesbianchi.com', 'site:jacquesbianchi.com', 'Jacques Bianchi montres Marseille site officiel' e '\"Jacques Bianchi\" watches JB200 official site'). O domínio da coluna G confere: a página verygoodlord.com sobre a marca cita jacquesbianchi.com como site. Firecrawl sem créditos. Logo de revendedor não foi usado."
+  },
+  "Jacques du Manoir": {
+   "I": "A Jacques du Manoir é uma marca suíça de relógios a quartzo. Segundo o texto da própria marca, reproduzido por revendedores autorizados, ela nasceu em 1993, criada por Jacques Boegli como sucessora da B-Watch, linha de relógios lançada em 1991 por uma família de Moutier ligada à relojoaria desde 1904 (Louis Schwab, avô de Jacques), e foi comprada em 2018 por Christian Frommherz, que manteve o emblema estilizado \"B\".\n\nHoje a empresa está registrada como Jacques du Manoir AG, com sede em Wallbach, na Suíça. [⚠️ a confirmar: fundação em 1993 por Jacques Boegli, origem familiar em 1904, B-Watch em 1991 e compra por Christian Frommherz em 2018 — vêm só do texto da marca repetido por lojas; o site oficial não abriu]",
+   "M": "Site oficial jacquesdumanoir.ch não abriu (WebFetch pediu permissão) e não apareceu em nenhuma busca. I: 9 fontes abertas, mas as 4 que trazem a história (westendcollection.com.au, firstclasswatches.co.uk/blog, watches.com, watchia.com) são lojas que copiam o mesmo texto da marca, por isso fundação 1993, Jacques Boegli, 1904/Louis Schwab, B-Watch 1991 e compra por Christian Frommherz em 2018 ficaram 'a confirmar'. Apoio independente parcial: registro comercial (onlineinfo.ch, dados do Zefix) mostra a B-Watch S.A. (em liquidação) em Moutier e a Jacques du Manoir AG ativa, sede Hohle Gasse 7, 4323 Wallbach; marca 'B Jacques du Manoir' registrada nos EUA em 2004 (trademark.justia.com). Também abertas: wolfandbadger.com (sem datas), onlineinfo.ch Boegli Watch SA (Biel, sem ligação explícita). K não achado: site oficial inacessível. Ainda a verificar: C diz Mendrisio, mas o registro dá sede em Wallbach (AG); uma das pessoas registradas mora em Mendrisio."
+  },
+  "Jacques Etoile": {
+   "M": "Site oficial não achado em 4 buscas. G a confirmar: www.jacquesetoile.com aparece só numa matéria da JCK de 01/05/2003 (jckonline.com) e não surgiu em nenhuma busca atual — não gravado. H não achado: nenhum Instagram da marca em buscas, na WatchTime (watchtime.net/brands/jacques-etoile) nem na loja infinitywatches.cz. K não preenchido: sem site oficial alcançado. Ainda a verificar: C diz 'Floresta Negra', mas a WatchTime e a JCK (2003) dão Lörrach; segundo a infinitywatches.cz e o comunicado da Aristo Vollmer (Inhorgenta), a marca foi fundada em 1996 pelo relojoeiro Klaus Jakob e a produção passou para a Aristo Vollmer GmbH, em Pforzheim."
+  },
+  "Jacques Lemans": {
+   "K": "https://www.jacques-lemans.com/media/b8/78/07/1619684516/JL_Wortbildmarke_Standard_Black_sRGB.svg",
+   "M": "K: logo do cabeçalho do site oficial jacques-lemans.com (marca nominativa preta, SVG; há também uma versão branca no mesmo cabeçalho)."
+  },
+  "Jaeger-LeCoultre": {
+   "K": "https://www.jaeger-lecoultre.com/jlc/logo-og.png",
+   "M": "K: arquivo de logo do site oficial jaeger-lecoultre.com (logo-og.png, a imagem de compartilhamento da página 'Our Maison'); o cabeçalho desenha o logo direto no código, sem arquivo de imagem próprio. A página inicial não abriu direto (pediu permissão); a página interna veio de busca."
+  },
+  "Jaermann & Stübi": {
+   "M": "K não achado: site oficial jaermann-stuebi.ch não abriu (WebFetch pediu permissão) e não apareceu em nenhuma busca (nem com 'site:jaermann-stuebi.ch'); sem Firecrawl nesta rodada."
+  },
+  "Jaipur Watch Company": {
+   "K": "https://jaipur.watch/cdn/shop/files/Jaipur_Watch_Company_-_Logo_2_1.png?v=1783315430&width=600",
+   "M": "K: logo do cabeçalho do site oficial jaipur.watch (aberto pelo link de busca; o acesso direto pediu permissão). O site liga o Instagram @jaipurwatchcompany, que confere com H."
+  },
+  "Jaquet Droz": {
+   "M": "K não preenchido: cabeçalho usa o nome em texto/SVG embutido, sem arquivo de imagem (conferido em jaquet-droz.com/en, /en/history e /en/node/186, abertas por links de busca; o acesso direto a jaquet-droz.com pediu permissão). Logos em sites de vetores (whatthelogo, vectorseek) não são do site oficial e não foram usados."
+  },
+  "Jason Hyde": {
+   "M": "C não gravado por conflito com B: duas fontes dizem que a sede é em Miami, nos EUA (nota à imprensa da marca na Newswire, 22/10/2019: 'Jason Hyde established its headquarters in Miami in 2018'; Haute Living, 12/2024: 'based in Miami's Design District'). Nenhuma fonte achada liga a marca à Espanha. A conferir: B (Espanha) talvez esteja errado e o certo seja USA / Miami. K não preenchido: o site jasonhyde.com pediu permissão no acesso direto e não apareceu em nenhuma busca (Firecrawl sem créditos). A coleção de Jason Hyde na Watches.com está vazia hoje."
+  },
+  "JB Gioacchino": {
+   "M": "Nada novo achado: 4 buscas ('JB Gioacchino watches', 'J.B./Jean-Baptiste Gioacchino montres/orologi', 'Gioacchino haute horlogerie tourbillon', 'Gioacchino watches instagram') não acharam nenhuma marca de relógios com esse nome. Não foi achado site, Instagram, cidade nem logo. A conferir se a marca existe ou se o nome está escrito certo."
+  },
+  "J-B Viot": {
+   "C": "Les Lilas (Paris)",
+   "M": "C: oficina em Les Lilas, na região de Paris (WorldTempus, 'Breguet Seen By... Jean-Baptiste Viot': 'Paris-based watchmaker and restorer… in his workshop in Les Lilas, Paris'; registro de empresa Xerfi: Horlogerie Viot, 7 Rue Chassagnolle, 93260 Les Lilas, criada em 01/2009; WatchProSite: 'eastern side of Paris'). J-B Viot é Jean-Baptiste Viot, que trabalhou 8 anos na Breguet (A Collected Man). G não gravado, a confirmar: o aBlogtoWatch (2012) liga o site jbviot.com, mas ele pediu permissão e não apareceu em busca, então não deu para ver se ainda funciona. H não achado: nenhuma fonte cita Instagram. K não preenchido: sem site oficial acessível."
+  },
+  "J.Ciro": {
+   "H": "@jcirowatches",
+   "I": "A J.Ciro foi criada em 2014 por Joe Cirincione, morador de Fanwood (Nova Jersey, EUA), que começou vendendo abotoaduras: a ideia surgiu quando ele não achou abotoaduras de que gostasse para o próprio casamento e ganhou do avô um par personalizado com as iniciais \"JC\". O nome \"Ciro\" vem de um apelido de família, inspirado no salão de cabeleireiro \"Ciro's\" que os avós mantiveram por mais de 40 anos.\n\nA primeira coleção de relógios foi a Ambassador, de relógios sociais, lançada em 2016; depois vieram os cronógrafos da série Circuit/Precision Chronograph, com modelos batizados com nomes de circuitos de corrida (Le Mans, Monza, Phoenix, Panorama, Monaco), e uma nova coleção em outubro de 2019. Na época, os relógios custavam de US$ 219 a US$ 329. [⚠️ a confirmar: ano de fundação (2014), nome do fundador, origem do nome e ano da Ambassador (2016) vêm de uma única matéria, do Patch]",
+   "M": "H: @jcirowatches, citado nos catálogos da própria J.Ciro Designs no Issuu (issuu.com/jcirodesignsuser: 'Ambassador Dress Watches' e 'Buy Best Price Branded Wrist Watch'); site oficial jcirowatches.com não abriu (pediu permissão). K não preenchido: site oficial não alcançado (WebFetch pediu permissão; Firecrawl sem créditos). I: só 5 fontes achadas (mínimo 6 não atingido; buscas por imprensa relojoeira, Instagram e resenhas do S3 não trouxeram nada): Patch.com 11/11/2019 ('Fanwood entrepreneur launches new watch collection') — fundador Joe Cirincione, fundação 2014, início com abotoaduras, origem do nome (salão 'Ciro's' dos avós), Ambassador em 2016, nova coleção em out/2019, preços US$ 219–329; catálogos da marca no Issuu (4: Ambassador Dress Watches; Buy Best Price...; Ambassador and Phoenix Chronograph; Precision Chronograph) — Ambassador como primeira coleção, Fanwood (NJ), cronógrafos com nomes de circuitos (Le Mans, Monza, Phoenix, Panorama, Monaco). A confirmar: fundação 2014, nome do fundador, origem do nome e ano 2016 da Ambassador (só Patch). Obs.: os catálogos do Issuu citam também o site jcirodesigns.com (G atual jcirowatches.com, dado pelo Patch)."
+  },
+  "Jean d'Eve": {
+   "M": "G, H e K não achados com certeza. Única pista de site: www.jeandeve.ch, citado só pelo blog Time Transformed (19/04/2015) — a confirmar; o endereço pediu permissão e não abriu. Nenhum Instagram achado (buscas e páginas da Europa Star, Collector Square, Master Horologer). Ainda a verificar (não alterado): Time Transformed dá o endereço Av. Léopold-Robert 94, La Chaux-de-Fonds (C atual: Le Locle) e diz que a marca seria da Free Town Watch Products (Hong Kong) desde 1992 (o autor não tem certeza); Master Horologer (2018) dá o nome Le Phare Jean d'Eve S.A. (desde 1984). Situação atual da marca (ativa ou não) não confirmada: as notícias mais recentes achadas são de 2015."
+  },
+  "Jean Dunand": {
+   "M": "G, H e K não achados: nenhuma busca trouxe site oficial nem Instagram da marca de relógios (só o artista art déco Jean Dunand, 1877–1942, homônimo); Europa Star (2008), Monochrome (2013) e horlogerie-suisse não citam site. Contexto: marca 'Pièces Uniques' fundada em 2003 por Christophe Claret e Thierry Oulevay (horlogerie-suisse); Thierry Oulevay morreu em 2013 (Monochrome Watches, 03/07/2013). Situação atual da marca não confirmada; possivelmente inativa, a conferir."
+  },
+  "Jean Lassale": {
+   "M": "G, H e K não achados: a marca está extinta, sem site nem Instagram próprios — segundo a Wikipedia (lida por espelho, en.wikipedia-on-ipfs.org), a Bouchet-Lassale SA foi fundada em 08/10/1976 em Genebra por Jean Bouchet-Lassale, parou a produção em 1979, a marca foi comprada pela Seiko, a empresa teve falência declarada em 23/06/2003 e saiu do registro em 10/04/2006. Como é uma fonte só, G/H não foram marcados com '-' (a confirmar). Nenhum site oficial apareceu nas buscas (só revendedores de usados: RightTime, watch-spare, 1stDibs)."
+  },
+  "Jean Marcel": {
+   "M": "C não gravado: as fontes dão Birkenfeld (sede atual) e Pforzheim (origem), ambas na Alemanha, o que não bate com B=Suíça — a conferir. C: Birkenfeld — sede da Jean Marcel Montres GmbH, Hauptstr. 134, 75217 Birkenfeld (Alemanha), conforme comunicado de imprensa da própria empresa (deutscherpresseindex.de, 01/04/2019) e o especial 'Deutsche Uhrenmarken' da WatchTime.net. Origem em Pforzheim (Europa Star 'Jean Marcel: a family affair'; WatchTime 'Die Uhrenmarke im Porträt'; RightTime: desenvolvimento em Pforzheim, fabricação em Lyss, Suíça). Possível erro em B (não alterado): a marca é alemã (criada em 1981 pela joalheria Gengenbach de Pforzheim e por Jürgen Kuhn; hoje dirigida por Marcel Kuhn), com relógios montados na Suíça — B deveria ser Alemanha, a conferir. H não achado: nenhuma das fontes (WatchTime, Europa Star, RightTime, comunicados) cita Instagram; busca não trouxe perfil. K não preenchido: site oficial jeanmarcel.com (e /de/) pediu permissão; Firecrawl sem créditos."
+  },
+  "JeanRichard": {
+   "M": "G não preenchido: o site jeanrichard.com aparece como 'site oficial' só na WorldTempus (1 fonte, página antiga) e não abriu (pedido de permissão); a Delray Watch diz que a marca está praticamente parada desde o fim dos anos 2010, sob o grupo Sowind, 'sem site atualizado' — G a confirmar: jeanrichard.com (possivelmente fora do ar). H não achado: nenhuma conta oficial de Instagram apareceu em buscas (Monochrome, WorldTempus e WatchBase também não citam). K não preenchido: site oficial não alcançado. Fontes: en.worldtempus.com/watch-brand/jeanrichard-71; delraywatch.com/jeanrichard; watch-wiki.net (Sowind); watchbase.com/jeanrichard; monochrome-watches.com (Terrascope, 2013)."
+  },
+  "Jianghun": {
+   "I": "A Jianghun é uma marca chinesa de relógios mecânicos de desenho próprio, conhecida entre colecionadores por modelos como o War Drum, o Deep Challenger e o Guilloché Time Vortex (JH0301G), este com calibre automático Miyota 90S5, caixa de aço de 39 mm, vidro de safira e resistência à água de 100 m. [⚠️ a confirmar: ficha técnica do Time Vortex (só na SeriousWatches); ano de fundação, fundador e cidade não achados]",
+   "M": "I: só 4 fontes achadas, e nenhuma traz fundação, fundador ou cidade; por isso a história ficou com 1 frase. Fontes: WatchCrunch (resenha 'Jianghun War Drum', título na busca; página veio vazia); Reddit r/ChineseWatches ('Jianghun Deep Challenger'); seriouswatches.com (Guilloché Time Vortex JH0301G: Miyota 90S5, 39 mm, 100 m, safira, € 361,79 usado); coluna J da planilha. Procurado também em Esquire SG (Chinese microbrands 2026, não cita a marca), buscas em chinês (匠魂/东莞) e Kickstarter: nada. K não preenchido: jianghunwatch.com não abriu (pedido de permissão) e não apareceu em nenhuma busca (nem 'site:jianghunwatch.com'). Ainda a verificar: C (Dongguan) não foi confirmado nesta pesquisa."
+  },
+  "Jios": {
+   "I": "A JIOS é uma marca japonesa de relógios criada em Ishiyama, na cidade de Ōtsu (província de Shiga), à beira do lago Biwa; o nome vem das iniciais de \"Japan, Ishiyama, Otsu, Shiga\". É operada pela Valore Co., Ltd. (株式会社VALORE), com sede no bairro de Seiran, em Ōtsu, e tem como proposta levar a fabricação japonesa ao mundo vendendo direto ao cliente, sem intermediários. A marca se apoia na história local: Ōtsu se apresenta como berço da medição do tempo no Japão, pelo relógio de água (rokoku) instalado há cerca de 1.350 anos, no reinado do imperador Tenji.\n\nO primeiro modelo, o SEIRAN (nome do bairro de Seiran), automático com calibre Miyota 8215 e caixa de 38 mm, foi lançado por financiamento coletivo na Makuake entre fevereiro e abril de 2025, com 276 apoiadores. Vieram depois o GMT Diver's 104 (calibre NH34, 40 mm, 200 m, vendido pela plataforma CoSTORY no fim de 2025) e o AWAZU, modelo feminino lançado na Makuake em outubro de 2025. A montagem final é feita numa oficina em Quioto, e as cores de mostrador lembram o lago Biwa (\"Biwako Blue\", \"Biwa Salmon\"). [⚠️ a confirmar: ano de criação da marca — a ROOMIE fala em 2009, mas as demais fontes tratam a JIOS como marca recente]",
+   "M": "I (7 fontes): Ishiyama/Ōtsu e nome 'Japan, Ishiyama, Otsu, Shiga' (Makuake 'jios_seiran' e 'jios_awazu', páginas da própria empresa; ROOMIE 16/11/2025; Japanese Microbrands; Lifehacker JP 22/11/2025). Empresa Valore Co., Ltd., endereço Seiran 1-8-1, Ōtsu, venda direta e relógio de água de Tenji (Makuake). SEIRAN: Miyota 8215, 38 mm, Makuake 24/02–23/04/2025, 276 apoiadores (Makuake). AWAZU: 4º modelo, feminino, Makuake 07/10–26/11/2025 (Makuake). GMT Diver's 104, NH34, 40 mm, 200 m, CoSTORY (Lifehacker JP; ROOMIE 16/11 e 25/11/2025; Gizmodo JP 29/11/2025 — mesmo texto do Lifehacker). Montagem em Quioto (Lifehacker JP; ROOMIE). Cores Biwako Blue/Biwa Salmon (Makuake; Japanese Microbrands). A confirmar: 'fundada em 2009' (só ROOMIE, contradiz 'marca jovem' de Lifehacker/Gizmodo). Fundador não citado em nenhuma fonte. K não preenchido: jios-en.com não abriu (pedido de permissão) e não apareceu em busca; nas páginas da Makuake não há imagem do logo. Obs.: o site em japonês é jios-jp.com (Makuake)."
+  },
+  "Jiusko": {
+   "C": "Guangzhou",
+   "M": "C: Guangzhou (comunicado PRWeb 2017 da Jiusko USA: 'Guangzhou-based watch manufacturer'; marca JIUSKO registrada nos EUA em 2012 pela Guangzhou Yonghong Watch Technology Development Co., Ltd. — trademarks.justia.com). Obs.: o distribuidor nos EUA (Jiusko USA, Brooklyn, Nova York — ZoomInfo) usa o site jiuskousa.com e o Instagram @jiuskousa (PRWeb). K não preenchido: o site jiusko.com não abriu (pedido de permissão) e não apareceu em busca."
+  },
+  "John Isaac Geneve": {
+   "G": "johnisaacgeneve.com",
+   "M": "G: johnisaacgeneve.com (WorldTempus 'Watches for a new generation' e aBlogtoWatch 'John Isaac Rough Sea', 16/08/2011 — as duas ligam esse endereço como site da marca; fontes de 2011, o site não abriu nesta pesquisa e não se confirmou se ainda está no ar). H não achado: nenhum Instagram da marca em buscas (só o do fundador citado em podcast sobre a Artisans de Genève, empresa dele de personalização de relógios). K não preenchido: site oficial não alcançado. Info extra: WorldTempus diz que John Isaac abriu a empresa em 2006, aos 27 anos; Rough Sea concorreu no GPHG 2011 (gphg.org)."
+  },
+  "Joop": {
+   "M": "K não preenchido: o site oficial joop.com (páginas /heritage e /de/de/, abertas pelo link da busca; o acesso direto a https://joop.com pediu permissão) não mostra arquivo de imagem do logo no cabeçalho — o nome JOOP! aparece só como texto/marcação embutida. O rodapé do site liga instagram.com/joop (confere com H)."
+  },
+  "Jordi": {
+   "B": "Suíça",
+   "D": "Marca do designer suíço Michel Jordi, com a linha JORDI Swiss Icon de inspiração suíça",
+   "E": 6,
+   "F": 41450,
+   "J": "Chronograph Red Horizon — cronógrafo automático de 44 mm em titânio com PVD e alumínio anodizado, data grande, calibre MJ 1948.01 (Dubois Dépraz), 100 m; US$ 6.900\n\nChronograph Blazing Sun — cronógrafo de 2014 da linha Swiss Icon, em preto e amarelo; CHF 6.900\n\nIcons of the World — coleção de 2012 com 8 cidades, 3 peças de cada, caixa de 46 mm em titânio e ouro vermelho, corda manual com gongo\n\nLady Icon — linha feminina a quartzo (2012)\n\nChronograph Club 100 e Belvedere — cronógrafos da linha Swiss Icon (preto/dourado e preto/verde)",
+   "M": "Identificação: tratada como a marca JORDI / JORDI Swiss Icon, de Michel Jordi (a outra linha da planilha, 'Michel Jordi', é a marca antiga do mesmo designer); não se achou outra marca de relógios chamada só 'Jordi'. B: Suíça (aBlogtoWatch 2014; caso IMD 2014; Europa Star 2011/2012; preço em CHF no Watchmobile7). D: Europa Star 2011 ('a nova marca de Michel Jordi'), aBlogtoWatch 2014 (desenho de Michel Jordi), Watchmobile7 (inspiração suíça). J: aBlogtoWatch 2014 (Red Horizon, Club 100, Belvedere, Blazing Sun), Europa Star 2012 (Icons of the World), Watchmobile7 2012 (Lady Icon) e 2014 (Blazing Sun). F: preços de lançamento achados: Red Horizon US$ 6.900 × 5,5146 = R$ 38.051; Blazing Sun CHF 6.900 × 6,5 = R$ 44.850; média = R$ 41.450 → E = 6 (só 2 cronógrafos com preço; os modelos a quartzo devem custar menos — conferir). Não preenchidos (a confirmar): C — Watchmobile7 dá sede em Nyon (distribuidora Rouge & Blanc Distribution SA), fonte única; a 1ª loja própria abriu em 25/11/2011 em Zurique (Niederdorfstrasse, Europa Star). G — sites citados divergem: micheljordi.ch (Europa Star 2011; aBlogtoWatch 2014), jordiwatches.com (Europa Star 2012), jordiswissicon.com (Watchmobile7); nenhum apareceu em busca e não se sabe se a marca segue ativa. H — @jordiswissicon só no Watchmobile7. K — sem site oficial alcançado. Watchmobile7 diz 'fundada em 1988', provavelmente data da empresa antiga de Michel Jordi — não usado. A história já escrita em I não foi mexida."
+  },
+  "Jorg Gray": {
+   "K": "https://jorggray.com/cdn/shop/files/JG-logo_210x.jpg?v=1614319874",
+   "M": "K: logo do cabeçalho do site oficial jorggray.com (página about-us aberta pelo link da busca; o acesso direto a https://jorggray.com pediu permissão). A página diz só 'Southern California' como local, o que bate com C."
+  },
+  "Jorg Hysek": {
+   "M": "G, H e K não preenchidos (só uma fonte): a marca de relógios que leva o nome do designer, hoje chamada Hysek (fundada em 1996/1997, segundo a Worldtempus e a Watchonista; ainda ativa em 2024, com butique no Dubai Mall), tem site www.hysek.com e loja hysek.store e Instagram @hysekwatches segundo a Worldtempus (notícia de 25/04/2019 e ficha da marca) — fonte única, e o domínio não apareceu em nenhuma busca para ser aberto. Ainda a verificar: a linha descreve o designer Jorg Hysek (D cita Breguet, Vacheron e Seiko; J cita Marine 'para Breguet'), mas a Worldtempus (2013) diz que ele já não estava na marca Hysek, embora o nome continue; decidir se G/H devem ser os da marca Hysek."
+  },
+  "Jorg Schauer": {
+   "M": "K não preenchido: o site oficial schauer-germany.com não abriu (o acesso direto pediu permissão) e não apareceu em nenhuma busca (site:schauer-germany.com e o domínio entre aspas só trouxeram outras empresas Schauer). Firecrawl sem créditos."
+  },
+  "Jowissa": {
+   "K": "https://www.jowissa.com/cdn/shop/files/600px_Jowissa_Logo_wide_with_Swiss_Flag.png?height=32&v=1770932470",
+   "M": "K: logo do cabeçalho do site oficial jowissa.com (página inicial aberta pelo link da busca; arquivo '600px_Jowissa_Logo_wide_with_Swiss_Flag.png'). O rodapé liga instagram.com/jowissa, igual a H. WebFetch direto em https://jowissa.com deu PROVENANCE_REQUIRED; aberto https://jowissa.com/ que veio da busca."
+  },
+  "Js Elliott": {
+   "M": "B, C e G não gravados (só 1 fonte, não oficial): a Monochrome (2 matérias, 'Introducing J.S. Elliott Kim Theory Two' e entrevista 'Theory One Series Two') diz que a marca é do jovem relojoeiro Jin-Seo Elliott Kim, de origem sul-coreana e morando nos USA (cidade não citada), que monta e regula os relógios na própria oficina; site JS-Elliott.com; Theory Two a US$ 1.300. A confirmar: B = USA, G = js-elliott.com (WebFetch direto em https://js-elliott.com deu PROVENANCE_REQUIRED e o domínio não apareceu em nenhuma busca). A Monochrome cita o Instagram @J.S.ElliottWatchmaking, diferente de H (@jselliottwatches) — conferir se é a mesma marca. K não achado: site oficial não alcançado. Buscas: 'JS Elliott watches', 'js-elliott.com Theory…', '\"J.S. Elliott\" Theory One…', '\"JS Elliott\" watchmaking Theory Sellita', 'jselliottwatches'."
+  },
+  "JS Watch": {
+   "K": "https://images.squarespace-cdn.com/content/v1/52d654d2e4b0a3af71bf6bcc/56e9c112-b46c-4648-92ac-c47fdcbfc632/logo_jswatch_web.jpg?format=1500w",
+   "M": "K: logo do cabeçalho do site oficial www.jswatch.com (arquivo logo_jswatch_web.jpg, Squarespace). A conferir em H: o site oficial liga instagram.com/jswatch/ (@jswatch), e não @jswatchco como está em H (não alterado, H fora do pedido). WebFetch direto em https://jswatch.com deu PROVENANCE_REQUIRED; aberto https://www.jswatch.com que veio da busca."
+  },
+  "Jugbitten": {
+   "M": "H, I e K não achados: WebFetch direto em https://jugbitten.com e https://www.jugbitten.com deu PROVENANCE_REQUIRED, e nenhuma das 6 buscas ('Jugbitten watches Kuhmo Finland', 'jugbitten.com watch', '\"Jugbitten\" watches', 'Jugbitten 363 automatic NH35 Finland watch', 'site:instagram.com jugbitten', 'Jugbitten kello Kuhmo', 'site:jugbitten.com', '\"jugbitten\" instagram') trouxe o site oficial, Instagram ou matéria sobre a marca. História não conferida: sem fontes. Abrir com Firecrawl quando houver créditos."
+  },
+  "Jules Jürgensen": {
+   "M": "G, H e K não preenchidos: a marca não tem site nem Instagram próprios encontrados. Wikipedia (espelho 'Jules Jürgensen', 2026): o nome foi vendido a uma empresa dos USA em 1936 (produção suíça até 1957); em 1974 Mort Clayman comprou a empresa (montagem nas Ilhas Virgens Americanas com máquinas japonesas); após a morte dele em jan/2010 a família fechou a empresa; em 2011 o Dr. Helmut Crott, dono da Urban Jürgensen & Sønner, comprou os direitos do nome. Hoje a herança está na Urban Jürgensen (urbanjurgensen.com, @urbanjurgensen, linha própria na planilha), cuja página about cita 'Jules Jürgensen' na linha do tempo e tem uma coleção 'Jules' (Monochrome). Não gravei '-' por não haver confirmação explícita de que não existe site. Buscas: 'Jules Jürgensen watches official site', '\"Jules Jurgensen\" watches brand website instagram today'. A conferir (fora do pedido): I e D tratam a marca como ativa só pela herança; E/F (3; R$ 8.000) não refletem marca encerrada."
+  },
+  "Julien Coudray 1518": {
+   "M": "G a confirmar: a Monochrome Watches (matéria 'Julien Coudray 1518 part 2 - hands on with the collection') indica o site www.juliencoudray1518.ch, mas é uma fonte só e o site não abriu (WebFetch pediu permissão); nenhuma busca trouxe o domínio, então G não foi gravado. H não achado: buscas por Instagram da marca não trouxeram perfil; aBlogtoWatch (visita à manufatura), WorldTempus (história da marca) e WatchProSite (lançamento em Singapura) não citam Instagram nem site (o WatchProSite comenta que há muito pouca informação da marca na internet). K não achado: site oficial inacessível. Observação: possível que a marca esteja inativa (pouca presença online recente) — a verificar."
+  },
+  "Junghans": {
+   "M": "K não preenchido: o WebFetch direto em junghans.de pediu permissão; a página junghans.de/en/news-press/news/ (vinda de busca) foi aberta, mas o logo do cabeçalho não aparece como arquivo de imagem no conteúdo lido (provavelmente SVG embutido); logos de sites de terceiros (cdnlogo, vectorseek) não foram usados. Ainda a verificar (não alterado): o rodapé do site oficial liga o Instagram instagram.com/junghansgermany, e H tem @junghans1861."
+  },
+  "Junkers": {
+   "C": "Ismaning (região de Munique)",
+   "K": "https://en.junkers.de/media/dd/b5/09/1639669185/junkers_logo_black_sm.png",
+   "M": "C: os relógios Junkers são da POINTtec (Watchpatrol, página da marca Junkers; entrevista da WatchTime com o dono da POINTtec, Willi Birk; PDF 'Junkers Automatik' no domínio pointtec.de), empresa familiar sediada em Ismaning, perto de Munique (Wirtschaftsforum: Steinheilstraße 6, 85737 Ismaning; WatchTime). O site oficial en.junkers.de cita showroom em Munique e telefone +49 89. K: imagem do logo do site oficial en.junkers.de (arquivo junkers_logo_black_sm.png, imagem de compartilhamento da página 'About Junkers watches'; o src do cabeçalho não apareceu no texto lido). Ainda a verificar (não alterado): o site oficial ativo é junkers.de (en.junkers.de, e-mail shop@junkers.de), e não junkers-uhren.de (G; o acesso direto a junkers-uhren.de pediu permissão). A entrevista da WatchTime dá a entender que parte dos modelos Bauhaus da Junkers passou para a marca Iron Annie."
+  },
+  "Justex": {
+   "M": "Nada novo achado. C, G, H e K não achados: buscas por 'Justex watches', 'Justex Uhren Schweiz' e 'Justex' com cidades suíças só trouxeram fichas da loja suíça uhrenschmuck24.ch (Justex Crownmaster, CHF 695, marcado 'Swiss Made: Yes'; Just Diver Chronograph), sem site oficial, cidade ou Instagram da marca. Sem site oficial, não há logo."
+  },
+  "Justiniani": {
+   "H": "@justinianiwatches",
+   "K": "https://justinianiwatches.com/wp-content/uploads/2022/08/logo-300x176.gif",
+   "I": "A Justiniani é uma marca mexicana de relógios mecânicos criada por Ignacio T. Justiniani, com modelos inspirados em personagens da história e da mitologia antigas.\n\nO primeiro modelo, o Gilgamesh, inspirado na história suméria, foi lançado numa campanha no Kickstarter; tem caixa de aço 316 de 39 mm, resistência a 10 ATM e movimento Miyota 9133 com indicador de reserva de marcha e data (há também uma versão sem data, com Miyota 9039), e era vendido por US$ 589 na loja oficial. O segundo modelo, o Odysseus, vem da mitologia grega. [⚠️ a confirmar: ano de fundação e cidade da marca; o fundador ser acadêmico e pesquisador]",
+   "M": "H e K: do site oficial justinianiwatches.com (Instagram no rodapé; logo do cabeçalho logo-300x176.gif). O WebFetch direto na página inicial pediu permissão; as páginas foram abertas pelos links vindos de busca. I: escrita com 6 fontes abertas ou vistas: site oficial — página Gilgamesh (inspiração na história, Miyota 9133/9039), seção About e página Timeline (marca 'inspirada pela história e pelos personagens que a formaram'), ficha da loja oficial shop.justinianiwatches.com (39 mm, aço 316, 10 ATM, US$ 589); Watcheers.io (marca mexicana, fundador Ignacio T. Justiniani, acadêmico e pesquisador; modelos Gilgamesh e Odysseus); Kickstarter 'Unveil Eternity: The Gilgamesh-Inspired Watch by Ignacio T. Justiniani' (só título e trecho nos resultados de busca; a página deu erro ao abrir). Fundador: Watcheers + Kickstarter. Odysseus: menu do site oficial + Watcheers. A confirmar (1 fonte): fundador acadêmico e pesquisador (só Watcheers). Não achados: ano de fundação e cidade (o site oficial não informa; C Ciudad Victoria não foi conferida). Retirado por ter 1 fonte só: mostrador com texto cuneiforme da Tábua do Dilúvio e rotor com Lamassu (só Watcheers). Duas páginas da WatchCrunch vieram vazias. Poucas fontes existem sobre a marca."
+  },
+  "Juvenia": {
+   "M": "K não preenchido: o WebFetch direto em juvenia.com pediu permissão (PROVENANCE_REQUIRED); as páginas de juvenia.ch que vieram da busca (the-juvenia-story, sextant) foram abertas, mas a leitura não traz as imagens do cabeçalho, e sem Firecrawl (sem créditos) não deu para pegar a URL do logo. A conferir em G (não alterado): todas as buscas pelo site oficial trazem juvenia.ch, não juvenia.com."
+  },
+  "JWalker Watch Co.": {
+   "M": "H, I e K não achados: o WebFetch direto em jwalkerwatch.com pediu permissão (PROVENANCE_REQUIRED) e 4 buscas ('JWalker Watch Co. Groton', 'jwalkerwatch.com', '\"JWalker\" New Deco Seiko VH31', '\"JWalker Watch\" Art Deco instagram', mais 'Groton Connecticut Digital Deco') não trouxeram nenhuma página da marca, nem imprensa, nem Instagram. História não conferida: sem fontes (0 fontes achadas)."
+  },
+  "Kairos": {
+   "G": "kairoswatches.com",
+   "M": "G: kairoswatches.com (citado pela TechCrunch 23/05/2014, por duas matérias da aBlogtoWatch e pela BetaKit); a marca é de 2014–2015 e o site pode estar fora do ar (não aberto). C não preenchido: fontes divergem — SCMP (2015) diz 'Hong Kong-based smartwatch start-up', BetaKit e Malay Mail dizem start-up sul-coreana; nenhuma cita cidade. A conferir em B (não alterado): a SCMP põe a empresa em Hong Kong; fundador Sam Yang (canadense, segundo a BetaKit). H não achado: nenhuma busca trouxe perfil de Instagram da marca. K não preenchido: site oficial não aberto. Atenção: 'Kairos Watch' de Seul nas buscas é uma revendedora Rolex/Tudor, não esta marca."
+  },
+  "Kalā Watch Co.": {
+   "I": "A Kalā Watch Co. é uma micromarca indiana sediada em Vijayawada, cujo nome vem da palavra sânscrita “kalā”, que quer dizer arte. A estreia foi a Warli Art Edition, um cronógrafo meca-quartzo cujo mostrador traz figuras da arte tribal Warli, do estado de Maharashtra, em várias cores, como a Terracotta. A marca anunciou que as próximas edições vão explorar outros ofícios tradicionais indianos, como o Kalamkari. [⚠️ a confirmar: sede em Vijayawada (só a Esquire India) e ano de lançamento (2025 segundo a Esquire India, início de 2026 segundo a Smartprix)]",
+   "M": "I: só 3 fontes achadas (Esquire India, jul/2026; The Hour Markers, 'Indian watch brands'; Smartprix, 'From MiG-21s to Warli Art'); o site oficial kalawatches.com pediu permissão (PROVENANCE_REQUIRED) e as buscas por fundador, lançamento e Instagram não trouxeram mais nada. Nome = 'arte' em sânscrito (Hour Markers; Smartprix). Warli Art Edition com arte tribal Warli de Maharashtra (Esquire; Smartprix; Hour Markers). Cronógrafo meca-quartzo (Esquire; Smartprix: Seiko VK64). Cor Terracotta (Hour Markers; Smartprix). Próximas edições com Kalamkari (Esquire; Hour Markers). Vijayawada só na Esquire. Fundador não achado. K não preenchido: site oficial não aberto e sem Firecrawl."
+  },
+  "Kallinich Claeys": {
+   "B": "Alemanha",
+   "C": "Glashütte",
+   "G": "kallinichclaeys.com",
+   "M": "B e C: Glashütte, Alemanha (Worn & Wound: oficina ao lado da sede da Nomos, 'décima empresa relojoeira de Glashütte'; Monochrome 2025: 'independent watchmaker from Glashütte'). G: kallinichclaeys.com (link na Worn & Wound e na Monochrome). Fundadores: Johannes Kallinich e Thibault Claeys, ex-A. Lange & Söhne (Worn & Wound). H não achado: duas buscas não trouxeram o perfil e as matérias abertas não o citam. K não preenchido: o WebFetch em kallinichclaeys.com pediu permissão (PROVENANCE_REQUIRED) e não há Firecrawl."
+  }
+ },
+ "base": "Relogios_atualizada_592.xlsx"
+}

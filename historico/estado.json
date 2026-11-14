@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 590,
+  "ultima_versao": 593,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10053,7 +10053,30 @@
       "tipo": "lacunas_marcas",
       "marcas": "Haute-Rive a Horage",
       "n": 50,
-      "obs": "rodada 1 de 2; Firecrawl sem créditos"
+      "obs": "rodada 1 de 2; Firecrawl sem créditos; rodada 2 interrompida pelo usuário (não rodou)"
+    },
+    {
+      "versao": 591,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "revisita do site oficial (16 marcas da v590)",
+      "n": 16,
+      "obs": "sites abertos direto com WebFetch, a pedido do usuário"
+    },
+    {
+      "versao": 592,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "HoraPictor a ITAnano",
+      "n": 50,
+      "obs": "rodada 2 (pedida pelo usuário); site oficial aberto direto; Firecrawl sem créditos"
+    },
+    {
+      "versao": 593,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Itay Noy a Kallinich Claeys (50)",
+      "rodada": 1
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10127,10 +10150,10 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Horage",
+    "ultima_marca_revisada": "Kallinich Claeys",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
   },
-  "em_execucao": "2026-11-14T11:42:51Z",
-  "ultimo_sinal": "2026-11-14T11:54:42Z",
+  "em_execucao": "2026-11-14T12:42:49Z",
+  "ultimo_sinal": "2026-11-14T12:58:19Z",
   "onda2_pendente": true
 }
