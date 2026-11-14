@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 590,
+  "ultima_versao": 591,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10054,6 +10054,14 @@
       "marcas": "Haute-Rive a Horage",
       "n": 50,
       "obs": "rodada 1 de 2; Firecrawl sem créditos; rodada 2 interrompida pelo usuário (não rodou)"
+    },
+    {
+      "versao": 591,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "revisita do site oficial (16 marcas da v590)",
+      "n": 16,
+      "obs": "sites abertos direto com WebFetch, a pedido do usuário"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
