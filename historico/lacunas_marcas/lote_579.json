@@ -1,0 +1,204 @@
+{
+ "versao": 579,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Axon Watches",
+  "Ayers Watches",
+  "Badger Watches",
+  "Bahrami Watches",
+  "Bajer Watches",
+  "Balticus Watches",
+  "Baron Watch Company",
+  "Barrelhand Project 1",
+  "Bathys",
+  "Batiscafo by Centvm",
+  "Baume",
+  "Bavarian Crono",
+  "BCHH",
+  "Beaufort",
+  "BegHof",
+  "Belhamel Watches",
+  "Bellecour",
+  "Belvans",
+  "Benjamin James",
+  "Benlydesign",
+  "Bergstern",
+  "Bering",
+  "Bermuda Watch Company",
+  "Berne",
+  "BERNY",
+  "Berthet",
+  "Bertolucci",
+  "Bespoke Watch Projects",
+  "Bespo Watches",
+  "Bexei",
+  "Beyond Boring",
+  "Bezel",
+  "Bianchet",
+  "Bianci",
+  "Bifora",
+  "Big Idea Design",
+  "BijouMontre",
+  "Black Belt Watch",
+  "BlackCat",
+  "Black Corner"
+ ],
+ "celulas": {
+  "Axon Watches": {
+   "M": "B e C não achados: nenhuma fonte diz onde a marca fica; a campanha de financiamento (PledgeBox e BackerKit) só diz 'Made in Italy' (fabricação, não sede) — a confirmar: Itália. O site axonwatches.com não apareceu em nenhuma busca e o Kicktraq redirecionou sem abrir."
+  },
+  "Ayers Watches": {
+   "M": "K não achado: o site ayerswatches.com não apareceu em nenhuma busca (nem 'site:'), e o Firecrawl estava sem créditos; fica para quando der para abrir o site."
+  },
+  "Badger Watches": {
+   "B": "Singapura",
+   "C": "Singapura",
+   "G": "badgerwatches.com",
+   "M": "B e C: 'based in Singapore' (WatchesBySJX 2019; aBlogtoWatch, campanha do Islander). G: badgerwatches.com (aBlogtoWatch e Watch Bandit ligam para ele). Obs.: K atual é imagem do Google Sites, não conferida."
+  },
+  "Bahrami Watches": {
+   "I": "A Bahrami Watches é a marca de relógios de Esfandiar, de origem iraniana e radicado no Canadá, que também faz pulseiras com o nome Bahrami Straps. Os modelos saem em séries limitadas, como o Bahrami Ω-02 \"Eucalyptus Sport\". [⚠️ a confirmar: origem iraniana do fundador (1 fonte), sobrenome do fundador e ano de fundação]",
+   "M": "I: dono e criador 'Esfandiar', iraniano que vive no Canadá, e a linha Bahrami Straps (Microbrand Watch World, resenha do Eucalyptus Sport); Bahrami Straps e série limitada também na ficha do Persian Gulf (metro-ruddy.vercel.app, que cita @bahrami.watches e @bahrami_straps). Ano de fundação e sobrenome não achados. K não achado: o site bahramiwatches.com não apareceu em busca e o Firecrawl estava sem créditos."
+  },
+  "Bajer Watches": {
+   "I": "A Bajer foi criada pela curda Leyla Uysal, nascida na Turquia e radicada nos Estados Unidos, para divulgar a cultura curda e o talento das mulheres curdas. O nome vem da palavra para \"cidade\". Os protótipos começaram em 2019 e o lançamento, previsto para março de 2020, foi adiado pela pandemia; a marca saiu em outubro de 2021, com venda só pela internet.\n\nOs relógios têm caixa de aço e movimento suíço a quartzo, e os desenhos das pulseiras e mostradores se inspiram nos tapetes curdos. As coleções levam nomes antigos de territórios curdos da Mesopotâmia, como Sophene, Artemita, Basenia e Corduene. Parte das vendas vai para entidades que apoiam mulheres e crianças da região de origem da fundadora. [⚠️ a confirmar: ano de lançamento (Europa Star diz outubro de 2021; WatchPro diz 2022) e a lista de coleções (1 fonte)]",
+   "M": "I: fundadora Leyla Uysal, curda da Turquia vivendo nos EUA, missão de valorizar a cultura e as mulheres curdas, motivos de tapetes curdos e doações a entidades (Europa Star fev/2022; WatchPro EUA ago/2024; Kurdistan Chronicle). Protótipos 2019, adiamento pela pandemia e lançamento em out/2021, venda só online (Europa Star). Nome = 'cidade' e quartzo suíço com caixa de aço (WatchPro; Kurdistan Chronicle). Coleções Sophene, Artemita, Basenia, Corduene (Kurdistan Chronicle; Artemita e Basenia batem com J). Retirado por ter 1 fonte só: fabricação com empresa familiar de Chiasso e pulseiras de Ancona (Europa Star). A confirmar: ano de lançamento 2021 x 2022. K não achado: o site thebajer.com não apareceu em busca e o Firecrawl estava sem créditos."
+  },
+  "Balticus Watches": {
+   "I": "A Balticus é uma marca polonesa de relógios criada por Bartosz Knop, com empresa registrada em setembro de 2014; a montagem e o controle de qualidade contam com o apoio da relojoaria Ogrodowicz i Syn, de Gdynia. A série Grey Seal foi a primeira, seguida pelo Stardust (2016) e pelo mergulhador Deep Water (2018).\n\nEm 2022 lançou o Moonfish, que a marca apresenta como o primeiro relógio de empresa polonesa em aço 904L. Também fez edições especiais para o clube Wisła Kraków (2020 e 2025) e, em 2025, para a unidade militar GROM e a 1ª Brigada Blindada.",
+   "K": "https://balticus-watches.com/cdn/shop/files/balticus-logo_1.png?v=1757669764&width=143",
+   "M": "I: fundador Bartosz Knop, registro em set/2014, parceria com a relojoaria Ogrodowicz i Syn (Gdynia), Grey Seal, Stardust 2016, Deep Water 2018, Moonfish 2022 (904L, afirmação da marca), edições Wisła Kraków, GROM e 1ª Brigada Blindada (site oficial balticus-watches.com, página 'História da marca'); Monochrome Watches (nov/2017) confirma marca polonesa com quase 3 anos. K: logo do cabeçalho do site oficial. Obs.: a página de história não cita Władysławowo (C); só Gdynia, como sede da relojoaria parceira (não alterado)."
+  },
+  "Baron Watch Company": {
+   "M": "H, I e K não achados: nenhuma busca trouxe o site baronwatch.co, perfil de Instagram ou matéria de imprensa sobre a marca (resultados só de marcas homônimas, como Le Baron e Barons Jewelers). Firecrawl sem créditos. História não conferida: sem fontes."
+  },
+  "Barrelhand Project 1": {
+   "M": "H não achado: nem o site nem a imprensa (aBlogtoWatch, Wrist Enthusiast, The Grey NATO) dão o @ do Instagram; o podcast The Grey NATO cita 'Barrelhand Instagram' sem o endereço. K não achado: o site barrelhand.com não apareceu em nenhum resultado de busca (só como link dentro de matérias) e o Firecrawl estava sem créditos. Fundador citado pela imprensa: Karel Bachand (Wrist Enthusiast; The Grey NATO)."
+  },
+  "Bathys": {
+   "M": "K não achado: o site bathyshawaii.com não apareceu em nenhum resultado de busca (só matérias antigas de aBlogtoWatch, WristWatchReview e TechCrunch) e o Firecrawl estava sem créditos."
+  },
+  "Batiscafo by Centvm": {
+   "M": "I e K não achados: buscas por Batiscafo/Centvm/Zero45 só trouxeram a coleção Batiscafos da Vostok Europe (marca diferente) e outras marcas; o site batiscafo.store não apareceu em busca e o Firecrawl estava sem créditos. História não conferida: sem fontes."
+  },
+  "Baume": {
+   "M": "K não preenchido: a marca foi incorporada à Baume & Mercier em junho de 2020 (Wikipedia, verbete Baume (watch)) e o site baumewatches.com não aparece em nenhuma busca, então não há cabeçalho oficial de onde tirar o logo. A Wikipedia tem um logo (Baume_logo.png), mas não é do site oficial."
+  },
+  "Bavarian Crono": {
+   "C": "Ensdorf (Hirschwald), Baviera",
+   "G": "bavarian-crono.de",
+   "M": "C: Ensdorf, Alto Palatinado (comunicado da própria empresa na pressetext, 24/10/2013: 'Ensdorf (pts009/...)', 'Oberpfälzer Uhrenmanufaktur'); a Master Horologer diz 'no pequeno lugarejo de Hirschwald, na Baviera' (Hirschwald fica no município de Ensdorf). G: www.bavarian-crono.de, dado no comunicado da pressetext de 2013; nenhuma busca trouxe o site, então não deu para confirmar se ainda está no ar. A confirmar: se o site e a marca continuam ativos."
+  },
+  "BCHH": {
+   "M": "K não preenchido: o site oficial bchh.ch não apareceu em nenhuma busca (3 tentativas, só vieram revistas: Monochrome, aBlogtoWatch, WatchTime, GPHG), e sem Firecrawl não deu para abrir o cabeçalho."
+  },
+  "Beaufort": {
+   "C": "Auckland",
+   "G": "beaufort-watches.com",
+   "M": "C: Auckland (Worn & Wound, 'Auckland, New Zealand's Beaufort Watches'; primeiro showroom em Jervois Road, Auckland, segundo Scoop e Inside Retail NZ, nov/2023). G: beaufort-watches.com, link oficial citado pela Worn & Wound e pela NZBusiness (bate com o domínio do logo já em K)."
+  },
+  "BegHof": {
+   "I": "A BegHof é uma microbrand francesa criada em 2021 por dois amigos de infância apaixonados por relojoaria, que não divulgam os próprios nomes. A ideia era fazer o relógio que eles queriam usar, com preço controlado; a marca se apresenta como contemporânea e de venda direta, sem reivindicar uma história antiga.\n\nA linha principal é a Urban 39. A Urbanstar, edição limitada de 30 peças feita para o aniversário da marca, marcou a passagem da montagem, da regulagem e dos testes finais para uma oficina parceira em Le Mans. [⚠️ a confirmar: ano de fundação, os dois fundadores, a Urbanstar e a montagem em Le Mans têm uma fonte só (Dialicious)]",
+   "M": "I: história nova, toda tirada de uma fonte só: a página da marca no Dialicious (fundação em 2021, dois amigos de infância sem nome divulgado, Urban 39 como linha principal, Urbanstar de 30 peças, montagem em Le Mans numa oficina parceira). Nenhuma revista nem o site beghof.com apareceram nas buscas, por isso o texto termina com 'a confirmar'. Bate com B (França), C (Le Mans) e D. K não preenchido: o site oficial beghof.com não apareceu em nenhuma busca (site:beghof.com só trouxe empresas Berghof), e sem Firecrawl não deu para abrir o cabeçalho."
+  },
+  "Belhamel Watches": {
+   "I": "A Belhamel é uma marca britânica de Kington (Herefordshire), criada por Fouad Tolaib, que também é o CEO. Começou vendendo pulseiras de borracha sob medida para os Seiko SKX e, cerca de um ano depois, passou a desenhar relógios próprios.\n\nO primeiro modelo, o mergulhador Contra A40 (Miyota 9039, 300 m), inspirado nos skin divers dos anos 1960 e no SKX, foi lançado no Kickstarter em maio de 2023. Depois veio o Contra A39, inspirado no Wittnauer Skin Diver ref. 4000. [⚠️ a confirmar: nome do fundador e Kington só no comunicado de imprensa de 2023 e numa reprodução dele]",
+   "M": "I: começo com pulseiras para Seiko SKX e Contra A40 no Kickstarter em maio/2023 (comunicado de imprensa em abnews-wire 02/05/2023; Wristwatch Review, prévia do Contra A40; Master Horologer 18/05/2023); fundador Fouad Tolaib e Kington (comunicado e Master Horologer, que repete o comunicado, por isso 'a confirmar'); Contra A39 e inspiração Wittnauer (The Calibrated Wrist, 11/11/2024). H não achado: nenhum perfil de Instagram da marca apareceu nas buscas. K não achado: o site belhamel.com não apareceu em nenhum resultado de busca e o Firecrawl estava sem créditos."
+  },
+  "Bellecour": {
+   "I": "A Bellecour é uma marca francesa de Morteau, no Haut-Doubs, criada pelo relojoeiro Daniel Montmasson, que diz ter levado mais de 30 anos para chegar à linha atual. Os componentes vêm de pequenas oficinas do Jura francês e suíço e as caixas são feitas na Alsácia; a marca faz séries limitadas e peças únicas, sobretudo relógios esqueletizados.",
+   "M": "I: fundador Daniel Montmasson, endereço em Morteau, '30 anos', componentes do Jura francês e suíço e caixas da Alsácia (site oficial montres-bellecour.fr, página inicial e coleção Squelette; o texto é repetido pela loja Dalla Turca, que não conta como segunda fonte). Ano de fundação não achado. Séries limitadas: coleção Squelette do site (DM 1991 com 20 peças, DM 1993 com 50, DM 1994 com 25, DM 1995 com 20). K: logo do cabeçalho do site oficial (logo.svg da página inicial). F: o site oficial não mostra preços; único preço achado: Bellecour Squelette a € 3.600 na loja Dalla Turca (Bélgica) → 3.600 × 6,2257 = R$ 22.413 → E = 5 (só 1 preço, a confirmar). H não achado: o site oficial não liga Instagram e nenhuma conta apareceu nas buscas. Revisão: E e F não gravados (um único preço, € 3.600 na Dalla Turca; a confirmar).",
+   "K": "https://www.montres-bellecour.fr/themes/bellecour/assets/img/logo.svg"
+  },
+  "Belvans": {
+   "I": "A Belvans é uma marca francesa fundada em Paris em 2023 por três jovens apaixonados por relojoaria: Jefferson D., Marc-Michel e Rutheford. Antes, em 2020, Jefferson deixou o emprego e passou três anos aprendendo relojoaria.\n\nEm 2024 os relógios passaram a ser vendidos no Publicis Drugstore, em Paris, onde Jefferson tinha trabalhado como vendedor, e depois em lojas escolhidas da França e da Ilha da Reunião. A coleção Heritage foi resenhada pela imprensa em 2025, e em 2026 a marca lançou o Daylee, com calibre assinado pela La Joux-Perret.",
+   "M": "I: fundadores, ano 2023, Paris, 2020 de Jefferson, venda no Publicis desde 2024, lojas na França e Reunião, Heritage na imprensa em 2025 e Daylee com La Joux-Perret em 2026 (site oficial, página 'Belvans story'); Heritage vendido no Publicis Drugstore (página da loja publicisdrugstore.com) e resenhado (Oracle of Time, review Heritage Rose Gold). K não preenchido: o cabeçalho do site belvans.com usa o nome como link de texto, sem arquivo de imagem (o único 'logo' é o do modelo Daylee, daylee-logo-noir.webp, que não é o logo da marca)."
+  },
+  "Benjamin James": {
+   "M": "C: Birmingham (endereço da empresa na Trustpilot, código postal B5 4TU; Wristwatch Review diz só 'marca da Inglaterra'; T3 e ShortList dizem 'britânica', sem cidade). Endereço informado pela própria empresa, só 1 fonte: a confirmar. Fundador citado: Benjamin (J.) Adams (Trustpilot, ShortList, T3). Revisão: C não gravado (Birmingham só pela Trustpilot; a confirmar)."
+  },
+  "Benlydesign": {
+   "H": "@benlydesignwatch",
+   "K": "https://benlydesignwatch.com/cdn/shop/files/logo_new.png?v=1758520853&width=1889",
+   "I": "A Benlydesign é uma pequena equipe de design de Hong Kong que cria relógios digitais e a quartzo de visual retrofuturista, como o Stargazer S1000, e já expôs na feira de relógios de Hong Kong do HKTDC. Em 2026 lançou o Desktop 95, série limitada de 500 peças cujo mostrador imita a área de trabalho do Windows 95. [⚠️ a confirmar: Desktop 95 só na Gear Patrol]",
+   "M": "H e K: do site oficial benlydesignwatch.com (página 'brand': link do Instagram e logo do cabeçalho logo_new.png). I: equipe pequena em Hong Kong (site oficial, página 'brand'; Gear Patrol, nov/2026, 'Hong Kong-based'); Stargazer S1000 (site oficial; Core77); feira do HKTDC (página do produto Stargazer S1000 no evento HK Watch & Clock Fair do HKTDC); Desktop 95 com 500 peças (só Gear Patrol). Ano de fundação e fundador não achados (Gear Patrol fala em cerca de uma década, sem ano exato)."
+  },
+  "Bergstern": {
+   "G": "bergstern.ch",
+   "M": "G: bergstern.ch (site oficial citado pelo Master Horologer, 2018; o logo já em K está no mesmo domínio). C não achado: Master Horologer e Europa Star (SwissTime) só dizem que é marca suíça jovem, sem cidade; o site oficial não apareceu em busca."
+  },
+  "Bering": {
+   "K": "https://www.beringtime.com/cdn/shop/files/BERING_inspired_by_arctic_beauty__242x40px.svg?v=1789115055&width=242",
+   "M": "K: logo SVG do cabeçalho do site oficial (beringtime.com/se/watches, aberto a partir da busca)."
+  },
+  "Bermuda Watch Company": {
+   "H": "@bermudawatchcompany",
+   "I": "A Bermuda Watch Company é uma marca do Reino Unido que vende direto ao consumidor relógios clássicos de uso diário, a quartzo e automáticos, com nomes inspirados em lugares das Bermudas, como Somerset e Shelly Bay. Segundo a própria marca, ela trabalha diretamente com fabricantes de relógios e reúne mais de 40 anos de experiência no ramo. [⚠️ a confirmar: os 40 anos de experiência e a ligação direta com fabricantes, informados só pela marca no Wolf & Badger; ano de fundação e fundadores não achados]",
+   "M": "H: @bermudawatchcompany (perfil ligado pela Thingtesting; mesmo nome do domínio da coluna G; 1 fonte). I: base no Reino Unido (Wolf & Badger, ficha da marca e do Shelly Bay Smart Light); '40 anos de experiência' e parceria direta com fabricantes são frase da própria marca no Wolf & Badger (1 fonte, a confirmar). Ano de fundação e fundadores não achados (registro de marca na Justia deu erro). K não achado: o site oficial não apareceu em nenhuma busca."
+  },
+  "Berne": {
+   "M": "Nada novo achado. C, G, H e K não achados: a única fonte sobre uma marca de relógios 'Berne' é a loja Bernard Watch (mergulhadores com movimento suíço ETA 2824, sem cidade nem site; a loja nem diz que a marca é suíça). Possível confusão com marcas homônimas (Berne workwear de Berne, Indiana, EUA; Berny, chinesa; Berney; Berna). Possível erro em B ('Suíça'), D e J genéricos, a confirmar."
+  },
+  "BERNY": {
+   "I": "A BERNY foi fundada em 1995 em Shenzhen, na China, pelo empresário Fred Chu, por meio da Shenzhen Berny Industrial Co., Ltd. O nome é uma homenagem a Berna, na Suíça, cidade cujas relojoarias inspiraram o fundador. A marca aposta em relógios confiáveis a preço acessível, com movimentos já consagrados, e cresceu vendendo pela internet, em sites como Amazon e AliExpress. [⚠️ a confirmar: o primeiro nome do fundador (Fred)]",
+   "M": "I: fundação em 1995 em Shenzhen (Dialicious; SourceReady, ficha da Shenzhen Berny Industrial; vídeo 'The Birth Story of the BERNY Brand' do canal da marca); fundador 'Mr. Chu' (Dialicious e vídeo da marca; o nome Fred só no vídeo, a confirmar); nome homenageia Berna (Dialicious e vídeo); vendas por Amazon/AliExpress (TechWriterEdc). K não achado: bernywatch.com não apareceu em nenhuma busca (só Trustpilot e lojas)."
+  },
+  "Berthet": {
+   "I": "A Berthet tem origem no atelier de relojoaria que Joseph Berthet (1850–1911), relojoeiro formado na Suíça, abriu por volta de 1888 em Charmauvillers, no Doubs, perto da fronteira suíça. Depois da morte dele, os três filhos, Édouard, Albert e Camille, continuaram o negócio com o nome Berthet Frères.\n\nEm 1949, Claude, filho de Camille, assumiu a empresa. Ele abriu uma fábrica em Charmauvillers em 1952 e uma segunda em 1977. No mesmo ano, a Berthet comprou o controle da Fabior-Watch, de Villers-le-Lac. A casa fabrica caixas de relógio, também para outras empresas, e relógios completos, como esqueletos e modelos de corda manual. A família segue no comando: Pierre Berthet, filho de Claude, é o diretor. [⚠️ a confirmar: Pierre como diretor atual (só Time Transformed, 2018)]",
+   "M": "I: fundação (atelier por volta de 1888 em Charmauvillers), fundador Joseph Berthet (1850–1911), filhos Édouard, Albert e Camille (Berthet Frères), Claude em 1949, fábricas de 1952 e 1977, compra do controle da Fabior-Watch (Villers-le-Lac) em 1977 e fabricação de caixas: inventário do patrimônio da Bourgogne-Franche-Comté (dossiê 'usine Berthet Frères') e Time Transformed ('Berthet company profile', 2018). Pierre Berthet como diretor: só Time Transformed. Divergência: a loja Pisa 1940 diz 'marca suíça fundada em 1877' (1877 foi o ano em que Joseph se mudou para Charmauvillers; a marca é francesa). K não achado: o site berthet.com não apareceu em nenhuma busca (Firecrawl sem créditos)."
+  },
+  "Bertolucci": {
+   "M": "H não achado: nenhuma busca trouxe um Instagram oficial da Bertolucci (as buscas trazem só revendedores e notícias da venda da marca a investidores, JCK). O site bertolucciwatches.com também não apareceu nas buscas. Observação: o logo em K está no domínio bertolucci-watches.com (com hífen), diferente de G (não alterado)."
+  },
+  "Bespoke Watch Projects": {
+   "I": "A Bespoke Watch Projects é a marca do designer e diretor de criação John Beck McConnico, que monta os relógios num estúdio em Oakland, na Califórnia. Colecionador havia décadas, ele fez o primeiro relógio em 2012 e começou atendendo encomendas antes de abrir a empresa.\n\nOs relógios são feitos por encomenda ou em pequenas séries, com peças suíças modificadas e mostradores \"Intaglio\" gravados no próprio ateliê. McConnico chama suas peças de \"heranças acessíveis\". [⚠️ a confirmar: ano do primeiro relógio (2012), só na Oakland Magazine]",
+   "M": "I: fundador John Beck McConnico e estúdio em Oakland (Worn & Wound, 18/11/2020; Oakland Magazine; InsideHook, out/2022). Primeiro relógio em 2012: só Oakland Magazine (a InsideHook fala em cerca de uma década antes de 2022). Mostradores Intaglio gravados no ateliê e peças suíças: InsideHook e Worn & Wound. Expressão 'accessible heirlooms': InsideHook e Oakland Magazine. H não achado: nenhuma fonte deu o Instagram, e a busca no instagram.com não trouxe o perfil. K não achado: o site bespokewatchprojects.com não apareceu em nenhuma busca (Firecrawl sem créditos)."
+  },
+  "Bespo Watches": {
+   "M": "Nada achado: H, I e K. Nenhuma busca ('Bespo Watches', 'bespowatches', Miami, Horizon Diver, instagram.com) trouxe a marca: só resultados da Bespoke Watch Projects e de outras marcas. O site bespowatches.com não apareceu em nenhuma busca (Firecrawl sem créditos). História não conferida: sem fontes."
+  },
+  "Bexei": {
+   "K": "https://bexei.hu/assets/static_images/logo.svg",
+   "M": "K: logo do cabeçalho do site oficial bexei.hu (página 'the watchmaker', que veio da busca). G possivelmente errado: o site oficial que aparece nas buscas é bexei.hu, não bexei.com (não alterado). O site liga o Instagram @bexeiwatches; H tem @aaronbecseiatelier (não alterado; conferir qual é o principal)."
+  },
+  "Beyond Boring": {
+   "I": "The Beyond Boring Watch Company é uma pequena empresa familiar do noroeste dos Estados Unidos (Pacific Northwest) que vende relógios coloridos a preços acessíveis. Segundo o texto da própria marca, um dos objetivos do negócio é mostrar aos filhos dos donos como construir uma empresa do zero. [⚠️ a confirmar: ano de fundação e fundadores não encontrados; sede indicada como Camas, WA]",
+   "M": "I: empresa familiar do Pacific Northwest, relógios acessíveis, objetivo de ensinar os filhos a criar um negócio (texto da própria marca na página dela na Faire, faire.com/brand/b_qq479jfbn3; 'family owned' também em avaliações do perfil beyondboringwatchco no Whatnot). A confirmar: ano de fundação e fundadores (sem fonte); a Faire indica a sede em Camas, WA, e não Seattle como está em C (C não alterado). H não achado: nenhuma conta de Instagram encontrada nas buscas (vende pelo Whatnot como beyondboringwatchco). K não preenchido: site beyondboringbrand.com não apareceu em nenhuma busca, não foi possível abrir; a imagem da Faire é capa de loja, não logo do site."
+  },
+  "Bezel": {
+   "M": "Nada novo achado: não foi possível identificar uma marca de relógios chamada apenas 'Bezel'. As buscas trazem a Bezel (getbezel.com), plataforma/aplicativo de compra e venda de relógios de luxo de Nova York (cofundador Quaid Walker), que não fabrica relógios; possível confusão com essa empresa ou marca homônima. B, C, G, H e K não preenchidos por falta de confirmação. D e J genéricos (só anotado)."
+  },
+  "Bianchet": {
+   "M": "K não preenchido: o site oficial bianchet.com (Wix), aberto em 3 páginas (home, /universe, /know-how), não tem imagem de logo no cabeçalho: o nome aparece só em texto/link e as únicas imagens são ícones de menu e redes sociais."
+  },
+  "Bianci": {
+   "G": "bianciwatches.com",
+   "M": "G: bianciwatches.com (site oficial Roberto Bianci Watches, página 'Our Story', de onde já vem o logo em K). B e C não achados: o site, o aBlogtoWatch e o WatchReport não dizem onde fica a empresa; o WatchReport só diz que o fundador Roberto Bianci é gemólogo da Itália. Obs.: o site oficial liga o Instagram instagram.com/roberto_bianci, diferente do @bianciwatches em H (não alterado, a conferir)."
+  },
+  "Bifora": {
+   "M": "H não achado: nenhum Instagram oficial da Bifora apareceu nas buscas; o cadastro da Bifora Uhren-Manufaktur GmbH (Hauffstr. 2, Schwäbisch Gmünd, site bifora.de) no werkenntdenbesten.de não cita Instagram."
+  },
+  "Big Idea Design": {
+   "I": "A Big Idea Design LLC foi criada em janeiro de 2009 por Chadwick Parker e Joe Huang em Chattanooga, Tennessee (EUA). A empresa ganhou impulso no Kickstarter em 2011 e mantém uma linha feita nos EUA, em Chattanooga, e outra produzida no exterior, além de relógios de titânio como os Ti Field Watch e o Ti GMT.",
+   "K": "https://bigidesign.com/cdn/shop/files/BID_LOGO_Large_2c83d25c-32ff-4ef6-9b08-0f78df339c55_160x.png?v=1630865972",
+   "M": "I: fundação em jan/2009, fundadores Chadwick Parker e Joe Huang, Chattanooga, início no Kickstarter em 2011 e linhas EUA/exterior (site oficial bigidesign.com/pages/our-story); modelos de titânio conforme J e loja oficial. K: logo do cabeçalho do site oficial bigidesign.com. Obs.: J parece cortado no fim ('Ti Field Watch Solar Stonewashed — ' sem descrição)."
+  },
+  "BijouMontre": {
+   "M": "C: Grenchen (Master Horologer, página da marca: fundada em 2004 por Willi Saladin, ex-ETA; membro da FH desde 2009). [a confirmar: só 1 fonte para a cidade]. G não achado: a página da Master Horologer tem o campo 'Official website' vazio e nenhuma busca trouxe o site; o logo em K está no domínio bijoumontre.cn, possível site atual, mas não confirmado. Revisão: C não gravado (Grenchen só no Master Horologer; a confirmar)."
+  },
+  "Black Belt Watch": {
+   "G": "blackbeltwatch.com",
+   "M": "G: blackbeltwatch.com (link do site da marca na resenha do aBlogtoWatch 'Black Belt Spirit watch review'; site não aberto, pode estar fora do ar). C não achado: imprensa (Tendance Horlogerie, aBlogtoWatch, Europa Star) diz só 'desenvolvido e fabricado na Suíça'; a marca foi lançada por Yvan Arpa (antes da ArtyA) com Claudio Alessi. K não achado: site não apareceu em busca para extrair o logo."
+  },
+  "BlackCat": {
+   "M": "H não achado: buscas (incl. site:instagram.com) e lojas (The Watch Gallery, O'Clock Store) só trazem o Instagram das lojas; site blackcat-watches.com não apareceu em busca. K não achado: site oficial não abriu sem endereço vindo de busca. História não conferida: sem fontes (lojas só dizem 'nova geração de marcas francesas'; resenha no Dialicious cita 'BlackCat by JC (Moonwatch)', sem fundador/ano confirmados)."
+  },
+  "Black Corner": {
+   "I": "A Black Corner foi criada em Londres em 2015 pelo diretor, artista e designer Blyne, como um selo artístico que reúne um grupo de electro-rock/dark-wave, discos, design, moda e cinema. Colecionador de relógios, Blyne levou o selo também para a relojoaria, com modelos masculinos em séries limitadas (linha \"Shadows\"), como o Sailing Stones e o Wormhole, e colaborações com marcas como Anka e Blackout. [⚠️ a confirmar: fundação em 2015, fundador Blyne e colaborações vêm só de textos de lojas (Ocarat e The Watch Gallery), possivelmente copiados da própria marca]",
+   "M": "I: fundação em Londres em 2015 por Blyne, selo de música/arte, linha 'Shadows' e colaborações com Anka, Blackout e Omnis (Ocarat, página da marca; The Watch Gallery, ficha Calypso Shadows Black Corner); modelos Sailing Stones e Wormhole conforme J. A confirmar: todos esses fatos têm só fontes de lojas, sem imprensa ou site oficial. H não achado: nenhuma busca trouxe o Instagram da marca. K não achado: site black-corner.com não apareceu em busca (site: sem resultado)."
+  }
+ },
+ "base": "Relogios_atualizada_578.xlsx"
+}
