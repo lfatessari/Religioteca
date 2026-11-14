@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 604,
+  "ultima_versao": 605,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10152,6 +10152,13 @@
       "data": "2026-11-14",
       "tipo": "lacunas_marcas",
       "marcas": "Purnell a Revelation (50)"
+    },
+    {
+      "versao": 605,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Revelot a RZE (50)",
+      "rodada": 1
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10225,9 +10232,10 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Revelation",
+    "ultima_marca_revisada": "RZE",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
   },
   "em_execucao": "2026-11-14T17:42:25Z",
-  "ultimo_sinal": "2026-11-14T17:54:49Z"
+  "ultimo_sinal": "2026-11-14T17:58:47Z",
+  "onda2_pendente": true
 }

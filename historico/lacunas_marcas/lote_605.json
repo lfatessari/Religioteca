@@ -1,0 +1,253 @@
+{
+ "versao": 605,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Revelot",
+  "Reverie",
+  "Revolution Watch Company",
+  "Revue Thommen",
+  "Rexhep Rexhepi",
+  "RGM",
+  "RGMT",
+  "Richard Harvey",
+  "Richard Mille",
+  "Ril",
+  "Riley Watch Co",
+  "Riskers",
+  "Ritmo Mundo",
+  "RJ Watches",
+  "Roamer",
+  "Robert Lighton",
+  "Robot",
+  "Robotfigs",
+  "Rockwell Time",
+  "Rodania",
+  "Rodolphe",
+  "Roebuck",
+  "Roger Dubuis",
+  "Roger W. Smith",
+  "Rogue Warrior Watch",
+  "ROIH",
+  "Rolex",
+  "Rolf Cremer",
+  "Rolf Lang",
+  "Romain Gauthier",
+  "Romain Jerome",
+  "Rönkkö",
+  "Rosenbusch",
+  "Roshan Martin",
+  "Roskopf",
+  "Rossling",
+  "Rotary",
+  "Rotate North",
+  "Rothenschild",
+  "Rotoris",
+  "Roue",
+  "Royter Watches",
+  "Rpaige",
+  "RSW",
+  "Rudis Sylvia",
+  "Ruhla",
+  "RVLVR",
+  "RVNDSGN",
+  "Ryser Kentfield",
+  "RZE"
+ ],
+ "celulas": {
+  "Revelot": {
+   "G": "revelot.com",
+   "M": "G: revelot.com (citado como site oficial em Buro247 Malaysia e Vulcan Post; Hiredly também lista www.revelot.com). K não preenchido: o site oficial não abriu (WebFetch direto e link pediram permissão), sem Firecrawl. C não preenchido: único endereço achado é do perfil de empresa no Hiredly (Zest Point, Bandar Kinrara, Puchong, Selangor), uma fonte só; Vulcan Post diz que Kickstarter/LinkedIn listavam Nova York. A confirmar: C = Puchong (Selangor). Fundadores Kevin HTJ e Yong Yee Mun, fundada em 2017 (Buro247 e Vulcan Post)."
+  },
+  "Reverie": {
+   "G": "reveriewatches.com",
+   "M": "G: reveriewatches.com (link para a loja da marca em Watch Report, TechCrunch 2016 e Wristwatch Review UK). Cuidado: reveriewatches.net é outro site (vendedor de réplicas nos EUA, segundo o Trustpilot), não é a marca. Não foi possível abrir o site para ver se ainda está ativo. K não preenchido: site oficial não abriu (pediu permissão), sem Firecrawl. Notas: fundada em 2014 em Singapura (Oracle of Time, Watch Report); Samuel Tay citado como criador dos modelos (TechCrunch)."
+  },
+  "Revolution Watch Company": {
+   "H": "@revolution.watch",
+   "K": "https://revolutionwatch.com/wp-content/themes/revolution-watch-2024/img/revolution-watch.svg",
+   "I": "A Revolution nasceu em 2005 como revista dedicada aos relógios mecânicos, fundada pelo editor singapurense Wei Koh, que depois também criou a revista masculina The Rake. A publicação cresceu e virou uma marca internacional de mídia relojoeira, com edições regionais e site.\n\nEm fevereiro de 2018 a Revolution abriu sua loja online, que vende relógios usados e vintage e edições limitadas feitas em colaboração com outras marcas. No mesmo ano anunciou uma parceria com a WatchBox (hoje The 1916 Company) como fonte de relógios usados. [⚠️ a confirmar: parceria com a WatchBox (só 1 fonte)]",
+   "M": "H e K: do site revolutionwatch.com (Instagram do site; logo SVG do cabeçalho do site da revista, mesma marca da loja shop.revolutionwatch.com; a loja em si não abriu). I (9 fontes): fundação 2005 por Wei Koh (Wikipedia 'Wei Koh'; Wikipedia 'Revolution (magazine)'; The Naked Watchmaker; WristScroll); Wei Koh singapurense e fundador da The Rake (Wikipedia; SCMP; Monochrome 2018); loja online aberta em 9/2/2018 (revolutionwatch.com, 'Welcome to Revolution e-commerce'); usados/vintage e edições limitadas em colaboração (Monochrome 2018; WristScroll; página da loja); 20 anos em 2025 (revolutionwatch.com); parceria WatchBox/1916 Company em 21/3/2018 (só the1916company.com). ATENÇÃO, possível mistura de marcas homônimas: B 'USA' e C 'Boston' não aparecem em nenhuma fonte da Revolution de Wei Koh (revista de origem singapurense); Boston é da Revolution Watch Co., microbrand que fez o Revolution Diver no Indiegogo (2017-2018, PR Newswire, aBlogtoWatch). D, G e J são da Revolution de Wei Koh. Não alterado; a conferir."
+  },
+  "Revue Thommen": {
+   "M": "K não preenchido: o site oficial revuethommen.ch não abriu (WebFetch direto pediu permissão) e não apareceu em nenhuma busca (site:revuethommen.ch e buscas pela marca); sem Firecrawl."
+  },
+  "Rexhep Rexhepi": {
+   "M": "K não preenchido: no site oficial atual rexheprexhepi.com (página Ateliers, achada por busca) o cabeçalho não tem arquivo de imagem de logo (só link de texto/SVG embutido; as 17 imagens são fotos .avif). akrivia.com (G) não abriu direto (pediu permissão). Observação: o site oficial hoje é rexheprexhepi.com ('© 2026 Rexhep Rexhepi', inclui o Atelier Akrivia), e o Instagram ligado nele é @akrivia (H atual @rexhepirexhepi); não alterado, a conferir."
+  },
+  "RGM": {
+   "K": "https://images.squarespace-cdn.com/content/v1/550b2072e4b0d3cbec5358d7/81f73354-32ef-44c2-b027-99b7928fd821/WWW_07_22_01.jpg?format=1000w",
+   "M": "K: imagem do logo do cabeçalho do site oficial rgmwatches.com (alt 'RGM Watch Co.', link para a página inicial; conferida em 2 páginas do site: bio-and-details e um post do blog). O WebFetch direto em https://rgmwatches.com pediu permissão; o site foi aberto pelos links da busca. Observação: o site oficial liga o Instagram instagram.com/rgmwatches, e na coluna H está @rgmwatchco (a conferir; não alterado)."
+  },
+  "RGMT": {
+   "C": "Hong Kong",
+   "G": "rgmt.co",
+   "K": "https://rgmt.co/cdn/shop/files/RGMT_logo.png?v=1613699392&width=2000",
+   "M": "G e K: loja oficial rgmt.co (logo RGMT_logo.png no cabeçalho; páginas about-rgmt e FAQ/contato abertas). C: a página FAQ/Contato do site oficial diz 'Our main office and all business operations are based in Hong Kong'; o registro da marca RGMT nos EUA (nº 6159436, pedido em 10/07/2019) é da Solar Time Ltd., Tsim Sha Tsui, Kowloon, Hong Kong (trademarkregistration.app). A conferir (não alterado): B está 'USA', mas as 2 fontes indicam Hong Kong. O site liga o Instagram @rgmt.watch, e em H está @rgmtwatches (a conferir). Fundador e ano de fundação não aparecem no site."
+  },
+  "Richard Harvey": {
+   "M": "C, G e K não achados com certeza. Achado: aBlogtoWatch (análise do Attitude) diz que a marca nasceu em 2020, fundador Mathew White, Attitude a US$ 699, mas não diz cidade nem país. A StrapHabit liga o site rhwatchco.com (só 1 fonte, e o WebFetch pediu permissão, então não deu para abrir nem pegar o logo) → G a confirmar: rhwatchco.com. B 'Reino Unido' não foi confirmado por nenhuma fonte (a conferir). Buscas feitas: site oficial, 'Richard Harvey Watches', 'rhwatchco', fundador + marca, Instagram."
+  },
+  "Richard Mille": {
+   "K": "https://www.richardmille.com/_nuxt/img/logo.41ca974.svg",
+   "M": "K: logo SVG do cabeçalho do site oficial richardmille.com (página /page/history, aberta pelo link da busca; o WebFetch direto na página inicial pediu permissão)."
+  },
+  "Ril": {
+   "M": "B, C, G e K não gravados: possível marca homônima. Achado: 'Ril Concept' (relógio Ril Watch Scuba, mergulhador sem marca no mostrador, £599/US$ 999 em 2010-2011), de Nathan Halfon e Roger Gilbert, 'London-based' (masterhorologer.com, 2010), 'Designed in London and manufactured in China' com site rilconcept.com/RilWatches (noodlefish.blogspot.com, 2010), 'Based in England' com site rilconcept.com (aBlogtoWatch, análise de 2011). Nenhuma fonte liga essa Ril Concept ao Instagram @rilwatches da coluna H, e o site parece antigo (2010). A confirmar: B Reino Unido, C Londres, G rilconcept.com. K não achado: site não alcançado."
+  },
+  "Riley Watch Co": {
+   "I": "A Riley Watch Co é uma micromarca britânica de Manchester que desenha no Reino Unido relógios inspirados em pioneiros da aviação. A coleção de estreia, o cronógrafo Howard Hughes HH-01 (mecaquartzo Seiko VK64), saiu em dezembro de 2023.\n\nDepois vieram homenagens à aviadora Amelia Earhart (AE01) e, em 2024, a Jerrie Cobb (JC01, com movimento solar Seiko). A marca é tocada por uma pequena equipe liderada por Samuel Rae, apresentado como piloto. [⚠️ a confirmar: Samuel Rae como líder e piloto (só Worn & Wound); ano de fundação não encontrado]",
+   "M": "Site oficial rileywatchco.com não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (nem site:rileywatchco.com); Firecrawl sem créditos. I: 7 fontes abertas: Worn & Wound 05/12/2023 (matéria patrocinada: Manchester, equipe liderada por Samuel Rae, piloto; HH-01 Seiko VK64, US$ 179); Oracle of Time 15/12/2023 (HH-01 é a coleção de estreia, marca independente do Reino Unido, £179/£129); Oracle of Time 10/06/2024 (Jerrie Cobb JC01 Seiko AS01 solar, terceira homenagem depois de Howard Hughes e Amelia Earhart); Oracle of Time página da marca e página de tag; Trustpilot (endereço 274 Moston Lane East, Manchester M40 3QH; respostas assinadas 'Sam, Owner'); loja The Foalyard (modelos HH01, AE01, Heritage, JC01, FlyRacer). Manchester: Worn & Wound + Trustpilot. Estreia em dez/2023: Worn & Wound + Oracle. AE01 e JC01: Oracle + The Foalyard. A confirmar: Samuel Rae piloto/líder (1 fonte; Trustpilot só diz 'Sam, Owner'); ano de fundação não achado. Retirado: inspiração no avião Hughes H-1 Racer (só 1 fonte). H a confirmar: @riley_watch_co aparece só na página da marca no Oracle of Time (1 fonte não oficial; nenhuma outra busca confirmou) — não gravado. K não achado: site oficial inacessível."
+  },
+  "Riskers": {
+   "M": "Site oficial não abriu (WebFetch direto em riskers.co e em riskers-watches.com: PROVENANCE_REQUIRED) e não apareceu em busca; Firecrawl sem créditos. C não achado: aBlogtoWatch, WatchPro, Wanted (África do Sul), The Watch Pages e Jamais Vulgaire dizem só 'marca francesa'; Jamais Vulgaire conta que encontrou a equipe em Annecy, mas não diz que é a sede (a confirmar). K não achado: site oficial inacessível. Observação sobre G (não alterado): o aBlogtoWatch dá o site oficial como riskers-watches.com, não riskers.co (a confirmar). Outros dados vistos: fundada em janeiro de 2018 (WatchPro), por Pierre Guerrier (ex-Piaget/Richemont) e Thomas Noël (The Watch Pages); relógios feitos na Suíça, movimento STP (Jamais Vulgaire)."
+  },
+  "Ritmo Mundo": {
+   "M": "K não achado: site oficial ritmomundo.com não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (nem site:ritmomundo.com); Firecrawl sem créditos."
+  },
+  "RJ Watches": {
+   "G": "rjwatches.com",
+   "M": "G: rjwatches.com (La Côte des Montres, matéria 'RJ-Romain Jerome becomes RJ': 'the all-new website, rjwatches.com'; village.ai, ficha da empresa RJ Watches). H não achado: Watchonista, Fratello, C W Sellors, Openers e La Côte des Montres não citam o Instagram da marca; busca site:instagram.com sem resultado. K não achado: rjwatches.com não abriu (WebFetch: PROVENANCE_REQUIRED) e não apareceu em busca; Firecrawl sem créditos."
+  },
+  "Roamer": {
+   "M": "K não achado: site oficial roamer.ch não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (nem site:roamer.ch; só revendedores); Firecrawl sem créditos."
+  },
+  "Robert Lighton": {
+   "M": "K não preenchido: o site oficial robertlighton.com não abriu (WebFetch direto pediu permissão/PROVENANCE_REQUIRED) e não aparece em nenhuma busca (site:robertlighton.com sem resultados; buscas só trazem matérias antigas de liquidação na aBlogtoWatch e Fratello); Firecrawl sem créditos. Possível site desativado: a confirmar."
+  },
+  "Robot": {
+   "B": "República Tcheca",
+   "C": "Nové Město nad Metují",
+   "G": "robot-watch.com",
+   "M": "B: República Tcheca (Fratello 'Czech brand'; Revolution 'Czech watch brand'; Worn & Wound; Helveti; WatchBase). C: Nové Město nad Metují, onde fica a manufatura (Helveti, WatchBase, Revolution, Worn & Wound); a butique fica em Praga, na Praça da Cidade Velha (Worn & Wound; Revolution; catálogo oficial 2024 no Issuu: showroom Maiselova 24/2, Praga 1). G: robot-watch.com (catálogo oficial da marca no Issuu; link no fim da matéria da Worn & Wound; Revolution). K não preenchido: o site oficial não apareceu em busca e o Firecrawl estava sem créditos. Atenção: confirmar que o Instagram já na planilha (@robotwatches) é desta marca tcheca (nenhuma fonte aberta citou o perfil); E/F (2; R$ 3.000) parecem baixos para esta marca, a conferir."
+  },
+  "Robotfigs": {
+   "I": "A Robotfigs é uma marca de Hong Kong que apresenta seus relógios como parte de um universo colecionável de robôs companheiros, cada um com um relógio como \"núcleo\" e personalidade própria. A primeira leva inclui o Cubot, com cronógrafo de 40 mm em aço 316L, vendido com um suporte em forma de robô e acessórios de madeira (taco de beisebol, haltere e skate); a marca é anunciada no portal de fornecedores HKTDC desde agosto de 2026 pela empresa Kin HK Essential Ltd. [⚠️ a confirmar: todos os fatos vêm só das fichas da própria empresa no HKTDC]",
+   "M": "I: história curta, marca muito nova e pouco documentada. Fontes abertas: 2 fichas do Cubot no HKTDC Sourcing (Sand Beige e Dark Mocha; fornecedor Kin HK Essential Ltd, anunciando desde 01/08/2026; 'collectible universe of robot companions', primeira leva). Menos de 6 fontes: o site oficial robotfigs.com não abriu (WebFetch direto pediu permissão) e não apareceu em busca; buscas por \"Robotfigs\", \"robotfigs.com\", Instagram e fundador não trouxeram imprensa nem outras lojas; Firecrawl sem créditos. Nota: a ficha do HKTDC diz 'quartz' nas especificações e 'Japan Mechanical-Quartz Hybrid' na descrição (D já diz VK64). K não preenchido: site oficial não alcançado."
+  },
+  "Rockwell Time": {
+   "I": "A Rockwell Time é uma marca americana de relógios fundada em 2007 por Rich Eggett em Utah, com sede em Woods Cross. Nasceu ligada aos esportes radicais, como motocross e wakeboard, patrocinando atletas e eventos; em 2009 deu nome à série de corridas Rockwell Time Pro Hillclimb.\n\nHoje vende relógios analógicos e digitais (como o 747, o Rook de 38 mm com movimento suíço Ronda e o 50mm), além de óculos de sol, roupas e acessórios, e faz relógios personalizados com o logotipo de empresas. Segundo o site oficial, a maior parte dos relógios feitos nos EUA é montada à mão no Arizona, e o 50mm Automatic usa um movimento automático feito inteiramente nos EUA, por cerca de US$ 7.500. [⚠️ a confirmar: patrocínio da série Pro Hillclimb em 2009 (só Racer X)]",
+   "K": "https://rockwelltime.com/cdn/shop/files/Rockwell-Time_250x.png?v=1701411299",
+   "M": "K: logo do cabeçalho do site oficial (rockwelltime.com/pages/luxury-watches). I (9 fontes): fundador Rich Eggett (site oficial luxury-watches; KSL 04/12/2012; press releases PRUnderground 2024 e 2025); 2007 (press release PRUnderground 06/05/2024 'since 2007'; loja Living.Fit); Woods Cross, Utah (KSL, endereço 1431 S. Redwood Rd.; Living.Fit; a Racer X 2009 dizia Salt Lake City); raízes nos esportes radicais (Racer X 2009; Haute Time; Living.Fit; PRUnderground 2024); Pro Hillclimb 2009 (só Racer X → a confirmar); óculos, roupas e acessórios (PRUnderground 2025; Living.Fit; página oficial Utah 100); relógios com logo de empresas (Haute Time; página oficial Utah 100); Rook 38 mm Ronda 763E (página oficial Utah 100; PRUnderground 2024); montagem no Arizona (site oficial); 50mm Automatic 100% feito nos EUA, US$ 7.500 (ficha oficial 50mm Automatic Lincoln Edition). H não achado: o site oficial não mostra links de redes sociais (rodapé conferido em 4 páginas) e as buscas 'Rockwell Time watches instagram' e 'site:instagram.com rockwelltime' não trouxeram o perfil. A página about-us do site pediu permissão e não foi aberta."
+  },
+  "Rodania": {
+   "K": "https://www.rodania.com/cdn/shop/files/rodania_logo_final_blue_84f4fb4c-c0d7-4afb-bbb8-6f2980395d81.png?v=1758017728&width=1024",
+   "M": "K: arquivo do logo oficial (rodania_logo_final_blue) indicado como imagem de compartilhamento (og:image) nas páginas oficiais rodania.com/pages/who-we-are e /pages/history; o cabeçalho não mostrou outra imagem de logo na leitura. Possível erro em H (não alterado): o rodapé do site oficial liga para instagram.com/rodania1930, não @rodania."
+  },
+  "Rodolphe": {
+   "M": "G, H e K não achados: a marca Rodolphe (do designer Rodolphe Cattin) não tem site oficial atual encontrado em buscas; a única página citada é rodolphe.jp (Openers.jp, março/2015), provavelmente do distribuidor japonês ligado ao grupo Franck Muller — a confirmar, não gravado. Nenhum Instagram oficial da marca achado (buscas 'Rodolphe Cattin instagram' sem resultado). Fontes consultadas: Openers.jp (2015), Fashion-press.net, Europa Star (abr/2003), Masterhorologer (Manufacture Rodolphe Cattin). Possível erro em C (não alterado): Europa Star (2003) diz que a equipe da Rodolphe ficava em La Chaux-de-Fonds e o Fashion-press diz fundada em Le Bois (1996); Genebra pode vir da fase Franck Muller Watchland (2005–2009, segundo Masterhorologer). A confirmar."
+  },
+  "Roebuck": {
+   "G": "roebuckwatchco.com",
+   "M": "G: roebuckwatchco.com (link do site citado no aBlogtoWatch 'Roebuck Watch Company Alpha Series' e no The Calibrated Wrist 'Off the Cuff: Roebuck Diviso', 2021). K não preenchido: o site oficial não abriu (pediu permissão) e não apareceu em busca. Possível erro em C (não alterado): as duas fontes dizem que o fundador Guy Roebuck (neozelandês, marca fundada em 2015) mora perto de Austin, Texas, e não em Nova York — a confirmar."
+  },
+  "Roger Dubuis": {
+   "M": "K não preenchido: o cabeçalho do site oficial (rogerdubuis.com/en e /our-history) mostra o nome como texto/vetor embutido, sem arquivo de imagem do logo. Único arquivo com 'logo' no nome é a imagem de compartilhamento https://www.rogerdubuis.com/rdu/logo-og.png (não conferida visualmente; não é o logo do cabeçalho) — a confirmar."
+  },
+  "Roger W. Smith": {
+   "K": "https://cdn.prod.website-files.com/67a776307c9b2544e96e56a8/69bd2b72a379b4a558dec46f_25th_anniversary_logo%20updated.svg",
+   "M": "K: logo do cabeçalho do site oficial rwsmithwatches.com (versão comemorativa '25th Anniversary Logo', alt do próprio site). Possível erro em H (não alterado): o site oficial liga o Instagram @rogerwsmithltd, e não @rwsmithwatches — a confirmar."
+  },
+  "Rogue Warrior Watch": {
+   "G": "roguewarriorwatches.com",
+   "M": "G: roguewarriorwatches.com (link citado no Soldier Systems 2010, aBlogtoWatch 'Red Cell review', WatchReport 'Avenger Chronograph', blog Oceanic Time 2005 e TechCrunch); o site não abriu (pediu permissão) e pode estar inativo — Bearing Arms (2010) cita também RogueWarriorBrand.com. C não achado: nenhuma das 6 fontes abertas diz a cidade da empresa (licenciada por Richard 'Dick' Marcinko; desenhada por Michael Gee, ex-MTM, segundo aBlogtoWatch). K não preenchido: site oficial não alcançado."
+  },
+  "ROIH": {
+   "M": "B, C, G e K não preenchidos. O site oficial não foi alcançado: roih-watches.com pediu permissão e não abriu, e não aparece em resultado de busca. Pesquisa: 6 buscas, mais as páginas do sorteio no aBlogtoWatch (01/02/2024) e uma matéria da Watchonista que não cita a marca. G a confirmar: roih-watches.com (só 1 fonte, o link do sorteio no aBlogtoWatch, que também liga o Instagram @roihwatches, igual ao da planilha). B/C a confirmar: o nome do modelo Shek-O-Matic lembra Shek O (Hong Kong), mas nenhuma fonte diz onde a marca fica. Para conferir E/F: o aBlogtoWatch dá preço sugerido de US$ 539 para o Shek-O-Matic."
+  },
+  "Rolex": {
+   "M": "K não preenchido: o site rolex.com (páginas /en/watches e /en-us/legal-notices/terms-of-use.html, achadas por busca) não tem imagem de logo no cabeçalho, nem img, svg ou png com 'logo'/'crown'. O logo deve estar embutido no código da página. A página inicial rolex.com pediu permissão e não abriu."
+  },
+  "Rolf Cremer": {
+   "M": "H, I e K não preenchidos. O site oficial rolf-cremer.de pediu permissão e não abriu, e não aparece em busca nenhuma (site:rolf-cremer.de não trouxe nada da marca). H não achado: nem as buscas pelo Instagram nem as matérias trazem perfil. História não conferida: sem fontes. 5 buscas só trouxeram anúncios do eBay.de e lojas de usados (modelos Pur, Turn, Spirale, Little Chess), sem data de fundação, fundador nem cidade."
+  },
+  "Rolf Lang": {
+   "M": "G, H e K não preenchidos. G a confirmar: rolf-lang-dresden.de, citado só pela Deutsche Handwerks Zeitung (matéria sobre o cronômetro em homenagem ao H4 de Harrison), e o endereço não abriu (pediu permissão). Na busca 'rolf-lang-dresden.de' o site não aparece. A mesma matéria diz que a manufatura 'Rolf Lang Dresden' foi fundada em 2012 e que a oficina fica em Bad Gottleuba (o C atual diz Dresden: só anotado, sem alteração). A loja Herando diz que o primeiro relógio próprio saiu em 2014. H não achado em busca, na Herando, na WatchTime nem no SJX. K não achado: site oficial não alcançado."
+  },
+  "Romain Gauthier": {
+   "M": "K não preenchido: a página inicial romaingauthier.com pediu permissão e não abriu. A página romaingauthier.com/fr/node/18, achada por busca, não mostrou URL de imagem de logo no conteúdo lido."
+  },
+  "Romain Jerome": {
+   "G": "rjwatches.com",
+   "M": "G: rjwatches.com, site oficial citado na La Cote des Montres (06/06/2018, mudança de RJ-Romain Jerome para RJ, 'the all-new website') e no perfil da empresa no village.ai (fundada em 2004 como Romain Jerome, RJ desde 2018); o site não pôde ser aberto para conferir se segue no ar. H não achado: buscas por Instagram oficial da RJ (incl. '@rj_watches') não trouxeram o perfil. K não preenchido: site oficial não aberto (endereço não veio em resultado de busca; Firecrawl sem créditos)."
+  },
+  "Rönkkö": {
+   "G": "ronkkowatches.fi",
+   "M": "G: ronkkowatches.fi (WatchPro USA; Monochrome, matéria Son of Tuoni; Master Horologer). C não achado: as fontes dizem só 'Finlândia' (relojoeiro independente Antti Rönkkö). K não preenchido: site oficial bloqueado (PROVENANCE_REQUIRED). A conferir (não alterado): D/E/F/J parecem não bater — Rönkkö é relojoeiro independente de alta relojoaria (Steel Labyrinth 2013, SJX/Monochrome; Son of Tuoni a € 12.700–14.900 sem impostos, Monochrome), não microbrand de R$ 3.000."
+  },
+  "Rosenbusch": {
+   "C": "Munique",
+   "M": "C: Munique (Worn & Wound, 'Munich-based independent brand', matéria da Horizon; Oracle of Time, marca criada por três amigos 'num beer garden em Munique'). G a confirmar: Time+Tide e WristReview (Quest, 2023) dão rosenbusch.watch, mas a Worn & Wound (Horizon, mais recente) dá rosenbusch-watches.com; não gravado por divergência e site não aberto. K não preenchido: site oficial não alcançado. Obs.: preços reais da Quest US$ 500–1.067 e Horizon € 1.250 (T+T; W&W) — F=4000 parece alto (não alterado)."
+  },
+  "Roshan Martin": {
+   "B": "Suíça",
+   "C": "Montreux",
+   "M": "B e C: Suíça, Montreux (Monochrome, Roshan Martin Légende Tourbillon; Master Horologer, 2014, 'Designed in Montreux'; GPHG, 'Montreux-based brand', 2014). G não achado: nenhuma fonte (aBlogtoWatch, Monochrome, Master Horologer, GPHG) cita site oficial e buscas não o trouxeram. K não preenchido: sem site oficial. A conferir (não alterado): D/E/F genéricos; a marca fez o Légende Tourbillon de alta relojoaria (GPHG 2014), não microbrand de R$ 3.000."
+  },
+  "Roskopf": {
+   "I": "Roskopf é uma marca australiana de relógios de inspiração militar, com reproduções de modelos históricos como o relógio de trincheira da Primeira Guerra Mundial (WW1 Trench Watch) e o Spitfire, homenagem aos relógios de pilotos da Segunda Guerra, com movimento a quartzo Miyota. A marca \"Roskopf Patent\" foi registrada na Austrália em 18/10/2018, para relógios, por um titular de Nova Gales do Sul, estado de Sydney. [⚠️ a confirmar: modelos e movimento citados só por revendedor (Desertcart); registro da marca visto numa fonte só (TrademarkElite)]",
+   "M": "I: marca pouco documentada — só 3 fontes achadas: Desertcart (2 anúncios: Spitfire WW2 Pilots e WW1 Trench, quartzo Miyota) e TrademarkElite (marca 'ROSKOPF PATENT' nº 1963148, depositada em 18/10/2018, titular em NSW 2099). Procurou-se ainda imprensa e listas de marcas australianas (Time+Tide, DMARGE, Teddy Baldassarre) sem menção. Cuidado: homônima da antiga Roskopf suíça (G.-F. Roskopf, séc. XIX), não misturada no texto. H não achado: busca site:instagram.com sem resultado. K não preenchido: site oficial roskopfwatches.com bloqueado (PROVENANCE_REQUIRED) e não apareceu em busca; Firecrawl sem créditos. Cota de buscas esgotada (20)."
+  },
+  "Rossling": {
+   "M": "Site oficial rosslingco.com não abriu (WebFetch pediu permissão; o domínio não apareceu em busca). C não achado: aBlogtoWatch diz só 'Canada-based' (marca de 2013, criada por irmãos; co-fundador Karim Elgarhy segundo Two Broke Watch Snobs); Worn & Wound, Dappered, Silodrome e Wolf & Badger não dão a cidade. K não achado: site oficial não alcançado. Obs.: Dappered (2014) cita também o domínio rossling.co.uk."
+  },
+  "Rotary": {
+   "K": "https://rotarywatches.com/cdn/shop/files/Asset_1_4x_808a95d0-3246-4f42-b4df-f06fb24d8cc5.png?v=1756475514&width=455",
+   "M": "K: logo do cabeçalho do site oficial (rotarywatches.com/pages/about-us, aberto por link de busca); o Instagram do rodapé confere com @rotarywatches."
+  },
+  "Rotate North": {
+   "I": "A Rotate North é uma marca de relógios-ferramenta sediada em Belfast, na Irlanda do Norte. Seu primeiro modelo foi o Atlantic, um relógio de mergulho automático com resistência de 300 m e montagem na Alemanha; depois vieram o Arctic, de 500 m, e o Tempest, um relógio de navegação. Em abril de 2020 a revista Silodrome a apresentava como uma empresa nova. [⚠️ a confirmar: ano de fundação (só a Silodrome indica cerca de 2020) e fundadores (não achados)]",
+   "M": "Site oficial rotatenorth.com não abriu (WebFetch pediu permissão, também em /collections/the-atlantic). I (7 fontes abertas, marca pouco documentada): Belfast/Irlanda do Norte (Watchspace 2024 'Divers – Part 2'; Silodrome 'Rotate North Tempest'); Atlantic como estreia, 300 m, montado na Alemanha (Silodrome abr/2020; Watchspace; texto da marca nas lojas Faire, Zipzappa e Proud Fabrics); Arctic 500 m (Watchspace; Dialicious); Tempest (Watchspace; Silodrome). Fora do texto por ter 1 fonte só: reconhecimento pela Wired e quartzo Ronda 715LI no Tempest (só Silodrome). Obs.: a Silodrome (Tempest) diz acabamento no Reino Unido, as outras dizem montagem na Alemanha. H não achado: buscas no Instagram e matérias não mostram o perfil. K não achado: site oficial não alcançado. Techwriteredc e boards.ie não abriram."
+  },
+  "Rothenschild": {
+   "M": "G, C e K não achados: nenhuma busca trouxe site oficial; as fontes encontradas (Watchia, Galaxus, eBay, Schnäppchenfuchs) mostram Rothenschild como marca de caixas giratórias (watch winders), sem fabricante, endereço ou site. A conferir: D e J (relógios esqueletizados/cronógrafos) — só o eBay tem a categoria 'Rothenschild Uhren', sem anúncios carregados."
+  },
+  "Rotoris": {
+   "E": 3,
+   "F": 8865,
+   "I": "A Rotoris é uma marca indiana de relógios fundada em 2025 por Aakash Anand (criador da marca de perfumes Bella Vita), Prerna Gupta, Anant Narula e Kunal Kapania, com o relojoeiro Harman Wadhwa como cofundador responsável pela parte técnica. Os relógios são montados e testados no ateliê da marca em Gurugram, vizinha a Nova Délhi, com componentes de vários países.\n\nEm dezembro de 2025 a marca recebeu US$ 3 milhões de investimento-semente, com Nikhil Kamath, Venture Catalysts e 100Unicorns à frente. Em fevereiro de 2026 lançou a primeira série, de 2.100 relógios numerados, em cinco coleções (Auriqua, Monarch, Astonia, Arvion e Manifesta), que segundo a empresa se esgotou rapidamente; as vendas passam por um programa de acesso, o Rotoris Registry.\n\nAinda em 2026 levantou cerca de ₹ 70 crore numa rodada Série A liderada pela Blume Ventures, para ampliar a produção e as lojas próprias (Rotoris House) na Índia e no exterior. Segundo a marca, em março de 2026 o piloto Kush Maini usou um Astonia Sports Chronograph na abertura da temporada de Fórmula 1, em Melbourne.",
+   "M": "Site oficial rotoris.com direto pediu permissão; páginas internas abertas por links de busca. F: média de 2 preços da loja oficial (Astonia Sunset Carbon Chronograph US$ 1.257; Manifesta Blue Aventurine US$ 1.958) = US$ 1.607,50 × 5,5146 = R$ 8.865 → E = 3 (StartupTalky cita no site ₹ 63 mil a ₹ 1,27 lakh). I (7 fontes): fundação 2025 e fundadores (Inc42 dez/2025; Inc42 Série A; Tribune India abr/2026; The Hour Markers); Harman Wadhwa cofundador (The Hour Markers; Tribune); ateliê em Gurugram (blog oficial rotoris.com; Inc42; Open; StartupTalky); seed US$ 3 mi (Inc42 x2; StartupTalky); 2.100 peças em fev/2026 e cinco coleções (blog oficial; Inc42; Tribune; Open); Série A ₹ 70 crore/Blume (Inc42; Open; StartupTalky); Kush Maini na F1 (blog oficial). Fora do texto (1 fonte/press release): presença no Watches & Wonders 2026; formação de Wadhwa na Suíça. Obs.: C está 'Nova Délhi', mas a sede/ateliê é em Gurugram (blog oficial; Tribune) — só anotado. K não achado: as páginas abertas não trazem a imagem do logo do cabeçalho."
+  },
+  "Roue": {
+   "M": "K não preenchido: o site oficial rouewatch.com não abriu (WebFetch direto pediu permissão, PROVENANCE_REQUIRED) e não apareceu em nenhum resultado de busca (buscas 'rouewatch.com Roue watch' e 'site:rouewatch.com' só trouxeram imprensa: aBlogtoWatch, Worn & Wound, Fratello, Silodrome); Firecrawl sem créditos. Ainda a verificar (não alterado): B/C 'Brasil/São Paulo' — o aBlogtoWatch cita como criador Alex Iervolino, sem dizer onde a marca fica; vale conferir a sede."
+  },
+  "Royter Watches": {
+   "I": "A Royter é uma marca de relógios de Nova York fundada em 2017 (o registro da marca ROYTER, em nome da Royter Watches LLC, foi pedido nos EUA em novembro de 2017). Começou com cronógrafos personalizáveis com movimento suíço ETA 7750, como o DR-02, vendido em 2022 por US$ 2.950 na versão padrão e US$ 4.950 com acabamento à mão, numa produção de no máximo 75 peças por ano.\n\nEm 2026 a marca mudou de rumo com a Legacy Series Nova Edition, de mostrador gravado à mão e calibre exclusivo BNR-01, feita em cerca de 12 peças por ano, com preço a partir de US$ 68.000. À frente da marca está o relojoeiro Dan Royter, que trabalha no Brooklyn. [⚠️ a confirmar: nome e base do fundador (Dan Royter, Brooklyn), limite de 75 peças por ano e preço de US$ 68.000 — cada um com 1 fonte só]",
+   "M": "I (história nova, 4 fontes independentes abertas — menos que o mínimo de 6 porque a cota de buscas acabou e o site oficial não abriu): fundação 2017 em Nova York (Time+Tide, 11/04/2022) + registro ROYTER pedido em 14/11/2017 pela Royter Watches LLC (Justia Trademarks); DR-02 com ETA 7750 e preços US$ 2.950/4.950 (Time+Tide; SJX confirma os cronógrafos ETA 7750); até 75 peças/ano (só Time+Tide); Nova com calibre BNR-01 e ~12 peças/ano (SJX ago/2026; WatchProZine mai/2026); US$ 68.000 e Dan Royter no Brooklyn (só SJX). Diferença entre fontes: SJX diz movimento desenhado com Lee Yuen-Rapati e fornecido pela UhrTeil; WatchProZine diz 'desenvolvido com Andreas Strehler' — por isso o texto não cita parceiros. Procurado também: busca 'site:royterwatches.com' (só imprensa). K não preenchido: royterwatches.com não abriu (WebFetch direto pediu permissão) e não apareceu em busca; Firecrawl sem créditos."
+  },
+  "Rpaige": {
+   "M": "C não achado: nenhuma fonte dá a cidade da Rpaige; o aBlogtoWatch (review do Wrocket) diz que Richard Paige morou em San Francisco e 'agora vive no Havaí', sem cidade; Delray Watch o descreve como ex-dono de boutique em San Francisco; Monochrome (Kickstarter Crash of '29) só diz 'dois americanos'. K não preenchido: rpaige.com não abriu (WebFetch direto pediu permissão) e não apareceu em busca ('site:rpaige.com' sem resultado da marca); Firecrawl sem créditos."
+  },
+  "RSW": {
+   "C": "La Neuveville",
+   "M": "C: La Neuveville (WorldTempus 'RSW History': a Rama Watch SA se mudou de Bienne para La Neuveville em 2003; Europa Star Swisstime 'RSW La Neuveville': a cidade é a casa da marca; anúncios Catawiki 'RSW La Neuveville'). G não gravado (a confirmar): o WorldTempus ('RSW – New Website') dá www.rsw-swiss.com, mas é fonte única e antiga; o WebFetch nesse endereço pediu permissão e nenhuma busca o trouxe. A dona da marca registrada é a RSW Swiss Sàrl (Justia). K não preenchido: site oficial não alcançado; Firecrawl sem créditos."
+  },
+  "Rudis Sylvia": {
+   "C": "Les Bois",
+   "M": "C: Les Bois, Franches-Montagnes, cantão do Jura (Watchonista 'Questions de Temps: Jacky Epitaux' — criada em 2006 em Les Bois; Dialicious — 'maison independente em Les Bois'; Relojes Especiales). G não gravado (a confirmar): o Watchonista dá www.rudissylva.ch, fonte única; o WebFetch nesse endereço pediu permissão e nenhuma busca o trouxe. H não achado: busca 'site:instagram.com rudis sylva' sem o perfil da marca. K não preenchido: site oficial não alcançado; Firecrawl sem créditos. Ainda a verificar (não alterado): o nome certo da marca é 'Rudis Sylva' (sem 'i'), segundo Europa Star, Watchonista e GPHG; D ('esportivos e de mergulho') parece errado — a marca é de alta relojoaria, conhecida pelo Oscilador Harmonioso (dois balanços engrenados, apresentado em 2009, Europa Star), modelos RS 12/RS 23; E=3/F=8.000 não batem: o RS23 Blue custa CHF 80 mil em titânio e CHF 95 mil em ouro rosa (Deployant), ~R$ 520 mil; J genérico."
+  },
+  "Ruhla": {
+   "M": "K não preenchido: o domínio da coluna G (ruhla.de) é o site da prefeitura/turismo da cidade de Ruhla (Stadtverwaltung Ruhla), não da marca de relógios; o logo de lá (ruhla.de/files/content/images/logo/logo.png) é da cidade e não foi usado. Possível erro em G (só anotado): a marca hoje parece ser vendida pela Uhren Manufaktur Ruhla GmbH (UMR), loja umr-ruhla.de, Marienstraße 19, Ruhla (fonte: página da Trusted Shops) — a confirmar; umr-ruhla.de não apareceu em nenhuma busca e não pôde ser aberto. O acesso direto a ruhla.de pediu permissão; a página ruhla.de/en/ foi aberta por busca."
+  },
+  "RVLVR": {
+   "I": "A RVLVR (lê-se “Revolver”) é uma pequena marca de relógios do Havaí (EUA) cujos modelos se inspiram em revólveres e armas de fogo. Em 2019 lançou no Kickstarter o mergulhador AD5, inspirado no revólver BFR da Magnum Research e equipado com o movimento automático Seiko NH35A. Depois veio o mergulhador SD-1, com movimento automático Seiko NH70, que já estava à venda em 2021. [⚠️ a confirmar: base no Havaí, campanha do AD5 no Kickstarter em 2019 e ligação com a Magnum Research (só WristReview)]",
+   "M": "I: marca pouco documentada; só 3 fontes achadas: WristReview (27/09/2019, AD5 no Kickstarter, Havaí, Magnum Research BFR, NH35A), WatchReport (30/09/2021, review do SD-1, NH70, nome lido 'Revolver') e KeepTheTime (ficha do SD-1, NH70A). Procurou-se também por fundador, Instagram e história em buscas gerais, Kickstarter/Kicktraq (redirecionamento não abriu) e imprensa; nada sobre fundador ou ano de fundação. H não achado: nenhuma busca trouxe o perfil e o site oficial não abriu. K não preenchido: o acesso direto a rvlvr.com pediu permissão e o site não apareceu em nenhuma busca."
+  },
+  "RVNDSGN": {
+   "I": "A RVNDSGN foi criada em 2011 pelo designer industrial Zach Raven em Grand Rapids, no Michigan (EUA). Os primeiros relógios, a Series 1, foram financiados por uma campanha no Kickstarter e feitos por manufatura aditiva (impressão 3D), com caixa de titânio sinterizado a laser e movimento suíço, montados à mão nos Estados Unidos.\n\nO modelo seguinte, o M1, ganhou o Red Dot Award: Design Concept em 2018. Feito com fabricantes e fornecedores suíços, tem caixa de aço inoxidável, cristal de safira e movimento automático Sellita SW200-1, e foi lançado numa campanha no Kickstarter entre novembro e dezembro de 2024. [⚠️ a confirmar: caixa de titânio sinterizado a laser e montagem nos EUA da Series 1 (só o portfólio do designer no Coroflot); campanha da Series 1 no Kickstarter (só Rapid Growth Media, 2011)]",
+   "M": "I: 8 fontes abertas: Rapid Growth Media (01/09/2011: Zach Raven, designer industrial local, Kickstarter com meta batida, peças por impressão 3D, alvo US$ 200–250); Coroflot 'RVNDSGN Series 1' (fundada em 2011, Grand Rapids, titânio sinterizado a laser, movimento suíço, montagem nos EUA); Coroflot perfil (RVNDSGN desde jan/2011, Grand Rapids); Coroflot 'RVNDSGN M1' (Red Dot 2018, Good Design 2018, A' Design prata 2018, fabricantes suíços); Red Dot (M1 Timepiece, Design Concept 2018, Sellita SW200-1, fornecedores suíços); Yanko Design (01/12/2024: M1, Sellita SW200-1, aço e safira, campanha a US$ 949 contra US$ 1.999); BackerKit (Kickstarter 19/11 a 19/12/2024, Swiss-made, aço e safira); designers.org (Zach Raven, Grand Rapids, dono da RVNDSGN). H não achado: buscas por Instagram (inclusive site:instagram.com) não trouxeram perfil, e nenhuma das fontes cita um. K não preenchido: o acesso direto a rvndsgn.com pediu permissão e o site não apareceu em nenhuma busca."
+  },
+  "Ryser Kentfield": {
+   "C": "Kentfield (Califórnia)",
+   "G": "ryserwatches.com",
+   "M": "C: Kentfield, Califórnia, EUA (Europa Star, fev/2007: Urs Ryser, de Biel, dono da loja Swiss Timepieces em Kentfield desde 1990, site www.ryserwatches.com; Master Horologer: endereço 929 Sir Francis Drake Blvd #204, Kentfield, CA, site ryserwatches.com; Fratello 2007 confirma que ele se mudou para os EUA). G: ryserwatches.com pelas mesmas 2 fontes; o acesso direto pediu permissão, então não se conferiu se o site ainda está no ar. Possível erro em B (só anotado): a empresa fica nos EUA (Kentfield); o fundador é suíço e os relógios são Swiss Made. Master Horologer dá 1995 como ano de início da marca (só 1 fonte). K não preenchido: site oficial não abriu."
+  },
+  "RZE": {
+   "B": "Singapura",
+   "K": "https://www.rzewatches.com/cdn/shop/files/RZE-logo-white-yellow.png?v=1676429080&width=220",
+   "M": "B: Singapura, pelo site oficial (blog Rzine, artigo 'Trust me, I'm an engineer': 'our island home we call Singapore'). K: logo do cabeçalho do site oficial rzewatches.com (o acesso direto à página inicial pediu permissão; a página do blog veio por busca). O Instagram ligado no site oficial (instagram.com/rzewatches) confere com H."
+  }
+ },
+ "base": "Relogios_atualizada_604.xlsx"
+}
