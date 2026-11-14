@@ -1,0 +1,307 @@
+{
+ "versao": 596,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Loiseau",
+  "Longines",
+  "Longio",
+  "Lorca",
+  "Lorenz",
+  "Loresum",
+  "Lorier",
+  "Lorige",
+  "Lornet",
+  "Lorus",
+  "LOTH Watches",
+  "Louis Chevrolet",
+  "Louis Erard",
+  "Louis Moinet",
+  "Louis Vuitton",
+  "Louis XVI",
+  "Lucien Piccard",
+  "Lucien Rochat",
+  "Lucky Harvey",
+  "Luckyshroom",
+  "Ludovic Ballouard",
+  "Luminox",
+  "Lüm-Tec",
+  "Lundis Bleus",
+  "LYH Lin YongHua",
+  "Lyrique",
+  "Lytt Labs",
+  "M2Z Watch",
+  "M&M Swiss Watch",
+  "M.A.D. Editions",
+  "MadeWorn",
+  "Mad Hudson Watches",
+  "Maen",
+  "Magellan",
+  "Magrette",
+  "Maison Boanton",
+  "Maitres du Temps",
+  "Majestic Craftsmen",
+  "Makara Watches",
+  "Makina",
+  "Makoto Watch Company",
+  "Makydo",
+  "MALM Watches",
+  "Mancheront",
+  "Manchester Watch Works",
+  "Mandetbrot",
+  "Manilone",
+  "Manime",
+  "MAN of the SEA Watch Co.",
+  "Manufacture Royale"
+ ],
+ "celulas": {
+  "Loiseau": {
+   "M": "Nada novo achado. C, G, H e K não achados: a marca parece ser a Atelier Loiseau (fundada por Dominique Loiseau e Daniel Montandon; lançou o 1f4 Grande Sonnerie na Baselworld 2011 — WorldTempus, Quill & Pad), mas nenhuma fonte aberta (WorldTempus, MasterHorologer, Wikiwand) dá cidade, site ou Instagram, e nenhuma busca trouxe site oficial. A conferir: Dominique Loiseau é franco-suíço (nascido em Boulogne-Billancourt, formado em La Chaux-de-Fonds — Wikiwand); a sede pode ser na Suíça, não na França (B não alterado)."
+  },
+  "Longines": {
+   "M": "K não achado: o WebFetch direto em longines.com foi bloqueado (PROVENANCE_REQUIRED) e as páginas do site abertas pela busca (/watches, /faq) não mostram arquivo de imagem do logo no cabeçalho (provavelmente SVG embutido); só há a imagem de compartilhamento longines.com/images/opengraph/tag_og.jpeg, que não é o logo."
+  },
+  "Longio": {
+   "C": "Shenzhen",
+   "M": "C: Shenzhen (endereço do dono da marca registrada LONGIO, Mi Changhong, no registro de marcas dos EUA via trademarkdir: Shenzhen, Guangdong; diretório de fornecedores Reevol: Longio Watch Co Ltd, Shenzhen). Obs.: HKTDC e Fashionbi citam a empresa comercial Longio Watch Company Limited em Hong Kong. H não achado: nenhum Instagram da marca em buscas, East Watch Review, Fashionbi nem HKTDC. K não achado: WebFetch direto em longio.com bloqueado e o site não apareceu em busca. A conferir em G: a imprensa (East Watch Review 2015) e a Fashionbi citam o site longiowatch.com, não longio.com. Fundada em 1996 por Mi Changhong como fabricante OEM/ODM (East Watch Review)."
+  },
+  "Lorca": {
+   "C": "Nova York",
+   "G": "lorcawatches.com",
+   "M": "G: lorcawatches.com (Linktree oficial @lorcawatches; Worn & Wound e Monochrome). C: Nova York (Monochrome: 'New York-based microbrand'; Worn & Wound: fundador Jesse Marchant, sede no Brooklyn; Linktree oficial: 'Designed in New York', showroom em NYC). K não achado: lorcawatches.com bloqueado (PROVENANCE_REQUIRED) e nenhuma página do site veio em busca. ATENÇÃO, possível erro em B e D: a Lorca é marca dos EUA (Nova York, relógios Swiss Made), não espanhola — B 'Espanha' e D 'Microbrand espanhola' parecem errados (não alterados). Modelos: Model No. 1 GMT (36 mm, US$ 1.750) e Model No. 2 Chronograph. (Revisão: C Nova York gravado por 3 fontes; B \"Espanha\" e D parecem errados — conferir.)"
+  },
+  "Lorenz": {
+   "K": "https://lorenz.it/cdn/shop/files/LOGO-LORENZ-DARK.png?v=1747744678&width=1517",
+   "M": "K: logo do cabeçalho do site oficial lorenz.it (página the-lorenz-brand, aberta pelo link da busca; arquivo LOGO-LORENZ-DARK.png). WebFetch direto em https://lorenz.it bloqueado (PROVENANCE_REQUIRED)."
+  },
+  "Loresum": {
+   "I": "A Loresum é uma microbrand de relógios mecânicos fundada pelo designer Jason Chan, que também é o seu designer-chefe; a marca liga-se a Hong Kong e ao Reino Unido (os relógios são desenhados no Reino Unido, e as campanhas aparecem registradas em Southampton e com preços em dólares de Hong Kong).\n\nO primeiro modelo, o LS01, foi lançado no Kickstarter e troca os ponteiros por discos giratórios numerados, movidos por um Miyota 9015 modificado. Depois vieram as linhas LS02, LS04, LS05, LS06, LS07 e J1. O LS04, com fase da lua de 29,5 dias e mostradores de madrepérola ou aventurina, com Miyota 9015 ou Sellita SW200-1, foi financiado com sucesso no Kickstarter, e uma segunda versão, com mostradores de pedras e caixa de 36,5 mm, passou de novo pelo Kickstarter em 2026. [⚠️ a confirmar: lançamento do LS01 em abril de 2021, inspiração no mapa do metrô de Londres, nome derivado de 'lorem ipsum' e passagem anterior de Jason Chan pela JW Watch, cada um com uma fonte só]",
+   "M": "I: 6 fontes abertas: acciyo.com (resenha da Loresum: fundador e designer-chefe Jason Chan, desenhado no Reino Unido, envio do Reino Unido/Hong Kong, linhas LS01–LS05 e J1); masterhorologer.com 2021 (Jason Chan fundou a empresa; LS01 no Kickstarter em 25/04/2021, Miyota 9015 com módulo próprio e discos no lugar dos ponteiros, inspirado no mapa do metrô de Londres; antes trabalhou com a JW Watch de Hong Kong); wristwatchreview.co.uk (LS01 no Kickstarter, 9015 modificado com discos, HK$ 6.000–7.200); kicktraq.com (LS04 fase da lua de 29,5 dias, Miyota 9015 ou Sellita SW200-1, madrepérola/aventurina, criador em Southampton/Reino Unido, financiado com HK$ 1.994.152 = 664% da meta); backerkit.com (LS04 V2, Kickstarter de 28/04 a 10/05/2026, 36,5 mm, Sellita SW200-1, mostradores de aventurina, eisenkiesel, bloodstone, granada e madrepérola); crownhour.com/collections/loresum (descrição da marca: nome vem de 'lorem ipsum'; modelos LS01, LS04, LS04B, LS05, LS06, LS07 e J1). Post da WatchCrunch abriu vazio. Fatos com fonte única ficaram no aviso 'a confirmar'. K não preenchido: o site oficial loresum.watch deu PROVENANCE_REQUIRED no acesso direto e não apareceu em nenhuma busca (site:loresum.watch e \"loresum.watch\"), então o logo do cabeçalho não foi alcançado; Firecrawl sem créditos. Para conferir (não alterado): B/C estão como Hong Kong, mas a Kicktraq dá o criador em Southampton (Reino Unido) e a Acciyo diz 'Designed in UK'."
+  },
+  "Lorier": {
+   "K": "https://cdn.shopify.com/s/files/1/0001/9228/2633/files/Lorier_logo_cropped_black_200.png?v=1782262647",
+   "M": "K: logo do cabeçalho do site oficial lorierwatches.com (página /pages/faqs, que veio de busca; imagem inline com alt 'Lorier'; o acesso direto à página inicial deu PROVENANCE_REQUIRED). Instagram do rodapé confirma @lorierwatches. Para conferir (não alterado): uma matéria da Wrist Enthusiast (só o título apareceu na busca) fala no 'novo dono' da Lorier; D ('microbrand de casal') pode estar desatualizado."
+  },
+  "Lorige": {
+   "B": "França",
+   "C": "Paris",
+   "D": "Caixas e mostradores de carbono/carbono feitos de pastilhas de freio de carros de corrida, cada uma com histórico de corrida documentado",
+   "E": 8,
+   "F": 180689,
+   "G": "lorige.com",
+   "J": "BL-Endurance \"Gris Circuit\" — caixa de carbono de pastilha de freio, calibre automático LOR-PR01 com rotor periférico; € 27.360\n\nBL-Endurance \"Bleu 24H\" — mesma caixa de carbono, detalhes azuis; € 28.560\n\nBL-Endurance \"Hyperblack\" — versão preta; € 35.040\n\nBL-Evolution \"Hyperblack\" / \"Bleu Asphalte\" — carbono de pastilhas do Aston Martin Valkyrie, corda manual com 168 h de reserva, 50 peças; CHF 25.935 sem impostos\n\nAS-01 Flying Central Tourbillon — turbilhão central voador; preço não divulgado",
+   "M": "G: lorige.com (aBlogtoWatch, Monochrome, Europa Star, WorldTempus e France Éclat ligam para lorige.com; o acesso direto a lorige.com/en/home deu PROVENANCE_REQUIRED). B: França (Monochrome: 'French independent watchmaking company'; France Éclat, diretório de marcas francesas; WorldTempus: empresa Lorige SAS, comunicado datado de Paris). Obs.: a própria marca se diz 'franco-suíça': relógios Swiss Made, montados em Genebra/Meyrin (Gecoh) e La Chaux-de-Fonds. C: Paris (France Éclat: 10 Place Vendôme, 75001 Paris; comunicado da WorldTempus datado de Paris). D: aBlogtoWatch, Monochrome, Europa Star e WorldTempus. F: média de 5 preços: BL-Endurance € 27.360, € 28.560 e € 35.040 (Monochrome, com impostos) × 6,2257 e BL-Evolution CHF 25.935 ×2 (Europa Star, sem impostos) × 6,5 = R$ 170.335, 177.806, 218.149, 168.578, 168.578 → média R$ 180.689 → E = 8. J: Monochrome, Europa Star e WorldTempus. Também confirmados: fundação em 2018 por Clément Étienvre e Emeric Paraud (aBlogtoWatch cita também Philippe Dumas) (aBlogtoWatch, Monochrome, WorldTempus). H não achado: nenhuma busca ('Lorige watch instagram @lorige') nem as páginas abertas trazem o perfil. K não preenchido: o site oficial foi bloqueado, e o logo da France Éclat não é do cabeçalho oficial."
+  },
+  "Lornet": {
+   "B": "França",
+   "C": "Besançon",
+   "M": "B e C: França, Besançon (masterhorologer.com 2018; macommune.info 03/11/2016; passion-horlogere.com 09/11/2016; gphg.org, ficha do LA-03). Fundada em 2016 em Besançon por Anthony Simao (relojoeiro) com Benoît Monnet e Mickaël Bourgeois; primeiro modelo LA-01 apresentado em 03/11/2016. G não achado: nenhuma das matérias abertas nem as buscas ('Lornet montres Besançon site officiel', '\"lornet.fr\" OR \"lornet.com\"') trazem o site oficial; a única ligação da marca achada é uma página no Facebook (macommune). K não preenchido: sem site oficial alcançado. Para conferir (não alterado): D e J estão genéricos. Os modelos reais são LA-01 (100 peças, € 5.400), LA-02 (feminino) e LA-03 (CHF 13.800 sem impostos, GPHG 2017). F = 1.500 não bate com esses preços."
+  },
+  "Lorus": {
+   "K": "https://www.loruswatches.com/assets/frontend/common/en/images/logo.svg",
+   "M": "K: logo do cabeçalho do site oficial loruswatches.com (página AboutUs, que veio da busca 'site:lorus-watches.com'; o acesso direto a lorus-watches.com deu PROVENANCE_REQUIRED). O rodapé confirma o Instagram @loruswatches. Para conferir (não alterado): a coluna G tem lorus-watches.com, mas o site oficial que aparece nas buscas é loruswatches.com. A página About diz que a Lorus é fabricada e vendida pela Seiko Watch Corporation."
+  },
+  "LOTH Watches": {
+   "I": "A LOTH (sigla de “Lab of Tristan Ho”) é uma marca independente de Cingapura fundada em 2024 por Tristan Ho, formado pela Universidade Nacional de Cingapura (NUS) e pesquisador em laboratório biomédico. Autodidata, ele nunca frequentou escola de relojoaria: começou modificando relógios Seiko e aprendeu acabamento e montagem sobretudo com vídeos na internet.\n\nO primeiro modelo, o LOTH Watch 1, saiu em 2025 numa série limitada de 12 peças: caixa de 40,5 mm, mostrador e pontes de alpaca (“German silver”) com acabamento “mosaico” criado por ele e calibre de corda manual feito sobre um ETA/Unitas 6498 antigo, com cerca de 150 horas de trabalho manual por relógio. A série esgotou e ganhou lista de espera. Ho faz tudo sozinho, do desenho à montagem, numa oficina na casa da família, e em 2026 deixou o emprego de pesquisador para se dedicar só à relojoaria. [⚠️ a confirmar: saída do emprego em 2026 (só FZINE)]",
+   "M": "I (história nova, 7 fontes abertas): Monochrome Watches (03/12/2025), The Peak Singapore (14/08/2025), Esquire Singapore (23/10/2025), FZINE (15/06/2026), Harper's Bazaar Singapore (06/08/2026), Business Traveller (Asian independents), Delugs (recap Golden Hour SG60, 14/08/2025). Sigla 'Lab of Tristan Ho' (Peak, Esquire, FZINE, Monochrome); fundação 2024 (Monochrome, FZINE, Business Traveller); NUS e pesquisa biomédica (Peak, Esquire, Monochrome); autodidata/Seiko/vídeos (Monochrome, Peak, Esquire, FZINE); Watch 1 em 2025 (FZINE; Monochrome: lançado fim de abril; Peak); 12 peças (Peak, FZINE, Business Traveller, Delugs); 40,5 mm (Peak, Business Traveller, Delugs); alpaca, mosaico e base ETA/Unitas 6498 (Monochrome, Peak, Harper's, Delugs, Business Traveller); ~150 h (Peak, Esquire, FZINE, Business Traveller); esgotado (Monochrome, Esquire, FZINE); oficina em casa (Peak, Esquire, Harper's, FZINE). A confirmar: saída do emprego em 2026 (só FZINE). Fora do texto por divergir: bairro da oficina (Peak: Loyang; Delugs: Tampines) e preço (US$ 4.960 na Delugs; ~S$ 6.000 na Esquire; $6.500 na Peak). Revolution Watch não abriu (tela de verificação). K não preenchido: site oficial loth.sg bloqueado no acesso direto (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca."
+  },
+  "Louis Chevrolet": {
+   "G": "louischevrolet.com",
+   "M": "G: louischevrolet.com (site oficial da marca aberto pelo resultado de busca; também citado nos comunicados Business Wire 28/02/2020 e Mammoth Times/Kickstarter 2022). H não achado: páginas do site lidas sem links de redes sociais e busca site:instagram.com sem perfil da marca. K não preenchido: a leitura das páginas do site (início, ficha LC01, Club, Philosophie) não trouxe o arquivo de imagem do logo. Possível erro em C (não alterado): o site diz que a loja/oficina fica na cidade medieval de Porrentruy e o comunicado de 2022 dá o endereço Rue Pierre Péquignat 11, 2900 Porrentruy (Jura), não La Chaux-de-Fonds."
+  },
+  "Louis Erard": {
+   "K": "https://www.louiserard.com/cdn/shop/files/logo-louis.svg?v=1706870401",
+   "M": "K: arquivo do logo do site oficial louiserard.com (logo-louis.svg, usado como imagem de compartilhamento; o cabeçalho mostra o nome em texto e o rodapé usa logo-footer.svg). Acesso direto a louiserard.com bloqueado; aberta a página 'History & Corporate' (louiserard.com/?p=1544) vinda da busca. Possível erro em H (não alterado): o site liga ao Instagram instagram.com/louiserardofficial (@louiserardofficial), e não @louiserardwatches."
+  },
+  "Louis Moinet": {
+   "K": "https://louismoinet.com/wp-content/uploads/2024/01/Logo-LM-Web-Header-Golden.png",
+   "M": "K: logo do cabeçalho do site oficial louismoinet.com (Logo-LM-Web-Header-Golden.png), página inicial aberta pelo resultado de busca (o acesso direto foi bloqueado)."
+  },
+  "Louis Vuitton": {
+   "M": "K não preenchido: no site oficial (us.louisvuitton.com e hk.louisvuitton.com, páginas de relógios abertas pela busca) o cabeçalho traz o nome 'LOUIS VUITTON' como link/SVG embutido, sem arquivo de imagem do logo; sem og:image. Logos de bancos de logos (logotyp.us, brandfetch) não usados por não serem do site oficial."
+  },
+  "Louis XVI": {
+   "K": "https://www.louisxviwatches.com/cdn/shop/files/only_lxvi.png?v=1721206742&width=1080",
+   "M": "K: logo do cabeçalho do site oficial louisxviwatches.com (ficha Palais Royale 2.0, aberta pelo link da busca; há também versão branca only_lxvi_white.png). Acesso direto a louisxvi.com bloqueado (PROVENANCE_REQUIRED) e a busca site:louisxvi.com não trouxe a marca. A conferir (não alterado): G está louisxvi.com, mas a loja oficial com os modelos da marca (Palais Royale, Versailles, Mirabeau) é louisxviwatches.com; H está @louisxvi, mas o rodapé do site oficial liga instagram.com/louisxvi_watches (@louisxvi_watches); o rodapé diz 'LOUIS XVI Switzerland', enquanto B/C dizem Alemanha/Frankfurt; preço visto no site oficial: Palais Royale 2.0 € 645."
+  },
+  "Lucien Piccard": {
+   "M": "C e K não achados: acesso direto a lucienpiccard.com bloqueado (PROVENANCE_REQUIRED) e o site oficial não apareceu em nenhuma busca (site:lucienpiccard.com, 'official site contact', 'shop'); Firecrawl sem créditos. A confirmar: dono atual seria a Swiss Watch International, da família Ben-Shmuel, desde dez/2021 (só 1stdibs; cidade da empresa não citada). Fundação em 1923 na Suíça (World of Watches; Velvet Box Society diz Lausanne). Páginas de marcas registradas na Justia deram erro."
+  },
+  "Lucien Rochat": {
+   "M": "H e K não achados: acesso direto a lucienrochat.com bloqueado (PROVENANCE_REQUIRED); buscas site:lucienrochat.com, 'Lucien Rochat watches official instagram' e '@lucienrochat' não trouxeram o site nem o perfil oficial (só lojas e imprensa italiana: Orologioblog, Corriere dello Sport, Tuttosport, sem link de Instagram); Firecrawl sem créditos. Notado (não alterado): Corriere dello Sport (27/11/2023) diz marca nascida em 1925 na Vallée de Joux; Orologioblog cita o Iconic 100 Ans (1925-2025). J ainda com '[⚠️ confirmar coleções]': modelos vistos em lojas: Lunel, Reims, Leman, Garçon, Montreux, Krab."
+  },
+  "Lucky Harvey": {
+   "C": "Hong Kong",
+   "D": "Relógios mecânicos automáticos com autômatos animados (tigre, dragão, cavalo, leão) e toque das horas",
+   "E": 3,
+   "F": 8783,
+   "G": "luckyharvey.com",
+   "H": "@luckyharvey.official",
+   "J": "Sound of Nature (Chiming Series) — automático com toque das horas e grande data, aço 40 mm, edição de 300; US$ 1.274 (normal US$ 1.499)\n\nChiming Automaton Horse — autômato de cavalo com toque, titânio grau 5, 39 mm, edição de 100; US$ 2.039 (normal US$ 2.399)\n\nLion Dance — automático com autômato de dança do leão, aço 43 mm; US$ 1.019 (normal US$ 1.199)\n\nChinese Loong (Dragão) — pérola dourada sai da boca do dragão na hora; selecionado ao GPHG 2023; preço não confirmado",
+   "K": "https://luckyharvey.com/cdn/shop/files/Logo.png?v=1749714589&width=150",
+   "M": "Site oficial luckyharvey.com (acesso direto bloqueado; aberto pelos links da busca: páginas timeline e produtos). C: Hong Kong (site oficial: Lucky Harvey Limited, Tsim Sha Tsui, Hong Kong; fabricante Lucky Harvey Commercial Company Ltd, Hong Kong). B está '[⚠️ verificar país]': pelas fontes seria Hong Kong (site oficial) / marca chinesa fundada em 2021 (Red Army Watches) — não alterado. H e K: do site oficial (Instagram ligado na página timeline; logo do cabeçalho Logo.png). D e J: site oficial (timeline e fichas) + Red Army Watches e GPHG (Dragon/Chiming Watch 2). F: média dos preços de venda de 4 relógios no site oficial (US$ 1.274; 1.019; 2.039; 2.039) = US$ 1.592,75 × 5,5146 = R$ 8.783 → E = 3. Atenção: a Delray Watch cita uma 'Lucky Harvey' vintage dos anos 1960-70 (marca própria americana, homônima), que não é esta."
+  },
+  "Luckyshroom": {
+   "I": "Luckyshroom é uma microbrand ligada à Suíça, criada por um designer suíço-australiano que assina como \"Luckyshroom\", com relógios digitais de caixa de titânio grau 5 montados sobre módulos digitais Casio. O modelo FLATHEAD, com módulo Casio 3551 e caixa própria, foi produzido em edição limitada de 100 peças.\n\nA marca fez colaborações com Yu Ando (AndoAndoAndo): a FLATHEAD ANDO EDITION, de 5 peças, e a série V2 \"Balance in Contrast\", de 6 peças em três versões (NAMI NAMI, KAIMON e IN'EI), com módulo Casio 3572. [⚠️ a confirmar: todos os fatos vêm de uma só fonte (loja AndoAndoAndo); fundador, ano de fundação e cidade não achados]",
+   "M": "I: marca pouco documentada; só 1 fonte achada com fatos (2 páginas da loja AndoAndoAndo: FLATHEAD ANDO EDITION e Series V2 Balance in Contrast) — designer suíço-australiano, caixa projetada/montada na Suíça, FLATHEAD titânio grau 5 com Casio 3551 em 100 peças, colaborações de 5 e 6 peças, V2 com Casio 3572 a € 1.200. Onde se procurou: acesso direto a theluckyshroom.com e www.theluckyshroom.com bloqueado (PROVENANCE_REQUIRED); buscas site:theluckyshroom.com, '\"Luckyshroom\" watch', 'Luckyshroom FLATHEAD', 'luckyshroom instagram' sem imprensa nem site oficial nos resultados; Firecrawl sem créditos. Menos de 6 fontes: texto curto e marcado 'a confirmar'. K não achado: site oficial não alcançado. Notado: a loja Ando fala em designer suíço-australiano; a cidade Zug (C) não foi confirmada nesta pesquisa."
+  },
+  "Ludovic Ballouard": {
+   "H": "@ludovicballouard",
+   "K": "https://ballouard.com/wp-content/uploads/2022/11/cropped-cropped-Logo-Ludovic-Ballouard-LB-blanc-or-1-120x94.png",
+   "M": "H e K: do site oficial ballouard.com (página aberta pelo link da busca; rodapé liga instagram.com/ludovicballouard; logo do cabeçalho; copyright 'Ludovic Ballouard', e-mail info@ballouard.com). Possível erro em G (não alterado): o site oficial é ballouard.com, não ludovicballouard.com (o acesso direto a ludovicballouard.com foi bloqueado e a busca site:ludovicballouard.com não trouxe nada) — a confirmar."
+  },
+  "Luminox": {
+   "C": "Pfäffikon (Schwyz)",
+   "H": "@luminoxwatches",
+   "K": "https://eu.luminox.com/cdn/shop/files/luminox-logo_1200x628_pad_fff.png?v=1716053071",
+   "M": "H: rodapé do site oficial (luminox.com/pages/about e ch.luminox.com ligam instagram.com/luminoxwatches). C: página de carreiras do site oficial (eu.luminox.com/pages/karriere: Mondaine Watch Ltd., dona e distribuidora da Luminox, 'headquarters in Pfäffikon (Schwyz)'; cita também o grupo em Biberist) + Wikipedia (Luminox 'headquartered in Pfaffikon, Switzerland'; dona Mondaine desde 2016). A confirmar: a parte americana de B (a Wikipedia cita San Rafael, Califórnia, sem fonte). K: o cabeçalho do site usa logo embutido sem arquivo de imagem; usado o arquivo de logo 'luminox-logo' do próprio site oficial (imagem de compartilhamento og:image). Acesso direto a luminox.com bloqueado (PROVENANCE_REQUIRED)."
+  },
+  "Lüm-Tec": {
+   "M": "H: ligado no site da LÜM-TEC Europe (lum-tec.fr/about-us, loja europeia da marca, que cita a dona Wiegand Custom Watch, LLC) — o site lum-tec.com não abriu (acesso direto e ficha de produto bloqueados, PROVENANCE_REQUIRED), então o perfil não foi conferido no site americano; a confirmar. K não preenchido: lum-tec.com não foi alcançado; o logo do site europeu é https://lum-tec.fr/wp-content/uploads/2017/04/lumtec_logo-trans.png (não gravado por não ser o site da coluna G). (Revisão: H @lumtecwatches retirado da gravação — só confirmado no site europeu lum-tec.fr; a confirmar no lum-tec.com.)"
+  },
+  "Lundis Bleus": {
+   "M": "H e K não achados: site oficial lundis-bleus.com bloqueado (acesso direto e lundis-bleus.com/en/window/ deram PROVENANCE_REQUIRED; a busca site:lundis-bleus.com não trouxe páginas); buscas de Instagram (site:instagram.com, nomes dos fundadores Johan Storni e Bastien Vuilliomenet) e matérias (Worn & Wound, Wrist Watch Review, Oracle of Time, Watch Collecting Lifestyle, The Watch Pages) não citam o perfil. Confirmado só o site lundis-bleus.com (Oracle of Time e Worn & Wound ligam para ele)."
+  },
+  "LYH Lin YongHua": {
+   "E": 8,
+   "F": 176687,
+   "J": "Dragonfly Man — horas e minutos em discos separados, movimento próprio com peças do Unitas 6498, caixa de 45 mm; US$ 10.000 (aço) / RMB 138.000 (ouro)\n\nLYH-8 Asteroid — primeiro movimento automático próprio, ultrafino e descentrado, com microrrotor, mostrador de madrepérola, série de 22 peças (2022); CHF 26.800\n\nSea Turtle 2020 — caixa em losango em forma de tartaruga, ponteiros e escapamento no mesmo eixo; CHF 27.600\n\nNo. 4 — mostrador com um toca-discos recriado; € 7.000",
+   "M": "F: média de 6 preços de catálogo/imprensa: No. 1 € 80.000 (SJX 2017) = R$ 498.056; No. 4 € 7.000 (SJX 2017) = R$ 43.580; Dragonfly Man aço US$ 10.000 (SJX 2018; Time+Tide) = R$ 55.146; Dragonfly Man ouro RMB 138.000 ≈ US$ 19.900 (conversão da SJX) = R$ 109.741; Sea Turtle 2020 CHF 27.600 (GPHG) = R$ 179.400; LYH-8 Asteroid CHF 26.800 (GPHG) = R$ 174.200 → média R$ 176.687 → E = 8 (Goldthread/SCMP: faixa de US$ 10.000 a 80.000). J: Dragonfly Man (SJX 2018 + Time+Tide), LYH-8 Asteroid e Sea Turtle 2020 (fichas da GPHG), No. 4 (SJX 2017 + Time+Tide). G, H e K não achados: a ficha da AHCI, as matérias da SJX, Time+Tide, Goldthread e as fichas da GPHG não citam site nem Instagram (contato por e-mail/WeChat); buscas de Instagram sem resultado. C (fora de 'falta', só anotado): cidade é Shenzhen, oficina LYH Clock & Watch Workshop no distrito de Futian (AHCI; Goldthread; SJX; Time+Tide) — o '[⚠️ verificar cidade]' pode virar 'Shenzhen'."
+  },
+  "Lyrique": {
+   "I": "A Lyrique nasceu em 2022 como um grupo de mecenas da relojoaria: 51 colecionadores de 16 países, em cinco continentes, que se uniram para encomendar relógios diretamente a fornecedores suíços de alto nível, num sistema de subscrição inspirado no que Abraham-Louis Breguet usava.\n\nO primeiro modelo, o Étude N°1, saiu em julho de 2022 em série limitada de 70 peças, por CHF 9.500. Tem movimento de corda manual Agenhor AGH-6801 (com a roda AgenEse e o regulador AgenPit), caixa de aço de 39 mm feita pela Voutilainen & Cattin, mostrador laqueado branco da Metalem, ponteiros da Fiedler e desenho de Matthieu Allègre, com ar art déco e pequenos segundos às 8h30.\n\nEm abril de 2024 veio o Étude N°2 Guilloché, com o calibre Agenhor AGH-6802, mostrador guilhochado e série de 100 peças, por CHF 29.000. Os dois modelos foram inscritos no Grand Prix d'Horlogerie de Genève (GPHG).",
+   "M": "I: grupo de 51 fundadores de 16 países e modelo de subscrição inspirado em Breguet (ficha da GPHG do Étude N°1; Time+Tide; Belmont e Hairspring citam a venda por subscrição); início em 2022 (Hairspring e Belmont, mar/2023: 'começou no ano passado'; GPHG: lançamento 07/2022); Étude N°1 com 70 peças e CHF 9.500 (GPHG; Caliber Corner; Time+Tide; Blowers: 70 peças); calibre AGH-6801 (GPHG, Caliber Corner, Watchfinder, Hairspring); caixa Voutilainen & Cattin, mostrador Metalem, ponteiros Fiedler (Watchfinder, Belmont, Time+Tide); desenho de Matthieu Allègre (Watchfinder, Blowers, GPHG do N°2); Étude N°2 em 2024, 100 peças (GPHG; Watchonista ref. LE100-2, 2024), CHF 29.000 e AGH-6802 (GPHG; o calibre também aparece em J). Retirado por ter 1 fonte só: projeto puxado por Bill Sanders (WatchArtSci, só Watchfinder), indicação ao GPHG 2022 (só Time+Tide), mostrador da Comblémine e doação anual ao leilão da HSNY (só GPHG). Fontes abertas (10): gphg.org Étude N°1 e Étude N°2, hairspring.com, watchfinder.com, belmontwatches.com, calibercorner.com, timeandtidewatches.com, watchonista.com (marca e Étude N°2), majestixcollection.com, blowers-jewellers.co.uk. H a confirmar: @lyriquewatches (só Time+Tide cita; não gravado). B e C não achados: nenhuma fonte diz onde a empresa fica (grupo internacional com fornecedores suíços). K não preenchido: site oficial lyrique.ch bloqueado no acesso direto (PROVENANCE_REQUIRED) e não apareceu em busca ('site:lyrique.ch' só trouxe páginas de ópera)."
+  },
+  "Lytt Labs": {
+   "C": "Singapura",
+   "D": "Relógios automáticos de desenho tecnológico, com horas e minutos indicados por discos em vez de ponteiros e movimento Seiko NH35.",
+   "F": 3369,
+   "G": "lyttlabs.com",
+   "J": "Inception V1.0 (apresentado em dez/2016, à venda em 2017) — horas e minutos em discos, caixa 'seixo' de 42 mm, Seiko NH35; US$ 749 (aço) e US$ 799 (gunmetal)\n\nInception V1.1 (2018) — fontes e discos revistos, mais luminescência; cerca de SGD 1.090–1.160\n\nInception Prodigy (2019) — caixa almofada de 45 mm, segundos em disco com janela, Seiko NH35; US$ 479–529",
+   "M": "G: lyttlabs.com (aBlogtoWatch e Monochrome). C: Singapura (aBlogtoWatch, WatchPro 'Singaporean microbrand', loja H2 Hub). B já preenchido com '[⚠️ verificar país]' (fora de falta, não alterado): as fontes confirmam Singapura; fundador Edwin Seah (aBlogtoWatch, WatchPro); a Monochrome (2016) fala em três sócios, de França, Suíça e Singapura; WatchBase e H2 Hub dão fundação em 2017. D e J: aBlogtoWatch, Monochrome, WatchPro, WatchBase, H2 Hub. F: média dos preços de lançamento em US$ (Inception 749 e 799; Prodigy 479, 499 e 529) = US$ 611 × 5,5146 = R$ 3.369 (cabe em E = 2). H não achado: nenhuma fonte cita o perfil; buscas no Instagram sem resultado. K não preenchido: site lyttlabs.com bloqueado no acesso direto (PROVENANCE_REQUIRED) e não apareceu em busca; a marca parece inativa (lojas com liquidação)."
+  },
+  "M2Z Watch": {
+   "M": "Nada novo achado: a única fonte encontrada foi a loja watches.com (coleção M2Z: desenho italiano, caixa monobloco de aço 316L, 200 m, Seiko NH35), sem cidade, site, Instagram, logo nem história. Buscas feitas: 'M2Z Watch Italy diver 200 official', 'M2Z watches Italian brand founded instagram', 'M2Z orologi diver monoblocco NH35 italiano'. C, G, H, I e K não achados; I não escrita (sem fontes sobre a empresa)."
+  },
+  "M&M Swiss Watch": {
+   "M": "Nada achado: buscas por \"M&M Swiss Watch\", \"M&M Swiss\" watches e variações (mmswisswatch, Instagram) não trouxeram nenhuma marca com esse nome. Só apareceu a marca 'M&M' (relógios de moda europeus, sem selo Swiss Made, ormoda.com), que parece ser outra empresa (possível M&M Germany); não gravado por risco de homônima. B, C, D, E, F, G, H, J e K não achados; conferir o nome da marca."
+  },
+  "M.A.D. Editions": {
+   "M": "H e K não achados: madeditions.com bloqueado no acesso direto (PROVENANCE_REQUIRED) e não apareceu em busca ('site:madeditions.com' sem resultados da marca). As páginas oficiais da M.A.D.Editions dentro de mbandf.com/madeditions (abertas) dizem 'só existe uma página oficial no Instagram: M.A.D.Editions', mas o texto lido não traz o @ nem o logo; mbandf.com e The Hour Markers também sem o link. Observação: G = madeditions.com não aparece em nenhuma busca; as páginas oficiais encontradas ficam em mbandf.com/madeditions (a confirmar se o domínio próprio existe)."
+  },
+  "MadeWorn": {
+   "E": 8,
+   "F": 117645,
+   "G": "madeworn.com",
+   "H": "@madeworn",
+   "J": "Rolex Explorer gravado à mão (pulseira de couro) — Rolex customizado com gravação de gravadores de armas americanos; cerca de US$ 12.000\n\nRolex Datejust gravado com pulseira de pedras turquesa — customização sobre Rolex; cerca de US$ 16.000\n\nRolex Datejust II gravado (pulseira de aço) — cerca de US$ 24.000\n\nRolex Explorer gravado com DLC preto (pulseira de aço) — cerca de US$ 26.000",
+   "K": "https://madeworn.com/cdn/shop/files/logo_400x.png?v=1613692320",
+   "M": "G, H e K: do site oficial madeworn.com (logo do cabeçalho e link do Instagram no rodapé; o site hoje só vende roupas, sem relógios); G também citado na aBlogtoWatch. A MadeWorn não fabrica relógio próprio: customiza Rolex novos ou vintage com gravação à mão (aBlogtoWatch, matérias 'MadeWorn American hand-engraved Rolex' e review do Milgauss 116400 gravado, que cita o estúdio em West Hollywood). F: média de 6 preços listados na aBlogtoWatch (US$ 12.000, 16.000, 22.000, 24.000, 26.000, 28.000; 'a partir de US$ 10.000') = US$ 21.333 × 5,5146 = R$ 117.645 → E = 8. Preços antigos (matéria de cerca de 2015) e o valor inclui o Rolex de base. Endereço do showroom: 731 N. Fairfax Ave., Los Angeles (IADS). Fontes: madeworn.com, ablogtowatch.com (2 matérias), iads.org, thewebster.com. Site oficial direto (WebFetch sem busca) não abriu; aberto pelo link da busca."
+  },
+  "Mad Hudson Watches": {
+   "I": "A Mad Hudson Watches é uma marca de Chicago (EUA) que cria relógios em parceria com artistas, pensados mais como objetos de arte do que como acessórios ou relógios esportivos tradicionais. Foi fundada pelo designer Mad Hudson, que dá nome à marca, junto com Connor Hudson e Brad Podray.\n\nO primeiro lançamento foi o Broken Time; em 2025 a marca apresentou seus três primeiros modelos: Broken Time, CD Watch e Dogma. [⚠️ a confirmar: ano de 2025 e lista dos três primeiros modelos (só a matéria da noissue)]",
+   "M": "I: só 4 fontes achadas (menos que as 6 pedidas): fundadores Mad Hudson, Connor Hudson e Brad Podray (noissue 'Mad Hudson Watches x noissue'; metro-ruddy.vercel.app/brand/mad-hudson-watches); Chicago (metro-ruddy; garenhudson.pages.dev/madhudson, blog sobre Whatnot); parceria com artistas em cada modelo (as três); Broken Time como estreia (metro-ruddy) e três primeiros modelos em 2025 (só noissue → a confirmar). Também lido: garenhudson.pages.dev/madhudson/strategy (memorando interno; venda de 17 relógios numa live na Whatnot em março de 2026, preço médio US$ 95; não usado no texto). Procurou-se também por buscas 'site:madhudsonwatches.com', 'Mad Hudson watches founder Chicago', 'Brad Podray Mad Hudson' e 'Broken Time' — sem imprensa relojoeira. K não preenchido: site oficial madhudsonwatches.com bloqueado (PROVENANCE_REQUIRED) e nenhuma página do domínio apareceu em busca; shop.app deu erro. Possível ponto em J (fora de 'falta'): o texto do CD Watch está cortado ('Riki Prosp'); preços de J (~US$ 180–195) acima do preço médio de US$ 95 citado no memorando — só anotado."
+  },
+  "Maen": {
+   "H": "@maenwatches",
+   "K": "https://www.maenwatches.com/cdn/shop/files/logo_maen_white.png?v=1719315353&width=200",
+   "M": "H e K: do site oficial maenwatches.com, página 'about us' (aberta pelo link da busca 'site:maenwatches.com'; o acesso direto à página inicial foi bloqueado): logo do cabeçalho (versão branca) e link instagram.com/maenwatches. Cidade não aparece no site (não estava em falta)."
+  },
+  "Magellan": {
+   "D": "Relógios com cristal de safira em cúpula sobre mostrador hemisférico (mapa-múndi, Terra ou Lua), inspirados no navegador Fernão de Magalhães",
+   "E": 6,
+   "F": 45276,
+   "G": "magellan-watch.com",
+   "J": "Magellan 1521 NH — hemisfério norte com mapa-múndi sob cúpula de safira, 43,5 mm, automático de base ETA; cerca de US$ 5.600 em aço\n\nMagellan Earth — lançado em 2010, com foto da Terra no lugar do mapa e madrepérola negra\n\nMagelluna — Lua pintada à mão sob cúpula de safira, aço PVD preto, automático; CHF 9.180 (GPHG 2012)\n\n1521 Flowers — flores pintadas à mão (cerca de 80 horas por mostrador), aço PVD preto, automático",
+   "M": "Marca Magellan (Magellan Watch S.A.): fundada em 2000 por Everhard Vissers e comprada por Mario G. Nargi em 2010 (WorldTempus 'A dynamic awakening'; A Timely Perspective 2013; Master Horologer). D e J: WorldTempus, Master Horologer, A Timely Perspective, La Cote des Montres (Magelluna e 1521 Flowers), Europa Star (Magelluna 2012, 1521 Flowers), GPHG (Magelluna), aBlogtoWatch (review 1521). G: magellan-watch.com citado como site da marca por aBlogtoWatch, A Timely Perspective e Master Horologer; a Delray Watch diz que hoje a marca não mantém site nem varejo — o site pode estar fora do ar. F: preços de lançamento (marca aparentemente inativa): 1521 NH aço US$ 5.600 × 5,5146 = R$ 30.882 (aBlogtoWatch) e Magelluna CHF 9.180 × 6,5 = R$ 59.670 (GPHG 2012); média R$ 45.276 → E = 6 (A Timely Perspective cita faixa de US$ 6.000 a 30.000 em 2013). B e C não preenchidos: indícios de Suíça (empresa 'S.A.', A Timely Perspective chama de 'Swiss watches', preço do GPHG em CHF, calibre ETA), mas nenhuma fonte diz o país nem a cidade com clareza — Suíça a confirmar. H não achado (nenhuma fonte cita Instagram). K não preenchido: site oficial não alcançado. Atenção a homônimos: 'Magellan' também é coleção da Auguste Reymond, da Col&MacArthur e modelo da Nubeo — não confundidos."
+  },
+  "Magrette": {
+   "F": 4340,
+   "M": "F: média de 2 preços recentes de lançamento em US$ (Silodrome): Moana Pacific Professional Titanium 2025 US$ 848 e Moana Pacific Waterman GMT x RedBar NZ 2023 US$ 726 = US$ 787 × 5,5146 = R$ 4.340 (cabe em E = 2). Loja oficial magrette.com bloqueada (acesso direto PROVENANCE_REQUIRED; nenhuma página do domínio apareceu em busca), por isso usados preços da imprensa; Oracle of Time (2019) cita US$ 660 a 1.880 (moeda não confirmada, não usado). H não preenchido: newsletters da marca (milled.com) dizem que ela está no Instagram, mas só dão o Facebook @magrettewatches; nenhum link de Instagram confirmado — provável @magrettewatches, a confirmar. K não preenchido: site oficial não alcançado (Accessify cita só o nome de arquivo 'logo-white.svg', sem URL). Auckland confirmada por Oracle of Time, WatchReport e Accessify (já estava em C)."
+  },
+  "Maison Boanton": {
+   "I": "A Maison Boanton é uma marca francesa de relógios mecânicos fundada por Hassan Sefrioui, que trabalhou mais de dez anos nas Nações Unidas e em organismos internacionais antes de se dedicar à relojoaria. A proposta é reviver a herança relojoeira com desenhos inspirados nos movimentos estéticos do século XX, sobretudo o Art Déco.\n\nA primeira coleção foi a Ellipse (referência B2201), seguida pela Emblème; os modelos usam o calibre automático suíço La Joux-Perret G100, com 68 horas de reserva de marcha. [⚠️ a confirmar: lançamento em 2022; montagem à mão na França; participação de William Rigoulet (ex-chefe do estúdio de design de relógios da Cartier), Mikael Bourgeois e Matthieu Devernet; inspiração da Ellipse no primeiro relógio à prova d'água (c. 1926)]",
+   "M": "I: fundador Hassan Sefrioui e passagem de 10+ anos pela ONU (Prelaunch.com 'Maison Boanton – The Modern Heritage Watch'; Haute Lifestyle 'MrWatchMaster Meets… Hassan Sefrioui', 2025; Dialicious, página da marca e avaliação de dono); inspiração Art Déco/século XX (Dialicious; D da planilha); primeira coleção Ellipse B2201 (Haute Lifestyle; Prelaunch); Emblème (Dialicious marca e avaliação); calibre La Joux-Perret G100 de 68 h (Dialicious; Prelaunch). A confirmar (1 fonte só): 2022 e montagem na França (Dialicious); sócios Rigoulet/Bourgeois/Devernet e inspiração de 1926 (Prelaunch). Só 4 fontes achadas (Dialicious x2, Prelaunch, Haute Lifestyle); buscas por imprensa relojoeira e em francês não trouxeram outras. Site oficial maisonboanton.com bloqueado no acesso direto (PROVENANCE_REQUIRED) e 'site:maisonboanton.com' sem resultados. K não preenchido: site oficial não alcançado."
+  },
+  "Maitres du Temps": {
+   "C": "La Chaux-de-Fonds",
+   "F": 1542709,
+   "M": "C: La Chaux-de-Fonds (Wikipedia/Wikiwand 'Maitres du Temps', sede; watchmobile7.com, endereço Rue Daniel Jeanrichard 18). F: média dos preços de lançamento de 4 modelos: Chapter One US$ 400.000 (Luxuo), Chapter One Round Transparence US$ 540.000 (WatchTime), Chapter Two US$ 86.000 (Watch Collecting Lifestyle, 2013; Monochrome 2009 dava ~US$ 67.000), Chapter Three Reveal US$ 93.000 (MSRP, European Watch Co.; Deployant: CHF 98.000) = US$ 279.750 × 5,5146 = R$ 1.542.709. E=8 já existente não bate com F (faixa 10); não alterado. H a confirmar: @maitresdutemps (só watchmobile7.com). K não preenchido: site oficial maitresdutemps.com bloqueado no acesso direto e 'site:maitresdutemps.com' sem resultados. Obs.: Wikipedia diz fundada em 2005 por Steven Holtzman (Delray Watch também) e lançada em Genebra em 2008."
+  },
+  "Majestic Craftsmen": {
+   "M": "História não conferida: sem fontes. Única matéria achada (Master Horologer, 21/03/2026, 'Hands on Review: Majestic Craftsmen Monarch Bronze Devanagari') deu erro ao abrir; buscas por fundador, Índia/Bangalore e Instagram não trouxeram outras fontes. K não preenchido: site oficial majesticcraftsmen.com bloqueado no acesso direto e 'site:majesticcraftsmen.com' sem resultados. Obs.: 'Monarch Devanagari' também é nome de modelo da ANTRIAC (Pune) — conferir se J não mistura marcas."
+  },
+  "Makara Watches": {
+   "I": "A Makara é uma microbrand canadense de relógios de mergulho, ligada ao designer Nadim Elgarhy, de Montreal, que também criou as marcas Helgray e Rossling & Co. A Makara se dedica a mergulhadores robustos, em geral com caixa octogonal de bronze, feitos em séries muito limitadas e sempre com movimento automático.\n\nO primeiro modelo foi o Octopus, um mergulhador de bronze que esgotou na pré-venda. Em 2015 veio a série Sea Turtle (inclusive a Hawksbill), com caixa de bronze CuSn8, 300 m de resistência à água, safira abobadada e calibre Seiko NH35A, vendida por US$ 395. Em 2019 a marca lançou no Kickstarter o Sea Serpent, com calibre Miyota 82S0 e caixa de aço, aço com PVD preto ou bronze. [⚠️ a confirmar: Nadim Elgarhy como fundador (só entrevista da Worn & Wound, 2015); Octopus lançado em 2014 (The Time Bum; a Worn & Wound sugere fim de 2013)]",
+   "M": "I: 6 fontes: Worn & Wound, entrevista com Nadim Elgarhy (19/06/2015) — fundador, Montreal, Helgray/Rossling, bronze, séries limitadas, Octopus esgotado na pré-venda; Worn & Wound, review Sea Turtle (17/06/2015) — Octopus esgotado, Sea Turtle bronze CuSn8, 300 m, NH35A, US$ 395; The Time Bum (26/08/2015) — marca canadense, Octopus 2014, Sea Turtle 2015, NH35A, US$ 395; Massdrop (Sea Turtle, 2017, 42 peças) — caixa octogonal de bronze, 300 m; Cool Material (06/08/2019) e Trend Hunter (05/08/2019) — Sea Serpent no Kickstarter, Miyota 82S0, aço/PVD/bronze. A confirmar: fundador (1 fonte) e ano do Octopus. K não preenchido: site oficial makarawatches.com bloqueado no acesso direto e 'site:makarawatches.com' só trouxe sites de terceiros."
+  },
+  "Makina": {
+   "D": "Relógios de design angular e geométrico, em pequenas séries, com automáticos japoneses (Miyota) e suíços (Sellita).",
+   "E": 2,
+   "F": 4341,
+   "G": "makinawatches.com",
+   "H": "@makinawatches",
+   "J": "Mephisto III GMT — Miyota 9075, GMT de viagem, caixa de 38 mm; US$ 850\n\nAzazel — Sellita SW260-1, 40 mm, 200 m; US$ 900\n\nAndras_II — Sellita SW260-1, 33 mm, PVD preto; US$ 800\n\nUriel III — automático, 40 mm; US$ 599",
+   "M": "G: makinawatches.com (Monochrome, Time+Tide, Watch Report, Tatler Asia, Canvas Rebel). H: @makinawatches (entrevista do fundador Danilo Villanueva no Canvas Rebel, que lista os perfis da marca). D e J: Monochrome (Mephisto III GMT, Miyota 9075, US$ 850; Uriel 2017 com Miyota 821A), Watch Report (Azazel, SW260-1, US$ 900), Time+Tide (Andras_II, SW260-1, US$ 800), Oracle of Time (Uriel III, US$ 599). F: média de 4 modelos (599+850+800+900)/4 = US$ 787,25 × 5,5146 = R$ 4.341 → E = 2. C a confirmar: região de Manila (Manila Times: Quezon City; Oracle of Time: Manila) — fontes não coincidem na cidade. K não preenchido: site oficial bloqueado no acesso direto (PROVENANCE_REQUIRED). Obs.: fundada em 2017 por Danilo Villanueva (Tatler Asia; Canvas Rebel); Paris 2024 edição de 100 peças para o Comitê Olímpico das Filipinas."
+  },
+  "Makoto Watch Company": {
+   "B": "Canadá",
+   "F": 4147,
+   "G": "makotowatch.com",
+   "J": "Kodawari — mostrador de pedra natural (lápis-lazúli, malaquita, ágata vermelha, meteorito; 37 e 39 mm), Miyota 9015; cerca de US$ 766 / CAD 979\n\nShibuya Grade 5 Titanium — caixa de titânio de 39 mm, Miyota 9039, 200 m, 99 peças; cerca de 19.691 CZK\n\nHakusan e Hamana — mergulhadores de 40 mm, Miyota 9039, 200 m, 250 peças cada; cerca de 17.991 CZK\n\nMakoto x Ando x Vinyl Track Two — 41 mm, Miyota 9039, tema de disco de vinil, 30 peças; cerca de € 485",
+   "M": "B: Canadá (StrapsCo 'Worn & Tested Makoto Kodawari'; loja Ando 'microbrand from Canada'; Infinity Watches). G: makotowatch.com (StrapsCo, Ando e Oracle of Time setembro/2025). Fundador Ryan LeClair (The Coolector; Ando; Infinity Watches). C não gravado: a Infinity Watches diz London, Ontário, e a StrapsCo só diz Ontário (uma fonte para a cidade; a confirmar). F: média de 5 relógios: Kodawari US$ 766 × 5,5146 = R$ 4.224; Shibuya 19.691 CZK, Hakusan e Hamana 17.991 CZK × 0,2423 (Wise, 14/11/2026) = R$ 4.771, 4.359 e 4.359; Track Two € 485 × 6,2257 = R$ 3.019 → média R$ 4.147 (cabe em E = 2). J: StrapsCo, The Coolector, Oracle of Time, fichas da Infinity Watches e da Ando. H não achado: nenhuma busca trouxe o perfil e o site oficial não abriu. K não achado: makotowatch.com bloqueado (PROVENANCE_REQUIRED) e não apareceu em busca. Fontes abertas: prelaunch.com (sem dados), thecoolector.com, strapsco.com, infinitywatches.cz (4 fichas), andoandoando.com, oracleoftime.com, thecalibratedwrist.com (sem dados), wise.com."
+  },
+  "Makydo": {
+   "I": "Marca britânica de relógios com endereço em Londres, que se apresenta como criadora de “relógios de luxo acessível”, unindo artesanato, bons materiais e design moderno. A linha inclui modelos neo-vintage de 38 mm com Miyota 9015, cronógrafos de quartzo e mergulhadores de 42 mm; fundador e ano de fundação não foram encontrados em fonte pública. [⚠️ a confirmar: endereço e descrição vêm só do perfil da própria marca no Trustpilot (reivindicado em jun/2024)]",
+   "M": "I: marca pouco documentada; só 2 fontes achadas: perfil da empresa no Trustpilot (descrição escrita pela marca; endereço North Woolwich Road, Londres; e-mail info@makydo.com) e o manual do mergulhador de 42 mm no CDN da Shopify da marca (sem dados da empresa). Modelos citados batem com J/D já na planilha. Procurou-se: site:makydo.com, 'Makydo watch', 'Makydo watches London', 'makydowatches' — nenhuma matéria de imprensa, Kickstarter ou registro. Fundador e ano não achados. K não achado: makydo.com bloqueado no acesso direto (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca."
+  },
+  "MALM Watches": {
+   "I": "A MALM é uma marca sueca de relógios de piloto sediada em Linköping, cidade ligada à indústria aeronáutica do país; a empresa (MALM Watch Group AB) desenha, monta e faz a manutenção dos relógios em oficina própria na Suécia. Os modelos se inspiram em aviões históricos, como o Saab J29 Tunnan e o Saab 37 Viggen, e são desenvolvidos em parceria com a Força Aérea e a Marinha da Suécia.\n\nEntre os lançamentos estão o Air Wolf Viggen, feito com a 31ª divisão de manutenção de aeronaves da Força Aérea Sueca, com Sellita SW200-1 ou La Joux-Perret G100, e o Commander 42, criado com a Marinha Sueca pelos 500 anos da força e antes vendido só a militares. [⚠️ a confirmar: lançamento da marca em 2019 (Time+Tide; o cadastro da empresa indica 2016); a parceria do Viggen com a 31ª divisão e a origem do Commander nos 500 anos da Marinha têm uma fonte cada]",
+   "M": "I: Linköping (Time+Tide 20/02/2023; Watches of Scandinavia; cadastro MALM Watch Group AB no Funnelfeedr, Box 46, 581 02 Linköping). Desenho, montagem e manutenção próprios na Suécia (Watches of Scandinavia; Funnelfeedr; Carl Thompson 'assembled in Sweden'). Inspiração em aviões históricos (Watches of Scandinavia; Time+Tide; Carl Thompson cita o J29 Tunnan). Parceria com a Força Aérea (Time+Tide; Watchia) e com a Marinha (Time+Tide; Carl Thompson). Air Wolf Viggen e 31ª divisão (só Time+Tide); Commander pelos 500 anos da Marinha (só Carl Thompson, 08/2024). Ano de fundação divergente: 2019 (Time+Tide), 2016 (Funnelfeedr), 2014 (Aurifo) — fica 'a confirmar'. Descartado: texto da Aurifo (fundador 'Johan Malm', movimentos Miyota/Ronda), que não bate com as outras fontes. Fontes abertas: 8 (Time+Tide, Carl Thompson, Watches of Scandinavia, Funnelfeedr, Watchia, Aurifo, WatchCrunch (vazia), Watchbandit (sem a marca)); 5 úteis, abaixo do mínimo de 6 por falta de outras matérias. K não achado: malmwatches.com bloqueado no acesso direto (PROVENANCE_REQUIRED) e não apareceu em busca 'site:'."
+  },
+  "Mancheront": {
+   "B": "Austrália",
+   "C": "Sydney",
+   "D": "Microbrand de Sydney criada pelo arquiteto Dilon Wong, conhecida pelo Pacer, esportivo com escala de pulsômetro na luneta.",
+   "E": 2,
+   "F": 3581,
+   "G": "mancheront.com",
+   "J": "Pacer — esportivo de 39,5 mm com luneta-pulsômetro, indicadores de reserva de marcha e 24 h, Miyota 9132, 100 m (refs. 77000W, 77000CN, 77000AC); cerca de A$ 950",
+   "M": "B e C: Sydney, Austrália (Man of Many; Boss Hunting). Fundador Dilon Wong, arquiteto (Man of Many; Time+Tide; Boss Hunting); fundação em 2017 só no Man of Many. G: mancheront.com (link na Time+Tide e citado na Boss Hunting). D e J: Time+Tide (Micro Mondays e matéria hands-on: Miyota 9132, refs. 77000W/CN/AC, A$ 950), Man of Many (Miyota 9132; Kickstarter US$ 560 / A$ 770), Boss Hunting (39,5 mm, 100 m, luneta para medir pulso; montagem final na França; RRP A$ 1.280 em 2021). F: Pacer A$ 950 (preço atual citado pela Time+Tide) × 3,769 (Wise, 14/11/2026) = R$ 3.581 → E = 2 (só um modelo conhecido). H não achado: busca por Instagram não trouxe o perfil. K não achado: mancheront.com não apareceu em busca 'site:' e o Firecrawl estava sem créditos. thewatchpages.com deu erro."
+  },
+  "Manchester Watch Works": {
+   "F": 1726,
+   "J": "Iconik 3 — 42,5 mm, Seiko NE15 automático; cerca de US$ 460 (2017)\n\nVergennes — 40 mm de aço 316L, Miyota 8245 automático; a partir de US$ 189 (2015)\n\nTatoskok 5th Anniversary Diver — mergulhador de 45 mm, 300 m, Miyota 9015 (K) ou quartzo Ronda 715Li (Q); pré-venda US$ 290 / 230",
+   "M": "J e F: Wristwatch Review (Iconik 3, atualização de 24/04/2017; Vergennes, 21/09/2015; Tatoskok 5th Anniversary). F: média dos preços de lançamento (marca hoje intermitente, sem loja ativa alcançada): US$ 460, 189 e 290 (Tatoskok automático) = média US$ 313 × 5,5146 = R$ 1.726 (cabe em E = 2). Outras fontes: The Time Bum 10/07/2014 (Flagship, Miyota 9130, pré-venda US$ 290, Kickstarter cancelado; fundador Douglas Kim, nome vem da cidade natal em Vermont), Worn & Wound 30/08/2017 (P. marcidus Diver 'Blobfish'). H não achado: nenhuma busca e nenhuma matéria citam o perfil. K não achado: manchesterwatchworks.com bloqueado no acesso direto (PROVENANCE_REQUIRED) e não apareceu em busca 'site:'."
+  },
+  "Mandetbrot": {
+   "E": 2,
+   "F": 2667,
+   "G": "mandetbrote.com",
+   "J": "Secret Orbital (Orbital Automatic) — ponteiro de minutos em órbita, módulo próprio sobre Miyota 9015, caixa de aço 316L, edições limitadas em 15 cores; US$ 479\n\nOrbital Automatic Bronze Crush — versão em bronze do Orbital; US$ 549\n\nOrbital II — nova versão do Orbital, inscrita no GPHG 2026; preço não divulgado",
+   "M": "Nome real da marca nas fontes: 'Mandetbrote' (A não alterado; nenhuma outra marca com a grafia 'Mandetbrot' foi achada). Identidade confirmada: HKTDC Sourcing lista o fornecedor em Hong Kong (bate com B), e o fabricante fica em Shenzhen segundo a Watches.com. G: mandetbrote.com (link da Worn & Wound e da Oracle of Time; a Watches.com se diz revendedora oficial nos EUA). O site oficial não foi aberto (WebFetch pediu permissão). F: média de 15 modelos Orbital da Watches.com (14 × US$ 479 + 1 × US$ 549), o que dá US$ 483,67 × 5,5146 = R$ 2.667 → E = 2. GPHG.org: Orbital OR-01 a CHF 548. J: Watches.com, Worn & Wound, Oracle of Time, GPHG.org, HKTDC. C não preenchido porque as fontes divergem: Hong Kong (HKTDC) × Shenzhen (Watches.com). H não achado. K não preenchido: site oficial não alcançado."
+  },
+  "Manilone": {
+   "D": "Microbrand de relógios com mostrador de esmalte grand feu translúcido (fumé e guilloché) e movimento automático Miyota, lançados no Kickstarter",
+   "J": "S1 — mostrador de esmalte grand feu fumé (degradê do centro para a borda), Miyota 90S5, caixa de aço 316L de 38,5 mm, nas cores azul, verde, roxo e champanhe; preço não divulgado\n\nG2 — mostrador guilloché com esmalte grand feu translúcido (Kickstarter); preço não divulgado",
+   "M": "D e J: Worn & Wound (post patrocinado, 29/09/2025, S1) e Kicktraq (3 campanhas da MANILONE no Kickstarter: S1 fumé, G2 guilloché e 'Hand-Made Grand Feu Enamel-Dial Watch'). G a confirmar: manilone.com (só o link da Worn & Wound; o site não apareceu em busca). B, C, E, F, H, K não achados: as fontes não dizem país, cidade nem preço, e a página do Kickstarter não abriu (redirecionamento em loop no Kicktraq)."
+  },
+  "Manime": {
+   "D": "Microbrand de relógios automáticos com movimento Miyota, design esportivo-minimalista e bracelete integrado",
+   "E": 2,
+   "F": 3224,
+   "G": "manime-watches.com",
+   "J": "La Fidèle — esportivo de bracelete integrado, Miyota 9015, 38 mm, 200 m; € 550 (US$ 600)\n\nLa Méridienne — GMT verdadeiro, Miyota 9075, 38 mm, 100 m, bracelete integrado; € 650 sem impostos\n\nLa F. — Miyota 9039, 40 mm, pulseira de malha milanesa; US$ 399",
+   "M": "G: manime-watches.com (link da Worn & Wound, do The Calibrated Wrist e da Time+Tide). D e J: Worn & Wound (La Fidèle), Time+Tide (La F. e La Méridienne), The Calibrated Wrist (La F.), The Watch Gallery Paris (La Fidèle a € 550). F: média de 3 modelos, € 550 × 6,2257 + € 650 × 6,2257 + US$ 399 × 5,5146, dividida por 3 = R$ 3.224 → E = 2. C não preenchido: o fundador Edouard Paris é francês e mora na Tailândia (Worn & Wound; The Calibrated Wrist), e nenhuma fonte diz a cidade. Possível erro em B (França): a sede pode ser na Tailândia, a confirmar. H não achado. K não preenchido: site oficial não alcançado (não apareceu em busca)."
+  },
+  "MAN of the SEA Watch Co.": {
+   "I": "A MAN of the SEA Watch Co. é uma pequena marca americana de Venice, na Flórida, que faz relógios de temática náutica e pirata. O dono, Don Weismantel, usa a antiga técnica de fundição por cera perdida para fazer caixas de bronze sob medida. O modelo Smooth Seas, de bronze e com mostrador pintado à mão, usa o calibre suíço Sellita SW200-1. [⚠️ a confirmar: dono Don Weismantel, fundição por cera perdida e Venice (FL), cada um com uma só fonte aberta]",
+   "M": "I: marca pouco documentada; só 2 fontes foram achadas e abertas. JustLuxe dá o dono Don Weismantel, as caixas de bronze por cera perdida e o Smooth Seas com Sellita SW200-1. Z1biz dá o endereço 2389 E Venice Ave #137, Venice, FL. Onde se procurou: buscas por marca, fundador e 'site:manoftheseawatchco.com' (só resultados alheios). O site oficial não abriu (WebFetch pediu permissão). Ano de fundação não achado. K não preenchido: site oficial não alcançado."
+  },
+  "Manufacture Royale": {
+   "M": "H não achado: nenhuma busca trouxe o perfil oficial (Watchonista, Hourstriker, Wikipedia e Exquisite Timepieces não citam Instagram). K não preenchido: a página manufacture-royale.com abriu por busca, mas a leitura não devolveu a URL da imagem do logo (só o texto 'Logo Manufacture Royale'). A Wikipedia não abriu (pediu permissão)."
+  }
+ },
+ "base": "Relogios_atualizada_595.xlsx"
+}
