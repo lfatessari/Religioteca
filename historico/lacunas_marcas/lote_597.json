@@ -1,0 +1,308 @@
+{
+ "versao": 597,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Maranez",
+  "Marathon",
+  "Marburger",
+  "Marc & Darnò",
+  "Marc Ecko",
+  "Marcello C",
+  "Marchand Watch Company",
+  "March Hare",
+  "MARCH LA.B",
+  "Marcks & Co.",
+  "Marco Lang",
+  "MARC & SONS",
+  "Marcu Genève",
+  "Margi",
+  "Marin Instruments",
+  "Mark Carson",
+  "Mark Time Watches",
+  "Markwell",
+  "Marlin Diving Watches",
+  "Marloe",
+  "Marnaut",
+  "Martenero",
+  "Martin Braun",
+  "Marvin",
+  "MAS",
+  "Masahiro Kikuno",
+  "Maserati",
+  "Mason Watch Collection",
+  "Massena Lab",
+  "MAT",
+  "Mater Made",
+  "Mathey-Tissot",
+  "Matterhorn Watch Co.",
+  "Matthew Mercury Watches",
+  "Mauboussin",
+  "Maughan Jones",
+  "Maurice Blum",
+  "Maurice de Mauriac",
+  "Maurice Lacroix",
+  "Mauron Musy",
+  "Maven",
+  "Max Twelve",
+  "Maystone",
+  "Mazzucato",
+  "Mb&f",
+  "McDowell Time",
+  "McQuaide Watches",
+  "MCT",
+  "MD Watches",
+  "Meccaniche Veloci"
+ ],
+ "celulas": {
+  "Maranez": {
+   "I": "A Maranez é uma pequena marca independente de relógios da Tailândia, conhecida por relógios de mergulho de visual retrô com caixa de latão. Já estava à venda no início de 2013, quando a imprensa especializada a apresentava como marca nova, com os modelos Layan e Racha; seus modelos levam nomes de lugares da Tailândia — o Layan, por exemplo, homenageia a praia de Layan, em Phuket.\n\nDepois vieram outras linhas, como Kata e Samui, que hoje aparecem na loja do site oficial. O site não informa fundador, ano de fundação nem endereço. [⚠️ a confirmar: fundador, ano exato de fundação e a cidade (Phuket é suposição de um blog; um envio saiu de um escritório em Hong Kong)]",
+   "M": "I: história nova com 7 fontes abertas — site oficial maranez.com (loja com Kata, Layan e Samui; sem página 'sobre', fundador ou endereço); WatchReport perfil da marca (2016: 'baseada na Tailândia', acabamento em latão); Worn & Wound tag Maranez (Layan Hands-On 22/02/2013, caixa de latão, e Racha Review 27/03/2013); WristWatchReview Racha (mar/2013: 'marca nova, da Tailândia'); WristReview (marca independente da Tailândia, modelos com nomes de lugares tailandeses, Layan = praia de Layan em Phuket, caixa de latão); Eastern Watch blog (abr/2014: Bangla e Racha em aço, latão e titânio; supõe Phuket pelos nomes, mas o envio veio de escritório em Hong Kong); WatchReport Samui Diver (out/2021: marca 'desde 2013, acho'). Fundador e ano de fundação não achados. Obs.: C (Phuket) já preenchido não foi confirmado por nenhuma fonte (só suposição do Eastern Watch). H não achado: o site oficial (Wix) não tem link de Instagram no HTML e as buscas 'Maranez watch instagram' e 'site:instagram.com maranez' não trouxeram perfil. K não preenchido: o HTML do cabeçalho (lido pelo Firecrawl) não tem imagem de logo, só fundo, foto e ícones genéricos do Wix."
+  },
+  "Marathon": {
+   "C": "Richmond Hill",
+   "F": 13239,
+   "H": "@marathonwatch",
+   "K": "https://www.marathonwatch.com/cdn/shop/files/M-Wordmark-OffWhite_1331e12d-0a1d-4853-97f7-ec4f38c81b42.png?crop=center&height=78&v=1666271583&width=350",
+   "M": "C: Richmond Hill, Ontário (Canadian Jewish News: 'the company is based in Richmond Hill'; Officer.com: 10-30 Mural St., Richmond Hill, ON). O site oficial só diz 'sede no Canadá' e montagem em La Chaux-de-Fonds (Suíça). H: link do Instagram no site oficial marathonwatch.com (instagram.com/marathonwatch). K: logo do cabeçalho do site oficial (Firecrawl branding, alt 'Marathon Watch'; wordmark claro, off-white). F: média de 17 relógios com preço na página inicial da loja oficial (US$ 495 a 5.900, preços em promoção, incluindo versões com pulseira de aço) = US$ 40.811 / 17 = US$ 2.400,65 × 5,5146 = R$ 13.239. E=3 já preenchido não bate com F (seria faixa 4: 10.001–20.000); E não alterado."
+  },
+  "Marburger": {
+   "M": "Nada gravado: não se achou marca de RELÓGIOS chamada Marburger. Buscas: 'Marburger Uhren watch brand', '\"Marburger\" watch automatic wristwatch brand', 'Marburger Uhr Armbanduhr Hersteller Marke', '\"Marburger\" watches instagram/kickstarter' e Firecrawl search. O único resultado é a Marburger Lederwaren (Marburg, Alemanha; site marburger.de), que faz pulseiras de relógio e cintos ('Uhrenarmbänder von Marburger seit 1945 – made in Germany', Amazon.de) e é revendedora/serviço de Hamilton e Tissot — não fabricante de relógios. Se a linha da planilha se refere a ela, os dados seriam: Alemanha, Marburg, marburger.de (a confirmar pelo usuário; não gravado por risco de homônimo)."
+  },
+  "Marc & Darnò": {
+   "C": "Asti",
+   "G": "marcdarno.com",
+   "M": "C: Asti, Piemonte (AHCI, ficha de Marco Guarino: Frazione Revignano 105, 14100 Asti; L'Orologio/orologioblog: laboratório de Guarino em Asti, 'giovane brand piemontese'). G: marcdarno.com (link na ficha da AHCI; o site abre e é o da marca, 'Marc&Darno | Luxury Astronomical Watch'). K não preenchido: o logo do cabeçalho é um SVG embutido na página (Wix), sem arquivo de imagem. Fundadores: Marco Guarino e Dario Nocentini (orologioblog); Guarino nasceu em Chieri (Monochrome). Possíveis erros em células já preenchidas (não alterados): H está '@marcanddarno', mas o rodapé do site oficial e a Monochrome dão @marcdarno_official; D ('relógios de design e couros artesanais') e J não batem com a marca, que faz relógios artesanais com complicações astronômicas (fases da lua, equação lunar, hora mundial) em poucas dezenas de peças por ano."
+  },
+  "Marc Ecko": {
+   "G": "marceckotime.com",
+   "K": "https://www.marceckotime.com/img/marceckotime.png",
+   "M": "G: marceckotime.com — site oficial dos relógios citado pela Europa Star (jun/2010, 'Marc Ecko put the rhino in focus'); o site ainda abre, com título 'Marc Ecko - Timex', mas está parado (rodapé '©2013 Marc Ecko Watches', campanha de 2012). A Europa Star também noticia que a Timex Group comprou a marca registrada Marc Ecko para relógios. K: imagem do logo do cabeçalho desse site (marceckotime.png, link 'Marceckotime' no topo; lida pelo Firecrawl). H não achado: não há Instagram próprio da linha de relógios; o único perfil é o pessoal de Marc Ecko (@beingmarcecko), que não foi usado."
+  },
+  "Marcello C": {
+   "C": "Würselen",
+   "G": "marcelloc.de",
+   "K": "https://marcelloc.de/bundles/marcelloc/assets/img/logo_marcelloc_weiss.png?1793954695",
+   "M": "G: marcelloc.de (WatchTime.net, especial 'Deutsche Uhrenmarken', 11/10/2024, cita www.marcelloc.de; site aberto pelo Firecrawl: loja 'MARCELLO C Uhren', e-mail mail@marcelloc.de). C: Würselen, perto de Aachen (WatchTime 2024: 'Luciastraße 19, 52146 Würselen', fundação 1993, dono Marcell Kainz; wiki.grail-watch.com com o mesmo endereço). K: logo do cabeçalho do site oficial (logo_marcelloc_weiss.png, versão branca, via Firecrawl branding). A conferir (não alterado): o site oficial liga o Instagram @marcelloc_uhren, e não @marcelloc_watches como está em H; em J, 'Contatempo' e 'Pilota' não aparecem entre as linhas do site (Diavolo, Hydrox, Kainz, Klassik, Marine, Nettuno, Pegasus, Scala, Senatore, Tridente, Marc 1)."
+  },
+  "Marchand Watch Company": {
+   "H": "@marchandwatchco",
+   "K": "https://marchandwatches.com/cdn/shop/t/18/assets/logo.png?v=1532",
+   "I": "A Marchand Watch Company é uma marca britânica de relógios de inspiração automobilística, sediada em Cambridge (Inglaterra) e estabelecida em 2015, segundo o site oficial. Foi criada por Daniel (Dan) Brigham, que competiu e trabalhou no automobilismo na juventude; o nome homenageia seu bisavô, o relojoeiro e inventor suíço Adamir Marchand, que trabalhou para a Benrus.\n\nO primeiro relógio da marca foi o Debonair, financiado por uma campanha no Kickstarter; depois veio o Legacy, também lançado pelo Kickstarter, por volta de 2018. Hoje o catálogo traz as coleções Driver e Esses GT.",
+   "M": "H: Instagram do rodapé do site oficial (instagram.com/marchandwatchco). K: logo do cabeçalho do site oficial (logo.png do tema, alt 'Marchand Watch Company', via Firecrawl branding; a leitura simples do WebFetch mostrou o nome em texto). I (8 fontes): 'Established 2015', Cambridge e coleções Driver/Esses GT (site oficial, página inicial); Daniel, passado no automobilismo e bisavô Adamir Marchand na Benrus (site oficial, About Us; Wristwatch Review UK 'Marchand Legacy review'; Wristwatch Review 'Marchand watches and racin', 2016); sobrenome Brigham (Wristwatch Review 2016 e 2018; Supercars.net 01/10/2017; Sportscardigest 2017); Debonair como primeiro relógio e Kickstarter (Wristwatch Review 2016; Supercars.net; Sportscardigest); Legacy pelo Kickstarter (Wristwatch Review 'Motorin with the Marchand Legacy', atualizado 29/05/2018; Wristwatch Review UK). Retirado por ter só 1 fonte: calibre do Legacy (Miyota 9015) e residência do fundador na Nova Zelândia."
+  },
+  "March Hare": {
+   "H": "@marchharewatches",
+   "K": "https://marchharewatches.com/cdn/shop/files/March_Hare_Wordmark.svg?v=1786667018",
+   "I": "A March Hare é uma marca norte-americana de relógios femininos fundada em 2021 por Mabel, que dirige a empresa em Nova York ao lado da irmã Hattie, que vive em Portland. Segundo o site oficial, Mabel criou a marca depois de perder um relógio vintage que ganhara da mãe e não encontrar um substituto delicado, clássico e acessível.\n\nOs relógios são desenhados em Nova York, usam movimentos de quartzo suíços Ronda e são montados em Hong Kong por um parceiro de produção; os pedidos saem do Brooklyn. A marca MARCH HARE, registrada nos EUA para relógios femininos, pertence à Mabel Watch Company LLC, que pediu o registro em setembro de 2020 e declarou o primeiro uso comercial em 2021.",
+   "M": "H: Instagram do rodapé do site oficial (também na Thingtesting). K: wordmark SVG do cabeçalho do site oficial. I (8 fontes): fundação 2021 por Mabel, Nova York, irmã Hattie em Portland, desenho em NY, Ronda, montagem em Hong Kong e envio do Brooklyn (site oficial, FAQ); origem da marca e a irmã (site oficial, About); 'March Hare is 5!' em 2026 (site oficial, página inicial e Contact); Kimsey com quartzo suíço Ronda, US$ 389 (site oficial, ficha do Kimsey); registro de marca nº 90181263 da Mabel Watch Company LLC, pedido em 15/09/2020, primeiro uso 24/09/2021 (Justia Trademarks, via Firecrawl); Thingtesting e Shop.app (só confirmam a marca e os modelos Kimsey/Harriet). Pouca imprensa sobre a marca: nenhuma matéria de revista relojoeira achada."
+  },
+  "MARCH LA.B": {
+   "K": "https://march-lab.com/cdn/shop/files/Logo_3-removebg-preview.png?v=1681469069",
+   "M": "K: logo do cabeçalho do site oficial march-lab.com (Logo_3-removebg-preview.png, alt 'MARCH LA.B', via Firecrawl branding; o logo horizontal completo do og:image é https://march-lab.com/cdn/shop/files/LOGO_HORIZONTAL_DEFINITIF.png). A conferir (não alterado): G 'marchlab.com' está errado — o domínio está à venda na HugeDomains; o site oficial é march-lab.com (resultado de busca e site aberto, que diz 'marca francesa fundada em 2009, entre Biarritz e Los Angeles'). O site oficial liga o Instagram @march_lab, e não @marchlab como está em H."
+  },
+  "Marcks & Co.": {
+   "H": "@marcksandco",
+   "K": "https://www.marcksandco.in/cdn/shop/files/Transperant-White.png?v=1744682442",
+   "I": "A Marcks & Co. original (C. Marcks & Co.) foi uma casa de Bombaim e Poona, na Índia britânica, que importava relógios suíços de luxo e encomendava peças de alta complicação — repetições, calendários perpétuos, cronógrafos e sonneries — para a realeza e a aristocracia indianas. Seu principal fornecedor de movimentos foi Henri Grandjean, de Le Locle; por volta de 1900, um relógio de bolso de grande complicação feito por Grandjean para a Marcks foi vendido ao sexto Nizam de Hyderabad, Mahbub Ali Khan. Peças da casa aparecem hoje em leilões como Antiquorum e Phillips.\n\nO nome foi revivido por Arjun Ravi Shankar e Bhavish Malkani, amigos desde a escola, que decidiram relançar a marca em 2022. A coleção inaugural, lançada em 2025, tem três modelos — The Nizam, The Raja e The Captain — com movimento automático suíço Sellita SW260-1.",
+   "M": "H: Instagram do rodapé do site oficial. K: logo do cabeçalho do site oficial (Transperant-White.png, versão branca). I (7 fontes): Bombaim e Poona, importação de relógios suíços para a realeza, Grandjean e o relógio do 6º Nizam (site oficial, About; Antiquorum lote 107, 13/11/2005: Henry Grandjean para 'Marcks & Co. Ltd., Bombay & Poona', c. 1900, vendido ao Nizam Mahbub Ali Khan; Phillips Hong Kong, 24/05/2024, lote 1048, e Phillips detalhe 202805: 'C. Marcks & Co., Bombay & Poona', principal importador de Bombaim, Grandjean principal fornecedor); fundadores, decisão de 2022 e coleção de 2025 (site oficial, About e página inicial); Sellita SW260-1 (ficha The Nizam no metro-ruddy.vercel.app; Shop.app 'The Captain', US$ 1.200, Sellita suíço). Divergência: o site oficial diz que o relógio do Nizam e a corrente foram vendidos na Antiquorum por CHF 1.271.250, mas o catálogo da Antiquorum mostra o lote 107 vendido por CHF 115.000 (pode ser outro lote) — valor deixado fora do texto. Ano de fundação da casa original não achado. A conferir (não alterado): B/C dizem USA/Raleigh, mas o site é .in e não traz endereço; o site fala em ampliar a fabricação na Índia."
+  },
+  "Marco Lang": {
+   "K": "https://www.marcolangwatches.com/wp-content/uploads/2019/12/MarcoLang_Logo_Footer.png",
+   "M": "K: logo do site oficial marcolangwatches.com (arquivo 'MarcoLang_Logo_Footer.png', indicado como logo, alt 'Marco Lang Watches', pela leitura de identidade visual do Firecrawl; no topo da página aparece também a assinatura USchri-Marco-1.png). Ponto a conferir em G: o domínio marcolang.com está à venda (página da Atom, aberta pelo WebFetch com erro e pelo Firecrawl); o site real da marca é marcolangwatches.com (página de Marco Lang no site da AHCI e o próprio site, título 'Marco Lang watches Dresden, Germany'). G não alterado (fora da lista). Fontes: marcolang.com (Firecrawl), marcolangwatches.com (Firecrawl), ahci.ch."
+  },
+  "MARC & SONS": {
+   "H": "@marcandsons",
+   "I": "A MARC & SONS foi fundada em 2006 por Marco Heimrich, que conta ter se apaixonado pela mecânica ainda menino, por causa do relógio de bolso de ouro do avô, que morreu cedo e deixou a peça como lembrança.\n\nA empresa, registrada como Handelsagentur Marco Heimrich, fica em Altdorf, na Alemanha, e vende pela própria loja on-line relógios de mergulho, cronógrafos e modelos esportivos automáticos com máquinas suíças, apresentados como 'Made in Germany'. Hoje Heimrich trabalha com uma equipe que inclui relojoeiros experientes e fotógrafos.",
+   "K": "https://marcandsons.de/cdn/shop/files/Logo_WS_1.jpg?v=1686934941&width=572",
+   "M": "H: @marcandsons (perfil 'MARC & SONS (@marcandsons)', bio 'Exclusive Timepieces - Made in Germany', link para marcandsons.de; aberto pelo Firecrawl; o site não tem link de Instagram). K: logo do cabeçalho do site oficial marcandsons.de. I: fundação em 2006, fundador Marco Heimrich, história do relógio do avô e equipe (site oficial, página Über Uns); razão social e Altdorf (Impressum do site oficial: Handelsagentur Marco Heimrich, Ganslberg 13, 84032 Altdorf); máquinas suíças e 'Made in Germany' (página inicial do site oficial). 7 fontes abertas: marcandsons.de (início, contato, Über Uns, Impressum), Instagram @marcandsons, timeshop4you.co.uk (página da marca), watchreport.com (resenha de 2016, sem dados de história). Ponto a conferir: a timeshop4you diz Altdorf perto de Nuremberg, mas o CEP 84032 do Impressum parece ser de Altdorf perto de Landshut (Baviera); C não alterado. Imprensa relojoeira sem matéria sobre a história da marca."
+  },
+  "Marcu Genève": {
+   "E": 9,
+   "F": 383500,
+   "I": "A MARCU é uma marca independente de Genebra criada pelo relojoeiro Jérôme Marcu, que cresceu entre autômatos e instrumentos musicais mecânicos assinados com o nome da família; a frase 'réglé comme du papier à musique', gravada na ponte do relógio, lembra essa origem.\n\nO primeiro modelo, o INITIAL, é uma série limitada de 33 peças em titânio (3 versões de 11), com o calibre de corda manual JM01 (18.000 alternâncias por hora e 50 horas de reserva), feito quase todo à mão no ateliê de Genebra, com a colaboração do relojoeiro independente Eric-Jean Weber no movimento. Foi apresentado em 2026, por CHF 59.000 sem impostos. Antes da marca, Marcu trabalhou desde os anos 1980 para Vacheron Constantin, Patek Philippe, Roth & Genta e Bovet, e desde 2016 mantém ateliê próprio, onde faz manutenção e protótipos para outras marcas. [⚠️ a confirmar: ano de lançamento (2026), preço, carreira nas casas citadas e ateliê desde 2016 — só na Monochrome]",
+   "K": "https://marcu-geneve.ch/themes/marcu/img/logo-marcu.svg",
+   "M": "K: logo do cabeçalho do site oficial marcu-geneve.ch (o cabeçalho tem dois SVG: m.svg, o monograma, e logo-marcu.svg, o nome; usado o do nome). F: preço do INITIAL, único modelo, CHF 59.000 sem impostos (Monochrome, review de set/2026 e guia de compras 2026) × 6,5 = R$ 383.500 → E = 9. I: autômatos e instrumentos da família, Genebra, 33 peças em 3 versões de 11, calibre JM01, colaboração de Eric-Jean Weber (site oficial, página inicial e página do INITIAL; Monochrome confirma família, 33 peças e JM01); lançamento em 2026, preço, carreira (Vacheron Constantin, Patek Philippe, Roth & Genta, Bovet) e ateliê próprio desde 2016 só na Monochrome (fonte única, marcado 'a confirmar'). Marca nova e pouco documentada: 4 páginas abertas (marcu-geneve.ch início e montre-initial; monochrome-watches.com review e guia de compras); buscas na Fratello, SJX e outras sem resultado; o site oficial não dá o ano de fundação."
+  },
+  "Margi": {
+   "C": "Empoli",
+   "G": "margi.it",
+   "K": "https://www.margi.it/wp-content/uploads/2023/11/Margi-logo.png",
+   "M": "G: margi.it (busca do Firecrawl e o próprio site: 'MARGI orologi al tuo polso dal 1964', marca criada em 1964 por Mario Giunti). C: Empoli (rodapé do site oficial: Margi srl, Via Russo Luigi 10, 50053 Empoli (FI), P.IVA 06329480484). K: logo do cabeçalho do site oficial (Firecrawl). Ponto a conferir em H: o Instagram que o site oficial liga é @margi_orologi (perfil 'Margi srl', confirmado pelo Firecrawl); a conta @margiwatches da planilha não foi encontrada. H não alterado (fora da lista). Fontes: margi.it (Firecrawl e WebFetch), Instagram @margi_orologi, resultados de busca (Chrono24, montre24, oiritaly)."
+  },
+  "Marin Instruments": {
+   "B": "USA",
+   "G": "marininstruments.com",
+   "K": "https://images.squarespace-cdn.com/content/v1/5e82ce5c0e98612fa278187e/1fc517ee-1204-4507-96f5-4b12dc7bad64/MARIN+LOGO.jpg?format=1500w",
+   "M": "G: marininstruments.com (site aberto, liga o Instagram @marininstruments; também citado por Time+Tide e Worn & Wound). K: logo do cabeçalho do site oficial (Squarespace). B: USA (Time+Tide: o fundador Justin Walters vive no Novo México; Hodinkee Japão: ele trabalha no Laboratório Nacional de Los Alamos, do Departamento de Energia dos EUA). C não achado: o site oficial (início, Our Story, contato) não dá endereço; as matérias citam só o estado (Novo México), sem cidade. Fontes: marininstruments.com (início, ourstory, contact-1), timeandtidewatches.com, wornandwound.com, revolutionwatch.com, hodinkee.jp, Instagram (Firecrawl)."
+  },
+  "Mark Carson": {
+   "G": "markcarson.com",
+   "K": "https://markcarson.com/wp-content/uploads/2023/12/cropped-Mark-Carson-Honu-Header-2022.png",
+   "M": "G: markcarson.com, link oficial citado na resenha do aBlogtoWatch (27/12/2022, Kailua) e confirmado ao abrir o site (Mark Carson, 'designed and assembled in Honolulu, Hawaii, USA', © 2026). K: logo do cabeçalho do site oficial. H não achado: o site oficial não liga Instagram (conferido página inicial e links pelo Firecrawl) e 3 buscas (site:instagram.com, '@markcarson', 'Kailua instagram') não trouxeram perfil da marca. Obs.: o site diz Honolulu (C está 'Havaí'; não alterado). Fontes: markcarson.com; ablogtowatch.com (Kailua 2022; Octagon 2017)."
+  },
+  "Mark Time Watches": {
+   "I": "A Mark Time foi fundada em 2021 por Mark Register, natural de Filadélfia, onde fica a sede. Antes de criar a marca ele ajudava startups a construir suas marcas com conteúdo; começou restaurando relógios das décadas de 1920 a 1950 e, em vez de cursar relojoaria, passou a desenhar os próprios modelos.\n\nOs relógios são fabricados numa fábrica com certificação TÜV Rheinland em Guangzhou (China), têm 2 anos de garantia e são regulados nos EUA pela Baltimore Watch Company para ±10 segundos. O primeiro modelo, o M 1, levava o logo atravessando o mostrador; o M 1.2 adotou uma marca mais discreta. [⚠️ a confirmar: primeiro modelo M 1 e mudança no M 1.2 (só The Time Bum, ago/2024)]",
+   "K": "https://marktimewatches.com/cdn/shop/files/Asset_26_3x_3e692092-17c1-49d2-aa58-4c9610911f42.png?v=1703268827&width=900",
+   "M": "K: logo do cabeçalho do site oficial marktimewatches.com. I (marca pouco documentada; 4 fontes abertas, abaixo do mínimo de 6): fundação 2021, fundador Mark Register, sede em Filadélfia, trajetória (startups, restauração de relógios de 1920–1950), fabricação em Guangzhou (TÜV Rheinland), garantia de 2 anos e regulagem pela Baltimore Watch Company (site oficial, página About Us); ano 2021 reforçado pelo pedido de marca 'MARK TIME' para relógios no USPTO em 27/09/2021 (Justia, nº 97046629); M 1 com logo no mostrador e M 1.2 mais discreto (The Time Bum, 20/08/2024; aparece com ficha do M 1 no agregador metro-ruddy.vercel.app). Procurado também em buscas por imprensa, entrevistas e registro da empresa, sem mais resultados. Divergência: The Time Bum (2024) diz que a marca era da região norte da Virgínia e que a montagem/regulagem era feita pela Maryland Watch Works (Hagerstown, MD); o site oficial hoje diz sede em Filadélfia e regulagem pela Baltimore Watch Company — no texto ficou a versão do site oficial (C não alterado). H não achado: o site oficial não liga Instagram (conferido rodapé pelo WebFetch e todos os links pelo Firecrawl) e 2 buscas não trouxeram perfil."
+  },
+  "Markwell": {
+   "B": "USA",
+   "C": "South Salt Lake (Utah)",
+   "G": "markwellwatches.com",
+   "K": "https://www.markwellwatches.com/cdn/shop/files/markwell-transp-logo-final.png?v=1731976614&width=500",
+   "M": "G: markwellwatches.com (link da Watch Clicker e da Primer Peak; confirmado ao abrir o site). B e C: endereço no site oficial: 2212 S West Temple, STE 48, So. Salt Lake, UT 84115 (EUA). K: logo do cabeçalho do site oficial. Possível erro em H (não alterado): o rodapé do site oficial liga instagram.com/markwellwatches (@markwellwatches), não @markwellwatch. Nota: Primer Peak diz que a marca é de John e Allen e foi lançada em 2023. Fontes: markwellwatches.com; watchclicker.com (Datematic); primerpeak.com (Hard Candy Enamel 2025)."
+  },
+  "Marlin Diving Watches": {
+   "I": "A Marlinwatch foi criada em 2020 no Reino Unido, em Cambridge, como um negócio paralelo durante o lockdown, depois que o fundador testou o mercado importando e revendendo outras marcas, como Steeldive e Pagani. O primeiro modelo, o Mk1, com movimento automático NH35, foi bancado com £30.000 do próprio bolso, sem financiamento coletivo, e esgotou em cerca de 18 meses; o Mk2 veio em seguida.\n\nModelos posteriores, como o Mk6 e o Mk7, passaram a usar quartzo e embalagem mais simples para baixar o preço. A empresa, a Marlinwatch Ltd., tem endereço em Offord Darcy, St Neots (Cambridgeshire), e a marca patrocina a seleção inglesa de pesca oceânica (big game fishing). [⚠️ a confirmar: nome do fundador — o site cita Paul Harris como contato da Marlinwatch Ltd., sem chamá-lo de fundador]",
+   "K": "https://static.wixstatic.com/media/96680b_db292bb86935457a9a4295e17325e66f~mv2.jpg/v1/fill/w_1281,h_377,al_c,q_85,enc_avif,quality_auto/96680b_db292bb86935457a9a4295e17325e66f~mv2.jpg",
+   "M": "K: imagem do cabeçalho do site oficial marlinwatch.co.uk (site em Wix; apontada como logo pelo Firecrawl/branding e pelo WebFetch, alt 'IMG_5766_edited.jpg'; conferir visualmente). I (marca pouco documentada; só o site oficial trouxe a história): fundação em 2020 no Reino Unido, 'founded in Cambridge', patrocínio da seleção inglesa de big game fishing e endereço em Offord Darcy, St Neots (página inicial); início no lockdown, revenda de Steeldive/Pagani, Mk1 NH35 com £30.000 próprios, esgotado em ~18 meses, Mk2, Mk6/Mk7 em quartzo (página 'My Story' /about). Procurado em imprensa relojoeira, fóruns e buscas por modelo (Mk8, Mk9) sem nenhuma matéria independente. A confirmar: existe na Companies House a MARLINWATCH LIMITED (nº 11629492, ativa, aberta em 18/10/2018, sede registrada em Bristol, comércio varejista) — a data é anterior à fundação de 2020 dita no site e não foi possível confirmar que é a mesma empresa; não entrou no texto. Obs.: o site hoje anuncia o Mk10 cronógrafo (6 cores, 50 de cada) e mergulhadores a partir de £395."
+  },
+  "Marloe": {
+   "K": "https://www.marloewatchcompany.com/cdn/shop/files/2025_MarloeEST2025_BLACK_240x.png?v=1760346699",
+   "M": "K: logo do cabeçalho do site oficial marloewatchcompany.com (versão preta; há também a branca 2025_MarloeEST2025_WHITE_240x.png). Possível erro em H (não alterado): o rodapé do site oficial liga instagram.com/marloewatchco (@marloewatchco), não @marloewatchcompany."
+  },
+  "Marnaut": {
+   "C": "Sutivan",
+   "K": "https://images.squarespace-cdn.com/content/v1/62ff7c7fc4a8cd60bc975961/1660910793616-O1MDWIKJFAZM3ADJCCS5/Marnaut+png.png?format=1500w",
+   "M": "C: Sutivan, ilha de Brač (endereço da empresa no rodapé do site oficial marnaut.com: Tri Bure d.o.o, Sunčana Ulica 7, 21403 Sutivan, Croácia; Croatia Week confirma que o fundador Mario Jutronić mora em Sutivan). Escritório/showroom em Supetar, também em Brač (Time+Tide; Croatia Week). K: logo do cabeçalho do site oficial marnaut.com. Possível erro em B (não alterado): o site oficial, Worn & Wound ('Croatia is home to a brand new company called Marnaut'), Time+Tide e Croatia Week indicam Croácia, não Eslovênia. Croatia Week: marca criada em 2018 por Mario Jutronić quando morava em Hong Kong."
+  },
+  "Martenero": {
+   "M": "K não preenchido: o domínio martenero.com (coluna G) hoje é um site de cassino online (título 'Best Real Money Online Casino in Canada', visto pelo WebFetch e pelo Firecrawl em 14/11/2026); o logo dali não é da marca. Possível erro em G (não alterado): o domínio parece ter sido perdido pela marca; nenhum site novo da Martenero apareceu na busca (só matérias antigas de Worn & Wound, Hypebeast 2014, Dappered 2014). A confirmar se a marca ainda está ativa."
+  },
+  "Martin Braun": {
+   "M": "C não gravado (só 1 fonte): a FHS (Federação da Indústria Relojoeira Suíça, 25/04/2007) diz que a marca foi criada em Straubenhardt (Alemanha); a JCK (2007) só diz 'perto de Pforzheim' — a confirmar: Straubenhardt. Ambas dizem que depois a marca passou a ficar em Porrentruy (Suíça); em 2007 o grupo Franck Muller comprou 52% (JCK; FHS). Em 2009 Martin Braun fundou a MHO AG em Alpnach (Suíça), para a marca Antoine Martin (Europa Star 2011). G e H não achados: nenhum site oficial ou Instagram da Martin Braun apareceu nas buscas (só revendedores, leilões, Europa Star, WatchTime, Watchprozine, grail-watch); a marca parece inativa. K não preenchido: sem site oficial."
+  },
+  "Marvin": {
+   "K": "https://www.marvinwatches.com/images/logo.png",
+   "M": "K: logo do cabeçalho do site oficial marvinwatches.com (WebFetch bloqueado por robots; aberto pelo Firecrawl, 1 crédito)."
+  },
+  "MAS": {
+   "G": "maswatch.com",
+   "K": "https://images.cdn-files-a.com/uploads/1779075/400_5c382be80c715.jpg",
+   "M": "G: maswatch.com, link oficial na página Kickstarter da marca (kickstarter.com/projects/maswatches) e site confirmado (Firecrawl): 'Matthew & Son (MAS) Watches', fundada em 2019 por Matt Francis e o filho Tate em Brisbane; rodapé liga instagram.com/maswatches (bate com H). K: logo do cabeçalho do site oficial (alt 'MATTHEW AND SON WATCHES'). Possíveis erros (não alterados): D diz 'Marine Automatic Sports', mas MAS = 'Matthew and Son' (site oficial; Time+Tide); C está genérico ('Austrália') — site oficial e Kickstarter indicam Brisbane. J genérico: modelos Irukandji (mergulho), Arcticus (campo), JCB (social), Aquila (piloto)."
+  },
+  "Masahiro Kikuno": {
+   "G": "masahirokikuno.jp",
+   "M": "G: masahirokikuno.jp (página inicial 'Homepage of Masahiro Kikuno Handmade Watches' aberta; o mesmo endereço é o site oficial indicado na Wikipedia en). K não preenchido: o cabeçalho do site (Jimdo) é uma imagem-faixa (header.jpg), não um logo. Obs.: o site diz que as encomendas estão suspensas e só devem reabrir em 2032 ou depois."
+  },
+  "Maserati": {
+   "K": "https://www.maserati.com/etc.clientlibs/maserati/clientlibs/clientlib-vendorRedesign/resources/img/trident_mobile_white.svg",
+   "M": "K: logo do cabeçalho do site oficial maserati.com (tridente, arquivo SVG branco; lido pelo Firecrawl)."
+  },
+  "Mason Watch Collection": {
+   "E": 1,
+   "F": 942,
+   "I": "A Mason Watch Collection é a linha de relógios da Mason Sales, empresa fundada em 2019 em San Diego (Califórnia) por Mike Mason, que tem mais de 40 anos no ramo de relógios e joias e foi vice-presidente da Wittnauer Watch Company. A proposta declarada é oferecer relógios de boa qualidade a preço acessível.\n\nSegundo o site da marca, os relógios são vendidos em mais de 400 pontos de venda nos Estados Unidos; o catálogo tem modelos de quartzo e automáticos (muitos com mostrador esqueleto), cronógrafos e relógios de bolso.",
+   "M": "F: média de 28 relógios masculinos 'Mason Sales' na loja jewelryshopping.com (pág. 1 de 2), preço atual: 5 × US$ 151,13 + 1 × 165 + 22 × 175,50 = US$ 170,77 × 5,5146 = R$ 942 → E = 1 (pelo preço cheio, US$ 193,93 = R$ 1.069, seria E = 2). H não achado: o rodapé do site liga só às contas padrão da Wix (instagram.com/wix), e as buscas no Instagram não trouxeram perfil da marca. K não preenchido: o site (Wix) não tem logo no cabeçalho; a única imagem do topo é um desenho ('Cartoon Mike.png'). I: fundação em 2019, San Diego, Mike Mason ex-VP da Wittnauer, 40 anos de ramo e missão (site oficial: página inicial, the-collection e contact-us, mesmo texto; endereço 9450 Mira Mesa Blvd, Suite C-125); 400+ pontos de venda (página inicial do site oficial); tipos de relógio (site oficial: 25 modelos MAS, com automáticos e de bolso; jewelryshopping.com: quartzo japonês e automático, 38 a 46 mm). Fontes: 4 páginas do site oficial + 2 da jewelryshopping.com. Marca pouco documentada: buscas na imprensa (Worn & Wound, Fratello), BBB San Diego e Instagram não trouxeram nada sobre ela (os resultados eram da homônima Jack Mason, de Houston, que não é esta marca)."
+  },
+  "Massena Lab": {
+   "K": "https://massenalab.com/cdn/shop/files/MASSENA-LAB-LOGO-smaller_1_3319aead-fba7-467c-aca4-4eaaf96d72dc.png?v=1683042507&width=600",
+   "M": "K: logo do cabeçalho do site oficial massenalab.com (lido pelo Firecrawl, link para a página inicial, alt 'Massena LAB')."
+  },
+  "MAT": {
+   "C": "Paris",
+   "K": "https://www.merairterre.com/cdn/shop/files/Matwatches_Black_png.png?v=1681117566&width=600",
+   "M": "C: Paris (site oficial, páginas Mentions légales e Coordonnées: MAT Watches SARL, 18 rue Vignon, 75009 Paris; showroom parisiense na Madeleine). K: logo do cabeçalho do site oficial (lido pelo Firecrawl). Obs.: matwatches.com redireciona para merairterre.com (site oficial atual); G continua como está."
+  },
+  "Mater Made": {
+   "H": "@mater_made",
+   "K": "https://matermade.com/cdn/shop/files/7_T_header_b7947832-6963-4f73-aaf7-14cc6ac6d584.png?v=1728931690&width=400",
+   "I": "A Mater Made é uma marca americana de relógios criada por Hayden Mater, que deu à marca o próprio sobrenome. Segundo a marca, Hayden se interessou cedo por relógios pela utilidade que tinham numa vida ativa e desenhou e desenvolveu os modelos com a meta de um relógio para o dia a dia, feito para durar além das modas.\n\nO modelo principal é o The Don, relógio de mergulho automático com movimento Miyota 9015, vendido a US$ 625 nas cores Ultramarine Blue, Classic White e Asphalt Black, apresentado na imprensa a partir de fevereiro de 2025. Fora dos relógios, Hayden Mater trabalha no comércio de madeira como trader de commodities. [⚠️ a confirmar: profissão do fundador (só a Brainz Magazine) e sede em Richmond, Virgínia (só o The Time Bum)]",
+   "M": "H e K: do site oficial matermade.com (link do Instagram no rodapé; logo do cabeçalho). I: fundador Hayden Mater e nome vindo do sobrenome (site oficial, página About Us; Brainz Magazine, entrevista de 13/03/2025 e artigo de 04/09/2025); The Don com Miyota 9015, US$ 625 e as 3 cores (Worn & Wound, Quick Release patrocinado de 04/02/2025; The Time Bum, 28/02/2026). Fontes abertas: 6 páginas (site oficial início e About Us, Worn & Wound, The Time Bum, Brainz Magazine ×2) em 4 sites; não há mais imprensa sobre a marca. Ano de fundação não achado (nenhuma fonte informa). Ainda a verificar: C diz Los Angeles, mas o The Time Bum (02/2026) diz que a Mater Made é uma empresa de Richmond, Virgínia, e a Brainz liga o fundador a uma empresa de Richmond; o site oficial não dá cidade (só 'American based'). F (3025) parece alto: o The Don custa US$ 625 (≈ R$ 3.447) e J fala em cerca de US$ 550."
+  },
+  "Mathey-Tissot": {
+   "K": "https://matheytissot.com/cdn/shop/files/LOGo-mt.png?v=1685711560&width=600",
+   "M": "K: logo do cabeçalho do site oficial matheytissot.com (arquivo LOGo-mt.png, alt 'Mathey Tissot Logo'; lido pelo Firecrawl branding, o mesmo arquivo é o og:image do site)."
+  },
+  "Matterhorn Watch Co.": {
+   "H": "@matterhornwatchco",
+   "K": "https://static.wixstatic.com/media/aa388b_5119aa2654f54f73a17dfa602de25b7d~mv2.png/v1/crop/x_0,y_315,w_1438,h_762/fill/w_152,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MatterHorn%20Watch%20Co%20(4).png",
+   "I": "A Matterhorn Watch Co. é uma marca britânica de relógios de ferramenta fundada em Londres em novembro de 2019 por um entusiasta de relógios chamado Taahir, que decidiu construir o próprio relógio e transformá-lo em marca, com a proposta de relógios de boa qualidade a preço acessível. O nome e a inspiração vêm do monte Matterhorn e dos alpinistas britânicos: a equipe de Edward Whymper foi a primeira a chegar ao cume, em 14 de julho de 1865.\n\nO primeiro modelo foi o DiveMaster 300, relógio de mergulho lançado por campanha no Kickstarter; o protótipo usava o Seiko NH35 e a versão de produção passou ao automático Miyota 9015. Os relógios são testados e passam pelo controle de qualidade em Londres e têm garantia de 2 anos. [⚠️ a confirmar: data da campanha no Kickstarter (prevista para abril de 2020 pelo Wristwatch Review e anunciada para 15/04/2021 pelo The Time Bum)]",
+   "M": "H e K: do site oficial matterhornwatchco.com (Instagram no rodapé, também citado no The Time Bum 10/04/2021; logo do cabeçalho). I: fundação em Londres em novembro de 2019, nome/inspiração no Matterhorn e Whymper (1865), proposta, controle de qualidade em Londres e garantia de 2 anos (site oficial, início e About Us); fundador Taahir (About Us; The Time Bum 10/04/2021); DiveMaster 300 no Kickstarter, protótipo NH35 → Miyota 9015 (Wristwatch Review UK, atualizado em 20/03/2020; The Time Bum 10/04 e 15/04/2021). Fontes abertas: 5 páginas em 3 sites (site oficial ×2, Wristwatch Review UK, The Time Bum ×2); a página do Kickstarter não apareceu nas buscas e não há mais imprensa sobre a marca. Sobrenome do fundador não achado."
+  },
+  "Matthew Mercury Watches": {
+   "H": "@matthewmercury",
+   "K": "https://matthew-mercury.com/cdn/shop/files/Group_2.png?v=1617969140",
+   "I": "A Matthew Mercury é uma microempresa americana de relógios, registrada como Mercury Watch Corporation, com endereço em Wilmington, Delaware. Segundo a própria marca, o nome homenageia Matthew, avô do fundador e veterano da Primeira Guerra Mundial, que depois da guerra montava relógios com movimentos suíços em sua oficina em Mercury, cidadezinha francesa perto da Suíça, até fechá-la com a Segunda Guerra Mundial.\n\nA marca aparece na imprensa desde o fim de 2021 e usa só movimentos suíços: quartzo Ronda (como o cronógrafo Ronda 3540.D da linha Dan W Anniversary) e automáticos Sellita. Entre os mais vendidos estão o Dan W e o Shades of Blue.",
+   "M": "H e K: do site oficial matthew-mercury.com (Instagram no rodapé, também citado pela Flaunt e pela Fashion Week Daily; logo do cabeçalho Group_2.png). I: empresa americana Mercury Watch Corporation em Wilmington, DE (site oficial, contato e rodapé; Trustpilot, país EUA; Oracle of Time, 'American microbrand'); história do avô Matthew e da oficina em Mercury (site oficial, Our Story; repetida pela Oracle of Time 23/06/2026, patrocinada); só movimentos suíços, Ronda 3540.D e Sellita (site oficial; Oracle of Time; Fashion Week Daily 16/12/2021; Haute Living 11/01/2022); Dan W e Shades of Blue entre os mais vendidos (Haute Living 2022; Oracle of Time 28/09/2026 cita o Dan W Anniversary). Fontes abertas: 9 páginas em 6 sites (site oficial ×2, Haute Living, Fashion Week Daily, Flaunt, Oracle of Time ×2, Trustpilot); quase toda a imprensa é conteúdo patrocinado. Ano de fundação e nome do fundador não achados (nenhuma fonte informa). Ainda a verificar: J termina cortado ('Dan Red All Stars (conjunto')."
+  },
+  "Mauboussin": {
+   "K": "https://mauboussin.com/logo_mauboussin.png",
+   "M": "K: logo do cabeçalho do site oficial mauboussin.com (logo_mauboussin.png, alt 'Logo MAUBOUSSIN'; confirmado pela WebFetch e pelo Firecrawl branding)."
+  },
+  "Maughan Jones": {
+   "H": "@maughanjones",
+   "I": "A Maughan Jones é uma marca de relógios do Reino Unido que se apresenta como \"luxo acessível\" para o uso diário e vende pela internet, com envio para todo o mundo. Entre os modelos citados no perfil oficial e nas avaliações de clientes estão as linhas Spectra, Spectra Pro, Luminex e Apex. A página da empresa no Trustpilot diz que os relógios são desenhados em Londres e aponta Ben Maughan e Sam Jones como fundadores. [⚠️ a confirmar: desenho em Londres e fundadores (só a página da empresa no Trustpilot; clientes no Loox citam \"Ben e Sam\"); ano de fundação não achado]",
+   "M": "H: @maughanjones (perfil 'Maughan Jones', bio '🇬🇧 UK based. Free Worldwide Shipping.', liga para www.maughanjones.com e mostra a Spectra Pro; aberto pelo Firecrawl). I: só 3 fontes achadas (Instagram oficial; página da empresa no Trustpilot ca.trustpilot.com/review/www.maughanjones.com; avaliações no Loox loox.io/s/loDzmepSzD). Procurado também: site oficial (WebFetch bloqueado por robots; Firecrawl com erro de certificado; www sem DNS), imprensa relojoeira (nada; buscas trazem só a Mr Jones Watches, outra marca), Companies House (uk.globaldatabase.com: 'Maughan Jones Ltd' nº 10253307, 2016, Leeds, inativa, diretor Ben Maughan Jones — não dá para ligar com certeza à marca, não usado). K não preenchido: site oficial não abriu. Observação: o Trustpilot dá o endereço 29 Stodman Street, Newark (NG24 1AW), não Londres (C já preenchido, só anotado)."
+  },
+  "Maurice Blum": {
+   "M": "C e G não achados com certeza: o Instagram @mauriceblum (bio 'The unique components of the classic swiss watches in modern form | since 1901 |') liga para mauriceblum.com.ua, mas esse domínio não resolve (fora do ar) e não aparece em busca; G fica vazio (fonte única e site fora do ar). K não preenchido: sem site oficial acessível. A conferir: o domínio ucraniano (.com.ua) e a frase 'classic swiss watches' sugerem que B 'Alemanha' pode estar errado (não alterado). Única outra fonte achada: anúncio EBTH de um Maurice Blum automático com fases da lua, sem origem. Buscas no Google por site, cidade e Instagram só trouxeram Maurice Lacroix."
+  },
+  "Maurice de Mauriac": {
+   "K": "https://mdm-uhren.ch/images/logo/logo-desktop.png",
+   "M": "K: logo do cabeçalho do site oficial (mdm-uhren.ch; o arquivo aparece no cabeçalho via _next/image?url=/images/logo/logo-desktop.png; conferido pelo Firecrawl: image/png, 200). Observação: o domínio da coluna G, mauricedemauriac.ch, redireciona (302) para mdm-uhren.ch; o site liga ao Instagram instagram.com/mauricedemauriac (bate com H) e diz 'Uhren Made by Zurich… seit 1997'."
+  },
+  "Maurice Lacroix": {
+   "K": "https://www.mauricelacroix.com/on/demandware.static/Sites-mla_nAmerica-Site/-/default/dwa938ceb9/images/logo.svg",
+   "M": "K: logo do cabeçalho do site oficial mauricelacroix.com (logo.svg, alt 'Maurice Lacroix'; lido pelo Firecrawl, formato branding, porque a WebFetch foi bloqueada por robots)."
+  },
+  "Mauron Musy": {
+   "K": "https://www.mauronmusy.com/img/logo@2x.png",
+   "M": "K: logo do cabeçalho do site oficial mauronmusy.com (img/logo@2x.png, alt 'Mauron Musy'; WebFetch direto no site oficial)."
+  },
+  "Maven": {
+   "K": "https://mavenwatches.com/cdn/shop/files/MAVENlogo_60x.png?v=1623384709",
+   "M": "K: logo do cabeçalho do site oficial mavenwatches.com (WebFetch direto, 14/11/2026). O Instagram ligado no site confere com H (@mavenwatches)."
+  },
+  "Max Twelve": {
+   "H": "@max_twelve_watches",
+   "I": "A Max Twelve é uma marca suíça independente criada pelo engenheiro mecânico Fabian Lehner, formado pela ETH Zurique, que quis levar a mentalidade da engenharia de precisão suíça para a relojoaria. Segundo a marca, a história começou em 2020, em Zurique; o primeiro relógio foi apresentado na feira de design BLICKFANG Zürich em 2022 e, em 2023, Lehner deixou a carreira corporativa para se dedicar só à marca. A empresa Max Twelve GmbH foi constituída em fevereiro de 2024, com sede em Uitikon (cantão de Zurique), onde fica o ateliê que faz acabamento, montagem, regulagem e testes.\n\nCaixas e mostradores são produzidos no cantão de Zurique. Os relógios usam caixa de aço presa por parafusos Torx, mostradores de titânio cortados a laser e anodizados e, nos esqueletizados, calibres Sellita. Entre os modelos estão o Skeleton, o Hexagon (luneta de doze facetas) e o Astronaut, feito em parceria com o artista suíço Max Grüter.",
+   "K": "https://max-twelve.com/cdn/shop/files/Max_Twelve_White.png?v=1787334554&width=2399",
+   "M": "H e K: do site oficial max-twelve.com (link do Instagram no site; logo do cabeçalho, versão branca). I (9 fontes): fundador Fabian Lehner, engenheiro da ETH, início em 2020, estreia na BLICKFANG Zürich 2022, dedicação integral em 2023 e GmbH em fev/2024 (site oficial, página About); sede e ateliê em Lättenstrasse 38, Uitikon, e Lehner como sócio-gerente (página Contact do site e registro comercial onlineinfo.ch, UID CHE-441.419.255); engenheiro mecânico, parafusos Torx e mostrador de titânio cortado a laser (Büro Züri/ZKB, entrevista com o fundador; página Hexagon story do site; Eventfrog, evento na Thryve Concept Store, Zurique, mai/2025); Sellita esqueletizado e parceria Astronaut com Max Grüter (página Skeleton story e página Media do site; Weltwoche, 26/06/2024, 'Vom Astronauten zum Uhrmacher'). Pelo Firecrawl: Büro Züri e Weltwoche. Nota: C = Uitikon confere com o endereço oficial."
+  },
+  "Maystone": {
+   "B": "Reino Unido",
+   "G": "maystonewatches.com",
+   "K": "https://www.maystonewatches.com/cdn/shop/files/Maystone.png?v=1754738985&width=2280",
+   "M": "G: maystonewatches.com, site oficial (empresa Maystone Watches Limited; link também no anúncio do WatchPatrol). K: logo do cabeçalho do site oficial (Firecrawl, branding). B: Reino Unido pelo site oficial (fundador Gregory Mayo começou na britânica Geckota; posts sobre eventos no Reino Unido) e pela página do Kickstarter/BackerKit ('British watch designer'). C não achado: o site só traz e-mail; há parceria com o Padel Club Cheltenham e o fundador trabalhou na Geckota, mas a cidade da empresa não está escrita em nenhuma fonte (Cheltenham a confirmar; busca no Companies House sem resultado). Ainda a verificar: J está genérico ('Coleções de design contemporâneo'); os modelos reais são Prosperity GMT (Seiko NH34, pré-venda US$ 499, edição Golden Eagle de 100 peças; 1º modelo, Kickstarter 2024 com £ 33.689) e Skybreaker Chronograph (Kickstarter 2026). D genérico: a marca se define por relógios inspirados em aves de rapina."
+  },
+  "Mazzucato": {
+   "H": "@mazzucatowatches",
+   "I": "A Mazzucato é a marca do designer industrial italiano Simone Mazzucato, nascido em Milão e criado junto à oficina de prataria da família. Antes da marca própria, ele trabalhou com a Locman Italy, ajudando a renovar o estilo da marca no início dos anos 2000, e fundou a Mazzucato Design, estúdio internacional de design de relógios em Hong Kong, do qual é diretor de arte.\n\nO primeiro relógio com seu nome foi o RIM (sigla de Reverse Industrial Movement), mostrado pela imprensa especializada em 2018: a caixa vira dentro da armação e mostra de um lado um mostrador só de horas, com movimento automático japonês e desenho de roda de carro, e do outro um cronógrafo a quartzo. Com o lema \"Never Boring\", a linha cresceu com as famílias RIM Sport, RIM Scuba, RIM Monza, RIM GT e RIM Sub, além da edição limitada LAX. Segundo o BIG SEE, o RIM Sport recebeu o prêmio EPDA em 2018 e o RIM Scuba, o EPDA Gold em 2019 e o BIG SEE Product Design Award em 2020. [⚠️ a confirmar: prêmios EPDA 2018/2019 e BIG SEE 2020, citados só em bigsee.eu]",
+   "K": "https://www.mazzucatowatches.com/cdn/shop/files/logo-white.png?v=1637329732&width=120",
+   "M": "H e K: do site oficial mazzucatowatches.com (link do Instagram; logo do cabeçalho, versão branca). I (7 fontes): Milão, oficina de prataria da família, Locman no início dos anos 2000, Mazzucato Design em Hong Kong e lema Never Boring (site oficial, páginas Simone Mazzucato e The Brand; loja VMF.az repete o texto); estúdio Mazzucato Design Ltd. em Hong Kong (bigsee.eu); RIM = Reverse Industrial Movement, primeiro modelo, automático de um lado e cronógrafo quartzo do outro (aBlogtoWatch, c. 2018; site oficial The Brand); RIM na imprensa em 2018 (aBlogtoWatch; Watches.com, 12/10/2018); famílias atuais (site oficial). A confirmar: prêmios EPDA e BIG SEE (só bigsee.eu); ano de fundação da marca não achado (bigsee.eu diz que a Mazzucato Design produz relógios desde 2014, fonte única, não usado)."
+  },
+  "Mb&f": {
+   "K": "https://www.mbandf.com/_assets/a3470e7762ccdbc65e051a134197e51b/Images/Logos/logo-mbandf-white.svg",
+   "M": "K: logo do cabeçalho do site oficial mbandf.com (Firecrawl, branding; arquivo SVG em versão branca, para fundo escuro). O WebFetch direto no site não trouxe o HTML do logo."
+  },
+  "McDowell Time": {
+   "H": "@mcdowelltime",
+   "K": "https://www.mcdowelltime.com/cdn/shop/files/New_Logo_Example_5_720x.jpg?v=1613759055",
+   "I": "A McDowell Time é uma marca familiar americana de Rockville, em Maryland, criada por Bill McDowell, que monta seus relógios nos Estados Unidos. O primeiro modelo, o DelRay, foi lançado no Kickstarter em 2016: caixa de aço de 44 mm, cristal de safira e movimento auto-quartzo Seiko YT57 (um rotor carrega o capacitor que alimenta o quartzo), com preço de US$ 250 na campanha.\n\nPouco depois veio o Maxton, e a coleção cresceu com Tidewater, Maxton V2 e Rockville. O Rockville, automático, é montado pela Maryland Watch Works, oficina em Hagerstown (Maryland) que a marca apresenta como o primeiro relógio saído dessa nova instalação.",
+   "M": "H e K: do site oficial mcdowelltime.com (Instagram do rodapé; logo do cabeçalho, arquivo jpg). I: 9 fontes abertas. Marca familiar, Rockville (MD), montagem nos EUA, DelRay no Kickstarter em 2016, Maxton depois, modelos Tidewater/Maxton V2/Rockville (site oficial, páginas inicial e About Us). Bill McDowell (The Time Bum, entrevista e matéria do Rockville; aBlogtoWatch 2016 cita 'Bill', criador do DelRay). DelRay 44 mm, Seiko YT57, safira (aBlogtoWatch 06/05/2016; WristWatchReview 26/04/2016; WatchReport 26/01/2017); US$ 250 na campanha (aBlogtoWatch; WristWatchReview). Rockville montado pela Maryland Watch Works em Hagerstown (página Maryland Watch Works do site oficial; The Time Bum 07/07/2021). Fora do texto por ter 1 fonte só: Maxton no Kickstarter em 03/2018 e fracasso do Sonoma no Kickstarter em 2017 (The Time Bum); Rockville de 2021 com calibre MWW 7081 (The Time Bum). Observação: J parece cortado no fim ('Ro…', provavelmente Rockville)."
+  },
+  "McQuaide Watches": {
+   "H": "@mcquaide_watches",
+   "K": "https://mcquaide.co.uk/cdn/shop/files/MQ_Wht.png?v=1738061519&width=600",
+   "I": "A McQuaide é uma marca britânica dedicada a relógios em aço damasco, criada por Rob McQuaide. Segundo o site oficial, tudo começou numa noite de fevereiro de 2023, quando ele montou um kit de relógio que ganhou no aniversário de 30 anos; depois passou meses pesquisando o aço damasco com fornecedores da Suíça e do Extremo Oriente.\n\nO primeiro modelo, o Q1 (Crimson, Abyss e Obsidian), saiu numa campanha no Kickstarter em outubro de 2024, com caixa de aço damasco de 43,2 mm, 100 ATM e movimento automático suíço Sellita SW200-1. Os relógios são montados no Reino Unido pela oficina Horologium, em Berkshire. O Q1 esgotou em 2025 e voltou em 2026; no fim de 2025 veio, também pelo Kickstarter, a linha C1 Cosmopolitan, mais social e igualmente em aço damasco. Em 2026 a marca foi finalista na categoria British Brand do WatchPro UK Awards.",
+   "M": "H: Instagram do rodapé do site oficial mcquaide.co.uk. K: logo do cabeçalho (versão branca, png) obtido pelo Firecrawl (branding) no site oficial; a leitura normal não mostrava a imagem. I: 9 fontes abertas. Rob McQuaide, início em 02/2023 com kit dos 30 anos, pesquisa do aço damasco, montagem pela Horologium, Q1 esgotado em 2025 e de volta em 2026, finalista WatchPro UK Awards 2026 (site oficial, About). Kickstarter do Q1 em 10/2024 (WatchPro 05/03/2025 e 13/08/2025; Chronohunter 13/05/2026). 43,2 mm e 100 ATM (WatchPro 03/2025; The Coolector 05/11/2025). Sellita SW200-1 (WatchPro 03/2025; Oracle of Time 23/09/2025; The Coolector). Horologium em Berkshire (Oracle of Time; Chronohunter). C1 no Kickstarter no fim de 2025 (The Coolector, campanha a partir de 08/11/2025; WatchGecko 14/11/2025). Divergência: WatchPro diz fundação em 2024, Chronohunter e WatchGecko dizem 2023; o texto usa o relato do site oficial (início em 2023). Fora do texto (1 fonte só): caixa de 39 mm do C1 (Chronohunter). Observações sobre colunas já preenchidas: D não cita o aço damasco, que é a marca registrada da marca; C 'Reading' não confirmado (fontes dizem só Berkshire, onde fica a oficina Horologium)."
+  },
+  "MCT": {
+   "G": "mctwatches.com",
+   "H": "@mctwatches",
+   "K": "https://www.mctwatches.com/sites/default/files/MCT-Logo.png",
+   "M": "G: mctwatches.com, site com título 'MCT - Manufacture Contemporaine du Temps', coleções S100, S110, S200, S210, S220, D110 e F110 e texto sobre a fundação em 2007 por Denis Giguet (resultado de busca; página 'our purpose' aberta pela WebFetch e página inicial pelo Firecrawl). H: link instagram.com/mctwatches no rodapé do site oficial. K: logo do cabeçalho (Firecrawl branding). Observação: o site parece pouco atualizado (Drupal 7, últimos posts do Instagram mostrados na página são de 2018–2019)."
+  },
+  "MD Watches": {
+   "M": "B, C, G e K não gravados por dúvida de marca homônima. O Instagram já na planilha (@mdwatches) é de 'MDCollections', perfil parado com 21 seguidores e só 3 posts de 15/12/2013 (aberto pelo Firecrawl), sem ligação achada com marca ativa. A única marca de relógios atual chamada 'MD Watches' que se achou é a MD Watches Studio (Martin Design), fundada em 2017 por Martin Iglódy, natural de Košice (Eslováquia), com estúdio em Cork, Irlanda (site oficial, página About; Oracle of Time 'Connemara' diz 'MD Watches are based in Cork'; WatchBandit; Dialicious). Se for essa a marca da linha, os dados seriam: B Irlanda; C Cork; G martindesignwatches.com; H @martindwatches (rodapé do site oficial, NÃO @mdwatches); K https://www.martindesignwatches.com/cdn/shop/files/Artboard_7_1600x.png?v=1725907398 (logo do cabeçalho, Firecrawl branding). Preços na WatchBandit: Supernatural € 459–479, Emerald Isle € 539. A confirmar: se a linha 'MD Watches' é a MD Watches Studio; nesse caso H também deveria mudar."
+  },
+  "Meccaniche Veloci": {
+   "K": "https://www.meccanicheveloci.com/templates/yootheme/cache/logo-meccaniche-veloci-geneve-dbb1f1fd.png",
+   "M": "K: logo do cabeçalho do site oficial meccanicheveloci.com (WebFetch direto); o mesmo rodapé confirma @meccanicheveloci. Observação (não alterado): o arquivo do logo se chama 'logo-meccaniche-veloci-geneve', o que sugere ligação com Genebra; C diz Milão. A confirmar."
+  }
+ },
+ "base": "Relogios_atualizada_596.xlsx"
+}
