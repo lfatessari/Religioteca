@@ -1,0 +1,304 @@
+{
+ "versao": 613,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Vortic Watch Company",
+  "Vostok",
+  "Vostra",
+  "Voutilainen",
+  "VPC Watch",
+  "Vratislavia Conceptum",
+  "Vulcain",
+  "Vultura",
+  "Wakmann",
+  "Waktu Horology",
+  "Waldan Watches",
+  "Waldhoff",
+  "Waldor & Co.",
+  "Waltham Watch Company",
+  "Wancher",
+  "Warrior King Watches",
+  "Watch Angels",
+  "Watchdives",
+  "Watchly",
+  "Wayforth",
+  "Weiss Watch Company",
+  "Welder",
+  "Wellograph",
+  "Welsbro",
+  "Wempe",
+  "Wenger",
+  "Werenbach",
+  "Wessex Watches",
+  "WeWood",
+  "Whitby Watch Co.",
+  "Wicked Watch Co",
+  "Wilbur",
+  "Wild Horologists & Team",
+  "Wilk Watchworks",
+  "William Wood",
+  "Winfield",
+  "WISE",
+  "Wittnauer",
+  "WM",
+  "WMT Watches",
+  "Wolbrook Watches",
+  "WOLF",
+  "Wolf Creek Watch Co",
+  "Wolfpoint",
+  "Wolkov",
+  "Worden Watch Studio",
+  "WQT",
+  "Wren",
+  "Wristbuddys",
+  "Wrist Hardware"
+ ],
+ "celulas": {
+  "Vortic Watch Company": {
+   "K": "https://vorticwatches.com/cdn/shop/files/2017-08_vortic-logo-optimized_ae059f1c-3ce5-4f57-b4d0-16d04e5057e9_100x100@2x.png?v=1613737851",
+   "M": "K: logo do cabeçalho do site oficial vorticwatches.com (aberto direto em 14/11/2026). O rodapé liga instagram.com/vorticwatches, que bate com H."
+  },
+  "Vostok": {
+   "M": "K não preenchido: o site oficial vostok-inc.com (e www.vostok-inc.com) recusou a leitura (robots_disallowed) e a busca site:vostok-inc.com não trouxe nenhuma página do site; Firecrawl sem créditos. Logo a buscar numa próxima rodada."
+  },
+  "Vostra": {
+   "G": "vostradesigns.com",
+   "K": "https://vostradesigns.com/cdn/shop/files/vostra.png?v=1791582709&width=3000",
+   "M": "G: vostradesigns.com, site oficial (aberto direto; também citado como site da marca por Time+Tide e The Time Bum; Kickstarter 'vostradesigns'). K: logo do cabeçalho do site oficial. B e C não preenchidos (a confirmar): o site oficial (início, about-us, contact) não dá endereço; a marca é dos fundadores da RZE (about-us oficial; Time+Tide; Oracle of Time) e a HiConsumption diz que a RZE é de Singapura, mas nenhuma fonte diz onde fica a própria Vostra. Possível erro em H (não alterado): o rodapé do site oficial liga instagram.com/vostradesigns, não @vostrawatches; o e-mail de contato é hello@vostrawatches.com. Nota: 'Vostra' é italiano para 'sua' (about-us oficial); modelo conhecido: Vector, cronógrafo meca-quartz, US$ 279 (Kickstarter US$ 199) (Time+Tide)."
+  },
+  "Voutilainen": {
+   "K": "https://www.voutilainen.ch/wp-content/uploads/2025/07/footer_logo.svg",
+   "M": "K: logo oficial em SVG do site voutilainen.ch (aberto direto em 14/11/2026); a leitura mostrou o cabeçalho só com o nome em texto/link, então foi usado o arquivo do logo do rodapé do mesmo site (conferir se preferir só logo de cabeçalho). O rodapé liga instagram.com/voutilainenwatches, que bate com H."
+  },
+  "VPC Watch": {
+   "H": "@vpc_watch_co",
+   "I": "A VPC é uma marca holandesa de relógios fundada em 2023 por Thomas van Straaten, que antes trabalhou como comerciante de relógios vintage na Amsterdam Watch Company e escreve para a revista Fratello. O nome é a sigla da expressão latina Venustas Per Constantiam, traduzida pela marca e pela imprensa como \"beleza pela contenção\".\n\nO primeiro modelo, o Type 37HW, foi desenhado com Max Resnick e teve a pré-venda aberta em 7 de março de 2024: caixa de aço de 37,5 mm, movimento Sellita SW216-1 de corda manual com certificado de cronômetro COSC e primeira série de 300 peças numeradas, 100 em cada cor de mostrador (Dove Grey, Forest Green e Delft Blue), por € 2.479 sem impostos. Caixas e pulseiras vêm da Dexel, mostradores da Cadranor e ponteiros da Cadratec, com montagem pela TAN SA, em Chiasso (Suíça).\n\nA marca produz em lotes, e os esgotados vão para o arquivo do site (o Dove Grey esgotou em junho de 2025). Em janeiro de 2026 lançou o segundo modelo, o Type 39VM, um mergulhador automático de 200 m com caixa de menos de 10 mm de espessura.",
+   "M": "H: @vpc_watch_co, ligado no rodapé ('Follow us') do site oficial vpcwatch.co. K não preenchido: na leitura do site oficial (início, about, the-archives) o cabeçalho não traz arquivo de imagem do logo (só favicon e fotos de produto). I (8 fontes abertas): fundação em 2023, fundador e passado na Amsterdam Watch Company e na Fratello, Holanda (site oficial /about/; SJX 03/2024; Monochrome 03/2024); sigla Venustas Per Constantiam (Monochrome; Time+Tide; Worn & Wound 03/2024); Type 37HW com Max Resnick (site oficial; SJX), pré-venda 07/03/2024, 37,5 mm, Sellita SW216-1 COSC, 300 peças 100 por cor, € 2.479 sem IVA (SJX; Monochrome; Time+Tide); fornecedores suíços e TAN SA em Chiasso (site oficial /about/); lotes, arquivo e Dove Grey esgotado 06/2025 (site oficial /the-archives/); Type 39VM em 01/2026, 200 m, menos de 10 mm (site oficial /the-archives/; Worn & Wound 01/2026; Fratello 01/2026). Ponto a conferir em J (não alterado): a Worn & Wound dá ao Type 39VM o movimento Sellita SW300 cronômetro e preço de € 2.998, e J diz STP 6-15; J também parece cortado no fim ('US$ 2.76'). O site oficial não dá cidade (C = Amsterdã ficou como está)."
+  },
+  "Vratislavia Conceptum": {
+   "H": "@vratislavia_conceptum_watches",
+   "K": "https://vratislavia-watches.com/wp-content/uploads/2022/10/cropped-LOGO-FULL-prostokat_transparent.png",
+   "I": "A Vratislavia Conceptum foi criada em 2012 em Wrocław, na Polônia, por Marcin Karolewski, um colecionador que passou a desenhar os próprios relógios por não encontrar modelos de que gostasse a um preço razoável. O nome vem de Vratislavia, o nome latino de Wrocław.\n\nA marca se apresenta como fabricante polonesa independente, sem ligação com grandes grupos: os relógios são desenhados, montados e conferidos em Wrocław, com peças de fornecedores de vários países. As coleções saem em séries curtas e limitadas, com inspiração na Bauhaus, em relógios antigos e na história da região, e usam movimentos japoneses Miyota, como o Formmeister de 2016 e o Formmeister Sport (Miyota 9130, 100 peças por cor). [⚠️ a confirmar: ano de 2016 do primeiro Formmeister]",
+   "M": "H e K: do site oficial vratislavia-watches.com (Instagram do rodapé; logo do cabeçalho). I: fundação em 2012 em Wrocław por Marcin Karolewski e motivo da criação (Two Broke Watch Snobs, review Pan-Africa 2018; Megalith Watch, guia de marcas polonesas; Watchard, página da marca); fabricante independente, desenho/montagem/controle em Wrocław com peças de vários países e mais de 13 anos produzindo (site oficial, página 'produkcja-zegarkow'; Watchard); séries limitadas com inspiração Bauhaus/vintage/história local (Watchard; site oficial); Formmeister Sport com Miyota 9130 e 100 peças por cor, sucessor do Formmeister de 2016 (WatchIsThis; ano de 2016 só nessa fonte → a confirmar). 6 fontes abertas: site oficial (início e produção), Two Broke Watch Snobs, Megalith Watch, Watchard, WatchIsThis. Observação: o contato do site oficial usa e-mail do domínio timeandpassion.pl (loja Time and Passion); a relação não é explicada no site."
+  },
+  "Vulcain": {
+   "K": "https://vulcain.ch/cdn/shop/files/Logo_Vulcain.png?v=1638463707&width=120",
+   "M": "K: logo do cabeçalho do site oficial vulcain.ch (o domínio da coluna G, vulcain-watches.ch, recusou a leitura - robots - e o site oficial que aparece na busca é vulcain.ch). Possível erro em G (não alterado): site oficial atual é vulcain.ch. Possível erro em H (não alterado): o rodapé do site oficial liga para @vulcain_watches, não @vulcainwatches."
+  },
+  "Vultura": {
+   "K": "https://vultura.net/wp-content/uploads/2023/08/Vultura-logo.png",
+   "I": "A Vultura é uma marca francesa de relógios criada pelo designer Vincent Ifrah, fundador da NEPTO, marca de relógios lançada por ele em dezembro de 2018. A empresa responsável é a NEPTO SAS, com sede em Le Mesnil-le-Roi, na França, e presidida por Ifrah.\n\nO relógio da Vultura tem a caixa em forma de vulva, a coroa inspirada no clitóris e ponteiros em V; o desenho partiu das ilustrações digitais \"Colorful Vulvae\", de Cecilie Bluthardt, e das esculturas \"Clitlets\", de Ellebasi Gebhardt, que fazem parte da equipe da marca. A Vultura se apresenta como uma marca de igualdade, diversidade e aceitação. Os relógios são fabricados na França, com caixa de aço 316L e movimento a quartzo Miyota GL22, e o modelo recebeu o prêmio Iron do A' Design Award (categoria relógios) em 2024.",
+   "M": "K: logo do cabeçalho do site oficial vultura.net. I: Vincent Ifrah como criador e NEPTO fundada por ele em dez/2018 (site oficial, início e About Us; France Éclat, página da NEPTO; Lucire 2019 confirma o lançamento da NEPTO em dez/2018, mas grafa 'Victor' Ifrah); NEPTO SAS, 1 rue Gambetta, Le Mesnil-le-Roi, presidente Vincent Ifrah (site oficial, Legal Notice; endereço também na France Éclat); desenho inspirado em Bluthardt e Gebhardt, caixa em forma de vulva e coroa-clitóris (site oficial About Us; DesignRadiant; Benzinga, comunicado de 13/12/2024); valores igualdade/diversidade/aceitação (site oficial; Benzinga); fabricação na França, aço 316L e Miyota GL22 (DesignRadiant; site oficial diz fabricado e montado na França); prêmio Iron A' Design Award 2024 (DesignRadiant; Benzinga; página do A' Design Award). Fontes abertas (9): vultura.net (início, About Us, Legal Notice), DesignRadiant, Benzinga, A' Design Award, France Éclat, Gift Focus mai/jun 2024, Lucire 2019. Ano de lançamento da Vultura não achado (Gift Focus fala de uma coleção de 2024 feita com a NEPTO; não entrou no texto)."
+  },
+  "Wakmann": {
+   "C": "Nova York",
+   "M": "C: Nova York — a Wakmann abriu escritório em Nova York em 1946 e era uma marca sediada lá (Monochrome, Vintage Corner; Gear Patrol 2019 diz que o negócio foi transferido para Nova York; Bruce's World of Watches, texto de 1984, cita a unidade de Nova York). Lado suíço a confirmar: o texto de 1984 diz que a empresa nasceu como Gigandet-Wakmann em Solothurn (Suíça) em 1925, mas a Monochrome e a Gear Patrol situam o início em Portugal, 1943 (fontes divergem; não usado em C). G, H e K não preenchidos: marca encerrada nos anos 1970-80 (Monochrome: sumiu com a crise do quartzo; Icko Wakmann se aposentou em 1979); buscas por site oficial, Instagram e relançamento (inclusive 'wakmann.com') só trouxeram lojas de relógios vintage e matérias históricas. A Gear Patrol menciona uma empresa moderna que usa o nome Wakmann com relógios suíços de trítio, mas nenhum site ou perfil dela foi achado. Sem certeza de que não existem, por isso não se usou '-'."
+  },
+  "Waktu Horology": {
+   "H": "@waktuhorology",
+   "K": "https://waktuhorology.com/cdn/shop/files/Waktu_Logo-Transparent.png?height=45&v=1741069224",
+   "I": "A Waktu Horology foi fundada em abril de 2025 em Cingapura por Dahliah Kamaru Zaman, então com 30 anos, e se apresenta como a primeira marca de relógios malaia de Cingapura, dedicada a valorizar a herança cultural malaia.\n\nAs primeiras peças foram o Klasik: Hitam, de mostrador preto em esmalte, e a coleção Kalbu M.O.P., com mostradores de madrepérola nas versões Puteh (branca), Mawar (rosa) e Gelap (escura), todas com movimentos japoneses Miyota (o Kalbu usa o automático Miyota 90S5). A marca estreou ao público na feira de microbrands Spring Sprang Sprung, em Cingapura, em 2025, e foi tema de reportagens no jornal Berita Harian.",
+   "M": "H e K: do site oficial waktuhorology.com (Instagram do rodapé; logo do cabeçalho). I: fundação em abril de 2025 por Dahliah Kamaru Zaman em Cingapura (site oficial, About; Harper's Bazaar SG; The Peak SG diz 2025); 'primeira marca malaia de relógios de Cingapura' (site oficial; Harper's Bazaar SG; Kaplan, resumo da matéria do Berita Harian de 02/10/2025); Klasik: Hitam de esmalte preto (site oficial; blog Eddie Sng dez/2025; Harper's chama a linha de 'Seni'); Kalbu M.O.P. Puteh/Mawar/Gelap (The Peak SG; blog Eddie Sng; site oficial); Miyota (Harper's Bazaar SG) e Miyota 90S5 no Kalbu (The Peak SG; D da planilha); estreia na Spring Sprang Sprung 2025 (site oficial; blog Eddie Sng); Berita Harian (site oficial; Kaplan). Idade de 30 anos na fundação: site oficial (About). Fontes divergem sobre qual foi a coleção inaugural (site oficial: Klasik: Hitam; The Peak: Kalbu), por isso o texto cita as duas como primeiras peças. Não usado: entrega do Klasik: Hitam à ex-presidente Halimah Yacob (só no site oficial). Fontes abertas (7): site oficial (início, About, The History), Harper's Bazaar SG, The Peak SG, blog Eddie Sng, Kaplan/Berita Harian."
+  },
+  "Waldan Watches": {
+   "M": "K não achado: o site oficial waldanwatches.com abriu pelo WebFetch só em texto (sem endereço de imagem do logo) e a versão www bloqueou (robots); nenhuma página interna do site apareceu em busca (site:waldanwatches.com só trouxe imprensa) e o Firecrawl estava sem créditos."
+  },
+  "Waldhoff": {
+   "C": "Pforzheim",
+   "K": "https://manufaktur-waldhoff.de/cdn/shop/files/Logo_and_flag_75b505b7-v2_300x300.jpg?v=1668229337",
+   "M": "C: Pforzheim (página Legal do site oficial manufaktur-waldhoff.de: Starck-Uhren, Lindenstraße 71, 75175 Pforzheim, responsável Manfred Starck, cofundador segundo aBlogtoWatch). K: logo do cabeçalho do site oficial manufaktur-waldhoff.de. Observação: o domínio em G (waldhoff.com) não abriu (robots) e não aparece em busca; o site oficial em uso é manufaktur-waldhoff.de (aBlogtoWatch) — G não alterado, a conferir."
+  },
+  "Waldor & Co.": {
+   "H": "@waldorandco",
+   "I": "A Waldor & Co. é uma marca sueca de relógios e joias fundada em 2012 pelos irmãos Mikael, Andreas e Johan Christensson. A ideia nasceu em Bovallstrand, vila de pescadores na costa oeste da Suécia onde os irmãos passavam os verões da infância, e o estilo mistura o minimalismo escandinavo com influências do sul da Europa, sobretudo da Itália — daí coleções com nomes como Amalfi, Como, Capri e Porto Cervo.\n\nVendendo direto ao consumidor pela própria loja on-line, a marca diz ter levado seus produtos a 110 países. Até 2023 trabalhava só com relógios a quartzo; naquele ano lançou seu primeiro automático, o Continual 39 Amalfi, com caixa de aço de 39 mm e movimento japonês Miyota 9093. Além dos relógios, vende pulseiras, colares, brincos e anéis. A empresa, Waldor & Co. AB, tem sede em Estocolmo. [⚠️ a confirmar: sede em Estocolmo (só no registro empresarial funnelfeedr)]",
+   "M": "H: @waldorandco (link do rodapé do site oficial waldorandco.com). K não preenchido: cabeçalho do site oficial usa o nome em texto. I (6 fontes abertas): site oficial, página 'Our Story' (fundação 2012, irmãos Christensson, Bovallstrand, design sueco com influência do sul da Europa, 110 países, joias); aBlogtoWatch 09/10/2023, matéria patrocinada (2012, irmãos, Bovallstrand, primeiro automático Continual 39 Amalfi com Miyota 9093, 110 países); Ape to Gentleman 05/10/2023, parceria paga (irmãos, Bovallstrand, influência italiana, venda direta on-line, coleções Amalfi/Como/Capri/Porto Cervo); Oracle of Time 29/09/2023 (2012, irmãos, até então especialistas em quartzo, Continual 39 Amalfi); funnelfeedr (Waldor & Co. AB, org. 559088-1792, Grev Turegatan 12 A, Estocolmo); village.ai (fundação 2012). A confirmar: sede em Estocolmo (só funnelfeedr). Retirado por divergência: número de clientes (site diz 200.000 no texto e 40.000 na descrição; aBlogtoWatch diz 70.000)."
+  },
+  "Waltham Watch Company": {
+   "G": "waltham.ch",
+   "H": "@waltham_watches",
+   "M": "G: waltham.ch — site oficial da marca Waltham hoje (rodapé 'Waltham Watch Company SA'; página Brand liga a marca à Waltham americana de 1850 e à Waltham SA criada na Suíça em 1954; contato: Via Penate 16, 6850 Mendrisio, Suíça). WatchTime confirma a continuidade (Antonio DiBenedetto comprou a maioria da Waltham International SA em 2011; relógios novos Swiss made). Observação: a fábrica histórica era em Waltham (EUA), mas a empresa atual é suíça (Mendrisio) — B e C não alterados. H: @waltham_watches (link do rodapé do site oficial). K não preenchido: cabeçalho do site oficial usa o nome em texto (não há imagem de logo no cabeçalho)."
+  },
+  "Wancher": {
+   "K": "https://wancherwatch.com/cdn/shop/files/Logo_web_white_1.png?v=1687941405&width=235",
+   "M": "K: logo do cabeçalho do site oficial wancherwatch.com (versão branca). Observações (não alterado): o site oficial liga o Instagram @wancherwatch_official (H está @wancherwatch) e se descreve como 'microbrand japonesa de Oita' (C está 'Japão'; cidade/província a conferir)."
+  },
+  "Warrior King Watches": {
+   "E": 2,
+   "F": 3091,
+   "K": "https://thewarriorkingwatches.com/images/warrior%20king%20logo%20.svg",
+   "I": "A Warrior King Watches é uma marca de relógios de Gana criada por Patrick Amofah, seu fundador e CEO. A ideia nasceu depois que o pai dele morreu, em 2017: Amofah herdou os relógios do pai e não encontrou quem soubesse restaurá-los, o que o levou a aprender relojoaria por conta própria. Ele montou a oficina HourHand Watch Co., que começou em Spintex e depois se mudou para Greda Estate, e passou a fazer relógios inspirados na história e na cultura de Gana.\n\nEm 5 de julho de 2023, no Palácio de Manhyia, durante o festival Awukudae, Amofah entregou ao Asantehene, Otumfuo Osei Tutu II, uma peça única da marca. A Warrior King se apresenta como a primeira relojoaria ganesa a fazer relógios para a realeza, foi citada pela revista GQ e, em outubro de 2026, Amofah recebeu o prêmio Innovative Excellence nos HAPAwards, realizados no Palácio de Manhyia, em Kumasi.",
+   "M": "K: logo do cabeçalho do site oficial thewarriorkingwatches.com (arquivo 'warrior king logo .svg', espaços codificados como %20). F: média dos 10 relógios com preço na loja oficial (6 Heritage a GHS 7.500; Classic Sunrise e Dawn a GHS 5.000; Classic Silverlight e Midnight a GHS 4.500; pulseiras excluídas; Native, Statesman e Pièce Unique sem preço) = GHS 64.000 / 10 = GHS 6.400 × 0,48302 (câmbio GHS→BRL de fxfeed.io em 14/11/2026, moeda fora da tabela fixa) = R$ 3.091 → E = 2. I (7 páginas abertas, 4 fontes distintas): fundador e CEO Patrick Amofah (site oficial, artigos do journal; GNA out/2026; Yen.com.gh); origem após a morte do pai em 2017 e aprendizado por conta própria (site oficial 'Our Story'; GNA); oficina HourHand Watch Co. (site oficial; Yen.com.gh), em Spintex e depois Greda Estate (site oficial); peça única entregue ao Asantehene em 05/07/2023 no Palácio de Manhyia, festival Awukudae (site oficial; Yen.com.gh); citação na GQ (Yen.com.gh; Starr FM nov/2023); prêmio Innovative Excellence nos HAPAwards, Manhyia, Kumasi, out/2026 (site oficial; GNA). 'Primeira relojoaria ganesa para a realeza' é dito pela própria marca. Fontes: thewarriorkingwatches.com (home, our-story, journal HAPAwards, journal Asantehene), gna.org.gh, yen.com.gh, starrfm.com.gh. Ano de fundação da marca não achado em nenhuma fonte (por isso não entrou)."
+  },
+  "Watch Angels": {
+   "C": "Mendrisio",
+   "K": "https://watchangels.ch/static/global/img/small-logo-dark.6f7472099b42.svg",
+   "M": "C: Mendrisio (site oficial watchangels.ch: showroom em Mendrisio, Suíça). K: logo em SVG do site oficial watchangels.ch (o cabeçalho não traz imagem de logo; este arquivo está no rodapé). Possível erro em G (não alterado): o site watchangels.com deu erro ao abrir; o site oficial que aparece nas buscas é watchangels.ch (Instagram ligado: @watchangels, igual a H)."
+  },
+  "Watchdives": {
+   "C": "Shenzhen",
+   "G": "watchdives.com",
+   "K": "https://watchdives.com/cdn/shop/files/watchdives-wdc-stacked-logo-400x300-transparent.png?v=1787583543",
+   "M": "G: watchdives.com (achado em busca: ficha do WD1967 Sharkmaster; o próprio site tem página de alerta contra sites falsos e é o avaliado no Trustpilot). C: Shenzhen (rodapé e página About Us do site oficial: 'Based in: Shenzhen, China', endereço em Longhe Road, Longgang; fundada em 2019, igual ao WatchPatrol). K: logo do cabeçalho do site oficial. Possível divergência em H (não alterado): o site oficial liga o Instagram @watchdivesblog, não @watchdives_official."
+  },
+  "Watchly": {
+   "K": "https://watchly.com/cdn/shop/files/Screenshot_2026-04-22_at_1.46.15_AM_190x@2x.png?v=1776836814",
+   "I": "A Watchly é uma pequena marca de Toronto, no Canadá, que faz relógios impressos em 3D. Segundo o site oficial, cada caixa (e, se o cliente quiser, também a pulseira) é impressa pelo próprio criador numa impressora Prusa i3 e recebe um movimento de quartzo Seiko e ponteiros luminosos em oito cores; as pequenas marcas deixadas pela impressão fazem cada peça ser um pouco diferente.",
+   "M": "K: logo do cabeçalho do site oficial watchly.com (o arquivo tem nome de captura de tela, mas é a imagem usada como logo). I: escrita só com o site oficial (página inicial e página 'here's how we do it'/about): Toronto, impressão 3D numa Prusa i3, movimento quartzo Seiko, ponteiros luminosos em 8 cores, peças com marcas da impressão. Só 1 fonte achada (2 páginas do site oficial); 3 buscas na imprensa e em lojas ('Watchly 3D printed watch Toronto', 'watchlyltd', 'Watchly Ltd Toronto') não trouxeram nada sobre a marca. Fundador e ano de fundação não achados (o site só dá o e-mail drew@watchly.com)."
+  },
+  "Wayforth": {
+   "K": "https://wayforthwatches.com/cdn/shop/files/wayforth-logo.png?v=1678719448&width=400",
+   "I": "A Wayforth é uma microrrelojoaria independente de Toronto, no Canadá, criada por Stephen Peeling, dono e CEO da marca. Segundo o site oficial, depois de anos viajando ele queria um relógio com mais funções do que encontrava e que pudesse usar sem medo de arranhar; a partir de 2017 visitou fabricantes e trabalhou com designers até chegar ao primeiro modelo. A marca foi fundada em 2021.\n\nO primeiro relógio, o Voyager, um cronógrafo de dois fusos com movimento mecaquartzo Seiko VK64, foi lançado no Kickstarter em junho de 2023, onde arrecadou mais de US$ 60 mil de 183 apoiadores, e começou a ser entregue em 2024. Cada cor é feita numa única tiragem de edição limitada, sem reposição.",
+   "M": "K: logo do cabeçalho do site oficial wayforthwatches.com. I (6 fontes abertas): fundador Stephen (site oficial 'about') e nome completo Stephen Peeling, dono e CEO (comunicado PRWeb de 19/06/2023, com data em Toronto); Toronto (PRWeb; The Calibrated Wrist 2025; Aurifo); fundada em 2021 (The Calibrated Wrist 2025; Aurifo); pesquisa desde 2017, Kickstarter com mais de US$ 60 mil de 183 apoiadores, entregas em 2024 (site oficial); lançamento no Kickstarter em junho de 2023 (PRWeb 'launching today'; título da Master Horologer de 06/07/2023 sobre a campanha — a página deu erro ao abrir); movimento Seiko VK64 (Watch Report; The Calibrated Wrist 2024 e 2025); tiragem única por cor, sem reposição (site oficial; The Calibrated Wrist 2025). Fontes: wayforthwatches.com (home e about), prweb.com, watchreport.com, thecalibratedwrist.com (2024 e 2025), aurifo.com."
+  },
+  "Weiss Watch Company": {
+   "K": "https://weisswatchcompany.com/cdn/shop/t/10/assets/wwc-logo-green.svg?v=135969583181839236251600801568",
+   "M": "K: logo do cabeçalho do site oficial weisswatchcompany.com (SVG). A conferir (C, não alterado): o site oficial diz que o estúdio fica em Nashville (Tennessee), não em Los Angeles."
+  },
+  "Welder": {
+   "M": "C não achado com certeza: Fashionbi diz Lucca (empresa Hi-Tek Office Srl, site welder.it), mas só 1 fonte; lojas (C.W. Sellors, Whamond, BabyQ) e Europa Star dizem só 'Itália' e citam o designer Italo Fontana (U-Boat, Lucca) — a confirmar. K não preenchido: o site oficial welderwatches.com bloqueia leitura (robots) nas duas tentativas; só há logo em loja revendedora (não oficial). A conferir (fora das lacunas): BabyQ diz fundada em 1997, Fashionbi 2007."
+  },
+  "Wellograph": {
+   "M": "Marca de smartwatch encerrada (lançada em 2014; marca registrada nos EUA cancelada em 2021, Justia/Markinton). B e C não achados com certeza: o registro de marca nos EUA (Markinton) tem como dona a Atiz Innovation Co., Ltd., de Yannawa (distrito de Bangkok, Tailândia), e o banco Vandrico cita 'Wellograph Co., Ltd.'; CEO Sarasin Art Booppanon (Engadget) — provável Tailândia/Bangkok, a confirmar. G não gravado: wellograph.com aparece nos comunicados da empresa (Cision 2014 e 2015), mas hoje abre página vazia (site fora do ar). H não achado (busca no Instagram sem perfil; comunicados não citam). K não achado: site fora do ar."
+  },
+  "Welsbro": {
+   "B": "USA",
+   "C": "Los Angeles (Califórnia)",
+   "G": "welsbro.com",
+   "K": "https://welsbro.com/cdn/shop/files/Welsbro-Watches-Straps-Logo-Gray.png?height=44&v=1646793687",
+   "M": "G: welsbro.com (site oficial; também citado por Hodinkee Japão e Fratello). B e C: rodapé do site oficial ('marca de herança revivida, com base em Los Angeles'); Fratello confirma que os fundadores Rich Reichbach e Katie Willis moram em Los Angeles (a marca nasceu em 1926 na rua 47 de Nova York, Hodinkee). K: logo do cabeçalho do site oficial. A conferir (H, não alterado): o rodapé do site liga para instagram.com/welsbrowatch (sem 's'); na planilha está @welsbrowatches."
+  },
+  "Wempe": {
+   "K": "https://www.wempe.com/themes/Frontend/Wempe/frontend/_public/src/img/logos/logo--tablet.svg",
+   "M": "K: arquivo SVG do logo do site oficial wempe.com (o mesmo usado como imagem de compartilhamento da página)."
+  },
+  "Wenger": {
+   "K": "https://wenger.ch/static/gfx/logo.svg",
+   "M": "K: logo do cabeçalho do site oficial wenger.ch (logo.svg). Observação (H não alterado): o rodapé do site oficial liga o Instagram instagram.com/wenger_official (@wenger_official), diferente do @wengerwatches da planilha; a confirmar qual usar."
+  },
+  "Werenbach": {
+   "M": "K não preenchido: o site oficial werenbach.ch abriu só como texto (sem imagens nem links) e www.werenbach.ch recusou (robots); nenhuma página do site com o logo apareceu nas buscas; Firecrawl sem créditos. O site confirma: relógios com material de foguetes, primeiro relógio em 2013, produção em pequenas séries na cidade velha de Zurique (bate com B e C)."
+  },
+  "Wessex Watches": {
+   "H": "@wessexwatches",
+   "I": "A Wessex Watches foi criada em 2015 pelo britânico Jamie Boyd, que naquele ano decidiu montar um relógio personalizado para si e começou a fazer os próprios mostradores. O nome vem do antigo reino anglo-saxão de Wessex, e a oficina fica em Chippenham, no condado de Wiltshire, na Inglaterra.\n\nA marca fabrica os próprios mostradores, em prata 925 com guilhochê e gravação, muitas vezes em duas camadas, num processo próprio que a empresa mantém em segredo. Cada relógio é feito sob encomenda: o cliente pode personalizar um modelo existente ou partir de um desenho do zero, aprovando antes um mostrador-protótipo.\n\nA coleção mais conhecida é a Peerless, com calibre suíço de corda manual 6497 esqueletizado em estilo art déco; o Peerless Tsunami, com a Grande Onda de Kanagawa no mostrador, nasceu de uma encomenda única. Hoje o site oficial apresenta as linhas Velocity, Pinnacle, Peerless, Legacy e Drift.",
+   "M": "H: link do rodapé do site oficial wessexwatches.co.uk (instagram.com/wessexwatches). K não preenchido: cabeçalho usa o nome em texto (a única imagem é o selo da British Watch & Clock Makers Alliance). I (8 fontes: site oficial página inicial e Our Story; Oracle of Time 'In Focus: Wessex Watches' e artigo de 28/10/2020; Total Design Reviews 04/06/2020; Great British Watch Co.; Square Mile 29/07/2020; Trend Hunter 28/08/2018): 2015 ('British Watches Since 2015' no site oficial; Oracle of Time); fundador Jamie Boyd (Oracle, Total Design Reviews, Square Mile, Trend Hunter); Chippenham/Wiltshire (Total Design Reviews, Great British Watch com endereço Syms Yard; Wiltshire também em Square Mile e Trend Hunter); nome do reino de Wessex (Great British Watch; Oracle); mostradores próprios em prata 925 com guilhochê e duas camadas, processo secreto (site oficial; Oracle; Total Design Reviews; Square Mile); sob encomenda e mostrador-protótipo (Square Mile; Oracle); Peerless com calibre 6497 esqueletizado art déco (Oracle; Total Design Reviews; Square Mile); Tsunami nascido de encomenda única (Oracle; Total Design Reviews: presente de 21 anos); linhas atuais (site oficial). Fora do texto (1 fonte só): menos de 100 relógios por ano e 2 funcionários (Great British Watch); modelos Incudo, Ælfræd e Caelo de 2018 (Trend Hunter). Observação (J não alterado): o texto de J termina cortado em 'Velocity (2020) — '."
+  },
+  "WeWood": {
+   "M": "K não preenchido: we-wood.com recusou (robots) e www.we-wood.com abriu só como texto, sem imagens; nenhuma página do site com o logo apareceu nas buscas; Firecrawl sem créditos. Observação (C não alterado): a Wikipedia (WeWOOD) dá sede em Lamporecchio (Itália); o site oficial diz que a marca foi fundada em Florença em 2009 — a confirmar se C deve ser a sede atual. O site oficial parece desatualizado (meta de árvores 'até 2020')."
+  },
+  "Whitby Watch Co.": {
+   "G": "whitbywatchco.com",
+   "K": "https://whitbywatchco.com/cdn/shop/files/Whitby-Watch-Co-logo-white-emblem_410x.png?v=1613730538",
+   "M": "C a confirmar (não gravado na revisão): Whitby (Ontário) não combina com B=Reino Unido, que parece errado (marca canadense). G: whitbywatchco.com (aBlogtoWatch, The Time Bum e The Calibrated Wrist; o rodapé do site liga o Instagram instagram.com/whitbywatchco, o mesmo de H, então é a marca certa). K: logo do cabeçalho do site oficial (emblema branco). C: Whitby, Ontário (site oficial: a história começa perto do Intrepid Park em Whitby, Ontário; The Time Bum: 'Founded in Whitby, Ontario'; Made in CA). ERRO a corrigir (B e D não alterados): a marca é CANADENSE, não britânica — B deveria ser 'Canadá' (site oficial: 'Canadian microbrand'; aBlogtoWatch 'Canadian microbrands'; The Calibrated Wrist 'designed in Canada'); D 'Microbrand britânica' também está errado: é microbrand canadense de edições limitadas que homenageiam feitos canadenses (ex.: Intrepid, homenagem a Sir William Stephenson e ao Camp X). Fundada em 2017, primeiro modelo Intrepid Dive Watch no fim de 2018 (aBlogtoWatch); co-fundador Travers Hartley-Smith (aBlogtoWatch). J genérico: modelos Intrepid, Intrepid X Chrono Diver, Ad Mare, Avro/Arrow Pilot, Canuck Pilot, Alpine Chronograph (CAD 699)."
+  },
+  "Wicked Watch Co": {
+   "H": "@wickedwatchco",
+   "K": "https://irp-cdn.multiscreensite.com/f0e5d56a/dms3rep/multi/logo+website.svg",
+   "I": "A Wicked Watch Co. (razão social Wicked Watch GmbH) é uma marca suíça independente e familiar, sediada em Reinach BL, perto de Basileia. Foi fundada em 2019 pelo empreendedor suíço Pascal Zhang-Isenegger, nascido em Basileia e formado em finanças, depois de protótipos e testes de campo feitos em 2018. O nome lembra a história de Basileia com as chamadas \"bruxas\" e os pensadores independentes: para a marca, \"wicked\" quer dizer individual, e não maligno.\n\nO primeiro projeto foi o Pearl Diver, um relógio de mergulho em bronze. Segundo a marca, a primeira campanha no Kickstarter não foi financiada (uma campanha do Pearl Diver na plataforma suíça wemakeit também terminou sem apoio em março de 2021), mas uma segunda campanha, em 2021, passou de 200% da meta, e todas as encomendas foram entregues apesar dos atrasos da pandemia.\n\nHoje o catálogo inclui as coleções Pearl Diver (WIC001), Basilea (WIC002), WIC006 GMT, 42 Damascus Diver, a edição Wukong e um relógio de 5º aniversário. A marca usa o luminescente LUMICAST, desenvolvido com a RC Tritec (Suíça) e a Nemoto (Japão), e mantém um escritório em Shenzhen para logística e inspeção.",
+   "M": "H e K: do site oficial wickedwatch.ch (Instagram do rodapé; logo do cabeçalho logo+website.svg). I (7 fontes abertas): fundação 2019, fundador Pascal, nascido em Basileia, formação em finanças, protótipos de 2018, Kickstarter 1 sem financiamento e 2º em 2021 com 200%+, entregas na pandemia, coleções WIC001/WIC002/WIC006, LUMICAST com RC Tritec e Nemoto, escritório em Shenzhen (site oficial: página inicial e about-us); origem do nome (site oficial, name-story); razão social Wicked Watch GmbH, sede Habshagstrasse 8C, 4153 Reinach BL, gerente Pascal Zhang, registro CHE-207.640.609 (site oficial, impressum e contact); sobrenome Zhang-Isenegger (Indiegogo 'Pearl Diver Automatic Bronze Dive Watch', criador Pascal Dominik Zhang-Isenegger; blog oficial assinado Pascal Isenegger); campanha wemakeit do Pearl Diver encerrada em 7/3/2021 com 0 de CHF 10.000 (wemakeit.com); blog oficial (posts 2022-2025). Kicktraq não abriu (redirecionamento em loop). Possível erro em C (não alterado): C diz 'Basileia', mas a sede oficial é Reinach BL, na região de Basileia (impressum)."
+  },
+  "Wilbur": {
+   "G": "wilburco.com",
+   "K": "https://images.squarespace-cdn.com/content/v1/694066a5be807402484fdebc/13e69e00-4cf5-4763-9745-7fe4fa431b73/WILBUR+LogoType+White1.png?format=1500w",
+   "M": "G: wilburco.com (site oficial aberto: 'independent luxury mechanical watches... founded by American designer Jason Wilbur'; também ligado por Worn & Wound 2023, aBlogtoWatch e Squaremile). K: logo do cabeçalho do site oficial (Squarespace, logotipo branco). C não preenchido: aBlogtoWatch diz só 'Sul da Califórnia' e o site oficial diz só 'United States'; a confirmar: Los Angeles (só a data de linha do PR Newswire de 27/09/2023). Possível erro em D (não alterado): D diz que o nome homenageia Wilbur Wright, mas as fontes (aBlogtoWatch, Squaremile, Worn & Wound) dizem que a marca leva o nome do fundador, o designer de automóveis Jason Wilbur; nenhuma cita Wilbur Wright. O site atual mostra a linha 'Supermachines' (EXP 2.0, 25 peças por referência, Swiss made), o que pode deixar J ('inspiração aeronáutica') desatualizado."
+  },
+  "Wild Horologists & Team": {
+   "B": "Suíça",
+   "C": "La Chaux-de-Fonds",
+   "G": "what.ch",
+   "M": "B e C: projeto de alunos de uma escola de formação relojoeira de La Chaux-de-Fonds, Suíça (Fratello Watches, '#52mondayz' 2020; aBlogtoWatch 'Wild Horologists & Team Chronograph LCF888'; preços em CHF). G: what.ch (citado pela Fratello e pela aBlogtoWatch); o site não abriu (pediu permissão) e não apareceu em busca, então não foi possível ver se ainda está ativo. K não achado: site oficial não alcançado (Firecrawl sem créditos). WatchProZine descreve a WH&T como 'uma bandeira sob a qual empresas e habilidades se juntam', com o relógio LCF888 lançado no Kickstarter (2019)."
+  },
+  "Wilk Watchworks": {
+   "C": "Toronto",
+   "G": "wilkwatchworks.com",
+   "M": "C: Toronto, Ontário (Made in CA: 'Manufactured in Toronto, Ontario'; WatchClicker, entrevista: 'a small brand based in Toronto'; The Calibrated Wrist, 2025: feito à mão por Scott Wilk em Toronto). G: wilkwatchworks.com (ligado pelas três fontes). K não achado: o site oficial pediu permissão (PROVENANCE_REQUIRED) e não apareceu em busca ('site:wilkwatchworks.com' sem resultado do domínio); Firecrawl sem créditos."
+  },
+  "William Wood": {
+   "K": "https://williamwoodwatches.com/cdn/shop/files/WWW_Gold_Logo_copy_2_5fdbed59-bc49-4b97-ab90-363461451937.png?v=1714047747&width=200",
+   "M": "K: logo do cabeçalho do site oficial williamwoodwatches.com (o rodapé liga o Instagram @williamwoodwatches, que confere com H)."
+  },
+  "Winfield": {
+   "G": "winfieldwatch.com",
+   "K": "https://winfieldwatch.com/cdn/shop/files/WINFIELD_LOGO.svg?v=1734389037",
+   "M": "G: winfieldwatch.com é o site oficial (a própria página diz 'Since 2019' e o about cita o fundador Mark Miller; Oracle of Time e Worn & Wound 2019 ligam para esse domínio). K: logo do cabeçalho do site oficial (SVG). B e C não preenchidos: o site oficial (home, about, contact) não dá endereço; só o aBlogtoWatch diz que a marca envia de uma instalação em Maryland (EUA) e faz o controle de qualidade nos EUA — uma fonte só; Worn & Wound, Watches of Espionage, The Time Bum, Gear Bunker e Walther Arms não citam local. A confirmar: B USA, C (Maryland, cidade não achada). Observação sobre H (já preenchido): o site oficial liga ao Instagram @winfieldwatchco, não a @winfieldwatches."
+  },
+  "WISE": {
+   "H": "@wisethailandwatch",
+   "K": "https://wisetimepiece.com/cdn/shop/files/PNG-logoo-bigbig_100x.png?v=1626077537",
+   "I": "A WISE é uma marca tailandesa de relógios fundada em 2008 e sediada em Bangcoc. Os relógios são desenhados por tailandeses e montados à mão por relojoeiros na oficina da marca em Bangcoc, e a venda é feita principalmente pela loja online oficial.\n\nA marca se destaca pelo uso de materiais de caixa pouco comuns na sua faixa de preço, como aço 904L, titânio, aço damasco (linha Adamascus) e carbono forjado, combinados com calibres japoneses como o Miyota 9015. Em 2026 a WISE levou suas coleções a feiras internacionais de microbrands, como District Time (Washington), Minutes and Hours (Chicago), Windup Watch Fair (Nova York) e Micro Praha (República Tcheca).",
+   "M": "H e K: do site oficial wisetimepiece.com (Instagram no cabeçalho e no rodapé; logo do cabeçalho). I: 7 páginas abertas — site oficial (home e página de eventos), Time+Tide (Micro Mondays, Adamascus A8.1 Forged Carbon), The Slender Wrist (marcas tailandesas), techwriteredc (ADX110 GMT), Serious Watches (AD8 Shades of Thailand, Miyota 9015), Dialicious (resenha). Fundação 2008 e sede em Bangcoc: site oficial + Time+Tide + Slender Wrist. Desenho tailandês e montagem à mão em Bangcoc: site oficial (Slender Wrist também diz feitos à mão por relojoeiros). Materiais 904L, titânio, damasco, carbono forjado: Time+Tide; 904L também em techwriteredc e Dialicious. Miyota 9015: Time+Tide + Serious Watches. Feiras de 2026: página de eventos do site oficial. Fundador não achado em nenhuma fonte."
+  },
+  "Wittnauer": {
+   "G": "wittnauer.com",
+   "M": "G: wittnauer.com — Wikipedia (infobox: site oficial Wittnauer.com) e o próprio site (políticas de venda em nome da Wittnauer; FAQ com e-mails @bulova.com; consertos via Citizen Watch America, Torrance, CA). Hoje a Wittnauer é uma marca da Bulova, que pertence à Citizen (Wikipedia). H não achado: nenhuma página aberta do site (home, FAQ, garantia, consertos, política de pedidos) mostra links de redes sociais e as buscas não trouxeram perfil oficial. K não achado: a leitura do site não trouxe nenhum endereço de imagem do cabeçalho."
+  },
+  "WM": {
+   "M": "Nada gravado. B, C, G e K não preenchidos por risco de marca homônima: a busca achou o site wmwatch.com ('WM Watch', abreviação de 'Wrist Moment', relógios automáticos feitos na China, fundador Chen Zhiming segundo a home), mas nem esse site nem outra fonte o ligam ao Instagram @wm.watches da planilha. A confirmar: se @wm.watches é a WM Watch de wmwatch.com (então G wmwatch.com, B China)."
+  },
+  "WMT Watches": {
+   "C": "Hong Kong",
+   "H": "@wmtwatches",
+   "K": "https://wmtwatches.com/wp-content/uploads/2018/05/Watch-Experimental-Unit-logo-800.png",
+   "I": "A WMT Watches, sigla de Watch Experimental Unit, é uma pequena marca independente de Hong Kong. Começou oferecendo relógios personalizados pela internet, com base em conceitos vintage e originais e movimentos japoneses, em que o cliente escolhia luneta, mostrador, ponteiros e grau de envelhecimento artificial; depois passou também a lançar modelos prontos em séries limitadas.\n\nSeus relógios reinterpretam peças militares e de mergulho vintage, sobretudo Rolex, como os Royal Marine e Sea Diver, com movimentos Seiko NH35 e Miyota e acabamento envelhecido opcional. A marca fez colaborações com marcas de moda, como a MADNESS (2019) e a GrowthRing & Supply (2020, Panton limitado a 100 peças). [⚠️ a confirmar: ano de fundação (2018, só no Watch Patrol) e as colaborações, cada uma citada por uma fonte só (HYPEBEAST)]",
+   "M": "C: Hong Kong — Two Broke Watch Snobs ('the brand is based in Hong Kong') e Beyond the Dial ('Hong Kong-based'). H e K: do site oficial wmtwatches.com (Instagram nas páginas home e contato; logo do cabeçalho). I: 8 páginas abertas — site oficial (home, about, contact), Two Broke Watch Snobs (2 páginas da resenha Royal Marine), Beyond the Dial (Royal Marine Subdiver MKII), HYPEBEAST 2019 (MADNESS) e HYPEBEAST 2020 (GrowthRing & Supply); Watch Patrol deu erro (só o trecho da busca: 'Fond. 2018 · Hong Kong'). Sigla Watch Experimental Unit: site oficial (about) + HYPEBEAST. Personalização online com movimentos japoneses: site oficial + Beyond the Dial. Homenagens a Rolex vintage, NH35: Two Broke Watch Snobs + Beyond the Dial. Envelhecimento artificial: Beyond the Dial + HYPEBEAST 2019. Miyota: HYPEBEAST 2019 (821A). A confirmar: fundação 2018; colaborações MADNESS e GrowthRing (uma fonte cada); o Beyond the Dial diz que a sigla vem de 'Watch Experimental Unit Mercier Time' (Mercier Time Ltd) — uma fonte só, não entrou no texto. Fundador não achado."
+  },
+  "Wolbrook Watches": {
+   "I": "A Wolbrook surgiu em 1949 nos Estados Unidos, com relógios-ferramenta que, segundo a marca, eram usados para cronometrar voos de alta velocidade; a produção ficava na França e na Suíça, e a partir do fim dos anos 1950 na região de Besançon. Em 1955 ganhou uma marca irmã, a Douglas, e no início dos anos 1960 as duas lançaram a linha de mergulho Skindiver.\n\nCom a crise do quartzo dos anos 1970 a marca parou e ficou adormecida por cerca de 50 anos. Em 2019 foi relançada por um pequeno grupo de veteranos e entusiastas da relojoaria, com financiamento coletivo no Kickstarter. No mesmo ano foi leiloado um Douglas Skindiver Worldtimer que pertenceu a Neil Armstrong, que inspirou as versões X-15 do Skindiver Worldtimer. Hoje os relógios Wolbrook e Douglas são montados e regulados nos arredores de Besançon, e a marca é membro da France Horlogerie. [⚠️ a confirmar: relançamento financiado pelo Kickstarter (só Fratello, 2020)]",
+   "K": "https://wolbrook.com/cdn/shop/files/Wolbrook-Watches-Chronographs-logo-l.jpg",
+   "M": "K: arquivo do logo do site oficial wolbrook.com (imagem og:image 'Wolbrook-Watches-Chronographs-logo-l.jpg'; o cabeçalho usa o logo embutido, sem arquivo próprio). I (7 fontes): 1949, origem nos EUA, cronometragem de voos, produção França/Suíça e Besançon desde o fim dos anos 1950, Douglas em 1955, Skindiver anos 1960, parada na crise do quartzo, relançamento em 2019, leilão do relógio de Armstrong em 2019, montagem nos arredores de Besançon e France Horlogerie (site oficial: wolbrook.com, páginas wolbrook-watches-story e assembled-in-france); 1949 e 2019 também em Worn & Wound (17/04/2023, X-15 Skindiver Worldtimer), Fratello (11/01/2020), Windup Watch Shop, Ocarat e Kibble Watches; origem nos EUA e falência na crise do quartzo também na Ocarat; Douglas 1955 também na Kibble; relógio de Armstrong e edição X-15 também na Fratello e na Worn & Wound. A confirmar: Kickstarter (só Fratello). Fundadores originais não nomeados em nenhuma fonte. Watchpatrol deu erro."
+  },
+  "WOLF": {
+   "C": "El Segundo (Califórnia)",
+   "M": "C: endereço 'USA Contact' do site oficial wolf1834.com (páginas inicial, contact e history: 1222 East Grand Avenue, El Segundo, CA 90245); o site também lista escritórios no Reino Unido (sede europeia em West Sussex desde 2018), Hong Kong e Holanda, e diz que a empresa nasceu em Hanau, Alemanha, em 1834. K não preenchido: o cabeçalho usa o nome em texto/SVG embutido, sem arquivo de imagem (conferido nas páginas inicial, contact e history)."
+  },
+  "Wolf Creek Watch Co": {
+   "H": "@wolfcreekwatchco",
+   "K": "https://images.squarespace-cdn.com/content/v1/5ec57c55925da34feac2efce/1590525408712-MUEFL5RYX04TCUON7NRR/WolfCreekWatchCo_PrimaryLogo_White.png",
+   "I": "A Wolf Creek Watch Co. foi criada em 2020 por Michael Johansen em Minnesota (EUA), com relógios de linhas simples desenhados em Duluth e fabricados na Suíça. O primeiro modelo foi o Voyageur Mechanical, em bronze com movimento ETA 2801 (cerca de US$ 725), lançado com parceiros locais como a joalheria Security Jewelers e a Leatherworks Minnesota.\n\nO segundo modelo, o North Star, em aço com Sellita SW300-1, foi anunciado para setembro de 2022 e custava US$ 1.275 em 2023. [⚠️ a confirmar: ano de fundação 2020 (só The Calibrated Wrist)]",
+   "M": "H e K: do site oficial wolfcreekwatchco.com (Instagram do rodapé; logo do cabeçalho, PNG branco). I (6 fontes): fundador Michael Johansen (site oficial /about; The Calibrated Wrist 01/04/2023); Minnesota (The Calibrated Wrist; Time+Tide 24/04/2023; Fratello 05/10/2023; Gear Patrol 2021); 'Duluth designed', Suíça, Voyageur primeiro modelo com ETA 2801 e parceiros (site oficial); Voyageur US$ 725 e feito na Suíça (Gear Patrol 26/03/2021); North Star Sellita SW300-1 (site oficial; Fratello), lançamento setembro de 2022 (post citado no site oficial), US$ 1.275 (Calibrated Wrist, Time+Tide, Fratello). A confirmar: fundação em 2020 (só The Calibrated Wrist)."
+  },
+  "Wolfpoint": {
+   "H": "@wolfpointco",
+   "K": "https://thewolfpoint.com/cdn/shop/files/WP-Logo-Blue_140x.png?v=1613677421",
+   "I": "A Wolfpoint foi fundada em 2018 em Chicago (EUA), com a proposta de fazer relógios bem-acabados a preço acessível. Os fundadores, de Chicago, vêm de uma família com raízes na relojoaria de Genebra que, desde 1997, mantém uma pequena manufatura de montagem manual na Ásia. O nome vem de Wolf Point, a confluência dos braços norte, sul e principal do rio Chicago, e o 'Y' do logo representa essa bifurcação.\n\nOs primeiros relógios, vendidos direto ao consumidor por cerca de US$ 200, tinham movimentos suíços, vidro de safira e pulseiras de couro da Horween, curtume de Chicago. Em 2019 veio a coleção Fort Dearborn. A marca diz projetar e montar todos os relógios em duas instalações próprias, uma em Hong Kong e outra nos arredores de Chicago. [⚠️ a confirmar: localização das duas instalações (Hong Kong e arredores de Chicago), só The Adult Man]",
+   "M": "H e K: do site oficial thewolfpoint.com (Instagram do rodapé; logo azul do cabeçalho). I (8 fontes): fundação 2018 (site oficial /pages/our-story; The Coolector 06/11/2019; The Adult Man 18/12/2019, 'março de 2018'); família com raízes em Genebra e manufatura na Ásia desde 1997, duas instalações próprias (site oficial; The Adult Man); nome Wolf Point e 'Y' do rio Chicago (site oficial, páginas our-story e inspirations; The Coolector; The Adult Man); preço abaixo de US$ 200, movimentos suíços e couro Horween (InsideHook 08/03/2018; Gear Culture 29/10/2018; The Coolector US$ 199); Fort Dearborn 2019 (The Coolector; The Adult Man). Página inicial do site cita '8 anos'. Fundadores não nomeados em nenhuma fonte. A confirmar: Hong Kong e arredores de Chicago como locais das instalações (só The Adult Man)."
+  },
+  "Wolkov": {
+   "H": "@wolkov.design",
+   "K": "https://static.wixstatic.com/media/43082d_d2bc344cbe4e4645adbee6bf587b17eb~mv2.png",
+   "I": "A Wolkov (Wolkov Design) é a marca do designer William Volcoff, radicado em Xangai, filho de um comerciante de relógios de luxo do sul da França. Depois de duas décadas à frente de uma consultoria de design, ele começou a desenhar seu primeiro relógio automático em 2014; após cerca de cinco anos de desenvolvimento, lançou em 2019 a coleção W20, um relógio de dupla face (mostrador Super 8 de um lado, desenho Art Nouveau do outro), com primeiro lote de 300 peças.\n\nVieram depois coleções como W22 (2022, em pré-venda, com automático suíço Sellita SW200), W24, W25 e W26. A marca tem ponto de venda em Xangai e endereço comercial em Wan Chai, Hong Kong. [⚠️ a confirmar: Volcoff é francês, de Lyon, e chegou a Xangai em 2009 (só SmartShanghai, matéria patrocinada)]",
+   "M": "H e K: do site oficial wolkov.design (Instagram do rodapé; logo do cabeçalho, arquivo original PNG no Wix). I (7 fontes): pai comerciante no sul da França, duas décadas de consultoria de design, desenho desde 2014, W20 em 2019 com dupla face e 300 peças, coleções W22–W26, loja em Xangai e endereço em Hong Kong (site oficial, página about-wolkov); nome William Volcoff (SmartShanghai 28/03/2023; Watchbandit 06/03/2020; Yanko Design 28/09/2023); base em Xangai (SmartShanghai; Watchbandit); W22 com Sellita SW200 e pré-venda em 2022 (Time+Tide 20/06/2022; Yanko Design); relógio dupla face Super 8 (Watchbandit); Orologioblog também consultado. Ano de fundação não escrito: fontes divergem (2014 no Orologioblog, 2018 no Watchbandit; o site oficial só dá 2014 para os primeiros esboços e 2019 para o lançamento). Observação: B/C dizem China/Xangai, mas o único endereço da empresa no site oficial é em Wan Chai, Hong Kong (há loja em Xangai) — só anotado. A confirmar: nacionalidade francesa/Lyon e chegada a Xangai em 2009 (só SmartShanghai)."
+  },
+  "Worden Watch Studio": {
+   "H": "@worden.watch",
+   "K": "https://cdn.prod.website-files.com/68ff0ef040cd3ca2ec8851f1/68ff0f5897d9c65fa205c163_2aca12_bf5a5f43748c4f56a30fa8b8f2c6617a~mv2%201.avif",
+   "I": "A Worden Watch Studio é uma marca canadense de relógios criada pelo designer industrial Tyler Worden, com sede em Guelph, em Ontário. Segundo o site oficial, ele começou o projeto quando estava terminando o curso na Escola de Design Industrial da Universidade Carleton e procurava um relógio de formatura sem encontrar um que o agradasse.\n\nCada lançamento nasce de um tema (um sentimento, uma experiência ou uma ideia) e cada peça é numerada e conferida pelo próprio estúdio. O arquivo oficial lista cinco temas até agora: Via Negativa, Bubble Gum, SunnySide, Afterlife e Night Drift, este o mais recente. A marca expõe em feiras de relógios no Canadá, como o Toronto Timepiece Show, e chama a atenção pelas caixas retangulares e mostradores pouco convencionais.",
+   "M": "H e K: do site oficial wordenwatch.com (link do Instagram no rodapé e na página About; logo do cabeçalho em .avif, hospedado no Webflow). I (7 fontes abertas): wordenwatch.com (início), wordenwatch.com/about, wordenwatch.com/archive, The Calibrated Wrist (resenha do Bubble Gum, 14/12/2025), Watchonista (30 under 30, outono 2026), Fratello (relato do Toronto Timepiece Show 2026), Fratello (página da marca, sem texto útil). Fatos: fundador Tyler Worden, designer industrial (site oficial; The Calibrated Wrist; Watchonista); Guelph, Ontário (site oficial; Fratello); início no fim do curso na Carleton (site oficial); temas e numeração das peças (site oficial, arquivo com 54 peças numeradas); Night Drift como o mais recente (Watchonista; Fratello); Toronto Timepiece Show (The Calibrated Wrist; Fratello); caixas retangulares (Fratello; Watchonista: 'angular cases'). Ano de fundação não achado em nenhuma fonte. Fora do texto por ter uma fonte só: edição única Night Drift pintada à mão com a artista de unhas Caillie (só Watchonista); matéria na TOQUE Magazine (só o site oficial a cita). Obs.: J termina incompleto ('SunnySide — Seiko VH31 quartzo; cerca de US$'); o Bubble Gum custava CA$ 900 (The Calibrated Wrist), não US$ 875 — só anotado."
+  },
+  "WQT": {
+   "G": "wqtwatches.com",
+   "M": "G: wqtwatches.com (aBlogtoWatch, matéria patrocinada da coleção Eclipse, com link para wqtwatches.com/collections/eclipse; release da PRWeb com www.WQTwatches.com). O site oficial bloqueou a leitura (robots_disallowed) e o Firecrawl estava sem créditos, então K não foi preenchido: site oficial não alcançado. B e C não gravados: as duas fontes dizem que a marca tem sede em Dubai e em Los Angeles ao mesmo tempo ('headquarters in both Dubai and Los Angeles'; 'Dubai-Los Angeles based'), sem dizer qual é a principal; a confirmar. Fundada em dezembro de 2017 por Umar Bajwa e Youssef Ayoub (aBlogtoWatch; PRWeb), dado só anotado. Busca por mais fontes (nomes dos fundadores) não trouxe nada."
+  },
+  "Wren": {
+   "G": "wrenwatches.com",
+   "K": "https://wrenwatches.com/cdn/shop/files/wren-removebg-preview.png?v=1752480419&width=396",
+   "M": "C a confirmar (não gravado na revisão): Nova York não combina com B=Suíça, que parece errado (marca de Nova York). G e K: site oficial wrenwatches.com (logo do cabeçalho; Instagram do rodapé @wrenwatches bate com H); também citado pela Wrist Enthusiast. C: Nova York (site oficial, página Our Story: 'an Independent Brand from New York', criada em Nova York em 2024 por Craig Karger; Wrist Enthusiast: marca fundada em 2024 por Craig Karger, de Nova York). ATENÇÃO, B provavelmente errado: a marca é americana (Nova York, empresa Wrist Enthusiast LLC); 'Suíça' vem dos relógios serem Swiss Made, montados na Suíça com movimentos suíços. B não foi alterado (fora de 'falta'); o certo seria USA. Primeiro modelo: Diver One Aqua (site oficial)."
+  },
+  "Wristbuddys": {
+   "B": "Suécia",
+   "C": "Estocolmo",
+   "G": "wristbuddys.com",
+   "K": "https://wristbuddys.com/cdn/shop/files/Logo_blue.png?v=1722778914",
+   "M": "B, C e G: site oficial wristbuddys.com ('We are based in Stockholm, Sweden'; página Terms & Conditions: MJS Internethandel AB, Östermalmsgatan 101, 114 59 Estocolmo, Suécia; Instagram do rodapé @wristbuddys bate com H). K: arquivo de logo do site oficial (Logo_blue.png, o mesmo usado como imagem de compartilhamento; o cabeçalho não expôs o src na leitura). Fundada em 2020 por Samuel Lavatt, a partir de uma pulseira de tecido verde feita num dormitório na Suécia (site oficial, Our Story). A conferir em D e J: a loja vende só pulseiras e acessórios para relógios (ferramentas, estojos, limpeza), não relógios; a própria marca diz não ser afiliada às marcas para as quais faz pulseiras."
+  },
+  "Wrist Hardware": {
+   "H": "@wristhardware",
+   "K": "https://i0.wp.com/wristhardware.com/wp-content/uploads/2021/12/Wrist-Hardware-logo-registered-trademark.png?fit=3805%2C2252&ssl=1",
+   "I": "A Wrist Hardware é uma marca independente e familiar de relógios dos Estados Unidos, com sede em Austin, no Texas, fundada e tocada por J.P. Morales, segundo o site oficial. Antes do primeiro relógio, a marca já era conhecida pelas pulseiras de nylon.\n\nSeu primeiro modelo, o Mk.1 Paramo, um relógio de aventura com movimento de quartzo suíço Ronda Slimtech 1069, chegou ao mercado em 2021 e foi resenhado por blogs especializados em agosto daquele ano, custando cerca de US$ 300. Hoje a loja vende o Paramo em quatro cores, além de pulseiras, joias de prata 925 e relógios de luxo usados autenticados.",
+   "M": "H: @wristhardware (site oficial wristhardware.com, páginas About e Contact; Trustpilot). K: logo do cabeçalho do site oficial (PNG via CDN do WordPress/Jetpack; arquivo original em wristhardware.com/wp-content/uploads/2021/12/Wrist-Hardware-logo-registered-trademark.png). I (7 fontes abertas): wristhardware.com (início), /about, /contact, /mk-1-paramo-info, Two Broke Watch Snobs (resenha do Paramo, 23/08/2021), WatchClicker (resenha do MK1 Paramo, 11/08/2021), Trustpilot (perfil da empresa). Fatos: marca independente, familiar, sediada em Austin (site oficial; Trustpilot); fundador e operador J.P. Morales (site oficial, About; nenhuma outra fonte cita o nome, mas o site oficial basta); pulseiras de nylon antes do relógio (WatchClicker; loja oficial de pulseiras); Paramo como primeiro modelo, Ronda Slimtech 1069 (Two Broke Watch Snobs; WatchClicker; site oficial diz 'quartzo suíço'); 2021 (as duas resenhas, ago/2021, tratam o Paramo como estreia); preço: US$ 295 (Two Broke Watch Snobs), US$ 349 (WatchClicker), US$ 300 hoje (site oficial); quatro cores Patagonia Blue, Polar, Obsidian e Emerald (site oficial); prata 925 e relógios usados (site oficial, About). Ano de fundação da empresa não achado. A conferir: o endereço postal na página Contact é em Montebello (Califórnia) e a descrição do site fala em 'Designed in Los Angeles', embora diga que a sede fica em Austin; C (Austin) não foi alterado."
+  }
+ },
+ "base": "Relogios_atualizada_612.xlsx"
+}

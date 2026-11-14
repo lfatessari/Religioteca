@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 612,
+  "ultima_versao": 613,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10226,6 +10226,13 @@
       "tipo": "lacunas_marcas",
       "marcas": "Uniform Wares a Von Wangenheim (50)",
       "obs": "Rodada 1; pendências dos posts não lidas (ferramenta Projects ausente); Firecrawl sem créditos"
+    },
+    {
+      "versao": 613,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Vortic Watch Company a Wrist Hardware (50)",
+      "obs": "Rodada 2"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10299,10 +10306,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Von Wangenheim",
+    "ultima_marca_revisada": "Wrist Hardware",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T21:42:12Z",
-  "ultimo_sinal": "2026-11-14T22:01:05Z",
-  "onda2_pendente": true
+  }
 }
