@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 610,
+  "ultima_versao": 611,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10195,6 +10195,30 @@
       "marcas": "Tonino Lamborghini a Undone",
       "n": 50,
       "rodada": 1
+    },
+    {
+      "versao": 611,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Unidesign Watch Co. a VeriWatch",
+      "n": 36,
+      "rodada": 2,
+      "fora_do_lote_site_bloqueado": [
+        "Uniform Wares",
+        "Unikatuhren",
+        "Unimatic",
+        "UTS",
+        "UWO",
+        "Valbray",
+        "Valentino",
+        "Valerii Danevych",
+        "Valour Watches",
+        "Van Der Bauwede",
+        "Vanguart",
+        "Velotime",
+        "Veni Vidi Vici",
+        "Ventus"
+      ]
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10268,10 +10292,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Undone",
+    "ultima_marca_revisada": "VeriWatch",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T20:42:15Z",
-  "ultimo_sinal": "2026-11-14T20:59:59Z",
-  "onda2_pendente": true
+  }
 }

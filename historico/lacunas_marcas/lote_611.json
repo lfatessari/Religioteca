@@ -1,0 +1,195 @@
+{
+ "versao": 611,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Unidesign Watch Co.",
+  "Union Glashütte",
+  "Uniq",
+  "Unity",
+  "Universal Genève",
+  "Urban Jürgensen",
+  "Urwerk",
+  "UW",
+  "Vacheron Constantin",
+  "Vaer",
+  "Valhalla of Norway",
+  "VALIMOR",
+  "Valpin",
+  "VanBanner",
+  "Van Cleef & Arpels",
+  "Vancouver Watch Co",
+  "Van Ree",
+  "Vandaag",
+  "Vangarde",
+  "VAPAUS",
+  "Vario",
+  "Varius Watches",
+  "Varon Chiri",
+  "Vasco",
+  "Vault",
+  "Vaymont",
+  "VCXO",
+  "VDB",
+  "VEJRHØJ",
+  "Veldini",
+  "Velini Watches",
+  "Venezianico",
+  "Ventura",
+  "Venturian",
+  "Verdure Watches",
+  "VeriWatch"
+ ],
+ "celulas": {
+  "Unidesign Watch Co.": {
+   "G": "unidesignwatch.com",
+   "M": "G: unidesignwatch.com citado e linkado por duas fontes independentes (The Time Bum, matéria do Model One: 'sign up at UnidesignWatch.com'; aBlogtoWatch, post patrocinado do Model One, link para o site da marca), e bate com o Instagram @unidesignwatch já na planilha. B e C a confirmar: o WristWatchReview diz que o relógio é do 'designer da Virgínia Tony Ngh' (USA, Virgínia), fonte única e sem cidade, por isso não gravado. K não preenchido: o site oficial unidesignwatch.com pediu permissão (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca; Firecrawl sem créditos. Também consultados: Time+Tide (Model One e Autoclassic, sem local)."
+  },
+  "Union Glashütte": {
+   "K": "https://www.union-glashuette.com/static/version1793698907/frontend/Tissot/default/en_US/images/logo/ug_white.svg",
+   "M": "K: logo SVG do cabeçalho do site oficial (página union-glashuette.com/en_int/brand-world-of-union-glashuette-our-history/, aberta pelo link da busca), versão branca 'ug_white.svg'. O caminho tem número de versão e pode mudar quando o site atualizar. Instagram do rodapé confirma @unionglashuette."
+  },
+  "Uniq": {
+   "M": "B, C e G não gravados (a confirmar): só 1 fonte (aBlogtoWatch, review do Uniq GAF) diz que a Uniq é da Geórgia (país, não o estado dos EUA) e cita o site uniqwatches.com (GAF a US$ 350); WatchReport (review GAF44) só mostra bandeira e texto georgianos no mostrador. Site uniqwatches.com não apareceu em nenhuma busca nem foi aberto, e não deu para confirmar que o @uniqwatches da planilha é essa mesma marca (há também a homônima uniqwatchmods.nl, Holanda). Cidade não achada. K não preenchido: site oficial não alcançado. Buscas: 'Uniq watches @uniqwatches', 'uniqwatches.com', 'uniqwatches.com Georgia Tbilisi', 'site:instagram.com uniqwatches', 'Uniq GAF Georgian Armed Forces'. Possível erro em D/J (genéricos): só anotado."
+  },
+  "Unity": {
+   "C": "Barcelona",
+   "G": "unitywatches.com",
+   "M": "C: Barcelona (WristReview, review Jules Verne Limited Edition: 'In this beautiful city... Unity Watches', CEO e dono Eduardo Peres; Relojes-Especiales, review do Strong: 'joven compañía nacida en Barcelona', criada por três sócios). G: unitywatches.com (link nas duas matérias). K não preenchido: o site oficial não apareceu em nenhuma busca (só matérias e Kickstarter do Black Pearl) e não foi aberto; pode estar fora do ar. Modelos citados: Galerna (projeto do fórum Relojes-Especiales), Black Pearl, Jules Verne, Strong. Possível erro em D/J (genéricos): só anotado."
+  },
+  "Universal Genève": {
+   "G": "universalgeneve.com",
+   "H": "@universalgeneve",
+   "K": "https://www.universalgeneve.com/logos/ug/horizontal_black.svg",
+   "M": "G, H e K: do site oficial universalgeneve.com (aberto pelo link da busca; o Deployant 'Universal Genève unveils its new website' confirma o domínio); H = link do Instagram no site; K = logo SVG do cabeçalho (há também uma versão PNG ug-lockup-black.png). Marca relançada pelo grupo de Georges Kern/Breitling (anúncio 2024, relançamento 2026, segundo SJX e Swisswatches); I já escrita não conferida."
+  },
+  "Urban Jürgensen": {
+   "C": "Biel",
+   "K": "https://urbanjurgensen.com/_next/static/media/logo-small-with-year.6b3e8d65.svg",
+   "M": "K: logo SVG do cabeçalho do site oficial urbanjurgensen.com (aberto pelo link da busca; o rodapé usa logo.7548c73f.svg). C: Biel (Monochrome, história da Urban Jürgensen: manufatura 'still based in Biel', sede aberta lá em 2017; Monocle, sobre o relançamento: 'In Biel, the workshop...'; o site oficial não traz endereço). Observação: a origem é dinamarquesa (Copenhague), mas a empresa e a oficina atuais ficam em Biel, Suíça; B 'Dinamarca' mantido (só anotado). Relançamento apresentado em Los Angeles (Monocle), com Kari Voutilainen à frente da relojoaria (site oficial, The Maison). J da planilha cita Reference 1/2, Jürgensen 11, Big 8; o site atual vende UJ-1, UJ-2 e UJ-3 (só anotado). WebFetch direto em https://urbanjurgensen.com sem barra pediu permissão (PROVENANCE_REQUIRED); abriu depois pelo link da busca."
+  },
+  "Urwerk": {
+   "K": "https://urwerk.com/themes/custom/plusb/logo.svg",
+   "M": "K: logo SVG do cabeçalho do site oficial urwerk.com (página /story, aberta pelo link da busca 'site:urwerk.com'). WebFetch direto em https://urwerk.com pediu permissão (PROVENANCE_REQUIRED)."
+  },
+  "UW": {
+   "M": "G e K não achados: buscas por 'UW Watches' Hong Kong, '@uw.watches' e site:instagram.com uw.watches não trouxeram site oficial nem perfil da marca (só resultados de Swatch HK, Atelier Wen, Anicorn e listas de microbrands). A confirmar: identidade da marca (B, C, D, H e J atuais não puderam ser conferidos; nenhuma fonte encontrada)."
+  },
+  "Vacheron Constantin": {
+   "M": "K não preenchido: o cabeçalho do site oficial não tem arquivo de imagem (página vacheron-constantin.com/au/en/maison.html, aberta pelo link da busca: só texto/links no cabeçalho; logo provavelmente SVG embutido). Único arquivo de imagem da página é a imagem de compartilhamento (og:image), não o logo. WebFetch direto em www.vacheron-constantin.com pediu permissão."
+  },
+  "Vaer": {
+   "K": "https://www.vaerwatches.com/cdn/shop/files/VAER_logo_black.png?v=1678125124&width=679",
+   "M": "K: logo preto do cabeçalho do site oficial vaerwatches.com (página inicial aberta pelo link da busca; há também versão branca no mesmo cabeçalho)."
+  },
+  "Valhalla of Norway": {
+   "I": "Valhalla of Norway é uma marca norueguesa de relógios com desenhos inspirados na mitologia nórdica. Um de seus modelos é o Øks (\"machado\" em norueguês), de caixa de 42 mm com movimento automático japonês, oferecido em financiamento coletivo no Kickstarter em 2020. A marca teria sido fundada em 2013 por Roy Klokk e também vende óculos de sol e acessórios. [⚠️ a confirmar: fundação em 2013 por Roy Klokk; venda de óculos e acessórios; campanha no Kickstarter em 2020 — cada um com 1 fonte só]",
+   "M": "I: 3 fontes achadas (menos de 6): megalithwatch.com (lista de marcas norueguesas: fundada em 2013 por Roy Klokk, inspiração na mitologia nórdica, óculos e acessórios); thetimebum.com (resenha do Øks, nov/2020: marca norueguesa, mitologia nórdica, 42 mm, Seiko NH35, Kickstarter); fivefortyfive.nz (anúncio do Øks Limited Edition OKS6, 42 mm, automático japonês). Procurou-se também em finn.no, buscas por Kickstarter, Instagram e 'Roy Klokk' sem resultado. G a confirmar: a resenha do thetimebum liga para valhallaofnorway.no/en/ (fonte única; o site não apareceu em busca e não foi aberto), por isso G não foi gravado. H não achado: buscas 'site:instagram.com valhalla of norway watches' e '\"valhallaofnorway\"' sem resultado. K não preenchido: site oficial não alcançado; Firecrawl sem créditos."
+  },
+  "VALIMOR": {
+   "I": "A VALIMOR é uma marca de relógios sediada em Hong Kong, fundada por Raymond Jones. O nome junta as palavras inglesas \"VALIant\" (valente) e \"arMOR\" (armadura).\n\nO primeiro modelo, o Caliburnus, foi lançado em 2018 pelo Kickstarter, com movimento automático japonês Miyota e luneta com motivo de dragão. Em 2021 veio o Caliburnus II, também por financiamento coletivo no Kickstarter, com o movimento Miyota 8315 de 60 horas de reserva de marcha. A marca também lançou o Valknut, com movimento Miyota 82S0. [⚠️ a confirmar: lançamento do Valknut em 2020]",
+   "M": "I: sede em Hong Kong (luxuriousmagazine.com 2021; watchreport.com 2018; luxuo.com 2021); fundador Raymond Jones (luxuriousmagazine.com; carlthompson.co.uk 2024); nome VALIant + arMOR (carlthompson.co.uk; luxuo.com); Caliburnus no Kickstarter em 2018 com Miyota (luxuo.com; wristwatchreview.com; watchreport.com out/2018; thegadgetflow.com 2018); luneta com dragão (thegadgetflow.com; luxuriousmagazine.com); Caliburnus II 2021 no Kickstarter com Miyota 8315 60 h (wristwatchreview.com; luxuo.com; luxuriousmagazine.com; oracleoftime.com abr/2021); Valknut com Miyota 82S0 (oracleoftime.com mai/2020, fonte única para a data). Também abertas: pledgebox.com (campanha 'Forged Gemstone Watches', Design HK) e pureheartedwatch.blogspot.com — 11 fontes no total. H a confirmar: @valimorwatches aparece linkado só no texto patrocinado do watchreport.com (2018); site oficial valimor.com não abriu (pediu permissão), por isso H não foi gravado. K não preenchido: site oficial não alcançado; Firecrawl sem créditos."
+  },
+  "Valpin": {
+   "B": "Suíça",
+   "C": "Genebra",
+   "G": "valpin.ch",
+   "M": "G: valpin.ch (aBlogtoWatch 'Valpin Watches for Baselworld 2019'; Oracle of Time; WristReview — os três ligam para valpin.ch). B: Suíça (registro comercial VALPIN Sàrl, CHE-350.102.414, cantão de Genebra, objeto 'fabricação e venda de relógios' sob a marca VALPIN — onlineinfo.ch; GPHG: LR05 'Swiss Made', 3.900 CHF; preços em CHF no aBlogtoWatch). C: Genebra (registro: endereço chemin de la Cocuaz 7, 1253 Vandœuvres, cantão de Genebra; Oracle of Time trata a marca como 'Valpin Genève'). K não achado: site oficial valpin.ch não abriu (WebFetch pediu permissão) e não apareceu em busca. Extra (não gravado): fundadores Benjamin Lavizzari e Raphaël Rapin, projeto iniciado em 2014 e marca estabelecida em 2016 (Oracle of Time; aBlogtoWatch)."
+  },
+  "VanBanner": {
+   "I": "A VanBanner é uma microbrand canadense de Vancouver, tocada praticamente por uma só pessoa. Seu primeiro projeto, o Parkingmaster (um mergulhador com luneta), não foi adiante na primeira versão e voltou como Parkingmaster 2.0, com caixa de aço de 40 mm, 200 m de resistência à água e movimento automático Miyota 9039, vendido por cerca de CAD 388 a 450.\n\nDepois vieram outros modelos, como o LEA, o VBAO (38 mm, sem data, Miyota 9039, com a escrita do mostrador desenhada pela artista Isobel Hsu) e o Adroit GMT. [⚠️ a confirmar: fundação em 2020, ligação com a gráfica VanBanner de Vancouver e escrita do VBAO por Isobel Hsu (uma fonte cada)]",
+   "M": "I (5 fontes abertas, menos que 6: a marca é pouco documentada; site oficial vanbannerwatches.com não abriu — WebFetch pediu permissão; buscas por Instagram e fundador não trouxeram mais nada): Vancouver/Canadá (Watchclicker 'VanBanner VBAO review'; The Calibrated Wrist 'Off the Cuff: Vanbanner Parkingmaster' 2021; The Wrist Watchpedia 2023); Parkingmaster original não seguiu e veio o 2.0 (The Calibrated Wrist 'Parkingmaster 2.0' dez/2021: não atingiu a meta de financiamento; Wrist Watchpedia: PM 1.0 abandonado); PM 2.0 com Miyota 9039, 40 mm, 200 m (Calibrated Wrist 2.0: CAD 388; SeriousWatches VBPM281: MSRP CAD 450; Wrist Watchpedia); uma pessoa só (Calibrated Wrist 2.0); LEA (Calibrated Wrist 2.0; Wrist Watchpedia); VBAO 38 mm Miyota 9039 (Watchclicker; Wrist Watchpedia); Adroit (Wrist Watchpedia; já em J). A confirmar (1 fonte): fundação em 2020 (Wrist Watchpedia); ligação com a gráfica VanBanner (Calibrated Wrist 2021, fundador citado só como 'LV'); Isobel Hsu (Watchclicker). H não achado: nenhuma das fontes cita o perfil e a busca site:instagram.com não trouxe resultado. K não achado: site oficial não alcançado."
+  },
+  "Van Cleef & Arpels": {
+   "M": "K não preenchido: a página oficial aberta (vancleefarpels.com/en/collections/watches/poetic-complications.html) não tem arquivo de imagem de logo no cabeçalho (o link 'Van Cleef & Arpels homepage' não traz img/svg com endereço; provavelmente SVG embutido). A confirmar: a imagem de compartilhamento do site, vancleefarpels.com/content/dam/vancleef/open-graph/van-cleef-arpels.png, pode ser o logo, mas não deu para abrir e conferir."
+  },
+  "Vancouver Watch Co": {
+   "I": "A Vancouver Watch Co é uma microbrand que também aparece com o nome Cobra de Calibre em anúncios de relógios usados. Seus relógios usam o movimento automático Miyota 9015; o Blood and Thunder, um dos modelos analisados pela imprensa, era vendido por US$ 329. [⚠️ a confirmar: dono chamado John Lee, citado só pela Watch Report]",
+   "M": "I (3 fontes abertas, marca pouco documentada; site oficial não alcançado; buscas por Instagram, site e o modelo Crossfire não trouxeram matérias): nome Cobra de Calibre (OmegaForums, anúncio 'Vancouver Watch Corp Cobra de Calibre PVD Crossfire', comprado novo em 2016; WatchPatrol, anúncio 'Vancouver Watch Co. (Cobra de Calibre), Molon Labe' de bronze); Miyota 9015 (Watch Report, review do Blood and Thunder; OmegaForums, Crossfire); preço US$ 329 do Blood and Thunder (Watch Report). A confirmar: dono John Lee (só Watch Report). G a confirmar: vancouverwatchco.com aparece só na ficha da Watch Report (StatShow mostra o domínio ativo desde 31/07/2017, numa loja Shopify, mas não confirma que é a marca); WebFetch direto pediu permissão. H não achado: busca site:instagram.com sem resultado. K não achado: site oficial não alcançado. Possível ponto a conferir em J: 'Bronze Crossfire ... cerca de US$ 2' parece preço cortado."
+  },
+  "Van Ree": {
+   "M": "C, G e K não preenchidos. G a confirmar: vanreewatches.com aparece só no aBlogtoWatch (matéria Chrono DNA, 'Van Ree of Holland'); bate com o Instagram @vanreewatches da planilha, mas é uma fonte só e não foi aberto. Fundador: relojoeiro holandês Daniël Floris van Ree (masterhorologer.com 2009; megalithwatch.com). Cidade não citada em nenhuma fonte (masterhorologer, megalithwatch, worldtempus, ablogtowatch, fratellowatches.com)."
+  },
+  "Vandaag": {
+   "G": "vandaag.de",
+   "M": "G: vandaag.de, site oficial ligado em 3 matérias independentes (thecalibratedwrist.com 2022, watchbandit.com hands-on Tiefsee, watchclicker.com review Tiefsee). K não preenchido: o WebFetch não pôde abrir vandaag.de (PROVENANCE_REQUIRED) e o Firecrawl estava sem créditos. Possível erro em C (não alterado): C diz 'Alemanha', mas watchbandit.com e watchclicker.com dizem que a sede é em Oldenburg."
+  },
+  "Vangarde": {
+   "M": "B, C, G e K não preenchidos. A única marca 'Vangarde' achada é a do relógio Tempo Théorie (2011) e Chrono Théorie (GPHG 2014, 6.890 CHF), criada por um designer francês chamado Vangarde (designboom.com; luxatic.com), com site vangarde.fr citado em designboom.com e professionalwatches.com (2011, não aberto). Não foi possível confirmar que é a mesma marca do Instagram @vangardewatches da planilha, nem se a empresa é francesa ou suíça (designer francês, preço em CHF): B a confirmar (França?), G a confirmar (vangarde.fr)."
+  },
+  "VAPAUS": {
+   "I": "A VAPAUS é uma marca britânica de relógios criada pelos irmãos Oliver e Rudi Laing; o nome é a palavra finlandesa para \"liberdade\". O primeiro relógio, o Veli, de 38 mm e inspirado nos relógios dos anos 1950, foi lançado no Kickstarter em julho de 2016, com movimento suíço Sellita SW215-1 de corda manual, em duas versões: Veli 1950 (ponteiros alpha) e Veli 2050 (ponteiros seringa).\n\nEm 2018 a marca voltou ao Kickstarter com o Vorcut, cronógrafo de 38 mm inspirado nos anos 1960, com mecanismo meca-quartz VK64. [⚠️ a confirmar: os irmãos teriam apresentado o conceito em maio de 2015 no fórum Watchuseek (só The Time Bum)]",
+   "M": "Site oficial vapaus.co: WebFetch direto bloqueado (PROVENANCE_REQUIRED) e o domínio não apareceu em nenhuma busca; por isso K não preenchido (logo do cabeçalho não alcançado) e H não achado (nenhuma matéria ou busca trouxe o perfil do Instagram; 2 buscas específicas sem resultado). I (10 fontes): fundadores Oliver e Rudi Laing (Fratello ago/2016; Worn & Wound jul/2018; aBlogtoWatch jul/2018; The Time Bum fev/2017; Watch Review Blog 2019); 'vapaus' = liberdade em finlandês (The Time Bum; significado da palavra); Veli no Kickstarter em jul/2016 (Worn & Wound jul/2016; Master Horologer jul/2016; Trend Hunter jul/2016; Wristwatch Review jul/2016; Gadget Flow ago/2016 com pré-venda em vapaus.co); Sellita SW215-1 e 38 mm (Worn & Wound 2016; Master Horologer; aBlogtoWatch); versões Veli 1950/2050 (Master Horologer; The Time Bum); Vorcut 38 mm VK64 no 2º Kickstarter, 2018 (Worn & Wound jul/2018; aBlogtoWatch jul/2018). A confirmar: apresentação no Watchuseek em maio/2015 (1 fonte). Ano de fundação da empresa não achado. Ponto a conferir em C (não alterado): a Master Horologer diz 'Founded in London, England', e a planilha tem Nottinghamshire."
+  },
+  "Vario": {
+   "B": "Singapura",
+   "K": "https://vario.sg/cdn/shop/files/logo_5_09ecb7ab-9665-4db8-a7c2-2181e67389fa.png?v=1748248944&width=408",
+   "M": "B e K: do site oficial vario.sg (página about-us, aberta pelo link da busca): logo do cabeçalho; endereço Orchard Plaza, 150 Orchard Road #07-05, Singapura 238841; fundada em 2016 por Ivan (Chua) e Judy. Ponto a conferir em H (não alterado): o site oficial liga para o Instagram @varioeveryday, e a planilha tem @variowatch. C está como 'Cingapura'; a forma usada na planilha para o país é 'Singapura' (não alterado)."
+  },
+  "Varius Watches": {
+   "I": "A Varius Watches é uma marca americana de relógios cujo primeiro modelo é o Seek, relógio de mergulho com movimento suíço automático Sellita SW200-1, apresentado em 2025. Antes dela, o dono tentou lançar a marca Pancerna, cuja campanha de financiamento coletivo não atingiu a meta. [⚠️ a confirmar: fundador Ken Mitchell, sede em Ohio e lançamento do Seek no Kickstarter em 1º de setembro de 2025 (só The Time Bum)]",
+   "M": "Site oficial variuswatches.com: WebFetch direto bloqueado (PROVENANCE_REQUIRED) e o domínio não apareceu em busca (site:variuswatches.com sem resultado); por isso K não preenchido (logo não alcançado) e H não achado (busca de Instagram sem resultado; as matérias não citam o perfil). I: só 2 fontes achadas sobre a marca (Watch Report, 13/05/2025; The Time Bum, ago/2025), em 3 buscas (nome + Seek + Columbus/Ohio/Kickstarter); por isso texto curto. Seek como primeiro relógio e Sellita SW200-1 (as duas); dono lançou antes a Pancerna, que não foi financiada (as duas). A confirmar (1 fonte, The Time Bum): fundador Ken Mitchell, 'Ohio-based', Kickstarter em 1º/09. Preços citados: US$ 849 na pré-venda (The Time Bum) e US$ 1.090 no varejo (Watch Report)."
+  },
+  "Varon Chiri": {
+   "B": "Coreia do Sul",
+   "G": "varonchiri.com",
+   "M": "B: marca sul-coreana (Worn & Wound 29/11/2022; Time+Tide 14/11/2022; Monochrome 29/11/2022; aBlogtoWatch 16/11/2022). G: varonchiri.com, link da marca nessas 4 matérias. WebFetch no site oficial bloqueado (PROVENANCE_REQUIRED) e ele não apareceu em busca; por isso K não preenchido (logo não alcançado). C não achado: nenhuma das 4 matérias diz a cidade. H não achado: as matérias só ligam para posts avulsos, e a busca site:instagram.com não trouxe o perfil. Pontos a conferir (não alterados): a aBlogtoWatch diz que a marca nasceu em 2022; o primeiro modelo, o Blazer (Miyota 9039), saiu no Indiegogo por US$ 420, com preço de varejo de US$ 590 × 5,5146 = R$ 3.254, longe de F=15000/E=4; D ('marca autoral de nicho') e J ('Peças autorais') são genéricos (modelos citados na imprensa: Blazer, Hexagon)."
+  },
+  "Vasco": {
+   "B": "França",
+   "C": "Bordeaux",
+   "G": "vasco.watch",
+   "K": "https://vasco.watch/cdn/shop/files/logo_vasco_watch_noir_6b5d20da-cf2a-426d-bee6-3b0ca000d645.png?v=1776424523&width=320",
+   "M": "B, C, G e K: do site oficial vasco.watch (páginas 'notre-marque' e CGV, abertas pelos links da busca): marca fundada em 2016 em Bordeaux, relógios montados em Besançon; endereço legal 29 cours Gambetta, 33400 Talence (região de Bordeaux; também no Cylex); K = logo preto do cabeçalho. Ponto a conferir em H (não alterado): o rodapé do site liga para @vascowatch, e a planilha tem @vascowatches; nenhuma outra marca de relógios 'Vasco' foi achada, mas vale conferir se a linha é mesmo esta marca francesa. Coleções do site: All-Terrain, Instruments (Nautical, Nocturne, Naval) e 24h."
+  },
+  "Vault": {
+   "M": "NÃO PREENCHIDO por dúvida de marca homônima. A marca de relógios 'Vault' mais documentada é a suíça VAULT (vault.swiss), fundada em 2013 por Mark Schwarz e Philippe Schmid, com o modelo V1 (calibre V01 de Andreas Strehler/UhrTeil AG, Sirnach, Turgóvia) a partir de CHF 50.000 (Deployant 'Factory Visit: VAULT Watches and Uhrteil AG Atelier'; aBlogtoWatch 'Vault V1'; Brandfetch vault.swiss). Isso não bate com a linha atual (D 'microbrand de design contemporâneo', E=2, F=3000) nem se confirmou que o Instagram @vaultwatches é dessa marca (a conta citada pelo Brandfetch é @vault.swiss). A confirmar: se a linha é a VAULT suíça, B = Suíça, C = Sirnach (oficina) e G = vault.swiss; nesse caso E/F estariam muito abaixo do preço real. K não achado: site oficial não alcançado."
+  },
+  "Vaymont": {
+   "I": "A Vaymont é uma marca britânica de relógios-ferramenta de titânio que chegou ao mercado por meio de campanhas de financiamento coletivo no Kickstarter. Seu primeiro modelo apresentado na imprensa foi o Ti Diver, de titânio, com 40 mm, 300 m de resistência à água e calibre automático Miyota 9015, oferecido na campanha por £179. [⚠️ a confirmar: ano de fundação, fundador e detalhes do Ti Diver (uma fonte só)]",
+   "M": "I: marca britânica lançada via Kickstarter e Ti Diver (titânio, 40 mm, 300 m, Miyota 9015, £179) — Wristwatch Review UK 'Vaymont Titanium Diver Review'; outra campanha de relógio de titânio e turquesa da Vaymont no Kickstarter (Backerkit 'Titanium and Turquoise Watch from Vaymont': meta £1.000, £12.052 de 46 apoiadores) e título de campanha 'Vaymont titanium watch - Miami Beach' (Kicktraq, página não abriu). Só 2 fontes abertas falam da marca: pouco documentada; procurou-se em imprensa (wristwatchreview, buscas gerais) e Kickstarter/Backerkit/Kicktraq. Fundador e ano não achados. Obs.: os 'TC-9' de J parecem ser de outra microbrand britânica (TC-9, de Toby Cearns) — a confirmar se J está certo. H não achado (buscas sem resultado). K não achado: site oficial vaymont.com pediu permissão (PROVENANCE_REQUIRED) e não apareceu em busca."
+  },
+  "VCXO": {
+   "B": "Suíça",
+   "C": "Genebra",
+   "G": "vcxo-watches.com",
+   "M": "B e C: 'marca de Genebra' (Monochrome 24/06/2014 'Introducing the VCXO Magic Button'; aBlogtoWatch 'VCXO Ox One Magic Button'). G: vcxo-watches.com (Monochrome, aBlogtoWatch e TechCrunch 27/06/2014). Fundador: Adrian Pedrozo (aBlogtoWatch; TechCrunch). K não achado: site oficial pediu permissão (PROVENANCE_REQUIRED) e Firecrawl sem créditos. A conferir: E=2/F=3000 não batem com os preços de pré-venda de 2014 (US$ 9.150 aço, US$ 11.200 cerâmica, US$ 41.150 ouro rosa — aBlogtoWatch); D e J genéricos (modelo principal: Ox One Magic Button, corda manual, 46 mm, acerto por GPS); se a marca ainda está ativa não foi confirmado."
+  },
+  "VDB": {
+   "I": "A Vintage VDB é uma pequena fabricante de relógios de Erfurt, na Turíngia (Alemanha), fundada no fim dos anos 2000 e dirigida por Stephan Obst, com Helmut Lamberty e Christian Seidel na equipe. A marca faz relógios mecânicos de inspiração vintage e militar em séries estritamente limitadas: desde 2011 lança séries anuais de até 200 peças, além de relógios feitos à mão e peças sob encomenda.\n\nSeu modelo mais conhecido é o P 1070 Deepsea, um relógio de mergulho feito à mão com calibre automático de microrrotor Universal Genève, testado no Instituto Fraunhofer, em Ilmenau, para resistir a 12.000 metros de profundidade. [⚠️ a confirmar: ano exato de fundação (2008 ou 2009) e Stephan Obst como fundador]",
+   "M": "I: Erfurt/Turíngia (Discover Germany; página 'Vintage VDB' em thueringenrundfahrt-frauen.de com endereço Karl-Marx-Platz 3, 99084 Erfurt; Delray Watch; WatchTime.net). Fundação divergente: 2008 (WatchTime.net 'Vintage VDB: No Limit'), 2009 (Discover Germany), 'por volta de 2010' (Delray Watch) → texto diz 'fim dos anos 2000'. Stephan Obst fundador (Discover Germany) e gerente-geral (thueringenrundfahrt); Lamberty e Seidel (ambas). Séries anuais limitadas a 200 desde 2011 (thueringenrundfahrt; Discover Germany: edições de no máximo 200; Delray: séries VDB 2011/2012/2014). Feitos à mão e sob encomenda (thueringenrundfahrt; Discover Germany). P 1070: 12.000 m, Fraunhofer (Discover Germany; WatchTime.com 'Dive Watch Wednesday'; OceanicTime 11/2014; Master Horologer 23/11/2014 — Ilmenau nas duas últimas); Microtor Universal Genève (WatchTime.com; OceanicTime; Master Horologer). Retirado por divergência: significado do nome ('Vintage Daily Beater' segundo Discover Germany × 'Vintage-Vertrieb-Deutschland-Baumbach' segundo Delray). 8 fontes. H não achado (buscas sem perfil da marca). K não achado: site oficial pediu permissão (PROVENANCE_REQUIRED). Obs.: uma fonte escreve o site como vintagevdb.com; G atual vintage-vdb.com aparece na Discover Germany e na OceanicTime."
+  },
+  "VEJRHØJ": {
+   "I": "A VEJRHØJ é uma marca dinamarquesa de relógios fundada em 2013 em Copenhague por Janus Lykke Aarup; a empresa começou como firma individual e virou a Vejrhøj ApS em 2015. Ficou conhecida por relógios minimalistas que combinam madeira natural (como nogueira, cerejeira e bordo) com aço inoxidável 316L e movimentos de quartzo suíços Ronda.\n\nA marca lançou modelos por financiamento coletivo, inclusive no Kickstarter, e tem forte presença no Japão, onde seu modelo de cerejeira fez grande sucesso. Para cada relógio vendido, apoia o plantio de árvores em áreas desmatadas, e seus relógios chegaram a ser vendidos na loja do museu SFMOMA, em São Francisco. [⚠️ a confirmar: prêmio Brand New Nordic Award de 2017]",
+   "M": "I: fundador Janus (Lykke) Aarup (Scan Magazine fev/2023; Wristwatch Review 'Introducing the Vejrhøj Nautic'; Product Hunt; Routes North; registro CVR). Fundação 2013 em Copenhague (Routes North; CVR 35331409 'Vejrhøj Danmark', firma individual de 01/08/2013, København S, baixada em 2016; Scan Magazine 2023 'fundada há dez anos'). Vejrhøj ApS, CVR 37243841, 20/11/2015, diretor Janus Lykke Aarup (danskcvrapi.dk). Madeira + aço (Scan Magazine; Scandification; Routes North; Wristwatch Review; SFMOMA Museum Store, modelo Arch em bordo). Ronda quartzo (Scandification; Wristwatch Review: Nautic com Ronda 762). Crowdfunding (Scandification: campanha no Japão; Wristwatch Review: Nautic financiado coletivamente; Product Hunt: link do Kickstarter). Japão/cerejeira (Scan Magazine; Scandification). Árvores (Scan Magazine: One Tree Planted; Routes North). Prêmio Brand New Nordic 2017 só na Scandification → a confirmar. 8 fontes. H não gravado: @vejrhoj aparece só na Scan Magazine (busca no Instagram sem resultado) — a confirmar. K não achado: site oficial vejrhoj.com pediu permissão (PROVENANCE_REQUIRED)."
+  },
+  "Veldini": {
+   "M": "Nada novo achado: B, C, G e K não achados. 5 WebSearch (\"Veldini watches official site\", \"veldiniwatches\"/\"Veldini\" watch, site:instagram.com veldiniwatches, \"Veldini timepieces watches shop\") só trouxeram marcas parecidas (Venezianico, Velveta, Meccaniche Veloci, Welder). Nenhum site oficial nem fonte sobre a marca. Ainda a verificar: se o nome ou o Instagram @veldiniwatches estão certos."
+  },
+  "Velini Watches": {
+   "M": "Nada novo achado: B, C, G e K não achados. 4 WebSearch (\"Velini watches official site\", \"veliniwatches\"/\"Velini\" watch brand, site:instagram.com veliniwatches, \"Velini watches shop automatic\") só trouxeram marcas parecidas (Veloci, das Filipinas; Elini, belga; Velin da Pierre Lannier). Nenhum site oficial nem fonte sobre a marca. Ainda a verificar: se o nome ou o Instagram @veliniwatches estão certos."
+  },
+  "Venezianico": {
+   "K": "https://www.venezianico.com/cdn/shop/files/Black_logo_variant_white_background_copia.png?v=1737559642&width=1200",
+   "M": "K: logo do cabeçalho do site oficial venezianico.com (aberto pelo link de uma busca; a abertura direta de https://venezianico.com pediu permissão). Observação: o rodapé do site oficial liga ao Instagram instagram.com/venezianico_official, e na coluna H está @venezianico. H não foi alterado; ainda a verificar qual é a conta oficial."
+  },
+  "Ventura": {
+   "G": "venturawatches.com",
+   "M": "G: venturawatches.com, site da marca relançada em 2019 (V-Matic Ego no Kickstarter) pela Zeon Ltd (Reino Unido), citado por SJX (jun/2019) e aBlogtoWatch (2019); o site antigo era ventura.ch (comunicado Presseportal, 13/03/2007). Site oficial não aberto (WebFetch pediu permissão em venturawatches.com), então não foi possível ver se ainda está ativo. C não preenchido: o comunicado de 2007 dá Volketswil (1 fonte só) e a Architonic (2012) cita estúdio de design em Zurique; a confirmar. Observação: o dono atual é a britânica Zeon Ltd (SJX), mas B continua Suíça (só anotado). H e K não achados: site oficial não abriu e nenhuma busca trouxe Instagram da marca. Fontes: watchesbysjx.com, ablogtowatch.com, presseportal.ch, architonic.com (2 páginas), europastar.com, delraywatch.com, indiegogo.com, fratellowatches.com, trea.com."
+  },
+  "Venturian": {
+   "I": "A Venturian é uma marca americana de relógios de campo e aventura com movimento solar Epson VS22, criada pelo designer gráfico e esportista Jason Strong em 2021. Seu primeiro modelo, o Wildsider, nasceu de uma campanha no Kickstarter, financiada no fim de 2022; depois a marca passou a vender direto pelo próprio site, onde lançou uma versão de 38 mm por US$ 339. [⚠️ a confirmar: fundador Jason Strong, ano de 2021 e financiamento no fim de 2022 (só The Time Bum)]",
+   "M": "I: história nova com só 2 fontes achadas (marca pouco documentada): The Time Bum (08/01/2024: fundador Jason Strong, 2021, Kickstarter no fim de 2022, Wildsider US$ 339) e WristwatchReview (2023: início no Kickstarter com o Wildsider, venda direta, versão 38 mm US$ 339, Epson VS22B-07). Procurado também em Garden & Gun (era sobre a Weiss), WatchCrunch (página de Jason Strong veio vazia) e buscas sobre Kickstarter/Daytripper (sem resultado útil). H não achado: buscas 'site:instagram.com venturian watches' e de imprensa não trouxeram o perfil. K não achado: site venturian.co não abriu (WebFetch pediu permissão) e não apareceu em busca."
+  },
+  "Verdure Watches": {
+   "I": "A Verdure Watches é uma marca americana de Hackensack (Nova Jersey), criada e desenhada por Eddie Johnson. Ele se interessou por componentes de relógio na faculdade, começou montando e vendendo peças e depois passou a desenhar modelos próprios; o Journeyman GMT, com índices inspirados em janelas de avião, é uma das peças de assinatura da marca, que se apresenta como cristã e usa o lema \"Time Well Spent\". [⚠️ a confirmar: ano de fundação (2012 segundo a Village.ai; primeira coleção em 2015 segundo o International Business Times), trajetória do fundador, Journeyman GMT como peça de assinatura e lema (cada um de 1 fonte só)]",
+   "M": "I: história nova com só 2 fontes achadas (marca pouco documentada): Village.ai (fundador e designer Eddie Johnson, 2012, Hackensack NJ, marca cristã, lema 'Time Well Spent') e International Business Times via inkl (Eddie Johnson, primeira coleção em 2015, trajetória, Journeyman GMT). Só o nome do fundador tem 2 fontes; Hackensack bate com C. Divergência: fundação 2012 × primeira coleção 2015 (a confirmar). H a confirmar: existe um perfil @verdurewatches (espelho imginn.com nos resultados de busca), mas não foi possível abrir a página nem ligar o perfil ao site oficial. K não achado: site verdurewatches.com não abriu (WebFetch pediu permissão). Observação: Village.ai dá o site como verdure-watches.com (com hífen), e G está verdurewatches.com (só anotado)."
+  },
+  "VeriWatch": {
+   "I": "A VeriWatch nasceu em Bari, no sul da Itália, onde o relojoeiro Giulio Capezzuto abriu sua loja e oficina em 1956. O nome vem de \"Veri\", diminutivo de Saverio, amigo que o ajudou a abrir a primeira loja; por um tempo a marca também se chamou VeryWatch.\n\nNos anos 1970, em parceria com a Squale, a marca se firmou nos relógios de mergulho, e o Octopus, lançado em 1973, virou seu modelo mais conhecido. A VeriWatch fechou nos anos 1990.\n\nO empresário italiano Alessandro Leali relançou a marca com a autorização da família Capezzuto e, em 2023, apresentou o novo Octopus 1973, por € 1.050.",
+   "M": "I: 6 fontes abertas (4 publicações): Time+Tide (Capezzuto, loja em Bari 1956, Saverio, VeryWatch, Squale, Octopus 1973, € 1.050), WristReview 01/12/2023 (loja e oficina 1956, Saverio, Squale, Leali, € 1.050), WristReview hands-on com data (Bari 1956), WristReview hands-on sem data (1956, VeryWatch, € 1.050), OrologioBlog (Capezzuto, fechamento nos anos 1990, relançamento por Alessandro Leali de Brescia com documentos e marca cedidos pela família, € 1.050) e The Calibrated Wrist 30/09/2023 (Squale nos anos 1970, Octopus 1973, fechamento no início dos anos 1990, Leali com a bênção da família). Ficou fora do texto (1 fonte só, The Calibrated Wrist): registro do nome em 1961, relançamento em 2021 e fechamento pela crise do quartzo. H a confirmar: @veriwatch1956 aparece só no OrologioBlog. K não achado: site veriwatch.it não abriu (WebFetch pediu permissão em veriwatch.it e veriwatch.it/en/) e a busca 'site:veriwatch.it' não trouxe o site."
+  }
+ },
+ "base": "Relogios_atualizada_610.xlsx"
+}
