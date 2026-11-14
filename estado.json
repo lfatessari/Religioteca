@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 580,
+  "ultima_versao": 581,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9983,6 +9983,12 @@
       "tipo": "lacunas_marcas",
       "marcas": "Black Goose a Bühlmann Watches",
       "n": 40
+    },
+    {
+      "versao": 581,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Buler a Celegin (39; Cartier ficou na fila, K não pesquisado)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10056,9 +10062,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 40,
-    "ultima_marca_revisada": "Bühlmann Watches",
+    "ultima_marca_revisada": "Celegin",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T04:41:48Z",
-  "ultimo_sinal": "2026-11-14T04:46:39Z"
+  }
 }
