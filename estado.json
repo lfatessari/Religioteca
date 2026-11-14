@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 588,
+  "ultima_versao": 589,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10038,6 +10038,14 @@
       "marcas": "Fromanteel a GRD",
       "n": 50,
       "obs": "rodada 1 de 2; Firecrawl sem créditos"
+    },
+    {
+      "versao": 589,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Greco Genève a Harwood",
+      "n": 50,
+      "obs": "rodada 2 de 2; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10111,10 +10119,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "GRD",
+    "ultima_marca_revisada": "Harwood",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T11:02:39Z",
-  "ultimo_sinal": "2026-11-14T11:16:43Z",
-  "onda2_pendente": true
+  }
 }
