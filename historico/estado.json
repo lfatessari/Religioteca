@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 606,
+  "ultima_versao": 607,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10166,6 +10166,13 @@
       "tipo": "lacunas_marcas",
       "marcas": "S.Oliver a Shoreham (50)",
       "rodada": 1
+    },
+    {
+      "versao": 607,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Sicura a Stewart Dawson (50)",
+      "rodada": 2
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10239,10 +10246,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Shoreham",
+    "ultima_marca_revisada": "Stewart Dawson",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T18:42:16Z",
-  "ultimo_sinal": "2026-11-14T18:58:35Z",
-  "onda2_pendente": true
+  }
 }
