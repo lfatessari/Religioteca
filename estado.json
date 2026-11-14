@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 576,
+  "ultima_versao": 577,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9952,6 +9952,13 @@
       "versao": 576,
       "pedido_usuario": true,
       "obs": "Planilha v576 enviada pelo usuário e gravada no repositório. Em relação à v568: AATOS excluída (linha 18 da Marcas e 43 linhas da Relógios; Marcas abaixo de 18 → −1, Relógios depois do bloco AATOS → −43) e 159 marcas com lacunas preenchidas (linhas 10 a 245, até Autodromo), cada uma com nota em M. proxima_linha_marcas 868 → 867 (Grieb & Benzinger)."
+    },
+    {
+      "versao": 577,
+      "data": "2026-11-14",
+      "tipo": "lacunas_historia_marcas",
+      "marcas": "11i11 saat a Aerotec (40)",
+      "obs": "Só história (I) e M; Firecrawl sem créditos; fila restante 2044"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10025,9 +10032,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 40,
-    "ultima_marca_revisada": "Autodromo",
+    "ultima_marca_revisada": "Aerotec",
     "obs": "Desde 14/11/2026: lacunas (B–H, J, K) e História (I) juntas, 40 marcas por execução, de cima para baixo. Fila = toda marca sem 'istória revisada' em M (as 159 já com 'Lacunas revisadas' entram só para a história). Fim da fila → fase 'relogios'."
-  },
-  "em_execucao": "2026-11-14T01:12:56Z",
-  "ultimo_sinal": "2026-11-14T01:20:28Z"
+  }
 }
