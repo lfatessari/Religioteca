@@ -1,0 +1,252 @@
+{
+ "versao": 590,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Haute-Rive",
+  "Hautlence",
+  "Havaan Tuvali",
+  "Haven Watch Co",
+  "Havid Nagan",
+  "Hawaiian Lifeguard",
+  "HD3",
+  "Hebdomas",
+  "Hebe",
+  "Hegid Watches",
+  "Heinrich",
+  "Heitis Watch Company",
+  "Helfe Watches",
+  "Helgray",
+  "Helicon",
+  "Helix",
+  "Helm Watches",
+  "Helson",
+  "Helvetia",
+  "Hemel",
+  "Henri Duvoisin",
+  "Henry Archer",
+  "Hentschel Hamburg",
+  "Herbelin",
+  "Hercules Watches",
+  "Heritage Watch Manufactory",
+  "Hermes",
+  "Héron",
+  "Herzog",
+  "HerzWerk",
+  "Hesili",
+  "Heuer",
+  "Heure Raffinee",
+  "Hexa",
+  "HGP Dive Watches",
+  "Hilli Watches",
+  "Hilts",
+  "Hirsch",
+  "Hitori",
+  "HKED",
+  "HMNWatch",
+  "HMT Watches",
+  "Hoffman",
+  "Höglund & Sons",
+  "Holgar",
+  "Holthinrichs",
+  "Hooke & Huygens",
+  "Hook + Gaff",
+  "Hoptroff",
+  "Horage"
+ ],
+ "celulas": {
+  "Haute-Rive": {
+   "M": "K não preenchido: o site oficial hauterive.swiss não apareceu em nenhum resultado de busca (3 buscas: 'hauterive.swiss Haute-Rive watches official site', '\"hauterive.swiss\"', 'site:hauterive.swiss Honoris' e uma busca de imprensa; só vieram a comuna de Hauterive NE e matérias da Watchonista/Monochrome) e o Firecrawl estava sem créditos; logo a buscar no cabeçalho do site oficial."
+  },
+  "Hautlence": {
+   "K": "https://www.hautlence.com/cdn/shop/files/hautlence-logo-noir.png?v=1741693296&width=300",
+   "M": "K: logo do cabeçalho do site oficial hautlence.com (versão preta, hautlence-logo-noir.png; existe também a versão branca hautlence-logo-white.png)."
+  },
+  "Havaan Tuvali": {
+   "G": "havaantuvali.com",
+   "M": "G: havaantuvali.com, citado como site da marca em 3 fontes independentes (entrevista com o fundador Eric Yeh em watchisthis.com; Worn & Wound sobre o Heritage 72, com link para havaantuvali.com/product-page/heritage-72; blog Oceanic Time 2018). A entrevista também confirma o Instagram @havaantuvali e a fundação em 2016 por Eric Yeh. C não achado: nenhuma das fontes abertas (watchisthis, Worn & Wound, Oceanic Time) cita a cidade; o registro de marca da Justia (Havaan Tuvali Watch Co., Ltd.) deu erro ao abrir; buscas com Taipei/Taichung/Kaohsiung/Tainan sem resultado. K não preenchido: o site oficial não apareceu em nenhum resultado de busca (só links dentro de matérias) e o Firecrawl estava sem créditos."
+  },
+  "Haven Watch Co": {
+   "I": "A Haven Watch Co. é uma marca independente do Meio-Oeste dos Estados Unidos, ligada aos estados de Indiana e Minnesota, fundada por Weston Cutter, professor de inglês numa universidade de Indiana. A marca estreou em 2019 com o Chilton, cronógrafo de corda manual com o calibre suíço Sellita SW510M, vendido direto pelo site por US$ 1.799.\n\nAs caixas, os mostradores e os ponteiros vêm da Ásia, e as pulseiras são cortadas à mão localmente. Em 2022 veio o Chilluminati, cronógrafo de 37,5 mm com o Sellita SW510 M BH, por US$ 1.999. [⚠️ a confirmar: dados do Chilluminati (1 fonte só)]",
+   "M": "I (7 fontes abertas): estreia em 2019 com o Chilton, Sellita SW510M e US$ 1.799 (SJX jun/2019; Gear Patrol jun/2019; Time+Tide; aBlogtoWatch). Meio-Oeste, Indiana e Minnesota (SJX; Gear Patrol; Time+Tide). Fundador Weston Cutter (Hodinkee Japão 2021; Beyond the Dial; aBlogtoWatch). Professor de inglês em universidade de Indiana (aBlogtoWatch; Hodinkee Japão cita a University of Saint Francis). Caixas/mostradores/ponteiros da Ásia e pulseiras cortadas localmente (Hodinkee Japão; aBlogtoWatch). Chilluminati 2022, SW510 M BH, US$ 1.999: só Beyond the Dial (a confirmar). Fratello 2019 aberta, sem fatos novos. Não usado por ter 1 fonte só: montagem final por Donovan Paradise (IndWatchGuys, Fort Wayne) e início do projeto em 2018 (Hodinkee Japão). Ano de fundação da empresa não achado. K não preenchido: o site oficial havenwatchco.com não apareceu em nenhum resultado de busca (3 buscas) e o Firecrawl estava sem créditos. Saint Francis Magazine deu erro 404."
+  },
+  "Havid Nagan": {
+   "E": 6,
+   "F": 68932,
+   "I": "A Havid Nagan é uma marca independente de Los Angeles (Califórnia, EUA), criada por Aren Bazerkanian, que não tem formação de relojoeiro. Depois de cerca de dois anos e meio de desenvolvimento, a marca abriu encomendas em fevereiro de 2022 para o HN00, relógio de titânio com mostrador guilhochê estampado e calibre automático de micro-rotor ASE 200 da Schwarz Etienne, por US$ 8.000; a versão Arka Blue foi limitada a 100 peças.\n\nEm 2023 veio o HN01 Lucine, com fase da lua, e em fevereiro de 2025 o Classic One, com calibre de corda manual AMT6600 da AMT Manufacture (divisão especializada da Sellita) e pulseiras da Jean Rousseau Paris, por US$ 9.000. Em 2026 a marca apresentou o HN02, também com o AMT6600, limitado a 42 peças. [⚠️ a confirmar: campanha no Kickstarter em 2019 para os protótipos (só SJX); base Chronode e preço de US$ 15.000 do HN01 (só Worn & Wound); HN02 limitado a 42 peças por US$ 18.000 (só Monochrome)]",
+   "M": "I (10 fontes abertas): fundador Aren Bazerkanian (SJX 2022; Monochrome HN00; Monochrome NH02 2026; Worn & Wound HN01; Monochrome Classic One; WatchPro 2022; Time+Tide; Teddy Baldassarre). Los Angeles (Monochrome HN00; Monochrome NH02; Fratello 2025; Teddy Baldassarre). Sem formação de relojoeiro (Monochrome HN00; Teddy Baldassarre). Dois anos e meio de desenvolvimento e encomendas em fev/2022 (WatchPro; Monochrome HN00). HN00: titânio, ASE 200 Schwarz Etienne, US$ 8.000 (Worn & Wound dez/2021; SJX; Monochrome HN00; WatchPro); Arka Blue 100 peças (SJX; WatchPro; Monochrome HN00). HN01 Lucine em 2023 (Teddy Baldassarre; Time+Tide). Classic One fev/2025, AMT6600 da AMT Manufacture, US$ 9.000 (Monochrome; Time+Tide; Teddy Baldassarre); pulseiras Jean Rousseau (Monochrome; Time+Tide). A confirmar (1 fonte): Kickstarter 2019 (SJX); base Chronode e US$ 15.000 do HN01 (Worn & Wound); HN02 2026, 42 peças, US$ 18.000 (Monochrome). F: média dos preços de lançamento dos 4 modelos (HN00 US$ 8.000; HN01 US$ 15.000; Classic One US$ 9.000; HN02 US$ 18.000) = US$ 12.500 × 5,5146 = R$ 68.932 → E = 6. Possível erro (não alterado): D diz 'movimentos desenvolvidos com a Chronode' e J diz HN02 e HN00 'colaboração Chronode', mas o HN00 usa Schwarz Etienne ASE 200 e o HN02/Classic One usam AMT6600 da AMT Manufacture; só o HN01 tem base Chronode (Worn & Wound). H não achado: nenhuma das 10 matérias cita o perfil da marca (a Worn & Wound diz que a marca tinha 'just under 1,000' seguidores em 2021, sem dar o nome) e as buscas 'Havid Nagan instagram' e 'site:instagram.com \"Havid Nagan\"' não trouxeram o perfil. K não preenchido: o site oficial havidnagan.com não apareceu em nenhum resultado de busca ('site:havidnagan.com' e outras) e o Firecrawl estava sem créditos."
+  },
+  "Hawaiian Lifeguard": {
+   "G": "timeconcepts.net",
+   "M": "G: timeconcepts.net, site da fabricante Time Concepts, LLC, que aparece no folheto oficial dos relógios HLA (OfficialHLAwatchBrochure, cdn.shopify.com) e é o endereço para onde a InsideHook liga a coleção (timeconcepts.net/collections/hla). Não existe um site próprio da marca. K não preenchido: o site timeconcepts.net não apareceu em nenhum resultado de busca (o Firecrawl estava sem créditos), por isso o logo do cabeçalho não foi conferido. Ponto a conferir em C (não alterado): segundo o folheto, a fabricante fica em Corte Madera, Califórnia (PO Box 7067), e não no Havaí. O nome Hawaiian Lifeguard Association é licenciado. Fontes: folheto oficial HLA, InsideHook, watches.com, Lamnia e Aztek (revendedores 'Time Concepts')."
+  },
+  "HD3": {
+   "M": "G, H e K não achados. O site antigo era HD3complication.com, citado num fórum da WatchProSite; o mesmo post diz que ele só mostrava o Slyde. Esse domínio não aparece em nenhuma busca atual, e não há sinal de que a marca ainda esteja ativa. O Instagram oficial também não foi encontrado: a busca site:instagram.com não trouxe nada, e nem Hourstriker nem WatchProSite citam um perfil. Lugares pesquisados: buscas 'HD3 Complication official site', 'hd3complication.com' e Instagram; páginas Hourstriker e WatchProSite; a página da MasterHorologer deu erro. Firecrawl sem créditos."
+  },
+  "Hebdomas": {
+   "M": "G, H e K não achados: não apareceu site oficial nem Instagram da marca nas buscas ('Hebdomas watch brand official site', site:instagram.com). Pelo que se achou, é uma marca histórica: a Europa Star traz 'SCHILD S.A. \"Hebdomas\"' (Basileia, feira de 1968, design 'quase inalterado desde 1885') e o lançamento de um cronógrafo rattrapante Valjoux 7750 na Basel 95. Não há sinal de atividade atual. A página da MasterHorologer deu erro. Ponto a conferir em C (não alterado): a ficha de 1968 da Europa Star liga a Hebdomas a Basileia, e não a Genebra. Firecrawl sem créditos."
+  },
+  "Hebe": {
+   "M": "G, H e K não achados: não apareceu site oficial nem Instagram nas buscas ('Hebe Watch Swiss', 'Hebe Watch Co Le Locle 1895'). Fontes: Europa Star (Hebe Watch Co., modelo Helvetia de 1995, lançado pelos 100 anos da empresa) e MasterHorologer (2012: 'fundada em 1901 em Alle', comprada por novos investidores em 2011, coleção nova em 2012). Não há sinal de atividade depois de 2012. Pontos a conferir (não alterados): C diz Le Locle, mas a MasterHorologer diz Alle (Jura); a data de fundação diverge entre as fontes (1895 pela Europa Star, 1901 pela MasterHorologer). Firecrawl sem créditos."
+  },
+  "Hegid Watches": {
+   "M": "K não preenchido: o site oficial hegid.com não apareceu em nenhum resultado de busca (foram 3 buscas, inclusive site:hegid.com), e sem Firecrawl (sem créditos) não foi possível abrir o cabeçalho para pegar o logo. A marca e o domínio foram confirmados na imprensa (aBlogtoWatch, Monochrome, Fratello, Europa Star, WatchTime), mas nenhuma dessas fontes mostra a URL do logo do site."
+  },
+  "Heinrich": {
+   "C": "Stuttgart",
+   "G": "heinrich.watch",
+   "M": "C: Stuttgart — marca fundada em 2021 por Wolfgang Heinrich em Stuttgart, relógios desenhados em Stuttgart e montados em Pforzheim (WatchTime.net, página especial 'Deutsche Uhrenmarken: Heinrich Watches' e matéria 'Heinrich Taucher 2 GMT: Stuttgarter Uhrenmarke...'; Master Horologer, ago/2020; Oceanic Time, set/2020). G: heinrich.watch (link oficial citado pela WatchTime, Worn & Wound 'Hands-On: Heinrich Helicoprion', Master Horologer e Oceanic Time). K não preenchido: o site oficial não apareceu em nenhum resultado de busca e o Firecrawl estava sem créditos, então não deu para ver o logo do cabeçalho. Observação (não alterado): D diz 'relógios de design', mas a imprensa mostra sobretudo mergulhadores (Taucher, Taucher 2 GMT, Helicoprion) e a linha social Radiance; J está genérico."
+  },
+  "Heitis Watch Company": {
+   "I": "A Heitis Watch Company é uma microbrand de Buffalo, no estado de Nova York (EUA), criada por DJ Heider. Ele começou modificando e personalizando relógios, fez escola de relojoaria e passou a montar os próprios relógios em sua oficina em Buffalo.\n\nA primeira série, avaliada pela imprensa em 2017 e 2018, tinha três modelos de quartzo abaixo de US$ 200: o Classic, de estilo social; o Chronograph, de inspiração automobilística; e o Aviator, de piloto. Em 2018 a marca lançou pelo Kickstarter o Okeanos Explorer, seu primeiro relógio de mergulho. Depois veio uma segunda versão do cronógrafo, com o movimento mecânico Seagull ST19. [⚠️ a confirmar: data (2021) e preço (US$ 479) do Chronograph ST19 V2 — só Two Broke Watch Snobs]",
+   "M": "I: 6 páginas abertas de 4 publicações (site oficial não alcançado: heitiswatch.com não apareceu como resultado de busca e o Firecrawl estava sem créditos). Fundador DJ Heider e oficina em Buffalo (aBlogtoWatch 'Heitis Watch Company Aviator'; The Time Bum, jan/2018; Two Broke Watch Snobs, Aviator Black PVD, mai/2017; WristWatchReview, Okeanos Explorer, mar/2018). Começo modificando relógios e escola de relojoaria (aBlogtoWatch; The Time Bum). Três modelos de quartzo abaixo de US$ 200: Classic, Chronograph e Aviator (Two Broke Watch Snobs 2017; The Time Bum 2018). Okeanos Explorer, primeiro mergulhador, via Kickstarter em 2018 (Two Broke Watch Snobs, mar/2018; WristWatchReview, mar/2018). Chronograph ST19 V2 (Two Broke Watch Snobs, mai/2021; também Chronograph Review, mai/2017) — a confirmar. Retirado por ter uma fonte só: inspiração nos pilotos da Segunda Guerra e Kickstarter do Aviator (só aBlogtoWatch). Sem ano de fundação nas fontes. H não achado: nenhuma matéria cita o perfil e a busca no Instagram não trouxe a conta. K não preenchido: site oficial não alcançado."
+  },
+  "Helfe Watches": {
+   "M": "Nada novo achado: 4 buscas ('Helfe watches official site', '\"Helfe\" watch brand instagram helfewatches', '\"helfewatches\"', 'Helfe Uhren watches microbrand') só trouxeram outras marcas (HELM Watches, Helveti). B, C, G e K não achados: nenhuma fonte sobre a marca. Ainda a verificar: se o nome/perfil @helfewatches está certo e se a marca existe; D, E, F e J parecem genéricos (preenchidos sem fonte)."
+  },
+  "Helgray": {
+   "I": "A Helgray é uma marca canadense criada por Nadim Elgarhy, de Montreal, que queria um relógio de visual vintage a preço acessível e não achava um que o satisfizesse. A marca estreou em 2014 com uma campanha no Kickstarter para a primeira série, de inspiração militar e vintage, com quatro modelos: Field Officer, California, GMT e o cronógrafo Skyfighter.\n\nNo fim de 2014 veio o Silverstone, cronógrafo meca-quartzo inspirado nos carros de corrida dos anos 1960, que abriu a linha automobilística da marca, depois seguida por modelos como o Le Mans e, em dezembro de 2019, a coleção Superfast, com versões de quartzo e automáticas. Elgarhy também está por trás da Rossling & Co., que divulgou a Helgray no início. [⚠️ a confirmar: nome do fundador e Montreal (só Worn & Wound, duas matérias); a marca Makara como do mesmo criador (só Worn & Wound)]",
+   "M": "I: 8 páginas abertas (site oficial não alcançado: helgray.com não apareceu em busca; WatchPatrol deu erro duas vezes). Fundador Nadim Elgarhy, Montreal e motivação de criar a marca (Worn & Wound 'Military Inspired Watches by Helgray', 11/03/2014, e entrevista com Nadim Elgarhy, 19/06/2015 — mesma revista, por isso 'a confirmar'). Kickstarter em 2014 (Worn & Wound mar/2014; Gessato mar/2014; The Brooks Review dez/2014). Quatro modelos Field Officer, California, GMT e Skyfighter (Worn & Wound; Cool Material, 12/03/2014). Silverstone dez/2014, meca-quartzo, inspiração anos 1960 (Worn & Wound 'Introducing the Helgray Silverstone' 05/12/2014; Uncrate; títulos Gadget Flow e OmegaForums). Le Mans (Imboldn; lojas Five Forty Five). Superfast dez/2019 com quartzo e automático (Cool Material, 26/12/2019; Imboldn). Rossling & Co. ligada à Helgray (Gessato: Helgray como família da Rossling & Co.; Worn & Wound: as duas do mesmo criador). Retirado por fonte única: movimentos Ronda e caixa de 42 mm (só Cool Material); Rossling em Cambridge, Massachusetts (só Gessato). Observação: C da planilha diz Beaconsfield (Quebec), cidade da região de Montreal; não conferido. K não preenchido: site oficial não alcançado."
+  },
+  "Helicon": {
+   "B": "Reino Unido",
+   "G": "heliconwatches.com",
+   "M": "B: Reino Unido (Trustpilot, dados da empresa 'The Helicon Watch Company': endereço em Woodford Green, United Kingdom; Oceanic Time, jan/2024: 'mom and pop business from the UK'). G: heliconwatches.com (Trustpilot; Time+Tide 'Micro Mondays: Helicon... 62 Master Blue Hour'; Oceanic Time; artigo de Peter Brooker sobre a parceria com Timothy Everest MBE, jun/2024). Mesma marca da planilha: o domínio bate com o Instagram @heliconwatches; o modelo principal é o mergulhador Master 62 (tool). C não preenchido por divergência: Trustpilot dá endereço em Woodford Green; Oceanic Time diz Elstree. Ainda a verificar: cidade (Woodford Green ou Elstree). Notas: marca lançada em 2023 com o Master 62, por um casal (Jonathan Bordell e Danielle); relógios montados em Hong Kong (Oceanic Time; Peter Brooker). K não preenchido: site oficial não apareceu como link de busca abrível e o Firecrawl estava sem créditos."
+  },
+  "Helix": {
+   "M": "Revisão: B, G, H e K NÃO gravados por risco de marca homônima (a linha não tinha site nem Instagram para confirmar). Valores prováveis se for a Helix indiana da Timex Group India — a confirmar: B Índia, G helix-watches.com, H @helixindia. Existiu também a Helix (Callanen/Timex) nos EUA. Identificada como a Helix da Timex Group India (marca jovem de relógios acessíveis; a planilha não tinha site/Instagram para confirmar, mas D, E e F batem). G, H e K: site oficial helix-watches.com (página about: 'Helix, a brand by Timex Group', Timex Group India, preços em INR; Instagram do rodapé instagram.com/helixindia; logo preto do cabeçalho em SVG). B: Índia (site oficial; India Digital Review 2012: Timex Group India Limited lançou a loja online da Helix; Just In Time: sub-marca da Timex Group). C não achado: o site não traz endereço; sede da Timex Group India a confirmar. Atenção homônimo: existiu outra Helix nos EUA (Callanen International, subsidiária da Timex, aBlogtoWatch ~2014, mergulhador Okto Deep Black); se a linha for dessa, B/G/H/K não valem."
+  },
+  "Helm Watches": {
+   "K": "https://helmwatches.com/uploads/3/5/4/4/35443695/published/1428416957.jpg?1759935914",
+   "M": "K: logo do cabeçalho do site oficial helmwatches.com (página about-us). C não preenchido: o site oficial (about-us) diz que a HELM é 'American owned and operated, with roots in North Carolina', fundada em set/2014, e que se mudou para Hong Kong e sul da China; o FAQ diz que os relógios saem da China e de Hong Kong. Não há cidade-sede. Possível erro em B ('Canadá'): o site oficial indica empresa americana (Carolina do Norte) operando de Hong Kong/sul da China — a confirmar."
+  },
+  "Helson": {
+   "C": "Hong Kong",
+   "M": "C: Hong Kong (Worn & Wound, review do Spear Diver: 'the young, Hong Kong-based brand'; Delray Watch, revendedor: 'Headquartered in Hong Kong'). Possível erro em B ('Nova Zelândia/USA'): as fontes dizem marca de Hong Kong (Watchpatrol: fund. 2011, China) — a confirmar. K não achado: o site oficial (helsonwatches.com da planilha; aBlogtoWatch cita helson-watches.com) não apareceu em nenhuma busca e o Firecrawl estava sem créditos."
+  },
+  "Helvetia": {
+   "M": "K não achado: o site oficial helvetiawatches.ch não apareceu em nenhuma busca (site:helvetiawatches.ch e buscas pela marca só trouxeram a loja tcheca helveti.eu, o site de fãs helvetiahistory.co.uk e a seguradora Helvetia); Firecrawl sem créditos. Não foi possível confirmar se o site/relançamento ainda está ativo."
+  },
+  "Hemel": {
+   "M": "K não achado: buscas por hemelwatches.com e site:hemelwatches.com só trazem páginas da loja watches.com (Salt Lake City) e revendedores (Long Island Watch, Serious Watches); a página da watches.com tem o logo da própria watches.com, não da Hemel. O domínio hemelwatches.com parece não ter páginas próprias indexadas (talvez redirecione para a watches.com) — a confirmar. Firecrawl sem créditos."
+  },
+  "Henri Duvoisin": {
+   "M": "Site oficial não alcançado (henriduvoisin.com não apareceu em nenhuma busca; Firecrawl sem créditos). A confirmar (1 fonte só, MasterHorologer 2018): G henriduvoisin.com; C Chézard (endereço Montres Henri Duvoisin Sàrl, Grand-Rue 16a, 2054 Chézard; origem em Les Geneveys-sur-Coffrane, Val de Ruz, fábrica de 1904 de Paul-Fritz Duvoisin). Não gravados por falta de 2ª fonte. H não achado: nenhum Instagram da marca em busca. K não preenchido: site oficial não alcançado. Buscas: 'Henri Duvoisin watches official site', 'henriduvoisin.com montres Chézard', '\"henriduvoisin.com\"', '\"Henri Duvoisin\" Sàrl Chézard-Saint-Martin', '\"Henri Duvoisin\" montre instagram'."
+  },
+  "Henry Archer": {
+   "K": "https://henryarcher.com/cdn/shop/files/logo_name_icon_blk.png?v=1669671093&width=400",
+   "M": "K: logo do cabeçalho do site oficial henryarcher.com (logo_name_icon_blk.png; há também versão branca logo_name_icon_wt.png)."
+  },
+  "Hentschel Hamburg": {
+   "M": "K não preenchido: site oficial hentschel-hamburg.de não apareceu em nenhuma busca (buscas pelo domínio, site:hentschel-hamburg.de, 'official website shop', 'Kontakt Impressum'; só vieram WatchTime, WatchProSite, Worn & Wound, Fifth Wrist) e Firecrawl sem créditos."
+  },
+  "Herbelin": {
+   "K": "https://herbelin.com/cdn/shop/files/HERBELIN_logo.svg?v=1778659644&width=2936",
+   "M": "K: logo SVG do cabeçalho do site oficial herbelin.com (página aberta pela busca: herbelin.com/poids/18g)."
+  },
+  "Hercules Watches": {
+   "G": "herculeswatches.com",
+   "M": "G: herculeswatches.com (citado/ligado por Worn & Wound, Deployant e MasterHorologer). C não gravado — a confirmar: Chronext cita 'flagship boutique in Saint-Prex, Switzerland' (1 fonte só; MasterHorologer diz só 'Switzerland based'; The Watch Gallery cita Vallée de Joux sem endereço). K não preenchido: site oficial não apareceu em busca (site:herculeswatches.com só trouxe imprensa) e Firecrawl sem créditos. Nota: a marca (H.P. Hercules, de Henzi & Pfaff) nasceu na Alemanha (Pforzheim/Stein, por volta de 1946) e hoje é suíça; marca registrada 'HOP HERCULES BY HENZI & PFAFF' em nome de HP Hercules sàrl (Justia, 2025). Não confundir com 'Reconvilier Hercules Classic' (outra marca)."
+  },
+  "Heritage Watch Manufactory": {
+   "C": "Neuchâtel",
+   "M": "C: Neuchâtel — empresa fundada em setembro de 2010 em Neuchâtel (Worldtempus 'Heritage Watch Manufactory: exceptional new watch debuts'; WatchProZine digest sobre Karsten Frässdorf, 2011). Possível erro em B (não alterado): as fontes situam a empresa na Suíça (Neuchâtel), não na Alemanha; o fundador Karsten Frässdorf é alemão. Possível erro em J (não alterado): as fontes citam os modelos Magnus (Classic e Contemporaine), Tensus, Centenus, Viator e Firmamentum (Worldtempus, Europa Star, Monochrome, GPHG), não Magno/Vindobona/Piccolo. G não preenchido: o único site citado é heritage-watch-manufactory.com (link numa matéria da Monochrome sobre o Viator, 2012); não apareceu em busca e a marca parece inativa (Frässdorf hoje faz relógios com o nome Montres KF) — a confirmar. H não achado: as matérias só citam uma página no Facebook. K não preenchido: site oficial não alcançado."
+  },
+  "Hermes": {
+   "K": "https://assets.hermes.com/is/image/hermesedito/hermes-logo?$product_default_bg$",
+   "M": "K: logo do cabeçalho do site oficial hermes.com (página hermes.com/us/en/watches, link 'Homepage Hermès Paris'); imagem servida pelo Scene7 (o endereço não tem extensão de arquivo)."
+  },
+  "Héron": {
+   "M": "K não preenchido: o site oficial heronwatches.com não apareceu em nenhuma busca (3 buscas: domínio, site:heronwatches.com, coleções/Mirabel GMT) e o Firecrawl estava sem créditos; só vieram matérias (Fratello, Time+Tide, Worn & Wound, Gear Patrol, The Time Bum) que confirmam a marca canadense Héron (Gladiateur, Marinor, Continental, Mirabel GMT). Logo a buscar numa próxima rodada."
+  },
+  "Herzog": {
+   "M": "C, G e K não achados (3 buscas: 'Herzog watches Germany official site', 'Herzog Uhren Marke Deutschland', 'site:instagram.com herzogwatches', 'Herzog Watches design watch brand'): nenhuma marca de relógios Herzog com site próprio apareceu. A única 'Herzog' alemã encontrada é a Herzog GmbH, fabricante de pulseiras de couro para relógios, empresa familiar de três gerações (WatchEra) — possível marca homônima; a confirmar se a linha da planilha (e o @herzogwatches) se refere mesmo a uma marca de relógios."
+  },
+  "HerzWerk": {
+   "M": "C, G e K não achados (5 buscas: 'HerzWerk Uhren official site', 'HerzWerk Artisan Onyx Manufaktur', 'site:instagram.com herzwerk', 'Martin Honermann HerzWerk', 'Honermann watchmaker'): o site oficial não apareceu em busca. A única fonte achada é a loja britânica The Limited Edition, que vende HerzWerk como marca independente recente: Onyx (peça de ateliê do relojoeiro Martin Honermann, corda manual, 21.600 alt/h, 54 h de reserva, sistema de corda patenteado, 5 peças, £26.800 sem IVA) e Artisan Gold Weiß/Schwarz (£39.200 sem IVA); a loja não diz cidade nem site. Possíveis erros (não alterados): D ('open-heart') e J não batem com esses modelos; E=2 e F=4.000 não batem com os preços (£26.800 × 7,451 ≈ R$ 199.700). A confirmar se é a mesma marca do @herzwerk."
+  },
+  "Hesili": {
+   "C": "Brooklyn (Nova York)",
+   "G": "hesiliny.com",
+   "M": "C: Brooklyn, Nova York (Oracle of Time, página da marca: 'a Brooklyn-based collector'; WristReview: 'Based in Brooklyn, New York'; The Calibrated Wrist: 'New York-based microbrand'). G: hesiliny.com, link do site da marca citado por 3 resenhas independentes (Watch Clicker, The Calibrated Wrist, WristReview); o site oficial não apareceu em nenhuma busca (nem 'site:hesiliny.com'), por isso não foi aberto. K não preenchido: site oficial não alcançado (sem Firecrawl). Fundado em 2018 por colecionador do Brooklyn (Oracle of Time); co-dono e co-designer citado só como 'Sam' (The Calibrated Wrist); Original Series One a US$ 595 (Watch Clicker, 2022)."
+  },
+  "Heuer": {
+   "K": "https://www.tagheuer.com/on/demandware.static/Sites-TAG_US-Site/-/default/dwad2f866a/images/th-logo.svg",
+   "M": "K: logo do cabeçalho do site oficial tagheuer.com (coluna G), página tagheuer.com/us/en/timepieces/discover/ (arquivo th-logo.svg). Obs.: é o logo atual da TAG Heuer, dona do nome Heuer desde 1985; não é o escudo vintage 'Heuer'."
+  },
+  "Heure Raffinee": {
+   "M": "NÃO ACHADO: B, C, G, H e K ficaram vazios. Site oficial não apareceu em busca nenhuma; 5 buscas ('\"Heure Raffinee\" watches', '\"Heure Raffinée\" montres marque', Instagram 'heureraffinee/heure_raffinee', 'Heure Raffinee watch brand dress watch', 'heureraffinee.com') só trouxeram outras marcas (Hermès Heure H, Chopard, Guerlain L'Heure Bleue etc.). Nenhuma fonte confirma que a marca existe com esse nome; a linha inteira (D, E, F, J genéricos) deve ser conferida — possível marca inexistente ou nome errado."
+  },
+  "Hexa": {
+   "B": "USA",
+   "G": "hexawatches.com",
+   "M": "B: USA (Worn & Wound, Hexa Q500: 'designed, built and tested in the US'; WatchReport, Osprey: 'assembled in the USA'; Oceanic Time 2015: 'a brand based in sunny Florida'). G: hexawatches.com, link do site da marca em 3 matérias independentes (Worn & Wound, aBlogtoWatch, Oceanic Time); o site oficial não apareceu em busca, então não foi aberto (a marca pode estar inativa: matérias só de 2013 a 2015). C não achado: só 'Flórida' (sem cidade) numa fonte só (Oceanic Time); a confirmar. K não preenchido: site oficial não alcançado (sem Firecrawl). Preços citados: K500 US$ 624–799 (aBlogtoWatch), Osprey US$ 949 (WatchReport)."
+  },
+  "HGP Dive Watches": {
+   "I": "A H.G.P. — sigla de Hommes Grenouilles de Paris (\"homens-rã de Paris\") — nasceu em 1970 como uma loja de equipamentos de mergulho em Paris, na época em que o mergulho autônomo se popularizava na França. Nos anos 1970 e 1980, a loja mandou fazer relógios de mergulho com o seu nome em parceria com relojoeiros franceses, entre eles o projetista de caixas Georges Monnin. A loja funcionou até a década de 1990; quando fechou, o nome saiu de cena.\n\nEm 2023 a marca voltou como H.G.P. Watch Company, com relógios de mergulho montados na França por três parceiros: G. Monnin (caixas, entre elas uma versão redesenhada da caixa 844), a Wolbrook Watch Company (engenharia e design) e a MNP Solutions Horlogères, de Pierrefontaine-les-Varans, na região de Besançon (montagem e controle de qualidade). A marca é membro da France Horlogerie. A linha atual inclui Diver 200M Automatic, Diver 200M Automatic \"Commando\", Diver 300M Automatic \"Commando\", Diver GMT 200M Automatic, Diver 200M Mecaquartz e Diver 200M Chrono-Mecaquartz, com movimentos japoneses Seiko e Miyota.",
+   "M": "I: 8 fontes abertas — site oficial hgp-watches.com (páginas 'H.G.P. Diving Watches Story', 'About HGP' e 'H.G.P. Partners'), Submersible Wrist (Substack), WatchReport (Diver 300M Commando), The Calibrated Wrist (2025), Ocarat, Two Broke Watch Snobs (PDW x HGP) e Very Good Lord. Sigla e loja de mergulho aberta em Paris em 1970 (site oficial; Ocarat; Very Good Lord; Submersible Wrist). Relógios com o nome da loja e caixas Monnin nos anos 70/80 (site oficial; Very Good Lord; Submersible Wrist; Calibrated Wrist). Fechamento nos anos 1990 (site oficial; Submersible Wrist; Two Broke Watch Snobs). Volta em 2023 (site oficial; Submersible Wrist; WatchReport; Two Broke Watch Snobs; Very Good Lord) — a Calibrated Wrist diz 2020, divergente. Parceiros G. Monnin, Wolbrook e MNP (site oficial; Very Good Lord; Ocarat); MNP em Pierrefontaine-les-Varans (página Partners do site oficial; Two Broke Watch Snobs). Caixa 844 (site oficial Partners; WatchReport). France Horlogerie (site oficial; Very Good Lord). Seiko NH38 e Miyota 9039 (Submersible Wrist; WatchReport). Não entrou (1 fonte só): que a loja equipava homens-rã da Marinha francesa (só Two Broke Watch Snobs; a Submersible Wrist diz que a marca não reivindica laço militar); nomes dos fundadores (nenhuma fonte). K não preenchido: em 3 páginas do site oficial (coleção Diver 200M Automatic, ficha Diver 200 Mecaquartz e Partners) o cabeçalho aparece só com o nome em texto ('HGP - Dive Watches'), sem imagem de logo; pode haver logo em SVG/CSS não captado pela leitura. Observação: telefone de contato do site é de Paris (+33 1); a montagem é na região de Besançon (coluna C)."
+  },
+  "Hilli Watches": {
+   "M": "Nada novo achado: B, C, G e K não encontrados. Buscas: 'Hilli Watches official site hilliwatches', '\"Hilli\" watches instagram hilliwatches brand', 'hilliwatches.com', '\"Hilli\" watch microbrand' — nenhum resultado sobre a marca (só Hamilton, Helm, Hesili e listas genéricas). Site oficial não alcançado; Firecrawl sem créditos. Ainda a verificar: se a marca existe com outro nome/grafia (conferir o perfil @hilliwatches)."
+  },
+  "Hilts": {
+   "K": "https://attachments.gorgias.help/cdn-cgi/image/quality=100,width=3840/https://attachments.gorgias.help/GyBLV6k1lOr7NbQk/hc/r1WE86rool2J4Mvg/2024110513-e7537f5b-1869-47e3-b6e9-46771dfa1f45-logo-inline-1200.jpg",
+   "I": "A Hilts é uma marca de relógios de inspiração automobilística que, segundo a própria marca, nasceu no Kickstarter com a campanha esgotada do seu cronógrafo, entregue aos primeiros apoiadores; o cronógrafo também foi vendido numa campanha no Indiegogo (\"Precision Timing Chronograph Watches\"), inspirada na era de ouro do automobilismo. O Precision Chronograph, mostrado pela imprensa entre dezembro de 2023 e fevereiro de 2024, tem duas subdiais, escala taquimétrica, janela de data, ponteiro de segundos em forma de flecha, caixa de aço e marcações em Super-LumiNova. A Yanko Design citou as versões Atwood, Speedway, Gurney e Monaco '29, movimento de quartzo Miyota, limite de 1.000 peças por modelo e preço de US$ 599.\n\nO projeto seguinte é o Hero Diver, relógio de mergulho de 40 mm com movimento automático suíço Sellita SW200-1b (sem data), 200 m de resistência à água e vidro de safira, limitado a 1.000 peças, com campanha no Kickstarter anunciada para setembro de 2026 e preço sugerido de US$ 1.999. [⚠️ a confirmar: nomes das versões, quartzo Miyota, limite de 1.000 por modelo e preço de US$ 599 do cronógrafo (só Yanko Design)]",
+   "M": "K: logo 'Hilts logo' do cabeçalho da central de ajuda oficial da marca (wearehilts.gorgias.help); a página principal wearehilts.com não apareceu em nenhuma busca (Firecrawl sem créditos). I: fontes abertas (6): central de ajuda oficial, artigos 'Kickstarter' (Hero Diver: campanha em set/2026, MSRP US$ 1.999, Founding Tier US$ 700 a menos, 1.000 peças, 40 mm, SW200-1b, 200 m, safira), 'Have you run a successful Kickstarter campaign before' ('born on Kickstarter with our sold-out Chronograph campaign') e 'Key specifications'; Yanko Design 20/12/2023 (versões, quartzo Miyota, 1.000 por modelo, US$ 599, designer Stephen Scott); Trend Hunter 14/02/2024 (subdiais, taquímetro, data, Super-LumiNova, ponteiro em flecha); Indiegogo (campanha 'Precision Timing Chronograph Watches', era de ouro do automobilismo). Fratello (perfil vazio) e The Drive (era sobre a Aviateur) não serviram. Fundadores e ano de fundação não achados. Retirado do texto: designer Stephen Scott (só Yanko). Ponto a conferir em B/C: Yanko Design e Trend Hunter dizem que os relógios são feitos/montados nos EUA ('made in America'), enquanto B/C da planilha dizem Canadá/Stoney Creek (Ontário) — não alterado. G wearehilts.com não confirmado por busca."
+  },
+  "Hirsch": {
+   "E": 1,
+   "F": 858,
+   "J": "Duke — pulseira de relógio da linha clássica; CHF 55 (≈ R$ 358)\n\nGrand Duke — pulseira de relógio; CHF 95 (≈ R$ 618)\n\nArne for Apple Watch — pulseira para Apple Watch; CHF 116 (≈ R$ 754)\n\nGenuine Alligator — pulseira de couro de jacaré legítimo; CHF 242 (≈ R$ 1.573)\n\nCapitano — pulseira de topo de linha; CHF 385 a 415 (≈ R$ 2.502 a 2.698)",
+   "M": "Fonte: site oficial hirschthebracelet.com (loja suíça 'all products' e página 'about us', via busca). F: média dos 30 produtos da 1ª página da loja oficial (de 99), todos pulseiras: CHF 3.959 / 30 = CHF 131,97 × 6,5 = R$ 858 → E = 1. J: modelos e preços da mesma página. K não preenchido: na leitura, o logo do cabeçalho aparece só como link com texto alternativo 'Hirsch Logo', sem endereço de imagem; o único arquivo é o monograma do rodapé (hirschthebracelet.com/static/.../images/logo-monogram.svg), que não é o do cabeçalho. Pontos a conferir (não alterados): D diz 'desde 1765', mas o about oficial diz que Hans Hirsch começou a fazer pulseiras em casa em 1945 em Klagenfurt (1765 aparece só na meta-descrição 'The bracelet since 1765'); G 'hirsch-straps.com' — o site oficial que aparece nas buscas é hirschthebracelet.com; H '@hirsch_straps' — o site oficial liga instagram.com/hirschthebracelet (@hirschthebracelet)."
+  },
+  "Hitori": {
+   "M": "C, G e K não achados. Buscas: 'Hitori watch official site hitoriwatch' e '\"Hitori Watch\" founder Japan microbrand Meguro GMT' só trouxeram a revendedora Gnomon Watches (Singapura) e um blog. Páginas abertas: coleção Hitori na Gnomon ('Hitori Watch Co.', inspirada na cultura japonesa, marca independente; sem site próprio, cidade ou fundador), blog Gnomon 'Ryukyu Diver series' (2021: 'one man' brand, nome = 'uma pessoa', feitos 'na Ásia', menos de US$ 500), blog Gnomon 'The quiet soul of Meguro' ('feitos por nossos relojoeiros em Nagano') e blog de Carl Thompson (2025: 'marca japonesa'). Site oficial não alcançado; Firecrawl sem créditos. A confirmar: Nagano aparece só como local de fabricação de um modelo (1 fonte), não como sede — por isso C não foi gravado."
+  },
+  "HKED": {
+   "I": "A HKED é a marca de Eddy Tse, colecionador de Hong Kong conhecido nos fóruns como \"HKED\", que coordena a produção de pequenas séries de relógios para entusiastas. Ele participou de vários projetos de relógios do fórum Watchuseek e trabalhou com a EMG, ajudando-a a encontrar fabricante para o seu primeiro cronógrafo DL63, feito sobre a base do Seagull 1963. O principal modelo da HKED é o ED63, versão de 38 mm do cronógrafo Seagull 1963 com o calibre manual Seagull ST1901. [⚠️ a confirmar: Hong Kong como base (fonte: só a loja seagull1963.com); encontro com o fabricante Thomas em 2011 e o mergulhador Nemo feito com a EMG (só a entrevista da WRUK); início da linha em 2017 (só seagull1963.com)]",
+   "M": "I: fontes abertas (4, marca pouco documentada): entrevista 'The WRUK interview: Eddy HKED Tse' (wristwatchreview.co.uk: colecionador, projetos Watchuseek, ED63 de 38 mm, ajudou a EMG com o DL63, Nemo, conheceu Thomas em 2011, site hkedwatches.com); WRUK 'brand EMG watches' (EMG trabalhou com Ed (HKED) numa série de 50 cronógrafos; 'HKED 1963' como relógio de série limitada de membros do Watchuseek); seagull1963.com 'The HKED watches: what are they' (Ed é de Hong Kong; 2017; mesmo movimento do Seagull; mostrador em inglês); anúncio WatchPatrol (HKED ED63, Sea-Gull ST1901, site hkedwatches.com indica 38 mm). Buscas sem fatos novos: 'HKED ED63 chronograph Hong Kong brand review history Watchuseek', 'HKED watches official store ED63 hked instagram'. Site oficial hkedwatches.com não apareceu em nenhum resultado de busca (não aberto; Firecrawl sem créditos). H não achado: busca 'site:instagram.com hkedwatches' e as demais não trouxeram perfil da marca. K não achado: site oficial não alcançado."
+  },
+  "HMNWatch": {
+   "K": "https://hmnwatch.com/cdn/shop/files/HMN-Watch-Logo-small.png?v=1728029527&width=500",
+   "I": "A HMNWatch é uma marca americana de relógios com endereço em Boulder, no Colorado. Segundo o próprio site, foi criada por um grupo de entusiastas de automóveis e de relógios para fazer peças que traduzam o universo dos carros clássicos e esportivos, como \"arte de vestir\".\n\nOs modelos homenageiam carros conhecidos, muitos com mostrador em forma de roda (os \"car rim watches\"), e a marca também lança edições temáticas inspiradas em anime. O site não informa o ano de fundação nem os nomes dos fundadores.",
+   "M": "K: logo do cabeçalho do site oficial (hmnwatch.com/pages/about-us). I: 3 fontes abertas (site oficial about-us: criação por entusiastas de carros e relógios, endereço 1942 Broadway St, Boulder CO; Trustpilot: perfil reivindicado em set/2023, empresa dos EUA, 144 avaliações; títulos de páginas do site oficial nos resultados de busca: blog sobre 'car rim watches', edições 'Itachi'/'Sharingan'). Marca pouco documentada: sem matérias de imprensa relojoeira nas buscas; ano de fundação e fundadores não achados. Obs.: Instagram ligado pelo site é instagram.com/hmnwatch (bate com H)."
+  },
+  "HMT Watches": {
+   "G": "hmtwatches.in",
+   "K": "https://hmtwatches.in/storage/app/public/image/logo.png",
+   "M": "G: hmtwatches.in, título da página 'Official Web Site of HMT Watches by HMT Limited', rodapé com HMT Limited em Bengaluru e link para hmtindia.com (site corporativo); também citado pela matéria Bizzbuzz 'HMT watches have a running website and sell watches online'. K: logo do cabeçalho do site oficial (página about_us). Ainda a verificar: o site oficial liga o Instagram instagram.com/hmt.watches, diferente do H atual (@hmt_watches_official)."
+  },
+  "Hoffman": {
+   "B": "USA",
+   "C": "Nova York",
+   "M": "B e C: Nova York, EUA (Tempus Shop, apresentação da marca: 'marca nascida em Nova York', fundada em 2016 por Will Hoffman com o Racing 40 Midnight; WatchPro USA: 'New York-based Hoffman'). Mesma marca: The Watch Gallery confirma inspiração vintage (cronógrafos de corrida dos anos 1960), batendo com D. G a confirmar: hoffmanwatches.com aparece só na Arab Watch Guide (1 fonte não oficial; o site não apareceu em nenhuma busca; Product Hunt liga só ao Kickstarter de 2018). H não achado: nenhuma fonte cita o perfil. K não preenchido: site oficial não alcançado."
+  },
+  "Höglund & Sons": {
+   "I": "A Höglund & Sons é uma microbrand de Minneapolis (EUA) criada pelos irmãos Brandon e Zachary (Zach) Höglund, que por volta de 2017 lançaram o canal de resenhas de relógios WatchesOnYou, conhecido na região das Twin Cities. A marca lançou seus modelos por campanhas no Kickstarter, como o cronógrafo mecânico Mark II e o Mark III GMT. [⚠️ a confirmar: primeira campanha no Kickstarter em 2019]",
+   "M": "I: 3 fontes abertas + títulos de busca (catálogo metro-ruddy.vercel.app/brand/hglund-sons: irmãos Brandon e Zachary Höglund, Minneapolis, canal WatchesOnYou em 2017, Kickstarter de 2019; Artful Living, 05/06/2018: irmãos Brandon e Zach Hoglund, Twin Cities, canal estreado 'quase um ano antes'; catálogo do Mark I Chronograph (Seiko VH64); Kicktraq: títulos das campanhas 'Mark II Mechanical Chronograph from $249', 'Mark III GMT' e 'Mark III GMT Aventurine' — páginas não abriram, redirecionamento). Kickstarter de 2019 só em 1 fonte. Site oficial hoglundandsonswatches.com não apareceu em nenhuma busca (nem site:), WatchCrunch veio vazia, Reddit bloqueado. H não achado: nenhuma fonte cita o Instagram da marca. K não preenchido: site oficial não alcançado."
+  },
+  "Holgar": {
+   "M": "B, C e G a confirmar (possível divergência de marca): as fontes acham a Holgar Swiss — relógios de luxo suíços feitos em Bienne/Biel (aBlogtoWatch, resenha do Blue & Gold Sport Automatic 44mm, ref. HO12GRBLU, US$ 1.695, fundador Nas Ekangaki, 2021; release ExpertClick: fundada em 2020, fabricação em Bienne, escritório de distribuição nos EUA em Beverly Hills; Thingtesting: site holgarswiss.com e Instagram @holgarluxurywatches; Watch Gang: Sellita SW200, US$ 1.495). Isso não bate com a linha atual (D 'inspiração nórdica', H @holgarwatches, F 3000); por risco de homônimo nada foi gravado. Se for a mesma marca: B Suíça, C Bienne (Biel), G holgarswiss.com, e D/H/F precisariam de revisão. K não preenchido: site oficial não alcançado."
+  },
+  "Holthinrichs": {
+   "M": "K não preenchido: o site oficial holthinrichswatches.com não apareceu em nenhuma busca (o domínio sozinho, site:holthinrichswatches.com, 'Holthinrichs Watches Delft official website'); só vieram revendedores (Collective Horology, Exquisite Timepieces) e imprensa (Fratello, Monochrome, Quill & Pad). Firecrawl sem créditos nesta execução."
+  },
+  "Hooke & Huygens": {
+   "M": "B, C, G e K não achados: nenhuma busca trouxe site oficial (buscas: 'Hooke & Huygens watches official site', 'hookeandhuygens', marca + gold/gem, marca + founder Switzerland). Única fonte: Federação da Indústria Relojoeira Suíça (fhs.swiss, 'Birth of Hooke & Huygens', 2023) — 'nova marca de relógios mecânicos de ouro' com gema central personalizável e peças feitas sob medida na região de Neuchâtel; não diz sede, cidade nem site. Ainda a verificar: país/cidade (possivelmente Suíça, região de Neuchâtel — uma fonte só, e indireta). masterhorologer.com/hooke-huygens-watches deu erro ao abrir. Firecrawl sem créditos."
+  },
+  "Hook + Gaff": {
+   "H": "@hookandgaff",
+   "I": "A Hook + Gaff Watch Company foi criada na Carolina do Sul por Michael Sims, pescador formado em engenharia pela Clemson University, em parceria com o designer e amigo de longa data Gash Clayton. Sims não achava um relógio que aguentasse dias de pesca em mar aberto e ainda servisse para sair à noite; daí nasceram relógios com caixa de titânio, cristal de safira, quartzo suíço, 200 m de resistência à água e a coroa do lado esquerdo, para não machucar o pulso ao pescar ou jogar golfe. Os protótipos foram testados por guias e pescadores profissionais antes do lançamento.\n\nO primeiro modelo foi o Sportfisher; depois a montagem passou a ser feita à mão nas Carolinas. Vieram o King Tide, relógio analógico de marés apresentado na feira ICAST e lançado no fim de 2018, a linha Golf e o Field Watch, de aço, à venda desde setembro de 2019. A partir de 15 de março de 2019 a marca deixou as lojas e passou a vender só pela internet, em hookandgaff.com. [⚠️ a confirmar: ano de fundação (2013 segundo a Clemson World; 2014 segundo um revendedor) e a primeira série de 300 Sportfisher feitos na Suíça (só a Clemson World)]",
+   "M": "H: @hookandgaff (link instagram.com/hookandgaff no comunicado oficial da empresa no PR Newswire, 2019; também Venturing Angler 2018 e Game & Fish 2019). O site oficial hookandgaff.com não apareceu nas buscas (domínio, site:hookandgaff.com, 'shop Sportfisher official'), por isso não foi aberto. I (12 fontes abertas): fundadores Michael Sims e Gash Clayton, origem da ideia, Carolina do Sul e montagem nas Carolinas (PR Newswire 2019; The Outdoor Wire jul/2018; Venturing Angler nov/2018; Clemson World; Game & Fish set/2019); Sims engenheiro de Clemson (Kayak Angler; Among Men; Clemson World); titânio, safira, quartzo suíço, 200 m, coroa à esquerda (Rhodes Boutique; Joe's Daily; Kayak Angler; The Truth About Watches; Charleston.com); protótipos testados por guias/pescadores (Rhodes Boutique; Among Men); Sportfisher como primeiro modelo (Clemson World; Among Men); King Tide na ICAST e fim de 2018 (The Outdoor Wire jul/2018; Venturing Angler); linha Golf (Joe's Daily; Among Men; The Outdoor Wire nov/2019); Field Watch de aço em set/2019 (Game & Fish; The Outdoor Wire nov/2019; Charleston.com); só venda online desde 15/03/2019 (comunicado oficial da empresa no PR Newswire). A confirmar: ano de fundação (2013 na Clemson World x 2014 na Rhodes Boutique) e série inicial de 300 Sportfisher feitos na Suíça (só Clemson World). Não entrou por ter 1 fonte só: Fleetmaster automático com ETA 2836 (The Outdoor Wire 2019), parceria Ducks Unlimited (Charleston.com), gift guide da Garden & Gun (Clemson World). Observação sobre C (não alterado): os comunicados da empresa de 2018–2019 são datados de Lexington (Carolina do Sul), e não West Columbia; conferir. K não preenchido: site oficial não alcançado por busca e Firecrawl sem créditos."
+  },
+  "Hoptroff": {
+   "M": "K não preenchido: o site oficial hoptroff.com não apareceu nas buscas (o domínio sozinho, site:hoptroff.com, 'Hoptroff atomic watch official site London'); só vieram Wikipedia e imprensa. Firecrawl sem créditos."
+  },
+  "Horage": {
+   "M": "K não preenchido: o site oficial horage.com não apareceu nas buscas (o domínio sozinho, site:horage.com, 'Horage watches official site Biel Autark', 'Horage manufacture Biel official website'); só vieram revendedores e imprensa (Monochrome, Worn & Wound, Europa Star, aBlogtoWatch). Firecrawl sem créditos."
+  }
+ },
+ "base": "Relogios_atualizada_589.xlsx"
+}
