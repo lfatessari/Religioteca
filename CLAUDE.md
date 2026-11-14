@@ -6,7 +6,13 @@ Este repositório guarda a planilha da Relogioteca e o estado do trabalho. Cada 
 O campo `"fase"` do `estado.json` decide o que a execução faz:
 - `"marcas"`: NÃO pesquisar relógios. Preencher SÓ as células vazias da aba Marcas (B, C, D, E, F, G, H, I, J, K), de cima para baixo, **100 marcas por execução** (pedido do usuário, 14/11/2026: era 40; pesquisa profunda e alta veracidade) (seção "Fase Marcas" no fim deste arquivo). Marca com tudo preenchido é PULADA; História (I) já escrita NÃO é conferida nem reescrita (correção do usuário, 14/11/2026: a v577 conferiu histórias prontas por engano). A skill `relogioteca-pesquisa-exaustiva` não é usada nesta fase.
 - `"relogios"` (ou campo ausente): roteiro normal da aba Relógios, descrito abaixo.
-Quando a fase Marcas acabar, a própria execução muda para `"relogios"` e as seguintes voltam às baterias a partir de `proxima_linha_marcas`.
+A fase Marcas terminou em 14/11/2026 (v614). Na fase Relógios, a escolha das marcas segue a seção "ORDEM NA FASE RELÓGIOS" abaixo (de cima para baixo, pulando as que já têm modelos).
+
+## ORDEM NA FASE RELÓGIOS — de cima para baixo (pedido do usuário, 14/11/2026; vale acima de `proxima_linha_marcas`, de `marcas_ja_feitas_fora_da_ordem` e do que a skill disser)
+"Temos que começar de cima pra baixo, pois muitas marcas novas entraram. As que tiverem sido feitas já os modelos, pula."
+- Para escolher a bateria, rodar `python3 proxima_marca.py planilha/Relogios_atualizada_<atual>.xlsx 10`. Ele lista, de cima para baixo da aba Marcas, só as marcas que ainda NÃO têm nenhum relógio na aba Relógios (compara o nome sem acentos/pontuação; apelidos no topo do script). Escolher as primeiras da lista (até 3 pequenas, ou 1 grande sozinha, como no item 4 do roteiro).
+- `proxima_linha_marcas` não decide mais a escolha; depois de cada bateria, gravar nele a linha da última marca feita, só como referência.
+- Se o nome de uma marca na aba Relógios for diferente do da aba Marcas (ex.: "Victorinox" × "Victorinox Swiss Army"), acrescentar em `APELIDOS` no `proxima_marca.py` em vez de pesquisar de novo.
 
 ## Arquivos
 - `planilha/Relogios_atualizada_NN.xlsx` — a versão atual (só a de maior número fica no repositório; as anteriores ficam no histórico do git).
