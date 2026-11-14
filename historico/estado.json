@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 587,
+  "ultima_versao": 588,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10030,6 +10030,14 @@
       "tipo": "lacunas_marcas",
       "marcas": "Elgin a Frères Rochat (50 marcas)",
       "obs": "Onda 2 rodada numa nova rodada da conversa a pedido do usuário: a cota de 200 buscas renovou. Inclui as 12 marcas que ficaram fora da v586."
+    },
+    {
+      "versao": 588,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Fromanteel a GRD",
+      "n": 50,
+      "obs": "rodada 1 de 2; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10103,7 +10111,10 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Frères Rochat",
+    "ultima_marca_revisada": "GRD",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  }
+  },
+  "em_execucao": "2026-11-14T11:02:39Z",
+  "ultimo_sinal": "2026-11-14T11:12:44Z",
+  "onda2_pendente": true
 }

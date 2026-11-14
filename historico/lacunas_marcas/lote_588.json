@@ -1,0 +1,236 @@
+{
+ "versao": 588,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Fromanteel",
+  "FUGUE",
+  "Fukushima Watch Co.",
+  "Fullspot",
+  "FUTURE FUNK",
+  "Gaga Laboratorio",
+  "Gagarin",
+  "Gallet",
+  "Galo",
+  "Galvin Watch Company",
+  "Gambrell Rénard",
+  "Gane",
+  "Gant",
+  "Ganymede",
+  "Gardé",
+  "Garmin",
+  "Gavox",
+  "GB Watch Co.",
+  "GC Watches",
+  "Gebson",
+  "Geist",
+  "Gelfman",
+  "Geltier",
+  "Genesis",
+  "Genius Watches",
+  "Genteel Handmade",
+  "Geo",
+  "Geoffrey Roth Watches",
+  "Georges V",
+  "Gerge",
+  "German Baillot",
+  "Germano & Walter",
+  "Gevril",
+  "Geylang Watch Co",
+  "GhostTown",
+  "Giberg Haute Horlogerie",
+  "Gigandet",
+  "Ginault Watches",
+  "Giorgio Piola",
+  "Girard Perregaux",
+  "Glam Rock",
+  "Gloriousdays",
+  "Golby",
+  "Good + Evil",
+  "Gotham Watch",
+  "Graff",
+  "Grandeur Watches",
+  "Gravithin",
+  "Grayton",
+  "GRD"
+ ],
+ "celulas": {
+  "Fromanteel": {
+   "M": "K não preenchido: o site oficial fromanteel-watches.com não apareceu em nenhuma das 3 buscas feitas (só imprensa: Monochrome, Fratello, Time+Tide, Montredo, WatchPro), então não deu para abrir o cabeçalho e ver o logo; Firecrawl sem créditos. A confirmar numa próxima rodada."
+  },
+  "FUGUE": {
+   "E": 3,
+   "F": 5322,
+   "M": "F: média de 2 preços de lançamento achados na imprensa: Chronostase US$ 1.535 (aBlogtoWatch, review) × 5,5146 = R$ 8.465; Fiction One € 350 (SJX, out/2020) × 6,2257 = R$ 2.179; média = R$ 5.322 → E = 3. Preço do Chronostase Trilogie du milieu du siècle não achado. A confirmar: preços atuais, porque a loja oficial fuguewatches.com não apareceu em busca (só imprensa: Monochrome, Worn & Wound, aBlogtoWatch, SJX, Petrolicious). K não preenchido: site oficial não alcançado (não veio em busca; Firecrawl sem créditos)."
+  },
+  "Fukushima Watch Co.": {
+   "I": "A Fukushima Watch Company foi fundada em novembro de 2022 em Odaka, bairro de Minamisōma, na província de Fukushima, pelo japonês Masayasu Hiraoka, veterano do comércio de relógios que vivia em Saitama. Depois de trabalhar como voluntário na região atingida pelo terremoto e pelo acidente nuclear de 2011, ele se mudou para Minamisōma com a ideia de criar ali uma indústria de relógios mecânicos e fazer de Fukushima a \"Genebra do Japão\".\n\nAntes da mudança, Hiraoka já tinha a marca mirco, cujo cronógrafo automático TYPE-02 foi mostrado na Baselworld de 2019. Em Fukushima vieram a série Odaka, automática com movimento Miyota e cores com nomes de produtos agrícolas da região (66.000 ienes, ganhou três cores novas no fim de 2025), e o Futaba (novembro de 2024, Miyota 82S0, 88.000 ienes), dedicado à cidade de Futaba, evacuada depois do acidente nuclear. Em 2026 a empresa relançou o TYPE-02 com o movimento cronógrafo japonês NE86.",
+   "M": "I (história nova, 8 fontes abertas): fundação nov/2022 em Odaka, Minamisōma (ASCII.jp 2025, Voix.jp 2024, comunicado na Oricon 2026, Gressive 2025); fundador Masayasu Hiraoka, ex-Saitama, voluntário após 2011 (Min'yu 2023, Newswitch/Nikkan Kogyo dez/2025, Gressive, Zenbird dez/2025); 'Genebra do Japão' (Zenbird; Newswitch); mirco TYPE-02 na Baselworld de 2019 (comunicado oficial na Oricon; a Gressive diz que a marca começou em Saitama em 2018 — divergência de ano, ficou o do comunicado); Odaka 66.000 ienes e cores com nomes de produtos agrícolas (Min'yu 2023; Gressive; ASCII), três cores novas em nov-dez/2025 (ASCII; Zenbird; Newswitch); Futaba 16/11/2024, Miyota 82S0, 88.000 ienes (Voix.jp; Gressive p.2); relançamento do TYPE-02 com NE86 em 2026 (comunicado oficial na Oricon). Retirado por ter 1 fonte só: carreira detalhada do fundador, TYPE-03 com Miyota 9039, doação de 20% do SAVE UKRAINE WATCH. K não preenchido: a loja oficial (fukushima-watch.shop / fukushima-watch.com) não apareceu em nenhuma busca, só citada dentro de matérias; Firecrawl sem créditos. Fontes: zenbird.media, minyu-net.com, gressive.jp (2 páginas), newswitch.jp, ascii.jp, voix.jp, oricon.co.jp."
+  },
+  "Fullspot": {
+   "M": "K não preenchido: as páginas do site obag.eu que vieram da busca (fichas de O clock) foram abertas, mas a leitura não traz o cabeçalho nem a imagem do logo; Firecrawl sem créditos. A confirmar numa próxima rodada."
+  },
+  "FUTURE FUNK": {
+   "I": "FUTURE FUNK é uma marca de relógios a quartzo vendida principalmente no Japão, conhecida pelo mostrador digital de rolos que giram na vertical para mostrar a hora. Um dos modelos, o FF105, era vendido na Amazon japonesa por 10.780 ienes. Segundo o fórum Flip Clock Fans, os relógios estão no mercado desde cerca de 2018 e já ganharam cópias chinesas mais baratas. [⚠️ a confirmar: início por volta de 2018 e cópias chinesas (uma fonte só)]",
+   "M": "I (história curta, só 2 fontes achadas): mostrador de rolos e venda no Japão (moov.ooo, mar/2025; Flip Clock Fans, mar/2022); FF105 a 10.780 ienes na Amazon JP (moov.ooo); desde ~2018 e cópias chinesas só no Flip Clock Fans. Procurou-se também em busca em japonês e inglês, Scribd (catálogo 'FUTURE FUNK WEBcatalogue', sem conteúdo legível), ZOZOTOWN e eBay; não se achou a empresa por trás da marca nem a cidade (a confirmar B/C já preenchidos: Japão/Tóquio). G não achado: nenhum site oficial apareceu em 5 buscas (só eBay, Amazon e revendas). H não achado: nenhuma conta de Instagram da marca apareceu (as buscas trazem só o gênero musical 'future funk'). K não preenchido: sem site oficial."
+  },
+  "Gaga Laboratorio": {
+   "G": "gagalaboratorio.com",
+   "M": "G: gagalaboratorio.com, site linkado como oficial em 3 matérias abertas (Hypebeast ago/2024, Monochrome 'For more information, visit GagaLaboratorio.com', Worn & Wound). H não preenchido: o perfil @gagalaboratoriowatches aparece só na Hypebeast (1 fonte; Monochrome, Worn & Wound, Time+Tide e Fratello não citam Instagram da marca) — a confirmar. Não confundir com @gagamilanoworld (Gagà Milano, a empresa-mãe)."
+  },
+  "Gagarin": {
+   "H": "@sturmanskie",
+   "K": "https://sturmanskie.com/upload/dev2fun.imagecompress/webp/local/templates/sturmanskie2021/images/logo_en.webp",
+   "M": "H e K: do site oficial sturmanskie.com/catalog/gagarin (a linha Gagarin é coleção da Sturmanskie; cabeçalho e rodapé ligam instagram.com/sturmanskie; K = logo do cabeçalho da Sturmanskie, pois não há logo próprio da linha Gagarin). Não foi achado perfil de Instagram só da linha Gagarin."
+  },
+  "Gallet": {
+   "K": "https://www.gallet.com/logos/vertical_white_with_payoff.svg",
+   "M": "K: logo do cabeçalho do site oficial gallet.com (versão branca vertical). Possível erro em H (não alterado): o rodapé do site oficial liga instagram.com/galletwatch (@galletwatch), e a planilha tem @galletwatches — conferir. Marca relançada em 2026 (Hypebeast set/2026; Barrington cita Genebra) — C 'La Chaux-de-Fonds' pode estar desatualizada, a conferir."
+  },
+  "Galo": {
+   "H": "@galowatches",
+   "K": "https://watchesgalo.com/cdn/shop/files/6406e771f93ac39d9a3b6768_Galo_Black_Logo_1.svg?v=1689510552&width=130",
+   "I": "A Galo foi criada por Zeca Amendola, que, segundo a página \"About\" da própria marca, não vem da relojoaria tradicional; o nome é a palavra portuguesa para \"galo\" (rooster), símbolo adotado desde o início. A marca diz ter começado \"cinco anos atrás\" (texto de 2026), e o banco de dados WatchPatrol dá fundação em 2020.\n\nO modelo central é o mergulhador Super200; a página da Super200 First Edition anunciava um primeiro lote de 200 peças já montadas e um segundo de 1.000 em produção. [⚠️ a confirmar: ano exato de fundação (2020 ou c. 2021) e país de origem (WatchPatrol: Brasil; Trustpilot: EUA; planilha: Austrália)]",
+   "M": "H e K: do site oficial watchesgalo.com (rodapé liga instagram.com/galowatches; K = logo preto do cabeçalho; há também versão branca galo_white.png). I: fundador Zeca Amendola, significado do nome e 'começamos há cinco anos' (watchesgalo.com/pages/about-us, oficial); lote de 200 + 1.000 peças da Super200 First Edition (watchesgalo.com/pages/super200-first-edition, oficial); fundação 2020 (WatchPatrol, só pelo trecho da busca — a página deu erro). Fontes abertas: 4 (about-us, ficha Super200, Super200 First Edition, Trustpilot) + Wristwatch Review UK ('introducing Galo watches', diz marca australiana, 38 mm com NH35/NH36 via Indiegogo — pode ser outro lançamento da mesma marca, não usado). Menos de 6 fontes: marca pouco documentada; procurado em imprensa (Time+Tide, buscas de review), WatchPatrol, Trustpilot. Possível erro em B/C (não alterado): país diverge entre fontes (Austrália/Sydney na planilha; Brasil no WatchPatrol; EUA no Trustpilot; o site oficial não dá endereço) — conferir."
+  },
+  "Galvin Watch Company": {
+   "M": "K não achado: o site galvinwatchcompany.com.au (citado pela WatchGecko, entrevista com a fundadora Susan Galvin) não aparece em nenhuma busca; as páginas da marca hoje vêm do domínio da loja Luca Collections (lucacollections.com.au), cujo cabeçalho usa o nome em texto e não tem logo da Galvin. Firecrawl sem créditos. A confirmar se G deve passar a ser a loja da Luca Collections."
+  },
+  "Gambrell Rénard": {
+   "M": "G, I e K não preenchidos: 6 buscas (\"Gambrell Rénard watches Austin Texas\", \"Gambrell Renard\" watch, \"Gambrell Rénard Étincelant FHF 96\", \"gambrellrenard watches founder\", site:instagram.com gambrellrenard, \"Chocolate Tiger\"/\"KJM\") sem nenhum resultado sobre a marca; Europa Star 'Watchmaking in the USA' (Minutes and Hours, Austin 2024) aberta e não cita a marca. Site oficial não achado. História não conferida: sem fontes (0 fontes achadas). Firecrawl sem créditos."
+  },
+  "Gane": {
+   "M": "K não preenchido: o site oficial ganewatches.com não apareceu em nenhuma busca (3 buscas: \"Gane watches Singapore\", site:ganewatches.com, \"Gane watches official shop Type C\"; só imprensa: Time+Tide, Fratello, aBlogtoWatch, Weraddicted) e o Firecrawl estava sem créditos, então o logo do cabeçalho não pôde ser lido."
+  },
+  "Gant": {
+   "C": "New Haven (Connecticut); sede atual em Estocolmo",
+   "M": "C: fundada em New Haven (Connecticut) em 1949 por Bernard Gantmacher (Wikipedia 'Gant (company)'; ApparelSearch); sede atual em Estocolmo, Suécia (Wikipedia; ApparelSearch; site oficial de carreiras gant.teamtailor.com '70 years' confirma sede na Suécia). Dona: Maus Frères desde 2008 (Wikipedia)."
+  },
+  "Ganymede": {
+   "M": "C não achado: aBlogtoWatch diz só 'based in Georgia, USA' (estado da Geórgia, sem cidade) e Monochrome só 'based in the United States'; fundada em 2018 por Bala Radharamanan (aBlogtoWatch; Monochrome). Busca pela cidade sem resultado."
+  },
+  "Gardé": {
+   "M": "G e H não preenchidos: o único site citado é garde.de (Watch Wiki, página 'Ruhla', empresa 'Gardé Uhren und Feinmechanik Ruhla GmbH') — 1 fonte não oficial, a confirmar; não apareceu em nenhuma busca. Instagram não achado. Observação: os relógios de titânio/rádio-controlados vendidos hoje em Ruhla aparecem como marca 'UMR – Uhren Manufaktur Ruhla' (fabricante: Marienstr. 1, 99842 Ruhla, e-mail @umr-ruhla.de, segundo a ficha GPSR da loja flume.de); possível sucessora da Gardé, a confirmar. A marca 'Ruhla' atual é da Pointtec (Ismaning), outra empresa (WatchTime)."
+  },
+  "Garmin": {
+   "M": "K não preenchido: as páginas oficiais abertas (garmin.com/en-US/fleet, garmin.com/en-US/p/33, developer.garmin.com/brand-guidelines/logo, creative.garmin.com/styleguide/logo e /resources/logos) não mostraram na leitura o endereço da imagem do logo do cabeçalho (só aparece a imagem de compartilhamento share-assets.fe.garmin.com/facebook-default.jpg, que não é o logo); Firecrawl sem créditos. Bancos de logos de terceiros (logotyp.us, cdnlogo, brandfetch) não usados por não serem o site oficial."
+  },
+  "Gavox": {
+   "C": "Genval (Rixensart)",
+   "M": "C: Genval, no município de Rixensart (Brabant Valão) — L'Avenir 10/08/2019 ('Imaginées et dessinées à Genval', fundador Michael Happé, marca criada em 2011) e DH 08/05/2018 (Michael Happé, 'habitant de Genval'). Outras fontes abertas (aBlogtoWatch, The Time Bum, Hourstriker, WatchIsThis) só dizem 'Bélgica'. Site oficial não aberto (não veio em busca)."
+  },
+  "GB Watch Co.": {
+   "M": "História (I) descartada na revisão: só 1 fonte (perfil da marca no atacadista Faire, não é o site oficial); fica a confirmar. I: 1 fonte só achada — perfil da marca na Faire (faire.com/brand/b_mg65g9jd7e: 'started with a family and a dream', fundadores sem nome, 'four years now', Livermore, CA); ficha de produto na Faire sem dados. Procurou-se em: busca geral, 'site:gbwatchco.com' (nenhuma página do site indexada), 'GB Watch Co Livermore', Instagram. Por isso texto curto com marcador. Atenção: C da planilha diz Carmel-by-the-Sea, mas a Faire diz Livermore (Califórnia) — só anotado. H não achado: nenhum perfil em buscas; a Faire não liga Instagram da marca. K não achado: site gbwatchco.com não aparece em nenhuma busca; Firecrawl sem créditos."
+  },
+  "GC Watches": {
+   "M": "C a confirmar: Zug — Europa Star (matéria 'Sequel opens its new European headquarters office': sede europeia da Sequel em Zug e Gc 'already based in Zug since 2007', membro da FH); só 1 fonte (watchreport, Europa Star 'Gc celebrates 10 years' e guesswatches.com dizem só Suíça/Swiss Made). K não preenchido: gc-watches.com não apareceu em nenhuma busca; candidato não usado (é do site da Guess, não do cabeçalho de gc-watches.com): https://guesswatches.com/cdn/shop/files/Gc_GUESS-COLLECTION_Logo_WHT_FINAL_8bdf71b6-df4d-4988-adbe-670ec17ea14a.svg . Nota: watchreport diz que a Gc foi criada em 1997 por Paul Marciano."
+  },
+  "Gebson": {
+   "M": "H não achado: buscas 'Gebson watches Neuchâtel instagram', '\"gebson\" watch instagram', 'site:instagram.com gebson watches' e 'Gebson Neuchâtel montres' não trouxeram perfil; Europa Star (matéria de lançamento: fundada em 2007, Geb Group Ltd, Neuchâtel, site gebson.com) não cita Instagram; masterhorologer.com/gebson-watches deu erro; site oficial não veio em busca. Firecrawl sem créditos."
+  },
+  "Geist": {
+   "I": "Geist é uma micromarca britânica que apresentou o Tiki, um relógio esportivo automático com tema tiki, numa campanha no Kickstarter conduzida pelo criador, identificado apenas como Kai. A campanha (5 de maio a 4 de junho) arrecadou £ 9.928 de uma meta de £ 16.000, com 37 apoiadores, e não atingiu o objetivo; o Tiki segue listado no catálogo da marca (cerca de £ 389). [⚠️ a confirmar: dados da campanha vêm de uma única fonte (espelho PledgeBox do Kickstarter); ano da campanha, cidade e situação atual da marca não confirmados]",
+   "M": "I: marca pouco documentada; 2 fontes achadas (PledgeBox, espelho da campanha Kickstarter 'geistwatches': micromarca do Reino Unido, criador Kai, 5/maio–4/jun, £ 9.928 de £ 16.000, 37 apoiadores, campanha sem sucesso; catálogo metro-ruddy.vercel.app/brand/geist: Tiki a £ 389). Procurou-se também em buscas gerais, 'site:geistwatches.com' (nada indexado), Worn & Wound/Time+Tide (nada). H não achado: nenhum Instagram citado nas fontes; o site geistwatches.com não apareceu em busca nenhuma. K não achado: site oficial não alcançado (não indexado). Possível erro em D/J (não alterado): dizem 'lançamento em breve', mas a campanha do Kickstarter fracassou; Birmingham (C) não confirmado nas fontes abertas."
+  },
+  "Gelfman": {
+   "E": 6,
+   "F": 43574,
+   "M": "F: único modelo IN-16 Nixie (999 peças), preço de lançamento € 6.999 (Monochrome; Worldtempus; Bilanz cita CHF 6.999; aBlogtoWatch US$ 7.978; Time+Tide US$ 8.111) → € 6.999 × 6,2257 = R$ 43.574 → E = 6. Obs.: Worldtempus diz que o preço começou em € 5.000 e sobe € 3 por dia. C não achado com certeza: fundador Ilya Gelfman (aBlogtoWatch, Time+Tide, Worldtempus, Bilanz); aBlogtoWatch diz que o relógio foi desenhado sobretudo em Zurique e montado em Moscou, e o fundador é presidente/CTO da casa de leilões Ineichen, de Zurique (Worldtempus), mas nenhuma fonte dá a sede da marca — Zurique a confirmar. H a confirmar: @gelfman.ch (link instagram.com/gelfman.ch na matéria do Worldtempus; uma fonte só, não confirmado no site oficial). K não achado: o site gelfman.ch não apareceu em nenhum resultado de busca (não aberto)."
+  },
+  "Geltier": {
+   "I": "Geltier é uma marca sueca de relógios de preço acessível, registrada como a empresa Geltier Handelsbolag, com modelos de estilo clássico movidos por quartzo Seiko, como o cronógrafo Strider (calibre VK64, caixa de 40 mm e vidro de safira). [⚠️ a confirmar: fundação em 2020 por entusiastas em Estocolmo, segundo uma única fonte; o registro da empresa aponta endereço em Helsingborg]",
+   "M": "I: marca pouco documentada; fontes achadas: Our Culture Mag (fev/2024, Strider: marca sueca 'relativamente nova' e acessível, Seiko VK64, 40 mm, safira, £ 146), Funnelfeedr (registro sueco Geltier Handelsbolag 969797-5101, Drottninggatan 37, Helsingborg; descrição 'fundada em 2020 por entusiastas em Estocolmo'; ano de registro 2022), catálogo metro-ruddy.vercel.app (só lista o Strider). Buscas 'Geltier watches Stockholm', 'site:geltier.com' (nada indexado) e por modelos não trouxeram imprensa relojoeira nem o site oficial. H a confirmar: @geltier (link instagram.com/geltier na ficha Funnelfeedr; uma fonte só, não confirmado no site oficial). K não achado: site oficial não indexado nas buscas. Possível erro em C (não alterado): o registro da empresa está em Helsingborg, não Estocolmo."
+  },
+  "Genesis": {
+   "M": "H não achado: nenhum Instagram citado nas fontes abertas (aBlogtoWatch 'Genesis German men's watches by a woman'; Wrist Watch Review sobre o Genesis 1); buscas por 'Genesis Uhren Instagram' só trouxeram outras marcas (H. Moser Genesis etc.); o site genesis-uhren.de não apareceu em busca para conferir o rodapé. Possível erro em C (não alterado): o aBlogtoWatch diz que a fundadora e designer Christine Genesis fica em Pforzheim, não Hamburgo — a confirmar."
+  },
+  "Genius Watches": {
+   "I": "Genius Watches é uma marca suíça fundada em 2020 em Lugano, no cantão do Ticino, a partir da ideia de um colecionador, que se juntou a dois sócios. A marca nasceu como homenagem a Gérald Genta: o desenho \"50/50\" une numa mesma caixa assimétrica metade inspirada no Nautilus (parte de cima) e metade no Royal Oak (parte de baixo).\n\nAs linhas incluem o Hommage, automático com o movimento Genius Power, baseado num Sellita suíço; o Smart, de quartzo suíço com pulseira de borracha e cores com nomes de países; e os modelos mais recentes de 36 mm Génie e Idiofyia, de quartzo suíço, este último com versões que levam o nome de cidades (como Qatar, Barcelona e Los Angeles) e opção de diamantes sintéticos na luneta.",
+   "M": "I: 6 fontes abertas — Dialicious (Lugano, Ticino; fundada em 2020; homenagem a Genta; desenho 50/50 assimétrico com coroa escondida; linhas Smart, Hommage, Génie 36, Idiofyia 36), Luxe Infinity (14/08/2025: fundada em 2020 em Lugano por um colecionador com dois sócios; metade Nautilus em cima, metade Royal Oak embaixo; Idiofyia 36 com nomes de cidades, inclusive Qatar; quartzo suíço; diamantes sintéticos; € 840–1.640), Paris Match Bélgica (11/08/2025: primeiro relógio em 2020 em Lugano; ideia de um colecionador; fusão Nautilus/Royal Oak em mostrador, caixa e pulseira; Hommage automático, Génie e Smart quartzo; Idiofyia com diamantes sintéticos), La Côte des Montres (empresa GG S.A., 2020; homenagem a Genta; Genius Power sobre base Sellita; Smart de quartzo suíço com borracha), Ocarat (2020; Hommage com Genius Power/Sellita; Smart de quartzo com cores de destinos), podcast Time to Watches 2025 (Pascal Michel, da marca; quartzo e automático; diamantes de laboratório). Divergência: La Côte des Montres e Ocarat dizem 'fundada na Itália' — ficou Lugano (3 fontes). Retirado por ter só 1 fonte: patente do 50/50, coroa escondida, ano de lançamento das linhas de 36 mm e lista de revendedores. Possível erro em G (não alterado): todas as fontes citam o site geniuswatches.ch, não geniusxgenius.com. H não achado: nenhuma fonte cita o Instagram; site oficial não apareceu em busca (só revendedores). K não achado: site oficial não alcançado. Cota de 20 buscas esgotada."
+  },
+  "Genteel Handmade": {
+   "M": "B e C não achados: aBlogtoWatch (patrocinado), Contra, Fratello (resenha 39 e página da marca) e OmegaForums citam o fundador Vanoaga George e a fundação em 2017, mas nenhuma diz país ou cidade da oficina (não deduzir pelo nome). K não achado: o site genteel-handmade.com não apareceu em nenhuma busca (Firecrawl sem créditos), então o logo não pôde ser lido. A confirmar: país/cidade (provável busca no Instagram @genteelhandmade ou no rodapé do site)."
+  },
+  "Geo": {
+   "M": "História (I) descartado na revisão: só 1 fonte não oficial (The Time Bum, 29/11/2024); fica a confirmar. I: história curta, com só 1 fonte achada — The Time Bum (thetimebum.com, 29/11/2024): fundador Georshua Castro, dono da GeoShop.co; inspiração em Porto Rico; Cofresí 41 mm, 200 m, Miyota 82S5, US$ 450, venda só em pop-ups. Procurou-se também em buscas gerais (inglês e espanhol), site:geoshop.co (o site não aparece nas buscas, logo não pôde ser aberto) e lojas/eBay (anúncio não abriu); nenhuma 2ª fonte independente. Ano de fundação não achado. K não achado: site oficial geoshop.co não apareceu em busca nenhuma (Firecrawl sem créditos)."
+  },
+  "Geoffrey Roth Watches": {
+   "M": "K não achado: o site oficial gr-we.com não apareceu em nenhuma busca (buscas por 'gr-we.com', 'Geoffrey Roth Watch Engineering official site'); só imprensa (Worn & Wound, aBlogtoWatch, A Timely Perspective, InsideHook, Petrolicious) e Masterhorologer (página não abriu). Firecrawl sem créditos. Nome da empresa nas fontes: Geoffrey Roth Watch Engineering (Scottsdale, Arizona), bate com B e C."
+  },
+  "Georges V": {
+   "M": "C, G, H e K não achados: a marca só aparece em matérias de 2008 (Masterhorologer, fev/2008: V 1001, V 2012, V 3015, 4018, V 5050 — páginas não abriram) e em fichas da Europa Star (V 3015 e V 5050, que descrevem a marca só como 'young, exclusive', sem cidade nem site). Nenhum site oficial, Instagram ou endereço apareceu nas buscas; a marca parece inativa. A confirmar: cidade suíça da empresa."
+  },
+  "Gerge": {
+   "E": 8,
+   "F": 107250,
+   "M": "F: só 1 preço achado — Metropolis Type M-3 (2012, edição de 88 peças, COSC) CHF 16.500 sem IVA, ficha do GPHG 2012 (gphg.org) → 16.500 × 6,5 = R$ 107.250 → E = 8. Preços do Type M/M2 e da Giovanna não achados (WatchTime, Europa Star, aBlogtoWatch sem preço). G a confirmar: WatchTime cita www.gergeswiss.com, mas é fonte única e o site não apareceu em busca (não gravado). H e K não achados: sem Instagram nem site acessível; a marca parece inativa. Fontes também confirmam: Neuchâtel, cofundador e presidente George Kojababian, escritório em Los Angeles (WatchTime; Masterhorologer)."
+  },
+  "German Baillot": {
+   "M": "G não achado: buscas por site oficial/portfólio pessoal trouxeram só matérias (aBlogtoWatch, Hypebeast 2016, Luxatic) e uma galeria no Behance (behance.net/gallery/42061953, 'Concept Watch By Germain Baillot'), sem site próprio nem link para ele. K não preenchido: designer sem marca comercial e sem site oficial com logo. Obs.: nas fontes o nome aparece como 'Germain Baillot' (A está 'German'; não alterado). Cidade Genebra não aparece nas fontes abertas (a confirmar)."
+  },
+  "Germano & Walter": {
+   "M": "H não achado: 4 buscas (Instagram, site:instagram.com, nome + Munique) sem perfil da marca; o blog Oceanic Time (2010) e o fórum relojes-especiales não citam Instagram. K não achado: o site germano.de não apareceu em nenhum resultado de busca (não pôde ser aberto sem permissão) e o Firecrawl estava sem créditos. Oceanic Time confirma: relógio 500 m feito em pequenas séries em Munique, desenhos de Alexander Walter, site germano.de."
+  },
+  "Gevril": {
+   "K": "https://www.gevril.com/cdn/shop/files/Gevril-Logo-White-header.png?v=1766074454&width=360",
+   "M": "K: logo do cabeçalho do site oficial gevril.com (página /pages/about; versão branca do logo). Possível divergência em H (não alterado): o rodapé do site oficial liga instagram.com/gevrilofficial, e a planilha tem @gevrilwatches — a conferir."
+  },
+  "Geylang Watch Co": {
+   "I": "A Geylang Watch Co é uma marca de relógios de Singapura fundada em 2024, citada pela imprensa local entre as novas marcas do país. Teria sido criada por uma empresa local de fornecimento de peças de relógio e monta seus relógios à mão, com coleções de nomes bem-humorados como Geylang Lorong 1 e Geylang Lorong 2, em caixas de aço preto ou carbonizado. O Apex Hybrid Chronograph, de 38 mm com movimento meca-quartz, saiu em quatro cores de 30 peças cada. [⚠️ a confirmar: criação por empresa de peças e tiragem do Apex (só The Peak); montagem à mão e nomes Lorong 1/2 (só Harper's Bazaar)]",
+   "M": "I: fundação em 2024 em Singapura e site geylangwatchco.store (The Peak Singapore, 'Which of these Singapore watch brands will you wear this National Day?'; Harper's Bazaar Singapore, '20 Singapore Watch Brands That Should Be On Your Radar', 2026). Só 2 fontes achadas sobre a marca; procurou-se também em Harper's Bazaar ('Singaporean Watch Brands... future'), Esquire SG ('Stories From Beyond the Dial'), The Edge Singapore (microbrands, paywall), Red Army Watches (Singapore brands) — sem menção. Fatos de 1 fonte marcados no texto. H não achado: busca site:instagram.com e matérias não citam perfil. K não achado: o site geylangwatchco.store não apareceu em resultado de busca (não pôde ser aberto) e Firecrawl sem créditos."
+  },
+  "GhostTown": {
+   "I": "A GhostTown é uma marca de relógios que se apresentou em julho de 2022 com uma campanha no Kickstarter para o seu primeiro modelo, o Old West Model, inspirado nas histórias do Velho Oeste. O mostrador conta uma história em 13 quadros; a edição é limitada a 750 peças, com movimento de quartzo Ronda 515, e saiu em pré-venda por US$ 250. [⚠️ a confirmar: 13 quadros e lançamento da campanha por Balbino Martínez (só Alltopstartups); 750 peças, Ronda 515 e US$ 250 (só Gadget Flow); sede em Singapura não aparece nas fontes]",
+   "M": "I: campanha no Kickstarter (kickstarter.com/projects/ghosttown/ghosttown-watches) para o Old West Model em julho de 2022 (Alltopstartups, 15/07/2022; Gadget Flow, 11/07/2022 — ambas parecem vir do mesmo comunicado). Só 2 fontes achadas; buscas por site oficial (ghosttownwatches.com), Instagram e fundador não trouxeram outras. H não achado: busca site:instagram.com sem perfil; as matérias não citam Instagram. K não achado: o site ghosttownwatches.com não apareceu em resultado de busca (não pôde ser aberto) e Firecrawl sem créditos."
+  },
+  "Giberg Haute Horlogerie": {
+   "M": "K não preenchido: o site oficial giberg.com não apareceu em nenhum resultado de busca (3 buscas, inclusive 'site:giberg.com'), então não pôde ser aberto sem pedir permissão; só vieram matérias (Quill & Pad, Europa Star, Masterhorologer, Blush, Oracle of Time, GPHG), sem o logo do cabeçalho oficial. Firecrawl sem créditos."
+  },
+  "Gigandet": {
+   "M": "C não achado: buscas por impressum/empresa/endereço e 'site:gigandet-watches.com' só trouxeram lojas (Galaxus, Digitec, eBay.de, EveryWatch) e a página-índice da Fratello sem dados; nenhuma fonte deu a cidade da empresa. Atenção: existe também a Gigandet suíça histórica (Wakmann/Gigandet, Tramelan) — não confundir. K não preenchido: o site oficial gigandet-watches.com não apareceu em nenhum resultado de busca, então não pôde ser aberto. Firecrawl sem créditos."
+  },
+  "Ginault Watches": {
+   "I": "A Ginault é uma marca americana surgida em 2011 que faz relógios de mergulho e de estilo militar inspirados nos clássicos suíços, sobretudo o Ocean Rover, uma homenagem ao Rolex Submariner. Os relógios trazem a inscrição \"Hand Built in America\" (feito à mão na América), e John McMurtry aparece na imprensa como um dos responsáveis pela empresa.\n\nO coração dos relógios é o calibre automático Ginault 7275, uma cópia do suíço ETA 2824-2. Segundo a marca, caixa, fundo, bisel e coroa são usinados por oficinas parceiras nos EUA, enquanto espiral, mola principal, rubis e amortecedor de choque vêm de fora; cada movimento é regulado por cerca de seis semanas e acompanha uma ficha de marcha.\n\nA origem americana das peças foi muito questionada por colecionadores e pela imprensa, porque a marca não divulgou a lista de fornecedores. O Ocean Rover custava US$ 1.299 em 2017 e US$ 1.499 em 2019; depois vieram o Ocean Rover II e os modelos Silent Service e Expeditioner. [⚠️ a confirmar: Silent Service e Expeditioner (só WatchPatrol)]",
+   "M": "I (10 fontes abertas): fundação 2011 (WatchPatrol 'Est. 2011'; The Coolector 26/08/2019; Wrist Watch Review 'came on the scene in 2011' — a própria empresa disse a esse site 'desde 2010'); 'Hand Built in America' (Wrist Watch Review; KeepTheTime 12/11/2019; The Coolector; The Modest Man 16/05/2019); John McMurtry como responsável (Wrist Watch Review; Tech Writer EDC); calibre 7275 clone do ETA 2824-2 (Wrist Watch Review; The Modest Man; KeepTheTime; The Dive Watch Connection, e-mail da marca; WatchClicker 23/09/2019); peças nos EUA e espiral/mola/rubis/amortecedor importados (Wrist Watch Review; The Dive Watch Connection); regulagem de 6 semanas e ficha de marcha (Wrist Watch Review; The Modest Man); dúvidas sobre a origem (Wrist Watch Review; Watch Report 15/02/2017; KeepTheTime); preços US$ 1.299 (Watch Report 2017; Tech Writer EDC) e US$ 1.499 (The Modest Man; KeepTheTime; WatchClicker; The Coolector); Ocean Rover II (Tech Writer EDC; comentário no Watch Report). Silent Service e Expeditioner: só WatchPatrol (a confirmar). Também aberto: Badger & Blade (fórum, sem datas). Retirado por ter 1 fonte só: nome 'Charles Ginault' e a pausa entre 2011 e 2016 (Wrist Watch Review). Possível divergência em C (não alterado): Wrist Watch Review (2017) dizia que a empresa ficava na Califórnia; C está 'Lake Tahoe (Nevada)'. H não achado: 3 buscas por Instagram ('ginault instagram', '\"ginault\" instagram.com', '@ginault') sem perfil da marca; nenhuma das 10 matérias cita o perfil. K não preenchido: ginault.com não apareceu em nenhum resultado de busca, então não pôde ser aberto. Firecrawl sem créditos."
+  },
+  "Giorgio Piola": {
+   "M": "C não preenchido: só a WatchTime diz que a marca 'Giorgio Piola Timepieces' é 'based in Miami' (EUA); um comentário na mesma página diz 'UK based'; aBlogtoWatch e Motorsport.com (05/10/2019) não dão a sede — fica a confirmar. Possível erro em B (não alterado): B está 'Itália', mas a única fonte com sede aponta Miami (EUA); a Itália é a nacionalidade do ilustrador Giorgio Piola; os relógios são 'Swiss Made', montados à mão na Suíça (Motorsport.com). K não preenchido: giorgiopiola.com não apareceu como resultado de busca (só citado na Motorsport.com; loja em piola-watches.myshopify.com segundo a Loox), então não pôde ser aberto. Firecrawl sem créditos."
+  },
+  "Girard Perregaux": {
+   "M": "K não preenchido: abertas duas páginas do site oficial (girard-perregaux.com/usa_en e /ch_en/heritage, vindas da busca); o logo do cabeçalho não aparece como arquivo de imagem (provavelmente SVG embutido na página); as imagens da página são só fotos de produto. Instagram ligado pelo site: @girardperregaux (confere com H). Firecrawl sem créditos."
+  },
+  "Glam Rock": {
+   "M": "G não preenchido: não se achou site oficial ativo. O comunicado da PR Newswire (15/09/2014) apontava a página gevrilgroup.com/glam-rock-watches/ (a Gevril Group comprou a marca em 2014), mas hoje gevrilgroup.com redireciona para gevril.com, que não lista a Glam Rock; glamrockwatches.com não apareceu em nenhuma busca (a confirmar). K não preenchido: sem site oficial, sem logo. Observação (coluna já preenchida, não alterada): segundo a PR Newswire (2014), a marca foi criada pelo designer italiano Enrico Margaritelli e passou à Gevril Group (Nova York); B 'USA' e C 'Miami' podem refletir só o tema Miami Beach — a confirmar. Buscas: 4 (site oficial, glamrockwatches.com, loja SoBe); páginas abertas: PR Newswire, gevril.com."
+  },
+  "Gloriousdays": {
+   "M": "H, I e K não preenchidos: nenhuma das 4 buscas (fundador, enjoygloriousdays.com, modelos Clipper/Bambijou, Instagram) trouxe o site oficial, o Instagram ou qualquer matéria sobre a marca; os resultados eram de outras marcas de bambu (Tree Hut, GEN Bamboo, Treeless, WoodWatch). História não conferida: sem fontes (0 fontes achadas). Firecrawl sem créditos; site enjoygloriousdays.com não apareceu em busca, por isso não foi aberto."
+  },
+  "Golby": {
+   "M": "C não achado: as fontes abertas (Microbrand Watch Movement/beehiiv, Oracle of Time, páginas Squarespace da própria Golby sobre o Aquareef) dizem só 'UK-based'/'British designed', sem cidade; Kicktraq redirecionou em loop. Dado novo (não gravado em coluna): marca do casal Craig e Sarah Golby, que começou fazendo pulseiras (Microbrand Watch Movement) — 1 fonte só, a confirmar."
+  },
+  "Good + Evil": {
+   "M": "I e K não preenchidos: 3 buscas ('Good + Evil watches Brooklyn founder', 'goodplusevil.com watches about', 'goodplusevil OR good plus evil watches') só trouxeram resultados homônimos (série 'Good and Evil', filmes); o site goodplusevil.com não apareceu em busca e não pôde ser aberto (regra de não abrir endereço da planilha); doors.nyc/collections/good-evil abriu a página inicial da loja, sem a marca. História não conferida: sem fontes (0 fontes achadas). Firecrawl sem créditos."
+  },
+  "Gotham Watch": {
+   "M": "I e K não preenchidos: o site gothamwatch.com não apareceu em busca; os resultados só trouxeram anúncios de lojas (reach.dog, eBay, Walmart, Desertcart) dos relógios de bolso GWC, sem dados da empresa (ano, fundador, dono). Cuidado com homônimos: a 'Gotham Watch Co.' vintage (relógios dos anos 1950, 1stdibs), a linha 'Gotham' da Gevril e o grau 'Gotham' da New York Standard Watch Co. não são, até prova, a mesma empresa. História não conferida: sem fontes. Buscas: 3; páginas abertas: reach.dog (ficha GWC18806G, sem 'sobre')."
+  },
+  "Graff": {
+   "M": "K não preenchido: as páginas oficiais abertas (graff.com/uk-en/graff-watches.html e graff.com/us-en/graff-watches.html, vindas da busca) chegaram só como texto, sem nenhum endereço de imagem do logo; busca por logo do site trouxe só a Graff de torneiras (homônima). Firecrawl sem créditos. Fica para outra rodada."
+  },
+  "Grandeur Watches": {
+   "I": "A Grandeur (Grandeur USA) é uma marca independente americana de relógios que, em 2025, já somava cerca de uma década de atividade. É conhecida por experimentar complicações e formatos fora do comum a preços de microbrand, com movimentos feitos ou modificados para ela pela fabricante chinesa Hangzhou.\n\nEm 2025 apresentou o turbilhão Lumillion, com movimento Hangzhou 37Z0E modificado, que aparece no catálogo de relógios do Grand Prix d'Horlogerie de Genève (GPHG). No mesmo ano levou ao Kickstarter (julho a agosto de 2025) o TorQ Mechanical, um relógio esqueletizado ultrafino, de 7,4 mm, com calibre feito sob medida pela Hangzhou. A marca também usa um calibre automático próprio, o 5000A.\n\nEntre os modelos citados pela imprensa estão ainda o Strange, de horas \"malucas\" com os números fora de ordem, o ReVolv e o Monocle (janeiro de 2026), com indicação de horas \"Jump Flap Hour\" que a marca diz ter patenteado. [⚠️ a confirmar: Strange e Monocle (só Oracle of Time, matérias patrocinadas); ReVolv (só GPHG); fundador, ano exato de fundação e cidade não achados]",
+   "M": "I (história nova, 9 fontes abertas): marca americana e site grandeur-usa.com (Oracle of Time review do Lumillion; GPHG); cerca de uma década de atividade em 2025 (Backerclub/Kickstarter TorQ: '9 years under its belt'; The Hour Markers: 'nearly a decade of history'); experimentação (The Hour Markers; Oracle of Time); Lumillion com Hangzhou 37Z0E modificado (Oracle of Time review 11/09/2025; gphg.org/en/watches/lumillion, CHF 1.725); TorQ Mechanical no Kickstarter 29/07–19/08/2025, 7,4 mm, calibre Hangzhou sob medida (backerclub.co projeto 3138; thehourmarkers.com/articles/grandeur-usa-kickstarter-torq); calibre 5000A (Oracle of Time Monocle; metro-ruddy.vercel.app Viridis Flux). Só 1 veículo: Strange e Monocle (oracleoftime.com/grandeur-monocle, /best-american-watch-brands, /tag/grandeur — mesmo site, matérias patrocinadas), ReVolv (gphg.org/en/watches/revolv, lançamento 04/2025). Não achados: fundador, ano de fundação e cidade — nenhuma fonte aberta confirma 'Missouri City (Texas)' da coluna C (só anotado). Busca 'site:grandeur-usa.com about' não trouxe o site oficial, por isso K não preenchido: logo do site oficial não alcançado (Firecrawl sem créditos)."
+  },
+  "Gravithin": {
+   "M": "C não achado: Gessato (shop.gessato.com/brand/gravithin), aBlogtoWatch (Focuscope) e Geeky Gadgets (ArgoMatic) dizem só 'marca italiana, fundada em 2017', sem cidade; busca por registro da empresa (srl/partita IVA) não trouxe nada. Observação: o K atual é imagem da loja Gessato, não do site oficial (só anotado)."
+  },
+  "Grayton": {
+   "M": "K não preenchido: o site oficial grayton-watches.com (citado por Wristwatch Review) não aparece em nenhuma busca ('site:grayton-watches.com' sem resultado; pode estar fora do ar); masterhorologer.com/grayton-watches deu erro. Observação: B está 'Estados Unidos', e o padrão da planilha é 'USA' (só anotado)."
+  },
+  "GRD": {
+   "M": "G a confirmar: grdwatch.com (link 'Visit The Store' na matéria da Silodrome; só 1 fonte, não oficial, não gravado). GRD = GuardsRed Design (Rennline vende o 'GuardsRed Design Tach Watch' RL-72). Silodrome diz que a marca começou na Escócia e hoje fica em Munique, Alemanha: B/C atuais ('Escócia'/'Escócia') podem estar desatualizados e C não é cidade (só anotado). K não preenchido: site oficial não alcançado (Firecrawl sem créditos). Fontes: silodrome.com/grd-watches, shop.classicdriver.com (matéria GRD), rennline.com (RL-72)."
+  }
+ },
+ "base": "Relogios_atualizada_587.xlsx"
+}
