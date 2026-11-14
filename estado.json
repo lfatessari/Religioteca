@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 598,
+  "ultima_versao": 599,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10112,6 +10112,13 @@
       "tipo": "lacunas_marcas",
       "marcas": "Mecexp Watches a MMI Watches",
       "n": 50
+    },
+    {
+      "versao": 599,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Möel & Co a MW&Co (50)",
+      "rodada": 1
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10185,9 +10192,10 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "MMI Watches",
+    "ultima_marca_revisada": "MW&Co",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
   },
   "em_execucao": "2026-11-14T14:50:29Z",
-  "ultimo_sinal": "2026-11-14T15:04:49Z"
+  "ultimo_sinal": "2026-11-14T15:09:53Z",
+  "onda2_pendente": true
 }
