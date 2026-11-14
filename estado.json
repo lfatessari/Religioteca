@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 597,
+  "ultima_versao": 598,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10105,6 +10105,13 @@
       "tipo": "lacunas_marcas",
       "marcas": "Maranez a Meccaniche Veloci",
       "n": 50
+    },
+    {
+      "versao": 598,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Mecexp Watches a MMI Watches",
+      "n": 50
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10178,10 +10185,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Meccaniche Veloci",
+    "ultima_marca_revisada": "MMI Watches",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T14:18:55Z",
-  "ultimo_sinal": "2026-11-14T14:44:23Z",
-  "onda2_pendente": true
+  }
 }

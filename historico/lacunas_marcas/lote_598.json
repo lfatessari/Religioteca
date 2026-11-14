@@ -1,0 +1,290 @@
+{
+ "versao": 598,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Mecexp Watches",
+  "MEDINI",
+  "Meia Lua",
+  "Meistersinger",
+  "Melbourne Watch Company",
+  "Memorigin",
+  "Memphis Belle",
+  "Méraud",
+  "Mercer",
+  "Mercure",
+  "Mercury",
+  "Meridiano Watches",
+  "Mermod Freres",
+  "MetaWatch",
+  "Meva",
+  "MEXX Time",
+  "Meyers",
+  "Mezei Watch Company",
+  "MHD Watches",
+  "Michael Bastian",
+  "Michael Bittel",
+  "Michael Kors",
+  "Michel Jordi",
+  "Michel Perchin",
+  "Michelsen",
+  "Micromilspec",
+  "Micserah",
+  "Mido",
+  "MIH",
+  "Mikael Bourgeois",
+  "Miki Eleta",
+  "Militado",
+  "Milléchron",
+  "Milleret",
+  "Milus",
+  "Minase",
+  "MineRoci",
+  "Minerva",
+  "Ming",
+  "Minim Watches",
+  "Minor Watches",
+  "Minus-8",
+  "Minuteman",
+  "Mirco",
+  "Misfit",
+  "Mitch Mason",
+  "Miyota",
+  "MK II",
+  "M. Laurent",
+  "MMI Watches"
+ ],
+ "celulas": {
+  "Mecexp Watches": {
+   "B": "China",
+   "G": "mecexp.com",
+   "K": "https://mecexp.com/cdn/shop/files/21801717484128_.pic.png?v=1717484398&width=2510",
+   "M": "G: mecexp.com, site citado como oficial na campanha da marca no Kickstarter (aberta pelo Firecrawl) e confirmado aberto (loja Shopify 'MECEXP' com as linhas MS1001 e MS1002). K: logo do cabeçalho do site oficial. B: China (New Atlas: 'Chinese brand MECEXP'; iF Design: fabricante Guangzhou Deyu Technology Co., Ltd., Guangzhou, CN). C não preenchido, a confirmar: Guangzhou (só o iF Design diz; o Kickstarter mostra o criador 'Jason' em Nova York e o site não traz endereço). Possível erro em H (não alterado): o rodapé do site oficial liga o Instagram @mecexpwatch, e não @mecexpwatches. Fontes: mecexp.com, kickstarter.com (campanha MS1001), newatlas.com, ifdesign.com, thewatchgallery.fr, redarmywatches.com, indiegogo.com, geeky-gadgets.com, uncrate.com."
+  },
+  "MEDINI": {
+   "B": "Emirados Árabes Unidos",
+   "C": "Dubai",
+   "G": "mediniwatchcompany.com",
+   "K": "https://mediniwatchcompany.com/cdn/shop/files/medini-logo-black-transparent.png?height=55&v=1788157769",
+   "M": "G: mediniwatchcompany.com (link do site da marca no aBlogtoWatch e no WatchPro; site aberto, preços em dirham, descrição 'Dubai-based'). K: logo do cabeçalho do site oficial. B e C: Dubai, Emirados Árabes Unidos (site oficial; aBlogtoWatch: 'Dubai's newest watch brand'; WatchPro: 'Based in Dubai, MEDINI WATCH COMPANY'). Observação: D diz 'design italiano/mediterrâneo', mas as fontes apresentam a marca como de Dubai (não alterado). O rodapé do site não mostra Instagram."
+  },
+  "Meia Lua": {
+   "H": "@meialua.watches",
+   "K": "https://www.meialuawatches.com/cdn/shop/files/Logo_simplified_original_175x.png?v=1628595427",
+   "I": "A Meia Lua é uma marca independente de relógios automáticos nascida em Lisboa, Portugal, onde está sediada; o nome quer dizer \"meia-lua\", e a Lua é o tema que inspira a marca. Segundo o perfil oficial da empresa, foi fundada em 2018, e os relógios são desenhados e montados em Portugal, com a proposta de oferecer peças diferentes a preço razoável.\n\nA linha Callisto usa um movimento mecânico Miyota de calendário triplo (data, dia da semana e mês), e a marca diz já ter vendido relógios para mais de 30 países. A imprensa cita Gonçalo Lopes como fundador e a série Inception como a primeira da marca. [⚠️ a confirmar: fundador Gonçalo Lopes e primeira série Inception (só Europa Star, 2021)]",
+   "M": "H e K: do site oficial meialuawatches.com (Instagram do rodapé e logo do cabeçalho). I (história nova, 6 fontes abertas): Lisboa e nome 'meia-lua' (site oficial, página About Us; LinkedIn oficial da empresa; Europa Star 2021); fundação 2018 (LinkedIn oficial da empresa, aberto pelo Firecrawl); desenhados e montados em Portugal (página inicial do site oficial); mais de 30 países (site oficial; Europa Star); Callisto com Miyota de calendário triplo (Europa Star; ficha da Callisto Semi Ice em metro-ruddy.vercel.app). A confirmar (1 fonte só, Europa Star): fundador Gonçalo Lopes e primeira série Inception. Fórum relojes-especiales.com citou uma edição de bronze limitada a 350 peças (não usado: fonte única de fórum). Buscas na imprensa portuguesa (Observador, ECO) e nas revistas relojoeiras não trouxeram mais nada."
+  },
+  "Meistersinger": {
+   "K": "https://meistersinger.com/wp-content/uploads/2021/01/MSReWork21_Site-Logo_DE_250x100_20210109.svg",
+   "M": "K: logo do cabeçalho do site oficial meistersinger.com (há também uma versão menor da barra de navegação: https://meistersinger.com/wp-content/uploads/2021/04/MSReWork21_Site-Logo_DE_mn.svg)."
+  },
+  "Melbourne Watch Company": {
+   "K": "https://www.melbournewatch.com.au/cdn/shop/files/Mask_group.png?v=1727948822&width=263",
+   "M": "K: logo do cabeçalho do site oficial melbournewatch.com.au (imagem dentro do link para a página inicial, conferido duas vezes; o arquivo se chama Mask_group.png)."
+  },
+  "Memorigin": {
+   "K": "https://memorigin.com/image/catalog/logo/logo.svg",
+   "M": "K: logo do cabeçalho do site oficial memorigin.com (lido pelo Firecrawl, branding, 14/11/2026; o WebFetch deu erro no site)."
+  },
+  "Memphis Belle": {
+   "I": "A Memphis Belle foi fundada em 1998 na Itália por Alessandro (Alex) Roman e Giovanni Panucci e leva o nome do bombardeiro B-17 \"Memphis Belle\", da Segunda Guerra Mundial. Segundo a marca, os fundadores pediram ao piloto do avião, o capitão Robert Morgan, autorização para usar o nome e o logotipo, e ele deu sua bênção antes de morrer.\n\nA sede operacional e o atendimento ficam em Gênova; a sede legal é a empresa Fucina Orologi Militari, em Ivrea (Turim). A marca faz relógios de mergulho, militares e cronógrafos, com modelos feitos para unidades como as Frecce Tricolori e o COMSUBIN, e em 2008 obteve a licença mundial exclusiva do nome e do logotipo da Decima Flottiglia MAS. Em 2018, os 20 anos foram marcados com o Predator Heritage em bronze naval.\n\nSegundo a própria marca, em 2002 o astronauta italiano Roberto Vittori usou um Memphis Belle STS na missão \"Marco Polo\" à Estação Espacial Internacional, e em 2004 Fabio Pajoncini Ottaviani bateu um recorde mundial de mergulho a 202 m, perto de Ponza, com um relógio da marca. [⚠️ a confirmar: os feitos de 2002 e 2004 só aparecem no site da marca]",
+   "K": "https://memphisbellewatches.shop/wp-content/uploads/2023/05/logo-w.png",
+   "M": "K: logo do cabeçalho do site oficial memphisbellewatches.shop (WebFetch direto, 14/11/2026). H não achado: o site oficial não liga Instagram (só um grupo no Facebook) e as buscas (site:instagram.com) não trouxeram perfil da marca. I: 9 páginas abertas — site oficial (início, 'La nostra storia', 'La storia di una eccellenza italiana'), catálogo Heritage 2020-21 da marca no Issuu, Jura Watches (história e coleção), C W Sellors, OrologioBlog ('Nati per il volo'), Time Transformed. Fundação 1998 e fundadores Alessandro Roman e Giovanni Panucci (site oficial; Jura Watches; C W Sellors; catálogo: 20 anos em 2018). Nome do B-17 e bênção de Robert Morgan (site oficial; Jura Watches cita o nome). Gênova (site oficial; OrologioBlog; Time Transformed; catálogo) e sede legal Fucina Orologi Militari em Ivrea (site oficial). Licença Decima Flottiglia MAS em 2008 (site oficial; catálogo) e unidades militares (site oficial; catálogo). Predator Heritage bronze 2018 (catálogo). A confirmar: missão de Roberto Vittori em 2002 e recorde de mergulho de 2004 (só no site oficial). Deixado de fora: parceria com a Pattuglia acrobática desde 2007 (só OrologioBlog). Obs.: outros domínios citados para a marca: memphisbellewatches.com (catálogo 2020) e memphisbellewatches.it (OrologioBlog)."
+  },
+  "Méraud": {
+   "C": "Gante",
+   "M": "C: Gante (Gent, CEP 9031, Drongen) — empresa MÉRAUD BV/SRL, nº 0802.802.187, aberta em 16/06/2023, atividade fabricação de relógios (Companyweb e Busibee, dados do registro belga KBO; fórum OmegaForums também cita Gent). K não achado: o domínio da coluna G, meraud.co, não abre (robots no WebFetch; DNS inexistente no Firecrawl, 14/11/2026). Ainda a verificar: G pode estar desatualizado — a Monochrome indica o site www.meraud-watches.com, que não apareceu em busca e não pôde ser aberto (Firecrawl sem créditos). Fundador: Stijn Busschaert (OrologioBlog; Master Horologer)."
+  },
+  "Mercer": {
+   "M": "K não preenchido: o domínio mercerwatch.com (coluna G) aparece à venda na HugeDomains (Firecrawl, 14/11/2026), sem logo da marca; versão antiga em Squarespace não mostrou URL de logo. Possível marca inativa / G desatualizado — a confirmar. Ainda a verificar: C 'Nova York' pode estar errado — Windup Watch Shop e Kibble Watches dizem que a marca é de Nova Jersey (\"historic central New Jersey\", fundada em 2014); H: rodapé antigo do site dizia '@mercerwatch' (planilha tem @mercerwatchco) — a confirmar."
+  },
+  "Mercure": {
+   "M": "B, C, G e K não achados: 6 buscas (\"Mercure\" watches, \"mercurewatches\", \"Mercure Watches\" brand, Mercure montres site officiel, microbrand/kickstarter, marca francesa/suíça) só trouxeram Baume & Mercier, Merci, Mercury e Matthew Mercury; o perfil @mercurewatches não pôde ser aberto (Firecrawl recusou). Ainda a verificar: D e J estão genéricos e não foi achada fonte nenhuma sobre esta marca; conferir se ela existe e se @mercurewatches está certo."
+  },
+  "Mercury": {
+   "M": "Nada novo achado (B, C, G, H, K): o nome 'Mercury' é usado por várias marcas e não deu para ter certeza de qual é a da planilha. Candidatas vistas: (1) 'Mercury' suíça (Swiss Made, refs. ME/MEA, ex.: MEA478-SS-9 a 3.816 SAR na distribuidora autorizada Al Shaya Watches e refs. ME290/ME335 na Catawiki), sem site oficial achado; (2) 'Matthew Mercury' (matthew-mercury.com, @matthewmercury, segundo Flaunt e Haute Living), que parece outra marca; (3) modelo 'Mercury' da Roamer. A confirmar qual é a marca certa. Se for a suíça das refs. ME, F=800 e E=1 ficam baixos (preços de alguns milhares de reais) — só anotado."
+  },
+  "Meridiano Watches": {
+   "H": "@meridiano.watches",
+   "K": "https://www.meridiano.fr/cdn/shop/files/Design_sans_titre_81.png?v=1783101003",
+   "I": "A Meridiano é uma micro-marca independente de relógios fundada em 2024 em Marselha, na França, segundo o próprio site, que diz montar cada relógio à mão e defende relógios de qualidade a preço acessível, longe da lógica do acessório de moda.\n\nA empresa tem endereço no Boulevard des Dames, em Marselha. Modelos como o Beyond e o Mono Hand usam movimento automático Seiko e são vendidos também pela loja francesa The Watch Gallery, por cerca de € 290 a € 320.",
+   "M": "H e K: do site oficial meridiano.fr (Instagram no rodapé e na página de contato; K = primeira imagem do logo no cabeçalho; há também a versão em texto branco logo_text_white.png). Outras redes: YouTube @MeridianoWatches, TikTok @hello.meridiano, LinkedIn. I: 6 fontes abertas — site oficial (início; 'Our Story': fundada em 2024 em Marselha, montagem à mão; 'Contact information': 25 Boulevard des Dames, 13002 Marselha, SIRET 92870799100016; página de contato) e The Watch Gallery (fichas Meridiano Beyond: Seiko NH38, € 320; Mono Hand: Seiko NH38, € 290–300). Fundador não achado em nenhuma fonte (buscas em imprensa francesa, Made in Marseille e registro pelo SIREN sem resultado). Possível erro em J (já preenchida, não alterada): J diz Mono Hand com Seiko NH70, mas a ficha da The Watch Gallery diz NH38; e o texto de J está cortado no fim ('Mono Ha')."
+  },
+  "Mermod Freres": {
+   "M": "G, H e K não achados: não foi encontrado site nem Instagram próprio da Mermod Frères. Fontes: masterhorologer.com (fundada em 1816 em Sainte-Croix pelos filhos de Louis Mermod; parada desde a crise de 1929; relançada pela Reuge em 2006–2007, conceito na BaselWorld 2007 e relógio musical Primo 4 em 2008) e Europa Star 2007 (compra pela Reuge). A marca parece ter funcionado dentro da Reuge (reuge.com), sem domínio próprio — a confirmar se ainda existe. D e J (já preenchidas) falam só das caixas de música; a planilha poderia citar o relógio Primo 4 — só anotado."
+  },
+  "MetaWatch": {
+   "C": "Dallas",
+   "M": "C: Dallas, Texas (comunicado oficial da empresa no PR Newswire, 12/09/2011: 'Meta Watch will be based in Dallas, TX', com centro de P&D em Espoo, Finlândia; o mesmo cabeçalho 'DALLAS and ESPOO' aparece nas notícias da TechCrunch e TelecomLead). G não preenchido: o site oficial era metawatch.org (comunicado de 2011 e Wikipedia), mas a Wikipedia diz que está desativado e que a empresa encerrou as atividades. H e K não achados: empresa encerrada, sem site ativo para tirar o logo e sem Instagram encontrado. Contexto: o negócio Meta Watch foi comprado da Fossil em 2011 por investidores liderados por Juha Pinomaa (ex-Suunto/Nokia), com Bill Geiser e David Rosales (ex-divisão de tecnologia da Fossil)."
+  },
+  "Meva": {
+   "M": "Nada novo achado (B, C, G, K): três buscas ('Meva watches', 'mevawatches', site/loja) não trouxeram a marca; o Instagram @mevawatches (já na planilha) não abre para leitura (robots) e o Firecrawl falhou nessa página. Sem site oficial achado, não há logo nem país/cidade confirmados. A confirmar se a marca ainda existe."
+  },
+  "MEXX Time": {
+   "G": "mexx.com",
+   "H": "@mexxofficial",
+   "K": "https://www.mexx.com/cdn/shop/files/MEXX_PREMIUM_BLACK_final2.svg?v=1787657959&width=972",
+   "M": "G, H e K: do site oficial da grife Mexx (mexx.com; logo SVG do cabeçalho; Instagram do rodapé @mexxofficial), dona da marca licenciada MEXX Time; G também na FashionUnited (perfil da empresa Mexx). Obs.: o site atual vende só roupas e calçados, sem relógios; os relógios eram feitos sob licença. C não achado: o rodapé diz só '© MEXX BV. Netherlands'; a Wikipedia cita sedes antigas (Voorschoten 1985–2008, depois Amsterdam Riekerpolder) e escritório em Drunen (2021), dona atual HVEG Fashion Group (2024) — sede atual sem confirmação."
+  },
+  "Meyers": {
+   "G": "meyers-watches.com",
+   "K": "https://www.meyers-watches.com/wp-content/uploads/2016/10/MeyerSwissWGF-3.png",
+   "M": "G e K: site oficial meyers-watches.com ('Meyers Montres Suisses de luxe - Éditions Limitées'; logo do cabeçalho), achado por busca; modelos Lady Beach, Fly Racer, Milady confirmam ser a marca vendida na Miller Paris e Proantic. C não achado: site, Catawiki, Montre24 e Khaleej Times (2004) não dão cidade. A conferir (não alterado): B 'França' pode estar errado ou incompleto — as fontes dizem 'design francês com precisão suíça' (Khaleej Times), 'Swiss Made' (Proantic, site) e empresa suíça (Montre24); D 'microbrand de design contemporâneo' não bate: é marca de relógios de luxo com diamantes fundada em 2001 (Catawiki), em colaboração com Mouna Ayoub; H @meyerswatches não confirmado (o site aberto não mostrou Instagram)."
+  },
+  "Mezei Watch Company": {
+   "B": "Reino Unido",
+   "C": "Londres",
+   "G": "mezeiwatchcompany.com",
+   "M": "G: mezeiwatchcompany.com (site oficial; também linkado pela Oracle of Time). B e C: o site oficial diz que Londres foi escolhida como ponto de partida da marca; a Oracle of Time chama a Mezei de 'novata da relojoaria britânica'. Fundador: Sandor Mezei (Oracle of Time). K não preenchido: cabeçalho do site usa o nome em texto. A conferir (não alterado): H — o site oficial liga o Instagram @mezeiwatchcompany, não @mezeiwatch; F 6000 parece alto: o Midnight Fumé custa £ 495 (Oracle of Time, set/2026) = R$ 3.688."
+  },
+  "MHD Watches": {
+   "C": "Cheltenham",
+   "K": "https://www.mhdwatches.com/cdn/shop/files/MHD_WATCHES_LOGO_black_on_white_60x.png?v=1676020964",
+   "M": "C: página Contact Us do site oficial mhdwatches.com — MHD Watches, 8 St Stephens Road, Cheltenham, Gloucestershire (empresa Matthew Humphries Design Ltd). K: logo do cabeçalho do site oficial. Página About: marca criada em 2014 por Matthew Humphries, designer automotivo ex-Morgan; Instagram do rodapé @mhdwatches confere com H."
+  },
+  "Michael Bastian": {
+   "C": "Nova York",
+   "G": "michaelbastiannyc.com",
+   "K": "https://michaelbastiannyc.com/wp-content/uploads/MB-LOGO-grey-logo-800px.png",
+   "M": "G: michaelbastiannyc.com, indicado como site oficial na Wikipedia (links externos) e com título 'Michael Bastian Official Site'; Instagram do site @michaelbastian confere com H. K: logo do cabeçalho desse site. C: Nova York (Wikipedia: mora e trabalha em NYC; NYC Tourism: 'designer de moda masculina em Nova York'; site 'NYC'). A conferir (não alterado): D e J citam colaboração com a HODINKEE, não achada; achado o smartwatch MB Chronowing feito com a HP, vendido na Gilt por US$ 349 (US$ 649 edição limitada) (The Manual; Wearables Insider, nov/2014). O site atual não vende relógios."
+  },
+  "Michael Bittel": {
+   "M": "C, G e K não preenchidos. C: a única fonte achada (masterhorologer.com, 13/02/2010, sobre o relógio Eclypse) diz 'relojoeiro baseado em Genebra', 'Michael Bittel Geneva', nascido na Suíça — fonte única e não oficial, a confirmar (Genebra). Possível erro em B (não alterado): essa fonte o descreve como suíço radicado em Genebra, não alemão. G/K: nenhum site oficial apareceu nas buscas ('Michael Bittel watchmaker Uhrmacher', '\"Michael Bittel\" Uhren', '\"Michael Bittel\" Genève horloger', 'site:instagram.com michaelbittel'); sem site, sem logo. Os resultados da Bilanz falam de René Bittel (publicitário colecionador), sem ligação confirmada. Ainda a verificar: B, C e se o @michaelbittel é desse relojoeiro."
+  },
+  "Michael Kors": {
+   "M": "K não preenchido: o cabeçalho do site oficial michaelkors.com (aberto direto por WebFetch e pelo Firecrawl, que redirecionou para michaelkors.de) usa o logo em SVG embutido no HTML, sem arquivo de imagem com URL própria. Conferido de passagem: o rodapé do site liga instagram.com/michaelkors (bate com H)."
+  },
+  "Michel Jordi": {
+   "M": "G, H e K não preenchidos. A marca passou a se chamar 'Jordi Swiss Icon' (europastar.com 'First Jordi Swiss Icon flagship store'; watchmobile7.com/brands/jordi-swiss-icon, que dá Michel Jordi como fundador e CEO, fundação 1988). O site citado por watchmobile7, jordiswissicon.com, não existe mais (WebFetch: robots; Firecrawl: domínio sem DNS). O Instagram @jordiswissicon aparece só nessa fonte e não foi confirmado como ativo. Nenhum site atual da marca apareceu nas buscas ('Michel Jordi watches official site', 'michel-jordi.ch', 'Michel Jordi instagram uhren', 'Jordi Swiss Icon'). Há PDFs de imprensa ('Der Uhrschweizer', 2017) num CDN Shopify, sem domínio identificado. Ainda a verificar: site e Instagram atuais (se a marca segue ativa); endereço da distribuidora em watchmobile7: Rouge & Blanc Distribution SA, Nyon (possível divergência com C=Genebra, não alterado)."
+  },
+  "Michel Perchin": {
+   "C": "St. Louis",
+   "G": "michelperchin.com",
+   "H": "@michelperchinofficial",
+   "M": "C: St. Louis, Missouri (site oficial michelperchin.com, página de contato: 'by appointment, saint louis, Missouri'; Quill & Pad 14/02/2020: 'firma baseada em St. Louis' de Patrick Pinkston; comunicado Business Wire 2021 com data de St. Louis). G: michelperchin.com é o site citado no comunicado oficial de lançamento dos relógios (Business Wire 2021); hoje o site mostra só as canetas-tinteiro Michel Perchin (de Lisa Erekson), sem página de relógios. O site antigo citado pela Quill & Pad (mpwatch.org) hoje é de outra organização. H: link do Instagram na página de contato do site oficial. K não preenchido: o logo do cabeçalho não aparece como arquivo de imagem na leitura do site (Firecrawl sem créditos). Possível ajuste em B (não alterado): a empresa é de St. Louis, EUA."
+  },
+  "Michelsen": {
+   "M": "G, H e K não preenchidos por dúvida de marca homônima. B, C e D descrevem a A. Michelsen, joalheria da corte dinamarquesa fundada em 1841 por Anton Michelsen em Copenhague, que se fundiu em 1985 com Georg Jensen/Royal Copenhagen (Wikipedia) e não tem site próprio nem relógios citados. Já a marca de relógios 'Michelsen' (aBlogtoWatch, review do Arctic Explorer GMT) é islandesa: fundada em 1909 em Reykjavík pelo relojoeiro dinamarquês J. Frank Michelsen; site michelsenwatch.com (loja e oficina na Tryggvagata 25, Hafnartorg, Reykjavík), também revendedora Rolex/Tudor como 'Michelsen 1909'. Se a linha for dessa marca, B/C/D precisam mudar (Islândia, Reykjavík) e G seria michelsenwatch.com — decidir antes de preencher. Instagram e logo da Michelsen islandesa não confirmados (o site não mostrou links sociais nem URL do logo na leitura)."
+  },
+  "Micromilspec": {
+   "M": "K não preenchido: o logo do cabeçalho do site oficial micromilspec.com é um SVG embutido no código (sem arquivo de imagem próprio; conferido por WebFetch e Firecrawl branding). Observação: o site oficial dá o endereço MICROMILSPEC Design Studio, Stortingsgata 8, 0161 Oslo, Noruega — a coluna C traz 'Suíça' (que é país, não cidade; a cidade seria Oslo). Não alterado (C fora de 'falta')."
+  },
+  "Micserah": {
+   "E": 1,
+   "F": 927,
+   "I": "A Micserah é uma marca nigeriana de relógios criada por Adekunle \"Micheal\" Adeniji, apaixonado por relógios e frustrado com a falta de marcas acessíveis e fáceis de achar nas lojas da Nigéria. O nome junta \"Micheal\" e \"Serah\", nome da esposa do fundador, de quem veio a ideia. A marca foi fundada em 2018 e tem sede em Lagos, com presença também em Port Harcourt; seus relógios são vendidos como \"Designed in Lagos, Worn Globally\".\n\nEm 2025, ao comemorar sete anos, lançou a coleção Heritage, limitada a 300 peças numeradas, tendo o enxadrista Tunde Onakoya como rosto da campanha. Antes dos relógios, o mesmo fundador lançou em janeiro de 2017 um site com o nome Micserah para vender moda feita na Nigéria. [⚠️ a confirmar: coleção Heritage de 300 peças com Tunde Onakoya (só RanksAfrica); loja on-line de moda de 2017 (só Techpoint Africa)]",
+   "M": "F: média dos 21 relógios da página inicial da loja oficial micserah.com (preços em naira, de ₦89.760 a ₦677.860) = ₦226.241,67; câmbio NFEM de 10/11/2026 ₦1.346,51 por US$ (TechEconomy.ng) → US$ 168,02 × 5,5146 = R$ 927 → E = 1. K não preenchido: o cabeçalho do site oficial usa o nome MICSERAH em texto (WebFetch e Firecrawl branding não acharam arquivo de logo; só há favicon). I (7 fontes abertas): fundador Adekunle 'Micheal' Adeniji (site oficial; BusinessDay 19/10/2025; Women of Rubies 12/10/2018); origem do nome Micheal + Serah e ideia da esposa (site oficial); fundação em 2018 (BusinessDay 2025; RanksAfrica 09/2025 fala em '7 anos'); sede em Lagos e presença em Port Harcourt (BusinessDay; site oficial 'Designed in Lagos'; Finelib: Igbasan Street, Opebi, Ikeja, Lagos); Heritage 300 peças e Tunde Onakoya (só RanksAfrica); loja on-line de moda 'Micserah' lançada em 11/01/2017 pelo mesmo fundador (só Techpoint Africa 21/09/2017, que também cita outro nome na descrição — a confirmar). Women of Rubies 2018 cita ainda uma edição 'Bambam Luna' de 300 peças com a atriz de reality Bambam (1 fonte, não entrou). Omirenstyles 02/2026 diz que a marca usa movimentos suíços, o que diverge de D ('quartzo') e de J ('Miyota') — não alterado, a conferir."
+  },
+  "Mido": {
+   "K": "https://www.midowatches.com/static/version1794411241/frontend/Mido/default/de_DE/images/logo/mido.svg",
+   "M": "K: logo oficial mido.svg do site midowatches.com (Firecrawl branding o aponta como logo do cabeçalho; WebFetch o achou na página). Observação: mido.ch redireciona para midowatches.com/ch-de (G não alterado, fora de 'falta')."
+  },
+  "MIH": {
+   "G": "montremih.ch",
+   "H": "@musee_mih",
+   "K": "https://montremih.ch/wp-content/uploads/2019/09/logo_MIH.png",
+   "M": "G: montremih.ch é a loja on-line oficial do relógio MIH (FHS, 10/10/2024: vendas 'online à l'adresse www.montremih.ch'; o rodapé do site traz a Fondation Maurice Favre, que mantém o Musée international d'horlogerie, Rue des Musées 29, La Chaux-de-Fonds). H: @musee_mih, perfil do museu ligado no site montremih.ch (o relógio não tem conta própria). K: logo_MIH.png do site montremih.ch (achado no rodapé; o WebFetch não mostrou imagem no cabeçalho). Site do museu: mih.ch (página Shop lista 'The MIH watch')."
+  },
+  "Mikael Bourgeois": {
+   "C": "Morteau",
+   "G": "mb-watches.com",
+   "H": "@mbwatches",
+   "K": "https://mb-watches.com/wp-content/uploads/2023/01/cropped-Mikael-BOURGEOIS-logo-site-2.jpg",
+   "M": "G: mb-watches.com (link da matéria Everest Bands 'Mikael BOURGEOIS Watches'; site aberto confirma a marca). C: Morteau (site oficial: 'fabriquées à la main dans notre atelier de Morteau'; Luxurious Magazine fala da região da fronteira franco-suíça; Everest Bands: lançada na França em 2012). H: @mbwatches (link do site oficial). K: logo do cabeçalho do site oficial."
+  },
+  "Miki Eleta": {
+   "G": "mikieleta.ch",
+   "K": "https://www.mikieleta.ch/wp-content/uploads/2019/01/logo-mikieleta.png",
+   "M": "G: mikieleta.ch (citado na ficha da AHCI ahci.ch e no Homo Faber; site aberto direto e confirmado). K: logo do cabeçalho do site oficial (logo-mikieleta.png, dentro do link para a página inicial). H não achado: o site oficial liga só LinkedIn e YouTube; AHCI e Homo Faber também não citam Instagram; buscas site:instagram.com sem resultado. Endereço confirmado (AHCI e Homo Faber): Arbentalstrasse 311, 8045 Zurique — bate com C."
+  },
+  "Militado": {
+   "C": "Shenzhen",
+   "G": "militadowatch.com",
+   "K": "https://www.militadowatch.com/cdn/shop/files/logo3_220x.png?v=1713592171",
+   "M": "G: militadowatch.com (resultado de busca e site oficial aberto). K: logo do cabeçalho do site oficial (logo3_220x.png). C: Shenzhen — os Termos de Serviço do site oficial dão a razão social 'Shenzhen Kehuoren Technology Co.,LTD' e a política de reembolso fala em 'our factory in China' (o endereço de Portland/EUA nos termos é só o modelo de aviso DMCA). A conferir em H (não alterado): o rodapé do site oficial liga instagram.com/militadowatches, não @militado_watch."
+  },
+  "Milléchron": {
+   "B": "Singapura",
+   "C": "Singapura",
+   "G": "millechron.ch",
+   "M": "G: millechron.ch (indicado pela Monochrome e aberto direto; o site liga instagram.com/millechron, que bate com H). B e C: Singapura — a Tatler Asia chama as marcas de Benjamin Chee (BCHH, Celadon, Milléchron) de 'Singapore watch brands', o site oficial cobra em dólares de Singapura e a Monochrome descreve o fundador como colecionador singapurense; fundada em 2018 (página 'Our Story' do site). Os relógios são feitos e montados no ateliê de Philippe Cattin em Saignelégier, Jura, Suíça (Monochrome). K não preenchido: o cabeçalho usa o nome em texto (a única imagem no topo da página inicial não aparece nas outras páginas, então é banner, não logo). Possíveis erros em células já preenchidas (não alterados): D 'microbrand de inspiração vintage' — a marca é de alto padrão (Monarque M com micro-rotor Vaucher, finalistas no GPHG); E=2/F=1500 parecem baixos para esses modelos."
+  },
+  "Milleret": {
+   "M": "C, G e K não preenchidos: o que se achou indica que Milleret é marca SUÍÇA, não francesa. Europa Star (várias matérias 'Milleret – Masters of their discipline', 'Chrono XXL by Milleret', 2005) cita o site www.milleret.ch e relógios feitos na Vallée de Joux; o anúncio da 58 Facettes chama de 'montre suisse'; marca registrada 'MILLERET GENEVE' de Milleret S.A. (Justia); registro comercial suíço: Milleret SA em liquidação, UID CHE-112.984.942, sede rue du Milieu 20, 2502 Biel/Bienne, objeto 'produção e comércio de relógios'. O site milleret.ch está fora do ar (www não resolve; sem www dá erro de certificado; WebFetch bloqueado por robots), por isso G e K ficaram vazios. A conferir (não alterados): B 'França' provavelmente errado (seria Suíça); o perfil @milleretwatches não foi encontrado em busca nenhuma — pode ser de marca homônima ou não existir. Se for a Milleret suíça, a cidade seria Bienne (sede da SA) ou Genebra (nome 'Milleret Genève') — a confirmar."
+  },
+  "Milus": {
+   "K": "https://milus.com/cdn/shop/files/dark.png?v=1644999424",
+   "M": "K: logo do cabeçalho do site oficial milus.com (dark.png; há também a versão clara light.png?v=1644999438 para fundo escuro). O rodapé do site liga instagram.com/miluswatches, que bate com H."
+  },
+  "Minase": {
+   "M": "K não preenchido: o site oficial minase.jp bloqueia leitura automática (WebFetch: robots_disallowed em minase.jp e www.minase.jp); Firecrawl deu erro de conexão e depois ficou sem créditos; busca 'site:minase.jp' não trouxe páginas do site. A confirmar: URL do logo do cabeçalho de minase.jp."
+  },
+  "MineRoci": {
+   "C": "Pequim",
+   "M": "C: Pequim — 'Beijing-based independent watchmaking brand' (Hodinkee Japão, 'One to Watch: MineRoci'; WatchProSite digest 'Independent Chinese Watchmaking'); fundadores Chang Qu e Zhengyang Pan, da Roci Design (Pequim, 2014; SF Watch Lover/Substack). G não achado: nenhuma fonte cita site; o domínio mineroci.com (sugerido só pelo e-mail de contato citado no Substack) não resolve (DNS falhou no Firecrawl). K não preenchido: sem site oficial. Ainda a verificar (fora de 'falta', não alterado): H na planilha é @mineroci, mas Hodinkee Japão e Substack citam @mineroci_official; E=2/F=3000 não batem com os preços reais (RD001 US$ 10–20 mil; RD002 CHF 78.000, 21 peças — Hodinkee Japão), e D/J ('esqueletizadas') parecem genéricos: a marca faz alta relojoaria com esmalte cloisonné; RD002 foi semifinalista do Louis Vuitton Watch Prize 2025–26 (Deployant; WorldTempus)."
+  },
+  "Minerva": {
+   "M": "G, H e K não preenchidos: a Minerva não tem site nem Instagram próprios encontrados; foi comprada pela Richemont em 09/10/2006 e hoje funciona como manufatura da Montblanc em Villeret ('Institut Minerva de Recherche en Haute Horlogerie'), com a coleção Minerva no site montblanc.com e redes da Montblanc (Fratello 'Minerva in the Montblanc era'; páginas montblanc.com/.../collection/minerva nos resultados de busca; busca site:instagram.com sem perfil da Minerva). Se a planilha quiser apontar para a casa atual: G montblanc.com e H @montblanc (a decidir pelo usuário)."
+  },
+  "Ming": {
+   "K": "https://cdn.prod.website-files.com/62cd089edd0c37319ca7590d/685a41df0f6985e8385f2bd9_Ming-Logo.svg",
+   "M": "K: logo SVG do cabeçalho do site oficial ming.watch (WebFetch direto). Ainda a verificar (fora de 'falta', não alterado): o rodapé do site oficial liga o Instagram instagram.com/mingwatches (@mingwatches), e não @ming.watch como está em H."
+  },
+  "Minim Watches": {
+   "H": "@minimwatches",
+   "I": "A Minim foi criada por Chloe Chan, nascida e criada em Hong Kong, que trabalha no mercado financeiro e se mudou para o Reino Unido em 2019, onde passou a estudar relojoaria a fundo. O nome vem do caractere chinês 旻 (outono), estação em que surgiram as primeiras ideias da marca, e o logotipo \"MINIM\" é um palíndromo espelhado, pensado como símbolo de simetria e equilíbrio.\n\nA estreia foi a coleção MN01, apresentada em outubro de 2025: relógios sociais de aço de 36,5 mm com mostradores guilhochê em três cores (Bik1 碧, Zing1 晶 e Laan4 蘭) e movimento de corda manual Sellita SW261-1 M, vendidos em pré-venda por £ 999 e depois por £ 1.199. Em outubro de 2026, no primeiro aniversário da marca, veio a colaboração MINIM x L'Artisan Yang, de 38 mm, com movimento automático de microrrotor e 25 peças. [⚠️ a confirmar: detalhes da colaboração L'Artisan Yang (só Oracle of Time)]",
+   "M": "H: @minimwatches, link do rodapé do site oficial minim-watches.com. K não preenchido: cabeçalho usa o nome em texto ('Minim Watches'). I (marca nova, pouco documentada; 4 fontes distintas abertas, abaixo do mínimo de 6 — buscas por entrevistas com a fundadora, por colaborações e por resenhas da MN01 não trouxeram outras fontes): fundadora Chloe (site oficial, página About) = Chloe Chan (Fratello, 'Introducing Minim and the MN01 collection', 21/10/2025); Hong Kong, finanças, mudança para o Reino Unido em 2019, nome 旻 e logo palíndromo (About oficial; HK→Londres e finanças também na Fratello); MN01: datas, medidas, Sellita SW261-1 M, mostradores e preços (Fratello); 1º aniversário (faixa na página inicial do site oficial) e colaboração L'Artisan Yang 38 mm, microrrotor HZ5000A, 25 peças (só Oracle of Time, 'Best microbrand watches to buy in October 2026') → marcado 'a confirmar'. Fontes: minim-watches.com; minim-watches.com/pages/about; fratellowatches.com (artigo MN01, também publicado em URL 'meridian collection'); oracleoftime.com (out/2026)."
+  },
+  "Minor Watches": {
+   "H": "@minorwatches",
+   "K": "https://minorwatches.com/wp-content/uploads/2022/08/minor-letra.FINALBLANCO-1024x576.png",
+   "I": "A Minor foi criada na Espanha pelos netos Héctor, Santiago e César Pérez Salgado como homenagem ao avô, Santiago Salgado Menor, de cujo sobrenome vem o nome da marca. Segundo o site oficial, o avô emigrou da Galícia para a Venezuela nos anos 1950, onde conheceu a Cupello, uma das maiores distribuidoras de relógios suíços do país, e passou a vida apaixonado por relojoaria; a marca diz ter nascido em 2021, em sua honra.\n\nCom sede em Ourense, a Minor faz relógios automáticos Swiss Made com movimento Sellita SW200-1, produzidos em quantidades limitadas a cada ano. A coleção principal é a Heritage, de caixa de aço de 42 mm, em versões como Elegance Grey, Classic Beige, Black & Blue e Electric Blue. [⚠️ a confirmar: ano de fundação (site oficial diz 2021; a loja Watchbandit diz 2018) e as datas do avô citadas só pela Watchbandit (volta à Galícia em 1979, morte em 2019)]",
+   "M": "H e K: do site oficial minorwatches.com (Instagram do rodapé e da página de contato; logo do cabeçalho, versão branca). I: 6 fontes abertas — site oficial (página inicial, 'Sobre Minor' e 'Contacto'), hands-on da Watchbandit (13/02/2024), fórum Relojes Especiales (tópico 'Micro marca española Minor Watches', 31/01/2022, e tópico 'Micromarcas españolas', jan/2024). Netos fundadores, avô emigrado para a Venezuela e nome da marca: site oficial + Watchbandit. Ano 2021 e Cupello: site oficial. Ourense: endereço Rúa Concordia 29 no site oficial (o fórum também cita Ourense). Sellita SW200-1 e 42 mm: Watchbandit + fórum. Swiss Made / montagem na Suíça: site oficial + Watchbandit. Coleção Heritage e cores: site oficial. A confirmar: ano de fundação (2021 no site × 2018 na Watchbandit) e datas do avô (só Watchbandit). Imprensa relojoeira (Hodinkee, Monochrome etc.) não trouxe nada sobre a marca. Observação: o site oficial mostra preços de US$ 779–828; J cita 'cerca de US$ 926' (só anotado)."
+  },
+  "Minus-8": {
+   "M": "K não preenchido: o domínio minus8.com (coluna G) não abre pelo WebFetch e, aberto pelo Firecrawl, mostra uma página da HugeDomains anunciando 'Minus8.com is for sale' (14/11/2026); não foi achado outro site oficial ativo em 2 buscas (só matérias antigas da Worn & Wound, aBlogtoWatch, Hypebeast e lojas). A conferir: G (minus8.com) parece desatualizado — a marca pode estar inativa ou ter mudado de domínio."
+  },
+  "Minuteman": {
+   "C": "Chenoa",
+   "K": "https://minutemanwatches.com/cdn/shop/t/3/assets/logo.png?v=91901851167861973361579753429",
+   "M": "C: Chenoa (Illinois; CEP 61726) — endereço '217 S fourth Ave, Chenoa 61726' no site oficial minutemanwatches.com (página inicial e About Us, que diz que Thomas Carey e o pai Roy Carey Jr., veterano do Vietnã, fundaram a empresa em 2012). K: logo do cabeçalho do site oficial. H já preenchido confere com o Instagram do site (@minutemanwatches)."
+  },
+  "Mirco": {
+   "E": 3,
+   "F": 8638,
+   "H": "@mircowatch",
+   "I": "A mirco é uma marca japonesa de relógios mecânicos criada pelo designer Masayasu Hiraoka. O nome junta as palavras japonesas mirai (futuro) e kako (passado), e o conceito é imaginar como o relógio mecânico japonês teria evoluído se a crise do quartzo, iniciada em 1969, não tivesse acontecido. O primeiro modelo, o cronógrafo TYPE-02, inspirado nos cronógrafos de corrida dos anos 1970 e movido pelo calibre japonês Seiko NE86, foi apresentado na Baselworld, na Suíça.\n\nEm 2022 chegou o mergulhador TYPE-03, com calibre Miyota 9039, caixa de 42 mm e cinco cores tradicionais japonesas (como kuriume e masuhanairo), por ¥ 220.000. Hiraoka, que antes trabalhava com relógios em Saitama, fez trabalho voluntário em Fukushima depois do terremoto de 2011 e, em novembro de 2022, fundou a Fukushima Watch Company em Odaka, Minamisoma, empresa que hoje responde pela marca e também lança os relógios Odaka e Futaba. Em 2026 o TYPE-02 voltou numa série limitada de 10 peças. [⚠️ a confirmar: ano da estreia na Baselworld — 2018 segundo a Gressive, março de 2019 segundo o comunicado da empresa no PR Times]",
+   "M": "H: Instagram ligado pelo site oficial eng.mircowatch.com. E e F: preços do site oficial — TYPE-03 ¥ 220.000 e TYPE-02 ¥ 275.000 (com imposto); média ¥ 247.500 × 0,0349 = R$ 8.638 → E = 3. K não preenchido: o cabeçalho do site mostra 'mirco' em texto; a única imagem ao lado (lead_load.svg) é o lema 'The future will continue to change the past', não o logo (Firecrawl sem créditos para conferir). I: 9 fontes abertas — site oficial (página inicial e Company: Fukushima Watch Company Inc., 101-8 Nanbara, Hansaki, Odaka-ku, Minamisoma), loja oficial mircowatch.stores.jp/about, Gressive (2 partes, jan/2025), PR Times (comunicado da Fukushima Watch Company, 2026), Fukushima Minyu (12/05/2023), Hodinkee Japão (27/04/2022), WatchProZine (08/04/2026). Fundador Hiraoka: Gressive + PR Times + Hodinkee JP + Minyu. Nome mirai+kako: site oficial + PR Times + WatchProZine. Conceito da crise do quartzo de 1969: site oficial + PR Times. TYPE-02 primeiro modelo, NE86, Baselworld: PR Times + Gressive + WatchProZine. TYPE-03 2022, Miyota 9039, cores, ¥ 220.000: Hodinkee JP + Gressive + site oficial. Fukushima Watch Company nov/2022 e voluntariado pós-2011: PR Times + Minyu + Gressive. Odaka/Futaba: Gressive + Minyu. TYPE-02 limitado a 10 peças em 2026: PR Times + Voix. A confirmar: ano da Baselworld (2018 × 2019). Nota: C (Minamisoma) confere com o site; a marca começou em Saitama (Hodinkee JP, Gressive)."
+  },
+  "Misfit": {
+   "C": "Burlingame",
+   "M": "C: Burlingame, Califórnia (Channel Futures, matéria sobre a rodada com a Xiaomi: 'a Burlingame, California-based ... wearables maker'; Craft.co: sede Burlingame, CA). A Wikipedia indica Redwood City (talvez sede posterior) — a conferir. G não preenchido: o site da marca era misfit.com (Wikipedia, Builtin, Craft), mas a Wikipedia diz que a Fossil o tirou do ar em 2019/início de 2020 e encerrou os produtos Misfit; hoje o domínio não resolve (WebFetch: robots; Firecrawl: erro de DNS). Se quiser registrar o domínio histórico, seria 'misfit.com (fora do ar)'. H não achado: nenhum perfil de Instagram da Misfit apareceu nas buscas nem nas fontes (Wikipedia, Builtin, Dealroom, Craft). K não preenchido: site oficial fora do ar. Informação útil: fundada em 2011 por Sonny Vu, Sridhar Iyengar e John Sculley; comprada pela Fossil em nov/2015 por US$ 260 milhões (Wikipedia + Dealroom)."
+  },
+  "Mitch Mason": {
+   "M": "C não preenchido: o site Vario.sg (review do Chronicle) diz 'Founded by Benedict Ong in 2019, Mitch Mason is based in Singapore'; o fundador Benedict Ong também aparece em Wristwatch Review (UK) e Straphabit. Ainda a verificar: B ('Reino Unido') possivelmente errado — fonte aponta Cingapura (1 fonte só, por isso C não entrou). K não preenchido: o domínio mitchmason.com (G) não abriu pela WebFetch (client_error, também com www) e pelo Firecrawl redireciona para um site de apostas (beerhouseia.com) — G parece abandonado/perdido, a verificar. Ainda a verificar: J 'Chronistar' não achado; o primeiro modelo citado pela imprensa é o Chronicle, field watch lançado por crowdfunding (Worn & Wound, Fratello, WatchGecko, Straphabit)."
+  },
+  "Miyota": {
+   "H": "@miyotamovement",
+   "J": "Miyota 2035 — quartzo de 3 ponteiros, padrão desde 1981; calibre mais usado da marca\n\nMiyota 8215 — automático de 3 ponteiros com data (linha Standard Mechanical)\n\nMiyota 82S7 — automático com pequenos segundos, 24 h e coração aberto\n\nMiyota 9015 — automático fino (3,90 mm) com data e parada de segundos (linha Premium Mechanical)\n\nMiyota 9075 — automático GMT com ponteiro de 24 h central (linha Premium Mechanical)\n\nMiyota 9100 — automático com dia/mês, 24 h e reserva de marcha (linha Premium Mechanical)",
+   "K": "https://miyotamovement.com/assets_en/img/common/img_logo.png",
+   "M": "H e K: do site oficial miyotamovement.com (link do Instagram na página e logo do cabeçalho). J: calibres das páginas de produtos do site oficial (linhas Standard, Standard Mechanical e Premium Mechanical; 2035 descrito como 'de facto standard' desde 1981); sem preço porque a Miyota vende só movimentos. E e F: preenchidos como na linha ETA da planilha (fabricante de movimentos, não vende relógios ao público: E = 1, F = 0); o site oficial não traz preços — descartar se preferir deixar vazio. E e F não gravados na revisão: a Miyota vende só movimentos; F=0 seria convenção, não preço achado."
+  },
+  "MK II": {
+   "C": "Wayne (Pensilvânia)",
+   "K": "https://mkiiwatches.com/cdn/shop/files/MkII_Logo_Tagline_copy_140x.png?v=1613624080",
+   "M": "C: Wayne, PA — endereço postal da Mk II Corporation (303 W. Lancaster Ave. #283, Wayne, PA 19087) na página Contact Us do site oficial mkiiwatches.com; a página About diz fundada em 2002, 'American watch company'. K: logo do cabeçalho do site oficial. Ainda a verificar: H na planilha é @mkii_watches, mas o site oficial liga para instagram.com/mkiiwatch."
+  },
+  "M. Laurent": {
+   "I": "A M. Laurent é uma marca polonesa de relógios com endereço em Poznań (rua Niegolewskich). Segundo o site oficial, o criador da marca vem de uma família ligada à usinagem de precisão e trabalhou com gestão de engenharia e vendas antes de lançá-la, para ocupar o espaço entre o luxo inacessível e os relógios acessíveis sem refinamento; o \"M\" do nome homenageia Marta, inspiração pessoal do fundador.\n\nHoje a marca vende relógios configuráveis (caixas de 33 e 40 mm, 8 cores de caixa, 5 mostradores por cor, gravação) com caixa e fundo impressos em 3D por SLA e mostrador impresso por FDM, de textura em camadas, acabados e montados à mão.",
+   "K": "https://mlaurent.com/theme-assets/img/logo.svg",
+   "M": "K: logo do cabeçalho do site oficial mlaurent.com (logo.svg). I: escrita só com o site oficial (páginas inicial EN e PL, About, The Craft e Contact — endereço Niegolewskich 12/10, 60-232 Poznań; o 'M' = Marta; impressão 3D SLA/FDM; tamanhos 33/40 mm). Só 1 fonte (site oficial, 5 páginas): buscas em inglês e polonês ('M. Laurent' watches Poland/Poznań, zegarki, druk 3D, Instagram) não trouxeram imprensa, registro de empresa nem entrevistas; o site não diz ano de fundação nem nome do fundador, por isso ficaram de fora. Ainda a verificar: D e J (Ronda 715 a quartzo; 'Absolute Black + Dark Gold') não aparecem no site atual, que vende modelos configuráveis impressos em 3D."
+  },
+  "MMI Watches": {
+   "G": "mmiwatches.com",
+   "K": "https://www.mmiwatches.com/cdn/shop/files/logo_110x.png?v=1643446769",
+   "M": "G: mmiwatches.com — site oficial (se apresenta como 'independent watch company based in Singapore'; coleções Nor-Light, Heritage 38, Cuttlechron, Turret, Sky-Hunter, Dumbo) e registro da empresa MMI WATCHES em Cingapura (RecordOwl, UEN 53398914X, registrada em 09/06/2019, ativa, site mmiwatches.com). K: logo do cabeçalho do site oficial. Ainda a verificar: H na planilha é @mmiwatches, mas o site oficial liga para instagram.com/mmiwatchessingapore. J ('Coleções de tool watches') é genérico; modelos do site: Nor-Light, Heritage 38, Cuttlechron, Turret, Sky-Hunter 38, Dumbo 500M."
+  }
+ },
+ "base": "Relogios_atualizada_597.xlsx"
+}
