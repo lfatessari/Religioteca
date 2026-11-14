@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 577,
+  "ultima_versao": 578,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9959,6 +9959,14 @@
       "tipo": "lacunas_historia_marcas",
       "marcas": "11i11 saat a Aerotec (40)",
       "obs": "Só história (I) e M; Firecrawl sem créditos; fila restante 2044"
+    },
+    {
+      "versao": 578,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Agapever Watches a Axiom",
+      "qtd": 40,
+      "historias_novas": 12
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10032,9 +10040,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 40,
-    "ultima_marca_revisada": "Aerotec",
-    "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1677 marcas após a v577). A v577 conferiu 40 histórias prontas por engano."
-  },
-  "em_execucao": "2026-11-14T01:42:09Z",
-  "ultimo_sinal": "2026-11-14T01:46:32Z"
+    "ultima_marca_revisada": "Axiom",
+    "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
+  }
 }
