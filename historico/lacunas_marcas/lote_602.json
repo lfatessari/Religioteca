@@ -1,0 +1,246 @@
+{
+ "versao": 602,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Orient",
+  "Orient Star",
+  "Original Grain",
+  "Origin Watch Co.",
+  "Orion",
+  "Oriorwaith J. Sarnowski",
+  "Oris",
+  "Orloff",
+  "Orologi Calamai",
+  "Orphic",
+  "Otsuka Lotec",
+  "Otumm",
+  "Outline",
+  "Out Of Order",
+  "OVD",
+  "Ovsky Watches",
+  "OWC",
+  "OX",
+  "Pacardt",
+  "Paceracer Watch Company",
+  "Pacific Watch Co",
+  "Pagani Design",
+  "PALMOS",
+  "Panerai",
+  "Panzera",
+  "Papar Watch Company",
+  "Paradigm Horology",
+  "Paradisi Watches",
+  "Parea",
+  "Parmigiani Fleurier",
+  "PAROS",
+  "Parterra",
+  "Pascal Coyon",
+  "Patek Philippe",
+  "Patria",
+  "Patton",
+  "Paul Bowman",
+  "Paul Picot",
+  "Paulin",
+  "Peacock",
+  "Pebble Smartwatches",
+  "Pedral",
+  "Pellikaan",
+  "Pelton",
+  "Pequignet",
+  "Peren",
+  "Perigáum",
+  "Perpetual Watch Company",
+  "Perrelet",
+  "Perseo"
+ ],
+ "celulas": {
+  "Orient": {
+   "K": "https://orient-watch.com/cnt_common/svg/concat/logo_orient.svg",
+   "M": "K: logo SVG do menu Brand do cabeçalho do site oficial orient-watch.com (página orient-watch.com/news, aberta via busca). O WebFetch direto em orientwatch.com (coluna G) pediu permissão (PROVENANCE_REQUIRED). Só anotado: o site global oficial é orient-watch.com (com hífen; G tem orientwatch.com) e o Instagram ligado no site é @orientwatch_official (H tem @orientwatch) — conferir."
+  },
+  "Orient Star": {
+   "K": "https://orient-watch.com/cnt_common/svg/concat/logo_orient-star.svg",
+   "M": "K: logo SVG do menu Brand do cabeçalho do site oficial orient-watch.com (página orient-watch.com/news, aberta via busca; o link do logo leva a /en/orientstar/). O WebFetch direto em orientstarwatch.com (coluna G) pediu permissão (PROVENANCE_REQUIRED). Só anotado: o site oficial da linha aparece como orient-watch.com/en/orientstar e a loja global como global.orientstar-watch.com (G tem orientstarwatch.com, sem hífen) — conferir."
+  },
+  "Original Grain": {
+   "M": "K não preenchido: o cabeçalho do site oficial originalgrain.com usa o nome 'Original Grain' como link de texto (páginas /pages/about e /pages/about-the-brand, abertas via busca), sem arquivo de imagem de logo. Há um ícone de árvore no rodapé (ik.imagekit.io/ograin/s/files/1/0814/0539/files/TreeIcon.svg), que não é o logo do cabeçalho. O WebFetch direto em originalgrain.com pediu permissão (PROVENANCE_REQUIRED)."
+  },
+  "Origin Watch Co.": {
+   "I": "A Origin Watch Co. é uma microbrand americana de Memphis, no Tennessee, que monta e testa à mão seus relógios de corda manual. O primeiro modelo foi o Vintage Field Watch, relógio de campo de inspiração militar; a 2ª edição, de 2017–2018, usava o Sea-Gull TY3600, baseado no ETA 6497, e custava US$ 495.\n\nDepois vieram a Railway Edition, com movimento Sea-Gull de corda manual (ou ETA 6498), e o cronógrafo de aviador Type 20. O site da marca passou de originwatchco.com para originwatch.com. [⚠️ a confirmar: o dono e relojoeiro Dennis Shirokov, a campanha da 2ª edição do Field Watch no Kickstarter em 2018 e o cronógrafo Type 20 (só The Time Bum)]",
+   "M": "I (9 fontes abertas, 8 de sites diferentes; ano de fundação não achado): Memphis, Tennessee (The Time Bum 2018 e 2026; anúncio WatchPatrol); montagem e teste à mão no Tennessee (WatchReport jan/2018; WristwatchReview 2017; SOFREP/LoadoutRoom jan/2018); Vintage Field 1ª e 2ª edição, Sea-Gull TY3600/ST3600 baseado no ETA 6497, US$ 495 (WatchReport; WristwatchReview; SOFREP; The Time Bum 2018); inspiração militar (SOFREP; Touch of Modern); Railway Edition com Sea-Gull de corda manual (Touch of Modern; WatchPatrol 1582760; The Time Bum 2026); sites originwatchco.com (WatchReport; WristwatchReview; LoadoutRoom) e originwatch.com (The Time Bum 2026; WatchPatrol). A confirmar (1 fonte só, The Time Bum): Dennis Shirokov como dono/relojoeiro, Kickstarter 2018 e Type 20. H não achado: nenhuma das 9 fontes cita o Instagram da marca e as buscas site:instagram.com não trouxeram o perfil. K não achado: o site oficial originwatch.com pediu permissão no WebFetch direto (PROVENANCE_REQUIRED) e não apareceu em nenhum resultado de busca; Firecrawl sem créditos. Registro de marca na Justia deu erro."
+  },
+  "Orion": {
+   "M": "K não achado: o WebFetch direto em orionwatch.co (coluna G) e em orionwatch.com pediu permissão (PROVENANCE_REQUIRED), e o site oficial não apareceu em nenhum resultado de busca; Firecrawl sem créditos. Só anotado: aBlogtoWatch (review Sylph) e The Calibrated Wrist (set/2026) ligam o site oficial como orionwatch.com (G tem orionwatch.co) — conferir. O fundador é Nick Harris (Worn & Wound, título de entrevista)."
+  },
+  "Oriorwaith J. Sarnowski": {
+   "I": "A Oriorwaith J. Sarnowski é uma marca galesa de relógios criada por Jan Sarnowski, professor de matemática e colecionador, que desenha e monta pessoalmente cada peça. O primeiro modelo, o Y Derwydd, com mostrador de pedra, nasceu como um relógio para uso próprio; depois vieram campanhas no Kickstarter, como a do Derwydd Y Nos (novembro a dezembro de 2024, cerca de £ 18 mil arrecadadas) e a do Y Sgowt, com Miyota 9039 modificado. [⚠️ a confirmar: biografia do fundador e origem do Y Derwydd, vistas só na entrevista do Watchisthis (nov/2025)]",
+   "M": "Site oficial sarnowski.cymru: WebFetch direto recusado (PROVENANCE_REQUIRED) e o site não apareceu em busca; Firecrawl sem créditos. I: só 3 fontes achadas (Watchisthis, entrevista com Jan Sarnowski, nov/2025; BackerKit da campanha Derwydd Y Nos, 20/11–04/12/2024, £ 18.240, 71 apoiadores; Kicktraq, título da campanha Y Sgowt). Buscas também no Instagram, Kickstarter e imprensa sem mais resultados. H: a entrevista do Watchisthis cita @j.s.watchmaking como perfil da marca, mas só essa fonte; a confirmar. K não achado: site oficial não abriu. Ainda a verificar: cidade Mold (C) não aparece nas fontes abertas."
+  },
+  "Oris": {
+   "M": "K não preenchido: WebFetch direto em oris.ch recusado (PROVENANCE_REQUIRED); as páginas do site que vieram da busca (oris.ch/product/watch, /en/story/75, /en/history/2010-2019) abriram só como texto, sem o endereço da imagem do logo. Firecrawl sem créditos. Fica para outra rodada."
+  },
+  "Orloff": {
+   "M": "C e G não achados: nenhuma busca trouxe site, endereço ou perfil da marca dinamarquesa (buscas: 'Orloff watches Denmark', 'Orloff ure Danmark', 'orloffwatches', 'Orloff Watch Co', site:instagram.com orloffwatches). Lista de marcas da distribuidora dinamarquesa Ditur sem Orloff. Só apareceu uma Orloff antiga suíça (relógios vintage dos anos 1950, The Watch Preserve; Watchprosite fala de um plano de relançar a 'Orloff Watch Co.'), que pode ser outra marca. K não achado (sem site). Ainda a verificar: país Dinamarca (B) não confirmado em fonte nenhuma."
+  },
+  "Orologi Calamai": {
+   "I": "A Orologi Calamai é uma pequena marca italiana de relógios de aviador criada por Francesco Calamai, piloto de acrobacia aérea. A marca homenageia o pai dele, Giosuè Calamai, piloto de caça da Regia Aeronautica na Segunda Guerra Mundial, que voou aviões como o Fiat CR.42 e o Fiat G.50 Freccia, nomes que batizam modelos da casa.\n\nAs caixas de vários modelos são fundidas com aço de turbinas de caças F-104 Starfighter da Força Aérea Italiana, e a marca passou a fornecer cronógrafos especiais à Aeronautica Militare em 2015–2016. Entre os modelos estão o CR42 Chronograph (Valjoux 7750), o G50 MKIII Solotempo, o cronógrafo G50 Freccia (Sellita SW510) e o GMT Automatico (Sellita SW330-2). [⚠️ a confirmar: ano de fundação: 2012 segundo a Monochrome, 2008 segundo a Italia Living]",
+   "M": "Site oficial orologicalamai.com: WebFetch direto recusado (PROVENANCE_REQUIRED) e o site não apareceu em busca; Firecrawl sem créditos. I: 6 fontes abertas (Monochrome: CR42, 23/05/2017; G50 MKIII Solotempo, 02/02/2018; GMT Automatico; Airline Pilot Central, 12/10/2019; Italia Living; loja Scrigno Soprana, ficha do G50V Freccia). Fundador Francesco Calamai, piloto (todas); pai Giosuè, piloto da Regia Aeronautica com CR.42 e G.50 (Monochrome; Airline Pilot Central); aço de turbina de F-104 (Monochrome; Airline Pilot Central; Scrigno Soprana); fornecimento à Força Aérea Italiana (Monochrome: parceria em nov/2015; Scrigno Soprana: desde 2016; Airline Pilot Central). A confirmar: ano de fundação (2012 na Monochrome × 2008 na Italia Living). Descartado: Velvet Box Society diz que o fundador é 'Fabio Calamai' e cita uma linha 'Toscana' (sem fonte, contradiz as demais). H não achado: nenhuma fonte cita o Instagram (buscas 'orologicalamai instagram'). K não achado: site oficial não abriu. Ainda a verificar: cidade Florença (C) não aparece nas fontes (a Italia Living cita Florença só como sede de um revendedor)."
+  },
+  "Orphic": {
+   "I": "A Orphic é uma marca de relógios de Hong Kong conhecida pelo Project 0, um relógio de horas vagantes (wandering hours) com desenho inspirado no Telescópio Espacial James Webb, mostrador de hexágonos e calibre Miyota 9039 modificado. O Project 0 passou por financiamento coletivo no Kickstarter entre 20 de maio e 19 de junho de 2026 e superou em mais de dez vezes a meta, com cerca de 200 apoiadores.",
+   "M": "Site oficial orphicwatches.com: WebFetch direto recusado (PROVENANCE_REQUIRED) e o site não apareceu em busca; Firecrawl sem créditos. I: só 3 fontes achadas (BackerKit e PledgeBox da campanha Project 0: 20/05–19/06/2026, meta HK$ 78.000, mais de 1.000% atingido, 189–218 apoiadores; Men's Gear: caixa de 40 mm, Miyota 9039 modificado, inspiração no James Webb). Buscas na imprensa relojoeira, Instagram e Kickstarter sem mais resultados; fundadores e ano de fundação não achados. H não achado: nenhuma fonte cita o perfil (busca site:instagram.com sem resultado). K não achado: site oficial não abriu."
+  },
+  "Otsuka Lotec": {
+   "G": "otsuka-lotec.com",
+   "M": "G: otsuka-lotec.com, citado como site da marca na entrevista da Monochrome com Jiro Katayama ('For more information, please visit Otsuka-Lotec.com') e no link da matéria da Designboom sobre o No.8 (2 fontes independentes). K não preenchido: o site oficial não abriu (WebFetch pediu permissão; Firecrawl sem créditos) e nenhuma página dele apareceu em busca. Possível erro em D (não alterado): o fundador/relojoeiro é Jiro Katayama; 'Otsuka' é o bairro de Tóquio da oficina (perto de Ikebukuro), não 'Jun Otsuka' (Monochrome). H @otsukalotec não conferido: a Designboom cita só a conta pessoal @jiro.katayama."
+  },
+  "Otumm": {
+   "M": "C não achado: o site oficial otumm.com não abriu (WebFetch pediu permissão; Firecrawl sem créditos) e não apareceu em busca; nenhuma fonte dá a cidade. A conferir em B: um fórum espanhol (relojes-especiales.com, 2012, sem confirmação) diz que a Otumm é holandesa, com base em Amsterdã, o que contradiz B = Portugal; a marca OTUMM foi registrada nos EUA (registro internacional de 30/10/2015) por uma empresa 'LTD' cujo nome e endereço não aparecem (Justia Trademarks). K não preenchido: site oficial não alcançado."
+  },
+  "Outline": {
+   "I": "A Outline (アウトライン) é uma marca japonesa de relógios criada por Yoshimasa Kikuchi, publisher e editor-chefe das revistas relojoeiras japonesas Power Watch, LowBEAT e Time Gear. A marca teria sido fundada em 2018 e é operada pela editora Seas Factory (株式会社シーズ・ファクトリー).\n\nA proposta é recriar o clima dos relógios mecânicos das décadas de 1940 a 1960, em pequenas tiragens e a preços acessíveis. Entre os modelos estão o Military Type 1940 e o Military Type 1950 (inspirados em relógios militares das décadas de 1940 e de 1950–60), o Second Setting, os cronógrafos 2 Register Chrono e Pilot Chrono e os GMT-1950 e GMT-1960. [⚠️ a confirmar: ano de fundação (2018) e empresa operadora (Seas Factory), cada um com uma fonte só]",
+   "M": "I: 7 fontes abertas (o site oficial outlinewatches.tokyo não abriu: WebFetch pediu permissão e o site não apareceu em busca; Firecrawl sem créditos). Fundador Yoshimasa Kikuchi e suas revistas Power Watch/LowBEAT/Time Gear: blueover.jp (blog 'Outline 2024' e página da coleção), japanese-microbrands.com (coleção e ficha GMT-1950) e Rakuten/Katsuboya. Conceito 1940–60 e pequenas tiragens: blueover, japanese-microbrands, Rakuten/Katsuboya e voix.jp. Military Type 1940/1950: blueover, voix.jp e japanese-microbrands. Demais modelos: listas de japanese-microbrands e blueover; Second Setting também em mint-kobe.jp (TiCTAC). A confirmar: fundação em 2018 (só blueover) e Seas Factory como operadora (só voix.jp). Não usado (1 fonte só): Kikuchi ter criado o site de financiamento WATCH Makers; edição de 200 peças com a TiCTAC. H não achado: nenhuma das lojas e matérias cita um Instagram da marca (só os das lojas). K não preenchido: o logo 'ol-logo' achado está hospedado na loja blueover, não no cabeçalho do site oficial (não alcançado)."
+  },
+  "Out Of Order": {
+   "K": "https://outoforderwatches.com/cdn/shop/files/logo_out-of-order-watches-02.png?v=1731602248&width=100",
+   "M": "K: logo do cabeçalho do site oficial outoforderwatches.com (página da loja 'The ModeratOOOr', aberta por link de busca; o rodapé liga ao Instagram outoforderwatches, que bate com H). A conferir em G (não alterado): o domínio da marca que aparece nas buscas é outoforderwatches.com, não outoforder.com (este não abriu: WebFetch pediu permissão)."
+  },
+  "OVD": {
+   "C": "Hong Kong",
+   "M": "C: Hong Kong (resenha da Cinci Watches: 'OVD Watches from Hong Kong'; perfil da empresa OVD Limited, ramo de relógios, em Lai Chi Kok, Kowloon, Hong Kong, na Reevol). Na planilha, B poderia ser 'Hong Kong' em vez de 'China' (não alterado). OVD = 'Origin, Vision & Design' (Watches.com e The Watch Gallery). G não preenchido (1 fonte só): a Cinci Watches liga para ovd.com.hk como site oficial; campanhas no Indiegogo como 'ovdwatches'. A confirmar. K não preenchido: site oficial não alcançado. Cota de buscas esgotada nesta marca."
+  },
+  "Ovsky Watches": {
+   "M": "H, I e K não achados. Site oficial ovskywatches.com (e www.) deu PROVENANCE_REQUIRED no WebFetch direto; 4 buscas ('Ovsky Watches Poznań', 'Ovsky watch Dark Stargazer VH31', '\"Ovsky\" watches instagram Polish microbrand', 'ovskywatches.com') não trouxeram nenhuma página da marca, do Instagram nem de imprensa (só resultados de outras marcas). História não escrita: sem fontes (0 fontes sobre a marca). Firecrawl sem créditos."
+  },
+  "OWC": {
+   "M": "C, G e K não preenchidos por dúvida de marca homônima. A única 'OWC' de relógios achada é a Orange Watch Company (MilSubs de inspiração vintage, criada por Dan Fock), que é da AUSTRÁLIA, cidade de Orange, site orangewatchcompany.com (aBlogtoWatch 'OWC MilSub MS 5517 review'; WatchReport 'Orange Watch Company (OWC) Mil-Sub'; apresentação do dono no homage-forum.com). Isso contradiz B = Suíça e D ('herança militar suíça') da planilha; o perfil @owc_watches não foi ligado a ela em nenhuma fonte. A confirmar: se a OWC da planilha é a Orange Watch Company (então B estaria errado: Austrália, C seria Orange e G orangewatchcompany.com) ou outra marca suíça (a Ollech & Wajs, de Zurique, também é militar, mas usa 'OW'). Cota de buscas esgotada."
+  },
+  "OX": {
+   "M": "C, G e K não preenchidos por dúvida de marca homônima. Candidata achada: OX Oceanix (modelos FROG300), criada em 2021 nos EUA por Joseph Bolart e montada em Shenzhen, site oceanixwatches.com, FROG300 a US$ 1.430 (hourstriker.com; wristreview.com; Fratello). Nenhuma fonte liga essa marca ao perfil @oxwatches da planilha, nem diz a cidade; o preço real (~R$ 7.900) também não bate com F = 3000. A confirmar: se a OX da planilha é a OX Oceanix. Cota de buscas esgotada."
+  },
+  "Pacardt": {
+   "M": "B, C, G e K não preenchidos. Uma única fonte (300magazine.com, 'Pacardt Watches – Reasonably Priced, German Made') diz que a marca é alemã e que os relógios custam entre € 440 e € 750, vendidos no eBay; site, cidade e Instagram não citados. Leilão Bonhams (Hong Kong) mostra um Pacardt ref. 5959 de corda manual, calibre 6497, c. 2006, sem dados da empresa. A confirmar: B = Alemanha (só 1 fonte). Site oficial não achado em 3 buscas (inclusive em alemão). Cota de buscas esgotada."
+  },
+  "Paceracer Watch Company": {
+   "I": "A Paceracer foi criada pelo designer industrial Brett Band, ex-skatista profissional, em Auckland, na Nova Zelândia. Depois de anos desenvolvendo a ideia em paralelo ao emprego, ele finalizou as primeiras amostras, desenhou o logotipo e registrou a empresa em 2017.\n\nO primeiro modelo, o Sangfroid, tornou a marca conhecida ao ser reconhecido no Best Awards de 2018, premiação de design da Nova Zelândia. Desde então a Paceracer faz modelos de linha e relógios sob encomenda, com movimentos suíços, desenhados e montados à mão na Nova Zelândia.\n\nA marca tem oficina e estúdio de atendimento no centro de Auckland, na região do Victoria Park Market (Victoria Street West). [⚠️ a confirmar: que o Sangfroid saiu em 2018 como primeiro modelo]",
+   "M": "I (história nova, 8 páginas abertas de 5 publicações): fundador Brett Band, designer industrial e ex-skatista (NZBusiness 'Master of his craft' 17/04/2023; Manual Magazine; NBR 21/06/2021; WatchProZine). Registro da empresa em 2017 (NZBusiness; WatchProZine 'desde 2017'; NBR '4 anos após o lançamento formal' em 2021). Best Awards 2018 (Heart of the City/hotcity.co.nz; Manual Magazine, que diz finalista). Sob encomenda e feitos à mão na NZ (NBR; NZBusiness; Heart of the City). Movimentos suíços (NZBusiness; WatchProZine cita Sellita). Oficina no Victoria Park Market / 210 Victoria Street West (NZBusiness; hotcity.co.nz). A confirmar: Sangfroid de 2018 como estreia (só Manual Magazine). Fora do texto por ter 1 fonte só: serviço sob medida em 2019, primeiro automático em 2020, boutique em 2021 e relógios de parede em 2022 (só Heart of the City); professor na AUT e início numa garagem (só NZBusiness). Nenhuma fonte confirmou a 'inspiração automobilística' de D. H @pace.racer e site www.paceracer.co confirmados pelo diretório Heart of the City. K não achado: site oficial paceracer.co (e www.) deu PROVENANCE_REQUIRED no WebFetch direto e não apareceu em busca (site:paceracer.co); Firecrawl sem créditos."
+  },
+  "Pacific Watch Co": {
+   "I": "A Pacific Watch Co é uma marca americana de relógios de campo pensados para viagem e aventura, montados nos Estados Unidos. Seu modelo Cascadia Field Watch usa o movimento de quartzo Ameriquartz, feito nos EUA. A marca diz ser membro do 1% for the Planet desde 2022 e ter certificação Climate Neutral. [⚠️ a confirmar: 1% for the Planet e Climate Neutral (só o diretório Commons)]",
+   "M": "I (história curta; só 3 fontes achadas): marca americana com relógios montados nos EUA (diretório Commons, brands.thecommons.earth; loja Bigfoot Mountain Outfitters em reach.dog); Cascadia com Ameriquartz (reach.dog, US$ 299; D da planilha); descrição de relógios de campo (metro-ruddy.vercel.app). A confirmar: 1% for the Planet desde 2022 e Climate Neutral (só Commons). Não achei fundador, ano de fundação nem fonte que confirme a cidade Camas (C da planilha). Procurei: site oficial (pacificwatch.co não abriu: PROVENANCE_REQUIRED; site:pacificwatch.co sem resultado), buscas por nome+Camas, Ameriquartz, Pacific Northwest e Instagram. H não achado: nenhuma busca trouxe o perfil. K não achado: site oficial não alcançado."
+  },
+  "Pagani Design": {
+   "C": "Guangzhou",
+   "K": "https://paganidesign.com/cdn/shop/files/LOGO_PD_BLANCO.png?v=1682093146&width=1000",
+   "M": "C: Guangzhou, onde a marca foi fundada em 2012 (site oficial paganidesign.com, página Who we are; a data de 2012 confere com o WatchPatrol). K: logo do cabeçalho do site oficial (página Who we are). A página inicial paganidesign.com não abriu direto (PROVENANCE_REQUIRED); usei o link da busca. Notado: o site oficial liga o Instagram @pagani_design_official, e H na planilha diz @paganidesign_official (não alterado; a conferir). Os registros de marca nos EUA estão em nome da Foshan Shibo Watch Industry Co., Ltd. (Justia), sinal de que a fábrica pode estar em Foshan."
+  },
+  "PALMOS": {
+   "I": "A PALMOS é uma marca de relógios de Londres, voltada a relógios automáticos duráveis e de desenho minimalista. O nome vem da palavra grega palmós, que quer dizer pulsação ou batimento, em referência ao ritmo do movimento mecânico.\n\nO primeiro modelo, o PALMOS ONE, tem desenho inspirado na arquitetura brutalista e usa o movimento automático suíço Soprod M100; é montado à mão numa oficina familiar na Suíça. Foi lançado em pré-venda em junho de 2025, com preço de £ 782. A marca foi criada por Thanos Repanas. [⚠️ a confirmar: nome do fundador (só WatchGecko) e oficina em Neuchâtel (só WatchGecko)]",
+   "M": "I (história nova, 6 fontes abertas): Londres (WatchGecko; WristReview; Trustpilot, perfil da empresa com endereço 9 Aston Mews, Londres; página de pré-lançamento palmos-commerce…vercel.app); origem grega do nome (WatchGecko; WristReview); PALMOS ONE com Soprod M100 (WatchGecko; Time+Tide; WristReview; MTR Watches; The Coolector); inspiração brutalista (WatchGecko; The Coolector); montagem em oficina familiar na Suíça (WatchGecko; The Coolector); pré-venda em junho de 2025 (WatchGecko; Time+Tide); £ 782 (WatchGecko; The Coolector). A confirmar: fundador Thanos Repanas (só WatchGecko; clientes no Trustpilot citam 'Thanos') e oficina em Neuchâtel (só WatchGecko). H não achado: nenhuma matéria nem busca site:instagram.com trouxe o perfil. K não achado: o site oficial palmos-watches.com não abriu (PROVENANCE_REQUIRED) e não apareceu em busca; a página de pré-lançamento no vercel não mostra o logo. Time+Tide é matéria paga pela marca."
+  },
+  "Panerai": {
+   "K": "https://www.panerai.com/etc.clientlibs/richemont-pan/core/clientlibs/libs/resources/redesign/images/panerai-logo.svg",
+   "M": "K: logo do cabeçalho do site oficial panerai.com (SVG, página de história aberta pelo link da busca; a página inicial não abriu direto, PROVENANCE_REQUIRED)."
+  },
+  "Panzera": {
+   "C": "Sydney",
+   "K": "https://panzerawatches.com/cdn/shop/files/PANZERA-Website-Logo_SVG_300x.svg?v=1682950395",
+   "M": "C: Sydney (site oficial panzerawatches.com, página About us: fundada em Sydney em 2009 por Andrew Herman e Roger Cooper; oficina e estúdio em Sydney, estúdio em Melbourne e escritório comercial em Beverly Hills, EUA; Forbes Austrália também a trata como marca australiana). K: logo do cabeçalho do site oficial (SVG). Notado: o site oficial é panzerawatches.com (G na planilha diz panzera.com, que não abriu: PROVENANCE_REQUIRED) e o Instagram ligado pelo site é @panzera.watches (H na planilha diz @panzerawatches). Nada alterado; a conferir. B na planilha diz 'Austrália (design italiano)'; o site oficial diz apenas que os relógios são desenhados na Austrália e montados em oficinas australianas ou suíças."
+  },
+  "Papar Watch Company": {
+   "G": "paparwatchco.com",
+   "M": "G: paparwatchco.com, site citado como oficial em Worn & Wound (matéria do Anillo GMT), The 1916 Company (blog Independents to Watch), Cool Hunting, Hypebeast e Time+Tide (Cenote). B e C não preenchidos (a confirmar): as fontes divergem. Time+Tide diz que a marca opera nas Berkshire Mountains, Massachusetts (EUA), e foi fundada no México; Worn & Wound e The 1916 Company dizem que os fundadores Josh e Emily Blank dividem o tempo entre as Berkshires (EUA) e San Miguel de Allende (México), e citam a 'base no México'. K não preenchido: o site oficial paparwatchco.com pediu permissão (PROVENANCE_REQUIRED) e não apareceu em nenhum resultado de busca."
+  },
+  "Paradigm Horology": {
+   "M": "Site oficial paradigmhorology.com não alcançado: o acesso direto pediu permissão (PROVENANCE_REQUIRED) e o domínio não apareceu em nenhuma busca ('paradigmhorology.com', 'paradigmhorology', '\"Paradigm Horology\" Skyline watch', '\"Paradigm Horology\" Mission Series VH31', 'Paradigm Horology watches London Ontario founder'). K não preenchido: logo inacessível sem o site. História não conferida: sem fontes (nenhuma matéria sobre a marca achada; a Watchonista sobre marcas canadenses não a cita; o resultado 'paradigm watches kickstarter' do The Manual é de outra marca, não aberto)."
+  },
+  "Paradisi Watches": {
+   "I": "A Paradisi é uma marca italiana independente de relógios de mergulho, criada por Riccardo Paradisi, que tem formação em tecnologia de materiais. O primeiro modelo, o RP 01, começou a ser projetado em 2016 e foi feito na Itália, com caixa usinada a partir de um bloco maciço de titânio ou aço e movimento suíço.\n\nO RP02 usa o calibre automático La Joux-Perret G100 (68 horas de reserva de marcha), tem resistência à água de 1.000 metros e saiu em séries limitadas de 50 peças, entre elas a de titânio Grade 23 e a de bronze Ampco 18. [⚠️ a confirmar: início do projeto em 2016, formação do fundador e caixa maciça do RP 01 (só OceanicTime, 2022)]",
+   "M": "I: só 4 fontes achadas (menos que 6; marca pouco documentada). Fontes: OceanicTime 2022 (RP 01: Riccardo Paradisi, projeto de 2016, formação em materiais, caixa usinada, 'feito na Itália com movimento suíço', 10 peças de cada uma das 3 versões); OceanicTime 2024 (RP02 Titanium Grade 23, publieditorial: G100, 68 h, 1.000 m, 50 peças, € 2.950); Total Design Reviews (RP02: 'criação de Riccardo Paradisi', G100, 1.000 m, 50 peças); Ampco Metal Academy (RP02 em bronze Ampco 18, 50 peças; linha RP02 de 150 relógios com aço 904L e titânio Grade 23; citação de Riccardo Paradisi). Nenhuma fonte cita a cidade Pineto (C) nem o ano de fundação. H não achado: buscas 'site:instagram.com paradisi watches', '\"@paradisiwatches\"' e 'Paradisi Watches Pineto RP 02 instagram' sem resultado do perfil. K não preenchido: o site oficial paradisiwatches.com pediu permissão (PROVENANCE_REQUIRED) e não apareceu em busca."
+  },
+  "Parea": {
+   "I": "A Parea é uma marca de Sydney (Austrália) criada por um fundador chamado Peter, que começou o projeto em 2023. O primeiro modelo, o Sector, tem caixa de aço de 39 mm, mostrador setorizado em cinco cores e movimento automático Miyota 9039, e foi lançado numa campanha no Kickstarter em 25 de junho de 2025, a US$ 399 para os apoiadores. [⚠️ a confirmar: fundador Peter, início em 2023, data e preço do Kickstarter (só Time+Tide)]",
+   "M": "I: só 2 fontes achadas (marca muito nova e pouco documentada): Time+Tide, Micro Mondays sobre o Parea Sector (fundador Peter, início em 2023, 'marca de Sydney', 39 mm, Miyota 9039, cinco cores, Kickstarter em 25/06/2025 a US$ 399) e o título da campanha no Kicktraq ('Parea Watches - Striking Sector Dials For Day Or Night', que confirma a campanha; a página entrou em redirecionamento infinito e não abriu). A página do Kickstarter pediu permissão. Procurado também em Time+Tide (melhores marcas australianas: não cita) e buscas por fundador/Sydney. H não achado: buscas 'site:instagram.com pareawatches' e '\"@pareawatches\"' sem o perfil; o Time+Tide não traz o Instagram. K não preenchido: o site oficial pareawatches.com pediu permissão (PROVENANCE_REQUIRED) e não apareceu em busca."
+  },
+  "Parmigiani Fleurier": {
+   "K": "https://www.parmigiani.com/wp-content/uploads/2024/03/PF_Mono12_15cm_C23M41J71N23.svg",
+   "M": "K: logo SVG do cabeçalho do site oficial (página parmigiani.com/en/the-house/expertise/, aberta pelo resultado de busca; a página inicial direta pediu permissão)."
+  },
+  "PAROS": {
+   "M": "Site oficial paros.us não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (buscas 'PAROS watches paros.us', 'site:instagram.com paros watches', 'PAROS watch Pennsylvania' só trouxeram a ilha grega e outras marcas). H não achado: nenhuma fonte cita o Instagram da marca. K não achado: site oficial não alcançado. I não escrita: só 1 fonte achada (metro-ruddy.vercel.app, cópia de catálogo de microbrands: 'designed and assembled in Pennsylvania, USA', Salmon Tail II 42 mm com NH35), insuficiente para uma história com fontes; nada sobre fundador ou ano. Cota de buscas esgotada no grupo."
+  },
+  "Parterra": {
+   "B": "Bélgica",
+   "M": "B: Bélgica (WristReview: 'a microbrand from Belgium'; aBlogtoWatch: 'In the tradition of its Belgian brand brethren', estreia no Kickstarter em 07/11/2023 com o UA-T, a partir de 1.850 €, varejo 3.500 €; marca de 2 formados em administração, sem nomes). G a confirmar: parterra.watch (só aBlogtoWatch; não apareceu em busca para conferir). C não achado: nenhuma fonte cita a cidade. K não achado: site oficial não alcançado. H @parterrawatches da planilha: aBlogtoWatch liga instagram.com/parterra_watches (@parterra_watches) — conferir. D ('design contemporâneo') e J genéricos: o relógio conhecido é o Parterra UA-T (Ultimate All-Terrain), relógio esportivo de aventura."
+  },
+  "Pascal Coyon": {
+   "C": "Bayonne",
+   "M": "C: Bayonne, sudoeste da França (SJX 2014: 'a watch and clock repairer in Bayonne'; Phillips, artigo sobre Pascal Coyon: 'based in Bayonne, in the southwest of France'). K não achado: site pascalcoyon.com não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não aparece em busca ('site:pascalcoyon.com' sem resultado); o artigo da Phillips liga só o Instagram, sem site — conferir se o domínio de G ainda existe. Obs.: D/J ('microbrand de dress watches de inspiração vintage') genéricos; a marca é de um relojoeiro independente, conhecido pelo Chronomètre Series 1 e Series 2."
+  },
+  "Patek Philippe": {
+   "M": "K não achado: patek.com (WebFetch direto: PROVENANCE_REQUIRED); páginas patek.com/en/company e patek.com/es/inicio abertas pela busca não mostram arquivo do logo no cabeçalho (só og:image de foto, patek-res.cloudinary.com/media/250169/51882, que não é logo). Logos em sites de terceiros (cdnlogo, seeklogo, worldvectorlogo) não foram usados por não serem do site oficial."
+  },
+  "Patria": {
+   "M": "C: Biel/Bienne (Quill & Pad 2023: fundada e com relógios montados e regulados em Biel; Wikiwand/Wikipedia: sede em Bienne; masterhorologer: fundada em Bienne em 10/10/1892 por Louis Brandt & Frère). G: patriawatch.co (Quill & Pad 2019 e 2023, SJX, Monochrome, masterhorologer). H não achado: nenhuma fonte cita o Instagram. K não achado: site oficial não apareceu como link em busca. ATENÇÃO D: as fontes não ligam a Patria à DuBois nem a La Chaux-de-Fonds; a Patria é o nome registrado em 1892 por Louis Brandt (antecessora da Omega) em Biel, relançado em 2019 por Jolyon Lambert e Adam Stansfield (Monochrome; Quill & Pad), com o Brigadier Chrono (motor Eterna, cerca de 4.320–5.640 CHF) — conferir D e J. Se a linha se referir a outra 'Patria' ligada à DuBois, C e G devem ser revistos. Revisão: C 'Biel/Bienne' e G 'patriawatch.co' retirados por possível marca homônima (D cita DuBois); a confirmar."
+  },
+  "Patton": {
+   "B": "França",
+   "C": "Paris",
+   "M": "B e C: Paris, França — marca francesa 'oficialmente na Place Vendôme, em Paris', com relógios Swiss made (WatchProSite, post de Dje sobre os P42 Immersion/Hyperbare; Luxe Magazine, 'Patton P42: Time for a challenge', endereço NCI Vendôme, 16 place Vendôme, 75001 Paris). aBlogtoWatch: marca popular na França e Bélgica, P42 Hyperbare anunciado em 2010, depois encerrada por um tempo. G não preenchido: fontes divergem (aBlogtoWatch cita patton-watch.com; Luxe Magazine cita patton-watches.com) e nenhum dos dois apareceu em busca para conferir; a confirmar. K não preenchido: site oficial não alcançado."
+  },
+  "Paul Bowman": {
+   "M": "Nada novo achado. Site oficial bowmanlondon.com (e www.) não abriu direto (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (site:bowmanlondon.com, nome da marca, modelo Royal's Reserve). H não achado: busca por Instagram (inclusive site:instagram.com) sem perfil da marca. K não achado: site oficial não alcançado. I não escrita: só 1 fonte achada (Wristwatch Review UK, resenha do HMS One a £50: montado na Inglaterra com peças chinesas, vendido também em loja no eBay); perfil 'paul_bowman_london' no eBay.de não existe mais; nenhuma fonte sobre fundador, ano ou cidade. Marca muito pouco documentada."
+  },
+  "Paul Picot": {
+   "M": "K não preenchido: site oficial paulpicot.ch (e www.) não abriu direto (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca ('site:paulpicot.ch', 'paulpicot.ch', 'Paul Picot official website'); só lojas e imprensa (Europa Star, Journal du Luxe, Masterhorologer)."
+  },
+  "Paulin": {
+   "M": "K não preenchido: site oficial paulinwatches.com (e www.) não abriu direto (PROVENANCE_REQUIRED) e não apareceu como resultado de busca ('site:paulinwatches.com', 'paulinwatches.com'); só imprensa (Monochrome, aBlogtoWatch, SJX, Jewellery Monthly) e lojas (Wind Up Watch Shop, Kibble)."
+  },
+  "Peacock": {
+   "M": "G não preenchido: três domínios diferentes nas fontes, nenhum confirmado como oficial — peacockwatches.com (Revolution, 'Pulling back the curtains…', liga a este; é loja Shopify sem endereço nem Instagram, mas a página 'The History of Peacock Watches' conta a história da fábrica de Dandong: Andong Watch Factory 1957, marca Peacock 1978, Liaoning Peacock Watch Industry Co. desde 2008); peacockwatch.com (amchpr.com, visita à fábrica em 2023); peacock-ln.com (Chinese Watch Wiki, página de 2015). A confirmar. K não preenchido: no peacockwatches.com o cabeçalho usa o nome em texto (logo só no rodapé) e o site não é confirmado como oficial. Nota: as fontes dão Dandong como cidade (C atual 'Liaoning' é a província) — só anotado."
+  },
+  "Pebble Smartwatches": {
+   "M": "K não preenchido: o site oficial repebble.com não abriu (WebFetch pediu permissão: PROVENANCE_REQUIRED, também via store.repebble.com, que redireciona para repebble.com); help.repebble.com e developer.repebble.com/weareback abriram, mas o cabeçalho usa só o nome em texto (sem imagem de logo); Firecrawl sem créditos. Ainda a verificar: logo no cabeçalho de repebble.com."
+  },
+  "Pedral": {
+   "H": "@pedralwatches",
+   "I": "A Pedral é uma marca sueca de relógios mecânicos fundada em Estocolmo por Kevin Pedral, nascido no Congo e criado na Suécia, para onde se mudou aos dez anos. Sem formação em relojoaria (chegou a se candidatar a uma escola de relojoaria sueca e não foi aceito), ele criou a marca por conta própria; o primeiro modelo foi o Okapi, de caixa de 38 mm, oferecido em pré-venda no Indiegogo.\n\nDepois vieram as coleções Artefact, Skulptur e Maestro, esta uma releitura do relógio de motorista com movimento suíço Sellita, lançada no Kickstarter. Em abril de 2025 a marca lançou a cápsula \"Watches & Art: The Best of Both Worlds\", com o artista e comerciante Boris Pjanic e a fábrica sueca de pulseiras REM: cinco mostradores na caixa Artefact, 15 peças numeradas de cada. Em 2025 o fundador estimava entre 300 e 500 relógios entregues a colecionadores, com preços de cerca de € 777 a € 1.699. [⚠️ a confirmar: ano de fundação e pré-venda do Okapi no Indiegogo (só no Gadget Flow, fev/2019); coleção Skulptur (só na entrevista da Watchisthis)]",
+   "M": "Site oficial pedral.eu não abriu (PROVENANCE_REQUIRED) e não apareceu em busca. H: @pedralwatches (entrevista Watchisthis, 09/06/2025, link para instagram.com/pedralwatches; comunicado PR Newswire 17/04/2025). I: 6 fontes abertas — Watchisthis (entrevista com Kevin Pedral, 2025: origem no Congo, mudança para a Suécia aos 10 anos, recusa na escola de relojoaria, Okapi como primeiro modelo, coleções, 300–500 relógios, preços € 777–1.699); PR Newswire 17/04/2025 (mesmo texto em mb.cision.com; Estocolmo, fundador Kevin Pedral, cápsula com Boris Pjanic e REM, caixa Artefact, 15 peças por mostrador, Miyota 9039); Microbrand Atlas (cópia metro-ruddy.vercel.app/brand/pedral: Estocolmo, origem no Congo); First-Backer (Maestro com Sellita no Kickstarter, fundador sem escola de relojoaria); Kicktraq (título do projeto 'Maestro – Redefining the Driver's Watch' de pedralwatches, só pelo resultado de busca); Gadget Flow (Okapi 38 mm, pré-venda Indiegogo, fev/2019); Serious Watches (Artefact GMT usado com NH34). Ano de fundação não achado. Obs.: o Artefact GMT usa NH34 e a cápsula de 2025 usa Miyota 9039, não só Sellita como diz D. K não preenchido: site oficial não alcançado; Firecrawl sem créditos."
+  },
+  "Pellikaan": {
+   "C": "Utrecht",
+   "G": "pellikaantiming.nl",
+   "M": "C: Utrecht (registro na Câmara de Comércio, via liza.nl: Pellikaan Timing B.V., KVK 54908841, Wittevrouwensingel 53, 3572 CA Utrecht, registrada em 19/03/2012, fabricação de relógios, ativa; Monochrome, 'An indie brand born out of pure stubbornness': ateliê de Hubert Pellikaan no centro de Utrecht). G: pellikaantiming.nl (aBlogtoWatch 21/09/2011, edição FC Utrecht; Monochrome 21/12/2022 e 06/11/2023, com link para a loja em pellikaantiming.nl/shop). Antes a marca usou também pellikaantiming.com (aBlogtoWatch 2014; Monochrome). K não preenchido: o site não abriu (PROVENANCE_REQUIRED) e Firecrawl sem créditos."
+  },
+  "Pelton": {
+   "M": "K não preenchido: o site oficial peltonwatches.com não abriu (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (site:peltonwatches.com, 'Pelton watches Sector shop', 'Pelton Watch Company Deni Mesanovic'); Worn & Wound não traz o logo; Firecrawl sem créditos. Ainda a verificar: se o site peltonwatches.com continua no ar."
+  },
+  "Pequignet": {
+   "K": "https://pequignet.com/cdn/shop/files/logo-pequignet_370x.svg?v=1676018495",
+   "M": "K: logo SVG do cabeçalho do site oficial (página pequignet.com/en/pages/les-montres-pequignet, aberta pelo resultado de busca; a página inicial pequignet.com pediu permissão). Ainda a verificar: o site oficial liga o Instagram @pequignet.horlogerie (instagram.com/pequignet.horlogerie), e não @pequignetmanufacture, que está em H."
+  },
+  "Peren": {
+   "M": "Site oficial não alcançado: peren.ch (coluna G) e perenwatches.com deram PROVENANCE_REQUIRED no WebFetch e o Firecrawl estava sem créditos; por isso K não preenchido. Possível erro em G (não alterado): a imprensa (Monochrome, Carl Thompson, Timefiles.ch) liga a marca a perenwatches.com, não a peren.ch — a confirmar. C não preenchido: fontes divergem — Timefiles.ch fala em oficina do fundador em Biel/Bienne; Deployant (review Hintz) diz que Biel é só dos parceiros (montagem Fashiontime) e que a marca é 'da Suíça' sem cidade; Monochrome cita montagem e envio 'em Biel ou Grenchen'; Time+Tide liga a marca à Transilvânia (Romênia). Fundador Andy Bica, marca registrada em 2014 (Timefiles.ch, aBlogtoWatch, Carl Thompson)."
+  },
+  "Perigáum": {
+   "M": "C e K não achados: site oficial perigaum.de deu PROVENANCE_REQUIRED no WebFetch e não apareceu em nenhuma busca (Firecrawl sem créditos); buscas por impressum, loja e imprensa só trouxeram anúncios do eBay e um blog de 2012 (mlwatchz.blogspot.com) que chama a marca de 'Perigaum 1972', sem cidade nem empresa. Nenhuma fonte confirmou a cidade."
+  },
+  "Perpetual Watch Company": {
+   "I": "A Perpetual Watch Company (que assina os relógios como PerpetuaL) é uma pequena relojoaria de Hong Kong que monta relógios mecânicos com movimentos chineses, como os da Sea-Gull. Segundo o The Time Bum, foi fundada em 2005 por Alex Lee, que veio da indústria relojoeira suíça e ainda desenha os relógios, encomenda as peças e monta e regula cada um, em cerca de 20 unidades por mês. A marca não tem loja online: os pedidos são feitos por formulário ou e-mail, e os relógios são só para exportação. [⚠️ a confirmar: fundação em 2005, fundador Alex Lee e produção de ~20 por mês — uma fonte só]",
+   "M": "I: só 2 fontes achadas (menos que as 6 pedidas). Fontes: The Time Bum, review PerpetuaL Simple Classic SC-03 (Hong Kong, fundação 2005, Alex Lee, ~20 por mês, sem loja online, Sea-Gull ST1701, preços de US$ 250 a US$ 1.400); fórum Relojes-Especiales, tópico 'Perpetual Watch' (calibres chineses, venda só para exportação, site perpetual-watch.com). Hong Kong e Sea-Gull batem com B, C e D. Onde se procurou sem sucesso: site oficial perpetual-watch.com (PROVENANCE_REQUIRED no WebFetch; Firecrawl sem créditos), buscas por Alex Lee, WatchUSeek, SCMP e listas de marcas de Hong Kong. H não achado: nenhuma busca trouxe perfil de Instagram da marca (os resultados eram da Phillips Perpetual, outra empresa). K não preenchido: site oficial não abriu."
+  },
+  "Perrelet": {
+   "M": "K não preenchido: o WebFetch abriu páginas do site oficial perrelet.com (our-history, know-how) só como texto, sem endereço de imagem do logo; a página inicial deu PROVENANCE_REQUIRED e o Firecrawl estava sem créditos."
+  },
+  "Perseo": {
+   "C": "Bolonha",
+   "G": "perseo-watches.it",
+   "K": "https://www.perseo-watches.it/wp-content/uploads/2024/07/logo-perseo.png",
+   "M": "G, C e K: do site oficial perseo-watches.it (página Maison Perseo, achada por busca): logo do cabeçalho; rodapé com Fernus Frères Srl, Via del Monte 10, 40126 Bolonha (P.IVA 03279530376). O site diz que a Perseo é a primeira fornecedora de relógios de bolso das Ferrovias do Estado italianas desde 1927. Possível divergência em H (não alterado): o site oficial liga o Instagram @perseowatches, e a planilha tem @perseo_orologi — a conferir."
+  }
+ },
+ "base": "Relogios_atualizada_601.xlsx"
+}
