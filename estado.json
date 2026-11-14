@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 613,
+  "ultima_versao": 614,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10233,6 +10233,13 @@
       "tipo": "lacunas_marcas",
       "marcas": "Vortic Watch Company a Wrist Hardware (50)",
       "obs": "Rodada 2"
+    },
+    {
+      "versao": 614,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Wryst a Zuriner (34)",
+      "obs": "fim da fase Marcas; próxima fase: relogios"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10303,12 +10310,11 @@
   },
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
-  "fase": "marcas",
+  "fase": "relogios",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Wrist Hardware",
-    "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T22:46:53Z",
-  "ultimo_sinal": "2026-11-14T22:46:53Z"
+    "ultima_marca_revisada": "Zuriner",
+    "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
+    "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
+  }
 }

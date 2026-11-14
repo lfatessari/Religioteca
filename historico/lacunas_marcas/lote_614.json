@@ -1,0 +1,172 @@
+{
+ "versao": 614,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Wryst",
+  "WT Author",
+  "Wyler",
+  "Wyler Vetta",
+  "Xalt",
+  "Xemex",
+  "Xeric",
+  "Xetum",
+  "Xēzo",
+  "Xhevdet Rexhepi",
+  "Xicorr Watches",
+  "Xpeda",
+  "Yantar",
+  "Yelang Watches",
+  "Yema",
+  "Yonger & Bresson",
+  "Yosuke Sekiguchi",
+  "Zann Auror",
+  "Zannetti",
+  "Zbioland",
+  "Zeitwinkel",
+  "Zelos",
+  "Zenith",
+  "Zeno-Watch Basel",
+  "Zenton",
+  "ZentRa",
+  "Zeppelin",
+  "Zero West",
+  "Zeruzzi",
+  "Zinvo",
+  "Zodiac",
+  "ZRC 1904",
+  "ZTAGE",
+  "Zuriner"
+ ],
+ "celulas": {
+  "Wryst": {
+   "M": "C não preenchido: sem fonte oficial nem 2 fontes independentes. FreeIndex (diretório) dá endereço em Torquay, Devon (Reino Unido), mas a mesma página diz 'Made with love in Bristol, UK'; a loja oficial wrystwatches.com (política de devolução) mostra só que a operação é no Reino Unido, sem endereço. A confirmar: cidade (Torquay?). Possível erro em B (não alterado): a empresa opera no Reino Unido (loja em libras, devoluções no Reino Unido; fundador Jacques Fournier, marca de 2012, mora no Reino Unido segundo horologydesign.com), embora os relógios sejam anunciados como suíços. Possível erro em H (não alterado): o rodapé do site oficial liga para instagram.com/wryst_watches (@wryst_watches), não @wrystwatches. K não preenchido: cabeçalho do site oficial usa o nome em texto ('Wryst Swiss Watches'), sem imagem de logo. Fontes: wrystwatches.com (páginas luxury-swiss-sports-watches-wryst e returns-refund-cancellation-policy, vindas de busca; o WebFetch direto na página inicial pediu permissão), freeindex.co.uk, horologydesign.com (PDF 'the story behind wryst watches')."
+  },
+  "WT Author": {
+   "M": "K não preenchido: o site oficial wtauthor.com não abriu (WebFetch pediu permissão) e nenhuma página do domínio apareceu em busca ('site:wtauthor.com' e 'WT Author Watch Co. official site'); Firecrawl sem créditos. Existe um logo da marca no Brands of the World (enviado pela própria WT Author, designer Jonathan Shakespeare, 2021), mas não é o logo do cabeçalho do site oficial, por isso não foi usado. A confirmar: K pelo cabeçalho de wtauthor.com."
+  },
+  "Wyler": {
+   "C": "Genebra",
+   "M": "C: Genebra, sede da Wyler Genève (Europa Star, fev/2006: 'Geneva based company', do grupo italiano Binda; Watchonista, nov/2015: sede em Genebra). Segundo a Watchonista, a Wyler foi fundada por Paul Wyler em Basileia em 1924 (só 1 fonte para Basileia; Europa Star e Kibble Watches dão origem em 1896). G, H e K não preenchidos: a Wyler Genève, relançada pelo grupo Binda em 2006/2007, tinha o site www.wylergeneva.com (crédito na Europa Star, 2006), mas ele não aparece mais em busca nenhuma e a Watchonista (2015) diz que a marca 'desapareceu de novo'; hoje a herança Wyler (Incaflex 1927, Dynawind 1962) é usada pela Wyler Vetta (wylervetta.com, @wylervetta, ver a linha Wyler Vetta). Não há site nem Instagram próprios confirmados para a Wyler suíça. Fontes: europastar.com (Renaissance of Wyler Genève), watchonista.com (Wyler and the revolutionary Incaflex system, part 1), kibblewatches.co.uk (Brand Directory Wyler), espelho da Wikipedia 'Wyler (company)', wylervetta.com/en/the-history."
+  },
+  "Wyler Vetta": {
+   "G": "wylervetta.com",
+   "H": "@wylervetta",
+   "K": "https://wylervetta.com/cdn/shop/files/MARCHIO_NUOVO_black_copia_2.png?v=1777050554",
+   "M": "G, H e K: do site oficial wylervetta.com (página inicial e 'the history', vindas de busca): logo preto do cabeçalho (há também versão branca MARCHIO_NUOVO_white.png), Instagram do rodapé instagram.com/wylervetta, empresa Wyler Vetta Srl (P. IVA IT12024470960). Confirmado ainda pela Europa Star (jun/2003: Wyler Vetta do grupo Binda, sede em Milão) e pela notícia da MV Agusta sobre a Milano Watch Week."
+  },
+  "Xalt": {
+   "M": "B, C, G e K não preenchidos: só 1 fonte achada. A Oracle of Time (recomendações de microbrands, abril/2026) mostra o Xalt Axiom Fire Opal (37,5 mm, mostrador de opala australiana, quartzo Ronda 1062, £ 820) com link para xaltwatches.com — o domínio bate com o Instagram @xaltwatches, mas é fonte única e o site não abriu (WebFetch pediu permissão em xaltwatches.com/products/fire-opal; Firecrawl sem créditos). A confirmar: G xaltwatches.com; país (preço em libras sugere Reino Unido, não confirmado). Buscas: 'Xalt watches instagram', '\"Xalt\" watch brand microbrand', '\"Xalt Watches\" OR xaltwatches', 'Xalt Axiom fire opal', '\"Xalt Axiom\" watch' — sem outras fontes (cota de buscas quase no fim)."
+  },
+  "Xemex": {
+   "M": "K não preenchido: o site oficial da coluna G (xemex-swiss-watch.ch) não abriu (WebFetch pediu permissão) e não apareceu em nenhuma busca (nem 'site:xemex-swiss-watch.ch'); sem logo oficial confirmado. A conferir: CB Insights dá como site xemex.com e endereço Überlandstrasse 109, Dübendorf (cantão de Zurique) — G e C não estavam em 'falta', só anotado. Fontes consultadas: buscas (CB Insights, Europa Star, WatchTime, aBlogtoWatch, Jeweller Magazine, Watchpatrol — esta deu erro ao abrir)."
+  },
+  "Xeric": {
+   "K": "https://www.xeric.com/cdn/shop/files/Xeric-BlackCircle-Logo-WhiteLetters.png?v=1613674757&width=200",
+   "M": "K: logo do cabeçalho do site oficial xeric.com (página about-us; há também a versão de círculo branco: .../Xeric-WhiteCircle-Logo-BlackLetters.png). O Instagram do rodapé é @xericwatches (bate com H). A conferir: o site oficial que aparece nas buscas e no Trustpilot é xeric.com, não xericwatches.com (coluna G); xericwatches.com não abriu (WebFetch pediu permissão) — G não estava em 'falta', só anotado."
+  },
+  "Xetum": {
+   "G": "xetum.com",
+   "M": "G: xetum.com, link do site oficial citado na Monochrome Watches ('Xetum, a Californian independent watch brand') e na Worn & Wound (Xetum Kendrick hands-on). K não preenchido: xetum.com não abriu (WebFetch pediu permissão) e não aparece em busca ('site:xetum.com' sem resultados), por isso não foi possível confirmar o logo; o site pode estar desativado (a confirmar). Monochrome cita o fundador Jeff Kuo."
+  },
+  "Xēzo": {
+   "B": "USA",
+   "G": "xezo.com",
+   "M": "G: xezo.com (site oficial; páginas about-us e coleção de relógios abertas; Worn & Wound e Wikipedia apontam o mesmo site). B: USA — o site oficial diz que os projetos 'começam nos Estados Unidos' e a Wikipedia descreve a Xezo como 'marca americana de artigos de luxo'. K: arquivo de logo do próprio site (imagem og:image 'Logo_Google_Merchant_Center'); a leitura da página mostrou o cabeçalho como link de texto 'Xezo', então confirmar se é o mesmo desenho do cabeçalho. C não preenchido: fontes divergem — Datanyze dá Eugene (Oregon), 2852 Willamette St; o registro de marca XEZO (USPTO 90652852, via Markinton) está em nome de Galsem Inc., Sugar Land (Texas); o site oficial não traz endereço. A conferir em H (não estava em 'falta'): o rodapé do site oficial liga para @xezo_official, não @xezowatches. Site oficial: Xezo faz canetas, relógios e óculos desde 2001. [Revisão: K descartado — imagem de prévia (og:image), não o logo do cabeçalho; a confirmar.]"
+  },
+  "Xhevdet Rexhepi": {
+   "M": "G, H e K não achados: nenhuma busca (nome + 'official website', 'instagram', 'site:instagram.com', \"xhevdetrexhepi\") trouxe site ou Instagram próprio; Watchonista, Time+Tide, Deployant, GPHG e WatchProZine não citam site nem perfil (a Deployant menciona um 'site oficial' sem dar o endereço). Sem site oficial, sem logo. Watchonista: marca fundada em Genebra em 2023. A conferir em F (não estava em 'falta'): o Minute Inerte custa CHF 89.391 com impostos (GPHG e Deployant) = 89.391 × 6,5 = R$ 581.042, acima do F atual de R$ 400.000 (E = 9 continua coerente)."
+  },
+  "Xicorr Watches": {
+   "I": "A Xicorr é uma marca polonesa de relógios mecânicos, de Varsóvia, criada por Adam Tomaszewski, fundador, dono e designer da marca. O nome vem de \"sikor\", gíria de Varsóvia para relógio de pulso. As fontes divergem sobre o ano de fundação (2011 ou 2012); o primeiro modelo, o Circle, automático com máquina chinesa Sea-Gull, já era apresentado em julho de 2012.\n\nNo fim de 2012 chegou às lojas o FSO M20, com mostrador inspirado no relógio do painel do carro Warszawa M20, fabricado pela FSO em Varsóvia. Ele virou o maior sucesso de vendas da marca e abriu uma linha de relógios ligados à história da indústria automobilística polonesa, com modelos inspirados no Warszawa 200, no Syrena Sport e no F125p (coleção Akropolis), além de uma edição militar do M20 limitada a 100 peças. [⚠️ a confirmar: ano exato de fundação, 2011 ou 2012]",
+   "M": "Site oficial shop.xicorr.com: o WebFetch direto pediu permissão (PROVENANCE_REQUIRED) e o site não apareceu em nenhuma busca, por isso H e K ficaram vazios. H não achado: busca por Instagram da Xicorr sem resultado e nenhuma das matérias cita o perfil. K não preenchido: site oficial não alcançado. I (10 fontes): fundador/dono Adam Tomaszewski, de Varsóvia (antyweb.pl 03/12/2012; culture.pl); nome vem de 'sikor' (culture.pl; watchard.com; watchmydiamonds.com); sede em Varsóvia (megalithwatch.com; watchmydiamonds.com); fundação 2012 (watchard.com; megalithwatch.com; watchmydiamonds.com) x 2011 (blog Watch Magazine, 31/07/2012) — divergência, marcada 'a confirmar'; primeiro modelo Circle com Sea-Gull TY2130 (Worn & Wound, Circle review 2013 e FSO M20.01 hands-on; blog Watch Magazine 2012; wristwatchreview.com); FSO M20 lançado em 2012, inspirado no painel do Warszawa M20 (antyweb.pl; culture.pl; Worn & Wound; cykadia.pl 'produzido desde 2012'); M20 maior sucesso de vendas (cykadia.pl; megalithwatch.com; watchmydiamonds.com); modelos 200, Syrena Sport e F125p Akropolis (watchard.com; megalithwatch.com); edição militar LE 100 (cykadia.pl; watchmydiamonds.com). Retirados por terem 1 fonte só: '3.000 unidades do M20 vendidas' (cykadia) e 'Akropolis nasceu de concurso no Facebook' (watchmydiamonds)."
+  },
+  "Xpeda": {
+   "M": "Nada novo achado. G não achado: buscas 'Xpeda watches official site', '\"Xpeda\" watch brand', 'xpeda.com OR Xpeda Watches' e 'Xpeda instagram xpedawatches' só trouxeram outras marcas (Kospet, Xeric etc.). Única pista: registro de marca XPEDA nos EUA (USPTO nº 5140328, pedido 07/04/2016, registrado 14/02/2017, classe 14 relógios; trademark.justia.com), mas o nome e o endereço do dono não aparecem, então B e C não puderam ser confirmados. K não preenchido: site oficial não achado. Ainda a verificar: se o perfil @xpedawatches (H) existe e o que ele diz sobre país e site."
+  },
+  "Yantar": {
+   "C": "Orel",
+   "M": "C: Oriol (Orel/Орёл, Rússia), sede da Fábrica de Relógios de Oriol 'Yantar' (znanierussia.ru, artigo 'Орловский часовой завод'; sovietwatchstore.com, ficha de despertador Yantar: 'Produced on Oryol Watch Factory'). As duas fontes dizem que a fábrica foi registrada em 1950, privatizada em 1992, renomeada OAO Orlovsky Chasovoy Zavod em 1997 e declarada falida em setembro de 2004, quando a produção de relógios parou. G, H e K não preenchidos: marca de fábrica encerrada, sem site nem Instagram oficial achados; o znanierussia.ru cita uma retomada da marca em 2021 como loja/oficina, sem site — a confirmar. Observação: além de relógios de mesa, parede e despertadores (D/J), a fábrica fez relógios de xadrez. [Revisão: grafia \"Orel\", igual à coluna D.]"
+  },
+  "Yelang Watches": {
+   "I": "A Yelang (野狼, \"lobo selvagem\" em chinês) é uma marca chinesa de relógios de estilo tático e militar, conhecida pelos tubos de trítio que iluminam ponteiros e índices. A marca é vendida principalmente pela internet, em lojas como a China Watch Shop, e já era discutida em fóruns de relojoaria em 2016. [⚠️ a confirmar: ano de fundação, cidade e empresa por trás da marca não foram achados]",
+   "M": "C, G, H e K não achados: buscas 'Yelang watches tritium official site', 'Yelang watch brand China company', 'YELANG 野狼 手表 氚气 品牌' e 'Yelang watches review' só trouxeram lojas revendedoras (chinawatchshop.com, jwlraddicts.com, desertcart) e fóruns; nenhum site oficial, Instagram ou endereço da empresa. I (só 4 fontes com conteúdo; procurou-se também em twobrokewatchsnobs.com, sem menção): nome chinês 野狼 (chinawatchshop.com, coleção Yelang; pconline.com.cn, guia de compra); marca chinesa (chinawatchshop.com; pconline.com.cn; relojes-especiales.com, fórum 2016); estilo tático/militar e trítio (pconline.com.cn; jwlraddicts.com, 'Yelang Military Watch T100'; chinawatchshop.com, V1019); discussão em fórum em 2016 (relojes-especiales.com, tópico 'Yelang'). Fundação, fundador e cidade sem fonte."
+  },
+  "Yema": {
+   "M": "K não preenchido: o WebFetch direto em yema.com pediu permissão (PROVENANCE_REQUIRED); as páginas do site que vieram por busca (en.yema.com/pages/yema-presentation, eu.yema.com, eu.yema.com/collections/urban-sport-watches, yema.com/de/account) abriram, mas a leitura não trouxe nenhuma URL de imagem do cabeçalho (o logo deve estar embutido em SVG ou ser carregado por script). Busca pelo arquivo do logo também não achou."
+  },
+  "Yonger & Bresson": {
+   "C": "Morteau",
+   "M": "C: Morteau — sede da Montres Ambre (dona da marca, junto com a Yema), 1 rue Fontaine l'Épine, 25500 Morteau; o estabelecimento tem o nome comercial 'Yonger et Bresson - Yema Maison Horlogère Française' (INSEE SIRENE, SIRET 38971567300023; Xerfi). K não preenchido: o site oficial yonger-bresson.com não abriu (WebFetch pediu permissão) e não apareceu em busca nenhuma; Firecrawl sem créditos."
+  },
+  "Yosuke Sekiguchi": {
+   "C": "Le Locle",
+   "G": "yosuke-sekiguchi.com",
+   "M": "C: Le Locle, Suíça — ateliê do relojoeiro (SJX 2022; Openers; Hodinkee Japan; Premium Japan; Deployant; webChronos). Atenção: B diz 'Japão' (nacionalidade do relojoeiro), mas o ateliê fica na Suíça; B não alterado. G: yosuke-sekiguchi.com (link do site oficial citado em Hodinkee Japan e Premium Japan). K não preenchido: o site oficial não abriu (WebFetch pediu permissão); Firecrawl sem créditos."
+  },
+  "Zann Auror": {
+   "M": "B, C, G e K não achados: 5 buscas ('Zann Auror watches', '\"Zann Auror\" watch', 'zannauror', Instagram @zannauror) não trouxeram nenhum resultado sobre uma marca de relógios com esse nome. Ainda a verificar: se a marca existe e se o nome/Instagram estão escritos certo; D, E, F e J atuais parecem genéricos e sem fonte."
+  },
+  "Zannetti": {
+   "M": "K não preenchido: o site oficial zannettiwatches.com não abriu (WebFetch pediu permissão) e não apareceu em busca nenhuma (buscas 'site:zannettiwatches.com', 'Zannetti orologi Roma sito ufficiale' só trouxeram revendedores e imprensa); Firecrawl sem créditos."
+  },
+  "Zbioland": {
+   "M": "G e K não achados: 4 buscas ('Zbioland watches Singapore', '\"zbioland\" watch', 'zbioland', Instagram @zbioland) não trouxeram nenhum resultado sobre uma marca de relógios com esse nome. Ainda a verificar: se a marca existe e se o nome/Instagram estão escritos certo; B, C, D, E, F e J atuais parecem genéricos e sem fonte."
+  },
+  "Zeitwinkel": {
+   "C": "Saint-Imier",
+   "M": "C: Saint-Imier, no Jura bernês (Bilanz.ch, matéria sobre a Zeitwinkel: endereço Rue Pierre-Jolissaint 35, St-Imier; WatchTime.net, página da marca: relógios 'aus Saint-Imier'). K não preenchido: o site oficial zeitwinkel.ch não abriu (WebFetch pediu permissão em https://zeitwinkel.ch e https://www.zeitwinkel.ch) e não apareceu em nenhuma busca (incl. site:zeitwinkel.ch); Firecrawl sem créditos. A confirmar: logo do cabeçalho de zeitwinkel.ch."
+  },
+  "Zelos": {
+   "K": "https://zeloswatches.com/cdn/shop/files/ZW_logo_80x.png?v=1657682958",
+   "M": "K: logo do cabeçalho do site oficial www.zeloswatches.com (link de busca; há também versão branca ZW_logo_white_80x.png). Site liga o Instagram instagram.com/zeloswatches (bate com H). Obs.: B está 'Cingapura'; a forma padrão da planilha é 'Singapura' (só anotado)."
+  },
+  "Zenith": {
+   "M": "K: logo do cabeçalho do site oficial zenith-watches.com (páginas /int/our-selection/men e /faq, alt 'Logo ZENITH Watches'); arquivo AVIF servido pelo Prismic (o site não usa png/svg para o logo; descartar se o formato AVIF não servir). Site liga o Instagram instagram.com/zenithwatches (bate com H). [Revisão: K descartado — arquivo AVIF, fora dos formatos aceitos; a confirmar logo png/svg.]"
+  },
+  "Zeno-Watch Basel": {
+   "K": "https://www.zeno-watch.ch/cdn/shop/files/logo_Zeno_vecto_300x.svg?v=1711914289",
+   "M": "K: logo do cabeçalho do site oficial zeno-watch.ch (página about-us, SVG, alt 'ZENO-WATCH BASEL'). A conferir (só anotado): o site oficial liga o Instagram instagram.com/zenowatchbasel_official, e H está '@zenowatchbasel'; a página about-us diz 'Independent Swiss since 1868', e D fala em 'Casa suíça de 1922'."
+  },
+  "Zenton": {
+   "M": "C, G e K não achados: nenhum site oficial da Zenton apareceu nas buscas ('Zenton watches official site', 'site:instagram.com zentonwatches', buscas com Shenzhen/Guangzhou); páginas do WatchPatrol sobre a marca deram erro. Único dado achado: um anúncio no WatchPatrol (listing 1961862, Zenton DD40 Diver) diz 'Zenton is a sub brand of Helson' (Helson é marca de Hong Kong) — fonte única de vendedor, a confirmar; se for verdade, B 'China' pode precisar virar 'Hong Kong'. H @zentonwatches também não foi confirmado."
+  },
+  "ZentRa": {
+   "M": "C, G, H e K não preenchidos. C a confirmar: o Watch-Wiki (watch-wiki.net, Zentra) diz que a marca nasceu em Berlim (4/9/1927), mudou-se depois para Colônia e em 2010 foi para Emden (Alemanha), com Jürgen Schreitling, que criou a linha ZentRa Savoy; só uma fonte, então não gravado. O junghans-vintage.de (Junghans und Zentra) diz cooperativa de compras fundada em 1928 por Albert Kratz, sem cidade (ano diverge do Watch-Wiki). G/H/K não achados: nenhum site oficial nem Instagram ativo apareceu nas buscas ('ZentRa Uhren Emden Schreitling offizielle Website'); a marca parece ser histórica/sem presença online atual."
+  },
+  "Zeppelin": {
+   "C": "Ismaning",
+   "M": "C: Ismaning (perto de Munique) — a marca pertence à Pointtec (POINT TEC Products Electronic GmbH, Steinheilstraße 6, 85737 Ismaning), segundo WatchTime.net ('Special deutsche Uhrenmarken: Zeppelin') e Wirtschaftsforum.de (POINT TEC, marcas Zeppelin, bauhaus e Ruhla). K não preenchido: o site oficial zeppelin-watches.com não abriu (WebFetch pediu permissão/PROVENANCE_REQUIRED) e não apareceu em nenhum resultado de busca (só lojas revendedoras); Firecrawl sem créditos."
+  },
+  "Zero West": {
+   "K": "https://zerowest.watch/wp-content/uploads/2026/01/Zero-West-Home-of-british-engineered-watches-with-history-inside.svg",
+   "M": "K: logo SVG do cabeçalho do site oficial zerowest.watch (aberto pelo resultado de busca; o rodapé liga ao Instagram @zerowestwatches, que confere com H). Observação: o site oficial atual é zerowest.watch; G está como 'zerowestwatches.com' (zerowestwatches.com não abriu — PROVENANCE_REQUIRED) — conferir G. C está 'Reino Unido'; o site oficial dá o endereço 41 Bridgefoot Path, Emsworth, Hampshire, PO10 7EB (cidade: Emsworth) — só anotado, C não estava em falta."
+  },
+  "Zeruzzi": {
+   "M": "B, C, G e K não preenchidos. A confirmar: as marcas registradas 'ZERUZZI' (classe 14, relógios e joias) pertencem à empresa Zeruzzi AS — pedido nos EUA nº 99028604 de 04/02/2025, dono com endereço em Trondheim (markinton.com), e pedido no Reino Unido UK00004246723 (UK IPO, Trade Mark Journal 2025/034). 'AS' é a sigla de sociedade norueguesa, o que indica Noruega/Trondheim, mas só uma fonte dá a cidade e nenhuma fonte liga essa empresa ao Instagram @zeruzziwatches; por isso B e C não foram gravados. G/K não achados: nenhum site oficial apareceu nas buscas ('Zeruzzi watches', 'zeruzzi.com klokke', 'Zeruzzi Trondheim'); a página de marcas do Justia deu erro."
+  },
+  "Zinvo": {
+   "C": "Los Angeles",
+   "M": "C: Los Angeles (Califórnia) — WatchPro (2021: 'Based in Los Angeles', fundador e CEO Borys Khudomaka), Faire (página da marca: Los Angeles, CA), ZoomInfo (12130 Millennium, Los Angeles) e Bouncewatch (Los Angeles, fundada em 2014). K não preenchido: o site oficial não abriu (zinvo.com deu PROVENANCE_REQUIRED) e não apareceu em busca; Firecrawl sem créditos. Observação: o domínio usado pela marca é zinvowatches.com (Trustpilot, ZoomInfo, Bouncewatch); G está 'zinvo.com' — conferir G."
+  },
+  "Zodiac": {
+   "C": "Le Locle",
+   "M": "C: Le Locle, cidade onde Ariste Calame abriu a oficina em 1882 (site oficial zodiacwatches.com, página inicial; Wikipedia via wikiwand). Observação: hoje a marca pertence ao Fossil Group (desde 2001), cuja sede, segundo a Wikipedia, fica em Richardson, Texas (EUA); o site oficial diz que os relojoeiros trabalham em Biel/Bienne (Suíça). K não preenchido: o site oficial abriu só como texto (sem URL da imagem do logo) e a página inicial pela abertura direta pediu permissão; sem Firecrawl."
+  },
+  "ZRC 1904": {
+   "C": "Genebra",
+   "M": "C: Genebra, cidade de fundação em 1904 por Edmond Zuccolo e Joseph Rochet (Monochrome, review Grands Fonds Heterium; dialicious.com; paperjam.lu). Observação: a sede atual não foi confirmada; a imprensa chama a ZRC de 'manufatura francesa' (paperjam.lu, SJX 2017) e a Europa Star (2016) diz que a empresa-mãe Zuccolo-Rochet fica em Annecy (França); a SJX cita uma 'nova entidade suíça'. Possível revisão de B (Suíça) a conferir. G na planilha é zrc-watches.com, mas a Monochrome e a dialicious ligam para zrc1904.com (a conferir; G não alterado). K não preenchido: zrc-watches.com e zrc1904.com pediram permissão na abertura direta e não apareceram em busca; sem Firecrawl."
+  },
+  "ZTAGE": {
+   "B": "Hong Kong",
+   "C": "Hong Kong",
+   "G": "ztagewatch.com",
+   "M": "G: ztagewatch.com, indicado como 'site oficial' (公式サイト) pela Gressive (gressive.jp/brand/ztage) e linkado em 3 matérias da aBlogtoWatch. B e C: Hong Kong — aBlogtoWatch ('Based in Hong Kong, all design work is done in-house', 'Hong Kong headquarters'; e 'designed by the brand in Hong Kong', matéria do Sable); fundada em 2017 por Franco e Cyrus Wong (aBlogtoWatch). Atenção: as matérias da aBlogtoWatch são posts patrocinados (texto da própria marca); a Gressive (Japão) diz que os relógios são feitos numa oficina em Mendrisio, perto de Lugano (Suíça), e a aBlogtoWatch diz que o Sable é montado na Suíça e testado em Hong Kong. K não preenchido: ztagewatch.com pediu permissão e não apareceu em busca; sem Firecrawl."
+  },
+  "Zuriner": {
+   "M": "G: zuriner.com, linkado como site da marca em blessthisstuff.com (Zuriner Depth-Charge ZV-01) e no blog watchsreviews.blogspot.com (2013); as duas fontes são de 2013 e não foi possível confirmar se o site ainda está no ar (site:zuriner.com sem resultado). Marca de Hong Kong fundada pelo canadense Dave Simmons (mesmas fontes). Possível erro em C (já preenchido): está 'Suíça', mas a cidade deve ser Hong Kong (blessthisstuff: 'Hong Kong based Watch Company'); não alterado. K não preenchido: site oficial não alcançado; sem Firecrawl. [Revisão: G descartado — fontes só de 2013, site não confirmado no ar; a confirmar zuriner.com.]"
+  }
+ },
+ "base": "Relogios_atualizada_613.xlsx"
+}
