@@ -12,6 +12,7 @@ A fase Marcas terminou em 14/11/2026 (v614). Na fase Relógios, a escolha das ma
 "Temos que começar de cima pra baixo, pois muitas marcas novas entraram. As que tiverem sido feitas já os modelos, pula."
 - Para escolher a bateria, rodar `python3 proxima_marca.py planilha/Relogios_atualizada_<atual>.xlsx 10`. Ele lista, de cima para baixo da aba Marcas, só as marcas que ainda NÃO têm nenhum relógio na aba Relógios (compara o nome sem acentos/pontuação; apelidos no topo do script). Escolher as primeiras da lista (até 3 pequenas, ou 1 grande sozinha, como no item 4 do roteiro).
 - `proxima_linha_marcas` não decide mais a escolha; depois de cada bateria, gravar nele a linha da última marca feita, só como referência.
+- Tiffany & Co., Urban Jürgensen, Wyler e ZRC 1904 têm só 1 a 3 relógios que entraram de passagem (com nomes como "Tiffany &Co.", "Urban Jurgensen", "Wyler Geneve", "ZRC"). O usuário pediu (14/11/2026) que sejam pesquisadas normalmente quando a ordem chegar nelas (estão em `PESQUISAR_MESMO_ASSIM` no script). Esses relógios antigos ficam como estão; ao pesquisar, não repetir os mesmos modelos.
 - Se o nome de uma marca na aba Relógios for diferente do da aba Marcas (ex.: "Victorinox" × "Victorinox Swiss Army"), acrescentar em `APELIDOS` no `proxima_marca.py` em vez de pesquisar de novo.
 
 ## Arquivos

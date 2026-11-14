@@ -17,6 +17,12 @@ APELIDOS = {
 }
 
 
+# marcas com só uns poucos relógios que entraram de passagem: pesquisar normalmente
+# (pedido do usuário, 14/11/2026). Os relógios que já existem ficam; a bateria nova
+# não deve duplicá-los.
+PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904"}
+
+
 def chave(s):
     s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z0-9]", "", s)
@@ -32,7 +38,8 @@ def main():
     linhas = [
         (i, r[0]) for i, r in enumerate(wb["Marcas"].iter_rows(min_row=2, max_col=1, values_only=True), 2) if r[0]
     ]
-    sem = [(i, m) for i, m in linhas if feitas[chave(APELIDOS.get(m, m))] == 0]
+    sem = [(i, m) for i, m in linhas
+           if m in PESQUISAR_MESMO_ASSIM or feitas[chave(APELIDOS.get(m, m))] == 0]
     print(f"marcas sem relógios: {len(sem)} de {len(linhas)}")
     for i, m in sem[:quantas]:
         print(i, m)
