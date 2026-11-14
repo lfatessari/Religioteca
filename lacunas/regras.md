@@ -2,9 +2,9 @@
 
 Colunas: B País | C Cidade | D Principal característica (frase curta, factual, em português) | E Faixa de preço (1–10) | F Preço médio em R$ (inteiro) | G Site (domínio sem https://, ex.: "apose.fr") | H Instagram ("@conta") | J Principais relógios (em português; formato "Modelo — descrição curta; preço", modelos separados por linha em branco "\n\n") | K Logo (URL direta da imagem do logo do cabeçalho do site oficial) | M Observação (fontes e explicações, em português do Brasil).
 
-- Pesquise SÓ as colunas listadas em "falta". O que já está preenchido fica (só corrija se tiver CERTEZA de erro, explicando em M).
+- Pesquise SÓ as colunas listadas em "falta". O que já está preenchido fica como está; no JSON entram só colunas de "falta" e M.
 - NUNCA invente. O que não achar fica fora do JSON e é explicado em M ("X não achado: motivo"). Use "-" só se confirmado que não existe (ex.: marca sem Instagram).
-- Coluna I (História): ver a seção "História" abaixo. Ela é pesquisada em TODAS as marcas do grupo (a letra I vem sempre em "falta").
+- Coluna I (História): só quando "I" estiver em "falta" (história vazia). História já escrita não é conferida nem alterada. Ver a seção "História" abaixo.
 - Países como na planilha: "USA", "Reino Unido", "Holanda", "Singapura", "Suíça", "Alemanha", "França", "Hong Kong", "China", "Japão", "Itália", "Espanha", "Canadá", "Austrália", "Bélgica" etc. Cidades em português quando houver forma usual (Genebra, Filadélfia, Tóquio, Londres, Berlim).
 - Ferramentas: WebSearch e WebFetch (carregue com ToolSearch "select:WebSearch,WebFetch") e Firecrawl (ToolSearch "firecrawl"). Não use curl/python para baixar páginas.
 - **REGRA PARA ABRIR SITES SEM PEDIR PERMISSÃO (ninguém vai clicar em "permitir"):** o WebFetch só abre sem pedir aprovação um endereço que veio LITERALMENTE de um resultado de WebSearch desta conversa. Endereço digitado de memória, copiado da planilha (coluna G) ou montado por você (/products.json, /about, /pages/..., microbrandatlas.com/brand/<slug>) pede permissão e trava. Portanto:
@@ -18,10 +18,11 @@ Colunas: B País | C Cidade | D Principal característica (frase curta, factual,
 - E: se já existe, NÃO mude (se F não couber na faixa, só anote em M). Se E estiver vazio, pela tabela de F: 1 até 1.000; 2 1.001–5.000; 3 5.001–10.000; 4 10.001–20.000; 5 20.001–40.000; 6 40.001–70.000; 7 70.001–100.000; 8 100.001–350.000; 9 350.001–600.000; 10 acima de 600.000.
 - K: só URL de arquivo de imagem real do logo (png/svg/webp/jpg). Se o cabeçalho usa só texto, deixe vazio e anote "K não preenchido: cabeçalho usa o nome em texto".
 - H: prefira o perfil que o site oficial liga; conta do fundador só se a marca não tiver (anote em M).
-- D e J: só se vazios; curtos e factuais. B, C e D têm de bater com a História: se a pesquisa da história mostrar, com fonte oficial ou 2 fontes, que um deles está errado, corrija e explique em M.
+- D e J: só se vazios; curtos e factuais. Se achar possível erro numa coluna já preenchida (fora de "falta"), NÃO altere: só anote em M.
 - Atenção a marcas homônimas (ex.: outra "Apex"): confirme que a fonte é sobre a marca de relógios certa (bate com Instagram/site já na planilha).
 
-## História (coluna I) — veracidade acima de tudo (pedido do usuário, 14/11/2026)
+## História (coluna I) — só para história VAZIA; veracidade acima de tudo (pedido do usuário, 14/11/2026)
+Os itens 2 e 8 abaixo (texto existente) não se aplicam mais: história já escrita fica como está.
 O campo "historia_atual" traz o texto inteiro que já está na planilha (pode estar vazio). Muitos textos antigos foram escritos sem conferência e terminam com "[⚠️ verificar ...]".
 1. **Fatos a conferir:** ano de fundação, fundador(es), cidade/país, quem é dono hoje (grupo, venda, falência, relançamento), marcos (primeiro modelo, modelos importantes, prêmios, colaborações), situação atual (ativa/encerrada). Cada fato precisa do site oficial da marca (página "about/história") OU de 2 fontes independentes e confiáveis (imprensa relojoeira, Wikipedia com fonte, registro da empresa, Kickstarter da própria marca). Loja revendedora copiando o texto da marca não conta como segunda fonte.
 2. **Texto existente:** NÃO reescreva do zero. Confira os fatos; corrija só o trecho errado; tire frases que não conseguiu confirmar e que afirmam fatos (datas, nomes, números, prêmios); pode acrescentar fatos confirmados. Elogios vagos e enfeite ("referência absoluta", "lendária") saem se não tiverem base. Mantenha o estilo e o português do Brasil.
@@ -34,5 +35,5 @@ O campo "historia_atual" traz o texto inteiro que já está na planilha (pode es
 
 SAÍDA: grave o arquivo JSON indicado, no formato
 {"<Marca exatamente como dada>": {"C": "...", "I": "texto inteiro da história", "K": "...", "M": "C: Genebra (fonte...). K: logo do cabeçalho do site oficial ..."}, ...}
-TODA marca do grupo tem de aparecer com "M" (mesmo que seja "Nada novo achado: ..."). E e F como números inteiros (não string). Texto de M no estilo: "H e K: do site oficial x.com (logo do cabeçalho). F: média de N relógios ... = US$ X × 5,5146 = R$ Y → E = 2. C não achado: ...". Não comece M com "Lacunas revisadas" nem "Lacunas e história revisadas" (isso é acrescentado depois).
+TODA marca do grupo tem de aparecer com "M" (mesmo que seja "Nada novo achado: ..."). E e F como números inteiros (não string). Texto de M no estilo: "H e K: do site oficial x.com (logo do cabeçalho). F: média de N relógios ... = US$ X × 5,5146 = R$ Y → E = 2. C não achado: ...". Não comece M com "Lacunas revisadas", "Lacunas e história revisadas" nem "Lacunas e história preenchidas" (isso é acrescentado depois).
 Valide o JSON com python3 -c "import json;json.load(open('ARQ'))". Ao final, responda só com um resumo de 1 linha por marca (o que foi preenchido).

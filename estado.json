@@ -10033,6 +10033,6 @@
   "lacunas_marcas": {
     "lote": 40,
     "ultima_marca_revisada": "Aerotec",
-    "obs": "Desde 14/11/2026: lacunas (B–H, J, K) e História (I) juntas, 40 marcas por execução, de cima para baixo. Fila = toda marca sem 'istória revisada' em M (as 159 já com 'Lacunas revisadas' entram só para a história). Fim da fila → fase 'relogios'."
+    "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1677 marcas após a v577). A v577 conferiu 40 histórias prontas por engano."
   }
 }
