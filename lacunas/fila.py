@@ -1,5 +1,5 @@
 """Monta o lote da Fase Marcas (regra corrigida pelo usuário em 14/11/2026).
-Uso: python3 lacunas/fila.py planilha/Relogios_atualizada_NNN.xlsx [tamanho=40] [saida=/home/claude/trab]
+Uso: python3 lacunas/fila.py planilha/Relogios_atualizada_NNN.xlsx [tamanho=100] [saida=/home/claude/trab]
 Regra:
 - Marca já tratada nesta fase (M contém "istória revisada", "istória preenchidas" ou
   "Lacunas e história preenchidas") -> PULA.
@@ -8,13 +8,13 @@ Regra:
 - Demais -> falta = colunas vazias entre B, C, D, E, F, G, H, I, J, K; nenhuma vazia -> PULA.
 - História já escrita NUNCA entra (não se confere nem reescreve).
 Vazio = célula vazia ou "-", "—", "n/a".
-Grava grupo1.json ... grupo8.json (5 marcas cada) e imprime o total restante na fila.
+Grava grupo1.json ... grupoN.json (5 marcas cada) e imprime o total restante na fila.
 """
 import sys, json, os
 import openpyxl
 
 ENT = sys.argv[1]
-N = int(sys.argv[2]) if len(sys.argv) > 2 else 40
+N = int(sys.argv[2]) if len(sys.argv) > 2 else 100
 OUT = sys.argv[3] if len(sys.argv) > 3 else '/home/claude/trab'
 L = 'ABCDEFGHIJKLM'
 vazio = lambda v: v is None or str(v).strip() in ('', '-', '—', 'n/a')
