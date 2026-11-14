@@ -1,0 +1,212 @@
+{
+ "versao": 582,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Cartier",
+  "Celeste",
+  "Centric Instruments",
+  "CEON Watch Co.",
+  "Cerruti",
+  "Cestrian",
+  "Champs Elysées",
+  "Charles Berret",
+  "Charles Frodsham & Co.",
+  "Charmex",
+  "Chase-Durer",
+  "Chesapeake Watch Co.",
+  "Chez Maman",
+  "Choosz",
+  "Chotovelli & Figli",
+  "Chouette",
+  "Christian Klings",
+  "Christopher Ward",
+  "ChronoAstra",
+  "ChronoDivers",
+  "Chronofixe",
+  "Chronora",
+  "Chronoswiss",
+  "Chronotechna",
+  "Churchill Watch Company",
+  "Churpfälzische Uhrenmanufaktur",
+  "CIGA Design",
+  "Citizen",
+  "CJR Watches",
+  "Claude Meylan",
+  "Clemence",
+  "CLE-Time",
+  "Click",
+  "Coblor",
+  "CODE41",
+  "Codek",
+  "Collins Watch Company",
+  "Colomer & Sons",
+  "Colorado Watch Company",
+  "Compass Timepieces"
+ ],
+ "celulas": {
+  "Cartier": {
+   "M": "K não preenchido: as páginas oficiais cartier.com abertas (en-us/watches/choose-your-watch, en-aw/watches) não devolveram a imagem do logo do cabeçalho (só texto); sites de logos (brandfetch, 1000logos) não são o site oficial."
+  },
+  "Celeste": {
+   "B": "USA",
+   "C": "Springfield (Oregon)",
+   "G": "celestewatch.com",
+   "M": "B e C: loja e oficina na 335 Main Street, Springfield, Oregon (Eugene Magazine; Springfield Bottom Line 2023; Craft Council). G: celestewatch.com citado pela Eugene Magazine e igual ao domínio do logo já em K. Fundadora Celeste Wong (Eugene Magazine)."
+  },
+  "Centric Instruments": {
+   "I": "A Centric Instruments é um estúdio de design independente do norte da Califórnia que estreou em 2018 com o Lightwell, relógio de campo de 38 mm em aço, vidro de safira e movimento solar Seiko, lançado por financiamento coletivo no Kickstarter.\n\nDepois vieram a versão Mk II do relógio de campo e o Lightwell Pilot Chronograph, também com movimento solar Seiko, vendidos inclusive pela loja Huckberry. [⚠️ a confirmar: fundadores Michael Belen e Anthony Kerrigan; data da Mk II]",
+   "M": "I: estreia em 2018 com o Lightwell no Kickstarter, norte da Califórnia, 38 mm, solar Seiko (InsideHook mai/2018; The Coolector mai/2018; Master Horologer 16/05/2018). Pilot Chronograph solar Seiko e venda na Huckberry (Gear Patrol 2020; Everyday Carry dez/2019). A confirmar: fundadores Michael Belen e Anthony Kerrigan (só InsideHook) e Mk II (só Everyday Carry, dez/2019). K não preenchido: o site oficial não apareceu em nenhuma busca (WebFetch só abre links de busca; Firecrawl sem créditos)."
+  },
+  "CEON Watch Co.": {
+   "I": "A CEON Watch Co. é um ateliê brasileiro criado pelo engenheiro Ricardo A. Gracioli, que começou o projeto em 2021. O primeiro relógio, o GR-01, tem corda manual com o calibre Peseux 7001, é feito sob encomenda e custa CHF 15.000.\n\nSegundo a Monochrome, o GR-01 levou quatro anos de desenvolvimento e é feito em Curitiba; em 2026 ele concorreu ao GPHG na categoria Time Only. [⚠️ a confirmar: início em 2021, quatro anos de desenvolvimento, Curitiba e participação no GPHG 2026 — cada um com 1 fonte só]",
+   "M": "I: fundador Ricardo A. Gracioli, GR-01 sob encomenda por CHF 15.000 (Monochrome; Oracle of Time 21/07/2026); Peseux 7001 corda manual (Monochrome; J da planilha). A confirmar: início em 2021 e GPHG 2026 categoria Time Only (só Oracle of Time); quatro anos de desenvolvimento e Curitiba (só Monochrome). Observação: J diz 'cerca de US$ 18.500', as fontes dão CHF 15.000 (não alterado). K não preenchido: o site oficial não apareceu nas buscas e uma busca foi bloqueada; Firecrawl sem créditos."
+  },
+  "Cerruti": {
+   "M": "K não preenchido: o site cerruti1881watches.com não apareceu em busca nenhuma; a única página oficial vista (cerruti.com, .oembed) teve a abertura bloqueada; Firecrawl sem créditos."
+  },
+  "Cestrian": {
+   "I": "A Cestrian é uma marca britânica de relógios de preço acessível criada por David Parry, fundador da loja online WatchNation, de Chester, e que usa a estrutura da WatchNation para venda e atendimento. As séries Dive e Master foram lançadas em 2022 e relançadas em novembro de 2023 com melhorias pedidas por clientes; depois veio a Field Series.\n\nOs relógios são desenhados no Reino Unido (com uma agência de design de Londres) e fabricados no Extremo Oriente. Depois de um período parado, a marca voltou com três coleções novas: Master Series V3 (Miyota 8215), Ocean Series GMT (Seiko NH34) e Pro Dive Series (300 m). [⚠️ a confirmar: ano de fundação 2021, citado só pela WatchNation]",
+   "K": "https://www.watchnation.com/cdn/shop/files/CESTRIAN_NEW_LOGO.png?v=1770965668&width=1280",
+   "M": "I: fundador David Parry (dono da WatchNation), Chester, lançamento das séries Dive e Master em 2022 e relançamento em nov/2023, Field Series, design em Londres e fabricação no Extremo Oriente (WatchPro, watchpro.com/?p=112447); fundação em 2021, design no Reino Unido/fabricação no Extremo Oriente e volta com Master V3, Ocean e Pro Dive (página da Cestrian na WatchNation, watchnation.com/pages/cestrian-watches e /cestrian-the-next-chapter-watchnation). A confirmar: ano de fundação 2021 (só a WatchNation, ligada ao fundador). K: logo da Cestrian (CESTRIAN_NEW_LOGO.png) da página oficial da marca dentro da WatchNation; o domínio cestrianwatches.com da coluna G não apareceu em nenhuma busca (a marca hoje parece vendida só pela WatchNation) — conferir se G deve virar watchnation.com/pages/cestrian-watches."
+  },
+  "Champs Elysées": {
+   "C": "Neuchâtel",
+   "M": "C: Neuchâtel (Watchonista, página da marca: 'based in Neuchâtel'; Master Horologer: Rue Saint-Honoré 1, 2000 Neuchâtel; registro comercial suíço Champs Elysées S.A., CHE-428.280.446, sede em Neuchâtel, ativa). G não preenchido por falta de certeza: três domínios diferentes nas fontes — champselysees.ch (Master Horologer), champselyseestimepieces.com (Centurion, 2015) e champselyseeswatch.com (de onde vem o logo da coluna K); nenhum apareceu em busca para ser aberto. Fundador e dono Keyvan Lamé desde 2011 (Master Horologer); modelo Estelle de 2014 no GPHG (gphg.org)."
+  },
+  "Charles Berret": {
+   "I": "A Charles Berret é uma marca independente jovem de Londres, descrita pela imprensa como microbrand britânica. A primeira coleção, DARTH, foi lançada em 2024 pelo Kickstarter; depois vieram modelos como The Arrow e a edição especial Asteria, com mostrador de meteorito, e em 2026 a marca voltou ao Kickstarter com o KAZE Gold Tourbillon, de caixa de titânio de 39,5 mm. [⚠️ a confirmar: todos os fatos vêm de uma só fonte (The Hour Markers, jul/2026); fundador e ano de fundação não achados]",
+   "M": "I: Londres, DARTH em 2024 no Kickstarter, The Arrow, Asteria com mostrador de meteorito e KAZE Gold Tourbillon (titânio 39,5 mm) no Kickstarter em 2026 (The Hour Markers, thehourmarkers.com/articles/kaze-charles-berret-tourbillon-kickstarter, 08/07/2026); Asteria edição especial de 10 peças com mostrador de meteorito suíço (título da campanha no Kicktraq, página não abriu). A confirmar: tudo (1 fonte só); fundador e ano de fundação não achados. K não achado: o site charlesberret.co não apareceu em nenhuma busca (WebFetch só abre links de busca; Firecrawl sem créditos)."
+  },
+  "Charles Frodsham & Co.": {
+   "M": "K não achado: o site oficial frodsham.com não apareceu em nenhuma busca (só citado por redfernanimation.com, link frodsham.com/commissions/h4/), então não foi aberto; Firecrawl sem créditos. Nada novo preenchido."
+  },
+  "Charmex": {
+   "M": "H não achado: nenhuma conta de Instagram da marca apareceu nas buscas; o Fashionbi lista só o Facebook (facebook.com/CharmexofSwitzerland) e o site charmex.ch. Ponto a conferir (não alterado): Fashionbi dá a sede em Basileia (Basel), enquanto C diz Biel/Bienne; dono da marca registrada: Montres Charmex SA (Justia Trademarks)."
+  },
+  "Chase-Durer": {
+   "H": "@chasedurerwatch",
+   "M": "H: perfil \"Chase-Durer Watch (@chasedurerwatch)\" achado em busca (instagram.com/chasedurerwatch); bate com o domínio do logo já em K (chasedurerwatch.com) e com a página do Facebook @ChaseDurerWatch. Observação: G diz chasedurer.com, mas o logo em K vem de chasedurerwatch.com — conferir qual é o site atual (não alterado)."
+  },
+  "Chesapeake Watch Co.": {
+   "I": "A Chesapeake Watch Co. é uma microbrand americana de relógios de mergulho automáticos inspirados na cultura, na fauna e na geografia da baía de Chesapeake, com modelos como Crab Feast, Eastern Oyster, The Waterman e Bombay Hook. Segundo o site oficial, os relógios são montados em Maryland e cada compra inclui uma doação de US$ 10 à Chesapeake Bay Foundation, que trabalha na proteção da bacia da baía.\n\nA marca foi fundada em 2023, em Leesburg (Virgínia). [⚠️ a confirmar: ano de fundação e cidade só em catálogos de microbrands]",
+   "M": "I: tema da baía de Chesapeake, montagem em Maryland e doação de US$ 10 à Chesapeake Bay Foundation (site oficial chesapeakewatch.co, páginas inicial e About Us); modelos (Microbrand Atlas, já em J). A confirmar: fundação 2023 e Leesburg (só Microbrand Atlas e watcheers.io, catálogos que podem copiar um ao outro); fundador não achado. K não preenchido: o logo do cabeçalho é um SVG embutido na página, sem arquivo de imagem com endereço próprio."
+  },
+  "Chez Maman": {
+   "K": "https://www.chezmaman.com/cdn/shop/files/logo_chez_maman_colore.png?v=1753966827&width=390",
+   "M": "K: logo do cabeçalho do site oficial chezmaman.com (versão colorida; há também uma branca, logo-chez-maman-blanc.png). Observação: o site oficial liga o Instagram instagram.com/chezmaman (@chezmaman), e H está como @chezmaman_timepieces — conferir (não alterado). Europa Star descreve a Chez Maman como rede de lojas no Marais fundada por Eva Juge, que em 2006 passou a se dedicar só a relógios."
+  },
+  "Choosz": {
+   "G": "choosz.com",
+   "I": "A CHOOSZ é uma marca britânica independente de relógios, criada por uma pequena equipe em Londres, segundo o site oficial. Vende relógios de quartzo de visual lúdico, com coleções como a Y2K Rewind (o Pulse Matrix, por exemplo, é inspirado no Big Tic dos anos 2000) e a Artisan Edition, além de colaborações com ilustradores de vários países.",
+   "M": "G: choosz.com (achado em busca; o site liga o Instagram @chooszwatch, igual a H). I: marca britânica independente de pequena equipe em Londres, coleções Y2K Rewind e Artisan Edition, Pulse Matrix inspirado no Big Tic, colaborações com ilustradores (site oficial, páginas de produto e coleção Men's). Fundador e ano de fundação não achados (o Microbrand Atlas também não traz ano). K não preenchido: cabeçalho usa o nome em texto."
+  },
+  "Chotovelli & Figli": {
+   "C": "Antuérpia",
+   "G": "chotovelli.com",
+   "H": "@chotovelli.watches",
+   "M": "C, G e H: do site oficial chotovelli.com, página About (sede em Antuérpia, Bélgica; link do Instagram instagram.com/chotovelli.watches). Possível erro em B: está \"Itália\", mas o site oficial diz que a marca fica em Antuérpia, Bélgica — conferir (não alterado). Site diz ainda: marca independente desde 2005, primeira coleção em 2006."
+  },
+  "Chouette": {
+   "M": "C, G e K não achados: 3 buscas (\"Chouette watches France\", \"chouettewatches\", \"Chouette Watches montres françaises\") só trouxeram a linha Chouquette da Pierre Lannier e relógios com tema de coruja; nenhuma fonte sobre a microbrand nem site oficial. Ainda a verificar: se a marca existe com esse nome e se o @chouettewatches (H) é dela."
+  },
+  "Christian Klings": {
+   "M": "H não achado: a ficha da AHCI (ahci.ch) traz só o site christianklings.com e e-mail, sem Instagram; buscas \"site:instagram.com christian klings\" e \"Christian Klings Uhrmacher instagram\" não trouxeram perfil. Possivelmente não tem Instagram, mas não confirmado (por isso não ficou \"-\")."
+  },
+  "Christopher Ward": {
+   "M": "K não preenchido: a página oficial christopherward.com/int/our-story (aberta pela busca) mostra o logo só como link com texto alternativo \"christopher ward logo\"; o endereço do arquivo de imagem não aparece na leitura (Firecrawl sem créditos)."
+  },
+  "ChronoAstra": {
+   "I": "A ChronoAstra é uma marca de relógios de Utrecht, na Holanda, que faz relógios de titânio com um mapa das estrelas no mostrador, montado a partir da data, hora e lugar escolhidos pelo cliente, com gravação personalizada. Em 2025 a marca anunciou um programa de reservas \"Founder VIP\" e lançou a campanha no Kickstarter (\"Custom Titanium Starmap Watches\"), com versões automática (40 mm, também em 34 mm) e a quartzo. O fundador e CEO é Raven Reichl. [⚠️ a confirmar: fundador Raven Reichl e endereço em Utrecht vêm só de um comunicado de imprensa]",
+   "M": "I: titânio, mapa estelar personalizado, Utrecht, fundador Raven Reichl e programa Founder VIP (comunicado MarketersMedia de 07/05/2025, republicado em mammothtimes e erienewsnow — conta como 1 fonte); campanha no Kickstarter, 40/34 mm, automático e quartzo, Super Early Bird € 699 (Oracle of Time, texto patrocinado); projeto \"ChronoAstra - Custom Titanium Starmap Watches\" listado no Kicktraq (só título da busca). A confirmar: fundador e endereço (1 fonte). Ano de fundação não achado. H não achado: buscas não trouxeram Instagram; o comunicado e a Oracle of Time não citam perfil. K não achado: o site chronoastra.com não apareceu em nenhuma busca (Firecrawl sem créditos)."
+  },
+  "ChronoDivers": {
+   "I": "A ChronoDivers é uma microbrand britânica de relógios de mergulho criada em 2019 por Tristan Haskins, que faz a montagem final de todos os relógios em Norfolk, na Inglaterra. Um dos modelos é o CD200 SKX7, de inspiração clássica. [⚠️ a confirmar: ano de 2019, fundador e montagem em Norfolk vêm de uma só fonte (watchspace.co.uk)]",
+   "M": "I: fundação em 2019, fundador Tristan Haskins, montagem final em Norfolk e modelo CD200 SKX7 (resenha watchspace.co.uk, set/2025 — fonte única; bate com B e C). A confirmar: tudo isso numa 2ª fonte. H não achado: buscas por Instagram da marca sem resultado. K não achado: o site chronodivers.co.uk não apareceu em nenhuma busca (\"site:chronodivers.co.uk\" sem resultado; Firecrawl sem créditos)."
+  },
+  "Chronofixe": {
+   "I": "A Chronofixe é uma marca francesa de relógios cuja origem remonta a 1857, em La Rasse (Les Rasses), vilarejo nas gargantas do rio Doubs, perto da fronteira com a Suíça. Ficou conhecida como uma das fabricantes de cronógrafos de aviador Type 20 para os militares franceses; o nome também aparece em relógios da Dodane. Nos anos 1960 lançou o Sous-Marine, um mergulhador no estilo skin diver.\n\nComo muitas marcas, a Chronofixe acabou fechando. No início dos anos 2020 o nome foi relançado pelo colecionador e empresário Jon Cruys, com ajuda de Rémi Chabrat; entre os lançamentos da nova fase estão o Type 20 e o mergulhador Astérix, feito em parceria com a Seconde/Seconde/. [⚠️ a confirmar: ano exato do fechamento e do relançamento]",
+   "M": "I (história nova): 1857 (Dialicious, citando a própria marca; insight-luxury.com); La Rasse/Les Rasses perto da fronteira suíça (Monochrome; jamaisvulgaire.com); Type 20 para os militares franceses (Worn & Wound; Monochrome); nome usado pela Dodane (Time+Tide); Sous-Marine anos 1960 e fechamento (Worn & Wound); relançamento por Jon Cruys com Rémi Chabrat (Worn & Wound; jamaisvulgaire.com); Astérix com Seconde/Seconde/ (Monochrome; Fratello). Retirado por ter 1 fonte só: fundador François-Xavier Joubert (só jamaisvulgaire.com). A confirmar: ano do fechamento e do relançamento ('início dos anos 2020' em jamaisvulgaire; 'relançada em 2025' na Dialicious). C atual (Arc-sous-Cicon) difere da origem histórica La Rasse; não alterado. H não achado: nenhuma conta de Instagram da marca apareceu nas buscas. K não achado: o site oficial chronofixewatches.com não apareceu em nenhum resultado de busca (não aberto) e o Firecrawl estava sem créditos."
+  },
+  "Chronora": {
+   "M": "J: da reportagem da Mr Stateless sobre a Chronora, 'nova marca de Dubai' fundada por Awadh Almur (3 cronógrafos Seiko VK64 a € 599 + impostos = € 599 × 6,2257 = R$ 3.729). Atenção, possível erro nas colunas já preenchidas (não alterado): a única Chronora de Dubai achada é essa marca acessível, com site chronora.ae (não chronora.com como em G); D ('alta relojoaria'), E = 6 e F = 60.000 não batem com os preços (pela tabela seria E = 2). Confirmar se é a mesma marca. H não achado: nenhuma conta de Instagram apareceu nas buscas. K não achado: o site oficial não apareceu em resultado de busca e o Firecrawl estava sem créditos. Revisão: J descartado (a confirmar) — a única fonte (Mr Stateless) pode ser de marca homônima de Dubai (chronora.ae); não bate com G, D, E e F da planilha."
+  },
+  "Chronoswiss": {
+   "M": "K não preenchido: nas páginas oficiais abertas (chronoswiss.com/en/company e /en/our-heart, vindas da busca) o logo do cabeçalho não aparece como arquivo de imagem (provavelmente SVG embutido no código); nenhuma URL de imagem do logo foi achada e o Firecrawl estava sem créditos."
+  },
+  "Chronotechna": {
+   "I": "A Chronotechna nasceu logo depois da Segunda Guerra Mundial, em 1946, na antiga Tchecoslováquia, como fabricante estatal de instrumentos de medir o tempo, conhecida por despertadores e cronômetros. Depois da queda do regime comunista foi privatizada e acabou caindo no esquecimento.\n\nEm 2018 o nome foi comprado e relançado pelo empresário suíço Harry Guhl, com sede em Praga e relógios feitos na Suíça, em La Chaux-de-Fonds. O primeiro modelo da nova fase foi o NanoBlack (2018); em 2022 Pavel Kalouš assumiu como CEO e a marca lançou o mergulhador SeaQuest Dive, com calibre Sellita SW200-1 certificado COSC. [⚠️ a confirmar: ano de 1946 e o NanoBlack como primeiro modelo]",
+   "M": "I (história nova): origem estatal na Tchecoslováquia logo após a Segunda Guerra (Worn & Wound; Monochrome); ano 1946 e NanoBlack como primeiro modelo em 2018 (só masterhorologer.com, por isso 'a confirmar'); privatização e esquecimento (Worn & Wound; Monochrome); compra/relançamento em 2018 por Harry Guhl (Monochrome; masterhorologer.com; W&W confirma 2018); sede em Praga e fabricação em La Chaux-de-Fonds/Suíça (Monochrome; masterhorologer.com); Pavel Kalouš CEO em 2022 (Monochrome; masterhorologer.com); SeaQuest Dive com SW200-1 COSC (W&W; Monochrome). Observação: B = Suíça e C = La Chaux-de-Fonds refletem a fabricação; a sede fica em Praga (Tchéquia) segundo Monochrome e masterhorologer (não alterado). H não achado: nenhuma conta de Instagram da marca apareceu nas buscas. K não achado: o site oficial chronotechna.com não apareceu em resultado de busca (não aberto) e o Firecrawl estava sem créditos."
+  },
+  "Churchill Watch Company": {
+   "M": "C, G e K não achados. Única fonte encontrada: aBlogtoWatch (28/02/2009) cita uma 'Churchill Watch Co.' de Londres, mas o próprio autor diz não saber se ainda existe e não há ligação confirmada com o perfil @churchillwatchcompany; C = Londres a confirmar (1 fonte, possível homônima). Nenhum site oficial apareceu nas buscas (os resultados de 'Churchill' eram da linha Lip Churchill e da Cuervo y Sobrinos Churchill, outras marcas). Possível erro em colunas já preenchidas (não alterado): D e J são genéricos e sem fonte."
+  },
+  "Churpfälzische Uhrenmanufaktur": {
+   "M": "Nada novo achado: G, H, J e K não preenchidos. Buscas por 'Churpfälzische Uhrenmanufaktur' (Mannheim, CUM, Instagram, modelos) não trouxeram site oficial, perfil de Instagram, modelos nem logo; também não aparece no dossiê 'Watchmaking in Germany' da Europa Star. A confirmar: se a marca existe/está ativa e com que nome (pode ser marca muito pequena ou inativa)."
+  },
+  "CIGA Design": {
+   "K": "https://cigadesign.com/cdn/shop/files/logo_99810857-e64e-47a8-a5d9-73b89885b626.png?v=1720505337&width=300",
+   "M": "K: logo do cabeçalho do site oficial cigadesign.com (página /collections/watches)."
+  },
+  "Citizen": {
+   "K": "https://www.citizenwatch-global.com/cms/global/img/usr/header/sitelogo.svg?240607",
+   "M": "K: logo do cabeçalho do site global oficial citizenwatch-global.com/about (o site citizenwatch.com, da coluna G, não devolveu a imagem do logo na leitura)."
+  },
+  "CJR Watches": {
+   "I": "A CJR Watches foi criada por Calvin Ng, de Hong Kong, engenheiro mecânico e aeroespacial vindo de uma família ligada à fabricação de relógios (seus pais e o avô trabalhavam com produção OEM de relógios). Segundo a Europa Star, a empresa foi fundada em outubro de 2014.\n\nA marca nasceu por financiamento coletivo no Kickstarter: o primeiro modelo foi o cronógrafo Velocita (2015), seguido pelo Airspeed, de inspiração aeronáutica, lançado em junho de 2016. A terceira coleção, Commander, também de inspiração em aviação, foi lançada no Kickstarter em 2017 a partir de US$ 449. [⚠️ a confirmar: ano de fundação (2014), citado só pela Europa Star]",
+   "M": "I: fundador Calvin Ng, de Hong Kong (Europa Star jul/2017; WristWatchReview entrevista 2017; blog Timestamp Aviator 2017); formação em engenharia e família no ramo OEM (Europa Star; WristWatchReview); Velocita no Kickstarter em 2015 como primeiro projeto (Europa Star; Monochrome 14/06/2016); Airspeed no Kickstarter em junho/2016 (Monochrome; Europa Star); Commander como 3ª coleção no Kickstarter em 2017 a US$ 449 (Europa Star; WristWatchReview). A confirmar: fundação em outubro/2014 (só Europa Star). Obs.: a Monochrome chama o fundador de 'Calvin Nguyen Jr.' (as outras fontes dizem Calvin Ng). K não achado: o site cjrwatches.com não apareceu em nenhuma busca. Obs. em J (já preenchido): o texto do Commander Jetstream Blue está cortado ('cerca de US')."
+  },
+  "Claude Meylan": {
+   "M": "K não achado: o site oficial claude-meylan.ch não apareceu em nenhuma busca (só lojas e o site de outro relojoeiro, Lionel Meylan), então não deu para ler o logo do cabeçalho."
+  },
+  "Clemence": {
+   "M": "K não preenchido: o cabeçalho do site oficial clemencewatches.com (Wix) mostra o nome em texto, sem arquivo de logo (conferido na página inicial e na loja). Instagram @clemencewatches confirmado pelo link do site oficial."
+  },
+  "CLE-Time": {
+   "I": "A CLE Time é uma marca de relógios ligada à Steven DiFranco Jewelers, joalheria de Willoughby (Ohio), onde fica a sede da marca; os relógios são vendidos com exclusividade por essa joalheria. A proposta declarada é fazer um relógio dedicado a Cleveland: os modelos usam movimento de quartzo suíço Ronda e são montados nos Estados Unidos.",
+   "M": "I: sede em Willoughby (Ohio), venda exclusiva pela Steven DiFranco Jewelers, proposta 'a watch dedicated to Cleveland, Ohio', quartzo suíço Ronda e 'Assembled in the USA' (site oficial cletime.com; vídeo 'CLE Time Watches' do canal da Steven DiFranco Jewelers no YouTube, 24/12/2022). Fundador e ano de fundação não achados. K: primeira imagem do cabeçalho do site oficial (arquivo 'cle-for-web-v3', a página não marca como logo; conferir). H não achado: o site oficial só liga o Facebook da Steven DiFranco Jewelers e a busca no Instagram não trouxe conta da marca. Revisão: K descartado (a confirmar) — a imagem não está marcada como logo e o endereço não é de arquivo de imagem."
+  },
+  "Click": {
+   "B": "Hong Kong",
+   "C": "Hong Kong",
+   "G": "click-watch.com",
+   "M": "B, C e G: página 'About us' do site oficial click-watch.com ('Haus of us limited, established in Hong Kong 2011'; mesmo domínio do logo já em K). C: o site não dá endereço; Hong Kong como cidade-território. Ainda a verificar: H @clickwatches não confirmado; busca trouxe @clickwatchofficial (Instagram não abriu) e o site oficial só liga o Facebook. Atenção: há homônimas (Click Watches na Índia, ClickWatches no Reino Unido)."
+  },
+  "Coblor": {
+   "B": "Alemanha",
+   "C": "Stuttgart",
+   "G": "coblor.com",
+   "M": "B e C: Stuttgart, Alemanha (WatchTime.net 'Coblor – die erste Asphalt-Uhr der Welt': 'das junge Stuttgarter Unternehmen', fundador Nikolaos Radis; MasterHorologer 29/08/2022: 'Stuttgart based watch brand'; WatchTime.com: marca alemã). G: coblor.com (WatchTime.net cita www.coblor.com; mesmo domínio do logo já em K)."
+  },
+  "CODE41": {
+   "M": "K não achado: o site oficial code41.com só carrega com JavaScript e a leitura não mostrou o cabeçalho (sem Firecrawl nesta rodada). Site code41.com confirmado (o antigo code41watches.com redireciona para ele)."
+  },
+  "Codek": {
+   "B": "USA",
+   "C": "São Francisco (Califórnia)",
+   "G": "codekwatches.com",
+   "M": "B e C: 'Based out of San Francisco' (aBlogtoWatch, matéria do Codek Spiral; o OnTheDash repete o mesmo texto). G: codekwatches.com (link da Worn & Wound para a página do Spiral e citado pelo aBlogtoWatch). K não achado: o site oficial não apareceu em nenhuma busca, então não foi possível abrir o cabeçalho. Obs.: o Spiral é montado na Suíça pela Cattin (Two Broke Watch Snobs)."
+  },
+  "Collins Watch Company": {
+   "B": "USA",
+   "C": "Los Angeles (Califórnia)",
+   "G": "collinswatch.com",
+   "M": "B e C: Los Angeles, Califórnia (página About do site oficial em collinsbrand.squarespace.com; Windup Watch Shop: 'a budding brand out of Los Angeles, California'). G: collinswatch.com (endereço canônico e e-mail info@collinswatch.com na página oficial). Atenção: a página oficial diz que a marca 'closed for good in 2025' (encerrou em 2025)."
+  },
+  "Colomer & Sons": {
+   "I": "A Colomer & Sons é uma marca espanhola de relógios criada pelos irmãos Gonzalo e Jaime Colomer, que antes haviam lançado a marca de calçados masculinos Gusto by Colomer. Em 2013 apresentou uma coleção de 16 relógios automáticos, cada um batizado em homenagem a um artista do Renascimento ou a uma cidade italiana, com garantia de 10 anos.\n\nA marca diz ter nascido em 2006 e, em 2017, lançou no Kickstarter uma coleção comemorativa dos 10 anos, com 20 modelos e movimentos Miyota; depois fez outras campanhas de financiamento coletivo, como a de 2019. [⚠️ a confirmar: fundação em 2006 e coleção de 2017 (só El Independiente)]",
+   "M": "I: irmãos Gonzalo e Jaime Colomer e a marca de calçados Gusto by Colomer (Libertad Digital/Libre Mercado 09/11/2013; El Independiente); coleção de 2013 com 16 automáticos inspirados em artistas do Renascimento e cidades italianas e garantia de 10 anos (Libertad Digital Libre Mercado e Libertad Digital Chic, 08/11/2013); campanhas de financiamento coletivo, incluindo a de junho de 2019 (página BackerKit da marca). A confirmar: fundação em 2006 e coleção de 10 anos no Kickstarter em 2017 com 20 modelos Miyota (só El Independiente). K não achado: o site oficial colomerandsons.com não apareceu em nenhuma busca, então o cabeçalho não pôde ser aberto."
+  },
+  "Colorado Watch Company": {
+   "I": "A Colorado Watch Company é uma marca irmã da Vortic Watch Company, de Fort Collins (Colorado), criada pelos cofundadores da Vortic, R.T. Custer e Tyler Wolfe. Foi lançada em setembro de 2023 com uma pré-venda no Kickstarter (26/9 a 26/10/2023), com os modelos Field Watch e GCT.\n\nAs caixas de aço eram usinadas na sede da Vortic em Fort Collins, e a montagem ficava com a parceira Fine Timepiece Solutions, no Arizona. Segundo a página da própria Vortic, a marca encerrou as atividades: os relógios não são mais produzidos nem vendidos.",
+   "K": "https://vorticwatches.com/cdn/shop/files/Colorado_Logo_400x@2x.png?v=1693339344",
+   "M": "I: fundadores R.T. Custer e Tyler Wolfe, marca irmã da Vortic (Wrist Enthusiast; JCK); lançamento em setembro de 2023 com Kickstarter de 26/9 a 26/10/2023 (JCK; Worn & Wound 21/03/2025); Field Watch e GCT (Worn & Wound; JCK); usinagem em Fort Collins e montagem pela Fine Timepiece Solutions no Arizona (Worn & Wound; Wrist Enthusiast; BizWest); encerramento (página oficial vorticwatches.com/pages/colorado-watch-company: 'no longer being produced or offered for sale'). K: logo da marca na página da Colorado Watch Company no site da Vortic (o site próprio não abriu pela busca). H não achado: a página oficial liga só o Instagram da Vortic (@vorticwatches); nenhuma conta própria apareceu nas buscas. Possível erro em G (não alterado): JCK e BizWest citam o site como coloradowatches.com, e não coloradowatchcompany.com. Obs.: marca encerrada, preços de E/F são históricos."
+  },
+  "Compass Timepieces": {
+   "I": "A COMPΛSS (Compass Timepieces) foi criada pelo americano David Carrington, que começou a trabalhar na marca em janeiro de 2022 e a lançou oficialmente em 27 de setembro de 2023. O nome planejado era \"Carrington Watches\", mas já estava registrado no ramo de relógios. Os relógios são feitos na Suíça, em La Chaux-de-Fonds. [⚠️ a confirmar: datas de início e lançamento e a cidade de fabricação (cada uma em uma só entrevista do fundador)]",
+   "M": "I: fundador David Carrington e troca do nome 'Carrington Watches' por já estar registrado (CanvasRebel; ShoppeBlack, entrevistas com o fundador); fabricação suíça (CanvasRebel: 'swiss made'; ShoppeBlack: La Chaux-de-Fonds). A confirmar: início em janeiro de 2022 (só CanvasRebel), lançamento em 27/09/2023 e cidade La Chaux-de-Fonds (só ShoppeBlack). Nenhuma das fontes cita Santa Ana (coluna C). K não achado: o site oficial compasstimepieces.com não apareceu em nenhuma busca, então o cabeçalho não pôde ser aberto."
+  }
+ },
+ "base": "Relogios_atualizada_581.xlsx"
+}

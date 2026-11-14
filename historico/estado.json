@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 581,
+  "ultima_versao": 582,
   "historico": [
     {
       "data": "2026-10-16",
@@ -9989,6 +9989,13 @@
       "data": "2026-11-14",
       "tipo": "lacunas_marcas",
       "marcas": "Buler a Celegin (39; Cartier ficou na fila, K não pesquisado)"
+    },
+    {
+      "versao": 582,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Cartier a Compass Timepieces",
+      "n": 40
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10062,7 +10069,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 40,
-    "ultima_marca_revisada": "Celegin",
+    "ultima_marca_revisada": "Compass Timepieces",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
   }
 }
