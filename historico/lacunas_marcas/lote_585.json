@@ -1,0 +1,210 @@
+{
+ "versao": 585,
+ "data": "2026-11-14",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas e história preenchidas",
+ "marcas": [
+  "Dodane 1857",
+  "Dolce & Gabbana",
+  "Dom Baiz International",
+  "Dominatore Del Mare",
+  "Done Watches",
+  "Doplr",
+  "Doppelganger",
+  "Döttling",
+  "Double-Ve",
+  "Doughboy Watch Company",
+  "Drayton Watches",
+  "Dreyfuss & Co.",
+  "Dryden",
+  "du Manège",
+  "Dubey & Schaldenbrand",
+  "DuBois 1785",
+  "Duckworth Prestex",
+  "Duesenberg",
+  "Dufeau",
+  "DUG Glashuette",
+  "Dunlaing",
+  "Duxot",
+  "Duzu Watches",
+  "DWATCH",
+  "Dzmitry Samal",
+  "Earhart Watches",
+  "E.C. Andersson",
+  "Earnshaw",
+  "Earthen",
+  "Echo/Neutra",
+  "eClock",
+  "EDC Hardwear",
+  "Edouard Koehn",
+  "Edouard Lauzières",
+  "Edward Christopher",
+  "Egard",
+  "Egotempo",
+  "EHF Horlogere",
+  "Eichmüller",
+  "Ekwatch"
+ ],
+ "celulas": {
+  "Dodane 1857": {
+   "B": "França",
+   "M": "B: França (Journal du Luxe: 'originaire de la région de Besançon', 'horlogerie de luxe français'; Europa Star 'The resurrection of Besançon'; bate com C = Besançon)."
+  },
+  "Dolce & Gabbana": {
+   "M": "K não preenchido: a página oficial dolcegabbana.com (ficha DG7 Gattopardo) não expõe arquivo de imagem do logo no cabeçalho (provavelmente SVG embutido); só achados logos em sites de terceiros (cdnlogo, 1000logos), que não valem pela regra."
+  },
+  "Dom Baiz International": {
+   "M": "Nada achado: buscas por 'Dom Baiz International' e 'Dom Baiz' watch não trouxeram nenhuma marca de relógios com esse nome (só a marca chinesa genérica 'DOM' no eBay/Alibaba/Shein, sem ligação confirmada). B, C, D, E, F, G, H, J e K ficam vazios; a confirmar se o nome está certo ou se a marca existe."
+  },
+  "Dominatore Del Mare": {
+   "M": "C, G e H não achados: só aparecem lojas (watches.com, Mainspring Boutique, Watch Gang, eBay) vendendo os modelos Amalfi, Ravello, Camogli, Tropea e Scilla (refs. DD-80xx), sem cidade, site ou Instagram da marca; buscas por 'dominatoredelmare.com' só trouxeram estaleiro Dominator (homônimo). A confirmar: G provavelmente dominatoredelmare.com (domínio do logo já em K), mas nenhuma busca trouxe o site."
+  },
+  "Done Watches": {
+   "C": "Neuchâtel",
+   "M": "C: Neuchâtel (aBlogtoWatch 'Neuchâtel based brand Done'; Montredo 'located right in Neuchâtel, Switzerland'; fundador Thierry Clottu). K não preenchido: o site oficial não apareceu em nenhuma busca (só lojas e imprensa) e não pôde ser aberto. Observação sobre G (já preenchido, não alterado): o aBlogtoWatch cita o site como donewatches.ch, não donewatches.com — a confirmar."
+  },
+  "Doplr": {
+   "B": "França",
+   "D": "Relógio criado por quatro médicos franceses para profissionais de saúde, com escala pulsométrica; parte de cada venda vai para Médicos Sem Fronteiras.",
+   "E": 3,
+   "F": 9027,
+   "J": "Pulse Watch — automático suíço ETA 2824-2, 40 mm, escala pulsométrica, mostrador preto ou branco, edição de 300 peças; € 1.450",
+   "M": "B: marca criada por quatro médicos franceses (Monochrome 2018; aBlogtoWatch; Revolution cita o fundador Vincent Azzola); o relógio é montado na Suíça. D e J: Monochrome e aBlogtoWatch (ETA 2824-2, € 1.450, € 25 por venda para MSF, 300 peças). F: 1 modelo, € 1.450 × 6,2257 = R$ 9.027 → E = 3. G: doplr-watch.com (Monochrome, aBlogtoWatch, EP Monthly, artigos de 2018); a confirmar se o site atual é doplr-watch.fr (o logo em K está nesse domínio). C não achado: nenhuma fonte diz a cidade da empresa. H não achado: nenhuma busca trouxe o Instagram. G descartado na revisão (a confirmar entre doplr-watch.com e doplr-watch.fr)."
+  },
+  "Doppelganger": {
+   "C": "Salzburgo",
+   "M": "C: Salzburgo (aBlogtoWatch, hands-on NGC 42; GPHG, ficha do NGC 42; Royist). G: doppelgaenger.com (aBlogtoWatch; 1 fonte só, a confirmar). Possível erro em B (não alterado): as três fontes dizem que a Doppelgänger é austríaca (Salzburgo), não italiana. Conferir também se o Instagram @doppelgangerwatches é desta marca. G descartado na revisão (1 fonte só; a confirmar: doppelgaenger.com)."
+  },
+  "Döttling": {
+   "E": 9,
+   "F": 441851,
+   "J": "Gyrowinder — rotor de relógios com giro de 360° sob cúpula de vidro; € 11.800 (2012)\n\nColosimo-Doppeltürer — cofre com rotores de relógios e portas tipo asa de gaivota inspiradas no Mercedes 300 SL; € 28.000 (2013)\n\nFortress — cofre para coleção de relógios, conteúdo segurável até US$ 1 milhão; a partir de US$ 128.800 (2013)\n\nGallery — cofre com rotores, vidro à prova de bala de 30 mm, cerca de 600 kg; a partir de € 130.000",
+   "M": "J e F: preços de lançamento na imprensa — Gyrowinder € 11.800 (WatchesbySJX 2012), Colosimo € 28.000 (WatchTime.net 2013), Fortress US$ 128.800 (WatchesbySJX 2013), Gallery € 130.000 (aBlogtoWatch). Conta: 11.800×6,2257=73.463; 28.000×6,2257=174.320; 128.800×5,5146=710.280; 130.000×6,2257=809.341; média = R$ 441.851 → E = 9. São cofres e rotores, não relógios (como já diz D); preços antigos. K não preenchido: o site oficial não apareceu em nenhuma busca (site:doettling.com sem resultado)."
+  },
+  "Double-Ve": {
+   "I": "A Double-Vé Fleurier é uma marca suíça criada em maio de 2018 pelo relojoeiro Christophe Waelti, natural do Val-de-Travers e apaixonado por automóveis. Os relógios são montados à mão em Fleurier, com peças feitas nas montanhas de Neuchâtel e mostradores impressos em Saint-Sulpice.\n\nA primeira coleção, Race, tinha caixa e movimento de corda manual em alumínio anodizado (44 mm, menos de 42 g), em duas versões, Endurance Race e Diamond Race, limitadas a 40 peças.",
+   "M": "I: fundação em maio de 2018, fundador Christophe Waelti, montagem em Fleurier, coleção Race em alumínio e série de 40 peças (Master Horologer, nov/2018; Relojes Especiales, entrevista 2019). Fora do texto, por ter 1 fonte só: Waelti trabalharia na Vaucher Manufacture e tocaria a marca como projeto paralelo (Relojes Especiales). K não preenchido: o site oficial double-ve.ch não apareceu em nenhuma busca. Possível ponto em D (não alterado): a coleção Race usava calibre de corda manual de alumínio (Schneider & Co. Sco38-01, segundo a Relojes Especiales), não ETA 2824."
+  },
+  "Doughboy Watch Company": {
+   "C": "Filadélfia",
+   "G": "doughboywatchco.com",
+   "M": "C: Filadélfia, oficina no bairro de Kensington (Philadelphia Inquirer 2015; Worn & Wound; The Coolector). G: doughboywatchco.com (Worn & Wound; The Coolector). Fundadores Tom Lovelund e Adam Feld (Inquirer)."
+  },
+  "Drayton Watches": {
+   "M": "História não conferida: sem fontes (o site oficial draytonwatches.com não traz fundador, ano nem história; imprensa relojoeira não encontrada; Instagram bloqueado para leitura). O site só cita a 'primeira coleção' (DV-01) e um link para a Bristol Watch Show 2025. K não preenchido: o cabeçalho do site (GoDaddy Website Builder) não tem imagem de logo; só há a foto de compartilhamento img1.wsimg.com/isteam/ip/48db8f3c-d84e-4cb7-b293-976687198911/IMG_2193%20(1).jpg, que não é logo. Obs.: J parece cortado no fim ('cerca de US$' sem valor) — só anotado."
+  },
+  "Dreyfuss & Co.": {
+   "M": "K não achado: o site oficial não apareceu em nenhuma busca (as buscas trazem só lojas, Rotary e imprensa — WatchPro, aBlogtoWatch, Watch Report); não foi possível abrir o cabeçalho. Ainda a verificar: G 'dreyfusssandco.com' tem três 's' e pode ser erro de digitação de 'dreyfussandco.com' (não confirmado)."
+  },
+  "Dryden": {
+   "M": "K não achado: o site oficial drydenwatchco.com não apareceu em nenhum resultado de busca (só imprensa — Worn & Wound, aBlogtoWatch, Gear Patrol, Fratello — e revendedores), então o cabeçalho não pôde ser aberto."
+  },
+  "du Manège": {
+   "C": "La Chaux-de-Fonds",
+   "M": "C: La Chaux-de-Fonds (Master Horologer, 12/11/2018: marca fundada em 2011 por Julien Fleury em La Chaux-de-Fonds, prédio da família na rue du Manège 16-18; GPHG, ficha do DM Heritage Slate: 'La Chaux-de-Fonds' como terra de origem e no mostrador). Nome oficial da marca: 'Montres duManège'. G não gravado: o Master Horologer cita dumanege.ch/en, mas o site não apareceu em nenhuma busca e não foi aberto (a confirmar se ainda está ativo). H não achado: busca por Instagram sem resultado. K não achado: site oficial não aberto. Obs.: D/J ('dress watches de nicho') não batem bem com a linha DM-Exploration (automático com reserva de marcha e data retrógrada, cerâmica) — só anotado."
+  },
+  "Dubey & Schaldenbrand": {
+   "M": "K não achado: o site oficial dubeyschaldenbrand.ch não apareceu em nenhum resultado de busca (só Wikipedia, GPHG e revendedores como European Watch e Analog/Shift); a Wikipedia aberta não trouxe logo nem site. Ainda a verificar se G dubeyschaldenbrand.ch continua no ar."
+  },
+  "DuBois 1785": {
+   "M": "K não preenchido: o site oficial dubois1785.com não apareceu em nenhuma busca (as buscas trazem só revendedores como Jura Watches e revistas) e o Firecrawl estava sem créditos."
+  },
+  "Duckworth Prestex": {
+   "I": "A origem da marca está na Prestons, joalheria e relojoaria familiar fundada em Bolton, no norte da Inglaterra, em 1869. Nos anos 1920, Frank Duckworth lançou ali os relógios Prestex, feitos na Suíça e acabados em Bolton; a linha própria foi abandonada discretamente nos anos 1960, quando a loja passou a vender marcas suíças como Omega, Rolex e Heuer.\n\nNeil Duckworth, neto de Frank, que trabalhou por anos com a TAG Heuer no Reino Unido, reviveu o nome como Duckworth Prestex, com o logotipo de um pato voando. A primeira coleção, um cronógrafo de quartzo e o automático Verimatic, foi lançada em 2021. [⚠️ a confirmar: ano de lançamento da nova marca (2021)]",
+   "M": "I: Prestons fundada em Bolton em 1869 (First Class Watches blog 'The Revival of Duckworth Prestex'; WatchPro 'Past, Present and Future'). Prestex nos anos 1920 com Frank Duckworth (First Class Watches; WatchGecko 'Introducing Duckworth Prestex'; boltonclockmaker.org). Abandonada nos anos 1960 e venda de Omega/Rolex/Heuer (WatchPro; WatchGecko; First Class Watches). Neil Duckworth, neto, ex-TAG Heuer, reviveu a marca; logo do pato (WatchGecko; First Class Watches). A confirmar: lançamento em 2021 (só WatchGecko, matéria de 07/05/2021 dizendo que a primeira coleção acabara de sair). K não preenchido: o site oficial duckworthprestex.com não apareceu em nenhuma busca e o Firecrawl estava sem créditos."
+  },
+  "Duesenberg": {
+   "M": "C e K não achados: nenhuma busca trouxe fabricante, sede ou site oficial de relógios Duesenberg; o Firecrawl estava sem créditos. Possível erro em G (só anotado): o domínio duesenberg.de parece ser da Duesenberg Guitars (instrumentos musicais, Hannover), não de uma marca de relógios; conferir G e H."
+  },
+  "Dufeau": {
+   "B": "Suíça",
+   "D": "Relógios de piloto suíços dos anos 1990 com temas de aviação comercial (Swissair, KLM, Douglas DC-3), em séries limitadas.",
+   "J": "Swissair Type 31 Douglas DC3 — automático ETA, 38 mm, homenagem ao DC-3 da Swissair; usado cerca de CHF 450\n\nSwissair Airliner Chronograph — automático Valjoux 7750, 39 mm; usado cerca de CHF 1.032\n\nAerospace KLM Limited Edition (KL-80RS) — automático ETA, 38 mm, 1.000 peças; usado cerca de US$ 290–320",
+   "M": "B: 'Swiss Made' no fundo e descrição suíça (watch-deals.com, ficha Swissair Type 31; loopli.ch, Swissair Airliner Valjoux 7750); avaliação da Mearto diz que a Dufeau Watch Company foi criada em 1994 na Suíça por Walter P. Zaugg, ex-piloto, e hoje está fora de atividade (a confirmar: 1 fonte só). D e J: das mesmas fichas (watch-deals CHF 450; loopli CHF 1.032, venda de 22/12/2025; Mearto US$ 290–320). C, G e H não achados: nenhuma fonte cita cidade, site ou Instagram (marca provavelmente encerrada). K não preenchido: sem site oficial. E=2 e F=4500 parecem altos para os preços de usados achados (CHF 450–1.032 ≈ R$ 2.900–6.700); só anotado."
+  },
+  "DUG Glashuette": {
+   "I": "A DUG (Deutsche Uhrenmanufaktur Glashütte) foi criada por Toni Brodführer, que vem da área de finanças, e se tornou a 11ª empresa relojoeira instalada em Glashütte, na Saxônia; foi apresentada no fim de 2024. O primeiro modelo foi o Purist, de 40 mm, em versões Typ 1 (índices de traço) e Typ 2 (algarismos), com o calibre automático DUG 400, de base Sellita SW 400, modificado e acabado em Glashütte pela empresa Malon, e preço inicial de 999 euros, vendido direto ao cliente.\n\nEm 2025 vieram o Purist de 37 mm e o mergulhador Nautic. Segundo a Worn & Wound, o principal investidor é Uwe Rücker, presidente da Laco. [⚠️ a confirmar: ano exato de estreia (WatchTime diz fim de 2024; Monochrome fala em 2025) e o investidor Uwe Rücker/Laco]",
+   "M": "I: fundador Toni Brodführer e sede em Glashütte (WatchTime 23/12/2024; WatchTime 'DUG setzt sich in Glashütte durch'; Worn & Wound 08/07/2025; Monochrome 06/2026). 11ª empresa de Glashütte (Worn & Wound; WatchTime). Purist 40 mm Typ 1/Typ 2, calibre DUG 400 base Sellita SW 400, preço inicial € 999, venda direta (WatchTime 23/12/2024). Acabamento pela Malon (Worn & Wound; Monochrome). Purist 37 e Nautic (Worn & Wound 2025; Monochrome Purist 37). A confirmar: estreia (WatchTime: fim de 2024; Monochrome: 2025) e investidor Uwe Rücker/Laco (só Worn & Wound). H não achado: as matérias não citam o perfil e a busca no Instagram não trouxe a conta. K não preenchido: o site oficial dug-glashuette.com não apareceu em nenhuma busca e o Firecrawl estava sem créditos."
+  },
+  "Dunlaing": {
+   "G": "dunlaingwatches.com",
+   "M": "G: dunlaingwatches.com (domínio da página da marca no Trustpilot, em várias versões nacionais, e o mesmo domínio do logo já em K). C não achado: o site oficial não apareceu em buscas e nenhuma reportagem cita a cidade; artigos sobre marcas irlandesas (Watch Advice, Culture Trip) não mencionam a Dunlaing. A conferir: o Trustpilot registra a empresa como 'United States', o que diverge de B = Irlanda (não alterado)."
+  },
+  "Duxot": {
+   "B": "Hong Kong",
+   "C": "Hong Kong",
+   "M": "B e C: Hong Kong (localização da empresa duxotwatches.com no Trustpilot; a análise da Two Broke Watch Snobs do Henri Diver diz que o relógio foi despachado de Hong Kong, com 'China' no fundo da caixa; avaliações citam devoluções para Hong Kong). O site oficial não informa endereço. A conferir: a loja oficial usa o domínio duxotwatches.com (página 'watch-build' e e-mail info@duxotwatches.com na garantia da ShopHQ), e G está como duxot.com (não alterado)."
+  },
+  "Duzu Watches": {
+   "M": "K não preenchido: o site oficial duzuwatches.com não apareceu em nenhum resultado de busca (só pôde ser visto como link dentro do The Time Bum), então não foi possível abrir o cabeçalho; Watch Report, Montredo e The Time Bum não trazem o logo da marca. Firecrawl sem créditos."
+  },
+  "DWATCH": {
+   "M": "Nada achado: buscas por 'DWATCH' (relógios, Instagram, microbrand) só trazem marcas parecidas (DWISS, Daniel Wellington/DW, Delhi Watch Company, Detroit Watch Co.) e a página 'dwatch' do aBlogtoWatch, que é um índice genérico e deu erro ao abrir. Não foi possível identificar a marca com segurança; B, C, D, E, F, G, H, J e K ficam vazios. Sugestão: conferir no Instagram seguido pela @relogioteca qual é o perfil da DWATCH."
+  },
+  "Dzmitry Samal": {
+   "M": "K não preenchido: o site samaldesign.com não aparece em nenhum resultado de busca (busca site:samaldesign.com sem resultados); as matérias sobre o Concrete Watch (Core77, Gessato, aBlogtoWatch, WatchPro, Designboom) não trazem logo da marca. Firecrawl sem créditos."
+  },
+  "Earhart Watches": {
+   "I": "A Earhart Watches é uma marca portuguesa de relógios de inspiração aeronáutica; segundo uma resenha independente, os relógios são montados à mão em Portugal por uma única pessoa. No site oficial, a marca destaca colaborações com a aviação portuguesa, como uma edição numerada do FlightMaster GMT feita com a Associação dos Pilotos Portugueses de Linha Aérea e o SPAC e o Chipmunk 75, criado com a Força Aérea Portuguesa para marcar os 75 anos do De Havilland Chipmunk na aviação militar do país. [⚠️ a confirmar: montagem por uma só pessoa (só Watches in the North)]",
+   "M": "I: marca portuguesa, colaborações FlightMaster GMT (Associação dos Pilotos Portugueses de Linha Aérea e SPAC) e Chipmunk 75 com a Força Aérea Portuguesa (site oficial earhartwatches.com, seção 'Quem somos' e página inicial); montagem à mão em Portugal por uma pessoa (só resenha Watches in the North do Lusitannia). Ano de fundação e nome do fundador não achados em nenhuma fonte. K não preenchido: cabeçalho do site oficial usa o nome 'Earhart' em texto."
+  },
+  "E.C. Andersson": {
+   "C": "Gotemburgo",
+   "M": "C: Gotemburgo (Monochrome, artigo do Denise: movimentos regulados em Gotemburgo; Dialicious: 'marca sueca independente, baseada em Gotemburgo, criada em 2016 em torno do projeto de Erik C. Andersson')."
+  },
+  "Earnshaw": {
+   "K": "https://thomas-earnshaw.com/cdn/shop/files/logo-black_1.png?v=1747013757",
+   "M": "K: logo do cabeçalho do site oficial thomas-earnshaw.com (página About us). A conferir: o site oficial que aparece nas buscas é thomas-earnshaw.com (com hífen), e G diz thomasearnshaw.com; o rodapé do site liga o Instagram @earnshaw1805, e H diz @thomasearnshaw (não alterados)."
+  },
+  "Earthen": {
+   "B": "Hong Kong",
+   "C": "Hong Kong",
+   "G": "earthen-co.com",
+   "M": "B e C: Hong Kong (Mr Stateless: 'marca recém-criada, baseada em Hong Kong'; Hodinkee Japão, entrevista: marca de Hong Kong lançada em 2025 por Jonathan Chan e Stanley Ho). G: earthen-co.com (link 'Read more' do artigo da Mr Stateless; só 1 fonte, site não apareceu em busca). K não preenchido: o site oficial não apareceu em nenhuma busca e não pôde ser aberto (Firecrawl sem créditos)."
+  },
+  "Echo/Neutra": {
+   "I": "A echo/neutra é uma marca italiana fundada pelo designer Nicola Callegaro e pelo engenheiro aeroespacial Cristiano Quaglia, com relógios Swiss Made desenhados na Itália e inspirados nas Dolomitas. Callegaro, que já tinha criado a agência de comunicação Zeppelin Studio em 2008, uniu à marca sua paixão por relógios.\n\nO primeiro modelo foi o Averau, lançado no Kickstarter em abril de 2019 com movimento suíço STP 1-11, campanha que bateu a meta antes do fim. Depois vieram coleções como a Cortina 1956, homenagem aos Jogos Olímpicos de Inverno de 1956 em Cortina d'Ampezzo. [⚠️ a confirmar: ano de fundação, 2018 ou 2019]",
+   "K": "https://echoneutra.com/cdn/shop/files/logo-dark-payoff.svg?v=1726479821",
+   "M": "I: fundadores Nicola Callegaro e Cristiano Quaglia, Swiss Made desenhado na Itália, Dolomitas, Zeppelin Studio em 2008 (site oficial echoneutra.com/pages/brand; Teddy Baldassarre; Monochrome 2019). Averau como primeiro relógio, Kickstarter em abril de 2019, STP 1-11, meta batida (Monochrome, 20/04/2019; Gear Patrol, 2020). Cortina 1956 em homenagem aos Jogos de 1956 (Dialicious; Teddy Baldassarre). A confirmar: fundação em 2018 (Teddy Baldassarre) ou 2019 (Dialicious), por isso fica fora do texto. K: logo do cabeçalho do site oficial (versão escura, svg). A conferir em C: Teddy Baldassarre diz sede em Averara (Val Brembana), e C diz Monza (não alterado)."
+  },
+  "eClock": {
+   "M": "I e K não achados: buscas (eClock relojes de madera Guadalajara; site:eclockmx.com; @eclock_relojesdemadera) não trouxeram o site oficial nem imprensa sobre a marca; sem Firecrawl. História não conferida: sem fontes."
+  },
+  "EDC Hardwear": {
+   "M": "H, I e K não achados: só apareceram anúncios de modelos na loja reach.dog e o manual em PDF da marca (cita só o site www.edchardwear.com e a missão 'produtos para aguentar o uso diário'); nenhum Instagram, fundador ou data. Site oficial não apareceu em busca; sem Firecrawl. História não conferida: sem fontes. Ainda a verificar: C 'Mentor (Ohio)' não confirmado nas fontes abertas."
+  },
+  "Edouard Koehn": {
+   "G": "edouardkoehn.com",
+   "M": "G: edouardkoehn.com (link do site oficial no artigo do SJX Watches, out/2024; o distribuidor dos EUA usa EdouardKoehnUS.com, segundo o release TWI). H e K não achados: nenhuma conta oficial de Instagram apareceu nas buscas e o site oficial não veio em resultado de busca; sem Firecrawl. Nota: marca relançada por Bernard Fleury (SJX); manufatura hoje em La Chaux-de-Fonds (release TWI; Exquisite Timepieces), não em Genebra como está em C — só anotado."
+  },
+  "Edouard Lauzières": {
+   "M": "B, C, G e H não achados: só o review do aBlogtoWatch (Narmad, 2010; caixa feita na Suíça) e o do WristWatchReview (Naples; marca fundada em 1932, relançada em 2005 pelo bisneto do fundador, foco no mercado brasileiro e sul-americano) — nenhum diz país-sede, cidade, site ou Instagram. A confirmar: país provável Suíça (só pela fabricação da caixa)."
+  },
+  "Edward Christopher": {
+   "C": "Londres",
+   "G": "edwardchristopher.com",
+   "M": "C: Londres ('London-based company', WatchPro, nov/2023). G: edwardchristopher.com (WatchPro; blog Carl Thompson, set/2024; mesmo domínio do logo em K). Fundador citado: Sean Brickell (Carl Thompson)."
+  },
+  "Egard": {
+   "M": "C não achado: nenhuma fonte aberta (upscalelivingmag.com, watchpro.com, ca.trustpilot.com) diz a cidade da Egard; o WatchPro a chama de 'americana/canadense' e a Upscale Living diz só que o fundador Ilan Srulovicz cresceu em Montreal, o que não basta para C. Ainda a verificar: B 'Canadá' (o WatchPro diz 'American/Canadian')."
+  },
+  "Egotempo": {
+   "G": "egotempo.it",
+   "M": "G: egotempo.it (link do produto Ego no Logo no artigo da Fratello Watches 'Egotempo Ego no Logo – Hand-made with Italian Passion'). C não achado: a Fratello só diz 'empresa familiar na Itália'. K não preenchido: o site oficial não apareceu em nenhuma busca (WebFetch só abre links de busca) e o Firecrawl estava sem créditos."
+  },
+  "EHF Horlogere": {
+   "M": "G: ehf-horlogere.ch (site citado na resenha do Mk Zero no aBlogtoWatch; artigo antigo, o site pode estar fora do ar; a confirmar). aBlogtoWatch: empresa suíça fundada em 2011, cinco pessoas, mostradores impressos em Le Locle, Mk Zero a US$ 1.450. C não achado: a resenha não diz a cidade (Le Locle é só do fornecedor dos mostradores). H e K não achados: nenhum perfil nem página do site apareceu nas buscas; Firecrawl sem créditos. G descartado na revisão (site talvez fora do ar; a confirmar: ehf-horlogere.ch)."
+  },
+  "Eichmüller": {
+   "C": "Munique",
+   "G": "eichmueller.de",
+   "K": "https://www.eichmueller.de/media/07/89/f7/1628613800/eichmuller-logo.jpg",
+   "M": "C, G e K: do site oficial eichmueller.de (Eichmüller OHG; 'Im Firmensitz in München befinden sich Verwaltung, Kundenservice, Lagerhaltung und Werkstatt'; logo do cabeçalho). H não achado: o site não liga Instagram e as buscas não acharam perfil."
+  },
+  "Ekwatch": {
+   "I": "A Ekwatch é uma marca italiana de Modica, na Sicília, criada pelo relojoeiro Gabriele Aprile, de uma família que tem relojoaria e joalheria na cidade há três gerações. O primeiro modelo, o EK 1919, homenageia o eclipse solar total de 1919 e foi lançado no Kickstarter em outubro de 2019; o nome e a proposta da marca vêm justamente dos eclipses. [⚠️ a confirmar: fundador, família relojoeira e lançamento no Kickstarter em 2019 (só Quotidiano di Ragusa)]",
+   "M": "I: Modica (endereço da empresa no Trustpilot: via Resistenza Partigiana 42, Modica; Quotidiano di Ragusa 03/10/2019); inspiração nos eclipses (texto da própria empresa no Trustpilot; Quotidiano di Ragusa); fundador Gabriele Aprile, família com relojoaria há três gerações, EK 1919 no Kickstarter em out/2019 (só Quotidiano di Ragusa, a confirmar). Possível erro em C: está 'Milão', mas o endereço da empresa é Modica (Sicília); Aprile estudou em Milão — não alterado. H não achado: nenhuma busca trouxe o Instagram e o Trustpilot não lista redes. K não achado: site oficial não apareceu em busca; Firecrawl sem créditos."
+  }
+ },
+ "base": "Relogios_atualizada_584.xlsx"
+}
