@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 867,
-  "ultima_versao": 586,
+  "ultima_versao": 587,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10023,6 +10023,13 @@
       "tipo": "lacunas_marcas",
       "marcas": "EK Watch Co. a Ezteem (38 marcas)",
       "obs": "Só a onda 1 (grupos 1–10): o limite de 200 buscas por turno, somado entre os ajudantes, acabou. 12 marcas sem pesquisa completa ficaram fora do lote para voltar na próxima execução: Elgin, Ember Watch Co, EMG Watches, Emmanuel Bouchet, Enicar, ETA, Eternal Watches, Eva Leube, Erbprinz, EVORA, EYSINK, Evilard."
+    },
+    {
+      "versao": 587,
+      "data": "2026-11-14",
+      "tipo": "lacunas_marcas",
+      "marcas": "Elgin a Frères Rochat (50 marcas)",
+      "obs": "Onda 2 rodada numa nova rodada da conversa a pedido do usuário: a cota de 200 buscas renovou. Inclui as 12 marcas que ficaram fora da v586."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10096,9 +10103,7 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Ezteem",
+    "ultima_marca_revisada": "Frères Rochat",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578)."
-  },
-  "em_execucao": "2026-11-14T10:28:46Z",
-  "ultimo_sinal": "2026-11-14T10:46:00Z"
+  }
 }
