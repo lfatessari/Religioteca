@@ -1,7 +1,7 @@
 """Uso: python3 aplicar.py ENTRADA.xlsx SAIDA.xlsx acumulado.json [lote_NOVO.json ...]
 (cada arquivo pode ser um passo avulso ou um acumulado {"passos": [...]})
 Cada passo: {"remover": [...]} (opcional), "celulas": {marca: {col: valor}}.
-Passo com "versao" (lotes de lacunas): M é ACRESCENTADA com 'Lacunas revisadas em DD/MM/AAAA: '.
+Passo com "versao" (lotes de lacunas): M é ACRESCENTADA com '<prefixo> em DD/MM/AAAA: ' (campo "prefixo" do passo; padrão 'Lacunas revisadas').
 Passo sem "versao" (pacote v569/570): valores finais (M substitui).
 """
 import sys, json, copy, gc, time
@@ -74,7 +74,7 @@ for P in PASSOS:
     data = P.get('data', '')
     if lote:
         d, mo, y = data[8:10], data[5:7], data[0:4]
-        pref = f'Lacunas revisadas em {d}/{mo}/{y}: '
+        pref = P.get('prefixo', 'Lacunas revisadas') + f' em {d}/{mo}/{y}: '
     for marca, cols in P['celulas'].items():
         r = idx[marca]
         for col, val in cols.items():

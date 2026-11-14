@@ -10024,8 +10024,8 @@
  "marcas_novas_sem_relogios": [],
  "fase": "marcas",
  "lacunas_marcas": {
-  "lote": 80,
+  "lote": 40,
   "ultima_marca_revisada": "Autodromo",
-  "obs": "Preencher de cima para baixo as lacunas B–H, J, K (I/História fica de fora). Marca revista recebe em M 'Lacunas revisadas em DD/MM/AAAA: ...' e não é pesquisada de novo. Quando não restar marca incompleta sem revisão, mudar fase para 'relogios'."
+  "obs": "Desde 14/11/2026: lacunas (B–H, J, K) e História (I) juntas, 40 marcas por execução, de cima para baixo. Fila = toda marca sem 'istória revisada' em M (as 159 já com 'Lacunas revisadas' entram só para a história). Fim da fila → fase 'relogios'."
  }
 }
