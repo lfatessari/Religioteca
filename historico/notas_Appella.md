@@ -12,3 +12,4 @@ Europa Star (mai/2004, diamond collection): criada em 1943 em Porrentruy (Jura s
 gindigold posts vistos: 5006 5085 4968 5003 5009 5080 5107 5120 5130 5084 4918 4941 4939 4933 5087
 Clinks: APPELLA registrada em 1943 pela EBOSA SA (fábrica de movimentos Roskopf, dona também de APPELL e APOLLO); Paul Glocker, de Basileia, fundou a EBOSA nos anos 1920. (diverge levemente de Europa Star: Porrentruy). MRM: loja oficial shop.appellawatches.ch (mechanical-collection, 189 Gent Watch ETA 7001). Dona ADRIATICA PR & A Watch Sagl.
 ATENÇÃO: padrão de foto da Gindi Gold NÃO é fixo (L50020_1141DQ.jpg, 50004_5177DQ_a1-1.jpg) → refs só linkadas entram com link da página.
+PROVENANCE: watchard.com/appella-classic-diamonds-l50014-1171dq-watch (link da listagem, não de busca) — não repetir.

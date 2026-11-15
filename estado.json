@@ -10732,7 +10732,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T20:42:49Z",
- "ultimo_sinal": "2026-11-15T20:55:58Z",
+ "ultimo_sinal": "2026-11-15T21:03:18Z",
  "em_andamento": {
   "marcas": [
    "Appella"
@@ -10756,7 +10756,7 @@
    "10",
    "passada1"
   ],
-  "passada": 2,
+  "passada": 3,
   "arquivos_extras": "historico/appella_*.txt e appella_build.py (python3 build.py remonta a lista)"
  }
 }
