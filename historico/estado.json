@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 84,
- "ultima_versao": 632,
+ "proxima_linha_marcas": 91,
+ "ultima_versao": 633,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10576,6 +10576,18 @@
    "fontes": 38,
    "grande": true,
    "obs": "Firecrawl sem créditos; fotos pelo padrão assets.jamtangan.com/ACF-<ref>; 2a passada 11 fontes"
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 633,
+   "marca": "Alison Moriarty Watches",
+   "linha_marcas": 91,
+   "linhas_relogios": "100623-100633",
+   "relogios": 11,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 19,
+   "obs": "Alkimos, Aloha e Alpha-Leonis adiadas (sem fontes para a trava; Firecrawl sem créditos)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

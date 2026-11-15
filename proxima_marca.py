@@ -29,6 +29,9 @@ ADIADAS = {
     "Aft and Anchor Watch Co": "só o site oficial existe (4 relógios em pré-venda); sem fontes externas para a trava",
     "Agapever Watches": "pré-lançamento, sem site nem relógios publicados",
     "Alain Blanco": "pré-lançamento, só Instagram; nenhuma fonte com relógios (busca de 15/11/2026, v629)",
+    "Alkimos Watch Co.": "só o site oficial existe (Ghostship GMT, 2 edições de 50, entrega fim nov/2026); nenhuma fonte externa (busca de 15/11/2026, v633)",
+    "Aloha Timepieces": "1 modelo (GMT 40, 3 mostradores); só ~12 fontes no mundo e aloha.watch não abre pela WebFetch — refazer com Firecrawl no site oficial para usar o catálogo fechado (dados em historico/notas_bateria.md, v633)",
+    "Alpha-Leonis": "só o site oficial (XR-72 em 9 mostradores + XR-71); nenhuma fonte externa com a lista (busca de 15/11/2026, v633)",
 }
 
 
