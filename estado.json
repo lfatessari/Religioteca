@@ -10376,7 +10376,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T02:42:37Z",
- "ultimo_sinal": "2026-11-15T02:42:37Z",
+ "ultimo_sinal": "2026-11-15T02:52:03Z",
  "em_andamento": {
   "marcas": [
    "Adina Watches"
@@ -10386,7 +10386,11 @@
   "relogios": "historico/parcial_Adina_relogios.txt",
   "fontes": "historico/parcial_Adina_fontes.txt",
   "notas": "historico/notas_Adina.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c"
+  ],
   "passada": 1
  }
 }
