@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 141,
- "ultima_versao": 636,
+ "proxima_linha_marcas": 142,
+ "ultima_versao": 637,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10642,6 +10642,20 @@
    "site_bloqueado": true,
    "fontes": 17,
    "obs": "Firecrawl sem créditos; oficiais diretos deram PROVENANCE. Adiadas: anemoic., Angelo Del Mare, Ansley Watches, Aperture, Apex Timeworks, Apogee Watches. Appella é grande (294 refs na watchard): fica sozinha na próxima (notas em historico/notas_Appella.md). Pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 637,
+   "marca": "Appella",
+   "linha_marcas": 142,
+   "linhas_relogios": "100849-101171",
+   "relogios": 323,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 92,
+   "grande": true,
+   "passadas": "46/12/34 fontes; 142/14/19 relógios novos (contagem por fonte aberta; ~150 refs vieram de endereços da Watchard achados em buscas site:)",
+   "obs": "Firecrawl sem créditos; oficial já tinha dado PROVENANCE na v636 (não repetido). 227 linhas só com link da página da Watchard (padrão de foto da loja varia). Complemento futuro: fotos das 227 linhas (og:image de cada ficha watchard), linhas dos anos 2000 (Cronos, Infinitus 2006/2007, Sheikh Zayed, Diamond/18k/Mechanical), shop.appellawatches.ch. Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10730,33 +10744,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-15T20:42:49Z",
- "ultimo_sinal": "2026-11-15T21:03:18Z",
- "em_andamento": {
-  "marcas": [
-   "Appella"
-  ],
-  "linha_marcas": 142,
-  "grande": true,
-  "relogios": "historico/parcial_Appella_relogios.txt",
-  "fontes": "historico/parcial_Appella_fontes.txt",
-  "notas": "historico/notas_Appella.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "passada1"
-  ],
-  "passada": 3,
-  "arquivos_extras": "historico/appella_*.txt e appella_build.py (python3 build.py remonta a lista)"
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

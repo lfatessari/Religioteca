@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 117,
- "ultima_versao": 635,
+ "proxima_linha_marcas": 142,
+ "ultima_versao": 637,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10630,6 +10630,32 @@
     }
    },
    "obs": "Firecrawl sem créditos; sites oficiais diretos deram PROVENANCE (só o de Anders abriu). Adiadas: Alternative Symmetry, Altura, ALVION, Amaros, Amaux Boze, Amir. Pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 636,
+   "marca": "Apose",
+   "linha_marcas": 141,
+   "linhas_relogios": "100836-100848",
+   "relogios": 13,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 17,
+   "obs": "Firecrawl sem créditos; oficiais diretos deram PROVENANCE. Adiadas: anemoic., Angelo Del Mare, Ansley Watches, Aperture, Apex Timeworks, Apogee Watches. Appella é grande (294 refs na watchard): fica sozinha na próxima (notas em historico/notas_Appella.md). Pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 637,
+   "marca": "Appella",
+   "linha_marcas": 142,
+   "linhas_relogios": "100849-101171",
+   "relogios": 323,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 92,
+   "grande": true,
+   "passadas": "46/12/34 fontes; 142/14/19 relógios novos (contagem por fonte aberta; ~150 refs vieram de endereços da Watchard achados em buscas site:)",
+   "obs": "Firecrawl sem créditos; oficial já tinha dado PROVENANCE na v636 (não repetido). 227 linhas só com link da página da Watchard (padrão de foto da loja varia). Complemento futuro: fotos das 227 linhas (og:image de cada ficha watchard), linhas dos anos 2000 (Cronos, Infinitus 2006/2007, Sheikh Zayed, Diamond/18k/Mechanical), shop.appellawatches.ch. Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10706,7 +10732,8 @@
   "Aion Watch (linha 56)": "Adiada em 15/11/2026 (v625): site oficial aionwatch.com pediu permissão (home e /shop) e a marca quase não aparece em buscas (só eBay 126714442045, Faire p_9yu9ha9h98). Firecrawl estava sem créditos. Modelos conhecidos (M da aba Marcas e historico/notas_Aion.md): Puro Elemento Luce, GMT Ultravioletto, GMT Shadow, GMT Abisso, Mark 3 Black/Blu/Cherry Red/Mint Green/White/Golden Peach, Swiss Mark 3 Mint Green e Black, Mark II Black e White. Fazer quando o Firecrawl tiver créditos (abrir aionwatch.com/shop e as fichas product-page).",
   "Ajwain Watches (linha 60)": "Gravada em 15/11/2026 (v625), 40 relógios (98615-98654). Complemento futuro com Firecrawl: produtos antigos do WooCommerce ajwa.in/?p=NNN (Kakori 8 Down 2019/2022, Sholavaram I/II, Malhar, Tri, Break Free, Sholavaram White enamel dial chronograph) com fotos; páginas do HT e Deccan Herald sobre o Malhar (pediram permissão).",
   "Deslocamento v626 (1i1)": "1i1 entrou na linha 5 da aba Marcas na v626: os números de linha citados em avisos e no histórico anteriores a esta versão estão 1 abaixo do real para as marcas depois de 1977. Achar sempre pelo NOME.",
-  "1i1 (linha 5)": "Gravada em 15/11/2026 (v626), 13 relógios (98655-98667), todos com link da página no lugar da foto (Google Sites não entrega as imagens na leitura automática). Complemento futuro com Firecrawl/navegador: fotos de cada modelo em 1i1.watch/home/iconic-cars-collection/<modelo>, Instagram @1i1.watch (ano de fundação, lançamentos), fichas de TITA, B2 - Spirit e Far Side quando forem publicadas."
+  "1i1 (linha 5)": "Gravada em 15/11/2026 (v626), 13 relógios (98655-98667), todos com link da página no lugar da foto (Google Sites não entrega as imagens na leitura automática). Complemento futuro com Firecrawl/navegador: fotos de cada modelo em 1i1.watch/home/iconic-cars-collection/<modelo>, Instagram @1i1.watch (ano de fundação, lançamentos), fichas de TITA, B2 - Spirit e Far Side quando forem publicadas.",
+  "Appella (linha 142)": "Dimensionada em 15/11/2026 como GRANDE (294 relógios na watchard.com): fazer sozinha. Pré-pesquisa em historico/notas_Appella.md (watchard página 1 e gindigold já abertas)."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
