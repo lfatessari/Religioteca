@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 867,
-  "ultima_versao": 614,
+  "proxima_linha_marcas": 14,
+  "ultima_versao": 615,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10240,6 +10240,39 @@
       "tipo": "lacunas_marcas",
       "marcas": "Wryst a Zuriner (34)",
       "obs": "fim da fase Marcas; próxima fase: relogios"
+    },
+    {
+      "marca": "85RETRO",
+      "linha_marcas": 11,
+      "data": "2026-11-15",
+      "versao": 615,
+      "linhas_relogios": "96937-96944",
+      "relogios": 8,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 16
+    },
+    {
+      "marca": "96Zero Watches",
+      "linha_marcas": 13,
+      "data": "2026-11-15",
+      "versao": 615,
+      "linhas_relogios": "96945-96948",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 17
+    },
+    {
+      "marca": "A-13A",
+      "linha_marcas": 14,
+      "data": "2026-11-15",
+      "versao": 615,
+      "linhas_relogios": "96949-96953",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

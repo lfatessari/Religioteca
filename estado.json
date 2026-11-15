@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 867,
-  "ultima_versao": 614,
+  "proxima_linha_marcas": 14,
+  "ultima_versao": 615,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10240,6 +10240,39 @@
       "tipo": "lacunas_marcas",
       "marcas": "Wryst a Zuriner (34)",
       "obs": "fim da fase Marcas; próxima fase: relogios"
+    },
+    {
+      "marca": "85RETRO",
+      "linha_marcas": 11,
+      "data": "2026-11-15",
+      "versao": 615,
+      "linhas_relogios": "96937-96944",
+      "relogios": 8,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 16
+    },
+    {
+      "marca": "96Zero Watches",
+      "linha_marcas": 13,
+      "data": "2026-11-15",
+      "versao": 615,
+      "linhas_relogios": "96945-96948",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 17
+    },
+    {
+      "marca": "A-13A",
+      "linha_marcas": 14,
+      "data": "2026-11-15",
+      "versao": 615,
+      "linhas_relogios": "96949-96953",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10317,23 +10350,5 @@
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
-  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "em_execucao": "2026-11-14T23:42:32Z",
-  "ultimo_sinal": "2026-11-15T00:36:56Z",
-  "em_andamento": {
-    "marcas": [
-      "85RETRO",
-      "96Zero Watches",
-      "A-13A"
-    ],
-    "linha_marcas": 11,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "gravacao"
-    ],
-    "passada": 1
-  }
+  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
