@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 35,
- "ultima_versao": 620,
+ "proxima_linha_marcas": 47,
+ "ultima_versao": 621,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10361,6 +10361,39 @@
     "I",
     "D"
    ]
+  },
+  {
+   "marca": "Aenigma Watches",
+   "linha_marcas": 36,
+   "data": "2026-11-15",
+   "versao": 621,
+   "linhas_relogios": "98317-98333",
+   "relogios": 17,
+   "vermelho": false,
+   "site_bloqueado": "não",
+   "fontes": 18
+  },
+  {
+   "marca": "Aeroluft Watch Company",
+   "linha_marcas": 38,
+   "data": "2026-11-15",
+   "versao": 621,
+   "linhas_relogios": "98334-98363",
+   "relogios": 30,
+   "vermelho": false,
+   "site_bloqueado": "não",
+   "fontes": 30
+  },
+  {
+   "marca": "Aevig",
+   "linha_marcas": 47,
+   "data": "2026-11-15",
+   "versao": 621,
+   "linhas_relogios": "98364-98395",
+   "relogios": 32,
+   "vermelho": false,
+   "site_bloqueado": "não",
+   "fontes": 25
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10441,24 +10474,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-15T06:43:06Z",
- "ultimo_sinal": "2026-11-15T06:55:29Z",
- "em_andamento": {
-  "marcas": [
-   "Aenigma Watches",
-   "Aeroluft Watch Company",
-   "Aevig"
-  ],
-  "linha_marcas": 36,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2"
-  ],
-  "passada": 1
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

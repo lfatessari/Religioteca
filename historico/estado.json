@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 35,
- "ultima_versao": 620,
+ "proxima_linha_marcas": 47,
+ "ultima_versao": 621,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10361,6 +10361,39 @@
     "I",
     "D"
    ]
+  },
+  {
+   "marca": "Aenigma Watches",
+   "linha_marcas": 36,
+   "data": "2026-11-15",
+   "versao": 621,
+   "linhas_relogios": "98317-98333",
+   "relogios": 17,
+   "vermelho": false,
+   "site_bloqueado": "não",
+   "fontes": 18
+  },
+  {
+   "marca": "Aeroluft Watch Company",
+   "linha_marcas": 38,
+   "data": "2026-11-15",
+   "versao": 621,
+   "linhas_relogios": "98334-98363",
+   "relogios": 30,
+   "vermelho": false,
+   "site_bloqueado": "não",
+   "fontes": 30
+  },
+  {
+   "marca": "Aevig",
+   "linha_marcas": 47,
+   "data": "2026-11-15",
+   "versao": 621,
+   "linhas_relogios": "98364-98395",
+   "relogios": 32,
+   "vermelho": false,
+   "site_bloqueado": "não",
+   "fontes": 25
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
