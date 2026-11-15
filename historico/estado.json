@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 51,
- "ultima_versao": 623,
+ "proxima_linha_marcas": 53,
+ "ultima_versao": 624,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10418,6 +10418,18 @@
    "site_bloqueado": "parcial",
    "fontes": 24,
    "obs": "Reclassificada como NÃO grande: dos 97 itens da loja só 38 são relógios (25 avulsos + 13 pares); o resto são pulseiras, joias e estojos. I e J corrigidos pelo site oficial. Firecrawl sem créditos."
+  },
+  {
+   "marca": "ÁIGI",
+   "linha_marcas": 53,
+   "data": "2026-11-15",
+   "versao": 624,
+   "linhas_relogios": "98453-98610",
+   "relogios": 158,
+   "vermelho": true,
+   "site_bloqueado": "parcial",
+   "fontes": 59,
+   "obs": "Dimensionada como GRANDE no meio da pesquisa (loja com 222 produtos): feita sozinha. AIM Watches e Aion Watch começadas e adiadas (notas em historico/notas_AIM.md, parcial_AIM_*, notas_Aion.md). Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10489,7 +10501,9 @@
   "Aenigma Watches (linha 36)": "Pré-pesquisa feita em 15/11/2026 (v619) e guardada em historico/notas_Aenigma.md e parcial_Aenigma_fontes.txt (site aenigma.world: ~19 modelos achados). Fazer depois da Aegaon (grande), aproveitando essas notas.",
   "Aenigma Watches (linha 36) e Aeroluft Watch Company (linha 38)": "Começadas na v620 e interrompidas porque a Aegaon se revelou grande (fica sozinha). Parciais em historico/parcial_Aenigma_* e parcial_Aeroluft_* e notas_Aenigma.md / notas_Aeroluft.md (12 e 22 relógios já anotados, fontes já abertas). Na próxima execução, aproveitar esses arquivos (não reabrir as fontes listadas) e somar o que falta.",
   "Agavus (linha 51)": "Gravada em 15/11/2026 (v623), 38 relógios (98415-98452). Complemento futuro com navegador/Firecrawl: agavus.us/collections/all páginas 3-5 e products.json (pediram permissão), Amazon México (robots) para modelos antigos de 2021.",
-  "Aft and Anchor Watch Co (linha 49)": "Adiada em 15/11/2026: só o site oficial (4 relógios Founder Edition em pré-venda + coleção The Teresa em breve). Dados prontos em historico/dados_aftanchor.txt; falta decisão do usuário sobre a trava."
+  "Aft and Anchor Watch Co (linha 49)": "Adiada em 15/11/2026: só o site oficial (4 relógios Founder Edition em pré-venda + coleção The Teresa em breve). Dados prontos em historico/dados_aftanchor.txt; falta decisão do usuário sobre a trava.",
+  "ÁIGI (linha 53)": "Gravada em 15/11/2026 (v624), 158 relógios (98453-98610), vermelha. Complemento futuro com navegador/Firecrawl: aigitime.com/collections/all-watches?page=3, 5 e 6 e /collections/all?page=2..6 (não vieram em busca), miyota-quartz?page=2, classic-36mm, classic-40mm, black-november-dame/herre; Kickstarter Arctic GMT e Indiegogo 'ÁIGI Automatic'; projetos especiais Store Norske e Korvette (MTB); Arctic Ocean (coleção DIVE citada).",
+  "AIM Watches (linha 54) e Aion Watch (linha 55)": "Começadas na v624 e adiadas porque a ÁIGI se revelou grande. AIM: 4 relógios anotados e 11 fontes abertas (historico/parcial_AIM_*, notas_AIM.md; candidata a catálogo fechado). Aion: só 1 ficha aberta; links de fichas do site vieram em busca (notas_Aion.md). Na próxima execução, aproveitar esses arquivos e não reabrir as fontes listadas."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
