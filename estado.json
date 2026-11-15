@@ -10352,7 +10352,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T01:42:23Z",
- "ultimo_sinal": "2026-11-15T02:00:14Z",
+ "ultimo_sinal": "2026-11-15T02:14:39Z",
  "em_andamento": {
   "marcas": [
    "a.b.art",
@@ -10365,8 +10365,8 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "ACIZEM:1-9 quase completo",
-   "a.b.art:2 site oficial abart.com (54) e abartwatches.com (80 refs antigas)"
+   "ACIZEM: completa (falta gravar)",
+   "a.b.art: passada 1 completa (38 fontes, 151 relógios); falta 2ª passada (vermelha: séries antigas A, D, E, EL, L, K, T, Z, M)"
   ],
   "passada": 1,
   "obs": "a.b.art tratada como GRANDE (histórico desde 1991, centenas de refs); bateria = ACIZEM + a.b.art; Adina fica para a próxima"
