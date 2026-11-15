@@ -1,0 +1,125 @@
+{
+ "marca": "Aion Watch",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.aionwatch.com/shop?lang=en",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-mark-3-black?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/company-profile?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aionwatch.com/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-mark-3-white?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-mark-3-blu?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-mark-3-cherry-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-mark-3-mint-green?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/swiss-puro-elemento-mark-3-black?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/swiss-puro-elemento-mark-3-white?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/swiss-puro-elemento-mark-3-cherry-red?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/swiss-puro-elemento-mark-3-mint-green?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-luce?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-gmt-shadow-1?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-mark-ii-black?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aionwatch.com/product-page/puro-elemento-mark-ii?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.faire.com/fr/brand/b_se2u3xd2fn",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faire.com/it/product/p_9yu9ha9h98",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aionwatch.com/info?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.trustpilot.com/review/aionwatch.it",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Verona",
+  "I": "A Aion faz um relógio que sai de uma impressora 3D. A marca italiana usa a tecnologia FDM com PLA reforçado com fibra de carbono e uma estrutura interna em colmeia, que ela diz ser patenteada. O resultado é uma caixa de cerca de 36 gramas — o relógio completo, com a pulseira, fica abaixo de 50 gramas.\n\nO modelo se chama Puro Elemento e está na terceira geração (MK3), \"realizzato in Italia\" segundo o site. O projeto começou em 2019, criado pelo designer Francesco Perusi. O primeiro modelo, o Pure Element, foi lançado no Kickstarter em outubro de 2020; a marca foi oficializada em 2021, com sede em Verona, e expôs na feira Watches of Italy, em Tortona. Depois vieram a segunda geração (Mark II), a Mark 3 com versões de movimento suíço, os GMT e a Luce, de caixa que brilha no escuro."
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.aionwatch.com/company-profile?lang=en",
+   "https://www.trustpilot.com/review/aionwatch.it"
+  ],
+  "I": [
+   "https://www.aionwatch.com/company-profile?lang=en"
+  ]
+ },
+ "observacoes": "Pesquisa de relógios 15/11/2026 (v627): C preenchido (Verona) e I completada com fundador, anos e cidade, pela página 'Who we are' do site oficial (aionwatch.com/company-profile) e endereço no Trustpilot (Via San Rocco 8/A, Verona). Fotos dos GMT Shadow, GMT Ultravioletto e da peça única GMT Turchese não achadas (só o link da loja). Um anúncio do eBay cita 'Pure Light Element Green' (talvez uma Luce verde); não entrou por falta de confirmação."
+}

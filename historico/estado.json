@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 60,
- "ultima_versao": 626,
+ "proxima_linha_marcas": 69,
+ "ultima_versao": 627,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10465,6 +10465,39 @@
    "fontes": 23,
    "fora_da_sequencia": true,
    "obs": "Marca nova inserida na aba Marcas a pedido do usuário (linha 5) e pesquisada na mesma conversa."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 627,
+   "marca": "Aion Watch",
+   "linha_marcas": 56,
+   "linhas_relogios": "98668-98686",
+   "relogios": 19,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 20
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 627,
+   "marca": "Alanti Watches",
+   "linha_marcas": 68,
+   "linhas_relogios": "98687-98693",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 12
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 627,
+   "marca": "Alato",
+   "linha_marcas": 69,
+   "linhas_relogios": "98694-98706",
+   "relogios": 13,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 14
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

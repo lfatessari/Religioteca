@@ -1,0 +1,88 @@
+{
+ "marca": "Alanti Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://alanti.me/collections/all",
+  "confirmacoes": [
+   "https://chronoscout.co/en/brand/yDzGV-R6Qv6koR5XgPXiQg/alanti/",
+   "https://thedailynext.com/alanti-watches"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://alanti.me/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://alanti.me/collections/all",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://alanti.me/collections/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoscout.co/en/brand/yDzGV-R6Qv6koR5XgPXiQg/alanti/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdna.com/blogs/history/alanti",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thedailynext.com/alanti-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpolice.com/brands/alanti-watches/ultrablack",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alanti.me/products/ultrablack",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/333722201880",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/alanti",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/best-stone-dial-watches-2026/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/stone-dial-watches-for-every-budget/",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "G": "alanti.me"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://alanti.me/",
+   "https://alanti.me/collections/all"
+  ]
+ },
+ "observacoes": "Pesquisa de relógios 15/11/2026 (v627): G corrigido alantiwatches.com → alanti.me (é o domínio atual da loja oficial, com o Instagram @alantiwatches). Catálogo fechado: 7 relógios na loja oficial, confirmados por chronoscout.co e thedailynext.com. Ainda a verificar para a História (I vazia): o Microbrand Atlas dá fundação em 2022 em Ottawa e o nome 'AL Antimia' (1 fonte só)."
+}
