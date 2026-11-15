@@ -10758,7 +10758,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T22:43:19Z",
- "ultimo_sinal": "2026-11-15T22:43:19Z",
+ "ultimo_sinal": "2026-11-15T22:53:17Z",
  "em_andamento": {
   "marcas": [
    "Aquatico"
@@ -10768,7 +10768,10 @@
   "relogios": "historico/parcial_Aquatico_relogios.txt",
   "fontes": "historico/parcial_Aquatico_fontes.txt",
   "notas": "historico/notas_Aquatico.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
