@@ -10770,5 +10770,19 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
+ "em_execucao": "2026-11-15T23:42:46Z",
+ "ultimo_sinal": "2026-11-15T23:42:46Z",
+ "em_andamento": {
+  "marcas": [
+   "Aragon"
+  ],
+  "linha_marcas": 150,
+  "grande": true,
+  "relogios": "historico/parcial_Aragon_relogios.txt",
+  "fontes": "historico/parcial_Aragon_fontes.txt",
+  "notas": "historico/notas_Aragon.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
