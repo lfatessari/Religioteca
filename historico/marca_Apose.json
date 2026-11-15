@@ -1,0 +1,107 @@
+{
+ "marca": "Apose",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – apose.fr não abre para leitura automática (PROVENANCE); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 15/11/2026: 13 modelos (site oficial não abriu; dados da Dialicious, Ocarat, Verygoodlord e imprensa). Não achado em fonte: Douz 'Or Rose & Noir' citado em J. Códigos de catálogo (PUR.IND.24.BM, DOUZ.CEL.24.BC, SIGN.NRAD.26.BC) só na Ocarat. I: acrescentado fundação 2020 por Didier Finck e Ludovic Zussa e série N°3-100 de 2022 (verygoodlord.com, macommune.info, my-watchsite.com).",
+ "correcoes": {
+  "I": "\"Cada relógio é concebido, fabricado e montado na França\", afirma a Apose. A marca aposta num desenho minimalista e num detalhe raro de pós-venda: a assistência é feita pelo próprio relojoeiro que montou o relógio.\n\nO catálogo gira em torno do N°3, declinado em versões como Douz, Radial e Pur, em aço ou com detalhes em ouro rosa, além de uma variante de 37 mm. Os preços vão de 2.700 a 2.950 euros.\n\nA marca foi fundada em 2020, em Mulhouse, por Didier Finck (designer) e Ludovic Zussa; o N°3 começou a ser vendido no fim daquele ano. Em 2022 veio a série N°3-100, \"100% francesa\", com movimento automático da Pequignet (Morteau) e pulseiras feitas com sobras de couro da Longchamp."
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://verygoodlord.com/?p=53958",
+   "https://www.macommune.info/a-mulhouse-une-start-up-veut-relancer-la-fabrication-de-montres-100-francaises",
+   "https://www.my-watchsite.com/blog/?p=12726"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.dialicious.com/en/apose",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.dialicious.com/en/apose?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://verygoodlord.com/?p=53958",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.my-watchsite.com/blog/?p=12726",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dialicious.com/en/apose/bri",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/apose-n3-radial-all-black-watch-sign-nrad-26-bc-129923.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/apose-n3-pur-indigo-watch-pur-ind-24-bm-129922.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/apose-n3-douz-celadon-watch-douz-cel-24-bc-129921.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.macommune.info/a-mulhouse-une-start-up-veut-relancer-la-fabrication-de-montres-100-francaises",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://international.franceclat.fr/?p=3859",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/apose/douz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://verygoodlord.com/?p=53921",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/5-french-watch-brands-youve-never-heard-of-but-should-know/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/highlights/1004115109-franceclat-artisanal-watchmaking-a-la-francaise.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/apose/n°3-100",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/apose/pur/indigo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/apose/n°3",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

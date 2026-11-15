@@ -40,6 +40,12 @@ ADIADAS = {
     "Amaros": "1–2 modelos; amaros-watches.com não abre pela WebFetch (PROVENANCE); só a The Watch Gallery na busca (15/11/2026, v635) — refazer com Firecrawl",
     "Amaux Boze": "amauxboze.com não abre pela WebFetch (PROVENANCE) e a busca não trouxe a marca (15/11/2026, v635) — refazer com Firecrawl",
     "Amir Watch Company": "pré-lançamento (Dragonfly 'em breve'); amirwatchcompany.com não abre pela WebFetch (PROVENANCE) (15/11/2026, v635)",
+    "anemoic.": "pré-lançamento, 1 modelo (Versailles); anemoicwatches.com não abre pela WebFetch (PROVENANCE); só Worn & Wound e Fratello falam dela (15/11/2026, v636) — refazer com Firecrawl ou quando lançar",
+    "Angelo Del Mare": "angelodelmare.com não abre pela WebFetch (PROVENANCE) e o mundo só tem ~6 fontes (Oceanic Time, Master Horologer, CronotempVs) — Royal Master e Royal Officer (15/11/2026, v636) — refazer com Firecrawl",
+    "Ansley Watches": "ansleywatches.com não abre pela WebFetch (PROVENANCE) e as buscas só trazem diretórios (Design Ireland, DCCI, The Slender Wrist) (15/11/2026, v636) — refazer com Firecrawl",
+    "Aperture": "aba Marcas sem dados (sem site/país) e nenhuma busca identificou a marca (15/11/2026, v636)",
+    "Apex Timeworks": "aba Marcas sem dados e nenhuma busca identificou a marca (só Apex de outras marcas) (15/11/2026, v636)",
+    "Apogee Watches": "apogee-watches.com fora das buscas (só aparece o Apogee da Bangalore Watch Co.) (15/11/2026, v636) — refazer com Firecrawl",
 }
 
 
