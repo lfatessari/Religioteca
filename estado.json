@@ -10772,7 +10772,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T23:42:46Z",
- "ultimo_sinal": "2026-11-15T23:58:29Z",
+ "ultimo_sinal": "2026-11-15T23:59:35Z",
  "em_andamento": {
   "marcas": [
    "Aragon"
@@ -10793,6 +10793,6 @@
    "8",
    "9"
   ],
-  "passada": 2
+  "passada": 3
  }
 }
