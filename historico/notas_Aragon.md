@@ -6,3 +6,4 @@
 - Seções: 1 dimensionar feito; 2 oficial bloqueado; 3 primeira página em andamento.
 - História: Android fundada 1991 por Wing Liang (superwatches: Wing e Angela Liang); OKO International rebatizou a linha Android como Aragon em 2015 por conflito de marca com o Android do Google (watches.jlind.net/2016/02). Keep the Time: "Android is now Aragon Watch".
 - Serious Watches: buscas site: por linha praticamente esgotadas (~110 refs).
+- Passada 1 encerrada (3 últimas sem novidade). Passada 2: refs antigas A1xx-A4xx, era Android, fotos vspfiles do site antigo.
