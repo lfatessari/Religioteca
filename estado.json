@@ -10319,7 +10319,7 @@
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "em_execucao": "2026-11-14T23:42:32Z",
-  "ultimo_sinal": "2026-11-14T23:58:30Z",
+  "ultimo_sinal": "2026-11-15T00:25:07Z",
   "em_andamento": {
     "marcas": [
       "85RETRO",
@@ -10332,7 +10332,8 @@
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
-      "85RETRO:completa"
+      "85RETRO:completa",
+      "96Zero:completa"
     ],
     "passada": 1
   }
