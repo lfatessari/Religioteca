@@ -1,7 +1,5 @@
-# Aenigma Watches
-Site oficial aenigma.world (PrestaShop). WebFetch direto travou (PROVENANCE). Firecrawl sem créditos.
-Achados: Codex (Defensor Vitae preto, Human Rights Defender branco, Planet Defender verde, Planet Defender Blu Oltremare, Mistery Black), SubX (HRD branco, Planet Defender azul, Defensor Vitae preto, Gaius Julius Caesar LE30, Edizione Limitata 40), DressX (Il Santo DR01-25, Il Navigatore DR02-25, Il Poeta DR03-25), OOO x Aenigma SubX Mont Blanc.
-Falta: página 2 da home (16 produtos, 4 não vistos), SubX Monte Bianco, Special Editions, PreOrder, SubX Operazione Aenigma.
-Special Editions (id 22): Codex Mistery Black €589; SubX Gaius Julius Caesar LE30 €1190 (Sellita SW200, 42mm, mostrador bronze com águia); SubX Miage (id50) €1186; SubX Operazione Aenigma (id41) €1180, 300 m, missão de recuperação de máquina Enigma no mar da Ligúria; SubX Monte Bianco (id22, slug "edizione-limitata-30-esemplari") €1180; SubX Monte Bianco Extreme OOO x Aenigma (id45) €1298. Também na busca: "SUBX Operazione AENIGMA Essentia 300mt" (id 44, /en/home/44-subx-operazione-aenigma.html) – não aberto.
-Fotos: https://www.aenigma.world/img/p/<digitos>/<id>-home_default.jpg (ids: Mistery 304, GJC 191, Miage 266, Operazione 255, MonteBianco 284, Extreme 285, SubX HRD 241, Codex HRD 231, Poeta 218, CodexDV 227, SubX DV 251, Santo 219, Codex PD verde 230, SubX PD 283, Navigatore 274, Codex Blu Oltremare 225).
-DECISÃO 15/11 (v619): Aegaon se revelou grande (loja com ~9 páginas de 16 produtos), então esta bateria ficou só com Advisor; Aenigma fica para depois da Aegaon. Estas notas servem de ponto de partida (fontes já abertas acima).
+# Aenigma Watches (linha 36) — parcial da v620 (não gravada)
+Site oficial direto (aenigma.world) deu PROVENANCE_REQUIRED; Firecrawl sem créditos.
+Home category id 2: 16 produtos, página 1 lida (12). Falta página 2 (4 produtos).
+Links da busca ainda não abertos: SubX Operazione AENIGMA Essentia 300mt (id 44), SubX Operazione 300mt (id 41), SubX Miage (id 50), SUBX Monte Bianco Extreme OOO (id 45, ed. limitada 30), Limited Edition cat 22, xdmg.it/brand/346-aenigma, aostasera.it (Monte Bianco Extreme), outoforderwatches.com/pages/ooo-x-aenigma.
+Busca útil: WebSearch mode extended '"Aenigma" watch "SubX" Monte Bianco' e 'site:aenigma.world orologio'.

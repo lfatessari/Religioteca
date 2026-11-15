@@ -10426,19 +10426,19 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T05:42:23Z",
- "ultimo_sinal": "2026-11-15T05:42:23Z",
+ "ultimo_sinal": "2026-11-15T05:51:06Z",
  "em_andamento": {
   "marcas": [
-   "Aegaon",
-   "Aenigma Watches",
-   "Aeroluft Watch Company"
+   "Aegaon"
   ],
   "linha_marcas": 35,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "grande": true,
+  "relogios": "historico/parcial_Aegaon_relogios.txt",
+  "fontes": "historico/parcial_Aegaon_fontes.txt",
+  "notas": "historico/notas_Aegaon.md",
+  "secoes_feitas": [
+   "1"
+  ],
   "passada": 1
  }
 }
