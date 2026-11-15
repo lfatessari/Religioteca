@@ -10,3 +10,5 @@
 - Press 2024/2025: refs 8343.5154SA, 3543.1143DQ, 3333.214ZA, 1992.5214A, 8328.5215SA, 8383.4116CH, 8277.5114AO, 8256.1223A, 3802.1116AD, 3198.1183DA, 8336.1113CH. Europa Star: 8282.2217CH.
 - Tourbillon A8888.4114M: titânio 45 mm, Landeron PWL 101 manual, turbilhão voador, "limited edition" sem nº.
 - Catálogos PDF 2025/2026: PROVENANCE (não abriram).
+- Passada 2 (11 fontes) trouxe 27 + 27 vistos em títulos de busca -> passada 3.
+- A1963.4227A: 1963 Limited Edition, cronógrafo automático Valjoux 7750, titânio 45 mm, cinza. A1992.5214A: Classic Automatic Valjoux Chronograph Limited Edition, aço 45 mm, preto. Nº de peças não informado.
