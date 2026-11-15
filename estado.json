@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 69,
- "ultima_versao": 628,
+ "proxima_linha_marcas": 70,
+ "ultima_versao": 629,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10504,6 +10504,19 @@
    "versao": 628,
    "marca": "Aion Watch",
    "obs": "Fotos de GMT Shadow, GMT Ultravioletto e Pezzo Unico GMT Turchese, do site oficial aberto com permissão do usuário."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 629,
+   "marca": "Alba",
+   "linha_marcas": 70,
+   "linhas_relogios": "98707-99738",
+   "relogios": 1032,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 80,
+   "grande": true,
+   "obs": "Grande e vermelha; 3 passadas (54/16/10 fontes; 1015/10/7 novos). Catálogo JP (alba.jp, fotos contents.seikowatches.com), internacional (Thong Sia HK 7 séries, lojas oficiais Índia/Filipinas, watches.ae), JDM antigos (Sakura Watches), vintage (AKA, Spoon, Success, Lagoon). 165 linhas só com link de página. Firecrawl sem créditos. Corrigidos I e J. Alain Blanco (66) adiada (ADIADAS)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10591,32 +10604,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-15T12:45:04Z",
- "ultimo_sinal": "2026-11-15T13:04:34Z",
- "em_andamento": {
-  "marcas": [
-   "Alba"
-  ],
-  "linha_marcas": 70,
-  "grande": true,
-  "relogios": "historico/parcial_alba_relogios.txt",
-  "fontes": "historico/parcial_alba_fontes.txt",
-  "notas": "historico/notas_alba.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "p2"
-  ],
-  "passada": 3
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

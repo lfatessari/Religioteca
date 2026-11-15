@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 69,
- "ultima_versao": 628,
+ "proxima_linha_marcas": 70,
+ "ultima_versao": 629,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10504,6 +10504,19 @@
    "versao": 628,
    "marca": "Aion Watch",
    "obs": "Fotos de GMT Shadow, GMT Ultravioletto e Pezzo Unico GMT Turchese, do site oficial aberto com permissão do usuário."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 629,
+   "marca": "Alba",
+   "linha_marcas": 70,
+   "linhas_relogios": "98707-99738",
+   "relogios": 1032,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 80,
+   "grande": true,
+   "obs": "Grande e vermelha; 3 passadas (54/16/10 fontes; 1015/10/7 novos). Catálogo JP (alba.jp, fotos contents.seikowatches.com), internacional (Thong Sia HK 7 séries, lojas oficiais Índia/Filipinas, watches.ae), JDM antigos (Sakura Watches), vintage (AKA, Spoon, Success, Lagoon). 165 linhas só com link de página. Firecrawl sem créditos. Corrigidos I e J. Alain Blanco (66) adiada (ADIADAS)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

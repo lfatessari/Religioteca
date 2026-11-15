@@ -1,0 +1,426 @@
+{
+ "marca": "Alba",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Fase Relógios (15/11/2026, v629): 1.032 relógios, marca vermelha (centenas de referências antigas e regionais fora das listas). Corrigido: I — acrescentado 'criada em 1979 em Tóquio' (site oficial da Índia alba-watches.co.in/pages/heritage: 'Born in Tokyo in 1979'; Wikipedia: 1979). J — acrescentadas as linhas internacionais Prestige, Active, Signa, Fashion e Mechanical (coleções do site oficial da Índia e catálogo do distribuidor Thong Sia, Hong Kong). Ainda a verificar: H — o site oficial japonês só liga ao Instagram da linha RIKI (@riki_watch), não a uma conta geral da marca. Linhas antigas achadas: AKA (anos 1990), Spoon (digital, anos 1990), Fusion, Success, Lagoon, Vient.",
+ "correcoes": {
+  "I": "A Alba é a marca de entrada da Seiko, criada em 1979 em Tóquio: relógios simples, a quartzo e de preço baixo, vendidos principalmente no Japão e em outros mercados da Ásia. Ela pertence à Seiko Watch Corporation, que mantém o site oficial da marca.\n\nO catálogo japonês se divide em linhas. A RIKI continua o trabalho do designer Riki Watanabe, com relógios de leitura fácil e desenho limpo. Há também a feminina ingenu, a ALBA QUARTZ, a linha CHARACTER, de personagens, e cronômetros esportivos.",
+  "J": "RIKI — linha do designer Riki Watanabe\n\ningenu — linha feminina\n\nALBA QUARTZ\n\nCHARACTER — relógios de personagens\n\nSTOP WATCH — cronômetros esportivos\n\nLinhas internacionais (Ásia e Oriente Médio): Prestige, Active, Signa, Fashion e Mechanical (automáticos)"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://alba-watches.co.in/pages/heritage",
+   "https://en.wikipedia.org/wiki/Alba_(watch)"
+  ],
+  "J": [
+   "https://alba-watches.co.in/pages/heritage",
+   "https://www.thongsia.com.hk/en/alba/collections/series/12/"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.alba.jp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alba.jp/lineup/index.php?gid=49",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.alba.jp/p_search/detail.php?no=AQGK439",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alba.jp/lineup/index.php?gid=51",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.alba.jp/lineup/index.php?gid=25",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.alba.jp/lineup/index.php?gid=58",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.alba.jp/lineup/index.php?gid=53",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.alba.jp/rikiwatanabe/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.alba.jp/ingenu/products/index.html",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.alba.jp/rikiwatanabe/products/",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.alba.jp/p_search/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://albawatches.ph/collections/all-watches?page=7",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://watches.ae/collections/alba",
+   "passada": 1,
+   "novos": 51
+  },
+  {
+   "url": "https://www.thongsia.com.hk/en/alba/collections/series/10",
+   "passada": 1,
+   "novos": 71
+  },
+  {
+   "url": "https://www.thongsia.com.hk/en/alba/collections/series/44/",
+   "passada": 1,
+   "novos": 131
+  },
+  {
+   "url": "https://www.thongsia.com.hk/en/alba/collections/series/34/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.thongsia.com.hk/en/alba/collections/series/41/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thongsia.com.hk/en/alba/collections/series/11/",
+   "passada": 1,
+   "novos": 175
+  },
+  {
+   "url": "https://www.thongsia.com.hk/en/alba/collections/series/12/",
+   "passada": 1,
+   "novos": 185
+  },
+  {
+   "url": "https://www.thongsia.com.hk/en/alba/collections/series/13/",
+   "passada": 1,
+   "novos": 158
+  },
+  {
+   "url": "https://watchera.nl/products/vintage-alba-by-seiko-watch-y143-8230-quartz-jdm-1990",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchera.nl/products/vintage-alba-by-seiko-full-set-y563-8030-1992",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchera.nl/products/alba-by-seiko-y131-6030",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchera.nl/products/vintage-alba-by-seiko-v743-8a10-2000",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchera.nl/products/vintage-alba-y481-0920-quartz-dress-watch-jdm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchera.nl/products/vintage-alba-estate-watch-v701-5080-quartz-seiko-dolce",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchera.nl/products/vintage-alba-diver-watch-aqua-gear-scuba-200m-diver-solar-by-seiko",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchera.nl/products/vintage-alba-seiko-quartz-y101-8000-sgp-new-strap-jdm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2013/03/seiko-alba-spoon-w626-nagano-winter.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Alba_(watch)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alba-watches.co.in/pages/heritage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/seiko-alba-alarm-chronograph-y749-401a-april-1981",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/vintage-alba-soleil-lune-v535-6b10-frosted-silver-dial-1989",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/alba-lagoon-v338-6b80-gold-plated-watch-moonphase-calendar-1990s",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/vintage-alba-success-watch-gold-plated-moonphase-1990s.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/vintage-alba-watch-seiko-triple-calendar-moon-phase-steel-1995.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/vintage-alba-watch-seiko-black-patina-moonphase-gold-1982.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sovietwatchstore.com/product/vintage-1997-seiko-alba-aka-bullhead-quartz-chronograph-rare-jdm-emerald-green-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all?page=2",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all?page=3",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all?page=4",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all?page=7",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://alba-watches.co.in/collections/all?page=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-alba-mononoke-hime-25th-anniversary-limited-model-acck723",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-alba-fusion-afsk403",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-alba-riki-watanabe-akpk010",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-alba-super-mario-collaboration-model-acck429",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watcharama.com/?p=2346",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.skywatches.com.sg/products/alba-chronograph-divers-watch-made-by-seiko-au2011x1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fun-japan.jp/en/articles/9208",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://justintime.in/collections/alba",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.catawiki.com/da/l/101279845-alba-ingen-mindstepris-n944-7a40-maend-1990-1999",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catawiki.com/nl/l/89404747-seiko-zonder-minimumprijs-heren-alba-chronograaf-vd57-ke00-2014",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/alba-by-seiko-calendar-chronograph-1983",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/vintage-alba-seiko-day-night-gold-plated-white-dial-1994",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/alba-by-seiko-white-dress-watch-1990s",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchforum.co.uk/threads/new-arrival-alba-hyper-tech.55898/?u=15254",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/seiko-2009-alba-fusion-retro",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ec2-prod.japantrendshop.com/alba-my-neighbor-totoro-30th-anniversary-special-edition-watch-p-4490.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2015/03/seiko-alba-aka-v782.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2014/05/seiko-alba-aka-v743-black-and-aquamarine.html?m=1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2012/10/seiko-alba-aka-chronograph-v657-red.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2015/02/seiko-alba-aka-v657-orange-chronograph.html?m=1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2013/08/seiko-aka-chronograph-v657-black-and.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/seiko-1997-alba-blue-bullhead",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1871241",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ateliervictor.co/en/products/vintage-alba-watch-moon-phase-v338-6080-bronze-cream-1990",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2012/03/seiko-alba-aka-ana-digi-v091.html?m=0",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2012/01/seiko-alba-aka-w670-4000-blackred.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2012/04/seiko-alba-volcano-watch.html?m=0",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.skywatches.com.sg/en-us/products/alba-gents-chronograph-sports-watch-made-by-seiko-af8q38x1",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1966706",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://alba-watches.co.in/pages/alba-automatic-offer",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/397096088065",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchera.nl/pages/vintage-alba-watch-catalogs",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2014/03/alba-spoon-w671-1998-bridgestone-victory.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/alba-taschenuhr-success-ref-v742-0a10-seiko-group-juni-1994",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}
