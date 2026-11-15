@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 142,
-  "ultima_versao": 637,
+  "proxima_linha_marcas": 143,
+  "ultima_versao": 638,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10656,6 +10656,18 @@
       "grande": true,
       "passadas": "46/12/34 fontes; 142/14/19 relógios novos (contagem por fonte aberta; ~150 refs vieram de endereços da Watchard achados em buscas site:)",
       "obs": "Firecrawl sem créditos; oficial já tinha dado PROVENANCE na v636 (não repetido). 227 linhas só com link da página da Watchard (padrão de foto da loja varia). Complemento futuro: fotos das 227 linhas (og:image de cada ficha watchard), linhas dos anos 2000 (Cronos, Infinitus 2006/2007, Sheikh Zayed, Diamond/18k/Mechanical), shop.appellawatches.ch. Pendências dos posts não lidas (ferramenta Projects ausente)."
+    },
+    {
+      "data": "2026-11-15",
+      "versao": 638,
+      "marca": "Aquacy",
+      "linha_marcas": 143,
+      "linhas_relogios": "101172-101241",
+      "relogios": 70,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 23,
+      "obs": "Catálogo oficial completo (collections/all p.1–3 via links de busca; home direta deu PROVENANCE). Só ~7 fotos; os demais com link da página do produto. Firecrawl sem créditos. Bateria só com a Aquacy: Aquatico (101 produtos em Automatic Watches) é grande e vai sozinha na próxima; Aragon também parece grande. Pendências dos posts não lidas (ferramenta Projects ausente)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10744,21 +10756,5 @@
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
-  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "em_execucao": "2026-11-15T21:42:53Z",
-  "ultimo_sinal": "2026-11-15T21:42:53Z",
-  "em_andamento": {
-    "marcas": [
-      "Aquacy",
-      "Aquatico",
-      "Aragon"
-    ],
-    "linha_marcas": 143,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_bateria.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
