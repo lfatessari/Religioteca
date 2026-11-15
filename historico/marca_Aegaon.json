@@ -1,0 +1,314 @@
+{
+ "marca": "Aegaon",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – aegaon.com: a abertura direta pediu permissão e várias fichas de produto escondidas estão fora do ar (Temptation III, Tribute 45, Genesis 48); revisitar com navegador",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Fase Relógios 15/11/2026 (v620): corrigido I: fundadores Janno Roodi, Kristjan Rabi e Veljo Viikant em 2012 e primeiro modelo Peacemaker 65 (site oficial, página About); Roodi desenha e Rabi toca o negócio (Kaminsky e New Labels Only); Peacemaker é de corda manual, não automático; automáticos são Tenet 48 e Temptation III (fichas e blog oficiais); retirado o aviso de 2012. Corrigido D: 'movimento a quartzo' → a quartzo e mecânicos (site oficial). C Tallinn confirmado pelo FAQ oficial (loja em Rotermanni 7).",
+ "correcoes": {
+  "I": "A Aegaon foi fundada em 2012, na Estônia, por Janno Roodi, Kristjan Rabi e Veljo Viikant; Roodi desenha os relógios e trouxe o amigo Rabi para tocar o negócio. O primeiro modelo foi o Peacemaker 65, de 65 mm. A empresa AegaOn OÜ foi registrada em Tallinn em fevereiro de 2015. A marca não tenta se vender por tradição relojoeira: faz relógios grandes e chamativos, de desenho \"forte, simples e marcante\", e usa a mesma linguagem nos modelos femininos, só mudando o tamanho.\n\nHá modelos a quartzo, como o Tabula Rasa com movimento suíço Ronda, mecânicos de corda manual, como o Peacemaker, com um clone do ETA 6497, e automáticos, como o Tenet 48 e o Temptation III GMT. A marca tem loja própria na borda da Cidade Velha de Tallinn.",
+  "D": "Marca estoniana de relógios grandes, de desenho ousado, a quartzo e mecânicos, com várias edições limitadas."
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://aegaon.com/pages/about-aegaon",
+   "https://kaminskyblog.com/2018/01/04/aegaon-tabula-rasa-44-quartz-review-interview-with-founder/",
+   "https://newlabelsonly.com/2018/03/29/aegaon-watches-the-first-estonian-watch-brand/",
+   "https://aegaon.com/products/peacemaker-65-black-skeleton",
+   "https://aegaon.com/blogs/news/new-aegaon-temptation-iii-we-have-worked-12-years-for-this"
+  ],
+  "D": [
+   "https://aegaon.com/products/peacemaker-65-black-skeleton",
+   "https://aegaon.com/pages/faq"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://aegaon.com/collections/tabula-rasa-44-quartz",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://aegaon.com/collections/all",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://aegaon.com/collections/gentlemen",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://aegaon.com/collections/tabula-rasa-44-quartz?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://aegaon.com/collections/all?page=2",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://aegaon.com/collections/all?page=8",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://aegaon.com/collections/all?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/collections/gentlemen?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/collections/ladies?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/collections/tabula-rasa-38-quartz",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://aegaon.com/collections/aegaon-ilmarine-ltd",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://aegaon.com/products/peacemaker53-skeleton",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://aegaon.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/collections/ladies",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://aegaon.com/blogs/news/the-final-50-tenet-48-watches-now-available-for-retail",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/blogs/news/new-aegaon-temptation-iii-we-have-worked-12-years-for-this",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/blogs/news/aegaon-x-bc-kalev-cramo-ltd-design",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://aegaon.com/blogs/news/new-design-genesis-introduction-to-aegaon-anniversary",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://aegaon.com/et/collections/all?page=4",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://aegaon.com/blogs/news/aegaon-new-design-tribute-is-here-to-stay",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/et/collections/all?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/et/collections/all?page=6",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://aegaon.com/et/collections/all?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/collections/tribute-45-quartz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/peacemaker-65-black-skeleton",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://aegaon.com/pages/about-aegaon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/aegaon-brings-big-watches-estonia/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kaminskyblog.com/2018/01/04/aegaon-tabula-rasa-44-quartz-review-interview-with-founder/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://newlabelsonly.com/2018/03/29/aegaon-watches-the-first-estonian-watch-brand/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://smartrend.ee/pood/brandiddisainerid/aegaon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.productfrom.com/product/320223-aegaon-tr38-kkqnm-tabula-rasa-38-quartz-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.discfestival.com/news/from-surprise-to-staple-jeremy-koling-on-his-aegaon-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-quartz-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-44-quartz-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-44-quartz-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-quartz-6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-quartz-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-quartz-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/copy-of-tabula-rasa-44-quartz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-men-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-men-6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-15",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-quartz-7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/products/tabula-rasa-38-quartz-7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/blogs/news/new-tabula-rasa-anniversary-edition-now-available",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/pages/faq",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://kellakaubamaja.ee/aegaon-tabula-rasa-38-n-kaekell-8840",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kaekellad.ee/product/meeste-kaekell-aegaon-tabula-rasa-tr-hvqnp/?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aegaon.com/blogs/news/tabula-rasa-38-for-ladies",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
