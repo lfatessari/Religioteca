@@ -10690,19 +10690,27 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T18:43:14Z",
- "ultimo_sinal": "2026-11-15T18:43:14Z",
+ "ultimo_sinal": "2026-11-15T18:58:06Z",
  "em_andamento": {
   "marcas": [
-   "Alternative Symmetry",
-   "ALVION",
-   "Amaros"
+   "Analog Watch Co.",
+   "Anders & Co Timepieces",
+   "AndoAndoAndo Design"
   ],
-  "linha_marcas": 103,
+  "linha_marcas": 112,
   "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "relogios": "historico/parcial_analog_relogios.txt",
+  "fontes": "historico/parcial_analog_fontes.txt",
+  "notas": "historico/notas_analog.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "passada": 1,
+  "obs": "Analog pronta para gravar (22 relógios, 22 fontes); adiadas: Alternative Symmetry, Altura, ALVION, Amaros, Amaux Boze, Amir"
  }
 }
