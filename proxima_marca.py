@@ -31,6 +31,8 @@ ADIADAS = {
     "Alain Blanco": "pré-lançamento, só Instagram; nenhuma fonte com relógios (busca de 15/11/2026, v629)",
     "Alkimos Watch Co.": "só o site oficial existe (Ghostship GMT, 2 edições de 50, entrega fim nov/2026); nenhuma fonte externa (busca de 15/11/2026, v633)",
     "Aloha Timepieces": "1 modelo (GMT 40, 3 mostradores); só ~12 fontes no mundo e aloha.watch não abre pela WebFetch — refazer com Firecrawl no site oficial para usar o catálogo fechado (dados em historico/notas_bateria.md, v633)",
+    "Alpharo": "só o site oficial (Model 1); alpharo.co.uk não abre pela WebFetch (PROVENANCE) e nenhuma busca trouxe loja ou imprensa (15/11/2026, v634) — refazer com Firecrawl",
+    "Alp Watches": "1 modelo (ALP-1 Aurea, por reserva); alpwatches.com não abre pela WebFetch (PROVENANCE); só 2–3 matérias (quotidianomotori, gearpatrol) — refazer com Firecrawl no oficial para usar o catálogo fechado (15/11/2026, v634)",
     "Alpha-Leonis": "só o site oficial (XR-72 em 9 mostradores + XR-71); nenhuma fonte externa com a lista (busca de 15/11/2026, v633)",
 }
 

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 91,
- "ultima_versao": 633,
+ "proxima_linha_marcas": 102,
+ "ultima_versao": 634,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10588,6 +10588,19 @@
    "site_bloqueado": false,
    "fontes": 19,
    "obs": "Alkimos, Aloha e Alpha-Leonis adiadas (sem fontes para a trava; Firecrawl sem créditos)"
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 634,
+   "marca": "Altanus Genève",
+   "linha_marcas": 102,
+   "linhas_relogios": "100634-100716",
+   "relogios": 83,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 47,
+   "grande": true,
+   "obs": "Firecrawl sem créditos; oficial PROVENANCE; muitos modelos só por título de anúncio (in-vendita.it); 3ª passada só 4 fontes (buscas esgotadas). Alpharo e Alp Watches adiadas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10675,31 +10688,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-15T17:45:46Z",
- "ultimo_sinal": "2026-11-15T18:00:13Z",
- "em_andamento": {
-  "marcas": [
-   "Altanus Genève"
-  ],
-  "linha_marcas": 102,
-  "grande": true,
-  "relogios": "historico/parcial_altanus_relogios.txt",
-  "fontes": "historico/parcial_altanus_fontes.txt",
-  "notas": "historico/notas_bateria.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

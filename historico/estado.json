@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 91,
- "ultima_versao": 633,
+ "proxima_linha_marcas": 102,
+ "ultima_versao": 634,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10588,6 +10588,19 @@
    "site_bloqueado": false,
    "fontes": 19,
    "obs": "Alkimos, Aloha e Alpha-Leonis adiadas (sem fontes para a trava; Firecrawl sem créditos)"
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 634,
+   "marca": "Altanus Genève",
+   "linha_marcas": 102,
+   "linhas_relogios": "100634-100716",
+   "relogios": 83,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 47,
+   "grande": true,
+   "obs": "Firecrawl sem créditos; oficial PROVENANCE; muitos modelos só por título de anúncio (in-vendita.it); 3ª passada só 4 fontes (buscas esgotadas). Alpharo e Alp Watches adiadas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
