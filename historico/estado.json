@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 48,
- "ultima_versao": 622,
+ "proxima_linha_marcas": 51,
+ "ultima_versao": 623,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10406,6 +10406,18 @@
    "site_bloqueado": "não",
    "fontes": 26,
    "obs": "C corrigido para Hirakata (Osaka). Aft and Anchor (49) e Agapever (50) adiadas (ADIADAS no proxima_marca.py). Agavus (51) dimensionada como GRANDE (97 produtos): próxima execução sozinha; notas em historico/notas_agavus.md."
+  },
+  {
+   "marca": "Agavus",
+   "linha_marcas": 51,
+   "data": "2026-11-15",
+   "versao": 623,
+   "linhas_relogios": "98415-98452",
+   "relogios": 38,
+   "vermelho": false,
+   "site_bloqueado": "parcial",
+   "fontes": 24,
+   "obs": "Reclassificada como NÃO grande: dos 97 itens da loja só 38 são relógios (25 avulsos + 13 pares); o resto são pulseiras, joias e estojos. I e J corrigidos pelo site oficial. Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10476,7 +10488,7 @@
   "a.b.art (linha 18)": "Gravada em 15/11/2026 (v616), 163 relógios (96954-97116), vermelha. Complemento futuro: PDFs da página abartwatches.com/pages/publications (Dropbox: press releases 2010-2016, Damask 2013, OA All Black, Red Dot 2009, press reviews 2003-2010; pediram permissão), fotos das ~35 linhas só com link (abartwatches.com: KLD/KSD/MA/DP/W/G104-121; produtos escondidos OA103, OC150, W101, D101, GA24), séries antigas A, D, E, EL, ES, L, K, T, Z, M, DL (6 variações) e Magic Day Date, Pinterest/eBay (anúncios pediram permissão), Raspe série KLD (a-b-art-serie-kld), Yahoo Taiwan/Pinkoi (OC, DL), Firecrawl sem créditos nesta execução.",
   "Aenigma Watches (linha 36)": "Pré-pesquisa feita em 15/11/2026 (v619) e guardada em historico/notas_Aenigma.md e parcial_Aenigma_fontes.txt (site aenigma.world: ~19 modelos achados). Fazer depois da Aegaon (grande), aproveitando essas notas.",
   "Aenigma Watches (linha 36) e Aeroluft Watch Company (linha 38)": "Começadas na v620 e interrompidas porque a Aegaon se revelou grande (fica sozinha). Parciais em historico/parcial_Aenigma_* e parcial_Aeroluft_* e notas_Aenigma.md / notas_Aeroluft.md (12 e 22 relógios já anotados, fontes já abertas). Na próxima execução, aproveitar esses arquivos (não reabrir as fontes listadas) e somar o que falta.",
-  "Agavus (linha 51)": "GRANDE (97 produtos em agavus.us). Fazer sozinha. Ver historico/notas_agavus.md.",
+  "Agavus (linha 51)": "Gravada em 15/11/2026 (v623), 38 relógios (98415-98452). Complemento futuro com navegador/Firecrawl: agavus.us/collections/all páginas 3-5 e products.json (pediram permissão), Amazon México (robots) para modelos antigos de 2021.",
   "Aft and Anchor Watch Co (linha 49)": "Adiada em 15/11/2026: só o site oficial (4 relógios Founder Edition em pré-venda + coleção The Teresa em breve). Dados prontos em historico/dados_aftanchor.txt; falta decisão do usuário sobre a trava."
  },
  "marcas_pendentes": [],
