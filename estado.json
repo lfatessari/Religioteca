@@ -10593,7 +10593,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T12:45:04Z",
- "ultimo_sinal": "2026-11-15T12:45:04Z",
+ "ultimo_sinal": "2026-11-15T12:56:54Z",
  "em_andamento": {
   "marcas": [
    "Alba"
@@ -10603,7 +10603,10 @@
   "relogios": "historico/parcial_alba_relogios.txt",
   "fontes": "historico/parcial_alba_fontes.txt",
   "notas": "historico/notas_alba.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
