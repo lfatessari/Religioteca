@@ -10502,7 +10502,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T09:42:21Z",
- "ultimo_sinal": "2026-11-15T09:57:08Z",
+ "ultimo_sinal": "2026-11-15T10:00:10Z",
  "em_andamento": {
   "marcas": [
    "ÁIGI"
@@ -10514,7 +10514,8 @@
   "notas": "historico/notas_AIGI.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c-parcial"
   ],
   "passada": 1
  }
