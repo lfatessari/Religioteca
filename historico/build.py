@@ -1,6 +1,6 @@
 import re,glob,sys
 # fontes de dados: raw_all.txt (CODE|C|desc|src) e jt_*.txt (urls do jamtangan, uma por linha)
-STOP=set('men man mens ladies lady women woman womens couple unisex black silver blue white green red brown gold rose grey gray yellow pink purple orange navy beige cream dark dial skeleton digital automatic chronograph chrono sport analog stainless steel leather rubber strap mesh silicone special limited edition series bundling extra and the of luke darth obiwan boba mandalorian r2d2 grogu padawan jedi kenobi maul vader star death watch quartz multifunction classic passion square rectangular glitter gunmetal mother pearl mop titanium carbon ceramic sapphire full tone two dual moon phase nato canvas transparent camo multicolor multi colour color tosca champagne bronze copper army tan maroon light open heart tourbillon gl sunray baby cotton macaron 25th panda tiffany acetate st anniversary v2 dress tank lb'.split())
+STOP=set('men man mens ladies lady women woman womens couple unisex black silver blue white green red brown gold rose grey gray yellow pink purple orange navy beige cream dark dial skeleton digital automatic chronograph chrono sport analog stainless steel leather rubber strap mesh silicone special limited edition series bundling extra and the of luke darth obiwan boba mandalorian r2d2 grogu padawan jedi kenobi maul vader star death watch quartz multifunction classic passion square rectangular glitter gunmetal mother pearl mop titanium carbon ceramic sapphire full tone two dual moon phase nato canvas transparent camo multicolor multi colour color tosca champagne bronze copper army tan maroon light open heart tourbillon gl gift set sillicone sunray baby cotton macaron 25th panda tiffany acetate st anniversary v2 dress tank lb'.split())
 def split_code(c):
     c=re.sub(r'[\s\-]','',c.upper())
     if c.startswith('AC'): c=c[2:]
@@ -29,11 +29,11 @@ for l in open('/home/claude/trabalho/raw_all.txt'):
     p=l.rstrip('\n').split('|')
     if len(p)<4: continue
     add(p[0],p[1],p[2],p[3],p[4] if len(p)>4 else '')
-COLL={'macaron':'Classic Steel Macaron Series','25th-anniversary':'25th Anniversary – edição limitada','primo-steel':'Primo Steel','asteria':'Asteria','x-star-wars':'Star Wars','classic-steel':'Classic Steel','passion':'Passion','smart-gen-3':'AC Smart Gen 3','special-edition':'Special Edition','-digi-ac':'AC DiGi','25th-anniversary':'25th Anniversary','primo':'Primo','sapphire':'Sapphire','ring':'Ring Watch','reminiscence':'Reminiscence'}
+COLL={'macaron':'Classic Steel Macaron Series','25th-anniversary':'25th Anniversary – edição limitada','classic-slim':'Classic Slim','green-ocean':'Green Ocean','slim-elegance':'Slim Elegance','primo-steel':'Primo Steel','asteria':'Asteria','x-star-wars':'Star Wars','classic-steel':'Classic Steel','passion':'Passion','smart-gen-3':'AC Smart Gen 3','special-edition':'Special Edition','-digi-ac':'AC DiGi','25th-anniversary':'25th Anniversary','primo':'Primo','sapphire':'Sapphire','ring':'Ring Watch','reminiscence':'Reminiscence'}
 for f in sorted(glob.glob('/home/claude/trabalho/jt_*.txt')):
     for u in open(f):
         u=u.strip()
-        if 'jamtangan.com' not in u: continue
+        if 'jamtangan.com' not in u and 'tokopedia.com' not in u: continue
         slug=u.split('/')[-1].replace('.html','').replace(' ','-').replace('%20','-').replace('%C2%A0','-').replace('(','-').replace(')','')
         m=re.search(r'(?:^|-)ac-([0-9][0-9a-z]{3}|s\d{3})-(.*)$',slug)
         if not m: continue
@@ -54,10 +54,10 @@ for f in sorted(glob.glob('/home/claude/trabalho/jt_*.txt')):
         sp=split_code(full)
         if not sp: continue
         b,t,r=sp
-        if r and not re.search(r'\d$',r):
+        if 'jamtangan' in u and r and not re.search(r'\d$',r):
             img=f'https://assets.jamtangan.com/images/product/alexandre-christie/ACF-{b}-{t}{r}/1l_800x800.jpg'
         else: img=u
-        add(full,img,pre.replace('-',' ')+' '+rest,'jamtangan',coll)
+        add(full,img,pre.replace('-',' ')+' '+rest,'jamtangan' if 'jamtangan' in u else 'tokopedia',coll)
 print(len(rows),file=sys.stderr)
 TR=[('chronograph','Cronógrafo'),('chrono','Cronógrafo'),('automatic','Automático'),('mechanical','Automático'),('multifunction','Multifunção'),('multi-function','Multifunção'),('multi ','Multifunção'),('digital','Digital'),('smart','Smartwatch')]
 def desc_pt(d,coll):
@@ -105,7 +105,7 @@ for key in sorted(rows, key=lambda k:(rows[k]['b'],rows[k]['t'],rows[k]['r'])):
         cod=''
         nome=nome+(x['r'] if x['r'] else '')+' – '+(desc_pt(x['desc'],coll).rstrip('.').lower() or 'variante')
     e=desc_pt(x['desc'],coll)
-    if x['C'].startswith('https://www.nykaafashion') or '/p/' in x['C'] or 'kamalwatch.com/products' in x['C']:
+    if x['C'].startswith('https://www.nykaafashion') or '/p/' in x['C'] or 'kamalwatch.com/products' in x['C'] or 'tokopedia.com' in x['C'] or 'skywatches.com.sg/' in x['C'] and '/products/' in x['C'] or 'tatacliq.com/' in x['C'] and '/p-' in x['C'] or 'zalora' in x['C']:
         e=(e+' ' if e else '')+'Visto só no título da página do produto (link da página).'
     out.write(f"{nome}|{cod}|{x['C']}|{e}\n")
 out.close()
