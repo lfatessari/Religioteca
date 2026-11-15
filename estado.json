@@ -10690,7 +10690,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T18:43:14Z",
- "ultimo_sinal": "2026-11-15T19:03:01Z",
+ "ultimo_sinal": "2026-11-15T19:07:46Z",
  "em_andamento": {
   "marcas": [
    "Analog Watch Co.",
@@ -10705,12 +10705,15 @@
   "secoes_feitas": [
    "1",
    "2",
+   "2c",
    "3",
    "5",
    "7",
-   "9"
+   "9",
+   "10",
+   "2a passada"
   ],
-  "passada": 1,
+  "passada": 3,
   "obs": "Analog e Anders prontas (historico/parcial_analog_*, parcial_anders_*); AndoAndoAndo em pesquisa, GRANDE (25 fontes); adiadas: Alternative Symmetry, Altura, ALVION, Amaros, Amaux Boze, Amir"
  }
 }
