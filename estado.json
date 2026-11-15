@@ -10426,7 +10426,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T05:42:23Z",
- "ultimo_sinal": "2026-11-15T05:51:06Z",
+ "ultimo_sinal": "2026-11-15T05:53:51Z",
  "em_andamento": {
   "marcas": [
    "Aegaon"
@@ -10437,7 +10437,8 @@
   "fontes": "historico/parcial_Aegaon_fontes.txt",
   "notas": "historico/notas_Aegaon.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2"
   ],
   "passada": 1
  }
