@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 33,
-  "ultima_versao": 618,
+  "proxima_linha_marcas": 34,
+  "ultima_versao": 619,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10334,6 +10334,17 @@
           53
         ]
       }
+    },
+    {
+      "marca": "Advisor Watch Company",
+      "linha_marcas": 34,
+      "data": "2026-11-15",
+      "versao": 619,
+      "linhas_relogios": "98205-98219",
+      "relogios": 15,
+      "vermelho": false,
+      "site_bloqueado": "parcial",
+      "fontes": 30
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10401,7 +10412,8 @@
     "Marcas novas v547 (10/11/2026)": "72 marcas novas inseridas na aba Marcas (1977 + 71 da lista da letra A), a pedido do usuário, SEM relógios e sem entrar em marcas_novas_sem_relogios (o usuário pediu para não avançar para a aba Relógios ainda). 41 com dados; 31 só com nome/Instagram (dados pendentes, ver coluna M). Lista completa das 567 marcas que faltam (Microbrand Atlas + letra A) em historico/marcas_novas_2026-11/faltam.md. (os números de linha mudaram na v548; achar pelo nome).",
     "Marcas novas v548 (11/11/2026)": "33 marcas do Microbrand Atlas (números e letra A) inseridas na aba Marcas, sem relógios e fora de marcas_novas_sem_relogios. Dados em historico/marcas_novas_2026-11/lote2.json.",
     "Deslocamento v570 (AATOS)": "AATOS saiu da aba Marcas na v570: os números de linha citados nos avisos anteriores a 14/11/2026 estão 1 acima do real para marcas depois de AATOS. Achar sempre pelo NOME.",
-    "a.b.art (linha 18)": "Gravada em 15/11/2026 (v616), 163 relógios (96954-97116), vermelha. Complemento futuro: PDFs da página abartwatches.com/pages/publications (Dropbox: press releases 2010-2016, Damask 2013, OA All Black, Red Dot 2009, press reviews 2003-2010; pediram permissão), fotos das ~35 linhas só com link (abartwatches.com: KLD/KSD/MA/DP/W/G104-121; produtos escondidos OA103, OC150, W101, D101, GA24), séries antigas A, D, E, EL, ES, L, K, T, Z, M, DL (6 variações) e Magic Day Date, Pinterest/eBay (anúncios pediram permissão), Raspe série KLD (a-b-art-serie-kld), Yahoo Taiwan/Pinkoi (OC, DL), Firecrawl sem créditos nesta execução."
+    "a.b.art (linha 18)": "Gravada em 15/11/2026 (v616), 163 relógios (96954-97116), vermelha. Complemento futuro: PDFs da página abartwatches.com/pages/publications (Dropbox: press releases 2010-2016, Damask 2013, OA All Black, Red Dot 2009, press reviews 2003-2010; pediram permissão), fotos das ~35 linhas só com link (abartwatches.com: KLD/KSD/MA/DP/W/G104-121; produtos escondidos OA103, OC150, W101, D101, GA24), séries antigas A, D, E, EL, ES, L, K, T, Z, M, DL (6 variações) e Magic Day Date, Pinterest/eBay (anúncios pediram permissão), Raspe série KLD (a-b-art-serie-kld), Yahoo Taiwan/Pinkoi (OC, DL), Firecrawl sem créditos nesta execução.",
+    "Aenigma Watches (linha 36)": "Pré-pesquisa feita em 15/11/2026 (v619) e guardada em historico/notas_Aenigma.md e parcial_Aenigma_fontes.txt (site aenigma.world: ~19 modelos achados). Fazer depois da Aegaon (grande), aproveitando essas notas."
   },
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],

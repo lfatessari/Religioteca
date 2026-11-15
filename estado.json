@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 33,
-  "ultima_versao": 618,
+  "proxima_linha_marcas": 34,
+  "ultima_versao": 619,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10334,6 +10334,17 @@
           53
         ]
       }
+    },
+    {
+      "marca": "Advisor Watch Company",
+      "linha_marcas": 34,
+      "data": "2026-11-15",
+      "versao": 619,
+      "linhas_relogios": "98205-98219",
+      "relogios": 15,
+      "vermelho": false,
+      "site_bloqueado": "parcial",
+      "fontes": 30
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10413,21 +10424,5 @@
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
-  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "em_execucao": "2026-11-15T04:45:10Z",
-  "ultimo_sinal": "2026-11-15T04:52:58Z",
-  "em_andamento": {
-    "marcas": [
-      "Advisor Watch Company"
-    ],
-    "linha_marcas": 34,
-    "grande": false,
-    "relogios": "historico/parcial_Advisor_relogios.txt",
-    "fontes": "historico/parcial_Advisor_fontes.txt",
-    "notas": "historico/notas_Advisor.md",
-    "secoes_feitas": [
-      "1"
-    ],
-    "passada": 1
-  }
+  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
