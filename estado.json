@@ -10388,7 +10388,7 @@
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "em_execucao": "2026-11-15T03:42:39Z",
-  "ultimo_sinal": "2026-11-15T03:53:29Z",
+  "ultimo_sinal": "2026-11-15T04:08:45Z",
   "em_andamento": {
     "marcas": [
       "Adriatica"
@@ -10400,7 +10400,10 @@
     "notas": "historico/notas_Adriatica.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3",
+      "4"
     ],
     "passada": 1
   }

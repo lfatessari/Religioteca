@@ -5,3 +5,8 @@
 - Faltam: essence, sophia (retentar), moonphase her, pairs lady, automatic lady, milano, chrono for her; depois lojas (Polônia), agregadores, imprensa.
 - Firecrawl sem créditos (renova 13:43 UTC).
 - Marca será VERMELHA (centenas de refs não alcançáveis por paginação).
+- Watchard (1154 anúncios, paginação ignorada): 99 códigos com URL de produto (sem foto) -> wa/p1url.txt
+- Justintime.in coleção 207 (29 códigos, sem URL) -> wa/jit.txt (contar novos depois); Empik 1716 anúncios (30 códigos, pág.2+ robots) -> wa/emp1.txt
+- Press 2024/2025: refs 8343.5154SA, 3543.1143DQ, 3333.214ZA, 1992.5214A, 8328.5215SA, 8383.4116CH, 8277.5114AO, 8256.1223A, 3802.1116AD, 3198.1183DA, 8336.1113CH. Europa Star: 8282.2217CH.
+- Tourbillon A8888.4114M: titânio 45 mm, Landeron PWL 101 manual, turbilhão voador, "limited edition" sem nº.
+- Catálogos PDF 2025/2026: PROVENANCE (não abriram).
