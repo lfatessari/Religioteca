@@ -34,6 +34,12 @@ ADIADAS = {
     "Alpharo": "só o site oficial (Model 1); alpharo.co.uk não abre pela WebFetch (PROVENANCE) e nenhuma busca trouxe loja ou imprensa (15/11/2026, v634) — refazer com Firecrawl",
     "Alp Watches": "1 modelo (ALP-1 Aurea, por reserva); alpwatches.com não abre pela WebFetch (PROVENANCE); só 2–3 matérias (quotidianomotori, gearpatrol) — refazer com Firecrawl no oficial para usar o catálogo fechado (15/11/2026, v634)",
     "Alpha-Leonis": "só o site oficial (XR-72 em 9 mostradores + XR-71); nenhuma fonte externa com a lista (busca de 15/11/2026, v633)",
+    "Alternative Symmetry": "alt-sym.com não abre pela WebFetch (PROVENANCE) e nenhuma busca trouxe a marca (15/11/2026, v635) — refazer com Firecrawl",
+    "Altura Watches": "pré-lançamento, sem site (só Instagram e lista de espera); buscas sem resultado (15/11/2026, v635)",
+    "ALVION": "2 modelos; alvionwatches.com não abre pela WebFetch (PROVENANCE) e nenhuma busca trouxe a marca (15/11/2026, v635) — refazer com Firecrawl",
+    "Amaros": "1–2 modelos; amaros-watches.com não abre pela WebFetch (PROVENANCE); só a The Watch Gallery na busca (15/11/2026, v635) — refazer com Firecrawl",
+    "Amaux Boze": "amauxboze.com não abre pela WebFetch (PROVENANCE) e a busca não trouxe a marca (15/11/2026, v635) — refazer com Firecrawl",
+    "Amir Watch Company": "pré-lançamento (Dragonfly 'em breve'); amirwatchcompany.com não abre pela WebFetch (PROVENANCE) (15/11/2026, v635)",
 }
 
 

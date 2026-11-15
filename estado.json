@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 102,
- "ultima_versao": 634,
+ "proxima_linha_marcas": 117,
+ "ultima_versao": 635,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10601,6 +10601,35 @@
    "fontes": 47,
    "grande": true,
    "obs": "Firecrawl sem créditos; oficial PROVENANCE; muitos modelos só por título de anúncio (in-vendita.it); 3ª passada só 4 fontes (buscas esgotadas). Alpharo e Alp Watches adiadas."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 635,
+   "marca": "Analog Watch Co., Anders & Co Timepieces, AndoAndoAndo Design",
+   "linha_marcas": "112, 114, 117",
+   "linhas_relogios": "100717-100835",
+   "relogios": 119,
+   "detalhe": {
+    "Analog Watch Co.": {
+     "relogios": 22,
+     "fontes": 22,
+     "vermelho": false,
+     "site_bloqueado": true
+    },
+    "Anders & Co Timepieces": {
+     "relogios": 27,
+     "fontes": 19,
+     "vermelho": false
+    },
+    "AndoAndoAndo Design": {
+     "relogios": 70,
+     "fontes": 68,
+     "vermelho": true,
+     "grande": true,
+     "passadas": "42/15/11 fontes; 52/16/2 relógios"
+    }
+   },
+   "obs": "Firecrawl sem créditos; sites oficiais diretos deram PROVENANCE (só o de Anders abriu). Adiadas: Alternative Symmetry, Altura, ALVION, Amaros, Amaux Boze, Amir. Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10688,32 +10717,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-15T18:43:14Z",
- "ultimo_sinal": "2026-11-15T19:07:46Z",
- "em_andamento": {
-  "marcas": [
-   "Analog Watch Co.",
-   "Anders & Co Timepieces",
-   "AndoAndoAndo Design"
-  ],
-  "linha_marcas": 112,
-  "grande": true,
-  "relogios": "historico/parcial_analog_relogios.txt",
-  "fontes": "historico/parcial_analog_fontes.txt",
-  "notas": "historico/notas_analog.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "9",
-   "10",
-   "2a passada"
-  ],
-  "passada": 3,
-  "obs": "Analog e Anders prontas (historico/parcial_analog_*, parcial_anders_*); AndoAndoAndo em pesquisa, GRANDE (25 fontes); adiadas: Alternative Symmetry, Altura, ALVION, Amaros, Amaux Boze, Amir"
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
