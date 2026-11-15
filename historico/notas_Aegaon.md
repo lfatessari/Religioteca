@@ -15,3 +15,4 @@ Linhas: Tabula Rasa 44, TR38 men/ladies, TR44 Anniversary, Genesis 2.0, Genesis 
 - Kalev/Cramo Ltd (dez/2025) — modelo Tabula Rasa 44 (coluna J).
 - Iris 8 cores; TR38 men + quartz + Rose Gold M/B/W; TR44 ~22.
 Falta: tribute-45-quartz collection, TR38 page 2, ladies p2, iris, peacemaker65, 53SE tab, genesis 48, about, New Labels Only, productfrom, amazon, kaekellad.ee, smartrend, youtube, pinterest.
+- 06:10: SKUs obtidos nas fichas (TR-*, TR38-*); Temptation/Tribute/Genesis48 fichas 404 (escondidas) -> entram com link. Anniversary = TR44 caixa ouro rosé champanhe, mostrador verde ou preto (2026).
