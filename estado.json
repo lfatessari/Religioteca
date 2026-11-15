@@ -10677,19 +10677,21 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T17:45:46Z",
- "ultimo_sinal": "2026-11-15T17:45:46Z",
+ "ultimo_sinal": "2026-11-15T17:54:15Z",
  "em_andamento": {
   "marcas": [
-   "Alpharo",
-   "Alp Watches",
    "Altanus Genève"
   ],
-  "linha_marcas": 98,
-  "grande": false,
-  "relogios": "historico/parcial_alpharo_relogios.txt",
-  "fontes": "historico/parcial_alpharo_fontes.txt",
+  "linha_marcas": 102,
+  "grande": true,
+  "relogios": "historico/parcial_altanus_relogios.txt",
+  "fontes": "historico/parcial_altanus_fontes.txt",
   "notas": "historico/notas_bateria.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
