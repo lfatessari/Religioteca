@@ -1,0 +1,72 @@
+{
+ "marca": "Albedo Watches",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://albedowatches.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://albedowatches.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://albedowatches.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.robbieandwatches.co.uk/single-post/quality-and-execution-albedo-solaris-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/2025-albedo-1901-chronograph-seagull-st-1901-40mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/albedo/albedo-albedo-1901-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://albedowatches.com/collections/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cjeastwd.blogspot.com/2026/03",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "catalogo_fechado": {
+  "oficial": "https://albedowatches.com/products.json?limit=250",
+  "confirmacoes": [
+   "https://www.robbieandwatches.co.uk/single-post/quality-and-execution-albedo-solaris-chronograph",
+   "https://kibblewatches.co.uk/products/2025-albedo-1901-chronograph-seagull-st-1901-40mm"
+  ]
+ },
+ "correcoes": {
+  "J": "Albedo 1901 Chronograph (A1901) — cronógrafo mecânico Seagull ST-1901, 40 mm; 499,99 €\n\nSolaris Black, Blue e Silver (SOL150BLK, SOL150B, SOL150SL) — meca-quartzo VK63, 39 mm, 100 m; 299,99 a 399,99 € conforme a pulseira",
+  "I": "\"Honest Horology. No Compromises.\" é como a Albedo se apresenta. A marca foi fundada em 2022 em Horst, na Holanda, e conta que o criador ganhou a companhia do irmão, Sarkis, e do melhor amigo, Qais. A proposta é cortar as margens da indústria e entregar de série o que costuma ser opcional: vidro de safira e couro italiano de flor integral.\n\nO primeiro modelo foi o Albedo 1901, um cronógrafo mecânico com o calibre ST-1901 e regulador pescoço de cisne dourado, definido em 2023 e lançado em 2024. Em 2026 veio a Solaris, um cronógrafo meca-quartzo de 39 mm com 100 metros de resistência à água, em três cores."
+ },
+ "correcoes_fontes": {
+  "J": [
+   "https://albedowatches.com/products.json?limit=250"
+  ],
+  "I": [
+   "https://albedowatches.com/pages/about-us",
+   "https://albedowatches.com/products.json?limit=250"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 15/11/2026 (v630): 4 linhas, catálogo fechado (loja oficial com 4 relógios; Robbie & Watches confirma as 3 Solaris, Kibble Watches confirma o 1901 A1901). Corrigido: J (antes '1901 em pré-venda; Solaris 229,99 €' → preços atuais do site) e o 2º parágrafo de I (o 1901 veio primeiro, em 2024, e a Solaris em 2026; antes dizia que a Solaris era a entrada e o 1901 o passo seguinte, em pré-venda), pela página 'About us' e pela loja oficial. Ainda a verificar: nome do fundador, Levon, visto só num trecho de busca de um post no Reddit r/MicrobrandWatches ('We made it to our second release!')."
+}

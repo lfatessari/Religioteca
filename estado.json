@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 70,
- "ultima_versao": 629,
+ "proxima_linha_marcas": 77,
+ "ultima_versao": 630,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10517,6 +10517,40 @@
    "fontes": 80,
    "grande": true,
    "obs": "Grande e vermelha; 3 passadas (54/16/10 fontes; 1015/10/7 novos). Catálogo JP (alba.jp, fotos contents.seikowatches.com), internacional (Thong Sia HK 7 séries, lojas oficiais Índia/Filipinas, watches.ae), JDM antigos (Sakura Watches), vintage (AKA, Spoon, Success, Lagoon). 165 linhas só com link de página. Firecrawl sem créditos. Corrigidos I e J. Alain Blanco (66) adiada (ADIADAS)."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 630,
+   "marca": "Albany Watches",
+   "linha_marcas": 71,
+   "linhas_relogios": "99739-99743",
+   "relogios": 5,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 630,
+   "marca": "Albedo Watches",
+   "linha_marcas": 72,
+   "linhas_relogios": "99744-99747",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 8,
+   "catalogo_fechado": true
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 630,
+   "marca": "Aleksandr Nesterenko",
+   "linha_marcas": 77,
+   "linhas_relogios": "99748-99757",
+   "relogios": 10,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10604,21 +10638,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-15T13:42:58Z",
- "ultimo_sinal": "2026-11-15T13:42:58Z",
- "em_andamento": {
-  "marcas": [
-   "Albany Watches",
-   "Albedo Watches",
-   "Aleksandr Nesterenko"
-  ],
-  "linha_marcas": 71,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
