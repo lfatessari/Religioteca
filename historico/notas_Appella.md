@@ -5,3 +5,7 @@ Coleções vistas: Classic, Diamonds, Classic Diamonds, Sapphire Diamond, Moonph
 Outras fontes: gindigold.com (?p=4565 artigo; filtro de marca product-category/watches/?filter_brand=appella; fotos wp-content/uploads/2026/04/<ref sem ponto>-appella-gent-watch-N.jpg), Europa Star (1000497120 diamonds, 1000455095 highlights, 1001054895 chronograph signature, 1001883827 slimmest gold watch), mrm-style.com (?p=13128), clinks.com.
 appellawatches.ch: PROVENANCE na WebFetch. Firecrawl sem créditos.
 Fontes já abertas (não reabrir; contam para o mínimo): https://watchard.com/appella-watches (99), https://gindigold.com/en/?p=4565 (0)
+Firecrawl sem créditos (15/11 20:45). watchard ?p=2 devolve a página 1. Padrão foto watchard: media/catalog/product/z/e/zegarek-appella-<ref minúscula, ponto→hífen>-01.jpg (og:image).
+e-katalog.pl refs: L70010.5224A L70012.5215Q L70012.1213Q L12005.1263Q
+Padrão de foto da watchard VARIA (zegarek-meski/damski, _1, subpastas e/9) → não montar; refs só vistas em URL de busca entram com link da página em C.
+Europa Star (mai/2004, diamond collection): criada em 1943 em Porrentruy (Jura suíço), fundador "Paul Glocker"; sede em Genebra; >70 países. Site antigo www.appella.com (2004-05). Coleções 2004: Diamond (24 modelos base), 18k Gold, Mechanical (cronômetros, Chronograph Speciality ETA 7751 fase da lua, Perpetual Classic 7750). Galerias citadas: Infinitus 2006/2007, Cronos, Sheikh Zayed Collection — buscar. e-katalog lista: client_error.
