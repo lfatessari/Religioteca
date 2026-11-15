@@ -8,7 +8,7 @@ def split_code(c):
     if not m: return None
     b,a=m.group(1),m.group(2)
     CORES={'BR','SS','IP','RG','TB','EP','GP','TR','UR','CA','IG','TE','GU','RO','CB','BU','BP','TU','GA','CU','TP','UB','GE','ZB','BN','GC','SB'}
-    if len(a)>=4 and a[0] in 'BLRN' and a[1:3] in CORES: return b,'',a
+    if len(a)>=4 and a[0] in 'BLRNF' and a[1:3] in CORES: return b,'',a
     if a.startswith('XXV'): return b,'XXV',a[3:]
     if len(a)>=2 and a[:2].isalpha(): return b,a[:2],a[2:]
     return b,'',a
@@ -54,7 +54,7 @@ for f in sorted(glob.glob('/home/claude/trabalho/jt_*.txt')):
         sp=split_code(full)
         if not sp: continue
         b,t,r=sp
-        if 'jamtangan' in u and r:
+        if 'jamtangan' in u and r and t:
             rr=re.sub(r'(\D)(\d)$',r'\1-\2',r)
             img=f'https://assets.jamtangan.com/images/product/alexandre-christie/ACF-{b}-{t}{rr}/1l_800x800.jpg'
         else: img=u
