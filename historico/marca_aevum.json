@@ -1,0 +1,151 @@
+{
+ "marca": "Aevum",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 15/11/2026 (v622): 19 modelos. C corrigido: \"Osaka\" → \"Hirakata (Osaka)\" (o site oficial diz que a marca virou Garage Hira, oficina de uma pessoa só em Hirakata, Osaka; páginas more-about-aevum e llms.txt). O site agora assina \"Aevum x 平 / Garage Hira\". O primeiro relógio foi o Apex \"1st Lap\" (50 peças prateadas + 50 pretas). Só o Track Tech mostra código (SKU AE03-TT).",
+ "correcoes": {
+  "C": "Hirakata (Osaka)"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.aevumtime.com/more-about-aevum",
+   "https://www.aevumtime.com/llms.txt"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://aevumtime.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.carlthompson.co.uk/further-reading-blogs/2024/11/26/aevum-watches-handcrafted-at-its-finest",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2021/01/11/off-the-cuff-aevum-advance-carbon/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=10021",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.aevumtime.com/shop",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.aevumtime.com/shop?page=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.metropoliswatches.com/brand/aevum-timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/product-page/aevum-x-ando-turbo-fan-super-lite-titanium-automatic-watch-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/product-page/aevum-type-01-super-lite-titanium-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/product-page/aevum-type-00-super-lite-titanium-gmt-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/coming-soon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/product-page/garage-hira-overspray-monocompax-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aevumtime.com/product-page/garage-hira-overspray-monocompax",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/carbon-limited-specs",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/aevumtime/the-advance-hi-viz-automatic-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aevumtime.com/product-page/track-tech-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/product-page/track-tech-chronograph-frost-and-pink-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetoblogwatches.com/2020/10/05/watch-review-aevum-advance/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.zaltekreviews.com/aevum-track-tech/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/116764040324",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/llms.txt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/more-about-aevum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/Dadmodswatches/posts/have-you-heard-of-aevum-watches-389511",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/in-depth/northern-touch-canadian-brands-to-watch-out-for/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/tag/carbon-fibre/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aevumtime.com/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

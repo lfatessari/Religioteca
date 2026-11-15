@@ -23,6 +23,14 @@ APELIDOS = {
 PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904"}
 
 
+# marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
+# Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
+ADIADAS = {
+    "Aft and Anchor Watch Co": "só o site oficial existe (4 relógios em pré-venda); sem fontes externas para a trava",
+    "Agapever Watches": "pré-lançamento, sem site nem relógios publicados",
+}
+
+
 def chave(s):
     s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z0-9]", "", s)
@@ -39,8 +47,10 @@ def main():
         (i, r[0]) for i, r in enumerate(wb["Marcas"].iter_rows(min_row=2, max_col=1, values_only=True), 2) if r[0]
     ]
     sem = [(i, m) for i, m in linhas
-           if m in PESQUISAR_MESMO_ASSIM or feitas[chave(APELIDOS.get(m, m))] == 0]
+           if m not in ADIADAS and (m in PESQUISAR_MESMO_ASSIM or feitas[chave(APELIDOS.get(m, m))] == 0)]
     print(f"marcas sem relógios: {len(sem)} de {len(linhas)}")
+    for m, motivo in ADIADAS.items():
+        print(f"(adiada: {m} — {motivo})")
     for i, m in sem[:quantas]:
         print(i, m)
 
