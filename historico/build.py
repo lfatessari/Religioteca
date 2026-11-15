@@ -12,6 +12,7 @@ def split_code(c):
     if a.startswith('XXV'): return b,'XXV',a[3:]
     if len(a)>=2 and a[:2].isalpha(): return b,a[:2],a[2:]
     return b,'',a
+def is_page(C): return any(k in C for k in ('/p/','/products/','/p-','tokopedia.com','zalora','nykaafashion')) and not re.search(r'\.(jpg|jpeg|png|webp)',C)
 rows={}
 def add(code,C,desc,src,coll=''):
     sp=split_code(code)
@@ -20,7 +21,7 @@ def add(code,C,desc,src,coll=''):
     if key in rows:
         old=rows[key]
         # preferir foto direta (cdn) a link de pagina
-        if ('/p/' in old['C'] or '/products/' in old['C']) and not ('/p/' in C or '/products/' in C): old['C']=C
+        if is_page(old['C']) and not is_page(C): old['C']=C
         if len(desc)>len(old['desc']): old['desc']=desc
         if coll and not old['coll']: old['coll']=coll
         return
@@ -107,7 +108,9 @@ for key in sorted(rows, key=lambda k:(rows[k]['b'],rows[k]['t'],rows[k]['r'])):
         cod=''
         nome=nome+(x['r'] if x['r'] else '')+' – '+(desc_pt(x['desc'],coll).rstrip('.').lower() or 'variante')
     e=desc_pt(x['desc'],coll)
-    if x['C'].startswith('https://www.nykaafashion') or '/p/' in x['C'] or 'kamalwatch.com/products' in x['C'] or 'tokopedia.com' in x['C'] or 'skywatches.com.sg/' in x['C'] and '/products/' in x['C'] or 'tatacliq.com/' in x['C'] and '/p-' in x['C'] or 'zalora' in x['C']:
+    if 'zalora' in x['C']:
+        e=(e+' ' if e else '')+'Visto só na lista da loja Zalora (link da página da loja).'
+    elif is_page(x['C']):
         e=(e+' ' if e else '')+'Visto só no título da página do produto (link da página).'
     out.write(f"{nome}|{cod}|{x['C']}|{e}\n")
 out.close()

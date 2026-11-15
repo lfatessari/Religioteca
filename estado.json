@@ -10652,7 +10652,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T15:42:59Z",
- "ultimo_sinal": "2026-11-15T16:07:27Z",
+ "ultimo_sinal": "2026-11-15T16:09:42Z",
  "em_andamento": {
   "marcas": [
    "Alexandre Christie"
@@ -10674,7 +10674,8 @@
    "8",
    "9",
    "10",
-   "2a_passada_em_curso"
+   "10b",
+   "2a_passada"
   ],
   "passada": 1
  }
