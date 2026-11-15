@@ -1,0 +1,256 @@
+{
+ "marca": "Ajwain Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "C": "Mumbai",
+  "D": "Microbrand indiana de Mumbai com cronógrafos mecânicos e relógios de campo de temática local, a preços acessíveis.",
+  "I": "A Ajwain foi criada em Mumbai pelo ex-executivo Vikram Narula e faz parte da nova geração de microbrands indianas. Os nomes dos modelos vêm da cultura e da história do país: Sholavaram é o antigo circuito de corridas perto de Chennai, Kakori 8 Down lembra o assalto ao trem de Kakori, de 1925, e as linhas Shastra e Khaki trazem edições como Jagdamba, Swarajya, Namak e Nishaan.\n\nO Sholavaram III é um cronógrafo mecânico com o Seagull ST1901; outras linhas usam movimentos Miyota, o indiano Allwyn A6300 (Shastra e Khaki) e o HMT 0231 (Malhar). Os preços ficam entre cerca de 14 mil e 38 mil rúpias."
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://ajwa.in/pages/watches",
+   "https://www.esquireindia.co.in/style/watches-and-jewellery/inside-indias-rising-watch-microbrands-kala-ajwain-delhi-bangalore-and-jaipur-watch-companies-redefine-homegrown-horology",
+   "https://www.outlookbusiness.com/feature/indian-watchmakers-revisit-history-to-gatecrash-the-rolexpatek-philippe-party"
+  ],
+  "D": [
+   "https://ajwa.in/pages/watches",
+   "https://www.esquireindia.co.in/style/watches-and-jewellery/inside-indias-rising-watch-microbrands-kala-ajwain-delhi-bangalore-and-jaipur-watch-companies-redefine-homegrown-horology"
+  ],
+  "I": [
+   "https://ajwa.in/pages/watches",
+   "https://www.esquireindia.co.in/style/watches-and-jewellery/inside-indias-rising-watch-microbrands-kala-ajwain-delhi-bangalore-and-jaipur-watch-companies-redefine-homegrown-horology",
+   "https://www.outlookbusiness.com/feature/indian-watchmakers-revisit-history-to-gatecrash-the-rolexpatek-philippe-party",
+   "https://ajwa.in/products/shastra-swarajya",
+   "https://ajwa.in/product/ajwain-malhar-tiffany-blue-dial",
+   "https://ajwa.in/products/kakori-8-down-centenary-edition"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 15/11/2026 (v625): 40 modelos. Corrigido: C Bengaluru → Mumbai e D 'de Bengaluru' → 'de Mumbai' (site oficial ajwa.in/pages/watches: 'Ajwain is established in Mumbai'; Esquire India, Outlook Business e The Hour Markers: Mumbai); I: 'existe em Bengaluru desde 2017' → 'criada em Mumbai pelo ex-executivo Vikram Narula' e 'os demais usam Miyota' → Miyota, Allwyn A6300 e HMT 0231 (fichas do site oficial); acrescentado o Kakori 8 Down. Ainda a verificar: ano de fundação (site oficial: início em 2016 e fundação em 2018; Esquire e Masala Thai: 2017).",
+ "fontes": [
+  {
+   "url": "https://ajwa.in/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://ajwa.in/shop",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/pages/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thehourmarkers.com/brands/ajwain-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/sholavaram-iii-vintage-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/sholavaram-iii-tyrian-purple",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/iaf-kshitij-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/kakori-8-down-centenary-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/sholavaram-iii-type-49",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/sholavaram-iii-combi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/sholavaram-iii-vintage-panda-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/the-devi-a-tribute-to-divine-strength",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/dasara-welcome-to-karanataka",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/shastra-swarajya",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/shastra-swarajya-stealth-edition-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/shastra-tulja-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-tempvs",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/sortie-blue-fume-dial-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-khaki-naam-edition-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://swarajyamag.com/amp/story/newsletters/celebrate-indian-armys-glorious-battles-with-khaki-exquisite-limited-edition-watches-by-ajwain-swarajya",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-khaki-namak-stealth-edition-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-khaki-nishaan-edition-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-khaki-nishaan-stealth-edition-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-khaki-namak-edition-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/product/ajwain-malhar-tiffany-blue-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/?p=2755",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bizzbuzz.news/technology/celebrate-ajwain-khaki-mechanical-watchlimited-edition-basantar-1239972",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/?p=889",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/product/ajwain-sholavaram-s2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/product/ajwain-sholavaram-iii-burgundy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/product/ajwain-tempvs-automatic-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/sortie-grey-fume-dial-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.esquireindia.co.in/style/watches-and-jewellery/inside-indias-rising-watch-microbrands-kala-ajwain-delhi-bangalore-and-jaipur-watch-companies-redefine-homegrown-horology",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ajwa.in/brand-story/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/?p=1659",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.outlookbusiness.com/feature/indian-watchmakers-revisit-history-to-gatecrash-the-rolexpatek-philippe-party",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/?p=1652",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/sholavaram-iii-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-tempvs-rose-gold-finish-r-g-p",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ajwa.in/products/ajwain-tempvs-gold-finish-i-g-p",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thehourmarkers.com/articles/indian-watch-brands",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.masalathai.com/fashion/five-indian-watch-brands-making-their-mark-in-the-world-of-horology",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ajwa.in/products/pre-order-kakori-8-down",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

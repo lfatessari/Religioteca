@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 53,
- "ultima_versao": 624,
+ "proxima_linha_marcas": 59,
+ "ultima_versao": 625,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10430,6 +10430,28 @@
    "site_bloqueado": "parcial",
    "fontes": 59,
    "obs": "Dimensionada como GRANDE no meio da pesquisa (loja com 222 produtos): feita sozinha. AIM Watches e Aion Watch começadas e adiadas (notas em historico/notas_AIM.md, parcial_AIM_*, notas_Aion.md). Firecrawl sem créditos."
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 625,
+   "marca": "AIM Watches",
+   "linha_marcas": 54,
+   "linhas_relogios": "98611-98614",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15
+  },
+  {
+   "data": "2026-11-15",
+   "versao": 625,
+   "marca": "Ajwain Watches",
+   "linha_marcas": 59,
+   "linhas_relogios": "98615-98654",
+   "relogios": 40,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 44
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10503,7 +10525,8 @@
   "Agavus (linha 51)": "Gravada em 15/11/2026 (v623), 38 relógios (98415-98452). Complemento futuro com navegador/Firecrawl: agavus.us/collections/all páginas 3-5 e products.json (pediram permissão), Amazon México (robots) para modelos antigos de 2021.",
   "Aft and Anchor Watch Co (linha 49)": "Adiada em 15/11/2026: só o site oficial (4 relógios Founder Edition em pré-venda + coleção The Teresa em breve). Dados prontos em historico/dados_aftanchor.txt; falta decisão do usuário sobre a trava.",
   "ÁIGI (linha 53)": "Gravada em 15/11/2026 (v624), 158 relógios (98453-98610), vermelha. Complemento futuro com navegador/Firecrawl: aigitime.com/collections/all-watches?page=3, 5 e 6 e /collections/all?page=2..6 (não vieram em busca), miyota-quartz?page=2, classic-36mm, classic-40mm, black-november-dame/herre; Kickstarter Arctic GMT e Indiegogo 'ÁIGI Automatic'; projetos especiais Store Norske e Korvette (MTB); Arctic Ocean (coleção DIVE citada).",
-  "AIM Watches (linha 54) e Aion Watch (linha 55)": "Começadas na v624 e adiadas porque a ÁIGI se revelou grande. AIM: 4 relógios anotados e 11 fontes abertas (historico/parcial_AIM_*, notas_AIM.md; candidata a catálogo fechado). Aion: só 1 ficha aberta; links de fichas do site vieram em busca (notas_Aion.md). Na próxima execução, aproveitar esses arquivos e não reabrir as fontes listadas."
+  "Aion Watch (linha 55)": "Adiada em 15/11/2026 (v625): site oficial aionwatch.com pediu permissão (home e /shop) e a marca quase não aparece em buscas (só eBay 126714442045, Faire p_9yu9ha9h98). Firecrawl estava sem créditos. Modelos conhecidos (M da aba Marcas e historico/notas_Aion.md): Puro Elemento Luce, GMT Ultravioletto, GMT Shadow, GMT Abisso, Mark 3 Black/Blu/Cherry Red/Mint Green/White/Golden Peach, Swiss Mark 3 Mint Green e Black, Mark II Black e White. Fazer quando o Firecrawl tiver créditos (abrir aionwatch.com/shop e as fichas product-page).",
+  "Ajwain Watches (linha 59)": "Gravada em 15/11/2026 (v625), 40 relógios (98615-98654). Complemento futuro com Firecrawl: produtos antigos do WooCommerce ajwa.in/?p=NNN (Kakori 8 Down 2019/2022, Sholavaram I/II, Malhar, Tri, Break Free, Sholavaram White enamel dial chronograph) com fotos; páginas do HT e Deccan Herald sobre o Malhar (pediram permissão)."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
