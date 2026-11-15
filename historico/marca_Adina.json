@@ -1,0 +1,312 @@
+{
+ "marca": "Adina Watches",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – adinawatches.com.au: quase todas as páginas (fichas, categorias e etiquetas) dão erro (client_error) na leitura automática; só uma ficha abriu. Revisitar com navegador.",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios (v617): 372 linhas, a maioria tirada dos títulos das fichas do site oficial em resultados de busca; o site não abre para leitura automática e a revista Old Bike (2015) fala em mais de 400 modelos — marca vermelha. Ainda a verificar: a página oficial 'Bob & Grant Menzies' (adinawatches.com.au/?p=5545) diz que Bob Menzies começou em 1973 com o nome Rolma Watches, depois renomeada Adina; Wikipedia e EFTM (2018, '47º ano') dão 1971, como está em I.",
+ "fontes": [
+  {
+   "url": "https://adinawatches.com.au/product-category/automatic_adina_watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.adinawatches.com.au/product/amphibian-automatic-gmt-dive-watch-ct137s9xb/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://philpeeljewellers.com.au/collections/adina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.regencyjewellers.com.au/collections/adina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://philpeeljewellers.com.au/collections/adina?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://philpeeljewellers.com.au/products/adina-oceaneer-automatic-sports-watch-ct122-k2fb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jmleech.com.au/products/adina-amphibian-dive-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://adinawatches.com.au/product-category/bespoke",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/ADINA_Watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jewellermagazine.com/Article/8831/Adina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eftm.com/2018/04/adina-the-aussie-watch-48185",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pressreader.com/australia/old-bike-australasia/20151001/282282434099810",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.richardsonsjewellers.com.au/collections/adina",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.thejewellers.com.au/collections/adina-watches",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.ebay.com.au/str/adinawatches",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.richardsonsjewellers.com.au/collections/mens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.richardsonsjewellers.com.au/collections/ladies-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://fishersjewellers.co.nz/collections/adina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.richardsonsjewellers.com.au/collections/watches?page=3",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://adinawatches.com.au/?p=5545",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://megacash.com.au/products/aa-74",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.richardsonsjewellers.com.au/collections/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.richardsonsjewellers.com.au/pages/adina-clocks-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://burrowsjewellers.com.au/collections/adina/products/adina-countrymaster-work-watch-nk60-s1zfb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seligsjewellers.com/product-page/adina-oceaneer-sports-watch-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cashaway.com.au/adina-oceaneer-sports-watch-100m-wr-stainless-stee",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://granbergswatches.com.au/collections/adina",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.hogansfamilyjewellers.com.au/collections/adina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://granbergswatches.com.au/collections/no-stock",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://granbergswatches.com.au/products/adina-diamond-set-kensington-dress-watch-gold-ct133-g0xb-estella",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.adinawatches.com.au/two-worlds-collide-adina-watches-and-warwick-firearms-collaborate/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://warwicks.com.au/shop/limited-edition-wfa-x-adina-milspec-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.adinawatches.com.au/5903-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://speirsjewellers.com.au/collections/adina",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.adinawatches.com.au/introducing-the-new-adina-diamond-set-kensington-dress-watches/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jmleech.com.au/products/adina-oceaneer-diamond-set-watch-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jmleech.com.au/products/adina-oceaneer-prestige-sport-watch-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jmleech.com.au/products/adina-oceaneer-sports-watch-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.romanosjewellers.com.au/collections/adina-watches-in-brisbane",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://mackaysfamilyjewellers.com.au/collections/adina-watches",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.adinawatches.com.au/product-category/adina_dress_watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.merimbulajewellers.com.au/collections/adina",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mackaysfamilyjewellers.com.au/collections/all?page=8",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://legassick.diamonds/collections/watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hogansfamilyjewellers.com.au/collections/ladies-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.queenslandclocksandwatches.com/watches",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://granbergswatches.com.au/products/adina-amphibian-vintage-sports-watch-ct108-s2xs",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://granbergswatches.com.au/products/adina-amphibian-automatic-dive-watch-ct112-s2xb",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://granbergswatches.com.au/products/adina-countrymaster-automatic-underground-nk151-s1fb",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://annabellejewellers.com/collections/adina-watches",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://kalamundajewellers.com.au/collections/adina-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jadejewellers.com.au/collections/adina",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://leonbaker.com/collections/adina-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ritchiesjewellers.com.au/collections/adina",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ifamilyjewellers.com/collections/shop-all-watches",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://cambridgejewellers.co.nz/products/adina-amphibian-dive-watch-22727",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://philpeeljewellers.com.au/products/adina-nurses-watch-2",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com.au/itm/196476367483",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com.au/itm/255973421135?chn=ps&_ul=AU&mkevt=1&mkcid=28",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.regencyjewellers.com.au/products/adina-oceaneer-diamond-set-watch-rw15-g0rb-rw15_g0rb",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
