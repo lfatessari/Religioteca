@@ -10502,19 +10502,20 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T09:42:21Z",
- "ultimo_sinal": "2026-11-15T09:42:21Z",
+ "ultimo_sinal": "2026-11-15T09:57:08Z",
  "em_andamento": {
   "marcas": [
-   "ÁIGI",
-   "AIM Watches",
-   "Aion Watch"
+   "ÁIGI"
   ],
   "linha_marcas": 53,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "grande": true,
+  "relogios": "historico/parcial_AIGI_relogios_raw.txt",
+  "fontes": "historico/parcial_AIGI_fontes.txt",
+  "notas": "historico/notas_AIGI.md",
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
