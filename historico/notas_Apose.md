@@ -1,0 +1,3 @@
+# Apose (linha 141) — França, Mulhouse, fundada 2020 (Didier Finck, Ludovic Zussa) [verygoodlord]
+Oficial apose.fr: não tentado ainda (1 tentativa). Firecrawl sem créditos.
+Modelos: N°3 original (2020, Soprod), N°3 Pur Indigo (PUR.IND.24.BM), Pur Noir de jais, Radial Vert cendré, Radial All-Black (SIGN.NRAD.26.BC), Douz Celadon (DOUZ.CEL.24.BC), Douz Indigo, Douz Ardoise, Douz Or Rose & Noir (J), N°3 37 mm Série Inaugurale, N°3-100 (200 pçs, Pequignet Initial, 2022) Or Rose & Champagne / Acier & Bleu / Acier & Palladium; Longchamp colab (my-watchsite, pulseira Longchamp, 200 pçs = N°3-100); BRI (dialicious, sem dados).
