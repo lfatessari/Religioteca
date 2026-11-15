@@ -28,6 +28,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 ADIADAS = {
     "Aft and Anchor Watch Co": "só o site oficial existe (4 relógios em pré-venda); sem fontes externas para a trava",
     "Agapever Watches": "pré-lançamento, sem site nem relógios publicados",
+    "Alain Blanco": "pré-lançamento, só Instagram; nenhuma fonte com relógios (busca de 15/11/2026, v629)",
 }
 
 
