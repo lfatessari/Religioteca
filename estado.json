@@ -10352,7 +10352,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-15T01:42:23Z",
- "ultimo_sinal": "2026-11-15T02:14:39Z",
+ "ultimo_sinal": "2026-11-15T02:16:49Z",
  "em_andamento": {
   "marcas": [
    "a.b.art",
@@ -10365,10 +10365,10 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "ACIZEM: completa (falta gravar)",
-   "a.b.art: passada 1 completa (38 fontes, 151 relógios); falta 2ª passada (vermelha: séries antigas A, D, E, EL, L, K, T, Z, M)"
+   "ACIZEM completa",
+   "a.b.art passadas 1 e 2 feitas (2ª trouxe 9 novos: falta 3ª passada)"
   ],
-  "passada": 1,
+  "passada": 3,
   "obs": "a.b.art tratada como GRANDE (histórico desde 1991, centenas de refs); bateria = ACIZEM + a.b.art; Adina fica para a próxima"
  }
 }
