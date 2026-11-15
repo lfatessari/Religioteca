@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 14,
- "ultima_versao": 615,
+ "proxima_linha_marcas": 26,
+ "ultima_versao": 616,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10273,6 +10273,29 @@
    "vermelho": false,
    "site_bloqueado": false,
    "fontes": 18
+  },
+  {
+   "marca": "a.b.art",
+   "linha_marcas": 18,
+   "data": "2026-11-15",
+   "versao": 616,
+   "linhas_relogios": "96954-97116",
+   "relogios": 163,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 59,
+   "grande": true
+  },
+  {
+   "marca": "ACIZEM Watches",
+   "linha_marcas": 26,
+   "data": "2026-11-15",
+   "versao": 616,
+   "linhas_relogios": "97117-97144",
+   "relogios": 28,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 36
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10339,7 +10362,8 @@
   "Greubel Forsey (linha 867)": "Gravada em 11/11/2026 (v546), 152 relógios (96215-96366), vermelha. Firecrawl sem créditos. ~35 linhas só com link de página. Complemento futuro: site oficial com navegador (páginas /en/watches/<modelo> com variações e fotos; fichas técnicas PDF), The Watch Pages e EveryWatch (bloqueados/login), WorldTempus fichas 2901-2906, 9215, 9219, 12960-12961, 15078, 15883 (só abrem vindas de busca), Watchonista fichas de relógio, gressive.jp 2025/01,03,05 e 2026/01,03,05 (referências P0xxxx), lojas Sincere/Westime/Seddiqi; variações de metal de Quadruple Tourbillon, GMT Earth (platina), Double Balancier 35° (ouro vermelho/platina), Hand Made 1, Différentiel d'Égalité; peças únicas e encomendas especiais.",
   "Marcas novas v547 (10/11/2026)": "72 marcas novas inseridas na aba Marcas (1977 + 71 da lista da letra A), a pedido do usuário, SEM relógios e sem entrar em marcas_novas_sem_relogios (o usuário pediu para não avançar para a aba Relógios ainda). 41 com dados; 31 só com nome/Instagram (dados pendentes, ver coluna M). Lista completa das 567 marcas que faltam (Microbrand Atlas + letra A) em historico/marcas_novas_2026-11/faltam.md. (os números de linha mudaram na v548; achar pelo nome).",
   "Marcas novas v548 (11/11/2026)": "33 marcas do Microbrand Atlas (números e letra A) inseridas na aba Marcas, sem relógios e fora de marcas_novas_sem_relogios. Dados em historico/marcas_novas_2026-11/lote2.json.",
-  "Deslocamento v570 (AATOS)": "AATOS saiu da aba Marcas na v570: os números de linha citados nos avisos anteriores a 14/11/2026 estão 1 acima do real para marcas depois de AATOS. Achar sempre pelo NOME."
+  "Deslocamento v570 (AATOS)": "AATOS saiu da aba Marcas na v570: os números de linha citados nos avisos anteriores a 14/11/2026 estão 1 acima do real para marcas depois de AATOS. Achar sempre pelo NOME.",
+  "a.b.art (linha 18)": "Gravada em 15/11/2026 (v616), 163 relógios (96954-97116), vermelha. Complemento futuro: PDFs da página abartwatches.com/pages/publications (Dropbox: press releases 2010-2016, Damask 2013, OA All Black, Red Dot 2009, press reviews 2003-2010; pediram permissão), fotos das ~35 linhas só com link (abartwatches.com: KLD/KSD/MA/DP/W/G104-121; produtos escondidos OA103, OC150, W101, D101, GA24), séries antigas A, D, E, EL, ES, L, K, T, Z, M, DL (6 variações) e Magic Day Date, Pinterest/eBay (anúncios pediram permissão), Raspe série KLD (a-b-art-serie-kld), Yahoo Taiwan/Pinkoi (OC, DL), Firecrawl sem créditos nesta execução."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -10350,25 +10374,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-15T01:42:23Z",
- "ultimo_sinal": "2026-11-15T02:16:49Z",
- "em_andamento": {
-  "marcas": [
-   "a.b.art",
-   "ACIZEM Watches",
-   "Adina Watches"
-  ],
-  "linha_marcas": 18,
-  "grande": true,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "ACIZEM completa",
-   "a.b.art passadas 1 e 2 feitas (2ª trouxe 9 novos: falta 3ª passada)"
-  ],
-  "passada": 3,
-  "obs": "a.b.art tratada como GRANDE (histórico desde 1991, centenas de refs); bateria = ACIZEM + a.b.art; Adina fica para a próxima"
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
