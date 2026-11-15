@@ -7,3 +7,5 @@
 - 21 escondidos abertos pelo Firecrawl (rawHtml, JSON-LD): todos "OutOfStock"; SKUs confirmados. Nova coleção K = Classic 40 mm (K01BB-...). A03 = Treasure rosé.
 - Total oficial: 143 relógios (122 API + 21 escondidos). Fontes do sitemap: 21 novos (contados nas páginas). Seções 2 e 2c (oficial) feitas.
 - Falta: externas (lojas, agregadores, imprensa, usados), about-us (primeiro modelo), stockists.
+- Austral Stones (australstones.com.au, vende só Alexander Dauvin nos relógios; eBay "australstones" em Darling Harbour): API = mesmos SKUs + 10 relógios de pedras (lapis, madrepérola, ônix, malaquita; coleção "Royal" 38/40 mm; códigos antigos C-40SL, A-28SMS...). Páginas dizem "by Alexander Dauvin". Categoria "Showy 28mm" só tem 1 Patrick (categoria vazia/sem modelo próprio).
+- Opals Down Under: 6 "Doublet Opal Face Watch" (28/32/36/40 mm) descritos como "Alexander Dauvin Opal Face Watch", sem nome de coleção nem referência da marca (SKU da loja). NÃO viram linha (anúncio genérico; podem ser modelos do site oficial). Relatar.
