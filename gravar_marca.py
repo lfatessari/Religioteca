@@ -14,8 +14,9 @@ Trava de profundidade (conferida para TODAS as marcas antes de gravar qualquer u
     de fora, de domínios diferentes entre si e do oficial, confirmando a mesma lista): mínimo 8, e as
     3 últimas fontes da lista têm de ter "novos": 0 (critério de parada);
   - vermelho: 2ª passada com 10+ fontes novas (que não estejam na 1ª).
-Correções em B, C, D, G, H, I, J da aba Marcas (campo "correcoes") só são aceitas com
-"correcao_pedida_pelo_usuario": true. Na fase Relógios, o que se acha na aba Marcas vai só para M.
+Correções em B, C, D, G, H, I, J da aba Marcas (campo "correcoes") precisam de
+"correcoes_fontes": {"<col>": ["<url>", ...]} com fontes já abertas na pesquisa dos relógios (que estejam
+em "fontes"): corrige-se só com o que a pesquisa de relógios já mostrou, sem buscas extras.
 "complemento": true só vale para marca que já tem linhas na aba Relógios.
 """
 import sys, json, copy, re
@@ -89,9 +90,13 @@ for DADOS, CFG in pares:
             p2 = {_u(f) for f in por_passada.get(2, [])} - p1
             if len(p2) < 10: problemas.append(f'{marca}: marca vermelha, a 2ª passada tem {len(p2)} fontes novas; o mínimo é 10')
     corr = cfg.get('correcoes') or {}
-    if corr and not cfg.get('correcao_pedida_pelo_usuario'):
-        problemas.append(f'{marca}: "correcoes" na aba Marcas só com "correcao_pedida_pelo_usuario": true '
-                         '(na fase Relógios, anotar só em "observacoes")')
+    fontes_corr = cfg.get('correcoes_fontes') or {}
+    for col in corr:
+        fc = fontes_corr.get(col) or []
+        fora = [u for u in fc if _u(u) not in urls]
+        if not fc or fora:
+            problemas.append(f'{marca}: correção em {col} precisa de "correcoes_fontes": {{"{col}": [urls]}} '
+                             f'com fontes que estejam em "fontes" (fora: {fora})')
     for col in corr:
         if col not in COLS_CORR: problemas.append(f'{marca}: coluna {col} não pode ser corrigida (só B, C, D, G, H, I, J)')
     novas = []
