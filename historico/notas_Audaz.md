@@ -1,0 +1,5 @@
+# Audaz (linha 234 Marcas) — grande (64+ refs só na WatchBandit; ~80+ variações)
+Site oficial audazwatches.com: PROVENANCE na 1ª tentativa (não repetir). Firecrawl sem créditos.
+Marcas acima puladas (adiadas): Asas, Ash's Watches (ashswatches.com PROVENANCE, sem fontes), Astiegan (revendedora vintage), Astra Watch, Atelier Esïol, Atelier Genesis Machine, Atmoss (projeto em pausa; 1 modelo SR-01 em 3 cores; ~5 fontes, sem site), Atomishine (atomishine.com PROVENANCE; buscas não trazem produtos; refazer com Firecrawl), Atomyx C-Watches, Attache (attachewatches.com PROVENANCE; só ixbt), Atypik (atypik.watch PROVENANCE; 1 modelo AT01), Aubliq (não faz relógios), Auctor Horologium (auctorwatches.com PROVENANCE; 1 modelo).
+Feito: Serious Watches coleção, Aurifo p1, WatchBandit coleção p1 e famílias, Watchia, product pages Predator II/Ocean Raider.
+Falta: WatchBandit p2, Aurifo p2, Reef Diver (refs?), Tri-Hawk Tritium (World of Watches), Sprinter, Quantum, Dash One, Predator III, Octomarine outras refs (2070-02,04,06..12), Sea Armour, Scorpion 04, imprensa (W&W, Watch Report), Chrono24, eBay.
