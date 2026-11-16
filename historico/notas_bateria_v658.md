@@ -7,3 +7,6 @@ Sites oficiais PROVENANCE: borgward.ag, boschett-timepieces.com, bragdur.no. Bor
 - Harpoon 2012 ETA2824 100 pcs; Harpoon 2014 Miyota 9015 black / white lume dial $650 (photo7.jpg)
 - Harpoon Spirit of Essex (pré-venda nov/2015)
 - Legacy (dress, 2014) aço/dourado/rosé; mostradores preto, branco, dourado, marrom $395 (photo116.jpg)
+Adiadas também: Borgward, Bragdur, Branch Horology (ver proxima_marca.py). Breda (próxima) é grande (marca de moda com muitos modelos e cores, vendida em Revolve, Urban Outfitters, Shopbop) → fica sozinha na próxima execução.
+## Resultado
+Gravada Boschett Timepieces (11 relógios, linhas 102793-102803), 24 fontes. Pendências dos posts não lidas (ferramenta Projects ausente). Firecrawl sem créditos até 17/11 13:43 UTC.
