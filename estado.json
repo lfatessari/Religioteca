@@ -11000,19 +11000,21 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T16:42:27Z",
- "ultimo_sinal": "2026-11-16T16:42:27Z",
+ "ultimo_sinal": "2026-11-16T16:57:18Z",
  "em_andamento": {
   "marcas": [
-   "Blacklist",
-   "Blanchefontaine",
-   "Blu"
+   "BND Watches",
+   "Bōken",
+   "BOMBFROG"
   ],
-  "linha_marcas": 344,
+  "linha_marcas": 356,
   "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "relogios": "(dados nas notas)",
   "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "notas": "historico/notas_bateria.md",
+  "secoes_feitas": [
+   "BND completa"
+  ],
   "passada": 1
  }
 }
