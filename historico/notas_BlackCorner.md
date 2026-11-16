@@ -1,0 +1,4 @@
+# Black Corner (linha 342) — 16/11/2026, adiada
+black-corner.com PROVENANCE e fora das buscas; Firecrawl sem créditos. Atlas: Sailing Stones (Miyota 8215), The Wormhole (turbilhão central 37Z0), Neoma Star Nero (× Omnis) — os 2 últimos não achados em busca.
+11 fontes: ocarat.com/en/black-corner-watch/ (8 produtos), ocarat MP red/blue/orange/violet, BD grey, Times Dwellers blue; thewatchgallery calypso-shadows (times dwellers, marco polo), pages/omnis, pages/anka. Ocarat Sailing Stones e BD purple deram PROVENANCE.
+Modelos (todos 39 mm, borracha, Miyota quartzo, 10 ATM, € 99 / € 69 na TWG, linha "Shadows" × Anka): Marco Polo's Journey (Vermelho, Laranja, Violeta, Azul; 100 peças cada; 700 anos da morte de Marco Polo) — fotos images.ocarat.com/549221|549233|549240|549280-large_default/...; Black Dynamite (cinza 549159, roxo 549169-home); Times Dwellers azul (549202). Sailing Stones BC.26.0001.ST1 edição limitada € 790 (foto 583151-home_default).

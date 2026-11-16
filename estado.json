@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 327,
-  "ultima_versao": 655,
+  "proxima_linha_marcas": 337,
+  "ultima_versao": 656,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10894,6 +10894,19 @@
       "passadas": "27/22; 11/4; 4/0 (fontes/relógios novos)",
       "site_bloqueado": "Sim – bespokewatchprojects.com PROVENANCE e fora das buscas",
       "obs": "BERNY, Berthet e Bespo Watches ADIADAS (sites PROVENANCE, fora das buscas, Firecrawl sem créditos até 17/11 13:43 UTC); notas em historico/notas_adiadas_BERNY_Berthet_Bespo.md. Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Beyond Boring, Bezel, Big Idea Design."
+    },
+    {
+      "data": "2026-11-16",
+      "versao": 656,
+      "marca": "Big Idea Design",
+      "linha_marcas": 337,
+      "linhas_relogios": "102759-102768",
+      "relogios": 10,
+      "vermelho": false,
+      "grande": false,
+      "fontes": 20,
+      "site_bloqueado": "Não (raiz deu PROVENANCE, mas coleção e fichas abriram pela busca)",
+      "obs": "J corrigido (preço do Ti Field Watch Automatic Stonewashed: US$ 499). ADIADAS: Beyond Boring, Bezel, BlackCat, Black Corner (sites PROVENANCE e Firecrawl sem créditos até 17/11 13:43 UTC; notas em historico/notas_<marca>.md). Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Blacklist, Blanchefontaine, Blu."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10985,21 +10998,5 @@
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
-  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "em_execucao": "2026-11-16T15:42:27Z",
-  "ultimo_sinal": "2026-11-16T15:42:27Z",
-  "em_andamento": {
-    "marcas": [
-      "Beyond Boring",
-      "Bezel",
-      "Big Idea Design"
-    ],
-    "linha_marcas": 331,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

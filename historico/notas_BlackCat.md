@@ -1,0 +1,5 @@
+# BlackCat (linha 341) — 16/11/2026, adiada
+Site blackcat-watches.com PROVENANCE; Firecrawl sem créditos. Fontes abertas (13): thewatchgallery.fr (shaka-blue, shaka-copper-black, shaka-silver, shaka-green, shaka-purple, shura-green-watches), dialicious (shaka, shura, 2 reviews), fratello profile (vazio), oclockstore 156-shura-grey.
+Modelos: Shaka (39 mm aço 316L, VK64, 5 ATM, safira, €249): Blue, Copper Black (mostrador preto fosco, índices dourados, gato em 9h), Silver, Green, Purple. Shura (40 mm titânio, VK73, 10 ATM, €299): Grey, Green, Purple.
+Fotos: copper black https://www.thewatchgallery.fr/cdn/shop/files/Capture_d_ecran_2026-02-03_a_19.37.11.png?v=1770548352&width=2940 ; silver ...19.35.18.png?v=1770548357 ; green ...19.33.57.png?v=1770548356 ; shura green https://www.thewatchgallery.fr/cdn/shop/files/blackcat-watches-shura-green-1.jpg?v=1768579877 ; shura grey https://oclockstore.fr/2234-large_default/shura-grey.jpg
+Falta: 15 fontes (mundo pequeno) — refazer com Firecrawl no site oficial (catálogo fechado).
