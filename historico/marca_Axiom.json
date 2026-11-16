@@ -1,0 +1,101 @@
+{
+ "marca": "Axiom",
+ "usa_codigos": false,
+ "logo": "https://axiom-watches.com/wp-content/uploads/2024/06/cropped-Logo-bld-n-petit-270x270.png",
+ "site_bloqueado": "Parcial – axiomwatches.fr (site antigo, modelos de 2017–2021) bloqueia leitura automática (robots); axiom-watches.com (site atual) abriu",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "G": "axiom-watches.com"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://axiom-watches.com/collections/",
+   "https://axiom-watches.com/"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 16/11/2026: 15 modelos — fase antiga (site axiomwatches.fr, Kickstarters de J. Marmand & P. Popieul: LemonBurst, Mad Minute, Nuit de Verdun, Montre d'Aviateur I, '26' Bleu Horizon e III, SPA 3 Cigognes, Général Bonaparte/Bravoure), peça única IXI (2023), coleção WWII (3 bronzes de 45 peças, 2024) e coleção 113 (2000, IV, JAG A107). G corrigido: vazio → axiom-watches.com (site oficial atual, com o mesmo Instagram @axiombarleduc). Para conferir em I (não alterado): Les Rhabilleurs (2017) diz que o criador original foi Jonathan (Marmand), relojoeiro de Rennes, com projeto relançado em 2016 após tentativa ~7 anos antes; Les 2 Barbeaux diz 'née en 2017, relancée en 2023'; La Gazette diz compra em 2022. Modelos antigos do axiomwatches.fr entraram só com o link da página (site bloqueado).",
+ "fontes": [
+  {
+   "url": "https://axiom-watches.com/collections/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.les2barbeaux.com/fr/produits-axiom",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.montresalafrancaise.fr/marque/axiom/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lesrhabilleurs.com/2017/07/axiom-watches-kickstarter-militaire/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://spartanat.com/en/review-axiom-lemon-burst-uhr",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cappelaere-prunaux.com/en/lot/143979/22617418-axiom-ixi-watch-a-unique-timepiece-inspired-by-lemon-burst",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://axiom-watches.com/113-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://axiom-watches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.les2barbeaux.com/fr/marques/axiom-111",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://axiom-watches.com/axiom-jag-a107-histoire/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://axiom-watches.com/axiom-iv-histoire/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lagazettefrance.fr/article/axiom-les-montres-historiques-made-in-meuse",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tumblr.com/pkansa/tagged/axiom",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.lagazettefrance.fr/article/bar-le-duc-les-montres-axiom-un-luxe-local-qui-dynamise-l-economie",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/introducing-axiom-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forumamontres.forumactif.com/t251279-actu-la-nuit-de-verdun-une-montre-speciale-creee-a-la-memoire-des-poilus",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

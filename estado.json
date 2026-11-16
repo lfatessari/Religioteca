@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 257,
- "ultima_versao": 648,
+ "proxima_linha_marcas": 265,
+ "ultima_versao": 649,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10800,6 +10800,19 @@
    "fontes": "15 / 15 / 16",
    "site_bloqueado": "AVAIL bloqueado (availwatches.co.uk); Avarth e AVeritas parcial (raiz PROVENANCE)",
    "obs": "Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente). Corrigidos C da AVAIL (Londres) e I da Avarth (registro em nov/2025). Adiadas: Avax Watches, Avel & Men (não faz relógios), Averen. Próximas: Avian Watches, Axiom, Axon Watches."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 649,
+   "marca": "Axiom, Axon Watches",
+   "linha_marcas": "263, 265",
+   "linhas_relogios": "102356-102372 (Axiom 15, Axon 2)",
+   "relogios": 17,
+   "vermelho": false,
+   "grande": false,
+   "fontes": "16 / 8 (Axon: catálogo fechado)",
+   "site_bloqueado": "Axiom parcial (axiomwatches.fr antigo, robots); Axon parcial (raiz PROVENANCE)",
+   "obs": "Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente). Corrigidos G da Axiom (axiom-watches.com) e B da Axon (Itália). Adiada: Avian Watches (site não abre). Próximas: Bahrami Watches, Bajer Watches, Balticus Watches."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10891,25 +10904,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T08:42:46Z",
- "ultimo_sinal": "2026-11-16T08:42:46Z",
- "em_andamento": {
-  "marcas": [
-   "Avian Watches",
-   "Axiom",
-   "Axon Watches"
-  ],
-  "linha_marcas": [
-   259,
-   263,
-   265
-  ],
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

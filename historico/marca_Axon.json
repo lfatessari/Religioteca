@@ -1,0 +1,68 @@
+{
+ "marca": "Axon Watches",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – axonwatches.com raiz não abre pela WebFetch (PROVENANCE); loja e fichas abertas via busca",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://www.axonwatches.com/store",
+  "confirmacoes": [
+   "https://www.thewatchbrief.com/post/a-conversation-with-axon-watches-accessible-complications",
+   "https://www.robbieandwatches.co.uk/single-post/complicated-luxurious-and-affordable-the-axon-origo"
+  ]
+ },
+ "correcoes": {
+  "B": "Itália"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://oracleoftime.com/the-best-microbrand-watches-to-buy-in-april-2026/",
+   "https://www.thewatchbrief.com/post/a-conversation-with-axon-watches-accessible-complications"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 16/11/2026: catálogo fechado de 2 versões do Origo (preto MMXXV.01.DR e cinza MMXXV.02.DR; ambos esgotados no site, 599 €), mais uma pulseira vegana. B corrigido: vazio → Itália (Oracle of Time: 'Italian newcomer'; The Watch Brief: 'designed in Italy', couro de artesão italiano). C continua vazio (cidade não informada). Fundadores: Tommaso (Esposito) e Cristian (The Watch Brief, Happy Horologists). H @axon_watches_25 confirmado na loja oficial.",
+ "fontes": [
+  {
+   "url": "https://www.axonwatches.com/store",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.axonwatches.com/store/p/origo-black-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.axonwatches.com/store/p/axon-origo-grey-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbrief.com/post/a-conversation-with-axon-watches-accessible-complications",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.robbieandwatches.co.uk/single-post/complicated-luxurious-and-affordable-the-axon-origo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happyhorologists.com/page.php?id=22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/the-best-microbrand-watches-to-buy-in-april-2026/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pledgebox.com/projects/axon-watches-grand-complications-accessible-to-everyone",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
