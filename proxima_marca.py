@@ -26,6 +26,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Arima Watches": "1 modelo em pré-venda (Ascent, 5 mostradores: Slate, Moss, Fog, Dark Blue, Light Blue; Chronoscout cita também Night Sky e Ice); só ~3 fontes no mundo (arimawatches.com e llms.txt via busca, Chronoscout); blog de fabricação deu erro (16/11/2026, v643; notas em historico/notas_arima.md) — refazer quando lançar (entregas até ago/2027)",
     "ARC & Co.": "4 modelos (World Traveler 1ª versão, Black, Silver; Type Art-Deco ADA-01); arcandcowatches.com não abre pela WebFetch (PROVENANCE) e o mundo só tem ~9 fontes (Makuake, PR Times, Gizmodo/Lifehacker/Roomie) (16/11/2026, v641; notas em historico/notas_arc_co.md) — refazer com Firecrawl",
     "Arca Opus": "aba Marcas sem dados (só @arca.opus); as buscas de 13 e 14/11/2026 (fase Marcas) só trouxeram homônimos; Instagram bloqueado (adiada em 16/11/2026, v641)",
     "Arcus Watches": "6 modelos (Tropos, Mesos, Exos peça única, Exos Traveler roxo/azul, ExoStop); arcuswatch.com não abre pela WebFetch (PROVENANCE) e só há ~9 fontes (Worn & Wound, Watch Clicker, WatchPatrol) (16/11/2026, v641; notas em historico/notas_arcus.md) — refazer com Firecrawl",

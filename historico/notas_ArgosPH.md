@@ -1,0 +1,1 @@
+Argos PH: oficial argos-watches.com PROVENANCE e fora das buscas; Firecrawl sem créditos. Asteri 2.0 (Forest Green, Dreamer's Pink, Regal Purple) citado em J (Microbrand Atlas) não confirmado em nenhuma fonte aberta. Fundadores: Ivan Jeff Soberano e Gregory Yu (+ Nikki Columna, Stephen Cruz, Trish Delacruz); lançamento abril 2022 (Inquirer); tribune diz fundada em 2021.

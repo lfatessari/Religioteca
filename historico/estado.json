@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 169,
- "ultima_versao": 642,
+ "proxima_linha_marcas": 172,
+ "ultima_versao": 643,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10722,6 +10722,18 @@
    "grande": true,
    "passadas": "49/11 fontes; 35/3 relógios novos (contagem por fonte aberta)",
    "obs": "Oficial areswatches.com deu PROVENANCE (1 tentativa); Firecrawl sem créditos. Base: OpticsPlanet (códigos MPN das versões D1A/D1B/D1C, FIELD-1, GMT, White Dial 2026), Soldier Systems (lotes mensais de 2025, DIVER-1B), WatchPro (SIG SAUER M17/M18), lojas dos parceiros (MKC, Jack Carr, PDW, reach.dog). Corrigida I (Matt Graham, ex-CIA; DIVER-1 de nov/2018; Stanwood). Complemento futuro: lotes mensais sem matéria, fotos das edições TAD (só títulos na Lamnia), LEGION e Signature Series. Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Argos Watch Corporation, Argos Watches, Arima Watches."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 643,
+   "marca": "Argos Watch Corporation + Argos Watches",
+   "linha_marcas": "171-172",
+   "linhas_relogios": "101818-101903",
+   "relogios": 86,
+   "vermelho": false,
+   "site_bloqueado": "Argos Watch Corporation (argos-watches.com)",
+   "fontes": "15 + 26",
+   "obs": "Argos Watch Corporation (Filipinas): 9 relógios (101818-101826), oficial PROVENANCE e fora das buscas; base imprensa filipina (Metroscene, Islands Philippines, Time+Tide, Tribune, Philstar, Inquirer); Asteri 2.0 de J não confirmado. Argos Watches (Índia): 77 relógios (101827-101903), loja oficial aberta pelas coleções vindas de busca; fotos só em 2 linhas (produtos esgotados redirecionam para a home; Firecrawl sem créditos). Arima Watches adiada (pré-lançamento, ~3 fontes). Arion: oficial artofarion.com PROVENANCE; só Fratello (introducing-the-arion-delphinus, fev/2026) apareceu; provável adiamento. Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10800,7 +10812,9 @@
   "Deslocamento v626 (1i1)": "1i1 entrou na linha 5 da aba Marcas na v626: os números de linha citados em avisos e no histórico anteriores a esta versão estão 1 abaixo do real para as marcas depois de 1977. Achar sempre pelo NOME.",
   "1i1 (linha 5)": "Gravada em 15/11/2026 (v626), 13 relógios (98655-98667), todos com link da página no lugar da foto (Google Sites não entrega as imagens na leitura automática). Complemento futuro com Firecrawl/navegador: fotos de cada modelo em 1i1.watch/home/iconic-cars-collection/<modelo>, Instagram @1i1.watch (ano de fundação, lançamentos), fichas de TITA, B2 - Spirit e Far Side quando forem publicadas.",
   "Appella (linha 142)": "Dimensionada em 15/11/2026 como GRANDE (294 relógios na watchard.com): fazer sozinha. Pré-pesquisa em historico/notas_Appella.md (watchard página 1 e gindigold já abertas).",
-  "Aragon (linha 150)": "Gravada em 16/11/2026 (v640), 262 relógios (101500-101761), vermelha. Inclui modelos da era Android (refs AD###, marca antecessora; não há linha Android na aba Marcas). Complemento futuro com navegador/Firecrawl: site oficial aragonwatch.com (Volusion antigo: fotos em aragonwatch.com/v/vspfiles/photos/<REF>-2.jpg; páginas de categoria como DM_42_SWISS_AUTOMATIC_s/520.htm, Divemaster_Ti_NH34_NH35_s/551.htm, Millipede_EVO_s/546.htm, PREDATOR_s/377.htm, VIRTUOSO_s/569.htm), eBay páginas 2-17 da marca (~970 anúncios) e loja Aragon Outlet, Serious Watches (fotos das ~110 fichas), Keep the Time brand/aragon e brand/android; cores sem código de Divemaster Ti (A628), Millipede EVO Sun & Moon, Mystery Box, Predator, Hiro, Divemaster GMT 40."
+  "Aragon (linha 150)": "Gravada em 16/11/2026 (v640), 262 relógios (101500-101761), vermelha. Inclui modelos da era Android (refs AD###, marca antecessora; não há linha Android na aba Marcas). Complemento futuro com navegador/Firecrawl: site oficial aragonwatch.com (Volusion antigo: fotos em aragonwatch.com/v/vspfiles/photos/<REF>-2.jpg; páginas de categoria como DM_42_SWISS_AUTOMATIC_s/520.htm, Divemaster_Ti_NH34_NH35_s/551.htm, Millipede_EVO_s/546.htm, PREDATOR_s/377.htm, VIRTUOSO_s/569.htm), eBay páginas 2-17 da marca (~970 anúncios) e loja Aragon Outlet, Serious Watches (fotos das ~110 fichas), Keep the Time brand/aragon e brand/android; cores sem código de Divemaster Ti (A628), Millipede EVO Sun & Moon, Mystery Box, Predator, Hiro, Divemaster GMT 40.",
+  "Argos Watches (linha 172)": "Gravada em 16/11/2026 (v643), 77 relógios (101827-101903); ~74 linhas só com link da página. Complemento futuro com Firecrawl: fotos (og:image) das fichas argoswatch.in/products/... (esgotadas redirecionam para a home), coleções apollo3, olympus, gold-watches-for-men, two-tone-watches, rose-gold-watches-for-men, silver-watches-for-men, leather-watches-for-men, best-sellers (vieram só de dentro de páginas), Apollo I (o 'Apollo original', citado pelo The Calibrated Wrist).",
+  "Argos Watch Corporation (linha 171)": "Gravada em 16/11/2026 (v643), 9 relógios (101818-101826). Complemento futuro com Firecrawl: argos-watches.com (loja: Asteri 2.0 Forest Green/Dreamer's Pink/Regal Purple, fotos de Odyssey 2.0, Asteri Midnight Blue), Instagram @argos.philippines."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
