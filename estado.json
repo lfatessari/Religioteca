@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 150,
- "ultima_versao": 640,
+ "proxima_linha_marcas": 155,
+ "ultima_versao": 641,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10696,6 +10696,18 @@
    "grande": true,
    "passadas": "31/10/15 fontes; 102/18/13 relógios novos (contagem por fonte aberta)",
    "obs": "Oficial aragonwatch.com deu PROVENANCE (1 tentativa) e não aparece nas buscas; Firecrawl sem créditos. Base: Serious Watches (títulos via busca site:), eBay (páginas de marca .ie e .ar com fotos), OzBargain (ofertas com refs do site oficial), Keep the Time (era Android, refs AD). ~150 linhas só com link da página. Corrigida I (Android 1991, Wing Liang). Pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 641,
+   "marca": "Arcange Watches",
+   "linha_marcas": 155,
+   "linhas_relogios": "101762-101780",
+   "relogios": 19,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 16,
+   "obs": "Oficial arcange-watches.com deu PROVENANCE (1 tentativa); Firecrawl sem créditos. Base: Windup Watch Shop, Infinity Watches (oembed da coleção), WatchGecko (SD01–05), Oracle of Time (AS), Time+Tide e Relojes Especiales (Selenograph CM01–05). Adiadas por falta de fontes (site oficial travado e <15 fontes no mundo): ARC & Co., Arcus Watches, Ardra Labs, Arena Timepieces; Arca Opus sem dados. Próxima: ARES Watch Co. (parece grande: muitas edições e colaborações). Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10785,23 +10797,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T00:47:42Z",
- "ultimo_sinal": "2026-11-16T01:02:29Z",
- "em_andamento": {
-  "marcas": [
-   "Arcange Watches",
-   "Arcus Watches"
-  ],
-  "linha_marcas": 155,
-  "grande": false,
-  "relogios": "historico/parcial_arcange_relogios.txt",
-  "fontes": "historico/parcial_arcange_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Arcange completa (16 fontes)",
-   "ARC & Co. adiada"
-  ],
-  "passada": 1
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

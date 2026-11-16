@@ -26,6 +26,11 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "ARC & Co.": "4 modelos (World Traveler 1ª versão, Black, Silver; Type Art-Deco ADA-01); arcandcowatches.com não abre pela WebFetch (PROVENANCE) e o mundo só tem ~9 fontes (Makuake, PR Times, Gizmodo/Lifehacker/Roomie) (16/11/2026, v641; notas em historico/notas_arc_co.md) — refazer com Firecrawl",
+    "Arca Opus": "aba Marcas sem dados (só @arca.opus); as buscas de 13 e 14/11/2026 (fase Marcas) só trouxeram homônimos; Instagram bloqueado (adiada em 16/11/2026, v641)",
+    "Arcus Watches": "6 modelos (Tropos, Mesos, Exos peça única, Exos Traveler roxo/azul, ExoStop); arcuswatch.com não abre pela WebFetch (PROVENANCE) e só há ~9 fontes (Worn & Wound, Watch Clicker, WatchPatrol) (16/11/2026, v641; notas em historico/notas_arcus.md) — refazer com Firecrawl",
+    "Ardra Labs": "1 modelo (Delta Type, 2026); ardralabs.com não abre pela WebFetch (PROVENANCE) e só há ~5 fontes (SJX, Fratello, The Hour Markers) (16/11/2026, v641) — refazer com Firecrawl",
+    "Arena Timepieces": "1 modelo (Vanitas); arenatimepieces.com não abre pela WebFetch (PROVENANCE) e só há ~3 fontes (Time+Tide, The Calibrated Wrist) (16/11/2026, v641) — refazer com Firecrawl",
     "Aft and Anchor Watch Co": "só o site oficial existe (4 relógios em pré-venda); sem fontes externas para a trava",
     "Agapever Watches": "pré-lançamento, sem site nem relógios publicados",
     "Alain Blanco": "pré-lançamento, só Instagram; nenhuma fonte com relógios (busca de 15/11/2026, v629)",
