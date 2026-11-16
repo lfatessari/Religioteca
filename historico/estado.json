@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 147,
- "ultima_versao": 639,
+ "proxima_linha_marcas": 150,
+ "ultima_versao": 640,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10682,6 +10682,20 @@
    "grande": true,
    "passadas": "86/18/17 fontes; 206/11/19 relógios novos (contagem por fonte aberta)",
    "obs": "Oficial direto (products.json sem www) deu PROVENANCE; as páginas www.aquaticowatch.com vindas de busca abriram (coleções, blog, Our Story). Firecrawl sem créditos. 187 linhas só com link da página (as coleções não trazem fotos na leitura). Corrigida I (fundador Calvin, oficina desde 2017). Complemento futuro: fotos das páginas de produto; variações antigas (Bronze Sea Star 19 versões, Sea Star V2 10, Super Charger V1/V2, Blue Angels, Poseidon/Oyster/Nautilus), carbon-fiber-dial-watch e lume-dial-watch (fora do ar), Snake Year LE. Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Aragon (parece grande), Arcange, Arca Opus, ARC & Co."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 640,
+   "marca": "Aragon",
+   "linha_marcas": 150,
+   "linhas_relogios": "101500-101761",
+   "relogios": 262,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 56,
+   "grande": true,
+   "passadas": "31/10/15 fontes; 102/18/13 relógios novos (contagem por fonte aberta)",
+   "obs": "Oficial aragonwatch.com deu PROVENANCE (1 tentativa) e não aparece nas buscas; Firecrawl sem créditos. Base: Serious Watches (títulos via busca site:), eBay (páginas de marca .ie e .ar com fotos), OzBargain (ofertas com refs do site oficial), Keep the Time (era Android, refs AD). ~150 linhas só com link da página. Corrigida I (Android 1991, Wing Liang). Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10759,7 +10773,8 @@
   "Ajwain Watches (linha 60)": "Gravada em 15/11/2026 (v625), 40 relógios (98615-98654). Complemento futuro com Firecrawl: produtos antigos do WooCommerce ajwa.in/?p=NNN (Kakori 8 Down 2019/2022, Sholavaram I/II, Malhar, Tri, Break Free, Sholavaram White enamel dial chronograph) com fotos; páginas do HT e Deccan Herald sobre o Malhar (pediram permissão).",
   "Deslocamento v626 (1i1)": "1i1 entrou na linha 5 da aba Marcas na v626: os números de linha citados em avisos e no histórico anteriores a esta versão estão 1 abaixo do real para as marcas depois de 1977. Achar sempre pelo NOME.",
   "1i1 (linha 5)": "Gravada em 15/11/2026 (v626), 13 relógios (98655-98667), todos com link da página no lugar da foto (Google Sites não entrega as imagens na leitura automática). Complemento futuro com Firecrawl/navegador: fotos de cada modelo em 1i1.watch/home/iconic-cars-collection/<modelo>, Instagram @1i1.watch (ano de fundação, lançamentos), fichas de TITA, B2 - Spirit e Far Side quando forem publicadas.",
-  "Appella (linha 142)": "Dimensionada em 15/11/2026 como GRANDE (294 relógios na watchard.com): fazer sozinha. Pré-pesquisa em historico/notas_Appella.md (watchard página 1 e gindigold já abertas)."
+  "Appella (linha 142)": "Dimensionada em 15/11/2026 como GRANDE (294 relógios na watchard.com): fazer sozinha. Pré-pesquisa em historico/notas_Appella.md (watchard página 1 e gindigold já abertas).",
+  "Aragon (linha 150)": "Gravada em 16/11/2026 (v640), 262 relógios (101500-101761), vermelha. Inclui modelos da era Android (refs AD###, marca antecessora; não há linha Android na aba Marcas). Complemento futuro com navegador/Firecrawl: site oficial aragonwatch.com (Volusion antigo: fotos em aragonwatch.com/v/vspfiles/photos/<REF>-2.jpg; páginas de categoria como DM_42_SWISS_AUTOMATIC_s/520.htm, Divemaster_Ti_NH34_NH35_s/551.htm, Millipede_EVO_s/546.htm, PREDATOR_s/377.htm, VIRTUOSO_s/569.htm), eBay páginas 2-17 da marca (~970 anúncios) e loja Aragon Outlet, Serious Watches (fotos das ~110 fichas), Keep the Time brand/aragon e brand/android; cores sem código de Divemaster Ti (A628), Millipede EVO Sun & Moon, Mystery Box, Predator, Hiro, Divemaster GMT 40."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
