@@ -11038,7 +11038,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T18:41:24Z",
- "ultimo_sinal": "2026-11-16T18:50:36Z",
+ "ultimo_sinal": "2026-11-16T18:54:18Z",
  "em_andamento": {
   "marcas": [
    "Breda"
@@ -11050,7 +11050,11 @@
   "notas": "historico/notas_Breda.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3",
+   "7",
+   "8"
   ],
   "passada": 1
  }
