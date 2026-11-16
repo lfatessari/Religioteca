@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 400,
- "ultima_versao": 661,
+ "proxima_linha_marcas": 405,
+ "ultima_versao": 662,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11019,6 +11019,17 @@
    "site_bloqueado": false,
    "fontes": 97,
    "grande": true
+  },
+  {
+   "marca": "Bühlmann Watches",
+   "data": "2026-11-16",
+   "versao": 662,
+   "linha_marcas": 405,
+   "linhas_relogios": "103162-103170",
+   "relogios": 9,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 16
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11099,7 +11110,11 @@
   "Appella (linha 142)": "Dimensionada em 15/11/2026 como GRANDE (294 relógios na watchard.com): fazer sozinha. Pré-pesquisa em historico/notas_Appella.md (watchard página 1 e gindigold já abertas).",
   "Aragon (linha 150)": "Gravada em 16/11/2026 (v640), 262 relógios (101500-101761), vermelha. Inclui modelos da era Android (refs AD###, marca antecessora; não há linha Android na aba Marcas). Complemento futuro com navegador/Firecrawl: site oficial aragonwatch.com (Volusion antigo: fotos em aragonwatch.com/v/vspfiles/photos/<REF>-2.jpg; páginas de categoria como DM_42_SWISS_AUTOMATIC_s/520.htm, Divemaster_Ti_NH34_NH35_s/551.htm, Millipede_EVO_s/546.htm, PREDATOR_s/377.htm, VIRTUOSO_s/569.htm), eBay páginas 2-17 da marca (~970 anúncios) e loja Aragon Outlet, Serious Watches (fotos das ~110 fichas), Keep the Time brand/aragon e brand/android; cores sem código de Divemaster Ti (A628), Millipede EVO Sun & Moon, Mystery Box, Predator, Hiro, Divemaster GMT 40.",
   "Argos Watches (linha 172)": "Gravada em 16/11/2026 (v643), 77 relógios (101827-101903); ~74 linhas só com link da página. Complemento futuro com Firecrawl: fotos (og:image) das fichas argoswatch.in/products/... (esgotadas redirecionam para a home), coleções apollo3, olympus, gold-watches-for-men, two-tone-watches, rose-gold-watches-for-men, silver-watches-for-men, leather-watches-for-men, best-sellers (vieram só de dentro de páginas), Apollo I (o 'Apollo original', citado pelo The Calibrated Wrist).",
-  "Argos Watch Corporation (linha 171)": "Gravada em 16/11/2026 (v643), 9 relógios (101818-101826). Complemento futuro com Firecrawl: argos-watches.com (loja: Asteri 2.0 Forest Green/Dreamer's Pink/Regal Purple, fotos de Odyssey 2.0, Asteri Midnight Blue), Instagram @argos.philippines."
+  "Argos Watch Corporation (linha 171)": "Gravada em 16/11/2026 (v643), 9 relógios (101818-101826). Complemento futuro com Firecrawl: argos-watches.com (loja: Asteri 2.0 Forest Green/Dreamer's Pink/Regal Purple, fotos de Odyssey 2.0, Asteri Midnight Blue), Instagram @argos.philippines.",
+  "BSHQRF (linha 402)": "Adiada em 16/11/2026 (v662): bshqrf.com não abre pela WebFetch (PROVENANCE) e as buscas ('BSHQRF watch', modelos Signature/Antico/Solar Elite) só trazem outras marcas; Firecrawl sem créditos — refazer com Firecrawl.",
+  "Burnt Creek Watch Company (linha 412)": "Adiada em 16/11/2026 (v662): o site abre pela busca (collections/all: Sentinel, Sentinel Black, Plainsman, Plainsman Black, Manitou, Cutbank, Bullion), mas fora dele só há posts no X da própria marca/dono; sem 2 fontes externas para o catálogo fechado. Notas em historico/notas_bateria_v662.md — refazer quando houver imprensa ou lojas.",
+  "BUUR+ (linha 414)": "Adiada em 16/11/2026 (v662): buurwatches.com não abre pela WebFetch (PROVENANCE); só a Oracle of Time (2020) fala da marca — refazer com Firecrawl no oficial.",
+  "Buyalov (linha 415)": "Grande (dezenas de variantes na Meranom); buyalov.com PROVENANCE, mas meranom.com/en/buyalov/... abre pela busca. Fazer sozinha na próxima execução."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -11111,21 +11126,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-16T21:42:33Z",
- "ultimo_sinal": "2026-11-16T21:56:53Z",
- "em_andamento": {
-  "marcas": [
-   "Bühlmann Watches",
-   "BUUR+",
-   "Buyalov"
-  ],
-  "linha_marcas": 402,
-  "grande": false,
-  "relogios": "historico/parcial_Buhlmann_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_bateria_v662.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
