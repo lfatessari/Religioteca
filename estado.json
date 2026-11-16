@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 282,
-  "ultima_versao": 650,
+  "proxima_linha_marcas": 302,
+  "ultima_versao": 651,
   "historico": [
     {
       "data": "2026-10-16",
@@ -10827,6 +10827,19 @@
       "fontes": 83,
       "passadas": "55/90; 17/7; 11/5 (fontes/relógios novos)",
       "obs": "Bahrami Watches e Bajer Watches ADIADAS (sites oficiais PROVENANCE, Firecrawl sem créditos, poucas fontes). Balticus grande, feita sozinha. Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Baron Watch Company, Batiscafo by Centvm, BegHof."
+    },
+    {
+      "data": "2026-11-16",
+      "versao": 651,
+      "marca": "Batiscafo by Centvm, BegHof",
+      "linha_marcas": "290, 302",
+      "linhas_relogios": "102475-102520 (Batiscafo 30, BegHof 16)",
+      "relogios": 46,
+      "vermelho": false,
+      "grande": false,
+      "fontes": "16 / 13 (BegHof: catálogo fechado)",
+      "site_bloqueado": "Batiscafo e BegHof parcial (endereço direto PROVENANCE)",
+      "obs": "Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente). Corrigido I da BegHof. Adiada: Baron Watch Company (1 modelo, só 1 fonte externa). Próximas: Belhamel Watches, Bellecour, Belvans."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -10918,28 +10931,5 @@
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
-  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "em_execucao": "2026-11-16T10:42:58Z",
-  "ultimo_sinal": "2026-11-16T10:51:45Z",
-  "em_andamento": {
-    "marcas": [
-      "Baron Watch Company",
-      "Batiscafo by Centvm",
-      "BegHof"
-    ],
-    "linha_marcas": [
-      285,
-      290,
-      302
-    ],
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_bateria.md",
-    "secoes_feitas": [
-      "1",
-      "2"
-    ],
-    "passada": 1
-  }
+  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

@@ -1,0 +1,95 @@
+{
+ "marca": "BegHof",
+ "usa_codigos": false,
+ "logo": "https://watcheers.io/wp-content/uploads/2026/05/BegHof-watch-brand-logo-1.png",
+ "site_bloqueado": "Parcial – beghof.com: o endereço direto não abre para leitura automática (PROVENANCE) e beghof.fr bloqueia (robots); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://beghof.com/en-en/collections/toutes-nos-montres",
+  "confirmacoes": [
+   "https://www.dialicious.com/en/beghof",
+   "https://watcheers.io/marque/beghof/"
+  ]
+ },
+ "correcoes": {
+  "I": "A BegHof é uma microbrand francesa criada em 2021 por dois amigos de infância apaixonados por relojoaria. A ideia era fazer o relógio que eles queriam usar, com preço controlado; a marca se apresenta como contemporânea e de venda direta, sem reivindicar uma história antiga.\n\nOs relógios são desenhados em Le Mans, com componentes feitos sobretudo na China e no Japão e movimentos automáticos Miyota. A Urbanstar, edição numerada de 30 peças feita para o primeiro aniversário da marca, marcou a passagem da montagem, da regulagem e dos testes finais para uma oficina parceira no centro de Le Mans. O catálogo reúne as coleções Urban 39 (mostradores Phantom, Sky Blue, Navy e Ruby), Junglestar, Sunburst, Skull e Wright Brothers (Orville e Wilbur). [⚠️ a confirmar: a ideia inicial e a venda direta têm uma fonte só (Dialicious)]"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://beghof.com/en-en/collections/urbanstar",
+   "https://beghof.com/en-en/pages/notice",
+   "https://www.dialicious.com/en/beghof",
+   "https://www.moonwatch.fr/beghof-urban-39-la-montre-casual-chic-accessible-a-lecoute-des-amateurs-de-montres/"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 16/11/2026 (v651): 16 modelos (catálogo fechado: site oficial com 31 produtos; Dialicious e Watcheers listam as mesmas coleções). Corrigido I: 2021 e os dois amigos de infância confirmados por Dialicious e Moonwatch; Urbanstar de 30 peças e montagem numa oficina de Le Mans confirmadas no site oficial; tirados 'não divulgam os próprios nomes' (a Moonwatch os chama de Nico e Mic, e diz que o nome vem das iniciais dos sobrenomes — uma fonte só, não entrou) e o aviso antigo; acrescentadas as coleções. Ainda a verificar: J diz 'Urban 39 Ruby — Miyota 8315', mas a Moonwatch dá Miyota 9019 para a Urban 39 (o site cita o 8315 sem dizer em qual modelo); o fundador 'Nicolas Beguin' (Atlas) não apareceu nas fontes.",
+ "fontes": [
+  {
+   "url": "https://www.dialicious.com/en/beghof",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/pages/notice",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/collections/all",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://beghof.com/en-en/collections/all?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfdGl0bGUiLCJzdiI6IlNrdWxsIC0gQnJhY2VsZXQgYWNpZXIiLCJkIjoiZiIsInVpZCI6ODc4MTQ3NDkyMjgzNywibCI6MjQsIm8iOjAsInIiOiJDUCIsInYiOjF9.4FuOw6hODEDRGVAsTFAvij1sRPbafFj1Yyf0aACLV3U",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/collections/toutes-nos-montres",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://beghof.com/en-en/collections/freres-wright",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/collections/urbanstar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/collections/urban-39",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/products/skull-silicone",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/collections/mj",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://beghof.com/en-en/products/ocean-blue-acier",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watcheers.io/marque/beghof/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.moonwatch.fr/beghof-urban-39-la-montre-casual-chic-accessible-a-lecoute-des-amateurs-de-montres/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
