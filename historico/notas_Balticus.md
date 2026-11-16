@@ -6,3 +6,4 @@ Coleções na navegação: Special Editions, Żabnica (Anglerfish), Flying Seal,
 Feitas: §2 parcial (zegarki p2 completo).
 Falta: zegarki p1/p3, past models, special editions, Wisła/GROM, Perun, Wave, damskie, lojas, imprensa.
 Passada 1 encerrada: 3 últimas sem novidade (55 fontes). Vermelho: zegarki p1/p3 e coleções Diamond Atelier/Special Editions/Past Models/damskie não alcançadas; Raków 105, GROM, 1ª Brigada, Wisła 2020 sem página. 2ª passada abaixo.
+Passada 2: 17 fontes, 7 relógios novos -> 3ª passada obrigatória.
