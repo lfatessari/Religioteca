@@ -10853,19 +10853,22 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T05:42:55Z",
- "ultimo_sinal": "2026-11-16T05:42:55Z",
+ "ultimo_sinal": "2026-11-16T05:52:45Z",
  "em_andamento": {
   "marcas": [
-   "Audoin Watches",
-   "August Berg",
-   "AURA"
+   "August Berg"
   ],
-  "linha_marcas": 236,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "linha_marcas": 239,
+  "grande": true,
+  "relogios": "historico/parcial_august-berg_relogios.txt",
+  "fontes": "historico/parcial_august-berg_fontes.txt",
+  "notas": "historico/notas_august-berg.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
+  "passada": 1,
+  "obs": "Audoin adiada (proxima_marca.py); formato do parcial de relogios: CODIGO|Nome|URL (P:=link de pagina)|Caracteristicas"
  }
 }

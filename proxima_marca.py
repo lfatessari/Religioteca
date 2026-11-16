@@ -71,6 +71,7 @@ ADIADAS = {
     "Aperture": "aba Marcas sem dados (sem site/país) e nenhuma busca identificou a marca (15/11/2026, v636)",
     "Apex Timeworks": "aba Marcas sem dados e nenhuma busca identificou a marca (só Apex de outras marcas) (15/11/2026, v636)",
     "Apogee Watches": "apogee-watches.com fora das buscas (só aparece o Apogee da Bangalore Watch Co.) (15/11/2026, v636) — refazer com Firecrawl",
+    "Audoin Watches": "2 modelos; audoinwatches.com não abre pela WebFetch (PROVENANCE) e nenhuma busca trouxe a marca (só Charles Oudin) (16/11/2026, v646) — refazer com Firecrawl",
 }
 
 
