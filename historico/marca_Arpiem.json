@@ -1,0 +1,163 @@
+{
+ "marca": "Arpiem Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – arpiem.fr não abre na leitura automática (PROVENANCE, 16/11/2026); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "I": "Arpiem se lê como \"RPM\", e o assunto é mesmo motor. A marca francesa de Vincent Repoux foi fundada em 2018 e faz relógios automáticos e cronógrafos de quartzo em séries limitadas e numeradas, e cada série homenageia uma lenda do esporte a motor — um circuito, um piloto, uma época.\n\nO Tribute TSR 4 lembra o circuito de Reims-Gueux, e o Racematic TSR 2 leva o nome do piloto Bob Wollek. Os mostradores são de \"três camadas\" e os botões, coloridos. Os preços vão de 349 a 639 euros."
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://www.dialicious.com/en/arpiem",
+   "https://www.watchreport.com/arpiem-debuts-tribute-collection-to-classic-motor-racing/",
+   "https://retromobile.com/en/search/exhibitor/ARPIEM",
+   "https://1923shop.com/gb/chrono-watches/4631-arpiem-tribute-tjl-2-jacques-laffite-cognac-watch.html"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 16/11/2026: 38 modelos (Tribute de quartzo desde 2018, Racematic automático desde 2021, Ride & Drive e Overspeed); variações só de pulseira (Kyalami, Interlagos, Estoril, Charade, Mugello) ficaram numa linha só. Corrigido em I: 'faz automáticos' → 'foi fundada em 2018 e faz relógios automáticos e cronógrafos de quartzo em séries limitadas e numeradas' (Dialicious, WatchReport 2018, Retromobile, 1923shop). A conferir: C (Bois-Grenier, da Trustpilot) — a Retromobile 2025 dá o endereço 84 Chemin de Landra, 84210 Pernes-les-Fontaines, com desenho perto de Avignon e montagem dos automáticos em Bordeaux (1 fonte). Vincent Repoux teria jogado futebol profissional por 20 anos (só WatchPaper). Tributes a James Hunt, Emerson Fittipaldi e Alberto Ascari citados na WatchPaper sem código (podem ser TBL, TCS, TMP4 ou TDFV).",
+ "fontes": [
+  {
+   "url": "https://www.dialicious.com/en/arpiem",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://retromobile.com/en/search/exhibitor/ARPIEM",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://1923shop.com/gb/automatic-watches/4843-arpiem-racematic-tsr-2-watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/arpiem-debuts-tribute-collection-to-classic-motor-racing/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.1923shop.com/gb/chrono-watches/4370-arpiem-tribute-tdfv-watch.html",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://1923shop.com/gb/automatic-watches/4840-arpiem-racematic-tjl3-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://1923shop.com/gb/automatic-watches/4839-arpiem-racematic-tgh-2-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://1923shop.com/gb/chrono-watches/4927-arpiem-tribute-tgh-3-mugello-mesh-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://1923shop.com/gb/overspeeds-watches/4841-arpiem-overspeed-watch-black-red.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://1923shop.com/gb/chrono-watches/4625-arpiem-tribute-flying-finns-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://1923shop.com/gb/chrono-watches/4631-arpiem-tribute-tjl-2-jacques-laffite-cognac-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://1923shop.com/gb/watches-ride-drive/4820-watch-arpiem-rd-assen-orange-bracelet-kyalami-racer-black-orange.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://1923shop.com/gb/overspeeds-watches/4842-arpiem-overspeed-watch-white-black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://1923shop.com/gb/chrono-watches/4332-arpiem-tribute-tbl-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://1923shop.com/gb/chrono-watches/4731-arpiem-tribute-tsr-suzuka-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=1295",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=3323",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/arpiem-tribute-tjw-2-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=108740",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://classicmotorhub.com/?p=1277",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://retromobile.com/en/search/brand/Arpiem-Watches-ARPIEM-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://retromobile.com/en/search/product/OVERSPEED-Black-Face-ARPIEM-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/fr/node/436649",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dialicious.com/en/arpiem/racematic/review/6458554451a4f24609769beb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://retromobile.com/en/search/product/TRIBUTE-TSR-ARPIEM-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=13590",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1923shop.com/gb/watches-ride-drive/4436-watch-arpiem-rd-imatra.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1923shop.com/gb/automatic-watches/4592-arpiem-racematic-tbml-2-watch-mclaren.html",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

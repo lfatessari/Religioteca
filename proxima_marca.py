@@ -26,6 +26,12 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Armonian": "aba Marcas quase vazia; armonian.com bloqueia leitura automática (robots) e nenhuma imprensa fala da marca (fase Marcas, 13–14/11/2026; adiada em 16/11/2026, v644) — refazer com navegador",
+    "Artus Watches": "aba Marcas vazia; @artus.watches não ligado a site; artuswatch.ru (candidata) em loop de redirecionamento (fase Marcas, 14/11/2026; adiada em 16/11/2026, v644)",
+    "Arion": "1 coleção (Delphinus: Ichthyian Silver, Aeolian Blue, Melian Pearl); artofarion.com não abre pela WebFetch (PROVENANCE) e só a Fratello e o Microbrand Atlas falam dela (16/11/2026, v644) — refazer com Firecrawl",
+    "Arly Watch": "~13 modelos (Burgos, Leon, Logroño, Pamplona, Valença, Porto, Ponteferrada, Belorado); arlywatch.de não abre pela WebFetch (PROVENANCE) e o mundo só tem 2 fontes (Bruce's World of Watches, WatchTime.net) (16/11/2026, v644) — refazer com Firecrawl no oficial",
+    "Arthur Charles Watches": "~8 modelos (Moonphase, Westminster, Chrono Prestige, Chrono Master); arthurcharleswatches.com não abre pela WebFetch (PROVENANCE) e nenhuma busca traz a marca (16/11/2026, v644) — refazer com Firecrawl (Shopify: products.json)",
+    "Art Watch Gallery": "artwatchgallery.com não abre pela WebFetch (PROVENANCE) e as buscas só trazem homônimos (Swatch Art) (16/11/2026, v644) — refazer com Firecrawl",
     "Arima Watches": "1 modelo em pré-venda (Ascent, 5 mostradores: Slate, Moss, Fog, Dark Blue, Light Blue; Chronoscout cita também Night Sky e Ice); só ~3 fontes no mundo (arimawatches.com e llms.txt via busca, Chronoscout); blog de fabricação deu erro (16/11/2026, v643; notas em historico/notas_arima.md) — refazer quando lançar (entregas até ago/2027)",
     "ARC & Co.": "4 modelos (World Traveler 1ª versão, Black, Silver; Type Art-Deco ADA-01); arcandcowatches.com não abre pela WebFetch (PROVENANCE) e o mundo só tem ~9 fontes (Makuake, PR Times, Gizmodo/Lifehacker/Roomie) (16/11/2026, v641; notas em historico/notas_arc_co.md) — refazer com Firecrawl",
     "Arca Opus": "aba Marcas sem dados (só @arca.opus); as buscas de 13 e 14/11/2026 (fase Marcas) só trouxeram homônimos; Instagram bloqueado (adiada em 16/11/2026, v641)",

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 172,
- "ultima_versao": 643,
+ "proxima_linha_marcas": 207,
+ "ultima_versao": 644,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10734,6 +10734,18 @@
    "site_bloqueado": "Argos Watch Corporation (argos-watches.com)",
    "fontes": "15 + 26",
    "obs": "Argos Watch Corporation (Filipinas): 9 relógios (101818-101826), oficial PROVENANCE e fora das buscas; base imprensa filipina (Metroscene, Islands Philippines, Time+Tide, Tribune, Philstar, Inquirer); Asteri 2.0 de J não confirmado. Argos Watches (Índia): 77 relógios (101827-101903), loja oficial aberta pelas coleções vindas de busca; fotos só em 2 linhas (produtos esgotados redirecionam para a home; Firecrawl sem créditos). Arima Watches adiada (pré-lançamento, ~3 fontes). Arion: oficial artofarion.com PROVENANCE; só Fratello (introducing-the-arion-delphinus, fev/2026) apareceu; provável adiamento. Pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 644,
+   "marca": "Arpiem Watches + Asterisk Watches",
+   "linha_marcas": "187, 207",
+   "linhas_relogios": "101904-101959",
+   "relogios": 56,
+   "vermelho": false,
+   "site_bloqueado": "arpiem.fr e asteriskwatches.com (PROVENANCE)",
+   "fontes": "28 + 20",
+   "obs": "Arpiem (38 relógios, 101904-101941): base loja 1923shop (lista de 40 itens; esgotados redirecionam), WatchReport 2018, The Time Bum, WatchPaper, Dialicious, Retromobile; corrigido I (2018; quartzo e automático). Asterisk (18 relógios, 101942-101959): Watches.com (códigos), Worn & Wound (Charley Harper), collectSPACE e Workbook (Space Missions), My Modern Met (National Parks). Adiadas (PROVENANCE no oficial e quase nada fora): Arion, Arly Watch, Arthur Charles Watches, Art Watch Gallery; sem dados: Armonian, Artus Watches. Asas Watches (aba Marcas vazia) e Ash's Watches ficaram para a próxima. Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10825,26 +10837,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T03:42:35Z",
- "ultimo_sinal": "2026-11-16T03:42:35Z",
- "em_andamento": {
-  "marcas": [
-   "Arly Watch",
-   "Arpiem Watches",
-   "Arthur Charles Watches"
-  ],
-  "linha_marcas": [
-   178,
-   187,
-   193
-  ],
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1,
-  "obs": "Arion adiada (oficial PROVENANCE, Firecrawl sem créditos); Armonian provável adiamento (site robots)"
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
