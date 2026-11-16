@@ -11087,5 +11087,21 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
+ "em_execucao": "2026-11-16T20:43:06Z",
+ "ultimo_sinal": "2026-11-16T20:43:06Z",
+ "em_andamento": {
+  "marcas": [
+   "Brunmontagne",
+   "Bruvik",
+   "Bryan Laurent"
+  ],
+  "linha_marcas": 398,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
