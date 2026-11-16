@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 234,
- "ultima_versao": 645,
+ "proxima_linha_marcas": 239,
+ "ultima_versao": 646,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10760,6 +10760,19 @@
    "grande": true,
    "passadas": "63/111; 23/11; 13/2 (fontes/relógios novos)",
    "obs": "Oficial audazwatches.com PROVENANCE (1 tentativa); Firecrawl sem créditos. Base: Serious Watches (coleção + fichas escondidas), WatchBandit, Aurifo, Watchia, Conteenium, OceanicTime, HKTDC (refs antigas ADZ-2010/2020/2025), WristReview (Scuba Master ADZ-2035-05). Corrigidos C (Hong Kong) e I (desde 2016). Predator III e Dash One (J) não achados. Puladas e adiadas: Asas, Ash's, Astiegan, Astra, Atelier Esïol, Atelier Genesis Machine, Atmoss, Atomishine, Atomyx, Attache, Atypik, Aubliq, Auctor (ADIADAS no proxima_marca.py). Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Audoin, August Berg, AURA."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 646,
+   "marca": "August Berg",
+   "linha_marcas": 239,
+   "linhas_relogios": "102083-102173",
+   "relogios": 91,
+   "vermelho": false,
+   "site_bloqueado": "augustberg.com (PROVENANCE)",
+   "fontes": 56,
+   "grande": true,
+   "obs": "Base: loja my-store-55bwtxbh.amboras.com (aparentemente da marca), Wallace Bishop, H2Hub, The Iconic NZ, JCK, Woman & Home, Jeweller (códigos M1.. da Morris & Co), blog Daytona2. Audoin Watches adiada (zero fontes; ADIADAS no proxima_marca.py). AURA ficou para a próxima. Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
