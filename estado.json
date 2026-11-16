@@ -10866,7 +10866,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T06:45:00Z",
- "ultimo_sinal": "2026-11-16T07:00:33Z",
+ "ultimo_sinal": "2026-11-16T07:02:02Z",
  "em_andamento": {
   "marcas": [
    "AV86"
@@ -10880,9 +10880,14 @@
    "1",
    "2",
    "2c",
-   "3"
+   "3",
+   "4",
+   "5",
+   "7",
+   "9",
+   "passada2"
   ],
-  "passada": 1,
+  "passada": 3,
   "obs": "AURA e Autran & Viala adiadas (oficial PROVENANCE, sem Firecrawl); AV86 grande, sozinha"
  }
 }
