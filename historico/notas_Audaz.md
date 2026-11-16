@@ -4,3 +4,4 @@ Marcas acima puladas (adiadas): Asas, Ash's Watches (ashswatches.com PROVENANCE,
 Feito: Serious Watches coleção, Aurifo p1, WatchBandit coleção p1 e famílias, Watchia, product pages Predator II/Ocean Raider.
 Falta: WatchBandit p2, Aurifo p2, Reef Diver (refs?), Tri-Hawk Tritium (World of Watches), Sprinter, Quantum, Dash One, Predator III, Octomarine outras refs (2070-02,04,06..12), Sea Armour, Scorpion 04, imprensa (W&W, Watch Report), Chrono24, eBay.
 1ª passada encerrada com 63 fontes (3 últimas sem novidade). Vermelha: site oficial bloqueado, buracos de sequência (Bronzmatic 2065-01/02/04/05, Sea Ranger 2050-01/05, Octomarine 2070-06/10, Scorpion 3090-04, Sprinter 2025-01, King Ray 3040-03) e Predator III / Dash One (coluna J) não achados. 2ª passada: buscar esses.
+2ª passada encerrada (3 últimas sem novidade); trouxe 11 novos -> 3ª passada obrigatória. Seafarer tem 6 cores (falta ADZ-3030-06).

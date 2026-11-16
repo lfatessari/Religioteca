@@ -1,0 +1,521 @@
+{
+ "marca": "Audaz Watches",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – audazwatches.com não abre para leitura automática (PROVENANCE na WebFetch; Firecrawl sem créditos); revisitar com navegador (products.json tinha 148 relógios em 14/11/2026)",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.seriouswatches.com/collections/audaz",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.aurifo.com/lv/m/audaz-watches",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/audaz",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.watchreport.com/category/audaz-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/audaz-reef-diver-300m-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/audaz/audaz-abyss-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/audaz/audaz-barracuda",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://watchbandit.com/?p=254820",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/audaz/audaz-marine-master",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/audaz/audaz-maverick",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/audaz/audaz-pacific-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-ocean-raider-automatc-diver-adz-2060-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-predator-ii-adz-2080-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-ocean-raider-adz-2060-06",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drop.com/buy/audaz-ocean-raider-automatic-watch/questions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/new/products/audaz-predator-ii-adz-2080-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-predator-ii-adz-2080-02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-predator-ii-adz-2080-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-predator-ii-adz-2080-05",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-ocean-raider-adz-2060-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/audaz-ocean-raider-adz-2060-07",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/audaz-ocean-raider-adz-2060-02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/en/brands/audaz.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/product/audaz-octomarine-500m-adz-2070-12/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/audaz-octomarine-adz-2070-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-7",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-08",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-09",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-15",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-automatic-reef-diver-adz-2040-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-automatic-reef-diver-adz-2040-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-automatic-reef-diver-adz-2040-05.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-automatic-reef-diver-adz-2040-06.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-automatic-reef-diver-adz-2040-08.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-automatic-reef-diver-adz-2040-09.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-reef-diver-adz-2040-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-reef-diver-adz-2040-11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/eu/audaz-bronzmatic-200m-automatic-diver-adz-2065-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-sea-ranger-adz-2050-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-sea-ranger-adz-2050-06",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-predator-adz-2055-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-predator-adz-2055-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hktdc.com/event/hkwatchfair/en/product/1X1XAH4H",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/audaz-predator-adz-2055-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/audaz-predator-adz-2055-02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/audaz-sea-ranger-adz-2050-07",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hktdc.com/event/te/en/product/1Z03ODG8W",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2023/07/audaz-tri-hawk-t25-series-daily-diver.html?m=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/micro-brand-watch-digest-inventive-divers-anti-magnetic-field-watch-one-charming-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-sea-ranger-adz-2050-02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-sea-ranger-adz-2050-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-bronzmatic-adz-2065-06",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/audaz-pacific-blue-adz-2090-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://conteenium.com/product/audaz-bronzmatic-adz-2065-03/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-ocean-raider-automatc-diver-adz-2060-05.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/world/audaz-300m-ocean-raider-automatc-diver-adz-2060-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2021/09/audaz-octomarine-500m-new-looks.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/audaz-seafarer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/audaz-reef-diver-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/collections/audaz-abyss-diver",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/audaz-predator-automatic-watch/details",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com.au/itm/184622203984",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-octomarine-adz-2070-13",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-king-ray-adz-3040-03",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2022/09/audaz-king-ray-rugged-majesty.html?m=0",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2024/04/audaz-sea-ranger-gmt-meteorite-crossing.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/the-best-new-watch-releases-for-august-2026",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-bronzmatic-adz-2065-02",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/audaz-bronzmatic-adz-2065-04",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-bronzmatic-adz-2065-05",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-abyss-diver-adz-3010-02",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-abyss-diver-adz-3010-06",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/audaz-pacific-blue-adz-2090-04",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/?p=24781",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jacobsheppard1.squarespace.com/reviews/audaz-gallant-watch-review",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2023/05/audaz-abyss-diver-1000m-4x-new-looks.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2019/11/audaz-new-bronzmatic.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Quartz-Watch-1X1X52S2",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Stainless-Steel-Watch/1X1XAH2J",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/audaz-sea-armour-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2020/10/audaz-sea-armour-200m.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/audaz-seafarer-hands-on-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/?p=301861",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/?p=360850",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aurifo.com/en/p/men-s-black-audaz-watch-with-steel-strap-sprinter-adz-2025-05-45mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Sprinter-Watch/1X1XAH4H",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://feeltime.com.ua/en/products/audaz-maverick-adz-3060-05",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/audaz-octomarine-diver-review/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://feeltime.com.ua/en/articles/novyj-mikrobrend-audaz",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/audaz-tri-hawk-tritium-blue-dial-mens-watch-adz-4010-02.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.massdrop.com/buy/audaz-reef-diver-automatic-watch/talk",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2024/01/audaz-core-tourbillon-out-of-its-depth.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://conteenium.com/product/audaz-predator-adz-2055-03/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/product/audaz-bronzmatic-adz-2065-05/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/product/audaz-pacific-blue-t25-adz-2090-02/",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Hong Kong",
+  "I": "Audaz é \"ousado\" em latim. A marca opera e despacha de Hong Kong e se especializa em relógios de mergulho profissionais e cronógrafos de precisão, com caixas, mostradores, lunetas e pulseiras desenhados internamente.\n\nOs mergulhadores chegam a 1.000 metros de resistência à água, com válvula de escape de hélio e mostradores iluminados por trítio. Os movimentos vêm de ETA, Ronda, Seiko e Miyota. O site não informa fundador; a imprensa (Watch Report) e a loja ucraniana Feeltime dizem que a marca existe desde 2016."
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.watchreport.com/audaz-seafarer-hands-on-watch-review/",
+   "https://feeltime.com.ua/en/articles/novyj-mikrobrend-audaz"
+  ],
+  "I": [
+   "https://www.watchreport.com/audaz-seafarer-hands-on-watch-review/",
+   "https://feeltime.com.ua/en/articles/novyj-mikrobrend-audaz"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 16/11/2026 (v645): 123 linhas, vermelha (site oficial bloqueado; o products.json do site tinha 148 relógios). Corrigido: C vazio → Hong Kong (Watch Report + Feeltime); I: 'O site não informa fundador nem ano de criação' → acrescentado 'existe desde 2016' (Watch Report + Feeltime). Ainda a verificar: J cita 'Predator III' e 'Dash One', não encontrados em nenhuma fonte (achados Predator ADZ-2055 e Predator II ADZ-2080); a Feeltime fala em 17 coleções."
+}

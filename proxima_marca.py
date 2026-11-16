@@ -26,6 +26,19 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Asas Watches": "aba Marcas vazia (só @asaswatches); asaswatches.com não abre e as buscas só trazem homônimos (fase Marcas, 14/11/2026; adiada em 16/11/2026, v645) — refazer com navegador",
+    "Ash's Watches": "~6 modelos (VTOL, Living Color, Vanishing Point, Outrider, Gyre, Mirkwood); ashswatches.com não abre pela WebFetch (PROVENANCE) e nenhuma busca traz a marca (16/11/2026, v645) — refazer com Firecrawl (Shopify: products.json)",
+    "Astiegan Watches": "é revendedora de relógios vintage suíços de outras marcas (Sierre), sem modelos próprios (16/11/2026, v645) — usuário decide se fica na lista",
+    "Astra Watch": "aba Marcas vazia (só @astra.kwt); buscas só trazem homônimos (fase Marcas, 14/11/2026; adiada em 16/11/2026, v645)",
+    "Atelier Esïol": "aba Marcas vazia (só @atelieresiol); buscas sem resultado (fase Marcas, 14/11/2026; adiada em 16/11/2026, v645)",
+    "Atelier Genesis Machine": "aba Marcas vazia; não confirmado nem que é marca de relógio (fase Marcas, 14/11/2026; adiada em 16/11/2026, v645)",
+    "Atmoss": "1 modelo (SR-01 Everyday Pilot: branco, preto, cinza-ardósia); projeto em pausa, sem site; só ~5 fontes no mundo (Time+Tide, Wrist Enthusiast, Worn & Wound) (16/11/2026, v645)",
+    "Atomishine": "catálogo Shopify com ~14 coleções (Hydrocore, Eondate, Eondate Maxi, Velocirex, Technautic, Octaforma, Xenoflux, Illusion, Voidframe…); atomishine.com não abre pela WebFetch (PROVENANCE) e as buscas não trazem produtos (16/11/2026, v645) — refazer com Firecrawl (products.json)",
+    "Atomyx C-Watches": "aba Marcas vazia (só @atomyxcwatches); fase Marcas não achou a marca (adiada em 16/11/2026, v645)",
+    "Attache Watches": "attachewatches.com não abre pela WebFetch (PROVENANCE); só uma resenha russa (ixbt) aparece nas buscas (16/11/2026, v645) — refazer com Firecrawl",
+    "Atypik Watches": "1 modelo (AT01, 25 peças); atypik.watch não abre pela WebFetch (PROVENANCE) e as buscas não trazem a marca (16/11/2026, v645) — refazer com Firecrawl",
+    "Aubliq": "não faz relógios (só caixas e suportes para relógios) (16/11/2026, v645)",
+    "Auctor Horologium": "1 modelo (Auctor Zen: Éclat e Noire); auctorwatches.com não abre pela WebFetch (PROVENANCE) e as buscas não trazem a marca (16/11/2026, v645) — refazer com Firecrawl",
     "Armonian": "aba Marcas quase vazia; armonian.com bloqueia leitura automática (robots) e nenhuma imprensa fala da marca (fase Marcas, 13–14/11/2026; adiada em 16/11/2026, v644) — refazer com navegador",
     "Artus Watches": "aba Marcas vazia; @artus.watches não ligado a site; artuswatch.ru (candidata) em loop de redirecionamento (fase Marcas, 14/11/2026; adiada em 16/11/2026, v644)",
     "Arion": "1 coleção (Delphinus: Ichthyian Silver, Aeolian Blue, Melian Pearl); artofarion.com não abre pela WebFetch (PROVENANCE) e só a Fratello e o Microbrand Atlas falam dela (16/11/2026, v644) — refazer com Firecrawl",
