@@ -5,3 +5,4 @@ Site oficial raiz: PROVENANCE. Abrem: oembed de coleções vindos de busca, pág
 Coleções na navegação: Special Editions, Żabnica (Anglerfish), Flying Seal, New Sky, Steersman, Wave (Fala), Damskie, Perun, Diamond Atelier, Past Models, Volans, Piątuń (2025), Moonfish, StarDust, Deep Water, Grey Seal.
 Feitas: §2 parcial (zegarki p2 completo).
 Falta: zegarki p1/p3, past models, special editions, Wisła/GROM, Perun, Wave, damskie, lojas, imprensa.
+Passada 1 encerrada: 3 últimas sem novidade (55 fontes). Vermelho: zegarki p1/p3 e coleções Diamond Atelier/Special Editions/Past Models/damskie não alcançadas; Raków 105, GROM, 1ª Brigada, Wisła 2020 sem página. 2ª passada abaixo.
