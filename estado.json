@@ -10839,7 +10839,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T04:42:43Z",
- "ultimo_sinal": "2026-11-16T05:09:57Z",
+ "ultimo_sinal": "2026-11-16T05:11:59Z",
  "em_andamento": {
   "marcas": [
    "Audaz Watches"
@@ -10852,9 +10852,16 @@
   "secoes_feitas": [
    "1",
    "2",
+   "2c",
+   "3",
    "5",
-   "7"
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "10b"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
