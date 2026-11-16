@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 383,
- "ultima_versao": 659,
+ "proxima_linha_marcas": 396,
+ "ultima_versao": 660,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10963,6 +10963,39 @@
    },
    "site_bloqueado": "Sim – breda.com PROVENANCE",
    "obs": "Firecrawl sem créditos até 17/11 13:43 UTC; pendências dos posts não lidas (ferramenta Projects ausente). Próximas pela proxima_marca.py: Brigade Watch Co, Brillier, Broad & Swan."
+  },
+  {
+   "marca": "Brigade Watch Co",
+   "data": "2026-11-16",
+   "versao": 660,
+   "linha_marcas": 392,
+   "linhas_relogios": "102968-102988",
+   "relogios": 21,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 16
+  },
+  {
+   "marca": "Brillier",
+   "data": "2026-11-16",
+   "versao": 660,
+   "linha_marcas": 393,
+   "linhas_relogios": "102989-103024",
+   "relogios": 36,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 25
+  },
+  {
+   "marca": "Broad & Swan",
+   "data": "2026-11-16",
+   "versao": 660,
+   "linha_marcas": 396,
+   "linhas_relogios": "103025-103033",
+   "relogios": 9,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11054,21 +11087,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T19:42:12Z",
- "ultimo_sinal": "2026-11-16T19:42:12Z",
- "em_andamento": {
-  "marcas": [
-   "Brigade Watch Co",
-   "Brillier",
-   "Broad & Swan"
-  ],
-  "linha_marcas": 392,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

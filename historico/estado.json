@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 383,
- "ultima_versao": 659,
+ "proxima_linha_marcas": 396,
+ "ultima_versao": 660,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10963,6 +10963,39 @@
    },
    "site_bloqueado": "Sim – breda.com PROVENANCE",
    "obs": "Firecrawl sem créditos até 17/11 13:43 UTC; pendências dos posts não lidas (ferramenta Projects ausente). Próximas pela proxima_marca.py: Brigade Watch Co, Brillier, Broad & Swan."
+  },
+  {
+   "marca": "Brigade Watch Co",
+   "data": "2026-11-16",
+   "versao": 660,
+   "linha_marcas": 392,
+   "linhas_relogios": "102968-102988",
+   "relogios": 21,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 16
+  },
+  {
+   "marca": "Brillier",
+   "data": "2026-11-16",
+   "versao": 660,
+   "linha_marcas": 393,
+   "linhas_relogios": "102989-103024",
+   "relogios": 36,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 25
+  },
+  {
+   "marca": "Broad & Swan",
+   "data": "2026-11-16",
+   "versao": 660,
+   "linha_marcas": 396,
+   "linhas_relogios": "103025-103033",
+   "relogios": 9,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
