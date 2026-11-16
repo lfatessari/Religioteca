@@ -1,0 +1,636 @@
+{
+ "marca": "Benlydesign",
+ "usa_codigos": false,
+ "logo": "https://benlydesignwatch.com/cdn/shop/files/logo_new.png?v=1758520853&width=1889",
+ "site_bloqueado": "Parcial – benlydesignwatch.com: a ficha x100-1 dá erro e as fotos das fichas antigas (escondidas) não aparecem na leitura automática; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 16/11/2026 (v653): 171 modelos/cores. O site oficial abriu direto. Vermelha: o site tem muitas fichas antigas escondidas (S1000, S3000, X5000, X7000 em várias cores, ex.: S1000S-B, S3000 preto, X7000 SR/SG2/BW citados só em nomes de arquivo ou avaliações) que não deu para listar todas. Muitas fichas antigas aparecem só com o link da página (fotos não aparecem na leitura automática). A ficha de fornecedor na HKTDC indica a empresa Shenzhen Benly Watch Co., Ltd (China continental); B/C dizem Hong Kong (o site oficial fala em equipe de Hong Kong) — a verificar. D corrigido: 'Relógios digitais e a quartzo de desenho futurista e preço baixo.' → inclui automáticos (Steel Tank, Time Gallery, Time Frame, Lighthouse Mechanical, Cylindrex) — fonte: site oficial.",
+ "correcoes": {
+  "D": "Relógios digitais, a quartzo e automáticos de desenho retrofuturista e preço baixo."
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://benlydesignwatch.com/products/steel-tank",
+   "https://benlydesignwatch.com/products/time-gallery"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://benlydesignwatch.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/collections/all-watches",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://benlydesignwatch.com/collections/all-watches?page=2",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://benlydesignwatch.com/collections/all-watches?page=3",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/collections/pre-order",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/collections/digital-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/collections/new-products",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/lumin-g100",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/lighthouse-n",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/radar",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/desktop-95",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/after-100-years-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/recure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/fighter-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/melt-tank",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/base-moon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/sleep-mission",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/sleepy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/r200",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/r100-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/g400",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/g200",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/time-gallery",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/planet-dashboard-ii",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/escape",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/m4",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/steel-tank",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/redline-1",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/mk2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/mk3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/magnet-orbit",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/retro-letter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/y2k-metal-unique-digital-watch-x6000s",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/flavor",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/pulse-matrix",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/lighthouse-mechanical-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/g300-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/f1-0-0001s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/sallon-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/prison-break-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/octopus-treasure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/band-80",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/orchard-dream-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/ukiyoe-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/vacation-away-from-work",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/kyosi",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/last-picnic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/dreamwave",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/torch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/melt-time",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/alien-drop",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/t10",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/loch-hunt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/time-frame-limited-edition",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/sakura-journey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/friends-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/race-timer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/built-from-above-built-from-above",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/s1000s-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/retro-digital-watch-s1000s-w",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ja/products/retro-digital-watch-dark-knigth-s1000bg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/s1001tr",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/unique-retro-watches-terminator-x7000-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/gladiator-x7000ga-y",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ko/products/x7000b-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/gladiator-x7000",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/s3000gray-c",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/s3001gray",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/solar-powered-moon-walker-s3000",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ja/products/gl570",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/zh/products/gx550",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/pages/gift-shop",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/retro-futuristic-digital-watch-s1000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/mk1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/m1-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/l800",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/retro-matrix",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ja/products/l500",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/y2k-metal-unique-digital-watch-x5000s-b",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ar/products/x5000s-quartz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/y2k-digital-watch-x5000s-f",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ja/products/gl570ppe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/collections/quartz-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jwlraddicts.com/benlydesign-word-matrix-retro-futuristic-led-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jwlraddicts.com/benlydesign-m3-y2k-digital-watch-stainless-steel/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jwlraddicts.com/benlydesign-l700-retro-y2k-fluorescent-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jwlraddicts.com/benlydesign-retro-futuristic-y2k-cyberpunk-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jwlraddicts.com/benlydesign-m1-sky-freedom-quartz-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Unique-Metal-Watches-Design-BENLYDESIGN-GL500-1Z03MP28A",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/ODM-Wholesale-Unique-Metal-Watches-Design-BENLYDESIGN-GL570W-1Z03MP8NV",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hktdc.com/event/hkwatchfair/en/product/1Z03MOI46",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Unique-Metal-Watches-Design-BENLYDESIGN-Mobius-X5000-Quartz-1Z03MOJF8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/benly-design-desktop-95-windows-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://techbuzzireland.com/2025/03/04/benlydesign-cyber-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jwlraddicts.com/?p=162578",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.core77.com/posts/126778/A-Retrofuturistic-Wristwatch-with-a-Bizarre-Shroud-Like-Form-Factor",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/m400",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/z8000",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/z8000b-w",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ko/products/l900",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/pages/event",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/cylindrex",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/m8-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/x5000s-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jwlraddicts.com/benlydesign-l800-y2k-stainless-steel-watch",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jwlraddicts.com/benlydesign-x5000-retro-futuristic-quartz-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.desertcart.us/products/660333279-benlydesign-retro-digital-watch-for-men-vintage-1970s-oled-display.md",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.co/products/636588140",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.trendhunter.com/trends/benly-design-s3000-cyber-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hi-tech.ua/en/benlydesign-stargazer-s1000-retro-futuristic-watch-is-equipped-with-an-inclined-oled-display/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/blogs/product/the-led-watch-store",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yankodesign.com/?p=106218",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/utility5store/products/x5000-quartz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/retro-digital-watch-s1000b-w",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://benlydesignwatch.com/ja/products/s2000",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jwlraddicts.com/benly-design-gladiator-x7000-digital-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/ja/products/g100-s1000",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://benlydesignwatch.com/products/stargazer-s1000-buy-1-get-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://nothingtec.com/en/?p=4614",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.vn/products/652687158-benlydesign-unique-metal-digital-watch-for-men-retro-2000s-vintage",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.nz/products/649653525-unique-metal-wristwatch-oled-display-mens-digital-unique-metal-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.notebookcheck.net/Limited-edition-Windows-95-watch-turns-mouse-pointer-into-watch-hand.1441339.0.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://the-gadgeteer.com/?p=543346",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

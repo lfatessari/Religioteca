@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 310,
- "ultima_versao": 652,
+ "proxima_linha_marcas": 313,
+ "ultima_versao": 653,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10853,6 +10853,20 @@
    "fontes": "15 / 17",
    "site_bloqueado": "Belhamel (belhamel.com PROVENANCE); Belvans abriu por links de busca",
    "obs": "Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente). Bellecour ADIADA (site PROVENANCE, só 1 fonte de fora). Benlydesign é grande (53+ produtos): próxima execução, sozinha; notas em historico/notas_Benlydesign.md."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 653,
+   "marca": "Benlydesign",
+   "linha_marcas": 313,
+   "linhas_relogios": "102536-102706",
+   "relogios": 171,
+   "vermelho": true,
+   "grande": true,
+   "fontes": 123,
+   "passadas": "113/168; 10/3 (fontes/relógios novos)",
+   "site_bloqueado": "Parcial – ficha x100-1 com erro; fotos das fichas antigas não aparecem",
+   "obs": "Site oficial abriu direto (raiz, coleções e fichas). Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente). D corrigido (inclui automáticos). Próximas: Bermuda Watch Company, BERNY, Berthet."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10944,24 +10958,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T12:43:05Z",
- "ultimo_sinal": "2026-11-16T12:51:28Z",
- "em_andamento": {
-  "marcas": [
-   "Benlydesign"
-  ],
-  "linha_marcas": 313,
-  "grande": true,
-  "relogios": "historico/parcial_Benlydesign_relogios.txt",
-  "fontes": "historico/parcial_Benlydesign_fontes.txt",
-  "notas": "historico/notas_Benlydesign.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "4-hktdc"
-  ],
-  "passada": 1
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

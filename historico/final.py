@@ -1,44 +1,42 @@
 import re,json
-img=dict(l.rstrip('\n').split('|',1) for l in open('img.tsv') if l.strip())
-car=dict(l.rstrip('\n').split('|',1) for l in open('car.tsv') if l.strip())
-remove={'gift-set-diy-watchmaking-kit-nh72-dive-watch-with-sapphire-dial-dwc-d02s',
-'gift-set-diy-watchmaking-kit-pilot-watch-with-date-vintage-strap-f01-standard-lume',
-'gift-set-diy-watchmaking-kit-nh34-gmt-dive-watch-seiko-gmt-movement-ceramic-coke-gmt-bezel-dwc-d03',
-'new-year-deal-lucky-bag-dive-watch-diy-kit-with-complete-tools-and-components',
-'diy-watch-gift-for-a-couple-watch-experience-mosel-silver-vintage-dress-watch-w-miyota-movement',
-'gift-set-skeleton-couple-watch-kit-miyota-citizen-8n24-anthracite-movement-mosel-series',
-'diy-watch-gift-for-a-couple-watch-experience-blue-dial-skeleton-vintage-dress-watch-w-miyota-8n24',
-'42mm-blue-type-b-bezel-dive-watch-kit-d05-maxi-superlume-dial-with-c3-lume-copy',
-'diy-watchmaking-kit-38-5mm-mosel-series-blue-dial-skeleton-vintage-dress-watch-w-miyota-8n24-copy'}
-rename={'best-deal-lucky-bag-38mm-expedition-gmt-watch-diy-kit-with-complete-tools-and-components':'38mm Expedition GMT Watch Kit (vendido como Lucky Bag)'}
-coll=set(l.split('|')[0] for l in open('prod.tsv').read().splitlines()[:68])
-rows=[];seen=set()
-for l in open('prod.tsv'):
-    if not l.strip(): continue
-    h,t,c,e=l.rstrip('\n').split('|')
-    if h in remove or h in seen: continue
-    seen.add(h)
-    t=rename.get(h,t)
-    t=re.sub(r'^\[([^\]]+)\]\s*',r'\1 – ',t)
-    rows.append([h,t,c])
-# strip movement parentheses if unique
-def strip(t): return re.sub(r'\s*\((?:TMI|Seiko|Miyota)[^)]*\)','',t).strip()
-cand=[strip(t) for h,t,c in rows]
-keys=[(x+'|'+r[2]).lower() for x,r in zip(cand,rows)]
-from collections import Counter
-cnt=Counter(keys)
+exec(open('variantes.py').read())
+LIM_SEM={'g400','x100-1'}
+CDN='https://benlydesignwatch.com/cdn/shop/files/'
 out=[]
-for (h,t,c),x,k in zip(rows,cand,keys):
-    name=x if cnt[k]==1 else t
-    name=name.replace('|','/')
-    u=img.get(h) or ('https://shop.diywatch.club/products/'+h if not h.startswith('x-') else '')
-    e=car.get(h,'')
-    if not e: e='Kit para montar'
-    if not img.get(h): e+='. Foto não coletada (a página da loja não expôs a imagem à leitura automática): link da página do produto na loja oficial'
-    if 'Starter Bundle' in name or 'Modding' in name: e+='. Vendido como pacote com peças extras (pulseiras, luneta, inserto ou ferramenta)'
-    out.append(f'{name}|{c}|{u}|{e}')
-names=[o.split('|')[0]+o.split('|')[1] for o in out]
-assert len(names)==len(set(names)), [n for n,v in Counter(names).items() if v>1]
-open('dados_DIY Watch Club.txt','w').write('\n'.join(out)+'\n')
-print(len(out), sum(1 for h,_,_ in rows if img.get(h)))
-json.dump(sorted(coll),open('coll.json','w'))
+def norm(s): return re.sub(r'[^a-z0-9]','',s.lower())
+for l in open('base_benly.tsv'):
+    nome,h,img=l.rstrip('\n').split('|')
+    lim=LIM.get(h); suf=f' – edição limitada de {lim} peças' if lim else (' – edição limitada' if h in LIM_SEM else '')
+    car=C.get(h,'')
+    if h=='x100-1': car='Foto da vitrine da loja oficial (a ficha do produto não abriu).'
+    if h in V:
+        for s,i in V[h]: out.append([f'{nome} {s}{suf}','',CDN+i,car])
+    else: out.append([f'{nome}{suf}','',CDN+img,car])
+for f in ('extras.txt','extras2.txt'):
+    for x in open(f):
+        if not x.strip(): continue
+        n,c,i,e=x.rstrip('\n').split('|')
+        if c and norm(c) in norm(n): c=''
+        out.append([n,c,i,e])
+nomes=[o[0]+(' - '+o[1] if o[1] else '') for o in out]
+import collections; d=[k for k,v in collections.Counter(nomes).items() if v>1]; print('dup',d)
+assert all('|' not in x for o in out for x in o)
+open('dados_Benlydesign.txt','w').write('\n'.join('|'.join(o) for o in out)+'\n'); print(len(out))
+fontes=[]
+seen=set()
+for l in open('parcial_Benlydesign_fontes.txt'):
+    p,u,n=l.strip().split('|'); 
+    if u.lower().rstrip('/') in seen: print('rep',u); continue
+    seen.add(u.lower().rstrip('/')); fontes.append({'url':u,'passada':int(p),'novos':int(n)})
+print('fontes',len(fontes), collections.Counter(f['passada'] for f in fontes))
+obs=("Relógios pesquisados em 16/11/2026 (v653): 171 modelos/cores. O site oficial abriu direto. Vermelha: o site tem muitas fichas antigas escondidas (S1000, S3000, X5000, X7000 em várias cores, ex.: S1000S-B, S3000 preto, X7000 SR/SG2/BW citados só em nomes de arquivo ou avaliações) que não deu para listar todas. "
+     "Muitas fichas antigas aparecem só com o link da página (fotos não aparecem na leitura automática). "
+     "A ficha de fornecedor na HKTDC indica a empresa Shenzhen Benly Watch Co., Ltd (China continental); B/C dizem Hong Kong (o site oficial fala em equipe de Hong Kong) — a verificar. "
+     "D corrigido: 'Relógios digitais e a quartzo de desenho futurista e preço baixo.' → inclui automáticos (Steel Tank, Time Gallery, Time Frame, Lighthouse Mechanical, Cylindrex) — fonte: site oficial.")
+D_novo='Relógios digitais, a quartzo e automáticos de desenho retrofuturista e preço baixo.'
+cfg={"marca":"Benlydesign","usa_codigos":False,"logo":"https://benlydesignwatch.com/cdn/shop/files/logo_new.png?v=1758520853&width=1889",
+ "site_bloqueado":"Parcial – benlydesignwatch.com: a ficha x100-1 dá erro e as fotos das fichas antigas (escondidas) não aparecem na leitura automática; revisitar com navegador",
+ "vermelho":True,"grande":True,"complemento":False,"observacoes":obs,
+ "correcoes":{"D":D_novo},"correcoes_fontes":{"D":["https://benlydesignwatch.com/products/steel-tank","https://benlydesignwatch.com/products/time-gallery"]},
+ "fontes":fontes}
+json.dump(cfg,open('marca_Benlydesign.json','w'),ensure_ascii=False,indent=1)
