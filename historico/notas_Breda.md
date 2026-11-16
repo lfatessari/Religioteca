@@ -11,3 +11,4 @@
 - meghani.squarespace.com: Meghani World Inc. dona da BREDA e da JBW. nila.cz produto direto deu PROVENANCE (não repetir nila).
 - Opumo: fundada em 2009, família, Dallas. CreativeBloq 2016: Deep Ellum, Dallas, bredawatch.com; Valor. The Cool Hour page 2 não aberta (?page=2 não veio de busca).
 ## Passada 1 encerrada (3 fontes seguidas sem novidade: loopandtie 28913, anthropologie, desertcart). VERMELHA: Lyst 276 produtos, eBay 477 anúncios, códigos antigos 16xx/2xxx/8xxx sem nome. Passada 2: catálogo antigo (2009-2019), JBW irmã, códigos sem nome.
+- P2: Visser Metal = 1737A; Jane Elemental (modesens.jp) specularite preto/dourado, cód. loja 4176525; Bresson = homenagem a Cartier-Bresson; Breda começou como private label 2009 (CreativeBloq)
