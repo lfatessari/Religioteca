@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 405,
- "ultima_versao": 662,
+ "proxima_linha_marcas": 415,
+ "ultima_versao": 663,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11030,6 +11030,17 @@
    "vermelho": false,
    "site_bloqueado": true,
    "fontes": 16
+  },
+  {
+   "marca": "Buyalov",
+   "data": "2026-11-16",
+   "versao": 663,
+   "linha_marcas": 415,
+   "linhas_relogios": "103171-103256",
+   "relogios": 86,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 68
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11126,22 +11137,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-16T22:42:22Z",
- "ultimo_sinal": "2026-11-16T23:00:32Z",
- "em_andamento": {
-  "marcas": [
-   "Buyalov"
-  ],
-  "linha_marcas": 415,
-  "grande": false,
-  "relogios": "historico/parcial_Buyalov_relogios.txt",
-  "fontes": "historico/parcial_Buyalov_fontes.txt",
-  "notas": "historico/notas_Buyalov.md",
-  "secoes_feitas": [
-   "1",
-   "2"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
