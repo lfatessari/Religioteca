@@ -10973,17 +10973,22 @@
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "em_execucao": "2026-11-16T14:43:12Z",
-  "ultimo_sinal": "2026-11-16T14:43:12Z",
+  "ultimo_sinal": "2026-11-16T15:06:30Z",
   "em_andamento": {
     "marcas": [
-      "BERNY"
+      "Bespoke Watch Projects"
     ],
-    "linha_marcas": 323,
+    "linha_marcas": 327,
     "grande": true,
-    "relogios": "historico/parcial_BERNY_relogios.txt",
-    "fontes": "historico/parcial_BERNY_fontes.txt",
-    "notas": "historico/notas_BERNY.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "relogios": "historico/parcial_BWP_relogios.txt",
+    "fontes": "historico/parcial_BWP_fontes.txt",
+    "notas": "historico/notas_adiadas_BERNY_Berthet_Bespo.md",
+    "secoes_feitas": [
+      "1",
+      "3",
+      "9"
+    ],
+    "passada": 1,
+    "obs": "BERNY, Berthet e Bespo a adiar (sites PROVENANCE, Firecrawl sem créditos)"
   }
 }
