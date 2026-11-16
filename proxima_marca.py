@@ -14,6 +14,7 @@ import sys, re, unicodedata, collections, openpyxl
 APELIDOS = {
     "Victorinox Swiss Army": "Victorinox",
     "Zeno-Watch Basel": "Zeno Watch-Basel",
+    "Cabot Watch Company": "CWC",  # mesma marca da linha CWC (82 relógios, v.  bateria CWC); 16/11/2026
 }
 
 
