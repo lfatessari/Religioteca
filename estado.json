@@ -11089,7 +11089,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T20:43:06Z",
- "ultimo_sinal": "2026-11-16T21:00:11Z",
+ "ultimo_sinal": "2026-11-16T21:05:58Z",
  "em_andamento": {
   "marcas": [
    "Brunmontagne",
@@ -11102,9 +11102,9 @@
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [
-   "Brunmontagne: completa (21 fontes)",
+   "Brunmontagne: completa (21 fontes, 45)",
    "Bryan Laurent: adiada",
-   "Bruvik: site+klokkeriet (19 fontes)"
+   "Bruvik: grande; site+imprensa+lojas (56 fontes, 69)"
   ],
   "passada": 1
  }
