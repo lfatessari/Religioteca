@@ -1,7 +1,5 @@
-# Altanus — bateria v634
-- oficiais alpharo.co.uk, alpwatches.com, altanus.com: PROVENANCE (1 tentativa cada). Firecrawl sem créditos (renova 16/11 13:43 UTC).
-- Altanus tratada como grande (sozinha). Alpharo e Alp: sem fontes externas suficientes -> provavelmente adiar.
-- Europa Star lista: Master T, Elite Sport, Elite Réserve de Marche, Master Complication, Elite (links internos, precisam vir de busca)
-- Sculpture: Europa Star diz '100 anos' em 2014/2025 (inconsistente).
-- História (só anotar em M): newswire 2017 diz fundada em 1914, Marcianise, CEO Giuseppe Casillo; Altanus USA (Orlando) 2017; marcas Altanus Geneve, Altanus, Macteam, FlowerApp. Timmerbox: fundada em Genebra 1941, família napolitana de Mario Casillo. VO+ 2016 URL "95a" (95 anos?). Europa Star: 100 anos (2014/2025). Datas divergentes.
-- Vinted 500+ anúncios, eBay muitos sem nome -> VERMELHA.
+# Bateria AVAIL Watches / Avarth / AVeritas (16/11/2026)
+Oficiais diretos: avarth.com, averitas.com, availwatches.co.uk -> PROVENANCE (1 tentativa cada). Firecrawl sem créditos.
+## AVeritas: catálogo oficial = 8 modelos (Beginnings: "eight models with over twenty variations"): Primus, Aurora (2009-10), Regulator, Force 1, 4-Ten, Lunar Date, Dimetior, Aperio. Variantes de mostrador com nome. Blog rate-limited.
+## Avarth: 8 modelos (Shunya, Eka, Dakshina, Waqt, Ashva, Chandini, Jugalbandhi, Avanti); Jugalbandhi/Avanti sem página (só nome; Avanti em vídeo YouTube e The Hour Markers).
+## AVAIL: site Wix dá client_error em todas as fichas; títulos/slugs pela busca: Artium, Artios, Arlo, Cole, Cargo, Kiros, Kiros XXV, Osma, "Chronograph"; Gunmetal (Hinton). Kickstarter (Londres, out/2020).
