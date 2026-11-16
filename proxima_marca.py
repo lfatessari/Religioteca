@@ -71,6 +71,8 @@ ADIADAS = {
     "Aperture": "aba Marcas sem dados (sem site/país) e nenhuma busca identificou a marca (15/11/2026, v636)",
     "Apex Timeworks": "aba Marcas sem dados e nenhuma busca identificou a marca (só Apex de outras marcas) (15/11/2026, v636)",
     "Apogee Watches": "apogee-watches.com fora das buscas (só aparece o Apogee da Bangalore Watch Co.) (15/11/2026, v636) — refazer com Firecrawl",
+    "AURA": "aura.watch não abre pela WebFetch (PROVENANCE) e Firecrawl sem créditos; fora do site só nomes de ~30 variantes (Loox, EcomScout, Hypebeast) e 4 fotos; 17 fontes abertas, notas em historico/notas_AURA.md (16/11/2026, v647) — refazer com Firecrawl (collections/all, products.json)",
+    "Autran & Viala": "autran-viala.com não abre pela WebFetch (PROVENANCE) e o domínio não aparece em nenhuma busca; fora dele só 2 matérias antigas da WatchTime (NightFlight, Aviator B) e a Massdrop (Eremitage); notas em historico/notas_Autran_Viala.md (16/11/2026, v647) — refazer com Firecrawl",
     "Audoin Watches": "2 modelos; audoinwatches.com não abre pela WebFetch (PROVENANCE) e nenhuma busca trouxe a marca (só Charles Oudin) (16/11/2026, v646) — refazer com Firecrawl",
 }
 

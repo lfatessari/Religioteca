@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 239,
- "ultima_versao": 646,
+ "proxima_linha_marcas": 248,
+ "ultima_versao": 647,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10773,6 +10773,20 @@
    "fontes": 56,
    "grande": true,
    "obs": "Base: loja my-store-55bwtxbh.amboras.com (aparentemente da marca), Wallace Bishop, H2Hub, The Iconic NZ, JCK, Woman & Home, Jeweller (códigos M1.. da Morris & Co), blog Daytona2. Audoin Watches adiada (zero fontes; ADIADAS no proxima_marca.py). AURA ficou para a próxima. Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 647,
+   "marca": "AV86",
+   "linha_marcas": 248,
+   "linhas_relogios": "102174-102300",
+   "relogios": 127,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – av86.com raiz (PROVENANCE)",
+   "fontes": 58,
+   "passadas": "37/127; 11/9; 10/2 (fontes/relógios novos)",
+   "obs": "Ex-About Vintage. Base: coleções do site oficial (via busca), catálogo de preços PDF (linhas antigas 1969, Petite, 1820, 1971, 1926 At'sea), Luca Collections, Hypebeast (AC Milan), imboldn/FC, blog oficial (1964 Horizon). Corrigido I (primeiro modelo 1564 Concinnus 2014; 1815 em 2016, 1844 em 2017). AURA e Autran & Viala ADIADAS (oficial PROVENANCE, Firecrawl sem créditos). Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10864,30 +10878,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T06:45:00Z",
- "ultimo_sinal": "2026-11-16T07:02:02Z",
- "em_andamento": {
-  "marcas": [
-   "AV86"
-  ],
-  "linha_marcas": 248,
-  "grande": true,
-  "relogios": "historico/parcial_AV86_relogios.txt",
-  "fontes": "historico/parcial_AV86_fontes.txt",
-  "notas": "historico/notas_AV86.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "7",
-   "9",
-   "passada2"
-  ],
-  "passada": 3,
-  "obs": "AURA e Autran & Viala adiadas (oficial PROVENANCE, sem Firecrawl); AV86 grande, sozinha"
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

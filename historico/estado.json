@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 239,
- "ultima_versao": 646,
+ "proxima_linha_marcas": 248,
+ "ultima_versao": 647,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10773,6 +10773,20 @@
    "fontes": 56,
    "grande": true,
    "obs": "Base: loja my-store-55bwtxbh.amboras.com (aparentemente da marca), Wallace Bishop, H2Hub, The Iconic NZ, JCK, Woman & Home, Jeweller (códigos M1.. da Morris & Co), blog Daytona2. Audoin Watches adiada (zero fontes; ADIADAS no proxima_marca.py). AURA ficou para a próxima. Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 647,
+   "marca": "AV86",
+   "linha_marcas": 248,
+   "linhas_relogios": "102174-102300",
+   "relogios": 127,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – av86.com raiz (PROVENANCE)",
+   "fontes": 58,
+   "passadas": "37/127; 11/9; 10/2 (fontes/relógios novos)",
+   "obs": "Ex-About Vintage. Base: coleções do site oficial (via busca), catálogo de preços PDF (linhas antigas 1969, Petite, 1820, 1971, 1926 At'sea), Luca Collections, Hypebeast (AC Milan), imboldn/FC, blog oficial (1964 Horizon). Corrigido I (primeiro modelo 1564 Concinnus 2014; 1815 em 2016, 1844 em 2017). AURA e Autran & Viala ADIADAS (oficial PROVENANCE, Firecrawl sem créditos). Pendências dos posts não lidas (ferramenta Projects ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
