@@ -10866,23 +10866,18 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T06:45:00Z",
- "ultimo_sinal": "2026-11-16T06:45:00Z",
+ "ultimo_sinal": "2026-11-16T06:54:06Z",
  "em_andamento": {
   "marcas": [
-   "AURA",
-   "Autran & Viala",
    "AV86"
   ],
-  "linha_marcas": [
-   242,
-   247,
-   248
-  ],
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
+  "linha_marcas": 248,
+  "grande": true,
+  "relogios": "historico/parcial_AV86_relogios.txt",
+  "fontes": "historico/parcial_AV86_fontes.txt",
+  "notas": "historico/notas_AV86.md",
   "secoes_feitas": [],
-  "passada": 1
+  "passada": 1,
+  "obs": "AURA e Autran & Viala adiadas (oficial PROVENANCE, sem Firecrawl); AV86 grande, sozinha"
  }
 }

@@ -1,0 +1,3 @@
+# Autran & Viala — notas (ADIADA 16/11)
+- autran-viala.com PROVENANCE; o domínio não aparece em nenhuma busca (só vinhos "Le Viala"). Firecrawl sem créditos.
+- Fontes: watchtime.net neue-marke (2009, NightFlight, Thomas Ickler; foto cdn.ebnermediagroup.de/watchtime_de/2009/03/autranviala_nightflight_640.webp), watchtime flughistorie (Aviator B, foto .../2011/05/Aviator-B_640.webp), massdrop Eremitage (Ronda 715), wornandwound tag (nada). Pistas não abertas: masterhorologer.com/2011/01/19/autran-viala-aviator-b-automatic/, static.watchpatrol.net/listing/1758983, timetransformed.com, clinks.com.

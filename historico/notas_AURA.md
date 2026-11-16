@@ -1,0 +1,6 @@
+# AURA — notas
+- aura.watch PROVENANCE; Firecrawl sem créditos. 71 produtos na loja (ecomscout, inclui acessórios).
+- Modelos (loox): 1023 Steel/Rose/Black; 1023 Chronograph Gold; Skeleton 002 Rose/Black/Gold/Steel; Mini Steel Frost/Gold Frost; Memento Mori Steel; Polycarbonate Black; Ultra Thin 001 Steel/Blue (+Steel/Black ecomscout); Chronograph 001 Steel/Caribbean, Hunter, Azure, Black, Rose/Lilac (fedoras, LE 150); Chronograph 002 Rose/Havana; Tank 'Ace' Steel; Dice Gold/Midnight; Date 003 Steel/Turquoise; Date 001 Steel/White (hypebeast, NH35A 41mm); Date 002 (sportskeeda); Skeleton 001 / FKM Skeleton 001 / Rose Skeleton 001 / FKM Skeleton 001 Rose.
+- Fotos: thingtesting proxies aura.watch/cdn/shop/files/ EmeraldDateChronoStopwatchRounded.jpg (Chrono001 Hunter), Carribbean_Date_Chrono_Stopwatch_Rounded.jpg (Chrono001 Caribbean), RoseLinkBlackDateRounded40mm_...jpg (Date 001), Chrono_Gold_Gold_Date_Rounded.jpg (1023 Chronograph Gold)
+- Histórico: lançada 2023 (hype.my), cofundador Tyler Thurman (hypebeast).
+- DECISÃO (16/11, 06:58): ADIADA. Oficial PROVENANCE, Firecrawl sem créditos (renova 13:43 UTC), só 4 fotos e 4 links de produto para ~30 variantes; 17 fontes abertas, as 3 últimas sem novidade. Refazer com Firecrawl (aura.watch/collections/all, products.json).
