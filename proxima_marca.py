@@ -26,6 +26,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    'Bryan Laurent': "marca lançada em abr/2026 por Bryan Ng (Cingapura); só o site oficial existe (bryanlaurent.com abre pela busca), nenhuma loja, imprensa ou fórum; categorias iris/ e guilloche/ dão client_error; ~20 modelos (Iris, Abyss, Metaleton, Silveleton, Guilloché em 8 cores, Stone, Opal, Swisseleton); notas em historico/notas_BryanLaurent.md (16/11/2026, v661) — refazer quando houver fontes de fora",
     'Bonest Gatti': 'grande (Hong Kong/China, dezenas de referências BG####); bonestgattiwatches.com não abre pela WebFetch (PROVENANCE), o domínio não aparece em busca e Firecrawl sem créditos; fontes vistas: jwlraddicts.com (BG9960, BG9902, BG5602), sometimeslab.hk (BG9010-L3), eBay, WatchCharts; notas em historico/notas_bateria_v658.md (16/11/2026, v658) — refazer com Firecrawl',
     'Borgward': 'borgward.ag não abre pela WebFetch (PROVENANCE) e não aparece em busca (só a montadora); fora dele só a WatchTime.net (B511 de 2011, Chronograph P100 de 2012); Firecrawl sem créditos (16/11/2026, v658) — refazer com Firecrawl',
     'Bragdur': 'bragdur.no não abre pela WebFetch (PROVENANCE) e nenhuma busca traz a marca (só 2 anúncios no Finn.no); Firecrawl sem créditos (16/11/2026, v658) — refazer com Firecrawl',
