@@ -10906,7 +10906,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T09:42:50Z",
- "ultimo_sinal": "2026-11-16T09:50:08Z",
+ "ultimo_sinal": "2026-11-16T09:52:28Z",
  "em_andamento": {
   "marcas": [
    "Balticus Watches"
@@ -10917,7 +10917,9 @@
   "fontes": "historico/parcial_Balticus_fontes.txt",
   "notas": "historico/notas_Balticus.md",
   "secoes_feitas": [
-   "1"
+   "1",
+   "2",
+   "2c"
   ],
   "passada": 1
  }
