@@ -8,3 +8,5 @@
 - Solefeed (sem fotos): Jane Mini Tethered (aço/preto, dourado/champanhe, dourado/sky), Slim Jane Tethered, Relic (silver black, gold, gold scarlet, silver gold, gold blue), Coda (gold black face, gold), Jane Gold/Green, Gold/Midnight, Beverly Tethered.
 - ASOS antigo: Breda Zapf leather watch black.
 - Marca deve ficar VERMELHA (centenas de SKUs desde ~2008; muitos antigos sem código/foto).
+- meghani.squarespace.com: Meghani World Inc. dona da BREDA e da JBW. nila.cz produto direto deu PROVENANCE (não repetir nila).
+- Opumo: fundada em 2009, família, Dallas. CreativeBloq 2016: Deep Ellum, Dallas, bredawatch.com; Valor. The Cool Hour page 2 não aberta (?page=2 não veio de busca).
