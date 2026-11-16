@@ -27,6 +27,8 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
     "Avian Watches": "avianwatches.com: raiz PROVENANCE e quase todas as fichas client_error (só 2 abriram, sem fotos); Firecrawl sem créditos; ~11 variantes vistas só em títulos de busca (Genesis, Genesis X, Commodore 2020LE/2022OR/2024BR GMT, Solaris); notas em historico/notas_Avian.md (16/11/2026, v649) — refazer com Firecrawl",
+    "Bahrami Watches": "bahramiwatches.com não abre pela WebFetch (PROVENANCE), site:bahramiwatches.com sem resultado e Firecrawl sem créditos; fora do site só a resenha do Ω-02 Eucalyptus Sport (Microbrand Watch World) e a ficha do CC - Persian Gulf (2 peças); notas em historico/notas_Bahrami_Bajer_adiadas.md (16/11/2026, v650) — refazer com Firecrawl",
+    "Bajer Watches": "thebajer.com não abre pela WebFetch (PROVENANCE) e o domínio não aparece em busca; fora dele só Europa Star (coleções Urfa e Antep), The Cool Hour (Artemita) e Kurdistan Chronicle; notas em historico/notas_Bahrami_Bajer_adiadas.md (16/11/2026, v650) — refazer com Firecrawl",
     "Avax Watches": "aba Marcas vazia (só @avax_watches); a fase Marcas só achou a criptomoeda AVAX e outras marcas (14/11/2026; adiada em 16/11/2026, v648) — refazer com navegador",
     "Avel & Men": "não faz relógios (pulseiras de lona de vela e acessórios, Bretanha) (16/11/2026, v648) — usuário decide se fica na lista",
     "Averen": "aba Marcas vazia (só @averenwatches); nenhuma busca da fase Marcas achou a marca; averen.com é de outra empresa (14/11/2026; adiada em 16/11/2026, v648) — refazer com navegador",

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 265,
- "ultima_versao": 649,
+ "proxima_linha_marcas": 282,
+ "ultima_versao": 650,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10813,6 +10813,20 @@
    "fontes": "16 / 8 (Axon: catálogo fechado)",
    "site_bloqueado": "Axiom parcial (axiomwatches.fr antigo, robots); Axon parcial (raiz PROVENANCE)",
    "obs": "Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente). Corrigidos G da Axiom (axiom-watches.com) e B da Axon (Itália). Adiada: Avian Watches (site não abre). Próximas: Bahrami Watches, Bajer Watches, Balticus Watches."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 650,
+   "marca": "Balticus Watches",
+   "linha_marcas": 282,
+   "linhas_relogios": "102373-102474",
+   "relogios": 102,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – balticus-watches.com raiz (PROVENANCE)",
+   "fontes": 83,
+   "passadas": "55/90; 17/7; 11/5 (fontes/relógios novos)",
+   "obs": "Bahrami Watches e Bajer Watches ADIADAS (sites oficiais PROVENANCE, Firecrawl sem créditos, poucas fontes). Balticus grande, feita sozinha. Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Baron Watch Company, Batiscafo by Centvm, BegHof."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10904,25 +10918,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T09:42:50Z",
- "ultimo_sinal": "2026-11-16T09:57:15Z",
- "em_andamento": {
-  "marcas": [
-   "Balticus Watches"
-  ],
-  "linha_marcas": 282,
-  "grande": true,
-  "relogios": "historico/parcial_Balticus_relogios.txt",
-  "fontes": "historico/parcial_Balticus_fontes.txt",
-  "notas": "historico/notas_Balticus.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "5",
-   "7"
-  ],
-  "passada": 3
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }

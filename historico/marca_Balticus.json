@@ -1,0 +1,427 @@
+{
+ "marca": "Balticus Watches",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – balticus-watches.com raiz (PROVENANCE); abrem só páginas vindas de busca (oembed de coleções e fichas de produto); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 16/11/2026 (v650): 102 modelos, marca vermelha (páginas 1 e 3 da coleção 'zegarki' da loja oficial, as coleções Past Models, Special Editions e Diamond Atelier e as páginas 2-4 da loja Cykadia não foram alcançadas; edições GROM, 1ª Brigada Blindada, Raków Częstochowa 105 anos e Wisła 114 anos (2020) sem página). C (Władysławowo) não confirmado: rp.pl e Super Biznes dizem só 'empresa da Pomerânia', com montagem na relojoaria Ogrodowicz i Syn, em Gdynia; a empresa é a Balticus SA. A página de história do site traz 2014 e setembro de 2015 para o primeiro relógio.",
+ "fontes": [
+  {
+   "url": "https://balticus-watches.com/en/collections/zegarki.oembed?page=2",
+   "passada": 1,
+   "novos": 48
+  },
+  {
+   "url": "https://balticus-watches.com/en/collections/primaaprilis.oembed?page=3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://balticus-watches.com/en/pages/historia-marki-balticus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/collections/ponitka.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=5212",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-volans-wisla-krakow-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-steersman-wisla-krakow-120-lecie",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-volans-piatunio-blt-balvgmg-gold-meteorite-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-volans-piatunio-blt-balvhmff-heated-meteorit",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.poljot24.de/en/marken/balticus-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/balticus/products/balticus-gold-dust-lady-m-o-p",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-perun-chrono-moonphase-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=5296",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-grey-seal-chronograph-grey-blt-balgsgrch-set",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-star-dust-meteoryt-40mm-blt-balsdnmbcd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-deep-water-bal-dwbbc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-deep-water-bal-dwub-set",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-grey-seal-grey-blt-balgsrg-set",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-wave-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-wave-bronze",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/balticus/products/balticus-black-dust-matte-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-black-dust-no-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dialicious.com/en/balticus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://poljot24.de/en/balticus.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/value-proposition-balticus-watches-star-dust-black-dust-review-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-grey-seal-ii-blue-gradient",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-star-dust-no-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/value-proposition-balticus-automatic-bronze-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/balticus-grey-seal-limited-edition-gp-a-bd-men-s-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-grey-seal-bronze",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-star-dust-power-reserve-awenturyn-balsdspra",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/balticus/products/balticus-star-dust-lady-m-o-p",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://e-katalog.pl/ua/list/595/balticus/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/balticus-stardust-the-o-limited-edition-blt-balsdhdblu-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-stardust-automatic-blt-balsdnmrgbd-mens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-deep-water-automatic-bt-dw-bl-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-steersman-automatic-limited-edition-balstsws-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-sky-variety-bi-gold-s-v-b-g-ladies-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-grey-seal-chrono-limited-edition-gp-a-bd-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-zabnica-blt-btafg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-zabnica-blt-btafb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-grey-seal-iii-limited-edition-blt-balgsgrn-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/balticus-gwiezdny-pyl-limited-edition-blt-balsdlbm-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://e-katalog.pl/katalog/BALTICUS/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://allegrolokalnie.pl/oferta/balticus-grey-seal-szara-foka",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-star-dust-quartz-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/balticus-star-dust-quartz-grey",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/balticus-volans-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-black-dust-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-black-dust-matte",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/balticus-stardust-blue-aventurine-automatic-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cinciwatches.com/my-reviews-and-articles/1776289_balticus-stardust-damascus-chronograph-a-short-introduction",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004092614.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1560117/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wislakrakow.com/en/blogs/news/by-balticus-x-wisla-krakow-oficjalna-kolekcja-zegarkow-dla-kibicow-bialej-2025-11-07",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://shop.wislakrakow.com/en/blogs/news/120-lat-wisly-zamkniete-w-jednym-wzorze",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=5726",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thegadgetflow.com/portfolio/bronze-divers-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/products/balticus-moonfish-sapphire-limited-7-sztuk",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://cykadia.pl/en_US/c/Balticus/5/1/full",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=16609",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/balticus-star-dust-date",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/5036504181",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.poljot24.de/en/blt-btmfba.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/balticus-grey-seal-gp-a-bd-men-s-watch-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-the-balticus-moonfish-dive-watch-specs-price/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchmydiamonds.com/?p=56841",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://cykadia.pl/en_US/new/8/full",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/blogs/aktualnosci/dlaczego-warto-wybierac-polskie-zegarki",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=15531",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=11543",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/blogs/aktualnosci",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/balticus-steersman-automatic-limited-edition-balstswblu-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rp.pl/biznes/art209691-balticus-zbiera-pieniadze-na-ekspansje",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://superbiz.se.pl/firma/ponad-milion-zlotych-na-liczniku-emisji-balticus-sa-aa-yX27-QQ4c-XEX1.html",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://balticus-watches.com/en/blogs/aktualnosci/zegarki-bizuteryjne-fanaberia-czy-mocny-trend-na-rynku",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://cykadia.pl/en_US/index/1/full",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=16875",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://poljot24.de/en/blt-nomad.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.poljot24.de/en/blt-balgsbl.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://balticus-watches.com/en/?p=5171",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchmydiamonds.com/?p=112162",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 265,
- "ultima_versao": 649,
+ "proxima_linha_marcas": 282,
+ "ultima_versao": 650,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10813,6 +10813,20 @@
    "fontes": "16 / 8 (Axon: catálogo fechado)",
    "site_bloqueado": "Axiom parcial (axiomwatches.fr antigo, robots); Axon parcial (raiz PROVENANCE)",
    "obs": "Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente). Corrigidos G da Axiom (axiom-watches.com) e B da Axon (Itália). Adiada: Avian Watches (site não abre). Próximas: Bahrami Watches, Bajer Watches, Balticus Watches."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 650,
+   "marca": "Balticus Watches",
+   "linha_marcas": 282,
+   "linhas_relogios": "102373-102474",
+   "relogios": 102,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "Parcial – balticus-watches.com raiz (PROVENANCE)",
+   "fontes": 83,
+   "passadas": "55/90; 17/7; 11/5 (fontes/relógios novos)",
+   "obs": "Bahrami Watches e Bajer Watches ADIADAS (sites oficiais PROVENANCE, Firecrawl sem créditos, poucas fontes). Balticus grande, feita sozinha. Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Baron Watch Company, Batiscafo by Centvm, BegHof."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
