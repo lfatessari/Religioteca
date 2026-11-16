@@ -10946,7 +10946,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T12:43:05Z",
- "ultimo_sinal": "2026-11-16T12:47:31Z",
+ "ultimo_sinal": "2026-11-16T12:49:47Z",
  "em_andamento": {
   "marcas": [
    "Benlydesign"
@@ -10958,7 +10958,8 @@
   "notas": "historico/notas_Benlydesign.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c-parcial"
   ],
   "passada": 1
  }
