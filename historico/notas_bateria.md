@@ -1,5 +1,7 @@
-# Bateria AVAIL Watches / Avarth / AVeritas (16/11/2026)
-Oficiais diretos: avarth.com, averitas.com, availwatches.co.uk -> PROVENANCE (1 tentativa cada). Firecrawl sem créditos.
-## AVeritas: catálogo oficial = 8 modelos (Beginnings: "eight models with over twenty variations"): Primus, Aurora (2009-10), Regulator, Force 1, 4-Ten, Lunar Date, Dimetior, Aperio. Variantes de mostrador com nome. Blog rate-limited.
-## Avarth: 8 modelos (Shunya, Eka, Dakshina, Waqt, Ashva, Chandini, Jugalbandhi, Avanti); Jugalbandhi/Avanti sem página (só nome; Avanti em vídeo YouTube e The Hour Markers).
-## AVAIL: site Wix dá client_error em todas as fichas; títulos/slugs pela busca: Artium, Artios, Arlo, Cole, Cargo, Kiros, Kiros XXV, Osma, "Chronograph"; Gunmetal (Hinton). Kickstarter (Londres, out/2020).
+# Bateria v651: Baron Watch Company (285), Batiscafo by Centvm (290), BegHof (302)
+- Oficiais direto (baronwatch.co, batiscafo.store, beghof.com): PROVENANCE. Firecrawl sem créditos (renova 13:43 UTC).
+- Busca "extended" trouxe os domínios.
+## Baron: só Stargazer 1.0 (US$260) + acessórios (pulseira couro, milanese, watch roll). About: fundada de novo 2022 por Mike e Josh Baron (avô Ralph Baron, marca original anos 1960), St. Petersburg, Flórida. Logo Logo_Black.svg.
+## Batiscafo: home lista 16 produtos (Zero47-1000m Carbon/Bronze/Titanium, Zero45 Bezel Bronze), history page: Heritage CuSn8 (PT5000; 200 verde/100 azul), Zero47 bronze (NH35A 220 / ETA 75), Zero45 Bezel (bronze NH35 210, bronze ETA 90, Ti NH35 75, Ti ETA 70), Zero47-1000m. Fundador Andrei Trofimtchouk, desde 2021 (Atlas diz 2019), CENTVM LIMITED Hong Kong. Quadro45 (vimeo/watchdavid). Octa42 protótipo jan/2027. Zero45 Titanium Carbon Dial (10 peças, nov).
+## BegHof: Dialicious: Urban 39 (Navy, Bleu ciel), Urbanstar (30), Junglestar, Skull, Sunburst. beghof.com/en-en/pages/notice e beghof.fr/en vieram da busca.
+## BegHof catálogo (oficial beghof.com/en-en/collections/toutes-nos-montres = 31 produtos): Urban 39 Phantom/Sky Blue/Navy/Ruby (aço, tecido, 2 pulseiras), Urbanstar birthday branco (urbanstar-anniversaire) e mint (urbanstar) — 30 peças, Wright Brothers Orville/Wilbur, Sunburst Blue/Ocean blue/Salmon (Miyota 8N24 41mm), Junglestar blue/green/red/snow, Skull (8N24 esqueleto 41mm). Logo watcheers.
