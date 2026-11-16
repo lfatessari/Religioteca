@@ -10,3 +10,4 @@
 - Marca deve ficar VERMELHA (centenas de SKUs desde ~2008; muitos antigos sem código/foto).
 - meghani.squarespace.com: Meghani World Inc. dona da BREDA e da JBW. nila.cz produto direto deu PROVENANCE (não repetir nila).
 - Opumo: fundada em 2009, família, Dallas. CreativeBloq 2016: Deep Ellum, Dallas, bredawatch.com; Valor. The Cool Hour page 2 não aberta (?page=2 não veio de busca).
+## Passada 1 encerrada (3 fontes seguidas sem novidade: loopandtie 28913, anthropologie, desertcart). VERMELHA: Lyst 276 produtos, eBay 477 anúncios, códigos antigos 16xx/2xxx/8xxx sem nome. Passada 2: catálogo antigo (2009-2019), JBW irmã, códigos sem nome.
