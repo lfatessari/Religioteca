@@ -1,5 +1,5 @@
-# Benlydesign — notas de 16/11/2026 (v652), para a próxima execução
-- Marca GRANDE (fazer sozinha): coleção all-watches da loja oficial mostra 53 produtos em 3 páginas (24 por página), cada um com várias cores; linhas antigas fora da coleção (S1000 Stargazer, S3000 Cyber, X7000 Gladiator, M1 Feather, M3 Cube, L500, L700, L800, Cylindrex, Word Matrix, X6000, G100).
-- benlydesignwatch.com raiz: PROVENANCE. Mas páginas vindas de busca abrem e os links internos também abriram: /collections/all-watches (página 1 lida), /products/g200 (4 cores: Silver-R, Gold-R, Silver-G, Black-R; 1000 peças), /blogs/product/the-led-watch-store.
-- Página 1 de all-watches (24): Lumin G100, Lighthouse (Swiss Quartz), Radar, Retro-"Letter", X6000, Time Gallery, Planet Dashboard II, G200, Escape Timer, After 100 years, Desktop 95, Men's Mystery Watch (caixa surpresa, não entra), Recure, Flavor, TT Turbo M4, Pulse Matrix, Fighter, X100, Steel Tank (Jump Hour, automático), Redline, Melt Tank, Mk2, Magnet Orbit, Base Moon.
-- Falta: all-watches?page=2 e ?page=3, coleções digital-watches, quartz, automatic, pre-order; produtos escondidos (site:benlydesignwatch.com/products ...); jwlraddicts.com (várias fichas: Word Matrix, M3, L700, M1, L800, cyberpunk), shop.app, desertcart, HKTDC (S1000).
+# Benlydesign — notas (v653, 16/11/2026)
+- Site oficial abriu DIRETO (raiz + coleções + fichas). x100-1 deu client_error.
+- Linhas: uma por cor de caixa/mostrador; variantes só de pulseira não viram linha. Men's Mystery Watch e BUY 1 GET 1 não entram.
+- Feito: §2 coleções all-watches (53), pre-order, digital, new-products; fichas de ~35 produtos.
+- Falta: fichas restantes (f1, sallon, prison-break, octopus, band-80, orchard, ukiyoe, vacation, kyosi, last-picnic, dreamwave, torch, melt-time, alien-drop, t10, loch-hunt, time-frame, sakura, friends, race-timer, built-from-above); §2c produtos escondidos (S1000, S3000, X7000, M1, M3, L500, L700, L800, Cylindrex, Word Matrix...); jwlraddicts, hktdc, desertcart, imprensa (Gear Patrol, Core77).
