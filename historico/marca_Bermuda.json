@@ -1,0 +1,157 @@
+{
+ "marca": "Bermuda Watch Company",
+ "usa_codigos": true,
+ "logo": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "site_bloqueado": "Parcial – bermudawatchcompany.com: a leitura automática (WebFetch) pede permissão (PROVENANCE); abriu só pelo Firecrawl; revisitar com navegador",
+ "observacoes": "Relógios pesquisados em 16/11/2026 (v654): 26 modelos (BWC001 Shelly Bay, BWC002 Somerset, BWC004 St George, BWC005 Paget, BWC006 Hamilton, BWC007 Warwick, BWC008 Stovel Bay, BWC009 Tuckers e um Tourbillon visto só em anúncio de usado). A loja oficial é multimarca: vende também Annie Apple e Hugo Schwarze (vendidas pela mesma empresa e apresentadas como coleções da loja; não estão na aba Marcas) e revende Q&Q e Fun Time; só os relógios 'Bermuda Watch Co' entraram. Paget e St George (2016) só aparecem na Amazon (vendedor BWC Ltd). Não achados: BWC003, BWC001B, BWC002C, BWC007B. K vazio: só achado o ícone pequeno do site (bermudawatchcompany.com/cdn/shop/files/bermuda_32x32.png).",
+ "fontes": [
+  {
+   "url": "https://bermudawatchcompany.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bermudawatchcompany.com/collections/bermuda/products.json?limit=250",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://bermudawatchcompany.com/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bermudawatchcompany.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/au/designers/bermuda-watch-company/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thingtesting.com/brands/bermuda-watch-company/products",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faire.com/en-ca/brand/b_yhf2wrtl5j",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/uk/bermuda-watch-co-shelly-bay-smart-light-black-and-silver-watch-mens/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/227449228992",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/bermuda-watch-company",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bermudawatchcompany.com/collections/mens/st-george-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bermudawatchcompany.com/pages/copy-of-our-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.co.uk/s?i=merchant-items&me=A20WB5GFN4EZ2B&rh=p_4%3ABermuda%2BWatch%2Bcompany",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.amazon.co.uk/Mens-Watches-Bermuda-Watch-Company-Fashion/s?rh=n%3A10103528031%2Cp_4%3ABermuda%2BWatch%2BCompany",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.co.uk/Bermuda-Watch-Tuckers-Interchangeable-Chronograph/dp/B0826TZ9GN",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.amazon.co.uk/Bermuda-watch-Company-silver-automatic/dp/B01JAIFC9Q",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/usr/distinctive-gent",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.guinea.ubuy.com/en/productuk/ILI3P0HZE-bermuda-watch-company",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.amazon.com.be/-/en/Bermuda-Company-George-Automatic-Antique/dp/B01JAI58JU",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bigamart.com/product/bermuda-watch-co-tuckers-interchangeable-black-silver-and-orange-gtls-chronograph-watch-mens/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.in/products/400880602-bermuda-watch-companymens-bermuda-watch-company-st-george-gold-antique",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.amazon.ie/Bermuda-Company-Rosegold-Automatic-Watch/dp/B01JAIAZCU",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.co.uk/Bermuda-Watch-Company-silver-automatic/dp/B01JAJ1M76",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.co.uk/Bermuda-watch-Company-silver-automatic/dp/B01JAJ0N5I",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.co.uk/Bermuda-watch-Company-silver-automatic/dp/B01JAIZRL4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/366738954079",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/us/bermuda-watch-co-shelly-bay-smart-light-black-and-silver-watch-mens/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/accessories/bermuda-watch-company-annie-apple-meraki-sunset-gold-mesh-nurse-fob-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://editorialist.com/p/bermuda-watch-company-womens-venus-interchangeable-marble-silver-blue-mesh/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
