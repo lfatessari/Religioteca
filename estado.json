@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 155,
- "ultima_versao": 641,
+ "proxima_linha_marcas": 169,
+ "ultima_versao": 642,
  "historico": [
   {
    "data": "2026-10-16",
@@ -10708,6 +10708,20 @@
    "site_bloqueado": false,
    "fontes": 16,
    "obs": "Oficial arcange-watches.com deu PROVENANCE (1 tentativa); Firecrawl sem créditos. Base: Windup Watch Shop, Infinity Watches (oembed da coleção), WatchGecko (SD01–05), Oracle of Time (AS), Time+Tide e Relojes Especiales (Selenograph CM01–05). Adiadas por falta de fontes (site oficial travado e <15 fontes no mundo): ARC & Co., Arcus Watches, Ardra Labs, Arena Timepieces; Arca Opus sem dados. Próxima: ARES Watch Co. (parece grande: muitas edições e colaborações). Pendências dos posts não lidas (ferramenta Projects ausente)."
+  },
+  {
+   "data": "2026-11-16",
+   "versao": 642,
+   "marca": "ARES Watch Co.",
+   "linha_marcas": 169,
+   "linhas_relogios": "101781-101817",
+   "relogios": 37,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 60,
+   "grande": true,
+   "passadas": "49/11 fontes; 35/3 relógios novos (contagem por fonte aberta)",
+   "obs": "Oficial areswatches.com deu PROVENANCE (1 tentativa); Firecrawl sem créditos. Base: OpticsPlanet (códigos MPN das versões D1A/D1B/D1C, FIELD-1, GMT, White Dial 2026), Soldier Systems (lotes mensais de 2025, DIVER-1B), WatchPro (SIG SAUER M17/M18), lojas dos parceiros (MKC, Jack Carr, PDW, reach.dog). Corrigida I (Matt Graham, ex-CIA; DIVER-1 de nov/2018; Stanwood). Complemento futuro: lotes mensais sem matéria, fotos das edições TAD (só títulos na Lamnia), LEGION e Signature Series. Pendências dos posts não lidas (ferramenta Projects ausente). Próximas: Argos Watch Corporation, Argos Watches, Arima Watches."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -10797,25 +10811,5 @@
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "em_execucao": "2026-11-16T01:43:18Z",
- "ultimo_sinal": "2026-11-16T01:53:35Z",
- "em_andamento": {
-  "marcas": [
-   "ARES Watch Co."
-  ],
-  "linha_marcas": 169,
-  "grande": true,
-  "relogios": "historico/parcial_ARES_relogios.txt",
-  "fontes": "historico/parcial_ARES_fontes.txt",
-  "notas": "historico/notas_ARES.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "7"
-  ],
-  "passada": 1
- }
+ "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026"
 }
