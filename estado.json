@@ -10799,7 +10799,7 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "em_execucao": "2026-11-16T01:43:18Z",
- "ultimo_sinal": "2026-11-16T01:51:19Z",
+ "ultimo_sinal": "2026-11-16T01:53:35Z",
  "em_andamento": {
   "marcas": [
    "ARES Watch Co."
@@ -10812,7 +10812,9 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "2c",
+   "3",
+   "7"
   ],
   "passada": 1
  }
