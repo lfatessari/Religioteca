@@ -26,6 +26,9 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Avax Watches": "aba Marcas vazia (só @avax_watches); a fase Marcas só achou a criptomoeda AVAX e outras marcas (14/11/2026; adiada em 16/11/2026, v648) — refazer com navegador",
+    "Avel & Men": "não faz relógios (pulseiras de lona de vela e acessórios, Bretanha) (16/11/2026, v648) — usuário decide se fica na lista",
+    "Averen": "aba Marcas vazia (só @averenwatches); nenhuma busca da fase Marcas achou a marca; averen.com é de outra empresa (14/11/2026; adiada em 16/11/2026, v648) — refazer com navegador",
     "Asas Watches": "aba Marcas vazia (só @asaswatches); asaswatches.com não abre e as buscas só trazem homônimos (fase Marcas, 14/11/2026; adiada em 16/11/2026, v645) — refazer com navegador",
     "Ash's Watches": "~6 modelos (VTOL, Living Color, Vanishing Point, Outrider, Gyre, Mirkwood); ashswatches.com não abre pela WebFetch (PROVENANCE) e nenhuma busca traz a marca (16/11/2026, v645) — refazer com Firecrawl (Shopify: products.json)",
     "Astiegan Watches": "é revendedora de relógios vintage suíços de outras marcas (Sierre), sem modelos próprios (16/11/2026, v645) — usuário decide se fica na lista",

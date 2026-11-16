@@ -1,0 +1,96 @@
+{
+ "marca": "AVAIL Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – availwatches.co.uk (raiz PROVENANCE; fichas Wix com client_error); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "C": "Londres"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.kickstarter.com/projects/availwatches/avail-premium-watches-for-men-at-affordable-prices",
+   "https://au.trustpilot.com/review/availwatches.co.uk"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 16/11/2026. Corrigido C: vazio → Londres (Kickstarter da marca: criador em London, UK; Trustpilot: 'Online, London'). Kiros usa Seiko VD57 (WristwatchReview, Debenhams), não PE70. Outros modelos fora de J: Arlo, Cole, Cargo, Kiros XXV, Gunmetal (Miyota 2035), London e Chrono (linhas Collection e Signature, 2021). Logo não achado (site oficial não abre).",
+ "fontes": [
+  {
+   "url": "https://rackhams.com/avail-watches-artium-black-x-classic-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wristwatchreview.com/avail-kiros-chronograph-in-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://rackhams.com/avail-watches-artium-black-x-stainless-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://rackhams.com/avail-watches-artios-white-x-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hintonmagazine.com/post/avail-watches-1",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/032200138141",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.trustpilot.com/review/availwatches.co.uk?page=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/availwatches/avail-premium-watches-for-men-at-affordable-prices",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.debenhams.com/product/avail-watches-gunmetal-grey-x-brown_p-f1683f61-5549-4c47-9f78-7f5bf5ddf253",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.debenhams.com/product/avail-watches-kiros-white-x-brown_p-459ffc81-5337-4f8a-9116-dab07b328ef6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ca.trustpilot.com/review/availwatches.co.uk?page=3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://uk.trustpilot.com/review/availwatches.co.uk?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.trustpilot.com/review/availwatches.co.uk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uk.trustpilot.com/review/availwatches.co.uk?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ca.trustpilot.com/review/availwatches.co.uk",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

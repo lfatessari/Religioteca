@@ -1,0 +1,97 @@
+{
+ "marca": "Avarth",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – avarth.com raiz e collections/watches não abrem pela WebFetch; fichas abertas via busca",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "I": "A Avarth vem de Mysuru, no estado de Karnataka, no sul da Índia, e batiza os relógios com palavras do repertório indiano: Eka, Dakshina, Shunya, Chandini, Jugalbandhi, Avanti, Waqt e Ashva.\n\nO Shunya traz a tecnologia que a marca chama de Lumebloc, pensada para iluminar a leitura no escuro. Os preços vão de cerca de 5.500 a 17.000 rúpias, e na data da pesquisa todos os oito modelos apareciam como esgotados. A empresa, Avarth Watches Private Limited, foi registrada em Mysuru em 12 de novembro de 2025."
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://www.registerkaro.in/company/avarth-watches-private-limited-U46494KA2025PTC210897",
+   "https://www.falconebiz.com/company/AVARTH-WATCHES-PRIVATE-LIMITED-U46494KA2025PTC210897",
+   "https://www.watchtime.in/features/6-indian-microbrands-that-we-have-come-across-recently/"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 16/11/2026. Corrigido I: 'O site não informa fundadores nem ano de criação' → empresa registrada em Mysuru em 12/11/2025 (registerkaro, falconebiz; WatchTime India: 'fim de 2025'). Ainda a verificar: fundadores divergem (WatchTime India: Gajendra Jangid, Mehul Agrawal e Ruchit Agarwal; Ghadicode: Sharan e Sanjana Avarth; registro: diretoras Sheetal e Sanjana Ramkumar Sarma). Dakshina é automático Miyota 2037 e Eka é de corda manual (D diz 'preços de entrada', ok). Jugalbandhi e Avanti sem ficha aberta.",
+ "fontes": [
+  {
+   "url": "https://avarth.com/products/shunya",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://avarth.com/products/eka",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://avarth.com/products/waqt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://avarth.com/products/ashva",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://avarth.com/products/chandini",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://avarth.com/collections/chandini",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://avarth.com/products/dakshina",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://avarth.com/collections",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.in/features/6-indian-microbrands-that-we-have-come-across-recently/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.localsamosa.com/business/heritage-watches-from-homegrown-brands-12593471",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thehourmarkers.com/articles/indian-watch-brands",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.registerkaro.in/company/avarth-watches-private-limited-U46494KA2025PTC210897",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.falconebiz.com/company/AVARTH-WATCHES-PRIVATE-LIMITED-U46494KA2025PTC210897",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ghadicode.com/founders",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ghadicode.com/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

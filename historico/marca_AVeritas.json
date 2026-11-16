@@ -1,0 +1,92 @@
+{
+ "marca": "AVeritas",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – averitas.com raiz não abre pela WebFetch (PROVENANCE); fichas abertas via busca",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 16/11/2026: catálogo oficial de 8 modelos ('eight models with over twenty variations', página Beginnings): Primus e Aurora (primeiros modelos-padrão, c. 2009–2010), Regulator, Force 1, 4-Ten, Lunar Date, Dimetior e Aperio, todos limitados a 90 peças por desenho. J não cita The 4-Ten (US$ 1.295) nem The Dimetior (US$ 2.849). Fonte: averitas.com/shop e /beginnings.",
+ "fontes": [
+  {
+   "url": "https://averitas.com/about-us/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://averitas.com/product/regulator/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://averitas.com/product/aperio/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://averitas.com/product/the-aurora-copy/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://averitas.com/product/one-world-bracelets/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://averitas.com/shop/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://averitas.com/product/the-primus/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://averitas.com/product/force-1-copy/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://averitas.com/product/lunar-date/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://averitas.com/product/aurora/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://averitas.com/product/4-ten/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://averitas.com/product/the-dimetior/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://averitas.com/news/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://averitas.com/beginnings/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/2019/08/presenting-district-time-2019.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://averitas.com/blog/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
