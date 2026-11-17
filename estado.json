@@ -11308,7 +11308,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T05:42:42Z",
- "ultimo_sinal": "2026-11-17T05:42:42Z",
+ "ultimo_sinal": "2026-11-17T05:52:24Z",
  "em_andamento": {
   "marcas": [
    "Colomer & Sons"
@@ -11318,7 +11318,11 @@
   "relogios": "historico/parcial_Colomer_relogios.txt",
   "fontes": "historico/parcial_Colomer_fontes.txt",
   "notas": "historico/notas_Colomer.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
