@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 514,
- "ultima_versao": 672,
+ "proxima_linha_marcas": 521,
+ "ultima_versao": 673,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11245,6 +11245,42 @@
    "site_bloqueado": true,
    "fontes": 68,
    "obs": "peças únicas numeradas (500 no total); 2 passadas (56+12 fontes); I corrigido (2015/ETA 2824/2020 Miyota/500 peças); logo; Firecrawl sem créditos; páginas 2 das categorias e loja espelho concentric.watch (6 páginas) não alcançadas; pendências dos posts não lidas (ferramenta Projects ausente)"
+  },
+  {
+   "marca": "Constellar",
+   "data": "2026-11-17",
+   "versao": 673,
+   "linha_marcas": 519,
+   "linhas_relogios": "103969-103979",
+   "relogios": 11,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "obs": "I corrigido (tirado ⚠️ de fundação/fundadores); fase relógios; pendências dos posts não lidas (ferramenta Projects ausente); Firecrawl sem créditos; site oficial abriu direto nas 3 (inclusive páginas internas)"
+  },
+  {
+   "marca": "Contrarian Watches",
+   "data": "2026-11-17",
+   "versao": 673,
+   "linha_marcas": 520,
+   "linhas_relogios": "103980-104005",
+   "relogios": 26,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 25,
+   "obs": "logo; fase relógios; pendências dos posts não lidas (ferramenta Projects ausente); Firecrawl sem créditos; site oficial abriu direto nas 3 (inclusive páginas internas)"
+  },
+  {
+   "marca": "Cooper Watches",
+   "data": "2026-11-17",
+   "versao": 673,
+   "linha_marcas": 521,
+   "linhas_relogios": "104006-104016",
+   "relogios": 11,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 23,
+   "obs": "loja vende MWC/Elvia/Aeschbach (fora); logo; fase relógios; pendências dos posts não lidas (ferramenta Projects ausente); Firecrawl sem créditos; site oficial abriu direto nas 3 (inclusive páginas internas)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11342,25 +11378,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T08:42:37Z",
- "ultimo_sinal": "2026-11-17T08:53:39Z",
- "em_andamento": {
-  "marcas": [
-   "Constellar",
-   "Contrarian Watches",
-   "Cooper Watches"
-  ],
-  "linha_marcas": 519,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_bateria.md",
-  "secoes_feitas": [
-   "Constellar completa",
-   "Contrarian completa",
-   "Cooper completa; falta gravar"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
