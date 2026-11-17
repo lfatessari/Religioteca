@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 511,
- "ultima_versao": 670,
+ "proxima_linha_marcas": 512,
+ "ultima_versao": 671,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11221,6 +11221,18 @@
    "site_bloqueado": true,
    "fontes": 87,
    "obs": "raiz do site PROVENANCE, mas a busca 'extended' trouxe as páginas internas (lista oficial de 132 descontinuados, loja, trabalhos personalizados, manuais); I corrigido; logo; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+  },
+  {
+   "marca": "Colorado Watch Company",
+   "data": "2026-11-17",
+   "versao": 671,
+   "linha_marcas": 512,
+   "linhas_relogios": "103860-103867",
+   "relogios": 8,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 20,
+   "obs": "marca encerrada; site oficial PROVENANCE/client_error; Compass Timepieces adiada (sem fontes externas); Concentric Watches dimensionada como grande (peças únicas numeradas A-001…A-149+) — fica sozinha na próxima; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11318,23 +11330,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T06:42:45Z",
- "ultimo_sinal": "2026-11-17T06:51:18Z",
- "em_andamento": {
-  "marcas": [
-   "Colorado Watch Company"
-  ],
-  "linha_marcas": 512,
-  "grande": false,
-  "relogios": "historico/parcial_Colorado_relogios.txt",
-  "fontes": "historico/parcial_Colorado_fontes.txt",
-  "notas": "historico/notas_Colorado.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
