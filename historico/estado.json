@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 690,
-  "ultima_versao": 683,
+  "proxima_linha_marcas": 703,
+  "ultima_versao": 684,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11546,6 +11546,42 @@
       "site_bloqueado": false,
       "fontes": 18,
       "obs": "fase relógios; oficial não abriu; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Enoksen",
+      "data": "2026-11-17",
+      "versao": 684,
+      "linha_marcas": 697,
+      "linhas_relogios": "104654-104667",
+      "relogios": 14,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 22,
+      "obs": "fase relógios; oficial byenoksen.com não abriu (permissão); Jura Watches + imprensa; 6 modelos só pela ficha do Atlas (coluna J); B/C corrigidos e I escrita; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Eoniq",
+      "data": "2026-11-17",
+      "versao": 684,
+      "linha_marcas": 701,
+      "linhas_relogios": "104668-104684",
+      "relogios": 17,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 22,
+      "obs": "fase relógios; eoniq.co não abriu; site Signature (squarespace) + matérias; Firecrawl sem créditos"
+    },
+    {
+      "marca": "EPOCH Stockholm",
+      "data": "2026-11-17",
+      "versao": 684,
+      "linha_marcas": 703,
+      "linhas_relogios": "104685-104713",
+      "relogios": 29,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 21,
+      "obs": "fase relógios; epoch.se não abriu; Watches of Scandinavia (pág. 2 fora); Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
