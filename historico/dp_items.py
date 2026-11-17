@@ -120,3 +120,7 @@ add('D803.07','Parker Classic Salmon Pink','https://cdn.shopify.com/s/files/1/29
 
 add('','Centenary 18ct Gold – edição limitada de 24 peças','https://www.watchpro.com/?p=109767','Versão em ouro 18 k anunciada em out/2023 para o centenário (24 peças, £3.750); a matéria não diz qual desenho. Foto: link da página.')
 add('D489-05-ST','Rivington GMT Orange Fumé','https://www.jamesmoorejewellers.co.uk/products/duckworth-prestex-rivington-gmt-42mm-orange-fum-waffle-dial-stainless-steel-d489-05-st-p-127132',RIV+' Bracelete de aço. Foto: link da página.')
+add('D489-01-AR','Rivington GMT Black/Grey Fumé','https://cdn.shopify.com/s/files/1/0193/3758/files/Rivington_Grey_BlackRubber.jpg?v=1737129543',RIV+' Mostrador fumê preto/cinza com detalhes vermelhos; pulseira de borracha preta.')
+add('D489-01-A','Rivington GMT Black/Grey Fumé','https://content.thewosgroup.com/productimage/18080072/18080072_1.jpg',RIV+' Pulseira de couro preto.')
+add('D489-04-E','Rivington GMT Green Fumé','https://cdn.shopify.com/s/files/1/0193/3758/files/Rivington_Green_OliveGreenLeather.jpg?v=1737129620',RIV+' Detalhes laranja; pulseira de couro verde-oliva.')
+add('D547-05-ST','Lostock Quartz Chronograph Orange Sport','https://www.jamesmoorejewellers.co.uk/products/duckworth-prestex-lostock-quartz-chronograph-40mm-orange-sport-dial-stainless-steel-bracelet-d547-05-st-p-160070','Lostock: cronógrafo de quartzo de 40 mm; mostrador laranja "sport", bracelete de aço. Foto: link da página.')

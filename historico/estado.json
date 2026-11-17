@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 633,
- "ultima_versao": 679,
+ "proxima_linha_marcas": 644,
+ "ultima_versao": 680,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11450,6 +11450,18 @@
    "site_bloqueado": true,
    "fontes": 8,
    "obs": "fase relógios; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); Döttling adiada (não faz relógios); catálogo fechado"
+  },
+  {
+   "marca": "Duckworth Prestex",
+   "data": "2026-11-17",
+   "versao": 680,
+   "linha_marcas": 644,
+   "linhas_relogios": "104387-104498",
+   "relogios": 112,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 67,
+   "obs": "fase relógios; grande, sozinha; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); Drayton Watches adiada (site bloqueado, sem fontes)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
