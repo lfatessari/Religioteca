@@ -12,3 +12,4 @@ Início 07:42 UTC. Grande (peças únicas numeradas A-xxx, Q-xxx). Mínimo 25 fo
 - 500 peças no total (about-2 e subwave.ch). → marca VERMELHA.
 - SMD-xxxxx = chave interna (ID de produto da Swiss Made Direct): no dados, código vazio e ID na E.
 - concentric.watch = espelho da loja com 93 resultados em 6 páginas (p1 aberta). A' Design Award 2018-19 (ETA 2824, Emanuel Wieland relojoeiro).
+- 1ª passada encerrada (3 últimas sem novidade: adesignaward, uhren-basel, faq). Vermelha: 500 peças, ~100 listadas. Início 2ª passada.
