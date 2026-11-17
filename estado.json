@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 461,
-  "ultima_versao": 666,
+  "proxima_linha_marcas": 469,
+  "ultima_versao": 667,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11125,6 +11125,30 @@
       "site_bloqueado": false,
       "fontes": 26,
       "obs": "por mostrador/caixa; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+    },
+    {
+      "marca": "Cestrian",
+      "data": "2026-11-17",
+      "versao": 667,
+      "linha_marcas": 466,
+      "linhas_relogios": "103478-103533",
+      "relogios": 56,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 19,
+      "obs": "tudo pela loja da WatchNation (oembeds); cestrianwatches.com PROVENANCE"
+    },
+    {
+      "marca": "Charles Berret",
+      "data": "2026-11-17",
+      "versao": 667,
+      "linha_marcas": 469,
+      "linhas_relogios": "103534-103555",
+      "relogios": 22,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 28,
+      "obs": "raiz PROVENANCE, produtos pela busca; CEON Watch Co. adiada; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11221,21 +11245,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T02:42:08Z",
-  "ultimo_sinal": "2026-11-17T02:42:08Z",
-  "em_andamento": {
-    "marcas": [
-      "CEON Watch Co.",
-      "Cestrian",
-      "Charles Berret"
-    ],
-    "linha_marcas": 463,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_bateria_v667.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
