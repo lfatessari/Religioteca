@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 469,
-  "ultima_versao": 667,
+  "proxima_linha_marcas": 489,
+  "ultima_versao": 668,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11149,6 +11149,42 @@
       "site_bloqueado": false,
       "fontes": 28,
       "obs": "raiz PROVENANCE, produtos pela busca; CEON Watch Co. adiada; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+    },
+    {
+      "marca": "Chesapeake Watch Co.",
+      "data": "2026-11-17",
+      "versao": 668,
+      "linha_marcas": 476,
+      "linhas_relogios": "103556-103568",
+      "relogios": 13,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "obs": "raiz PROVENANCE na 1ª tentativa, collections/all pela busca; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+    },
+    {
+      "marca": "ChronoAstra",
+      "data": "2026-11-17",
+      "versao": 668,
+      "linha_marcas": 487,
+      "linhas_relogios": "103569-103576",
+      "relogios": 8,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 8,
+      "obs": "catálogo fechado (oficial + pledgemanager + oracleoftime); D corrigido"
+    },
+    {
+      "marca": "Chronofixe",
+      "data": "2026-11-17",
+      "versao": 668,
+      "linha_marcas": 489,
+      "linhas_relogios": "103577-103593",
+      "relogios": 17,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 22,
+      "obs": "site oficial PROVENANCE; Choosz e ChronoDivers adiadas"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11245,24 +11281,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T03:42:44Z",
-  "ultimo_sinal": "2026-11-17T04:10:51Z",
-  "em_andamento": {
-    "marcas": [
-      "Chesapeake Watch Co.",
-      "ChronoAstra",
-      "Chronofixe"
-    ],
-    "linha_marcas": 476,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_bateria_v668.md",
-    "secoes_feitas": [
-      "Chesapeake completa",
-      "ChronoAstra completa"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

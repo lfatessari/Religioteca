@@ -1,0 +1,68 @@
+{
+ "marca": "ChronoAstra",
+ "usa_codigos": false,
+ "logo": "https://s3.amazonaws.com/pmgr/projects/4661/project-logo.png?1769257224",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://chronoastra.com/collections/all",
+  "confirmacoes": [
+   "https://chronoastrawatches.pledgemanager.com/projects/chronoastra-custom-titanium-starmap-watches/participate/",
+   "https://oracleoftime.com/chronoastra-automatic-edition-watch-review/"
+  ]
+ },
+ "correcoes": {
+  "D": "Relógios de titânio com mapa das estrelas personalizado no mostrador, em 34 ou 40 mm, com quartzo Ronda ou automático Miyota 9039."
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://chronoastra.com/collections/all",
+   "https://chronoastra.com/custom-luxury-watches-new"
+  ]
+ },
+ "observacoes": "Corrigido em 17/11/2026 (v668): D 'Relógios de tema espacial com Miyota 9039 (em pré-venda).' → titânio, 34/40 mm, quartzo Ronda ou Miyota 9039 (site oficial; a pré-venda do Kickstarter acabou e a loja vende 8 modelos). Ainda a verificar: o site diz 'Est. 2018', o Atlas diz fundação em 2025 (Kickstarter em 2025). Fundador Raven Reichl e endereço em Utrecht confirmados só pelo mesmo comunicado de imprensa (erienewsnow/mammothtimes). J cita só '40mm Automatic'; os modelos são Starlight, Aurora, White Dwarf, Event Horizon, Dark Matter, Midnight Aurora, Lunar Eclipse e Blackout.",
+ "fontes": [
+  {
+   "url": "https://chronoastra.com/custom-luxury-watches-new",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://chronoastra.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/chronoastra-automatic-edition-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.erienewsnow.com/story/52764366/chronoastra-revolutionary-luxury-watch-kickstarter-launch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronoastrawatches.pledgemanager.com/projects/chronoastra-custom-titanium-starmap-watches/participate/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thegadgetrend.com/product/chronoastra-custom-titanium-starmap-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://business.mammothtimes.com/mammothtimes/article/marketersmedia-2025-5-7-chronoastra-luxury-watch-launches-a-timeless-fusion-of-personal-legacy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/tag/chronoastra/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
