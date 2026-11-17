@@ -1,0 +1,121 @@
+{
+ "marca": "DeNovo",
+ "usa_codigos": true,
+ "logo": "https://www.denovoswiss.com/wp-content/uploads/2017/05/DeNovo-LOGO-02_png-300x51.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://denovoswiss.com",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.denovoswiss.com/product/dn2020-22nrn",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.denovoswiss.com/product/dn2020-22wom",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.denovoswiss.com/product/dn2020-82nrm",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.denovoswiss.com/product/dn2020-42ngn/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.denovoswiss.com/product/dn2020-44ngn/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.denovoswiss.com/dn2020-44ngn-fv/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.denovoswiss.com/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.denovoswiss.com/product/dn2020-84non/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.denovoswiss.com/product/dn2020-84nrn/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://www.denovoswiss.com/product/dn2020-24byb/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.com.ar/products/64216548",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.com.ar/products/66018067",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.com.cy/products/66018050",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.uy/products/42084229",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atimelyperspective.com/?p=20210",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://news.dupontregistry.com/events/denovo-swiss-porsche-adventure/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://news.dupontregistry.com/blogs/events/denovo-swiss-porsche-adventure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.co/products/26207182",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "H": "@denovoswiss",
+  "I": "A DeNovo é uma marca de relógios de design italiano e fabricação suíça. Os relógios foram desenhados pelo estúdio Soriani Designs, de Pesaro (Itália), e o desenvolvimento levou três anos até o lançamento.\n\nA marca foi lançada em setembro de 2016 com um comboio de 20 Porsche 911 Carrera conversíveis que cruzou os Alpes entre Alemanha, Suíça, Itália e Áustria. A coleção principal é o Quantum (referências DN2020), um cronógrafo de 46 mm com calibre mecaquartz suíço; no lançamento foi citada também uma linha de entrada, a Voyager."
+ },
+ "correcoes_fontes": {
+  "H": [
+   "https://www.denovoswiss.com/about"
+  ],
+  "I": [
+   "https://www.denovoswiss.com/about",
+   "https://www.atimelyperspective.com/?p=20210",
+   "https://news.dupontregistry.com/events/denovo-swiss-porsche-adventure/"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 17/11/2026 (23 modelos: 22 Quantum DN2020 + Voyager). H preenchido: @DeNovoSwiss (página About do site oficial). I escrita com o site oficial (About: estúdio Soriani Designs em Pesaro, 3 anos de desenvolvimento, lançamento com comboio de Porsches) e 2 matérias de 2016 (A Timely Perspective; duPont Registry). Ainda a verificar: B/C — o site oficial não cita Bienne; a página inicial cita Rockville, MD (EUA), design em Pesaro (Itália) e laboratório em Stabio (Suíça). A Timely Perspective dá 44 mm ao Quantum; o site oficial, 46 mm. Fundador não encontrado. Firecrawl só para a página inicial (créditos acabaram em seguida)."
+}

@@ -11477,7 +11477,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-17T13:43:05Z",
-  "ultimo_sinal": "2026-11-17T13:56:33Z",
+  "ultimo_sinal": "2026-11-17T14:04:45Z",
   "em_andamento": {
     "marcas": [
       "De Motu",
@@ -11490,7 +11490,8 @@
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
-      "De Motu completa"
+      "De Motu completa",
+      "DeNovo completa"
     ],
     "passada": 1
   }
