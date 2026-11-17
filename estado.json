@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 450,
- "ultima_versao": 665,
+ "proxima_linha_marcas": 461,
+ "ultima_versao": 666,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11089,6 +11089,42 @@
    "site_bloqueado": false,
    "fontes": 21,
    "obs": "coleção Strada (~4-5) não alcançada; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+  },
+  {
+   "marca": "Caveman Watches",
+   "data": "2026-11-17",
+   "versao": 666,
+   "linha_marcas": 452,
+   "linhas_relogios": "103401-103445",
+   "relogios": 45,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 42,
+   "obs": "raiz do site deu PROVENANCE; páginas internas pela busca extended; por cor/acabamento"
+  },
+  {
+   "marca": "Celegin",
+   "data": "2026-11-17",
+   "versao": 666,
+   "linha_marcas": 459,
+   "linhas_relogios": "103446-103456",
+   "relogios": 11,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17,
+   "obs": "inclui sub-marca SAFIR by Celegin"
+  },
+  {
+   "marca": "Centric Instruments",
+   "data": "2026-11-17",
+   "versao": 666,
+   "linha_marcas": 461,
+   "linhas_relogios": "103457-103477",
+   "relogios": 21,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 26,
+   "obs": "por mostrador/caixa; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11185,23 +11221,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T01:43:12Z",
- "ultimo_sinal": "2026-11-17T01:58:16Z",
- "em_andamento": {
-  "marcas": [
-   "Caveman Watches",
-   "Celegin",
-   "Centric Instruments"
-  ],
-  "linha_marcas": 452,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Celegin: 1-11"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
