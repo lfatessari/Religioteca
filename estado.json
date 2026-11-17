@@ -11719,19 +11719,21 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T21:42:33Z",
- "ultimo_sinal": "2026-11-17T21:42:33Z",
+ "ultimo_sinal": "2026-11-17T21:56:16Z",
  "em_andamento": {
   "marcas": [
-   "Eternal Watches",
-   "Eulux",
    "Evolvens"
   ],
-  "linha_marcas": 725,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "linha_marcas": 733,
+  "grande": true,
+  "relogios": "historico/parcial_Evolvens_relogios.txt",
+  "fontes": "historico/parcial_Evolvens_fontes.txt",
+  "notas": "historico/notas_Evolvens.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c"
+  ],
   "passada": 1
  }
 }
