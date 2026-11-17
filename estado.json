@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 606,
- "ultima_versao": 678,
+ "proxima_linha_marcas": 633,
+ "ultima_versao": 679,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11414,6 +11414,42 @@
    "site_bloqueado": false,
    "fontes": 24,
    "obs": "fase relógios; Firecrawl abriu o site oficial da De Motu e a página inicial da DeNovo e esgotou os créditos diários; pendências dos posts não lidas (ferramenta Projects ausente)"
+  },
+  {
+   "marca": "Diatom Watches",
+   "data": "2026-11-17",
+   "versao": 679,
+   "linha_marcas": 614,
+   "linhas_relogios": "104351-104365",
+   "relogios": 15,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 20,
+   "obs": "fase relógios; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); Döttling adiada (não faz relógios); I corrigida (ano de lançamento confirmado pelo blog oficial)"
+  },
+  {
+   "marca": "DIFICIANO",
+   "data": "2026-11-17",
+   "versao": 679,
+   "linha_marcas": 618,
+   "linhas_relogios": "104366-104380",
+   "relogios": 15,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15,
+   "obs": "fase relógios; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); Döttling adiada (não faz relógios)"
+  },
+  {
+   "marca": "Double-Ve",
+   "data": "2026-11-17",
+   "versao": 679,
+   "linha_marcas": 633,
+   "linhas_relogios": "104381-104386",
+   "relogios": 6,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 8,
+   "obs": "fase relógios; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); Döttling adiada (não faz relógios); catálogo fechado"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11511,24 +11547,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T14:42:56Z",
- "ultimo_sinal": "2026-11-17T14:52:36Z",
- "em_andamento": {
-  "marcas": [
-   "Diatom Watches",
-   "DIFICIANO",
-   "Double-Ve"
-  ],
-  "linha_marcas": 614,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_bateria_v679.md",
-  "secoes_feitas": [
-   "Diatom",
-   "DIFICIANO"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }

@@ -1,0 +1,59 @@
+{
+ "marca": "Double-Ve",
+ "usa_codigos": false,
+ "logo": "https://double-ve.ch/wp-content/uploads/2020/01/Capture-d’écran-2020-01-21-à-15.54.37.png",
+ "site_bloqueado": "Parcial – double-ve.ch: só a página inicial abre; loja, produtos, notícias e 'about' bloqueados para leitura automática (robots); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://double-ve.ch/",
+  "confirmacoes": [
+   "https://vallon.info/double-ve-lexpression-dune-passion-eternelle-au-coeur-de-lhorlogerie-suisse/",
+   "https://microbrandatlas.com/brand/double-ve"
+  ]
+ },
+ "observacoes": "Só anotado (v679): D diz ETA 2824, mas a coleção Race (2018) usa movimento de corda manual em alumínio e o Classic Silver (2024) usa o calibre W-01, base Unitas 6498 (Vallon.info, 03/10/2024); ETA 2824-2 só no Racing-Driver (fórum Montres de plongée). J: o preço do Romantic Moon no site é CHF 249 e o Atlas diz ETA 2824 — não conferido. Fundador Christophe Waelti trabalhou mais de 20 anos na Vaucher Manufacture (Vallon.info). O site oficial se declara 'loja de demonstração'.",
+ "fontes": [
+  {
+   "url": "https://masterhorologer.com/2018/11/16/double-ve-fleurier-race-collection-swiss-made-manual-wound-watch-aluminium-case-and-dial/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://double-ve.ch/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://9h11.ch/double-ve-fleurier/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/double-ve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://montresdeplongee.forumactif.com/t34779-montres-double-ve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.courrierhebdo.ch/double-ve-a-la-bijouterie-ylona-mordasini/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://vallon.info/double-ve-lexpression-dune-passion-eternelle-au-coeur-de-lhorlogerie-suisse/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://9h11.ch/horlogerie/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
