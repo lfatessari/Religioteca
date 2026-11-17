@@ -1,0 +1,4 @@
+# Castor Watches — notas (v665)
+Raiz castor-watches.com direta: PROVENANCE. Páginas via busca abrem (WooCommerce, loja 45 itens com acessórios, 4 páginas).
+Modelos achados: Antártica 2.0 Nogal 40; Viajero 2.0 Dual Time 41 Arce; Viajero Dual Time 41 Maple (antigo); Diaguita 2.0 Arce 40; Diaguita (aço, Miyota 2115, 40); Newen 2.0 Bamboo 40; Hain 2.0 Nogal 40; Iorana Rapa Nui 36 Nogal; Valle de la Luna Moonphase 40 Arce e Nácar; Linea X Light Brown 38 cobre; Matriz cobre 38; Nº1, Nº2, N°3 artesanal, N°5, N°7, N°7 Blue (cobre 38); Zero, Tauro, Rivendell, Gigante Tarapacá, Cantaria, Pudú, Condor, Puma, Mr. Lobo (cobre 38, linha Grebe); Caleuche Bronze & Sândalo 41; Lastarria (ed. 100) e Lastarria Sport 40; Valparaíso 40 bambu e nogal; Mistral 40 Roble (corporativo CCU); Steuler (corporativo); Luz (mulher, 2018); Indie (homem); linha Ciudades; linha Artista Sergio Vergara (2020).
+Faltam fotos de várias; procurar páginas de produto por busca.
