@@ -11549,19 +11549,21 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T15:42:49Z",
- "ultimo_sinal": "2026-11-17T15:42:49Z",
+ "ultimo_sinal": "2026-11-17T15:56:46Z",
  "em_andamento": {
   "marcas": [
-   "Drayton Watches",
-   "Duckworth Prestex",
-   "DUG Glashuette"
+   "Duckworth Prestex"
   ],
-  "linha_marcas": 637,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "linha_marcas": 644,
+  "grande": true,
+  "relogios": "historico/dp_items.py",
+  "fontes": "historico/parcial_Duckworth_fontes.txt",
+  "notas": "historico/notas_Duckworth.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
