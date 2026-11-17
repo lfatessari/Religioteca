@@ -11683,7 +11683,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-17T20:43:20Z",
-  "ultimo_sinal": "2026-11-17T20:43:20Z",
+  "ultimo_sinal": "2026-11-17T20:51:38Z",
   "em_andamento": {
     "marcas": [
       "Ercigoj",
@@ -11695,7 +11695,9 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "ERROYL completa (28 fontes, 12 relógios)"
+    ],
     "passada": 1
   }
 }
