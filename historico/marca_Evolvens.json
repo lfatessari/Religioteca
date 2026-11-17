@@ -1,0 +1,344 @@
+{
+ "marca": "Evolvens",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://evolvens.hu/en/collections/40-mm",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://evolvens.hu/en/collections/44-mm",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://evolvens.hu/en/collections/kollaboraciok.oembed",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://evolvens.hu/en/pages/kollaboraciok",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-dark-art-34-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-icon-mark-i-34-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-europa-42-mm-limitalt-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-raw-industry-44-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-matyo-42-mm-premium-automata-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-hunor-hivatalos-urhajos-34-mm-karora-v0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-tavasz-34-mm-egyedi-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-odett-34-mm-egyedi-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-halloween-34-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-armed-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/40-matyo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-2159-34-mm-egyedi-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-3394-34-mm-egyedi-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-5461-34-mm-egyedi-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-3254-34-mm-egyedi-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-1194-44-mm-automata-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-4471-44-mm-automata-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-marcius-15-44-mm-fekete-egyedi-automata-karora",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/tankcsapda",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-halloween-40-mm-karora",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-5578-40-mm-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-1444-40-mm-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/pages/ceges-karora",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-cargo-watch-chronograph-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-hunor-hivatalos-urhajos-34-mm-karora",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-hunor-urhajos-karora",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypeandhyper.com/diverse-watches-and-clocks-from-eastern-europe-top-5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/collections/magyarorszag",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.portfolio.hu/impakt/20200116/huszmillios-luxusorak-keszulnek-egy-kis-pesti-muhelyben-a-gyujtok-megorulnek-ertuk-411641",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/pages/kapcsolat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/pages/configurator-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004087955.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.btc-echo.de/news/metawatches-erobern-nft-markt-132818/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/pages/gyik",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://trademagazin.hu/en/millios-oracsodak-egy-lakas-araert-budapest",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/395022909460",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/pages/oraszerkeszto",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/evolvens/evolvens-dark-art-34-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-budapest-40-mm-karora",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-armwrestling-44-mm-automata-karora",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-coloris-egyedi-szerkesztheto-irisz-karora-40-mm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-6222-40-mm-karora",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-humda-44-mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-1444-40-mm-karora",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-4471-44-mm-automata-karora",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-3394-34-mm-egyedi-karora",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-kalocsai-40-mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-balaton-azur-34-mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-hunor-hivatalos-urhajos-40-mm-karora",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/the-zone-x-evolvens-44-mm-automata-karora",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-matyo-40-mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-balaton-ezust-40-mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-balaton-azur-40-mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-balaton-ezust-44-mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-hunor-hivatalos-urhajos-44-mm-automata-karora",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-deniz-40-mm-egyedi-limitalt-karora",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-balaton-azur-44-mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-balaton-ezust-42-mm-premium-automata-karora",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-balaton-azur-42-mm-premium-automata-karora",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-tankcsapda-44-mm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://evolvens.hu/en/products/evolvens-x-hunor-gravirozott-fem-plakett",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Relógios (v686, 17/11/2026): 77 modelos do site oficial evolvens.hu (evolvens.com não abriu pela leitura automática). Vermelha: a marca tem configurador (34, 40, 42, 44 e 46 mm) com combinações sem fim; as páginas 2 das coleções 40 mm e 44 mm não foram alcançadas (Firecrawl sem créditos); o relógio Evolvens x TheVR (esgotado em 53 s), o 'relógio militar húngaro' e o UP MS da Universidade de Pécs, citados na imprensa, não foram achados como produto. Fora do site oficial quase não há fontes (nenhuma loja, Chrono24 ou EveryWatch). Fontes do site oficial confirmam: 1º relógio vendido em 2016, ideia em 2011 (evolvens.hu/en/pages/kapcsolat), loja em Akadémia utca 9, Budapeste (evolvens.hu/en/pages/gyik). J: 'Silver Classic 44mm Automatic' e 'Rainbow Prism Config' (do Atlas) não aparecem no site atual.",
+ "correcoes": {},
+ "correcoes_fontes": {}
+}

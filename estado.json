@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 730,
- "ultima_versao": 685,
+ "proxima_linha_marcas": 733,
+ "ultima_versao": 686,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11618,6 +11618,18 @@
    "site_bloqueado": false,
    "fontes": 34,
    "obs": "fase relógios; evantwatches.com não abriu; loja Gnomon + blogs; K com logo da Gnomon; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Evolvens",
+   "data": "2026-11-17",
+   "versao": 686,
+   "linha_marcas": 733,
+   "linhas_relogios": "104756-104832",
+   "relogios": 77,
+   "vermelho": true,
+   "site_bloqueado": false,
+   "fontes": 66,
+   "obs": "fase relógios; grande (configurador); evolvens.com não abriu, evolvens.hu abriu pela busca; 3 passadas (43/13/10 fontes); fora do site quase nada; páginas 2 das coleções 40/44 mm e REBEL 49 não abertas; Firecrawl sem créditos; Eternal Watches e Eulux adiadas"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11717,25 +11729,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T21:42:33Z",
- "ultimo_sinal": "2026-11-17T21:58:21Z",
- "em_andamento": {
-  "marcas": [
-   "Evolvens"
-  ],
-  "linha_marcas": 733,
-  "grande": true,
-  "relogios": "historico/parcial_Evolvens_relogios.txt",
-  "fontes": "historico/parcial_Evolvens_fontes.txt",
-  "notas": "historico/notas_Evolvens.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "9"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
