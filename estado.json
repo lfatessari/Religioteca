@@ -11332,7 +11332,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-17T07:42:36Z",
-  "ultimo_sinal": "2026-11-17T07:50:59Z",
+  "ultimo_sinal": "2026-11-17T07:52:24Z",
   "em_andamento": {
     "marcas": [
       "Concentric Watches"
@@ -11344,7 +11344,8 @@
     "notas": "historico/notas_Concentric_Watches.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c"
     ],
     "passada": 1
   }
