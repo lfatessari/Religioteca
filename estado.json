@@ -11683,12 +11683,12 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-17T20:43:20Z",
-  "ultimo_sinal": "2026-11-17T21:04:07Z",
+  "ultimo_sinal": "2026-11-17T21:11:33Z",
   "em_andamento": {
     "marcas": [
       "ERROYL",
       "Escudo Watches",
-      "E. Stohlman Watch Co"
+      "Evant"
     ],
     "linha_marcas": 709,
     "grande": false,
@@ -11697,8 +11697,9 @@
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
       "ERROYL completa (28 fontes, 12 relógios)",
-      "Ercigoj e Ergon adiadas",
-      "Escudo em andamento (12 fontes)"
+      "Escudo completa (18 fontes, 13 relógios)",
+      "Ercigoj, Ergon e E. Stohlman adiadas (notas_Stohlman_Ercigoj_Ergon.md)",
+      "Evant começando"
     ],
     "passada": 1
   }
