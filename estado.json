@@ -11417,7 +11417,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-17T11:43:15Z",
-  "ultimo_sinal": "2026-11-17T11:43:15Z",
+  "ultimo_sinal": "2026-11-17T11:53:14Z",
   "em_andamento": {
     "marcas": [
       "Dave Berghold",
@@ -11429,7 +11429,10 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "Dave Berghold: completa",
+      "Day & Night: completa"
+    ],
     "passada": 1
   }
 }
