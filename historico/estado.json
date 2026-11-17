@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 703,
-  "ultima_versao": 684,
+  "proxima_linha_marcas": 730,
+  "ultima_versao": 685,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11582,6 +11582,42 @@
       "site_bloqueado": false,
       "fontes": 21,
       "obs": "fase relógios; epoch.se não abriu; Watches of Scandinavia (pág. 2 fora); Firecrawl sem créditos"
+    },
+    {
+      "marca": "ERROYL",
+      "data": "2026-11-17",
+      "versao": 685,
+      "linha_marcas": 715,
+      "linhas_relogios": "104714-104725",
+      "relogios": 12,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 28,
+      "obs": "fase relógios; erroyl.com não abriu (PROVENANCE); Watchpaper, Time Bum, Keep the Time, WatchReport, folhetos PDF; D corrigido (dress watches); Firecrawl sem créditos"
+    },
+    {
+      "marca": "Escudo Watches",
+      "data": "2026-11-17",
+      "versao": 685,
+      "linha_marcas": 717,
+      "linhas_relogios": "104726-104738",
+      "relogios": 13,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18,
+      "obs": "fase relógios; escudo-watches.com não abriu; Oracle of Time, Chronohunter, WatchGecko, Kibble, Bluesky; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Evant",
+      "data": "2026-11-17",
+      "versao": 685,
+      "linha_marcas": 730,
+      "linhas_relogios": "104739-104755",
+      "relogios": 17,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 34,
+      "obs": "fase relógios; evantwatches.com não abriu; loja Gnomon + blogs; K com logo da Gnomon; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

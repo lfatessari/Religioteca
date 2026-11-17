@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 703,
-  "ultima_versao": 684,
+  "proxima_linha_marcas": 730,
+  "ultima_versao": 685,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11582,6 +11582,42 @@
       "site_bloqueado": false,
       "fontes": 21,
       "obs": "fase relógios; epoch.se não abriu; Watches of Scandinavia (pág. 2 fora); Firecrawl sem créditos"
+    },
+    {
+      "marca": "ERROYL",
+      "data": "2026-11-17",
+      "versao": 685,
+      "linha_marcas": 715,
+      "linhas_relogios": "104714-104725",
+      "relogios": 12,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 28,
+      "obs": "fase relógios; erroyl.com não abriu (PROVENANCE); Watchpaper, Time Bum, Keep the Time, WatchReport, folhetos PDF; D corrigido (dress watches); Firecrawl sem créditos"
+    },
+    {
+      "marca": "Escudo Watches",
+      "data": "2026-11-17",
+      "versao": 685,
+      "linha_marcas": 717,
+      "linhas_relogios": "104726-104738",
+      "relogios": 13,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18,
+      "obs": "fase relógios; escudo-watches.com não abriu; Oracle of Time, Chronohunter, WatchGecko, Kibble, Bluesky; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Evant",
+      "data": "2026-11-17",
+      "versao": 685,
+      "linha_marcas": 730,
+      "linhas_relogios": "104739-104755",
+      "relogios": 17,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 34,
+      "obs": "fase relógios; evantwatches.com não abriu; loja Gnomon + blogs; K com logo da Gnomon; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11681,26 +11717,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T20:43:20Z",
-  "ultimo_sinal": "2026-11-17T21:11:33Z",
-  "em_andamento": {
-    "marcas": [
-      "ERROYL",
-      "Escudo Watches",
-      "Evant"
-    ],
-    "linha_marcas": 709,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "ERROYL completa (28 fontes, 12 relógios)",
-      "Escudo completa (18 fontes, 13 relógios)",
-      "Ercigoj, Ergon e E. Stohlman adiadas (notas_Stohlman_Ercigoj_Ergon.md)",
-      "Evant começando"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

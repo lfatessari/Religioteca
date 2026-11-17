@@ -1,0 +1,162 @@
+{
+ "marca": "ERROYL",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 17/11/2026 (v685): 12 relógios (Heritage, Regent, Duke). Site erroyl.com não abriu pela leitura automática; fontes: Watchpaper, The Time Bum, Keep the Time, WatchReport, Worn & Wound, Time+Tide, WristReview, Trustpilot e folhetos oficiais em PDF. D corrigido: 'Relógios de mergulho de estilo social com Miyota e ETA.' → 'Relógios sociais (dress watches) com calibres Miyota e ETA.' (folhetos oficiais Duke e Regent; Watchpaper; The Time Bum). Regent Azure e Heritage Black Aurum vistos só em avaliações de clientes e no manual (sem foto).",
+ "correcoes": {
+  "D": "Relógios sociais (dress watches) com calibres Miyota e ETA."
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://cdn.shopify.com/s/files/1/0640/7777/files/ERROYL_-_Duke_Collection_Booklet_web.pdf",
+   "https://watchpaper.com/?p=6479",
+   "https://www.thetimebum.com/?p=670"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://cdn.shopify.com/s/files/1/0640/7777/files/ERROYL_-_Duke_Collection_Booklet_web.pdf",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://watchisthis.com/?p=3001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/erroyl-duke-melrose",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=670",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchreport.com/erroyl-heritage-royal-300-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=1465",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thetimebum.com/?p=589",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://cdn.shopify.com/s/files/1/0640/7777/files/Regent_-_Booklet_PD.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/erroyl-regent-nero-panda-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/erroyl/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/hands-on-the-erroyl-e30-heritage-white/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cdn.shopify.com/s/files/1/0640/7777/files/ERROYL_-_Instruction_Pic_HERITAGE_2.0.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchpaper.com/?p=6479",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpaper.com/?p=7924",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpaper.com/?p=10770",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=21743",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/erroyl-regent-nero-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=41442",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.trustpilot.com/review/erroyl.com",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://manuals.online/erroyl/watch/aurum/installation-and-operation-manual/26dbe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/introducing-erroyl-timepieces/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=5977",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://canberratimes.com.au/story/6071381/erroyl-watches-launched-worldwide-by-canberra-kickstarter-campaign",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/interview-with-the-founder-of-erroyl-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=6517",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://manualmachine.com/erroyl/nero/22970715-booklet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=8259",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/erroyl-heritage-royal-300-watch-review/2/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
