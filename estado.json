@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 588,
- "ultima_versao": 676,
+ "proxima_linha_marcas": 596,
+ "ultima_versao": 677,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11354,6 +11354,30 @@
    "site_bloqueado": false,
    "fontes": 21,
    "obs": "fase relógios; sites raiz deram PROVENANCE, páginas internas abriram pela busca; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+  },
+  {
+   "marca": "Delft Watch Works",
+   "data": "2026-11-17",
+   "versao": 677,
+   "linha_marcas": 595,
+   "linhas_relogios": "104226-104229",
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15,
+   "obs": "fase relógios; raiz do site PROVENANCE; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); site oficial fora das buscas"
+  },
+  {
+   "marca": "Delhi Watch Company",
+   "data": "2026-11-17",
+   "versao": 677,
+   "linha_marcas": 596,
+   "linhas_relogios": "104230-104286",
+   "relogios": 57,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 34,
+   "obs": "fase relógios; raiz do site PROVENANCE; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); fichas de produto abriram pela busca"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11451,24 +11475,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T12:43:01Z",
- "ultimo_sinal": "2026-11-17T12:51:11Z",
- "em_andamento": {
-  "marcas": [
-   "Delft Watch Works",
-   "Delhi Watch Company",
-   "DeMarco Watches"
-  ],
-  "linha_marcas": 595,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Delft:1-11",
-   "Delhi:1,2"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
