@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 677,
-  "ultima_versao": 682,
+  "proxima_linha_marcas": 690,
+  "ultima_versao": 683,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11510,6 +11510,42 @@
       "site_bloqueado": false,
       "fontes": 16,
       "obs": "fase relógios; C corrigido Milão → Modica; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Electra",
+      "data": "2026-11-17",
+      "versao": 683,
+      "linha_marcas": 681,
+      "linhas_relogios": "104614-104632",
+      "relogios": 19,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "obs": "fase relógios; oficial não abriu (permissão); lista da Ocarat + imprensa; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Ember Watch Co",
+      "data": "2026-11-17",
+      "versao": 683,
+      "linha_marcas": 689,
+      "linhas_relogios": "104633-104638",
+      "relogios": 6,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 16,
+      "obs": "fase relógios; oficial não abriu; Afterglow Purple não achado; Firecrawl sem créditos"
+    },
+    {
+      "marca": "EMG Watches",
+      "data": "2026-11-17",
+      "versao": 683,
+      "linha_marcas": 690,
+      "linhas_relogios": "104639-104653",
+      "relogios": 15,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 18,
+      "obs": "fase relógios; oficial não abriu; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
