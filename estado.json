@@ -11755,7 +11755,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T23:43:02Z",
- "ultimo_sinal": "2026-11-17T23:43:02Z",
+ "ultimo_sinal": "2026-11-17T23:52:44Z",
  "em_andamento": {
   "marcas": [
    "Felix Toucan",
@@ -11767,7 +11767,11 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
