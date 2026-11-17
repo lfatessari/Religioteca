@@ -6,3 +6,7 @@ Início 07:42 UTC. Grande (peças únicas numeradas A-xxx, Q-xxx). Mínimo 25 fo
 - A-022: slug redireciona para A-064 (não é peça própria). A-050 aparece em 2 páginas (fotos diferentes) — 1 linha só.
 - Peças vistas sem página: A-036, A-115, Q-205, A-165 (home), A-003 (eBay), #171/#078 Etsy, Q-276 (galeria).
 - Specs: 41 mm aço, Miyota 82S5/9039 (página diverge), Q 36 mm Seiko VD78, "Swiss Design, not Swiss Made", 200 numeradas por série.
+- 1ª série 2015 (Modell 1 a, 1 b explosion, 1 c, 2 a) — fotos pressetext. Target sem foto. Códigos M1A-2015 etc. são CHAVES internas: tirar no dados (vazio).
+- eBay vendedor subwave: 17 peças por título. Etsy (loja ConcentricWatches fechada): #004, #067, #069, #078, #137, #171.
+- Amazon A-142 (robots). aviation-time.com = domínio estacionado.
+- 500 peças no total (about-2 e subwave.ch). → marca VERMELHA.
