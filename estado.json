@@ -11139,7 +11139,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-16T23:43:04Z",
-  "ultimo_sinal": "2026-11-16T23:57:41Z",
+  "ultimo_sinal": "2026-11-17T00:00:14Z",
   "em_andamento": {
     "marcas": [
       "Carpenter Watches"
@@ -11152,9 +11152,16 @@
     "secoes_feitas": [
       "1",
       "2",
-      "3"
+      "2c",
+      "3",
+      "5",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "BVOR, BYOP Watches e Call Sign adiadas (ver historico/notas_bateria_v664.md); Cabot Watch Company = CWC (apelido)"
   }
 }
