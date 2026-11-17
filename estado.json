@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 644,
-  "ultima_versao": 680,
+  "proxima_linha_marcas": 665,
+  "ultima_versao": 681,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11462,6 +11462,30 @@
       "site_bloqueado": true,
       "fontes": 67,
       "obs": "fase relógios; grande, sozinha; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); Drayton Watches adiada (site bloqueado, sem fontes)"
+    },
+    {
+      "marca": "DUG Glashuette",
+      "data": "2026-11-17",
+      "versao": 681,
+      "linha_marcas": 650,
+      "linhas_relogios": "104499-104529",
+      "relogios": 31,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 19,
+      "obs": "fase relógios; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); Earhart Watches adiada (site bloqueado, sem fontes)"
+    },
+    {
+      "marca": "Echo/Neutra",
+      "data": "2026-11-17",
+      "versao": 681,
+      "linha_marcas": 665,
+      "linhas_relogios": "104530-104595",
+      "relogios": 66,
+      "vermelho": true,
+      "site_bloqueado": "parcial",
+      "fontes": 58,
+      "obs": "fase relógios; virou grande no meio da pesquisa; 2ª passada 12 fontes/1 relógio; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11547,7 +11571,8 @@
     "Burnt Creek Watch Company (linha 412)": "Adiada em 16/11/2026 (v662): o site abre pela busca (collections/all: Sentinel, Sentinel Black, Plainsman, Plainsman Black, Manitou, Cutbank, Bullion), mas fora dele só há posts no X da própria marca/dono; sem 2 fontes externas para o catálogo fechado. Notas em historico/notas_bateria_v662.md — refazer quando houver imprensa ou lojas.",
     "BUUR+ (linha 414)": "Adiada em 16/11/2026 (v662): buurwatches.com não abre pela WebFetch (PROVENANCE); só a Oracle of Time (2020) fala da marca — refazer com Firecrawl no oficial.",
     "Buyalov (linha 415)": "Grande (dezenas de variantes na Meranom); buyalov.com PROVENANCE, mas meranom.com/en/buyalov/... abre pela busca. Fazer sozinha na próxima execução.",
-    "Colomer & Sons (linha 511)": "Dimensionada em 17/11/2026 (v669) como GRANDE (coleções de 16 modelos em 2013 e 20 em 2017, edições de clubes e da Armada, muitos tópicos no Relojes Especiales); colomerandsons.com PROVENANCE na WebFetch. Fazer sozinha."
+    "Colomer & Sons (linha 511)": "Dimensionada em 17/11/2026 (v669) como GRANDE (coleções de 16 modelos em 2013 e 20 em 2017, edições de clubes e da Armada, muitos tópicos no Relojes Especiales); colomerandsons.com PROVENANCE na WebFetch. Fazer sozinha.",
+    "Earhart Watches (linha 659)": "Adiada em 17/11/2026 (v681): earhartwatches.com não abre pela WebFetch (PROVENANCE), Firecrawl sem créditos e 8 buscas não trouxeram nenhuma página sobre a marca. Notas em historico/notas_Earhart.md. Refazer com Firecrawl."
   },
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
@@ -11559,25 +11584,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T16:42:34Z",
-  "ultimo_sinal": "2026-11-17T17:00:29Z",
-  "em_andamento": {
-    "marcas": [
-      "DUG Glashuette",
-      "Earhart Watches",
-      "Echo/Neutra"
-    ],
-    "linha_marcas": 650,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "DUG completo",
-      "Earhart adiada",
-      "Echo/Neutra passada 1 completa (65 relógios), vermelha; falta 2ª passada"
-    ],
-    "passada": 2
-  }
+  "adiadas_obs": {}
 }
