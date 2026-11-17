@@ -11320,19 +11320,21 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T06:42:45Z",
- "ultimo_sinal": "2026-11-17T06:42:45Z",
+ "ultimo_sinal": "2026-11-17T06:51:18Z",
  "em_andamento": {
   "marcas": [
-   "Colorado Watch Company",
-   "Compass Timepieces",
-   "Concentric Watches"
+   "Colorado Watch Company"
   ],
   "linha_marcas": 512,
   "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "relogios": "historico/parcial_Colorado_relogios.txt",
+  "fontes": "historico/parcial_Colorado_fontes.txt",
+  "notas": "historico/notas_Colorado.md",
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
