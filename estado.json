@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 441,
-  "ultima_versao": 664,
+  "proxima_linha_marcas": 450,
+  "ultima_versao": 665,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11053,6 +11053,42 @@
       "site_bloqueado": true,
       "fontes": 48,
       "obs": "BVOR, BYOP Watches, Call Sign, Canister Watches e Canuck Timepieces adiadas; Cabot Watch Company = CWC (apelido)"
+    },
+    {
+      "marca": "Castle & Gazelle",
+      "data": "2026-11-17",
+      "versao": 665,
+      "linha_marcas": 444,
+      "linhas_relogios": "103276-103286",
+      "relogios": 11,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 15,
+      "obs": "G corrigido (castleandgazelle.com); raiz do site deu PROVENANCE, páginas internas abriram pela busca extended"
+    },
+    {
+      "marca": "Castor Watches",
+      "data": "2026-11-17",
+      "versao": 665,
+      "linha_marcas": 445,
+      "linhas_relogios": "103287-103339",
+      "relogios": 53,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 48,
+      "obs": "inclui linha de cobre Grebe; Indie, Gallo e outras cidades da linha Ciudades não achados"
+    },
+    {
+      "marca": "Caught Watches",
+      "data": "2026-11-17",
+      "versao": 665,
+      "linha_marcas": 450,
+      "linhas_relogios": "103340-103400",
+      "relogios": 61,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 21,
+      "obs": "coleção Strada (~4-5) não alcançada; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11149,23 +11185,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T00:42:53Z",
-  "ultimo_sinal": "2026-11-17T01:01:38Z",
-  "em_andamento": {
-    "marcas": [
-      "Castle & Gazelle",
-      "Castor Watches",
-      "Caught Watches"
-    ],
-    "linha_marcas": 444,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Caught: todas"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

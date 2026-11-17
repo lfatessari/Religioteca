@@ -1,0 +1,252 @@
+{
+ "marca": "Castor Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios (17/11/2026, v665): 53 modelos (madeira desde 2016, linha Ciudades 2018, linha Artista Sergio Vergara 2020, corporativos Mistral/CCU e Steuler 2019, cobre Grebe: Linha Artesanal 2023, Linha X e 3ª edição 2026). O site oficial (castor-watches.com/en/a-special-brand/) diz fundação em 2015 por Gonzalo Grebe, em Valparaíso (Errázuriz 1178); o Microbrand Atlas diz 2016. A linha de cobre também é vendida como Grebe Watches (grebe-watches.com). Não achados: Indie (citado no blog de 2018), Gallo (só nome de foto da linha Sergio Vergara), Luz Indie (página com erro) e as outras cidades da linha Ciudades.",
+ "fontes": [
+  {
+   "url": "https://castor-watches.com/en/home/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://castor-watches.com/en/ancestral-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/a-special-brand/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://castor-watches.com/shop/page/2/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://castor-watches.com/marca/castor-watches/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://castor-watches.com/en/shop/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/castor-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/etiqueta-producto/watch/?view_mode=list",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/en/shop/watches/wood-and-metal-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/castor-lastarria-wooden-clock/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.castor-watches.com/en/producto/caleuche/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/valparaiso/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/category/novedades-castor/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://castor-watches.com/blog/page/4/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/blog/page/3/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/nuevo-reloj-basado-en-la-obra-del-pintor-sergio-vergara/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://castor-watches.com/reloj-de-cobre-grebe-watches-tercera-edicion-mas-diseno-mas-exclusividad/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/shop/copper-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://armatubici.cl/relojes-de-madera-castor/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.castor-watches.com/en/shop-2/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.castor-watches.com/en/shop/womens-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/producto/newen/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/andes/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/producto/hain-38-mm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/producto/diaguita/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/hain-42mm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/diaguita-38mm-en-old/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/santiago/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/producto/luz-indie/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/luz/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://castor-watches.com/etiqueta-producto/pez/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/bull-marble/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/matriz-copper-38mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/relojes-de-cobre-en-castor-watches/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://grebe-watches.com/en/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://grebe-watches.com/en/blog/watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.grebe-watches.com/en/producto/line-artisanal-no6/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/producto/linea-artesanal-no5/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/condor-copper-38mm-pre-sale/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/producto/puma-grebe-cobre-artesanal-pre-venta/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/n1-copper-38mm-pre-sale/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/producto/gigante-tarapaca-cobre-38mm-pre-venta/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/producto/tauro-cobre-38mm-pre-venta/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/producto/zero-cobre-38mm-pre-venta/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/en/producto/no2-copper-38mm-pre-sale/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castor-watches.com/producto/n7-cobre-artesanal-38mm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/producto/pez/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castor-watches.com/producto/toro-vidrian/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

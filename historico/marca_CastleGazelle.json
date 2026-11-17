@@ -1,0 +1,96 @@
+{
+ "marca": "Castle & Gazelle",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "G": "castleandgazelle.com"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://castleandgazelle.com/collections/all",
+   "https://www.thetimebum.com/?p=13980"
+  ]
+ },
+ "observacoes": "Relógios (17/11/2026, v665): 11 modelos do site oficial (collections/all lista 11; o filtro conta 12 — 1 talvez escondido). Corrigido: G vazio → castleandgazelle.com (site oficial, também citado pela The Time Bum). Ainda a verificar: C (Nova York) — a The Time Bum (jul/2025) diz que a marca é do norte da Virgínia.",
+ "fontes": [
+  {
+   "url": "https://www.thetimebum.com/?p=13980",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://microbrandwatchcollective.co.za/castle-gazelle/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchmetrics.com/watch-db-2/castle-&-gazelle-samarkand-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castleandgazelle.com/products/the-heart-of-design",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://castleandgazelle.com/products/shamsah-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://newatches.substack.com/p/in-review-6ef",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/collections/all",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://castleandgazelle.com/collections/featured",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/products/zellij-sitara-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/products/bukhara-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/products/azure-green-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/products/zellij-moonlight-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/products/alhambra-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/products/azure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://castleandgazelle.com/products/zellij-blue",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
