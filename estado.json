@@ -11561,7 +11561,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-17T16:42:34Z",
-  "ultimo_sinal": "2026-11-17T16:42:34Z",
+  "ultimo_sinal": "2026-11-17T16:52:34Z",
   "em_andamento": {
     "marcas": [
       "DUG Glashuette",
@@ -11573,7 +11573,10 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "DUG completo",
+      "Earhart adiada"
+    ],
     "passada": 1
   }
 }
