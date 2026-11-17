@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 415,
-  "ultima_versao": 663,
+  "proxima_linha_marcas": 441,
+  "ultima_versao": 664,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11041,6 +11041,18 @@
       "vermelho": false,
       "site_bloqueado": true,
       "fontes": 68
+    },
+    {
+      "marca": "Carpenter Watches",
+      "data": "2026-11-17",
+      "versao": 664,
+      "linha_marcas": 441,
+      "linhas_relogios": "103257-103275",
+      "relogios": 19,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 48,
+      "obs": "BVOR, BYOP Watches, Call Sign, Canister Watches e Canuck Timepieces adiadas; Cabot Watch Company = CWC (apelido)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11137,31 +11149,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-16T23:43:04Z",
-  "ultimo_sinal": "2026-11-17T00:00:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Carpenter Watches"
-    ],
-    "linha_marcas": 441,
-    "grande": false,
-    "relogios": "historico/parcial_Carpenter_relogios.txt",
-    "fontes": "historico/parcial_Carpenter_fontes.txt",
-    "notas": "historico/notas_Carpenter.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 2,
-    "obs": "BVOR, BYOP Watches e Call Sign adiadas (ver historico/notas_bateria_v664.md); Cabot Watch Company = CWC (apelido)"
-  }
+  "adiadas_obs": {}
 }
