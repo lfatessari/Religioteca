@@ -10,3 +10,5 @@ Início 07:42 UTC. Grande (peças únicas numeradas A-xxx, Q-xxx). Mínimo 25 fo
 - eBay vendedor subwave: 17 peças por título. Etsy (loja ConcentricWatches fechada): #004, #067, #069, #078, #137, #171.
 - Amazon A-142 (robots). aviation-time.com = domínio estacionado.
 - 500 peças no total (about-2 e subwave.ch). → marca VERMELHA.
+- SMD-xxxxx = chave interna (ID de produto da Swiss Made Direct): no dados, código vazio e ID na E.
+- concentric.watch = espelho da loja com 93 resultados em 6 páginas (p1 aberta). A' Design Award 2018-19 (ETA 2824, Emanuel Wieland relojoeiro).
