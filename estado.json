@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 529,
- "ultima_versao": 674,
+ "proxima_linha_marcas": 564,
+ "ultima_versao": 675,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11305,6 +11305,19 @@
    "site_bloqueado": false,
    "fontes": 19,
    "obs": "logo; fase relógios; Coromandel e Corso adiadas (sem site/fontes); Crudo Carattere: site crudocarattere.pl não abriu e não aparece em busca — ficou para a próxima; pendências dos posts não lidas (ferramenta Projects ausente); Firecrawl sem créditos; site oficial direto não abriu em nenhuma (Corrigia abriu pelas páginas internas vindas da busca)"
+  },
+  {
+   "marca": "Dan Henry",
+   "data": "2026-11-17",
+   "versao": 675,
+   "linha_marcas": 564,
+   "linhas_relogios": "104091-104184",
+   "relogios": 94,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 45,
+   "grande": true,
+   "obs": "fase relógios; marca grande (site com >80 variações) feita sozinha; uma linha por mostrador/tamanho/tipo, data e pulseira na E; raiz danhenrywatches.com PROVENANCE, mas as páginas internas abriram pela busca; Cubli (não é marca) e Crudo Carattere (site fora do ar/das buscas) adiadas no proxima_marca.py; pendências dos posts não lidas (ferramenta Projects ausente); Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11402,25 +11415,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T10:43:06Z",
- "ultimo_sinal": "2026-11-17T10:54:24Z",
- "em_andamento": {
-  "marcas": [
-   "Dan Henry"
-  ],
-  "linha_marcas": 564,
-  "grande": true,
-  "relogios": "historico/parcial_DanHenry_relogios.txt",
-  "fontes": "historico/parcial_DanHenry_fontes.txt",
-  "notas": "historico/notas_DanHenry.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "9"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
