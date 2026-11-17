@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 733,
-  "ultima_versao": 686,
+  "proxima_linha_marcas": 744,
+  "ultima_versao": 687,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11630,6 +11630,30 @@
       "site_bloqueado": false,
       "fontes": 66,
       "obs": "fase relógios; grande (configurador); evolvens.com não abriu, evolvens.hu abriu pela busca; 3 passadas (43/13/10 fontes); fora do site quase nada; páginas 2 das coleções 40/44 mm e REBEL 49 não abertas; Firecrawl sem créditos; Eternal Watches e Eulux adiadas"
+    },
+    {
+      "marca": "Fam al Hut",
+      "data": "2026-11-17",
+      "versao": 687,
+      "linha_marcas": 743,
+      "linhas_relogios": "104833-104836",
+      "relogios": 4,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 18,
+      "obs": "fase relógios; famalhut.com não abriu; Monochrome, Revolution, GPHG, The Limited Edition, Watchonista etc.; J corrigido (preço US$ 32.000 + Nebula); Firecrawl sem créditos; EVORA e Fateh Watches adiadas"
+    },
+    {
+      "marca": "Farasute",
+      "data": "2026-11-17",
+      "versao": 687,
+      "linha_marcas": 744,
+      "linhas_relogios": "104837-104864",
+      "relogios": 28,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 24,
+      "obs": "fase relógios; farasute.com não abriu; guia e fichas da Jewelry Addicts, China Watch Shop, hotukdeals; muitas linhas com link de página em C; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11729,24 +11753,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T22:43:34Z",
-  "ultimo_sinal": "2026-11-17T22:54:10Z",
-  "em_andamento": {
-    "marcas": [
-      "EVORA",
-      "Fam al Hut",
-      "Farasute"
-    ],
-    "linha_marcas": 734,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Fam al Hut completa",
-      "Farasute completa"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
