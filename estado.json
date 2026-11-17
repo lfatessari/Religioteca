@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 512,
-  "ultima_versao": 671,
+  "proxima_linha_marcas": 514,
+  "ultima_versao": 672,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11233,6 +11233,18 @@
       "site_bloqueado": true,
       "fontes": 20,
       "obs": "marca encerrada; site oficial PROVENANCE/client_error; Compass Timepieces adiada (sem fontes externas); Concentric Watches dimensionada como grande (peças únicas numeradas A-001…A-149+) — fica sozinha na próxima; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+    },
+    {
+      "marca": "Concentric Watches",
+      "data": "2026-11-17",
+      "versao": 672,
+      "linha_marcas": 514,
+      "linhas_relogios": "103868-103968",
+      "relogios": 101,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 68,
+      "obs": "peças únicas numeradas (500 no total); 2 passadas (56+12 fontes); I corrigido (2015/ETA 2824/2020 Miyota/500 peças); logo; Firecrawl sem créditos; páginas 2 das categorias e loja espelho concentric.watch (6 páginas) não alcançadas; pendências dos posts não lidas (ferramenta Projects ausente)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11330,32 +11342,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T07:42:36Z",
-  "ultimo_sinal": "2026-11-17T08:07:48Z",
-  "em_andamento": {
-    "marcas": [
-      "Concentric Watches"
-    ],
-    "linha_marcas": 514,
-    "grande": true,
-    "relogios": "historico/parcial_Concentric_Watches_relogios.txt",
-    "fontes": "historico/parcial_Concentric_Watches_fontes.txt",
-    "notas": "historico/notas_Concentric_Watches.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "p2"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

@@ -1,0 +1,363 @@
+{
+ "marca": "Concentric Watches",
+ "usa_codigos": true,
+ "logo": "https://concentric-watch.com/wp-content/uploads/2026/05/concentric-logo-actual.jpeg",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "site_bloqueado": "Parcial – concentric-watch.com: a raiz digitada pediu permissão (abre pelo link da busca); a ficha A-104 dá client_error; as páginas 2 das categorias e a loja espelho concentric.watch (93 peças em 6 páginas) não foram alcançadas (Firecrawl sem créditos); revisitar com navegador",
+ "correcoes": {
+  "I": "A Concentric é uma marca de relógios de Basileia, na Suíça, criada pelo arquiteto e designer Daniel Schulthess (nascido em 1967), que desenvolveu o software que gera os mostradores de círculos concêntricos de cada peça. Os relógios são vendidos pelo estúdio subwave, também em Basileia. A primeira série, Swiss Made, com caixa de aço, vidro de safira e movimento automático suíço 2824, foi apresentada na feira Blickfang de Basileia em abril de 2015. Em 2020 a marca passou a usar movimentos japoneses (Miyota nos automáticos de 41 mm e Seiko nos femininos de quartzo de 36 mm) e mostradores de arte gerada por algoritmo, impressos um a um; a coleção completa foi limitada a 500 peças, cada desenho feito uma só vez."
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://concentric-watch.com/about-2/",
+   "https://concentric.watch/index-e.html",
+   "https://concentric-watch.com/faq/",
+   "https://www.pressetext.com/news/na-20150415023.html"
+  ]
+ },
+ "observacoes": "Relógios (17/11/2026, v672): marca de peças únicas numeradas (A-xxx automáticos 41 mm, #nnn/200; Q-xxx quartzo 36 mm), 500 no total segundo o site; 101 listadas, vermelha. Corrigido I: tirado o '[⚠️ a confirmar]' — 2015, Swiss Made e ETA 2824 confirmados no site oficial (about-2 e site antigo concentric.watch) e no comunicado pressetext; acrescentados 2020 (Miyota/Seiko, arte algorítmica) e 500 peças (about-2, FAQ). Só anotado: o Atlas dá fundação 2004, o site diz 2015 (o A' Design Award fala em projeto desde 2014); a marca ganhou o A' Design Award 2018-2019 (categoria joalheria; relojoeiro Emanuel Wieland); H continua vazio — o FAQ oficial não cita Instagram; em J, 'Automatic A-0' parece número cortado; a página 'A-022' do site redireciona para a A-064; no eBay o anúncio #012/200 traz a referência A-125.",
+ "fontes": [
+  {
+   "url": "https://concentric-watch.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product-tag/unique-watch/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://concentric-watch.com/product/unique-dial-design-concentric-automatic-watch-a-043/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product-category/concentric-other-watches-and-products/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product-tag/pop-art/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://concentric-watch.com/product-tag/color-beams/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product-category/colorful-quartz-fashion-ladies-watches/",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://concentric-watch.com/product-tag/random-art/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://concentric-watch.com/product-tag/midjourney/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://concentric-watch.com/product-tag/modern-art/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://concentric-watch.com/product/colorful-watches-with-digital-print-dials-concentric-automatic-a-022/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/unique-dial-design-automatic-wristwatch-concentric-automatic-a-073/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product/concentric-watch-colorful-automatic-unique-watch-a-166-41mm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product/unique-ladies-fashion-watch-concentric-automatic-a-199/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product/best-automatic-wristwatch-with-colorful-dial-mens-watch-a-007/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product/ladies-minimal-fashion-watch-a-134/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product/designer-quartz-watch-for-men-concentric-quarz-q-297/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric.watch/index-e.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://concentric-watch.com/about-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/usr/subwave",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.ebay.de/itm/177294357436",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.etsy.com/listing/1771043981/fashionable-unique-womens-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.etsy.com/listing/1765513801/unique-colorful-fashionable-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aviation-time.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pressetext.com/news/na-20150415023.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.subwave.ch/content.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/listing/1773616647/vibrant-ladies-designer-concentric",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.etsy.com/listing/1773622497/farbenfrohe-damen-designeruhr-mit",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://concentric-watch.com/page/4/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://concentric-watch.com/product/exclusive-mens-watch-with-sophisticated-aesthetics-concentric-quarz-q-184/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://concentric-watch.com/product-category/concentric-watch-resellers-packages/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177609532029",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177609541122",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176851235657",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177492593339",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/177210321564",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/itm/176851270436",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176851984626",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176852009248",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176871076419",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/176972210976",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176972223319",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176972228984",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177210272183",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177210290861",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177210300853",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177231867412",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177231893925",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177318793370",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177279169178",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177294357435",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://swissmade.direct/brand/concentric-watches/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://competition.adesignaward.com/design.php?ID=68960",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric.watch/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://uhren-basel-news.com/tag/basler-uhr",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/faq/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/sitemap/jewelry/items/3/3688",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/sitemap/jewelry/items/3/3791",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.at/b/Bunte-Uhren/31387/bn_7005320805",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.at/b/Geburstet-Armbanduhren-aus-Nylon/31387/bn_13769349",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.pressetext.com/news/dem-zufall-auf-der-spur.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/stylish-mens-automatic-watch-with-premium-craftsmanship-a-096-148/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/unique-colorful-automatic-watches-concentric-quarz-q-266/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/stylish-unisex-concentric-automatic-watch-a-053/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/colorfu-wristwatch-precision-and-artistic-appeal-inside-a50/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/best-affordable-swiss-style-automatic-watch-concentric-automatic-a-138/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/luxury-wristwatch-with-miyota-9039-movement-concentric-automatic-a-047/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://concentric-watch.com/product/unique-colorful-ladies-watch-concentric-quarz-q-105/",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
