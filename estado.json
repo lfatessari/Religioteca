@@ -11731,7 +11731,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-17T22:43:34Z",
-  "ultimo_sinal": "2026-11-17T22:51:39Z",
+  "ultimo_sinal": "2026-11-17T22:54:10Z",
   "em_andamento": {
     "marcas": [
       "EVORA",
@@ -11744,7 +11744,8 @@
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
-      "Fam al Hut completa"
+      "Fam al Hut completa",
+      "Farasute completa"
     ],
     "passada": 1
   }
