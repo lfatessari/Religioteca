@@ -1,0 +1,1 @@
+# De Guzman — raiz deguzmanandco.com PROVENANCE na 1ª tentativa, mas www.deguzmanandco.com abriu pela busca. Archives = 14 entradas 2020-2026. Faltam: DG013 2025 variantes, colab Argos/Ibarra, DG001/003/004/006/007/011/012/015-017, revendedores (Rockwellist), WatchCrunch.

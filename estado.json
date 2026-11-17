@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 564,
-  "ultima_versao": 675,
+  "proxima_linha_marcas": 588,
+  "ultima_versao": 676,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11318,6 +11318,42 @@
       "fontes": 45,
       "grande": true,
       "obs": "fase relógios; marca grande (site com >80 variações) feita sozinha; uma linha por mostrador/tamanho/tipo, data e pulseira na E; raiz danhenrywatches.com PROVENANCE, mas as páginas internas abriram pela busca; Cubli (não é marca) e Crudo Carattere (site fora do ar/das buscas) adiadas no proxima_marca.py; pendências dos posts não lidas (ferramenta Projects ausente); Firecrawl sem créditos"
+    },
+    {
+      "marca": "Dave Berghold",
+      "data": "2026-11-17",
+      "versao": 676,
+      "linha_marcas": 571,
+      "linhas_relogios": "104185-104189",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 16,
+      "obs": "fase relógios; sites raiz deram PROVENANCE, páginas internas abriram pela busca; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+    },
+    {
+      "marca": "Day & Night Watch Co.",
+      "data": "2026-11-17",
+      "versao": 676,
+      "linha_marcas": 577,
+      "linhas_relogios": "104190-104198",
+      "relogios": 9,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 17,
+      "obs": "fase relógios; sites raiz deram PROVENANCE, páginas internas abriram pela busca; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
+    },
+    {
+      "marca": "De Guzman & Co.",
+      "data": "2026-11-17",
+      "versao": 676,
+      "linha_marcas": 588,
+      "linhas_relogios": "104199-104225",
+      "relogios": 27,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 21,
+      "obs": "fase relógios; sites raiz deram PROVENANCE, páginas internas abriram pela busca; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11415,24 +11451,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T11:43:15Z",
-  "ultimo_sinal": "2026-11-17T11:53:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Dave Berghold",
-      "Day & Night Watch Co.",
-      "De Guzman & Co."
-    ],
-    "linha_marcas": 571,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Dave Berghold: completa",
-      "Day & Night: completa"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
