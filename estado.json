@@ -11549,7 +11549,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T15:42:49Z",
- "ultimo_sinal": "2026-11-17T15:59:23Z",
+ "ultimo_sinal": "2026-11-17T16:01:37Z",
  "em_andamento": {
   "marcas": [
    "Duckworth Prestex"
@@ -11562,7 +11562,13 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "2c",
+   "3",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9"
   ],
   "passada": 1
  }
