@@ -27,6 +27,8 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "eClock": "grande pelo catálogo (89 relógios individuais no site eclockmx.com, que abre); fora do site nada legível (Facebook/TikTok/YouTube bloqueados, nenhuma loja, imprensa ou agregador) e Firecrawl sem créditos — não chega às 25 fontes; lista pronta em historico/eclock_raw.txt e notas em historico/notas_eClock.md (17/11/2026, v682) — usuário decide se grava só com o site oficial",
+    "EK Watch Co.": "ekwatchcompany.com não abre pela WebFetch (PROVENANCE), site:ekwatchcompany.com sem resultado e as buscas só trazem outras marcas nepalesas (Samaya, Alma Artes); Firecrawl sem créditos (17/11/2026, v682) — refazer com Firecrawl",
     "Earhart Watches": "earhartwatches.com não abre pela WebFetch (PROVENANCE), Firecrawl sem créditos e 8 buscas não trouxeram nenhuma página sobre a marca; notas em historico/notas_Earhart.md (17/11/2026, v681) — refazer com Firecrawl",
     "Drayton Watches": "draytonwatches.com não abre pela WebFetch (PROVENANCE), site:draytonwatches.com e buscas pela marca não trazem nada (só um espelho kreafolk sem conteúdo); Firecrawl sem créditos; aba Marcas cita DV-01 Anthracite Grey e DV-02 Burnt Orange/Forest Green (Seiko NH38) (17/11/2026, v680) — refazer com Firecrawl no oficial (catálogo fechado)",
     "Döttling": "não faz relógios (cofres de luxo e watch winders, desde 1919); a fase Marcas não achou nenhum relógio de pulso, bolso ou mesa da marca (adiada em 17/11/2026, v679) — usuário decide se fica na lista",

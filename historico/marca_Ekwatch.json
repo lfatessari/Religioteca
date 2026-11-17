@@ -1,0 +1,101 @@
+{
+ "marca": "Ekwatch",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://ekwatch.com",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ekwatch.com/collections/all",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ekwatch.com/collections/all?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ekwatch.com/collections/1504",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ekwatch.com/collections/ek-1919",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ekwatch.com/pages/brand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ekwatch.com/products/1504-2241n",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ekwatch.com/pages/rivenditori?view=rivenditori-ek",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ekwatch.com/products/ekl-1919-rk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/ekwatch-ek-1504-2441g-sideral-grey-pre-owned-pre2256",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.quotidianodiragusa.it/?p=104601",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sicilyscene.blogspot.com/2019/10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=99620",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/gabriele/posts/ekwatch-1504-18460",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://it.trustpilot.com/review/ekwatch.com?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://segnatempo.it/produttori-italiani-di-orologi/",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Modica"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.ekwatch.com/pages/brand",
+   "https://www.quotidianodiragusa.it/?p=104601"
+  ]
+ },
+ "observacoes": "Fase Relógios 17/11/2026 (v682): C corrigido Milão → Modica (site oficial e Quotidiano di Ragusa; oficina na Via Resistenza Partigiana 42). Fundada em 2019 por Gabriele Aprile (site oficial); EK 1919 lançado no Kickstarter em 04/10/2019 (Quotidiano di Ragusa, Sicily Scene). Ainda a verificar: série '1504 - 2240B' citada numa avaliação do Trustpilot (talvez erro de digitação de 2441B). K sem logo."
+}

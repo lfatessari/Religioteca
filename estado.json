@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 665,
-  "ultima_versao": 681,
+  "proxima_linha_marcas": 677,
+  "ultima_versao": 682,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11486,6 +11486,30 @@
       "site_bloqueado": "parcial",
       "fontes": 58,
       "obs": "fase relógios; virou grande no meio da pesquisa; 2ª passada 12 fontes/1 relógio; Firecrawl sem créditos"
+    },
+    {
+      "marca": "EDC Hardwear",
+      "data": "2026-11-17",
+      "versao": 682,
+      "linha_marcas": 667,
+      "linhas_relogios": "104596-104603",
+      "relogios": 8,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 16,
+      "obs": "fase relógios; I escrita com o site oficial; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); eClock (grande, sem fontes externas) e EK Watch Co. (PROVENANCE) adiadas"
+    },
+    {
+      "marca": "Ekwatch",
+      "data": "2026-11-17",
+      "versao": 682,
+      "linha_marcas": 677,
+      "linhas_relogios": "104604-104613",
+      "relogios": 10,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 16,
+      "obs": "fase relógios; C corrigido Milão → Modica; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11572,7 +11596,8 @@
     "BUUR+ (linha 414)": "Adiada em 16/11/2026 (v662): buurwatches.com não abre pela WebFetch (PROVENANCE); só a Oracle of Time (2020) fala da marca — refazer com Firecrawl no oficial.",
     "Buyalov (linha 415)": "Grande (dezenas de variantes na Meranom); buyalov.com PROVENANCE, mas meranom.com/en/buyalov/... abre pela busca. Fazer sozinha na próxima execução.",
     "Colomer & Sons (linha 511)": "Dimensionada em 17/11/2026 (v669) como GRANDE (coleções de 16 modelos em 2013 e 20 em 2017, edições de clubes e da Armada, muitos tópicos no Relojes Especiales); colomerandsons.com PROVENANCE na WebFetch. Fazer sozinha.",
-    "Earhart Watches (linha 659)": "Adiada em 17/11/2026 (v681): earhartwatches.com não abre pela WebFetch (PROVENANCE), Firecrawl sem créditos e 8 buscas não trouxeram nenhuma página sobre a marca. Notas em historico/notas_Earhart.md. Refazer com Firecrawl."
+    "Earhart Watches (linha 659)": "Adiada em 17/11/2026 (v681): earhartwatches.com não abre pela WebFetch (PROVENANCE), Firecrawl sem créditos e 8 buscas não trouxeram nenhuma página sobre a marca. Notas em historico/notas_Earhart.md. Refazer com Firecrawl.",
+    "eClock (linha 666)": "Adiada em 17/11/2026 (v682): grande pelo catálogo (89 relógios individuais em eclockmx.com, que abre direto), mas sem nenhuma fonte externa legível para chegar às 25. Lista pronta em historico/eclock_raw.txt (nome|mm|tipo|slug|foto). Usuário decide se grava só com o site oficial."
   },
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
@@ -11584,24 +11609,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T17:42:59Z",
-  "ultimo_sinal": "2026-11-17T17:57:52Z",
-  "em_andamento": {
-    "marcas": [
-      "EDC Hardwear",
-      "Ekwatch",
-      "EK Watch Co."
-    ],
-    "linha_marcas": 667,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_bateria_v682.md",
-    "secoes_feitas": [
-      "1",
-      "2"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
