@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 596,
-  "ultima_versao": 677,
+  "proxima_linha_marcas": 606,
+  "ultima_versao": 678,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11378,6 +11378,42 @@
       "site_bloqueado": false,
       "fontes": 34,
       "obs": "fase relógios; raiz do site PROVENANCE; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente); fichas de produto abriram pela busca"
+    },
+    {
+      "marca": "De Motu",
+      "data": "2026-11-17",
+      "versao": 678,
+      "linha_marcas": 601,
+      "linhas_relogios": "104287-104311",
+      "relogios": 25,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 26,
+      "obs": "fase relógios; Firecrawl abriu o site oficial da De Motu e a página inicial da DeNovo e esgotou os créditos diários; pendências dos posts não lidas (ferramenta Projects ausente)"
+    },
+    {
+      "marca": "DeNovo",
+      "data": "2026-11-17",
+      "versao": 678,
+      "linha_marcas": 603,
+      "linhas_relogios": "104312-104334",
+      "relogios": 23,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 19,
+      "obs": "fase relógios; Firecrawl abriu o site oficial da De Motu e a página inicial da DeNovo e esgotou os créditos diários; pendências dos posts não lidas (ferramenta Projects ausente); H e I corrigidas (site oficial)"
+    },
+    {
+      "marca": "DeSanders",
+      "data": "2026-11-17",
+      "versao": 678,
+      "linha_marcas": 606,
+      "linhas_relogios": "104335-104350",
+      "relogios": 16,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 24,
+      "obs": "fase relógios; Firecrawl abriu o site oficial da De Motu e a página inicial da DeNovo e esgotou os créditos diários; pendências dos posts não lidas (ferramenta Projects ausente)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11475,24 +11511,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-17T13:43:05Z",
-  "ultimo_sinal": "2026-11-17T14:04:45Z",
-  "em_andamento": {
-    "marcas": [
-      "De Motu",
-      "DeNovo",
-      "DeSanders"
-    ],
-    "linha_marcas": 601,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "De Motu completa",
-      "DeNovo completa"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
