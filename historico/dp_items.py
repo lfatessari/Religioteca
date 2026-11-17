@@ -3,7 +3,8 @@ J='https://cdn.shopify.com/s/files/1/0125/7792/'
 C='https://cdn.shopify.com/s/files/1/0248/7892/files/'
 items = {}
 def add(code,nome,img,e=''):
-    if code not in items: items[code]=(nome,img,e)
+    k=code or nome
+    if k not in items: items[k]=(code,nome,img,e)
 VER='Verimatic: caixa de aço de 39 mm, automático Miyota 9039, vidro de safira duplo-abaulado, 200 m.'
 CH42='Chronograph 42: caixa de aço de 42 mm, cronógrafo de quartzo (mecaquartz), mostrador sunburst.'
 BV='Bolton Verimatic: caixa de aço de 39 mm, mostrador branco porcelana, automático Miyota 9039, 200 m.'
@@ -75,3 +76,40 @@ add('','California Yellow – edição limitada de 20 peças','https://www.serio
 add('BP-GMT-S','Broadgate GMT Mint Green','https://oracleoftime.com/wp-content/uploads/2025/03/Duckworth-Prestex-Broadgate-40mm-GMT-Automatic-Featured.jpg','Caixa de aço de 40 mm (ficha: 38,5 mm), 200 m, automático Miyota 9075 GMT com data; bracelete de aço ou borracha; £795.')
 for cor in ['Black','White','Dark Blue','Light Blue','Green','Lilac','Pink','Orange','Yellow','Burgundy']:
     add('', f'No1 {cor} – British Watchmakers\' Day 2024','https://www.watchgecko.com/blogs/magazine/duckworth-prestex-british-watchmaker-s-day-special-editions', f'Peça única. Série "No1" vendida só no British Watchmakers\' Day (jan/2024): uma peça por cor. Caixa almofadada de 39 mm; as 24 letras de "British Watch & Clock Makers" no lugar dos índices; £950. Foto: só fotos do conjunto no artigo (link da página).')
+JMC='https://www.jamesmoorejewellers.co.uk/product-category/watches/duckworth-prestex'
+CEN='Centenary: caixa retangular art déco de 24 mm, homenagem aos 100 anos da Prestex.'
+RIV='Rivington GMT: caixa almofadada de 42 mm, mostrador fumê "waffle", automático Miyota 9075 GMT, fundo fechado. Lançado em ago/2023.'
+add('D891-04-F','Verimatic Green Fumé',JMC,VER+' Pulseira de camurça marrom. Foto: só na página da loja (link da página).')
+add('D803-06-B','Centenary Cream','https://jamesmoorejewellers.co.uk/products/duckworth-prestex-centenary-24mm-cream-dial-brown-leather-strap-d803-06-b-p-133843',CEN+' Mostrador creme, pulseira de couro marrom. Foto: link da página.')
+add('D803-06-D','Centenary Cream',JMC,CEN+' Mostrador creme; a loja descreve pulseira de couro marrom (sufixo D costuma ser azul). Foto: link da página.')
+add('D803-07-D','Centenary Salmon Pink',JMC,CEN+' Mostrador salmão, pulseira de couro azul. Foto: link da página.')
+add('D891-05-F','Verimatic Orange Fumé',JMC,VER+' Pulseira de camurça italiana marrom. Foto: link da página.')
+add('D803-03-ST','Centenary Blue','https://www.jamesmoorejewellers.co.uk/products/duckworth-prestex-centenary-24mm-blue-dial-steel-mesh-bracelet-d803-03-st-p-133840',CEN+' Mostrador azul, bracelete de malha de aço. Foto: link da página.')
+add('D489-01-ST','Rivington GMT Black Fumé',JMC,RIV+' Bracelete de aço. A loja grafa D489 no título e D498 no código interno.')
+add('D498-05-OR','Rivington GMT Orange Fumé',JMC,RIV+' Pulseira de borracha laranja.')
+add('D498-05-C','Rivington GMT Orange Fumé',JMC,RIV+' Pulseira de couro Horween marrom.')
+add('D891-03-M','Verimatic Blue Fumé',JMC,VER+' Pulseira de camurça italiana azul.')
+add('D550-01-A','Chronograph 42 Black Sunburst',JMC,CH42+' Pulseira de couro Horween preto.')
+add('D489-03-ST','Rivington GMT Blue Fumé',JMC,RIV+' Bracelete de aço.')
+add('D498-04-ER','Rivington GMT Green Fumé','https://www.jamesmoorejewellers.co.uk/shop/duckworth-prestex-rivington-gmt-42mm-green-fume-waffle-dial-green-rubber-d498-04-er',RIV+' Pulseira de borracha verde. Foto: link da página.')
+add('D489-03-D','Rivington GMT Blue Fumé','https://www.firstclasswatches.co.uk/duckworth-prestex-rivington-gmt-42mm-blue-dial-blue-leather-strap-d489-03-d-p-133819/',RIV+' Pulseira de couro azul. Foto: link da página.')
+add('D489-03-DR','Rivington GMT Blue Fumé','https://www.jamesmoorejewellers.co.uk/products/duckworth-prestex-rivington-gmt-42mm-blue-dial-blue-rubber-strap-d489-03-dr-p-133822',RIV+' Pulseira de borracha azul. Foto: link da página.')
+add('D803-07-ST','Centenary Salmon Pink','https://jamesmoorejewellers.co.uk/products/duckworth-prestex-centenary-24mm-salmon-pink-dial-steel-mesh-bracelet-d803-07-st-p-133852',CEN+' Bracelete de malha de aço. Foto: link da página.')
+add('D547-03-RR','Lostock Quartz Chronograph Bolton Blue','https://firstclasswatches.co.uk/duckworth-prestex-lostock-quartz-chronograph-40mm-bolton-blue-dial-red-rubber-strap-d547-03-rr-p-160067','Lostock: cronógrafo de quartzo de 40 mm; mostrador azul Bolton, pulseira de borracha vermelha. Foto: link da página.')
+add('D547-05-AR','Lostock Quartz Chronograph Orange','https://www.jurawatches.co.uk/products/duckworth-prestex-watch-lostock-orange-40mm-quartz-chronograph-black-rubber-d547-05-ar','Lostock: cronógrafo de quartzo de 40 mm; mostrador laranja, pulseira de borracha preta. Foto: link da página.')
+add('D813-02-A','Parker Mechanical White','https://www.firstclasswatches.co.uk/duckworth-prestex-parker-mechanical-26mm-white-dial-black-leather-strap-d813-02-a-p-205345/','Parker mecânico de 26 mm, mostrador branco, pulseira de couro preto. Foto: link da página.')
+add('D510-05-D','Skeleton Orange Hands','https://www.jurawatches.co.uk/products/duckworth-prestex-skeleton-orange-hands-d510-05-d','Esqueletizado com Unitas 6497; ponteiros laranja; pulseira azul. Foto: link da página.')
+add('D944-03-D','Bolton Coronation 2023 Midnight Blue – edição limitada de 365 peças','https://www.firstclasswatches.co.uk/duckworth-prestex-bolton-automatic-coronation-special-edition-39mm-midnight-blue-dial-blue-leather-strap-d944-03-d-p-133810/','Comemora a coroação de Carlos III (2023). Caixa de 39 mm, automático, mostrador azul-meia-noite, pulseira de couro azul. Foto: link da página.')
+add('','California Blue – edição limitada de 20 peças','https://www.watchpro.com/cloud/2024/04/23/blue.jpg','Baseado no Verimatic; algarismos romanos (I, II, X, XI) e arábicos (4, 5, 7, 8); "California24" no mostrador. Lançado na Wind Up Watch Fair de San Francisco (maio/2024); US$ 790.')
+MAR='Marcato: hora saltante em janela às 9 h, coroa cebola, automático suíço Sellita SW300 com módulo próprio; edição limitada de 75 peças; £1.950 (2026).'
+add('','Marcato Jump Hour Sky Blue Guilloché – edição limitada de 75 peças','https://omotgtravel.com/wp-content/uploads/2026/04/marcato-sky-blue.jpg',MAR+' Centro do mostrador guilhochado azul-celeste.')
+add('','Marcato Jump Hour Porcelain All White – edição limitada de 75 peças','https://omotgtravel.com/?p=18084',MAR+' Mostrador todo branco porcelana. Foto: só a da versão azul no artigo (link da página).')
+add('','Marcato Jump Hour Silver Guilloché – edição limitada de 75 peças','https://omotgtravel.com/?p=18084',MAR+' Centro guilhochado prateado. Foto: link da página.')
+BG='Broadgate GMT: caixa redonda de aço de 40 mm, 13 mm, automático Miyota 9075 GMT; bracelete de aço ou borracha preta, azul ou vermelha. Lançado em 06/01/2025.'
+add('','Broadgate GMT White/Red','https://usa.watchpro.com/?p=99628',BG+' Mostrador branco com detalhes vermelhos. Foto: link da página.')
+add('','Broadgate GMT Pale Blue','https://usa.watchpro.com/?p=99628',BG+' Mostrador azul-claro. Foto: link da página.')
+add('','Broadgate GMT Orange Fumé','https://usa.watchpro.com/?p=99628',BG+' Mostrador fumê laranja. Foto: link da página.')
+add('','Broadgate GMT Black/Red','https://www.watchpro.com/cloud/2025/01/06/Broadgate-black-black-steel-1-resized-1024x1024.webp',BG+' Mostrador preto com detalhes vermelhos.')
+add('','Super Prestex – relógio de bolso cronômetro (anos 1940)','https://images.antiquesatlas.com/dealer-stock-images/thevintagewristwatch/Chronometer_grade_Super_Preste_as170a9303b-4.jpg','Prestex histórica (Prestons Ltd, Bolton). Relógio de bolso hunter suíço, caixa plaqueada a ouro Dennison, 50 mm, movimento de 21 rubis grau cronômetro assinado Super Prestex; inscrição de 1949.')
+add('','Prestex Lever – relógio de bolso de prata','https://images.antiquesatlas.com/dealer-stock-images/thevintagewristwatch/Silver_Prestex_Lever_pocket_wa_as170a5059b.jpg','Prestex histórica (Prestons Ltd). Caixa de prata (marcas de Londres 1918), 51 mm, numerais romanos em esmalte azul, movimento de alavanca assinado Prestex Lever (nome registrado em 1927).')
+add('','Prestex Lever Hunter – relógio de bolso','https://d2wbzw6bnum9uw.cloudfront.net/media/35a9916c00684285b3a1564404560391_1707904970254.jpeg','Prestex histórica (Prestons Ltd, Bolton). Relógio de bolso hunter suíço com movimento assinado Prestex Lever.')
