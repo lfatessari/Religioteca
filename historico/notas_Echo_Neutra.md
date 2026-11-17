@@ -1,0 +1,4 @@
+# Echo/Neutra (linha 665) — notas
+Site oficial: home deu PROVENANCE; páginas do site que vieram de busca abrem (products, collections/cortina, one-of-a-kind, brand).
+Coleções: 1956 (3H, GMT, Chrono, Chrono GMT, Coppa d'Oro LE 100), Averau 42 original 2019 (Versante Nord/Sud/Est/Ovest aço/Ovest PVD), Averau Moon Phase, Averau 39 (3H, Big Moon), Averau Ceramic 42 (3H, Chrono; Sand), Cristallo (preto/azul/branco), Rivanera (preto/cinza/branco, Ros'Antico), Rivanera Piccolo (GB/GW/MB, Ros'Antico), colabs: W&W Rivanera LE, T+T Rosa d'Epoca, Seconde/Seconde, Ace Jewelers Noctilum LE, Rivanera Studio Edition; One of a Kind: Averau Ceramic Chrono Amaranth, Rivanera Payne's Grey.
+Falta: Averau Moon Phase 42 cores, small seconds hand-wound, Cortina 2020 cores originais (teal?), Ivory, Noctilum, Seconde, Studio Edition, W&W tiragem, ex-demo, everywatch/chrono24.
