@@ -11719,7 +11719,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T21:42:33Z",
- "ultimo_sinal": "2026-11-17T21:56:16Z",
+ "ultimo_sinal": "2026-11-17T21:58:21Z",
  "em_andamento": {
   "marcas": [
    "Evolvens"
@@ -11732,7 +11732,9 @@
   "secoes_feitas": [
    "1",
    "2",
-   "2c"
+   "2c",
+   "3",
+   "9"
   ],
   "passada": 1
  }
