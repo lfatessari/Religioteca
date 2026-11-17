@@ -11453,7 +11453,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-17T12:43:01Z",
- "ultimo_sinal": "2026-11-17T12:43:01Z",
+ "ultimo_sinal": "2026-11-17T12:51:11Z",
  "em_andamento": {
   "marcas": [
    "Delft Watch Works",
@@ -11465,7 +11465,10 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Delft:1-11",
+   "Delhi:1,2"
+  ],
   "passada": 1
  }
 }
