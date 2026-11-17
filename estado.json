@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 500,
- "ultima_versao": 669,
+ "proxima_linha_marcas": 511,
+ "ultima_versao": 670,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11209,6 +11209,18 @@
    "site_bloqueado": true,
    "fontes": 24,
    "obs": "site oficial PROVENANCE; CLE-Time adiada; Colomer & Sons dimensionada como grande"
+  },
+  {
+   "marca": "Colomer & Sons",
+   "data": "2026-11-17",
+   "versao": 670,
+   "linha_marcas": 511,
+   "linhas_relogios": "103617-103859",
+   "relogios": 243,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 87,
+   "obs": "raiz do site PROVENANCE, mas a busca 'extended' trouxe as páginas internas (lista oficial de 132 descontinuados, loja, trabalhos personalizados, manuais); I corrigido; logo; Firecrawl sem créditos; pendências dos posts não lidas (ferramenta Projects ausente)"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11306,31 +11318,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T05:42:42Z",
- "ultimo_sinal": "2026-11-17T06:03:02Z",
- "em_andamento": {
-  "marcas": [
-   "Colomer & Sons"
-  ],
-  "linha_marcas": 511,
-  "grande": true,
-  "relogios": "historico/parcial_Colomer_relogios.txt",
-  "fontes": "historico/parcial_Colomer_fontes.txt",
-  "notas": "historico/notas_Colomer.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }
