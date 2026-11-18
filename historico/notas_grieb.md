@@ -44,3 +44,10 @@ Year of the Dragon Edition (2012) — paulfraser tag
 Polaris Black & White (2011) — paulfraser tag
 Chinese Dragon / Coat of Arms of the Netherlands (Atelier, Benzinger?) — timeforum (atribuição incerta)
 Blue Symphony
+White Dragon / Grey Dragon / Black Dragon / Blue Dragon — Year of the Dragon 2012, 8 peças cada (sydneytarts imgs 1-4, atribuição inferida)
+Blue Dragon Imperial (2014, única, ouro branco-paládio, 66 diamantes, movimento azul Oudin ~1820) — watchonista
+Polaris "Fine Arabian Stallions Timed" (2012, encomenda, ouro branco-paládio) — europastar img
+Polaris (2012) watchtime.net img; Polaris Black & White (2011, ouro rosa 43mm, coleção Boutique)
+Minutenrepetition 2 (2010, Patek 1887 Tiffany, regulador) — provavelmente = Blue Symphony
+1ª passada encerrada: últimas fontes (sydneytarts, archivedauctions, ES 5517, ES 5178, watchtime manufakturbesuch, skelettierte, polaris) sem novos.
+VERMELHA: peças únicas sob encomenda não publicadas (Unikat 1-13 só 2 achados, Platinum Edition, Boutique ~100/ano).
