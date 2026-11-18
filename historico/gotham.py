@@ -119,3 +119,50 @@ for code,t,u in [
 ]: a(code,t,u)
 CAR.update({'GWC18803S':'Mecânico de 17 rubis com segundo fuso horário; caixa prateada com dupla tampa e vidros minerais na frente e no fundo; ponteiros azul-cobalto; vem com corrente.',
 'GWC14050SBG':'Mecânico de 17 rubis visível ao abrir as tampas; caixa prateada polida tipo double hunter (exibição); ponteiros azul-cobalto; vidro mineral.'})
+E='https://www.ebay.de/itm/'
+for code,t,i in [
+('GWC15044BY',"Gunmetal Military Dial Hunter Quartz Pocket Watch",'127063938208'),
+('GWC15044BBL',"Gunmetal Railroad Dial Covered Quartz Pocket Watch",'117436207660'),
+('GWC14134GA',"Women's Gold-Tone Open Face Pendant Watch with Chain",'116974174951'),
+('GWC14134GR',"Women's Gold-Tone Open Face Pendant Watch with Chain",'116983369878'),
+('GWC15044SG',"Silver-Tone Railroad Dial Covered Quartz Pocket Watch",'117436254991'),
+('GWC15042SP',"Silver-Tone Polished Covered Quartz Pocket Watch",'115495181048'),
+('GWC14135GR',"Women's Gold-Tone Open Face Pendant Watch with Chain",'127623937549'),
+('GWC15044SBL',"Silver-Tone Railroad Dial Covered Quartz Pocket Watch",'117436251725'),
+('GWC14100BBK',"",'124544497272'),
+('GWC15042BBK',"",'116600506782'),
+]: a(code,t,E+i)
+NS="Railway Classic Nostalgia Series Mechanical Pocket Watch"
+for code,slug,t in [
+('GWC14115S','gotham-mens-stainless-steel-mechanical-hand-wind-railway-classic-nostalgia-series-pocket-watch-gwc14115s',NS),
+('GWC14114S','gotham-mens-stainless-steel-mechanical-hand-wind-railway-classic-nostalgia-series-pocket-watch-gwc14114s',NS),
+('GWC14116S','gotham-mens-stainless-steel-mechanical-hand-wind-railway-classic-nostalgia-series-pocket-watch-gwc14116s',NS),
+('GWC14117S','gotham-mens-stainless-steel-mechanical-hand-wind-railway-classic-nostalgia-series-pocket-watch-gwc14117s',NS),
+('GWC14117G','gotham-mens-gold-plated-stainless-steel-mechanical-hand-wind-railway-classic-nostalgia-series-pocket-watch-gwc14117g',"Railway Classic Nostalgia Series Gold Plated Mechanical Pocket Watch"),
+('GWC14111SB','gotham-mens-stainless-steel-mechanical-hand-wind-railroad-pocket-watch-gwc14111sb',"Stainless Steel Mechanical Hand Wind Railroad Pocket Watch"),
+('GWC14102S','gotham-mens-silver-tone-mechanical-hand-wind-railroad-pocket-watch-gwc14102s',"Stainless Steel Mechanical Hand Wind Railroad Pocket Watch"),
+('GWC14108B','gotham-mens-gun-plated-stainless-steel-mechanical-hand-wind-railroad-style-pocket-watch-gwc14108b',"Gun-Plated Mechanical Hand Wind Railroad Style Pocket Watch"),
+('GWC14109BO','gotham-mens-sport-series-gunmetal-stainless-steel-analog-quartz-date-pocket-watch-gwc14109bo',""),
+]: a(code,t,R+slug)
+a('GWC18806G','', '', 'https://m.media-amazon.com/images/I/71f+E1tiF4L._AC_SL1500_.jpg')
+a('GWC14109BG',"Sport Series Gunmetal Stainless Steel Analog Quartz Date Pocket Watch",'https://www.desertcart.vn/products/262520945-gotham-mens-sport-series-gunmetal-stainless-steel-analog-quartz-date.md','https://m.media-amazon.com/images/I/71W9xdgTTGL.jpg')
+CAR['GWC14109BG']='Caixa de aço inoxidável cor grafite, 49 mm × 11 mm; quartzo japonês com data; mostrador verde estilo militar; vidro mineral; 30 m; vem com corrente.'
+a('GWC18806SB','','','https://i5.walmartimages.com/seo/Gotham-Men-s-Silver-Tone-Railroad-Dial-Double-Hunter-17-Jewel-Mechanical-Pocket-Watch-GWC18806SB_929487ce-f69f-4eda-9aa6-7bd7b6ed2ed3.5bf9c82af9534571bd8af616f09fe842.jpeg')
+CAR['GWC18806SB']='Caixa de latão prateada, 54 mm, tipo double hunter; mostrador ferroviário; mecânico de corda manual com 17 rubis; vidro mineral.'
+for code,t,ip,img in [
+('GWC18807S','', '16026621662','eff26110-38e5-441b-8dbc-9cbd731812c7.2eaedc83963d31dd0cf0c01347b907eb.jpeg'),
+('GWC14112S','', '20033254930','e13091ce-4e19-492d-b26e-cc5bd1c27070.7113d2746775be7c08d684d603ba9938.jpeg'),
+('GWC18806B','', '20001012078','4b222842-35d2-426d-af91-e577703e2143.f8bc39a4a86f61972aa1f040fe445a27.jpeg'),
+('GWC18808BBK',"Classic Gunmetal Plated Polished Case Double Hunter 17 Jewel Mechanical Pocket Watch",'15942203503','810ea146-9aa4-4b88-a2f1-ec4ac19dff8e.2ba60612cd501cd663fe7ec1d02360b3.jpeg'),
+('GWC14051S',"Silver-Tone 17 Jewel Mechanical Double Cover Pocket Watch",'170274707','7602cd17-ba7e-4b96-983d-9cddd553fff3.d527830e666ac7394ab1cb2440c3c73a.jpeg'),
+('GWC14110BO',"Railway Classic Gunmetal Analog Quartz Day/Date Hunter Pocket Watch",'679279187','9f89f9e6-9a18-4c5f-b098-0d90a259c990.46120bd55643b354d05ea4451f4c3ada.jpeg'),
+('GWC15026S','', '102796776','6e613fa4-1221-49b8-b3cb-6725ab450c54.3223f2f5d2a5ee45076ac937a358df31.jpeg'),
+('GWC18804S',"Double Hunter Silver-Tone Double Cover Exhibition Mechanical Pocket Watch",'111965388','53186354-012e-4eaf-bfb8-eadbcd6eaaf9_1.51469c670b83f39808d0dec10b7be614.jpeg'),
+]: a(code,t,WP+ip,WI+img)
+a('GWC15044BY','','','https://i5.walmartimages.com/seo/Gotham-Men-s-Gunmetal-Railroad-Polished-Finish-Covered-Quartz-Pocket-Watch-GWC15044BY_29349c19-74e1-4fc6-8c49-0660725efa63.b04ee476865a6cc717790b1b47304c6e.jpeg')
+a('GWC021STX',"TimeOptics Talking Silver-Tone Day Date Alarm Expansion Bracelet Watch",WP+'15921100118','https://i5.walmartimages.com/seo/Men-s-Talking-Silver-Tone-Day-Date-Alarm-Expansion-Bracelet-Watch-GWC021STX_7beaebb4-1e5d-49be-88bc-a582c7af00ef.fba732bacd7a6ce29e1e8b25f745da0b.jpeg')
+a('GWC128TBK',"TimeOptics Talking Two-Tone Day Date Alarm Leather Strap Watch",R+'timeoptics-mens-talking-two-tone-day-date-alarm-leather-strap-watch-gwc128tbk')
+a('GWC021ST',"TimeOptics Talking Silver-Tone Day Date Alarm Flex Band Watch",'https://ebay.com/itm/112174562209')
+CAR['GWC18806SB']='Caixa de latão cromado, 54 mm, tipo double hunter (gravável); mostrador preto estilo ferroviário; mecânico de corda manual com 17 rubis e pequenos segundos; vidro mineral; vem com corrente de 14 polegadas.'
+CAR['GWC14108S']='Caixa de aço inoxidável de 49 mm; mecânico de corda manual com 17 rubis e pequenos segundos; mostrador estilo ferroviário; vidro mineral; 30 m; vem com corrente.'
+for k in ('GWC021STX','GWC128TBK','GWC021ST'): CAR[k]='Relógio de pulso falante (anuncia hora e data em voz), com alarme; linha TimeOptics da Gotham Watch Co.'

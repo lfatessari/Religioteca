@@ -11935,7 +11935,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-18T06:44:04Z",
- "ultimo_sinal": "2026-11-18T06:53:23Z",
+ "ultimo_sinal": "2026-11-18T07:01:31Z",
  "em_andamento": {
   "marcas": [
    "Gotham Watch"
@@ -11948,7 +11948,9 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "3",
+   "5",
+   "7"
   ],
   "passada": 1
  }
