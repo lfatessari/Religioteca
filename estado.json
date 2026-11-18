@@ -11983,7 +11983,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-18T09:43:54Z",
-  "ultimo_sinal": "2026-11-18T09:43:54Z",
+  "ultimo_sinal": "2026-11-18T09:56:35Z",
   "em_andamento": {
     "marcas": [
       "Grimoldi Milano",
@@ -11994,7 +11994,9 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "Grönefeld: 1-11 (1ª passada encerrada)"
+    ],
     "passada": 1
   }
 }
