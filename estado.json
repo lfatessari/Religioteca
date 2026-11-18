@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 878,
- "ultima_versao": 704,
+ "proxima_linha_marcas": 879,
+ "ultima_versao": 705,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12001,6 +12001,24 @@
     "3": "32 fontes"
    },
    "obs": "Maison vintage (Ipsomatic, Cioccolatone, Ipso-Vox, Ipso-Day, Ipso-Globe, Lady G, cronógrafos) + Ipsomatic 170 (2024); loja gubelin.com vende só outras marcas; EveryWatch fechado; Firecrawl não usado; corrigidos I e J."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 705,
+   "marca": "Gucci Timepieces",
+   "linha_marcas": 879,
+   "linhas_relogios": "106454-107032",
+   "relogios": 579,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 103,
+   "passadas": {
+    "1": "76 fontes",
+    "2": "14 fontes",
+    "3": "13 fontes"
+   },
+   "obs": "gucci.com PROVENANCE; Firecrawl sem créditos; base The Watch Company (listas por coleção, sem foto), oembed Shopify (Jura, Raffi, Finnies, Berrys), GPHG, Europa Star, WatchMaxx, 1stDibs, The RealReal (séries vintage), Walmart; 187 com foto, 392 com link de página. Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12102,31 +12120,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T16:43:30Z",
- "ultimo_sinal": "2026-11-18T17:09:41Z",
- "em_andamento": {
-  "marcas": [
-   "Gucci Timepieces"
-  ],
-  "linha_marcas": 879,
-  "grande": true,
-  "relogios": "historico/parcial_Gucci_relogios.txt",
-  "fontes": "historico/parcial_Gucci_fontes.txt",
-  "notas": "historico/notas_Gucci.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "p1"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }
