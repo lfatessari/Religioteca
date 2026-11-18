@@ -1,0 +1,218 @@
+{
+ "marca": "Gul Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "D": "Relógios suecos de esportes aquáticos, com quartzo Miyota e 10 ATM, feitos desde os anos 1980",
+  "I": "A Gul Watches é a marca sueca de relógios ligada à GUL, grife de roupas de neoprene nascida em 1965 em Lostwithiel, na Cornualha (Reino Unido), quando o surfista Dennis Cross desenhou sua primeira roupa de surfe. Na Suécia, o campeão mundial de vela em dinghy Sten Warfvinge e Anders Delander fundaram a Delva, uma das primeiras distribuidoras dos trajes GUL; foi Warfvinge quem propôs fazer relógios com o nome GUL, ideia que surgiu no início dos anos 1980. O primeiro relógio GUL é de meados dos anos 1980, e o No.1 atual herda muitos traços dele.\n\nOs relógios são desenhados na Suécia (a empresa, Delva AB, fica em Dalby), com movimentos japoneses Miyota, caixas de aço, vidro mineral endurecido ou safira e resistência de 10 ATM, pensados para esportes aquáticos; a pulseira de velcro foi o padrão desde o início e a de couro de alce foi desenvolvida nos anos 1980. A empresa diz já ter produzido cerca de 2 milhões de relógios. Hoje a linha inclui o No.1 (também nas versões Ana-Digi, híbrida, e Powered by Light, solar), o No.2, o No.3 e modelos infantis como Micro, Kite, Surf e Skate.",
+  "J": "No.1 (42 mm, Miyota 2035)\n\nNo.1 Ana-Digi (híbrido analógico-digital)\n\nNo.1 Powered by Light (solar, Epson AS01A)\n\nNo.2 (36 mm, dourado)\n\nMicro (28 mm, infantil)\n\nKite II 35, Surf 32 e Skate 32\n\nPimlico Chrono (linha City)"
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://gulwatches.com/?p=1064",
+   "https://gulwatches.com/?p=8624"
+  ],
+  "I": [
+   "https://gulwatches.com/?p=1064",
+   "https://gulwatches.com/?p=8624",
+   "https://gulwatches.com/?p=13"
+  ],
+  "J": [
+   "https://gulwatches.com/?p=13",
+   "https://gulwatches.com/gul-power-by-light/",
+   "https://gulwatches.com/city"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 18/11/2026 (v708). Corrigido: D (era 'Microbrand de relógios de design contemporâneo'; a marca existe desde os anos 1980, ligada à GUL de neoprene), I (tirada a especulação sobre o nome 'Gul' e o aviso [⚠️]; fatos da página Our Story do site oficial, gulwatches.com/?p=1064) e J (era 'Coleções de design minimalista'; agora as linhas do site oficial). A conferir: ano exato do primeiro relógio (o site diz 'meados dos anos 1980' e, em outra página, 'since 1986').",
+ "fontes": [
+  {
+   "url": "https://gulwatches.com/?p=13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/butik-2/watches-from-gulwatches/adult/no-one/no-1-ipb-black-case/gulwatches-no-1-limited-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/no-one/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/no-2/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/gulwatches-no-1-ana-digi-eng/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/no-1-powered-by-light/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/kids/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/kids/kite-ii-35/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/kids/surf-32-32/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/kids/skate/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://gulwatches.com/produkt-kategori/watches-from-gulwatches/adult/kids/micro/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/?p=12444",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/?p=16672",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/?p=8624",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/butik-2/watches-from-gulwatches/adult/no-one/no-1-grey-pu/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://gulwatches.com/anadigi/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://gulwatches.com/gul-power-by-light/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://gulwatches.com/no-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/?p=6110",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/butik-2/watches-from-gulwatches/adult/no-one/no-1-ipb-black-case/no-1-choose-colour/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://gulwatches.com/?p=7760",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/?p=14633",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/?p=1064",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/?p=3574",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gulwatches.com/?p=14533",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://gulwatches.com/?p=13902",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://gulwatches.com/?p=17267",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://gulwatches.com/?p=17374",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/city",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.tradera.com/item/747930234",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/235972609724",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/?p=8715",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/?p=12642",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gulwatches.com/?p=10442",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gulwatches.com/?p=12639",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/?p=17387",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gulwatches.com/?p=12783",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

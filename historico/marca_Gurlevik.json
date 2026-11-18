@@ -1,0 +1,130 @@
+{
+ "marca": "Gurlevik",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "J": "Lale — automático Yinbei com volante aparente; cerca de US$ 599\n\nGirih — Miyota 8215; cerca de US$ 325\n\nFerseng — Miyota 9039; cerca de US$ 890\n\nThe Dome 02 — Miyota 9039; cerca de US$ 599\n\nGates — Miyota automático; cerca de US$ 600\n\nDiscovery — Miyota automático; cerca de US$ 299"
+ },
+ "correcoes_fontes": {
+  "J": [
+   "https://gurlevik.co/products/lale"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 18/11/2026 (v708). Corrigido: J, linha da Lale ('Miyota automático' → 'automático Yinbei com volante aparente', conforme a ficha oficial gurlevik.co/products/lale). Anotado: o site tem 6 coleções (Maritime, Gates, The Domes, Divan, Ferseng e Devran — esta em pré-venda, com Caravan, Pegasus e Simurg) e a página Our Story chama a Gates de 'segundo capítulo' (gurlevik.co/pages/our-story).",
+ "fontes": [
+  {
+   "url": "https://gurlevik.co/products/gates-01",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://gurlevik.co/products/lale",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gurlevik.co/products/ferseng",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gurlevik.co/products/the-sphere",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gurlevik.co/products/voyager",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gurlevik.co/products/gates-steel-miniature",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/gurlevik",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gurlevik.co/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/collections/maritime-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gurlevik.co/collections/the-domes",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gurlevik.co/collections/divan-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/collections/devran-collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://gurlevik.co/products/discovery",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/products/the-dome-01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/products/the-dome-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/products/girih",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/products/caravan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/products/gurlevik-pegasus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/products/simurg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/collections/ferseng-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/collections/the-gates-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gurlevik.co/pages/our-story",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
