@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 868,
-  "ultima_versao": 697,
+  "proxima_linha_marcas": 870,
+  "ultima_versao": 698,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11882,6 +11882,30 @@
       "site_bloqueado": true,
       "fontes": 76,
       "obs": "grieb-benzinger.com PROVENANCE, Firecrawl sem créditos; base Monochrome, Quill & Pad, Europa Star, WatchTime.net, Luxurious Magazine, Worldtempus, Paul Fraser, Define Watches (Vanquish TR-01), Antiquorum; 2ª passada 19 fontes (0 novos); sem logo"
+    },
+    {
+      "marca": "Grimoldi Milano",
+      "data": "2026-11-18",
+      "versao": 698,
+      "linha_marcas": 869,
+      "linhas_relogios": "105388-105405",
+      "relogios": 18,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 26,
+      "obs": "grimoldiwatches.com PROVENANCE, Firecrawl sem créditos; base Gressive (catálogo 2008 + loja), Antiquorum, EBTH, European Watch, Watch-Spare, Orologioblog, Panini; versões do G.T.O. e Zubenelgenubi (J) não achados"
+    },
+    {
+      "marca": "Grönefeld",
+      "data": "2026-11-18",
+      "versao": 698,
+      "linha_marcas": 870,
+      "linhas_relogios": "105406-105457",
+      "relogios": 52,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 44,
+      "obs": "página inicial PROVENANCE, mas /collection e páginas de coleção abriram via busca; inclui 2 relógios da linha Grøne; base site oficial, Monochrome, Phillips, Substack sfwatchlover, A Collected Man, Hairspring, Oster, Time and Watches, press release One Hertz"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11981,22 +12005,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-18T09:43:54Z",
-  "ultimo_sinal": "2026-11-18T09:56:35Z",
-  "em_andamento": {
-    "marcas": [
-      "Grimoldi Milano",
-      "Grönefeld"
-    ],
-    "linha_marcas": 869,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Grönefeld: 1-11 (1ª passada encerrada)"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
