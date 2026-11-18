@@ -15,7 +15,8 @@ APELIDOS = {
     "Victorinox Swiss Army": "Victorinox",
     "Zeno-Watch Basel": "Zeno Watch-Basel",
     "Cabot Watch Company": "CWC",  # mesma marca da linha CWC (82 relógios, v.  bateria CWC); 16/11/2026
-    "G-Shock": "Casio",  # linha da Casio: a bateria Casio já gravou 1364 relógios "G-SHOCK ..." (Relógios 36666-38768); 18/11/2026
+    "G-Shock": "Casio",
+    "H20 Watch": "H2O",  # mesma marca da linha H2O (H2O watch GmbH, Sottrum; mesmo site e logo); relógios gravados como "H2O"; 18/11/2026  # linha da Casio: a bateria Casio já gravou 1364 relógios "G-SHOCK ..." (Relógios 36666-38768); 18/11/2026
 }
 
 
@@ -28,6 +29,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "H.I.D. Watch": "hidwatch.com não abre pela WebFetch (PROVENANCE) e o domínio não aparece em busca; Firecrawl sem créditos; fora dele só o vídeo do Facebook (1º modelo 'T1D1'), o canal do YouTube (não abriu) e a lista de marcas da Oriental Watch (sem modelos) — menos de 8 fontes no mundo (18/11/2026, v712) — refazer com Firecrawl no oficial",
     "Guer": "nenhuma busca identificou a marca do @guerwatches; só achado o 'Guer Man Trace' (aBlogtoWatch, 2009, site guer-man.com), sem prova de que seja a mesma marca; aba Marcas sem país, cidade nem site; notas em historico/notas_Guer.md (18/11/2026, v706) — usuário decide se fica na lista",
     "Guild Timepieces": "guildtimepieces.com não abre pela WebFetch (PROVENANCE), nenhuma busca traz o site nem os modelos (Mark V, Mekong, Domitor, FTD), Instagram bloqueado (robots) e Firecrawl sem créditos; notas em historico/notas_Guild.md (18/11/2026, v706) — refazer com Firecrawl",
     "Geltier": "geltier.com não abre pela WebFetch (PROVENANCE) e Firecrawl sem créditos; o domínio não aparece em busca; fora dele só o catálogo metro-ruddy.vercel.app (Strider, Crescent, sem fotos nem refs) e a Our Culture Mag (Strider) (18/11/2026, v693) — refazer com Firecrawl",
