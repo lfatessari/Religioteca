@@ -12204,7 +12204,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-18T21:44:06Z",
-  "ultimo_sinal": "2026-11-18T21:44:06Z",
+  "ultimo_sinal": "2026-11-18T21:54:02Z",
   "em_andamento": {
     "marcas": [
       "Guy Laroche"
@@ -12214,7 +12214,11 @@
     "relogios": "historico/parcial_Guy Laroche_relogios.txt",
     "fontes": "historico/parcial_Guy Laroche_fontes.txt",
     "notas": "historico/notas_Guy Laroche.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3"
+    ],
     "passada": 1
   }
 }
