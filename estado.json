@@ -12069,7 +12069,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-18T14:43:33Z",
- "ultimo_sinal": "2026-11-18T14:43:33Z",
+ "ultimo_sinal": "2026-11-18T14:51:43Z",
  "em_andamento": {
   "marcas": [
    "GUB Glashütte"
@@ -12079,7 +12079,11 @@
   "relogios": "historico/parcial_GUB_relogios.txt",
   "fontes": "historico/parcial_GUB_fontes.txt",
   "notas": "historico/notas_GUB.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1
  }
 }
