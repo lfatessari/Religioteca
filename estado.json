@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 760,
- "ultima_versao": 688,
+ "proxima_linha_marcas": 770,
+ "ultima_versao": 689,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11690,6 +11690,42 @@
    "site_bloqueado": false,
    "fontes": 15,
    "obs": "fase relógios; sistema modular Mohinora (4 caixas + 11 mostradores + protótipo); site oficial abriu pela busca; Firecrawl sem créditos"
+  },
+  {
+   "marca": "FineWatchesBerlin",
+   "data": "2026-11-18",
+   "versao": 689,
+   "linha_marcas": 763,
+   "linhas_relogios": "104924-104938",
+   "relogios": 15,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 18,
+   "obs": "fase relógios; site oficial PROVENANCE e fora das buscas; lista pela WatchBandit, WatchPro, King Sentinel e eBay; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Firle Watches",
+   "data": "2026-11-18",
+   "versao": 689,
+   "linha_marcas": 766,
+   "linhas_relogios": "104939-104945",
+   "relogios": 7,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 16,
+   "obs": "fase relógios; site oficial abriu pela busca (modo extended); 5 cores do Sennen + Cognac + No. 001; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Fjordson",
+   "data": "2026-11-18",
+   "versao": 689,
+   "linha_marcas": 770,
+   "linhas_relogios": "104946-104983",
+   "relogios": 38,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 26,
+   "obs": "fase relógios; site oficial abriu pela busca (modo extended); 38 = total da coleção all-watches; sem fontes externas; Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11789,24 +11825,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T00:44:30Z",
- "ultimo_sinal": "2026-11-18T00:55:06Z",
- "em_andamento": {
-  "marcas": [
-   "FineWatchesBerlin",
-   "Firle Watches",
-   "Fjordson"
-  ],
-  "linha_marcas": 763,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_bateria_v689.md",
-  "secoes_feitas": [
-   "FineWatchesBerlin completa",
-   "Firle completa"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
