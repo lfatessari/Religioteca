@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 770,
- "ultima_versao": 689,
+ "proxima_linha_marcas": 784,
+ "ultima_versao": 690,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11726,6 +11726,30 @@
    "site_bloqueado": false,
    "fontes": 26,
    "obs": "fase relógios; site oficial abriu pela busca (modo extended); 38 = total da coleção all-watches; sem fontes externas; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Forteller",
+   "data": "2026-11-18",
+   "versao": 690,
+   "linha_marcas": 782,
+   "linhas_relogios": "104984-104992",
+   "relogios": 9,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 13,
+   "obs": "fase relógios; catálogo fechado (site oficial + SeriousWatches + WatchCrunch); oficial abriu pela busca; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Fortuna Chronometrie",
+   "data": "2026-11-18",
+   "versao": 690,
+   "linha_marcas": 784,
+   "linhas_relogios": "104993-105046",
+   "relogios": 54,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 35,
+   "obs": "fase relógios; loja atual (20) + linhas antigas Senator/Chronomaster/50's Club + fase Taurus/Urbanus; H corrigido para @fortunachrono; Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11825,24 +11849,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T01:43:31Z",
- "ultimo_sinal": "2026-11-18T01:54:01Z",
- "em_andamento": {
-  "marcas": [
-   "Forteller",
-   "Fortuna Chronometrie",
-   "Forward Watch Co."
-  ],
-  "linha_marcas": 782,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
