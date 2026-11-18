@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 784,
-  "ultima_versao": 690,
+  "proxima_linha_marcas": 801,
+  "ultima_versao": 691,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11750,6 +11750,30 @@
       "site_bloqueado": false,
       "fontes": 35,
       "obs": "fase relógios; loja atual (20) + linhas antigas Senator/Chronomaster/50's Club + fase Taurus/Urbanus; H corrigido para @fortunachrono; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Fukushima Watch Co.",
+      "data": "2026-11-18",
+      "versao": 691,
+      "linha_marcas": 797,
+      "linhas_relogios": "105047-105062",
+      "relogios": 16,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 20,
+      "obs": "fase relógios; loja oficial PROVENANCE; Odaka 8 cores, Futaba 5 + 2 beneficentes, SAVE UKRAINE; TYPE-02/03 são da Mirco (notas em historico/notas_Mirco_achados_na_Fukushima.md); Firecrawl sem créditos"
+    },
+    {
+      "marca": "FUTURE FUNK",
+      "data": "2026-11-18",
+      "versao": 691,
+      "linha_marcas": 801,
+      "linhas_relogios": "105063-105084",
+      "relogios": 22,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 29,
+      "obs": "fase relógios; site oficial futurefunk-watch.com achado em busca extended; FF101–FF106, FF201, KF103/301/302 pelos comunicados @Press da Peaks; G, H e I corrigidos; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -11849,25 +11873,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-18T02:43:47Z",
-  "ultimo_sinal": "2026-11-18T02:57:57Z",
-  "em_andamento": {
-    "marcas": [
-      "Fukushima Watch Co.",
-      "FUTURE FUNK",
-      "Galo"
-    ],
-    "linha_marcas": 797,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_bateria_v691.md",
-    "secoes_feitas": [
-      "Galo: adiada (12 fontes)",
-      "Fukushima: completa (20 fontes, 16 relógios)",
-      "FUTURE FUNK: 19 fontes, seguindo FF103-FF106"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

@@ -1,0 +1,179 @@
+{
+ "marca": "FUTURE FUNK",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Fase Relógios (18/11/2026, v691): 22 relógios (roller FF101–FF106, LED FF201, KF103, retrógrado KF301, KF302). Corrigido: G vazio → futurefunk-watch.com (site oficial, achado em busca); H vazio → @futurefunk_official (rodapé do site oficial e Microbrand Atlas); I: acrescentados a empresa Peaks Co. (Shibuya) e as datas de lançamento FF101/FF102 (nov–dez/2018), FF104 (2019) e FF106 (2021) pelos comunicados oficiais da Peaks no @Press, e tirado o aviso sobre o início em 2018 (agora confirmado). Ainda a verificar: o Microbrand Atlas diz que a marca hoje é da Kimura Shoten Co. (loja kimura-shoten.jp, que bloqueia leitura automática); séries FF103 e FF105 sem comunicado próprio; o site oficial só lista os 9 modelos atuais.",
+ "correcoes": {
+  "G": "futurefunk-watch.com",
+  "H": "@futurefunk_official",
+  "I": "FUTURE FUNK é uma marca japonesa de relógios a quartzo lançada pela Peaks Co., de Shibuya (Tóquio), conhecida pelo mostrador de rolos que giram na vertical para mostrar a hora, como o odômetro de um carro antigo. A primeira linha, com os modelos FF101 e FF102 (cinco versões), entrou em pré-venda em 8 de novembro de 2018 e chegou às lojas em dezembro daquele ano, vendida na loja Au Bijou, em Ebisu, e na loja on-line da empresa. Depois vieram o FF104, de caixa tonneau e pulseira de borracha (2019), o FF106, de caixa oval inspirada no design espacial dos anos 1970 (2021), o FF201 com tela de LED e o KF301 retrógrado. Um dos modelos, o FF105, era vendido na Amazon japonesa por 10.780 ienes. Segundo o fórum Flip Clock Fans, os relógios já ganharam cópias chinesas mais baratas. [⚠️ a confirmar: cópias chinesas (uma fonte só)]"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://futurefunk-watch.com/en-en/shop"
+  ],
+  "H": [
+   "https://futurefunk-watch.com/en-en/shop",
+   "https://microbrandatlas.com/brand/future-funk"
+  ],
+  "I": [
+   "https://www.atpress.ne.jp/news/170297",
+   "https://www.peaks-corp.com/future-funk/",
+   "https://www.atpress.ne.jp/news/184907",
+   "https://www.atpress.ne.jp/news/245408",
+   "https://tokusengai.com/_ct/17444283",
+   "https://futurefunk-watch.com/en-en/shop"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.flipclockfans.com/forum/articles/23789-the-official-flip-clock-fan-wristwatch-the-future-funk-roller-digital",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://moov.ooo/article/66ea6a1014ee9d129655c854",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.scribd.com/document/455473927/FUTURE-FUNK-WEBcatalogue-ENG",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/385416631707",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156768613378",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156768591986",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://coolbe.co.nl/ar/products/67fa68870a12f501e5d98674",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://futurefunk-watch.com/en-en/shop",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.tokyo-watchstyle.jp/en/collections/future-funk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/future-funk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://futurefunk-watch.com/en-en/products/kf301-sv-bk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://futurefunk-watch.com/en-en/products/kf103-sv-mt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://futurefunk-watch.com/en-en/products/kf301-yg-bk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://futurefunk-watch.com/en-en/products/kf302-sv-bk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/136397847525",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/385416631707",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atpress.ne.jp/news/170297",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.peaks-corp.com/future-funk/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kumsjapan.com/products/future-funk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tokusengai.com/_ct/17444283",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atpress.ne.jp/news/245408",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.goodspress.jp/news/353345/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atpress.ne.jp/news/184907",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.goodspress.jp/news/235398/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-ex.jp/?pid=144986617",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://search.kakaku.com/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://search.rakuten.co.jp/search/mall/future+funk/558929/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhren-shop.ch/fr/montres-hommes/19650-future-funk-montre-rtro-digitale-quartz-ff103-acier-noir-ff103-bk-mt.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wear.jp/item/47195876/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
