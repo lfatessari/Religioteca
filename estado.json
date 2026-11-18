@@ -12156,7 +12156,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-18T19:43:22Z",
-  "ultimo_sinal": "2026-11-18T20:10:42Z",
+  "ultimo_sinal": "2026-11-18T20:15:14Z",
   "em_andamento": {
     "marcas": [
       "Gul Watches",
@@ -12168,8 +12168,8 @@
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
-      "1",
-      "2 (Gul parcial)"
+      "Gul: completa (37 fontes)",
+      "Gurlevik: começando"
     ],
     "passada": 1
   }
