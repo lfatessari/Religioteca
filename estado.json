@@ -11921,5 +11921,21 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-18T05:48:52Z",
+ "ultimo_sinal": "2026-11-18T05:48:52Z",
+ "em_andamento": {
+  "marcas": [
+   "Geylang Watch Co",
+   "GhostTown",
+   "Ginault Watches"
+  ],
+  "linha_marcas": 838,
+  "grande": false,
+  "relogios": "historico/parcial_Ginault_relogios.txt",
+  "fontes": "historico/parcial_Ginault_fontes.txt",
+  "notas": "historico/notas_Ginault.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
