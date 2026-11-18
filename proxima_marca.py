@@ -15,6 +15,7 @@ APELIDOS = {
     "Victorinox Swiss Army": "Victorinox",
     "Zeno-Watch Basel": "Zeno Watch-Basel",
     "Cabot Watch Company": "CWC",  # mesma marca da linha CWC (82 relógios, v.  bateria CWC); 16/11/2026
+    "G-Shock": "Casio",  # linha da Casio: a bateria Casio já gravou 1364 relógios "G-SHOCK ..." (Relógios 36666-38768); 18/11/2026
 }
 
 
