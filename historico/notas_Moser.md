@@ -7,3 +7,4 @@
 - Gressive (Japão) lista nomes sem ref: Heritage Bronze "Since 1828" (2021), Venturer Tourbillon Sapphire Full-set (2019), Swiss Alp Watch Concept Black (2019), Streamliner Flyback Funky Blue 2.0 (2023), Streamliner Concept Minute Repeater Tourbillon Blue Enamel (2024), Streamliner Flyback Frozen (2025, = 6907-1205). Buscar refs.
 - Wristcheck: "Streamliner Tourbillon Double Hairspring Steel Skeleton" sem ref.
 - Heritage Bucherer Blue Edition (2018, aço, fumé) sem ref encontrada.
+- Swiss Icons Watch (2018, peça única com mostrador Funky Blue) foi retirada pela marca antes da SIHH e não foi leiloada: não entrou.

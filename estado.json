@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 887,
- "ultima_versao": 710,
+ "proxima_linha_marcas": 888,
+ "ultima_versao": 711,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12118,6 +12118,24 @@
     "2": "11 fontes"
    },
    "obs": "guylaroche.com PROVENANCE; Firecrawl sem créditos; base timepiece.com/worldofwatches (linha antiga G/L/SL), H2Hub, Ajio, Nykaa, Blue Salon, Luxury Gallery, Flipkart, Paris Gallery, Namshi (47 versões sem ref/foto); J corrigido. Pendências dos posts não lidas: ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 711,
+   "marca": "H. Moser & Cie",
+   "linha_marcas": 888,
+   "linhas_relogios": "107385-107714",
+   "relogios": 330,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 85,
+   "passadas": {
+    "1": "53 fontes, 212 relógios novos",
+    "2": "17 fontes, 15 relógios novos",
+    "3": "15 fontes, 9 relógios novos"
+   },
+   "obs": "h-moser.com/en/watches/ PROVENANCE direto; coleções oficiais (88 modelos atuais) abertas pela busca, sem foto por modelo; WatchBase client_error (refs colhidas dos títulos de busca); Firecrawl sem créditos; base Exquisite Timepieces (sold-out oembed), Watches of Switzerland, Bucherer, Majestix (listas relacionadas com fotos), European Watch, watchprosite (calendários perpétuos), Phillips, Antiquorum, CollectorSquare, SJX. 95 linhas sem foto (link da página). Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12219,30 +12237,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T22:43:24Z",
- "ultimo_sinal": "2026-11-18T23:16:26Z",
- "em_andamento": {
-  "marcas": [
-   "H. Moser & Cie"
-  ],
-  "linha_marcas": 888,
-  "grande": true,
-  "relogios": "historico/parcial_Moser_relogios.txt",
-  "fontes": "historico/parcial_Moser_fontes.txt",
-  "notas": "historico/notas_Moser.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }
