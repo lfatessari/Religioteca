@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 885,
- "ultima_versao": 708,
+ "proxima_linha_marcas": 886,
+ "ultima_versao": 709,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12085,6 +12085,22 @@
     "1": "22 fontes"
    },
    "obs": "6 coleções do site oficial (Maritime, Gates 20 variantes, Domes, Divan, Ferseng, Devran); fora só Microbrand Atlas; corrigido J (Lale)."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 709,
+   "marca": "Guy Ellia",
+   "linha_marcas": 886,
+   "linhas_relogios": "107213-107251",
+   "relogios": 39,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 64,
+   "passadas": {
+    "1": "64 fontes, 39 relógios"
+   },
+   "obs": "guyellia.com PROVENANCE e fora das buscas; Firecrawl sem créditos; base GPHG, Antiquorum (vendas 326 e 377), Phillips, Christie's, Sotheby's, 1stDibs, watchprosite; corrigidos D, I, J (Jumbo Tourbillon → Jumbo Chrono; 1999). Guy Laroche dimensionada como grande (licenças Christian Bernard 2004 com 60 versões, Índia GLW…, Emirados) e fica sozinha na próxima. Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12186,26 +12202,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T20:44:06Z",
- "ultimo_sinal": "2026-11-18T20:53:59Z",
- "em_andamento": {
-  "marcas": [
-   "Guy Ellia",
-   "Guy Laroche"
-  ],
-  "linha_marcas": 886,
-  "grande": false,
-  "relogios": "historico/parcial_GuyEllia_relogios.txt",
-  "fontes": "historico/parcial_GuyEllia_fontes.txt",
-  "notas": "historico/notas_GuyEllia.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "5",
-   "8"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
