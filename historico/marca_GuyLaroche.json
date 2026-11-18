@@ -1,0 +1,435 @@
+{
+ "marca": "Guy Laroche",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – guylaroche.com não abre pela WebFetch (PROVENANCE_REQUIRED) e não aparece em busca; Firecrawl sem créditos; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "J": "Maxime, Alex, Charlie, Sacha, Rosalie, Anthony (linha atual, refs GLW…); Far East (anos 2000–2010, EUA)"
+ },
+ "correcoes_fontes": {
+  "J": [
+   "https://www.luxurygallery.in/products/guy-laroche-maxime-3-hands-round-dial-blue-watch-for-men-glwgg0001209",
+   "https://www.namshi.com/saudi-en/men-accessories-watches/guy_laroche/",
+   "https://www.bluesalon.com/products/glwlg0000324-gl-cha-l-gp-cas-gamma-blue-swrl-dial-gp-brt",
+   "https://www.nykaafashion.com/guy-laroche-rosalie-white-swiss-made-quartz-watch-for-women-glwlh0002817-medium/p/27942053",
+   "https://www.namshi.com/uae-en/guy_laroche/?page=4",
+   "https://www.timepiece.com/guy-laroche-watch-l2004-04.html"
+  ]
+ },
+ "observacoes": "Fase Relógios 18/11/2026 (v710): J corrigido (era 'Coleções dress e femininas'). Só anotado: dona da marca desde 2004 é a YGM Trading, de Hong Kong (ygmtrading.com/en/brands/guylaroche); em 2004 os relógios eram feitos pelo grupo Christian Bernard em Franche-Comté (Europa Star) — a confirmar quem licencia hoje (lojas da Índia citam ILG India Fashion LLP). Vermelha: dezenas de versões da Namshi/Ajio sem referência nem foto.",
+ "fontes": [
+  {
+   "url": "https://www.europastar.com/news/1000585441-guy-laroche-launches-a-line-of-watches.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watches.ae/collections/guy-laroche",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2hubwatches.com/collections/guy-laroche",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://parigallery.com/products/glwgh0004703-gl-antg-ss-flute-casegrn-3435c-dialss-brt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxurygallery.in/products/guy-laroche-maxime-3-hands-round-dial-blue-watch-for-men-glwgg0001209",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nykaa.com/guy-laroche-silver-dial-mens-analog-watch-glwgg0000310-m/p/16218917",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-far-east-stainless-steel-black-dial-guy-laroche-guylrl2004-04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/pid/100031/mens-rubber-mother-of-pearl-dial-guy-laroche-guylrgl6214-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/guy-laroche-watch-g2012-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-sl1002-04.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-g2009-04.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l5010-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l1005-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-g2009-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l1008-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-gl6214-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l5005-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-gl-6214-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-sl1002-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l2004-04.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-g2009-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l1007-05.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-g1010-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-sl30201.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l2008-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l2014-04.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-g3002-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.namshi.com/uae-en/guy_laroche/?page=4",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.namshi.com/saudi-en/men-accessories-watches/guy_laroche/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.bluesalon.com/products/glwlg0000324-gl-cha-l-gp-cas-gamma-blue-swrl-dial-gp-brt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bluesalon.com/products/glwgh0004702-gl-antg-ss-flute-caseblu-94c-en-dialss-brt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bluesalon.com/products/glwlg0003902-gl-lau-l-gp-cas-wht-mop-dial-gp-brt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxurygallery.in/products/guy-laroche-sam-blue-textured-round-dial-analog-watch-for-mens-glwgg0003301",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxurygallery.in/products/guy-laroche-alex-3-handsgold-round-dial-swiss-made-watch-for-women-glwlg0000124",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nykaa.com/guy-laroche-multi-color-dial-womens-analog-watch-glwlg0000119-m/p/16218929",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nykaa.com/guy-laroche-white-dial-mens-analog-watch-glwga0001101-m/p/16218905",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nykaafashion.com/guy-laroche-anthony-blue-quartz-watch-for-men-glwgh0004702-medium/p/27942054",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nykaafashion.com/guy-laroche-rose-mother-of-pearl-warm-quartz-watch-for-women-glwlh0001909-medium/p/27942059",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nykaafashion.com/guy-laroche-rosalie-white-swiss-made-quartz-watch-for-women-glwlh0002817-medium/p/27942053",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nykaafashion.com/guy-laroche-rosalie-mother-of-pearl-white-watch-for-women-glwlh0002819-medium/p/27942064",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://parisgalleryme.com/en/product/guy-laroche-glari-ladies-watch-steel-rose-gold-brown-p-2000008240161",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.parisgalleryme.com/product/guy-laroche-glbet-women-s-gold-watch-mother-of-pearl-p-2000008240727",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flipkart.com/guy-laroche-louis-analog-watch-men/p/itme325d875f3c61",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://parigallery.com/products/guy-laroche-mens-silver-chronograph-watch-stainless-steel-bracelet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/guy-laroche-watch-l5005-03.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l2012-01.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l1010-02.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/guy-laroche-watch-l2008-05.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/womens-far-east-leather-black-dial-guy-laroche-guylrl1010-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/pid/100013/mens-leather-black-dial-guy-laroche-guylrg1010-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/womens-far-east-rubber-blue-dial-guy-laroche-guylrl1010-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/pid/100049/womens-far-east-leather-white-mother-of-pearl-dial-guy-laroche-guylrl1010-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/womens-far-east-leather-black-dial-guy-laroche-guylrl2008-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/womens-far-east-leather-white-mother-of-pearl-dial-guy-laroche-guylrl1005-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2014/08/guy-laroche-oval-806206.html?m=1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/14230653-guy-laroche-stainless-steel-chronograph-quartz-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/335778243548",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/166997260953",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/294530283208",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/13379249-guy-laroche-stainless-steel-wristwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/guy-laroche/jewelry/more-jewelry-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/153860219059",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ajio.com/b/guy-laroche",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://sa.pricena.com/en/product/guy-laroche-ariane-analog-watch-glwlg0001003-price-in-saudi-arabia-147358563",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ceneje.si/Izdelek/73312199/modni-dodatki/rocne-ure/analogne-rocne-ure/guy-laroche-glwlg0001801",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sa.pricena.com/ar/product/guy-laroche-sacha-analog-glwlg0000419-price-in-saudi-arabia-147358548",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ygmtrading.com/en/brands/guylaroche",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.malfroy.com/en/guy-laroche-license",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/es/l/9519365-guy-laroche-men-s-watch-2000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fr.vestiairecollective.com/accessoires-femme/guy-laroche/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.proantic.com/en/print/fiche_objet?id=1606941",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zalora.sg/women/guy-laroche/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashion-headline.com/article/9318",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nykaafashion.com/dp/watches?p=59",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.namshi.com/uae-en/guy_laroche/?page=3",
+   "passada": 2,
+   "novos": 18
+  },
+  {
+   "url": "https://www.namshi.com/kuwait-en/guy_laroche/?page=2",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://ae.pricena.com/en/product/angela-white-dial-stainless-steel-bracelet-analog-watch-for-women-27mm-price-in-dubai-uae-220261176",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.namshi.com/kuwait-en/undefined/guy_laroche/?page=3",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.namshi.com/kuwait-en/outlet-ae/guy_laroche/",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://www.namshi.com/uae-en/Z81BCB059A007AAABE6D3Z/p",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/womens-leather-mother-of-pearl-dial-guy-laroche-guylrl5010-01",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/womens-leather-brown-dial-guy-laroche-guylrsl1002-04",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
