@@ -12138,7 +12138,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-18T18:43:29Z",
- "ultimo_sinal": "2026-11-18T18:54:13Z",
+ "ultimo_sinal": "2026-11-18T18:56:11Z",
  "em_andamento": {
   "marcas": [
    "Guinand Watches"
@@ -12151,7 +12151,11 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "2c",
+   "3",
+   "4",
+   "5",
+   "8"
   ],
   "passada": 1
  }
