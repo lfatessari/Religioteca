@@ -1,0 +1,547 @@
+{
+ "marca": "Grovana",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – grovana.ch: a página inicial não abre pela leitura automática (PROVENANCE_REQUIRED); as páginas de coleção e de produto abrem; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Selections/Men-s-Choice/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Key-West/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Key-West/?p=2",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Belleville/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Belleville/?p=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Airborne/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Kensington/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Airborne/?p=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Kensington/?p=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Kensington/?p=3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/St.-Andrews/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Sea-Cliff/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/St.-Andrews?p=2",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.grovana.ch/en/Men-s-watches/Collections/Sea-Cliff/?p=2",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Florence/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Florence/?p=2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Mayfair/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Belleville/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Mayfair/?p=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Mayfair/?p=3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Kensington/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Sea-Cliff/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/St.-Andrews/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Kensington/?p=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.grovana.ch/en/Ladies-watches/Collections/Kensington/?p=3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchard.com/grovana-watches/grovana-mens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1190-2597.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://timedix.com/grovana",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-2100-2566.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-leather-black-dial-grovana-1547-1537-gro1547-1537",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/grovana.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono.dk/en/produkter/solgte-ure/grovana/grovana-gmt-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.used.forsale/grovana-watch",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/grovana-traditional-1209-1532",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Grovana",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/gents_1970s_memocall_wrist_watch_a14109/as170a14109",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1003722508-new-grovana-model-day-retrograde.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.grovana.ch/en/World-of-Grovana/Grovana/A-century-old-history/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jewellermagazine.com/Article/8847/Grovana",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-moonphase-croco-embossed-leather-black-dial-grovana-1025-1517-gro1025-1517",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drop.com/buy/grovana-diver-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.nl/products/16342890",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.vn/products/76314808",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.pl/products/67475402",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096477-grovana-master-commander.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-1728-9537.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-chronograph-leather-black-dial-grovana-1722-9557-gro1722-9557",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1584-1538.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-1160-2552.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095652-grovana-day-retrograde.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095830-grovana-day-retrograde.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/1003785583-day-retrograde-by-grovana.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/grovana-sea-cliff-chrono-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349827",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/grovana-sea-cliff-chrono-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349826",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004114476.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://almuftahcenter.com/products/grovana-sea-cliff-chrono-men-s-watch-2200-9134",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/grovana-sea-cliff-chrono-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349830",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/grovana-sea-cliff-chrono-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349831",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/177190687867",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/276627190678",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/286705280707",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/364234482095",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/itm/235320867573",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gebraucht-kaufen.de/grovana",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.de/p/5039123211",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/grovana-airborne-i-chrono-collection-swiss-made-chrono-watch-swiss-made-wristwatches-43349798",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/grovana-florence-elegancia-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349858",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/grovana-kensington-traditional-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349778",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/grovana-1026-moonphase-quartz-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/grovana-1190-automatic-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-1026-1563.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1026-1537.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-2100-2532.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1190-2528.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-1025-1533.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-2100-2562.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1190-2588.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-1190-2598.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1190-2582.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-1190-2587.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-3190-2537.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-3190-2598.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1190-2532.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-2100-2535.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-15712136.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/grovana-watch-1571-6135.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-gmt-calfskin-leather-silver-tone-dial-grovana-1547-1528-gro1547-1528",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-chronograph-calfskin-leather-silver-dial-grovana-1728-9532-gro1728-9532",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-croco-embossed-leather-white-dial-grovana-1160-2532-gro1160-2532",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aztekcomputers.com/grovana-men-diver-black-dial-red-bezel-brav/p",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-diver-stainless-steel-black-dial-grovana-1571-2135-gro1571-2135",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/grovana-watch-15712134.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/pid/63905/mens-moonphase-croco-embossed-leather-white-dial-grovana-1025-1513-gro1025-1513",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.ma/products/83668907",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.vn/products/70864508",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.vn/products/76314776",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/17040055182",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/11056972451",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/grovana-kensington-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349814",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/grovana-kensington-classic-collection-swiss-made-quartz-watch-swiss-made-wristwatches-43349771",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/335609569577",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/224103621947",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://mdwiki.org/wiki/Grovana_Watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-leather-with-yelllow-stitching-black-dial-grovana-1584-1538-gro1584-1538",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Grovana é uma marca suíça sediada em Tenniken, no cantão de Basileia-Campo. A empresa foi fundada em 1924 pelos irmãos Gröflin, inicialmente com o nome deles; em 1970 o empresário Werner Bitterli comprou a fábrica e deu-lhe o nome atual, lançando a primeira coleção Grovana em 1971. Desde então ela segue independente e nas mãos da família Bitterli, hoje dirigida por Christopher Bitterli.\n\nA marca oferece uma ampla gama de relógios Swiss Made — dress watches elegantes, esportivos, automáticos e modelos femininos —, sempre com forte ênfase na relação qualidade-preço, usando movimentos suíços ETA e Ronda. A Grovana também atua como fornecedora e parceira de produção para outras marcas, aproveitando sua experiência manufatureira. As coleções privilegiam design atemporal e sóbrio, com boa execução e o selo de origem suíça a preços acessíveis.\n\nHoje a Grovana ocupa o segmento de relógios suíços clássicos acessíveis, dirigindo-se a quem busca a confiabilidade e o prestígio do Swiss Made sem pagar caro. Mais que status, entrega elegância discreta e qualidade suíça honesta. [⚠️ verificar dados atuais]",
+  "J": "Kensington, Belleville, Key West (inclui Key West GMT), St. Andrews, Sea Cliff, Airborne, Florence, Mayfair"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://www.grovana.ch/en/World-of-Grovana/Grovana/A-century-old-history/",
+   "https://en.wikipedia.org/wiki/Grovana"
+  ],
+  "J": [
+   "https://www.grovana.ch/en/Men-s-watches/Selections/Men-s-Choice/",
+   "https://www.grovana.ch/en/Men-s-watches/Collections/Key-West/",
+   "https://www.grovana.ch/en/Ladies-watches/Collections/Mayfair/"
+  ]
+ },
+ "observacoes": "Corrigido em 18/11/2026 (v699): I, 1º parágrafo — fundada em 1924 pelos irmãos Gröflin; em 1970 Werner Bitterli comprou e deu o nome Grovana; 1ª coleção em 1971; hoje Christopher Bitterli (site oficial, 'A century old history', e Wikipedia). J: era 'Traditional, Diver, GMT, Automatic, Supermatic' → coleções atuais do site oficial. 'Supermatic' não foi achado em nenhuma fonte; Traditional e Diver são linhas antigas (aparecem em lojas). Ainda a verificar: 2º/3º parágrafos de I (genéricos). Swiss Alpine Military 'by Grovana' é outra marca, não está na aba Marcas (não entrou aqui). Revue Thommen: licença da Grovana desde 2000 (site oficial)."
+}
