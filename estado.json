@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 825,
- "ultima_versao": 693,
+ "proxima_linha_marcas": 842,
+ "ultima_versao": 694,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11822,6 +11822,18 @@
    "site_bloqueado": true,
    "fontes": 41,
    "obs": "grande e vermelha: geniusxgenius.com PROVENANCE, Firecrawl sem créditos; 2ª passada 10 fontes (3 novos); base La Cote des Montres (refs de 4 dígitos na E), Ocarat, Trixi, Luxe Infinity, Paris Match, Hypebeast; Geltier, Geo e Genteel Handmade adiadas"
+  },
+  {
+   "marca": "Ginault Watches",
+   "data": "2026-11-18",
+   "versao": 694,
+   "linha_marcas": 842,
+   "linhas_relogios": "105163-105184",
+   "relogios": 22,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 33,
+   "obs": "ginault.com PROVENANCE, Firecrawl sem créditos; base WatchPatrol (marca, famílias e anúncios), KeepTheTime, Wrist Watch Review (BM1 2011 e protótipos), Modest Man, Watch Report, Tech Writer EDC, Arizona Custom Knives; I corrigida (tirado o aviso de Silent Service/Expeditioner); Geylang Watch Co e GhostTown adiadas"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11921,26 +11933,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T05:48:52Z",
- "ultimo_sinal": "2026-11-18T05:51:47Z",
- "em_andamento": {
-  "marcas": [
-   "Geylang Watch Co",
-   "GhostTown",
-   "Ginault Watches"
-  ],
-  "linha_marcas": 838,
-  "grande": false,
-  "relogios": "historico/parcial_Ginault_relogios.txt",
-  "fontes": "historico/parcial_Ginault_fontes.txt",
-  "notas": "historico/notas_Ginault.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "5"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }

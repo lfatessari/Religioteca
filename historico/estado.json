@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 825,
- "ultima_versao": 693,
+ "proxima_linha_marcas": 842,
+ "ultima_versao": 694,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11822,6 +11822,18 @@
    "site_bloqueado": true,
    "fontes": 41,
    "obs": "grande e vermelha: geniusxgenius.com PROVENANCE, Firecrawl sem créditos; 2ª passada 10 fontes (3 novos); base La Cote des Montres (refs de 4 dígitos na E), Ocarat, Trixi, Luxe Infinity, Paris Match, Hypebeast; Geltier, Geo e Genteel Handmade adiadas"
+  },
+  {
+   "marca": "Ginault Watches",
+   "data": "2026-11-18",
+   "versao": 694,
+   "linha_marcas": 842,
+   "linhas_relogios": "105163-105184",
+   "relogios": 22,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 33,
+   "obs": "ginault.com PROVENANCE, Firecrawl sem créditos; base WatchPatrol (marca, famílias e anúncios), KeepTheTime, Wrist Watch Review (BM1 2011 e protótipos), Modest Man, Watch Report, Tech Writer EDC, Arizona Custom Knives; I corrigida (tirado o aviso de Silent Service/Expeditioner); Geylang Watch Co e GhostTown adiadas"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
