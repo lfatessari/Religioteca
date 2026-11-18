@@ -12031,7 +12031,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-18T12:43:46Z",
-  "ultimo_sinal": "2026-11-18T12:56:24Z",
+  "ultimo_sinal": "2026-11-18T13:01:05Z",
   "em_andamento": {
     "marcas": [
       "Gruppo Ardito Watches",
@@ -12044,8 +12044,9 @@
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
       "Gruppo Ardito Watches: completa (dados_gaw.txt/marca_gaw.json prontos)",
-      "Gruppo Gamma: ~40 fontes (Serious Watches, Watchbandit, revistas) em andamento"
+      "Gruppo Gamma: ~40 fontes (Serious Watches, Watchbandit, revistas) em andamento",
+      "Gruppo Gamma: passada 1 encerrada (61 relógios); 2ª passada em curso"
     ],
-    "passada": 1
+    "passada": 2
   }
 }
