@@ -12188,7 +12188,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-18T20:44:06Z",
- "ultimo_sinal": "2026-11-18T20:51:10Z",
+ "ultimo_sinal": "2026-11-18T20:53:59Z",
  "em_andamento": {
   "marcas": [
    "Guy Ellia",
@@ -12201,7 +12201,10 @@
   "notas": "historico/notas_GuyEllia.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "3",
+   "5",
+   "8"
   ],
   "passada": 1
  }
