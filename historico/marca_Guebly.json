@@ -1,0 +1,112 @@
+{
+ "marca": "Guebly",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://monochrome-watches.com/new-indie-watch-brand-launches-its-first-piece-the-guebly-chapitre-1-hands-on-price",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/indie-brand-guebly-updates-its-initial-concept-with-the-new-ch1-retrograde-introducing-price",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hourstriker.com/brands/guebly",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-with-the-new-guebly-ch1-retrograde/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/ch-1-retrograde",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/guebly-prologue-chapter-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/highlights/1004115405-guebly-ch1-retrograde-the-artisans-of-time.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxe-infinity.com/en/horlogerie-joaillerie/les-montres-de-guebly-la-revolution-de-la-simplicite/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurywatchworks.com/library/guebly-unveils-its-new-creation-ch1-retrograde",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=34593",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/guebly/home",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/guebly",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxuriousmagazine.com/guebly-dubai",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=105854",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/guebly/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004114869.html",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Genebra",
+  "G": "guebly.com",
+  "H": "@guebly.watches"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.dialicious.com/en/guebly",
+   "https://luxuriousmagazine.com/guebly-dubai"
+  ],
+  "G": [
+   "https://monochrome-watches.com/new-indie-watch-brand-launches-its-first-piece-the-guebly-chapitre-1-hands-on-price",
+   "https://monochrome-watches.com/indie-brand-guebly-updates-its-initial-concept-with-the-new-ch1-retrograde-introducing-price",
+   "https://usa.watchpro.com/?p=105854"
+  ],
+  "H": [
+   "https://monochrome-watches.com/new-indie-watch-brand-launches-its-first-piece-the-guebly-chapitre-1-hands-on-price",
+   "https://www.europastar.com/1004114869.html"
+  ]
+ },
+ "observacoes": "Fase Relógios 18/11/2026: corrigido C 'Suíça' → 'Genebra' (Dialicious; Luxurious Magazine: lançada e montada em Genebra); G vazio → guebly.com (Monochrome, Europa Star, WatchPro); H '@guebly' → '@guebly.watches' (Monochrome, Europa Star). Fundador Adnane Kerd; nome vem de um vento do deserto tunisiano; 1º relógio Prologue (2024, 20 peças), 2º CH1 Rétrograde (2025, 80 peças, ref. CH1RBHM na GPHG 2025). Logo não achado (site guebly.com não veio em busca e Firecrawl sem créditos)."
+}

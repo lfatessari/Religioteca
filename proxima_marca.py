@@ -28,6 +28,8 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Guer": "nenhuma busca identificou a marca do @guerwatches; só achado o 'Guer Man Trace' (aBlogtoWatch, 2009, site guer-man.com), sem prova de que seja a mesma marca; aba Marcas sem país, cidade nem site; notas em historico/notas_Guer.md (18/11/2026, v706) — usuário decide se fica na lista",
+    "Guild Timepieces": "guildtimepieces.com não abre pela WebFetch (PROVENANCE), nenhuma busca traz o site nem os modelos (Mark V, Mekong, Domitor, FTD), Instagram bloqueado (robots) e Firecrawl sem créditos; notas em historico/notas_Guild.md (18/11/2026, v706) — refazer com Firecrawl",
     "Geltier": "geltier.com não abre pela WebFetch (PROVENANCE) e Firecrawl sem créditos; o domínio não aparece em busca; fora dele só o catálogo metro-ruddy.vercel.app (Strider, Crescent, sem fotos nem refs) e a Our Culture Mag (Strider) (18/11/2026, v693) — refazer com Firecrawl",
     "Geo": "geoshop.co não abre pela WebFetch (PROVENANCE) e Firecrawl sem créditos; o domínio não aparece em busca; fora dele só a The Time Bum (Cofresí) (18/11/2026, v693) — refazer com Firecrawl",
     "Geylang Watch Co": "geylangwatchco.store não abre pela WebFetch (PROVENANCE) e não aparece em busca; fora dele só The Peak SG e Harper's Bazaar SG (sem modelos com fotos); Firecrawl sem créditos (18/11/2026, v694) — refazer com Firecrawl no oficial",

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 878,
- "ultima_versao": 704,
+ "proxima_linha_marcas": 880,
+ "ultima_versao": 706,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12001,6 +12001,40 @@
     "3": "32 fontes"
    },
    "obs": "Maison vintage (Ipsomatic, Cioccolatone, Ipso-Vox, Ipso-Day, Ipso-Globe, Lady G, cronógrafos) + Ipsomatic 170 (2024); loja gubelin.com vende só outras marcas; EveryWatch fechado; Firecrawl não usado; corrigidos I e J."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 705,
+   "marca": "Gucci Timepieces",
+   "linha_marcas": 879,
+   "linhas_relogios": "106454-107032",
+   "relogios": 579,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 103,
+   "passadas": {
+    "1": "76 fontes",
+    "2": "14 fontes",
+    "3": "13 fontes"
+   },
+   "obs": "gucci.com PROVENANCE; Firecrawl sem créditos; base The Watch Company (listas por coleção, sem foto), oembed Shopify (Jura, Raffi, Finnies, Berrys), GPHG, Europa Star, WatchMaxx, 1stDibs, The RealReal (séries vintage), Walmart; 187 com foto, 392 com link de página. Pendências dos posts não lidas: ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 706,
+   "marca": "Guebly",
+   "linha_marcas": 880,
+   "linhas_relogios": "107033-107034",
+   "relogios": 2,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 16,
+   "passadas": {
+    "1": "16 fontes, 2 novos"
+   },
+   "obs": "Só 2 relógios (Prologue 2024, CH1 Rétrograde 2025); guebly.com não veio em busca; Firecrawl sem créditos; corrigidos C, G, H. Guer e Guild Timepieces adiadas (sem fontes). Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

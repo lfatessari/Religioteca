@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 879,
- "ultima_versao": 705,
+ "proxima_linha_marcas": 880,
+ "ultima_versao": 706,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12019,6 +12019,22 @@
     "3": "13 fontes"
    },
    "obs": "gucci.com PROVENANCE; Firecrawl sem créditos; base The Watch Company (listas por coleção, sem foto), oembed Shopify (Jura, Raffi, Finnies, Berrys), GPHG, Europa Star, WatchMaxx, 1stDibs, The RealReal (séries vintage), Walmart; 187 com foto, 392 com link de página. Pendências dos posts não lidas: ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 706,
+   "marca": "Guebly",
+   "linha_marcas": 880,
+   "linhas_relogios": "107033-107034",
+   "relogios": 2,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": false,
+   "fontes": 16,
+   "passadas": {
+    "1": "16 fontes, 2 novos"
+   },
+   "obs": "Só 2 relógios (Prologue 2024, CH1 Rétrograde 2025); guebly.com não veio em busca; Firecrawl sem créditos; corrigidos C, G, H. Guer e Guild Timepieces adiadas (sem fontes). Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12120,21 +12136,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T17:43:54Z",
- "ultimo_sinal": "2026-11-18T17:43:54Z",
- "em_andamento": {
-  "marcas": [
-   "Guebly",
-   "Guer",
-   "Guild Timepieces"
-  ],
-  "linha_marcas": 880,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
