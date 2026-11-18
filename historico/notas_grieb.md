@@ -33,3 +33,14 @@ Blossom (família) — novos membros
 Blue Tulip (ouro vermelho, 2015) e coleção Polaris/Tulip azul — quillandpad category
 Blue Chip? (talvez só título)
 NOTA: "Benzinger" (Jochen Benzinger sozinho; Subskription, GAP 1, Zeitsprung, Benzinger by Zanella) é outra marca — NÃO entra.
+Blue Whirlwind: Patek RTO 27 PS, platina 43mm, única, 2012 — img monochrome grieb-benzinger-Blue-Whirlwind-Front1_zps6dbe6979.jpg
+Pharos Centurion Imperial: Unitas anos 60, paládio DLC, 66 diamantes negros, 2014, €82k — img monochrome Pharos-Centurion-Imperial-3.jpg (base Pharos Al Arab Imperial)
+Centurion; Centurion Imperial (PT950 43mm, 66 diamantes vermelhos) — 300magazine p=11398 (sem img)
+Blue Wave: Minerva ~1925 monopulsante, ouro rosa 46mm, única, 2010, €87,5k — europastar img gb1-556d0.jpg
+Blue Polaris (ouro rosa) / Blue Polaris (platina) / Blue Polaris Midnight Imperial / Blue Tulip (ouro rosa) / Blue Tulip Diamond — 2015 Blue Chips, Unitas 6498 43mm — quillandpad imgs
+Pearl Blossom (ouro vermelho, 2,55 ct, 43mm, 2012) — hautetime img Blossom_DiamPearlWhite_Back.png
+Black Tulip (= Blossom Black Tulip) ouro vermelho 43mm para pop star
+Year of the Dragon Edition (2012) — paulfraser tag
+Polaris Black & White (2011) — paulfraser tag
+Chinese Dragon / Coat of Arms of the Netherlands (Atelier, Benzinger?) — timeforum (atribuição incerta)
+Blue Symphony

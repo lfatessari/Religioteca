@@ -11971,7 +11971,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-18T08:43:41Z",
- "ultimo_sinal": "2026-11-18T08:56:06Z",
+ "ultimo_sinal": "2026-11-18T08:57:37Z",
  "em_andamento": {
   "marcas": [
    "Grieb & Benzinger"
@@ -11984,7 +11984,9 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "3",
+   "5",
+   "9"
   ],
   "passada": 1
  }
