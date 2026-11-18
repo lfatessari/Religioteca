@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 876,
- "ultima_versao": 702,
+ "proxima_linha_marcas": 877,
+ "ultima_versao": 703,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11966,6 +11966,23 @@
    "site_bloqueado": true,
    "fontes": 56,
    "obs": "3 passadas (32+13+11 fontes; 112+44+18 novos); gsx-watch.com PROVENANCE e fora do ar no Firecrawl; base Gressive (catálogo e notícias), comunicados @Press, Yahoo! Leilões e Mercari via Firecrawl (21 páginas, 105 créditos, até acabar), blog Which Watch Today, aBlogtoWatch; corrigidos I e J; G-Shock (875) pulada: apelido de Casio no proxima_marca.py"
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 703,
+   "marca": "GUB Glashütte",
+   "linha_marcas": 877,
+   "linhas_relogios": "106321-106363",
+   "relogios": 43,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 65,
+   "passadas": {
+    "1": "54 fontes, 40 novos",
+    "2": "11 fontes, 3 novos"
+   },
+   "obs": "Sem site oficial (GUB extinta, virou Glashütte Original em 1994); Firecrawl sem créditos; EveryWatch fechado por login."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12067,32 +12084,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T14:43:33Z",
- "ultimo_sinal": "2026-11-18T15:02:03Z",
- "em_andamento": {
-  "marcas": [
-   "GUB Glashütte"
-  ],
-  "linha_marcas": 877,
-  "grande": true,
-  "relogios": "historico/parcial_GUB_relogios.txt",
-  "fontes": "historico/parcial_GUB_fontes.txt",
-  "notas": "historico/notas_GUB.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }
