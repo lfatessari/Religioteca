@@ -1,0 +1,85 @@
+{
+ "marca": "Geist",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://geistwatches.com/collections/all",
+  "confirmacoes": [
+   "https://microbrandatlas.com/brand/geist",
+   "https://metro-ruddy.vercel.app/brand/geist/geist-tiki---palm-green"
+  ]
+ },
+ "correcoes": {
+  "D": "Relógio esportivo automático de tema tiki, com Seagull ST2130 (em pré-lançamento pelo Kickstarter).",
+  "J": "Tiki (5 cores, em breve) — Seagull ST2130; cerca de £ 339",
+  "I": "Geist é uma micromarca britânica criada por Kai, ex-engenheiro mecânico que começou a montar relógios com um kit durante os confinamentos da Covid e depois passou a fazer a manutenção de relógios antes de desenhar os próprios. O primeiro modelo é o Tiki, relógio esportivo automático com tema tiki, ideia que surgiu num bar tiki durante uma viagem. Uma primeira campanha no Kickstarter (5 de maio a 4 de junho) arrecadou £ 9.928 de uma meta de £ 16.000, com 37 apoiadores, e não atingiu o objetivo; a marca relançou a campanha (10 de novembro a 5 de dezembro, meta de £ 12.500). O Tiki tem cinco cores, caixa de 39 mm e movimento automático Seagull ST2130, e aparece no site oficial como \"em breve\", a £ 339. [⚠️ a confirmar: ano das campanhas e números delas, que vêm só do espelho PledgeBox do Kickstarter]"
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://geistwatches.com/",
+   "https://geistwatches.com/pages/landing-page"
+  ],
+  "J": [
+   "https://geistwatches.com/collections/all",
+   "https://geistwatches.com/pages/landing-page"
+  ],
+  "I": [
+   "https://geistwatches.com/pages/about-us",
+   "https://www.pledgebox.com/projects/geist-tiki-a-tiki-themed-automatic-sports-watch",
+   "https://www.pledgebox.com/projects/geist-tiki-a-tiki-inspired-automatic-sports-watch",
+   "https://geistwatches.com/pages/landing-page"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 18/11/2026 (v692): Tiki em 5 cores (site oficial, coleção Catalog). Corrigido D e J: 'Miyota 9015' → 'Seagull ST2130' (o site oficial traz o Seagull; Microbrand Atlas e metro-ruddy ainda dizem Miyota 9015) e preço £ 339. Corrigido I: acrescentado o criador (Kai, página About Us oficial), o relançamento da campanha no Kickstarter (10/nov–5/dez, meta £ 12.500) e o preço atual; tirado o £ 389 antigo. Ainda a verificar: cidade (C diz Birmingham, como o Atlas; o site só diz Reino Unido); ano das campanhas.",
+ "fontes": [
+  {
+   "url": "https://geistwatches.com/pages/landing-page",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://geistwatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://geistwatches.com/collections/all",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://geistwatches.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pledgebox.com/projects/geist-tiki-a-tiki-themed-automatic-sports-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pledgebox.com/projects/geist-tiki-a-tiki-inspired-automatic-sports-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/geist/geist-tiki",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/geist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/geist/geist-tiki---palm-green",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

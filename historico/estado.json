@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 801,
-  "ultima_versao": 691,
+  "proxima_linha_marcas": 821,
+  "ultima_versao": 692,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11774,6 +11774,42 @@
       "site_bloqueado": false,
       "fontes": 29,
       "obs": "fase relógios; site oficial futurefunk-watch.com achado em busca extended; FF101–FF106, FF201, KF103/301/302 pelos comunicados @Press da Peaks; G, H e I corrigidos; Firecrawl sem créditos"
+    },
+    {
+      "marca": "Gambrell Rénard",
+      "data": "2026-11-18",
+      "versao": 692,
+      "linha_marcas": 809,
+      "linhas_relogios": "105085-105103",
+      "relogios": 19,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 22,
+      "obs": "fase relógios; site oficial gambrellrenard.com achado em busca (G corrigido), 19 fichas abertas; nenhuma fonte de fora cita a marca; logo do Squarespace; Firecrawl não usado"
+    },
+    {
+      "marca": "GB Watch Co.",
+      "data": "2026-11-18",
+      "versao": 692,
+      "linha_marcas": 817,
+      "linhas_relogios": "105104-105113",
+      "relogios": 10,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 8,
+      "obs": "catálogo fechado: gbwatchco.com/collections/gb-collection + Faire + Microbrand Atlas; H corrigido @gbwatchco"
+    },
+    {
+      "marca": "Geist",
+      "data": "2026-11-18",
+      "versao": 692,
+      "linha_marcas": 821,
+      "linhas_relogios": "105114-105118",
+      "relogios": 5,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 9,
+      "obs": "catálogo fechado: geistwatches.com/collections/all + Microbrand Atlas + metro-ruddy; Tiki em 5 cores; D, J e I corrigidos (Seagull ST2130, relançamento no Kickstarter)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

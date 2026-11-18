@@ -1,0 +1,67 @@
+{
+ "marca": "GB Watch Co.",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://gbwatchco.com/collections/gb-collection",
+  "confirmacoes": [
+   "https://www.faire.com/brand/b_mg65g9jd7e",
+   "https://microbrandatlas.com/brand/gb-watch-co"
+  ]
+ },
+ "correcoes": {
+  "H": "@gbwatchco"
+ },
+ "correcoes_fontes": {
+  "H": [
+   "https://gbwatchco.com/"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 18/11/2026 (v692): 10 modelos da loja oficial (coleção GB Collection), confirmados pela página da marca no atacadista Faire (mesmos 10) e pelo Microbrand Atlas. Corrigido H: vazio → @gbwatchco (link no site oficial). Ainda a verificar: cidade (C diz Carmel-by-the-Sea, como o Atlas; a Faire diz Livermore, Califórnia). Logo: o site só tem o nome em texto, sem imagem de logo.",
+ "fontes": [
+  {
+   "url": "https://gbwatchco.com/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://gbwatchco.com/collections/gb-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gbwatchco.com/collections/gb-active-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gbwatchco.com/pages/our-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gbwatchco.com/products/white-tan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faire.com/product/p_fkds36jczf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.faire.com/brand/b_mg65g9jd7e",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/gb-watch-co",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
