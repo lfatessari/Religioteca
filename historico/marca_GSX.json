@@ -1,0 +1,311 @@
+{
+ "marca": "GSX",
+ "usa_codigos": true,
+ "logo": "https://www.gressive.jp/sites/default/files/brandLogo/71.jpg",
+ "site_bloqueado": "Site bloqueado – gsx-watch.com PROVENANCE na WebFetch e falha de conexão no Firecrawl (provável site fora do ar); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "I": "A GSX é uma marca japonesa de relógios sediada em Tóquio, com forte foco em design urbano contemporâneo e minimalismo japonês refinado. A marca faz parte da cena de relógios de design do Japão, apostando em estética limpa, moderna e bem executada.\n\nOs modelos GSX combinam design arquitetônico e detalhes cuidadosos com movimentos japoneses (quartzo e automáticos), cases bem acabados e forte identidade visual, dirigindo-se a um público urbano que valoriza design de qualidade. A marca tem apelo tanto no Japão quanto entre entusiastas internacionais de design japonês.\n\nHoje a GSX ocupa o nicho dos relógios de design urbano japonês, dirigindo-se a quem aprecia minimalismo, qualidade de acabamento e estética contemporânea nipônica.\n\nA GSX foi fundada em 1995, pela empresa GSX WATCH JAPAN. Ficou conhecida pela série Smart (numerada, com dezenas de modelos), pelas linhas de caixa assimétrica GSX900, GSX904 e GSX906, pela linha GSX400 e pelas muitas edições limitadas em colaboração com Biohazard/Resident Evil (Capcom), Star Wars, Yomiuri Giants, Kubrick (Medicom Toy) e outras.\n\n[⚠️ verificar dados e coleções atuais]",
+  "J": "Smart (série numerada), GSX900/GSX904/GSX906, GSX400, Bollard, colaborações Biohazard e Star Wars"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://www.gressive.jp/brand/gsx",
+   "https://v2-prd.atpress.ne.jp/releases/128026/att_128026_1.pdf",
+   "https://v2-prd.atpress.ne.jp/releases/123674/att_123674_1.pdf",
+   "https://ablogtowatch.com/resident-evil-watches-by-gsx",
+   "https://whichwatchtoday.blogspot.com/search/label/GSX"
+  ],
+  "J": [
+   "https://www.gressive.jp/catalog/gsx",
+   "https://www.gressive.jp/brand/gsx",
+   "https://jp.mercari.com/search?keyword=GSX%20SMART%20%E6%99%82%E8%A8%88",
+   "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=GSX+SMART+%E6%99%82%E8%A8%88&n=100"
+  ]
+ },
+ "observacoes": "Relógios em 18/11/2026 (v702): marca vermelha (série Smart numerada e dezenas de colaborações vendidas só no Japão; muitas peças só em leilões). Corrigido: I (acrescentado parágrafo: fundação em 1995 pela GSX WATCH JAPAN, linhas e colaborações — Gressive, comunicados GSX no @Press, aBlogtoWatch, Which Watch Today) e J (antes: 'GSX400, GSX900, coleções de design urbano'). K: logo do diretório Gressive (o site oficial não abriu). Ainda a verificar: Gressive diz que os 1ºs modelos 100% japoneses saíram no verão de 1997 e dá o endereço Shinjuku 5-17-9 (1 fonte só); o texto antigo de I ('minimalismo', 'design arquitetônico') não foi confirmado; H @gsx_watch segue a confirmar.",
+ "fontes": [
+  {
+   "url": "https://www.gressive.jp/catalog/gsx",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151339",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151335",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151336",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151337",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151338",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151340",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151341",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151342",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://v2-prd.atpress.ne.jp/releases/128026/att_128026_1.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atpress.ne.jp/releases/130896/att_130896_1.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://v2-prd.atpress.ne.jp/releases/123674/att_123674_1.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fril.jp/brand/5647",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151343",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151344",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/catalog/151345",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/resident-evil-watches-by-gsx",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://thetechnovore.com/2026/03/09/the-rarest-resident-evil-watch-isnt-either-of-the-resident-evil-requiem-hamilton-watches-its-the-gsx-gsx602bio/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/gsx-2015-star-wars-millenium-falcon-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.mako78.co.jp/en/products/n23112500341",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://item.rakuten.co.jp/store-timetime/c/0000000528/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://animeanime.jp/article/2026/03/24/97128.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/star-wars-george-lucas-gsx-watch-collection/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=GSX+%E8%85%95%E6%99%82%E8%A8%88+%E3%82%B8%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9&n=100",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20%E8%85%95%E6%99%82%E8%A8%88%20%E3%82%B8%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+   "passada": 1,
+   "novos": 41
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2012/05/gsx-smart-style-51-tezuka-osamu-80th.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/news/156094",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/search/label/GSX",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://komehyo.jp/product/270-004-221-6053/?wovn=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/306710240327",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kakaku.com/used/watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=GSX+SMART+%E6%99%82%E8%A8%88&n=100",
+   "passada": 2,
+   "novos": 14
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20SMART%20%E6%99%82%E8%A8%88",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=GSX+%E9%99%90%E5%AE%9A+%E8%85%95%E6%99%82%E8%A8%88&n=100",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/search/search?p=GSX+%E3%82%B8%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9+%E6%99%82%E8%A8%88&n=100",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20%E9%99%90%E5%AE%9A%20%E8%85%95%E6%99%82%E8%A8%88",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2013/05/kubrick-collection-black-by-gsx.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/search/label/Smart%20Style",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20%E3%83%9C%E3%83%A9%E3%83%BC%E3%83%89%20%E6%99%82%E8%A8%88",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=GSX+%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89+%E6%99%82%E8%A8%88&n=100",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=GSX+%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84+%E6%99%82%E8%A8%88&n=100",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89%20%E8%85%95%E6%99%82%E8%A8%88",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=GSX+%E8%87%AA%E5%8B%95%E5%B7%BB%E3%81%8D+%E8%85%95%E6%99%82%E8%A8%88&n=100",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%20%E8%85%95%E6%99%82%E8%A8%88",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20SMART%20STYLE",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20904%20%E8%85%95%E6%99%82%E8%A8%88",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20901%20%E8%85%95%E6%99%82%E8%A8%88",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20900%20%E8%85%95%E6%99%82%E8%A8%88",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://jp.mercari.com/search?keyword=GSX%20600%20%E8%85%95%E6%99%82%E8%A8%88",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://auctions.yahoo.co.jp/closedsearch/closedsearch?p=%E3%82%B8%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9+%E8%85%95%E6%99%82%E8%A8%88&n=100",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/gsx/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.syohbido.co.jp/en/collections/military-watch?page=11",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/gsx/news/155869",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/306035799545",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/326553668296",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 874,
- "ultima_versao": 701,
+ "proxima_linha_marcas": 876,
+ "ultima_versao": 702,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11954,6 +11954,18 @@
    "site_bloqueado": true,
    "fontes": 87,
    "obs": "2 passadas (73+14); home PROVENANCE mas coleções e a página Legacy Models do site oficial abriram via busca (todas as refs antigas Genesis/Ascent/Vanguard/Divemaster/Chrononaut/Peacemaker/Venturo); base Serious Watches, Watchbandit, SG Wrist Love, Watch Report, Wristwatch Review; logo do site oficial; Venturo gravada como linha da Gruppo Gamma; G-Shock (grande) fica para a próxima"
+  },
+  {
+   "marca": "GSX",
+   "data": "2026-11-18",
+   "versao": 702,
+   "linha_marcas": 876,
+   "linhas_relogios": "106140-106320",
+   "relogios": 181,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 56,
+   "obs": "3 passadas (32+13+11 fontes; 112+44+18 novos); gsx-watch.com PROVENANCE e fora do ar no Firecrawl; base Gressive (catálogo e notícias), comunicados @Press, Yahoo! Leilões e Mercari via Firecrawl (21 páginas, 105 créditos, até acabar), blog Which Watch Today, aBlogtoWatch; corrigidos I e J; G-Shock (875) pulada: apelido de Casio no proxima_marca.py"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12041,7 +12053,9 @@
   "Buyalov (linha 415)": "Grande (dezenas de variantes na Meranom); buyalov.com PROVENANCE, mas meranom.com/en/buyalov/... abre pela busca. Fazer sozinha na próxima execução.",
   "Colomer & Sons (linha 511)": "Dimensionada em 17/11/2026 (v669) como GRANDE (coleções de 16 modelos em 2013 e 20 em 2017, edições de clubes e da Armada, muitos tópicos no Relojes Especiales); colomerandsons.com PROVENANCE na WebFetch. Fazer sozinha.",
   "Earhart Watches (linha 659)": "Adiada em 17/11/2026 (v681): earhartwatches.com não abre pela WebFetch (PROVENANCE), Firecrawl sem créditos e 8 buscas não trouxeram nenhuma página sobre a marca. Notas em historico/notas_Earhart.md. Refazer com Firecrawl.",
-  "eClock (linha 666)": "Adiada em 17/11/2026 (v682): grande pelo catálogo (89 relógios individuais em eclockmx.com, que abre direto), mas sem nenhuma fonte externa legível para chegar às 25. Lista pronta em historico/eclock_raw.txt (nome|mm|tipo|slug|foto). Usuário decide se grava só com o site oficial."
+  "eClock (linha 666)": "Adiada em 17/11/2026 (v682): grande pelo catálogo (89 relógios individuais em eclockmx.com, que abre direto), mas sem nenhuma fonte externa legível para chegar às 25. Lista pronta em historico/eclock_raw.txt (nome|mm|tipo|slug|foto). Usuário decide se grava só com o site oficial.",
+  "G-Shock (linha 875)": "Linha da Casio: a bateria Casio (v. historico) já gravou 1364 relógios 'G-SHOCK ...' em Relógios 36666-38768. Entrou como apelido G-Shock→Casio no proxima_marca.py em 18/11/2026; não pesquisar de novo.",
+  "GSX (linha 876)": "Gravada em 18/11/2026 (v702), 181 relógios (106140-106320), vermelha. Complemento futuro com Firecrawl: Mercari (GSX EVE, GSX SMART XX, ジーエスエックス 時計, GSX LOV, GSX 200), Yahoo! Leilões (outros termos e páginas 2+), Fril; fotos das ~25 linhas só com link de anúncio; site gsx-watch.com (fora do ar em 18/11)."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -12053,30 +12067,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T13:43:56Z",
- "ultimo_sinal": "2026-11-18T14:08:10Z",
- "em_andamento": {
-  "marcas": [
-   "GSX"
-  ],
-  "linha_marcas": 876,
-  "grande": true,
-  "relogios": "historico/parcial_GSX_relogios.txt",
-  "fontes": "historico/parcial_GSX_fontes.txt",
-  "notas": "historico/notas_GSX.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }
