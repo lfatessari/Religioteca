@@ -5,3 +5,6 @@ Seções feitas: 1
 - Peças "signed Gübelin" de Patek/AP/Rolex/Heuer = de outras marcas, não entram (só relatar).
 - Relógios de mesa Ipso-Vox (A Collected Man, Bulang) = não de pulso, fora.
 - Seções feitas: 1,2,3(parcial),5,8(leilões)
+- Passada 1 encerrada: últimas 4 fontes sem novidade (W&W tag, Europa Star, OmegaForums, WatchProSite).
+- VERMELHA: centenas de peças vintage sem nome/ref; EveryWatch fechado por login; Chrono24 inacessível; "Gübelin Ellipse" (W&W 05/01/2026) não achado.
+- Passada 2: asset.everywatch.com, watchpatrol listings, Christie's/Sotheby's/Bonhams, Ellipse, Ipso-Vox variações, Gübelin x Movado/JLC.
