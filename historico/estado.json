@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 880,
- "ultima_versao": 706,
+ "proxima_linha_marcas": 883,
+ "ultima_versao": 707,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12035,6 +12035,24 @@
     "1": "16 fontes, 2 novos"
    },
    "obs": "Só 2 relógios (Prologue 2024, CH1 Rétrograde 2025); guebly.com não veio em busca; Firecrawl sem créditos; corrigidos C, G, H. Guer e Guild Timepieces adiadas (sem fontes). Pendências dos posts não lidas: ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 707,
+   "marca": "Guinand Watches",
+   "linha_marcas": 883,
+   "linhas_relogios": "107035-107092",
+   "relogios": 58,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 87,
+   "passadas": {
+    "1": "59 fontes, 48 novos",
+    "2": "17 fontes, 8 novos",
+    "3": "11 fontes, 1 novo"
+   },
+   "obs": "guinand-uhren.de PROVENANCE; Firecrawl sem créditos; EveryWatch fechado; base WatchTime, Worn & Wound, Klocksnack, Antiquorum, CollectorSquare, fóruns. Gul Watches e Gurlevik ficam para a próxima (Guinand grande foi sozinha). Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
