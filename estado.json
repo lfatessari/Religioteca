@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 821,
- "ultima_versao": 692,
+ "proxima_linha_marcas": 825,
+ "ultima_versao": 693,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11810,6 +11810,18 @@
    "site_bloqueado": false,
    "fontes": 9,
    "obs": "catálogo fechado: geistwatches.com/collections/all + Microbrand Atlas + metro-ruddy; Tiki em 5 cores; D, J e I corrigidos (Seagull ST2130, relançamento no Kickstarter)"
+  },
+  {
+   "marca": "Genius Watches",
+   "data": "2026-11-18",
+   "versao": 693,
+   "linha_marcas": 825,
+   "linhas_relogios": "105119-105162",
+   "relogios": 44,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 41,
+   "obs": "grande e vermelha: geniusxgenius.com PROVENANCE, Firecrawl sem créditos; 2ª passada 10 fontes (3 novos); base La Cote des Montres (refs de 4 dígitos na E), Ocarat, Trixi, Luxe Infinity, Paris Match, Hypebeast; Geltier, Geo e Genteel Handmade adiadas"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11909,21 +11921,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T04:43:41Z",
- "ultimo_sinal": "2026-11-18T04:43:41Z",
- "em_andamento": {
-  "marcas": [
-   "Geltier",
-   "Genius Watches",
-   "Geo"
-  ],
-  "linha_marcas": 823,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
