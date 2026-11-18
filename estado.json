@@ -12102,5 +12102,19 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-18T16:43:30Z",
+ "ultimo_sinal": "2026-11-18T16:43:30Z",
+ "em_andamento": {
+  "marcas": [
+   "Gucci Timepieces"
+  ],
+  "linha_marcas": 879,
+  "grande": true,
+  "relogios": "historico/parcial_Gucci_relogios.txt",
+  "fontes": "historico/parcial_Gucci_fontes.txt",
+  "notas": "historico/notas_Gucci.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
