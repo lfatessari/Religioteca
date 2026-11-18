@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 744,
- "ultima_versao": 687,
+ "proxima_linha_marcas": 760,
+ "ultima_versao": 688,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11654,6 +11654,42 @@
    "site_bloqueado": true,
    "fontes": 24,
    "obs": "fase relógios; farasute.com não abriu; guia e fichas da Jewelry Addicts, China Watch Shop, hotukdeals; muitas linhas com link de página em C; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Felix Toucan",
+   "data": "2026-11-18",
+   "versao": 688,
+   "linha_marcas": 753,
+   "linhas_relogios": "104865-104875",
+   "relogios": 11,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 16,
+   "obs": "fase relógios; loja oficial abriu pela busca (8 esgotados) + W&W, YouTube, WatchCrunch; fotos quase só como link da página; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Feynman Timekeepers",
+   "data": "2026-11-18",
+   "versao": 688,
+   "linha_marcas": 759,
+   "linhas_relogios": "104876-104907",
+   "relogios": 32,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 34,
+   "obs": "fase relógios; feynman.watch não abriu; Red Army, Serious Watches, GPHG, The Peak, Luxuo, Time Bum, Carousell; Firecrawl sem créditos"
+  },
+  {
+   "marca": "Fieldstand",
+   "data": "2026-11-18",
+   "versao": 688,
+   "linha_marcas": 760,
+   "linhas_relogios": "104908-104923",
+   "relogios": 16,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 15,
+   "obs": "fase relógios; sistema modular Mohinora (4 caixas + 11 mostradores + protótipo); site oficial abriu pela busca; Firecrawl sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11753,25 +11789,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-17T23:43:02Z",
- "ultimo_sinal": "2026-11-17T23:52:44Z",
- "em_andamento": {
-  "marcas": [
-   "Felix Toucan",
-   "Feynman Timekeepers",
-   "Fieldstand"
-  ],
-  "linha_marcas": 753,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
