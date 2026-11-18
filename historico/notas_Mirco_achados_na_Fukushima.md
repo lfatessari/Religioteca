@@ -1,0 +1,6 @@
+# Mirco (linha 1310) — achados de passagem na pesquisa da Fukushima Watch Co. (18/11/2026, v691)
+Os modelos abaixo são da mirco (linha própria na aba Marcas), vendidos também pela Fukushima Watch Company. NÃO foram gravados na Fukushima.
+- TYPE-03 (42 mm, Miyota 9039, 200 m, ¥220.000, 100 peças por cor): Kayairo (茅色) img https://japanese-microbrands.com/cdn/shop/files/original-_2.png?v=1736600274 ; Kuriume (栗梅, ref T301.01.02) img https://japanese-microbrands.com/cdn/shop/files/kCpzJki9yr.png?v=1756648109 ; Masuhanairo (舛花色) img https://japanese-microbrands.com/cdn/shop/files/jhb4pPkMRc.png?v=1730315761 ; Kurumizome (胡桃染) ; Shikocha (市紅茶, verde matcha). Lineup: gressive fwc01_l.jpg.
+- TYPE-02 cronógrafo (2018/Baselworld 2019; relançado 04/09/2026 com NE86, 42 mm, ¥275.000, 5 cores sem nome) img https://prcdn.freetls.fastly.net/release_image/112180/9/112180-9-98cab0ff125bbb5d56e7f014af7b5256-2048x1365.jpg ; 5 cores: 112180-9-ab337de727c770db85508cfba5501a1c-2172x724.png
+- TYPE-02 × H°M'S WatchStore × Matsushita-an (correia), 10 peças (5 cores × 2), 04/04/2026 (voix.jp/life/news/77940/)
+Fontes: japanese-microbrands (3 fichas), hodinkee.jp, gressive 01, prtimes 000000009.000112180, voix 77940, watchprozine, metro-ruddy shikocha.
