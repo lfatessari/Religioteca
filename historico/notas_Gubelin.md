@@ -8,3 +8,6 @@ Seções feitas: 1
 - Passada 1 encerrada: últimas 4 fontes sem novidade (W&W tag, Europa Star, OmegaForums, WatchProSite).
 - VERMELHA: centenas de peças vintage sem nome/ref; EveryWatch fechado por login; Chrono24 inacessível; "Gübelin Ellipse" (W&W 05/01/2026) não achado.
 - Passada 2: asset.everywatch.com, watchpatrol listings, Christie's/Sotheby's/Bonhams, Ellipse, Ipso-Vox variações, Gübelin x Movado/JLC.
+- Passada 3 encerrada: Jensen (social genérico 18k), Jewellery Discovery (bracelete rubis/safiras = variação do já listado), Watchnet (cronógrafo Valjoux 22 aço = mesmo do Analog Shift) sem relógio novo distinto.
+- Critério de dedupe: social/bracelete genérico sem nome = não vira linha nova.
+- 10b: blog/imprensa oficial = não há (gubelin.com só revende); 2c: loja oficial vende só outras marcas; I/J: Ipsomatic achado; "relógios-joia" ok.

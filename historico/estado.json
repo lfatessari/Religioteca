@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 877,
- "ultima_versao": 703,
+ "proxima_linha_marcas": 878,
+ "ultima_versao": 704,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11983,6 +11983,24 @@
     "2": "11 fontes, 3 novos"
    },
    "obs": "Sem site oficial (GUB extinta, virou Glashütte Original em 1994); Firecrawl sem créditos; EveryWatch fechado por login."
+  },
+  {
+   "data": "2026-11-18",
+   "versao": 704,
+   "marca": "Gübelin",
+   "linha_marcas": 878,
+   "linhas_relogios": "106364-106453",
+   "relogios": 90,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 128,
+   "passadas": {
+    "1": "73 fontes",
+    "2": "23 fontes",
+    "3": "32 fontes"
+   },
+   "obs": "Maison vintage (Ipsomatic, Cioccolatone, Ipso-Vox, Ipso-Day, Ipso-Globe, Lady G, cronógrafos) + Ipsomatic 170 (2024); loja gubelin.com vende só outras marcas; EveryWatch fechado; Firecrawl não usado; corrigidos I e J."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
