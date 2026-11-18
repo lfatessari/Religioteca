@@ -11969,5 +11969,19 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-18T08:43:41Z",
+ "ultimo_sinal": "2026-11-18T08:43:41Z",
+ "em_andamento": {
+  "marcas": [
+   "Grieb & Benzinger"
+  ],
+  "linha_marcas": 868,
+  "grande": true,
+  "relogios": "historico/parcial_grieb_relogios.txt",
+  "fontes": "historico/parcial_grieb_fontes.txt",
+  "notas": "historico/notas_grieb.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
