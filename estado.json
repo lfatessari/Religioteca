@@ -12104,7 +12104,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-18T16:43:30Z",
- "ultimo_sinal": "2026-11-18T17:04:50Z",
+ "ultimo_sinal": "2026-11-18T17:06:33Z",
  "em_andamento": {
   "marcas": [
    "Gucci Timepieces"
@@ -12123,8 +12123,10 @@
    "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10",
+   "p1"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
