@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 856,
- "ultima_versao": 695,
+ "proxima_linha_marcas": 865,
+ "ultima_versao": 696,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11846,6 +11846,30 @@
    "site_bloqueado": true,
    "fontes": 43,
    "obs": "grande e vermelha: gothamwatch.com PROVENANCE, Firecrawl sem créditos; base Walmart (itens semelhantes), loja oficial Gotham Watch Company no eBay, reach.dog (loja gotham-watch, só títulos), Desertcart; 2ª passada 13 fontes (1 novo); 49 linhas sem foto (link da página); TimeOptics (falantes) incluídos; Gloriousdays e Good + Evil adiadas"
+  },
+  {
+   "marca": "Grandeur Watches",
+   "data": "2026-11-18",
+   "versao": 696,
+   "linha_marcas": 859,
+   "linhas_relogios": "105296-105336",
+   "relogios": 41,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 47,
+   "obs": "grandeur-usa.com PROVENANCE, Firecrawl sem créditos; base Oracle Time (Tilt, Monocle, Strange, Lumillion, ReVolv), GPHG, The Watch Gallery (Magnitude, TorQ, Strange V2, Mashrabiya), Serious Watches, The Hour Markers, Backerclub; 2ª passada 11 fontes (0 novos); logo do kit GPHG (watchesseven)"
+  },
+  {
+   "marca": "Greg Stevens Design",
+   "data": "2026-11-18",
+   "versao": 696,
+   "linha_marcas": 865,
+   "linhas_relogios": "105337-105344",
+   "relogios": 8,
+   "vermelho": false,
+   "site_bloqueado": true,
+   "fontes": 23,
+   "obs": "gregstevensdesign.com PROVENANCE; base aBlogtoWatch, Watch Report, Cool Material, The Time Bum, Arizona Custom Knives, Serious Watches, WatchPatrol, BladeForums; GSD-3A Explorer (J) não achado"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

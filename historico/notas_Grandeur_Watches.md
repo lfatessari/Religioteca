@@ -17,3 +17,7 @@ Cuidado: Maruzeki "Grandeur" (Japão) é outra marca — não confundir.
 - ReVolv foto oracleoftime 2025/04/Grandeur-ReVolv.jpg
 - TorQ Mechanical: Forged Carbon Luminous / Non-Lume (€820/1200) fotos Lume_Blue_01.png, Carbon_02.png; Titanium Brushed / Polished (fotos Titanium_Brush_00_png.webp, Polished_Titanium_00_png.webp); White ceramic (glow), Tantalum, Sapphire (6 cores + color-changing KS) — só hourmarkers/backerclub
 - TorQ Quartz Polished Titanium (Ronda 1014, 6.4mm, €430; pulseiras Ember, Camouflage, Pulse, Blaze, Volt, Shadow, Glacier, Astral) foto polishedblaze.webp
+- Strange V3 Malachite (Ti 39mm, malaquita, salto de hora) foto oracleoftime 2025/11/Grandeur-Strange-V3-Malachite-1.jpg
+- Strange Tiger's Eye (Ti 39x10, olho de tigre, auto, £991, mai/2025) foto 2025/05/Grandeur-Strange-Tigers-Eye.jpg
+- Tilt Amethyst foto 2026/08/Grandeur-Tilt-24-Amethyst.jpg ; Lumillion foto 2025/10/Grandeur-Lumillon.jpg
+DECISÃO: vermelha (Strange V1/V2/V3 com muitos mostradores não listados; TorQ safira em 6 cores; site oficial bloqueado).
