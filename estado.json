@@ -12007,7 +12007,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-18T10:48:57Z",
-  "ultimo_sinal": "2026-11-18T10:52:19Z",
+  "ultimo_sinal": "2026-11-18T10:55:41Z",
   "em_andamento": {
     "marcas": [
       "Grovana"
@@ -12019,7 +12019,9 @@
     "notas": "historico/notas_Grovana.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "3",
+      "8"
     ],
     "passada": 1
   }
