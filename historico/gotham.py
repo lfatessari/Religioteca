@@ -166,3 +166,25 @@ a('GWC021ST',"TimeOptics Talking Silver-Tone Day Date Alarm Flex Band Watch",'ht
 CAR['GWC18806SB']='Caixa de latão cromado, 54 mm, tipo double hunter (gravável); mostrador preto estilo ferroviário; mecânico de corda manual com 17 rubis e pequenos segundos; vidro mineral; vem com corrente de 14 polegadas.'
 CAR['GWC14108S']='Caixa de aço inoxidável de 49 mm; mecânico de corda manual com 17 rubis e pequenos segundos; mostrador estilo ferroviário; vidro mineral; 30 m; vem com corrente.'
 for k in ('GWC021STX','GWC128TBK','GWC021ST'): CAR[k]='Relógio de pulso falante (anuncia hora e data em voz), com alarme; linha TimeOptics da Gotham Watch Co.'
+a('GWC020GT',"TimeOptics Talking Gold-Tone Day Date Alarm Flex Band Watch",'https://www.ebay.de/itm/122192092347')
+CAR['GWC020GT']=CAR['GWC021ST']
+CAR['GWC18806BBK']='Caixa tipo double hunter de aço com acabamento grafite, cerca de 54 mm (medida de comprador); mostrador ferroviário; mecânico com 17 rubis; fundo com visor.'
+a('GWC14100BBK','','','https://i.ebayimg.com/images/g/6sUAAOSw5wlgDxVP/s-l1600.jpg')
+a('GWC15042BBK','','','https://i.ebayimg.com/images/g/XBkAAeSwe-pqiSS0/s-l1600.jpg')
+a('GWC15027SG','','','https://i.ebayimg.com/images/g/938AAOSwo~5n9unU/s-l1600.jpg')
+CAR['GWC14100BBK']='Caixa de aço inoxidável com acabamento grafite, aberta; mecânico de corda manual com 17 rubis; mostrador preto com algarismos arábicos; vidro mineral; 30 m.'
+CAR['GWC15042BBK']='Caixa com tampa (full hunter) cor grafite; quartzo; mostrador preto com algarismos arábicos; vidro acrílico; vem com corrente.'
+CAR['GWC15027SG']='Caixa de latão prateada de 42 mm, fina e aberta; quartzo; mostrador verde estilo ferroviário; vidro acrílico; vem com corrente.'
+CAR['GWC15026S']='Caixa de latão prateada, fina e aberta; quartzo; mostrador branco estilo ferroviário; vidro acrílico; vem com corrente.'
+a('GWC18806BBK','','','https://i.ebayimg.com/images/g/QBoAAeSwn1BqKYGq/s-l1600.jpg')
+a('GWC14100S','','','https://i.ebayimg.com/images/g/poIAAeSw0xtoBAeG/s-l1600.jpg')
+a('GWC14109B',"Sport Series Stainless Steel Analog Quartz Date Pocket Watch",'https://www.ebay.ph/itm/114098944584')
+CAR['GWC14109B']='Caixa de aço inoxidável polida, preta; quartzo com data; mostrador branco com marcação de 12 e 24 horas e ponteiros luminosos; vidro mineral; 30 m.'
+CAR['GWC14102S']='Caixa de aço inoxidável polida, aberta; mecânico de corda manual com 17 rubis; mostrador branco esmaltado com algarismos arábicos; vidro mineral; 30 m.'
+CAR['GWC14100S']='Caixa de aço inoxidável polida, aberta; mecânico de corda manual com 17 rubis; mostrador branco com algarismos arábicos; vidro mineral; 30 m.'
+a('GWC18806SB','','','https://i.ebayimg.com/images/g/VuAAAeSwjSxqKYI0/s-l1600.jpg')
+a('GWC15029B','','','https://i.ebayimg.com/images/g/~xMAAeSwQlhoBAfM/s-l1600.jpg')
+a('GWC14140GA','','','https://i.ebayimg.com/images/g/hXoAAeSw01Fpg~Ea/s-l1600.jpg')
+CAR['GWC15029B']='Caixa de latão cor grafite, 44 mm, aberta e fina; quartzo; mostrador branco estilo ferroviário com marcação de 24 horas; vidro acrílico; vem com corrente.'
+CAR['GWC020GT']='Relógio de pulso falante (voz masculina ou feminina) com dia, data e alarme; caixa dourada de 39 mm; pulseira extensível; quartzo. Linha TimeOptics, vendida pela Gotham Watch Co.'
+CAR['GWC14140GA']='Pingente feminino de latão dourado, aberto, com corrente; vidro acrílico.'

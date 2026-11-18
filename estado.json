@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 842,
- "ultima_versao": 694,
+ "proxima_linha_marcas": 856,
+ "ultima_versao": 695,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11834,6 +11834,18 @@
    "site_bloqueado": true,
    "fontes": 33,
    "obs": "ginault.com PROVENANCE, Firecrawl sem créditos; base WatchPatrol (marca, famílias e anúncios), KeepTheTime, Wrist Watch Review (BM1 2011 e protótipos), Modest Man, Watch Report, Tech Writer EDC, Arizona Custom Knives; I corrigida (tirado o aviso de Silent Service/Expeditioner); Geylang Watch Co e GhostTown adiadas"
+  },
+  {
+   "marca": "Gotham Watch",
+   "data": "2026-11-18",
+   "versao": 695,
+   "linha_marcas": 856,
+   "linhas_relogios": "105185-105295",
+   "relogios": 111,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 43,
+   "obs": "grande e vermelha: gothamwatch.com PROVENANCE, Firecrawl sem créditos; base Walmart (itens semelhantes), loja oficial Gotham Watch Company no eBay, reach.dog (loja gotham-watch, só títulos), Desertcart; 2ª passada 13 fontes (1 novo); 49 linhas sem foto (link da página); TimeOptics (falantes) incluídos; Gloriousdays e Good + Evil adiadas"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11933,25 +11945,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T06:44:04Z",
- "ultimo_sinal": "2026-11-18T07:01:31Z",
- "em_andamento": {
-  "marcas": [
-   "Gotham Watch"
-  ],
-  "linha_marcas": 856,
-  "grande": true,
-  "relogios": "historico/parcial_Gotham_Watch_relogios.txt",
-  "fontes": "historico/parcial_Gotham_Watch_fontes.txt",
-  "notas": "historico/notas_Gotham_Watch.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "5",
-   "7"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
