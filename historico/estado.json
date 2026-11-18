@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 865,
- "ultima_versao": 696,
+ "proxima_linha_marcas": 868,
+ "ultima_versao": 697,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11870,6 +11870,18 @@
    "site_bloqueado": true,
    "fontes": 23,
    "obs": "gregstevensdesign.com PROVENANCE; base aBlogtoWatch, Watch Report, Cool Material, The Time Bum, Arizona Custom Knives, Serious Watches, WatchPatrol, BladeForums; GSD-3A Explorer (J) não achado"
+  },
+  {
+   "marca": "Grieb & Benzinger",
+   "data": "2026-11-18",
+   "versao": 697,
+   "linha_marcas": 868,
+   "linhas_relogios": "105345-105387",
+   "relogios": 43,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 76,
+   "obs": "grieb-benzinger.com PROVENANCE, Firecrawl sem créditos; base Monochrome, Quill & Pad, Europa Star, WatchTime.net, Luxurious Magazine, Worldtempus, Paul Fraser, Define Watches (Vanquish TR-01), Antiquorum; 2ª passada 19 fontes (0 novos); sem logo"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

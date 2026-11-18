@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 865,
- "ultima_versao": 696,
+ "proxima_linha_marcas": 868,
+ "ultima_versao": 697,
  "historico": [
   {
    "data": "2026-10-16",
@@ -11870,6 +11870,18 @@
    "site_bloqueado": true,
    "fontes": 23,
    "obs": "gregstevensdesign.com PROVENANCE; base aBlogtoWatch, Watch Report, Cool Material, The Time Bum, Arizona Custom Knives, Serious Watches, WatchPatrol, BladeForums; GSD-3A Explorer (J) não achado"
+  },
+  {
+   "marca": "Grieb & Benzinger",
+   "data": "2026-11-18",
+   "versao": 697,
+   "linha_marcas": 868,
+   "linhas_relogios": "105345-105387",
+   "relogios": 43,
+   "vermelho": true,
+   "site_bloqueado": true,
+   "fontes": 76,
+   "obs": "grieb-benzinger.com PROVENANCE, Firecrawl sem créditos; base Monochrome, Quill & Pad, Europa Star, WatchTime.net, Luxurious Magazine, Worldtempus, Paul Fraser, Define Watches (Vanquish TR-01), Antiquorum; 2ª passada 19 fontes (0 novos); sem logo"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -11969,31 +11981,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T08:43:41Z",
- "ultimo_sinal": "2026-11-18T08:59:34Z",
- "em_andamento": {
-  "marcas": [
-   "Grieb & Benzinger"
-  ],
-  "linha_marcas": 868,
-  "grande": true,
-  "relogios": "historico/parcial_grieb_relogios.txt",
-  "fontes": "historico/parcial_grieb_fontes.txt",
-  "notas": "historico/notas_grieb.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }
