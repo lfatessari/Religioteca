@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 873,
-  "ultima_versao": 700,
+  "proxima_linha_marcas": 874,
+  "ultima_versao": 701,
   "historico": [
     {
       "data": "2026-10-16",
@@ -11930,6 +11930,30 @@
       "site_bloqueado": false,
       "fontes": 83,
       "obs": "sem site oficial (Gruen original encerrada; marca hoje da MZ Berger segundo a Wikipedia); 3 passadas (59+12+12 fontes); base The Watch Preserve, Analog Shift, 1stDibs, eBay.ca, GruenWristwatches (galerias, nomes de catálogo, história), VintageGruen (nomes Curvex/Veri-Thin com estilos), CollectorSquare, Gear Patrol, Crazywatches; listas de preços 1940/1951 só em PDF/XLSX inacessíveis; Firecrawl sem créditos; pendências dos posts: ferramenta Projects ausente"
+    },
+    {
+      "marca": "Gruppo Ardito Watches",
+      "data": "2026-11-18",
+      "versao": 701,
+      "linha_marcas": 873,
+      "linhas_relogios": "105991-106005",
+      "relogios": 15,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 26,
+      "obs": "gaw-gruppoarditowatches.com PROVENANCE e Firecrawl sem créditos; base Gnomon Watches (loja/blog), OceanicTime, Time Transformed, OrologioBlog, Gioielleria Rosaspina; pendências dos posts: ferramenta Projects ausente"
+    },
+    {
+      "marca": "Gruppo Gamma",
+      "data": "2026-11-18",
+      "versao": 701,
+      "linha_marcas": 874,
+      "linhas_relogios": "106006-106139",
+      "relogios": 134,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 87,
+      "obs": "2 passadas (73+14); home PROVENANCE mas coleções e a página Legacy Models do site oficial abriram via busca (todas as refs antigas Genesis/Ascent/Vanguard/Divemaster/Chrononaut/Peacemaker/Venturo); base Serious Watches, Watchbandit, SG Wrist Love, Watch Report, Wristwatch Review; logo do site oficial; Venturo gravada como linha da Gruppo Gamma; G-Shock (grande) fica para a próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12029,24 +12053,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-18T12:43:46Z",
-  "ultimo_sinal": "2026-11-18T13:01:05Z",
-  "em_andamento": {
-    "marcas": [
-      "Gruppo Ardito Watches",
-      "Gruppo Gamma"
-    ],
-    "linha_marcas": 873,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Gruppo Ardito Watches: completa (dados_gaw.txt/marca_gaw.json prontos)",
-      "Gruppo Gamma: ~40 fontes (Serious Watches, Watchbandit, revistas) em andamento",
-      "Gruppo Gamma: passada 1 encerrada (61 relógios); 2ª passada em curso"
-    ],
-    "passada": 2
-  }
+  "adiadas_obs": {}
 }

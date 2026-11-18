@@ -1,0 +1,447 @@
+{
+ "marca": "Gruppo Gamma",
+ "usa_codigos": true,
+ "logo": "https://gruppogamma.com/cdn/shop/files/GG_hor_logo_new_130626-2.jpg?v=1781935624",
+ "site_bloqueado": "Parcial – gruppogamma.com: a página inicial não abre pela WebFetch (PROVENANCE); coleções, produtos e a página Legacy Models abriram pelos links de busca",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://gruppogamma.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/gruppo-gamma",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-vanguard-av-16",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-pn-17",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-divemaster-dg-03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/gruppo-gamma/products/gruppo-gamma-vanguard-retro-ag-12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-gg-10-10th-anniversary-edition-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-pa-05-2-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/gruppo-gamma-divemaster-dg-06",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://m.senatus.net/album/view/14671",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/brands/gruppo-gamma/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/gruppo-gamma/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.arizonacustomknives.com/knives-by-maker/gruppo-gamma-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-vanguard-ag-00-pre-owned-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-vanguard-ag-16",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-vanguard-retro-an-13",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/gruppo-gamma-vanguard-mk-iv-an-14-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-vanguard-an-17",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-vanguard-mk-iv-an-19l-limited-edition-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-mk-iv-vanguard-a-04-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/gruppo-gamma-vanguard-av-00-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-p-01-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-pa-03-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-pn-09-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-pn-18",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-mki-peacemaker-pn-19-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-mkii-pg-00-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-peacemaker-return-to-base-limited-edition-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/gruppo-gamma-divemaster-dg-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-divemaster-dg-02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-divemaster-dg-05",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-divemaster-dg-07",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-divemaster-mkii-dg-01-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-divemaster-mkii-dg-04-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-chrononaut-c-01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-chrononaut-c-01r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-nexus-ng-02-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-nexus-nv-02-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/gruppo-gamma-genesis-mk-iii-g-09-s-m-z-special-edition-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/gruppo-gamma-peacemaker-pn-20-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://m.reach.dog/shop/wwwwatch-luxecom/products/gruppo-gamma-genesis-g-04-mk-iii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/watch-review-gruppo-gamma-titanium-vanguard/2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2016/07/04/gruppo-gamma-divemaster-automatic-diving-watch-steel-case-helium-valve-seiko-nh35a-calibre/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=364",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/in-focus-gruppo-gamma/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2019/05/gruppo-gamma-mk-ii-divemaster.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/introducing-the-new-gruppo-gamma-nexus",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fifthwrist.com/gruppo-gamma-nexus-nv-02-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/hands-on-with-the-bronze-gruppo-gamma-vanguard-retro-an-13",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/diving-into-the-darkness-of-the-gruppo-gamma-divemaster-d-01n-black",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristwatchreview.com/hands-on-with-gruppo-gamma-vanguard-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/gruppo-gamma-peacemaker-hands-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/gruppo-gamma-vanguard-watch-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/a-look-at-the-gruppo-gamma-divemaster-mkii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/reviewing-the-new-and-improved-gruppo-gamma-divemaster",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sgwristlove.blogspot.com/2014/04",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://watchbandit.com/?p=275403",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/gruppo+gamma",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/?p=6796",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/gruppo-gamma-g-06l-edicion-limitada-con-extras.476036/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/gg-gruppo-gamma-watches-evento-y-presentacion-de-la-ultima-edicion-especial.445376/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cdn.shopify.com/s/files/1/0265/9074/0516/files/Peacemaker_Operating_Instructions.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/gruppo-gamma-g%C3%A9nesis-mkiii.516816/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/gruppo-gamma-vanguard-bronze/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/gruppo-gamma/gruppo-gamma-peacemaker-bronze",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2018/04/gruupo-gamma-chrononaut.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=9202",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1504858/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/126606928811",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://perezcope.com/tag/gruppo-gamma",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/?p=306431",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/?p=275407",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2018/12/gruppo-gamma-time-instruments-vanguard.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrand.store/collections/gruppo-gamma",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://gruppogamma.com/products/pn-08",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gruppogamma.com/pages/legacy",
+   "passada": 2,
+   "novos": 61
+  },
+  {
+   "url": "https://gruppogamma.com/collections/genesis",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://gruppogamma.com/collections/vanguard",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gruppogamma.com/collections/peacemaker",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gruppogamma.com/collections/venturo",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://gruppogamma.com/products/nexus-ng-01",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gruppogamma.com/pages/brand",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gruppogamma.com/collections/all/aged-steel",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gruppogamma.com/products/gg-12",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://gruppogamma.com/products/av-11",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chrononautix.com/news-gruppo-gamma-vanguard-mk-i-preorder/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monsoonal.com.au/shop-product/gruppo-gamma-divemaster-dg-08",
+   "passada": 2,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Relógios (18/11/2026): 134 modelos; base site oficial (página Legacy Models com todas as referências antigas, coleções atuais Genesis GG-11 a GG-16, Vanguard, Peacemaker e Venturo), Serious Watches, Watchbandit, SG Wrist Love (catálogo de 2014), Watch Report, Wristwatch Review. Site oficial (brand) confirma fundação em 2013 em Singapura, nome tirado da unidade de mergulhadores de combate italiana e o Instagram @gruppogamma. Divemaster (encerrado em 2022), Chrononaut (2017-2019), Nexus e Ascent já não estão à venda; as coleções atuais são Genesis, Vanguard, Peacemaker e Venturo (site oficial) — D, I e J citam Divemaster, Chrononaut e Nexus como linhas atuais. Venturo é linha da própria Gruppo Gamma (não há marca Venturo na aba Marcas). Ainda a verificar: fundador Naoki Tsukumo e produção de 1.000 a 2.000 peças/ano (não aparecem no site oficial)."
+}
