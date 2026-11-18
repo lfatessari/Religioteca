@@ -12005,5 +12005,19 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {}
+  "adiadas_obs": {},
+  "em_execucao": "2026-11-18T10:48:57Z",
+  "ultimo_sinal": "2026-11-18T10:48:57Z",
+  "em_andamento": {
+    "marcas": [
+      "Grovana"
+    ],
+    "linha_marcas": 871,
+    "grande": true,
+    "relogios": "historico/parcial_Grovana_relogios.txt",
+    "fontes": "historico/parcial_Grovana_fontes.txt",
+    "notas": "historico/notas_Grovana.md",
+    "secoes_feitas": [],
+    "passada": 1
+  }
 }
