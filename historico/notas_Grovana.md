@@ -6,3 +6,4 @@
 - Memocall anos 70: máquina assinada Grovana Watch Co (montadora), marca Memocall: não entra.
 - História oficial: 1924 irmãos Gröflin (Grovana Uhrenfabrik AG, com o nome deles); 1970 Werner Bitterli compra e dá o nome atual; 1971 1ª coleção Grovana; 2000 licença Revue Thommen; hoje Christopher Bitterli. -> corrigir I (fonte oficial).
 - Europa Star swisstime tem ~16 fichas Grovana (Grande Date, Day Retrograde x2, várias 'GROVANA', Giroeflin-Grovana) — buscar via site:
+- 1ª passada encerrada (3 últimas fontes sem novidade: galaxus/digitec variantes atuais). VERMELHA: centenas de refs antigas desde 1971 (1130, 1241, 1705, 1708, 1710, 1506, 1519, 3181...) sem nome/foto; Swiss Alpine Military by Grovana é outra marca (não está na aba Marcas) — não entra. 2ª passada: catálogos antigos, Revue Thommen-era, lojas US (timepiece/worldofwatches) com refs antigas, leilões.
