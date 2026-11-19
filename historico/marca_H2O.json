@@ -1,0 +1,625 @@
+{
+ "marca": "H2O",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – h2o-watch.com: a página inicial não abre pela leitura automática (PROVENANCE); as páginas de produtos e categorias abriram pela busca; páginas 2 e 3 de algumas listas não alcançadas; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.h2o-watch.com/h2o-k2-ot-10miles-blue-1171000010.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-orca-configurator.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-tiburon.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar2-deep-diver-dlc.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-green-ocean-timascus-black-dial.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-2-carbon-dial5-eta2892.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-2-carbon-dial4-eta2892.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar2-3000m-spherical-damast.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar2-25000m-dlc-black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar2-10miles-meteorite-9015.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar2-25000m-dlc-b2o.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-wt8.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-wm3.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-damaststahl/h2o-kalmar-2-damaststahl.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-orca-dive-polished-black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-chronograph-25/h2o-kalmar-chrono-dlc.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-tiburon-bronze-dial-s-brown.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-tiburon-bronze-dial-s-black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-green-ocean-mokume-gane-black-dial-mg-inlay.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-green-ocean-mokume-gane-white-dial-mg-inlay.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/about-h2o",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-navale-blue-h2o.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2010/12/h2o-watch-introduction-part1.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2013/08/h2o-watches-orca-mono-oceanictime-se.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2015/03/h2o-kalmar-ii-oceanictime-special.html?m=0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2016/05/h2o-kalmar-ii-blue-6000m-turbine.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2021/03/h2o-watch-oceanictime-8000m-amber-abyss.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2023/01/h2o-watch-kalmar-2-mega-dome.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2018/06/h2o-watches-kalmar-2-bronze-special.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2023/11/h2o-kalmar-chronograph-in-bronze-or.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2025/04/h2o-watch-kalmar-2-deep-diver-25000m.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2020/06/h2o-watch-tiburon-dlc.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2013/09/h2o-orca-vintage-black.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2011/11/h2o-kalmar-tungum.html?m=1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2011/11/h2o-kalmar-tungum-fixedbezel.html?m=1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2024/06/h2o-kalmar-2-carbon-timascus-zirkonium.html?m=0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2023/01/h2o-watch-kalmar-ii-25000m-black2orange.html?m=0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2020/11/h2o-kalmar-deep-diver-25000m.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1693155",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/h2o-watch-kalmar-10-miles-oceanictime-10-miles-water-resistance-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/h20-orca-customizable-dive-watch-collection",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://wristreview.com/h2o-kalmar-2-watch-hands-on/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2021/04/h2o-kalmar-2-carbon-black-racing.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2023/09/h2o-watch-kalmar-2-25000m-dlc-just-as.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1755404",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1624975/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1753389",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchsreviews.blogspot.com/2013/01/watch-review-h2o-orca.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.t2alloys.com/case-studies/tungum-in-h2o-watch-gmbh",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=de&___store=de&dir=asc&order=name",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-marlin.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-6000m.html?___store=de&___from_store=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-carbon.html?___store=de&___from_store=en",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=de&___store=de&cat=66",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=de&___store=de&dir=desc&order=name&p=1",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=en&___store=de&cat=31&dir=desc&order=position",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=de&___store=de&cat=42&limit=all",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=de&___store=de&cat=40",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-hydra-flash-sales/h2o-hydra-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-navale.html?___store=de&___from_store=de",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2017/09/h2o-watches-kalmar-chrono-1stlook.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-mops8.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-b1t8.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-b1m3.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-nbt6.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-b1t6.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-b13s8.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-mokume-gane-b13t6.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-tungum.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-orca-bronze.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-chronograph-100.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-oceanictime-10-miles.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-slim.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/catalogsearch/result/?q=Kalmar+II",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-2-racing-edition.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-kalmar-2-3000m.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-green-ocean-timascus.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-25000m.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___store=de&___from_store=en&dir=desc&limit=25&mode=grid&order=name&price=1000-2000",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-orca-polished.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2015/06/h2o-watches-hydra.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2019/04/h2o-watch-tiburon-retro-licious.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2019/09/h2o-watch-kalmar-ii-carbon-relaunch.html?m=1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-kalmar-2-bronze.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren/h2o-orca.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/news/h2o-chrono.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/h2o-kalmar-2-mokume-gane-watches-layers-layers/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristwatchreview.com/h2o-kalmar-2-goes-deep-really-deep",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1693173",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/fr/liste/1506170/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1671848/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1792744",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2019/03/h2o-watch-kalmar-chronograph-dlc.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/catalog/seo_sitemap/product/",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=en&___store=de&dir=desc&limit=all&mode=list&order=name&price=750-",
+   "passada": 2,
+   "novos": 14
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___store=de&limit=25&mode=list&p=3&___from_store=en",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/h2o-uhren.html?___from_store=de&___store=de&dir=desc&limit=9&mode=list&order=name&p=2&price=-",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.h2o-watch.com/catalogsearch/result/index/?___from_store=de&___store=en&cat=40&dir=asc&limit=30&mode=grid&order=price&q=BronZe",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://allwatchesus.blogspot.com/2013/11/h2o-orca-dive-dlc.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeandwatches.com/2019/07/h2o-watch-h2o-tiburon-bronze.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/?p=31573",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2015/02/h2o-watches-steel-development.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2012/07/h2o-orca-series-on-bracelet.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2019/03/h2o-kalmar-damaststahl-beauty-and-deep.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2011/09/h2o-kalmar-dlc-damascus-steel.html?m=0",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2011/09/h2o-kalmar-dlc-tio2.html?m=1",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2011/02/h2o-kalmar-prototypes-part3-mokume-gane.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/h2o-watch-hydra",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2025/11/h2o-kalmar-2-deep-diver-damascus-deep.html?m=1",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2018/11/h2o-watch-kalmar-2-x-oeanictime-10.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://amazing-car-reviews.blogspot.com/2010/12/h2o-kalmar-customization-academy-part-2.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2015/03/h2o-kalmar-ii-oceanictime-special_20.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2015_11_01_archive.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://timetechtalk.com/forum1/29322.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2018/11",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1654764",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/?p=16385",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/1490338/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/fr/liste/1593316",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A H2O Watch (H2O watch GmbH) foi fundada em 2011 em Sottrum, na Alemanha, para fazer relógios de mergulho mecânicos personalizáveis, montados conforme a escolha do cliente. O primeiro modelo foi o Kalmar, com peças de caixa intercambiáveis (lunetas, protetores de coroa e fundos); depois vieram o Orca (2012) e a segunda geração, Kalmar 2 (2015).\n\nA marca usa materiais exóticos feitos à mão, como Mokume Gane e aço Damasco, e por isso a produção é limitada. É conhecida pela altíssima resistência à água: o Kalmar Deep Diver, de titânio com movimento Sellita SW300, foi anunciado em 2020 com certificação de um instituto alemão para 25.000 m. O fundador citado pela imprensa é Clemens Helberg, que também está à frente da marca-irmã Helberg. [⚠️ a confirmar: fundador Clemens Helberg]"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://ablogtowatch.com/h20-orca-customizable-dive-watch-collection",
+   "https://oceanictime.blogspot.com/2012/07/h2o-orca-series-on-bracelet.html",
+   "https://wristreview.com/h2o-kalmar-2-watch-hands-on/",
+   "https://oceanictime.blogspot.com/2015/03/h2o-kalmar-ii-oceanictime-special.html?m=0",
+   "https://www.h2o-watch.com/h2o-kalmar2-deep-diver-dlc.html",
+   "https://oceanictime.blogspot.com/2020/11/h2o-kalmar-deep-diver-25000m.html"
+  ]
+ },
+ "observacoes": "Bateria de relógios 19/11/2026: corrigido I — ordem dos lançamentos (Orca 2012 antes do Kalmar 2 2015; aBlogtoWatch 2012, OceanicTime 2012 e 2015, WristReview 2015) e tirado o 'a confirmar' dos 25.000 m (site oficial, ficha Kalmar 2 Deep Diver: '25.300 m certified'; OceanicTime 2020/2023: certificado por instituto alemão). Fundador Clemens Helberg segue a confirmar (só WristReview). Ainda a verificar: H (Instagram) não achado nas fontes abertas. A linha 890 'H20 Watch' é a mesma marca (mesmo site, logo e endereço em Sottrum): os relógios foram gravados só aqui, como 'H2O' (apelido no proxima_marca.py). O mesmo site vende a marca-irmã Helberg (CH1–CH11), que não entrou aqui."
+}

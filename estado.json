@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 888,
- "ultima_versao": 711,
+ "proxima_linha_marcas": 891,
+ "ultima_versao": 712,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12136,6 +12136,24 @@
     "3": "15 fontes, 9 relógios novos"
    },
    "obs": "h-moser.com/en/watches/ PROVENANCE direto; coleções oficiais (88 modelos atuais) abertas pela busca, sem foto por modelo; WatchBase client_error (refs colhidas dos títulos de busca); Firecrawl sem créditos; base Exquisite Timepieces (sold-out oembed), Watches of Switzerland, Bucherer, Majestix (listas relacionadas com fotos), European Watch, watchprosite (calendários perpétuos), Phillips, Antiquorum, CollectorSquare, SJX. 95 linhas sem foto (link da página). Pendências dos posts não lidas: ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 712,
+   "marca": "H2O",
+   "linha_marcas": 891,
+   "linhas_relogios": "107715-107901",
+   "relogios": 187,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 120,
+   "passadas": {
+    "1": "94 fontes, 150 relógios novos",
+    "2": "11 fontes, 25 relógios novos",
+    "3": "15 fontes, 8 relógios novos"
+   },
+   "obs": "H.I.D. Watch adiada (hidwatch.com PROVENANCE, <8 fontes no mundo); H20 Watch (linha 890) = H2O, posta em APELIDOS. h2o-watch.com: raiz PROVENANCE, mas fichas e categorias abriram pela busca (inclusive lista limit=all price=750- com 117 itens e o seo_sitemap); Firecrawl sem créditos; base OceanicTime (dezenas de posts 2010-2025), aBlogtoWatch, WristReview, WristwatchReview, Monochrome, WatchPatrol. I corrigido (ordem Orca/Kalmar 2; 25.000 m confirmado). Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12225,7 +12243,8 @@
   "Earhart Watches (linha 659)": "Adiada em 17/11/2026 (v681): earhartwatches.com não abre pela WebFetch (PROVENANCE), Firecrawl sem créditos e 8 buscas não trouxeram nenhuma página sobre a marca. Notas em historico/notas_Earhart.md. Refazer com Firecrawl.",
   "eClock (linha 666)": "Adiada em 17/11/2026 (v682): grande pelo catálogo (89 relógios individuais em eclockmx.com, que abre direto), mas sem nenhuma fonte externa legível para chegar às 25. Lista pronta em historico/eclock_raw.txt (nome|mm|tipo|slug|foto). Usuário decide se grava só com o site oficial.",
   "G-Shock (linha 875)": "Linha da Casio: a bateria Casio (v. historico) já gravou 1364 relógios 'G-SHOCK ...' em Relógios 36666-38768. Entrou como apelido G-Shock→Casio no proxima_marca.py em 18/11/2026; não pesquisar de novo.",
-  "GSX (linha 876)": "Gravada em 18/11/2026 (v702), 181 relógios (106140-106320), vermelha. Complemento futuro com Firecrawl: Mercari (GSX EVE, GSX SMART XX, ジーエスエックス 時計, GSX LOV, GSX 200), Yahoo! Leilões (outros termos e páginas 2+), Fril; fotos das ~25 linhas só com link de anúncio; site gsx-watch.com (fora do ar em 18/11)."
+  "GSX (linha 876)": "Gravada em 18/11/2026 (v702), 181 relógios (106140-106320), vermelha. Complemento futuro com Firecrawl: Mercari (GSX EVE, GSX SMART XX, ジーエスエックス 時計, GSX LOV, GSX 200), Yahoo! Leilões (outros termos e páginas 2+), Fril; fotos das ~25 linhas só com link de anúncio; site gsx-watch.com (fora do ar em 18/11).",
+  "H20 Watch (linha 890)": "Mesma marca que H2O (891): relógios gravados como 'H2O' na v712; APELIDOS no proxima_marca.py faz a linha 890 ser pulada. Não pesquisar de novo."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -12237,34 +12256,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-18T23:43:37Z",
- "ultimo_sinal": "2026-11-19T00:12:22Z",
- "em_andamento": {
-  "marcas": [
-   "H2O"
-  ],
-  "linha_marcas": 891,
-  "grande": true,
-  "relogios": "historico/parcial_H2O_relogios.txt",
-  "fontes": "historico/parcial_H2O_fontes.txt",
-  "notas": "historico/notas_H2O.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "passada1"
-  ],
-  "passada": 3,
-  "obs": "H.I.D. Watch adiada (ADIADAS); H20 Watch = H2O (APELIDOS)"
- }
+ "adiadas_obs": {}
 }
