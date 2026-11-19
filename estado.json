@@ -12239,7 +12239,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-18T23:43:37Z",
- "ultimo_sinal": "2026-11-19T00:08:06Z",
+ "ultimo_sinal": "2026-11-19T00:10:22Z",
  "em_andamento": {
   "marcas": [
    "H2O"
@@ -12252,10 +12252,19 @@
   "secoes_feitas": [
    "1",
    "2",
-   "2c-parcial",
-   "9-parcial"
+   "2c",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "10b",
+   "passada1"
   ],
-  "passada": 1,
+  "passada": 2,
   "obs": "H.I.D. Watch adiada (ADIADAS); H20 Watch = H2O (APELIDOS)"
  }
 }
