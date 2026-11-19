@@ -1,0 +1,546 @@
+{
+ "marca": "Hanowa Swiss Watches",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – hanowa.com não abre na leitura automática (PROVENANCE_REQUIRED, 19/11/2026); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "I": "A Hanowa é uma marca suíça com raízes em 1963, fundada por Hans Noll em Biel/Bienne, que se tornou conhecida por relógios suíços acessíveis e confiáveis de forte apelo esportivo e casual. O nome tornou-se especialmente reconhecido através da linha Swiss Military Hanowa, que capitaliza a herança e a estética militar/utilitária suíça.\n\nA marca oferece uma ampla gama de relógios de bom custo-benefício — esportivos, militares, mergulhadores casuais e dress watches —, tipicamente com movimentos suíços de quartzo (Ronda) e alguns automáticos, cases robustos e boa resistência à água, a preços acessíveis. A Swiss Military Hanowa firmou-se como uma opção popular de relógio suíço de entrada, com forte distribuição internacional. A marca faz parte de um grupo relojoeiro suíço que reúne várias marcas acessíveis.\n\nHoje a Hanowa ocupa o segmento de relógios suíços acessíveis e esportivos, dirigindo-se a quem busca o selo Swiss Made e estética militar/casual a preço popular. Mais que status, entrega confiabilidade suíça honesta e valor. [⚠️ verificar dados atuais]"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://en.wikipedia.org/wiki/Hanowa",
+   "https://www.fashionbi.com/financials/brands/hanowa"
+  ]
+ },
+ "observacoes": "Bateria de relógios 19/11/2026: I corrigida ('fundada pela família Hunziker' → 'fundada por Hans Noll em Biel/Bienne'; Wikipedia e Fashionbi). Na aba Relógios entraram só os relógios com a marca 'Hanowa' (refs HAW… e 16-…); os 'Swiss Military Hanowa' (SMWG…, 06-…) ficam para a linha 'Swiss Military'. Ainda a verificar: C (Wikipedia diz sede em Möhlin, fundada em Biel/Bienne; 'Waldenburg' não apareceu em nenhuma fonte); J cita Sea Lion, Land Pioneer, Air, que são linhas da Swiss Military Hanowa, não da Hanowa; nome = acrônimo de HAns NOll WAtches (só Wikipedia).",
+ "fontes": [
+  {
+   "url": "https://www.luxoia.com/en/hanowa/",
+   "passada": 1,
+   "novos": 40
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Hanowa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-watches/hanowa-womens-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawgh0002803-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-watches",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://watchard.com/posts/cat/info-about-hanowa-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-breezes-analogue-wristwatch-41-mm-wristwatches-33005533",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.clockshop.com.au/44mm-bedretto-silver-black-mens-swiss-quartz-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-marsens-analogue-wristwatch-40-mm-wristwatches-40095554",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-glossy-analogue-wristwatch-36-mm-wristwatches-6086805",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-ascona-sparkling-analogue-wristwatch-33-mm-wristwatches-62422352",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-salvan-44-mm-wristwatches-52514689",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095524-hanowa-revenge-dual-time.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/1000872050-dreamland-chronograph-by-hanowa.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawgh0001801-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawgh0001460-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawgh2100402-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawgb0001010-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawgh0001802-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-kander-analogue-wristwatch-43-mm-wristwatches-25227769",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-misox-analogue-wristwatch-40-mm-wristwatches-25268785",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-melide-31-mm-wristwatches-56585352",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-brevine-analogue-wristwatch-32-mm-wristwatches-33005532",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-canova-analogue-wristwatch-34-mm-wristwatches-40095555",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-lancy-36-mm-wristwatches-56585336",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/145767983852",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-nature-analogue-wristwatch-40mm-wristwatches-11766592",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-pure-analogue-wristwatch-35-mm-wristwatches-6413166",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-spring-analogue-clock-40-mm-wristwatches-11766589",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.nl/products/54170253",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-jonen-analogue-wristwatch-39-mm-wristwatches-62422372",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://preisvergleich.check24.de/ul/hersteller/hanowa/",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.luxoia.com/en/womens-watches/?p=154",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1141994427",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/100508113-hanowa-men-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/listing/4476965086",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/397006348334",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-marsens-analogue-wristwatch-40-mm-wristwatches-40095550",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-breezes-analogue-wristwatch-41-mm-wristwatches-33005542",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-breezes-analogue-wristwatch-41-mm-wristwatches-33005544",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-glossy-analogue-wristwatch-36-mm-wristwatches-6086887",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-canova-analogue-wristwatch-34-mm-wristwatches-40095565",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-maggia-analogue-wristwatch-30-mm-wristwatches-40095556",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-rivera-analogue-wristwatch-32-mm-wristwatches-25268828",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-ascona-analogue-wristwatch-33-mm-wristwatches-25227730",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-canova-analogue-wristwatch-34-mm-wristwatches-40095566",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-misox-analogue-wristwatch-40-mm-wristwatches-25268821",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-ascona-sparkling-analogue-wristwatch-33-mm-wristwatches-62422359",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-jonen-39-mm-wristwatches-62422371",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-16-60620400113-elena-ladies-28mm-3atm-analogue-wristwatch-28-mm-wristwatches-37448678",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-fiona-analogue-wristwatch-28mm-wristwatches-9103320",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-nature-analogue-wristwatch-40mm-wristwatches-11766581",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/womens-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-nature-analogue-wristwatch-40mm-wristwatches-11766586",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-glossy-analogue-wristwatch-36-mm-wristwatches-6086798",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-sense-analogue-wristwatch-36-mm-wristwatches-46644272",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawuh0001702-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrenschmuck24.ch/en/swiss-made-uhren.html?p=259",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-simmen-analogue-wristwatch-40-mm-wristwatches-25227704",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawlh0001602-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-breezes-analogue-wristwatch-41-mm-wristwatches-33005520",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-brevine-analogue-wristwatch-32-mm-wristwatches-33005525",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://clockshop.com.au/36mm-tresa-silver-gold-womens-swiss-quartz-watch-w",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fashionbi.com/financials/brands/hanowa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-ascona-analogue-wristwatch-33-mm-wristwatches-25227655",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Hanowa-Armbanduhren/31387/bn_52468897",
+   "passada": 2,
+   "novos": 28
+  },
+  {
+   "url": "https://www.ebay.de/p/3037693985",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176997619739",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-16-7092-55-003-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-nature-analogue-wristwatch-40mm-wristwatches-11766593",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-16-6087-04-007-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-16-6087-04-001-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-16-7087-04-001-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-16-7087-04-007-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://skroutz.mt/s/14205500/Hanowa-Pure-Watch-with-Beige-Leather-Strap-16-6075-09-001-14.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://skroutz.mt/s/12404031/Hanowa-Hanowa-Pure-Watch-with-White-Leather-Strap-16-6060-09-001.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.etsy.com/listing/4441304128",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-16-5087-04-001-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://skroutz.eu/s/30678608/Swiss-Military-Hanowa-Hanowa-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Asimi-chroma-06-3332-04-001-09.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.clockshop.com.au/44mm-emil-silver-mens-swiss-quartz-watch-with-gree",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/hanowa-16-5087-55-001-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-emil-analogue-wristwatch-44-mm-wristwatches-40095543",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/32mm-leventina-green-gold-womens-swiss-quartz-watc",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/41mm-matter-black-silver-mens-swiss-quartz-watch-w",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/41mm-matter-black-gold-mens-swiss-quartz-watch-wit",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://clockshop.com.au/43mm-kander-silver-mens-swiss-quartz-watch-with-gr",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.clockshop.com.au/43mm-kander-gold-mens-swiss-quartz-watch-with-gree",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/40mm-marsens-silver-mens-swiss-quartz-watch-with-g",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/33mm-ascona-silver-gold-womens-swiss-quartz-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/40mm-simmen-silver-mens-swiss-quartz-watch-with-bl",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.clockshop.com.au/32mm-rivera-silver-gold-womens-swiss-quartz-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://clockshop.com.au/32mm-rivera-blue-rose-gold-womens-swiss-quartz-wat",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.clockshop.com.au/32mm-rivera-emerald-green-gold-womens-swiss-quartz",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/32mm-brevine-silver-gold-womens-swiss-quartz-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.clockshop.com.au/40mm-simmen-silver-mens-swiss-quartz-watch-with-si",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://clockshop.com.au/33mm-ascona-silver-womens-swiss-quartz-watch-with",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/hanowa-hawlh0001603-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/hanowa-spring-analogue-clock-40-mm-wristwatches-11766591",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://clockshop.com.au/40mm-marsens-black-mens-swiss-quartz-watch-with-bl",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://clockshop.com.au/40mm-simmen-gold-silver-mens-swiss-quartz-watch-wi",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.clockshop.com.au/40mm-misox-silver-gold-mens-swiss-quartz-watch-wit",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/str/ternasales",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-rivera-analogue-wristwatch-32-mm-wristwatches-25268831",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-lancy-36-mm-wristwatches-52514684",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/hanowa-goms-42-mm-wristwatches-46644269",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

@@ -294,15 +294,17 @@
 },
 "HAWUH0001760": {
 "col": "Simmen",
-"img": "https://watchard.com/hanowa-hawuh0001760-watch",
+"img": "https://www.clockshop.com.au/assets/full/175824.jpg?20240220134836",
 "src": "watchard",
-"pag": true
+"pag": false,
+"e": "Caixa de 40 mm, quartzo su\u00ed\u00e7o, mostrador dourado, bracelete bicolor dourado e prateado."
 },
 "HAWLH2200560": {
 "col": "Rivera",
-"img": "https://watchard.com/hanowa-hawlh2200560-watch",
+"img": "https://www.clockshop.com.au/assets/full/175804.jpg?20240220115702",
 "src": "watchard",
-"pag": true
+"pag": false,
+"e": "Feminino, 32 mm, quartzo su\u00ed\u00e7o, mostrador prateado, bracelete bicolor prateado e dourado."
 },
 "HAWLH2200502": {
 "col": "Rivera",
@@ -342,9 +344,10 @@
 },
 "HAWLG0001501": {
 "col": "Ascona",
-"img": "https://watchard.com/hanowa-hawlg0001501-watch",
+"img": "https://www.clockshop.com.au/assets/full/175797.jpg?20240220105252",
 "src": "watchard",
-"pag": true
+"pag": false,
+"e": "Feminino, 33 mm, quartzo su\u00ed\u00e7o, mostrador preto com algarismos romanos, bracelete de a\u00e7o."
 },
 "HAWLB2200504": {
 "col": "Rivera",
@@ -360,9 +363,10 @@
 },
 "HAWGH2200160": {
 "col": "Misox",
-"img": "https://watchard.com/hanowa-hawgh2200160-watch",
+"img": "https://www.clockshop.com.au/assets/full/175821.jpg?20240220112101",
 "src": "watchard",
-"pag": true
+"pag": false,
+"e": "Caixa de 40 mm, quartzo su\u00ed\u00e7o, mostrador prateado, bracelete de a\u00e7o."
 },
 "HAWGH2200101": {
 "col": "Misox",
@@ -440,9 +444,9 @@
 },
 "HAWGB0001010": {
 "col": "Matter",
-"img": "https://watchard.com/media/catalog/product/z/e/zegarek-meski-hanowa-matter-hawgb0001010.jpg",
+"img": "https://www.clockshop.com.au/assets/full/175820.jpg?20240220111223",
 "src": "watchard",
-"e": "Caixa de a\u00e7o de 41 mm, quartzo, mostrador prateado, pulseira de couro preta."
+"e": "Caixa de a\u00e7o de 41 mm, quartzo su\u00ed\u00e7o, mostrador prateado, detalhes dourados, pulseira de couro preta."
 },
 "HAWGB0001102": {
 "col": "Bedretto",
@@ -589,11 +593,6 @@
 "src": "galaxus",
 "e": "Caixa e pulseira de a\u00e7o, 40 mm, quartzo."
 },
-"NOREF_Marsens \u2013 mostrador antracite": {
-"col": "Marsens",
-"img": "https://static01.galaxus.com/productimages/2/7/3/3/7/2/3/5/6/4/2/3/3/5/8/7/3/0/4/3ded4301-bdb7-4b9b-8a7b-286c18bf61c3_cropped.jpg_sea.jpeg",
-"e": "Caixa de 40 mm, mostrador antracite."
-},
 "16-6058.04.007": {
 "col": "Glossy",
 "img": "https://static01.galaxus.com/productimages/7/2/1/0/5/6/3/glossy_16-6058.04.007.jpg_sea.jpeg",
@@ -643,7 +642,7 @@
 },
 "HAWUH0001702": {
 "col": "Simmen",
-"img": "https://watchard.com/media/catalog/product/z/e/zegarek-hanowa-simmen-hawuh0001702.jpg",
+"img": "https://www.clockshop.com.au/assets/full/175823.jpg?20240220121608",
 "e": "Unissex, caixa de a\u00e7o de 40 mm, quartzo, mostrador prateado, bracelete de a\u00e7o."
 },
 "HAWUH0001703": {
@@ -840,5 +839,85 @@
 "col": "Emil",
 "img": "https://static01.galaxus.com/productimages/5/9/6/9/6/8/5/5/8/4/0/4/6/8/5/5/6/6/3/1d1d7969-e054-4ac3-9f30-b69a580a9b34_cropped.jpg_sea.jpeg",
 "e": "Masculino, 44 mm, mostrador azul-turquesa, bracelete de a\u00e7o."
+},
+"HAWLB0000811": {
+"col": "Leventina",
+"img": "https://www.clockshop.com.au/assets/full/175800.jpg?20240220105546",
+"e": "Feminino, caixa de 32 mm, quartzo su\u00ed\u00e7o, mostrador prateado com algarismos romanos, pulseira de couro verde."
+},
+"HAWGB0001003": {
+"col": "Matter",
+"img": "https://www.clockshop.com.au/assets/full/175819.jpg?20240220105829",
+"e": "Caixa de 41 mm, quartzo su\u00ed\u00e7o, mostrador azul com algarismos romanos, pulseira de couro preta."
+},
+"HAWGH0001803": {
+"col": "Kander",
+"img": "https://www.clockshop.com.au/assets/full/175815.jpg?20240220101828",
+"e": "Caixa de 43 mm, quartzo su\u00ed\u00e7o, mostrador cinza, bracelete de a\u00e7o."
+},
+"HAWGH0001810": {
+"col": "Kander",
+"img": "https://www.clockshop.com.au/assets/full/175816.jpg?20240220102953",
+"e": "Caixa de 43 mm, quartzo su\u00ed\u00e7o, mostrador verde-oliva, bracelete de a\u00e7o dourado."
+},
+"HAWGH0002103": {
+"col": "Marsens",
+"img": "https://static01.galaxus.com/productimages/2/7/3/3/7/2/3/5/6/4/2/3/3/5/8/7/3/0/4/3ded4301-bdb7-4b9b-8a7b-286c18bf61c3_cropped.jpg_sea.jpeg",
+"e": "Caixa de 40 mm, mostrador cinza (antracite) com \u00edndices e ponteiros ros\u00e9, bracelete de a\u00e7o. Foto da Galaxus (mesmo modelo, mostrador antracite)."
+},
+"HAWLG0001561": {
+"col": "Ascona",
+"img": "https://clockshop.com.au/33mm-ascona-silver-gold-womens-swiss-quartz-watch",
+"e": "Feminino, 33 mm, quartzo su\u00ed\u00e7o, mostrador prateado, bracelete bicolor prateado e dourado. Visto s\u00f3 na p\u00e1gina do produto (link da p\u00e1gina)."
+},
+"HAWUH0001701": {
+"col": "Simmen",
+"img": "https://clockshop.com.au/40mm-simmen-silver-mens-swiss-quartz-watch-with-bl",
+"e": "Caixa de 40 mm, quartzo su\u00ed\u00e7o, mostrador preto, bracelete de a\u00e7o. Visto s\u00f3 na p\u00e1gina do produto (link da p\u00e1gina)."
+},
+"HAWLB2200520": {
+"col": "Rivera",
+"img": "https://www.clockshop.com.au/assets/full/175803.jpg?20240220115130",
+"e": "Feminino, 32 mm, quartzo su\u00ed\u00e7o, mostrador azul, detalhes ros\u00e9, pulseira de couro azul."
+},
+"HAWLB2200510": {
+"col": "Rivera",
+"img": "https://www.clockshop.com.au/assets/full/175802.jpg?20240220112558",
+"e": "Feminino, 32 mm, quartzo su\u00ed\u00e7o, mostrador prateado, detalhes dourados, pulseira de couro verde-esmeralda."
+},
+"HAWLH0001260": {
+"col": "Brevine",
+"img": "https://www.clockshop.com.au/assets/full/175799.jpg?20240220102849",
+"e": "Feminino, 32 mm, quartzo su\u00ed\u00e7o, mostrador de madrep\u00e9rola branca, bracelete bicolor prateado e dourado."
+},
+"HAWLH0001603": {
+"col": "Tresa",
+"img": "https://watchard.com/media/catalog/product/z/e/zegarek-damski-hanowa-tresa-hawlh0001603.jpg",
+"e": "Feminino, caixa de 36 mm, mostrador preto, bracelete de a\u00e7o."
+},
+"HAWGH0002130": {
+"col": "Marsens",
+"img": "https://www.clockshop.com.au/assets/full/175818.jpg?20240220124728",
+"e": "Caixa de 40 mm, quartzo su\u00ed\u00e7o, mostrador preto, bracelete de a\u00e7o preto."
+},
+"HAWLB2200505": {
+"col": "Modelo sem nome publicado",
+"img": "https://www.ebay.com/itm/235831944966",
+"e": "Feminino, Swiss Made. Visto s\u00f3 no t\u00edtulo do an\u00fancio (link do an\u00fancio); a refer\u00eancia \u00e9 da mesma s\u00e9rie da Rivera (2200 5xx), cole\u00e7\u00e3o n\u00e3o confirmada."
+},
+"HAWLA0001320": {
+"col": "Modelo sem nome publicado",
+"img": "https://www.ebay.com/itm/235831837745",
+"e": "Feminino, Swiss Made. Visto s\u00f3 no t\u00edtulo do an\u00fancio (link do an\u00fancio); a refer\u00eancia \u00e9 da mesma s\u00e9rie da Maggia (00013xx), cole\u00e7\u00e3o n\u00e3o confirmada."
+},
+"16-7068.02.001": {
+"col": "Modelo sem nome publicado",
+"img": "https://www.ebay.com/itm/235830939105",
+"e": "Feminino, Swiss Made. Visto s\u00f3 no t\u00edtulo do an\u00fancio (link do an\u00fancio)."
+},
+"16-5048.15.007": {
+"col": "Modelo sem nome publicado",
+"img": "https://www.ebay.com/itm/235833643472",
+"e": "Masculino, Swiss Made. Visto s\u00f3 no t\u00edtulo do an\u00fancio (link do an\u00fancio)."
 }
 }
