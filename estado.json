@@ -12274,7 +12274,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-19T01:43:22Z",
-  "ultimo_sinal": "2026-11-19T01:43:22Z",
+  "ultimo_sinal": "2026-11-19T01:53:02Z",
   "em_andamento": {
     "marcas": [
       "Habring²"
@@ -12284,7 +12284,13 @@
     "relogios": "historico/parcial_Habring2_relogios.txt",
     "fontes": "historico/parcial_Habring2_fontes.txt",
     "notas": "historico/notas_Habring2.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2b",
+      "3",
+      "9"
+    ],
     "passada": 1
   }
 }
