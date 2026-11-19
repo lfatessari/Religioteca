@@ -1,0 +1,4 @@
+# Havid Nagan (linha 919) — notas preliminares (19/11/2026, sem ferramenta para abrir páginas)
+Nada aberto. Modelos conhecidos (aba Marcas/J e I): HN00 (Arka Blue LE 100, ASE 200), HN01 Lucine (fase da lua, base Chronode), Classic One (2025, AMT6600), HN02/NH02 (2026, LE 42), Origins, Millesime.
+- Links de busca: monochrome-watches.com/brand/havid-nagan/ e /category/havid-nagan/; watchesbysjx.com/2025/03/havid-nagan-classic-one.html; watchesbysjx.com/search/label/havid-nagan; wornandwound.com/tag/havid-nagan/; wornandwound.com/?p=95014; usa.watchpro.com/?p=63825; hodinkee.jp/articles/hands-on-havid-nagan-classic-one; teddybaldassarre.com/blogs/watches/indie-intro-havid-nagan-classic-one-watch; jean-rousseau.com/jean-rousseau-havid-nagan-a-paradoxical-newcomer.
+- Site oficial havidnagan.com (Squarespace; abriu direto em 14/11).

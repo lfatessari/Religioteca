@@ -12607,8 +12607,6 @@
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
- "em_execucao": "2026-11-19T18:44:04Z",
- "ultimo_sinal": "2026-11-19T18:44:04Z",
  "em_andamento": {
   "marcas": [
    "Havaan Tuvali",
@@ -12617,10 +12615,11 @@
   ],
   "linha_marcas": 917,
   "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
+  "relogios": "historico/parcial_<marca>_relogios.txt (ainda não existe)",
+  "fontes": "historico/parcial_<marca>_fontes.txt (ainda não existe; 0 fontes abertas)",
+  "notas": "historico/notas_Havaan_Tuvali.md, notas_Haven_Watch_Co.md, notas_Havid_Nagan.md",
   "secoes_feitas": [],
-  "passada": 1
+  "passada": 1,
+  "obs": "19/11/2026 18:45 UTC: execução sem WebFetch (ferramenta ausente), Firecrawl sem créditos e ajudante web-fetch recusado; só pistas de busca, nenhuma fonte aberta. Começar estas 3 marcas do zero, usando as pistas."
  }
 }
