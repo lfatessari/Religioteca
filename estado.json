@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 901,
-  "ultima_versao": 719,
+  "proxima_linha_marcas": 904,
+  "ultima_versao": 720,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12306,6 +12306,33 @@
         "1": "30 fontes, 12 relógios"
       },
       "obs": "hajimeasaoka.com PROVENANCE; base: Phillips (6 lotes), Deployant, Quill & Pad, Monochrome, GPHG, Oracle of Time, aBlogtoWatch, Europa Star, AHCI. Logo da Watchonista. Firecrawl sem créditos; Projects ausente: pendências dos posts não lidas."
+    },
+    {
+      "marca": "Halchimy",
+      "data": "2026-11-19",
+      "versao": 720,
+      "relogios": 7,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 21
+    },
+    {
+      "marca": "Halcyon",
+      "data": "2026-11-19",
+      "versao": 720,
+      "relogios": 10,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 19
+    },
+    {
+      "marca": "Halda",
+      "data": "2026-11-19",
+      "versao": 720,
+      "relogios": 21,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 24
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12409,24 +12436,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-19T07:43:33Z",
-  "ultimo_sinal": "2026-11-19T07:53:16Z",
-  "em_andamento": {
-    "marcas": [
-      "Halchimy",
-      "Halcyon",
-      "Halda"
-    ],
-    "linha_marcas": 902,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Halchimy: completa",
-      "Halda: 2,3,9 parciais"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

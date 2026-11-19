@@ -1,0 +1,130 @@
+{
+ "usa_codigos": false,
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "marca": "Halcyon",
+ "logo": "",
+ "correcoes": {
+  "B": "China",
+  "C": "Jingdezhen",
+  "G": "halcyonwatch.com",
+  "J": "Origin (Sea & Cliff, Dragon, Cliff Sunrise, Evergreen, Eagle), Journey, Journey Calendar, Poise, Blue Wisdom"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://halcyonwatch.com/pages/faq",
+   "https://ablogtowatch.com/watch-review-halcyon-origin-dragon-with-enamel-painted-porcelain-dial"
+  ],
+  "C": [
+   "https://halcyonwatch.com/pages/faq",
+   "https://www.montres-passion.fr/?p=12276"
+  ],
+  "G": [
+   "https://halcyonwatch.com/pages/collections",
+   "https://ablogtowatch.com/watch-review-halcyon-origin-dragon-with-enamel-painted-porcelain-dial"
+  ],
+  "J": [
+   "https://halcyonwatch.com/pages/collections"
+  ]
+ },
+ "observacoes": "Preenchidos B (vazio → China), C (vazio → Jingdezhen), G (vazio → halcyonwatch.com) e J (genérico → coleções do site oficial), com base no site oficial (fundada em 2019 em Jingdezhen; vendas pela Tsai Impression, Singapura) e na aBlogtoWatch. Ainda a verificar: o Instagram @halcyonwatches não foi ligado a esta marca em nenhuma fonte aberta; D ('vintage-inspired') e I (texto genérico sobre o nome) não descrevem a marca real, que faz mostradores de porcelana de Jingdezhen — revisar.",
+ "fontes": [
+  {
+   "url": "https://ablogtowatch.com/watch-review-halcyon-origin-dragon-with-enamel-painted-porcelain-dial",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.montredo.com/halcyon-origin-1500-years-of-artisanal-experience-on-your-wrist/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://first-backer.com/products/halcyonjc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/2038275",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/halcyonorigin/halcyon-journey-a-mechanical-watch-with-an-elegant-and-dist",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/guardatiempo/posts/fine-china-porcelain-halcyon-journey-roma-dial-719580",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hugebackers.com/halcyon-journey-a-striking-porcelain-dial-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://halcyonwatch.com/pages/collections",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://halcyonwatch.com/pages/faq",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.robbieandwatches.co.uk/single-post/a-beautiful-delicacy-halcyon-journey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://halcyonwatch.com/products/origin-eagle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://halcyonwatch.com/products/halcyon-poise",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://halcyonwatch.com/collections/halcyon-blue-1/products/halcyon-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2024/01/17/halcyon-automatic-watches-with-enamel-painted-porcelain-dials/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.montres-passion.fr/?p=12276",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreviewblog.com/?p=13277",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shopexspress.blogspot.com/2023/01/halcyon-watch-with-enamel-painting-on.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://rewindussr.blogspot.com/2024/02/halcyon-origin-sea-cliff-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/first-backer/products/striking-porcelain-dial-timepiece",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
