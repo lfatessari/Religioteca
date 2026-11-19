@@ -12536,7 +12536,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-19T15:00:21Z",
-  "ultimo_sinal": "2026-11-19T15:00:21Z",
+  "ultimo_sinal": "2026-11-19T15:07:42Z",
   "em_andamento": {
     "marcas": [
       "HappieWatch"
@@ -12546,7 +12546,11 @@
     "relogios": "historico/parcial_HappieWatch_relogios.txt",
     "fontes": "historico/parcial_HappieWatch_fontes.txt",
     "notas": "historico/notas_HappieWatch.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c"
+    ],
     "passada": 1
   }
 }
