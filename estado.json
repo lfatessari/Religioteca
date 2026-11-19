@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 892,
-  "ultima_versao": 713,
+  "proxima_linha_marcas": 893,
+  "ultima_versao": 714,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12170,6 +12170,24 @@
         "1": "29 fontes"
       },
       "obs": "h992.swiss PROVENANCE; Firecrawl sem créditos; base Luxoia (37 H3/H4 com fotos), Lionel Meylan (H1/H2 com refs, sem fotos), Europa Star, The Watch Gallery, Oclock Store, Gil Bonnet, WristReview. I corrigido (era só aviso). Habring² (893) tratada como grande (configurações sob encomenda) e fica sozinha para a próxima execução. Pendências dos posts não lidas: ferramenta Projects ausente."
+    },
+    {
+      "data": "2026-11-19",
+      "versao": 714,
+      "marca": "Habring²",
+      "linha_marcas": 893,
+      "linhas_relogios": "107958-108100",
+      "relogios": 143,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 112,
+      "passadas": {
+        "1": "83 fontes (113 relógios na lista; a coluna 'novos' somou 133 por contagem aproximada)",
+        "2": "17 fontes, 16 relógios novos",
+        "3": "12 fontes, 14 relógios novos"
+      },
+      "obs": "habring2.com PROVENANCE e fora das buscas; Firecrawl sem créditos; EveryWatch exige login; base Horology by the Sea, Define Watches, Bandiera, Monochrome, SJX, Deployant, Quill & Pad, Horbiter, GPHG, Phillips. B corrigido (Suíça→Áustria) e I corrigido (GPHG). Projects ausente: pendências dos posts não lidas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12272,33 +12290,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-19T01:43:22Z",
-  "ultimo_sinal": "2026-11-19T02:04:56Z",
-  "em_andamento": {
-    "marcas": [
-      "Habring²"
-    ],
-    "linha_marcas": 893,
-    "grande": true,
-    "relogios": "historico/parcial_Habring2_relogios.txt",
-    "fontes": "historico/parcial_Habring2_fontes.txt",
-    "notas": "historico/notas_Habring2.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2b",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }

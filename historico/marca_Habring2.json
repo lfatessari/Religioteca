@@ -1,0 +1,588 @@
+{
+ "marca": "Habring²",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – habring2.com não abre para leitura automática (PROVENANCE) e não aparece nas buscas; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "B": "Áustria",
+  "I": "A Habring² é uma manufatura austríaca fundada em 2004 pelo casal Richard e Maria Habring, em Völkermarkt, na região da Caríntia — o \"²\" (ao quadrado) no nome celebra justamente essa parceria de dois Habrings. Richard é um relojoeiro brilhante que trabalhou na IWC, onde foi responsável por desenvolver o lendário Doppelchronograph (cronógrafo rattrapante) baseado num movimento acessível — um feito que definiria sua carreira.\n\nA marca tornou-se uma das mais respeitadas casas independentes da Europa por democratizar complicações de alto nível a preços relativamente acessíveis: cronógrafos rattrapante (split-seconds), segundos mortos (deadbeat seconds), o Foudroyante e cronômetros, muitos construídos a partir de uma base robusta e engenhosa que a dupla domina como poucos. A Habring² venceu o Grand Prix d'Horlogerie de Genève (GPHG) mais de uma vez: o Doppel 2.0 levou o prêmio de relógio esportivo em 2012 e o Felix, o prêmio Petite Aiguille em 2015, um feito notável para uma manufatura tão pequena e familiar. A produção é minúscula e artesanal, com forte apelo entre conhecedores.\n\nHoje a Habring² é a joia da alta relojoaria austríaca, dirigindo-se a colecionadores que valorizam complicações de verdade, engenharia inteligente e a autenticidade de uma manufatura familiar. Mais que status, entrega substância técnica e acessibilidade rara no segmento."
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://www.exquisitetimepieces.com/blog/habring²-the-complete-brand-breakdown/",
+   "https://www.horbiter.com/en/?p=26654"
+  ],
+  "I": [
+   "https://www.horbiter.com/en/?p=26654",
+   "https://timeandtidewatches.com/?p=113576",
+   "https://quillandpad.com/2023/04/15/in-praise-of-habring2-a-collectors-view-reprise-4/",
+   "https://monochrome-watches.com/category/habring2/page/2"
+  ]
+ },
+ "observacoes": "Corrigido em 19/11/2026 (v714): B Suíça → Áustria (Exquisite Timepieces: fundada em Völkermarkt, Caríntia, Áustria; Horbiter: 'from Austria'). I: tirado o aviso '[⚠️ planilha indicava Suíça…]' e corrigido o GPHG — antes dizia que o Doppel-Felix ganhou como 'melhor relógio esportivo'; o prêmio de relógio esportivo de 2012 foi do Doppel 2.0 (Horbiter, Time+Tide) e o Felix ganhou o Petite Aiguille em 2015 (Monochrome, Quill & Pad). Ainda a verificar: prêmio do Doppel-Felix em 2018 (só 1 fonte). Site habring2.com bloqueado; catálogo PDF de 2011 (habring2.com/download/Katalog_Habring2_Englisch.pdf) não acessível.",
+ "fontes": [
+  {
+   "url": "https://www.exquisitetimepieces.com/blog/habring²-the-complete-brand-breakdown/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchprozine.com/digest/habring2-collectors-guide/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprozine.com/digest/habring-time-only-regatta-movements-overview/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://delraywatch.com/habring/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://horologybythesea.com/en-ca/collections/habring2",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://hourstriker.com/brands/habring2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/buy/habring",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://definewatches.com.au/shop/habring/doppel-felix-salmon/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://horologybythesea.com/en-ca/collections/habring2?page=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.definewatches.com.au/?p=69128",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/habring2/home",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2021/08/habring2-erwin-star-sjx-edition-one.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/habring2-x-sjx-chrono-felix-perpetual-star-introducing-price/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://watchesbysjx.com/2026/02/habring2-sjx-chrono-felix-medicus.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/habring-a08mcos-habring2-ss-chrono-cos-lacquered-dial-prototype-38637",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wornandwound.com/tag/habring2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/category/habring2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://monochrome-watches.com/category/habring2/page/2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/Habring2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/habring2/page/2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/Habring2/page/3?amp=1",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://deployant.com/tag/habring2/page/3/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2014/03/introducing-the-habring%c2%b2-new-entry-level-sports-watches-the-time-pilot-range-with-specs-and-pricing.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://everywatch.com/habring/watch-9054761",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/habring/watch-1731166",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/habring/doppel-38/watch-15036264",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/habring",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1670282/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/habring-x-sjx/HK080424/8046",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/in-depth/hidden-gems-the-rare-special-editions-from-shellman-and-its-independent-brand-partners/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2023/10/habring2-introduces-the-shellman-50th-anniversary-black-gilt.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2022/07/habring2-shellman-50th-anniversary-sector-dial.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-doppel-38-for-awc-10th-anniversary-special-edition-5-10-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-aurora-33-piece-special-edition-serial-127-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-x-hbts-oskar-date-moon-special-edition-serial-6-18-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-oskar-moon-shellman-special-edition-of-5-pieces-serial-3-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/en-ca/products/habring-doppel-felix-rattrapante-green-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-erwin-lab-w-hardened-steel-case-serial-1-pre-owned.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/2023/04/15/in-praise-of-habring2-a-collectors-view-reprise-4/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.acollectedman.com/collections/habring2/products/habring2-erwin-lab-02-massena-lab",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/kudoke-kunstwerk-kudoktourbi-by-stefan-kudoke-and-habring/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://mrwatchley.figure8.be/products/habring2-tz20-chrono-cos-20-pieces-only",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/limited-edition-habring2-doppel-3-horlogerie-suisse-com",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2019/06/habring2-perpetual-doppel.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2015/12/01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2020/08/habring2-massena-lab-erwin-lab02.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/doppel-2-0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/doppel-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/foudroyante",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/doppel-felix",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-habring²-x-timezone-erwin-21-jumping-seconds-ref-tz21/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://cronotempvscollectors.com/cronotempvs-vi-by-habring2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2013/01/news-habring%C2%B2-jumping-seconds-pilots-watch-with-optional-antimagnetic-escapement.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.acollectedman.com/collections/all/products/habring2-doppel-3-1-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprozine.com/digest/habring-jumping-seconds-the-allure-of-special-editions-for-collector-communities/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-cronotempvs-iii-pusherless-chronograph-serial-18-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-cronotempvs-vi-jumping-seconds-power-reserve-serial-18-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/the-gorgeous-habring2-for-thc-erwin-thc-school-piece/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/found-habring2-monopusher-chronograph-japan-edition-black/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/monochrome-montre-de-souscription-1-habring2-salmon-sector-dial-monopusher-chronograph-introducing",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/collectors-series-gavin-douglas-custom-made-habring2-chrono-felix/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/hands-on-with-the-habring-jumping-second-with-power-reserve/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2021/08/massena-lab-habring2-shapiro-erwin-lab03.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2018/11/massena-lab-habring2-erwin-lab-o1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2019/09/habring2-salmon-dial-collection.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://vivir.com/watch-brand/habring",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2024/05/habring2-doppel-38-hong-kong-edition.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-habring-x-cronotempvs-endurance/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-habring²-erwin-first-jumping-second-with-in-house-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2011/08/the-new-catalogue-from-habring%C2%B2.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/habring/habring2-roulette/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bandierajewellers.com/products/habring-oskar-roulette.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-habring2-x-massena-lab-chrono-felix-perpetual-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/habring/CH080123/30",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/habring/198529",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/habring²/229262",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/habring/181997",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/habring/192302",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/habring/HK080124/8024",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.horbiter.com/en/?p=26654",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=113576",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-monochrome-montre-de-souscription-4-by-habring/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2023/08/habring2-chrono-felix-top-second.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/collections/habring-x-hbts-special-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-erwin-uk-market-special-edition-serial-10-10",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-cos-chronograph-dlc-special-edition-8-2010-pre-owned",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-cos-zm-special-edition-15-15-pre-owned-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/habring²-pilot-watches-a-tale-of-two-fun-and-rare-complications/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ragoarts.com/auctions/2022/11/watches-including-the-brian-laviolette-scholarship-foundation-benefit-lots/157",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/habring-ref-erwin-lab-01-erwin-massena-lab-lot-356-135",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-36mm-monopusher-chronograph-shellman-pre-owned",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/habring",
+   "passada": 2,
+   "novos": 11
+  },
+  {
+   "url": "https://definewatches.com.au/shop/habring/habring-x-define-watches-lucky-20-limited-edition/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/shop/habring/habring-define-watches-ltd-ed/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/habring-time-only-2009/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/habring/felix-white/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/shop/habring/erwin-arabic-second/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/in-depth/what-is-red-and-black-and-cool-all-over-the-habring%c2%b2-x-define-watches-monopusher-chronograph/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://definewatches.com.au/the-watch-journal/watch-news/new-habring%c2%b2-erwin-tuxedo/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/collectors-market/sold-habring2-doppel-3-0/712.1298351.11054666/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bandierajewellers.com/collections/habring2-watches",
+   "passada": 3,
+   "novos": 10
+  },
+  {
+   "url": "https://www.belmontwatches.com/products/habring2-steel-grand-erwin-passion-10th-anniversary-special-edition",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/2015-habring2-felix-blue",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/en-ca/products/habring-foudroyante-felix-black-dial-w-dauphine-hands-serial-22-pre-owned.oembed",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-erwin-white-lacquer-dial-black-breguet-numerals-serial-103-pre-owned",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://collectivehorology.com/products/habring-ss-chrono-felix-monopusher-salmon-copper-dial-pre-owned",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bandierajewellers.com/products/habring2-josef-12-white-lacquer-dial",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1644827/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1688807",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprozine.com/page-c.collection.detail/habring2-chezard-116/ti-781998/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/habring/chrono-felix/5009718",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/habring-felix-w-salmon-dial-sunray-finished-bridge-short-length-blue-messina-strap-serial-267",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
