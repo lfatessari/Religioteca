@@ -1,0 +1,3 @@
+# Halios (linha 907) — oficial halioswatches.com PROVENANCE; Firecrawl sem créditos
+Fontes até agora: watchcharts (client_error), watchpatrol brand, delraywatch, 2BWS, aurifo (2x), fratello (vazio), T+T micro mondays, dialicious brand, dialicious Seaforth IV.
+Modelos: Puck (47mm), Tropik (B bronze? / SS), Laguna, Delfin, Holotype?, Seaforth I (Miyota 90S5), II, III (ETA 2824, Abyss Blue), GMT (ETA 2893), Seaforth B bronze, Roldorf Edition, Seaforth IV (Bahama Yellow fixa/mergulho, Pastel Blue 12h, Pink, No-Fuss Black, Verglas White Ti, Full Lume, Sunburst Grey/Blue, Titanium Black), Universa (Huckberry LE 50), Universa II, Universa II Vitreous Enamel, Fairwind (Bathyal Blue, Slate Grey; 12h safira ou 60 min aço).

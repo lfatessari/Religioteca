@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 904,
- "ultima_versao": 720,
+ "proxima_linha_marcas": 907,
+ "ultima_versao": 721,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12333,6 +12333,33 @@
    "vermelho": false,
    "site_bloqueado": false,
    "fontes": 24
+  },
+  {
+   "marca": "Haldimann",
+   "data": "2026-11-19",
+   "versao": 721,
+   "relogios": 11,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 28
+  },
+  {
+   "marca": "Haldor",
+   "data": "2026-11-19",
+   "versao": 721,
+   "relogios": 4,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 17
+  },
+  {
+   "marca": "Halios",
+   "data": "2026-11-19",
+   "versao": 721,
+   "relogios": 37,
+   "vermelho": false,
+   "site_bloqueado": false,
+   "fontes": 28
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12436,24 +12463,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-19T08:43:47Z",
- "ultimo_sinal": "2026-11-19T08:59:04Z",
- "em_andamento": {
-  "marcas": [
-   "Haldimann",
-   "Haldor",
-   "Halios"
-  ],
-  "linha_marcas": 905,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Haldimann completa",
-   "Haldor completa"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
