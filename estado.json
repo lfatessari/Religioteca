@@ -12590,5 +12590,19 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-19T17:44:01Z",
+ "ultimo_sinal": "2026-11-19T17:44:01Z",
+ "em_andamento": {
+  "marcas": [
+   "Hautlence"
+  ],
+  "linha_marcas": 916,
+  "grande": true,
+  "relogios": "historico/parcial_Hautlence_relogios.txt",
+  "fontes": "historico/parcial_Hautlence_fontes.txt",
+  "notas": "historico/notas_Hautlence.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
