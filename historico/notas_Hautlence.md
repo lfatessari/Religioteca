@@ -25,3 +25,4 @@
 - HLC01/02/03/04 fotos worldtempus wysiwyg; HLC06 gphg; HL Classic Bleu (worldtempus, img hautlence_hl_hl08-classic.jpg)
 - Moebius 01 ouro vermelho H1380-0200 LE 8; Vortex 02 MTE002329 LE 8 (TLE diz bronze; Monochrome diz ouro 5N+); Pinball peça única Ti; Labyrinth by Colette LE 5 DLC; Labyrinth 01 (LE 18 ouro vermelho / 18 ouro branco); Vida Loca Choppers LE 28; HL Sphere 02 H1501-0203 LE 28 ouro branco; HLRS 01/02/03 fotos watchmobile7; HLRQ 02/03 fotos photobucket; HLQ01-08 materiais (worldtempus); HL2.0 28/modelo ouro rosa/branco; Invictus Neon Green foto 2019/11/INVICTUS-NEON-GREEN-EDITION.jpeg
 - Delray "Atelier ..." = nome de catálogo do World of Watches para HLRQ (não é modelo) — fora.
+- 1ª passada encerrada (3 últimas sem novidade). Vermelho: faltam HLs 01/05/06/07, HL06/HL07, HLC 05, variantes HL Sphere (Bucherer 1398-630-6). 2ª passada a seguir.
