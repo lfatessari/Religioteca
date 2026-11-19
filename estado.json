@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 894,
-  "ultima_versao": 715,
+  "proxima_linha_marcas": 895,
+  "ultima_versao": 716,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12206,6 +12206,24 @@
         "3": "3 fontes, 0 novos (fontes da internet esgotadas)"
       },
       "obs": "hacher-uhren.de robots_disallowed e Firecrawl sem créditos; base classic-watch.de, archive.watch.de (Häffner), okdwo, montre24, roroos, Kleinanzeigen, eBay. B, C, D, G, I, J corrigidos. Haemmer (895) parece grande (centenas de modelos de TV/loja com refs HQ-, ND-, DHC-, C-) e fica sozinha para a próxima execução. Projects ausente: pendências dos posts não lidas."
+    },
+    {
+      "data": "2026-11-19",
+      "versao": 716,
+      "marca": "Haemmer",
+      "linha_marcas": 895,
+      "linhas_relogios": "108136-108350",
+      "relogios": 215,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 77,
+      "passadas": {
+        "1": "56 fontes, 118 relógios novos",
+        "2": "10 fontes, 39 relógios novos (catálogo de 2011 em PDF, okdwo)",
+        "3": "11 fontes, 0 novos nas páginas abertas (5 modelos novos só por títulos de busca)"
+      },
+      "obs": "haemmer-germany.com PROVENANCE; Firecrawl sem créditos; loja oficial haemmer-shop.com abriu (coleções atuais, Impressum, Über uns); markenuhren-billiger, Amazon, Jomashop, Chrono24 e quase todo eBay bloqueados (79 modelos entraram só por título/página). Base: haemmer-shop.com, catálogo Haemmer 2011 (luxus.cl), allwatches, uhrenheld, okdwo, klausbua, Kleinanzeigen, Otto. C, G, I, J corrigidos. Projects ausente: pendências dos posts não lidas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12308,31 +12326,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-19T03:44:23Z",
-  "ultimo_sinal": "2026-11-19T04:08:25Z",
-  "em_andamento": {
-    "marcas": [
-      "Haemmer"
-    ],
-    "linha_marcas": 895,
-    "grande": true,
-    "relogios": "historico/parcial_Haemmer_relogios.txt",
-    "fontes": "historico/parcial_Haemmer_fontes.txt",
-    "notas": "historico/notas_Haemmer.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }
