@@ -12518,18 +12518,21 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-19T12:43:48Z",
-  "ultimo_sinal": "2026-11-19T12:43:48Z",
+  "ultimo_sinal": "2026-11-19T12:53:24Z",
   "em_andamento": {
     "marcas": [
-      "Hanowa Swiss Watches",
-      "HappieWatch"
+      "Hanowa Swiss Watches"
     ],
     "linha_marcas": 911,
-    "grande": false,
-    "relogios": "historico/parcial_Hanowa_relogios.txt",
+    "grande": true,
+    "relogios": "historico/hanowa.json",
     "fontes": "historico/parcial_Hanowa_fontes.txt",
     "notas": "historico/notas_Hanowa.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3"
+    ],
     "passada": 1
   }
 }
