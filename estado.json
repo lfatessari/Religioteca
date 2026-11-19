@@ -12548,7 +12548,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-19T15:44:02Z",
- "ultimo_sinal": "2026-11-19T16:05:45Z",
+ "ultimo_sinal": "2026-11-19T16:08:46Z",
  "em_andamento": {
   "marcas": [
    "Harry Winston"
@@ -12560,11 +12560,16 @@
   "notas": "historico/notas_Harry Winston.md",
   "secoes_feitas": [
    "1",
-   "2(parcial)",
-   "5(parcial)",
-   "7(parcial)",
-   "9(parcial)"
+   "2",
+   "2c",
+   "3",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
