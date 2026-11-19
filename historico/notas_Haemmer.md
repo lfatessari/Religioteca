@@ -11,3 +11,5 @@
 - herrenuhren24: fundada em 2008 em Kamen (NRW); estreou na Inhorgenta 2011 (Munique); vendida em 38 países; coleções Sicilica, Unica, Independica, Dark Secret, Noblica, Feminica, Classica; logo gravado na lateral oposta à coroa.
 - manualslib: Haemmer, Güldentröge 15, 59174 Kamen; www.haemmer-germany.com; manual cobre HC, HM, HK, HA, DHC, NA, BD.
 - Fim da 1ª passada ~04:05 UTC. Marca VERMELHA: centenas de refs (lacunas HC-03..HC-51, HM-02/03/10/13/14, DHC-02/03/06..., HQ-09, ND-04/06, coleções Sicilica/Unica sem modelos achados; site haemmer-germany.com e markenuhren-billiger bloqueados).
+- Manual 2016 (d.otto.de): coleções Independica, Classica, Charactica, Noblica, Feminica, Sicilica, Unica, Dark Secret; códigos LA, HF, HA, NA, BD, HK, DSC, UC.
+- Rakuten hachigoten: fundada em 2008 por Holger Bohne e Jeroen Opdam; caixas 50 mm (homens) / 45 mm (mulheres); coroa à esquerda, logo gravado à direita; prêmio de fundador IHK Dortmund 2012 (Caduceu de prata); 'Die Besten im Westen' 2014; RTL 2015.
