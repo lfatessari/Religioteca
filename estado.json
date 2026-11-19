@@ -12548,7 +12548,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-19T15:44:02Z",
- "ultimo_sinal": "2026-11-19T15:44:02Z",
+ "ultimo_sinal": "2026-11-19T15:56:01Z",
  "em_andamento": {
   "marcas": [
    "Harry Winston"
@@ -12558,7 +12558,10 @@
   "relogios": "historico/parcial_Harry Winston_relogios.txt",
   "fontes": "historico/parcial_Harry Winston_fontes.txt",
   "notas": "historico/notas_Harry Winston.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2(parcial)"
+  ],
   "passada": 1
  }
 }
