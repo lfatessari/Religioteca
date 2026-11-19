@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 897,
- "ultima_versao": 717,
+ "proxima_linha_marcas": 901,
+ "ultima_versao": 719,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12240,6 +12240,72 @@
     "1": "35 fontes, 50 relógios"
    },
    "obs": "hagerwatches.com PROVENANCE; base no espelho oficial hagerwatches.squarespace.com (Aquamariner, Diplomat, Fellow Traveler, Commando Milsub, Interceptor, U-2, turbilhões de bolso), Time Bum (Professional Series, Pheon, entrevista 2014 com S.E.R.E., Mark V Aviator, Triton), Everest Bands (Flieger, Skymaster), KeepTheTime, Gear Journal, Wrist Watch Review. Firecrawl sem créditos. Hagal (896) adiada (menos de 8 fontes). Hagley West (898) parece grande e fica sozinha. Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 718,
+   "marca": "Hagley West",
+   "linha_marcas": 898,
+   "linhas_relogios": "108401-108579",
+   "relogios": 179,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 87,
+   "passadas": {
+    "1": "67 fontes, 161 relógios novos",
+    "2": "10 fontes, 18 relógios novos (eBay, Reina, 1ª série LYJ)",
+    "3": "10 fontes, 0 novos nas páginas abertas (3 Brooklyn 36 só por títulos de busca)"
+   },
+   "obs": "hagleywest.com products.json e collections/all PROVENANCE; Firecrawl sem créditos; base: páginas de produto e coleções das lojas oficiais UK e EUA (us-hagleywest.com) vindas de busca (modo extended traz páginas de coleção), loja eBay, King Sentinel, Life in a Breakdown. Haigh & Hastings e Haim adiadas (marca grande vai sozinha). Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 719,
+   "marca": "Haigh & Hastings",
+   "linha_marcas": 899,
+   "linhas_relogios": "108580-108589",
+   "relogios": 10,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 22,
+   "passadas": {
+    "1": "22 fontes, 10 relógios"
+   },
+   "obs": "haighandhastings.com sem acesso; base: Oceanic Time (SASR, 1st MP Bn), Time+Tide, Watch Report, Wrist Watch Review (Green Brian, Australis), Keep the Time, ProductReview (Aurora), ficha espelho do Atlas (Blue Ring). Logo do Oceanic Time. Firecrawl sem créditos; Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 719,
+   "marca": "Haim",
+   "linha_marcas": 900,
+   "linhas_relogios": "108590-108610",
+   "relogios": 21,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 22,
+   "passadas": {
+    "1": "22 fontes, 21 relógios"
+   },
+   "obs": "haimwatchco.com PROVENANCE; base: Worn & Wound, Rescapement, aBlogtoWatch, Time Bum, Watchclicker, Calibrated Wrist, Hour Markers, GPHG, Europa Star, Topper. I corrigida (era só aviso). Firecrawl sem créditos; Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 719,
+   "marca": "Hajime Asaoka",
+   "linha_marcas": 901,
+   "linhas_relogios": "108611-108622",
+   "relogios": 12,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 30,
+   "passadas": {
+    "1": "30 fontes, 12 relógios"
+   },
+   "obs": "hajimeasaoka.com PROVENANCE; base: Phillips (6 lotes), Deployant, Quill & Pad, Monochrome, GPHG, Oracle of Time, aBlogtoWatch, Europa Star, AHCI. Logo da Watchonista. Firecrawl sem créditos; Projects ausente: pendências dos posts não lidas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

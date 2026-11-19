@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 898,
- "ultima_versao": 718,
+ "proxima_linha_marcas": 901,
+ "ultima_versao": 719,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12258,6 +12258,54 @@
     "3": "10 fontes, 0 novos nas páginas abertas (3 Brooklyn 36 só por títulos de busca)"
    },
    "obs": "hagleywest.com products.json e collections/all PROVENANCE; Firecrawl sem créditos; base: páginas de produto e coleções das lojas oficiais UK e EUA (us-hagleywest.com) vindas de busca (modo extended traz páginas de coleção), loja eBay, King Sentinel, Life in a Breakdown. Haigh & Hastings e Haim adiadas (marca grande vai sozinha). Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 719,
+   "marca": "Haigh & Hastings",
+   "linha_marcas": 899,
+   "linhas_relogios": "108580-108589",
+   "relogios": 10,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 22,
+   "passadas": {
+    "1": "22 fontes, 10 relógios"
+   },
+   "obs": "haighandhastings.com sem acesso; base: Oceanic Time (SASR, 1st MP Bn), Time+Tide, Watch Report, Wrist Watch Review (Green Brian, Australis), Keep the Time, ProductReview (Aurora), ficha espelho do Atlas (Blue Ring). Logo do Oceanic Time. Firecrawl sem créditos; Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 719,
+   "marca": "Haim",
+   "linha_marcas": 900,
+   "linhas_relogios": "108590-108610",
+   "relogios": 21,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 22,
+   "passadas": {
+    "1": "22 fontes, 21 relógios"
+   },
+   "obs": "haimwatchco.com PROVENANCE; base: Worn & Wound, Rescapement, aBlogtoWatch, Time Bum, Watchclicker, Calibrated Wrist, Hour Markers, GPHG, Europa Star, Topper. I corrigida (era só aviso). Firecrawl sem créditos; Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 719,
+   "marca": "Hajime Asaoka",
+   "linha_marcas": 901,
+   "linhas_relogios": "108611-108622",
+   "relogios": 12,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 30,
+   "passadas": {
+    "1": "30 fontes, 12 relógios"
+   },
+   "obs": "hajimeasaoka.com PROVENANCE; base: Phillips (6 lotes), Deployant, Quill & Pad, Monochrome, GPHG, Oracle of Time, aBlogtoWatch, Europa Star, AHCI. Logo da Watchonista. Firecrawl sem créditos; Projects ausente: pendências dos posts não lidas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12361,24 +12409,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-19T06:44:23Z",
- "ultimo_sinal": "2026-11-19T06:56:03Z",
- "em_andamento": {
-  "marcas": [
-   "Haigh & Hastings",
-   "Haim",
-   "Hajime Asaoka"
-  ],
-  "linha_marcas": 899,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "Hajime Asaoka: completa (30 fontes, 12 relógios)",
-   "Haim: completa (22 fontes, 21 relógios)"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
