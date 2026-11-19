@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 897,
-  "ultima_versao": 717,
+  "proxima_linha_marcas": 898,
+  "ultima_versao": 718,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12240,6 +12240,24 @@
         "1": "35 fontes, 50 relógios"
       },
       "obs": "hagerwatches.com PROVENANCE; base no espelho oficial hagerwatches.squarespace.com (Aquamariner, Diplomat, Fellow Traveler, Commando Milsub, Interceptor, U-2, turbilhões de bolso), Time Bum (Professional Series, Pheon, entrevista 2014 com S.E.R.E., Mark V Aviator, Triton), Everest Bands (Flieger, Skymaster), KeepTheTime, Gear Journal, Wrist Watch Review. Firecrawl sem créditos. Hagal (896) adiada (menos de 8 fontes). Hagley West (898) parece grande e fica sozinha. Projects ausente: pendências dos posts não lidas."
+    },
+    {
+      "data": "2026-11-19",
+      "versao": 718,
+      "marca": "Hagley West",
+      "linha_marcas": 898,
+      "linhas_relogios": "108401-108579",
+      "relogios": 179,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 87,
+      "passadas": {
+        "1": "67 fontes, 161 relógios novos",
+        "2": "10 fontes, 18 relógios novos (eBay, Reina, 1ª série LYJ)",
+        "3": "10 fontes, 0 novos nas páginas abertas (3 Brooklyn 36 só por títulos de busca)"
+      },
+      "obs": "hagleywest.com products.json e collections/all PROVENANCE; Firecrawl sem créditos; base: páginas de produto e coleções das lojas oficiais UK e EUA (us-hagleywest.com) vindas de busca (modo extended traz páginas de coleção), loja eBay, King Sentinel, Life in a Breakdown. Haigh & Hastings e Haim adiadas (marca grande vai sozinha). Projects ausente: pendências dos posts não lidas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12343,32 +12361,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-19T05:43:37Z",
-  "ultimo_sinal": "2026-11-19T06:08:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Hagley West"
-    ],
-    "linha_marcas": 898,
-    "grande": true,
-    "relogios": "historico/parcial_Hagley_West_relogios.txt",
-    "fontes": "historico/parcial_Hagley_West_fontes.txt",
-    "notas": "historico/notas_Hagley_West.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 2
-  }
+  "adiadas_obs": {}
 }
