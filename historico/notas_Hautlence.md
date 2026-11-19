@@ -19,3 +19,5 @@
 - HL Ti 01, HL Ti 02, HL Black Ceramic, HL05, HLRQ-01/04/05, HLRS 03, HLRS.01, HL2.6, Vortex 01/02, Vortex Bronze, Vortex Gamma, Tourbillon 01/02, Invictus 01/03/04, Destination 01/02 (Titanium), Labyrinth 01, Sphere Series 5, Linear Series 3 Red (=Series 3?)
 - EveryWatch: watch pages pedem login (2 tentativas, 0).
 - Monochrome categoria: páginas 1,2,3 abertas; faltam 4 e 5.
+- Fotos: Vortex 02 / HL2.6 / Tourbillon 02-03 / Invictus 04 (monochrome 2016/01), HLRQ04/05 (2014/11), Destination 01 (2014/05), Sphere S5 (app/uploads/2026/10/Hautlence-Sphere-Series-5-1.jpg, LE 28 Ti), Vortex Gamma (LE 8), Tourbillon 01, Invictus Morphos (LE 250, 2014/09/DSC_0552.jpg), HL Black Ceramic (LE 88), HL2.4 (2013/05), HL Ti 01, HLRS 03, HL08 (europastar, LE 88, 2010 ouro branco), HL 03 (phillips, ouro rosa 88), HLs 03 (bernard, sem foto), HL04 Honeycomb ouro branco (europeanwatch 17785-1.jpg), HL01 ouro amarelo (1stdibs)
+- Destination 02 Ti, 03 preto DLC, 04 marrom DLC+ouro
