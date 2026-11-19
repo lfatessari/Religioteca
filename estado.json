@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 911,
-  "ultima_versao": 725,
+  "proxima_linha_marcas": 912,
+  "ultima_versao": 726,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12431,6 +12431,18 @@
         "3": "23 fontes, 16 relógios novos"
       },
       "obs": "Só relógios com a marca Hanowa (HAW…, 16-…); Swiss Military Hanowa fica na linha Swiss Military. hanowa.com e happiewatch.com PROVENANCE; Firecrawl sem créditos; ferramenta Projects ausente (pendências dos posts não lidas). Correção I (fundador Hans Noll). HappieWatch fica para a próxima."
+    },
+    {
+      "marca": "HappieWatch",
+      "data": "2026-11-19",
+      "versao": 726,
+      "linha_marcas": 912,
+      "linhas_relogios": "109894-109928",
+      "relogios": 35,
+      "vermelho": false,
+      "site_bloqueado": "parcial (WebFetch PROVENANCE; Firecrawl abre)",
+      "fontes": 26,
+      "firecrawl_creditos": "~85"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12534,23 +12546,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-19T15:00:21Z",
-  "ultimo_sinal": "2026-11-19T15:07:42Z",
-  "em_andamento": {
-    "marcas": [
-      "HappieWatch"
-    ],
-    "linha_marcas": 912,
-    "grande": false,
-    "relogios": "historico/parcial_HappieWatch_relogios.txt",
-    "fontes": "historico/parcial_HappieWatch_fontes.txt",
-    "notas": "historico/notas_HappieWatch.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

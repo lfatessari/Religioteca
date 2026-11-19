@@ -1,0 +1,142 @@
+{
+ "marca": "HappieWatch",
+ "usa_codigos": false,
+ "logo": "https://happiewatch.com/cdn/shop/files/hw_logo.png?v=1768424819&width=600",
+ "site_bloqueado": "Parcial – happiewatch.com não abre pela WebFetch (PROVENANCE_REQUIRED, 19/11/2026); abre pelo Firecrawl",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Bateria de relógios 19/11/2026: 35 relógios (34 do site oficial + o Joe Biden da coleção FunnyFace de 2020). Site oficial happiewatch.com não abre pela WebFetch (PROVENANCE_REQUIRED), abriu pelo Firecrawl. Logo (K): hw_logo.png do site oficial. H continua vazio: nenhum perfil oficial de Instagram apareceu nas fontes abertas (só o Facebook facebook.com/HappieWatch). Ainda a verificar: fundador — a página About Us do site oficial conta a história de 'Charlie', enquanto WatchPro (15/09/2020) e Master Horologer (22/09/2020) citam Frank Zhu, com escritórios em Hong Kong e Xangai; Indiegogo: HappieWatch Limited, Tsim Sha Tsui (Kowloon), fundada em 2019 (o About Us também diz 2019). Na aba Marcas, F (US$ 229–269 no site) e os 5 nomes de J batem com o site oficial.",
+ "fontes": [
+  {
+   "url": "https://happiewatch.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 34
+  },
+  {
+   "url": "https://mikeshouts.com/?p=192192",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/introducing-the-happiewatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.appbank.net/?p=1960474",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/products/happiewatch-dragon-limited-edition-unisex-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/collections/featured-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/collections/test/products.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.indiegogo.com/en/projects/happiewatch/happiewatch-wave-goodbye-to-boring-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2020/09/22/introducing-happiewatch-funnyface-collection/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thehourmarkers.com/articles/watches-that-make-you-smile",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.indiegogo.com/cs/projects/happiewatch/happiewatch-wave-goodbye-to-boring-watches/rewards",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://news.marketersmedia.com/happiewatch-launches-on-indiegogo/88979191",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/blogs/news/watches-can-be-different",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/pages/customer-lookbook",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://business.mammothtimes.com/mammothtimes/news/read/41438414/move_over_sneakers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/sitemap_products_1.xml?from=6142120263845&to=9100544377059",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpolice.com/brands/happiewatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amazon.com/stores/HappieWatch/page/A091283E-CFE0-45B1-9414-9627D2327FFE",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://happiewatch.com/es/products/happiewatch-t2021-collection-limited-edition-unisex-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/shop/happie-watch?_nkw=happie+watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=54898",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
