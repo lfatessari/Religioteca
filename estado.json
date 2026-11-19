@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 912,
- "ultima_versao": 726,
+ "proxima_linha_marcas": 913,
+ "ultima_versao": 727,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12443,6 +12443,25 @@
    "site_bloqueado": "parcial (WebFetch PROVENANCE; Firecrawl abre)",
    "fontes": 26,
    "firecrawl_creditos": "~85"
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 727,
+   "marca": "Harry Winston",
+   "linha_marcas": 913,
+   "linhas_relogios": "109929-110359",
+   "relogios": 431,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": "parcial (/en/watches PROVENANCE; coleções em JS; fichas abrem; sitemap pelo Firecrawl)",
+   "fontes": 117,
+   "passadas": {
+    "1": "84 fontes, 370 relógios novos",
+    "2": "19 fontes, 45 relógios novos",
+    "3": "14 fontes, 16 relógios novos"
+   },
+   "firecrawl_creditos": "~22 (acabaram; renovam 20/11 13:43 UTC)",
+   "obs": "Ocean completa pelo sitemap (86 refs); Premier/Avenue/Emerald/Midnight/alta joalheria parciais. Complemento futuro com Firecrawl: query no sitemap.xml por coleção (premier, avenue, emerald, midnight, high-jewelry, histoire-de-tourbillon-and-opus) e og:image das fichas. Ferramenta Projects ausente (pendências dos posts não lidas)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12534,7 +12553,8 @@
   "G-Shock (linha 875)": "Linha da Casio: a bateria Casio (v. historico) já gravou 1364 relógios 'G-SHOCK ...' em Relógios 36666-38768. Entrou como apelido G-Shock→Casio no proxima_marca.py em 18/11/2026; não pesquisar de novo.",
   "GSX (linha 876)": "Gravada em 18/11/2026 (v702), 181 relógios (106140-106320), vermelha. Complemento futuro com Firecrawl: Mercari (GSX EVE, GSX SMART XX, ジーエスエックス 時計, GSX LOV, GSX 200), Yahoo! Leilões (outros termos e páginas 2+), Fril; fotos das ~25 linhas só com link de anúncio; site gsx-watch.com (fora do ar em 18/11).",
   "H20 Watch (linha 890)": "Mesma marca que H2O (891): relógios gravados como 'H2O' na v712; APELIDOS no proxima_marca.py faz a linha 890 ser pulada. Não pesquisar de novo.",
-  "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json)."
+  "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json).",
+  "Harry Winston (linha 913)": "Gravada em 19/11/2026 (v727), 431 relógios (109929-110359), vermelha. Complemento futuro com Firecrawl: harrywinston.com/sitemap.xml (formato query, uma coleção por vez: premier, avenue, emerald, midnight, high-jewelry-timepieces, histoire-de-tourbillon-and-opus) para listar todas as referências; fotos pelo og:image das fichas (têm ?rev=hash)."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -12546,30 +12566,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-19T15:44:02Z",
- "ultimo_sinal": "2026-11-19T16:08:46Z",
- "em_andamento": {
-  "marcas": [
-   "Harry Winston"
-  ],
-  "linha_marcas": 913,
-  "grande": true,
-  "relogios": "historico/parcial_Harry Winston_relogios.txt",
-  "fontes": "historico/parcial_Harry Winston_fontes.txt",
-  "notas": "historico/notas_Harry Winston.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }

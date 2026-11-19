@@ -1,0 +1,597 @@
+{
+ "marca": "Harry Winston",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – harrywinston.com: a página /en/watches não abriu pela WebFetch (PROVENANCE_REQUIRED, 19/11/2026) e as páginas de coleção carregam os produtos por JavaScript (vêm vazias); as fichas de produto abrem; o sitemap.xml abriu pelo Firecrawl; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Bateria de relógios 19/11/2026: 431 relógios (catálogo oficial atual por referência e variante de pulseira, mais linhas antigas: Opus 1–14, Histoire de Tourbillon 1–10, Project Z1–Z16, Excenter, Avenue, Ocean Sport, edições especiais). Marca pintada de vermelho: o site oficial tem centenas de referências (cada pulseira é uma referência) e só a coleção Ocean foi listada inteira (sitemap); Premier, Avenue, Emerald, Midnight e alta joalheria ficaram parciais, e as referências antigas (200/…, 310/…, 350/…, 400/…, 450/…) são muitas. Dados da aba Marcas conferidos com o que se abriu: Opus desde 2001 (Quill & Pad), Premier de 1989 e Ocean de 1998 (gc-yukizaki). Ainda a verificar: a compra pelo Swatch Group em 2013 (só vista no título de um artigo da aBlogtoWatch) e os diamantes Hope e Jonker (nada aberto sobre isso).",
+ "fontes": [
+  {
+   "url": "https://www.harrywinston.com/en/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-ocean-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/sitemap.xml",
+   "passada": 1,
+   "novos": 93
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-ocean-collection/ocean-biretrograde-automatic-36mm-w3/18k-white-gold-oceabi36ww061",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-36mm-r1/18k-rose-gold-prnqhm36rr009",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/user/584",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/harry-winston/watches/?paging=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://commit-watch.co.jp/en/collections/harry-winston",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/harry-winston/ocean",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://swisswatchexpo.com/watches/mens/harry-winston",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/premier-chinese-new-year-ox-automatic-36mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-36mm-w1",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-31mm-r1",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-31mm-w1",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-feathers-w4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-feathers-w2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-lace-31mm-r1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-valentines-day-automatic-36mm-r3",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-brilliant-sparkle-automatic-36mm-w1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-classic-w1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-classic-w2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-classic-r1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-classic-w4",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-automatic-36mm-r1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-automatic-36mm-w1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-infinity-automatic-36mm-w1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-moon-phase-automatic-42mm-w2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-winston-with-love-automatic-36mm-w2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-big-date-automatic-42mm-r1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/2023/01/05/harry-winston-opus-series-a-complete-overview-from-opus-1-to-opus-14-reprise/",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://revolutionwatch.com/z-factor-harry-winstons-project-z/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-harry-winston-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/histoire-de-tourbillon-and-opus/histoire-de-tourbillon-10-p1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/histoire-de-tourbillon-and-opus/histoire-de-tourbillon-9-r1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/histoire-de-tourbillon-and-opus/histoire-de-tourbillon-8-w1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/histoire-de-tourbillon-and-opus/histoire-de-tourbillon-7-w1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/in-depth/harry-winstons-histoire-de-tourbillon-the-first-five-episodes/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/harry-winston/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/harry-winston/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://gc-yukizaki.com/en/k/watch/harrywinston/history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Premier/Mens",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Avenue/Avenue-C",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Avenue/Avenue-B",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Ocean/Tourbillon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Premier/Ladys-Chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Premier-Excenter-Chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Ocean/Platinum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Premier-Excenter-Time-Zone",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Midnight-Automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Harry-Winston/Premier-Chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-sunflower-automatic-36mm-w6/black-pearl-alligator-leather-prnahm36ww050",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-precious-moon-phase-automatic-36mm-w1/18k-white-gold-prnamp36ww002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-premier-collection/premier-pearly-lace-automatic-36mm-w1/18k-white-gold-diamond-set-prnahm36ww011",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-emerald-collection/emerald-automatic-33mm-r1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-emerald-collection/emerald-33mm-w2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-emerald-collection/harry-winston-emerald-w8",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/ultimate-emerald-signature-by-harry-winston-w1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/precious-cluster-by-harry-winston-p1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/the-jewelers-secret-by-harry-winston-w1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/winston-candy-high-jewelry-watch-by-harry-winston-p29",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/sublime-timepiece-by-harry-winston-w1",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/precious-emerald-by-harry-winston-p4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chrono1010.watch/all-watches/harry-winston",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://majestixcollection.com/brands/harry-winston/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/144-harry-winston",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/products/harry-winston-premier-chronograph-as12350.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/harry-winston/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/harry-winston/page/3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/watchbrands/harry-winston",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/histoire-de-tourbillon-and-opus/histoire-de-tourbillon-6-w1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/harry-winston-limited-edition-shanghai-timepieces-12551.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/harry-winston-midnight-tourbillon-gmt-limited-edition-geneva-16334.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004083661.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/2039042-signature-7-by-harry-winston.html",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://archive.horlogerie-suisse.com/marques/harry_winston.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-classic-aurora-r1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-classic-r2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-classic-w3",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-emerald-collection/harry-winston-emerald-r5",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-emerald-collection/harry-winston-emerald-w7",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-emerald-collection/harry-winston-emerald-y2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.harrywinston.com/en/premier-shinde-automatic-36mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/premier-delicate-silk-automatic-36mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/premier-precious-weaving-automatic-36mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/premier-blooming-snow-automatic-36mm-0",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.harrywinston.com/en/midnight-39mm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/harry-winston/jewelry/watches/wrist-watches",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/used-harry-winston-watches",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/harry-winston/CH080415/7",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/harry-winston/midnight/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/harry-winston/avenue/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/harry-winston/194208",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/harry-winston/CH080124/26",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/harry-winston/NY080124/75",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-c-mini-r1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-c-mini-w2",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-c-mini-lily-cluster-w1",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-the-avenue-collection/avenue-c-mini-art-deco-w2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-diamond-drops-39mm-w1",
+   "passada": 2,
+   "novos": 8
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-diamond-drops-chocolate-39mm-r1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/winston-candy-high-jewelry-watch-by-harry-winston-p2",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/emerald-cluster-by-harry-winston-p1",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/cluster-by-harry-winston-p1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/winston-candy-high-jewelry-watch-by-harry-winston-p9",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/winston-candy-high-jewelry-watch-by-harry-winston-p12",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/high-jewelry-timepieces-by-harry-winston/ultimate-emerald-signature-by-harry-winston-w7",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/products/harry-winston-midnight-collection/midnight-retrograde-second-automatic-39mm-w1",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchonista.com/node/470250",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1000901618-the-excenter-tourbillon-from-harry-winston.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/harry-winston-premier-precious-butterfly-automatic-36mm-20156.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.harrywinston.com/en/harry-winston-emerald-14",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/ocean-moon-phase-reference-oceamp42r-r001-a-pink",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/ocean-dual-time-monochrome/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wwtest.bonhams.com/auction/27725/lot/933/harry-winston-or-project-z5-gmt-tourbillon-a-new-old-stock-rare-limited-edition-zalium-tourbillon-world-time-wristwatch-with-daynight-indicator-circa-2010",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
