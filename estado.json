@@ -12345,7 +12345,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-19T05:43:37Z",
-  "ultimo_sinal": "2026-11-19T06:02:42Z",
+  "ultimo_sinal": "2026-11-19T06:05:22Z",
   "em_andamento": {
     "marcas": [
       "Hagley West"
@@ -12358,7 +12358,9 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c"
+      "2c",
+      "3",
+      "9"
     ],
     "passada": 1
   }
