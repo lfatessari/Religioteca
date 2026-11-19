@@ -12328,7 +12328,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-19T04:43:32Z",
- "ultimo_sinal": "2026-11-19T04:52:34Z",
+ "ultimo_sinal": "2026-11-19T05:00:20Z",
  "em_andamento": {
   "marcas": [
    "Hager Watches"
@@ -12340,7 +12340,10 @@
   "notas": "historico/notas_Hager.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3",
+   "9"
   ],
   "passada": 1
  }
