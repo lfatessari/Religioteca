@@ -1,0 +1,203 @@
+{
+ "marca": "Hacher",
+ "usa_codigos": false,
+ "logo": "https://montre24.com/cache/img/d1/d10aaea08e8f9d8e-309.webp",
+ "site_bloqueado": "Site bloqueado – hacher-uhren.de robots_disallowed (WebFetch); revisitar com navegador",
+ "vermelho": true,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "B": "Alemanha",
+  "C": "Offenbach am Main",
+  "G": "hacher-uhren.de",
+  "D": "Cronógrafos automáticos com movimentos suíços (Valjoux 7750) e edições Walter Röhrl",
+  "I": "A Hacher (Hacher Uhren GmbH) é uma marca alemã de relógios mecânicos, fundada em 1991 por Jürgen Hackbarth-Herzberger, que aprendeu o ofício com Helmut Sinn; desde 2002 a sede fica em Offenbach am Main, vizinha a Frankfurt. A marca trabalha só com movimentos suíços, sobretudo o cronógrafo automático ETA Valjoux 7750, em séries pequenas.\n\nAs linhas clássicas são Aviateur (piloto com régua de cálculo), Atlantis (GMT), Stratos e H500, além do mergulhador Squalo. A Hacher ficou conhecida pelas edições com o piloto de rali Walter Röhrl: o cronógrafo WRC 2.4.14 (2011, 301 peças), o Pikes Peak GMT (500 peças, com fibra de vidro de um Audi S1 no rotor), a série Monte Carlo (quatro modelos de 100 peças, um para cada vitória de Röhrl no rali) e o X911.\n\n[⚠️ a confirmar: a grafia do sobrenome do fundador (a montre24 escreve 'Jurgen Gertsberger') e o ano de 2009 como início da parceria com Röhrl (fonte única)]",
+  "J": "Edition Walter Röhrl (WRC 2.4.14, Pikes Peak, Monte Carlo, X911)\n\nAtlantis GMT\n\nAviateur\n\nStratos\n\nH500\n\nSqualo Professional Diver"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://www.mikrolisk.de/show.php?site=280&letter=H&searchWhere=trademark&searchMode=exact&id=4",
+   "http://montre24.com/brand/Hacher/Hacherwatch/"
+  ],
+  "C": [
+   "https://www.mikrolisk.de/show.php?site=280&letter=H&searchWhere=trademark&searchMode=exact&id=4",
+   "http://montre24.com/brand/Hacher/Hacherwatch/"
+  ],
+  "G": [
+   "https://montre24.com/brand/Hacher/officialsite/",
+   "https://www.walter-magazin.de/lifestyle/zeit-fuer-walter/",
+   "https://hacher-uhren.de.dewebc.com/"
+  ],
+  "D": [
+   "https://classic-watch.de/Hacher-Chronograph-Atlantis-GMT_1",
+   "http://montre24.com/brand/Hacher/Hacherwatch/"
+  ],
+  "I": [
+   "http://montre24.com/brand/Hacher/Hacherwatch/",
+   "https://www.walter-magazin.de/lifestyle/zeit-fuer-walter/",
+   "https://www.mikrolisk.de/show.php?site=280&letter=H&searchWhere=trademark&searchMode=exact&id=4",
+   "https://www.youtube.com/watch?v=pUcTOvchYPY",
+   "https://www.classicdriver.com/en/node/852851",
+   "https://classic-watch.de/Hacher-Walter-Roehrl-ldquo-Pikes-Peak-rdquo-_1",
+   "https://www.classic-watch.de/Hacher-Monte-Carlo-Walter-Roehrl-ldquo-Audi-S1-rdquo-_1"
+  ],
+  "J": [
+   "http://montre24.com/brand/Hacher/Hacherwatch/",
+   "https://www.roroos.com/blog/hacher-watch-winder-direction-and-settings/",
+   "https://archive.watch.de/archive_english/hacher.html"
+  ]
+ },
+ "observacoes": "Bateria de relógios em 19/11/2026: corrigidos B (vazio → Alemanha), C (vazio → Offenbach am Main), G (vazio → hacher-uhren.de), D (era 'Microbrand de relógios de design'), I (texto genérico sobre microbrand de design trocado pelos fatos achados) e J (era 'Coleções de design contemporâneo'). Fontes: mikrolisk.de (Hacher Uhren GmbH, Offenbach, 'gegründet 2002'), montre24.com (fundada em 1991, sede em Offenbach desde 2002, linhas Aviateur/H500/Atlantis/Stratos), walter-magazin.de (fundador Jürgen Hackbarth-Herzberger, ex-aprendiz de Helmut Sinn, X911 de 50 peças), classic-watch.de, YouTube (WRC 2.4.14, 301 peças, 2011). Ainda a verificar: a Walter Magazin diz que a manufatura fica em Frankfurt (as outras duas dizem Offenbach); a mikrolisk dá 2002 como fundação (provável data da GmbH); a X911 aparece com 50 peças só na Walter Magazin; o Instagram @hacherwatches não foi confirmado; o 4º modelo da série Monte Carlo não foi achado.",
+ "fontes": [
+  {
+   "url": "https://classic-watch.de/Hacher-X911-Walter-Roehrl_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://classic-watch.de/Hacher-Chronograph-Atlantis-GMT_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classic-watch.de/Hacher-Monte-Carlo-Walter-Roehrl-ldquo-Opel-Ascona-400-rdquo-_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classic-watch.de/Hacher-Monte-Carlo-Walter-Roehrl-ldquo-Audi-S1-rdquo-_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://classic-watch.de/Hacher-Monte-Carlo-Walter-Roehrl-ldquo-Lancia-037-rdquo-_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://classic-watch.de/Hacher-Walter-Roehrl-ldquo-Pikes-Peak-rdquo-_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.classicdriver.com/en/node/852851",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gebraucht-kaufen.de/hacher",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1988626",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mikrolisk.de/show.php?site=280&letter=H&searchWhere=trademark&searchMode=exact&id=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "http://montre24.com/brand/Hacher/Hacherwatch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hacher-uhren.de.dewebc.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://archive.watch.de/archive_english/hacher.html",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://everywatch.com/watch-listing?auctionType=marketplace&brand=hacher",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.okdwo.com/xc546p-Hacher",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchdirectory.info/watch/d/19438/hacher-aviateur-automatic-chronograph-flight-computer-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auktionen.eppli.com/en/l/100571/hacher_herrenuhr_chronograph_h500_edelstahl_d_ca_42mm_ohne_krone?Lstatus=0&ord=bids_a&Accid=4&oldpagesize=96&currentpos=1951",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.watchlounge.com/index.php?thread%2F613-hacher-chrono-h500%2F=",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "http://watchcases.ru/shkatulki/poleznaya-informatsiya/watch/zavod-chasov-hacher/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/b/Hacher-Armbanduhren/31387/bn_96655802",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/itm/166286707397",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=pUcTOvchYPY",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://pages.ebay.de/uhrenmarkenlexikon/index.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.roroos.com/blog/hacher-watch-winder-direction-and-settings/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walter-magazin.de/lifestyle/zeit-fuer-walter/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://montre24.com/brand/Hacher/officialsite/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleinanzeigen.de/s-hacher-uhren/k0",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchtime.net/uhren/4-erschwingliche-handaufzugsuhren-made-in-germany/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/198110208698",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/225175431510",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
