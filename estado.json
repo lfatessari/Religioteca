@@ -12310,7 +12310,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-19T03:44:23Z",
-  "ultimo_sinal": "2026-11-19T04:06:29Z",
+  "ultimo_sinal": "2026-11-19T04:08:25Z",
   "em_andamento": {
     "marcas": [
       "Haemmer"
@@ -12333,6 +12333,6 @@
       "9",
       "10"
     ],
-    "passada": 2
+    "passada": 3
   }
 }
