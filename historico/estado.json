@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 915,
- "ultima_versao": 728,
+ "proxima_linha_marcas": 916,
+ "ultima_versao": 729,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12485,6 +12485,22 @@
    "site_bloqueado": "parcial (hauterive.swiss PROVENANCE)",
    "fontes": 29,
    "correcoes_marcas": "I (fundador Stéphane von Gunten), J",
+   "obs": "Ferramenta Projects ausente (pendências dos posts não lidas); Firecrawl sem créditos até 20/11 13:43 UTC."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 729,
+   "marca": "Hautlence",
+   "linha_marcas": 916,
+   "linhas_relogios": "110403-110510",
+   "relogios": 108,
+   "vermelho": true,
+   "site_bloqueado": "parcial (hautlence.com products.json PROVENANCE; .oembed pela busca)",
+   "fontes": 119,
+   "passadas": {
+    "1": "109 fontes",
+    "2": "10 fontes, 2 relógios novos"
+   },
    "obs": "Ferramenta Projects ausente (pendências dos posts não lidas); Firecrawl sem créditos até 20/11 13:43 UTC."
   }
  ],

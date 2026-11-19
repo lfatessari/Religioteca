@@ -1,0 +1,612 @@
+{
+ "marca": "Hautlence",
+ "usa_codigos": true,
+ "logo": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "site_bloqueado": "Parcial – hautlence.com: products.json pediu permissão (PROVENANCE); as coleções all.oembed e hl-complications.oembed abriram pela busca; revisitar com navegador",
+ "observacoes": "Relógios (v729): o comunicado do HLC 06 no GPHG (2012) é datado de La Chaux-de-Fonds; conferir se a sede saiu de Neuchâtel (fonte: gphg.org/en/watches/hl-sup-c-sup-06). Faltam modelos antigos das séries HL/HLs (HL06, HL07, HLs 01, 05, 06, 07) e HLC 05, citados como existentes mas não achados.",
+ "fontes": [
+  {
+   "url": "https://www.hautlence.com/collections/all.oembed",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/hautlence",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hautlence/watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://hourstriker.com/brands/hautlence",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernardwatch.com/Hautlence?View=list",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/hautlence",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://wristcheck.com/buy/hautlence",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-hlq-and-hlq-classic-explained/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004083082-hautlence.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.bucherer.com/us/en/watches/hautlence",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.dialicious.com/en/hautlence",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/Hautlence/page/2?amp=1",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22148",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://gphg.org/en/watches/hl-2-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/technical-creations-hautlence/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchonista.com/hautlence/home",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hautlence.com/collections/hl-complications.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kronos360.com/en/luxury-watches/hautlence",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/hautlence/watch-13426300",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/hautlence-from-one-jumping-hour-to-another-15409.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/category/hautlence/page/2/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://quillandpad.com/category/watch-brands-horology/hautlence/page/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchilove.com/tag/hautlence/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/hautlence",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/hautlence/catalog/150762",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/category/hautlence/page/3/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/category/hautlence/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://everywatch.com/hautlence/watch-12596384",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/sihh-2016-the-new-hautlence-collection-vortex02-tourbillon02-invictus04-hl26/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-hautlence-hlrq-04-hlrq-05-avant-garde-live-photos-price/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-destination-01-review-specs-photos-and-price/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-full-white-hautlence-sphere-series-5-multi-axis-spherical-display-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-hautlence-vortex-gamma-with-unique-colored-material-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-tourbillon-01-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-invictus-morphos-limited-edition-250-pieces/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-hl-black-ceramic-hands-on-with-live-photos/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-introduces-the-hl2-4/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/collectors-series-franks-spectacular-hautlence-hl-ti-01/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/collectors-series-lin-chang-ping-hautlence-hlrs-03-interview/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004095739-hautlence-hl08.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/hautlence/194207",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bernardwatch.com/watch/HTL02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ethoswatches.com/the-watch-guide/hautlence-introduction-top-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchmobile7.com/data/brands_about/hautlence.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/independents/baselworld-2009--hautlence/16.507646.3066246/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Hautlence-HL04-HAUTLENCE-HL-Honey-Comb-18K-White-Gold-17785.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hautlence-yellow-gold-mechanical-wind-wristwatch-ref-hl01-2015/id-j_2480643",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/hl-sup-c-sup-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/hl-sup-c-sup-06",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/hl-classic-bleu-9846.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/article/hautlence-hlc03-et-hlc04-8774.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-vortex-gamma-01-yellow-edition-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-vortex-gamma-black-and-red-edition-03-ref-h1370-1402/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22062",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22059",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22114",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22138",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22151",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-moebius-02-white-gold-limited-edition-h1380-0400",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-vortex-primary-eric-cantona-edition-ref-h1370-0503/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-vortex-01-titanium-limited-edition-hf1370-0503/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-vortex-03-bronze-edition-h1370-1700",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-vortex-gamma-02-black-yellow-edition-ref-h1370-1401/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-vortex-gamma-magma-edition-h1370-1403/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-hl2-5-black-dlc-titanium-edition-h1370-0505/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-hl-vagabonde-01-titanium-edition-h2205-0500/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=16271",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/?p=18540",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=18574",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-invictus-01/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-moebius-01-red-gold-limited-edition-ref-h1380-0200/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2017/04/02/hautlence-playground-pinball/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2016/09/10/hautlence-playground-labyrinth-limited-edition-by-colette-black-dlc-case/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.the1916company.com/videos/hautlence-in-2025-robot-timepiece-spinning-spheres-and-jump-hour-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-invictus-vida-loca-choppers-chronograph-live-photos-specs-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2016/03/introducing-the-hautlence-labyrinth-01-a-board-game-for-the-wrist-that-doesnt-tell-the-time.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2021/01/hautlence-hl-sphere-02.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-invictus-neon-green-edition-h5364-0505/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-releases-the-all-new-hl-rq-02-and-hl-rq-03/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchmobile7.com/data/News/2012/10/news-20121012-hautlence_avant-garde_retrograde_HLRS.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.com/brands/square-watches/hautlence-hl2-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/hautlence-hlq-7818.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-moebius-02-white-gold-limited-edition-h1380-0400",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-hl2-1-white-gold-edition-ref-h1370-0200/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22036",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/?p=22054",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=21986",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/ch/de/shop/Hautlence-Invictus-03-H5364-0502.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/hautlence-hl-newton-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://deployant.com/new-and-reviewed-hands-on-with-the-hautlence-hl2-3-punk/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hautlence-hl-vagabonde-tourbillon-01-h2405-0400/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/hl-vagabonde-tourbillon-02-h2405-0401/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22015",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=22009",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/hautlence-hl-vagabonde-02-black-dlc-titanium-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hl-vagabonde-03-titanium-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/destination-03-9843.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://gphg.org/en/watches/hl-sphere",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/Hautlence-Destination-02-MTE002232.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/hl-classic-chocolate-9845.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/hlq-04-4913.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/hlq-01-classic-6334.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/weekly-watch-photo-hautlence-hl05/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/hautlence-invictus-neon-orange-h5364-0506/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/hautlence-invictus-neon-yellow-edition-ref-h5364-0507/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/hautlence-hlrq-01/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/hautlence/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/tag/hautlence",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hautetime.com/tag/hautlence/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lacotedesmontres.com/Hautlence-HLS-esprit-mecanique-No_6250.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/hautlence/197111",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.govbergwatches.com/shop/Hautlence-HLQ-MTE002006.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/hautlence/HK080117/984",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2018/12/hautlence-eric-cantona-cortina-singapore.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://bucherer.com/de/en/watches/hautlence/sphere/1398-630-6.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/1004085423.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timepiece.com/hautlence-watch-hlrq-05.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wip.europastar.com/magazine/watch-galleries/1002382617-hl05-by-hautlence.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/hautlence-adds-hlc06-in-rose-gold-to-the-collection/",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
