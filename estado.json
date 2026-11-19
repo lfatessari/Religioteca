@@ -12592,7 +12592,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-19T17:44:01Z",
- "ultimo_sinal": "2026-11-19T17:51:47Z",
+ "ultimo_sinal": "2026-11-19T17:54:00Z",
  "em_andamento": {
   "marcas": [
    "Hautlence"
@@ -12604,7 +12604,10 @@
   "notas": "historico/notas_Hautlence.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3",
+   "5"
   ],
   "passada": 1
  }

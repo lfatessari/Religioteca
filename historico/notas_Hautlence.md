@@ -15,3 +15,7 @@
 - HLQ01 Classic (88), HLQ05/06/07/08 Classic, HLQ04; HLC02, HLC06 (monochrome), HLC03/04 (worldtempus)
 - HL Ti 02, HLRQ01..05, HLRS 03, HL04 Honeycomb, HL05
 - Bucherer: Sphere Series 3 1441-859-0, etc (fotos para atuais)
+- Mais: HL2.4 Titanium H1370-0502 (LE 28; foto thelimitededition wp-content/uploads/2019/11/H1370-0502.jpg); HL2.2 (2011, ouro rosa LE 28, foto cms.gphg.org/uploads/mtr_hautlence_hl2_0_hl2_2_hl2_2_ba7750d8a5.jpg); Playground Labyrinth 02 H9500-0500 (TLE)
+- HL Ti 01, HL Ti 02, HL Black Ceramic, HL05, HLRQ-01/04/05, HLRS 03, HLRS.01, HL2.6, Vortex 01/02, Vortex Bronze, Vortex Gamma, Tourbillon 01/02, Invictus 01/03/04, Destination 01/02 (Titanium), Labyrinth 01, Sphere Series 5, Linear Series 3 Red (=Series 3?)
+- EveryWatch: watch pages pedem login (2 tentativas, 0).
+- Monochrome categoria: páginas 1,2,3 abertas; faltam 4 e 5.
