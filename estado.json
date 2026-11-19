@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 895,
- "ultima_versao": 716,
+ "proxima_linha_marcas": 897,
+ "ultima_versao": 717,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12224,6 +12224,22 @@
     "3": "11 fontes, 0 novos nas páginas abertas (5 modelos novos só por títulos de busca)"
    },
    "obs": "haemmer-germany.com PROVENANCE; Firecrawl sem créditos; loja oficial haemmer-shop.com abriu (coleções atuais, Impressum, Über uns); markenuhren-billiger, Amazon, Jomashop, Chrono24 e quase todo eBay bloqueados (79 modelos entraram só por título/página). Base: haemmer-shop.com, catálogo Haemmer 2011 (luxus.cl), allwatches, uhrenheld, okdwo, klausbua, Kleinanzeigen, Otto. C, G, I, J corrigidos. Projects ausente: pendências dos posts não lidas."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 717,
+   "marca": "Hager Watches",
+   "linha_marcas": 897,
+   "linhas_relogios": "108351-108400",
+   "relogios": 50,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 35,
+   "passadas": {
+    "1": "35 fontes, 50 relógios"
+   },
+   "obs": "hagerwatches.com PROVENANCE; base no espelho oficial hagerwatches.squarespace.com (Aquamariner, Diplomat, Fellow Traveler, Commando Milsub, Interceptor, U-2, turbilhões de bolso), Time Bum (Professional Series, Pheon, entrevista 2014 com S.E.R.E., Mark V Aviator, Triton), Everest Bands (Flieger, Skymaster), KeepTheTime, Gear Journal, Wrist Watch Review. Firecrawl sem créditos. Hagal (896) adiada (menos de 8 fontes). Hagley West (898) parece grande e fica sozinha. Projects ausente: pendências dos posts não lidas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12314,7 +12330,8 @@
   "eClock (linha 666)": "Adiada em 17/11/2026 (v682): grande pelo catálogo (89 relógios individuais em eclockmx.com, que abre direto), mas sem nenhuma fonte externa legível para chegar às 25. Lista pronta em historico/eclock_raw.txt (nome|mm|tipo|slug|foto). Usuário decide se grava só com o site oficial.",
   "G-Shock (linha 875)": "Linha da Casio: a bateria Casio (v. historico) já gravou 1364 relógios 'G-SHOCK ...' em Relógios 36666-38768. Entrou como apelido G-Shock→Casio no proxima_marca.py em 18/11/2026; não pesquisar de novo.",
   "GSX (linha 876)": "Gravada em 18/11/2026 (v702), 181 relógios (106140-106320), vermelha. Complemento futuro com Firecrawl: Mercari (GSX EVE, GSX SMART XX, ジーエスエックス 時計, GSX LOV, GSX 200), Yahoo! Leilões (outros termos e páginas 2+), Fril; fotos das ~25 linhas só com link de anúncio; site gsx-watch.com (fora do ar em 18/11).",
-  "H20 Watch (linha 890)": "Mesma marca que H2O (891): relógios gravados como 'H2O' na v712; APELIDOS no proxima_marca.py faz a linha 890 ser pulada. Não pesquisar de novo."
+  "H20 Watch (linha 890)": "Mesma marca que H2O (891): relógios gravados como 'H2O' na v712; APELIDOS no proxima_marca.py faz a linha 890 ser pulada. Não pesquisar de novo.",
+  "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json)."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -12326,25 +12343,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-19T04:43:32Z",
- "ultimo_sinal": "2026-11-19T05:00:20Z",
- "em_andamento": {
-  "marcas": [
-   "Hager Watches"
-  ],
-  "linha_marcas": 897,
-  "grande": false,
-  "relogios": "historico/parcial_Hager_relogios.txt",
-  "fontes": "historico/parcial_Hager_fontes.txt",
-  "notas": "historico/notas_Hager.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "9"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
