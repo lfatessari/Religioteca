@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 909,
-  "ultima_versao": 723,
+  "proxima_linha_marcas": 910,
+  "ultima_versao": 724,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12396,6 +12396,23 @@
         "3": "11 fontes, 4 relógios novos"
       },
       "obs": "hampdenwatch.com PROVENANCE; grades históricos (bolso e pulso, 1877-1930) pela Pocket Watch Database (lista de trade names, catálogo c.1893, fichas por série), The Watch Preserve, pmtime, 1stDibs, Second Hand Horology; relançamento 2025 (Sullivan, Algren, Sandburg, Dixon) por Europa Star, timesticking, aBlogtoWatch, Kay; Firecrawl sem créditos; aba Projects ausente"
+    },
+    {
+      "data": "2026-11-19",
+      "versao": 724,
+      "marca": "Hanhart",
+      "linha_marcas": 910,
+      "linhas_relogios": "109568-109724",
+      "relogios": 157,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 60,
+      "passadas": {
+        "1": "49 fontes, 167 relógios novos",
+        "2": "11 fontes, 4 relógios novos"
+      },
+      "obs": "hanhart.com home PROVENANCE; catálogos PDF 2019/2022 e páginas ?p= abriram via busca; refs pela The Watch Pages (títulos de busca), fotos Watchbandit/Chronofactum; vintage pela WatchTime (Eindrücker/Doppeldrücker/417); Firecrawl sem créditos; ferramenta Projects ausente (pendências dos posts não lidas)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12499,23 +12516,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-19T11:43:57Z",
-  "ultimo_sinal": "2026-11-19T11:57:10Z",
-  "em_andamento": {
-    "marcas": [
-      "Hanhart"
-    ],
-    "linha_marcas": 910,
-    "grande": true,
-    "relogios": "historico/parcial_Hanhart_relogios.txt",
-    "fontes": "historico/parcial_Hanhart_fontes.txt",
-    "notas": "historico/notas_Hanhart.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
