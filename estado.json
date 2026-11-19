@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 891,
- "ultima_versao": 712,
+ "proxima_linha_marcas": 892,
+ "ultima_versao": 713,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12154,6 +12154,22 @@
     "3": "15 fontes, 8 relógios novos"
    },
    "obs": "H.I.D. Watch adiada (hidwatch.com PROVENANCE, <8 fontes no mundo); H20 Watch (linha 890) = H2O, posta em APELIDOS. h2o-watch.com: raiz PROVENANCE, mas fichas e categorias abriram pela busca (inclusive lista limit=all price=750- com 117 itens e o seo_sitemap); Firecrawl sem créditos; base OceanicTime (dezenas de posts 2010-2025), aBlogtoWatch, WristReview, WristwatchReview, Monochrome, WatchPatrol. I corrigido (ordem Orca/Kalmar 2; 25.000 m confirmado). Pendências dos posts não lidas: ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 713,
+   "marca": "H992",
+   "linha_marcas": 892,
+   "linhas_relogios": "107902-107957",
+   "relogios": 56,
+   "vermelho": false,
+   "grande": false,
+   "site_bloqueado": true,
+   "fontes": 29,
+   "passadas": {
+    "1": "29 fontes"
+   },
+   "obs": "h992.swiss PROVENANCE; Firecrawl sem créditos; base Luxoia (37 H3/H4 com fotos), Lionel Meylan (H1/H2 com refs, sem fotos), Europa Star, The Watch Gallery, Oclock Store, Gil Bonnet, WristReview. I corrigido (era só aviso). Habring² (893) tratada como grande (configurações sob encomenda) e fica sozinha para a próxima execução. Pendências dos posts não lidas: ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12256,23 +12272,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-19T00:43:50Z",
- "ultimo_sinal": "2026-11-19T00:53:39Z",
- "em_andamento": {
-  "marcas": [
-   "H992",
-   "Habring²",
-   "Hacher"
-  ],
-  "linha_marcas": 892,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "H992: todas"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
