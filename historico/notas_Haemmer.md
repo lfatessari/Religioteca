@@ -8,3 +8,6 @@
 - Coleções atuais: Damen EMINENT (E2-0xx), WAVE MASTER (C-00x); Herren CHALLENGER (EG-0xx), MECHANO (MC-00x). Outlet não abriu. eBay itm quase todos client_error. Chrono24 client_error.
 - C sem certeza antes: agora Kamen pelo Impressum oficial (correção C: vazio→Kamen). G: haemmer-germany.com não abre; site em uso é haemmer-shop.com.
 - Kleinanzeigen 'Noblica schwarz' = família Nobilca (HA-0x); não virou linha própria.
+- herrenuhren24: fundada em 2008 em Kamen (NRW); estreou na Inhorgenta 2011 (Munique); vendida em 38 países; coleções Sicilica, Unica, Independica, Dark Secret, Noblica, Feminica, Classica; logo gravado na lateral oposta à coroa.
+- manualslib: Haemmer, Güldentröge 15, 59174 Kamen; www.haemmer-germany.com; manual cobre HC, HM, HK, HA, DHC, NA, BD.
+- Fim da 1ª passada ~04:05 UTC. Marca VERMELHA: centenas de refs (lacunas HC-03..HC-51, HM-02/03/10/13/14, DHC-02/03/06..., HQ-09, ND-04/06, coleções Sicilica/Unica sem modelos achados; site haemmer-germany.com e markenuhren-billiger bloqueados).
