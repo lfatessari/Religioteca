@@ -1,0 +1,577 @@
+{
+ "marca": "Hamilton",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – hamiltonwatch.com: página inicial pede permissão na leitura automática (PROVENANCE); listas de coleção e fichas abriram pelos links da busca; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios (v722): 751 linhas (≈580 referências modernas atuais e descontinuadas + ≈110 modelos vintage 1904–1980). Vermelha: há milhares de modelos vintage com nome (anos 1920–70) e centenas de referências antigas sem página. Nomes de J todos achados. I ainda tem '[⚠️ verificar dados atuais]' (não conferido nesta fase).",
+ "fontes": [
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/no-no/filter-by.html?p=3",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/no-no/filter-by.html?p=15",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/H70455533",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://hamiltonwatch.com/en-us/filter-by.html?p=28",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ca/filter-by.html?p=22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ca/filter-by.html?p=13",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/filter-by.html?p=5",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/filter-by.html?p=13",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-int/filter-by.html?p=9",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-int/filter-by.html?p=12",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/no-no/collection/jazzmaster.html?p=2",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/no-no/collection/jazzmaster.html?p=3",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/no-no/collection/jazzmaster.html?p=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hamiltonwatch.com/no-no/collection/jazzmaster.html?p=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-int/collection/jazzmaster.html?p=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/sv-se/collection/jazzmaster.html?p=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ca/collection/khaki-navy.html",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ca/collection/khaki-navy.html?p=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ie/collection/khaki-navy.html?p=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/collection/khaki-aviation.html?p=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-int/collection/american-classic.html",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-gb/collection/american-classic.html?p=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/da-dk/collection/american-classic.html?p=3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-sg/collection/american-classic.html?p=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-gb/collection/khaki-field.html?p=2",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-gb/collection/khaki-field.html?p=5",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-gb/collection/khaki-field.html?p=6",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ie/collection/khaki-field.html?p=4",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ca/collection/khaki-field.html?p=5",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-lu/collection/khaki-field.html?p=2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ie/collection/ventura.html",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ie/collection/ventura.html?p=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ie/collection/ventura.html?p=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/collection/khaki-field.html?p=3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-gb/collection/khaki-field.html",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-int/collection/khaki-aviation.html",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-int/collection/khaki-aviation.html?p=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-my/collection/jazzmaster.html?p=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ie/collection/khaki-field.html?p=3",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-lu/collection/khaki-field.html?p=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-in/collection/khaki-aviation.html?p=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-int/collection/jazzmaster.html",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/filter-by/available-soon.html?p=4",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/filter-by/available-soon.html?p=17",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-gb/h82505140-khaki-navy-scuba-auto.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://righttime.com/rt/hamilton/wwoldmodels.htm",
+   "passada": 1,
+   "novos": 249
+  },
+  {
+   "url": "https://www.classicwatch.com/asp/manufacturer.asp?code=128",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/vintage-hamilton-wrist-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2018/08/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2016/04/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2013/07/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2018/03/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2021/11/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2025/12/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2013/05/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2012/11/",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/zht-tw/filter-by/discontinued-watches.html?p=12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/filter-by/discontinued-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/filter-by/discontinued-watches.html?p=10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/zht-tw/filter-by/discontinued-watches.html?p=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/zht-tw/filter-by/discontinued-watches.html?p=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ch/h77605135-khaki-navy-frogman-auto.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hamilton/watches/?paging=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hamilton/watches/?paging=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/hamilton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/hamilton-chrono-matic-50-auto-chrono-2025-introducing/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ie/filter-by/limited-edition.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.righttime.com/rt/hamilton/hamiltonwatches.htm",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-ventura-14k-as03261.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/hamilton-titan-electric-as01314",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/hamilton-spectra-electric-as09400",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/hamilton-victor-electric-as02253",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-gg-w-113-as12596",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-gi-as03933",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://electric-watches.co.uk/makers/hamilton/hamilton-electrics/hamilton-van-horn",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/hamilton-vintage-everest-500-electric",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/vintage-hamilton-10-karat-yellow-gold-filled-pacer-electric-watch/id-j_5556081",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crazywatches.pl/pulsar-p2-time-computer-led-1972",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-piping-rock-as08341.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-fontainebleau-chronograph-as10885",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-pan-europ-as11262",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/collectors-hamilton-fontainebleau-chronomatic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hamilton.html?page=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchnation.com/collections/hamilton-watches?page=24",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watch.co.uk/hamilton",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-us/khaki-field-mechanical-store-exclusive",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2026/01/hamilton-khaki-field-mechanical-boutique-specials.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hamilton.html?page=10",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/collections/hamilton?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kitsinianjewelers.com/collections/hamilton?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.raffi-jewellers.ca/hamilton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2024/02/",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2014/05/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.hamiltonchronicles.com/2019/11/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://hamiltonchronicles.com/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/hamilton?page=1",
+   "passada": 2,
+   "novos": 19
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/hamilton?page=2",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/hamilton?page=4",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/hamilton?page=7",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-lancaster-chrono-french-market-as12127",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/hamilton-vintage-chrono-matic-chronograph-steel-panda-dial-1969-23751",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/hamilton/products/vintage-1954-hamilton-k-501-mens-automatic-wristwatch-661-swiss-steel",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/hamilton-otis",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/hamilton-boulton-indiana-jones-as11779",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/hamilton-seckron-doctors-watch-as04795",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hamiltonwatch.com/en-ch/stories.html?p=7",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/hamilton/page/3/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchclicker.com/hamiltons-2023-novelties/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pmtime.com/product/PMW1555.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-hamilton-dexter",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/286843003352",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/hamilton-vintage-watches",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

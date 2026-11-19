@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 907,
-  "ultima_versao": 721,
+  "proxima_linha_marcas": 908,
+  "ultima_versao": 722,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12360,6 +12360,24 @@
       "vermelho": false,
       "site_bloqueado": false,
       "fontes": 28
+    },
+    {
+      "data": "2026-11-19",
+      "versao": 722,
+      "marca": "Hamilton",
+      "linha_marcas": 908,
+      "linhas_relogios": "108713-109463",
+      "relogios": 751,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 113,
+      "passadas": {
+        "1": "92 fontes, 626 relógios novos",
+        "2": "11 fontes, 37 relógios novos",
+        "3": "10 fontes, 4 relógios novos"
+      },
+      "obs": "home hamiltonwatch.com PROVENANCE; listas de coleção/filtros abriram via busca; fotos oficiais pelo padrão og:image (media/catalog/product/cache/6517c.../h/X/<ref>.png, conferido em 3 fichas); Right Time (lista de modelos antigos) e Hamilton Chronicles (vintage); Firecrawl sem créditos; aba Projects ausente (pendências dos posts não lidas)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12463,35 +12481,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-19T09:43:14Z",
-  "ultimo_sinal": "2026-11-19T10:11:57Z",
-  "em_andamento": {
-    "marcas": [
-      "Hamilton"
-    ],
-    "linha_marcas": 908,
-    "grande": true,
-    "relogios": "historico/parcial_Hamilton_relogios.txt",
-    "fontes": "historico/parcial_Hamilton_fontes.txt",
-    "notas": "historico/notas_Hamilton.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "passada1-fim"
-    ],
-    "passada": 2,
-    "raw": "historico/raw_Hamilton.txt",
-    "vint": "historico/vint_Hamilton.txt",
-    "vint2": "historico/vint2_Hamilton.txt"
-  }
+  "adiadas_obs": {}
 }
