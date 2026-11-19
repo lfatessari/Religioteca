@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 913,
- "ultima_versao": 727,
+ "proxima_linha_marcas": 915,
+ "ultima_versao": 728,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12462,6 +12462,30 @@
    },
    "firecrawl_creditos": "~22 (acabaram; renovam 20/11 13:43 UTC)",
    "obs": "Ocean completa pelo sitemap (86 refs); Premier/Avenue/Emerald/Midnight/alta joalheria parciais. Complemento futuro com Firecrawl: query no sitemap.xml por coleção (premier, avenue, emerald, midnight, high-jewelry, histoire-de-tourbillon-and-opus) e og:image das fichas. Ferramenta Projects ausente (pendências dos posts não lidas)."
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 728,
+   "marca": "Harwood",
+   "linha_marcas": 914,
+   "linhas_relogios": "110360-110383",
+   "relogios": 24,
+   "vermelho": false,
+   "site_bloqueado": "sem site oficial",
+   "fontes": 44
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 728,
+   "marca": "Haute-Rive",
+   "linha_marcas": 915,
+   "linhas_relogios": "110384-110402",
+   "relogios": 19,
+   "vermelho": false,
+   "site_bloqueado": "parcial (hauterive.swiss PROVENANCE)",
+   "fontes": 29,
+   "correcoes_marcas": "I (fundador Stéphane von Gunten), J",
+   "obs": "Ferramenta Projects ausente (pendências dos posts não lidas); Firecrawl sem créditos até 20/11 13:43 UTC."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12566,20 +12590,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-19T16:43:37Z",
- "ultimo_sinal": "2026-11-19T16:43:37Z",
- "em_andamento": {
-  "marcas": [
-   "Harwood",
-   "Haute-Rive"
-  ],
-  "linha_marcas": 914,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }

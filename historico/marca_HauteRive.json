@@ -1,0 +1,175 @@
+{
+ "marca": "Haute-Rive",
+ "usa_codigos": true,
+ "logo": "https://r2.watchonista.com/app/uploads/legacy/watchographer/576/profile/hr_logo_baseline_vert_relief_copie_2-640x319.jpg",
+ "site_bloqueado": "Parcial – hauterive.swiss não abre pela WebFetch (PROVENANCE); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "I": "A Haute-Rive é a marca do engenheiro e relojoeiro suíço Stéphane von Gunten, natural de La Chaux-de-Fonds, que passou cerca de 20 anos em grandes casas — foi diretor de pesquisa e desenvolvimento da Ulysse Nardin — antes de lançá-la em 2023. O nome vem de Haute-Rive, lugar às margens do lago de Neuchâtel, em Chez-le-Bart, perto de Saint-Aubin, onde seu antepassado Irénée Aubry teve uma oficina.\n\nA assinatura da Haute-Rive é a reserva de marcha extraordinária. Seu relógio inaugural, o Honoris I, alcança cerca de 1.000 horas (mais de 40 dias) com um único barrilete, recebe corda pela luneta de 60 facetas e tem turbilhão voador e mostrador de esmalte grand feu, num design que exibe a mecânica de forma teatral. É uma proeza técnica que coloca a marca entre os independentes mais ambiciosos, com produção mínima (cerca de 10 peças por ano) e acabamento de altíssimo nível. Depois vieram o Honoris I Lagoverde (2025), as versões em aço Strato e o esqueletizado Honoris Meccanica (2026).\n\nHoje a Haute Rive ocupa o nicho da alta relojoaria independente de complicações extremas, dirigindo-se a colecionadores que valorizam proezas técnicas, herança familiar e design ousado. Mais que marcar horas, suas peças levam a autonomia mecânica a limites raramente vistos.",
+  "J": "Honoris I, Honoris I Lagoverde, Honoris Strato, Honoris Meccanica"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://ablogtowatch.com/hands-on-haute-rive-honoris-i-watches-with-1000-hours-of-power-reserve",
+   "https://www.fhs.swiss/eng/2023_11_16_01_Haute-Rive.html",
+   "https://www.europastar.com/time-keeper/1004113670-haute-rive-makes-its-debut-with-the-honoris-i.html",
+   "https://monochrome-watches.com/first-look-haute-rive-honoris-i-lagoverde-stephane-von-gunten-indepenent-watchmaking-1000-hour-power-reserve-tourbillon-metiers-dart-specs-price-live-pics",
+   "https://quillandpad.com/2024/03/10/haute-rive-honoris-i-incredible-1000-hour-41-day-power-reserve-plus-a-flying-tourbillon-in-a-very-wearable-watch/",
+   "https://wristreview.com/introducing-haute-rive-honoris-meccanica/"
+  ],
+  "J": [
+   "https://www.exquisitetimepieces.com/watch-brands/haute-rive.html",
+   "https://monochrome-watches.com/the-new-steel-editions-of-the-haute-rive-honoris-the-strato-verde-strato-blu/"
+  ]
+ },
+ "observacoes": "Fase Relógios 19/11/2026 (v728): 19 relógios. Corrigido: I — fundador era 'Jonas Nydegger' e o texto falava em 'múltiplos barriletes'; certo: Stéphane von Gunten, lançamento em 2023, barrilete único (aBlogtoWatch, FHS, Europa Star, Monochrome, Quill & Pad); '[⚠️ verificar status atual]' saiu (marca ativa, lançamentos em 2026). J: 'Honoris I, Honoris II' → 'Honoris I, Honoris I Lagoverde, Honoris Strato, Honoris Meccanica' (Honoris II não foi achado). Ainda a verificar: C (Neuchâtel) — as fontes só dizem que o nome vem de Chez-le-Bart, no lago de Neuchâtel, e que o fundador é de La Chaux-de-Fonds; a sede atual não aparece. K: logo do perfil da marca na Watchonista. Site hauterive.swiss não abriu pela leitura automática (PROVENANCE).",
+ "fontes": [
+  {
+   "url": "https://ablogtowatch.com/hands-on-haute-rive-honoris-i-watches-with-1000-hours-of-power-reserve",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/haute-rive/products/haute-rive-honoris-strato-verde-stainless-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/the-new-steel-editions-of-the-haute-rive-honoris-the-strato-verde-strato-blu/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-honoris-i-rose-gold-black-enamel-dial.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-honoris-i-rose-gold-eggshell-enamel-dial.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/haute-rive/products/haute-rive-honoris-i-white-gold-black-enamel-dial-smooth-bezel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-meccanica-rhodium.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-meccanica-rhodium-ss.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/first-look-haute-rive-honoris-i-lagoverde-stephane-von-gunten-indepenent-watchmaking-1000-hour-power-reserve-tourbillon-metiers-dart-specs-price-live-pics",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/introducing-haute-rive-honoris-meccanica/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/honoris-i-lagoverde",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/haute-rive-honoris-i-midnight-blue-eggshell-white/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-strato-blu-stainless-steel.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-strato-blu-white-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-honoris-strato-verde-white-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-meccanica-rosso-ss.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/haute-rive.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchonista.com/haute-rive/watches/haute-rive-honoris-i",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/haute-rive-honoris-i-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2023_11_16_01_Haute-Rive.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/2024/03/10/haute-rive-honoris-i-incredible-1000-hour-41-day-power-reserve-plus-a-flying-tourbillon-in-a-very-wearable-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-honoris-i-white-gold-black-dial-fluted-bezel.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-honoris-i-stainless-steel-black-enamel-dial-fluted-bezel-hr-h1-ss-bl-fb.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-meccanica-ruthenium.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-honoris-i-yellow-gold-white-dial-fluted-bezel.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/haute-rive-honoris-i-lagoverde.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004113670-haute-rive-makes-its-debut-with-the-honoris-i.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/haute-rive/honoris-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchilove.com/2024/12/haute-rive-honoris-i-with-new-festive-shades/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
