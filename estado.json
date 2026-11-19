@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 908,
- "ultima_versao": 722,
+ "proxima_linha_marcas": 909,
+ "ultima_versao": 723,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12378,6 +12378,24 @@
     "3": "10 fontes, 4 relógios novos"
    },
    "obs": "home hamiltonwatch.com PROVENANCE; listas de coleção/filtros abriram via busca; fotos oficiais pelo padrão og:image (media/catalog/product/cache/6517c.../h/X/<ref>.png, conferido em 3 fichas); Right Time (lista de modelos antigos) e Hamilton Chronicles (vintage); Firecrawl sem créditos; aba Projects ausente (pendências dos posts não lidas)"
+  },
+  {
+   "data": "2026-11-19",
+   "versao": 723,
+   "marca": "Hampden",
+   "linha_marcas": 909,
+   "linhas_relogios": "109464-109567",
+   "relogios": 104,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": 116,
+   "passadas": {
+    "1": "89 fontes, 96 relógios novos",
+    "2": "16 fontes, 5 relógios novos",
+    "3": "11 fontes, 4 relógios novos"
+   },
+   "obs": "hampdenwatch.com PROVENANCE; grades históricos (bolso e pulso, 1877-1930) pela Pocket Watch Database (lista de trade names, catálogo c.1893, fichas por série), The Watch Preserve, pmtime, 1stDibs, Second Hand Horology; relançamento 2025 (Sullivan, Algren, Sandburg, Dixon) por Europa Star, timesticking, aBlogtoWatch, Kay; Firecrawl sem créditos; aba Projects ausente"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12481,33 +12499,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-19T10:43:53Z",
- "ultimo_sinal": "2026-11-19T11:01:02Z",
- "em_andamento": {
-  "marcas": [
-   "Hampden"
-  ],
-  "linha_marcas": 909,
-  "grande": true,
-  "relogios": "historico/parcial_Hampden_relogios.txt",
-  "fontes": "historico/parcial_Hampden_fontes.txt",
-  "notas": "historico/notas_Hampden.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }
