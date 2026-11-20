@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 933,
- "ultima_versao": 737,
+ "ultima_versao": 738,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12730,6 +12730,13 @@
    "passadas": "1: 64/75; 2: 17/7; 3: 10/4",
    "site_bloqueado": "sim (helvetiawatches.ch PROVENANCE)",
    "obs": "Marca vintage (General Watch Co.); fonte principal helvetiahistory.co.uk. Páginas abertas pelo ajudante web-fetch. Firecrawl sem créditos. C corrigido para Bienne; trecho de fundação em I corrigido."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 738,
+   "tipo": "fotos",
+   "marca": "a.b.art",
+   "obs": "Item 6 do prompt: 32 linhas da aba Relógios com C trocada do link da página para o endereço direto da foto (historico/fotos_abart.py)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12836,5 +12843,5 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T12:44:03Z",
- "ultimo_sinal": "2026-11-20T12:44:03Z"
+ "ultimo_sinal": "2026-11-20T12:53:40Z"
 }
