@@ -12823,5 +12823,17 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T11:43:25Z",
- "ultimo_sinal": "2026-11-20T11:48:24Z"
+ "ultimo_sinal": "2026-11-20T11:48:51Z",
+ "em_andamento": {
+  "marcas": [
+   "Helvetia"
+  ],
+  "linha_marcas": 933,
+  "grande": true,
+  "relogios": "historico/parcial_Helvetia_relogios.txt",
+  "fontes": "historico/parcial_Helvetia_fontes.txt",
+  "notas": "historico/notas_Helvetia.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
