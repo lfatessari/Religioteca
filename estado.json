@@ -13022,23 +13022,22 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T21:44:31Z",
- "ultimo_sinal": "2026-11-20T21:52:47Z",
+ "ultimo_sinal": "2026-11-20T21:57:10Z",
  "em_andamento": {
   "marcas": [
    "Hitori",
-   "HKED",
-   "HMNWatch"
+   "HKED"
   ],
   "linha_marcas": [
    953,
-   954,
-   955
+   954
   ],
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [],
-  "passada": 1
+  "passada": 1,
+  "obs": "HMNWatch saiu da bateria: é grande (41+ produtos só em listas cruzadas, várias séries); fica sozinha na próxima"
  }
 }
