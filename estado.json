@@ -12924,7 +12924,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T16:43:54Z",
- "ultimo_sinal": "2026-11-20T16:43:54Z",
+ "ultimo_sinal": "2026-11-20T16:57:40Z",
  "em_andamento": {
   "marcas": [
    "Hermes"
@@ -12934,7 +12934,15 @@
   "relogios": "historico/parcial_Hermes_relogios.txt",
   "fontes": "historico/parcial_Hermes_fontes.txt",
   "notas": "historico/notas_Hermes.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3p",
+   "5p",
+   "7p",
+   "9p"
+  ],
+  "passada": 1,
+  "obs": "Itens em historico/build_hermes.py + urls_hermes.txt; montar com merge.py"
  }
 }
