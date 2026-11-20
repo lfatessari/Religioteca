@@ -1,7 +1,6 @@
-# Bateria 17/11 Constellar, Contrarian, Cooper
-Firecrawl sem créditos (reseta 13:43 UTC).
-Constellar: site oficial só 2 produtos (Destinations GMT, Origin). Epoch (2018, Miyota 9015, Kickstarter), Starseeker (2020, SW200-1), Origin 5 cores (vermelho, azul, verde, cinza, marrom; SW240-1M 38mm).
-Contrarian: 15 modelos no site oficial (com variantes "From"). Logo Contrarian_logo.png.
-Cooper: site é loja Wix que vende MWC, Aeschbach, Elvia + marca própria Cooper (Submaster SM8016). Logo wix logo_.jpg. Só relógios com marca Cooper entram.
-Constellar FECHADA: 11 relógios, 17 fontes; últimas 5 sem novidade. I: 2018 e fundadores confirmados (The Peak + recordowl 07/04/2018 + about "Song and Edgar") -> tirar o ⚠️.
-Contrarian variantes (só mostrador/caixa viram linha; pulseira não): Alpha Diver 500 preto/azul/preto PVD; Aqualis preto/azul/Gray Stone; Explorer GMT preto; Forte 41 preto PVD; Horizon 45 azul; Neo Saphir preto/azul; Nova Ti preto/azul; Pinnacle preto/azul.
+# Bateria v731: Hawaiian Lifeguard, HD3, Hebdomas
+- WebFetch direta ausente: páginas pelo ajudante web-fetch. Firecrawl sem créditos (renova 13:43 UTC).
+- timeconcepts.net (site G da HLA): PROVENANCE_REQUIRED. masterhorologer (HD3 e Hebdomas): client_error.
+## HLA: refs 5402,5403,5404,5407,5408,5410,5411,5417,5418,5420; brochura 5501-5509 (44mm); watches.com Silver Black + Blue/Red/Yellow strap (sem ref).
+## HD3: Raptor (2005, FG001, 33 pç), Raptor Tourbillon, Capture (33), Idalgo (33), Idalgo ST-1, Three Minds (99 Ti preto,33 OR,333 Ti), Vulcania (11), Black Pearl (peça única), Slyde (2011: aço, Ti, PVD, ouro rosa, diamantes)
+## Hebdomas: 8 jours bolso (Aubry/Graizely c.1889), 1º de pulso Graizely (<1916), Schild 1968, Baladin (Calabrese 1989), Xantia bolso 1982, Xantia pulso 1991, bullhead, Xantia refs 4001,4002,5002,3201,918,919, Kolber 2002, Aerowatch 2020 (outra marca)
