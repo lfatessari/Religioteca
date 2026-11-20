@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 954,
- "ultima_versao": 748,
+ "proxima_linha_marcas": 955,
+ "ultima_versao": 749,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12936,6 +12936,19 @@
    "passadas": "Hitori 1: 30/32; HKED 1: 22/21",
    "site_bloqueado": "não registrado (Hitori sem site; hkedwatches.com deu PROVENANCE)",
    "obs": "Hirsch (952) adiada: só pulseiras. HMNWatch (955) é grande: fica sozinha na próxima; notas em historico/notas_HMNWatch.md. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 749,
+   "marca": "HMNWatch",
+   "linha_marcas": 955,
+   "linhas_relogios": "113382-113503",
+   "relogios": 122,
+   "vermelho": false,
+   "fontes": 71,
+   "passadas": "1: 71/104",
+   "site_bloqueado": "Parcial (hmnwatch.com: PROVENANCE/RATE_LIMIT em parte das páginas)",
+   "obs": "Grande. ~90 modelos de 91 produtos da loja; 42 linhas só com link da página (sem foto). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13042,23 +13055,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T22:43:56Z",
- "ultimo_sinal": "2026-11-20T22:48:23Z",
- "em_andamento": {
-  "marcas": [
-   "HMNWatch"
-  ],
-  "linha_marcas": 955,
-  "grande": true,
-  "relogios": "historico/parcial_HMNWatch_relogios.txt",
-  "fontes": "historico/parcial_HMNWatch_fontes.txt",
-  "notas": "historico/notas_HMNWatch.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c-parcial"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }

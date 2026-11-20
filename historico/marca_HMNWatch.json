@@ -1,0 +1,367 @@
+{
+ "marca": "HMNWatch",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – hmnwatch.com: products.json, collections/all e algumas páginas de produto pedem permissão (PROVENANCE) ou dão RATE_LIMIT; paginação ?page=N das coleções devolve sempre a página 1; revisitar com navegador para as fotos que faltam",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://hmnwatch.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/tagged/car-rim-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/tagged/shinobi-timepieces",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/top-10-watches-for-car-enthusiasts-in-2025",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/what-is-a-car-rim-watch-and-why-it-s-more-than-just-a-gimmick",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/hmn-miata-mx-5-watch-the-spirit-of-driving-captured-in-time",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/sharingan-watches-by-hmnwatch-born-from-legacy-built-for-power",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/the-power-of-the-sharingan-why-naruto-fans-are-turning-to-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/the-birth-of-a-beast-how-the-hmn-v12-prestige-became-a-true-v12-engine-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/the-v12-phantom-watch-a-tribute-to-rolls-royce-power-on-your-wrist",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/what-drives-the-relationship-between-watches-and-cars",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/the-symbolism-of-the-sharingan-why-this-eye-still-haunts-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/blogs/news/father-s-day-2025-what-makes-a-gift-truly-memorable",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/land-svr",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://hmnwatch.com/products/bimmer-m8",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://hmnwatch.com/products/bavaria-rs",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-virgo-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hmnwatch.com/ja/products/bimmer-m3-spinning",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/eternal-shadow-itachi-edition",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://hmnwatch.com/vi/collections/just-released/products/hmn-bavaria-a4-avant",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.loox.io/s/4y-oRKP97i",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://loox.io/s/4y-oRKP97i?page=3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://loox.io/s/4y-oRKP97i?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loox.io/s/4y-oRKP97i?page=14",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loox.io/s/4y-oRKP97i?page=16",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hmnwatch.com/collections/all-products",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://hmnwatch.com/collections/sharingan-inspired-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-spider-570s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-land-luxury-se",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-continental-gt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-dbs-coupe-770",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-vanquish-v12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hmnwatch.com/products/bimmer-i8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/bimmer-m5-spinning",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/bimmer-m5-non-spinning",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/bimmer-m750",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/bimmer-m3-non-spinning",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/bimmer-m2-spinning",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/cursed-legacy-sasuke-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/warborn-flame-madara-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/3-tomoe-sharingan-sasuke-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/sasuke-rinnegan-silent-shadow-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hatake-kakashi-lightning-blade",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/sarada-uchiha-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/uchiha-shisui-kotoamatsukami",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-v12-phantom",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/collections/porsche-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://hmnwatch.com/collections/bimmer-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/collections/rs-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/collections/jdm",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://hmnwatch.com/collections/petronas-series",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://hmnwatch.com/products/bavaria-rs-7-sporty-red-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/bavaria-rs7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-s4-quattro",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/bavaria-rs-7-silicone-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/hmn-watch/products/hmn-v12-prestige",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://news.dupontregistry.com/?p=315350",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.trustpilot.com/review/hmnwatch.com?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/de/products/petronas-s65",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-gt500-venom",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-hellcat-sc707",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-revuelini",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/products/hmn-avento-sv",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/de/products/hmn-petronas-v8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/de/products/hmn-petronas-g63",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/de/products/petronas-g55",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/de/products/petronas-g55-brushed-steel-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/de/products/petronas-g55-black-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmnwatch.com/de/products/petronas-g63-non-spinning",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Relógios pesquisados em 20/11/2026 (v749): 122 linhas (cada cor com foto própria vira uma linha; as demais cores ficam em E). A loja oficial diz ter 91 produtos; foram achados ~90 modelos nas coleções (British Car, Bimmer, RS, Petronas, Porsche, JDM, americanos, Lamborghini/Ferrari, Naruto, V12). Preços na Black Friday 2026: US$ 84 a 149 (cheios US$ 212 a 348); só a V12 Prestige é edição limitada (500 peças). Modelo 'Pegati Monster' (Ducati) aparece só em nomes de arquivo de foto, sem página: não entrou."
+}
