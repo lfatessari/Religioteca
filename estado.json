@@ -13057,7 +13057,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T23:44:21Z",
- "ultimo_sinal": "2026-11-20T23:44:21Z",
+ "ultimo_sinal": "2026-11-20T23:54:34Z",
  "em_andamento": {
   "marcas": [
    "HMT Watches"
@@ -13067,7 +13067,12 @@
   "relogios": "historico/parcial_HMT_relogios.txt",
   "fontes": "historico/parcial_HMT_fontes.txt",
   "notas": "historico/notas_HMT.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "9"
+  ],
   "passada": 1
  }
 }
