@@ -12884,5 +12884,17 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-20T14:42:52Z",
-  "ultimo_sinal": "2026-11-20T14:42:52Z"
+  "ultimo_sinal": "2026-11-20T14:43:37Z",
+  "em_andamento": {
+    "marcas": [
+      "Herbelin"
+    ],
+    "linha_marcas": 938,
+    "grande": true,
+    "relogios": "historico/parcial_Herbelin_relogios.txt",
+    "fontes": "historico/parcial_Herbelin_fontes.txt",
+    "notas": "historico/notas_Herbelin.md",
+    "secoes_feitas": [],
+    "passada": 1
+  }
 }
