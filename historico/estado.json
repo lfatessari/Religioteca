@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 951,
- "ultima_versao": 747,
+ "proxima_linha_marcas": 954,
+ "ultima_versao": 748,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12915,6 +12915,27 @@
    "passadas": "Hexa 1: 18/6; HGP 1: 26/25; Hilts 1: 16/10",
    "site_bloqueado": "Hexa sim (hexawatches.com); HGP parcial; Hilts sim (wearehilts.com)",
    "obs": "Heure Raffinee (947) e Hilli Watches (950) adiadas sem fontes (ADIADAS no proxima_marca.py). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; os 3 sites oficiais deram PROVENANCE na tentativa direta."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 748,
+   "marcas": [
+    "Hitori",
+    "HKED"
+   ],
+   "linhas_relogios": "113330-113381",
+   "relogios": {
+    "Hitori": 33,
+    "HKED": 19
+   },
+   "vermelho": false,
+   "fontes": {
+    "Hitori": 30,
+    "HKED": 22
+   },
+   "passadas": "Hitori 1: 30/32; HKED 1: 22/21",
+   "site_bloqueado": "não registrado (Hitori sem site; hkedwatches.com deu PROVENANCE)",
+   "obs": "Hirsch (952) adiada: só pulseiras. HMNWatch (955) é grande: fica sozinha na próxima; notas em historico/notas_HMNWatch.md. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13008,7 +13029,8 @@
   "H20 Watch (linha 890)": "Mesma marca que H2O (891): relógios gravados como 'H2O' na v712; APELIDOS no proxima_marca.py faz a linha 890 ser pulada. Não pesquisar de novo.",
   "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json).",
   "Harry Winston (linha 913)": "Gravada em 19/11/2026 (v727), 431 relógios (109929-110359), vermelha. Complemento futuro com Firecrawl: harrywinston.com/sitemap.xml (formato query, uma coleção por vez: premier, avenue, emerald, midnight, high-jewelry-timepieces, histoire-de-tourbillon-and-opus) para listar todas as referências; fotos pelo og:image das fichas (têm ?rev=hash).",
-  "Henry Archer (linha 936)": "Gravada em 20/11/2026 (v739), 138 relógios, vermelha. Complemento futuro com Firecrawl: henryarcher.com/products.json, collections/womens-watches?page=2..6 (149 produtos), mens-watches e sekvens (JavaScript); fotos das ~25 linhas só com link de página."
+  "Henry Archer (linha 936)": "Gravada em 20/11/2026 (v739), 138 relógios, vermelha. Complemento futuro com Firecrawl: henryarcher.com/products.json, collections/womens-watches?page=2..6 (149 produtos), mens-watches e sekvens (JavaScript); fotos das ~25 linhas só com link de página.",
+  "HMNWatch (linha 955)": "Marca grande (41+ produtos vistos só em listas cruzadas, várias cores cada). Dimensionamento e endereços em historico/notas_HMNWatch.md (20/11/2026, v748)."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
