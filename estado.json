@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 944,
- "ultima_versao": 744,
+ "proxima_linha_marcas": 945,
+ "ultima_versao": 745,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12865,6 +12865,19 @@
    "linha_marcas": 943,
    "adiada": true,
    "obs": "herzogwatches.com não abre (ROBOTS_UNREACHABLE), sem outras fontes; posta em ADIADAS no proxima_marca.py. Próxima: Heuer (grande, sozinha)."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 745,
+   "marca": "Hesili",
+   "linha_marcas": 945,
+   "linhas_relogios": "112913-112917",
+   "relogios": 5,
+   "vermelho": false,
+   "fontes": 16,
+   "passadas": "1: 16/5",
+   "site_bloqueado": "não",
+   "obs": "Raiz hesiliny.com deu PROVENANCE; coleção oficial abriu via busca. D, H, I, J corrigidos. Heuer (grande) é a próxima, sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12970,19 +12983,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T18:43:00Z",
- "ultimo_sinal": "2026-11-20T18:43:00Z",
- "em_andamento": {
-  "marcas": [
-   "Hesili"
-  ],
-  "linha_marcas": 945,
-  "grande": false,
-  "relogios": "historico/parcial_Hesili_relogios.txt",
-  "fontes": "historico/parcial_Hesili_fontes.txt",
-  "notas": "historico/notas_Hesili.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
