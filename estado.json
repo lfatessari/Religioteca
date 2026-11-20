@@ -12784,5 +12784,20 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-20T10:43:34Z",
+ "ultimo_sinal": "2026-11-20T10:43:34Z",
+ "em_andamento": {
+  "marcas": [
+   "Helm Watches",
+   "Helson"
+  ],
+  "linha_marcas": 931,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1
+ }
 }
