@@ -12998,19 +12998,23 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T20:43:47Z",
- "ultimo_sinal": "2026-11-20T20:43:47Z",
+ "ultimo_sinal": "2026-11-20T21:01:25Z",
  "em_andamento": {
   "marcas": [
-   "Heure Raffinee",
    "Hexa",
-   "HGP Dive Watches"
+   "HGP Dive Watches",
+   "Hilts"
   ],
-  "linha_marcas": 947,
+  "linha_marcas": 948,
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "fontes": "(lista no marca.json final)",
+  "notas": "historico/notas_HGP.md",
+  "secoes_feitas": [
+   "Hexa: tudo (18 fontes)",
+   "HGP: tudo (24 fontes)"
+  ],
+  "passada": 1,
+  "obs": "Heure Raffinee e Hilli Watches adiadas (sem fontes). Hilts em pesquisa; wearehilts.com PROVENANCE."
  }
 }
