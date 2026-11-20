@@ -12772,7 +12772,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T09:43:34Z",
- "ultimo_sinal": "2026-11-20T09:54:27Z",
+ "ultimo_sinal": "2026-11-20T09:57:10Z",
  "em_andamento": {
   "marcas": [
    "Helix"
@@ -12787,9 +12787,14 @@
    "2",
    "2c",
    "3",
-   "7"
+   "4",
+   "5",
+   "7",
+   "9",
+   "10"
   ],
-  "passada": 1,
-  "obs": "Helix = marca jovem da Timex Group India (TW0HX...); catálogo grande (justintime.in, timexindia.com) -> sozinha"
+  "passada": 2,
+  "obs": "Helix = marca jovem da Timex Group India (TW0HX...); catálogo grande (justintime.in, timexindia.com) -> sozinha",
+  "vermelho": true
  }
 }
