@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 941,
- "ultima_versao": 743,
+ "proxima_linha_marcas": 944,
+ "ultima_versao": 744,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12831,6 +12831,40 @@
    "passadas": "1: 99/185; 2: 12/152; 3: 13/19",
    "site_bloqueado": "sim (hermes.com PROVENANCE; 2º pedido negado pelo controle de segurança)",
    "obs": "Catálogo oficial levantado por ~45 buscas site:hermes.com (≈150 refs só com link da página). Lepage (≈130), CollectorSquare, 1stDibs, Mr Porter, Net-a-Porter, leilões e imprensa. Firecrawl sem créditos. Fotos em poucas linhas: complemento futuro com navegador/Firecrawl."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 744,
+   "marca": "Héron",
+   "linha_marcas": 942,
+   "linhas_relogios": "112863-112903",
+   "relogios": 41,
+   "vermelho": false,
+   "fontes": 23,
+   "passadas": "1: 23/41",
+   "site_bloqueado": "não",
+   "obs": "Site oficial (Shopify) aberto direto pelo ajudante web-fetch; D, J, I corrigidos."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 744,
+   "marca": "HerzWerk",
+   "linha_marcas": 944,
+   "linhas_relogios": "112904-112912",
+   "relogios": 9,
+   "vermelho": false,
+   "fontes": 15,
+   "passadas": "1: 15/9",
+   "site_bloqueado": "não",
+   "obs": "Site oficial herzwerk-watchmaking.com achado; C, D, G, H, I, J corrigidos; logo."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 744,
+   "marca": "Herzog",
+   "linha_marcas": 943,
+   "adiada": true,
+   "obs": "herzogwatches.com não abre (ROBOTS_UNREACHABLE), sem outras fontes; posta em ADIADAS no proxima_marca.py. Próxima: Heuer (grande, sozinha)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

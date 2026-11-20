@@ -1,0 +1,127 @@
+{
+ "marca": "HerzWerk",
+ "usa_codigos": false,
+ "logo": "https://herzwerk-watchmaking.com/wp-content/uploads/2026/02/logo_withoutbackground.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://thelimitededition.co.uk/product/onyx/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/artisan-gold-weis/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/artisan-gold-schwarz/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/regulateur/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/regulateur-titanium/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/the-watchmaker/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/artisan/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/unique-pieces/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/imprint/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/onyx/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/regulateur/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herzwerk-watchmaking.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product_brand/herzwerk-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://independentwatchmaking.com/makers/herzwerk/",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Egenburg (região de Munique)",
+  "G": "herzwerk-watchmaking.com",
+  "H": "@herzwerk_watchmaking",
+  "D": "Ateliê independente alemão de alta relojoaria artesanal, com movimentos próprios e guilhochê à mão (relojoeiro Martin Honermann, ex-Patek Philippe)",
+  "J": "Regulateur, Onyx, Artisan, peças únicas",
+  "I": "A HerzWerk (HerzWerk Watchmaking) é o ateliê do relojoeiro alemão Martin Honermann, com sede em Egenburg, na região de Munique. Honermann formou-se a partir de 2008 numa tradicional escola de relojoaria alemã, trabalhou em Zurique numa pequena equipe que fazia peças individuais e protótipos, deu aulas de relojoaria e passou muitos anos na Patek Philippe em Munique antes de criar a própria marca.\n\nA HerzWerk faz poucas peças por ano, de alta relojoaria artesanal, com movimentos próprios e mostradores guilhochês à mão: o Regulateur (calibre próprio de corda manual, apresentado no início de 2026), o Onyx (edição de 5 peças em titânio) e o Artisan (2026, dois tambores e até 8 dias de reserva), além de peças únicas sob encomenda. Os relógios são vendidos no Reino Unido pela The Limited Edition, por cerca de £ 22 mil a £ 39 mil."
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://herzwerk-watchmaking.com/imprint/",
+   "https://independentwatchmaking.com/makers/herzwerk/"
+  ],
+  "G": [
+   "https://herzwerk-watchmaking.com/",
+   "https://herzwerk-watchmaking.com/imprint/"
+  ],
+  "H": [
+   "https://herzwerk-watchmaking.com/the-watchmaker/"
+  ],
+  "D": [
+   "https://herzwerk-watchmaking.com/the-watchmaker/",
+   "https://thelimitededition.co.uk/product/onyx/"
+  ],
+  "J": [
+   "https://herzwerk-watchmaking.com/collection/",
+   "https://thelimitededition.co.uk/product_brand/herzwerk-watches/"
+  ],
+  "I": [
+   "https://herzwerk-watchmaking.com/the-watchmaker/",
+   "https://herzwerk-watchmaking.com/imprint/",
+   "https://herzwerk-watchmaking.com/artisan/",
+   "https://herzwerk-watchmaking.com/onyx/",
+   "https://herzwerk-watchmaking.com/regulateur/",
+   "https://independentwatchmaking.com/makers/herzwerk/",
+   "https://thelimitededition.co.uk/product_brand/herzwerk-watches/",
+   "https://thelimitededition.co.uk/product/onyx/",
+   "https://thelimitededition.co.uk/product/regulateur-titanium/"
+  ]
+ },
+ "observacoes": "Fase Relógios 20/11/2026: corrigidos C (vazio → Egenburg, região de Munique; imprint oficial), G (vazio → herzwerk-watchmaking.com), H (@herzwerk → @herzwerk_watchmaking, link do site oficial), D e J (antes falavam em 'open-heart' automático acessível, o que não bate com a marca) e I (reescrita com dados do site oficial e da The Limited Edition). Ainda a verificar: ano de fundação (independentwatchmaking.com estima c. 2020). E=2/F=4000 não alterados (preços reais £ 22 mil–39 mil)."
+}
