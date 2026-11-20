@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 922,
-  "ultima_versao": 731,
+  "proxima_linha_marcas": 925,
+  "ultima_versao": 732,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12590,6 +12590,44 @@
       },
       "correcoes_marcas": "C",
       "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+    },
+    {
+      "data": "2026-11-20",
+      "versao": 732,
+      "marca": "Hebe",
+      "linha_marcas": 923,
+      "linhas_relogios": "110687-110693",
+      "relogios": 7,
+      "vermelho": false,
+      "fontes": 21,
+      "site_bloqueado": "não (sem site oficial)",
+      "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+    },
+    {
+      "data": "2026-11-20",
+      "versao": 732,
+      "marca": "Hegid Watches",
+      "linha_marcas": 924,
+      "linhas_relogios": "110694-110718",
+      "relogios": 25,
+      "vermelho": false,
+      "fontes": 50,
+      "site_bloqueado": "sim (hegid.com PROVENANCE)",
+      "correcoes_marcas": "C, J",
+      "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+    },
+    {
+      "data": "2026-11-20",
+      "versao": 732,
+      "marca": "Heinrich",
+      "linha_marcas": 925,
+      "linhas_relogios": "110719-110740",
+      "relogios": 22,
+      "vermelho": false,
+      "fontes": 38,
+      "site_bloqueado": "sim (heinrich.watch PROVENANCE)",
+      "correcoes_marcas": "J",
+      "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12694,26 +12732,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-20T07:43:48Z",
-  "ultimo_sinal": "2026-11-20T07:50:54Z",
-  "em_andamento": {
-    "marcas": [
-      "Hebe",
-      "Hegid Watches",
-      "Heinrich"
-    ],
-    "linha_marcas": 923,
-    "grande": false,
-    "relogios": "historico/notas_Hebe_Hegid_Heinrich.md",
-    "fontes": "historico/parcial_Hebe_Hegid_Heinrich_fontes.txt",
-    "notas": "historico/notas_Hebe_Hegid_Heinrich.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "9"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
