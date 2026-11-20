@@ -12786,7 +12786,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T10:43:34Z",
- "ultimo_sinal": "2026-11-20T10:43:34Z",
+ "ultimo_sinal": "2026-11-20T10:54:06Z",
  "em_andamento": {
   "marcas": [
    "Helm Watches",
@@ -12797,7 +12797,10 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "Helm: todas",
+   "Helson: 1,2(bloqueado),3,9 parcial"
+  ],
   "passada": 1
  }
 }
