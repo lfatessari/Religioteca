@@ -12985,7 +12985,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T19:43:35Z",
- "ultimo_sinal": "2026-11-20T19:43:35Z",
+ "ultimo_sinal": "2026-11-20T19:55:40Z",
  "em_andamento": {
   "marcas": [
    "Heuer"
@@ -12995,7 +12995,11 @@
   "relogios": "historico/parcial_Heuer_relogios.txt",
   "fontes": "historico/parcial_Heuer_fontes.txt",
   "notas": "historico/notas_Heuer.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "5"
+  ],
   "passada": 1
  }
 }
