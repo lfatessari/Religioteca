@@ -12843,7 +12843,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T12:44:03Z",
- "ultimo_sinal": "2026-11-20T12:54:22Z",
+ "ultimo_sinal": "2026-11-20T13:04:54Z",
  "em_andamento": {
   "marcas": [
    "Hemel",
@@ -12855,7 +12855,12 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
+  "passada": 1,
+  "obs": "Sites oficiais hemelwatches.com e henryarcher.com (home) deram PROVENANCE; páginas internas do henryarcher.com vindas de busca abrem. Firecrawl sem créditos até ~13:43 UTC."
  }
 }
