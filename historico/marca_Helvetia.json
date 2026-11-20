@@ -1,0 +1,481 @@
+{
+ "marca": "Helvetia",
+ "usa_codigos": false,
+ "logo": "https://static.wixstatic.com/media/039c38_8a8519adfe0f487a83ecf15b785ed770~mv2.png",
+ "site_bloqueado": "Site bloqueado – helvetiawatches.ch (PROVENANCE_REQUIRED na leitura automática; Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "C": "Bienne",
+  "I": "A Helvetia — cujo nome é a própria personificação latina e simbólica da Suíça — é uma marca relojoeira suíça com raízes históricas profundas: o nome foi registrado em 1892 pela Louis Brandt & Frère (a futura Omega), e os relógios passaram a ser feitos pela Société d'Horlogerie La Générale, fundada em 1895 em La Chaux-de-Fonds e rebatizada General Watch Co. em 1897, quando se mudou para Bienne. Ligada à General Watch Co., tornou-se ao longo do século XX uma respeitada fabricante suíça, produzindo seus próprios movimentos e relógios de qualidade, com forte presença internacional.\n\nA marca teve destaque histórico com relógios de precisão, cronômetros e peças militares e civis elegantes, incorporando a identidade nacional suíça em seu próprio nome e simbolismo. Como muitas casas tradicionais, foi impactada pela crise do quartzo, mas o nome Helvetia foi revivido em tempos recentes, resgatando modelos de inspiração vintage e a herança de sua era dourada, com movimentos suíços e forte apelo de autenticidade histórica.\n\nHoje a Helvetia dirige-se a entusiastas que valorizam a herança relojoeira suíça tradicional e os designs vintage revividos, oferecendo relógios com identidade histórica a preços acessíveis dentro do Swiss Made. Mais que uma marca, carrega no nome a própria alma da Suíça relojoeira. [⚠️ verificar estrutura e status atuais da marca revivida]"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.helvetiahistory.co.uk/history",
+   "https://www.classicwatch.com/history-of-helvetia-watches"
+  ],
+  "I": [
+   "https://www.helvetiahistory.co.uk/history",
+   "https://kibblewatches.co.uk/pages/brand-directory-helvetia"
+  ]
+ },
+ "observacoes": "Relógios (20/11/2026, v737): C corrigido Grenchen → Bienne (sede da General Watch Co. desde 1897; fundada em La Chaux-de-Fonds em 1895 — helvetiahistory.co.uk/history e classicwatch.com). I: trecho \"fundada em 1858 em Grenchen\" trocado por 1892 (registro do nome pela Louis Brandt & Frère) / 1895 La Générale / 1897 General Watch Co. em Bienne (helvetiahistory.co.uk/history e kibblewatches.co.uk). Ainda a verificar: D e I falam em marca \"revivida\" — as fontes abertas dizem que a empresa foi dissolvida em 1973 (a Silvana S.A. assumiu o nome) e que hoje uma Montres Helvetia S.A. (Zug) vende relógios a partir de uma joalheria em Viena; um fórum (omegaforums) diz que essa empresa austríaca não tem ligação com a original. O site helvetiawatches.ch não abriu. K = logo usado no site de colecionador helvetiahistory.co.uk (não há site oficial acessível). E/F (faixa 2, US$ 2.500) não batem bem com os preços de usados vistos (€ 90 a € 3.350).",
+ "fontes": [
+  {
+   "url": "https://helvetiahistory.co.uk/helvetia-1940s-1950s-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/helvetia-1960s-1970s-watches",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/helvetia-large-date-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/the-helvetia-stop-chronostop-watch",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/1930s-sports-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/trench-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/german-miltary-pocket-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/movements",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/post/helvetia-the-depollier-watch-corp",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://classicwatch.com/vintage-helvetia-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicwatch.com/history-of-helvetia-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/pages/brand-directory-helvetia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronopedia.club/Helvetia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/interesting-helvetia-watches.82369/page-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/helvetia-anyone.110494/page-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/1929-helvetia-waterproof-watches-are-like-buses.109951/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://omegaforums.net/threads/helvetia-shock-waterproof-watches-site-update.112934/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchguy.co.uk/?p=11787",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchguy.co.uk/?p=10535",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/1930s-pilots-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/post/named-helvetia-pilot-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/post/early-helvetia-aeroplane-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/post/1930s-centre-seconds-sports-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/post-war-dress-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/german-military-dh-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/royal-navy-admiralty-pattern-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-12165805",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-9978238",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-10365137",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-9697602",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-9697603",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-9893326",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-10035867",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-9864725",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-34mm-helvetia-106-waterproof-mens-automatic-wristwatch-837-swiss",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-helvetia-chronometer-25j-men-automatic-wristwatch-837-swiss-steel-rare",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://awco.nl/shop/type-of-watches/sports-tool/helvetia-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drouot.com/en/l/21823265-helvetia-helvetia-chronographe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.proantic.com/en/print/fiche_objet?id=1610895",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/205494146490",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1940s_helvetia_wrist_watch_a13641/as170a13641",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1970s_helvetia_wrist_watch_a12930/as170a12930",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1950s_helvetia_automatic_wrist_watch_a13129/as170a13129",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/gents_1950s_elco_wrist_watch_by_helvetia_a13372/as170a13372",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1950s_helvetia_wristwatch_a8847/as170a8847",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sellingantiques.co.uk/1183298/gents-1950s-helvetia-automatic-wrist-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/1940s_helvetia_military_pocket_watch_a9673/as170a9673",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/helvetia-us-army-oh-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/german-military-dih-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/british-gstp-pocket-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/blog/categories/watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/100054515-helvetia-533168-1950-1959",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/zh-Hans/l/100838271-helvetia-sector-waffle-dial-automatic-ingen-mindstepris-maend-1950-1959",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/de/l/18219813-helvetia-sport-dress-watch-ca-1960-cal-830-gilt-dial-1960-1969",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auction.catawiki.com/kavels/12860017-helvetia-prestige-goldplated-men-s-automatic-wristwatch-vintage-1960s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://auction.catawiki.com/kavels/17987875-helvetia-automatic-diver-ca-1970-eta-2783-very-rare-original-bracelet-fully-serviced-02-2018-men-1970-1979",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/18023",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://finn.no/298437351",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/new-helvetia-watch-co-site.85250/page-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/helvetia-admiralty-pattern-3169-wrist-chrono.111796/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/helvetia-what-the-hel.62558/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reginsrealm.blogspot.com/2019/02/helvetia-vintage-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elcoleccionistaeclectico.com/helvetia-stainless-steel-1970s-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004106683-helvetia-beatmaster.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wip.europastar.com/swisstime/1004106713-helvetia-beatmaster.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004103949-helvetia.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004101909-hebe-watch-helvetia.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/post/a-pair-of-1940s-chronographs",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/helvetia-calibre-837",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/vintage-adverts",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://helvetiahistory.co.uk/helvetia-case-markings",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://omegaforums.net/threads/interesting-helvetia-watches.82369/page-3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/helvetia-watch-identification-request.182905/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.helvetiahistory.co.uk/serial-numbers",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://rdavidoff.photobiz.com/our-archive/helvetia-split-seconds-chronograph-1940s",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://dumarko.com/products/helvetia-rare-vintage-pilot-military-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/106998",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jpressonline.com/products/1940s-helvetia",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ewatcheshouse.com/en/vintage/411-helvetia-silver-1964.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/helvetia/watch-11939953",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.graysantiques.com/product/helvetia-ref278303230-yellow-silver-dial-1960s-vintage-diver-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/art-deco-mens-chrome-tank-manual-wristwatch-helvetia-newly-serviced-circa-1930/id-j_9734612",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ewatcheshouse.com/en/vintage/410-helvetia-silver-1973.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.onthedash.com/?p=42754",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://wip.europastar.com/swisstime/1004103114-helvetia.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/helvetia-anyone.110494/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/9-karat-gold-vintage-helvetia-hand-winding-wristwatch/id-j_8219272",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/vintage-depth-gauge-watches.58505/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/helvetia-vintage-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://electric-watches.co.uk/makers/esa/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

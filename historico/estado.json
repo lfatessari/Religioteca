@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 930,
- "ultima_versao": 734,
+ "proxima_linha_marcas": 933,
+ "ultima_versao": 737,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12680,6 +12680,56 @@
    "site_bloqueado": "parcial (helix-watches.com: só /about-us abriu)",
    "correcoes_marcas": "B, G, J",
    "obs": "Helix = marca da Timex Group India. Páginas pelo ajudante web-fetch; Firecrawl sem créditos; Projects ausente (pendências dos posts não lidas). justintime.in deu limite de acessos em ~95 fichas: entraram com o link da página."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 735,
+   "marca": "Helm Watches",
+   "linha_marcas": 931,
+   "linhas_relogios": "111062-111105",
+   "relogios": 44,
+   "vermelho": false,
+   "fontes": 39,
+   "site_bloqueado": "parcial (helmwatches.com raiz PROVENANCE; subpáginas abriram)",
+   "correcoes_marcas": "B, I, J",
+   "obs": "Páginas pelo ajudante web-fetch; Firecrawl sem créditos; Projects ausente."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 735,
+   "marca": "Helson",
+   "linha_marcas": 932,
+   "linhas_relogios": "111106-111160",
+   "relogios": 55,
+   "vermelho": true,
+   "fontes": 68,
+   "passadas": "1: 45/39; 2: 11/9; 3: 12/7",
+   "site_bloqueado": "sim (helsonwatches.com PROVENANCE)",
+   "obs": "watchpatrol www/discover dá client_error; static.watchpatrol.net abre. Helvetia (933) é grande: próxima execução, sozinha."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 736,
+   "tipo": "posts",
+   "marcas": [
+    "85RETRO",
+    "96Zero Watches",
+    "A-13A"
+   ],
+   "obs": "Pendências dos posts escritas no prompt (itens 5.1–5.6): D e I das 3 marcas."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 737,
+   "marca": "Helvetia",
+   "linha_marcas": 933,
+   "linhas_relogios": "111161-111246",
+   "relogios": 86,
+   "vermelho": true,
+   "fontes": 91,
+   "passadas": "1: 64/75; 2: 17/7; 3: 10/4",
+   "site_bloqueado": "sim (helvetiawatches.ch PROVENANCE)",
+   "obs": "Marca vintage (General Watch Co.); fonte principal helvetiahistory.co.uk. Páginas abertas pelo ajudante web-fetch. Firecrawl sem créditos. C corrigido para Bienne; trecho de fundação em I corrigido."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

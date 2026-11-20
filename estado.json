@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 932,
- "ultima_versao": 736,
+ "proxima_linha_marcas": 933,
+ "ultima_versao": 737,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12717,6 +12717,19 @@
     "A-13A"
    ],
    "obs": "Pendências dos posts escritas no prompt (itens 5.1–5.6): D e I das 3 marcas."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 737,
+   "marca": "Helvetia",
+   "linha_marcas": 933,
+   "linhas_relogios": "111161-111246",
+   "relogios": 86,
+   "vermelho": true,
+   "fontes": 91,
+   "passadas": "1: 64/75; 2: 17/7; 3: 10/4",
+   "site_bloqueado": "sim (helvetiawatches.ch PROVENANCE)",
+   "obs": "Marca vintage (General Watch Co.); fonte principal helvetiahistory.co.uk. Páginas abertas pelo ajudante web-fetch. Firecrawl sem créditos. C corrigido para Bienne; trecho de fundação em I corrigido."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12821,32 +12834,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T11:43:25Z",
- "ultimo_sinal": "2026-11-20T12:03:56Z",
- "em_andamento": {
-  "marcas": [
-   "Helvetia"
-  ],
-  "linha_marcas": 933,
-  "grande": true,
-  "relogios": "historico/parcial_Helvetia_relogios.txt",
-  "fontes": "historico/parcial_Helvetia_fontes.txt",
-  "notas": "historico/notas_Helvetia.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }
