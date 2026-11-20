@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 932,
- "ultima_versao": 735,
+ "ultima_versao": 736,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12706,6 +12706,17 @@
    "passadas": "1: 45/39; 2: 11/9; 3: 12/7",
    "site_bloqueado": "sim (helsonwatches.com PROVENANCE)",
    "obs": "watchpatrol www/discover dá client_error; static.watchpatrol.net abre. Helvetia (933) é grande: próxima execução, sozinha."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 736,
+   "tipo": "posts",
+   "marcas": [
+    "85RETRO",
+    "96Zero Watches",
+    "A-13A"
+   ],
+   "obs": "Pendências dos posts escritas no prompt (itens 5.1–5.6): D e I das 3 marcas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12812,5 +12823,5 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T11:43:25Z",
- "ultimo_sinal": "2026-11-20T11:43:25Z"
+ "ultimo_sinal": "2026-11-20T11:48:24Z"
 }
