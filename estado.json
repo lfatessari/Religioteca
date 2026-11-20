@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 946,
- "ultima_versao": 746,
+ "proxima_linha_marcas": 951,
+ "ultima_versao": 747,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12891,6 +12891,30 @@
    "passadas": "1: 81/315; 2: 26/20; 3: 17/15",
    "site_bloqueado": "não",
    "obs": "Heuer histórica (até c.1985 + reedições Heuer 1996-2003); base OnTheDash Master Reference Table + páginas vintage oficiais tagheuer.com + Analog Shift, Phillips, Sotheby's. ~243 linhas só com link (sem foto). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 747,
+   "marcas": [
+    "Hexa",
+    "HGP Dive Watches",
+    "Hilts"
+   ],
+   "linhas_relogios": "113289-113329",
+   "relogios": {
+    "Hexa": 6,
+    "HGP Dive Watches": 25,
+    "Hilts": 10
+   },
+   "vermelho": false,
+   "fontes": {
+    "Hexa": 18,
+    "HGP Dive Watches": 26,
+    "Hilts": 16
+   },
+   "passadas": "Hexa 1: 18/6; HGP 1: 26/25; Hilts 1: 16/10",
+   "site_bloqueado": "Hexa sim (hexawatches.com); HGP parcial; Hilts sim (wearehilts.com)",
+   "obs": "Heure Raffinee (947) e Hilli Watches (950) adiadas sem fontes (ADIADAS no proxima_marca.py). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; os 3 sites oficiais deram PROVENANCE na tentativa direta."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12996,25 +13020,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T20:43:47Z",
- "ultimo_sinal": "2026-11-20T21:01:25Z",
- "em_andamento": {
-  "marcas": [
-   "Hexa",
-   "HGP Dive Watches",
-   "Hilts"
-  ],
-  "linha_marcas": 948,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "(lista no marca.json final)",
-  "notas": "historico/notas_HGP.md",
-  "secoes_feitas": [
-   "Hexa: tudo (18 fontes)",
-   "HGP: tudo (24 fontes)"
-  ],
-  "passada": 1,
-  "obs": "Heure Raffinee e Hilli Watches adiadas (sem fontes). Hilts em pesquisa; wearehilts.com PROVENANCE."
- }
+ "adiadas_obs": {}
 }
