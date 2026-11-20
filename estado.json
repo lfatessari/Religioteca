@@ -12843,7 +12843,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T12:44:03Z",
- "ultimo_sinal": "2026-11-20T13:16:22Z",
+ "ultimo_sinal": "2026-11-20T13:18:15Z",
  "em_andamento": {
   "marcas": [
    "Hemel",
@@ -12858,9 +12858,14 @@
   "secoes_feitas": [
    "1",
    "2",
-   "3"
+   "2c",
+   "3",
+   "5",
+   "7",
+   "9",
+   "10"
   ],
-  "passada": 1,
+  "passada": 2,
   "obs": "Sites oficiais hemelwatches.com e henryarcher.com (home) deram PROVENANCE; páginas internas do henryarcher.com vindas de busca abrem. Firecrawl sem créditos até ~13:43 UTC. Henry Archer revelou-se grande (108 produtos na coleção udvalgte-ure): fica com Hemel; Henri Duvoisin adiada (só 1 fonte)."
  }
 }
