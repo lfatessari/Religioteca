@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 937,
-  "ultima_versao": 740,
+  "proxima_linha_marcas": 938,
+  "ultima_versao": 741,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12777,6 +12777,20 @@
       "passadas": "1: 39/36",
       "site_bloqueado": "parcial (hentschel-hamburg.de PROVENANCE; abriu pelo Firecrawl)",
       "obs": "Site oficial pelo Firecrawl (~19 créditos; créditos acabando). D, H, I, J corrigidos. Herbelin (938) é grande: fica sozinha na próxima execução."
+    },
+    {
+      "data": "2026-11-20",
+      "versao": 741,
+      "marca": "Herbelin",
+      "linha_marcas": 938,
+      "linhas_relogios": "111496-112296",
+      "relogios": 801,
+      "vermelho": true,
+      "grande": true,
+      "fontes": 72,
+      "passadas": "1: 50/794; 2: 12/6; 3: 10/1",
+      "site_bloqueado": "não (herbelin.com products.json pelo Firecrawl)",
+      "obs": "Base: loja oficial (453), Lepage (15 páginas), Ocarat (9+), Chrono24.de (7 páginas), imprensa. Firecrawl ~50 créditos. I corrigida (Newport 1988; Impec; nome desde 1965). Vermelha: referências antigas sem catálogo."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12882,27 +12896,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-20T14:42:52Z",
-  "ultimo_sinal": "2026-11-20T14:51:02Z",
-  "em_andamento": {
-    "marcas": [
-      "Herbelin"
-    ],
-    "linha_marcas": 938,
-    "grande": true,
-    "relogios": "historico/parcial_Herbelin_relogios.txt",
-    "fontes": "historico/parcial_Herbelin_fontes.txt",
-    "notas": "historico/notas_Herbelin.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "6",
-      "7",
-      "9"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

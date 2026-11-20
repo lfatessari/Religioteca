@@ -1,0 +1,383 @@
+{
+ "marca": "Herbelin",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://herbelin.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 453
+  },
+  {
+   "url": "https://herbelin.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herbelin.com/products.json?limit=250&page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches",
+   "passada": 1,
+   "novos": 211
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=13",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=14",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=15",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1302-michel-herbelin-watches?page=16",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/",
+   "passada": 1,
+   "novos": 56
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin/?p=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/michel-herbelin-watches/products.json?limit=250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/michelherbelin/index.htm",
+   "passada": 1,
+   "novos": 53
+  },
+  {
+   "url": "https://www.chrono24.de/michelherbelin/index-2.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/michelherbelin/index-3.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/michelherbelin/index-4.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/michelherbelin/index-5.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/michelherbelin/index-6.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/michelherbelin/index-7.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2018/02/21/michel-herbelin-newport-automatic-thirty-year-anniversary-edition/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.europastar.com/1004113884.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/1004090529.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=42859",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=51048",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/?p=21182",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/michel-herbelin/watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.wantedonline.co.za/watches-and-jewellery/2016-08-07-michel-herbelin-a-short-history/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.parismatch.be/lifestyle/montres/2019/08/16/horlogerie-le-chic-maritime-au-poignet-avec-michel-herbelin-UVVFCHODZFCJVPBUNK4MDI4FBM/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/michel-herbelin/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.maty.com/en/montre-michel-herbelin.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://my-watchsite.com/1281-michel-herbelin",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.thewatchreviewsite.co.uk/category/michel-herbelin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/herbelin-watches-cf-1152/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-newport/?p=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-newport/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/womens-herbelin-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-homme/?p=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-newport-trophy-12275tr44-herbelin-34383.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/newport-trophy-quartz-12270-b14-michel-herbelin-121822.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://lepage.fr/en/9690-michel-herbelin-skin-diver-watch-automatic-36-mm-div200.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.maty.com/en/Bijoux/7201907/montre-herbelin-newport-slim-homme-automatique-acier-bracelet-cuir-noir--edition-limitee.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/157089224923",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.at/itm/166334668148",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://figaronautisme.meteoconsult.fr/actus-nautisme-lifestyle/2018-02-26/46455-michel-herbelin-la-montre-newport-en-edition-limitee",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/brand-index/1004086390-herbelin.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.lepage.fr/en/1313-michel-herbelin-trophy-watches",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lepage.fr/en/1306-michel-herbelin-city-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1315-michel-herbelin-watches-for-men?page=5",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-antares/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-inspiration/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-homme/?p=4",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-homme/?p=3",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-michel-herbelin-homme/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1308-michel-herbelin-epsilon-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1307-michel-herbelin-classique-watches",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Michel Herbelin foi fundada em 1947 por Michel Herbelin em Charquemont, uma pequena cidade francesa na região do Jura, junto à fronteira suíça — coração histórico da relojoaria francesa. A primeira linha da casa se chamava Impec; o nome Michel Herbelin só passou a assinar os relógios em 1965. A marca permanece uma empresa familiar independente, hoje dirigida pelos filhos e netos do fundador, uma raridade no setor.\n\nA Herbelin construiu sua reputação sobre a elegância francesa acessível e o design atemporal. Seu modelo mais icônico é o Newport, lançado em 1988 e inspirado no mundo náutico e da vela — com seus parafusos na luneta e estética marítima, tornou-se um clássico e o carro-chefe da marca. As coleções Newport, Antarès, Cap Camarat e Équinoxe cobrem do esportivo náutico ao dress clássico e ultrafino, com movimentos suíços quartzo e automáticos, sempre com forte apelo de elegância francesa e ótimo custo-benefício. A marca é uma das mais vendidas da França.\n\nHoje a Michel Herbelin ocupa o segmento de relógios franceses elegantes e acessíveis, dirigindo-se a quem busca refinamento parisiense e herança familiar sem pagar caro. Mais que status, entrega estilo francês atemporal e a autenticidade de uma casa familiar. [⚠️ verificar dados atuais]"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://masterhorologer.com/2018/02/21/michel-herbelin-newport-automatic-thirty-year-anniversary-edition/",
+   "https://www.europastar.com/1004113884.html",
+   "https://www.firstclasswatches.co.uk/blog/?p=21182",
+   "https://www.wantedonline.co.za/watches-and-jewellery/2016-08-07-michel-herbelin-a-short-history/"
+  ]
+ },
+ "observacoes": "Relógios (v741): I corrigida — Newport 'lançado nos anos 1980' → 'lançado em 1988' (Masterhorologer 2018, Europa Star, Paris Match 2019); acrescentado: primeira linha Impec (1947) e nome Michel Herbelin desde 1965 (FirstClass Watches, Wanted 2016, Europa Star). Só anotado: a Europa Star (nov/2023) diz que a marca passou a assinar apenas 'Herbelin' (o site herbelin.com confirma o nome curto); H @michelherbelin não conferido nesta execução. Vermelha: centenas de referências antigas (Impec, anos 1960–90, Newport J-Class, Yacht Club, Trophy Grand Sport) sem catálogo público."
+}
