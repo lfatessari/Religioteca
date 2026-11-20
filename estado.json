@@ -12924,7 +12924,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T16:43:54Z",
- "ultimo_sinal": "2026-11-20T17:01:52Z",
+ "ultimo_sinal": "2026-11-20T17:13:34Z",
  "em_andamento": {
   "marcas": [
    "Hermes"
@@ -12937,15 +12937,19 @@
   "secoes_feitas": [
    "1",
    "2",
+   "2c",
    "3",
    "4p",
    "5",
    "6p",
    "7",
    "8",
-   "9"
+   "9",
+   "10",
+   "10b",
+   "2a passada"
   ],
-  "passada": 1,
-  "obs": "Itens em historico/build_hermes.py + urls_hermes.txt; montar com merge.py"
+  "passada": 3,
+  "obs": "Vermelha. 1ª passada encerrada (3 últimas sem novidade); 2ª passada 12 fontes/152 novos; falta 3ª passada (10+ fontes). Montar com merge.py (usa build_hermes.py, lepage.py, urls_hermes.txt)."
  }
 }

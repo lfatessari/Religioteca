@@ -204,3 +204,49 @@ for n,u,e in [
 D1b="Visto só no título de anúncio da 1stDibs (link da página de busca). "
 for n,e in [("Carrick","Aço e ouro 18k, automático (também versão feminina e banhada a ouro)."),("Glissade","Ouro amarelo 18k, 20 mm, quartzo, 2003."),("Pursang Dame","Ouro 18k, anos 1990."),("Ruban","Ouro amarelo 18k, 26 a 33 mm, quartzo."),("Mors","Ouro amarelo e branco 18k, anos 1970."),("Loquet Clic-Clac","Metal dourado e esmalte, bracelete rígido."),("Barenia Ronde","Pulseira de couro.")]:
     a(n,"",D1,D1b+e)
+MP="Foto e dados da Mr Porter. "
+a("H08 – titânio DLC e ouro rosa","W060124WW00","https://www.mrporter.com/variants/images/1647597308979915/in/w2000_q80.jpg",MP+"Titânio com DLC e ouro rosa, 39 mm, automático, pulseira de borracha.")
+a("H08 – fibra de vidro","W402992WW00","https://www.mrporter.com/variants/images/1647597317852562/in/w2000_q80.jpg",MP+"Fibra de vidro, 39 mm, automático, pulseira de borracha.")
+a("H08 – fibra de vidro, mostrador preto, borracha azul","W402990WW00","https://www.mrporter.com/variants/images/1647597317852564/in/w2000_q80.jpg",MP+"Fibra de vidro aluminizada, luneta de titânio, 39 mm, automático H1837 (50 h), 100 m.")
+a("H08 – titânio, borracha laranja","W049628WW00","https://www.mrporter.com/en-be/mens/product/hermes-timepieces/luxury-watches/sports-watches/h08-automatic-39mm-titanium-and-rubber-watch-ref-no-049628ww00/13452677152107723","Visto na Mr Porter e no site oficial (link da página; foto não obtida). Titânio, 39 mm, automático H1837 (50 h), data, mostrador cinza e preto, 100 m.")
+a("H08 – grafeno","W049433WW00","https://www.mrporter.com/en-be/mens/product/hermes-timepieces/luxury-watches/sports-watches/h08-automatic-39mm-graphene-and-rubber-watch-ref-no-049433ww00/11452292647421708","Visto no título de busca da Mr Porter (link da página). Grafeno (composto), 39 mm, automático, pulseira de borracha.")
+a("Kelly","W026732WW00","https://www.prestigetime.com/images/watches/112/2130/w026732WW00/W026732WW00_main.jpg","Foto e dados da Prestige Time. Banho de ouro, 20 x 20 mm, quartzo, mostrador branco, pulseira de couro marrom, safira (também KE1.201.170/VB34).")
+a("Kelly","W026734WW00","https://www.prestigetime.com/images/watches/112/2130/w026734WW00/026734WW00_main.jpg","Foto e dados da Prestige Time. Aço, 20 x 20 mm, quartzo, mostrador branco, pulseira de couro marrom, safira (também KE1.210.280/VB34).")
+a("Kelly TPM – diamantes, bracelete de aço","W062468WW00","https://www.lepage.fr/en/24281-hermes-kelly-mini-model-diamonds-set-quartz-white-lacquer-dial-steel-bracelet-16-mm-w062468ww00.html","Visto na Lepage (link da página). Aço com diamantes, 16 mm, quartzo, mostrador laqueado branco.")
+a("Kelly TPM – bracelete de aço","W062467WW00","https://www.lepage.fr/en/24565-hermes-kelly-mini-model-quartz-white-lacquer-dial-steel-bracelet-16-mm-w062467ww00.html","Visto na Lepage (link da página). Aço, 16 mm, quartzo, mostrador laqueado branco.")
+a("Heure H Double Jeu PM","W046490WW00","https://www.net-a-porter.com/variants/images/2499567819656303/in/w2000_q60.jpg","Foto e dados da Net-a-Porter. Aço e laca preta, 21 mm, 0,20 ct de diamantes na caixa e 0,30 ct no mostrador, quartzo, pulseira de couro preta, 30 m.")
+a("Kelly Joaillerie (2020)","","https://hermes.watchonista.com/node/492489","Visto na Watchonista (link da página). Ouro branco com diamantes, 16,2 x 16,9 mm, quartzo, mostrador de madrepérola com quatro diamantes, 30 m.")
+a("Arceau Squelette","W055537WW00","https://www.mrporter.com/variants/images/13452677150449099/in/w2000_q80.jpg",MP+"Aço, 40 mm x 9,5 mm, automático H1837 esqueletizado, mostrador preto com centro transparente, pulseira de aligátor preta, 30 m.")
+a("H08 – titânio, mostrador preto, borracha laranja","W049430WW00","https://www.analogshift.com/products/hermes-h08-1","Visto na Analog/Shift e no site oficial (link do anúncio; foto não obtida). Titânio com aro DLC, 39 mm, automático H1837, data, 100 m.")
+exec(open('lepage.py').read())
+for _u in open('lepage_urls.txt').read().split(): a(*lep(_u))
+D="Visto só no título de anúncio da 1stDibs (link da página de busca). "
+DA='https://www.1stdibs.com/buy/hermes-arceau-watch'; DH='https://www.1stdibs.com/buy/heure-h-watch'; DN='https://1stdibs.com/buy/hermes-nantucket-watches'; DM='https://www.1stdibs.com/buy/hermes-medor-watch'
+for n,r,u,e in [("Cape Cod GM","CC3.710","https://www.collectorsquare.com/en/watches/hermes/cape-cod/","Visto só em anúncio da CollectorSquare (link da página da lista). Aço, modelo grande, c. 2018."),
+("Cape Cod Chrono","CC1.910","https://www.collectorsquare.com/en/watches/hermes/cape-cod/","Visto só em anúncio da CollectorSquare (link da página da lista). Aço, cronógrafo, c. 2000."),
+("Nantucket","NA2.132",DN,D+"Aço com diamantes, 17 mm."),
+("Arceau Squelette","AR6.710",DA,D+"Aço, 41 mm, automático, mostrador esqueletizado."),
+("Arceau Chronographe Titane","AR3.941",DA,D+"Titânio, cronógrafo automático."),
+("Arceau Le Temps Voyageur","AR10.510",DA,D+"Aço, automático, dois fusos."),
+("Arceau (vintage)","AR4.520",DA,D+"Aço e ouro, quartzo, c. 1994."),
+("Arceau Automatique","AR7.710",DA,D+"Aço, 41 mm, mostrador marrom (anúncio grafa AR7.710.220)."),
+("Arceau Lady – luneta de diamantes, madrepérola","AR5.230",DA,D+"Aço, luneta de diamantes, mostrador de madrepérola."),
+("Arceau","AR5.730",DA,D+"Aço, quartzo (anúncio grafa AR5.730.212)."),
+("Arceau","AR7Q.810",DA,D+"Aço, 40 mm, quartzo."),
+("Arceau Écuyère","AR6.630",DA,D+"Aço (anúncio grafa AR6.630.220.MM76)."),
+("Arceau Grande Lune – ouro rosa","AR8.870",DA,D+"Ouro rosa 18k (anúncio grafa AR8.870.221.MHA)."),
+("Arceau Grande Lune","AR8.810",DA,D+"Aço, automático, calendário triplo e fases da lua (anúncio grafa AR8.810.220MHA)."),
+("Arceau","AR3.720",DA,D+"Aço e ouro, quartzo."),
+("Arceau – ouro rosa","W041146WW00",DA,D+"Ouro rosa 18k."),
+("Arceau Étoilée Automatique","",DA,D+"Ouro rosa 18k, 34 mm, diamantes, mostrador de aventurina com estrelas."),
+("Arceau Casaque","",DA,D+"Aço, 36 mm, quartzo."),
+("Heure H","HH1.501",DH,D+"Aço com banho de ouro, quartzo."),
+("Heure H – mostrador de malaquita","HH4.272",DH,D+"Ouro rosa 18k, diamantes, mostrador de malaquita verde."),
+("Heure H – madrepérola e diamantes","W057250WW00",DH,D+"Aço, diamantes, mostrador de madrepérola."),
+("Heure H Ronde","",DH,D+"Aço, quartzo."),
+("Heure H Automatique (2014)","",DH,D+"Aço, 32 mm, automático."),
+("Nantucket Jeté de Diamants","",DN,D+"Aço, 17 mm, quartzo, cravejado de diamantes."),
+("Cape Cod Bizone (Nantucket dois fusos)","",DN,D+"Aço, quartzo, dois mostradores, início dos anos 2000."),
+("Médor Collier de Chien","",DM,D+"Aço e banho de ouro, início dos anos 2000."),
+("Médor TPM – aço e diamantes","",DM,D+"Aço com diamantes, 16 x 16 mm.")]:
+    a(n,r,u,e)
