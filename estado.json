@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 919,
- "ultima_versao": 730,
+ "proxima_linha_marcas": 922,
+ "ultima_versao": 731,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12548,6 +12548,48 @@
    "site_bloqueado": "não",
    "correcoes_marcas": "H",
    "obs": "Primeira bateria com páginas abertas pelo ajudante web-fetch (WebFetch direta ausente), com o usuário presente; Firecrawl sem créditos; Projects ausente."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 731,
+   "marca": "Hawaiian Lifeguard",
+   "linha_marcas": 920,
+   "linhas_relogios": "110599-110622",
+   "relogios": 24,
+   "vermelho": false,
+   "fontes": 31,
+   "site_bloqueado": "sim (timeconcepts.net PROVENANCE)",
+   "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 731,
+   "marca": "HD3",
+   "linha_marcas": 921,
+   "linhas_relogios": "110623-110649",
+   "relogios": 27,
+   "vermelho": false,
+   "fontes": 52,
+   "site_bloqueado": "não (sem site oficial)",
+   "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 731,
+   "marca": "Hebdomas",
+   "linha_marcas": 922,
+   "linhas_relogios": "110650-110686",
+   "relogios": 37,
+   "vermelho": true,
+   "fontes": 57,
+   "site_bloqueado": "não (sem site oficial)",
+   "passadas": {
+    "1": "27 fontes, 26 novos",
+    "2": "15 fontes, 7 novos",
+    "3": "15 fontes, 7 novos"
+   },
+   "correcoes_marcas": "C",
+   "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12652,33 +12694,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T06:45:50Z",
- "ultimo_sinal": "2026-11-20T06:57:23Z",
- "em_andamento": {
-  "marcas": [
-   "Hawaiian Lifeguard",
-   "HD3",
-   "Hebdomas"
-  ],
-  "linha_marcas": 920,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 1,
-  "obs": "HLA e HD3 com 1a passada encerrada; Hebdomas vermelha, 2a passada feita (7 novos) -> falta 3a passada"
- }
+ "adiadas_obs": {}
 }
