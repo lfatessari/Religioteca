@@ -160,7 +160,7 @@ a("Cape Cod","W059599WW00","https://www.the1916company.com/pre-owned/hermes/cape
 a("Médor","ME1.201","https://www.collectorsquare.com/en/watches/hermes/medor/medor/hermes-medor-watch-gold-plated-ref-hermes-me1-201-circa-1990-435120.html",CC+"Banho de ouro, c. 1990.")
 a("Médor","ME1.250","https://www.collectorsquare.com/en/watches/hermes/medor/medor/hermes-medor-watch-in-silver-ref-me1-250-circa-2000-330927.html",CC+"Prata, c. 2000.")
 TRR="Visto só no título de anúncio da The RealReal (link da página da lista). "
-for n in ["Clipper Power Reserve","Croisière","Klikti","Profile","Windsor","Kelly Lock","Faubourg Manchettes","Cape Cod Chaîne d'Ancre Joaillier","Arceau Petite Lune Ciel Étoilé","Clipper Chrono Maxi","Rallye","Slim d'Hermès – Hermès × Hodinkee, edição limitada","Médor – edição limitada","Cape Cod TGM"]:
+for n in ["Clipper Power Reserve","Croisière","Klikti","Profile","Windsor","Kelly Lock","Faubourg Manchettes","Cape Cod Chaîne d'Ancre Joaillier","Arceau Petite Lune Ciel Étoilé","Clipper Chrono Maxi","Slim d'Hermès – Hermès × Hodinkee, edição limitada","Médor – edição limitada","Cape Cod TGM"]:
     a(n,"","https://therealreal.com/designers/hermes/watches",TRR)
 P="Visto só em artigo de imprensa (link do artigo). "
 for n,u,e in [
@@ -249,4 +249,20 @@ for n,r,u,e in [("Cape Cod GM","CC3.710","https://www.collectorsquare.com/en/wat
 ("Cape Cod Bizone (Nantucket dois fusos)","",DN,D+"Aço, quartzo, dois mostradores, início dos anos 2000."),
 ("Médor Collier de Chien","",DM,D+"Aço e banho de ouro, início dos anos 2000."),
 ("Médor TPM – aço e diamantes","",DM,D+"Aço com diamantes, 16 x 16 mm.")]:
+    a(n,r,u,e)
+D5='https://www.1stdibs.com/buy/hermes-watch/?page=5'; D13='https://www.1stdibs.com/buy/hermes-watch/?page=13'; D14='https://www.1stdibs.com/buy/hermes-watch/?page=14'; DC='https://www.1stdibs.com/buy/hermes-cape-cod-watch'
+for n,r,u,e in [("Arceau Grande Lune","W036757WW00","https://lepage.fr/en/20357-hermes-arceau-grand-lune-automatic-watch-silver-dial-brown-leather-strap-43-mm-036757ww.html","Visto na Lepage (link da página). Aço, 43 mm, automático, mostrador opalino prateado com fases da lua às 6 e data, pulseira Barenia marrom, 50 m."),
+("Dressage Petite Seconde GM","","https://www.lepage.fr/en/3021-hermes-men-watches","Visto só no título da lista da Lepage (link da página). Automático, 40,5 mm."),
+("Cape Cod – ouro amarelo, mostrador de pérola","CC1.285",D5,D+"Ouro amarelo 18k, 33 x 23 mm, quartzo, c. 2010."),
+("Cape Cod TGM Grande Date GMT","CD6.910",D5,D+"Aço, automático, GMT e grande data, mostrador branco."),
+("Galop d'Hermès – ouro rosa e diamantes, 35 mm","GA1.271",D5,D+"Ouro rosa 18k, diamantes, mostrador branco."),
+("Clipper Automatique","CL5.710",D5,D+"Automático, anos 2010."),
+("Arceau L'Heure de la Lune – Only Watch, edição limitada","",D5,D+"Edição para o leilão beneficente Only Watch."),
+("Médor Rock","",D13,D+"Aço laqueado, 16 mm, quartzo."),
+("Clipper Diver Chronographe Automatique","",D13,D+"Aço e titânio, 44 mm, automático."),
+("Clipper Plongeur Chronographe","",D14,D+"Aço, pulseira de borracha azul."),
+("Rallye","RA2.210",D14,D+"Aço, quartzo, feminino, mostrador preto (anúncio grafa RA2-210)."),
+("Cape Cod","CC3.230",D14,D+"Aço, 20 mm, quartzo, feminino, mostrador branco (anúncio grafa CC3-230)."),
+("Cape Cod Joaillier – ouro rosa e diamantes","W054710WW00",DC,D+"Ouro rosa 18k, diamantes, mostrador creme."),
+("Cape Cod Quantième Simple","",DC,D+"Aço, 36,5 x 35,4 mm, pulseira de aligátor preta, 2008.")]:
     a(n,r,u,e)

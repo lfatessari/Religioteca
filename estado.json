@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 940,
- "ultima_versao": 742,
+ "proxima_linha_marcas": 941,
+ "ultima_versao": 743,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12817,6 +12817,20 @@
    "passadas": "1: 22/10",
    "site_bloqueado": "não (site antigo fora do ar/fora das buscas)",
    "obs": "Marca de 2010-2014; B, I, J corrigidos. Hermes (941) é grande: fica sozinha na próxima."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 743,
+   "marca": "Hermes",
+   "linha_marcas": 941,
+   "linhas_relogios": "112333-112862",
+   "relogios": 530,
+   "vermelho": true,
+   "grande": true,
+   "fontes": 124,
+   "passadas": "1: 99/185; 2: 12/152; 3: 13/19",
+   "site_bloqueado": "sim (hermes.com PROVENANCE; 2º pedido negado pelo controle de segurança)",
+   "obs": "Catálogo oficial levantado por ~45 buscas site:hermes.com (≈150 refs só com link da página). Lepage (≈130), CollectorSquare, 1stDibs, Mr Porter, Net-a-Porter, leilões e imprensa. Firecrawl sem créditos. Fotos em poucas linhas: complemento futuro com navegador/Firecrawl."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12922,34 +12936,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T16:43:54Z",
- "ultimo_sinal": "2026-11-20T17:13:34Z",
- "em_andamento": {
-  "marcas": [
-   "Hermes"
-  ],
-  "linha_marcas": 941,
-  "grande": true,
-  "relogios": "historico/parcial_Hermes_relogios.txt",
-  "fontes": "historico/parcial_Hermes_fontes.txt",
-  "notas": "historico/notas_Hermes.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4p",
-   "5",
-   "6p",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a passada"
-  ],
-  "passada": 3,
-  "obs": "Vermelha. 1ª passada encerrada (3 últimas sem novidade); 2ª passada 12 fontes/152 novos; falta 3ª passada (10+ fontes). Montar com merge.py (usa build_hermes.py, lepage.py, urls_hermes.txt)."
- }
+ "adiadas_obs": {}
 }
