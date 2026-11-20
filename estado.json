@@ -12884,7 +12884,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-20T14:42:52Z",
-  "ultimo_sinal": "2026-11-20T14:46:18Z",
+  "ultimo_sinal": "2026-11-20T14:51:02Z",
   "em_andamento": {
     "marcas": [
       "Herbelin"
@@ -12897,7 +12897,11 @@
     "secoes_feitas": [
       "1",
       "2",
-      "7-lepage"
+      "3",
+      "5",
+      "6",
+      "7",
+      "9"
     ],
     "passada": 1
   }
