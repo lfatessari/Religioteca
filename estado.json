@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 925,
- "ultima_versao": 732,
+ "proxima_linha_marcas": 929,
+ "ultima_versao": 733,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12628,6 +12628,44 @@
    "site_bloqueado": "sim (heinrich.watch PROVENANCE)",
    "correcoes_marcas": "J",
    "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 733,
+   "marca": "Heitis Watch Company",
+   "linha_marcas": 926,
+   "linhas_relogios": "110741-110749",
+   "relogios": 9,
+   "vermelho": false,
+   "fontes": 17,
+   "site_bloqueado": "sim (heitiswatch.com PROVENANCE)",
+   "correcoes_marcas": "I",
+   "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 733,
+   "marca": "Helgray",
+   "linha_marcas": 928,
+   "linhas_relogios": "110750-110772",
+   "relogios": 23,
+   "vermelho": false,
+   "fontes": 46,
+   "site_bloqueado": "sim (helgray.com PROVENANCE)",
+   "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 733,
+   "marca": "Helicon",
+   "linha_marcas": 929,
+   "linhas_relogios": "110773-110783",
+   "relogios": 11,
+   "vermelho": false,
+   "fontes": 21,
+   "site_bloqueado": "sim (heliconwatches.com PROVENANCE)",
+   "correcoes_marcas": "I, J",
+   "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente. Helfe Watches (927) adiada: nenhuma fonte."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12732,30 +12770,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T08:43:34Z",
- "ultimo_sinal": "2026-11-20T08:52:44Z",
- "em_andamento": {
-  "marcas": [
-   "Heitis Watch Company",
-   "Helgray",
-   "Helicon"
-  ],
-  "linha_marcas": 926,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_Heitis_Helgray_Helicon.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 1,
-  "obs": "WebFetch direta ausente: páginas pelo ajudante web-fetch."
- }
+ "adiadas_obs": {}
 }
