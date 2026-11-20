@@ -29,6 +29,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Hirsch": "não faz relógios (maior fabricante de pulseiras de couro do mundo; a própria aba Marcas diz 'não é marca de relógios' e F/J só têm pulseiras) (adiada em 20/11/2026, v748) — usuário decide se fica na lista",
     "Heure Raffinee": "nenhuma fonte sobre a marca: buscas '\"Heure Raffinee\" watch' e '\"Heure Raffinée\" montres marque instagram' só trouxeram Hermès Heure H, Vacheron Heures Créatives e lojas genéricas; aba Marcas sem site, Instagram, país nem cidade (a fase Marcas também não achou nada) (adiada em 20/11/2026, v747) — usuário decide se fica na lista",
     "Hilli Watches": "nenhuma fonte sobre a marca: busca '\"Hilli\" watches hilliwatches' só trouxe Hilts, Hesili e homônimos; aba Marcas sem site nem país, só o Instagram @hilliwatches (fase Marcas também não achou nada) (adiada em 20/11/2026, v747) — usuário decide se fica na lista",
     "Herzog": "herzogwatches.com aparece em busca mas não abre (ROBOTS_UNREACHABLE) e Firecrawl sem créditos; nenhuma outra fonte sobre a marca (só homônimos: Oris Herzog Loibner, Swiss Eagle Herzog, pulseiras Herzog GmbH); notas em historico/notas_Herzog.md (20/11/2026, v744) — refazer com Firecrawl/navegador",
