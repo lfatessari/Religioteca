@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 938,
- "ultima_versao": 741,
+ "proxima_linha_marcas": 940,
+ "ultima_versao": 742,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12791,6 +12791,32 @@
    "passadas": "1: 50/794; 2: 12/6; 3: 10/1",
    "site_bloqueado": "não (herbelin.com products.json pelo Firecrawl)",
    "obs": "Base: loja oficial (453), Lepage (15 páginas), Ocarat (9+), Chrono24.de (7 páginas), imprensa. Firecrawl ~50 créditos. I corrigida (Newport 1988; Impec; nome desde 1965). Vermelha: referências antigas sem catálogo."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 742,
+   "marca": "Hercules Watches",
+   "linha_marcas": 939,
+   "linhas_relogios": "112297-112322",
+   "relogios": 26,
+   "vermelho": false,
+   "fontes": 33,
+   "passadas": "1: 33/26",
+   "site_bloqueado": "não",
+   "obs": "Site oficial pelo Firecrawl (21 créditos; acabou) e ajudante web-fetch. D, I, J corrigidos. Vintage Henzi & Pfaff sem anúncios identificáveis."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 742,
+   "marca": "Heritage Watch Manufactory",
+   "linha_marcas": 940,
+   "linhas_relogios": "112323-112332",
+   "relogios": 10,
+   "vermelho": false,
+   "fontes": 22,
+   "passadas": "1: 22/10",
+   "site_bloqueado": "não (site antigo fora do ar/fora das buscas)",
+   "obs": "Marca de 2010-2014; B, I, J corrigidos. Hermes (941) é grande: fica sozinha na próxima."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12896,24 +12922,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T15:43:51Z",
- "ultimo_sinal": "2026-11-20T15:52:18Z",
- "em_andamento": {
-  "marcas": [
-   "Hercules Watches",
-   "Heritage Watch Manufactory"
-  ],
-  "linha_marcas": 939,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }

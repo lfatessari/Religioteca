@@ -1,0 +1,200 @@
+{
+ "marca": "Hercules Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "D": "Relógios suíços de \"alpinismo de luxo\", herdeiros do Hercules que subiu o Nanga Parbat em 1953",
+  "I": "A Hercules nasceu na Alemanha como marca da Henzi & Pfaff: a família do relojoeiro Robert Pfaff fazia relógios em Pforzheim desde os anos 1920, e por volta de 1946 Robert Henzi entrou como sócio. Em 3 de julho de 1953, o alpinista austríaco Hermann Buhl fez a primeira ascensão do Nanga Parbat (8.126 m) com um Hercules no pulso. Em 1960 Henzi assumiu a empresa sozinho, e ela fechou em 1972, na crise do quartzo.\n\nEm 2022 a marca voltou, agora suíça e com o nome HP Hercules, pelas mãos do relojoeiro holandês Adriaan Trampe. Os relógios novos usam uma caixa só, de 40 mm e 9,4 mm de espessura, em aço ou tântalo, com mostradores texturizados \"Snow\" e \"Ice\" e dois calibres certificados como cronômetro: um automático de micro-rotor desenhado por Olivier Mory (OM Mechanics) e um manual de dois tambores, com 120 horas de reserva, feito com a Manufacture horlogère Vallée de Joux. As pontes trazem gravadas as curvas de nível do Nanga Parbat, preenchidas com Super-LumiNova.\n\nA boutique fica em Saint-Prex, na Suíça. Além da linha regular, a marca faz edições limitadas (Hong Kong, com 50 peças, e Singapura, com 18), mostradores pintados à mão sob encomenda e a 7 Summits Edition, que grava no movimento o perfil da montanha escolhida pelo cliente.",
+  "J": "HP1, HP2, Micro-Rotor Automatic, Hand-Wound Double Barrelled, Tantalum Edition, 7 Summits Edition"
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://herculeswatches.com/",
+   "https://www.chronext.com/journal/deep-dive/hercules-tradition-and-adventures"
+  ],
+  "I": [
+   "https://deployant.com/new-hercules-hp1-returns-with-interesting-twist-to-in-house-movement/",
+   "https://theindependentcollective.com/collections/h-p-hercules",
+   "https://wornandwound.com/hercules-a-brand-with-mountaineering-heritage-is-back-with-a-new-watch-and-a-cool-movement/",
+   "https://herculeswatches.com/",
+   "https://herculeswatches.com/product/singapore-limited-edition/"
+  ],
+  "J": [
+   "https://herculeswatches.com/",
+   "https://herculeswatches.com/shop/",
+   "https://deployant.com/new-hercules-hp1-returns-with-interesting-twist-to-in-house-movement/"
+  ]
+ },
+ "observacoes": "Corrigido (fase Relógios, 20/11/2026): D 'Microbrand suíça de tool watches robustos' → alpinismo de luxo (site oficial, Chronext); I reescrita com fatos confirmados (Henzi & Pfaff, Pforzheim ~1946, Buhl 1953, fim em 1972, relançamento em 2022 por Adriaan Trampe; Deployant, The Independent Collective, Worn & Wound, site oficial), sem o aviso genérico; J 'Coleções de tool watches robustos' → nomes dos modelos (site oficial). Ainda a verificar: F (4.000) está bem abaixo dos preços atuais (US$ 6.670 a 16.680 no site); cidade original da Henzi & Pfaff aparece como Pforzheim (Deployant, TIC) e Stein (Worn & Wound, MasterHorologer). Relógios vintage da Henzi & Pfaff não entraram: não se achou nenhum anúncio com nome/referência (só o calibre HP 125 no Deutsches Uhrenmuseum).",
+ "fontes": [
+  {
+   "url": "https://herculeswatches.com/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://herculeswatches.com/shop/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://herculeswatches.com/product/tantalum-edition/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://herculeswatches.com/product/micro-rotor-automatic-watches/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://herculeswatches.com/product/hand-wound-double-barrelled/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://herculeswatches.com/product/polished-tantalum/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://masterhorologer.com/hercules-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2023/10/13/hercules-watches-natural-ice-wonders-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/new-hercules-hp1-returns-with-interesting-twist-to-in-house-movement/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://deployant.com/review-hercules-hp-watch-in-tantalum-with-ice-blue-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/hercules-a-brand-with-mountaineering-heritage-is-back-with-a-new-watch-and-a-cool-movement/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hiconsumption.com/watches/hercules-h1-h2-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theindependentcollective.com/collections/h-p-hercules",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theindependentcollective.com/products/h-p-hercules-tantalum-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchgallery.fr/en/pages/hercules-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchgallery.fr/en/products/hong-kong-limited-edition-in-tantalum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronext.com/journal/deep-dive/hercules-tradition-and-adventures",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/hp-hercules/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/reaching-the-top-with-the-heavyweight-hp-hercules-in-polished-tantalum/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/first-look-hp-hercules-hand-wound-double-barreled-mount-everest-ryan-waters-specs-price-live-pics-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herculeswatches.com/product/singapore-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herculeswatches.com/product/7-summits-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herculeswatches.com/product/custom-dial-handpainted/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herculeswatches.com/product/the-char-dham-edition-set-coming-soon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://herculeswatches.com/brand-history-hercules-hp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchgallery.fr/en/products/black-dial-tantalum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.onthedash.com/?p=164830",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-with-the-everest-worn-hp-hercules-hand-wound-double-barrelled/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronext.com/journal/deep-dive/hercules-wo-uhrmacherkunst-den-gipfel-erreicht",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bawue.museum-digital.de/pdf/object/57936.pdf?lang=de",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theindependentcollective.com/products/h-p-hercules-ice-pink-hand-wound",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theindependentcollective.com/products/h-p-hercules-micro-rotor-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theindependentcollective.com/products/h-p-hercules-snow-white-hand-wound",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
