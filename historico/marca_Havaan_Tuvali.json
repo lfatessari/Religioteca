@@ -1,0 +1,244 @@
+{
+ "marca": "Havaan Tuvali",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – havaantuvali.com recusa leitura automática (robots); revisitar com navegador",
+ "vermelho": true,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "D": "Microbrand de relógios feitos à mão em pequenas séries, com caixas e movimentos vintage (NOS)",
+  "J": "Squadron One (2016/17) — piloto, Sellita SW290-1, 450 m\n\nCode Zero-6 (2018) — mergulho 800 m (Bluefin, Marlin, Orca, Snapper)\n\nProject R (2019) — mostrador com termômetro\n\nHeritage 72 (2021) — caixas e calibres vintage NOS\n\nDuodecima (2023) — luneta de 12 lados\n\nHeritage Series, Broadway 35/40 e Infinity 03 — mostradores feitos à mão"
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://www.thetimebum.com/?p=10162",
+   "https://wornandwound.com/havaan-tuvali-introduces-the-heritage-72-a-new-watch-made-with-vintage-components/",
+   "https://www.infinitywatches.cz/en/collections/havaan-tuvali.oembed"
+  ],
+  "J": [
+   "https://www.thetimebum.com/?p=10162",
+   "https://newlabelsonly.com/?p=5927",
+   "https://www.thetimebum.com/?p=178",
+   "https://www.infinitywatches.cz/en/collections/havaan-tuvali.oembed"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 20/11/2026 (43 linhas; marca vermelha). Corrigido: D (antes 'Microbrand de relógios de design de inspiração na natureza') e J (antes 'Coleções de inspiração na natureza'), conforme The Time Bum, Worn & Wound e loja Infinity Watches. Ainda a verificar: I continua genérica (fala em 'inspiração na natureza'); fatos confirmados: fundada em 2016 por Eric Yeh, relojoeiro, em Taiwan (watchisthis, Infinity, Time Bum); cidade não aparece em nenhuma fonte. Site oficial bloqueado para leitura automática; logo (K) não obtido. Faltam: cores do Wayfinder 40, Infinity 01/02 (se existiram), cores sob medida da Duodecima.",
+ "fontes": [
+  {
+   "url": "https://havaantuvali.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/collections/havaan-tuvali.oembed",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://infinitywatches.cz/en/?p=2877",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/havaan-tuvali-introduces-the-heritage-72-a-new-watch-made-with-vintage-components/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://wornandwound.com/tag/havaan-tuvali/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=178",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thetimebum.com/?p=3574",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/havaan-tuvali-squadron-one/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/?p=7387",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/pre-owned-archive/products/feynman-timekeepers-x-havaan-tuvali-vi-cigar-leaf-limited-edition-pre-owned-pre2387",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://newlabelsonly.com/?p=5927",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://newlabelsonly.com/?p=6299",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/?p=26279",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpaper.com/?p=9967",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thegadgetflow.com/product/limited-edition-diving-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-infinity-03-c",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-infinity-03-d",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-infinity-03-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-heritage-sector-salmon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-heritage-series-886-blue-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-broadway-40-nightfall",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-broadway-40-dawnlight.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-broadway-35-nightfall.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1592482/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/collections/havaan-tuvali",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=10162",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://watchisthis.com/?p=4479",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/?p=90245",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-infinity-03-c.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-infinity-03-d.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2018/01/havaan-tuvali-code-zero-6-diver-dive.html?m=1",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://thegadgetflow.com/?p=292520",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchisthis.com/?p=1107",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2025/09/29/slim-in-profile-heavy-with-meaning-the-feynman-vi-founders-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://redarmywatches.com/products/feynman-vi-founders-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxuo.com/?p=363702",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/micro-independent-brand-sub-5k-corner.153364/page-3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/havaan-tuvali-squadron-one-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-heritage-constellation-steel.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-heritage-sector-blue",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-broadway-35-dawnlight",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/havaan-tuvali-infinity-03-a.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/feynman-timekeepers-x-havaan-tuvali-vi-cigar-leaf-limited-edition-pre-owned-pre2387",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

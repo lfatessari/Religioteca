@@ -1,0 +1,311 @@
+{
+ "marca": "Havid Nagan",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "H": "@havidnagan"
+ },
+ "correcoes_fontes": {
+  "H": [
+   "https://www.havidnagan.com/hn01lucine",
+   "https://www.havidnagan.com/havid-nagan"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 20/11/2026 (15 linhas). Corrigido: H (antes vazio) = @havidnagan, link no site oficial. Ainda a verificar: D e J citam a Chronode para HN00/HN02, mas só o HN01 tem base Chronode (HN00 = Schwarz Etienne ASE200; Classic One e HN02 = AMT6600); J lista 'Origins' e 'Millesime': Origins One é o modelo de entrada (pré-venda US$ 6.950, Sellita SW300-1) e Millésime é só a página de registro das tiragens. HN02: 42 peças (Monochrome, The Limited Edition) × 43 (site oficial). Hodinkee Japão cita um terceiro mostrador 'Ghost' do Classic One, não achado em outra fonte (pode ser o Cloud). hodinkee.com bloqueado para leitura automática; página havidnagan.com/origins-1 deu erro.",
+ "fontes": [
+  {
+   "url": "https://havidnagan.com",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.havidnagan.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/hn02",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.havidnagan.com/classic-one",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.havidnagan.com/millesime",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.havidnagan.com/hnxx",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/classic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.havidnagan.com/hn00",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.havidnagan.com/hn01lucine",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.havidnagan.com/journal-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.havidnagan.com/new-page-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/retail-partners",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/havid-nagan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/brand/havid-nagan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/havid-nagan-classic-one-indie-watchmaking-dress-watch-introducing-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2022/02/havid-nagan-hn00-titanium.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/havid-nagan-introduces-the-hn00-a-new-watch-with-a-bold-guilloche-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/watchbrands/havid-nagan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-havid-nagan-classic-one/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/havid-nagan-classic-one-micro-mondays/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/en-int/blogs/watches/indie-intro-havid-nagan-classic-one-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=36694",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://horologybythesea.com/products/havid-nagan-hn00-arka-bluepre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eddie-sng.blogspot.com/2023/05/havid-nagan-arka-blue-nh00-founders.html?m=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2022/06/05/havid-nagan-hn00-titanium/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2022/3/havid-nagan-schwarz-etienne-hn00-titanium-info",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=63825",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/havid-nagan-hn00-new-release-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hodinkee.jp/articles/hands-on-havid-nagan-classic-one",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://canvasrebel.com/?p=1135192",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchyagonnadoaboutit.com/2022/03/03/the-new-havid-nagan-hn00-is-one-simplistic-paradoxical-beauty-with-brains/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/california-based-indie-brand-havid-nagan-unveils-the-nh02-collection-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/journal-1/presenting-hn02-dune-a-visual-and-technical-novelty",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/journal-1/philippe-dufour-presents-11-watches-that-will-be-auctioned-for-charity",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/journal-1/the-coming-pillars-of-havid-nagan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/journal-1/presenting-the-classic-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/havid-nagan/216981",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/collections/havid-nagan",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/havid-nagan-classic-one-cloud-10-piece-special-edition-serial-c1-049-pre-owned.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/havid-nagan-hn00-jade-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2025/03/havid-nagan-classic-one.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/havid-nagan-hn01-lucine-moon-phase-independent-watchmaking-introducing-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jean-rousseau.com/jean-rousseau-havid-nagan-a-paradoxical-newcomer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/havid-nagan-hn02-ember/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/havid-nagan-hn02-azure/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/origins-one/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/havid-nagan-classic-one-ivory/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/the-story-behind-the-havid-nagan-classic-one-with-founder-aren-bazerkanian/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/independent-insights-rze-nodus-marin-instruments-havid-nagan/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-independent-watchmaker-havid-nagan-hn00-watch-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.havidnagan.com/journal-1/the-geneva-watch-auction-xxi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/classic-one-ebony/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/havid-nagan-hn00-arka-blue-serial-1-096-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/en-ca/products/havid-nagan-classic-one-cloud-10-piece-special-edition-serial-c1-049-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologybythesea.com/products/havid-nagan-origins-one-pre-order",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-havid-nagan-classic-one-the-los-angeles-based-brands-third-model/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2022/02/09",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=142636",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

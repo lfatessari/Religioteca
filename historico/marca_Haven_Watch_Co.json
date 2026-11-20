@@ -1,0 +1,367 @@
+{
+ "marca": "Haven Watch Co",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 20/11/2026 (30 linhas; marca vermelha: a própria marca diz que faz lotes pequenos que não voltam, e cita mostradores de meteorito que não estão mais no site). Não estão em J: Chilton Flux (ex-MkII), Terra Stone, Shadowgraph × Bernhardt, Fallout e Cereal (Rampart Studio), Chilllton, LIVE Series First Avenue (2025, 55 peças). Chilluminati confirmado no site oficial (Sellita SW510MBHa, data às 9h); preço e ano de 2022 seguem com 1 fonte. Preço atual no site: US$ 1.499 na maioria dos modelos (F pode estar alto). Páginas havenwatchco.com/shop/first-ave e /shop/the-chillllton não abrem mais.",
+ "fontes": [
+  {
+   "url": "https://havenwatchco.com",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://havenwatchco.com/collections/all-watches",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://havenwatchco.com/products/chilllton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/chilluminati",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/chilton-navy-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/lomax",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/lomax-grey-unitimer-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/shadowgraph-haven-x-bernhardt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/chilton-flux-daybreak-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/lapis-lazuli-stone-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/lava-red-jasper-solid-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/dato-navy-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/trotter-polar-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/polar-chilluminati",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/trotter-midnight-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/dato",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/chilton-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/trotter-aqua-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/pages/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/curated-watches?view=doug-bloodworth",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/haven/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/haven-watch-co",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2019/06/haven-chilton-chronograph.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=5833",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://ablogtowatch.com/?p=1236395",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thetimebum.com/?p=218",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2019/06/05/haven-chilton-chronograph-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.beyondthedial.com/post/hands-on-review-haven-watch-co-chilluminati-37-5mm-hand-wound-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/products/x-haven-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hodinkee.jp/articles/a-midwestern-brand-with-vintage-style",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1701816",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/cereal-fruity-loops-rampart-studio-x-doug-bloodworth",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/cereal-cheerful-os-rampart-studio-x-doug-bloodworth",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/cereal-marshmallow-magic-rampart-studio-x-doug-bloodworth",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/stone-dials",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/chilton-flux",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/fall-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://havenwatchco.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hodinkee.jp/articles/introducing-haven-first-ave",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://sigmagrindset007.blogspot.com/2025/04/introducing-haven-watch-co-live-series.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1600814",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/lomax-diver-rust-dial-w-steel-silicone-bracelet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/fallout-haven-x-rampart-studio",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://first-avenue.com/?p=188579",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/lomax",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/chilton",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://havenwatchco.com/collections/best-sellers",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://havenwatchco.com/products/chilton-lemon-strap-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/dato-chronograph-nocturne-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/dato-chronograph-ember-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/products/dato-chronograph-navy-blue-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/divers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/chronographs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=1037021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/the-haven-chilton-a-new-chronograph-from-the-midwest/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/trotter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/dato",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/chilluminatti",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/collections/gmts",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.insidehook.com/?p=897633",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristenthusiast.com/latest/stone-dial-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/collections/meteorite-stone-dial-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/503018",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/839837",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/496957",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/596236",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernhardtwatch.com/a/s/products/x-haven-chronograph",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/page/249?amp=1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=233511",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/best-meteorite-dial-watches-of-2025/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://havenwatchco.com/pages/faq",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

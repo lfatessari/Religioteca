@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 916,
-  "ultima_versao": 729,
+  "proxima_linha_marcas": 919,
+  "ultima_versao": 730,
   "historico": [
     {
       "data": "2026-10-16",
@@ -12502,6 +12502,52 @@
         "2": "10 fontes, 2 relógios novos"
       },
       "obs": "Ferramenta Projects ausente (pendências dos posts não lidas); Firecrawl sem créditos até 20/11 13:43 UTC."
+    },
+    {
+      "data": "2026-11-20",
+      "versao": 730,
+      "marca": "Havaan Tuvali",
+      "linha_marcas": 917,
+      "linhas_relogios": "110511-110553",
+      "relogios": 43,
+      "vermelho": true,
+      "fontes": 43,
+      "site_bloqueado": "sim (havaantuvali.com robots)",
+      "passadas": {
+        "1": "30 fontes",
+        "2": "13 fontes, 3 relógios novos"
+      },
+      "correcoes_marcas": "D, J",
+      "obs": "Primeira bateria com páginas abertas pelo ajudante web-fetch (WebFetch direta ausente), com o usuário presente; Firecrawl sem créditos; Projects ausente."
+    },
+    {
+      "data": "2026-11-20",
+      "versao": 730,
+      "marca": "Haven Watch Co",
+      "linha_marcas": 918,
+      "linhas_relogios": "110554-110583",
+      "relogios": 30,
+      "vermelho": true,
+      "fontes": 71,
+      "site_bloqueado": "não",
+      "passadas": {
+        "1": "59 fontes",
+        "2": "12 fontes, 0 relógios novos"
+      },
+      "obs": "Primeira bateria com páginas abertas pelo ajudante web-fetch (WebFetch direta ausente), com o usuário presente; Firecrawl sem créditos; Projects ausente."
+    },
+    {
+      "data": "2026-11-20",
+      "versao": 730,
+      "marca": "Havid Nagan",
+      "linha_marcas": 919,
+      "linhas_relogios": "110584-110598",
+      "relogios": 15,
+      "vermelho": false,
+      "fontes": 58,
+      "site_bloqueado": "não",
+      "correcoes_marcas": "H",
+      "obs": "Primeira bateria com páginas abertas pelo ajudante web-fetch (WebFetch direta ausente), com o usuário presente; Firecrawl sem créditos; Projects ausente."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -12606,25 +12652,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_andamento": {
-    "marcas": [
-      "Havaan Tuvali",
-      "Haven Watch Co",
-      "Havid Nagan"
-    ],
-    "linha_marcas": 917,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt (ainda não existe)",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_onda1.md (relatórios dos ajudantes resumidos)",
-    "secoes_feitas": [
-      "1",
-      "2"
-    ],
-    "passada": 1,
-    "obs": "19/11/2026 18:45 UTC: execução sem WebFetch (ferramenta ausente), Firecrawl sem créditos e ajudante web-fetch recusado; só pistas de busca, nenhuma fonte aberta. Começar estas 3 marcas do zero, usando as pistas. 19/11/2026 19:45 UTC: nova execução de novo sem WebFetch e Firecrawl sem créditos (renova 20/11 13:43 UTC); nada feito. 19/11/2026 20:45 UTC: terceira execução seguida sem WebFetch e com Firecrawl sem créditos; nada feito. 19/11/2026 21:45 UTC: quarta execução seguida sem WebFetch; Firecrawl testado 1 vez (havaantuvali.com) e recusou por falta de créditos (renova 20/11 13:43 UTC); nada feito. 19/11/2026 22:45 UTC: quinta execução seguida sem WebFetch (só WebSearch disponível) e Firecrawl sem créditos até 20/11 13:43 UTC; nada feito. 19/11/2026 23:45 UTC: sexta execução seguida sem WebFetch (só WebSearch) e Firecrawl sem créditos até 20/11 13:43 UTC; nada feito. 20/11/2026 00:45 UTC: sétima execução seguida sem WebFetch (só WebSearch) e Firecrawl sem créditos até 20/11 13:43 UTC; nada feito. 20/11/2026 01:45 UTC: oitava execução seguida sem WebFetch (só WebSearch) e Firecrawl sem créditos até 20/11 13:43 UTC (testado 1 vez); nada feito. 20/11/2026 02:45 UTC: nona execução seguida sem WebFetch (só WebSearch) e Firecrawl sem créditos até 20/11 13:43 UTC; nada feito. 20/11/2026 03:45 UTC: décima execução seguida sem WebFetch (só WebSearch) e Firecrawl sem créditos até 20/11 13:43 UTC (testado 1 vez); nada feito. 20/11/2026 04:45 UTC: décima primeira execução seguida sem WebFetch (só WebSearch) e Firecrawl sem créditos até 20/11 13:43 UTC (testado 1 vez); nada feito. 20/11/2026 05:30 UTC: décima segunda execução seguida sem WebFetch (só WebSearch) e Firecrawl sem créditos até 20/11 13:43 UTC (testado 1 vez); nada feito. 20/11/2026 05:35 UTC: usuário presente aprovou abrir páginas pelo ajudante web-fetch; bateria iniciada."
-  },
-  "em_execucao": "2026-11-20T05:30:35Z",
-  "ultimo_sinal": "2026-11-20T05:35:00Z"
+  "adiadas_obs": {}
 }
