@@ -12871,7 +12871,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-20T13:43:50Z",
-  "ultimo_sinal": "2026-11-20T13:44:37Z",
+  "ultimo_sinal": "2026-11-20T13:51:32Z",
   "em_andamento": {
     "marcas": [
       "Hentschel Hamburg"
@@ -12881,7 +12881,10 @@
     "relogios": "historico/parcial_HentschelHamburg_relogios.txt",
     "fontes": "historico/parcial_HentschelHamburg_fontes.txt",
     "notas": "historico/notas_HentschelHamburg.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1,
     "obs": "Herbelin (938) é grande: fica sozinha na próxima execução."
   }
