@@ -13044,7 +13044,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T22:43:56Z",
- "ultimo_sinal": "2026-11-20T22:43:56Z",
+ "ultimo_sinal": "2026-11-20T22:48:23Z",
  "em_andamento": {
   "marcas": [
    "HMNWatch"
@@ -13054,7 +13054,11 @@
   "relogios": "historico/parcial_HMNWatch_relogios.txt",
   "fontes": "historico/parcial_HMNWatch_fontes.txt",
   "notas": "historico/notas_HMNWatch.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c-parcial"
+  ],
   "passada": 1
  }
 }
