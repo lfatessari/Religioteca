@@ -1,0 +1,657 @@
+{
+ "marca": "Helix",
+ "usa_codigos": true,
+ "logo": "",
+ "grande": true,
+ "vermelho": true,
+ "complemento": false,
+ "site_bloqueado": "Parcial – helix-watches.com: a página inicial não abre para leitura automática (PROVENANCE); só /about-us abriu; revisitar com navegador",
+ "correcoes": {
+  "B": "Índia",
+  "G": "helix-watches.com",
+  "J": "Smartwatches Helix Smart e Metalfit (2.0 a 5.0); analógicos das linhas Hustlers, Summer Cool, Gusto e #hashtag; analógico-digitais TWESK"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://indiadigitalreview.com/news/timex-launches-ecommerce-store-its-brand-helix-india",
+   "https://www.prnewswire.com/in/news-releases/the-new-helix-metalfit-2-0-smartwatch-launched-by-timex-group-india-now-available-on-amazon-india-824131011.html"
+  ],
+  "G": [
+   "https://helix-watches.com/about-us/"
+  ],
+  "J": [
+   "https://www.mediainfoline.com/brand/timex-group-launches-helix-metalfit-smartwatch-range-available-on-amazon-india",
+   "https://www.themobileindian.com/news/timex-india-launches-first-made-in-india-smartwatch-timex-helix-2-0",
+   "https://www.krishnawatch.com/collections/helix?page=4",
+   "https://www.krishnawatch.com/products/helix-hustlers-analog-men-watch-tw044hg04"
+  ]
+ },
+ "observacoes": "Relógios (20/11/2026, v734): Helix identificada como a marca jovem da Timex Group India (helix-watches.com/about-us: 'a brand by Timex Group'). Corrigido: B vazio → Índia (indiadigitalreview 2012; PR Newswire 2021); G vazio → helix-watches.com (página about-us da própria marca); J 'Coleções casuais e esportivas' → linhas reais (Helix Smart, Metalfit, Hustlers, Summer Cool, Gusto, #hashtag, TWESK). Fatos achados para I (não reescrita): loja online Helixwebstore.com lançada em 2012 com ~100 modelos, design de Giorgio Galli (Milão) (indiadigitalreview); 1º smartwatch Helix Smart em mar/2021 (FashionNetwork); Helix Smart 2.0 em jul/2021, 1º smartwatch feito na Índia, em Baddi (The Mobile Indian); Metalfit em set/2021 com o embaixador Asim Riaz (Mediainfoline). Ainda a verificar: C (cidade), H (Instagram), K (logo). Marca vermelha: a Flipkart mostra ~2.000 anúncios e a Just In Time esconde centenas de fichas esgotadas; muitas fichas não abriram (limite de acessos do site).",
+ "fontes": [
+  {
+   "url": "https://helix-watches.com/about-us/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/collections/helix?page=1",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://justintime.in/collections/helix?page=2",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://justintime.in/collections/helix?page=3",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://justintime.in/collections/helix?page=4",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://justintime.in/collections/helix?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-black-digital-unisex-smart-watch-tw0hxw407t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-women-processor-black-dial-digital-silicone-watch-tw0hxw203t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-processor-two-tone-dial-digital-silicone-watch-tw0hxw300t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-women-processor-black-dial-digital-silicone-watch-tw0hxw205t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-processor-black-dial-digital-silicone-watch-tw0hxw405t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-processor-black-dial-digital-silicone-watch-tw0hxw304t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-processor-black-dial-digital-silicone-watch-tw0hxw502t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-processor-black-dial-digital-silicone-watch-tw0hxw406t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-x-watch-analog-black-dial-mens-watch-ti022hg0200",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-analog-watch-for-men-tw027hg28",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/timex-helix-grey-dial-watch-tw023hg14",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-tw022hl12-grey-dial-womens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/timex-helix-blue-dial-men-watch-tw023hg19",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-smart-metal-fit-smartwatch-tw0hxw302t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-silver-dial-mens-watch-tw027hg17",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-analog-silver-dial-womens-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-tw031hl09-blue-dial-womens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-tw027hl13-blue-dial-womens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfactory.in/products/helix-digital-unisex-watch-tw0hxw102t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfactory.in/products/helix-smart-metal-fit-smartwatch-tw0hxw300",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchfactory.in/products/helix-tw0hxw301t-timex-metalfit-watch-grey",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-grey-round-ana-digi-resin-watch-men-twesk4500t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.reliancedigital.in/product/helix-tw0hxb102t-fitness-tracker",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://tgtluxe.com/product/helix-women-silver-dial-quartz-watch-tw022hl08",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.smartprix.com/smartwatches/helix-brand",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bajajfinserv.in/top-helix-timex-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-silver-analog-women-watch-tw043hg11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-stainless-steel-white-analog-women-watch-tw032hl42",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-green-dial-analog-stainless-steel-watch-tw053hg08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-black-dial-analog-digital-nylon-watch-twesk6503t",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-women-quartz-brown-dial-analog-stainless-steel-watch-tw022hl19",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-women-quartz-red-dial-analog-stainless-steel-watch-tw060hl03t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-black-dial-analog-digital-silicone-watch-twesk7703t",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-black-dial-analog-stainless-steel-watch-tw035hg12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-red-dial-analog-stainless-steel-watch-tw060hg03t",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-silver-dial-analog-leather-watch-tw032hg00",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-silver-dial-analog-leather-watch-tw055hg00",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-silver-dial-analog-stainless-steel-watch-tw043hg00",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-silver-dial-analog-stainless-steel-watch-tw043hg29",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-two-tone-dial-analog-silicone-watch-tw033hg22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-black-dial-analog-stainless-steel-watch-tw053hg01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-black-dial-digital-silicone-watch-twesk6400t",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-blue-dial-analog-brass-watch-tw028hg05",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-blue-dial-analog-digital-silicone-watch-twesk7400t",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-women-quartz-silver-dial-analog-leather-watch-tw022hl29",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-women-quartz-silver-dial-analog-stainless-steel-watch-tw032hl34",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/casual-35-mm-stainless-steel-bracelet-watch-tw048hl00",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-trendy-bicolour-dial-multi-function-stainless-steel-bracelet-watch-tw024hl33",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-analog-tw032hl11-womens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/timex-helix-rose-gold-dial-women-watch-tw032hl21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/timex-tw023hg12-blue-dial-mens-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/timex-white-dial-women-watch-tw032hl22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/trendy-36mm-date-feaure-leather-strap-watch-tw032hl26",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-silver-round-analog-leather-watch-women-tw032hl32",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thehourmarkers.com/news/timex-s-all-new-helix-analog-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.indiaretailing.com/?p=43209",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://in.fashionnetwork.com/news/Helix-launches-its-first-smartwatch-in-india,1284054.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.themobileindian.com/news/timex-india-launches-first-made-in-india-smartwatch-timex-helix-2-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mediainfoline.com/brand/timex-group-launches-helix-metalfit-smartwatch-range-available-on-amazon-india",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/the-new-helix-metalfit-2-0-smartwatch-launched-by-timex-group-india-now-available-on-amazon-india-824131011.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.prnewswire.com/in/news-releases/helix-brand-ambassador-asim-riaz-launches-new-metalfit-smartwatch-range-available-on-amazon-india-871670554.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://indiadigitalreview.com/news/timex-launches-ecommerce-store-its-brand-helix-india",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.smartprix.com/smartwatches/timex-helix-smart-2-0-smartwatch-ppd1a6epvs4x",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.smartprix.com/smartwatches/timex-helix-tw5m31300-smartwatch-ppd1tcqzxz9r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.smartprix.com/smartwatches/timex-helix-tw5m31500-smartwatch-ppd124u4mub1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.smartprix.com/smartwatches/helix-timex-metalfit-smartwatch-ppd1n0hjuvsu",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-smart-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://pricehistoryapp.com/product/helix-timex-metalfit-spo2-smartwatch-with-full-metal-body-and-touch-to-wake-feature-hrm-sleep-activity-tracker-10-days-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=49",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/blogs/brand-journal/helix-watches-timeless-elegance-affordable-style",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/collections/helix-round-dial-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/collections/helix-round-dial-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timexindia.com/collections/men-fashion?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/collections/helix-blue-dial-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/helix",
+   "passada": 2,
+   "novos": 16
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/helix?page=3",
+   "passada": 2,
+   "novos": 18
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/shop-helix",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-silver-round-analog-leather-watch-women-tw022hl29",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-green-round-analog-stainless-steel-watch-women-tw055hl03",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-brown-round-analog-leather-watch-men-tw054hg03",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-black-round-analog-silicone-watch-women-tw048hl16",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-blue-round-analog-leather-watch-men-tw054hg02",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-black-octagon-analog-silicone-watch-men-tw041hg15",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-blue-round-analog-silicone-watch-men-tw042hg06",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-green-round-analog-leather-watch-women-tw056hl07t",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-hustlers-analog-men-watch-tw044hg04",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-analog-digital-black-dial-mens-watch-twesk4501t",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-ana-digi-digital-black-dial-mens-watch-twesk6500t",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-analog-black-dial-mens-watch-tw039hg12",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-by-timex-rose-gold-round-analog-leather-watch-women-tw060hl02t",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-purple-dial-womens-watch-tw043hl08",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-hashtag-themed-leather-strap-watch-tw045hl02",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-hashtag-themed-leather-strap-watch-tw045hl00",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-grey-dial-womens-watch-tw039hl04",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-analog-blue-dial-watch-for-women-tw037hl09",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-watch-for-women-tw031hl11",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-tainless-steel-bracelet-watch-tw048hl05",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-smart-metal-fit-smartwatch-tw0hxw300t",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-black-dial-womens-watch-tw036hl10",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-women-watch-tw032hl06",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-trendy-34mm-leather-strap-watch-tw043hl09",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/helix-casual-35-mm-stainless-steel-bracelet-watch-tw048hl01",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-blue-dial-mens-watch-tw003hg26",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/timex-tw003hg14-brown-dial-mens-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kamalwatch.com/products/male-black-analog-stainless-steel-watch-tw051hg00",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/helix?page=2",
+   "passada": 3,
+   "novos": 9
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/helix?page=4",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.krishnawatch.com/collections/helix-smart-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/copy-of-helix-hustlers-analog-women-watch-tw049hl01",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/copy-of-helix-tw032hg14-analog-watch-for-men",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-sporty-full-black-plated-stainless-steel-bracelet-watch-tw036hg09",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://kamalwatch.com/products/helix-analog-watch-for-men-tw036hg08",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.krishnawatch.com/products/helix-analog-watch-for-men-tw047hg00",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-women-processor-black-dial-digital-silicone-watch-tw0hxw500t",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.reliancedigital.in/product/helix-tw0hxb201t-fitness-tracker",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://flipkart.com/q/helix-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flipkart.com/q/helix-watches?page=9",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-unisex-processor-black-dial-digital-silicone-watch-tw0hxw303t",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://justintime.in/products/helix-men-quartz-blue-dial-analog-stainless-steel-watch-tw036hg09",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

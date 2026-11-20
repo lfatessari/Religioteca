@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 929,
- "ultima_versao": 733,
+ "proxima_linha_marcas": 930,
+ "ultima_versao": 734,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12666,6 +12666,20 @@
    "site_bloqueado": "sim (heliconwatches.com PROVENANCE)",
    "correcoes_marcas": "I, J",
    "obs": "Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos; Projects ausente. Helfe Watches (927) adiada: nenhuma fonte."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 734,
+   "marca": "Helix",
+   "linha_marcas": 930,
+   "linhas_relogios": "110784-111061",
+   "relogios": 278,
+   "vermelho": true,
+   "fontes": 125,
+   "passadas": "1: 80 fontes/127; 2: 31/48; 3: 14/18",
+   "site_bloqueado": "parcial (helix-watches.com: só /about-us abriu)",
+   "correcoes_marcas": "B, G, J",
+   "obs": "Helix = marca da Timex Group India. Páginas pelo ajudante web-fetch; Firecrawl sem créditos; Projects ausente (pendências dos posts não lidas). justintime.in deu limite de acessos em ~95 fichas: entraram com o link da página."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
