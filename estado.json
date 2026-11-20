@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 945,
- "ultima_versao": 745,
+ "proxima_linha_marcas": 946,
+ "ultima_versao": 746,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12878,6 +12878,19 @@
    "passadas": "1: 16/5",
    "site_bloqueado": "não",
    "obs": "Raiz hesiliny.com deu PROVENANCE; coleção oficial abriu via busca. D, H, I, J corrigidos. Heuer (grande) é a próxima, sozinha."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 746,
+   "marca": "Heuer",
+   "linha_marcas": 946,
+   "linhas_relogios": "112918-113288",
+   "relogios": 371,
+   "vermelho": true,
+   "fontes": 124,
+   "passadas": "1: 81/315; 2: 26/20; 3: 17/15",
+   "site_bloqueado": "não",
+   "obs": "Heuer histórica (até c.1985 + reedições Heuer 1996-2003); base OnTheDash Master Reference Table + páginas vintage oficiais tagheuer.com + Analog Shift, Phillips, Sotheby's. ~243 linhas só com link (sem foto). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12983,29 +12996,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-20T19:43:35Z",
- "ultimo_sinal": "2026-11-20T19:59:59Z",
- "em_andamento": {
-  "marcas": [
-   "Heuer"
-  ],
-  "linha_marcas": 946,
-  "grande": true,
-  "relogios": "historico/parcial_Heuer_relogios.txt",
-  "fontes": "historico/parcial_Heuer_fontes.txt",
-  "notas": "historico/notas_Heuer.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }

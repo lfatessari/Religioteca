@@ -1,0 +1,632 @@
+{
+ "marca": "Heuer",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Fase Relógios 20/11/2026 (v746): 371 relógios da Heuer histórica (até c. 1985, mais as reedições Heuer de 1996-2003); a TAG Heuer moderna fica na linha 'Tag Heuer'. Vermelha: ~240 referências só com link (tabela de referências OnTheDash ou página da fonte), sem foto; faltam referências dos anos 1930-1950 e marcas próprias (Abercrombie & Fitch, Sears, Türler, Gübelin...). G e H são da TAG Heuer (dona do nome). Ainda a verificar: C (a Heuer saiu de Saint-Imier para Biel/Bienne, não confirmado nas fontes abertas) e o '[⚠️ verificar]' da História (I).",
+ "fontes": [
+  {
+   "url": "https://onthedash.com/docs/Master_Reference_Table.htm",
+   "passada": 1,
+   "novos": 260
+  },
+  {
+   "url": "https://www.onthedash.com/docs/CarreraReferenceTable.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/vintage-heuer-camaro.html",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://tagheuer.com/us/en/vintage-collection/vintage-heuer-autavia.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.insidehook.com/watches/vintage-heuer-chronographs-every-collector-should-know",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.analogshift.com/collections/heuer-sold.oembed?page=4",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.analogshift.com/collections/heuer-sold.oembed?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/vintage-heuer-monaco.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tagheuer.com/pr/en/vintage-collection/vintage-heuer-monza.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/heuer-solunar.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://tagheuer.com/gt/en/vintage-collection/vintage-heuer-carrera-1996.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://tagheuer.com/au/en/vintage-collection/vintage-heuer-daytona.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tagheuer.com/be/en/vintage-collection/vintage-collection.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collectorsweekly.com/wristwatches/heuer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/heuer-110503n-vintage-montreal-calibre-12-ss-ss-22619",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/heuer-750503-vintage-montreal-black-dial-ss-leather-22899",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicdriver.com/en/article/watches/why-its-finally-time-start-your-own-vintage-heuer-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/blogs/transmissions/vintage-heuer-watches-value",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/vintage-tag-heuer-monaco.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/heuer-montreal.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/heuer-cortina.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.onthedash.com/watches/1950s/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://craftandtailored.com/products/1950s-heuer-pre-carrera-chronograph-ref-3336-decimeter",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/heuer-3336-vintage-pre-carrera-valjoux-23-chronograph-ss-24486",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Heuer-2444-Vintage-Pre-Carrera-Valjoux-72-SS-UNPOLISHED-24530.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-pre-carrera-chronograph-as02007",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-pre-carrera-as02532",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-pre-carrera-chronograph-turler-as09558",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windvintage.com/heuer-mareographe-reference-2444",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-pasadena-as04327",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/orvis_solunagraph_as01490",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://craftandtailored.com/products/military-issued-heuer-pilot-s-bund-bundeswehr-chronograph-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-autavia-bundeswehr-as10556",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/215852",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/122047",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/115583",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/NY080322/146",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/HK080122/907/zh",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/HK080120/918",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/143567",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sothebys.com/en/buy/auction/2020/watches-online-3/heuer-reference-2444-mareographe-a-stainless-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2016/important-watches-ge1604/lot.236.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/important-watches-n09879/lot.284.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/vintage-heuer-verona.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/heuer-jarama-series.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://tagheuer.com/collection-vintage/heuer-silverstone-series.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/tag-heuer-1000-series.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.onthedash.com/docs/CompareCarrera2447SN.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.onthedash.com/?p=38733",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.onthedash.com/?p=38530",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-carrera-decimal-as08280",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfinder.co.uk/Vintage/Heuer%20Carrera/2447S/38548/item/315277",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/heuer-2447s-vintage-carrera-silver-dial-circa-1960s-22788",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1980s-heuer-1000-quartz-diver-ref-980-006l-monnin-case",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/105672",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-carrera-as01882",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/heuer-carrera-as08622",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/heuer-digital-era.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/vintage-heuer-kentucky.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/heuer/chronosplit/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/2447t/watch-31868071",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/2447d/watch-2811718",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/carrera/2447nst/watch-11949720",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/2447/watch-15675960",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/bundeswehr/watch-30957238",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/73663/watch-15840307",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/carrera/watch-1872194",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/2447s/watch-12303284",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/heuer/2447d/watch-32860556",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/heuer-ref-102-703-chronosplit-lcd-lot-332-80",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/sold-watches/heuer-vintage-digital-c-hr-onosplit-lcd-ref-r102-703-2-steel-box-papers-bj-1980-11954.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wwtest.bonhams.com/auction/27665/lot/57/heuer-a-rare-working-stainless-steel-quartz-digital-bracelet-watch-chronosplit-ref-r102703-2-circa-1977",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/HEUER/CH080317/36",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/166914",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/146456",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/96726",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/164115",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/HK080119/1013",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/heuer-ref-2446-3-autavia-lot-341-31?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/heuer-sold/products/heuer-autavia-mk-1-as10821",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/buy/auction/2024/important-watches-2/auto-graph-retailed-by-abercrombie-fitch-co-a",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/heuer-abercrombie-fitch-triple-chronograph-circa-1940s-mens/id-j_19210682",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/heuer/products/abercrombie-and-fitch-seafarer-as12824",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/abercrombie-fitch-1950s-tri-compax-chronograph-the-vintage-corner/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christies.com.cn/en/stories/vintage-heuer-for-abercrombie-and-fitch-watches-4a2b9bc712fa480987f40a67e55e09fb",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/CH080317/17",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/159998",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/105877",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://craftandtailored.com/products/unpolished-1960s-heuer-carrera-12-ref-2447s-abercrombie-fitch-co",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://magazine.tagheuer.com/?p=8011",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/tag-heuer-2000-series.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.tagheuer.com/us/en/vintage-collection/tag-heuer-3000-series.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.onthedash.com/the-definitive-guide-to-the-carrera-ref-1158/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2023/important-watches-part-i/carrera-reference-1158-cnh-a-yellow-gold",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2024/important-watches-2/reference-110-515-chn-carrera-a-gold-plated",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/105884",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/152166",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/CH080121/81",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/CH080119/177",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/127044",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/106022",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.onthedash.com/?p=78209",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpool24.com/en/30735479/heuer-carrera-1158",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/heuer-carrera-110-573b-stunning-dial.87196/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-autavia-gmt-as02398",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/heuer-autavia-gmt-as06925",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.onthedash.com/watches/1930s",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.onthedash.com/Guide/_Chronographs/1935.Flieger_Chronographs/intro.txt",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://tagheuer.com/us/en/history-1933-1958/broader-and-deeper.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagheuer.com/int/en/vintage-collection/heuer-easy-rider.html",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://sothebys.com/en/auctions/ecatalogue/2018/important-watches-ge1804/lot.11.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots/Heuer/344-heuer-18.5.24-crott",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/105698",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/HEUER/CH080317/1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/106025",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/105696",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/106026",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/191665",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/heuer/100093",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/105771",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/HK080216/1021",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/heuer/120346",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/heuer-carrera-as02119",
+   "passada": 3,
+   "novos": 2
+  }
+ ]
+}

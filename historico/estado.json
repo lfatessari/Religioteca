@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 945,
- "ultima_versao": 745,
+ "proxima_linha_marcas": 946,
+ "ultima_versao": 746,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12878,6 +12878,19 @@
    "passadas": "1: 16/5",
    "site_bloqueado": "não",
    "obs": "Raiz hesiliny.com deu PROVENANCE; coleção oficial abriu via busca. D, H, I, J corrigidos. Heuer (grande) é a próxima, sozinha."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 746,
+   "marca": "Heuer",
+   "linha_marcas": 946,
+   "linhas_relogios": "112918-113288",
+   "relogios": 371,
+   "vermelho": true,
+   "fontes": 124,
+   "passadas": "1: 81/315; 2: 26/20; 3: 17/15",
+   "site_bloqueado": "não",
+   "obs": "Heuer histórica (até c.1985 + reedições Heuer 1996-2003); base OnTheDash Master Reference Table + páginas vintage oficiais tagheuer.com + Analog Shift, Phillips, Sotheby's. ~243 linhas só com link (sem foto). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

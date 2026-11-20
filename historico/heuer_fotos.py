@@ -25,7 +25,6 @@ F = {
 "3647 T": AS+"Heuer_Carrera_3647T_Red_Tachymeter_Dial_AS00816_Culture1.jpg?v=1432842000",
 "Autavia \"Siffert\"|1163 T": AS+"Heuer_Autavia_1163_Jo_Siffert_Chronograph_AS00559_Culture1.jpg?v=1433260945",
 "73653 N": AS+"Heuer_Carrera_73653_Manual_Wind_AS00599_Culture1.jpg?v=1433261059",
-"3647 S": AS+"Heuer_Carrera_Signed_by_Gubelin_culture1.jpg?v=1433188176",
 "110.203 B": AS+"Heuer_Daytona_Chronograph_NOS_culture1.jpg?v=1433189247",
 "3147 S": AS+"Heuer_Carrera_Dato_45_culture1.jpg?v=1433189324",
 "7743": AS+"Heuer_Camaro_7743N_Panda_Dial_culture2.jpg?v=1433253758",
@@ -69,4 +68,9 @@ F = {
 "11630 MH": "https://dist.phillips.com/auction-assets/HK080119/1013_001.jpg",
 "105.703": TB+"dw78d72258/images/5-vintage/2-Articles/16-kentucky/2-USP/Heuer%20%20chronograph%20ref.%20105.703%20Kentucky%201977ctlg.jpg",
 "104.403 N": TB+"dwaa4a30e5/images/5-vintage/2-Articles/28-Digital-era/1-USP/Heuer_chronograph_Chronosplit_104.jpg",
+"1158 S": "https://dist.phillips.com/auction-assets/CH080317/15_001.jpg",
+"1158 CH": "https://www.onthedash.com/wp-content/uploads/2017/07/Carrera1158CHSecondIndex-500x500.jpg",
+"1158 CHN": "https://asset.watchpool24.com/94286207/heuer-carrera-1158.jpg",
+"110.573 B": "https://omegaforums.net/data/attachments/680/680366-15b6ea544a54c8b5bd7cedd49a7cdfd7.jpg?hash=FbbqVEpUyL",
+"2447 NST": "https://dist.phillips.com/auction-assets/HK080216/1021_001.jpg",
 }
