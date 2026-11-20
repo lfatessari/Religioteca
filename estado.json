@@ -12823,7 +12823,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-20T11:43:25Z",
- "ultimo_sinal": "2026-11-20T12:00:15Z",
+ "ultimo_sinal": "2026-11-20T12:03:56Z",
  "em_andamento": {
   "marcas": [
    "Helvetia"
@@ -12836,12 +12836,17 @@
   "secoes_feitas": [
    "1",
    "2",
+   "2c",
    "3",
+   "4",
    "5",
+   "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10",
+   "10b"
   ],
-  "passada": 1
+  "passada": 3
  }
 }
