@@ -1,0 +1,223 @@
+{
+ "marca": "Hemel",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – hemelwatches.com PROVENANCE (a leitura automática não abre); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios (20/11/2026): C 'Nova Jersey' → 'Nova York' e I 'Marvin Menzies, sediada em Nova Jersey' → 'Marvin Menke, sediada em Nova York' (Wrist Watch Review, Monochrome, Beyond the Dial, Gessato e Carl Thompson). Ainda a verificar: ano de fundação (Long Island Watch diz 2016; blog Carl Thompson diz 2012); I/J citam 'Master 4' e 'Sniper', não achados nas fontes (talvez HF4/'Sea Dart'); a Long Island Watch (Nova York) vende todo o catálogo e a watches.com lista Radio Room e Aurelian como Hemel, mas são da sub-marca Eylandt (já na planilha).",
+ "correcoes": {
+  "C": "Nova York",
+  "I": "A Hemel é uma microbrand americana fundada pelo designer Marvin Menke, sediada em Nova York — o nome \"hemel\" significa \"céu\" em holandês, revelando a paixão central da marca: a aviação. A marca nasceu do desejo de criar tool watches de piloto robustos e funcionais a preços acessíveis.\n\nOs relógios Hemel são fortemente inspirados nos instrumentos de aviação e nos cronógrafos militares, com mostradores altamente legíveis, lume generoso e estética instrumental. Modelos como o Hemel 24 (com indicação de 24 horas/GMT), os cronógrafos Master 4 e as reedições de inspiração militar combinam movimentos japoneses (Seiko meca-quartz e automáticos) com boa resistência à água, cristal de safira e forte relação custo-benefício. A marca tem apelo entre entusiastas de aviação e de tool watches funcionais.\n\nHoje a Hemel ocupa o segmento de relógios de aviação acessíveis, dirigindo-se a quem valoriza legibilidade, robustez e o espírito de piloto sem gastar muito. Mais que estilo, entrega funcionalidade instrumental e paixão pela aviação. [⚠️ verificar dados atuais]"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.gessato.com/hemel-airfoil-watch/",
+   "https://carl-thompson-o1ka.squarespace.com/further-reading-blogs/2024/10/19/hemel-watches-the-best-aviation-micro-watch-brand"
+  ],
+  "I": [
+   "https://wristwatchreview.com/interview-with-a-watch-maker-marvin-menke-of-hemel-watches",
+   "https://monochrome-watches.com/introducing-hemel-hd2-sea-dart-dive-watch-value-proposition-price/",
+   "https://www.gessato.com/hemel-airfoil-watch/",
+   "https://carl-thompson-o1ka.squarespace.com/further-reading-blogs/2024/10/19/hemel-watches-the-best-aviation-micro-watch-brand"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://longislandwatch.com/collections/hemel-watches?page=1",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://longislandwatch.com/collections/hemel-watches?page=2",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://longislandwatch.com/collections/hemel-watches?page=3",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://longislandwatch.com/hemel-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/hemel-watches-review-the-hft20-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/interview-with-a-watch-maker-marvin-menke-of-hemel-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/introducing-the-hemel-military-watch-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/products/the-hemel-airfoil",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/products/the-radio-room",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/products/the-aurelian",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/military-watches/products/the-gallant-usaf-special-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watches.com/products/the-hemel-air-league-special.oembed",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/hemel/products/hemel-hydrodurance-red-blue-hd1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/hemel-arrowhead-hm3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/hemel-hydrodurance-vintage-gold-hd1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/hemel-24-hm1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/hemel-stratus-9039-hf7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/hemel-hft20-gmt-hf4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-hemel-hd2-sea-dart-dive-watch-value-proposition-price/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a560392/hemel-hft20-night-ops-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.beyondthedial.com/post/hands-on-review-the-hemel-airfoil-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/brand/hemel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/hemel-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=270",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://shop.watchgang.com/products/hf-hf6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/hemel-hft20-chronograph-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/micro-mondays-the-hemel-hft20-series-delivers-affordable-pilots-watches-with-a-real-attention-to-detail/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.gessato.com/hemel-airfoil-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.creationwatches.com/products/hemel-watches-669/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://carl-thompson-o1ka.squarespace.com/further-reading-blogs/2024/10/19/hemel-watches-the-best-aviation-micro-watch-brand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/hemel-hd1-02-300-meter-dive-watch-hd1-02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/hemel-hd1-04-300-meter-dive-watch-hd1-04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1527187/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/hemel-airsteam-mechanical-chronograph-with-black-dial-hf30",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/hemel-air-defense-mechanical-chronograph-with-black-dial-hf22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/best-selling-watches/products/hemel-blue-mechanical-chronograph-watch-with-dual-time-bezel-and-dd-sapphire-crystal-hf15na",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/hemel-hft20-ne1-automatic-watch-hft20-ne1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/hemel-hf4na-chronograph-watch-hf4na",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/hemel-hft20-ne2-automatic-watch-hft20-ne2",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

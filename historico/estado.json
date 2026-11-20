@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 933,
- "ultima_versao": 737,
+ "proxima_linha_marcas": 936,
+ "ultima_versao": 739,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12730,6 +12730,40 @@
    "passadas": "1: 64/75; 2: 17/7; 3: 10/4",
    "site_bloqueado": "sim (helvetiawatches.ch PROVENANCE)",
    "obs": "Marca vintage (General Watch Co.); fonte principal helvetiahistory.co.uk. Páginas abertas pelo ajudante web-fetch. Firecrawl sem créditos. C corrigido para Bienne; trecho de fundação em I corrigido."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 738,
+   "tipo": "fotos",
+   "marca": "a.b.art",
+   "obs": "Item 6 do prompt: 32 linhas da aba Relógios com C trocada do link da página para o endereço direto da foto (historico/fotos_abart.py)."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 739,
+   "marca": "Hemel",
+   "linha_marcas": 934,
+   "linhas_relogios": "111247-111319",
+   "relogios": 73,
+   "vermelho": false,
+   "fontes": 39,
+   "passadas": "1: 39/73",
+   "site_bloqueado": "sim (hemelwatches.com PROVENANCE)",
+   "obs": "Base: Long Island Watch (55 produtos, 3 páginas), Serious Watches, watches.com, imprensa. Firecrawl sem créditos. C e I corrigidos (Nova York; Marvin Menke)."
+  },
+  {
+   "data": "2026-11-20",
+   "versao": 739,
+   "marca": "Henry Archer",
+   "linha_marcas": 936,
+   "linhas_relogios": "111320-111457",
+   "relogios": 138,
+   "vermelho": true,
+   "grande": true,
+   "fontes": 78,
+   "passadas": "1: 49/130; 2: 17/8; 3: 12/0",
+   "site_bloqueado": "parcial (henryarcher.com home PROVENANCE; páginas internas abrem)",
+   "obs": "Revelou-se grande (149 produtos na grade feminina; só a página 1 lida). Complemento futuro com Firecrawl: henryarcher.com/products.json e collections/womens-watches?page=2..6. C e I corrigidos (Aarhus; Henrik Schødt)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -12822,7 +12856,8 @@
   "GSX (linha 876)": "Gravada em 18/11/2026 (v702), 181 relógios (106140-106320), vermelha. Complemento futuro com Firecrawl: Mercari (GSX EVE, GSX SMART XX, ジーエスエックス 時計, GSX LOV, GSX 200), Yahoo! Leilões (outros termos e páginas 2+), Fril; fotos das ~25 linhas só com link de anúncio; site gsx-watch.com (fora do ar em 18/11).",
   "H20 Watch (linha 890)": "Mesma marca que H2O (891): relógios gravados como 'H2O' na v712; APELIDOS no proxima_marca.py faz a linha 890 ser pulada. Não pesquisar de novo.",
   "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json).",
-  "Harry Winston (linha 913)": "Gravada em 19/11/2026 (v727), 431 relógios (109929-110359), vermelha. Complemento futuro com Firecrawl: harrywinston.com/sitemap.xml (formato query, uma coleção por vez: premier, avenue, emerald, midnight, high-jewelry-timepieces, histoire-de-tourbillon-and-opus) para listar todas as referências; fotos pelo og:image das fichas (têm ?rev=hash)."
+  "Harry Winston (linha 913)": "Gravada em 19/11/2026 (v727), 431 relógios (109929-110359), vermelha. Complemento futuro com Firecrawl: harrywinston.com/sitemap.xml (formato query, uma coleção por vez: premier, avenue, emerald, midnight, high-jewelry-timepieces, histoire-de-tourbillon-and-opus) para listar todas as referências; fotos pelo og:image das fichas (têm ?rev=hash).",
+  "Henry Archer (linha 936)": "Gravada em 20/11/2026 (v739), 138 relógios, vermelha. Complemento futuro com Firecrawl: henryarcher.com/products.json, collections/womens-watches?page=2..6 (149 produtos), mens-watches e sekvens (JavaScript); fotos das ~25 linhas só com link de página."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
