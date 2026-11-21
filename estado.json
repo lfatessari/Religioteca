@@ -13410,7 +13410,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T17:43:47Z",
- "ultimo_sinal": "2026-11-21T17:57:48Z",
+ "ultimo_sinal": "2026-11-21T17:59:36Z",
  "em_andamento": {
   "marcas": [
    "Illinois"
@@ -13424,7 +13424,10 @@
    "1",
    "2",
    "3",
-   "5"
+   "4",
+   "5",
+   "7",
+   "8"
   ],
   "passada": 1
  }
