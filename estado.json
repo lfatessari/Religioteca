@@ -13277,7 +13277,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T10:43:37Z",
- "ultimo_sinal": "2026-11-21T10:43:37Z",
+ "ultimo_sinal": "2026-11-21T10:55:25Z",
  "em_andamento": {
   "marcas": [
    "HZ Watches",
@@ -13289,7 +13289,13 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c",
+   "3",
+   "9"
+  ],
   "passada": 1
  }
 }
