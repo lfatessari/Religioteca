@@ -16,6 +16,7 @@ APELIDOS = {
     "Zeno-Watch Basel": "Zeno Watch-Basel",
     "Cabot Watch Company": "CWC",  # mesma marca da linha CWC (82 relógios, v.  bateria CWC); 16/11/2026
     "G-Shock": "Casio",
+    "Hotblack London": "Hoptroff",  # linha Hotblack da Hoptroff London; modelos gravados sob Hoptroff (v752); 21/11/2026
     "H20 Watch": "H2O",  # mesma marca da linha H2O (H2O watch GmbH, Sottrum; mesmo site e logo); relógios gravados como "H2O"; 18/11/2026  # linha da Casio: a bateria Casio já gravou 1364 relógios "G-SHOCK ..." (Relógios 36666-38768); 18/11/2026
 }
 
@@ -29,6 +30,9 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Horus": "não faz relógios (Horus Straps, fabricante de pulseiras de luxo de Miami; a própria aba Marcas diz 'não é marca de relógios') (adiada em 21/11/2026, v754) — usuário decide se fica na lista",
+    "Horpa Watches": "horpawatch.com dá PROVENANCE na tentativa direta e não aparece em busca; fora dele só Man's World India (C1, 45 mm) e The Established (C1 e linha de madrepérola 34 mm), sem fotos por modelo; 6 buscas; Firecrawl sem créditos (adiada em 21/11/2026, v754) — refazer com Firecrawl/navegador; notas em historico/notas_Horpa.md",
+    "Hrotsky": "hrotsky.com dá PROVENANCE na tentativa direta; 2 buscas ('\"Hrotsky\" watches', Via Lactea/Flame Blue/De Bortoli) sem nenhum resultado da marca; Firecrawl sem créditos (adiada em 21/11/2026, v754) — refazer com Firecrawl/navegador",
     "HoraPictor": "só 2 fontes no mundo (Monochrome: coleção Duet 2026 e Smoked Ocean Volcano Grey 2026); horapictor.com dá PROVENANCE na tentativa direta e não aparece em busca; 3 buscas sem mais nada; Firecrawl sem créditos (adiada em 21/11/2026, v753) — refazer com Firecrawl/navegador; notas em historico/notas_HoraPictor.md",
     "Horloscaphe": "só 5 fontes (Dialicious NC 001/002/003 e uma menção na passion-horlogere); horloscaphe-watches-paris.com dá PROVENANCE na tentativa direta; Firecrawl sem créditos (adiada em 21/11/2026, v753) — refazer com Firecrawl/navegador; notas em historico/notas_Horloscaphe.md",
     "Hooke & Huygens": "só 1 fonte sobre a marca (FH/fhs.swiss 2023, 'Birth of Hooke & Huygens': relógios de ouro com gema central e movimento próprio, sem nomes de modelos); masterhorologer.com/hooke-huygens-watches dá client_error; 2 buscas sem mais nada; aba Marcas sem site nem país; Firecrawl sem créditos (adiada em 21/11/2026, v752) — refazer com Firecrawl/navegador",
