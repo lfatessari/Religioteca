@@ -13220,7 +13220,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T07:43:42Z",
- "ultimo_sinal": "2026-11-21T07:43:42Z",
+ "ultimo_sinal": "2026-11-21T07:51:05Z",
  "em_andamento": {
   "marcas": [
    "Huo Feile",
@@ -13231,8 +13231,11 @@
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "notas": "historico/notas_bateria.md",
+  "secoes_feitas": [
+   "Hyetis: tudo (16 fontes)",
+   "Hygge: 1-3,7,9"
+  ],
   "passada": 1
  }
 }
