@@ -1,0 +1,100 @@
+{
+ "marca": "Höglund & Sons",
+ "usa_codigos": false,
+ "logo": "https://images.squarespace-cdn.com/content/v1/5ec34c65868c0c390c26827e/e6f966a0-a286-48d2-b858-88d3ba086fc2/Ho%CC%88glund+%26+Sons+Logo.png?format=1500w",
+ "site_bloqueado": "Parcial – hoglundandsonswatches.com: página inicial não abriu (PROVENANCE); subpáginas abriram; revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/hglund-sons",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/hglund-sons/hglund-sons-mark-ii-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/hglund-sons/hglund-sons-mark-i-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/MatthewT/reviews/hoglund-and-sons-mark-ii-chronograph-review-45859",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hoglundandsonswatches.com/previousmodels/markichronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kickstarter.com/projects/hoglundandsons/hoglund-and-sons-mark-iv-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gmtworldtime.com/hoglund_sons_mark_iii_gmt_mechanical_watch.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/str/hoglundandsonswatches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.hoglundandsonswatches.com/store",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hoglundandsonswatches.com/previousmodels",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hoglundandsonswatches.com/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hoglundandsonswatches.com/store/p/available-for-pre-order-on-kickstarter-mark-iv-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/267768867651",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ownthewatch.com/p/hoglund-sons",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/267738219576",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gmtworldtime.com/hoglund_sons_mark_iii_gmt_aventurine_automatic_seiko_5_nh34_movement_2.html",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "H": "@hoglundandsons"
+ },
+ "correcoes_fontes": {
+  "H": [
+   "https://www.hoglundandsonswatches.com/previousmodels/markichronograph"
+  ]
+ },
+ "observacoes": "Fase Relógios 21/11/2026: H vazio → @hoglundandsons (site oficial). Site oficial (About): canal WatchesOnYou em 2017 e Mark I Chronograph dois anos depois (Kickstarter de 2019) — confirma o trecho [⚠️ a confirmar] de I, que ficou como está. J não cita Mark I, Mark II, Mark V; preços de J (Mark IV US$ 199) diferem da loja oficial (US$ 169)."
+}
