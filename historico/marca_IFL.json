@@ -1,0 +1,287 @@
+{
+ "marca": "IFL Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://iflwatches.com/collections/all-watches/products.json?limit=250",
+   "passada": 1,
+   "novos": 76
+  },
+  {
+   "url": "https://iflwatches.com/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 78
+  },
+  {
+   "url": "https://iflwatches.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://iflwatches.com/products.json?limit=250&page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/products.json?limit=250&page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.eu/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/collections/rolex-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/blogs/news.atom",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/sitemap_blogs_1.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/sitemap_collections_1.xml?from=301192675500&to=341199421612",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/blogs/news?page=17",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/ifl-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/ifl-watches-turns-up-the-grail-volume-with-their-limited-edition-tissot-prx-galaxy/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/ifl-watches-introduces-the-oris-divers-65-boogeyman-and-aeroman-with-hand-painted-dials/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/ifl-watches-introduces-the-doxa-aquamarine-reef-turtle/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-with-the-ifl-watches-gshock-casioak-deep-sea-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/watches/ifl-watches-maen-manhattan-paradox",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/ifl-watches/page/2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/ifl-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/ifl-watches-introduces-the-tissot-prx-arabian-night-concept-limited-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/ifl-watches-tissot-prx-moji/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fratellowatches.com/ifl-watches-drops-the-highly-anticipated-prx-35mm-arctic-and-midnight-sky-concepts",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://iflwatches.com/products/malachite-gold-concept.js",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/products/a-dime-in-time-concept.js",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.eu/products/prx-silver-bullet-concept.js",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/search/index.htm?query=IFLW&dosearch=true",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.com/search/index.htm?query=IFL+Watches&dosearch=true",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.g-central.com/ifl-watches-and-the-dial-artist-release-the-casioak-collection/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.esquireme.com/style/watches/51203-the-casioak-is-an-ap-royal-oak-in-casio-clothing",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-with-the-ifl-watches-g-shock-casioak-jelly-splash-limited-editions-taking-colorful-to-the-next-level/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-ifl-watches-levels-up-the-metal-g-shock-casioak-with-the-limited-black-metal-galaxy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/blogs/news/introducing-our-new-casio-casioak-iflw-editions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/collections/casioak?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/2022-tissot-prx-midnight-sky-iflw-limited-edition-of-100",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/ifl-tissot-prx-midnight-sky-concept-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/seiko-5-sports-custom-ifl-dial-voyager-concept-210000074933.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1614741",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://iflwatches.com/blogs/news/introducing-our-new-limited-edition-seiko-5-gmt-voyager",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/blogs/celebrities/tagged/lionel-messi-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/blogs/celebrities/tagged/kevin-oleary-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iflwatches.com/pages/bespoke-watches",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://www.watchtime.com/brands/gmt-watches/perrelet-ifl-watches-weekend-gmt-atlas",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/hands-on-painted-dial-time-is-money-citizen-tsuyosa-by-ifl-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=905643",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.littleeurope.sx/search.php?search_query=IFL&section=product",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing/14239840-iflw-interstellar-concept-tissot-prx-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listings?q=IFLW",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://pilbrowswatchmaker.co.nz/search.php?search_query=IFL",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=928441",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfinder.co.uk/articles/feature-the-coolest-cheap-watches-in-the-world",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/ifl-watches-laphont-bloc-limited-editions/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/sch/i.html?_nkw=IFLW+watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mvswatches.com/product/maen-x-ifl-manhattan-graffiti/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/search?q=IFLW",
+   "passada": 2,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Relógios pesquisados em 21/11/2026: 221 linhas (loja oficial iflwatches.com pelo Firecrawl, páginas de produtos já retiradas do ar vistas na busca, Fratello, G-Central, revendedores e as 28 encomendas da página Bespoke Atelier). Entraram só os relógios customizados pela IFL; a loja também revende relógios de outras marcas sem customização (Lucky Harvey, Tsar Bomba, Mandetbrote, Vortichron, Micromilspec) e acessórios, que ficaram de fora. Marca vermelha: encomendas bespoke não publicadas e cerca de 20 peças antigas (PRX, pedras, 2020-2023) só com o link da página, sem foto. B/C: a Fratello chama a IFL de marca 'Stockholm-based' e o site oficial dá a sede em Dubai — conferir B. I: a coluna fala em Fredrik Lundin; o podcast SUPERLATIVE da aBlogtoWatch (set/2024) entrevista Karar Aimer, da IFL Watches — conferir fundador."
+}

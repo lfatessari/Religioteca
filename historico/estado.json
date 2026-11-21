@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 993,
- "ultima_versao": 764,
+ "proxima_linha_marcas": 995,
+ "ultima_versao": 765,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13248,6 +13248,24 @@
    "passadas": "Icelink 1: 39/24, 2: 16/50, 3: 10/0; Ichnos 15/24; ID Genève 34/35",
    "site_bloqueado": "Não (oficiais deram PROVENANCE pelo ajudante, mas abriram pelo Firecrawl; IDG pelo id-watches.squarespace.com)",
    "obs": "Firecrawl voltou a ter créditos diários às 13:43 UTC (~30 créditos usados). ICON (992) adiada (homônima). Aba Marcas Icelink: G, H e I corrigidos. Pendências de posts (A4): ferramenta Projects ausente; A5 (a.b.art) já estava aplicado (v762)."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 765,
+   "marcas": [
+    "IFL Watches"
+   ],
+   "linhas_relogios": "115831-116051",
+   "relogios": {
+    "IFL Watches": 221
+   },
+   "vermelho": true,
+   "fontes": {
+    "IFL Watches": 55
+   },
+   "passadas": "1: 45/199; 2: 10/0",
+   "site_bloqueado": "Não (home PROVENANCE pelo ajudante; loja inteira aberta pelo Firecrawl via products.json)",
+   "obs": "Marca grande e vermelha (customizadora). Só os relógios customizados pela IFL; revenda pura de outras marcas excluída. Firecrawl com créditos (~110 usados). Pendências de posts: ferramenta Projects ausente; A5 (a.b.art) já estava aplicado."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
