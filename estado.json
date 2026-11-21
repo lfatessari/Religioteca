@@ -13462,5 +13462,21 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-21T20:44:03Z",
+ "ultimo_sinal": "2026-11-21T20:44:03Z",
+ "em_andamento": {
+  "marcas": [
+   "Inercy",
+   "Infrared Watches"
+  ],
+  "linha_marcas": 1004,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "obs": "Ingersoll (1006) parece grande (linha desde 1892, site ingersoll1892.com) — fica sozinha na próxima execução"
+ }
 }
