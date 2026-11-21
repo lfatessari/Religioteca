@@ -1,0 +1,214 @@
+{
+ "marca": "Hygge Watches",
+ "usa_codigos": true,
+ "logo": "https://www.sportique.com/cdn/shop/collections/hygge-logo.png?v=1499399838",
+ "site_bloqueado": "Site bloqueado – hyggewatches.com PROVENANCE na leitura automática; revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "B": "Japão",
+  "D": "Design escandinavo minimalista com qualidade japonesa, por designers como o estúdio finlandês Pentagon Design e o britânico Major W.M. Tse",
+  "I": "A Hygge (pronuncia-se \"hoo-ga\") é uma marca de relógios que traduz para o pulso o conceito dinamarquês homônimo — \"hygge\", aquela sensação aconchegante de bem-estar, conforto e simplicidade que define o estilo de vida escandinavo. Criada em 2009 pela P.O.S. Co., Ltd., fabricante japonesa de mostradores fundada em 1949 por Ryoji Sato (sede em Tokorozawa), em colaboração com designers como o estúdio finlandês Pentagon Design (Mats Lönngren) e o britânico Major W.M. Tse, a marca é um expoente do minimalismo nórdico com qualidade japonesa.\n\nOs relógios Hygge caracterizam-se por design extremamente limpo, minimalista e conceitual — muitas vezes com mostradores despojados, caixas de formas incomuns e uma abordagem quase arquitetônica da leitura do tempo. Modelos como o 2089 (com sua estética industrial escandinava) exemplificam a filosofia de \"menos é mais\". Usam movimentos quartzo japoneses e materiais de qualidade, a preços acessíveis, com forte apelo de design premiado.\n\nHoje a Hygge ocupa o segmento de relógios de design escandinavo minimalista acessível, dirigindo-se a quem valoriza simplicidade refinada, conceito e a estética do bem-estar nórdico. Mais que marcar horas, entrega a serenidade do design escandinavo no pulso. [⚠️ verificar dados atuais]"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://www.finnishdesignshop.com/en-us/manufacturer/hygge",
+   "https://hyggewatchesaustralia.creativeintersection.com/about",
+   "https://ifdesign.com/en/winner-ranking/project/hygge-3012/127757"
+  ],
+  "D": [
+   "https://www.red-dot.org/project/hygge-vaeri-34091",
+   "https://ifdesign.com/en/winner-ranking/project/hygge-3012/127757",
+   "https://www.sportique.com/products/hygge-2089-series-silver"
+  ],
+  "I": [
+   "https://hyggewatchesaustralia.creativeintersection.com/about",
+   "https://www.thetimebum.com/?p=809",
+   "https://ifdesign.com/en/winner-ranking/project/hygge-3012/127757"
+  ]
+ },
+ "observacoes": "Corrigido em 21/11/2026 (v758): B Dinamarca → Japão (Finnish Design Shop, distribuidor australiano, iF Design); D 'estúdio sueco' → estúdio finlandês Pentagon Design e Major W.M. Tse (Red Dot, iF Design, Sportique); em I, a frase do 'estúdio sueco/dinamarquês' trocada pela origem japonesa (P.O.S., 1949; Hygge 2009). Ainda a verificar: 'Chach' e 'Vain' de J não apareceram em nenhuma fonte (talvez 'Vain' seja a série Väri). Logo tirado da loja Sportique. Séries achadas: 2089, 2203, 2204, 2312, 3012, Väri, Horizon, KOMA.",
+ "fontes": [
+  {
+   "url": "https://www.sportique.com/collections/hygge",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.finnishdesignshop.com/en-us/manufacturer/hygge",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hyggewatchesaustralia.creativeintersection.com/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hyggewatchesaustralia.creativeintersection.com/news",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/hygge/hygge-2089-quartz-hge-02-008",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/hygge/hygge-3012-quartz-hge-02-024",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.designboom.com/tag/hygge/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.designboom.com/design/hygge-2089-limited-edition-watches-major-w-m-tse-10-29-2014/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watch.co.uk/hygge-v-ri-series-by-pentagon-design-mats-l-nngren-minimalist-square-design-watch-hge-02-073.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thegadgetflow.com/product/hygge-watch-3012-series/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/hygge-2089-series-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sportique.com/products/hygge-2089-gold-watch-leather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sportique.com/products/hygge-2089-all-black-watch-leather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/hygge-watch-3012-series-white-orange",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/hygge-vari-forest-green-watch-green-leather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www2.hardtofind.com.au/155864_hygge-horizon-classic-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://gessato.com/hygge-2204-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=809",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://retaildesignblog.net/2016/05/22/p-o-s-hygge-vari-watch-series-by-pentagon-design/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.red-dot.org/project/hygge-vaeri-34091",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ifdesign.com/en/winner-ranking/project/hygge-3012/127757",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jewellermagazine.com/Article/7424/Hygge",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gessato.com/?p=112760",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.ni/products/89238106",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/hygge-2204-black-watch-black-stainless-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sportique.com/products/hygge-2203-black-watch-silver-stainless-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sportique.com/products/hygge-2204-silver-chronograph-watch-leather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/hygge-watch-2204-series-leather-black-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sportique.com/products/hygge-2203-silver-watch-khaki-leather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://item.rakuten.co.jp/p-select/c/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://baila.hpplus.jp/fashion/watch-jewerly/82539",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.pinkoi.com/product/pHd3VUwq",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176219940670",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceans.tokyo.jp/watch/2018-0427-4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/257516462989",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thegadgetflow.com/product/hygge-watch-3012-series/alternatives/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
