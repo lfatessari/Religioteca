@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 997,
-  "ultima_versao": 768,
+  "proxima_linha_marcas": 1000,
+  "ultima_versao": 769,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13320,6 +13320,18 @@
       "passadas": "1: 102/98; 2: 18/4",
       "site_bloqueado": "Não (marca histórica sem site oficial)",
       "obs": "Marca grande e vermelha (vintage 1870-1932 + Hamilton-Illinois anos 1950). Pulso com nome, graus de bolso com nome e marcas próprias feitas pela Illinois (Washington Watch Co., Burlington, Santa Fe, Sears etc.). Cerca de 45 linhas só com link de página/texto. Firecrawl sem créditos. Ferramenta Projects ausente; sem pendências no item A5."
+    },
+    {
+      "marca": "Imperial Watch Co.",
+      "data": "2026-11-21",
+      "versao": 769,
+      "linha_marcas": 1000,
+      "linhas_relogios": "116311-116325",
+      "relogios": 15,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 24,
+      "obs": "Immersion (998) e Imperial Genève (999) adiadas sem fontes (ADIADAS no proxima_marca.py)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13426,21 +13438,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-21T18:44:16Z",
-  "ultimo_sinal": "2026-11-21T18:44:16Z",
-  "em_andamento": {
-    "marcas": [
-      "Immersion",
-      "Imperial Genève",
-      "Imperial Watch Co."
-    ],
-    "linha_marcas": 998,
-    "grande": false,
-    "relogios": "historico/parcial_Imperial_Watch_Co_relogios.txt",
-    "fontes": "historico/parcial_Imperial_Watch_Co_fontes.txt",
-    "notas": "historico/notas_Imperial_Watch_Co.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
