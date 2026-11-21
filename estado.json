@@ -13310,7 +13310,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T11:43:50Z",
- "ultimo_sinal": "2026-11-21T12:03:05Z",
+ "ultimo_sinal": "2026-11-21T12:11:46Z",
  "em_andamento": {
   "marcas": [
    "Ice Watch"
@@ -13324,7 +13324,10 @@
    "1",
    "2",
    "3",
-   "7"
+   "5",
+   "7",
+   "8",
+   "9"
   ],
   "passada": 1
  }
