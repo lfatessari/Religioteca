@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1005,
- "ultima_versao": 771,
+ "proxima_linha_marcas": 1007,
+ "ultima_versao": 772,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13377,6 +13377,24 @@
    "passadas": "1 passada cada",
    "site_bloqueado": "não registrado: home oficial deu PROVENANCE na tentativa direta, mas páginas vindas de busca abriram (nas duas marcas)",
    "obs": "Correções na aba Marcas: Inercy I, J e K (logo). Infrared: modelos 2012–2019 não achados (só anotado em M). Ingersoll (1006) parece grande: fica sozinha na próxima. Firecrawl sem créditos. Ferramenta Projects ausente; A5 sem pendências."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 772,
+   "marcas": [
+    "Ingersoll"
+   ],
+   "linhas_relogios": "116490-116714",
+   "relogios": {
+    "Ingersoll": 225
+   },
+   "vermelho": true,
+   "fontes": {
+    "Ingersoll": 90
+   },
+   "passadas": "3 passadas (56/24/10 fontes; 177/16/12 relógios)",
+   "site_bloqueado": "não registrado: ingersollwatches.com deu PROVENANCE na tentativa direta",
+   "obs": "Firecrawl sem créditos. Só anotado em M (dona atual Zeon/Herald; 1882 x 1892). Ferramenta Projects ausente; A5 sem pendências."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
