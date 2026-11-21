@@ -5,3 +5,4 @@
 - Blog news vazio (artigos removidos); iflwatches.eu = mesmo catálogo.
 - Falta: peças antigas (Rolex/AP/Patek customizados até 2023, antes da migração de 04/2024), imprensa (Fratello, Gear Patrol, Hodinkee...), Chrono24, eBay, celebridades.
 - Seções feitas: 1, 2. Próximo: 2c, 3, 5-9.
+- 1ª passada encerrada (45 fontes, 220 relógios; últimas 3 sem novidade). Vermelha: encomendas bespoke não publicadas, ~20 produtos retirados do ar sem foto, peças só no Instagram. 2ª passada: fotos dos PRX retirados, Instagram/Reddit, lojas de revenda, peças 2020-2022.
