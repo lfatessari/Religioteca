@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 978,
- "ultima_versao": 756,
+ "proxima_linha_marcas": 980,
+ "ultima_versao": 757,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13088,6 +13088,30 @@
    "passadas": "Huizen Watches 1: 31/104; 2: 11/0",
    "site_bloqueado": "Parcial (huizenwatches.com: PROVENANCE na tentativa direta; páginas 2-3 da loja não alcançadas)",
    "obs": "Marca grande sozinha. Huguenot Watches adiada (site robots; marca real irlandesa). Hult Watch Company pesquisada em parte (7 modelos, 11 fontes): ver historico/parcial_Hult_*.txt. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 757,
+   "marcas": [
+    "Hult Watch Company",
+    "Humbert-Droz",
+    "Humism"
+   ],
+   "linhas_relogios": "114717-114794",
+   "relogios": {
+    "Hult Watch Company": 7,
+    "Humbert-Droz": 61,
+    "Humism": 10
+   },
+   "vermelho": false,
+   "fontes": {
+    "Hult Watch Company": 11,
+    "Humbert-Droz": 31,
+    "Humism": 20
+   },
+   "passadas": "Hult 1: 11/7 (catálogo fechado); Humbert-Droz 1: 31/61; Humism 1: 20/10",
+   "site_bloqueado": "Sim (humbert-droz.fr, humism.com PROVENANCE; hultwatches.com parcial)",
+   "obs": "Hult retomada do parcial da v756. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente. Humism 42 mm Kato/Rhizome (2023) só em 1 fonte, não gravados."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13182,8 +13206,7 @@
   "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json).",
   "Harry Winston (linha 913)": "Gravada em 19/11/2026 (v727), 431 relógios (109929-110359), vermelha. Complemento futuro com Firecrawl: harrywinston.com/sitemap.xml (formato query, uma coleção por vez: premier, avenue, emerald, midnight, high-jewelry-timepieces, histoire-de-tourbillon-and-opus) para listar todas as referências; fotos pelo og:image das fichas (têm ?rev=hash).",
   "Henry Archer (linha 936)": "Gravada em 20/11/2026 (v739), 138 relógios, vermelha. Complemento futuro com Firecrawl: henryarcher.com/products.json, collections/womens-watches?page=2..6 (149 produtos), mens-watches e sekvens (JavaScript); fotos das ~25 linhas só com link de página.",
-  "HMNWatch (linha 955)": "Marca grande (41+ produtos vistos só em listas cruzadas, várias cores cada). Dimensionamento e endereços em historico/notas_HMNWatch.md (20/11/2026, v748).",
-  "Hult Watch Company (linha 978)": "Pesquisa começada em 21/11/2026 (v756) e não gravada: 7 modelos e 11 fontes já abertas em historico/parcial_Hult_relogios.txt e parcial_Hult_fontes.txt (não reabrir). Falharam: hultwatches.com direto (PROVENANCE), Kickstarter, BackerKit, chronoscout (client_error). Não vistas ainda: hultwatches.com/pages/the-story, collections/all, mainspring.watch review. Retomar daí; candidata a catálogo fechado."
+  "HMNWatch (linha 955)": "Marca grande (41+ produtos vistos só em listas cruzadas, várias cores cada). Dimensionamento e endereços em historico/notas_HMNWatch.md (20/11/2026, v748)."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -13195,25 +13218,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T06:43:52Z",
- "ultimo_sinal": "2026-11-21T06:53:48Z",
- "em_andamento": {
-  "marcas": [
-   "Hult Watch Company",
-   "Humbert-Droz",
-   "Humism"
-  ],
-  "linha_marcas": 978,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }

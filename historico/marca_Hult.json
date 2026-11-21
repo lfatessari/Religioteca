@@ -1,0 +1,74 @@
+{
+ "marca": "Hult Watch Company",
+ "usa_codigos": false,
+ "logo": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "site_bloqueado": "Parcial – hultwatches.com: a página inicial direta deu PROVENANCE na leitura automática (páginas internas abriram por busca); Kickstarter/BackerKit não abrem; revisitar com navegador",
+ "catalogo_fechado": {
+  "oficial": "https://hultwatches.com/",
+  "confirmacoes": [
+   "https://wristfinds.com/hult-aquatique-gmt-release/",
+   "https://www.watchcrunch.com/mad4watches/posts/hult-aquatique-review-597176"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 21/11/2026 (v757): 7 modelos, catálogo fechado (site oficial com as coleções Aquatique e Aquatique GMT; Wristfinds e WatchCrunch confirmam). Logo segue sem arquivo próprio no cabeçalho.",
+ "fontes": [
+  {
+   "url": "https://hultwatches.com/collections/aquatique-gmt",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://hultwatches.com/products/aquatique-gmt-terra",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hultwatches.com/products/aquatique-gmt-terra-two-tone",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hultwatches.com/products/aquatique-gmt-graphite",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristfinds.com/hult-aquatique-gmt-release/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.robbieandwatches.co.uk/single-post/recreating-the-golden-era-of-watches-the-aquatique-gmt-from-hult-watch-co",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdadblog.com/2026/09/03/watch-reviews-hult-aquatique-gmt/comment-page-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hultwatches.com/collections/aquatique",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://hultwatches.com/products/aquatique-marine-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/mad4watches/posts/hult-aquatique-review-597176",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hultwatches.com/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
