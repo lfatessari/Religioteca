@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 955,
- "ultima_versao": 749,
+ "proxima_linha_marcas": 956,
+ "ultima_versao": 750,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12949,6 +12949,19 @@
    "passadas": "1: 71/104",
    "site_bloqueado": "Parcial (hmnwatch.com: PROVENANCE/RATE_LIMIT em parte das páginas)",
    "obs": "Grande. ~90 modelos de 91 produtos da loja; 42 linhas só com link da página (sem foto). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 750,
+   "marca": "HMT Watches",
+   "linha_marcas": 956,
+   "linhas_relogios": "113504-113680",
+   "relogios": 177,
+   "vermelho": true,
+   "fontes": 121,
+   "passadas": "1: 89/158; 2: 17/22; 3: 15/5",
+   "site_bloqueado": "Sim (hmtwatches.in: PROVENANCE na tentativa direta)",
+   "obs": "Grande e vermelha: centenas de nomes de modelos HMT (1961-2016) e reedições atuais; muitos vistos só em texto de matérias/anúncios (link da página). Números de 6 dígitos da HMT são códigos de caixa (calibre+fábrica+ano), postos na coluna E. Loja oficial não abriu; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Corrigida I (trecho ⚠️). Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

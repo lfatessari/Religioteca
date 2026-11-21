@@ -1,0 +1,627 @@
+{
+ "marca": "HMT Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – hmtwatches.in (WebFetch pediu permissão/PROVENANCE na tentativa direta; Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "I": "A HMT (Hindustan Machine Tools) foi uma empresa estatal indiana que, a partir de 1961, começou a produzir relógios em Bangalore, em colaboração técnica com a japonesa Citizen. Tornou-se um fenômeno cultural absoluto na Índia — apelidada de \"Timekeepers to the Nation\" (os guardiões do tempo da nação), a HMT foi, por décadas, o relógio que praticamente todo indiano usava ou sonhava em ter.\n\nOs relógios mecânicos HMT tornaram-se símbolos de uma era: robustos, confiáveis e acessíveis, modelos como o Janata (o \"povo\"), o Pilot, o Sona (dourado) e o Kohinoor eram presentes de formatura, de casamento e de aposentadoria, atravessando gerações. O primeiro-ministro Jawaharlal Nehru distribuiu os primeiros relógios pessoalmente. A empresa produziu dezenas de milhões de unidades, mas a chegada do quartzo e da concorrência levou ao declínio, e a produção oficial de relógios encerrou por volta de 2016 — o que apenas aumentou o status cult e o valor colecionável dos HMT vintage no mundo todo.\n\nHoje a HMT é reverenciada como um ícone cultural e industrial da Índia, e seus relógios mecânicos vintage têm uma comunidade global apaixonada de colecionadores. Mais que relógios, os HMT são pedaços da história e da memória afetiva de um país inteiro. Depois do fechamento das fábricas, a HMT voltou a vender relógios pela loja online oficial, com modelos clássicos relançados (Janata, Pilot e Jawan, inclusive em versões automáticas) e novos modelos de quartzo, feitos por terceiros com movimentos Miyota/Citizen."
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://timeandtidewatches.com/hmt-watches-in-depth/",
+   "https://masterhorologer.com/2021/08/14/hmt-watches/",
+   "https://indianpsu.com/?p=41661"
+  ]
+ },
+ "observacoes": "Fase Relógios (21/11/2026, v750): I corrigida — '[⚠️ verificar disponibilidade atual/reedições]' trocado pela volta das vendas online com movimentos Miyota/Citizen (Time+Tide 2024, Master Horologer 2021, IndianPSU 2026). Ainda a verificar: H (o site oficial liga instagram.com/hmt.watches); primeiro modelo — Business Standard (2014) diz Janata, The Hour Markers diz primeiro lote 'HMT Citizen' (masc.) e 'Sujata' (fem.); fundação da HMT em 1953 e divisão de relógios em 1961.",
+ "fontes": [
+  {
+   "url": "https://static.watchpatrol.net/listing/2149398",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.bajajfinserv.in/hmt-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2021/08/14/hmt-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fifthwrist.com/brands/hmt/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/tag/hmt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/hmt-watches-in-depth/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2016/07/hmt-watches-the-rise-and-fall-of-indias-watchmaking-titan.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/hmt-watches-a-walk-down-the-memory-lane",
+   "passada": 1,
+   "novos": 35
+  },
+  {
+   "url": "https://www.flickonclick.com/hmt-mechanical-watches/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://vintagewatcholic.in/collections/vintage-hmt",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://vintagewatcholic.in/collections/hmt-jawan",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sites.google.com/view/vintage-watcholic/vintage-hmt-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flipkart.com/hmt-aishwaraya-automatic-analog-watch-men/p/itmf3zgdhnnwghxp",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flipkart.com/hmt-r4841-inox-analog-watch-men/p/itmf3zgd7hdcdwvg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flipkart.com/hmt-janata-mechanical-analog-watch-men/p/itmdqg97b62mzrd3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://flipkart.com/hmt-sona-analog-watch-men/p/itmf3zgaezun37ke",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.flipkart.com/hmt-pilot-analog-watch-men-women/p/itma1ed8141737b4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://flipkart.com/hmt-fashion-golden-rectangle-dial-quartz-movement-watch-men-s-boys-formal-series-analog-men/p/itmc713635f44764",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/revival-of-hmt-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.flickonclick.com/hmt-quartz-watches/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://indianpsu.com/?p=41661",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://bizzbuzz.news/technology/top-5-hmt-watches-that-you-can-buy-in-2024-watch-video-to-find-genuine-hmt-watch-retailers-1306698",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fifthwrist.com/hmt-white-pilot-limited-edition-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mansworldindia.com/watches/19189",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.mansworldindia.com/lifestyle/people/hmt-collectors",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsweekly.com/stories/131019-1970s-indian-hmt-kohinoor-with-gold-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://business-standard.com/article/current-affairs/prashant-pandey-is-keeping-alive-the-memory-of-india-s-iconic-hmt-watches-118011901482_1.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.deccanherald.com/content/494464/as-they-watch-world-go.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theweek.in/webworld/features/luxury/hmt-watches.html",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://m.indiamart.com/impcat/hmt-wrist-watch.html",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://m.indiamart.com/sadar-bazzar/hmt.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://m.indiamart.com/ayg-center",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://m.indiamart.com/arif-air-cool",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/collections/vintage-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-braille-ref-504005-38mm-manual",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-sportstar-ref-030584-40mm-manual",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-rajat-ref-650184-38mm-automatic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://therevolverclub.com/a/s/products/hmt-rajat-day-date-1974",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://therevolverclub.com/a/s/products/hmt-rajat-1972-u-on-dial-variant",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://therevolverclub.com/a/s/products/hmt-rajat-u-unidirectional-rotor",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-braille",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-braille-watch-34mm-manual",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://therevolverclub.com/a/s/products/hmt-saathi-vintage-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.therevolverclub.com/collections/military-watches.oembed",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.therevolverclub.com/collections/tool-watches.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/394760647568",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/406744675615",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156695274943",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/305783872674",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/125965653511",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/335778317117",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/335917551803",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/126755339793",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/135063804934",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/156921214702",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/12066862711",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/8063817281",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-hmt-jawan-indian-military-0214018",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/gents_1960s_hmt_jawan_wrist_watch_a9020/as170a9020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/listing/4479526337",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/ofQuartz/reviews/hmt-janata-140176-review-1393",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lt3.com.ar/products/review/2415641510",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/186716149912",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/2332742231",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/186095689336",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/2336120983",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/products/hmt-sharmila-ladies-brand-new-and-unused",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.therevolverclub.com/products/hmt-janata-14001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-vijay-040108",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://vintagewatcholic.in/collections/hmt-vijay",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://therevolverclub.com/a/s/products/hmt-avinash-hmt-asha",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.therevolverclub.com/collections/globo_basis_collection/products/hmt-avinash",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/26068465254",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/str/uberwatchesind",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://hmtwatches.blogspot.com/2013/11/hmt-watch-on-mr-nehrus-birthday-today_14.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hmtmachinetools.com/wp-content/uploads/2022/11/HMT-LAUNCHES-FREEDOM-COMMEMORATIVE-WATCH-%E2%80%98AMRUT.pdf",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.inkl.com/news/hmt-launches-amrut-to-mark-75th-independence-day",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/products/hmt-lalit-quartz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://casebackchronicles.com/2024/02/13/rolexes-of-the-republic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://vintagewatcholic.in/collections/hmt-kohinoor",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://vintagewatcholic.in/collections/hmt-tareeq",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://vintagewatcholic.in/blogs/news/hmt-quartz-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://vintagewatcholic.in/blogs/news/hmt-sangam-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theprint.in/past-forward/indias-endless-nostalgia-for-hmt-nehrus-dream-to-desh-ki-dhadkan-downfall/3025194/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://homegrown.co.in/article/804111/rewinding-india-s-first-homegrown-timekeeper-hmt-s-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://amp.scroll.in/article/678675/scroll_in",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theprint.in/opinion/hmt-watch-was-all-about-sturdy-functionality-and-then-india-changed/141366",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bizzbuzz.news/technology/janata-pilot-among-5-iconic-hmt-watches-treasured-by-collectors-1257485",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.business-standard.com/article/beyond-business/time-comes-to-a-stop-114091901229_1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hmttimes.blogspot.com/2020/11",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://hmttimes.blogspot.com/2020/02/hmt-jawan-and-variants.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://hmttimes.blogspot.com/2018",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://whichwatchtoday.blogspot.com/2013/10/hmt-deepak-mechanical-watch.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thetimebum.com/?p=883",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsweekly.com/stories/131448-new-indian-made-hmt-limited-edition-spec?in=642",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wristwatchreview.com/review-hmt-pilot/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/relojes-indios-hmt.179545/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://threadreaderapp.com/thread/1593821804766068736.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://vintagewatcholic.in/blogs/news/hmt-pilot-mechanical-hand-winding",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://placetaken.blogspot.com/search/label/watches",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.com/p/14066352891",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/336223138745",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/376429140443",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/146775559607",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/336000829054",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/21042437388",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hmttimes.blogspot.com/2021",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://hmttimes.blogspot.com",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://placetaken.blogspot.com/2013/09/more-hmt.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchguy.co.uk/?p=1138",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchguy.co.uk/reassembly-hmt-sona/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/brands/hmt-watches-pulse-of-india-12962.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://hmtwatches.blogspot.com/2013",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://businesshistory.domain-b.com/focus/hmt-watches-no-longer-the-timekeeper-to-the-nation",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/products/hmt-pilot-vintage-1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-janata-art-deco-ref-140173-32mm-manual-silver-sunburst-dial",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therevolverclub.com/a/s/products/hmt-deepak-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.etsy.com/listing/4341165436",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://archive.factordaily.com/?p=4176",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/Horophile/posts/first-hmt-in-the-house-42489",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchrepairtalk.com/topic/416-my-cheap-hmt",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
