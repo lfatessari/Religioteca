@@ -13440,7 +13440,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T19:43:47Z",
- "ultimo_sinal": "2026-11-21T19:43:47Z",
+ "ultimo_sinal": "2026-11-21T19:56:15Z",
  "em_andamento": {
   "marcas": [
    "Impossible Watch Company",
@@ -13451,7 +13451,7 @@
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
+  "notas": "historico/notas_bateria_1001-1003.md",
   "secoes_feitas": [],
   "passada": 1
  }
