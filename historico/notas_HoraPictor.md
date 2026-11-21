@@ -1,2 +1,3 @@
 # HoraPictor — notas
 Site horapictor.com PROVENANCE. Monochrome A (Duet: Bee, Lagoon, Olive, Submarine Canyon 20pc, Rhapsody 20pc), B (Smoked Ocean Volcano Grey, Starshine Ocean). Linhas citadas: Totem (cloisonné; Totem Cipher), Track Compass, Volcano Grey.
+Adiada v753: só 2 fontes. Imagens Monochrome: app/uploads/2026/08/HoraPictor-Atelier-Duet-Collection-Grand-Feu-Enamel-review-1.jpg, OHoraPictor_DUET_Submarine-Canyon_01.jpeg; app/uploads/2026/10/HoraPictor-Smoked-Ocean-Volcano-Grey-Enamel-Dial-Accessible-10.jpg. Duet: aço 316L 36/38/40 mm, SW200-2M b, 65 h; Bee/Lagoon/Olive US$2.315; Submarine Canyon e Rhapsody 20 peças US$2.892. Smoked Ocean Volcano Grey e Starshine Ocean 38 mm, SW200-1 Elaboré, €2.306.
