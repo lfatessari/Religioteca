@@ -13374,17 +13374,20 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T15:43:46Z",
- "ultimo_sinal": "2026-11-21T15:43:46Z",
+ "ultimo_sinal": "2026-11-21T15:53:33Z",
  "em_andamento": {
   "marcas": [
    "Ikepod"
   ],
   "linha_marcas": 995,
-  "grande": null,
+  "grande": true,
   "relogios": "historico/parcial_Ikepod_relogios.txt",
   "fontes": "historico/parcial_Ikepod_fontes.txt",
   "notas": "historico/notas_Ikepod.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
