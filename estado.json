@@ -13094,19 +13094,20 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T01:43:12Z",
- "ultimo_sinal": "2026-11-21T01:43:12Z",
+ "ultimo_sinal": "2026-11-21T01:51:52Z",
  "em_andamento": {
   "marcas": [
    "Holthinrichs",
-   "Hooke & Huygens",
-   "Hook + Gaff"
+   "Hook + Gaff",
+   "Hoptroff"
   ],
   "linha_marcas": 960,
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
+  "fontes": "historico/parcial_fontes.txt",
+  "notas": "historico/notas_bateria.md",
   "secoes_feitas": [],
-  "passada": 1
+  "passada": 1,
+  "obs": "Hooke & Huygens adiada (só 1 fonte sem modelos)"
  }
 }
