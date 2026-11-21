@@ -13310,7 +13310,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T11:43:50Z",
- "ultimo_sinal": "2026-11-21T11:48:35Z",
+ "ultimo_sinal": "2026-11-21T12:03:05Z",
  "em_andamento": {
   "marcas": [
    "Ice Watch"
@@ -13320,7 +13320,12 @@
   "relogios": "historico/parcial_Ice_Watch_relogios.txt",
   "fontes": "historico/parcial_Ice_Watch_fontes.txt",
   "notas": "historico/notas_Ice_Watch.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "7"
+  ],
   "passada": 1
  }
 }
