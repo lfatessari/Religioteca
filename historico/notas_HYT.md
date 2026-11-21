@@ -9,3 +9,6 @@
 - 1ª passada encerrada com 92 fontes (últimas ~10 sem novidade). Decisão: VERMELHA — Watchonista p5-6 (H1/H2/H4 antigos) fora das buscas; ~60 linhas só com link de página; EveryWatch exige login ("Only Collectors"); thewatchpages travado; site oficial PROVENANCE; muitas variantes H1/H4/Skull com códigos 148-/151-/512- sem lista completa.
 - 2ª passada: atrás de Watchonista p5-6, variantes H4 (Hercules? Metropolis, Neo, Dragon), Skull (Maori, 48.8), H1 (Classic, Evo, TB, colorblock), H2 (Aviator, Neo), códigos 148-/151-/512- em lojas e leilões.
 - 2ª passada: buscas site:thewatchpages.com trouxeram 7 códigos novos só por título (H1.0 H02021, H20 251-AD-468/461/462, 251-AC-46, H02390, H0 048-DL-93) — contados nos novos da busca, não como fonte aberta.
+- 3ª passada (30 fontes): Skull (Maori 15, Vida 5, Light, Bad Boy 50, Pocket 8 + peça única), leilões (H4 Metropolis 100, H2 DLC 50, H2 LE5 creme, H3 peça única diamantes, Hastroid Rainbow Nebula peça única). Novos das fontes: 4 + 5 códigos H0 por título de busca. Parou aqui (a skill pede até a 3ª).
+- Conflitos não resolvidos: SOONOW H02237 (Exquisite: Blue; The Watch Pages: Black Green) e H02235 (1stDibs: Green; TWP: Silver Blue) — mantido o nome da loja.
+- H1 Laurent Picciotto (Phillips, 148-DL-21-GF-RU nº 1) = mesma ref já listada; não virou linha.

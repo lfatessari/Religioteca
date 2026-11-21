@@ -1,0 +1,697 @@
+{
+ "marca": "HYT",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – hytwatches.com (PROVENANCE_REQUIRED na leitura automática); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios (21/11/2026, v760): 173 linhas, vermelha. O site oficial não abriu e o EveryWatch exige login; a lista do Watchonista tem 6 páginas e só 4 apareceram nas buscas; cerca de 60 linhas ficaram só com link de página. Ainda a verificar: H (Instagram) — o rodapé do site liga instagram.com/hytwatches. I — a Wikipedia diz que a HYT pediu falência em março de 2021 e que a Kairos Technology Switzerland SA comprou os ativos no mesmo ano; o aBlogtoWatch (Hastroid Green Nebula, 2022) fala da volta da marca; lançamentos seguem em 2025 (Watches & Wonders) e 2026 (Conical Tourbillon Midnight Blue). Fundadores segundo a Wikipedia: Lucien Vouillamoz e Patrick Berdoz (1 fonte).",
+ "fontes": [
+  {
+   "url": "https://www.hytwatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hyt/watches",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hyt/watches/?paging=2",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hyt/watches/?paging=3",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hyt/watches/?paging=4",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://exquisitetimepieces.com/collections/hyt",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/hyt?page=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hyt-watches/sold-out.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hyt-watches/sold-out.html?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/hyt.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/hyt-watches/titanium.html?page=2",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hyt-watches/novelties.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/d/hyt-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hyt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hyt/h0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hyt/h1/h1-h02023",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hyt/h4/h4-h01704",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hyt/limited-edition/limited-edition-h02237/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/HYT_(watchmaker)",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yourwatchhub.com/hyt",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/HYT",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchcompany.com/hyt",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://professionalwatches.com/hyt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/hyt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/HYT/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/hyt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/partner/hyt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/HYT/page/3",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/hyt/page/4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/HYT/page/5",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/d/hyt-watches.html?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hyt-watches.html?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/hyt/jewelry/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/hyt-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hyt-h1-black-tiranium-488mm-skeleton-dial-manual-wind-watch-h00002/id-j_26058932",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hyt-h0-diamond-black-pvd-stainless-steel-diamond-dial-watch-h01938/id-j_26074172",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hyt-h10-488mm-steel-gray-skeleton-dial-manual-winding-men-watch-h02022/id-j_26466592",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hyt-h10-488mm-steel-gray-skeleton-dial-manual-winding-mens-watch-h02095/id-j_26466532",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hyt-soonow-green-limited-edition-skull-grey-dial-mens-watch-h02235/id-j_26058722",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hyt-skull-titanium-s48-tt-34-rf-ra/id-j_7199051",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/new-hyt-h4-skull-50mm-titanium-blue-dial-manual-wind-men-ltd-watch-h2-tt-488207/id-j_24194022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/hyt/page/4",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://revolutionwatch.com/brands/hyt/?p_number=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/watchbrands/hyt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/brands/hyt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hodinkee.jp/brands/hyt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.revolution.watch/introducing-the-hyt-black-skull-the-h2-tradition-and-the-h4-alinghi-special-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/hyt-h1-alinghi-24944.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/hyt-h1-alinghi-edition-yacht-racing-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/hyt-h1-alinghi.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/featured/pipe-dreams-about-the-watch-brand-hyt/4/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/innovation-and-technology/hyt-h1-red2-148-tg-02-rf-rg-16685.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/lots-of-new-hyt-h1-and-h2-models-for-baselworld-2014",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/HYT/H1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2015/01/introducing-the-hyt-skull-punk-rock-meets-hydro-mechanical-time-with-specs-and-price.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/hyt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/search/hyt/page/13/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://quillandpad.com/category/watch-brands-horology/hyt/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/hyt/145787",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/hyt-ref-h1-td-511041-skull-lot-356-382",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/buy/942b0d12-0264-44ea-b7c9-3f46c3279fbe/lots/019ce409-9f04-78ec-8da3-c47d79168328",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchbox.com/shop/4564688.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4455929.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/ae/en/shop/4390217.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4564720.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4455945.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4521951.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4564779.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4390191.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4536470.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4536488.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristcheck.com/us/buy/hyt?locale=zh-hk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/hyt-skull-green-eye.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/hyt-skull-red-eye.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.therealreal.com/products/watches/strap/hyt-h1-watch-smggc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/HYT-148-TT-11-GF-RU-H1-Titanium-Grey-Dial-Mechanical-34962.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/ae/en/shop/4392221.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4455903.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/ch/en/shop/HYT-H1-148-TB-21-GF-RU.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/136887-hyt-unknown",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/hyt-h2-alinghi.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/hyt-h2-tradition.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/watches/h2-titanium-dlc/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/node/146859",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/node/363755",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/novelties/watches-and-wonders-hyt-adds-three-colorful-s1-titanium-timepieces-to-its-permanent-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/s-1-beadblasted-titanium-red",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesandwonders.com/en/geneva-2025/brands/hyt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://highsnobiety.com/p/hyt-watches-wonders-2025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/tourbillon/hyt-conical-tourbillon-midnight-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004115005.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://arabwatchguide.com/2025/03/27",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2023/9/hyt-conical-tourbillon-titanium-blue-limited-edition-release-info",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/sites/default/files/watchographer/3413/watches/146851/files/hyt_products_eng_72acb2f1ad.pdf",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/HYT_H1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.crownandcaliber.com/p/hyt-h1-and-h2-what-makes-them-tick",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hyt-h1-the-baselworld-2012-buzz/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hyt-watches/h4-collection.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/hyt-watches/h1-collection.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/h4-19609.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hyt/h4/4965125",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/ch/en/shop/4536496.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://news.dupontregistry.com/sponsored/hyt-watches-new-h4",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/hyt/page/3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/search/label/HYT/page/2?amp=1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2016/10/hands-on-with-the-hyt-h1-colorblock-entry-level-technicolor.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/blog/hyt-h1-hydro-mechanical-go-flow.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/hyt-skull-maori.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/hyt-skull-vida.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/hyt-skull-48-8mm-blue-preowned",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/skull-vida",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004096738-hyt-skull-green-eye.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/hyt-151-dg-44-gf-ab-skull-light-green-eye-18k-rose-gold-titanium-64386",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcollectinglifestyle.com/home/insider-hyt-skull-maori-a-15-piece-limited-edition-with-a-rare-hand-engraved-maori-tribal-tattoo?format=amp",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.govbergwatches.com/shop/HYT-H1-151-TT-95-BF-AW.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bonhams.com/auction/26520/lot/623/hyt-a-titanium-limited-edition-wristwatch-ref148-tt-80-nf-with-box-and-certificate",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2024/important-watches-part-ii-2/h4-metropolis-reference-512-td-45-gf-rn-a-limited",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2021/fine-watches-3/h1-ref-148-tt-80-nf-fy-pvd-coated-titanium-semi",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/buy/auction/2023/fine-watches-4/reference-h1-0-1011-a-stainless-steel-skeletonized",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/hyt/120296",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/hyt/172879",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/hyt/106545",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/hyt/NY080322/113",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/hyt/NY080424/93",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.christies.com.cn/en/lot/lot-6320550",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/important-watches-hk0789/lot.2554.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2015/watches-n09368/lot.185.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/hyt-skull-pocket-titanium/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2017/02/hands-on-with-the-hyt-skull-pocket-hand-engraved-piece-unique.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://revolutionwatch.com/the-dark-side-of-the-skull/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=18770",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/?p=18900",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelleryeditor.com/shop/product/hyt-skull-bad-boy-watch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/new-model-hyt-skull-watch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/?p=13632",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=54613",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://news.dupontregistry.com/sponsored/hyt-watches-skull-48-8",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

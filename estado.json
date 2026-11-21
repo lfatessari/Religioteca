@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 984,
- "ultima_versao": 759,
+ "proxima_linha_marcas": 985,
+ "ultima_versao": 760,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13151,6 +13151,24 @@
    "passadas": "1: 91/78; 2: 18/5; 3: 18/7",
    "site_bloqueado": "Sim (hysek.com PROVENANCE)",
    "obs": "Marca grande, vermelha. Inclui fase Jorg Hysek (Kilada, Anegada, X-Ray, V-King). thewatchpages.com e masterhorologer.com com client_error (só títulos de busca); EveryWatch exige login. Firecrawl sem uso; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 760,
+   "marcas": [
+    "HYT"
+   ],
+   "linhas_relogios": "114958-115130",
+   "relogios": {
+    "HYT": 173
+   },
+   "vermelho": true,
+   "fontes": {
+    "HYT": 137
+   },
+   "passadas": "1: 93/155; 2: 14/5; 3: 30/4",
+   "site_bloqueado": "Sim (hytwatches.com PROVENANCE)",
+   "obs": "Marca grande, vermelha. Watchonista p5-6 fora das buscas; EveryWatch exige login; thewatchpages só por títulos de busca (refs). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13257,31 +13275,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T09:43:15Z",
- "ultimo_sinal": "2026-11-21T10:00:15Z",
- "em_andamento": {
-  "marcas": [
-   "HYT"
-  ],
-  "linha_marcas": 985,
-  "grande": true,
-  "relogios": "historico/parcial_HYT_relogios.txt",
-  "fontes": "historico/parcial_HYT_fontes.txt",
-  "notas": "historico/notas_HYT.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }
