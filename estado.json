@@ -13356,7 +13356,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T14:44:07Z",
- "ultimo_sinal": "2026-11-21T14:52:18Z",
+ "ultimo_sinal": "2026-11-21T15:02:12Z",
  "em_andamento": {
   "marcas": [
    "IFL Watches"
@@ -13368,7 +13368,10 @@
   "notas": "historico/notas_IFL.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "9-parcial",
+   "6"
   ],
   "passada": 1
  }
