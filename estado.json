@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 995,
-  "ultima_versao": 766,
+  "proxima_linha_marcas": 996,
+  "ultima_versao": 767,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13284,6 +13284,24 @@
       "passadas": "1: 151/169; 2: 41/15; 3: 16/5",
       "site_bloqueado": "Não (ikepod.com abriu pelo ajudante web-fetch; algumas páginas deram limite de velocidade ou PROVENANCE e foram puladas)",
       "obs": "Marca grande e vermelha (peças Gen1/Gen2 sem referência publicada). Firecrawl sem créditos (renova 22/11 13:43 UTC). Pendências de posts: ferramenta Projects ausente; item A5 (a.b.art) já estava aplicado (v762)."
+    },
+    {
+      "data": "2026-11-21",
+      "versao": 767,
+      "marcas": [
+        "Ikigai Watches"
+      ],
+      "linhas_relogios": "116198-116208",
+      "relogios": {
+        "Ikigai Watches": 11
+      },
+      "vermelho": false,
+      "fontes": {
+        "Ikigai Watches": 18
+      },
+      "passadas": "1: 18/11",
+      "site_bloqueado": "Não (home PROVENANCE na tentativa direta; páginas de produto vindas de busca abriram pelo ajudante web-fetch)",
+      "obs": "Marca pequena; Illinois (próxima) é grande e fica sozinha para a próxima execução. Firecrawl sem créditos. Ferramenta Projects ausente; sem pendências de posts no item A5."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13390,19 +13408,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-21T16:43:47Z",
-  "ultimo_sinal": "2026-11-21T16:43:47Z",
-  "em_andamento": {
-    "marcas": [
-      "Ikigai Watches"
-    ],
-    "linha_marcas": 996,
-    "grande": false,
-    "relogios": "historico/parcial_Ikigai_relogios.txt",
-    "fontes": "historico/parcial_Ikigai_fontes.txt",
-    "notas": "historico/notas_Ikigai.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
