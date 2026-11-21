@@ -1,0 +1,156 @@
+{
+ "marca": "Indie Watch",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://indiewatch.com/en/relojes",
+   "passada": 1,
+   "novos": 63
+  },
+  {
+   "url": "https://indiewatch.com/en/colecciones",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://indiewatch.com/en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://indiewatch.com/en/manuales",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iguanasell.com.au/blogs/news/indie-watch-trencadis",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iguanasell.com.au/products/indie-watch-trencadis-carmesi-automatic-watch-44-mm-trdiscar01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iguanasell.com.au/collections/indie-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iguanasell.es/collections/indie-watch-trencadis",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.que.es/2025/10/02/indie-watch-la-nueva-firma-de-relojes-que-apuesta-por-la-autenticidad-llega-al-mercado/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.que.es/2025/10/21/indie-watch-la-firma-espanola-de-relojes-que-conquista-mexico-tras-su-exito-en-espana/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.que.es/2025/12/18/indie-watch-presenta-kayseri-el-primer-reloj-indie-ligero-colorista-y-versatil/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.que.es/2025/11/21/el-tiempo-se-viste-de-diseno-espanol-indie-watch-lanza-su-black-friday-mas-exclusivo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infobae.com/america/agencias/2025/10/20/indie-watch-la-firma-espanola-de-relojes-que-conquista-mexico-tras-su-exito-en-espana/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/indie-watches.591695/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/venezianico-nautage-isotope-e-indie-en-wwd-2026.605147/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/en/marca/indie-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/revista/guia-indie-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/marca/indie-watch/?_colecciones_marca=tarifa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/relojes/indie-watch/trencadis/indie-watch-trencadis-cupula-alligator-granate/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/it/relojes/indie-watch/aurora/indie-watch-aurora-serie-421-mar-del-sur-fkm-negro/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/relojes/indie-watch/delphos/indie-watch-delphos-borgona/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/relojes/indie-watch/delphos/indie-watch-delphos-pinar/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/en/marca/indie-watch/hydra/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/en/relojes/indie-watch/strum/indie-watch-strum-serie-113-el-ingeniero-rally-acero/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/relojes/indie-watch/trencadis/indie-watch-trencadis-lapislazuli/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://worldwatchmuseum.com/revista/cinco-relojes-que-seran-tus-mejores-aliados-en-la-vuelta-a-la-rutina/",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "C": "Madrid",
+  "G": "indiewatch.com"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://indiewatch.com/en",
+   "https://www.infobae.com/america/agencias/2025/10/20/indie-watch-la-firma-espanola-de-relojes-que-conquista-mexico-tras-su-exito-en-espana/"
+  ],
+  "G": [
+   "https://indiewatch.com/en",
+   "https://indiewatch.com/en/relojes"
+  ]
+ },
+ "observacoes": "Corrigido em 21/11/2026: C Aranjuez → Madrid (site oficial 'assembled in Madrid' e comunicado da Infobae: oficina própria em Madrid); G indiewatch.es → indiewatch.com (indiewatch.es redireciona para indiewatch.com). Ainda a verificar: World Watch Museum dá fundação 2025 e cofundador Jesús Carro (só essa fonte); fórum Relojes Especiales diz que é marca própria da World Watch Museum; comunicado de out/2025 falava em oficina em Nerja. Códigos da loja Iguana Sell na Trencadís diferem dos oficiais (ex.: TRDISAGM01 × TRDISAIG01)."
+}

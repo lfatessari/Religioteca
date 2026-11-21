@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1000,
- "ultima_versao": 769,
+ "proxima_linha_marcas": 1003,
+ "ultima_versao": 770,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13332,6 +13332,30 @@
    "site_bloqueado": true,
    "fontes": 24,
    "obs": "Immersion (998) e Imperial Genève (999) adiadas sem fontes (ADIADAS no proxima_marca.py)"
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 770,
+   "marcas": [
+    "Impossible Watch Company",
+    "Indie Watch",
+    "Industrial Norht Design Watches"
+   ],
+   "linhas_relogios": "116326-116420",
+   "relogios": {
+    "Impossible Watch Company": 25,
+    "Indie Watch": 68,
+    "Industrial Norht Design Watches": 2
+   },
+   "vermelho": false,
+   "fontes": {
+    "Impossible Watch Company": 42,
+    "Indie Watch": 26,
+    "Industrial Norht Design Watches": 18
+   },
+   "passadas": "1 passada cada",
+   "site_bloqueado": "IND sim (industrialnorth.co.uk); Impossible e Indie: home oficial PROVENANCE na tentativa direta, mas páginas vindas de busca abriram",
+   "obs": "Correções na aba Marcas: Indie C→Madrid, G→indiewatch.com; IND C→Leeds, J e I. Firecrawl sem créditos. Ferramenta Projects ausente; sem pendências no item A5."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13438,21 +13462,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T19:43:47Z",
- "ultimo_sinal": "2026-11-21T19:56:15Z",
- "em_andamento": {
-  "marcas": [
-   "Impossible Watch Company",
-   "Indie Watch",
-   "Industrial Norht Design Watches"
-  ],
-  "linha_marcas": 1001,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_bateria_1001-1003.md",
-  "secoes_feitas": [],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
