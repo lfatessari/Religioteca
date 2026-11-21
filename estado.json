@@ -13410,7 +13410,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T17:43:47Z",
- "ultimo_sinal": "2026-11-21T17:43:47Z",
+ "ultimo_sinal": "2026-11-21T17:49:45Z",
  "em_andamento": {
   "marcas": [
    "Illinois"
@@ -13420,7 +13420,12 @@
   "relogios": "historico/parcial_Illinois_relogios.txt",
   "fontes": "historico/parcial_Illinois_fontes.txt",
   "notas": "historico/notas_Illinois.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
   "passada": 1
  }
 }
