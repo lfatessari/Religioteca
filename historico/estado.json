@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1003,
- "ultima_versao": 770,
+ "proxima_linha_marcas": 1005,
+ "ultima_versao": 771,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13356,6 +13356,27 @@
    "passadas": "1 passada cada",
    "site_bloqueado": "IND sim (industrialnorth.co.uk); Impossible e Indie: home oficial PROVENANCE na tentativa direta, mas páginas vindas de busca abriram",
    "obs": "Correções na aba Marcas: Indie C→Madrid, G→indiewatch.com; IND C→Leeds, J e I. Firecrawl sem créditos. Ferramenta Projects ausente; sem pendências no item A5."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 771,
+   "marcas": [
+    "Inercy",
+    "Infrared Watches"
+   ],
+   "linhas_relogios": "116421-116489",
+   "relogios": {
+    "Inercy": 11,
+    "Infrared Watches": 58
+   },
+   "vermelho": false,
+   "fontes": {
+    "Inercy": 31,
+    "Infrared Watches": 78
+   },
+   "passadas": "1 passada cada",
+   "site_bloqueado": "não registrado: home oficial deu PROVENANCE na tentativa direta, mas páginas vindas de busca abriram (nas duas marcas)",
+   "obs": "Correções na aba Marcas: Inercy I, J e K (logo). Infrared: modelos 2012–2019 não achados (só anotado em M). Ingersoll (1006) parece grande: fica sozinha na próxima. Firecrawl sem créditos. Ferramenta Projects ausente; A5 sem pendências."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
