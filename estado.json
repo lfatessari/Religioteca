@@ -13464,7 +13464,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T20:44:03Z",
- "ultimo_sinal": "2026-11-21T20:44:03Z",
+ "ultimo_sinal": "2026-11-21T20:54:13Z",
  "em_andamento": {
   "marcas": [
    "Inercy",
@@ -13475,7 +13475,11 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3"
+  ],
   "passada": 1,
   "obs": "Ingersoll (1006) parece grande (linha desde 1892, site ingersoll1892.com) — fica sozinha na próxima execução"
  }
