@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 985,
- "ultima_versao": 760,
+ "proxima_linha_marcas": 988,
+ "ultima_versao": 761,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13169,6 +13169,30 @@
    "passadas": "1: 93/155; 2: 14/5; 3: 30/4",
    "site_bloqueado": "Sim (hytwatches.com PROVENANCE)",
    "obs": "Marca grande, vermelha. Watchonista p5-6 fora das buscas; EveryWatch exige login; thewatchpages só por títulos de busca (refs). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 761,
+   "marcas": [
+    "HZ Watches",
+    "Ianos",
+    "Ibarra"
+   ],
+   "linhas_relogios": "115131-115217",
+   "relogios": {
+    "HZ Watches": 16,
+    "Ianos": 9,
+    "Ibarra": 62
+   },
+   "vermelho": false,
+   "fontes": {
+    "HZ Watches": 28,
+    "Ianos": 48,
+    "Ibarra": 51
+   },
+   "passadas": "1 passada cada (HZ 28/21, Ianos 48/12, Ibarra 51/69)",
+   "site_bloqueado": "Não (home direta PROVENANCE pelo ajudante, mas páginas vindas de busca abriram)",
+   "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 985,
- "ultima_versao": 760,
+ "proxima_linha_marcas": 988,
+ "ultima_versao": 761,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13169,6 +13169,30 @@
    "passadas": "1: 93/155; 2: 14/5; 3: 30/4",
    "site_bloqueado": "Sim (hytwatches.com PROVENANCE)",
    "obs": "Marca grande, vermelha. Watchonista p5-6 fora das buscas; EveryWatch exige login; thewatchpages só por títulos de busca (refs). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 761,
+   "marcas": [
+    "HZ Watches",
+    "Ianos",
+    "Ibarra"
+   ],
+   "linhas_relogios": "115131-115217",
+   "relogios": {
+    "HZ Watches": 16,
+    "Ianos": 9,
+    "Ibarra": 62
+   },
+   "vermelho": false,
+   "fontes": {
+    "HZ Watches": 28,
+    "Ianos": 48,
+    "Ibarra": 51
+   },
+   "passadas": "1 passada cada (HZ 28/21, Ianos 48/12, Ibarra 51/69)",
+   "site_bloqueado": "Não (home direta PROVENANCE pelo ajudante, mas páginas vindas de busca abriram)",
+   "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13275,27 +13299,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T10:43:37Z",
- "ultimo_sinal": "2026-11-21T10:55:25Z",
- "em_andamento": {
-  "marcas": [
-   "HZ Watches",
-   "Ianos",
-   "Ibarra"
-  ],
-  "linha_marcas": 986,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "9"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
