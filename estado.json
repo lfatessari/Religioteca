@@ -13524,7 +13524,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-21T23:43:16Z",
-  "ultimo_sinal": "2026-11-21T23:43:16Z",
+  "ultimo_sinal": "2026-11-21T23:54:51Z",
   "em_andamento": {
     "marcas": [
       "Invicta"
@@ -13534,7 +13534,11 @@
     "relogios": "historico/parcial_Invicta_relogios.txt",
     "fontes": "historico/parcial_Invicta_fontes.txt",
     "notas": "historico/notas_Invicta.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3"
+    ],
     "passada": 1
   }
 }
