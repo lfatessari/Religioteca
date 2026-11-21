@@ -1,12 +1,12 @@
 {
  "marca": "Icelink",
- "usa_codigos": false,
+ "usa_codigos": true,
  "logo": "",
  "site_bloqueado": "",
  "vermelho": true,
  "grande": false,
  "complemento": false,
- "observacoes": "Relógios pesquisados em 21/11/2026 (v764): pintada de vermelho. Há muitos nomes de coleções vistos só em títulos de anúncios do eBay reunidos pelo used.forsale (Ursa, Tucana, Cygnus, Apus, Lyra, Pegasus, Bayard, Taras, Monroe, Emperador, Carlton, Senator, Manhattan 1203, GZB/GZS da linha Generation), sem página que abrisse para confirmar; buscas específicas trouxeram só anúncios de Ice-Watch. icelink.com não abriu na leitura automática (PROVENANCE). A conferir em I: a Masterhorologer dá como fundador Andy Sogoyan (I fala nos irmãos Eric e Greg Mavani) e o site como icelinkwatch.com (1 fonte só nesta pesquisa; não alterado). O despertador 6Timezone Alarm Clock (aço preto, madrepérola e PVD/carbono) não entrou por não ser relógio de pulso.",
+ "observacoes": "Relógios pesquisados em 21/11/2026 (v764): 74 linhas, pintada de vermelho, 3 passadas. O site oficial é icelinkwatch.com (loja Shopify, aberta pelo Firecrawl); icelink.com não abriu. Corrigido: G icelink.com → icelinkwatch.com (site oficial e Masterhorologer); H @icelinkwatches → @icelinkofficial (rodapé do site oficial); I: fundação 2003 por Andy Sogoyan (página 'Our Story' do site oficial e Masterhorologer), no lugar de '1998 pelos irmãos Eric e Greg Mavani'. Ainda a verificar: J cita Four Timezone e Generation Z, que não apareceram com esses nomes (a linha Generation 6TZ tem códigos GZB/GZS). Ficaram de fora nomes vistos só em títulos de anúncios do eBay (Ursa, Tucana, Cygnus, Apus, Lyra, Pegasus, Bayard, Taras, Monroe, Emperador, Carlton, Senator) e o despertador 6Timezone Alarm Clock/Carbon Fiber 6 Time Zone Desk Clock (não é de pulso).",
  "fontes": [
   {
    "url": "https://icelink.com/",
@@ -247,6 +247,109 @@
    "url": "https://www.walmart.com/ip/3336266150",
    "passada": 2,
    "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/collections/watches/products.json?limit=250",
+   "passada": 2,
+   "novos": 49
+  },
+  {
+   "url": "https://icelinkwatch.com/products.json?limit=250",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/pages/our-story",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/collections/all-womens-watches/products.json?limit=250",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/collections/sample-sale/products.json?limit=250",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/icelink",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/blogs/press",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/collections/zermatt/products.json",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/collections/mens-round-watches/products.json",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/collections/womens-round-watches/products.json",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://icelinkwatch.com/blogs/all-post",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxuo.com/style/watches/icelink-6timezone-mechanical-watch.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://europastar.com/1003955146.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004086989.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/1702862337",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/1100529022",
+   "passada": 3,
+   "novos": 0
   }
- ]
+ ],
+ "correcoes": {
+  "G": "icelinkwatch.com",
+  "H": "@icelinkofficial",
+  "I": "A IceLink foi fundada em 2003 por Andy Sogoyan, que começou ainda adolescente, nos anos 70, na joalheria de um tio em Hollywood e passou anos na fabricação e no atacado de joias antes de criar a marca. Hoje é uma empresa de pai e filha: Suzy Sogoyan dirige o desenvolvimento da marca ao lado do pai. A IceLink tornou-se um fenômeno na cultura hip-hop e no universo das celebridades americanas dos anos 2000, com relógios ostensivos e fortemente cravejados de diamantes, e é conhecida pelo relógio de seis fusos horários (6Timezone)."
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://icelinkwatch.com/",
+   "https://masterhorologer.com/icelink-watches/"
+  ],
+  "H": [
+   "https://icelinkwatch.com/"
+  ],
+  "I": [
+   "https://icelinkwatch.com/pages/our-story",
+   "https://masterhorologer.com/icelink-watches/"
+  ]
+ }
 }

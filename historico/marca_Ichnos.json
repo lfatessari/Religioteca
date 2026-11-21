@@ -1,0 +1,87 @@
+{
+ "marca": "Ichnos",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 21/11/2026 (v764): 24 linhas (Capo Testa, Capo Testa PRO, Arcipelago, Costiero, Diporto e Navicella Worldtimer). O site oficial não abriu na leitura automática (PROVENANCE), mas abriu pelo Firecrawl (loja Shopify com 21 relógios publicados). Os Capo Testa Rena di Levante e Rena di Ponente e o Arcipelago original (2022, cinco versões, lote esgotado) já não estão à venda; os nomes das cinco versões do Arcipelago não foram achados (as pulseiras Spargi, Santo Stefano, Due Mari e Corallo Nero talvez sejam delas). Revendedores no site oficial: Majer Watchmaking (Turim) e Caliber (Roma). Empresa: Sardinian Watches SRL, via Santa Gilla 24, Cagliari (rodapé do site oficial).",
+ "fontes": [
+  {
+   "url": "https://www.ichnoswatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ichnoswatches.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.ichnoswatches.com/en/pages/la-nostra-storia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/ichnos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ichnoswatches.com/en/pages/rivenditori",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/ichnos-capo-testa-diver-puts-sardinia-on-the-watch-world-map-ichnos-launch-the-capo-testa-dive-watch-putting-sardinia-on-the-wristwatch-world-map/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://oracleoftime.com/?p=183592",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/tag/ichnos/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/52847/microbrand-ichnos-anima-vintage-e-cuore-sardo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/ichnos-costiero.602898/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/ichnos-capo-testa-raja-black-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/285455587601",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ichnoswatches.com/en/collections/pro",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ichnoswatches.com/en/collections/ichnos-capo-testa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ichnoswatches.com/en/collections/all",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

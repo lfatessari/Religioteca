@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 989,
- "ultima_versao": 763,
+ "proxima_linha_marcas": 993,
+ "ultima_versao": 764,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13220,6 +13220,34 @@
    "passadas": "1: 126/414; 2: 25/40; 3: 22/24",
    "site_bloqueado": "Não (home PROVENANCE pelo ajudante; produtos/coleções vindas de busca abriram)",
    "obs": "Marca grande, vermelha. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. mastersintime deu rate limit em 16 páginas históricas. Pendências de posts (A4): ferramenta Projects ausente; A5 (a.b.art) aplicado na v762."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 764,
+   "marcas": [
+    "Icelink",
+    "Ichnos",
+    "ID Genève"
+   ],
+   "linhas_relogios": "115698-115830",
+   "relogios": {
+    "Icelink": 74,
+    "Ichnos": 24,
+    "ID Genève": 35
+   },
+   "vermelho": {
+    "Icelink": true,
+    "Ichnos": false,
+    "ID Genève": false
+   },
+   "fontes": {
+    "Icelink": 65,
+    "Ichnos": 15,
+    "ID Genève": 34
+   },
+   "passadas": "Icelink 1: 39/24, 2: 16/50, 3: 10/0; Ichnos 15/24; ID Genève 34/35",
+   "site_bloqueado": "Não (oficiais deram PROVENANCE pelo ajudante, mas abriram pelo Firecrawl; IDG pelo id-watches.squarespace.com)",
+   "obs": "Firecrawl voltou a ter créditos diários às 13:43 UTC (~30 créditos usados). ICON (992) adiada (homônima). Aba Marcas Icelink: G, H e I corrigidos. Pendências de posts (A4): ferramenta Projects ausente; A5 (a.b.art) já estava aplicado (v762)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13326,26 +13354,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T12:44:18Z",
- "ultimo_sinal": "2026-11-21T13:20:03Z",
- "em_andamento": {
-  "marcas": [
-   "Icelink",
-   "Ichnos",
-   "ID Genève"
-  ],
-  "linha_marcas": 990,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_Icelink_Ichnos_IDGeneve.md",
-  "secoes_feitas": [
-   "IDG pronta (34 fontes, 35 relógios)",
-   "Icelink 1ª passada pronta (39), 2ª com 9 — falta 1 (Firecrawl reach.dog às 13:43 UTC)",
-   "Ichnos: 7 fontes; aguarda Firecrawl (créditos diários voltam 13:43 UTC)"
-  ],
-  "passada": 1,
-  "obs": "ICON (992) avaliada à parte: homônima, provável adiamento"
- }
+ "adiadas_obs": {}
 }
