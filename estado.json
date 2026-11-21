@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1007,
- "ultima_versao": 772,
+ "proxima_linha_marcas": 1008,
+ "ultima_versao": 773,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13395,6 +13395,27 @@
    "passadas": "3 passadas (56/24/10 fontes; 177/16/12 relógios)",
    "site_bloqueado": "não registrado: ingersollwatches.com deu PROVENANCE na tentativa direta",
    "obs": "Firecrawl sem créditos. Só anotado em M (dona atual Zeon/Herald; 1882 x 1892). Ferramenta Projects ausente; A5 sem pendências."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 773,
+   "marcas": [
+    "Initium",
+    "Inklings"
+   ],
+   "linhas_relogios": "116715-116730",
+   "relogios": {
+    "Initium": 13,
+    "Inklings": 3
+   },
+   "vermelho": false,
+   "fontes": {
+    "Initium": 50,
+    "Inklings": 8
+   },
+   "passadas": "1 passada cada; Inklings com catálogo fechado (mínimo 8)",
+   "site_bloqueado": "não registrado: initium.watch e inklingswatches.com (home) deram PROVENANCE na tentativa direta, mas páginas vindas de busca abriram",
+   "obs": "Correções na aba Marcas: Initium G, C, I (Le Locle→Le Noirmont), J; Inklings J (Grey Town 3). Intersect (1009) adiada: é evento, não marca. Invicta (1010) é grande: fica sozinha na próxima. WebFetch só pelo ajudante web-fetch; Firecrawl não usado. Ferramenta Projects ausente; A5 sem pendências."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13501,21 +13522,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T22:44:28Z",
- "ultimo_sinal": "2026-11-21T22:44:28Z",
- "em_andamento": {
-  "marcas": [
-   "Initium",
-   "Inklings"
-  ],
-  "linha_marcas": 1007,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1,
-  "obs": "Intersect (1009) adiada: é evento, não marca. Sem WebFetch direta: páginas pelo ajudante web-fetch."
- }
+ "adiadas_obs": {}
 }
