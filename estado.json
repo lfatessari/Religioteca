@@ -13374,7 +13374,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T15:43:46Z",
- "ultimo_sinal": "2026-11-21T16:02:09Z",
+ "ultimo_sinal": "2026-11-21T16:06:05Z",
  "em_andamento": {
   "marcas": [
    "Ikepod"
@@ -13387,11 +13387,17 @@
   "secoes_feitas": [
    "1",
    "2",
+   "2c",
    "3",
+   "4",
    "5",
+   "6",
    "7",
-   "9"
+   "8",
+   "9",
+   "10",
+   "2a passada"
   ],
-  "passada": 1
+  "passada": 3
  }
 }
