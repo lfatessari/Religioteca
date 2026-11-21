@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 983,
- "ultima_versao": 758,
+ "proxima_linha_marcas": 984,
+ "ultima_versao": 759,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13133,6 +13133,24 @@
    "passadas": "Hyetis 1: 17/5; Hygge 1: 36/31",
    "site_bloqueado": "Hygge: hyggewatches.com PROVENANCE (L gravada); Hyetis sem site ativo",
    "obs": "Huo Feile adiada (nenhuma fonte). Hysek (próxima) tratada como grande, fica sozinha na próxima execução. Correções Hygge: B, D, I. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 759,
+   "marcas": [
+    "Hysek"
+   ],
+   "linhas_relogios": "114831-114957",
+   "relogios": {
+    "Hysek": 127
+   },
+   "vermelho": true,
+   "fontes": {
+    "Hysek": 127
+   },
+   "passadas": "1: 91/78; 2: 18/5; 3: 18/7",
+   "site_bloqueado": "Sim (hysek.com PROVENANCE)",
+   "obs": "Marca grande, vermelha. Inclui fase Jorg Hysek (Kilada, Anegada, X-Ray, V-King). thewatchpages.com e masterhorologer.com com client_error (só títulos de busca); EveryWatch exige login. Firecrawl sem uso; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13239,30 +13257,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T08:44:00Z",
- "ultimo_sinal": "2026-11-21T08:57:14Z",
- "em_andamento": {
-  "marcas": [
-   "Hysek"
-  ],
-  "linha_marcas": 984,
-  "grande": true,
-  "relogios": "historico/parcial_Hysek_relogios.txt",
-  "fontes": "historico/parcial_Hysek_fontes.txt",
-  "notas": "historico/notas_Hysek.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }

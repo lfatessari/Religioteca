@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 980,
- "ultima_versao": 757,
+ "proxima_linha_marcas": 984,
+ "ultima_versao": 759,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13112,6 +13112,45 @@
    "passadas": "Hult 1: 11/7 (catálogo fechado); Humbert-Droz 1: 31/61; Humism 1: 20/10",
    "site_bloqueado": "Sim (humbert-droz.fr, humism.com PROVENANCE; hultwatches.com parcial)",
    "obs": "Hult retomada do parcial da v756. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente. Humism 42 mm Kato/Rhizome (2023) só em 1 fonte, não gravados."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 758,
+   "marcas": [
+    "Hyetis",
+    "Hygge Watches"
+   ],
+   "linhas_relogios": "114795-114830",
+   "relogios": {
+    "Hyetis": 5,
+    "Hygge Watches": 31
+   },
+   "vermelho": false,
+   "fontes": {
+    "Hyetis": 17,
+    "Hygge Watches": 36
+   },
+   "passadas": "Hyetis 1: 17/5; Hygge 1: 36/31",
+   "site_bloqueado": "Hygge: hyggewatches.com PROVENANCE (L gravada); Hyetis sem site ativo",
+   "obs": "Huo Feile adiada (nenhuma fonte). Hysek (próxima) tratada como grande, fica sozinha na próxima execução. Correções Hygge: B, D, I. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 759,
+   "marcas": [
+    "Hysek"
+   ],
+   "linhas_relogios": "114831-114957",
+   "relogios": {
+    "Hysek": 127
+   },
+   "vermelho": true,
+   "fontes": {
+    "Hysek": 127
+   },
+   "passadas": "1: 91/78; 2: 18/5; 3: 18/7",
+   "site_bloqueado": "Sim (hysek.com PROVENANCE)",
+   "obs": "Marca grande, vermelha. Inclui fase Jorg Hysek (Kilada, Anegada, X-Ray, V-King). thewatchpages.com e masterhorologer.com com client_error (só títulos de busca); EveryWatch exige login. Firecrawl sem uso; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
