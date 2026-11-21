@@ -1,0 +1,477 @@
+{
+ "marca": "Hublot",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – hublot.com/en-us/watches deu PROVENANCE na tentativa direta; fichas de produto abriram via busca; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios (v755, 21/11/2026): catálogo enorme (WatchBase 403 modelos atuais; Essential Watches ~2.000 anúncios; Watchonista 29 páginas); entraram 665 relógios em 3 passadas, marca pintada de vermelho porque faltam muitas referências antigas e edições limitadas. Ainda a verificar: I diz 'fundada em Nyon' — os mostradores antigos dizem 'MDM Genève' (a marca nasceu em Genebra e depois foi para Nyon), sem fonte aberta que confirme.",
+ "fontes": [
+  {
+   "url": "https://www.hublot.com/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/sitemap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/hublot",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hublot/watches/?paging=21",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hublot/watches/?paging=22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hublot/watches/?paging=23",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hublot/watches/?paging=24",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/hublot-allwatches",
+   "passada": 1,
+   "novos": 200
+  },
+  {
+   "url": "https://essential-watches.com/Hublot",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/en-us/watches/big-bang/big-bang-unico-white-ceramic-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfinder.co.uk/Hublot/watches/all",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://handt.co.uk/collections/pre-owned-hublot-watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://handt.co.uk/collections/pre-owned-hublot-watches?page=2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.5dwatches.com/shop/hublot?page=11",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://exquisitetimepieces.com/pre-owned-watches/hublot.html",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hublot.html?page=6",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hublot/",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://www.bqwatches.com/product-category/Hublot",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/pre-owned-hublot-big-bang",
+   "passada": 1,
+   "novos": 27
+  },
+  {
+   "url": "https://collectorsquare.com/en/luxprice-index-watches/hublot.html",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://collectorsquare.com/en/luxprice-index-watches/hublot-big-bang-prices.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.hublot.com/en-us/watches/big-bang/big-bang-unico-king-gold-pave-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-us/watches/big-bang/square-bang-unico-black-magic-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-gb/watches/big-bang/big-bang-unico-essential-grey-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/watches/classic-fusion/classic-fusion-ceramic-blue-45-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-int/watches/big-bang/big-bang-unico-titanium-42-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://handt.co.uk/collections/pre-owned-hublot-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/pre-owned-watches/hublot.html?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.crownandcaliber.com/watches/hublot/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/en-hk/watches/big-bang/spirit-of-big-bang-titanium-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-sg/watches/big-bang/spirit-of-big-bang-titanium-coal-blue-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-ch/watches/big-bang/spirit-of-big-bang-titanium-white-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-au/watches/big-bang/spirit-of-big-bang-essential-taupe-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-ch/watches/big-bang/spirit-of-big-bang-dark-green-ceramic-42-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/en-th/watches/big-bang/spirit-of-big-bang-carbon-white-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-gb/watches/exceptional-timepieces/mp-10-tourbillon-sapphire-41-5-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hublot.com/en-hk/watches/mp/mp-10-tourbillon-titanium-41-5-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/en-ph/news/mp-13-new-100-hublot-manufacture-complication-double-axis-tourbillon-and-dual-retrograde",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/en-dk/news/big-bang-mp-11-magic-gold-blue-sapphire",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hublot.com/en-se/big-bang-20th-anniversary-homepage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/en-ca/watches/classic-fusion/classic-fusion-chronograph-titanium-blue-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-int/watches/classic-fusion/classic-fusion-chronograph-titanium-rubber-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-int/watches/classic-fusion/classic-fusion-chronograph-king-gold-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-int/watches/classic-fusion/classic-fusion-chronograph-black-magic-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-int/watches/classic-fusion/classic-fusion-chronograph-king-gold-blue-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hublot.com/en-lu/watches/classic-fusion/classic-fusion-ceramic-blue-chronograph-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hublot.com/en-ru/watches/classic-fusion/classic-fusion-chronograph-titanium-green-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hublot.com/en-no/watches/classic-fusion-king-gold-green-42-mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=26712",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://timeandtidewatches.com/hublot-big-bang-20th-anniversary/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/first-look-hublot-big-bang-unico-summer-2025-skeleton-chronograph-ceramic-blue-orange-specs-live-pics-price",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hublot.com/en-ca/news/hublot-unveils-classic-fusion-chronograph-bronze-brown-us-e-commerce-exclusive-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hublot.com/en-pl/news/hublot-unveils-its-first-trio-of-vibrant-hues-spirit-of-big-bang-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.hublot.com/en-au/news/hublot-ambassador-and-football-champion-kylian-mbappe-unveils-new-classic-fusion-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/watch/Hublot-709.ZM.1770.RX-King-Power-Big-Bang-Limited-Edition-56049.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://europeanwatch.com/watch/hublot-731qx1140rx-king-power-oceanographic-musee-monaco-4000m-48-57942",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/Hublot-King-Power-732-OE-2180-RW.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://grailzee.com/products/hublot-king-power-limited-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.getbezel.com/watches/hublot/big-bang-king-power-limited-edition/ref-709.ci.1770.rx/id-14404",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hublot/king-power/king-power-748.ci.1119.pr.kob13/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchfinder.com/Hublot/King%20Power/716.CI.0123.RX.PSG14/54099/item/213889",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://exquisitetimepieces.com/pre-owned-hublot-king-power-oceanographic-1000-king-gold-chronograph.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/hublot-king-power-watch",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.chronext.com/hublot/king-power",
+   "passada": 2,
+   "novos": 11
+  },
+  {
+   "url": "https://www.blowers-jewellers.co.uk/hublot-watches/king-power",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/hublot/king-power/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/hublot/2012/",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hublot/watches/?paging=25",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchonista.com/brands/hublot/watches/?paging=26",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/hublot-mdm-watch",
+   "passada": 2,
+   "novos": 37
+  },
+  {
+   "url": "https://www.ebay.com/shop/hublot-mdm",
+   "passada": 2,
+   "novos": 22
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/1990s-hublot-classic-mdm-geneve-quartz-36mm-1521",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/product/hublot-classic-mdm-depose-black-dial-steel-quartz-watch-1521-1/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://shop.getbezel.com/watches/hublot/mdm-chronograph-40-steel-black--strap/ref-1810.1/id-31287",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/hublot-mdm-geneve-modele-depose-automatic-watch-1810/id-j_8011312/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://deployant.com/?p=5150",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://lacotedesmontres.com/en/Hublot-Big-Bang-Ferrari-Carbon-Red-Magic-Big-Bang-Ferrari-King-Gold-Carbon-Big-Bang-Ferrari-Ceramic-watches-The-great-step-forward-No_9572.htm",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://fratellowatches.com/hublot-big-bang-ferrari-speciale",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/hublot-big-bang-ferrari-401-nm-0123-vr-eng13-review/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/hublot-401nj0123vr-big-bang-unico-ferrari-titanium-carbon-skeleto-66939",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2016/11/ferrari-hublot-big-bang-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/20046237935",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://grayandsons.com/w521601-hublot-aero-bang-42mm-311ci1170gr/",
+   "passada": 3,
+   "novos": 9
+  },
+  {
+   "url": "https://shop.getbezel.com/watches/hublot/big-bang-aero-bang-%22kool-blue%22-44-steel-blue-skeletonized-strap---limited-to-25-pieces/ref-311.sx.5190.gr.tpc11/id-30773",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://grayandsons.com/w526579-hublot-big-bang-aero-44mm-311sx2010gr/",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.phillips.com/detail/hublot/150037",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/hublot/150042",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/page-c.collection.detail.e/brand-Hublot/ref-310/eid-52054/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thehourglass.com/story/hublot-mp-collectors-guide",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/hublot/masterpieces.html",
+   "passada": 3,
+   "novos": 22
+  },
+  {
+   "url": "https://swisswatches-magazine.com/the-hublot-masterpiece-collection-highlights/",
+   "passada": 3,
+   "novos": 7
+  },
+  {
+   "url": "https://essential-watches.com/Hublot/Masterpiece-Series",
+   "passada": 3,
+   "novos": 14
+  },
+  {
+   "url": "https://hublot.com/en-hu/news/mp-09-new-coloured-3d-carbon-and-its-tourbillon-bi-axis",
+   "passada": 3,
+   "novos": 5
+  }
+ ]
+}
