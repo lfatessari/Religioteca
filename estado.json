@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 988,
- "ultima_versao": 761,
+ "ultima_versao": 762,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13193,6 +13193,15 @@
    "passadas": "1 passada cada (HZ 28/21, Ianos 48/12, Ibarra 51/69)",
    "site_bloqueado": "Não (home direta PROVENANCE pelo ajudante, mas páginas vindas de busca abriram)",
    "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "versao": 762,
+   "data": "2026-11-21",
+   "tipo": "posts",
+   "marcas": [
+    "a.b.art"
+   ],
+   "obs": "D, I e M (acréscimo) do post de 21/11/2026, item A5 do agendamento"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13301,7 +13310,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T11:43:50Z",
- "ultimo_sinal": "2026-11-21T11:43:50Z",
+ "ultimo_sinal": "2026-11-21T11:48:35Z",
  "em_andamento": {
   "marcas": [
    "Ice Watch"
