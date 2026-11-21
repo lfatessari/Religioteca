@@ -13118,11 +13118,10 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T02:43:25Z",
- "ultimo_sinal": "2026-11-21T02:43:25Z",
+ "ultimo_sinal": "2026-11-21T03:01:21Z",
  "em_andamento": {
   "marcas": [
    "Horage",
-   "HoraPictor",
    "Horizon"
   ],
   "linha_marcas": 964,
@@ -13130,7 +13129,15 @@
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
   "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "passada": 1,
+  "obs": "HoraPictor provavelmente adiada (só 2 fontes); Horloscaphe em avaliação"
  }
 }
