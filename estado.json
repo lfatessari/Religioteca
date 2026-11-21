@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 996,
- "ultima_versao": 767,
+ "proxima_linha_marcas": 997,
+ "ultima_versao": 768,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13302,6 +13302,24 @@
    "passadas": "1: 18/11",
    "site_bloqueado": "Não (home PROVENANCE na tentativa direta; páginas de produto vindas de busca abriram pelo ajudante web-fetch)",
    "obs": "Marca pequena; Illinois (próxima) é grande e fica sozinha para a próxima execução. Firecrawl sem créditos. Ferramenta Projects ausente; sem pendências de posts no item A5."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 768,
+   "marcas": [
+    "Illinois"
+   ],
+   "linhas_relogios": "116209-116310",
+   "relogios": {
+    "Illinois": 102
+   },
+   "vermelho": true,
+   "fontes": {
+    "Illinois": 120
+   },
+   "passadas": "1: 102/98; 2: 18/4",
+   "site_bloqueado": "Não (marca histórica sem site oficial)",
+   "obs": "Marca grande e vermelha (vintage 1870-1932 + Hamilton-Illinois anos 1950). Pulso com nome, graus de bolso com nome e marcas próprias feitas pela Illinois (Washington Watch Co., Burlington, Santa Fe, Sears etc.). Cerca de 45 linhas só com link de página/texto. Firecrawl sem créditos. Ferramenta Projects ausente; sem pendências no item A5."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13408,31 +13426,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T17:43:47Z",
- "ultimo_sinal": "2026-11-21T18:01:35Z",
- "em_andamento": {
-  "marcas": [
-   "Illinois"
-  ],
-  "linha_marcas": 997,
-  "grande": true,
-  "relogios": "historico/parcial_Illinois_relogios.txt",
-  "fontes": "historico/parcial_Illinois_fontes.txt",
-  "notas": "historico/notas_Illinois.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10"
-  ],
-  "passada": 2
- }
+ "adiadas_obs": {}
 }
