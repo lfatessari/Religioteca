@@ -13328,7 +13328,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T12:44:18Z",
- "ultimo_sinal": "2026-11-21T12:44:18Z",
+ "ultimo_sinal": "2026-11-21T12:56:55Z",
  "em_andamento": {
   "marcas": [
    "Icelink",
@@ -13339,8 +13339,12 @@
   "grande": false,
   "relogios": "historico/parcial_<marca>_relogios.txt",
   "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
+  "notas": "historico/notas_Icelink_Ichnos_IDGeneve.md",
+  "secoes_feitas": [
+   "IDG: 1,2,3,5,7,9 (~30 fontes)",
+   "Icelink: 1,3,8,9 parcial",
+   "Ichnos: 3,9 parcial (6 fontes)"
+  ],
   "passada": 1,
   "obs": "ICON (992) avaliada à parte: homônima, provável adiamento"
  }
