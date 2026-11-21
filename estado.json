@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 995,
- "ultima_versao": 765,
+ "ultima_versao": 766,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13266,6 +13266,24 @@
    "passadas": "1: 45/199; 2: 10/0",
    "site_bloqueado": "Não (home PROVENANCE pelo ajudante; loja inteira aberta pelo Firecrawl via products.json)",
    "obs": "Marca grande e vermelha (customizadora). Só os relógios customizados pela IFL; revenda pura de outras marcas excluída. Firecrawl com créditos (~110 usados). Pendências de posts: ferramenta Projects ausente; A5 (a.b.art) já estava aplicado."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 766,
+   "marcas": [
+    "Ikepod"
+   ],
+   "linhas_relogios": "116052-116197",
+   "relogios": {
+    "Ikepod": 146
+   },
+   "vermelho": true,
+   "fontes": {
+    "Ikepod": 208
+   },
+   "passadas": "1: 151/169; 2: 41/15; 3: 16/5",
+   "site_bloqueado": "Não (ikepod.com abriu pelo ajudante web-fetch; algumas páginas deram limite de velocidade ou PROVENANCE e foram puladas)",
+   "obs": "Marca grande e vermelha (peças Gen1/Gen2 sem referência publicada). Firecrawl sem créditos (renova 22/11 13:43 UTC). Pendências de posts: ferramenta Projects ausente; item A5 (a.b.art) já estava aplicado (v762)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13372,32 +13390,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T15:43:46Z",
- "ultimo_sinal": "2026-11-21T16:06:05Z",
- "em_andamento": {
-  "marcas": [
-   "Ikepod"
-  ],
-  "linha_marcas": 995,
-  "grande": true,
-  "relogios": "historico/parcial_Ikepod_relogios.txt",
-  "fontes": "historico/parcial_Ikepod_fontes.txt",
-  "notas": "historico/notas_Ikepod.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a passada"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }

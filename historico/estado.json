@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 995,
- "ultima_versao": 765,
+ "ultima_versao": 766,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13266,6 +13266,24 @@
    "passadas": "1: 45/199; 2: 10/0",
    "site_bloqueado": "Não (home PROVENANCE pelo ajudante; loja inteira aberta pelo Firecrawl via products.json)",
    "obs": "Marca grande e vermelha (customizadora). Só os relógios customizados pela IFL; revenda pura de outras marcas excluída. Firecrawl com créditos (~110 usados). Pendências de posts: ferramenta Projects ausente; A5 (a.b.art) já estava aplicado."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 766,
+   "marcas": [
+    "Ikepod"
+   ],
+   "linhas_relogios": "116052-116197",
+   "relogios": {
+    "Ikepod": 146
+   },
+   "vermelho": true,
+   "fontes": {
+    "Ikepod": 208
+   },
+   "passadas": "1: 151/169; 2: 41/15; 3: 16/5",
+   "site_bloqueado": "Não (ikepod.com abriu pelo ajudante web-fetch; algumas páginas deram limite de velocidade ou PROVENANCE e foram puladas)",
+   "obs": "Marca grande e vermelha (peças Gen1/Gen2 sem referência publicada). Firecrawl sem créditos (renova 22/11 13:43 UTC). Pendências de posts: ferramenta Projects ausente; item A5 (a.b.art) já estava aplicado (v762)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
