@@ -8,3 +8,4 @@
 - Decisões: H0 Khaki = H0 Red Khaki (H02138-A); H5 Blue = H5 Blue Fluid; H0 Gold (2 páginas no Watchonista) entrou uma vez só.
 - 1ª passada encerrada com 92 fontes (últimas ~10 sem novidade). Decisão: VERMELHA — Watchonista p5-6 (H1/H2/H4 antigos) fora das buscas; ~60 linhas só com link de página; EveryWatch exige login ("Only Collectors"); thewatchpages travado; site oficial PROVENANCE; muitas variantes H1/H4/Skull com códigos 148-/151-/512- sem lista completa.
 - 2ª passada: atrás de Watchonista p5-6, variantes H4 (Hercules? Metropolis, Neo, Dragon), Skull (Maori, 48.8), H1 (Classic, Evo, TB, colorblock), H2 (Aviator, Neo), códigos 148-/151-/512- em lojas e leilões.
+- 2ª passada: buscas site:thewatchpages.com trouxeram 7 códigos novos só por título (H1.0 H02021, H20 251-AD-468/461/462, 251-AC-46, H02390, H0 048-DL-93) — contados nos novos da busca, não como fonte aberta.
