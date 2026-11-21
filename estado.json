@@ -13259,17 +13259,22 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T09:43:15Z",
- "ultimo_sinal": "2026-11-21T09:43:15Z",
+ "ultimo_sinal": "2026-11-21T09:52:14Z",
  "em_andamento": {
   "marcas": [
    "HYT"
   ],
   "linha_marcas": 985,
-  "grande": null,
+  "grande": true,
   "relogios": "historico/parcial_HYT_relogios.txt",
   "fontes": "historico/parcial_HYT_fontes.txt",
   "notas": "historico/notas_HYT.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
   "passada": 1
  }
 }
