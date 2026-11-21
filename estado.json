@@ -13326,5 +13326,22 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-21T12:44:18Z",
+ "ultimo_sinal": "2026-11-21T12:44:18Z",
+ "em_andamento": {
+  "marcas": [
+   "Icelink",
+   "Ichnos",
+   "ID Genève"
+  ],
+  "linha_marcas": 990,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "obs": "ICON (992) avaliada à parte: homônima, provável adiamento"
+ }
 }
