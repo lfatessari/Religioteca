@@ -13160,7 +13160,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-21T04:43:17Z",
-  "ultimo_sinal": "2026-11-21T05:00:04Z",
+  "ultimo_sinal": "2026-11-21T05:03:14Z",
   "em_andamento": {
     "marcas": [
       "Hublot"
@@ -13173,10 +13173,12 @@
     "secoes_feitas": [
       "1",
       "2",
+      "2c",
       "3",
       "5",
       "7",
-      "8"
+      "8",
+      "9"
     ],
     "passada": 1
   }
