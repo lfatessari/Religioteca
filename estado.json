@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 959,
- "ultima_versao": 751,
+ "proxima_linha_marcas": 963,
+ "ultima_versao": 752,
  "historico": [
   {
    "data": "2026-10-16",
@@ -12986,6 +12986,30 @@
    "passadas": "Hoffman 1: 46/31; Höglund 1: 16/12; Holgar 1: 32/27",
    "site_bloqueado": "Parcial (hoglundandsonswatches.com: página inicial PROVENANCE)",
    "obs": "Correções na aba Marcas: Hoffman G/H; Höglund H; Holgar B/C/D/G/H/I/J (mesma marca que Holgar Swiss). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 752,
+   "marcas": [
+    "Holthinrichs",
+    "Hook + Gaff",
+    "Hoptroff"
+   ],
+   "linhas_relogios": "113752-113818",
+   "relogios": {
+    "Holthinrichs": 34,
+    "Hook + Gaff": 20,
+    "Hoptroff": 13
+   },
+   "vermelho": false,
+   "fontes": {
+    "Holthinrichs": 46,
+    "Hook + Gaff": 24,
+    "Hoptroff": 20
+   },
+   "passadas": "Holthinrichs 1: 46/40; Hook + Gaff 1: 24/20; Hoptroff 1: 20/15",
+   "site_bloqueado": "Sim (holthinrichswatches.com, hookandgaff.com, hoptroff.com: PROVENANCE na tentativa direta)",
+   "obs": "Hooke & Huygens adiada (só 1 fonte, sem modelos). Correções na aba Marcas: Hoptroff D/I/J (No.10 é de bolso). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13092,22 +13116,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T01:43:12Z",
- "ultimo_sinal": "2026-11-21T01:51:52Z",
- "em_andamento": {
-  "marcas": [
-   "Holthinrichs",
-   "Hook + Gaff",
-   "Hoptroff"
-  ],
-  "linha_marcas": 960,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_fontes.txt",
-  "notas": "historico/notas_bateria.md",
-  "secoes_feitas": [],
-  "passada": 1,
-  "obs": "Hooke & Huygens adiada (só 1 fonte sem modelos)"
- }
+ "adiadas_obs": {}
 }

@@ -29,6 +29,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Hooke & Huygens": "só 1 fonte sobre a marca (FH/fhs.swiss 2023, 'Birth of Hooke & Huygens': relógios de ouro com gema central e movimento próprio, sem nomes de modelos); masterhorologer.com/hooke-huygens-watches dá client_error; 2 buscas sem mais nada; aba Marcas sem site nem país; Firecrawl sem créditos (adiada em 21/11/2026, v752) — refazer com Firecrawl/navegador",
     "Hirsch": "não faz relógios (maior fabricante de pulseiras de couro do mundo; a própria aba Marcas diz 'não é marca de relógios' e F/J só têm pulseiras) (adiada em 20/11/2026, v748) — usuário decide se fica na lista",
     "Heure Raffinee": "nenhuma fonte sobre a marca: buscas '\"Heure Raffinee\" watch' e '\"Heure Raffinée\" montres marque instagram' só trouxeram Hermès Heure H, Vacheron Heures Créatives e lojas genéricas; aba Marcas sem site, Instagram, país nem cidade (a fase Marcas também não achou nada) (adiada em 20/11/2026, v747) — usuário decide se fica na lista",
     "Hilli Watches": "nenhuma fonte sobre a marca: busca '\"Hilli\" watches hilliwatches' só trouxe Hilts, Hesili e homônimos; aba Marcas sem site nem país, só o Instagram @hilliwatches (fase Marcas também não achou nada) (adiada em 20/11/2026, v747) — usuário decide se fica na lista",
