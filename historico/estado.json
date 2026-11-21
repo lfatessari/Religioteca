@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 988,
- "ultima_versao": 761,
+ "proxima_linha_marcas": 989,
+ "ultima_versao": 763,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13193,6 +13193,33 @@
    "passadas": "1 passada cada (HZ 28/21, Ianos 48/12, Ibarra 51/69)",
    "site_bloqueado": "Não (home direta PROVENANCE pelo ajudante, mas páginas vindas de busca abriram)",
    "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "versao": 762,
+   "data": "2026-11-21",
+   "tipo": "posts",
+   "marcas": [
+    "a.b.art"
+   ],
+   "obs": "D, I e M (acréscimo) do post de 21/11/2026, item A5 do agendamento"
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 763,
+   "marcas": [
+    "Ice Watch"
+   ],
+   "linhas_relogios": "115218-115697",
+   "relogios": {
+    "Ice Watch": 480
+   },
+   "vermelho": true,
+   "fontes": {
+    "Ice Watch": 173
+   },
+   "passadas": "1: 126/414; 2: 25/40; 3: 22/24",
+   "site_bloqueado": "Não (home PROVENANCE pelo ajudante; produtos/coleções vindas de busca abriram)",
+   "obs": "Marca grande, vermelha. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. mastersintime deu rate limit em 16 páginas históricas. Pendências de posts (A4): ferramenta Projects ausente; A5 (a.b.art) aplicado na v762."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

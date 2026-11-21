@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 988,
- "ultima_versao": 762,
+ "proxima_linha_marcas": 989,
+ "ultima_versao": 763,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13202,6 +13202,24 @@
     "a.b.art"
    ],
    "obs": "D, I e M (acréscimo) do post de 21/11/2026, item A5 do agendamento"
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 763,
+   "marcas": [
+    "Ice Watch"
+   ],
+   "linhas_relogios": "115218-115697",
+   "relogios": {
+    "Ice Watch": 480
+   },
+   "vermelho": true,
+   "fontes": {
+    "Ice Watch": 173
+   },
+   "passadas": "1: 126/414; 2: 25/40; 3: 22/24",
+   "site_bloqueado": "Não (home PROVENANCE pelo ajudante; produtos/coleções vindas de busca abriram)",
+   "obs": "Marca grande, vermelha. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. mastersintime deu rate limit em 16 páginas históricas. Pendências de posts (A4): ferramenta Projects ausente; A5 (a.b.art) aplicado na v762."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13308,32 +13326,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T11:43:50Z",
- "ultimo_sinal": "2026-11-21T12:18:04Z",
- "em_andamento": {
-  "marcas": [
-   "Ice Watch"
-  ],
-  "linha_marcas": 989,
-  "grande": true,
-  "relogios": "historico/parcial_Ice_Watch_relogios.txt",
-  "fontes": "historico/parcial_Ice_Watch_fontes.txt",
-  "notas": "historico/notas_Ice_Watch.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a passada"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }

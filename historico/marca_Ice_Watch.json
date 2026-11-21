@@ -1,0 +1,877 @@
+{
+ "marca": "Ice Watch",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 21/11/2026 (v763): 480 linhas, marca grande e pintada de vermelho. As referências da Ice-Watch são números de 6 dígitos (000037 a 026480, mais a linha Swiss made 700xxx/701xxx) e há milhares; ficaram de fora a maior parte das cores e tamanhos das coleções antigas (2007–2018) e as páginas 2 em diante das lojas, que não apareceram nas buscas. A página inicial ice-watch.com não abre na leitura automática (PROVENANCE), mas as páginas de produto e coleção vindas de busca abrem. K continua vazio: nenhuma página aberta mostrou o arquivo do logo. H @icewatch confere com o rodapé do site oficial (instagram.com/icewatch). I: fundação em 2007 em Bastogne por Jean-Pierre Lutgen confirmada por The Star (jun/2026, que fala em mais de 25 milhões de relógios vendidos e cerca de 12.000 pontos de venda em ~100 países) e pela ficha do GPHG (ICE forever lançado em 2007); a loja First Class Watches diz 2006 — conferir. Colaboração com a Disney (citada em I) não foi encontrada; achadas BMW Motorsport (2013), Pantone Universe (2013), Coca-Cola (2021), Martine (2024), Tintim, Paul & Joe e Babyatoutprix.",
+ "fontes": [
+  {
+   "url": "https://www.ice-watch.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-forever-black",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/women-iconic-watches/products/ice-forever-white",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-lo-white-pink-s37",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-watches.oembed",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.watchnation.com/it/collections/ice-boliday.oembed",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://watch.co.uk/ice-watch",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://watch.co.uk/historical-000778.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000780.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/ice-watches-c-584",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nywatchstore.com/ice.html",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://azuline.com/en/collections/ice-watch",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://www.watchonista.com/brands/ice-watch/watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.myer.com.au/b/ICE-Watch",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.argos.co.uk/sd/ice-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.argos.co.uk/sd/ice-watch/opt/page:2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/ice-power-pw6.oembed",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/automatic-watches.oembed",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/swiss-made-for-women.oembed?page=2",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/ice-smart-2-0",
+   "passada": 1,
+   "novos": 27
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/ice-smart-two",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/ice-art-deco",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/montres-hommes-chrono",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-world.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchnation.com/it/collections/ice-glam.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-glam-colour.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-cosmos.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchnation.com/de/collections/ice-duo-chic.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-digit-retro.oembed",
+   "passada": 1,
+   "novos": 29
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-smart-2-0-1-98.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-smart-2-0-1-96.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/it/collections/ice-smart-2-0-1-7.oembed",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-smart-2-0-1-2.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchnation.com/es/collections/ice-smart-2-0-1-97.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-glam-white-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/ice-glitter/products/ice-glitter-white-pink",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-glam-colour-red",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-chrono-black-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-steel-marine-silver",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/bewatch-blue-white-41-mm",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-boliday-steel-large-black-blue-silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-smart-one-silver-navy-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/all-watches/products/ice-smart-3-0-rectangular-1-78-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/ice/products/ice-wild-black-gold-zebra",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-smart-two-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-chrono-trilogy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/ice-cartoon",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/ice-dome",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/ice-cosmos/products/ice-cosmos-apricot",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/kids-watches/products/ice-fantasia-babyatoutprix-dragon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-horizon-nude",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-flower-blue-aura",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-fantasia-white-mermaid",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000037.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-si-sun-u-s-13.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000044.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000165.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000220.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000174.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/historical-000506.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000510.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000215.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000037.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-019140.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000966.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000147.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000150.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000130.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000140.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/women-watches/products/ice-champagne-blue-aura",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-tie-and-dye-coral",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-martine-fete-maman",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-digit-retro-babyatoutprix-pink-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-cosmos-star-deep-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/women-watches/products/ice-horizon-verdigris",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-fantasia-butterfly-bloom",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/kids-watches/products/ice-cartoon-butterfly",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-glitter-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1004086484-ice-watch-presents-its-bmw-motorsport-collection.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/news/1004086303-new-models-in-the-ice-watch-pantone-universe.html",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.europastar.com/1004086019.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004086419.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=33215",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=49189",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=4420",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=7742",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=43709",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/ice-steel-blue-cosmos-silver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://paulandjoe.com/en/products/paul-joe-x-ice-watch-crisanth",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://paulandjoe.com/en/products/paul-joe-x-ice-watch-nounette",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://paulandjoe.com/en/products/pj7730-04niw",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://leebmann24.com/li/en/product/bmw-motorsport-ice-watch-blue-10010521",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drop.com/buy/ice-watch-bmw-motorsport-quartz-watch?sort=votes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/accessories/ice-watch-watches-1818/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/inspiration/collectors-item-ice-watch-x-coca-cola",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/ice-learning",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-mimi-silver-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-mimi-square-gold-camel",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-solar-power-nature",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-digit-explorer-white-orange",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-ola-kids-adventure",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-hero-aqua-fairy",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-boliday-glacier-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-digit-retro-white-majestic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-mimi-rose-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-mimi-gold-pink",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-mimi-silver-turquoise",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-mimi-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-mimi-silver-gold-olive",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/collections/women-watches/products/ice-mimi-square-neon-yellow",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-solar-power-polar",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-solar-power-coral-reef",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-solar-power-nature-numbers-mesh",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-ola-kids-captain",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-ola-kids-robot",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-ola-kids-candy-fuschia",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-ola-kids-fairy-tale",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-hero-blue-raptor",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-digit-explorer-white-pink",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-learning-blue-learning-xs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-learning-light-blue-rainbow-xs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-learning-green-dinosaur-xs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-learning-blue-shark",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-learning-blue-space-xs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/ice-watch-damenuhr-ice-mimi-bicolor-025537/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/ice-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nywatchstore.com/icewatchesmens.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ice-watch/mens/",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://watchard.com/ice-watches-01/ice-watch-mens-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theiconic.com.au/mens-ice-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theiconic.com.au/ice-watch/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.stylight.com/Ice-Watch/Watches/",
+   "passada": 2,
+   "novos": 18
+  },
+  {
+   "url": "https://watch.co.uk/historical-000626.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000636.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000641.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000629.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-001065-1.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000548.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-022707.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000515.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-000635.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-017731.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004085112.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004084961.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1004085586-ice-watch-online-shop.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=8081",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.beaverbrooks.co.uk/0001944/IceWatch-IceAlu-Aluminium-Watch/p",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-martine-cadichon",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-martine-rat-opera",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/ice-watch-ice-glam-brushed-orchid-34mm-pink-dial-pink-silicone-strap-020540-p-147124",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thestar.com.my/lifestyle/style/2026/06/15/shaking-up-the-watch-scene",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-000334.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000501.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000214.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-015325.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-000553.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-007266.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-014228.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-014238.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-014239.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-013619.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-014902.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/all-watches/products/ice-glitter-fuschia-pink",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/all-watches/products/ice-glitter-quiet-tide",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-glitter-orange-summer",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-glitter-lilac-cosmic",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/women-iconic-watches/products/ice-glitter-pink-cosmic",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/collections/ice-glitter/products/ice-glitter-black-rose-gold",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-glitter-black-s37",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-glitter-white-infinity",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-sixty-nine-dark-blue",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ice-watch.com/en/products/ice-generation-red",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ice-watch.com/en/products/ice-clear-sunset-turquoise",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}
