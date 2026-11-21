@@ -13139,12 +13139,11 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-21T03:44:05Z",
- "ultimo_sinal": "2026-11-21T03:44:05Z",
+ "ultimo_sinal": "2026-11-21T03:54:23Z",
  "em_andamento": {
   "marcas": [
    "Horon",
-   "Horpa Watches",
-   "Hotblack London"
+   "HTD Watches"
   ],
   "linha_marcas": 968,
   "grande": false,
@@ -13153,6 +13152,6 @@
   "notas": "historico/notas_<marca>.md",
   "secoes_feitas": [],
   "passada": 1,
-  "obs": "Horus adiada (não faz relógios, só pulseiras)."
+  "obs": "Horus adiada (só pulseiras); Horpa adiada (site PROVENANCE, poucas fontes); Hotblack London = linha da Hoptroff (modelos já gravados sob Hoptroff na v752) → apelido; Hrotsky sem fontes em busca."
  }
 }
