@@ -1,0 +1,222 @@
+{
+ "marca": "Huizen Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – huizenwatches.com: PROVENANCE na tentativa direta; páginas 2 e 3 de collections/all e best-sellers (≈30 produtos) não alcançadas; revisitar com navegador/Firecrawl",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios (21/11/2026, v756): 106 modelos gravados; a loja oficial diz ter 139 produtos (2 são acessórios), mas as páginas 2 e 3 da lista não abriram (Firecrawl sem créditos), então faltam cerca de 30 — marca vermelha. Os códigos HUI são o próprio nome de cada modelo no site.",
+ "fontes": [
+  {
+   "url": "https://huizenwatches.com/collections/view-all",
+   "passada": 1,
+   "novos": 35
+  },
+  {
+   "url": "https://huizenwatches.com/collections/homage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui092",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/huizen-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://huizenwatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/collections/signature",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui122",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui126",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui137",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui017",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/collections/all",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://huizenwatches.com/collections/frontpage",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://huizenwatches.com/pages/custom",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui062",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui129",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/collections/best-sellers",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui066",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui054",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui052-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui104-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui123",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/collections/accessories",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui069",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui042",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui048",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui061",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui127",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://huizenwatches.com/pages/testimonials",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/collections/traditionell",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.app/products/8740249895150/traditionell-small-seconds",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui007-s-mechanisch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui008-s-mechanisch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui003-s-exotisch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui003-s",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui006-sb",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui118",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui117",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui136",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://huizenwatches.com/products/hui080",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

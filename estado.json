@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 975,
- "ultima_versao": 755,
+ "proxima_linha_marcas": 978,
+ "ultima_versao": 756,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13070,6 +13070,24 @@
    "passadas": "Hublot 1: 54/485; 2: 21/105; 3: 18/75",
    "site_bloqueado": "Parcial (hublot.com/en-us/watches PROVENANCE na tentativa direta)",
    "obs": "Marca grande sozinha. Vermelha: milhares de referências (WatchBase 403 atuais; Essential Watches ~2.000 anúncios). Complemento futuro: páginas 1-20 e 27-29 da Watchonista (fichas), WatchBase por família (client_error), Essential Watches por família (Big Bang 646, Classic Fusion 666, King Power 117…), Chrono24, fotos das ~250 linhas só com link. Firecrawl não testado (sem créditos nas últimas execuções); WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-21",
+   "versao": 756,
+   "marcas": [
+    "Huizen Watches"
+   ],
+   "linhas_relogios": "114611-114716",
+   "relogios": {
+    "Huizen Watches": 106
+   },
+   "vermelho": true,
+   "fontes": {
+    "Huizen Watches": 42
+   },
+   "passadas": "Huizen Watches 1: 31/104; 2: 11/0",
+   "site_bloqueado": "Parcial (huizenwatches.com: PROVENANCE na tentativa direta; páginas 2-3 da loja não alcançadas)",
+   "obs": "Marca grande sozinha. Huguenot Watches adiada (site robots; marca real irlandesa). Hult Watch Company pesquisada em parte (7 modelos, 11 fontes): ver historico/parcial_Hult_*.txt. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências de posts (A4): ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13164,7 +13182,8 @@
   "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json).",
   "Harry Winston (linha 913)": "Gravada em 19/11/2026 (v727), 431 relógios (109929-110359), vermelha. Complemento futuro com Firecrawl: harrywinston.com/sitemap.xml (formato query, uma coleção por vez: premier, avenue, emerald, midnight, high-jewelry-timepieces, histoire-de-tourbillon-and-opus) para listar todas as referências; fotos pelo og:image das fichas (têm ?rev=hash).",
   "Henry Archer (linha 936)": "Gravada em 20/11/2026 (v739), 138 relógios, vermelha. Complemento futuro com Firecrawl: henryarcher.com/products.json, collections/womens-watches?page=2..6 (149 produtos), mens-watches e sekvens (JavaScript); fotos das ~25 linhas só com link de página.",
-  "HMNWatch (linha 955)": "Marca grande (41+ produtos vistos só em listas cruzadas, várias cores cada). Dimensionamento e endereços em historico/notas_HMNWatch.md (20/11/2026, v748)."
+  "HMNWatch (linha 955)": "Marca grande (41+ produtos vistos só em listas cruzadas, várias cores cada). Dimensionamento e endereços em historico/notas_HMNWatch.md (20/11/2026, v748).",
+  "Hult Watch Company (linha 978)": "Pesquisa começada em 21/11/2026 (v756) e não gravada: 7 modelos (Aquatique Marine Blue, Arctic White, Abyss Black, Forest Green; Aquatique GMT Graphite, Terra, Terra Two-Tone) e 9 fontes abertas em historico/parcial_Hult_relogios.txt e parcial_Hult_fontes.txt (acrescentar as 4 Aquatique: collections/aquatique, products/aquatique-marine-blue, watchcrunch mad4watches, home). Kickstarter/BackerKit e chronoscout dão client_error. Retomar daí; candidata a catálogo fechado."
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
@@ -13176,23 +13195,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-21T05:43:42Z",
- "ultimo_sinal": "2026-11-21T05:54:33Z",
- "em_andamento": {
-  "marcas": [
-   "Huizen Watches"
-  ],
-  "linha_marcas": 977,
-  "grande": true,
-  "relogios": "historico/parcial_Huizen_relogios.txt",
-  "fontes": "historico/parcial_Huizen_fontes.txt",
-  "notas": "historico/notas_Huguenot.md",
-  "secoes_feitas": [
-   "1",
-   "2"
-  ],
-  "passada": 1,
-  "obs": "Huguenot adiada (site robots); Huizen é grande (139 produtos) e vai sozinha; Hult com parcial salvo em historico/parcial_Hult_*.txt para a próxima execução"
- }
+ "adiadas_obs": {}
 }

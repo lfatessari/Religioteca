@@ -30,6 +30,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Huguenot Watches": "marca real parece ser a irlandesa Huguenot Watches/Huguenot Horology (huguenotwatches.com, Co. Wicklow), não sul-africana; huguenotwatches.com dá ROBOTS_UNREACHABLE em todas as páginas internas (só a home abriu); fora dele só 2 anúncios na notonthehighstreet (Noir e Legacy Premium, sem fotos); Firecrawl sem créditos (adiada em 21/11/2026, v756) — refazer com Firecrawl/navegador; notas em historico/notas_Huguenot.md",
     "Horus": "não faz relógios (Horus Straps, fabricante de pulseiras de luxo de Miami; a própria aba Marcas diz 'não é marca de relógios') (adiada em 21/11/2026, v754) — usuário decide se fica na lista",
     "Horpa Watches": "horpawatch.com dá PROVENANCE na tentativa direta e não aparece em busca; fora dele só Man's World India (C1, 45 mm) e The Established (C1 e linha de madrepérola 34 mm), sem fotos por modelo; 6 buscas; Firecrawl sem créditos (adiada em 21/11/2026, v754) — refazer com Firecrawl/navegador; notas em historico/notas_Horpa.md",
     "Hrotsky": "hrotsky.com dá PROVENANCE na tentativa direta; 2 buscas ('\"Hrotsky\" watches', Via Lactea/Flame Blue/De Bortoli) sem nenhum resultado da marca; Firecrawl sem créditos (adiada em 21/11/2026, v754) — refazer com Firecrawl/navegador",
