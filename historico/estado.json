@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1051,
- "ultima_versao": 795,
+ "proxima_linha_marcas": 262,
+ "ultima_versao": 796,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13817,6 +13817,39 @@
    "marcas": 6,
    "intervalo": "Rampart Studio a Yuen Watches",
    "obs": "2ª tentativa das 6 que sobraram da v794. Rampart Studio, Tophill e Yuen Watches preenchidas; Rewind, Seven Watches e Ukiyo sem marca própria achada (só lojas/homônimos), entraram só com M. fila.py: 0 → fase volta a relogios. Firecrawl sem créditos; ferramenta Projects ausente; pendências ACIZEM já aplicadas."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 796,
+   "marcas": [
+    "Avia"
+   ],
+   "linhas_relogios": "121218-121256",
+   "relogios": 39,
+   "detalhe": {
+    "Avia": {
+     "relogios": 39,
+     "fontes": 51,
+     "vermelho": true,
+     "grande": true,
+     "site_bloqueado": false,
+     "passadas": {
+      "1": [
+       28,
+       22
+      ],
+      "2": [
+       11,
+       16
+      ],
+      "3": [
+       12,
+       2
+      ]
+     }
+    }
+   },
+   "obs": "Adiadas antes de pesquisar a fundo (ADIADAS no proxima_marca.py): Aeon Watches (só o site oficial, 2 modelos, sem fonte externa), A&S Watch (nada achado) e AOS Watches (masterhorologer.com bloqueado e Firecrawl sem créditos; 30 relógios e 16 fontes já levantados em historico/parcial_AOS_*). Avia tratada como grande (vintage). Pendências ACIZEM já estavam aplicadas; ferramenta Projects ausente; Firecrawl sem créditos até 23/11 13:43 UTC."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
