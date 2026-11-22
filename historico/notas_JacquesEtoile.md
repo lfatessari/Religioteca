@@ -14,3 +14,4 @@ Pistas: 1stdibs Monaco Quadriga 3161; eBay.de itm 154787276479, 116465185514, 27
 - eBay.de itm: client_error (não repetir). Catawiki: veio página genérica. Europastar 1003576048 = Jacques Lemans (nada).
 - Infinity: "Bidynator" (mostrador setorizado, 43 mm original) citado; coleção Atelier.
 - ebay.com itm 287197961382 client_error. Logo: piazo top_brand/JacquesEtoile.png. Righttime: Plongeur VII 3253, Metropolis 158 (SUG Lörrach).
+- Chrono24.de (Firecrawl, ~21 créditos): 21 anúncios; fotos og:image reais. Anúncios genéricos 'Automatik Stahl' (ids 46450094, 49597863, 47395727) não viraram linha. Lunamatic Moonphase ref 968857 = código de anúncio, ignorado.
