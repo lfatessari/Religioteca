@@ -13922,6 +13922,12 @@
    "tipo": "marcas_novas",
    "marcas_novas": 2,
    "obs": "Pedido do usuário na conversa (22/11/2026): (1) registrar Mathey Tissot, Borna e Michel Chirivi — 'Mathey-Tissot' já existia; Borna e Michel Chirivi inseridas em ordem alfabética só com o nome (historico/marcas_novas_2026-11-22c/novas.json); (2) A&S Watch removida da aba Marcas ('não é uma marca'; não tinha relógios) e do ADIADAS; (3) AOS Watches: K = https://aos-watches.com/wp-content/uploads/2025/01/AOS-03.png (ícone do site oficial indicado pelo usuário; a imagem não abriu para conferência visual) e G corrigido para aos-watches.com. Fase volta a 'marcas' (fila.py: 2). Script: historico/marcas_novas_2026-11-22c/editar_802.py."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 802,
+   "tipo": "mudanca_de_regra",
+   "obs": "Pedido do usuário (22/11/2026): juntar as fases. 'fase' = 'completa' (PASSADA ÚNICA): de cima para baixo, cada marca é concluída por inteiro — dados vazios da aba Marcas e modelos da aba Relógios — na mesma execução. Novo proxima_completa.py (lote e registro em passada_unica/feitas.json); gravar_marca.py aceita o par 'lacunas lote.json' (testado: 539 s, RESULTADO: OK). Em 22/11: 1.641 marcas pendentes (1.093 sem modelos, 548 só dados). Tarefa agendada reescrita."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14021,15 +14027,13 @@
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
- "fase": "marcas",
+ "fase": "completa",
  "lacunas_marcas": {
   "lote": 100,
   "ultima_marca_revisada": "Xera Watches",
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
- "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-22T21:31:38Z",
- "ultimo_sinal": "2026-11-22T21:31:38Z"
+ "ordem_relogios": "PASSADA ÚNICA desde 22/11/2026 (v802): de cima para baixo pela aba Marcas, cada marca é concluída por inteiro (dados vazios + modelos) — proxima_completa.py; pedido do usuário",
+ "adiadas_obs": {}
 }

@@ -18,6 +18,15 @@ Correções em B, C, D, G, H, I, J da aba Marcas (campo "correcoes") precisam de
 "correcoes_fontes": {"<col>": ["<url>", ...]} com fontes já abertas na pesquisa dos relógios (que estejam
 em "fontes"): corrige-se só com o que a pesquisa de relógios já mostrou, sem buscas extras.
 "complemento": true só vale para marca que já tem linhas na aba Relógios.
+
+LACUNAS DA ABA MARCAS NA MESMA GRAVAÇÃO (passada única, pedido do usuário em 22/11/2026):
+um par "lacunas LOTE.json" em qualquer posição depois de SAIDA.xlsx, por exemplo
+  python3 gravar_marca.py ENTRADA.xlsx SAIDA.xlsx dados_A.txt marca_A.json lacunas lote_NNN.json
+  python3 gravar_marca.py ENTRADA.xlsx SAIDA.xlsx lacunas lote_NNN.json        (só lacunas, sem relógios)
+LOTE.json: {"data": "AAAA-MM-DD", "prefixo": "Passada única", "celulas": {"<marca>": {"B": "...", "K": "...", "M": "fontes e explicações"}}}
+  - só entram colunas de B a K que estejam VAZIAS na planilha (célula já preenchida é ignorada, com aviso);
+  - E e F têm de ser inteiros; M é obrigatória e é ACRESCENTADA como "<prefixo> em DD/MM/AAAA: <texto>";
+  - a marca do lote pode ser também uma das marcas com relógios do mesmo comando.
 """
 import sys, json, copy, re
 from urllib.parse import quote, urlparse
@@ -28,8 +37,13 @@ from openpyxl.styles import PatternFill
 
 args = sys.argv[1:]
 assert len(args) >= 4 and len(args) % 2 == 0, __doc__
+import time; _t0 = time.time()
 ENT, SAI = args[0], args[1]
 pares = [(args[k], args[k + 1]) for k in range(2, len(args), 2)]
+LOTES_LAC = [json.load(open(b, encoding='utf-8')) for a, b in pares if a == 'lacunas']
+pares = [(a, b) for a, b in pares if a != 'lacunas']
+COLS_LAC = {c: i for i, c in enumerate('ABCDEFGHIJKLM', 1) if c in 'BCDEFGHIJK'}
+def vazio(v): return v is None or str(v).strip() in ('', '-', '—', 'n/a')
 S = ' (sem referência publicada)'
 def enc(u): return quote(u, safe=":/?&=%#+~;,@!$'()*[]-._")
 def snap(wb):
@@ -111,6 +125,33 @@ for DADOS, CFG in pares:
     dup = [k for k, v in Counter(x[1] for x in novas).items() if v > 1] + [x[1] for x in novas if x[1] in nomes_exist]
     if dup: problemas.append(f'{marca}: nomes repetidos: {dup}')
     lotes.append((cfg, lms[0] if lms else None, novas, corr))
+# lacunas da aba Marcas (lote): só células vazias de B a K, mais M
+lac = []  # (marca, linha, {col: valor}, texto_M)
+for P in LOTES_LAC:
+    data = P.get('data', '')
+    if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', data): problemas.append('lote de lacunas sem "data": "AAAA-MM-DD"'); continue
+    pref = f"{P.get('prefixo', 'Passada única')} em {data[8:10]}/{data[5:7]}/{data[0:4]}: "
+    for marca, cols in (P.get('celulas') or {}).items():
+        lms = [r for r in range(2, m.max_row + 1) if m.cell(r, 1).value == marca]
+        if len(lms) != 1: problemas.append(f'{marca} (lacunas): não encontrada (ou repetida) na aba Marcas: {lms}'); continue
+        txt = str(cols.get('M') or '').strip()
+        if not txt: problemas.append(f'{marca} (lacunas): falta o texto de "M" (fontes e explicações)'); continue
+        vals = {}
+        for col, val in cols.items():
+            if col == 'M': continue
+            if col not in COLS_LAC: problemas.append(f'{marca} (lacunas): coluna {col} não é permitida (só B a K, e M)'); continue
+            if vazio(val): continue
+            if col in ('E', 'F'):
+                try: val = str(int(str(val).strip()))
+                except ValueError: problemas.append(f'{marca} (lacunas): {col} tem de ser inteiro, veio {val!r}'); continue
+            if not vazio(m.cell(lms[0], COLS_LAC[col]).value):
+                print(f'  (lacunas) {marca} {col}: célula já preenchida, ignorado'); continue
+            vals[col] = val
+        lac.append((marca, lms[0], vals, pref + txt))
+for cfg, lm, novas, corr in lotes:
+    if cfg.get('logo') and any(l[0] == cfg['marca'] and 'K' in l[2] for l in lac):
+        problemas.append(f"{cfg['marca']}: logo no marca.json e K no lote de lacunas ao mesmo tempo; use só um")
+if len({l[0] for l in lac}) != len(lac): problemas.append('a mesma marca aparece duas vezes nos lotes de lacunas')
 nomes_lote = [c['marca'] for c, *_ in lotes]
 if len(set(nomes_lote)) != len(nomes_lote): problemas.append('a mesma marca aparece duas vezes no comando')
 if problemas:
@@ -157,6 +198,16 @@ for cfg, lm, novas, corr in lotes:
         m.cell(lm, 1).fill = PatternFill(fill_type='solid', start_color='FFFF0000', end_color='FFFF0000')
     permitidas |= {f'K{lm}', f'L{lm}', f'M{lm}'} | {f'{c}{lm}' for c in corr}
 
+for marca, lm, vals, txt in lac:
+    for col, val in vals.items():
+        m.cell(lm, COLS_LAC[col]).value = val
+    antigo = str(m.cell(lm, 13).value or '').strip()
+    c = m.cell(lm, 13); c.value = f'{antigo} | {txt}' if antigo else txt
+    if not c.has_style: c._style = copy.copy(m.cell(lm, 11)._style)
+    permitidas |= {f'M{lm}'} | {f'{col}{lm}' for col in vals}
+    print(f'  lacunas {marca} (linha {lm}): {"".join(sorted(vals)) or "nada novo"} + M')
+if inicio_geral is None: inicio_geral = w.max_row + 1  # só lacunas: nenhuma linha nova na aba Relógios
+
 wb.save(SAI)
 
 # ---------- 3) verificação (uma vez, para todas) ----------
@@ -178,7 +229,7 @@ ruins = [r for r in range(inicio_geral, w2.max_row + 1)
          if w2.cell(r, 3).value and (not w2.cell(r, 3).hyperlink or w2.cell(r, 3).hyperlink.target != w2.cell(r, 3).value)]
 print('hyperlinks ruins:', ruins); ok &= not ruins
 seq = [w2.cell(r, 1).value for r in range(inicio_geral, w2.max_row + 1)]
-blocos = [seq[0]] + [seq[k] for k in range(1, len(seq)) if seq[k] != seq[k - 1]]
+blocos = ([seq[0]] if seq else []) + [seq[k] for k in range(1, len(seq)) if seq[k] != seq[k - 1]]
 contig = len(blocos) == len(set(blocos))
 print('blocos contíguos a partir de', inicio_geral, ':', contig); ok &= contig
 for cfg, lm, novas, corr in lotes:
@@ -187,4 +238,5 @@ for cfg, lm, novas, corr in lotes:
 print('max_row:', w2.max_row)
 ph = any('7WgAAOSwQ7haxTU1' in (x[2] or '') for x in todas_novas)
 print('placeholder eBay presente:', ph); ok &= not ph
+print('tempo:', round(time.time() - _t0), 's')
 print('RESULTADO:', 'OK' if ok else 'FALHOU — não entregar')
