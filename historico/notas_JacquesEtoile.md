@@ -8,3 +8,9 @@ Adiada nesta execução porque a Jacques du Manoir se revelou grande (153 produt
 - Inhorgenta PDF Aristo Vollmer (Klaus Jakob fundador; produção Aristo Vollmer, Pforzheim)
 - wornandwound.com/tag/jacques-etoile (nada)
 Pistas: 1stdibs Monaco Quadriga 3161; eBay.de itm 154787276479, 116465185514, 277190077462; rakuten c-watch; jckonline 2003.
+
+## Execução 22/11/2026 (2ª, tarde)
+- Rakuten c-watch: fundada por Klaus Jakob (n. 1962) em 1994 em Lörrach; Japão desde 1998; 25 anos em 2019; desde 2020 relançada pela Aristo Vollmer GmbH. (Inhorgenta/infinity diziam 1996.)
+- eBay.de itm: client_error (não repetir). Catawiki: veio página genérica. Europastar 1003576048 = Jacques Lemans (nada).
+- Infinity: "Bidynator" (mostrador setorizado, 43 mm original) citado; coleção Atelier.
+- ebay.com itm 287197961382 client_error. Logo: piazo top_brand/JacquesEtoile.png. Righttime: Plongeur VII 3253, Metropolis 158 (SUG Lörrach).
