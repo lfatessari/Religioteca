@@ -1,0 +1,19 @@
+{
+ "versao": 788,
+ "data": "2026-11-22",
+ "tipo": "posts",
+ "prefixo": "Atualizado a partir do post e do site oficial",
+ "marcas": [
+  "ACIZEM Watches"
+ ],
+ "celulas": {
+  "ACIZEM Watches": {
+   "D": "Relógios de Ottawa que contam a história do mosaico multicultural canadense.",
+   "I": "A ACIZEM Watches é a marca do designer e artista canadense Éluu Goddiâ, com sede em Ottawa, a capital do Canadá. A ideia nasceu no bairro onde ele morava, que reunia imigrantes de mais de 156 países. Dessa convivência veio o propósito da marca: contar, em relógios, a história do \"mosaico multicultural\" canadense.\n\nCada modelo começa como um desenho feito à mão, e as referências vêm do próprio país: as cores do outono, os nomes nativos de lugares, as Cataratas do Niágara, o Parque Nacional de Banff, a folha de bordo e o lema \"The True North Strong and Free\". O nome da cidade, Ottawa, aparece escrito em vários mostradores.\n\nHoje são três coleções. O Enygmah é uma edição limitada de 250 peças por versão, com automático japonês Miyota 82S5 e resistência de 100 metros. O Olive Coin vem em versão masculina, automática, e feminina, de quartzo. Já o Squint, de quartzo japonês, homenageia o legado europeu do Canadá e se inspira nos relógios clássicos da era colonial.",
+   "F": "2449",
+   "J": "Enygmah Heritage Sky — CAD 854\n\nOlive Coin Ivory — CAD 646\n\nOlive Crown Heritage (feminino) — CAD 544\n\nSquint Mystic — CAD 194",
+   "M": "D trocada pela frase do ⭐ do post da ACIZEM (montado em 22/11/2026), aprovada pelo usuário. I trocada pela história do post da ACIZEM (22/11/2026), aprovada pelo usuário; fontes: site oficial, páginas inicial, 'Brand story' (imigrantes de mais de 156 países, símbolos canadenses, Squint = legado europeu) e 'About us', lidas em 22/11/2026. F recalculada em 22/11/2026 pelos preços do site oficial (loja em dólar canadense, products.json): média dos 26 relógios avulsos, sem os 2 pares 'his & hers', = CAD 628,38 × R$ 3,8971 (cotação de 06/11/2026) = R$ 2.449. Faixa (E = 2) continua igual. O valor anterior (R$ 3.025) vinha de preços do Microbrand Atlas marcados como US$. J atualizada em 22/11/2026 com os preços do site oficial, em dólar canadense (antes: valores do Microbrand Atlas marcados como US$, cerca de 2,5% menores). Catálogo conferido no products.json do site em 22/11/2026: os mesmos 28 relógios da aba Relógios, todos à venda, inclusive os 4 Squint (o 'esgotados' anotado em 15/11/2026 ficou desatualizado)."
+  }
+ },
+ "base": "Relogios_atualizada_787.xlsx"
+}

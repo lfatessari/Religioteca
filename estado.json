@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1023,
-  "ultima_versao": 787,
+  "ultima_versao": 788,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13680,6 +13680,15 @@
         ]
       },
       "obs": "Oficial jacobandco.com pediu permissão (uma tentativa); páginas abertas pelo ajudante web-fetch (Exquisite, Bucherer, WoS, Wempe, Watchonista, Worldtempus, leilões). Firecrawl sem créditos. Vermelha: centenas de referências antigas do Five Time Zone, Ghost, peças únicas. Pendências dos posts: Abordage D/I já estavam aplicadas (v784); ferramenta Projects ausente. Próxima pela ordem: Jacob Jensen (1024)."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 788,
+      "tipo": "posts",
+      "marcas": [
+        "ACIZEM Watches"
+      ],
+      "obs": "Itens 13 a 16 (D, I, F, J) aplicados a partir do post e do site oficial, aprovados pelo usuário em 22/11/2026."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13788,5 +13797,5 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T12:43:16Z",
-  "ultimo_sinal": "2026-11-22T12:43:16Z"
+  "ultimo_sinal": "2026-11-22T12:49:17Z"
 }
