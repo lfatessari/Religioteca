@@ -13542,7 +13542,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T00:44:06Z",
- "ultimo_sinal": "2026-11-22T00:58:45Z",
+ "ultimo_sinal": "2026-11-22T01:00:31Z",
  "em_andamento": {
   "marcas": [
    "Iron Annie"
@@ -13564,9 +13564,10 @@
    "8",
    "9",
    "10",
-   "10b"
+   "10b",
+   "2ª passada"
   ],
-  "passada": 2,
+  "passada": 3,
   "obs": "Iron Annie grande (sozinha). Site oficial PROVENANCE; Firecrawl sem créditos."
  }
 }
