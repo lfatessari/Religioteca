@@ -13704,12 +13704,23 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T09:43:53Z",
-  "ultimo_sinal": "2026-11-22T09:49:25Z",
+  "ultimo_sinal": "2026-11-22T09:58:08Z",
   "em_andamento": {
     "marcas": [
-      "IXDAO"
+      "IXDAO",
+      "J & Berg",
+      "J.N. Shapiro"
     ],
     "linha_marcas": 1019,
-    "etapa": "bateria a começar"
+    "grande": false,
+    "relogios": "historico/notas_lote.md (lista resumida)",
+    "fontes": "historico/parcial_<marca>_fontes.txt",
+    "notas": "historico/notas_lote.md",
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3"
+    ],
+    "passada": 1
   }
 }
