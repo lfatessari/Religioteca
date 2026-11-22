@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1017,
- "ultima_versao": 782,
+ "proxima_linha_marcas": 1018,
+ "ultima_versao": 783,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13569,6 +13569,24 @@
    "passadas": "1 passada (16 fontes; 6 relógios)",
    "site_bloqueado": "não aplicável: G vazio; i-toc.com (citado em 2009) não apareceu em busca e não foi aberto",
    "obs": "Bateria só com i-Toc: a seguinte, IWC (1018), é grande e fica sozinha. Corrigidos na aba Marcas: D e J. Pendências Abback (itens 9 e 10) já estavam aplicadas (v777). Firecrawl não usado; WebFetch só pelo ajudante web-fetch."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 783,
+   "marcas": [
+    "IWC"
+   ],
+   "linhas_relogios": "118351-120067",
+   "relogios": {
+    "IWC": 1717
+   },
+   "vermelho": true,
+   "fontes": {
+    "IWC": 72
+   },
+   "passadas": "3 passadas (49/11/12 fontes; 1680/12/21 relógios novos)",
+   "site_bloqueado": "parcial: iwc.com/en/watch-collections.html PROVENANCE_REQUIRED; páginas de família só com JavaScript (registrado em L)",
+   "obs": "Grande (sozinha). Base: WatchBase (famílias portugieser, pilot, da-vinci, portofino, big-pilot, gst-aquatimer; ingenieur não abriu) + catálogo oficial 2017, IWC. Curated, imprensa 2025-2026, lojas e leilões. Fotos: ~110 imagens diretas; ~1.400 linhas com link da ficha do WatchBase (o WatchBase não expõe a imagem). Nada corrigido na aba Marcas; anotado em M possível erro em I (Glashütte). Pendências Abback (itens 9 e 10) já estavam aplicadas (v777). Firecrawl não usado; WebFetch só pelo ajudante web-fetch. Próxima pela ordem: IXDAO (1019)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13675,34 +13693,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-22T08:43:46Z",
- "ultimo_sinal": "2026-11-22T09:18:35Z",
- "em_andamento": {
-  "marcas": [
-   "IWC"
-  ],
-  "linha_marcas": 1018,
-  "grande": true,
-  "relogios": "historico/parcial_IWC_relogios.txt",
-  "fontes": "historico/parcial_IWC_fontes.txt",
-  "notas": "historico/notas_IWC.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "p2-parcial"
-  ],
-  "passada": 2,
-  "obs": "raw e conv.py em historico/IWC_raw (python3 conv.py raw parcial_IWC_relogios.txt)"
- }
+ "adiadas_obs": {}
 }

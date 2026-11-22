@@ -1,0 +1,372 @@
+{
+ "marca": "IWC",
+ "usa_codigos": true,
+ "logo": "",
+ "grande": true,
+ "vermelho": true,
+ "complemento": false,
+ "site_bloqueado": "Parcial – iwc.com: página de coleções (iwc.com/en/watch-collections.html) pediu permissão na leitura automática (PROVENANCE_REQUIRED); as páginas de família (ex.: iwc.com/eu-en/watches) abrem, mas os modelos só aparecem via JavaScript; revisitar com navegador",
+ "observacoes": "Relógios gravados em 22/11/2026 (1.717 modelos, vermelha: WatchBase tem 1.842 IWC e a família Ingenieur do WatchBase não abriu; muitos vintage sem referência). Ainda a verificar em I: o trecho \"a única grande manufatura da Suíça de língua alemã fora de Glashütte\" parece errado (Glashütte fica na Alemanha); o fim de I ainda tem \"[⚠️ verificar dados atuais]\". K mantido (logo-og.png do site oficial).",
+ "fontes": [
+  {
+   "url": "https://www.iwc.com/eu-en/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/eu-en/watches/pilot-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/eu-en/watches/portugieser",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/iwc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/iwc/portugieser",
+   "passada": 1,
+   "novos": 357
+  },
+  {
+   "url": "https://watchbase.com/iwc/pilot",
+   "passada": 1,
+   "novos": 381
+  },
+  {
+   "url": "https://watchbase.com/iwc/da-vinci",
+   "passada": 1,
+   "novos": 271
+  },
+  {
+   "url": "https://watchbase.com/iwc/portofino",
+   "passada": 1,
+   "novos": 294
+  },
+  {
+   "url": "https://watchbase.com/iwc/big-pilot",
+   "passada": 1,
+   "novos": 151
+  },
+  {
+   "url": "https://watchbase.com/iwc/gst-aquatimer",
+   "passada": 1,
+   "novos": 110
+  },
+  {
+   "url": "https://www.iwc.com/us/en/watches/ingenieur-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristler.eu/watches/iwc/ingenieur",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://wristler.eu/watches/iwc/ingenieur?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.analogshift.com/collections/iwc-sold.oembed?page=4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristler.eu/watches/iwc/vintage?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/in-depth-history-iwc-ingenieur-collection-1955-antimagntic-watch-70th-anniversary-review",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=27864",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.iwc.com/ae-en/watches/ingenieur/ingenieur-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/my-en/journal/all-form-und-technik-ingenieur-automatic-40",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=25874",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/iwc-release-2025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/best-iwc-watch-releases-2026-november-update/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://wristreview.com/watches-wonders-2026-iwc-novelties/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://timeandtidewatches.com/iwc-ingenieur-watches-wonders-novelties-2026-hands-on/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://everywatch.com/iwc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/iwc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/811-ad-iwc-yacht-club",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hairspring.com/?p=9859",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/sold-watches/iwc-vintage-aquatimer-ref-812-834.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/iwc/products/iwc-aquatimer-super-compressor-as10976",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/iwc-sold/products/iwc-yacht-club-as02444",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.coronet.org/new-1minute-reads/revisiting-the-iwc-yacht-clubs-history",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.fratellowatches.com/best-iwc-watches-80s/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iwc.com/en/forum/five-great-da-vinci-watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/en/forum/collecting-five-great-ingenieurs.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/en/journal/history-of-the-da-vinci-watches.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.iwc.com/content/dam/downloads/IWC-Catalogue-2017.pdf",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.europeanwatch.com/iwc.html",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://goldsmiths.co.uk/c/Brands/IWC",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crownandcaliber.com/collections/iwc-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/collections/iwc?page=1",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://phillips.com/artist/8520/IWC",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://phillips.com/detail/iwc/CH080120/58",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/IWC/NY080117/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/iwc/CH080219/181",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.rasin.co.jp/blog/sihh/iwc-2026-new-watch/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://europeanwatch.com/iwc/Ingenieur.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronext.com/iwc/ingenieur",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronext.com/iwc/aquatimer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/au-en/past-collections",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/gb-en/specials/iwc-curated-certified-pre-owned-watches",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.iwc.com/fr/en/past-collections/ingenieur/iw378405-big-ingenieur-chronograph.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.iwc.com/us/en/watch-collections/ingenieur/iw328904-ingenieur-automatic-40.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/iwc-schaffhausen/ingenieur/ingenieur-iw3785-08/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/en-int/collections/iwc-schaffhausen-2/products/iwc-schaffhausen-ingenieur-iw328901-17810806",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wempe.com/en-us/watches/iwc-schaffhausen/ingenieur/ingenieur-automatic-40-iw328907?c=6148",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ethoswatches.com/product-iwc-ingenieur-iw328903.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/iwc-ingenieur-automatic-ref-3239-reviewed/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/iwc-ingenieur-chronograph-racer-3785-preview/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://thejewelleryeditor.com/images/18iwcingenieurchronographsilberpfeil",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/complete-history-of-the-iwc-big-pilot-collection-evergreen-in-depth/",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/an-ode-to-a-timeless-classic-the-iwc-mark-series/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2013/01/sihh-2013-iwc-with-live-photos.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/ingenieur-automatic-mission-earth-edition-david-de-rothschild-4708.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://timeandtidewatches.com/engineering-a-classic-the-history-of-iwcs-ingenieur/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/iwc/die-6-kollektionen-der-iwc",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bobswatches.com/iwc/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/iwc/iwc-vintage/lpi",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/iwc-models/",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://professionalwatches.com/?p=702",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://luxe.digital/lifestyle/style/iwc-schaffhausen-style-guide/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/iwc-1960",
+   "passada": 3,
+   "novos": 2
+  }
+ ]
+}
