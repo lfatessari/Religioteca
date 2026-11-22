@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 1051,
- "ultima_versao": 792,
+ "ultima_versao": 795,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13793,6 +13793,30 @@
    "tipo": "marcas_novas",
    "marcas_novas": 72,
    "obs": "Usuário pediu (22/11/2026) para adicionar 73 marcas; Möels & Co já existia (Möel & Co). 72 inseridas em ordem alfabética só com o nome (e B=Brasil em Ciloa, Jean Vernier, Nohmad). Fase volta a 'marcas' para preencher as lacunas; quando o fila.py chegar a 0, volta para 'relogios'. Lista em historico/marcas_novas_2026-11-22/novas.json."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 793,
+   "tipo": "lacunas_marcas",
+   "marcas": 31,
+   "intervalo": "AOS Watches a Parivas",
+   "obs": "Rodada 1 das 72 marcas novas. 19 marcas sem resultado confiável (homônimas ou nada achado, ou cota) ficaram fora do lote e voltam na rodada 2: Aeon Watches, A&S Watch, Avia, De Marquee, Dogleg, Dualys, EI8HT, Kilic Watches, Klanic, Last Watch, Montero, Navanos, Nohmad, North Sea Time Co, Oslo Watches, Putnik, Chrono Company, Ciloa, Grana. Firecrawl sem créditos. Pendências ACIZEM (itens 13-16) já estavam aplicadas; ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 794,
+   "tipo": "lacunas_marcas",
+   "marcas": 35,
+   "intervalo": "Aeon Watches a ZLTD Watches",
+   "obs": "Rodada 2. As 19 que falharam na v793 tiveram 2ª tentativa pelo Instagram: 8 renderam dados (Aeon, Avia histórica, Ciloa, Grana histórica, Klanic, Montero, Navanos, Nohmad); 11 continuaram sem nada e entraram só com M. 6 marcas sem nada na 1ª tentativa ficaram fora para nova tentativa: Rampart Studio, Rewind, Seven Watches, Tophill, Ukiyo, Yuen Watches (fila.py: 6). Fase continua 'marcas'."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 795,
+   "tipo": "lacunas_marcas",
+   "marcas": 6,
+   "intervalo": "Rampart Studio a Yuen Watches",
+   "obs": "2ª tentativa das 6 que sobraram da v794. Rampart Studio, Tophill e Yuen Watches preenchidas; Rewind, Seven Watches e Ukiyo sem marca própria achada (só lojas/homônimos), entraram só com M. fila.py: 0 → fase volta a relogios. Firecrawl sem créditos; ferramenta Projects ausente; pendências ACIZEM já aplicadas."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13892,12 +13916,12 @@
  },
  "marcas_pendentes": [],
  "marcas_novas_sem_relogios": [],
- "fase": "marcas",
+ "fase": "relogios",
  "lacunas_marcas": {
   "lote": 100,
-  "ultima_marca_revisada": "Zuriner",
+  "ultima_marca_revisada": "Yuen Watches",
   "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
-  "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
+  "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {}
