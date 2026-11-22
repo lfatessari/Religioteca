@@ -13641,7 +13641,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T06:44:30Z",
- "ultimo_sinal": "2026-11-22T06:44:30Z",
+ "ultimo_sinal": "2026-11-22T06:52:29Z",
  "em_andamento": {
   "marcas": [
    "Itay Noy"
@@ -13651,7 +13651,12 @@
   "relogios": "historico/parcial_ItayNoy_relogios.txt",
   "fontes": "historico/parcial_ItayNoy_fontes.txt",
   "notas": "historico/notas_ItayNoy.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "3",
+   "5",
+   "9"
+  ],
   "passada": 1
  }
 }
