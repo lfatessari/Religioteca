@@ -1,0 +1,762 @@
+{
+ "marca": "Jacob Jensen",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – jacobjensen.com pediu permissão (PROVENANCE_REQUIRED) na leitura automática (22/11/2026); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 22/11/2026 (v789): 205 modelos, vermelha (coleção histórica desde os anos 1980 com centenas de referências; muitas só com link de página, sem foto). D fala só em quartzo Ronda, mas as linhas Timeless Nordic usam Miyota e a Linear usa Seiko/Epson (catálogos 2022-23 e 2025-26, Masters in Time) — só anotado. Ainda a verificar: fundação (1978 no Atlas × marca de relógios citada a partir dos anos 1980/90).",
+ "fontes": [
+  {
+   "url": "https://jacobjensen.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen/classics",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen/mens",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen/ladies",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj600.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/jacob-jensen/mens",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/de/jacob-jensen/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-jj212.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/watches/jacob-jensen/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/watches/jacob-jensen/herrenuhren/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeshop4you.co.uk/watches/jacob_jensen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeshop4you.co.uk/watches/jacob_jensen/new_series/?ed=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mightywatches.com/brands/jacob-jensen.html?p=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eu.kjbeckett.com/collections/brands-jacob-jensen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://norwaydesigns.no/en/collections/jacob-jensen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj754.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj641.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj421.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj847.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj185.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj896.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj681.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj190.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj651.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj420.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj160.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj844.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj650.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj233.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj680.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj652.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj690.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj643.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-jj240.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-jj242.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-212-icon-silver-gents-design-watch-jj212.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-252-curve-grey-design-watch-jj252.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-875-dimension-rectangular-black-ladies-design-watch-jj875.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-510-classic-black-silver-design-watch-jj510.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-640-titanium-black-design-watch-jj640.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-dimension-black-gold-gents-design-watch-jj863.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-digital-digital-design-watch-jj530.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-615-dimension-titanium-ladies-chronograph-jj615.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-613-dimension-black-ladies-design-chronograph-jj613.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-chronograph-brown-design-lady-chronograph-jj614.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-694-titanium-gold-ladies-design-watch-jj694.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-520-classic-black-silver-ladies-design-watch-jj520.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-513-classic-two-tone-gents-design-watch-jj513.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-783-new-line-two-tone-design-quartz-watch-jj783.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/us/en/jacob-jensen-212-icon-silver-gents-design-watch-jj212.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-191-classic-titanium-watch-with-sapphire-crystal-jj191.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1121_11_5_1601_5_1_407/inhorgenta-munich_250127_jj_catpdf.pdf",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.red-dot.org/project/jacob-jensen-700-series-29780",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.red-dot.org/project/jacob-jensen-strata-series-32994",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2010/02/15/jacob-jensen-arc-series-wrist-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2010/02/08/jacob-jensen-presents-new-chronograph-collection/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.superyachts.com/lifestyle/story/the-icon-series-by-jacob-jensen-design-820",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/vYLLV",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.betterlivingthroughdesign.com/personal/jacob-jensen-square-chronograph-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/features/1003923332-jacob-jensen-and-danish-design-something-timeless.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.houyhnhnm.jp/en/news/359090/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/inspiration/the-fixed-values-of-the-new-jacob-jensen-classic-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jacobjensendesign.com/work/jacob-jensen-timeless-nordic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.nl/en/s8/product/jacob-jensen-timeless-nordic-contemporary-163-40-mm-analogue-wristwatch-40-mm-wristwatches-44371970",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.nl/en/s8/product/jacob-horloge-jensen-new-series-715-35-mm-715-silver-analog-analogue-wristwatch-35-mm-wristwatches-36351816",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.nl/en/s8/product/jacob-jensen-timeless-nordic-contemporary-175-32-mm-analogue-wristwatch-32-mm-wristwatches-44371981",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.nl/en/s8/product/jacob-jensen-515-classic-horloge-jensen-heren-horloge-zwart-diameter-32-mm-kleur-gecoat-roestvrij-an-34844729",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/jacob-jensen-lady-watch-titanium-case/id-j_4972981",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/175301043",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/175235715",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/315418762060",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/264380638568",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/132871186876",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/133545816844",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-strata-black-design-gents-quartz-watch-with-date-jj274.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-272-strata-blue-gents-design-watch-jj272.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-281-strata-brown-lady-design-watch-jj281.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-283-strata-red-design-watch-jj283.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-jj271.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-250-curve-black-design-watch-jj250.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-arc-silver-black-gents-design-watch-jj570.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-572-arc-black-gents-design-watch-jj572.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-linear-stainless-steel-gents-quartz-chronograph-with-date-jj625.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-linear-silver-brown-gents-watch-with-date-jj622.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-dimension-rectangular-square-gents-design-watch-jj865.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-103-round-black-design-watch-with-date-jj103.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-sapphire-steel-design-gents-watch-jj552.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-712-new-line-black-design-watch-jj712.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cdn.shopify.com/s/files/1/0447/3952/6822/files/Jacob_Jensen_800_serie_chronorechth_eng.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/jacob-jensen-linear-black-silver-gents-watch-with-date-jj620.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/cn/jacob-jensen-210-icon-silver-gents-design-watch-jj210.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeshop4you.co.uk/products/jacob-jensen-232",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj243.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-113-round-dark-ladies-design-watch-jj113.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-100-round-silver-design-watch-jj100.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-102-round-black-ladies-design-watch-jj102.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/jacob-jensen-781-new-line-watch-with-leather-replacement-strap-jj781-sc2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://norwaydesigns.no/en/products/jacob-jensen-linear-armbandsur-chrono-stal-brun",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.norwaydesigns.no/en/products/jacob-jensen-linear-armbandsur-chrono-42mm-bla-sort",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://norwaydesigns.no/en/products/curve-armbandsur-38mm-gra-hvit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/maclin-studio/products/jacob-jensen-linear-series-620-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mightywatches.com/jacob-jensen-jj621-621-linear.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mightywatches.com/jacob-jensen-jj625-625-linear.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://city-diamonds.nl/watches-jacob-jensen-ascent-series-622",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://city-diamonds.nl/watches-jacob-jensen-linear-series-625",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elgiganten.dk/product/personlig-pleje-skonhed-velvare/modetilbehor/armbandsur/jacob-jensen-613-armbandsur/29393",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj443.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj550.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-jj522.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj423.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://mastersintime.com/jacob-jensen-arc-silver-black-gents-design-watch-jj571.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/jacob-jensen-714-new-line-blue-design-watch-with-swiss-movement-jj714.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/jj773.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mastersintime.com/jacob-jensen-724-new-line-blue-ladies-design-watch-with-swiss-movement-jj724.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-timeless-nordic-192",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/jacob-jensen-timeless-nordic-190",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/jacob-jensen-timeless-nordic-171",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-timeless-nordic-160",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-timeless-nordic-161",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-timeless-nordic-162",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-titanium-642",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-timeless-nordic-172",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-timeless-nordic-193",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/jacob-jensen-timeless-nordic-180",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/jacob-jensen-titanium-640",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/jacob-jensen/products/jacob-jensen-titanium-643",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacob-jensen-444-eclipse-gold-lady-bracelet-watch-size-small-jj444.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://city-diamonds.nl/watches-jacob-jensen-eclipse-series-445",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://city-diamonds.nl/watches-jacob-jensen-eclipse-series-455",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj452.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://city-diamonds.nl/horloges-jacob-jensen-eclipse-series-453",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-jj521.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-jj553.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/jacob-jensen-703-new-line-gents-quartz-design-watch-jj703.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-jj708.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timeshop4you.co.uk/products/jacob-jensen-550",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/gb/en/jacob-jensen-516-classic-square-two-tone-watch-with-date-jj516.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://city-diamonds.nl/watches-jacob-jensen-dimension-series-840",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.norwaydesigns.no/en/products/jacob-jensen-dimension-armbandsur-large-38mm-bla-stal",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://norwaydesigns.no/en/products/jacob-jensen-dimension-armbandsur-large-38mm-gull-gull",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/jacob-jensen-684-titanium-gold-design-watch-jj684.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-640-titanium-gents-design-watch-with-date-jj640.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://city-diamonds.nl/watches-jacob-jensen-curve-series-254",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jebiga.com/?p=10427",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://heimatinfo.blob.core.windows.net/public/b460c72e-30c3-43a5-aeb1-b0ee1bc2d5f8.pdf",
+   "passada": 3,
+   "novos": 27
+  },
+  {
+   "url": "https://www.norwaydesigns.no/en/products/jacob-jensen-armbandsur-curve-253-armbandsur-38mm-hvit",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/gb/en/jacob-jensen-titanium-watch-with-sapphire-crystal-jj654.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/jacob-jensen-652-titanium-titanium-watch-with-sapphire-crystal-jj652.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/jacob-jensen-253-curve-white-design-watch-jj253-sc.htm",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
