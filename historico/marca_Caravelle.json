@@ -1,0 +1,832 @@
+{
+ "marca": "Caravelle",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.bulova.com/us/en/collection/caravelle/",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.bulova.com/us/en/caravelle-collections-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/collection/caravelle/",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/caravelle?page=1",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/caravelle?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-1969-caravelle-665-1-devil-diver-mens-automatic-wristwatch-swiss-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/caravelle-devil-diver-666",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/caravelle/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/the-caravelle-sea-hunter-devil-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=922987",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.out.com/fashion/truman-says/2013/10/03/affordable-watches-men-women-caravelle-new-york-bulova",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.kay.com/watches/caravelle-by-bulova-watches/c/9000001338",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.shadestation.co.uk/Caravelle-Watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.allurez.com/caravelle-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://qvc.com/jewelry/watches/caravelle/_/N-ogpyZ1z13dvb/c.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.newegg.com/Caravelle-by-Bulova-Watches/BrandSubCat/ID-14527-1015",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/caravelle-watch-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/caravelle-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/caravelle-by-bulova",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/Caravelle-Wristwatches/31387/bn_7115508766",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://everywatch.com/bulova/watch-32721258",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B132.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44L226.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45A152.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bulova.com/us/en/product/43B163.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B181",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45L193",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/product/43C125.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44L275.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45M121.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45B163.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44M117.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43L230.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43L225.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43L227.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44L267.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44C112.html?cgid=sale",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44L269.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B117.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43M119.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B118.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B131.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B176.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bulova.com/us/en/product/45A149.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43A159.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45A153.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B121.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45M112.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43L226.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43L202.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45P110.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43M124.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44L268.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43L228.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45L168.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B174.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44L271.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45B149.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45C121.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44C113.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43C126.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/product/45C119.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43A145.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45C118.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B182.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B136.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/product/43C124.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43K102.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B130.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B175.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B178.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B133.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44B129.html?cgid=mens",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/caravelle-collections-sport",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-caravelle-day-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-36mm-caravelle-paddle-hand-diver-mens-quartz-wristwatch-swiss-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/collections/caravelle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bulova.com/us/en/product/43B158.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B161.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bulova.com/us/en/product/43A158.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/product/45B161.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43D107.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45D111.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/44A123.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B151.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43D108.html?cgid=mens",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/ca/en/product/43B177.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.qvc.com/caravelle-x-kevin-oleary-by-bulova-blue-sea-hunter-automatic-watch.product.J467568.html?sc=NAVLIST",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.qvc.com/caravelle-x-kevin-oleary-by-bulova-green-sea-hunter-automatic-watch.product.J467569.html?sc=NAVLIST",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.qvc.com/caravelle-x-kevin-oleary-by-bulova-sea-hunter-goldtone-automatic-watch.product.J467571.html?sc=NAVLIST",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/review-the-caravelle-by-bulova-sea-hunter-finally-a-potential-seiko-skx-successor/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/caravelle-sea-hunter-devil-diver-reissue/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/caravelle-sea-hunter-dive-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thecalibratedwrist.com/2026/11/18/a-devlish-revival-the-caravelle-sea-hunter/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kohls.com/product/prd-3708782/caravelle-mens-diamond-accent-chronograph-watch-43d107.jsp?prdPV=47",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-37mm-caravelle-673-devil-diver-sea-hunter-mens-mechanical-wristwatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-1970-caravelle-637-devil-diver-mens-mechanical-wristwatch-11-dp-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-36mm-1970-caravelle-2876dp-devil-diver-mens-automatic-wristwatch-666ft",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-caravelle-coke-devil-diver-mens-automatic-wristwatch-590-622-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-carravelle-set-o-matic-devil-diver-q110",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-1967-caravelle-devil-diver-ladies-mechanical-wristwatch-steel-chrome",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-37mm-1970-caravelle-devil-diver-mens-wristwatch-explorer-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/caravelle-sea-hunter-44b133",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-caravelle-silver-dial-1282-80",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/Caravelle-by-Bulova-Men-s-Modern-Diamond-Black-Stainless-Steel-Watch-45D111/15276950538",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/500554048",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.zales.com/men-s-caravelle-by-bulova-goldtone-ip-chronograph-dress-watch-goldtone-dial-model-44a123/p/V-20589936",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bogartsjewellers.com/products/caravelle-mens-watch-silver-tone",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.ca/b/Caravelle-New-York-Wristwatches/bn_2700415",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.kay.com/caravelle-by-bulova-sea-hunter-automatic-39mm-mens-watch-43b177/p/V-331894105",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45D107.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/45C116.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bulova.com/us/en/product/45D108.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43B157.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-chronograph-black-ion-plated-stainless-steel-orange-dial-caravelle-by-bulova-bul45a108",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kibblewatches.co.uk/pages/brand-directory-caravelle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ranfft.org/import-code/view?id=54",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronopedia.club/Caravelle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_caravelle_automatic_wrist_watch_1963/as170a8515",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1975_caravelle_wrist_watch_by_bulova_a8098/as170a8098",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.co.uk/p/9026400912",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/Caravelle-New-York-Silver-Band-Wristwatches/31387/bn_5723696",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://ebay.com/itm/404742029076",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/116898547144",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/1700725941",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/156765452225",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/2235111237",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/21034930475",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/p/3048247234",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/12058651749",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/28047156670",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kohls.com/product/prd-3359343/caravelle-womens-stainless-steel-watch-43l209.jsp?prdPV=1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://kohls.com/product/prd-6526971/caravelle-by-bulova-womens-stainless-steel-black-leather-strap-watch-43l216.jsp?prdPV=10",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/43104579",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43L223.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/724025363",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kohls.com/product/prd-3515516/caravelle-womens-crystal-stainless-steel-watch-44l243.jsp?prdPV=3",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kohls.com/product/prd-3515521/caravelle-womens-stainless-steel-watch-44l248.jsp?prdPV=46",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kohls.com/product/prd-3515523/caravelle-womens-crystal-stainless-steel-watch-44l250.jsp?prdPV=38",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/Caravelle-Designed-By-Bulova-Women-s-Stainless-Steel-Crystal-Watch/147039425",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.walmart.com/ip/377557270",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/36mm-1978-caravelle-1133-50-set-o-matic-mens-wristwatch-eta-cd-2879-gold-tone",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-1976-caravelle-set-o-matic-day-date-mens-electronic-wristwatch-swiss",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/value-prop-caravelle-devil-diver-666-sea-hunter",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jared-payne-jwex.squarespace.com/bot-archives/1970-caravelle-sea-hunter-666ft",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/vintage-caravelle-sea-hunter-the-devil-diver.153354/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/caravelle-sea-hunter-devil-diver-666-feet-1970.111793/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/caravelle-vintage-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/156740518760",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/387767895802",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/226386936565",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://pmtime.etsy.com/listing/215448363/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.macys.com/shop/product/caravelle-new-york-by-bulova-mens-chronograph-stainless-steel-mesh-bracelet-watch-44mm-43a129?ID=1741061",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchco.com/en-ca/products/caravelle-new-york-watch-43a137",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kohls.com/product/prd-3359325/caravelle-mens-two-tone-stainless-steel-chronograph-watch-45a143.jsp?prdPV=16",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/42989379",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://mobile.kohls.com/product/prd-3359336/caravelle-mens-stainless-steel-chronograph-watch-45a144.jsp?prdPV=24",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/en/brands/caravelle-new-york.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bogartsjewellers.com/collections/caravelle-watches",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.walmart.com/ip/879303972",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.walmart.com/ip/968475243",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kohls.com/product/prd-3909415/caravelle-by-bulova-mens-gold-tone-watch-44a114.jsp",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulova.com/us/en/product/43K100.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.macys.com/shop/featured/caravelle-mens",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Fase Relógios 22/11/2026 (v798): 173 relógios gravados (147 códigos modernos Caravelle/Caravelle New York, 4 da colaboração Caravelle × Kevin O'Leary, 22 vintage ou sem código). Marca pintada de vermelho: o eBay mostra mais de 4.000 anúncios com centenas de códigos antigos (anos 1990–2010) e a coleção oficial dos EUA diz ter 98 produtos, nem todos alcançados. Fotos oficiais vêm de citizenwatch.widen.net (link próprio de cada ficha); onde a ficha não mostrou a foto, a coluna C tem o link da ficha. Os códigos vintage 'M6', 'N4', 'N0' etc. são códigos de data, não referências. H continua vazio: nenhuma fonte aberta mostrou Instagram próprio da Caravelle. Ainda a verificar: Kay mostrou 45A141, 43A157 e 43L204 só na lista (sem ficha aberta)."
+}

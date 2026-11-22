@@ -182,3 +182,20 @@ for c,n,img,car in [
 D["44B121"][1]="https://i.ebayimg.com/images/g/4FIAAeSwTGBq6OxP/s-l1600.jpg"
 D["seahunter-69"]=["Sea Hunter '69 (corda manual, 11DP)","http://static1.squarespace.com/static/5668fae1c647ad70034fec7b/5a5ed646f9619acff152ca1a/5ac41609758d46be7ffbf731/1603484670052/?format=1500w","Corda manual Caravelle 11DP (Citizen 0241), 17 rubis. Caixa de aço de 36,8 mm, mostrador Explorer, sem data, 666 pés (c. 1970)."]
 D["setomatic-electronic"]=["Electronic Set-O-Matic Day Date (mostrador azul)","https://pmtime.etsy.com/listing/215448363/","Eletrônico, dia e data. Caixa almofadada de 36 mm, mostrador azul metálico (anos 1970). Foto: link do anúncio."]
+# ---- passada 3
+KH="https://www.kohls.com/product/"
+for c,n,img,car in [
+ ("43A129","Caravelle New York Chronograph","https://www.macys.com/shop/product/caravelle-new-york-by-bulova-mens-chronograph-stainless-steel-mesh-bracelet-watch-44mm-43a129?ID=1741061","Quartzo cronógrafo. Caixa de aço de 44 mm, mostrador preto, pulseira de malha, 30 m. Foto: link da ficha da loja Macy's."),
+ ("43A137","Caravelle New York Chronograph","https://www.watchco.com/en-ca/products/caravelle-new-york-watch-43a137","Quartzo cronógrafo. Caixa de aço de 44 mm, mostrador preto, 30 m. Foto: link da ficha da loja Watchco."),
+ ("45A143","Chronograph bicolor",KH+"prd-3359325/caravelle-mens-two-tone-stainless-steel-chronograph-watch-45a143.jsp?prdPV=16","Quartzo cronógrafo. Caixa bicolor de 41 mm, mostrador preto, 30 m. Foto: link da ficha da loja Kohl's."),
+ ("45A144","Chronograph gunmetal","https://mobile.kohls.com/product/prd-3359336/caravelle-mens-stainless-steel-chronograph-watch-45a144.jsp?prdPV=24","Quartzo cronógrafo. Caixa gunmetal de 42 mm, mostrador preto, 30 m. Foto: link da ficha da loja Kohl's."),
+ ("44A114","Masculino dourado",KH+"prd-3909415/caravelle-by-bulova-mens-gold-tone-watch-44a114.jsp","Quartzo. Caixa dourada de 39 mm, mostrador branco, 30 m. Foto: link da ficha da loja Kohl's."),
+ ("43K100","Retro Chronograph",B%"43K100","Quartzo JS20 cronógrafo com data. Caixa de aço de 40 mm, mostrador azul, 50 m, pulseira de malha e de silicone. Foto: link da ficha oficial."),
+ ("43M120","Crystal (feminino)","https://i5.walmartimages.com/seo/Caravelle-Designed-By-Bulova-Women-s-Silver-Crystal-Bracelet-Watch-43M120-28mm_df25e8c4-0fdc-4d39-9d26-889824e36f28_1.ccc9f69e9f20ea83223792ab58b45da7.jpeg","Quartzo japonês. Caixa de aço de 28 mm, mostrador prateado, luneta com cristais."),
+ ("44C110","Masculino dourado mostrador champanhe","https://i5.walmartimages.com/seo/Caravelle-Designed-By-Bulova-Men-s-Gold-Tone-Watch-Champagne-Dial-44C110_7ee93c43-9c6d-43cf-b054-b4a2463054e6_1.4bc15d86385b796ea36acdb799d6717a.jpeg","Quartzo japonês, caixa dourada, mostrador champanhe."),
+ ("45L191","Crystal bicolor (feminino)","https://www.bogartsjewellers.com/collections/caravelle-watches/products/caravelle-crystal-two-tone-watch","Bicolor com cristais. Foto: link da ficha da loja Bogart's."),
+ ("45M111","Feminino bicolor","https://www.bogartsjewellers.com/collections/caravelle-watches/products/caravelle-ladies-watch-two-tone","Bicolor. Foto: link da ficha da loja Bogart's."),
+ ("44A122","Dress (feminino)","https://www.bogartsjewellers.com/collections/caravelle-watches/products/caravelle-44a122","Aço dourado, mostrador preto. Foto: link da ficha da loja Bogart's."),
+ ("45M120","Aqualuxx (feminino)","https://www.bogartsjewellers.com/collections/caravelle-watches/products/caravelle-45m120","Aço bicolor. Foto: link da ficha da loja Bogart's.")]:
+    a(c,n,img,car)
+D["43A115"][2]+=" (também vendido como Caravelle New York, mostrador cinza)"
