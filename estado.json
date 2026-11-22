@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1018,
-  "ultima_versao": 783,
+  "ultima_versao": 784,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13587,6 +13587,15 @@
       "passadas": "3 passadas (49/11/12 fontes; 1680/12/21 relógios novos)",
       "site_bloqueado": "parcial: iwc.com/en/watch-collections.html PROVENANCE_REQUIRED; páginas de família só com JavaScript (registrado em L)",
       "obs": "Grande (sozinha). Base: WatchBase (famílias portugieser, pilot, da-vinci, portofino, big-pilot, gst-aquatimer; ingenieur não abriu) + catálogo oficial 2017, IWC. Curated, imprensa 2025-2026, lojas e leilões. Fotos: ~110 imagens diretas; ~1.400 linhas com link da ficha do WatchBase (o WatchBase não expõe a imagem). Nada corrigido na aba Marcas; anotado em M possível erro em I (Glashütte). Pendências Abback (itens 9 e 10) já estavam aplicadas (v777). Firecrawl não usado; WebFetch só pelo ajudante web-fetch. Próxima pela ordem: IXDAO (1019)."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 784,
+      "tipo": "posts",
+      "marcas": [
+        "Abordage"
+      ],
+      "obs": "Pendências do post da Abordage (itens 11 e 12): D e I substituídas, motivo acrescentado em M."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13695,12 +13704,12 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T09:43:53Z",
-  "ultimo_sinal": "2026-11-22T09:43:53Z",
+  "ultimo_sinal": "2026-11-22T09:49:25Z",
   "em_andamento": {
     "marcas": [
       "IXDAO"
     ],
     "linha_marcas": 1019,
-    "etapa": "pendências Abordage (itens 11 e 12) antes da bateria"
+    "etapa": "bateria a começar"
   }
 }
