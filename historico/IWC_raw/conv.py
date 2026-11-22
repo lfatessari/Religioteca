@@ -34,7 +34,7 @@ if os.path.exists(sys.argv[1]+'/img_override.txt'):
     for l in open(sys.argv[1]+'/img_override.txt',encoding='utf-8'):
         if l.strip():
             p=l.rstrip('\n').split('|'); OV[norm(p[0])]=(p[1],p[2] if len(p)>2 else '')
-out=[];seen=set()
+out=[];seen=set();idx={}
 for f in sorted(glob.glob(sys.argv[1]+'/wb_*.txt')):
     key=os.path.basename(f)[:-4]; fam=FAM.get(key)
     for l in open(f,encoding='utf-8'):
@@ -44,9 +44,9 @@ for f in sorted(glob.glob(sys.argv[1]+'/wb_*.txt')):
         ref,name=parts[0].strip(),parts[1].strip()
         img=parts[2].strip() if len(parts)>2 and parts[2].strip() else ''
         e_raw=parts[3].strip() if len(parts)>3 else None
-        n=norm(ref)
-        if n in seen: continue
-        seen.add(n)
+        n=norm(ref) or ('NAME:'+name)
+        over=key.startswith('wb_zz')
+        if n in seen and not over: continue
         b,e=parse(name)
         if e_raw is not None: b,e=name,e_raw
         if n in OV:
@@ -57,6 +57,10 @@ for f in sorted(glob.glob(sys.argv[1]+'/wb_*.txt')):
             slug=ref.lower().replace(' ','-')
             img=f'https://watchbase.com/iwc/{fam}/{slug}' if fam and re.fullmatch(r'iw\d{4}-\d{2}',slug) else f'https://watchbase.com/iwc/{fam}' if fam else ''
             e=(e+' ' if e else '')+'Foto: ver a ficha do WatchBase (link da página).'
-        out.append(f'{b}|{ref}|{img}|{e}')
+        line=f'{b}|{ref}|{img}|{e}'
+        if n in seen:
+            out[idx[n]]=line
+        else:
+            seen.add(n); idx[n]=len(out); out.append(line)
 open(sys.argv[2],'w',encoding='utf-8').write('\n'.join(out)+'\n')
 print(len(out))
