@@ -13732,7 +13732,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T10:44:31Z",
- "ultimo_sinal": "2026-11-22T10:54:31Z",
+ "ultimo_sinal": "2026-11-22T11:13:55Z",
  "em_andamento": {
   "marcas": [
    "Jack Mason"
@@ -13745,10 +13745,18 @@
   "secoes_feitas": [
    "1",
    "2",
+   "2c",
    "3",
+   "5",
    "7",
-   "9"
+   "8",
+   "9",
+   "10",
+   "10b",
+   "2a passada",
+   "3a passada"
   ],
-  "passada": 1
+  "passada": 1,
+  "obs": "pesquisa concluída (124 fontes, 109 relógios); falta gravar: dados em historico/dados_JackMason.txt e marca_JackMason.json"
  }
 }

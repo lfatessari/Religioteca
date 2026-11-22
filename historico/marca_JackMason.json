@@ -1,0 +1,632 @@
+{
+ "marca": "Jack Mason",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://jackmasonbrand.com/collections/heritage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/mens-best-sellers",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/mens-nautical",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/discover-our-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/texas-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-gmt-magnolia",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kingjewelers.com/collections/jack-mason",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchfactory.com.au/products/jack-mason-jm-n201-017",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfactory.com.au/products/jack-mason-jm-n302-021",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-brand-nautical-chronograph-jm-n102-018-watch-style-jm-n102-018",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/collections/all-watches/products/jack-mason-navy-nautical-chronograph-two-tone-watch-tan-leather",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kingjewelers.com/blogs/editorial/jack-mason-watches-american-watch-brand-guide",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/jack-mason/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/the-story-of-the-jack-mason-brand/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/jack-mason/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-jack-mason-pursuit-pilot-collection-10-year-anniversary-special-edition-la-joux-perret-g101-specs-pics-price",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jackmasonbrand.com/blogs/news?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/collector-1",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/stratotimer-gmt-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-frontier-gmt-night",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-42-verdant.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-42-dark-night",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-gmt-lone-star",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/stratotimer-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-gmt-espresso-ceramic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-42-americana",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/frontier-gmt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-gmt-dark-night-ceramic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/aviation",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/mens-diving",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/hydrotimer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/blogs/news/tagged/canton-day-date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/collector-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/new-collector-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/black-rose-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/welcome",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/blogs/news/sailing-into-new-territory",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://stagprovisions.com/collections/jack-mason",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/collections/jack-mason/products/jack-mason-aviator-jm-a101-106-automatic-watch-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sportique.com/products/jack-mason-field-38mm-watch-suede-strap",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://sportique.com/products/jack-mason-driver-watch-botanical-green-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.steepandcheap.com/jack-mason-a101-aviation-collection-stainless-steel-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.backcountry.com/jack-mason-d101-diving-3h-collection-watch-mens",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/pre-owned-modern-jack-mason-aviator-jm-a101-204",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfactory.com.au/products/jack-mason-jm-r102-015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfactory.com.au/products/jack-mason-jm-r101-003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfactory.com.au/products/jack-mason-jm-a101-005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/?p=122554",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://timeandtidewatches.com/micro-mondays-jack-mason-develops-a-new-collection-comprising-a-gmt-and-a-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2019/11/07/jack-mason-taylor-stitch-aviator-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/jack-mason-jm-n105-regatta-timer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/getting-to-know-texas-based-watch-brand-jack-mason",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://themanual.com/fashion/jack-mason-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/jack-mason-announces-the-launch-of-canton-and-hall-300470209.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2019/05/13/jack-mason-canton-day-date/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-dive-gmt-cobalt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/strat-o-timer-dive-gmt-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/dr-pepper-real-sugar-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/new-release-jack-mason-strat-o-timer-42-dr-pepper-2026-limited-edition-watch-refreshes-the-original-flavor/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/the-jack-mason-2024-dr-pepper-strat-o-timer-gmt-collaboration-watch-tastes-more-like-regular-dr-pepper",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/canton-day-date",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/canton-day-date-america-250-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/jack-mason-introduces-the-canton-day-date-with-milled-guilloche-dials-and-american-assembly/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/holiday-gift-guide-25",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/the-pursuit-pro-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/pursuit-pro-hunter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/pursuit-pro",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/halyard-sport-chronograph-1",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/halyard",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/blogs/news/making-waves",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/hydrotimer-dive-watch-individual",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goodnbr.com/products/halyard-chronograph-white-tan",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goodnbr.com/products/halyard-sport-chronograph-white-brown",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/jack-mason-hydrotimer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/meet-the-canton",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/canton-agave",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/canton-salt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/canton-sapphire",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/canton-anthracite",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/palmera-skin-diver-ash",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/palmera-skin-diver-seafoam.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/the-seatrek-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-jack-mason-palmera-skin-diver-and-a-new-way-of-bringing-watches-to-market/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/jack-mason-canton-swiss-made/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/avigator-chrono-42mm-sky-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/aviator-watch-42mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/pursuit-watch-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/pursuit-pilot",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goodnbr.com/products/pursuit-chronograph-black-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goodnbr.com/products/avigator-sport-chronograph-off-white-brown",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goodnbr.com/products/nautical-chronograph-black-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://stagprovisions.com/products/seatrek-diver-watch-42mm-black-orange",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/collections/automatic-watches/products/jack-mason-black-diving-automatic-stainless-steel-watch-black-rubber",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-brand-jm-a102-018-aviator-chronograph-watch-style-jm-a102-018",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-brand-jm-a102-015-aviator-chronograph-watch-style-jm-a102-015",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-brand-jm-a101-005-aviator-3-hand-watch-style-jm-a101-005",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-brand-jm-a101-002-aviator-3-hand-watch-style-jm-a101-002",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-nautical-chronograph-watch-style-jm-n102-015",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-brand-nautical-chronograph-jm-n102-026-watch-style-jm-n102-026",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-brand-nautical-chronograph-watch-42mm-style-jm-n102-025",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.saintbernard.com/products/jack-mason-aviator-chronograph-42mm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchfactory.com.au/products/jack-mason-jm-n201-053",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchfactory.com.au/products/jack-mason-jm-n302-022",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/collections/jack-mason/products/jack-mason-aviator-navy-chronograph-stainless-steel-watch-steel-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-aviator-black-chronograph-black-pvd-watch-tan-leather",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-white-nautical-chronograph-gold-watch-steel",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-black-nautical-chronograph-stainless-steel-watch-steel",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-white-diver-3-hand-stainless-steel-watch-steel",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-navy-diver-3-hand-stainless-steel-navy-nylon",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-black-diver-stainless-steel-3-hand-watch-42mm-black-rubber",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-nautical-white-chronograph-stainless-steel-watch-tan-leather",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/jack-mason-aviator-navy-chronograph-stainless-steel-watch-saddle-leather",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.backcountry.com/jack-mason-a102-aviation-collection-leather-watch-jcm0003",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/ellum-manual-wind-sky",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/ellum-manual-wind",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/meet-ellum-2",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://stagprovisions.com/products/ellum-heritage-watch-40mm-sky-blue-tan",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/the-halyard-series",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/collections/mens/products/seatrek-automatic-1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/products/stratotimer-gmt-3",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jackmasonbrand.com/pages/gmt",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/collections/automatic-watches/products/jack-mason-field-jm-f103-001-automatic-watch-brown-leather",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://stagprovisions.com/products/jack-mason-field-camp-watch-38mm-navy-brown-leather",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.steepandcheap.com/jack-mason-f102-field-chrono-collection-watch-mens",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Fase Relógios 22/11/2026 (v786): marca pintada de vermelho — além das linhas atuais (Strat-o-timer, Canton, Pursuit, Palmera, Ellum) existe uma linha antiga de quartzo (Nautical, Aviation, Field, Diving, Racing, 2015–2020) com centenas de referências JM-xxxx-xxx vendidas em lojas de departamento, a maioria sem foto acessível. Ainda a verificar: (1) ano de fundação — site oficial e aBlogtoWatch (2024) dizem 2015, mas Gear Patrol (2019, Canton Day-Date) e o comunicado PR Newswire de 2017 dizem 2013; (2) J (Nautical, Aviation, Field, Diving, Halyard) traz só as linhas antigas, hoje quase todas descontinuadas (a Halyard aparece como retirada do catálogo); as coleções atuais do site oficial são Strat-o-timer GMT/42/Frontier/Titanium Diver GMT, Canton, Canton Day-Date, Pursuit Pilot, Pursuit Pro e Palmera Skin Diver; (3) I não cita o cofundador e diretor criativo Peter Cho (ex-Movado e Fossil, segundo a aBlogtoWatch 2024), a mudança para venda direta (~2020) nem os primeiros movimentos suíços (Ellum, Canton La Joux-Perret); E=2/F=2000 não batem com os preços atuais (US$ 799 a 1.849)."
+}
