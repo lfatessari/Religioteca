@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 442,
-  "ultima_versao": 800,
+  "ultima_versao": 801,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13908,6 +13908,13 @@
       "tipo": "marcas_novas",
       "marcas_novas": 16,
       "obs": "Usuário mandou 45 marcas (22/11/2026); 29 já existiam (com outro nome em: VanBanner, Evant, Matterhorn Watch Co., Drayton Watches, DeMarco Watches, Lacite, Geist, McQuaide Watches, Monro Adventure, Crepas Watches, Feynman Timekeepers, Hitori, VPC Watch, Nordic Marine Instruments, LYH Lin YongHua, STREHLER, Frédéric Jouvenot). 16 inseridas em ordem alfabética só com o nome: First Stage, Xera Watches, Taranis, CS Watches, MRyan Watches Design, Octopuskraken Watch, Astrabyss, Offbeat Watches, Koda Watches, Logan Kuan Rao, Schaerer, Lowinger, GearMagus, Bradley Taylor, Christian Lass, James Lamb. Fase volta a 'marcas' (fila.py: 16); lista em historico/marcas_novas_2026-11-22b/novas.json."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 801,
+      "tipo": "lacunas_marcas",
+      "marcas": 16,
+      "obs": "As 16 marcas novas da v800 (Astrabyss a Xera Watches), numa rodada só (8 ajudantes × 2 marcas). fila.py = 0: fase volta a 'relogios'. Revisão: Lowinger sem E/F (preços de uma só revista), Taranis D sem o ano 2021 (uma fonte). First Stage só com I; GearMagus sem B/C/G/H/K. Itens A5 da ACIZEM já estavam aplicados (v788)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14007,15 +14014,13 @@
   },
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
-  "fase": "marcas",
+  "fase": "relogios",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Yuen Watches",
+    "ultima_marca_revisada": "Xera Watches",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T20:37:48Z",
-  "ultimo_sinal": "2026-11-22T20:37:48Z"
+  "adiadas_obs": {}
 }
