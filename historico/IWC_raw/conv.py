@@ -59,6 +59,9 @@ for f in sorted(glob.glob(sys.argv[1]+'/wb_*.txt')):
             e=(e+' ' if e else '')+'Foto: ver a ficha do WatchBase (link da página).'
         line=f'{b}|{ref}|{img}|{e}'
         if n in seen:
+            old=out[idx[n]].split('|')
+            if img.endswith('.pdf') and 'watchbase' in old[2]:
+                line=f'{b}|{ref}|{old[2]}|{e} Ficha do WatchBase (link da página).'
             out[idx[n]]=line
         else:
             seen.add(n); idx[n]=len(out); out.append(line)
