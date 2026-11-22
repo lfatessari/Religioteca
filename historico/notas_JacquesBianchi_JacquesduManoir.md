@@ -1,0 +1,5 @@
+# Bateria v790 (22/11/2026): Jacques Bianchi + Jacques du Manoir
+- Jacques Etoile adiada: a Jacques du Manoir se revelou grande (153 produtos no site). Notas em notas_JacquesEtoile.md.
+- JB: site oficial (Shopify) aberto pelo Firecrawl (home + products.json, 26 relógios). Imprensa, lojas, vintage (JB300 Armée de Terre 1993-94, JB200 1982). Últimas fontes sem novidade. Não vermelha. Logo não achado.
+- JdM: grande e vermelha. products.json oficial (153) via Firecrawl; WebFetch oficial pediu permissão (L). Linhas antigas por WatchPilot (2 páginas), Watchia, Mastersintime (historical), Watch Direct AU (JDM Military, Cocktail). 3 passadas. Falta: JDM Military completa (WG001–WG018), Coupole RC/RCJ/RCP, Emotion EM, B-Watch vintage, refs tipo 98219L/98166L/2467G/FA.19/JCN.78 vistas no eBay.
+- Auto-auditoria: blog oficial JB lido só pela home (3 artigos: Swim Cup, Marégraphe, Musée Subaquatique) — nenhum relógio novo; JdM não tem blog. Nomes de J (Inspiration Business, Emily, Pro Scuba, Elegance, Prime, Active) todos achados.

@@ -1,0 +1,307 @@
+{
+ "marca": "Jacques du Manoir",
+ "usa_codigos": true,
+ "logo": "https://www.jacquesdumanoir.ch/cdn/shop/files/LOGO_JDM_black_bold_53808b37-bc94-4184-a9da-d6a6e5225cb9.jpg",
+ "site_bloqueado": "Parcial – jacquesdumanoir.ch: o WebFetch pediu permissão (PROVENANCE_REQUIRED); loja e products.json abertos pelo Firecrawl em 22/11/2026",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 22/11/2026: 153 relógios do site oficial (products.json) + linhas antigas (Inspiration NRO, Coupole RC/RCJ/RCM/RCP, Emotion, Cocktail, Royal, Fiona, Mia, Viola, Grace, Phoenix) e a sub-marca JDM Military (WatchNation a chama de 'sub-marca esportiva e masculina da Jacques du Manoir'). Vermelha: dezenas de referências antigas e da JDM Military (WG001 a WG018) ainda sem lista completa. Site oficial confirma a fabricação em Mendrisio (C); o registro comercial dá sede em Wallbach. A história da marca (1993, Jacques Boegli, B-Watch 1991, Christian Frommherz 2018) continua vindo só do texto da marca repetido por lojas (West End Collection, First Class Watches, James Moore). Watch Direct (Austrália) diz 'fundada em 2005' — diverge.",
+ "fontes": [
+  {
+   "url": "https://jacquesdumanoir.ch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jacquesdumanoir.ch/products.json?limit=250",
+   "passada": 1,
+   "novos": 153
+  },
+  {
+   "url": "https://www.fhinds.co.uk/watches/watches-by-brand/jacques-du-manoir",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/jacques-du-manoir-watches-c-4948/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://ocarat.com/en/jacques-du-manoir-watch/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.thbaker.co.uk/jacques-du-manoir-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/brands/jacques-du-manoir.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/jacques-du-manoir-watches-c-4948/?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manor.ch/fr/shop/bijoux-montres/montres/b/jacques-du-manoir/watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/jacques-du-manoir-inspiration-active-swiss-made-ladies-quartz-watch-with-date-and-mop-dial-jwl05002.htm",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thbaker.co.uk/jacques-du-manoir-ladies-inspiration-active-two-tone-green-dial-watch-jwl05004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mcelhinneys.com/en-ca/products/jacques-du-manoir-33mm-jwl05001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.littlewoods.com/jacques-du-manoir-swiss-made-ladies-inspiration-active-two-tone-bracelet-watch/1601173037.prd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/us/jacques-du-manoir-swiss-made-inspiration-gold-two-tone-36mm-watch-with-black-stone-set-dial-and-date/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/uk/swiss-made-inspiration-rose-gold-ip-case-and-bracelet-watch-with-date/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpilot.com/pages/jacques-du-manoir-brand",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.myer.com.au/b/jacques-du-manoir",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/producttype/toplist/brand/wristwatches-163/jacques-du-manoir-63479",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.very.co.uk/jacques-du-manoir-inspiration-multifunction-two-tone-watch/1601359801.prd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.very.co.uk/jacques-du-manoir-inspiration-mini-26mm-dial-two-tone-watch/1601302317.prd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mastersintime.com/jacques-du-manoir",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpilot.com/collections/jacques-du-manoir-watches",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.watchpilot.com/collections/jacques-du-manoir-watches?page=2",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.watchia.com/eu/brands/jacques-du-manoir.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ontime.com/collections/jacques-du-manoir",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Jacques-du-Manoir-Womens-Wristwatches/31387/bn_89080352",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.com/itm/326535751277",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.westendcollection.com.au/brands/jacques-du-manoir",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/us/designers/jacques-du-manoir/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rubiconwatches.com/collections/jacques-du-manoir.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Jacques-du-Manoir-Other-Watches/260326/bn_7116608418",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jacques-du-manoir-inspiration-daydate-swiss-made-quartz-watch-with-daydate-jwg00302.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/jacques-du-manoir-coupole-fashion-rc-79.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/eu/jacques-du-manoir-coupole-classic-rc-30.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/eu/jacques-du-manoir-coupole-classic-rc-46.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/eu/jacques-du-manoir-coupole-fashion-rcp-90.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mastersintime.com/jacques-du-manoir-grace-swiss-made-quartz-watch-with-mop-dial-jwl02503.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mastersintime.com/jacques-du-manoir-grace-swiss-made-quartz-watch-with-crystals-jwl02507.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mastersintime.com/jacques-du-manoir-phoenix-swiss-made-quartz-chronograph-with-date-jwg03702.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ie.firstclasswatches.com/jacques-du-manoir-inspiration-moonphase-40mm-blue-dial-stainless-steel-jwg01601-p-100252/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/jacques-du-manoir-inspiration-36mm-silver-dial-rose-gold-pvd-steel-nro15-p-100273/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://galaxus.ch/en/s8/product/jacques-du-manoir-inspiration-swiss-made-wristwatches-57337115",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/jacques-du-manoir-coupole-mesh-rcm-46.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchia.com/en/jacques-du-manoir-coupole-classic-rc-28.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchdirect.com.au/products/jdm-coupole-classic-26mm-gold-bezel-black-watch",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://www.watchia.com/world/jacques-du-manoir-coupole-fashion-rc-71.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/jacques-du-manoir-coupole-mesh-rcm-28.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://timeshop24.com/uhren/jdm-military.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/alpha-i-jdm-wg001-04-jdm-military-watch-109643.html",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://ocarat.com/en/delta-24-watch-jdm-wg018-01-jdm-military-109656.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/alpha-ii-jdm-wg005-02-watch-jdm-military-109651.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.harveynorman.com.au/jdm-military-echo-watch.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/eu/jacques-du-manoir-cocktail-sormi-08.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://luxury.tatacliq.com/jacques-du-manoir-sor-01-cocktail-watch-for-women/p-mp000000007904890",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnation.com/products/jdm-military-tango-green-dial-black-silicone-strap-mens-watch-jdm-wg008-02",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/blog/?p=86797",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.very.co.uk/jacques-du-manoir-emily-ii-stone-set-dial-silver-watch/1601359776.prd",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamesmoorejewellers.co.uk/product-category/watches/jacques-du-manoir",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchdirect.com.au/products/jdm-cocktail-34mm-blue-dial-rose-gold-strap-watch",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

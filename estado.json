@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1024,
- "ultima_versao": 789,
+ "proxima_linha_marcas": 1026,
+ "ultima_versao": 790,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13717,6 +13717,46 @@
     ]
    },
    "obs": "Oficial jacobjensen.com/products.json deu PROVENANCE (L). Páginas pelo ajudante web-fetch (watch.co.uk/mastersintime = distribuidor Holland Watch Group, com páginas 'historical'), catálogos 2022-23 e 2025-26 em PDF, Serious Watches, eBay, Galaxus, City Diamonds. Firecrawl sem créditos. Só 50 dos 205 com foto direta. Pendências ACIZEM aplicadas na v788. Próxima pela ordem: Jacques Bianchi (1025)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 790,
+   "marcas": [
+    "Jacques Bianchi",
+    "Jacques du Manoir"
+   ],
+   "linhas_relogios": "120897-121177",
+   "relogios": 281,
+   "detalhe": {
+    "Jacques Bianchi": {
+     "relogios": 31,
+     "fontes": 27,
+     "vermelho": false,
+     "grande": false
+    },
+    "Jacques du Manoir": {
+     "relogios": 250,
+     "fontes": 59,
+     "vermelho": true,
+     "grande": true,
+     "site_bloqueado": true,
+     "passadas": {
+      "1": [
+       32,
+       214
+      ],
+      "2": [
+       15,
+       14
+      ],
+      "3": [
+       12,
+       13
+      ]
+     }
+    }
+   },
+   "obs": "Firecrawl com créditos (baixos): abriu os dois sites oficiais e products.json. Jacques Etoile adiada (JdM virou grande); notas em historico/notas_JacquesEtoile.md. Correção na aba Marcas: Jacques Bianchi D e I (JB200 de 1982, não anos 1970). Pendências ACIZEM já estavam na v788; ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13824,34 +13864,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-22T13:43:52Z",
- "ultimo_sinal": "2026-11-22T14:04:13Z",
- "em_andamento": {
-  "marcas": [
-   "Jacques Bianchi",
-   "Jacques du Manoir"
-  ],
-  "linha_marcas": 1025,
-  "grande": true,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a passada"
-  ],
-  "passada": 3,
-  "obs": "Jacques du Manoir é grande (153 produtos no site); Jacques Etoile adiada (notas em historico/notas_JacquesEtoile.md)"
- }
+ "adiadas_obs": {}
 }
