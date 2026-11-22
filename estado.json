@@ -13524,7 +13524,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-21T23:43:16Z",
-  "ultimo_sinal": "2026-11-22T00:02:58Z",
+  "ultimo_sinal": "2026-11-22T00:05:25Z",
   "em_andamento": {
     "marcas": [
       "Invicta"
@@ -13547,6 +13547,6 @@
       "9",
       "10"
     ],
-    "passada": 2
+    "passada": 3
   }
 }
