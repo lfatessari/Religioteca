@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1015,
- "ultima_versao": 780,
+ "proxima_linha_marcas": 1016,
+ "ultima_versao": 781,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13533,6 +13533,24 @@
    "passadas": "2 passadas (36/7 fontes; 31/3 relógios novos)",
    "site_bloqueado": "sim: itanano.com PROVENANCE_REQUIRED na tentativa direta (ajudante web-fetch)",
    "obs": "Bateria só com ITAnano: Itay Noy (1016), a seguinte, tratada como grande (muitas coleções limitadas, WatchBase com famílias) e fica sozinha na próxima execução; i-Toc (1017) depois dela. J corrigida (Phantom), resto só anotado em M. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências A5 (Abback) já aplicadas na v777; ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 781,
+   "marcas": [
+    "Itay Noy"
+   ],
+   "linhas_relogios": "118209-118344",
+   "relogios": {
+    "Itay Noy": 136
+   },
+   "vermelho": true,
+   "fontes": {
+    "Itay Noy": 107
+   },
+   "passadas": "3 passadas (52/44/11 fontes; 72/69/0 relógios novos)",
+   "site_bloqueado": "não: o G antigo (itaynoy.com) pediu permissão, mas o site oficial certo itay-noy.com abriu (29 coleções)",
+   "obs": "Grande (sozinha). Corrigidos na aba Marcas: G (itay-noy.com), J e trechos de I (Bezalel joalheria; coleções reais). K = logo oficial. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências Abback (itens 9 e 10) já estavam aplicadas (v777). Próxima pela ordem: i-Toc (1017)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

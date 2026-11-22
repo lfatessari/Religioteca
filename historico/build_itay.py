@@ -57,6 +57,7 @@ fm2=fm+' 2018; US$ 9.800.'
 a('Full Month - mostrador azul - edição limitada de 18 peças','FULL MONTH.BL','2018/11/FM.BL_.jpg',fm2+' Esgotado.')
 a('Full Month - mostrador branco - edição limitada de 18 peças','FULL MONTH.WT','2018/11/FM.W.jpg',fm2+' Esgotado.')
 a('Full Month - mostrador preto - edição limitada de 18 peças','','https://wornandwound.com/library/uploads/2018/09/Itay-Noy-Full-Month-6.jpg',fm2+' Citado só pela Worn & Wound (2018); não aparece no site oficial.')
+a('Full Month Color Wheel (Color Wheel Month) - edição limitada de 24 peças','','https://www.europastar.com/local/cache-gd2/da/4238044db6befa362ddf130222d460.jpg','Data lida em 15 aberturas com tons do arco-íris, a cor do dia muda a cada dia; pequenos segundos perto das 7 h. Aço 316L 40 × 44 mm, 6,24 mm de altura, fundo de safira, 5 ATM. Calibre IN.VMF5400 (Vaucher VMF 5400) automático com microrrotor, 48 h. 2021; US$ 7.950. Peças numeradas. Não aparece no site oficial.')
 a('Full Month Moon - edição limitada de 18 peças','FULL MONTH.MN','2018/11/FM.jpg','Os 31 números do mês trocados por 31 fases da lua. '+fm2+' Esgotado.')
 tt='Discos coloridos giratórios fazem o papel do ponteiro das horas; o dono escolhe qual disco marca a hora. Aço 316L 44 × 12 mm, safira, fundo aberto, 5 ATM. Calibre IN.IP13 / IN.AR de corda manual.'
 a('Time Tone - mostrador azul - edição limitada de 24 peças','TONE.BL','2018/11/TT.BL_.jpg',tt+' Azul com banho de ouro. 2017; US$ 5.600.')
@@ -88,7 +89,7 @@ a('Hyper Landscape - negativo - edição limitada de 24 peças','','https://www.
 mk='Caixa quadrada de aço 316L 42,4 × 42,4 × 11,6 mm, safira, fundo aberto, 5 ATM. TechnoTime TT651-24H automático (2º fuso, dia/noite 24 h, grande data), 42 h.'
 a('Mask 01 - edição limitada de 24 peças','MASK01','2018/12/MASK02.jpg',mk+' No site, a foto do MASK01 tem o nome de arquivo MASK02.')
 a('Mask 02 - edição limitada de 24 peças','MASK02','2018/12/MASK01.jpg',mk+' No site, a foto do MASK02 tem o nome de arquivo MASK01.')
-dl='Aço 316L 41,6 × 44,6 × 10,6 mm, safira, fundo aberto, 5 ATM. Calibre 6498-1 de corda manual, 38 h, pequenos segundos.'
+dl='Lançado em 2012; US$ 3.640 (vendido pela Bareti). Aço 316L 41,6 × 44,6 × 10,6 mm, safira, fundo aberto, 5 ATM. Calibre 6498-1 de corda manual, 38 h, pequenos segundos.'
 for c,i,d in [('DiaLOG-ROM','DLG.R.jpg','numerais romanos'),('DiaLOG-ROM.L','DLG.RL_.jpg','numerais romanos (L)'),('DiaLOG-NUM','DLG.N.jpg','numerais arábicos'),('DiaLOG-NUM.L','DLG.NL_.jpg','numerais arábicos (L)')]:
     a(f'DiaLOG - {d} - edição limitada de 99 peças',c,'2018/11/'+i,dl)
 xr='Mostrador esmaltado gravado como uma radiografia do movimento. Aço 316L 41,6 × 44,6 × 10,6 mm, safira, fundo aberto, 5 ATM. Calibre 6497-1/6498-1 de corda manual, 38 h, pequenos segundos. Lançado em 2011.'
