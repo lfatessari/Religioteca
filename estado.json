@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 440,
- "ultima_versao": 798,
+ "ultima_versao": 799,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13892,6 +13892,15 @@
     }
    },
    "obs": "Adiadas antes de pesquisar a fundo (ADIADAS no proxima_marca.py): Azzam Watches (home do site deu PROVENANCE_REQUIRED, linha própria Horologist sem nenhuma fonte de fora, Firecrawl sem créditos) e Chrono Company (nenhuma fonte; só homônimas). Pendências ACIZEM (itens 13–16) já estavam aplicadas na v797 (células iguais). Ferramenta Projects ausente. Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 799,
+   "tipo": "lacunas_marcas",
+   "marcas": [
+    "AOS Watches"
+   ],
+   "obs": "A pedido do usuário: H = @aoswatches (informado por ele), G = arthuroskarstampfli.com, F = R$ 218.576 (média de 10 preços de lançamento da imprensa), E = 8. K vazio (sem logo confirmado). A AOS continua adiada na aba Relógios (30 relógios levantados em historico/parcial_AOS_relogios.txt)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

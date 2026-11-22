@@ -1,0 +1,19 @@
+{
+ "versao": 799,
+ "data": "2026-11-22",
+ "tipo": "lacunas_marcas",
+ "prefixo": "Lacunas preenchidas a pedido",
+ "marcas": [
+  "AOS Watches"
+ ],
+ "celulas": {
+  "AOS Watches": {
+   "E": 8,
+   "F": 218576,
+   "G": "arthuroskarstampfli.com",
+   "H": "@aoswatches",
+   "M": "Preenchidas a pedido do usuário (22/11/2026). F = média de 10 preços de lançamento citados na imprensa (marca sem loja on-line encontrada), em R$ pelo câmbio fixo (CHF 6,5; £ 7,451; US$ 5,5146): Ocean Classique Pearl CHF 8.498, Ocean Black Pearl CHF 9.498, Ocean Gold Pearl CHF 62.600, Octopussy CHF 9.498, Tourbillon Ingénieur S3 CHF 52.600, Ocean China Dragon Year CHF 12.450, Tourbillon Asia CHF 132.800 (The Watch Review Site, 2012); Elements CHF 11.000 (Total Design Reviews, 2014); The Cat Edition a partir de US$ 3.800 (IW Magazine); Wheels of Time a partir de £ 29.750 (Luxurious Magazine, 2013) = R$ 218.576 → E = 8. A mediana é bem menor (R$ 76.212): os turbilhões puxam a média para cima. G: arthuroskarstampfli.com é o site citado por WristReview (2014/2015) e The Watch Review Site (2012); um artigo de 2022 (Total Design Reviews) cita aos-watches.com. Nenhum dos dois abriu em 22/11/2026 (ROBOTS_UNREACHABLE), então não dá para saber qual está ativo. K continua vazio: sem site oficial acessível, e o único candidato (LOGO-1.jpg do The Watch Review Site) não abriu para conferir."
+  }
+ },
+ "base": "Relogios_atualizada_798.xlsx"
+}
