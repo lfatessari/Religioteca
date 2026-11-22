@@ -14043,5 +14043,20 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "PASSADA ÚNICA desde 22/11/2026 (v802): de cima para baixo pela aba Marcas, cada marca é concluída por inteiro (dados vazios + modelos) — proxima_completa.py; pedido do usuário",
-  "adiadas_obs": {}
+  "adiadas_obs": {},
+  "em_execucao": "2026-11-22T22:08:22Z",
+  "ultimo_sinal": "2026-11-22T22:08:22Z",
+  "em_andamento": {
+    "marcas": [
+      "Astrabyss"
+    ],
+    "linha_marcas": 213,
+    "grande": false,
+    "relogios": "historico/parcial_Astrabyss_relogios.txt",
+    "fontes": "historico/parcial_Astrabyss_fontes.txt",
+    "notas": "historico/notas_Astrabyss.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "so_dados": "Arca Opus a Aubliq (38, ajudantes)"
+  }
 }
