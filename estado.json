@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1010,
- "ultima_versao": 774,
+ "proxima_linha_marcas": 1011,
+ "ultima_versao": 775,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13434,6 +13434,24 @@
    "passadas": "3 passadas (84/28/27 fontes; 438/275/69 relógios)",
    "site_bloqueado": "não registrado: invictawatch.com deu PROVENANCE na tentativa direta; páginas oficiais vindas de busca (staging2/about, /watches/nfl, /watches/subaqua) abriram, mas sem lista de modelos",
    "obs": "228 linhas com foto; o resto com link da página (listagens sem imagem). Correção I (relançamento em 1991). Firecrawl sem créditos. Ferramenta Projects ausente; A5 sem pendências. Próxima: Iron Annie, Islander, Isotope…"
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 775,
+   "marcas": [
+    "Iron Annie"
+   ],
+   "linhas_relogios": "117510-117617",
+   "relogios": {
+    "Iron Annie": 108
+   },
+   "vermelho": true,
+   "fontes": {
+    "Iron Annie": 149
+   },
+   "passadas": "3 passadas (112/26/11 fontes; 86/10/8 relógios)",
+   "site_bloqueado": "sim: iron-annie.de PROVENANCE na tentativa direta (ajudante web-fetch)",
+   "obs": "Grande, sozinha. Sem correções na aba Marcas (só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; ferramenta Projects ausente; A5 sem pendências. Próxima: Islander (1012, grande: coleção com 18+ páginas) — sozinha."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13540,34 +13558,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-22T00:44:06Z",
- "ultimo_sinal": "2026-11-22T01:00:31Z",
- "em_andamento": {
-  "marcas": [
-   "Iron Annie"
-  ],
-  "linha_marcas": 1011,
-  "grande": true,
-  "relogios": "historico/parcial_Iron Annie_relogios.txt",
-  "fontes": "historico/parcial_Iron Annie_fontes.txt",
-  "notas": "historico/notas_Iron Annie.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2ª passada"
-  ],
-  "passada": 3,
-  "obs": "Iron Annie grande (sozinha). Site oficial PROVENANCE; Firecrawl sem créditos."
- }
+ "adiadas_obs": {}
 }
