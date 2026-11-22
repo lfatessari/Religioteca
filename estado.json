@@ -13797,5 +13797,23 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T12:43:16Z",
-  "ultimo_sinal": "2026-11-22T12:49:17Z"
+  "ultimo_sinal": "2026-11-22T13:00:00Z",
+  "em_andamento": {
+    "marcas": [
+      "Jacob Jensen"
+    ],
+    "linha_marcas": 1024,
+    "grande": true,
+    "relogios": "historico/parcial_Jacob_Jensen_relogios.txt",
+    "fontes": "historico/parcial_Jacob_Jensen_fontes.txt",
+    "notas": "historico/notas_Jacob_Jensen.md",
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
+    "passada": 1,
+    "obs": "parcial em TSV: ref, linha, url, características"
+  }
 }
