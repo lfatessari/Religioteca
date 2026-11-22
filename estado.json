@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1018,
-  "ultima_versao": 784,
+  "proxima_linha_marcas": 1021,
+  "ultima_versao": 785,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13596,6 +13596,34 @@
         "Abordage"
       ],
       "obs": "Pendências do post da Abordage (itens 11 e 12): D e I substituídas, motivo acrescentado em M."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 785,
+      "marcas": [
+        "IXDAO",
+        "J & Berg",
+        "J.N. Shapiro"
+      ],
+      "linhas_relogios": "120068-120136",
+      "relogios": {
+        "IXDAO": 32,
+        "J & Berg": 5,
+        "J.N. Shapiro": 32
+      },
+      "vermelho": {
+        "IXDAO": true,
+        "J & Berg": false,
+        "J.N. Shapiro": true
+      },
+      "fontes": {
+        "IXDAO": 44,
+        "J & Berg": 16,
+        "J.N. Shapiro": 56
+      },
+      "passadas": "IXDAO 33+11; J&Berg 16; J.N. Shapiro 42+14",
+      "site_bloqueado": "os três sites oficiais pediram permissão (PROVENANCE_REQUIRED) → L",
+      "obs": "Corrigido J da J & Berg. Logo da J.N. Shapiro (Exquisite Timepieces). Pendências Abordage aplicadas na v784. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próxima pela ordem: Jack Mason (1022)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13702,30 +13730,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T09:43:53Z",
-  "ultimo_sinal": "2026-11-22T10:04:16Z",
-  "em_andamento": {
-    "marcas": [
-      "IXDAO",
-      "J & Berg",
-      "J.N. Shapiro"
-    ],
-    "linha_marcas": 1019,
-    "grande": false,
-    "relogios": "historico/notas_lote.md (lista resumida)",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_lote.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
