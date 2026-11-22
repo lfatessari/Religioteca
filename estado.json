@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1023,
-  "ultima_versao": 788,
+  "proxima_linha_marcas": 1024,
+  "ultima_versao": 789,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13689,6 +13689,34 @@
         "ACIZEM Watches"
       ],
       "obs": "Itens 13 a 16 (D, I, F, J) aplicados a partir do post e do site oficial, aprovados pelo usuário em 22/11/2026."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 789,
+      "marcas": [
+        "Jacob Jensen"
+      ],
+      "linhas_relogios": "120692-120896",
+      "relogios": 205,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 150,
+      "passadas": {
+        "1": [
+          107,
+          119
+        ],
+        "2": [
+          31,
+          14
+        ],
+        "3": [
+          12,
+          31
+        ]
+      },
+      "obs": "Oficial jacobjensen.com/products.json deu PROVENANCE (L). Páginas pelo ajudante web-fetch (watch.co.uk/mastersintime = distribuidor Holland Watch Group, com páginas 'historical'), catálogos 2022-23 e 2025-26 em PDF, Serious Watches, eBay, Galaxus, City Diamonds. Firecrawl sem créditos. Só 50 dos 205 com foto direta. Pendências ACIZEM aplicadas na v788. Próxima pela ordem: Jacques Bianchi (1025)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13783,7 +13811,8 @@
     "Hagley West (linha 898)": "Parece GRANDE: loja Shopify com dezenas de variantes codificadas HWW### (Chrono, Classic/Original 36 e 46, Sport, Diver com nomes de cidades, Entrepreneur, Herts…). hagleywest.com direto deu PROVENANCE; as fichas /products/ aparecem em busca ('\"Hagley West\" Diver HWW watch' etc.) e abrem, mas sem foto na leitura. Fazer sozinha, de preferência com Firecrawl (products.json).",
     "Harry Winston (linha 913)": "Gravada em 19/11/2026 (v727), 431 relógios (109929-110359), vermelha. Complemento futuro com Firecrawl: harrywinston.com/sitemap.xml (formato query, uma coleção por vez: premier, avenue, emerald, midnight, high-jewelry-timepieces, histoire-de-tourbillon-and-opus) para listar todas as referências; fotos pelo og:image das fichas (têm ?rev=hash).",
     "Henry Archer (linha 936)": "Gravada em 20/11/2026 (v739), 138 relógios, vermelha. Complemento futuro com Firecrawl: henryarcher.com/products.json, collections/womens-watches?page=2..6 (149 produtos), mens-watches e sekvens (JavaScript); fotos das ~25 linhas só com link de página.",
-    "HMNWatch (linha 955)": "Marca grande (41+ produtos vistos só em listas cruzadas, várias cores cada). Dimensionamento e endereços em historico/notas_HMNWatch.md (20/11/2026, v748)."
+    "HMNWatch (linha 955)": "Marca grande (41+ produtos vistos só em listas cruzadas, várias cores cada). Dimensionamento e endereços em historico/notas_HMNWatch.md (20/11/2026, v748).",
+    "Jacob Jensen (linha 1024)": "Gravada em 22/11/2026 (v789), 205 relógios (120692-120896), vermelha. Só 50 com foto direta: as páginas da watch.co.uk/mastersintime vêm sem a imagem na leitura automática. Complemento futuro com Firecrawl (formats images/og:image) nessas páginas e em jacobjensen.com/products.json; referências históricas que faltam (Icon 211-245, Clear Line 42x, Eclipse 44x-48x, série 800 de cronógrafos, Square/Rectangular dos anos 2000)."
   },
   "marcas_pendentes": [],
   "marcas_novas_sem_relogios": [],
@@ -13795,34 +13824,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T12:43:16Z",
-  "ultimo_sinal": "2026-11-22T13:24:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Jacob Jensen"
-    ],
-    "linha_marcas": 1024,
-    "grande": true,
-    "relogios": "historico/parcial_Jacob_Jensen_relogios.txt",
-    "fontes": "historico/parcial_Jacob_Jensen_fontes.txt",
-    "notas": "historico/notas_Jacob_Jensen.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada",
-      "3a passada",
-      "gravando"
-    ],
-    "passada": 3,
-    "obs": "parcial em TSV: ref, linha, url, características"
-  }
+  "adiadas_obs": {}
 }
