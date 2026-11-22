@@ -13542,18 +13542,21 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T00:44:06Z",
- "ultimo_sinal": "2026-11-22T00:44:06Z",
+ "ultimo_sinal": "2026-11-22T00:51:13Z",
  "em_andamento": {
   "marcas": [
    "Iron Annie"
   ],
   "linha_marcas": 1011,
-  "grande": false,
+  "grande": true,
   "relogios": "historico/parcial_Iron Annie_relogios.txt",
   "fontes": "historico/parcial_Iron Annie_fontes.txt",
   "notas": "historico/notas_Iron Annie.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1,
-  "obs": "dimensionando Iron Annie/Islander/Isotope"
+  "obs": "Iron Annie grande (sozinha). Site oficial PROVENANCE; Firecrawl sem créditos."
  }
 }
