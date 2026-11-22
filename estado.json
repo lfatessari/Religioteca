@@ -1,6 +1,6 @@
 {
  "proxima_linha_marcas": 1012,
- "ultima_versao": 776,
+ "ultima_versao": 777,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13470,6 +13470,15 @@
    "passadas": "3 passadas (118/21/14 fontes; 185/21/10 relógios creditados às fontes abertas; ~70 modelos vieram de títulos de páginas oficiais nas buscas)",
    "site_bloqueado": "não registrado: products.json do longislandwatch.com deu PROVENANCE na tentativa direta, mas páginas de coleção e de produto vindas de busca abriram",
    "obs": "Grande, sozinha. 134 com foto, 187 com link da página do produto. Vermelha: ~75 números ISL não achados. Sem correções na aba Marcas (só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; ferramenta Projects ausente; A5 sem pendências. Próxima: Isotope (1013)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 777,
+   "tipo": "posts",
+   "marcas": [
+    "Abback"
+   ],
+   "obs": "Itens 9 e 10 (Abback D e I) do post de 21/11/2026 aplicados (pendências A5)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13578,7 +13587,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T02:43:45Z",
- "ultimo_sinal": "2026-11-22T02:43:45Z",
+ "ultimo_sinal": "2026-11-22T02:48:58Z",
  "em_andamento": {
   "marcas": [
    "Isotope"
