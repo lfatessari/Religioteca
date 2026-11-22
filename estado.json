@@ -13926,21 +13926,18 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T17:44:35Z",
- "ultimo_sinal": "2026-11-22T17:52:03Z",
+ "ultimo_sinal": "2026-11-22T17:53:37Z",
  "em_andamento": {
   "marcas": [
-   "AOS Watches"
+   "Avia"
   ],
-  "linha_marcas": 138,
+  "linha_marcas": 262,
   "grande": true,
-  "relogios": "historico/parcial_AOS_relogios.txt",
-  "fontes": "historico/parcial_AOS_fontes.txt",
-  "notas": "historico/notas_AOS.md",
-  "secoes_feitas": [
-   "1",
-   "9"
-  ],
+  "relogios": "historico/parcial_Avia_relogios.txt",
+  "fontes": "historico/parcial_Avia_fontes.txt",
+  "notas": "historico/notas_Avia.md",
+  "secoes_feitas": [],
   "passada": 1,
-  "obs": "Aeon Watches e A&S Watch adiadas (sem fontes); AOS tratada como grande (peças únicas)"
+  "obs": "Aeon Watches, A&S Watch e AOS Watches adiadas nesta execução (ver ADIADAS no proxima_marca.py); Avia tratada como grande (vintage)"
  }
 }
