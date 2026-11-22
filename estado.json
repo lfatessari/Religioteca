@@ -13924,5 +13924,21 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-22T17:44:35Z",
+ "ultimo_sinal": "2026-11-22T17:44:35Z",
+ "em_andamento": {
+  "marcas": [
+   "Aeon Watches",
+   "AOS Watches"
+  ],
+  "linha_marcas": 38,
+  "grande": false,
+  "relogios": "historico/parcial_<marca>_relogios.txt",
+  "fontes": "historico/parcial_<marca>_fontes.txt",
+  "notas": "historico/notas_<marca>.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "obs": "A&S Watch adiada (nada achado sobre a marca); Avia (vintage) tratada como grande, fica para a próxima"
+ }
 }
