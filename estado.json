@@ -13797,7 +13797,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T12:43:16Z",
-  "ultimo_sinal": "2026-11-22T13:00:00Z",
+  "ultimo_sinal": "2026-11-22T13:04:04Z",
   "em_andamento": {
     "marcas": [
       "Jacob Jensen"
@@ -13811,7 +13811,11 @@
       "1",
       "2",
       "3",
-      "7"
+      "4",
+      "5",
+      "7",
+      "8",
+      "9"
     ],
     "passada": 1,
     "obs": "parcial em TSV: ref, linha, url, características"
