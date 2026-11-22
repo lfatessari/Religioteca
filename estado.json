@@ -13760,7 +13760,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T11:43:09Z",
-  "ultimo_sinal": "2026-11-22T11:55:58Z",
+  "ultimo_sinal": "2026-11-22T11:58:39Z",
   "em_andamento": {
     "marcas": [
       "Jacob & Co"
@@ -13772,7 +13772,9 @@
     "notas": "historico/notas_JacobCo.md",
     "secoes_feitas": [
       "1",
-      "7"
+      "5",
+      "7",
+      "9"
     ],
     "passada": 1
   }
