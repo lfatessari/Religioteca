@@ -13968,17 +13968,20 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T18:44:00Z",
- "ultimo_sinal": "2026-11-22T18:44:00Z",
+ "ultimo_sinal": "2026-11-22T18:50:34Z",
  "em_andamento": {
   "marcas": [
-   "Azzam Watches"
+   "Caravelle"
   ],
-  "linha_marcas": 273,
-  "grande": false,
-  "relogios": "historico/parcial_Azzam_relogios.txt",
-  "fontes": "historico/parcial_Azzam_fontes.txt",
-  "notas": "historico/notas_Azzam.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "linha_marcas": 440,
+  "grande": true,
+  "relogios": "historico/parcial_Caravelle_relogios.txt",
+  "fontes": "historico/parcial_Caravelle_fontes.txt",
+  "notas": "historico/notas_Caravelle.md",
+  "secoes_feitas": [
+   "1"
+  ],
+  "passada": 1,
+  "obs": "Azzam Watches e Chrono Company adiadas (ADIADAS no proxima_marca.py) antes de pesquisar a fundo."
  }
 }
