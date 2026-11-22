@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 442,
-  "ultima_versao": 802,
+  "proxima_linha_marcas": 155,
+  "ultima_versao": 803,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13928,6 +13928,14 @@
       "versao": 802,
       "tipo": "mudanca_de_regra",
       "obs": "Pedido do usuário (22/11/2026): juntar as fases. 'fase' = 'completa' (PASSADA ÚNICA): de cima para baixo, cada marca é concluída por inteiro — dados vazios da aba Marcas e modelos da aba Relógios — na mesma execução. Novo proxima_completa.py (lote e registro em passada_unica/feitas.json); gravar_marca.py aceita o par 'lacunas lote.json' (testado: 539 s, RESULTADO: OK). Em 22/11: 1.641 marcas pendentes (1.093 sem modelos, 548 só dados). Tarefa agendada reescrita."
+    },
+    {
+      "versao": 803,
+      "data": "2026-11-22",
+      "tipo": "passada_unica",
+      "marcas": "A. Manzoni & Fils a Arcaido (50 só dados)",
+      "celulas_novas": 16,
+      "obs": "Pendências ACIZEM (itens 13-16) já estavam aplicadas desde a v788; ferramenta Projects ausente; Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14035,7 +14043,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "PASSADA ÚNICA desde 22/11/2026 (v802): de cima para baixo pela aba Marcas, cada marca é concluída por inteiro (dados vazios + modelos) — proxima_completa.py; pedido do usuário",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T21:43:56Z",
-  "ultimo_sinal": "2026-11-22T21:55:32Z"
+  "adiadas_obs": {}
 }

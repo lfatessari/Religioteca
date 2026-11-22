@@ -1,0 +1,229 @@
+{
+ "versao": 803,
+ "data": "2026-11-22",
+ "prefixo": "Passada única",
+ "marcas": [
+  "A. Manzoni & Fils",
+  "Abback",
+  "Adamas",
+  "Adriano Valente",
+  "Aeromat",
+  "Aesop",
+  "Aether",
+  "Agapever Watches",
+  "Agavus",
+  "Agelocer",
+  "ÁIGI",
+  "Akura",
+  "Alain Blanco",
+  "Alanti Watches",
+  "Alba",
+  "Albany Watches",
+  "Albedo Watches",
+  "Alchemists",
+  "Aleksandr Nesterenko",
+  "Alex Benlo",
+  "Alexandre Christie",
+  "Alexandre Martin",
+  "AleXora",
+  "Alfex",
+  "Alkimos Watch Co.",
+  "Aloha Timepieces",
+  "Alpharo",
+  "Alp Watches",
+  "Alternative Symmetry",
+  "Alterum",
+  "Altura Watches",
+  "Amaros",
+  "Amir Watch Company",
+  "Ancon",
+  "Andersen Genève",
+  "Andreas Strehler",
+  "anemoic.",
+  "Angelier",
+  "Angelo Del Mare",
+  "Anstead",
+  "Anura Rafael",
+  "Aperture",
+  "Apex Timeworks",
+  "Appella",
+  "Aquatico",
+  "Aquatrident",
+  "Arach",
+  "Aragon",
+  "Aramar Watch Co.",
+  "Arcaido"
+ ],
+ "celulas": {
+  "A. Manzoni & Fils": {
+   "M": "H e K não achados: o site amanzoni.com não abriu (robots/erro, uma tentativa); buscas 'A. Manzoni & Fils watches instagram' e 'site:instagram.com A. Manzoni Lugano' não trouxeram perfil oficial; masterhorologer.com/a-manzoni-fils-watches deu erro. Marca parece inativa (como já diz G); H segue '-' sem confirmação."
+  },
+  "Abback": {
+   "M": "K não achado: o site oficial abback-watches.fr não abriu (robots.txt inacessível, uma tentativa só) e o domínio não apareceu em nenhuma busca ('abback-watches.fr', 'Abback montre', 'Abback watch Club Citroën 2CV limited 500', 'Abback montre 2CV compteur Sancey'); sem Firecrawl, não houve outra rota para pegar a imagem do logo."
+  },
+  "Adamas": {
+   "E": "3",
+   "F": "5597",
+   "M": "F: média dos 2 relógios do site oficial (adamaswatches.com/products/meraki-mercator e /products/meraki-renard): € 899 cada (preço cheio; 'On Kickstarter from €599 – Launching 1 December', ainda 'Coming soon') → € 899 × 6,2257 = R$ 5.597 → E = 3. A página inicial e /pages/adamas mostram € 0,00 (marcador provisório). Preço de varejo ainda não praticado: conferir após o lançamento."
+  },
+  "Adriano Valente": {
+   "M": "H não achado: buscas 'Adriano Valente AV-L001 watch instagram', 'site:instagram.com Adriano Valente timepieces' e 'Adriano Valente watches Lausanne instagram' não trouxeram perfil. Fashionbi (fashionbi.com/financials/brands/adriano-valente) lista só facebook.com/adrianovalentesa e twitter.com/avtimepieces, sem Instagram. H segue '-'."
+  },
+  "Aeromat": {
+   "M": "C não achado: site oficial aeromatwatches.com (página inicial, /contact-page, /aboutus, /terms-and-condition) não informa endereço, cidade nem país (só e-mails service@ e customerservice@aeromatwatches.com). O link canônico da página about aponta para 'montrichard.odoo.com' (possível pista de Montricher VD, não confirmada). Dennisamith.com (resenha AEM450) diz só que a marca 'was founded as a group of European watch enthusiasts', sem cidade. Buscas por endereço/fundador não trouxeram nada. C segue '-'."
+  },
+  "Aesop": {
+   "M": "K não preenchido: o cabeçalho do site oficial aesoptourbillon.com (aberto direto em 22/11/2026) usa o nome em texto (\"AESOP OFFICIAL SHOP\"), sem imagem de logo; a única imagem nos metadados é foto de produto. Ainda a verificar: o rodapé do site oficial liga o Instagram instagram.com/aesoptourbillonstore (@aesoptourbillonstore), diferente do H atual (@aesoptourbillonofficialstore)."
+  },
+  "Aether": {
+   "M": "K não achado: o site oficial aetherwatches.com não abriu (WebFetch: robots.txt inacessível, 22/11/2026) e a busca site:aetherwatches.com não trouxe nenhuma página do próprio domínio (só imprensa: Worn & Wound, Wristwatch Review, aBlogtoWatch); o site pode estar fora do ar. Cuidado: a busca mistura a marca com a Aether Apparel (aetherapparel.com, colaboração Aether × Bamford), que é outra empresa."
+  },
+  "Agapever Watches": {
+   "M": "Nada novo achado: C, E, F, G, I, J e K não achados. A marca não aparece em nenhuma busca (22/11/2026: \"Agapever watches\", \"Agapever\", \"agapeverwatches\", site:instagram.com agapeverwatches, agapever.com, Kickstarter/microbrand Hong Kong): nenhum site oficial, loja, matéria ou registro; a coluna G estava vazia, então não havia site oficial para abrir direto. Sem preços nem modelos públicos (coerente com o D: marca em pré-lançamento). História não escrita: sem fontes (0 fontes achadas)."
+  },
+  "Agavus": {
+   "M": "K não preenchido: o cabeçalho do site oficial agavus.us (aberto direto em 22/11/2026) usa o nome em texto (\"Agavus\"), sem imagem de logo. O rodapé confirma o Instagram @agavusmx (igual ao H)."
+  },
+  "Agelocer": {
+   "M": "C: Guangzhou — catálogo de expositores da HKTDC (Feira de Relógios de Hong Kong) lista o fornecedor dos relógios AGELOCER como Guangzhou Pinlun Watch Co., Ltd., Guangdong, China (sourcing.hktdc.com); o fórum relojes-especiales.com diz que a marca é fabricada pela Guangzhou Yimi Trading Co. Ltd. (Guangzhou). O site oficial agelocer.com (aberto direto, mais about-us e contact-us) não dá cidade (só e-mail, telefone de Hong Kong +852 e endereço em imagem); about-us diz 'Registered in 2013'. K não preenchido: o cabeçalho do site oficial usa o nome em texto (\"AGELOCER\"); a única imagem é o banner og:image de divulgação. Revisão: C \"Guangzhou\" ficou a confirmar (fontes fracas, empresas diferentes; não gravado)."
+  },
+  "ÁIGI": {
+   "M": "C não preenchido: o site oficial aigitime.com (início, About Us e Contact Us) não dá cidade, só diz que a marca é norueguesa, fundada em 2017 'acima do Círculo Polar Ártico' por três entusiastas (Aleksander, Daniel e Christopher); Time+Tide (Gruvebus e Satellite Ground Station II), Oracle of Time e Indiegogo também não dão cidade. Achado só em 1 fonte (21st.ai, espelho do registro norueguês): AIGI AS, org. 919 086 742, fundada em 06/06/2017, endereço Østmovegen 6C, 7056 Ranheim (Trondheim), diretor Aleksander Brenn, presidente Daniel Glad — a confirmar, porque é uma fonte só e Trondheim fica abaixo do Círculo Polar, o que não bate com o texto da marca (pode ser só o endereço de registro)."
+  },
+  "Akura": {
+   "M": "K não preenchido: o site oficial akuratime.com não abriu (robots.txt inacessível, site possivelmente fora do ar) e o domínio não aparece em nenhum resultado de busca (só matérias de 2019 da Worn & Wound, aBlogtoWatch e Gear Patrol); sem acesso ao cabeçalho do site, o logo não foi gravado. Firecrawl sem créditos."
+  },
+  "Alain Blanco": {
+   "M": "Nada novo achado: B, C, E, F, G, I, J e K seguem vazios. Buscas por \"Alain Blanco\" watches, pelo perfil @alainblancowatches (inclusive site:instagram.com), pelo lema \"One Watch, Infinite Emotions\" e por Kickstarter/lançamento (5 buscas) só trouxeram outras marcas (Alain Silberstein, Blancpain); nenhum site oficial, imprensa ou loja sobre a marca. Coerente com D (marca em pré-lançamento). História não conferida: sem fontes."
+  },
+  "Alanti Watches": {
+   "I": "A Alanti é uma marca de Ottawa, no Canadá, criada por Al Antimia, que conta ter se interessado por relógios ainda criança, ao desmontar um relógio de corda manual, e ter feito MBA na Universidade de Toronto. Inspirado pelos mostradores de pedra da H. Moser & Cie, ele lançou a marca para levar pedras naturais raras, escolhidas a dedo, aos colecionadores. Os relógios usam mostradores de pedra como olho de tigre, abalone, aventurina e lápis-lazúli; o Tiffany Lapis, de 38 mm com máquina automática Miyota série 9, apareceu na lista de melhores relógios com mostrador de pedra de 2026 do Oracle of Time. [⚠️ a confirmar: biografia do fundador e ano de fundação, que vêm só do site da marca]",
+   "M": "K não preenchido: cabeçalho do site oficial alanti.me usa o nome em texto ('ALANTI Watches'), sem imagem de logo. I: fundador Al Antimia, Ottawa, infância, MBA em Toronto e inspiração na H. Moser (site oficial, página About Us); Tiffany Lapis 38 mm, Miyota 9, £ 825 (Oracle of Time, 'best stone dial watches 2026'); pedras dos modelos (J já na planilha e site oficial). O site oficial também diz que a marca expôs em cinco grandes feiras e foi citada pela Chrono24 — não incluído por falta de detalhes. Ano de fundação não achado. Fontes abertas: 7 (alanti.me início e About Us; oracleoftime.com; metro-ruddy.vercel.app, madeinca.ca, theslenderwrist.com e watchonista.com — as quatro últimas sem nada sobre a marca). Marca pouco documentada fora do próprio site."
+  },
+  "Alba": {
+   "H": "@albawatches",
+   "M": "H: @albawatches, perfil ligado no site internacional albawatches.com (página About Us; rodapé © SEIKO WATCH CORPORATION, que também liga ao site ALBA Japan). O site japonês alba.jp não liga nenhuma rede social."
+  },
+  "Albany Watches": {
+   "M": "H não achado: o site oficial albanywatches.com não abriu (PROVENANCE_REQUIRED na tentativa direta) e nenhuma das fontes abertas cita perfil de Instagram da marca (Time+Tide Micro Mondays, The Calibrated Wrist 'On Spec', Worn & Wound 2020, Wanted Online, Indiegogo 'The AMA Diver', WristWatchReview, podcast WatchClicker com Brett Williams: só ligam para albanywatches.com ou Kickstarter); buscas 'site:instagram.com albanywatches' e '@albanywatches' sem resultado. A confirmar: se existe @albanywatches."
+  },
+  "Albedo Watches": {
+   "M": "K não achado: o site oficial albedowatches.com não abriu (PROVENANCE_REQUIRED na tentativa direta) e as buscas 'albedowatches.com' e 'site:albedowatches.com' não trouxeram nenhuma página do domínio (só Alba, Albishorn etc.); sem Firecrawl. Volta para a próxima rodada."
+  },
+  "Alchemists": {
+   "M": "K não achado: o site oficial alchemists.swiss não abriu (robots.txt inalcançável: site possivelmente fora do ar) e a busca 'site:alchemists.swiss' não trouxe nenhuma página do domínio; imprensa (aBlogtoWatch, Monochrome, Deployant, The Limited Edition) não liga para um site ativo. A confirmar: se o site alchemists.swiss ainda existe."
+  },
+  "Aleksandr Nesterenko": {
+   "M": "G e K não achados: nenhum site próprio encontrado. SJX (dez/2021, 'Aleksander Nesterenko Makes His Debut with the Art Deco') diz para contatá-lo pelo Instagram (instagram.com/aleksandr_nesterenko_watch) e vende 'direct from Aleksander Nesterenko'; o fórum Relojes Especiales liga só para a página no Facebook (facebook.com/aleksandr.nesterenko.watch); a revenda é a The Limited Edition (thelimitededition.co.uk). Sem site, não há logo para K. Provável que não tenha site (não confirmado, por isso G fica vazio)."
+  },
+  "Alex Benlo": {
+   "K": "https://www.alexbenlo.com/themes/alex_benlo/img//logo-alex-benlo-inline-footer.svg",
+   "M": "K: logo do site oficial alexbenlo.com (arquivo SVG do rodapé; o link do logo do cabeçalho não traz imagem legível na leitura da página: conferir se a versão do rodapé aparece bem em fundo claro). Instagram do rodapé do site oficial: instagram.com/alexbenlo (bate com H)."
+  },
+  "Alexandre Christie": {
+   "E": "1",
+   "F": "463",
+   "M": "F: média de 49 preços de venda (40 relógios na página jamtangan.com do AC 9205 MC BURBU e relacionados + 9 da loja Machtwatch na Tokopedia, sem o par 'couple') = Rp 1.426.107 × 0,0003247 (cotação Wise IDR→BRL, consultada em 22/11/2026) = R$ 463 → E = 1. O site oficial alexandrechristie.com não mostra preços. C não achado: o site oficial (contact e about-us) não traz endereço; só um mapa embutido que aponta para Jacarta, sem dizer que é a sede, e nenhuma segunda fonte confirmou a cidade (a confirmar: Jacarta). Nota: monografia da Univ. Mercu Buana diz que a marca está na Indonésia desde 1995; o about do site fala em 'mais de meio século' de história."
+  },
+  "Alexandre Martin": {
+   "M": "G e K não achados: a matéria da Monochrome Watches sobre o lançamento do 1965 cita só o Instagram (instagram.com/alexandre.martin.watches) e nenhum site; buscas por 'Alexandre Martin' watchmaker/website não acharam domínio próprio. Monochrome confirma oficina em Morges e preço de CHF 65.000 (aço, 12 peças) — F atual (429.000) bate com isso."
+  },
+  "AleXora": {
+   "M": "H não achado: o site oficial alexorawatches.com não abriu (robots inacessível); o comunicado de 20/10/2009 (Newswire) e as notas da Europa Star/Masterhorologer citam só os sites alexora.ch e alexorawatches.com, sem redes sociais; buscas por Instagram da marca não trouxeram perfil. Mantido '-'. Marca parece inativa desde ~2011 (a confirmar)."
+  },
+  "Alfex": {
+   "M": "H e K não achados: o site alfex.com não abriu (robots inacessível) e buscas 'site:alfex.com' e 'site:instagram.com alfex' não trouxeram perfil nem página do site. Ponto a conferir em G: o cadastro da Lugano Region/Ticino lista o site como www.alfex.ch (endereço Centro Galleria 3, 6928 Manno; info@alfex.ch) — G atual 'alfex.com' pode estar errado (a confirmar)."
+  },
+  "Alkimos Watch Co.": {
+   "C": "Alkimos (Perth)",
+   "M": "C: site oficial alkimoswatches.com.au (página About Us): a marca 'nasceu da costa da Austrália Ocidental', leva o nome do naufrágio do Alkimos 'ao norte de Perth' e o fundador vive em Alkimos desde 2015; o site não traz endereço comercial (contact-information só tem e-mail). K não preenchido: o cabeçalho do site usa o nome 'ALKIMOS' em texto, sem imagem de logo. Obs.: o link do Instagram no rodapé do site está quebrado (alkimoswatches.com.au/instagram.com/alkimoswatches); H atual @alkimoswatches confirmado na página de contato."
+  },
+  "Aloha Timepieces": {
+   "M": "K não preenchido: a coluna G (linktr.ee/alohawatches) não tem logo da marca — só a foto de perfil (ugc.production.linktr.ee/exLXjQ4q10j3y51hfgc7_...png), que não pôde ser aberta para conferir se é o logo (erro do servidor). O site próprio aloha.watch aparece citado na Worn & Wound (intro do GMT 40 e review), mas não surgiu em nenhuma busca (2 tentativas), por isso não foi aberto. Fontes: linktr.ee/alohawatches; wornandwound.com/review/review-aloha-gmt-40/; wornandwound.com/?p=74328 (fundador Spencer Leu; preço US$ 1.700 na review). Sugestão: G pode passar a aloha.watch se o site ainda existir (a confirmar)."
+  },
+  "Alpharo": {
+   "C": "Mildenhall",
+   "E": "3",
+   "F": "5208",
+   "M": "C: Mildenhall (Bury St Edmunds, Suffolk) — endereço da página de contato do site oficial: 'Alpharo, Unit A, 82 James Carter Road, Mildenhall, Bury St Edmunds, IP28 7DE, UK'. F: único relógio à venda, Model 1, £ 699 na loja oficial (alpharo.co.uk/products/model-1, hoje esgotado) × 7,451 = R$ 5.208 → E = 3. Site oficial: empresa Alpharo Design Ltd, fundador Alexander Ryan (engenheiro mecânico), protótipo do Model 1 em 2025 (página about-us)."
+  },
+  "Alp Watches": {
+   "B": "Itália",
+   "E": "6",
+   "F": "62251",
+   "M": "B: Itália — o site oficial (alpwatches.com) tem a política de privacidade em italiano ('informativa-sulla-privacy') e diz que o responsável é a Nova Industries SRL (info@alpwatches.com); a matéria do Quotidiano Motori (quotidianomotori.com/lifestyle/alp-1-orologio-ultraleggero-carbonio/) apresenta o ALP-1 como 'sintesi tra precisione svizzera e creatività italiana', criado pelo designer Francesco Perusi e pelo empresário Alessandro Zavaglia. C não achado: o site não traz endereço e a busca pela Nova Industries SRL não achou registro. F: único relógio, ALP-1 Aurea (ouro 999,9), € 9.999 (preço promocional; normal € 12.560) na loja oficial alpwatches.com/shop × 6,2257 = R$ 62.251 → E = 6. K não preenchido: o cabeçalho (Wix) só mostra uma imagem pequena 'Alp Aurea p.png' (static.wixstatic.com/media/7403ca_a40a66a22f7e42fe97d831cc1432bb6d~mv2.png), sem confirmação de que seja o logo. Ponto a conferir: D fala em fibra de carbono e 23 g, mas a loja vende o ALP-1 Aurea em ouro puro."
+  },
+  "Alternative Symmetry": {
+   "I": "A Alternative Symmetry, que abrevia o nome como (A)LT|SYM, propõe uma nova abordagem da simetria no mostrador, dentro de uma caixa modular: o relógio é formado por um módulo, uma superfície e uma pulseira, vendidos também separadamente. A coleção tem quatro modelos: 001 Everyday AUTO (automático Seiko NH35), 002 Stealth DIGI (digital com tela LCD grande), 003 Dress AUTO (automático esqueletizado Miyota 8N24) e 004 Urban CHRONO (cronógrafo de quartzo Miyota OS20).\n\nA marca destaca a sustentabilidade: caixas e pulseiras de aço inoxidável reciclado, pulseiras de lona de garrafas PET recicladas e de couro vegano (milho e G-Pomme, de casca de maçã, vindo da Itália) e embalagem compacta, sem caixas de plástico ou madeira. O site credita o design ao estúdio Aspect Designing, do designer Phillip Plimmer, que passou pela Movado Group e pela Fossil Group. [⚠️ a confirmar: ligação de Phillip Plimmer com a Aspect Designing e sua carreira vêm de uma fonte só (Behance); fundador e ano de fundação não achados]",
+   "M": "F: média dos 4 relógios completos da loja oficial (alt-sym.com/shop): 001 $595, 002 $345, 003 $625, 004 $495 = $515 (módulos, superfícies, pulseiras e acessórios excluídos); a loja mostra só '$' sem código — considerado US$ (padrão Squarespace) × 5,5146 = R$ 2.840 → E = 2 (a confirmar a moeda). B e C não achados: o site oficial (home, our-story, contact-us) não tem endereço; o designer ligado à marca trabalhou nos EUA (Paramus, NJ) e na Suíça, segundo o Behance — não basta para B. I: marca pouco documentada; 5 fontes abertas: site oficial alt-sym.com (home, our-story, shop, contact-us) e behance.net/aspectdesiaae5; buscas na imprensa (Worn & Wound, Monochrome etc.) e por Instagram/Kickstarter não acharam nada. Modelos, movimentos, caixa modular e materiais: site oficial. Aspect Designing: crédito 'designed by' no site oficial; Phillip Plimmer: LinkedIn ligado no site oficial + Behance (só uma fonte para Movado/Fossil). Ponto a conferir: o site chama o 004 ora de 'Urban CHRONO', ora de 'Stealth CHRO'. Revisão: E/F (média US$ 515 → R$ 2.840) ficaram a confirmar: a loja mostra só \"$\", sem moeda confirmada (não gravados)."
+  },
+  "Alterum": {
+   "C": "Santa Fe",
+   "M": "C: Santa Fe (Novo México) — o fundador Justin Walters diz morar em Santa Fe no podcast Lonely Wrist (buzzsprout.com, episódio 16535669) e descreve a Alterum como marca de uma pessoa só; a Gear Patrol (gearpatrol.com/watches/alterum-worldtimer-horizon/) diz que ele passou a desenhar relógios no Novo México; a Revolution (revolutionwatch.com/justin-walters-marin-instruments-skin-diver/) diz que ele 'mora num deserto'. O site oficial (contact, story-a) não tem endereço; registro de marca nos EUA (Justia, 98823558, 28/10/2024) em nome de Justin Walters, endereço oculto. Ponto a conferir: B está como 'EUA (fabricado na Suíça)' — fabricação pela Roventa-Henex, em Tavannes (Revolution, 'The Alterum Story'); padrão da planilha seria 'USA'."
+  },
+  "Altura Watches": {
+   "M": "Nada novo achado. G (site) não achado: sem coluna G e nenhuma busca trouxe site da marca (buscas 'Altura Watches \"alturawatches\"', 'alturawatches.com', '\"Altura\" \"precision in every detail\"', '\"Altura Watches\" waitlist', 'site:instagram.com alturawatches_' e '\"@alturawatches_\"' só devolveram outras marcas: Victorinox Altimeter, Bremont Altitude, Movado Alta, Alterum). Por isso B, C, E, F, J e K não achados (marca em pré-lançamento, sem loja nem imprensa). História não conferida: sem fontes (0 fontes sobre a marca achadas). Instagram @alturawatches_ não pôde ser aberto (só por endereço montado)."
+  },
+  "Amaros": {
+   "M": "K não preenchido: o cabeçalho do site oficial amaros-watches.com mostra o nome em texto ('Amaros Watches Shop'); nenhuma imagem de logo na página (só fotos de produto e og:image do L'Odyssée GMT). Obs.: o rodapé do site não traz link de Instagram (H fica como está). O site já mostra o teaser do 'La Seconde'."
+  },
+  "Amir Watch Company": {
+   "I": "Pequena marca de relógios que leva o nome do irmão mais novo do fundador, Amir. Segundo o site oficial, a ideia é fazer relógios bem construídos, todos inspirados em algum aspecto da natureza, por menos de US$ 1.000; por enquanto eles são fabricados por terceiros, e a meta de longo prazo é virar uma relojoaria com produção própria. O logo é um símbolo adinkra (da África Ocidental) da semente da árvore wawa aba, que representa resistência e perseverança, e o primeiro lançamento anunciado é o Dragonfly, de US$ 650, ainda \"em breve\".",
+   "M": "I: tudo do site oficial amirwatchcompany.com (página inicial, /about e /contact): nome em homenagem ao irmão Amir, inspiração na natureza, preço abaixo de US$ 1.000, produção por terceiros com meta de fabricação própria, logo adinkra wawa aba, Dragonfly US$ 650 'coming soon'. Só 3 páginas (todas do site oficial) acharam algo; buscas '\"Amir Watch Company\" Dragonfly', '\"Amir Watch Company\" founder', '\"amir.watch.co\" OR \"amirwatchcompany\"' só trouxeram marcas homônimas (Amir Watches/Nomadic Empires e o designer Amir Meghani, de Abu Dhabi), que NÃO são esta marca; por isso a história ficou curta e sem ano de fundação nem fundador (o site não diz; o contato é j.moore@amirwatchcompany.com, nome do fundador não confirmado). B e C não achados: site sem endereço (contato só por e-mail), nenhuma fonte externa. K não preenchido: cabeçalho usa o nome em texto ('Amir Watch Company'); as imagens 'grasslogo.jpg'/'yellowfieldlogo.jpg' estão no corpo da página, não no cabeçalho."
+  },
+  "Ancon": {
+   "M": "B e C não achados com certeza. O site oficial anconwatches.com não abriu (robots.txt inacessível). Única pista: Total Design Reviews (totaldesignreviews.com/?p=4578) diz que o dono da Ancon é 'um empresário de Hong Kong chamado Angus Yang' e que os relógios parecem ser feitos na China — a confirmar (B provável Hong Kong), só 1 fonte. Worn & Wound (análise do Sea Shadow 2013 e página da marca), aBlogtoWatch (X-35 Concept) e a loja SeriousWatches (revendedora autorizada, com telefone holandês) não dizem onde a marca fica. Obs.: K atual aponta para imagem da loja seriouswatches.com, não do site oficial."
+  },
+  "Andersen Genève": {
+   "M": "K não preenchido: o cabeçalho do site oficial andersen-geneve.ch não tem arquivo de imagem de logo (provavelmente SVG embutido ou texto); a página só traz fotos de relógios e da oficina (cdn.sanity.io) e nenhum arquivo com 'logo' no nome. Instagram do rodapé confirma @andersengeneve."
+  },
+  "Andreas Strehler": {
+   "M": "K não preenchido: o domínio da coluna G (andreasstrehler.ch) não abriu (robots inacessível) e o site oficial que aparece nas buscas é astrehler.ch (páginas /history/ e /faq/ abertas); nele o cabeçalho não traz imagem de logo legível (só um link de texto), há apenas um logo no rodapé (astrehler.ch/wp-content/themes/andreas-theme/images/footer-logo.png, com texto alternativo 'Garrick', imagem não pôde ser conferida) — a confirmar. Possível erro em G (não alterado): site oficial parece ser astrehler.ch, que liga para o Instagram @andreasstrehler (bate com H)."
+  },
+  "anemoic.": {
+   "M": "B e C não achados: site oficial anemoicwatches.com (página inicial e política de privacidade) não informa endereço, só o e-mail magnus@anemoicwatches.com; Worn & Wound ('Introducing Anemoic: From University Project to Watch Brand') e Fratello (prévia do Versailles) citam o fundador Magnus Swann, estudante de design de produto, sem cidade/país. Indícios de Reino Unido (loja em libras por padrão; relógio mostrado no British Watchmakers' Day) — a confirmar."
+  },
+  "Angelier": {
+   "M": "C não achado: site oficial angelier.com (início, about, contact) não dá endereço nem cidade, só indica Países Baixos (loja em euro NL, menção à AVG holandesa); Monochrome (Kickstarter e entrevista com Paul Vierport) diz 'designed and assembled in the Netherlands' sem cidade; fórum WatchProSite também sem cidade. Kicktraq entrou em redirecionamento em loop."
+  },
+  "Angelo Del Mare": {
+   "M": "C e K não achados: site oficial angelodelmare.com não abriu (robots inacessível) e não apareceu em nenhuma busca; buscas em registro suíço (Moneyhouse/Zefix) sem resultado. Possível erro em B (não alterado): Master Horologer (18/07/2015) descreve a marca como 'Belgium based Swiss watch brand', com produção em oficinas na Suíça — a confirmar."
+  },
+  "Anstead": {
+   "M": "C, H e K não achados: site oficial ansteadwatches.com não abriu (client_error) e não apareceu em buscas; Worn & Wound (conversa com Tom Anstead e matéria do Kickstarter), aBlogtoWatch, Military.com, Maxim e The Time Bum confirmam só que é marca dos EUA criada pelo veterano da Marinha Tom Anstead (relógio Oceanis, feito na China), sem cidade/estado e sem Instagram da marca. WatchPatrol lista a marca como 'Switzerland, 2012' (contradiz as demais; página não abriu)."
+  },
+  "Anura Rafael": {
+   "K": "https://anurarafael.com/wp-content/uploads/2024/07/AR-Logo-White-320px.png",
+   "M": "K: logo do cabeçalho do site oficial anurarafael.com (AR-Logo-White-320px.png). C não achado: o site oficial (home e contato) não dá endereço; aBlogtoWatch diz só que as peças são feitas por artesãos 'na região do Jura' e Time Transformed (entrevista) que ele cresceu no coração relojoeiro suíço; nenhuma fonte cita cidade (procurado também em Oracle Time, Monochrome 2017, The Peak Singapore, Robb Report TH). H não achado: os ícones de redes no site oficial apontam para '#' (sem link) e nenhuma das matérias cita perfil; a confirmar se a marca tem Instagram. Para conferir (não alterado): o site hoje se apresenta como 'Anura Rafael - Luxury Watch Expert' (consultoria, avaliação e busca de relógios); o produto conhecido da marca é o Write Time (2017), caneta-tinteiro com relógio mecânico de turbilhão, edição limitada a CHF 245.000 (Oracle Time) ≈ R$ 1.592.500 — D ('microbrand de design contemporâneo'), J ('Coleções de design contemporâneo') e E=2/F=1500 não batem com isso."
+  },
+  "Aperture": {
+   "M": "Nada achado: 5 buscas ('Aperture watches @aperture.watches', '\"Aperture\" watch brand microbrand', 'site:instagram.com aperture.watches', '\"Aperture Watches\" OR \"Aperture Watch Co\"', '\"aperture.watches\"') não trouxeram nenhuma página sobre uma marca de relógios Aperture; só homônimos (revista/fundação Aperture, software Aperture, a função 'aperture'/janela de data em relógios, Reservoir, Horopedia). Site oficial (G) não achado, por isso nenhuma das colunas B, C, D, E, F, G, J, K pôde ser confirmada. História não conferida: sem fontes. Único dado é o Instagram @aperture.watches já em H; a confirmar se a marca ainda existe."
+  },
+  "Apex Timeworks": {
+   "M": "Nada achado: 4 buscas ('Apex Timeworks watch', 'apextimeworks instagram', 'site:instagram.com apextimeworks', '\"Apex Timeworks\"', '\"apextimeworks\"') não trouxeram nenhuma página da marca; só homônimos (Apex Time Solutions, software de ponto; modelos 'Apex' de Vincero, Armitron, Bomberg, Kronaby, Coros; apex-watches.com no Trustpilot, sem ligação confirmada). Site oficial (G) não achado, por isso B, C, D, E, F, G, J, K ficam vazios. História não conferida: sem fontes. Único dado é o Instagram @apextimeworks já em H."
+  },
+  "Appella": {
+   "C": "Genebra",
+   "M": "C: sede em Genebra (Europa Star, 'Appella launches its diamond collection': 'Appella now has its headquarters in Geneva'; nota de imprensa Zawya 2004: grupo Montres Appella Sarl 'Geneva, Switzerland-based'). Observação: Europa Star e Dialicious dizem que a marca foi fundada em 1943 em Porrentruy (Jura) por Paul Glocker; a nota Zawya diz 'registrada em 9/1/1943 em Genebra' — divergência sobre a cidade de fundação, a confirmar. K não achado: o site oficial appellawatches.ch deu erro (client_error) e nenhuma página dele apareceu em busca (Firecrawl sem créditos)."
+  },
+  "Aquatico": {
+   "M": "K não preenchido: cabeçalho usa o nome em texto ('AQUATICO' como link de texto no site oficial aquaticowatch.com, sem imagem de logo). O site oficial confirma o Instagram @aquaticowatch já em H."
+  },
+  "Aquatrident": {
+   "M": "K não achado: o WebFetch no site oficial aquatrident.com abriu só o texto (slogan 'Quality without Compromise' e lista de posts), sem a URL da imagem do logo; buscas 'site:aquatrident.com', 'aquatrident.com watches shop' e 'Aquatrident Ichthyosaur' não trouxeram nenhuma página do site; masterhorologer.com (matéria do Ichthyosaur 500M) deu erro ao abrir."
+  },
+  "Arach": {
+   "M": "B, C e G não achados: 4 buscas ('Arach watches', '\"arach_watches\"', 'watchtraderhub Arach', 'Arach montres/relojes/horloges/uhren') não trouxeram nenhum resultado sobre a marca (só homônimos e páginas sem relação). O logo atual (K) vem de watchtraderhub.com, mas a página da marca lá não apareceu em busca. A confirmar: existência de site oficial e país (pelo Instagram @arach_watches)."
+  },
+  "Aragon": {
+   "M": "F: média de 4 relógios Aragon na revenda autorizada seriouswatches.com (preços em euro, todos marcados como esgotados): Virtuoso 9100 A007GRY € 319; Virtuoso Titanium A002BUR € 849; Virtuoso Titanium 8040.N A006BLU € 329; Virtuoso Swiss 2824 A004BLU € 575 → média € 518 × 6,2257 = R$ 3.225 → E = 2. O site oficial aragonwatch.com não mostra preços na página inicial; a busca 'site:aragonwatch.com' não trouxe páginas da loja. A linha tem também um turbilhão central (Divemaster Central Tourbillon LE) sem preço achado, que puxaria a média para cima. K não preenchido: no site oficial aragonwatch.com o cabeçalho usa o nome 'Aragon' em texto (não há imagem de logo). Instagram do site oficial confirma @aragonwatch. Revisão: E/F (média R$ 3.225 de 4 modelos esgotados na seriouswatches.com) ficaram a confirmar (uma só fonte não oficial; não gravados)."
+  },
+  "Aramar Watch Co.": {
+   "M": "C, G, H e K não achados com certeza. G a confirmar: aramar.nl (citado só pela Fratello, matéria do Walrus 200m de 10/01/2020, com página de pré-venda em aramar.nl); o site não abriu (robots.txt inacessível, talvez fora do ar) e uma busca por 'aramar.nl' não o trouxe. Monochrome (Long Beach Racing Chronograph, 2017; Walrus, Kickstarter) e Fratello confirmam só 'Holanda', sem cidade nem Instagram. Watchpatrol.net (ficha 'Est. 2010 · Netherlands') deu erro ao abrir. Preços vistos: Long Beach Racing Chronograph € 249 no Kickstarter / € 399 varejo; Walrus € 399 (pré-venda)."
+  },
+  "Arcaido": {
+   "M": "H e K não achados: o site oficial arcaido.com recusou a leitura automática (robots_disallowed), então o logo do cabeçalho não pôde ser lido; a busca 'site:instagram.com arcaido' só trouxe contas sem relação e a matéria da aBlogtoWatch (Primo e Primo GMT, Kickstarter 2019/2020, preços a partir de € 432 e € 573) não cita Instagram. Anotado: a aBlogtoWatch diz que a marca é dirigida por Alberto Tonon, cujo pai fundou a empresa que deu origem à Arcaido. Masterhorologer.com deu erro ao abrir. Cota de buscas esgotada antes de outras rotas para o Instagram."
+  }
+ },
+ "base": "Relogios_atualizada_802.xlsx"
+}
