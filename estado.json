@@ -13677,7 +13677,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T08:43:46Z",
- "ultimo_sinal": "2026-11-22T08:43:46Z",
+ "ultimo_sinal": "2026-11-22T08:58:47Z",
  "em_andamento": {
   "marcas": [
    "IWC"
@@ -13687,7 +13687,11 @@
   "relogios": "historico/parcial_IWC_relogios.txt",
   "fontes": "historico/parcial_IWC_fontes.txt",
   "notas": "historico/notas_IWC.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "5"
+  ],
   "passada": 1
  }
 }
