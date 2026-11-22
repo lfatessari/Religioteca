@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1011,
- "ultima_versao": 775,
+ "proxima_linha_marcas": 1012,
+ "ultima_versao": 776,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13452,6 +13452,24 @@
    "passadas": "3 passadas (112/26/11 fontes; 86/10/8 relógios)",
    "site_bloqueado": "sim: iron-annie.de PROVENANCE na tentativa direta (ajudante web-fetch)",
    "obs": "Grande, sozinha. Sem correções na aba Marcas (só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; ferramenta Projects ausente; A5 sem pendências. Próxima: Islander (1012, grande: coleção com 18+ páginas) — sozinha."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 776,
+   "marcas": [
+    "Islander"
+   ],
+   "linhas_relogios": "117618-117938",
+   "relogios": {
+    "Islander": 321
+   },
+   "vermelho": true,
+   "fontes": {
+    "Islander": 153
+   },
+   "passadas": "3 passadas (118/21/14 fontes; 185/21/10 relógios creditados às fontes abertas; ~70 modelos vieram de títulos de páginas oficiais nas buscas)",
+   "site_bloqueado": "não registrado: products.json do longislandwatch.com deu PROVENANCE na tentativa direta, mas páginas de coleção e de produto vindas de busca abriram",
+   "obs": "Grande, sozinha. 134 com foto, 187 com link da página do produto. Vermelha: ~75 números ISL não achados. Sem correções na aba Marcas (só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; ferramenta Projects ausente; A5 sem pendências. Próxima: Isotope (1013)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
