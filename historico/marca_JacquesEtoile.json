@@ -1,0 +1,385 @@
+{
+ "marca": "Jacques Etoile",
+ "usa_codigos": false,
+ "logo": "https://piazo.jp/assets/base/img/content/top_brand/JacquesEtoile.png",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "C": "Lörrach",
+  "I": "A Jacques Etoile é uma marca alemã de Lörrach, no sul de Baden, quase na fronteira com a Suíça, criada pelo relojoeiro Klaus Jakob a partir da relojoaria da família. Ficou conhecida por usar movimentos suíços raros ou antigos, restaurados e finamente acabados — como o cronógrafo de roda de colunas Venus 175, o Unitas 6300 com segundos centrais, calibres Felsa e um turbilhão da Progress —, além de Valjoux 7750 modificados (tricompax, grande data, flyback), em caixas feitas pela SUG, de Glashütte, e mostradores da Schätzle, de Weil am Rhein.\n\nA marca fez muitas séries limitadas, de 15 a 100 peças, e passou a vender no Japão no fim dos anos 1990. Em 2020, durante a pandemia, Klaus Jakob entregou a produção à Aristo Vollmer, de Pforzheim, que lançou a série Le Mans de mostrador setorizado; ele se dedica hoje à outra marca, a Mercure.\n\n[⚠️ a confirmar: ano de fundação — as fontes divergem entre 1994, 1995 e 1996]",
+  "J": "Venus 175 (cronógrafos Imperial e Monte Carlo), Monaco Grand Guichet, Metropolis, Bidynator 42, Atlantis, Le Mans"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.watchtime.net/brands/jacques-etoile",
+   "https://www.zeitgefuehl.de/jacquesetoile.php",
+   "https://item.rakuten.co.jp/c-watch/c/0000001001/",
+   "https://www.righttime.com/rt/pre-owned/158.htm"
+  ],
+  "I": [
+   "https://www.zeitgefuehl.de/jacquesetoile.php",
+   "https://item.rakuten.co.jp/c-watch/c/0000001001/",
+   "https://wornandwound.com/?p=142431",
+   "https://www.righttime.com/rt/pre-owned/158.htm",
+   "https://www.chrono24.de/jacquesetoile/klaus-jakob-debut-limited-edition-100--id47376509.htm",
+   "https://www.infinitywatches.cz/en/collections/aristo.oembed",
+   "https://piazo.jp/JacquesEtoile/"
+  ],
+  "J": [
+   "https://www.chrono24.de/jacquesetoile/index.htm",
+   "https://www.zeitgefuehl.de/jacquesetoile.php",
+   "https://piazo.jp/JacquesEtoile/venus/ref175/watch15567/",
+   "https://wornandwound.com/?p=142431"
+  ]
+ },
+ "observacoes": "Corrigido em 22/11/2026 (pesquisa dos relógios): C 'Floresta Negra' → 'Lörrach' (WatchTime, zeitgefuehl.de, Rakuten c-watch, Right Time); I reescrita com fatos de 2+ fontes (zeitgefuehl.de, Rakuten c-watch, Worn & Wound 2025, Right Time, Chrono24, Infinity Watches) — sai a frase sobre 'Floresta Negra' e o aviso genérico; J 'Atlantis, Chronograph, Marine, Tonneau' → modelos achados (Marine e Tonneau não apareceram em nenhuma fonte). Ainda a verificar: ano de fundação (1994 na Rakuten; 18 anos em 2013 na WatchTime = 1995; 5 anos em 2001 na zeitgefuehl.de e 1996 na Infinity/Aristo). G e H continuam vazios: nenhum site nem Instagram próprio achado (a marca hoje é vendida pela Aristo Vollmer). K: logo da Piazo. Vermelho: linhas Imperial, Racing, Silverstone, Plongeur e Atelier (Aristo) e muitas variações de mostrador sem nome nas fontes.",
+ "fontes": [
+  {
+   "url": "https://www.watchtime.net/brands/jacques-etoile",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jacques-etoile/jacques-etoile-schone-schwester",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jacques-etoile/jacques-etoile-regulateur",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Jacques_Etoile_Monaco_Grand_Guichet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Jacques_Etoile_Le_Mans_Lunarium_Carbon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Jacques_Etoile_Lunamatic_CS",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/jacques-etoile/watch-9993502",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1180_9_60_1518_60_1_406/aristo-vollmer-gmbh-download-pressemitteilung.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/jacques-etoile/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/jacques-etoile-by-aristo-ocel-titan-bronze",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://mygemma.com/products/010328-jacques-etoile-monaco-quadriga-chronograph-3161-mens-watch-in-stainless-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bachmann-scher.de/en/sold-watches/jacques-etoile-chronograph-venus-cal-175-stainless-steel-box-papers-bj-2000-4950.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/83963313-jacques-etoile-men-2011-present",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/de/schmuck/uhren/armbanduhren/jacques-etoile-modell-monaco-quadriga-3161-elfenbeinfarbenes-zifferblatt-zertifiziert/id-j_10118122",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/collectors-market/fs-jacques-etoile-modern-classics/712.584021.3635346/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://item.rakuten.co.jp/c-watch/c/0000001001/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1003576048.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/JacquesEtoile/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/jacques-etoile-by-aristo-ocel-titan-blue.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/products/jacques-etoile-by-aristo-ocel-titan-bronze.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.infinitywatches.cz/en/collections/aristo.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jckonline.com/?p=40006",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Jacques_Etoile_Atlantis",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/3253.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/3253_a.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/158.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jewellerydiscovery.co.uk/products/jacques-etoile-18ct-white-gold-and-diamond-27mm-quartz-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/jacques-etoile/watch-15751447",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004113485.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Jacques_Etoile_Imola_Superior",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wiki.grail-watch.com/index.php/Jacques_Etoile_Imola_Lunarium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://issuu.com/mintmedia/docs/presspreview_2011_125dpi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.issuu.com/europastar/docs/europe_4_2010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/author/dje/2010/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.reviewhero.io/mercure-uhren-gmbh-tumringer-str-199-loerrach-eb2f",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/index.htm",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/klaus-jakob-debut-limited-edition-100--id47376509.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/tourbillon-handaufzug-limited-edition-auf-25-stueck-von-2002--id46927278.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/jacques-etoile-lune--etoile--id49291473.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/bidynator42-felsa-690---automatic--id32431969.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/brooklands-tricompax-automatic--id39452178.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/brooklands-duograph--id39458705.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/jacques-etoile-lisbon-imperial-grande-anniversary-manual-winding--id48071716.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/horst-jakob-50-anniversary-6670--id44019123.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/-primus--id28345813.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/quadriga-automatik-valjoux-ivc4--id46274180.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/monaco-grand-guichet-ii-carbon-dial--id46400682.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/jacques-etoile-lunarium-carbon--id48288852.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/jacques-etoile-atlantis--id28864135.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/jacques-etoile-metropolis--id49198177.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chrono24.de/jacquesetoile/lunamatic-moonphase--id47642413.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/show-forumpost/fi-2/pi-2854506/ti-476876/s-0/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/horological-meandering/sounds-like-you-ve-had-better-luck-than-i-did-with-that-movement/17.1281961.10826941/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/author/jlux/2025/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zeitgefuehl.de/jacquesetoile.php",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.kleinanzeigen.de/s-anzeige/jacques-etoile-bidynator-42-automatik-limited-edition-87-100/3514414726-157-1889",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/jacques-etoile",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/JacquesEtoile/venus/ref175/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://piazo.jp/JacquesEtoile/venus/ref175/watch15567/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://piazo.jp/JacquesEtoile/venus/ref175/watch3172/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jp.mercari.com/s/519036",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jp.mercari.com/item/m78799852402",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/175644586185",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/326848759869",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/1919957259",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/the-aristocrat-of-pforzheim",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=142431",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.net/brands/aristo/aristo-2021",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://issuu.com/europastar/docs/es_4.16",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

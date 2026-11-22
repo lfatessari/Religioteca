@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1026,
- "ultima_versao": 790,
+ "proxima_linha_marcas": 1027,
+ "ultima_versao": 791,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13757,6 +13757,35 @@
     }
    },
    "obs": "Firecrawl com créditos (baixos): abriu os dois sites oficiais e products.json. Jacques Etoile adiada (JdM virou grande); notas em historico/notas_JacquesEtoile.md. Correção na aba Marcas: Jacques Bianchi D e I (JB200 de 1982, não anos 1970). Pendências ACIZEM já estavam na v788; ferramenta Projects ausente."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 791,
+   "marcas": [
+    "Jacques Etoile"
+   ],
+   "linhas_relogios": "121178-121217",
+   "relogios": 40,
+   "detalhe": {
+    "Jacques Etoile": {
+     "relogios": 40,
+     "fontes": 69,
+     "vermelho": true,
+     "grande": false,
+     "site_bloqueado": false,
+     "passadas": {
+      "1": [
+       57,
+       36
+      ],
+      "2": [
+       12,
+       4
+      ]
+     }
+    }
+   },
+   "obs": "Sem site oficial. Firecrawl abriu Chrono24.de (21 anúncios) e zeitgefuehl.de, e acabou os créditos no meio. Correções na aba Marcas: C (Lörrach), I e J. Jacques Lemans (próxima) é grande: fica sozinha na próxima execução. Pendências ACIZEM já estavam aplicadas (v788); ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
