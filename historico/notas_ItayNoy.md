@@ -10,3 +10,8 @@ usa_codigos: false (site identifica por nome; códigos do WatchBase entram quand
 - Night Flight: W&W fala em 12 variações, achadas 11 cidades; Fractal 2020: 8 peças únicas sem nome; City Square: cidades além das 5; relógio de data e de fase da lua sem nome (WatchProSite 2019); site oficial bloqueado; Identity e Duality com variantes sem foto.
 - Paredes (relógios de parede, Monochrome 2024) NÃO entram (não são de pulso).
 ## Passada 2 (alvo: cidades Night Flight, Fractal, Identity/ID variants, Duality, Point of View, eBay/Instagram/Pinterest)
+## Passada 2: DESCOBERTA — o site oficial certo é itay-noy.com (G da aba Marcas = itaynoy.com, errado). 29 coleções lidas (Alef Beit não abriu, client_error). Lista refeita a partir do site: 135 relógios.
+- Removidos: Night Flight Geneva (cidade só citada como foto de base; site e Monochrome listam 10), Fractal anos 2000 (é o Fractal 01/02 de 36 mm), Celestial genérico.
+- Correção G: itaynoy.com -> itay-noy.com (site oficial abre + aBlogtoWatch roundup 2020 linka itay-noy.com). Logo K: https://www.itay-noy.com/wp-content/uploads/2019/01/logo.png. L: vazio.
+- J: Part of Time / Whole Time / Mechanical Mirror não existem no site (há Part Time); só anotar em M.
+## Passada 3 (≥5 novos na 2ª): alvo Alef Beit, Time After Time, Holy Land, Square Hebrew, Stars&Moon, Greek, eBay/ajtime produtos.
