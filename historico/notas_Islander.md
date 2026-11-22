@@ -8,3 +8,4 @@
 - seriouswatches oembed page=2 deu fotos cdn.shopify (ISLxxxISL-NNN1.png).
 - Faltam séries: Baiting Hollow, Greenport, Saltaire, Rangemaster, Bridgehampton (mais), Calverton, aviadores, cronógrafos, colaborações.
 - 02:20: buscas por série cobriram Sands Point, Bayport 40, Northport (+37mm), Brookville/Upper Brookville, Manhasset, Mitchel, JFK, Port Jefferson (+GMT), Greenport, Saltaire, aviadores, colaborações, Ameriquartz. Falta: imprensa (fratello, teddy, watchgecko, W&W, aBtW), lojas, usados, faixas 102-118,125-144,162-173,197-204,213-232,239-244,345-355.
+- 02:13: 1ª passada fechada (118 fontes, 290). Marca VERMELHA (muitos códigos ISL faltando). 2ª passada: 21 fontes, 21 novos (pilotos 39mm 102-113, 227-231, 38mm 125-127, 64, 179, 173). Precisa 3ª passada (10+ fontes).
