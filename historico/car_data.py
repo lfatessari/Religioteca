@@ -138,3 +138,47 @@ a("45P108","Modern (feminino)",NE,"Quartzo, mostrador prateado. Visto só na lis
 OUT="https://www.out.com/media-library/cara-home.jpg?id=32806538&width=1200&height=600&coordinates=0%2C29%2C0%2C30"
 a("45A106","Caravelle New York",OUT,"Coleção Caravelle New York de 2013 (US$ 130). Foto de conjunto do artigo da revista Out.")
 a("44B104","Caravelle New York",OUT,"Coleção Caravelle New York de 2013 (US$ 90). Foto de conjunto do artigo da revista Out.")
+a("45D107","Modern Quartz",W%"f6n7pvnjip","Quartzo. Caixa e pulseira bicolor de 40 mm, mostrador preto fosco com diamante às 12 h.")
+a("45C116","Min Max",W%"bq1hom2hoj","Quartzo com data e subdials de 24 horas. Caixa e pulseira de aço com IP preto de 41 mm, mostrador azul sunray (lançado em 2020).")
+a("45D108","Modern Quartz",W%"ddgfjpmvg8","Quartzo. Caixa e pulseira de aço com IP preto de 40 mm, mostrador preto fosco com diamante às 12 h (lançado em 2020).")
+a("43B157","Dress Quartz",B%"43B157","Quartzo 2315. Caixa de aço de 41 mm, mostrador cinza, data, luneta serrilhada, 30 m (lançado em 2020). Foto: link da ficha oficial.")
+a("45A108","Chronograph","https://www.worldofwatches.com/mens-chronograph-black-ion-plated-stainless-steel-orange-dial-caravelle-by-bulova-bul45a108","Quartzo cronógrafo. Caixa de aço com IP preto de 44 mm, mostrador laranja, 30 m. Foto: link da ficha da loja World of Watches.")
+KAY="https://www.kay.com/watches/caravelle-by-bulova-watches/c/9000001338"
+for c,n,car in [("45A141","Dress Classic","Caixa de 45 mm."),("43A157","Dress Classic","Caixa de 43 mm."),("43L204","Feminino aço",""),("44L234","Dress Classic feminino","")]:
+    a(c,n,KAY,(car+" " if car else "")+"Visto só na lista da loja Kay (link da página).")
+# ---- passada 2
+D["44L234"]=["Dress Classic (feminino)","https://i5.walmartimages.com/seo/Caravelle-Designed-By-Bulova-Women-s-Classic-Rectangular-Brown-Leather-Strap-Dress-Watch-44L234_bf4ce015-961d-4ddf-bacc-8a8dd5076ad7_1.c3c8c51662d08de7ebe491efa428a0d2.jpeg","Quartzo. Caixa retangular de aço dourado, mostrador branco-prateado com algarismos romanos, pulseira de couro marrom."]
+KO="https://media.kohlsimg.com/is/image/kohls/%s?wid=1000&hei=1000&op_sharpen=1"
+EB6="https://i.ebayimg.com/images/g/%s/s-l1600.%s"
+for c,n,img,car in [
+ ("43L209","Classic (feminino)",KO%"3359343","Quartzo. Caixa de aço de 24 mm, mostrador prateado, vidro mineral, 30 m."),
+ ("43L216","Classic (feminino)",KO%"6526971","Quartzo. Caixa de aço de 28 mm, mostrador texturizado, 30 m, pulseira de couro preta."),
+ ("43L176","Caravelle New York (feminino)","https://i5.walmartimages.com/seo/Caravelle-Ny-43L176-Women-s-White-Silicone-And-Dial-Ss-Watch_82eecd71-f897-4171-87ae-a00e2bc3d386_1.724e233ff80829e12f89bbbdf9c98679.jpeg","Quartzo. Caixa de aço, mostrador branco, pulseira de silicone branca."),
+ ("43L223","Modern Quartz",W%"i9zufnydhb","Quartzo. Caixa de aço de 22 mm, mostrador azul sunray, bracelete expansível com 24 cristais."),
+ ("43L203","Classic Rectangular (feminino)","https://i5.walmartimages.com/seo/Caravelle-Designed-By-Bulova-Women-s-Classic-Rectangular-Stainless-Steel-Dress-Watch-43L203_e92189a6-dd35-409a-90ce-6de30091f4f0_1.1d995d74065616ac8c0b08807b427837.jpeg","Quartzo. Caixa retangular de aço de 21 mm, mostrador branco-prateado com algarismos romanos."),
+ ("44L243","Crystal (feminino)","https://www.kohls.com/product/prd-3515516/caravelle-womens-crystal-stainless-steel-watch-44l243.jsp?prdPV=3","Quartzo. Caixa e pulseira de aço dourado de 29 mm, mostrador preto, cristais, 30 m. Foto: link da ficha da loja Kohl's."),
+ ("44L248","Feminino dourado","https://www.kohls.com/product/prd-3515521/caravelle-womens-stainless-steel-watch-44l248.jsp?prdPV=46","Quartzo. Caixa e pulseira de aço dourado de 24 mm, mostrador prateado sunray, 30 m. Foto: link da ficha da loja Kohl's."),
+ ("44L250","Crystal (feminino)","https://www.kohls.com/product/prd-3515523/caravelle-womens-crystal-stainless-steel-watch-44l250.jsp?prdPV=38","Quartzo. Caixa e pulseira de aço dourado de 32 mm, mostrador champanhe sunray, cristais, 50 m. Foto: link da ficha da loja Kohl's."),
+ ("43A149","Dress Chronograph","https://ebay.co.uk/p/9026400912","Quartzo cronógrafo. Caixa de aço de 42 mm, mostrador azul. Foto: link do anúncio."),
+ ("45A126","Caravelle New York Chronograph","https://ebay.com/itm/404742029076","Quartzo cronógrafo. Caixa preta de 44 mm, mostrador prateado, data, 30 m. Foto: link do anúncio."),
+ ("43A152","Masculino mostrador azul",EB6%("Jv8AAeSwMA5pJfwR","jpg"),"Quartzo. Caixa de aço de 40 mm, mostrador azul, pulseira de couro preta."),
+ ("43C11","Analógico-digital Alarm Chronograph","https://www.ebay.com/p/1700725941","Quartzo analógico e digital, alarme, cronógrafo, dia e data. Foto: link do anúncio."),
+ ("43A115","Chronograph",EB6%("9BYAAeSwH~1q9TBq","jpg"),"Quartzo japonês cronógrafo. Caixa de aço de 44 mm, luneta giratória, 30 m, pulseira de aço."),
+ ("45A136","Chronograph gunmetal","https://www.ebay.com/p/2235111237","Quartzo cronógrafo. Caixa com IP gunmetal de 40 mm, mostrador cinza, 30 m. Foto: link do anúncio."),
+ ("44B126","Masculino dourado",EB6%("KNUAAeSw8dVq4Uhv","png"),"Quartzo. Caixa dourada de 40 mm, mostrador cinza, 30 m, bracelete expansível."),
+ ("40C42","Classic Two-Tone Day/Date","https://www.ebay.com/p/12058651749","Quartzo, dia e data. Caixa bicolor de 34 mm, mostrador branco, 30 m. Foto: link do anúncio."),
+ ("1133.50","Set-O-Matic","https://thewatchpreserve.com/cdn/shop/files/sellbrite_00_793bbf67be8a.png?v=1790454853","Automático suíço ETA CD.2879, 17 rubis. Caixa dourada de 36 mm (1978)."),
+ ("45B19","Masculino – Chrysler 5 Star Award","https://i.ebayimg.com/images/g/zE4AAeSwVzVq92wN/s-l1200.webp","Quartzo, mostrador prateado; edição de premiação da Chrysler (visto em anúncio do eBay)."),
+ ("45B129","Caravelle New York masculino","https://i.ebayimg.com/images/g/pVkAAeSwdOxqyTyV/s-l1200.webp","Quartzo, mostrador prateado."),
+ ("45B138","Caravelle New York masculino","https://i.ebayimg.com/images/g/aIgAAeSwSQRp3itW/s-l1200.webp","Quartzo, prateado."),
+ ("43L184","Caravelle New York madrepérola","https://i.ebayimg.com/images/g/ggIAAeSwc75oiO8B/s-l1200.webp","Caixa de 33 mm, mostrador de madrepérola, cristais."),
+ ("43D003","Masculino retangular","https://i.ebayimg.com/images/g/k4EAAeSwsfJqugr4/s-l1200.webp","Caixa de 33 × 42 mm."),
+ ("43M108","Caravelle New York (feminino)","https://i.ebayimg.com/images/g/rnwAAeSwLWxq2Ceg/s-l1200.webp","Caixa de aço de 28 mm, luneta com cristais."),
+ ("43L165","Caravelle New York (feminino)","https://i.ebayimg.com/images/g/IoMAAeSwmzlq1rUU/s-l1200.webp","Quartzo, mostrador branco ou madrepérola, luneta com cristais."),
+ ("43L161","Caravelle New York (feminino)","https://i.ebayimg.com/images/g/ahMAAeSwJB1q1tVv/s-l1200.webp","Quartzo, pulseira de aço."),
+ ("45M108","Feminino bicolor","https://i.ebayimg.com/images/g/djoAAOSwAnNmT10l/s-l1200.webp","Quartzo, caixa bicolor de 28 mm."),
+ ("44L106","Classic rosé (feminino)","https://www.ebay.com/itm/162951379879","Pulseira dourada rosé. Foto: link do anúncio.")]:
+    a(c,n,img,car)
+D["44B121"][1]="https://i.ebayimg.com/images/g/4FIAAeSwTGBq6OxP/s-l1600.jpg"
+D["seahunter-69"]=["Sea Hunter '69 (corda manual, 11DP)","http://static1.squarespace.com/static/5668fae1c647ad70034fec7b/5a5ed646f9619acff152ca1a/5ac41609758d46be7ffbf731/1603484670052/?format=1500w","Corda manual Caravelle 11DP (Citizen 0241), 17 rubis. Caixa de aço de 36,8 mm, mostrador Explorer, sem data, 666 pés (c. 1970)."]
+D["setomatic-electronic"]=["Electronic Set-O-Matic Day Date (mostrador azul)","https://pmtime.etsy.com/listing/215448363/","Eletrônico, dia e data. Caixa almofadada de 36 mm, mostrador azul metálico (anos 1970). Foto: link do anúncio."]
