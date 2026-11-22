@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1016,
-  "ultima_versao": 781,
+  "proxima_linha_marcas": 1017,
+  "ultima_versao": 782,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13551,6 +13551,24 @@
       "passadas": "3 passadas (52/44/11 fontes; 72/69/0 relógios novos)",
       "site_bloqueado": "não: o G antigo (itaynoy.com) pediu permissão, mas o site oficial certo itay-noy.com abriu (29 coleções)",
       "obs": "Grande (sozinha). Corrigidos na aba Marcas: G (itay-noy.com), J e trechos de I (Bezalel joalheria; coleções reais). K = logo oficial. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências Abback (itens 9 e 10) já estavam aplicadas (v777). Próxima pela ordem: i-Toc (1017)."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 782,
+      "marcas": [
+        "i-Toc"
+      ],
+      "linhas_relogios": "118345-118350",
+      "relogios": {
+        "i-Toc": 6
+      },
+      "vermelho": false,
+      "fontes": {
+        "i-Toc": 16
+      },
+      "passadas": "1 passada (16 fontes; 6 relógios)",
+      "site_bloqueado": "não aplicável: G vazio; i-toc.com (citado em 2009) não apareceu em busca e não foi aberto",
+      "obs": "Bateria só com i-Toc: a seguinte, IWC (1018), é grande e fica sozinha. Corrigidos na aba Marcas: D e J. Pendências Abback (itens 9 e 10) já estavam aplicadas (v777). Firecrawl não usado; WebFetch só pelo ajudante web-fetch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13657,19 +13675,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T07:43:20Z",
-  "ultimo_sinal": "2026-11-22T07:43:20Z",
-  "em_andamento": {
-    "marcas": [
-      "i-Toc"
-    ],
-    "linha_marcas": 1017,
-    "grande": false,
-    "relogios": "historico/parcial_i-Toc_relogios.txt",
-    "fontes": "historico/parcial_i-Toc_fontes.txt",
-    "notas": "historico/notas_i-Toc.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
