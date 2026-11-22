@@ -4,3 +4,6 @@
 - Firecrawl sem créditos.
 - Falta: códigos antigos (ISL-03..13, 20-33, 100-190...) — buscar por código.
 - Seções feitas: 1, 2 (parcial), 3 parcial.
+- 02:10: rota que rende: buscas por série ("Islander <Série> ISL dial") — os títulos da busca trazem código + mostrador (são as páginas oficiais). Páginas de produto abrem e dão og:image + specs. Páginas /50-to-150-watches/, /200-to-300-watches/, /shop-by-watch-type/, categories?page=427 = robots (não repetir). watchpatrol listing = client_error.
+- seriouswatches oembed page=2 deu fotos cdn.shopify (ISLxxxISL-NNN1.png).
+- Faltam séries: Baiting Hollow, Greenport, Saltaire, Rangemaster, Bridgehampton (mais), Calverton, aviadores, cronógrafos, colaborações.
