@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1022,
-  "ultima_versao": 786,
+  "proxima_linha_marcas": 1023,
+  "ultima_versao": 787,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13652,6 +13652,34 @@
         ]
       },
       "obs": "Oficial direto (products.json) deu PROVENANCE; páginas do site oficial abertas pelos links das buscas (ajudante web-fetch). Firecrawl sem créditos. Vermelha: linha antiga de quartzo (Nautical/Aviation/Field/Diving/Racing) com centenas de referências. Só anotado em M (fundação 2013×2015, J desatualizado). Próxima pela ordem: Jacob & Co (1023, grande)."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 787,
+      "marcas": [
+        "Jacob & Co"
+      ],
+      "linhas_relogios": "120246-120691",
+      "relogios": 446,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 210,
+      "passadas": {
+        "1": [
+          164,
+          409
+        ],
+        "2": [
+          25,
+          25
+        ],
+        "3": [
+          21,
+          23
+        ]
+      },
+      "obs": "Oficial jacobandco.com pediu permissão (uma tentativa); páginas abertas pelo ajudante web-fetch (Exquisite, Bucherer, WoS, Wempe, Watchonista, Worldtempus, leilões). Firecrawl sem créditos. Vermelha: centenas de referências antigas do Five Time Zone, Ghost, peças únicas. Pendências dos posts: Abordage D/I já estavam aplicadas (v784); ferramenta Projects ausente. Próxima pela ordem: Jacob Jensen (1024)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13758,24 +13786,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T11:43:09Z",
-  "ultimo_sinal": "2026-11-22T12:15:34Z",
-  "em_andamento": {
-    "marcas": [
-      "Jacob & Co"
-    ],
-    "linha_marcas": 1023,
-    "grande": true,
-    "relogios": "historico/parcial_JacobCo_relogios.txt",
-    "fontes": "historico/parcial_JacobCo_fontes.txt",
-    "notas": "historico/notas_JacobCo.md",
-    "secoes_feitas": [
-      "1",
-      "5",
-      "7",
-      "9"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }
