@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1051,
-  "ultima_versao": 793,
+  "ultima_versao": 794,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13801,6 +13801,14 @@
       "marcas": 31,
       "intervalo": "AOS Watches a Parivas",
       "obs": "Rodada 1 das 72 marcas novas. 19 marcas sem resultado confiável (homônimas ou nada achado, ou cota) ficaram fora do lote e voltam na rodada 2: Aeon Watches, A&S Watch, Avia, De Marquee, Dogleg, Dualys, EI8HT, Kilic Watches, Klanic, Last Watch, Montero, Navanos, Nohmad, North Sea Time Co, Oslo Watches, Putnik, Chrono Company, Ciloa, Grana. Firecrawl sem créditos. Pendências ACIZEM (itens 13-16) já estavam aplicadas; ferramenta Projects ausente."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 794,
+      "tipo": "lacunas_marcas",
+      "marcas": 35,
+      "intervalo": "Aeon Watches a ZLTD Watches",
+      "obs": "Rodada 2. As 19 que falharam na v793 tiveram 2ª tentativa pelo Instagram: 8 renderam dados (Aeon, Avia histórica, Ciloa, Grana histórica, Klanic, Montero, Navanos, Nohmad); 11 continuaram sem nada e entraram só com M. 6 marcas sem nada na 1ª tentativa ficaram fora para nova tentativa: Rampart Studio, Rewind, Seven Watches, Tophill, Ukiyo, Yuen Watches (fila.py: 6). Fase continua 'marcas'."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13903,13 +13911,10 @@
   "fase": "marcas",
   "lacunas_marcas": {
     "lote": 100,
-    "ultima_marca_revisada": "Parivas",
+    "ultima_marca_revisada": "ZLTD Watches",
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T15:44:12Z",
-  "ultimo_sinal": "2026-11-22T16:08:20Z",
-  "onda2_pendente": true
+  "adiadas_obs": {}
 }
