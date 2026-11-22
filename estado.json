@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 235,
-  "ultima_versao": 804,
+  "ultima_versao": 805,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13944,6 +13944,13 @@
       "marcas": "Arca Opus a Aubliq (38 só dados)",
       "celulas_novas": 17,
       "obs": "Astrabyss (modelos) adiada: só o site oficial descreve os 3 META; sem catálogo fechado nem 15 fontes; notas em historico/notas_Astrabyss.md. Firecrawl sem créditos."
+    },
+    {
+      "versao": 805,
+      "data": "2026-11-22",
+      "tipo": "posts",
+      "marcas": "Adamas",
+      "obs": "Itens 17-22 das pendências dos posts (escritos na tarefa agendada): Marcas D, H, I, J (+M) e Características dos 2 Meraki na aba Relógios; script historico/posts/aplicar_posts_v805.py com conferência de todas as células (RESULTADO: OK). Ferramenta Projects ausente: documento não marcado."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14053,5 +14060,5 @@
   "ordem_relogios": "PASSADA ÚNICA desde 22/11/2026 (v802): de cima para baixo pela aba Marcas, cada marca é concluída por inteiro (dados vazios + modelos) — proxima_completa.py; pedido do usuário",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T22:43:05Z",
-  "ultimo_sinal": "2026-11-22T22:53:41Z"
+  "ultimo_sinal": "2026-11-22T23:01:12Z"
 }
