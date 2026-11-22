@@ -13560,7 +13560,7 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T01:43:21Z",
- "ultimo_sinal": "2026-11-22T01:43:21Z",
+ "ultimo_sinal": "2026-11-22T01:54:28Z",
  "em_andamento": {
   "marcas": [
    "Islander"
@@ -13570,7 +13570,10 @@
   "relogios": "historico/parcial_Islander_relogios.txt",
   "fontes": "historico/parcial_Islander_fontes.txt",
   "notas": "historico/notas_Islander.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2"
+  ],
   "passada": 1
  }
 }
