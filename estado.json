@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1008,
-  "ultima_versao": 773,
+  "proxima_linha_marcas": 1010,
+  "ultima_versao": 774,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13416,6 +13416,24 @@
       "passadas": "1 passada cada; Inklings com catálogo fechado (mínimo 8)",
       "site_bloqueado": "não registrado: initium.watch e inklingswatches.com (home) deram PROVENANCE na tentativa direta, mas páginas vindas de busca abriram",
       "obs": "Correções na aba Marcas: Initium G, C, I (Le Locle→Le Noirmont), J; Inklings J (Grey Town 3). Intersect (1009) adiada: é evento, não marca. Invicta (1010) é grande: fica sozinha na próxima. WebFetch só pelo ajudante web-fetch; Firecrawl não usado. Ferramenta Projects ausente; A5 sem pendências."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 774,
+      "marcas": [
+        "Invicta"
+      ],
+      "linhas_relogios": "116731-117509",
+      "relogios": {
+        "Invicta": 779
+      },
+      "vermelho": true,
+      "fontes": {
+        "Invicta": 139
+      },
+      "passadas": "3 passadas (84/28/27 fontes; 438/275/69 relógios)",
+      "site_bloqueado": "não registrado: invictawatch.com deu PROVENANCE na tentativa direta; páginas oficiais vindas de busca (staging2/about, /watches/nfl, /watches/subaqua) abriram, mas sem lista de modelos",
+      "obs": "228 linhas com foto; o resto com link da página (listagens sem imagem). Correção I (relançamento em 1991). Firecrawl sem créditos. Ferramenta Projects ausente; A5 sem pendências. Próxima: Iron Annie, Islander, Isotope…"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13522,31 +13540,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-21T23:43:16Z",
-  "ultimo_sinal": "2026-11-22T00:05:25Z",
-  "em_andamento": {
-    "marcas": [
-      "Invicta"
-    ],
-    "linha_marcas": 1010,
-    "grande": true,
-    "relogios": "historico/parcial_Invicta_relogios.txt",
-    "fontes": "historico/parcial_Invicta_fontes.txt",
-    "notas": "historico/notas_Invicta.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }
