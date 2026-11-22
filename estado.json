@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1021,
- "ultima_versao": 785,
+ "proxima_linha_marcas": 1022,
+ "ultima_versao": 786,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13624,6 +13624,34 @@
    "passadas": "IXDAO 33+11; J&Berg 16; J.N. Shapiro 42+14",
    "site_bloqueado": "os três sites oficiais pediram permissão (PROVENANCE_REQUIRED) → L",
    "obs": "Corrigido J da J & Berg. Logo da J.N. Shapiro (Exquisite Timepieces). Pendências Abordage aplicadas na v784. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próxima pela ordem: Jack Mason (1022)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 786,
+   "marcas": [
+    "Jack Mason"
+   ],
+   "linhas_relogios": "120137-120245",
+   "relogios": 109,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": false,
+   "fontes": 124,
+   "passadas": {
+    "1": [
+     93,
+     107
+    ],
+    "2": [
+     20,
+     14
+    ],
+    "3": [
+     11,
+     6
+    ]
+   },
+   "obs": "Oficial direto (products.json) deu PROVENANCE; páginas do site oficial abertas pelos links das buscas (ajudante web-fetch). Firecrawl sem créditos. Vermelha: linha antiga de quartzo (Nautical/Aviation/Field/Diving/Racing) com centenas de referências. Só anotado em M (fundação 2013×2015, J desatualizado). Próxima pela ordem: Jacob & Co (1023, grande)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13730,33 +13758,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-22T10:44:31Z",
- "ultimo_sinal": "2026-11-22T11:13:55Z",
- "em_andamento": {
-  "marcas": [
-   "Jack Mason"
-  ],
-  "linha_marcas": 1022,
-  "grande": true,
-  "relogios": "historico/parcial_JackMason_relogios.txt",
-  "fontes": "historico/parcial_JackMason_fontes.txt",
-  "notas": "historico/notas_JackMason.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a passada",
-   "3a passada"
-  ],
-  "passada": 1,
-  "obs": "pesquisa concluída (124 fontes, 109 relógios); falta gravar: dados em historico/dados_JackMason.txt e marca_JackMason.json"
- }
+ "adiadas_obs": {}
 }
