@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 235,
-  "ultima_versao": 805,
+  "proxima_linha_marcas": 352,
+  "ultima_versao": 806,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13951,6 +13951,14 @@
       "tipo": "posts",
       "marcas": "Adamas",
       "obs": "Itens 17-22 das pendências dos posts (escritos na tarefa agendada): Marcas D, H, I, J (+M) e Características dos 2 Meraki na aba Relógios; script historico/posts/aplicar_posts_v805.py com conferência de todas as células (RESULTADO: OK). Ferramenta Projects ausente: documento não marcado."
+    },
+    {
+      "versao": 806,
+      "data": "2026-11-22",
+      "tipo": "passada_unica",
+      "marcas": "Auctor Horologium a Blancarré (49 só dados)",
+      "celulas_novas": 4,
+      "obs": "Os 50 sites oficiais deram PROVENANCE_REQUIRED no WebFetch direto (por ajudante). Avax Watches fora do lote (cota). Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14058,7 +14066,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "PASSADA ÚNICA desde 22/11/2026 (v802): de cima para baixo pela aba Marcas, cada marca é concluída por inteiro (dados vazios + modelos) — proxima_completa.py; pedido do usuário",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T22:43:05Z",
-  "ultimo_sinal": "2026-11-22T23:01:12Z"
+  "adiadas_obs": {}
 }

@@ -1,0 +1,157 @@
+{
+ "data": "2026-11-22",
+ "prefixo": "Passada única",
+ "celulas": {
+  "Auctor Horologium": {
+   "M": "B e C não achados: o site oficial auctorwatches.com não abriu direto (PROVENANCE_REQUIRED); pelo link da busca, a página inicial, a de contato (/pages/contact) e a política de privacidade não trazem endereço, cidade nem país, só e-mails (press@ e hello@auctorwatches.com) e o nome 'Auctor Watches'. 'Swiss' aparece só na descrição do relógio (automático suíço), não como sede da empresa. Time+Tide (matéria Micro Mondays) não carregou (verificação anti-robô) e o Kicktraq da campanha deu redirecionamento em loop. A confirmar: país/cidade da empresa (talvez na página da campanha no Kickstarter)."
+  },
+  "Audoin Watches": {
+   "M": "K não preenchido: cabeçalho do site oficial audoinwatches.com (aberto pelo link da busca) usa o nome 'Audoin Watches' em texto, sem imagem de logo; a única og:image é foto de produto. (A primeira tentativa direta deu PROVENANCE_REQUIRED.)"
+  },
+  "Auffret": {
+   "M": "H a confirmar: @auffret_paris (instagram.com/auffret_paris), citado só pelo independentwatchmaking.com (ficha Théo Auffret); não confirmado no site oficial auffret-paris.com (não abriu: PROVENANCE_REQUIRED) nem em 2ª fonte. Procurado também em Phillips, Monochrome, Quill & Pad, A Collected Man, independents.com e watchprozine (nenhum cita o perfil ou não abriu). Um vídeo do YouTube tem no título '@THÉO_AUFFRET', mas não abriu (limite de acesso) para conferir se é a conta da marca."
+  },
+  "AURA": {
+   "M": "C não preenchido: os termos de serviço oficiais (aura.watch/policies/terms-of-service) dão como empresa 'Wildfire Investments, LLC (Aura Watches)', 1209 Orange Street, Wilmington, DE 19801 (EUA), endereço que é de agente registrador de empresas de Delaware, não da sede de trabalho; o WatchArc repete o mesmo endereço. Por isso a cidade real fica a confirmar. Hypebeast (2023) cita o cofundador Tyler Thurman, sem cidade; LinkedIn não abriu (robots). B=USA bate com os termos (lei dos Estados Unidos). Site oficial direto deu PROVENANCE_REQUIRED."
+  },
+  "Autran & Viala": {
+   "K": "https://www.autran-viala.com/media/a0/4a/24/1723794965/AV_logo.png?ts=1723794965",
+   "M": "K: logo do cabeçalho do site oficial autran-viala.com/en/ (AV_logo.png, aberto pelo link da busca; a primeira tentativa direta deu PROVENANCE_REQUIRED)."
+  },
+  "AV86": {
+   "M": "K não preenchido: o site oficial av86.com não abriu direto (PROVENANCE_REQUIRED); pelas páginas do site vindas da busca (av86.com/pages/about-us, www.av86.com, av86.com/products/1956-marine-steel-white) o link do cabeçalho para a página inicial não traz arquivo de imagem (provável logo em SVG embutido ou texto); só há a imagem de compartilhamento av86.com/cdn/shop/files/AV86_-_Social_sharing_image.jpg, que não é o logo do cabeçalho. Instagram @av86official confirmado no site."
+  },
+  "AVAIL Watches": {
+   "M": "K não preenchido: o site oficial availwatches.co.uk não abriu direto (PROVENANCE_REQUIRED) e nenhuma página do domínio apareceu em busca (buscas 'site:availwatches.co.uk' e pelo nome só trouxeram Trustpilot, Rackhams, Hinton Magazine, Wristwatch Review). Hinton Magazine confirma marca britânica lançada no verão de 2020."
+  },
+  "Avakian": {
+   "M": "H e K não preenchidos: o site oficial avakian.com não abriu direto (PROVENANCE_REQUIRED) e nenhuma página do domínio apareceu em busca. Instagram não achado: The Jewellery Editor (página da marca), Luxurious Magazine e Katerina Perez citam só o site www.avakian.com, sem perfil de Instagram; buscas 'site:instagram.com avakian' sem resultado da marca."
+  },
+  "Avel & Men": {
+   "M": "K não preenchido: o site oficial avel-and-men.com não abriu direto (PROVENANCE_REQUIRED) e nenhuma página do domínio apareceu em busca ('site:avel-and-men.com' sem resultado); a ficha Maison&Objet (mom.maison-objet.com/en/brand/5946/avel-men) não traz logo."
+  },
+  "Avenir": {
+   "M": "Nada novo achado (B, C, G, H, K). Site oficial não alcançado: coluna G vazia e nenhuma busca trouxe um site da marca ('Avenir watches microbrand official site'). Única fonte achada: aBlogtoWatch (30/01/2010, 'Avenir Chrono Boss Premiere'), sobre uma Avenir de luxo de joalheiros ucranianos ligados à Rafaello & Company (Nova York?, site citado aviccinyc.com, aço a partir de US$ 12.500). Não bate com D/E/F da planilha (microbrand de design contemporâneo, E=2, F=3000): possível marca homônima, por isso nada foi gravado. A confirmar qual Avenir é a da planilha."
+  },
+  "Aventi": {
+   "M": "C, H e K não achados. Site oficial aventi.com: WebFetch direto recusado (PROVENANCE_REQUIRED) e Firecrawl sem créditos, então logo (K) e Instagram (H) não puderam ser lidos do site. Buscas 'site:instagram.com aventi watches', 'aventiwatches instagram' e '\"@aventi\"' não trouxeram o perfil. C: fontes divergem e nenhuma é oficial: Trustpilot (ca.trustpilot.com/review/aventi.com) lista país 'Italy'; avaliações ali citam 'Aventi PTE Limited' e operação em Singapura, e uma resposta da marca diz que a empresa está 'em reorganização'; Europa Star diz que o movimento é feito em La Chaux-de-Fonds; Oracle of Time, BQ Watches, Majestix e Hourstriker não dão sede. Fundador Hannu Siren, 2020 (BQ Watches; Majestix). Possível ponto a conferir em B (já preenchida, não alterada): 'Hong Kong / Internacional' não foi confirmado por nenhuma fonte aberta."
+  },
+  "Averen": {
+   "M": "Nada achado (B, C, D, E, F, G, I, J, K). Coluna G vazia; buscas '\"Averen\" watch brand', 'Averen watches @averenwatches', '\"averenwatches\"', 'site:instagram.com averenwatches' e 'Averen watch company founded microbrand' só trouxeram marcas parecidas (Union Glashütte Averin, echo/neutra Averau, Vieren, Aventi). Site oficial não alcançado. História não conferida: sem fontes. A confirmar se o Instagram @averenwatches (já em H) existe e qual é o site."
+  },
+  "Avia": {
+   "E": 1,
+   "F": 857,
+   "J": "Avia Olympic — relógio social de corda manual, 17 rubis, anos 1960–70; cerca de £ 125 (usado)\n\nAvia Marino — relógio de mergulho do fim dos anos 1960; preço não confirmado\n\nCronógrafos esportivos — mecânicos dos anos 1950–60; preço não confirmado\n\nCronômetros militares da Segunda Guerra — usados por tripulações aéreas na caça a submarinos; preço não confirmado",
+   "M": "F: média de 4 Avia vintage de corda manual à venda: antiques-atlas £ 95 (1970s, a14115), £ 120 (1960s, a14242), £ 125 (Olympic 1970s, a14104) e eBay £ 120 (334520276920) = média £ 115 × 7,451 = R$ 857 → E = 1 (marca extinta como fabricante suíço; preço de mercado vintage, sem cronógrafos). J: Olympic (expertswatches.com/pages/avia-watch-company; antiques-atlas a14104), Marino (expertswatches; chronopedia.club/Avia), cronógrafos esportivos (kibblewatches.co.uk brand directory; expertswatches, que cita calibres Valjoux 7733 e Landeron 248), cronômetros militares da 2ª Guerra (chronopedia; thewatchforum.co.uk 'Avia forgotten but not gone'). G, H e K não achados: coluna G vazia; kibblewatches, expertswatches, chronopedia e Fratello não citam site nem Instagram; o fórum thewatchforum diz que a Avia não tem site próprio (comprada pela Fossil em 2001; hoje quartzo barato sob a Fossil UK). Não gravado '-' por falta de confirmação atual. Ponto a conferir em C (já preenchida, não alterada): expertswatches diz que a empresa se mudou para Neuchâtel em 1933 (chronopedia diz que as fontes divergem); registro do nome Avia em 1910 ou 1937 (fontes divergem)."
+  },
+  "Avian Watches": {
+   "M": "H e K não achados. Site oficial avianwatches.com: WebFetch direto recusado (PROVENANCE_REQUIRED) e Firecrawl sem créditos. Buscas 'avianwatches.com Avian Watches pilot', 'site:avianwatches.com', '\"Avian Watches\" Commodore GMT', 'Avian Watches Gulf Breeze instagram Mark I Genesis' e '\"Avian Watches\" pilots Genesis' só trouxeram AVI-8, Avi & Co e outras marcas; nenhuma fonte sobre a Avian. Instagram e logo ficam para nova tentativa com o site oficial aberto."
+  },
+  "Axon Watches": {
+   "M": "C não achado: o site oficial axonwatches.com não abriu (pedido de permissão sem resposta); a página da campanha na PledgeBox só diz 'Made In Italy', e a BackerKit só diz 'by Axon Watches', sem cidade nem fundador. Buscas em inglês e italiano não trouxeram a cidade. A Kicktraq não abriu (redirecionamento)."
+  },
+  "Bahrami Watches": {
+   "M": "K não achado: o site oficial bahramiwatches.com não abriu (pedido de permissão sem resposta) e não apareceu em nenhum resultado de busca (buscas 'bahramiwatches.com', 'site:bahramiwatches.com' e por modelo); sem o cabeçalho do site oficial não há URL de logo confiável."
+  },
+  "Bajer Watches": {
+   "M": "K não achado: o site oficial thebajer.com não abriu (pedido de permissão sem resposta) e não apareceu em nenhum resultado de busca (só Trustpilot, WatchPro, Fashion Week Online e lojas); sem o cabeçalho do site oficial não há URL de logo confiável."
+  },
+  "Baron Watch Company": {
+   "M": "H, I e K não achados: o site oficial baronwatch.co não abriu (pedido de permissão sem resposta) e não apareceu em busca nenhuma; buscas por 'Baron Watch Company' + Stargazer/NH35/St. Petersburg/Florida/Instagram só trouxeram marcas e lojas homônimas ou sem relação. História não conferida: sem fontes (nenhuma fonte sobre a marca foi encontrada)."
+  },
+  "Barrelhand Project 1": {
+   "M": "H a confirmar: a entrevista do aBlogtoWatch com o fundador Karel Bachand ('Superlative: from creative replicas to founding a watch brand') cita '@Barrelhand' com link para instagram.com/barrelhand/, mas é uma fonte só e não oficial (o site oficial barrelhand.com não abriu; Time+Tide, SJX, Fratello, Master Horologer, Wrist Enthusiast e o podcast The Grey NATO 273 não trazem o perfil). K não achado: o site oficial barrelhand.com não abriu (pedido de permissão sem resposta) e não apareceu em busca; as matérias abertas não trazem o logo da marca."
+  },
+  "Bathys": {
+   "M": "K não preenchido: o site oficial bathyshawaii.com não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED) e não apareceu em nenhum resultado de busca ('site:bathyshawaii.com' só trouxe páginas da NOAA); sem o cabeçalho do site oficial não há URL do logo confirmada. Firecrawl sem créditos. Busca só trouxe imprensa (watchreport, ablogtowatch, wristwatchreview, masterhorologer) e registro de marca (trademark.justia.com 'BATHYS HAWAII'). A conferir: se o site ainda está no ar."
+  },
+  "Batiscafo by Centvm": {
+   "M": "História não conferida: sem fontes. O site oficial batiscafo.store não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED) e não apareceu em busca ('site:batiscafo.store' sem resultado). Buscas por 'Batiscafo Centvm', 'Batiscafo Zero45 bronze', 'Centvm watches' e pelo Instagram @batiscafo_watch trouxeram só marcas homônimas ou sem relação (Vostok-Europe 'Batiscafos', Venezianico, batiscafo Trieste da Barcolana). Nenhuma fonte independente sobre fundação, fundador ou cidade; I fica vazia."
+  },
+  "Baume": {
+   "M": "K não preenchido: o site oficial baumewatches.com não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED) e não apareceu em busca ('site:baumewatches.com' só trouxe imprensa: SJX, Time and Watches, e espelhos da Wikipedia 'Baume (watch)'). Sem URL de logo do cabeçalho oficial. Firecrawl sem créditos. A conferir: a marca foi lançada pela Richemont em 2018 (SJX, aBlogtoWatch, Revolution); o site pode ter saído do ar."
+  },
+  "BCHH": {
+   "M": "K não preenchido: o site oficial bchh.ch não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED) e não apareceu em busca ('site:bchh.ch' só trouxe páginas da BFH, sem relação). Imprensa encontrada (SJX 2021, Monochrome, Quill & Pad, Fratello, GPHG 'Celestial Voyager Sunset over Cappadocia') não traz o arquivo do logo. Firecrawl sem créditos."
+  },
+  "Belhamel Watches": {
+   "M": "H não achado: nenhum perfil de Instagram da marca apareceu. Site oficial belhamel.com não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED) e não apareceu em 'site:belhamel.com'. Abertos sem menção a Instagram da marca: Two Broke Watch Snobs (review Contra A39, liga www.belhamel.com), Master Horologer (Kickstarter Contra A40, 2023), The Calibrated Wrist (2024), BackerKit (campanha CA40: £37.911 de 118 apoiadores), AB Newswire (2023, confirma Kington, Herefordshire, e belhamel.com), WristWatchReview (prévia Contra A40), Fratello (página da marca). Buscas 'site:instagram.com belhamel' e '\"belhamel\" \"instagram.com\"' sem resultado da marca. Possível erro fora de 'falta' (não alterado): o logo em K é 'belchengruppe.ch/logo_belchengruppe.png', domínio de outra empresa (Belchengruppe, Suíça), provavelmente não é o logo da Belhamel; conferir."
+  },
+  "Bellecour": {
+   "M": "E, F e H não achados. O site oficial montres-bellecour.fr não abriu direto (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (4 buscas: preços, Instagram, 'site:instagram.com', nome do domínio). A única loja achada (58facettes.com, 'Bellecour - Montre tête de mort en acier', ETA 6497 esqueletizado) não mostra preço (esgotado) e cita só o Instagram da própria loja. A confirmar numa próxima pesquisa: preços na loja do site oficial e Instagram no rodapé dele."
+  },
+  "Belvans": {
+   "M": "K não preenchido: nas páginas oficiais abertas (belvans.com/en/pages/belvans-our-values e a ficha do Daylee branco) o logo do cabeçalho aparece só como link de texto 'Belvans Logo', sem endereço de imagem (provavelmente SVG embutido). Não usado: og:image (belvans.com/cdn/shop/files/Belvans_Maison_Horlogere_Francaise.png), que é imagem de compartilhamento, e daylee-logo-noir.webp, que fica no meio da página e é do modelo Daylee, não da marca."
+  },
+  "Benjamin James": {
+   "M": "C não preenchido (uma fonte só, não oficial): a página da marca no Trustpilot (br.trustpilot.com/review/benjaminjameswatches.com) dá 'Benjamin James Watches, B5 4TU, Birmingham, Reino Unido'. A confirmar: Birmingham. O site oficial não abriu direto (PROVENANCE_REQUIRED); T3, Haute Lifestyle (entrevista com o fundador Benjamin Adams) e Wristwatch Review só dizem 'marca inglesa', sem cidade; o registro na Companies House não foi achado na busca."
+  },
+  "Bergstern": {
+   "M": "C não achado. O site oficial bergstern.ch não abriu direto (PROVENANCE_REQUIRED) e não apareceu em nenhuma busca ('site:bergstern.ch' só trouxe outros sites). Masterhorologer (2018) e Europa Star (ficha do Bergstern Active) só dizem que a marca é suíça, sem cidade; o registro de marca na Justia (pedido de 01/04/2014) esconde o endereço do dono. Busca no registro de empresas suíço sem resultado."
+  },
+  "Bermuda Watch Company": {
+   "M": "K não preenchido: o site oficial bermudawatchcompany.com não abriu direto (PROVENANCE_REQUIRED) e nenhuma página dele apareceu nas buscas (inclusive 'site:bermudawatchcompany.com'). Não usada: a imagem da marca no Thingtesting (img.thingtesting.com/brands/vskuoyYNkqIxX-UfT3MGd/1757410668634.png), porque não é o cabeçalho do site oficial e não fica claro que é o logo."
+  },
+  "Berne": {
+   "M": "Nada novo achado. C, G, H e K não achados: não há site oficial identificável. A única fonte é a loja Bernard Watch (Austin, Texas; bernardwatch.com/Berne), que descreve a Berne como marca de relógios de mergulho com ETA 2824, sem tradição relojoeira, e diz que deixou de vendê-la. Ela não informa cidade nem site. As buscas 'Berne Swiss watch brand official site', 'Berne Swiss watch dive ETA 2824' e '\"Berne watches\" Swiss made diver' só trouxeram outras marcas (Norqain, Zeno, Berney). Há risco de marca homônima, então nada foi gravado."
+  },
+  "BERNY": {
+   "M": "K não achado: o site oficial bernywatch.com não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não apareceu em nenhum resultado de busca ('bernywatch.com BERNY watch', 'site:bernywatch.com', 'BERNY watch official store AM339M'). Vieram só Trustpilot, Walmart, Desertcart e blogs. Logo sem URL do cabeçalho oficial."
+  },
+  "Berthet": {
+   "M": "K não achado: o site oficial berthet.com não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não apareceu em busca ('site:berthet.com', 'berthet.com Berthet horlogerie Villers-le-Lac', 'Berthet montre Imperium Noctem'). Vieram só homônimos (vinhos, empresas Berthet) e o inventário do patrimônio da Bourgogne-Franche-Comté."
+  },
+  "Bertolucci": {
+   "M": "H não achado: o site bertolucciwatches.com não abriu (WebFetch direto: PROVENANCE_REQUIRED). Buscas de Instagram ('Bertolucci watches instagram', 'site:instagram.com bertolucci watches Pulchra', 'Bertolucci montres Genève instagram') trouxeram só o cineasta Bernardo Bertolucci e revendedores (1stDibs, EveryWatch), sem perfil oficial. A conferir: a WorldTempus (22/09/2009, 'New website') dá o site como www.bertolucci-watches.com (com hífen), mesmo domínio do logo em K; a coluna G está como bertolucciwatches.com (sem hífen). Não foi alterado."
+  },
+  "Bespoke Watch Projects": {
+   "M": "H e K não achados. O site oficial bespokewatchprojects.com não abriu (WebFetch direto: PROVENANCE_REQUIRED) e não apareceu em busca. O Instagram da marca existe: o fundador John McConnico fala do seu 'Instagram feed' na entrevista da Fratello (25/07/2022). Mas nenhuma fonte aberta dá a conta: Fratello (entrevista e página da marca), InsideHook, Oakland Magazine, American Craft Council, Gessato e Swiss-Miss não citam o @. As buscas 'site:instagram.com bespokewatchprojects' e '\"@bespokewatchprojects\"' não trouxeram o perfil. A Oakland Magazine confirma o site BespokeWatchProjects.com."
+  },
+  "Bespo Watches": {
+   "M": "Site oficial bespowatches.com não abriu (WebFetch direto deu PROVENANCE_REQUIRED) e não apareceu em nenhuma busca (4 buscas: 'bespowatches.com Bespo Watches', '\"Bespo\" watches Horizon Diver Miami', '\"Bespo Watches\" instagram', '\"bespowatches\"', 'Bespo Watches Miami founder dive watch brand review'; os resultados eram de outras marcas, como Bespoke Watch Projects e Horizon). H não achado: nenhum perfil confirmado. K não achado: site oficial inacessível. História não conferida: sem fontes (0 fontes sobre a marca achadas)."
+  },
+  "Beyond Boring": {
+   "M": "Site oficial beyondboringbrand.com não abriu (WebFetch direto deu PROVENANCE_REQUIRED) e não apareceu em busca. H não achado: as buscas só trouxeram a loja na Whatnot (usuário 'beyondboringwatchco', não é Instagram) e a página da marca na Faire, sem redes sociais. K não achado: site oficial inacessível (há um logo na Faire, mas não é do cabeçalho do site oficial). A conferir em C: a página da marca na Faire (faire.com/es/brand/b_qq479jfbn3, 'The Beyond Boring Watch Company') diz Camas, WA (estado de Washington), não Seattle; a mesma página diz que é empresa familiar do noroeste dos EUA, com o fundador Curt, relojoeiro. C não alterado (1 fonte só, não oficial)."
+  },
+  "Bezel": {
+   "M": "Nada gravado: marca não identificada com segurança. Sem site na planilha, e as buscas ('Bezel watch brand microbrand official site', '\"Bezel Watches\" brand instagram watch company') só trouxeram a Bezel (getbezel.com, @getbezel), que é um mercado online de revenda de relógios de luxo, não uma marca de relógios; risco de homônimo. B, C, G, H e K não achados. Obs.: D e J atuais ('Microbrand de relógios de design contemporâneo', 'Coleções de design contemporâneo') parecem genéricos; a confirmar se a marca existe."
+  },
+  "Bianchet": {
+   "M": "K não achado: o site oficial bianchet.com não abriu direto (PROVENANCE_REQUIRED); a página oficial bianchet.com/the-brand/founders-history (via busca) abriu, mas o cabeçalho (Wix) não traz imagem identificável como logo (só ícone de menu e duas imagens sem nome, de 36×55 px, ligadas a /timepieces e /authorized-retailers). A mesma página confirma o Instagram @bianchet_watches no rodapé (já na planilha)."
+  },
+  "Bianci": {
+   "M": "B e C não achados. O site oficial (página bianciwatches.com/pages/our-story, via busca) não traz endereço; o rodapé diz só '© 2026, robertobianci'; fala de 'Italian styling' e de uma história de 'duas gerações e sete décadas', sem cidade nem país da empresa. A página de contato (bianciwatches.com/pages/contact-us) pediu permissão e não abriu. O perfil no WatchReport (watchreport.com/?p=21506) diz que o fundador é Robert (Roberto) Bianci, gemólogo certificado vindo da Itália, mas não diz onde a empresa fica. A marca é vendida como 'Roberto Bianci' em lojas dos EUA (Newegg, Target, Walmart), o que sugere sede nos EUA, mas sem confirmação: não gravado."
+  },
+  "Bifora": {
+   "M": "H não achado: o site oficial bifora.de (coluna G) não abriu (WebFetch PROVENANCE_REQUIRED) e as buscas 'Bifora Uhren instagram' e 'site:instagram.com bifora' não trouxeram nenhum perfil oficial da marca (só anúncios de eBay e lojas de usados). Sem certeza de que exista conta oficial; H fica vazio."
+  },
+  "BijouMontre": {
+   "M": "G não achado: nenhuma busca ('BijouMontre watches official site', 'bijoumontre.ch', 'BijouMontre Grenchen') trouxe o site oficial; o logo da coluna K está em bijoumontre.cn e o Instagram é @bijoumontre.ch, mas sem fonte que confirme qual domínio é o oficial (a confirmar: bijoumontre.ch ou bijoumontre.cn). C a confirmar: Grenchen (cantão de Solothurn) — só 1 fonte não oficial (masterhorologer.com/bijoumontre-watches, que também diz 'BijouMontre Swiss SA', fundada em 2004 por Willi Saladin); por isso C não foi gravado."
+  },
+  "Black Belt Watch": {
+   "M": "C não achado: o site oficial blackbeltwatch.com não abriu (WebFetch PROVENANCE_REQUIRED) e as matérias abertas (aBlogtoWatch, Europa Star, Tendance Horlogerie x2, Pursuitist) só dizem 'feito na Suíça', sem cidade; a Europa Star credita a empresa Luxury Artpieces SA, ligada a Yvan Arpa (criador do relógio com o lutador Claudio Alessi, lançamento anunciado para out/2009). Cidade dessa empresa não confirmada. K não achado: site oficial inacessível e nenhuma página aberta traz a imagem do logo da marca."
+  },
+  "BlackCat": {
+   "M": "H, I e K não achados. O site oficial blackcat-watches.com não abriu (WebFetch PROVENANCE_REQUIRED) e não apareceu em nenhuma busca. Buscas 'site:instagram.com blackcat watches', 'blackcat-watches.com' e em francês não trouxeram o perfil oficial (marca homônima de muitos produtos 'black cat'). Páginas abertas: thewatchgallery.fr (ficha Shaka Copper Black) e dialicious.com (Shaka) — só fichas de loja/avaliações, sem fundador, ano ou história; uma avaliação cita 'BlackCat by JC', sem confirmação. oclockstore.fr não abriu (tela de verificação). História não conferida: sem fontes (menos de 1 fonte com fatos; nada escrito)."
+  },
+  "Black Corner": {
+   "M": "H e K não achados: o site oficial black-corner.com não abriu (WebFetch PROVENANCE_REQUIRED) e não apareceu em busca; a loja ocarat.com/en/black-corner-watch (aberta) não traz o Instagram da marca nem o logo (só um banner da loja). Buscas por Instagram ('Black Corner watches London instagram', 'Black Corner Blyne instagram', 'Black Corner Times Dwellers instagram') sem resultado oficial. Observação: a Ocarat diz que a marca foi fundada em 2015 em Londres por Blyne (diretor, artista e designer) — bate com B e C já na planilha."
+  },
+  "Black Goose": {
+   "M": "B, C e G não achados: G vazio, então o site oficial não pôde ser aberto direto; buscas por \"Black Goose\" watches, blackgoosewatches e site:instagram.com blackgoosewatches só trouxeram homônimos (elf.com/blackgoose é um tecido, trustburn \"Black Goose\" é outra empresa) e nenhuma página da marca de relógios. O logo em K é do Wix (static.wixstatic.com), sinal de que o site é feito no Wix, mas o endereço não apareceu em busca nenhuma. A confirmar: site, país e cidade (procurar pelo perfil @blackgoosewatches)."
+  },
+  "Blacklist": {
+   "M": "K não preenchido: o site oficial blacklistwatches.com não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED) e nenhuma página do domínio apareceu nas buscas (site:blacklistwatches.com só trouxe resenhas do watchreport.com, Massdrop, Watch Gang e reach.dog/shop/blacklist-watches, que não mostram o logo nem o site). Firecrawl sem créditos."
+  },
+  "Black-Out Concept": {
+   "M": "H não achado: o site oficial blackout-watches.com não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED); chronohunter.com (resenha da Blackout Watches de Genebra, liga para blackout-watches.com), dialicious.com (\"fundada em 2006 em Genebra\"), urbasm.com (site antigo blackoutconcept.com) e danielgerard.lu não trazem perfil de Instagram da marca; buscas site:instagram.com e \"blackoutconcept\" instagram sem resultado da marca. Firecrawl sem créditos."
+  },
+  "Blacksand Genève": {
+   "M": "H não achado: o site oficial blacksandgeneve.com não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED); a página da marca no Watchonista (watchonista.com/user/951) e a do WorldTempus (en.worldtempus.com/watch-brand/blacksand-3) não trazem redes sociais; busca site:instagram.com sem perfil da marca. As notícias achadas (WorldTempus, Masterhorologer, Europa Star) são de 2010–2013: a marca pode estar parada, talvez sem Instagram (a confirmar). Firecrawl sem créditos."
+  },
+  "Blancarré": {
+   "M": "C e K não preenchidos: o site oficial blancarre.com não abriu (WebFetch direto recusado: PROVENANCE_REQUIRED), então o logo do cabeçalho não pôde ser lido. C: aBlogtoWatch (estreia da marca e matéria \"no longer made\") diz só que foi fundada em 2016 pelos irmãos Nicolas e Claude Mertenat, designer \"baseado na Suíça\", com movimento Soprod/ETA; o GPHG (gphg.org/en/watches/white-square) fala só em savoir-faire \"do Jura suíço\"; busca no registro (moneyhouse) sem a empresa. Cidade a confirmar. A matéria da aBlogtoWatch indica que a marca não fabrica mais o modelo Solid Black (a confirmar se ainda está ativa). Firecrawl sem créditos."
+  }
+ }
+}
