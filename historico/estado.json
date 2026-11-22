@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 155,
-  "ultima_versao": 803,
+  "proxima_linha_marcas": 235,
+  "ultima_versao": 804,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13936,6 +13936,14 @@
       "marcas": "A. Manzoni & Fils a Arcaido (50 só dados)",
       "celulas_novas": 16,
       "obs": "Pendências ACIZEM (itens 13-16) já estavam aplicadas desde a v788; ferramenta Projects ausente; Firecrawl sem créditos."
+    },
+    {
+      "versao": 804,
+      "data": "2026-11-22",
+      "tipo": "passada_unica",
+      "marcas": "Arca Opus a Aubliq (38 só dados)",
+      "celulas_novas": 17,
+      "obs": "Astrabyss (modelos) adiada: só o site oficial descreve os 3 META; sem catálogo fechado nem 15 fontes; notas em historico/notas_Astrabyss.md. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
