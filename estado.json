@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 262,
- "ultima_versao": 797,
+ "proxima_linha_marcas": 440,
+ "ultima_versao": 798,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13859,6 +13859,39 @@
     "Aeon Watches"
    ],
    "obs": "H = @theaeonwatches, informado pelo usuário na conversa (22/11/2026)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 798,
+   "marcas": [
+    "Caravelle"
+   ],
+   "linhas_relogios": "121257-121429",
+   "relogios": 173,
+   "detalhe": {
+    "Caravelle": {
+     "relogios": 173,
+     "fontes": 164,
+     "vermelho": true,
+     "grande": true,
+     "site_bloqueado": false,
+     "passadas": {
+      "1": [
+       120,
+       151
+      ],
+      "2": [
+       32,
+       29
+      ],
+      "3": [
+       12,
+       12
+      ]
+     }
+    }
+   },
+   "obs": "Adiadas antes de pesquisar a fundo (ADIADAS no proxima_marca.py): Azzam Watches (home do site deu PROVENANCE_REQUIRED, linha própria Horologist sem nenhuma fonte de fora, Firecrawl sem créditos) e Chrono Company (nenhuma fonte; só homônimas). Pendências ACIZEM (itens 13–16) já estavam aplicadas na v797 (células iguais). Ferramenta Projects ausente. Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13966,31 +13999,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-22T18:44:00Z",
- "ultimo_sinal": "2026-11-22T19:15:41Z",
- "em_andamento": {
-  "marcas": [
-   "Caravelle"
-  ],
-  "linha_marcas": 440,
-  "grande": true,
-  "relogios": "historico/car_data.py",
-  "fontes": "historico/parcial_Caravelle_fontes.txt",
-  "notas": "historico/notas_Caravelle.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a passada"
-  ],
-  "passada": 3,
-  "obs": "Azzam Watches e Chrono Company adiadas (ADIADAS no proxima_marca.py) antes de pesquisar a fundo. Pesquisa terminada (3 passadas, 164 fontes, 173 relógios); falta só gravar com historico/dados_Caravelle.txt e marca_Caravelle.json."
- }
+ "adiadas_obs": {}
 }

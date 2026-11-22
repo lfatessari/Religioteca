@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 262,
- "ultima_versao": 796,
+ "proxima_linha_marcas": 440,
+ "ultima_versao": 798,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13850,6 +13850,48 @@
     }
    },
    "obs": "Adiadas antes de pesquisar a fundo (ADIADAS no proxima_marca.py): Aeon Watches (só o site oficial, 2 modelos, sem fonte externa), A&S Watch (nada achado) e AOS Watches (masterhorologer.com bloqueado e Firecrawl sem créditos; 30 relógios e 16 fontes já levantados em historico/parcial_AOS_*). Avia tratada como grande (vintage). Pendências ACIZEM já estavam aplicadas; ferramenta Projects ausente; Firecrawl sem créditos até 23/11 13:43 UTC."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 797,
+   "tipo": "correcao_marcas",
+   "marcas": [
+    "Aeon Watches"
+   ],
+   "obs": "H = @theaeonwatches, informado pelo usuário na conversa (22/11/2026)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 798,
+   "marcas": [
+    "Caravelle"
+   ],
+   "linhas_relogios": "121257-121429",
+   "relogios": 173,
+   "detalhe": {
+    "Caravelle": {
+     "relogios": 173,
+     "fontes": 164,
+     "vermelho": true,
+     "grande": true,
+     "site_bloqueado": false,
+     "passadas": {
+      "1": [
+       120,
+       151
+      ],
+      "2": [
+       32,
+       29
+      ],
+      "3": [
+       12,
+       12
+      ]
+     }
+    }
+   },
+   "obs": "Adiadas antes de pesquisar a fundo (ADIADAS no proxima_marca.py): Azzam Watches (home do site deu PROVENANCE_REQUIRED, linha própria Horologist sem nenhuma fonte de fora, Firecrawl sem créditos) e Chrono Company (nenhuma fonte; só homônimas). Pendências ACIZEM (itens 13–16) já estavam aplicadas na v797 (células iguais). Ferramenta Projects ausente. Páginas abertas pelo ajudante web-fetch (WebFetch direta ausente)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
