@@ -7,3 +7,4 @@
 - 02:10: rota que rende: buscas por série ("Islander <Série> ISL dial") — os títulos da busca trazem código + mostrador (são as páginas oficiais). Páginas de produto abrem e dão og:image + specs. Páginas /50-to-150-watches/, /200-to-300-watches/, /shop-by-watch-type/, categories?page=427 = robots (não repetir). watchpatrol listing = client_error.
 - seriouswatches oembed page=2 deu fotos cdn.shopify (ISLxxxISL-NNN1.png).
 - Faltam séries: Baiting Hollow, Greenport, Saltaire, Rangemaster, Bridgehampton (mais), Calverton, aviadores, cronógrafos, colaborações.
+- 02:20: buscas por série cobriram Sands Point, Bayport 40, Northport (+37mm), Brookville/Upper Brookville, Manhasset, Mitchel, JFK, Port Jefferson (+GMT), Greenport, Saltaire, aviadores, colaborações, Ameriquartz. Falta: imprensa (fratello, teddy, watchgecko, W&W, aBtW), lojas, usados, faixas 102-118,125-144,162-173,197-204,213-232,239-244,345-355.
