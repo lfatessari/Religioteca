@@ -1,0 +1,962 @@
+{
+ "marca": "Issey Miyake",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – www.isseymiyake.com/pages/watch PROVENANCE_REQUIRED na abertura direta (22/11/2026); as páginas de produto do mesmo site abriram pela busca; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Fase Relógios 22/11/2026: 179 relógios (linha ISSEY MIYAKE WATCH, feita pela Seiko/SII desde 2001). Marca pintada de vermelho: são centenas de referências SILA/NY e só parte apareceu nas fontes (sequências com buracos, p. ex. SILAA002, SILAC001–007, SILAX005+, NYAN/NYAP002). H aponta para @isseymiyakeofficial (moda); a linha de relógios tem conta própria, @isseymiyakewatch_jp (link na página us.isseymiyake.com/pages/watch) — não alterado. A página oficial dos relógios também liga para um site próprio, isseymiyake-watch.com/en (não aberto: não apareceu em busca). Ainda a verificar: código das versões sem referência (U, W mini, TO automatic preto 2024, ELLIPSE Mini, TL, C 'snow gold', TO dourado limitado); tiragem do TO dourado; designer do Vakio cronógrafo SILAJ.",
+ "fontes": [
+  {
+   "url": "https://www.isseymiyake.com/pages/watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/pages/watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw909",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw272",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw273",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw215",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/nyae001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw033",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw290",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.isseymiyake.com/products/IW05AW291",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/the-organic-designs-of-issey-miyake-watches-a-tribute/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://designboom.com/?p=839130",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/znDZs",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw141",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.isseymiyake.com/products/iw55aw281",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw086",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw901",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.isseymiyake.com/products/iw05aw340",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw212",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw282",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw034",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw252",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw292",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw218",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw213",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw253",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw291",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/blogs/news/17503",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/blogs/news/17010",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://hypebeast.com/2026/10/issey-miyake-tl-watch-series-designed-by-todd-blucher-release-info",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchco.com/blogs/blog-archive/new-issey-miyake-watches-from-japan",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://uk.isseymiyake.com/blogs/news/18536",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/21025",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://openers.jp/en/design/design_product/15320",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/ViCAd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/u0Dbq",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/design/design_digital/12147",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/1508706",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/12715",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw147",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw047",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw211",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/es/products/iw05-aw216",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/nyag701y",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw293",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/1553977",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://shop.gessato.com/issey-miyake-w-black-chronograph-watch-natural-leather",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.gessato.com/issey-miyake-w-white-chronograph-watch-natural-leather/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.gessato.com/isissey-miyake-c-white-chronograph-watch-grey-nylon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/issey-miyake-1-6-mechanical-watch-nyak001/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/learn/celebrating-time-with-issey-miyake-an-exploration-of-design",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ippojapanwatch.com/collections/issey-miyake",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-w-silaab01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-w-silaab02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-w-silaab03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-w-silaab04",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-insetto-silaa001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-insetto-silaa003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw401",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw261",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw300",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw301",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw123",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw263",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw214",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uk-store.isseymiyake.com/products/o-bold-designed-by-tokujin-yoshioka-watch-clear",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uk-store.isseymiyake.com/products/o-designed-by-tokujin-yoshioka-watch-smoke",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uk.isseymiyake.com/products/1-6-designed-by-nao-tamura-watch-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-o-ny0w007",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-w-ny0y004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wafuu.com/en-us/products/issey-miyake-wristwatch-ladies-o-o-designed-by-tokujin-yoshioka-ny0w007",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://nanaple.com/en/products/nyas001-quartz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.dezeen.com/2015/05/27/tokujin-yoshioka-v-watch-stainless-steel-rippled-bracelet-issey-miyake/amp/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/405359301175",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-to-silan002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-to-silan001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-trapezoid-silaq002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-trapezoid-silat001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/issey-miyake-trapezoid-silat002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-vakio-silah016",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seikowatches.com/jp-ja/news/20171011_01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/1569508",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/8922",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/6383",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/design/design_product/17570",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/4525",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.designboom.com/chic/ross-lovegrove-naoto-fukasawa-tokujin-yoshioka-watches-for-issey-miyake/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.designboom.com/?p=156",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dezeen.com/2009/07/23/hu-by-ross-lovegrove-for-issey-miyake/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://core77.com/posts/13692/lovegrove-adds-to-miyake-line-of-designer-watches-13692",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://interviewmagazine.com/fashion/issey-miyake-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2019/8/issey-miyake-seiko-1-6-watch-capsule-release",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicdriver.com/en/article/watches/issey-miyakes-new-special-edition-seiko-ode-analogue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japantimes.co.jp/life/2007/05/22/style/ovo-dateblock-vape-no-1-neo-and-deco-lamp",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/issy-miyake",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-to-silan003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-trapezoid-silaz005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/new/products/issey-miyake-silap011",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-twelve-silap004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-vakio-silai017",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-vakio-silah021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-vakio-silah023",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-vakio-silaj019",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/issey-miyake-vakio-2-silal002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-vakio-silah022",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-f-nyaj005",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-f-nyaj001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-u-nyal004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sakurawatches.com/seiko-issey-miyake-u-nyal002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-roku-limited-model-nyam702",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-roku-nyam003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-w-nyae002",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-twelve-ny0p001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mensdesignershoe.com/collections/issey_miyake_mens_watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/lady/products/issey-miyake-hu-silau001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/1155688937",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/1756516300",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/12078547054",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/297192033255",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/145199050167",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tokujin.com/works/2015-issey-miyake-v",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/issey-miyake-nao-tamura-1-6-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.finnishdesignshop.com/en-ch/manufacturer/issey-miyake",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.vestiairecollective.com/men-accessories/watches/issey-miyake/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/issey-miyake/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://designboom.com/?p=600028",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.surfacemag.com/?p=56141",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/176162429653",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/376281870863",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ifitshipitshere.com/the-new-hu-watch-by-ross-lovegrove-for-issey-miyake",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw281",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw085",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/es/products/iw05-aw042",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw217",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/es/products/iw05-aw219",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw074",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw251",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw353",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://uk.isseymiyake.com/products/1-6-designed-by-nao-tamura-watch-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sportique.com/products/issey-miyake-twelve-white-womens-watch-leather",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://nanaple.com/en/blogs/blog/a-model-characterized-by-a-simple-and-clean-design%E2%8C%9A",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://item.rakuten.co.jp/nanaple/silaw001/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://anamall.ana.co.jp/shop/c/c0217-2164_dP/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashionsnap.com/article/2026-10-07/issei-miyake-watch-tl/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.impress.co.jp/docs/news/1259135.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashionsnap.com/article/2020-11-20/issey-miyake-watch-c-f/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://casabrutus.com/categories/design/144777",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wowma.jp/item/638891768",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watch.co.uk/issey-miyake-ovo-spherical-black-watch-with-extremely-long-lugs-silar003.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-to-automatic-silas002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-insetto-silab005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/issey-miyake-insetto-silac008",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-insetto-mechanical-watch-for-men.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.gessato.com/?p=18883",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/?p=18884",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.gessato.com/issey-miyake-to-automatic-men-s-silver-watch-black-leather",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.moderndesign.org/2007/09/shunji-yamanaka-ovo-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gizmodo.jp/article/issey_miyakeovo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tokujin.com/works/2011-issey-miyake-o",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/12522",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.designboom.com/?p=975121",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeout.com/bangkok/blog/issey-miyake-adds-w-automatic-to-its-watch-collection-110216",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/333486355297",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-trapezoid-men-s-watch.html",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-vakio-men-s-watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-vue-watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-twelve-watch-for-men.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-vakio2-mens-watch.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-w-mens-watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-trapezoid-al-watch-for-men.html",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-vakio-suomi-watch.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-twelve-womens-watch.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-to-automatic-watch-for-men.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-go-watch-for-men.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-to-watch-for-men.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-vakio2-dual-dial-watch-for-men.html",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.opticsplanet.com/issey-miyake-vakio-chronograph-for-men.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw322",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw266",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.opticsforyou.com/issey-miyake-o-watch-for-women.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/issey-miyake-watches--6/to-unisex-watch-isssilan003",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-ovo-silar001",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/issey-miyake-ovo-silar002",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw303",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://us.isseymiyake.com/products/iw05-aw262",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/375194271792",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.designscene.net/2009/07/hu-watch-for-issey-miyake.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-c-nyad004",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sakurawatches.com/seiko-issey-miyake-c-nyad002",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://uk.isseymiyake.com/products/to-original-limited-stainless-light-gold-watch",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1013,
- "ultima_versao": 778,
+ "proxima_linha_marcas": 1014,
+ "ultima_versao": 779,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13497,6 +13497,24 @@
    "passadas": "2 passadas (65/14 fontes; 2ª trouxe 3 relógios, sem 3ª)",
    "site_bloqueado": "sim: isotopewatches.com PROVENANCE na tentativa direta (ajudante web-fetch)",
    "obs": "Tratada como grande (sozinha); Issey Miyake, a seguinte, também parece grande. Sem correções na aba Marcas (C 'Suíça' só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências A5 (Abback) já estavam aplicadas na v777. Próxima: Issey Miyake (1014)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 779,
+   "marcas": [
+    "Issey Miyake"
+   ],
+   "linhas_relogios": "117996-118174",
+   "relogios": {
+    "Issey Miyake": 179
+   },
+   "vermelho": true,
+   "fontes": {
+    "Issey Miyake": 190
+   },
+   "passadas": "3 passadas (163/16/11 fontes; 150/35/4 relógios novos)",
+   "site_bloqueado": "parcial: www.isseymiyake.com/pages/watch PROVENANCE na tentativa direta (ajudante web-fetch); produtos abriram pela busca",
+   "obs": "Grande (sozinha). Sem correções na aba Marcas (H da linha de relógios @isseymiyakewatch_jp só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências A5 (Abback) já estavam aplicadas na v777. Próxima pela ordem: ITAnano (1015)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -13603,32 +13621,5 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {},
- "em_execucao": "2026-11-22T04:43:50Z",
- "ultimo_sinal": "2026-11-22T05:11:30Z",
- "em_andamento": {
-  "marcas": [
-   "Issey Miyake"
-  ],
-  "linha_marcas": 1014,
-  "grande": true,
-  "relogios": "historico/parcial_IsseyMiyake_relogios.txt",
-  "fontes": "historico/parcial_IsseyMiyake_fontes.txt",
-  "notas": "historico/notas_IsseyMiyake.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a passada"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }
