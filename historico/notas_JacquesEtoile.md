@@ -15,3 +15,7 @@ Pistas: 1stdibs Monaco Quadriga 3161; eBay.de itm 154787276479, 116465185514, 27
 - Infinity: "Bidynator" (mostrador setorizado, 43 mm original) citado; coleção Atelier.
 - ebay.com itm 287197961382 client_error. Logo: piazo top_brand/JacquesEtoile.png. Righttime: Plongeur VII 3253, Metropolis 158 (SUG Lörrach).
 - Chrono24.de (Firecrawl, ~21 créditos): 21 anúncios; fotos og:image reais. Anúncios genéricos 'Automatik Stahl' (ids 46450094, 49597863, 47395727) não viraram linha. Lunamatic Moonphase ref 968857 = código de anúncio, ignorado.
+- zeitgefuehl.de (Firecrawl): história (fundada 1996, 5 anos em 2001; Horst Jakob pai, Klaus Jakob filho; nome da esposa Yildiz = Etoile; linhas iniciais Imperial e Racing (7750), Silverstone (Valjoux roda de colunas antigos), Plongeur; Japão 1999; caixas SUG Glashütte). Linhas sem modelo nomeado: Imperial, Racing, Silverstone, Atelier (Aristo) → motivo do vermelho.
+- Facebook não abre no Firecrawl. Kleinanzeigen: anúncio removido.
+- Tourbillon Progress (watchprosite 2019) = mesmo Tourbillon LE 25.
+- Passada 2 (vermelho: linhas Imperial/Racing/Silverstone/Plongeur/Atelier sem modelos): 12 fontes, 4 relógios novos (Venus 175 Imperial LE100 175IP, Venus Imperial LE50, Le Mans by Aristo preto/laranja). W&W 2025: Klaus Jakob entregou a marca à Aristo (Hansjörg Vollmer) na pandemia; foca na Mercure. Firecrawl sem créditos desde ~14h55 UTC. Falhas: ebay.de 305931721842, yahoo chronure ch154, everywatch 33363427 (PROVENANCE), ebay.de 278127376654 (PROVENANCE).
