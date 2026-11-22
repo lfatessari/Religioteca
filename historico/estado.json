@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1014,
- "ultima_versao": 779,
+ "proxima_linha_marcas": 1015,
+ "ultima_versao": 780,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13515,6 +13515,24 @@
    "passadas": "3 passadas (163/16/11 fontes; 150/35/4 relógios novos)",
    "site_bloqueado": "parcial: www.isseymiyake.com/pages/watch PROVENANCE na tentativa direta (ajudante web-fetch); produtos abriram pela busca",
    "obs": "Grande (sozinha). Sem correções na aba Marcas (H da linha de relógios @isseymiyakewatch_jp só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências A5 (Abback) já estavam aplicadas na v777. Próxima pela ordem: ITAnano (1015)."
+  },
+  {
+   "data": "2026-11-22",
+   "versao": 780,
+   "marcas": [
+    "ITAnano"
+   ],
+   "linhas_relogios": "118175-118208",
+   "relogios": {
+    "ITAnano": 34
+   },
+   "vermelho": false,
+   "fontes": {
+    "ITAnano": 43
+   },
+   "passadas": "2 passadas (36/7 fontes; 31/3 relógios novos)",
+   "site_bloqueado": "sim: itanano.com PROVENANCE_REQUIRED na tentativa direta (ajudante web-fetch)",
+   "obs": "Bateria só com ITAnano: Itay Noy (1016), a seguinte, tratada como grande (muitas coleções limitadas, WatchBase com famílias) e fica sozinha na próxima execução; i-Toc (1017) depois dela. J corrigida (Phantom), resto só anotado em M. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências A5 (Abback) já aplicadas na v777; ferramenta Projects ausente."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
