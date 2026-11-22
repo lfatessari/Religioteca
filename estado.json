@@ -13576,5 +13576,20 @@
   "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
  },
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
- "adiadas_obs": {}
+ "adiadas_obs": {},
+ "em_execucao": "2026-11-22T02:43:45Z",
+ "ultimo_sinal": "2026-11-22T02:43:45Z",
+ "em_andamento": {
+  "marcas": [
+   "Isotope"
+  ],
+  "linha_marcas": 1013,
+  "grande": false,
+  "relogios": "historico/parcial_Isotope_relogios.txt",
+  "fontes": "historico/parcial_Isotope_fontes.txt",
+  "notas": "historico/notas_Isotope.md",
+  "secoes_feitas": [],
+  "passada": 1,
+  "obs": "escolha provisória; pendências A5 Abback primeiro"
+ }
 }
