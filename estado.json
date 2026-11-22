@@ -13732,17 +13732,23 @@
  "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
  "adiadas_obs": {},
  "em_execucao": "2026-11-22T10:44:31Z",
- "ultimo_sinal": "2026-11-22T10:44:31Z",
+ "ultimo_sinal": "2026-11-22T10:54:31Z",
  "em_andamento": {
   "marcas": [
    "Jack Mason"
   ],
   "linha_marcas": 1022,
-  "grande": false,
+  "grande": true,
   "relogios": "historico/parcial_JackMason_relogios.txt",
   "fontes": "historico/parcial_JackMason_fontes.txt",
   "notas": "historico/notas_JackMason.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "3",
+   "7",
+   "9"
+  ],
   "passada": 1
  }
 }
