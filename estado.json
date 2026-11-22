@@ -13587,7 +13587,7 @@
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
   "adiadas_obs": {},
   "em_execucao": "2026-11-22T03:43:35Z",
-  "ultimo_sinal": "2026-11-22T03:53:20Z",
+  "ultimo_sinal": "2026-11-22T03:57:35Z",
   "em_andamento": {
     "marcas": [
       "Isotope"
@@ -13599,10 +13599,15 @@
     "notas": "historico/notas_Isotope.md",
     "secoes_feitas": [
       "1",
+      "2",
+      "2c",
       "3",
-      "9"
+      "5",
+      "7",
+      "9",
+      "10"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "Isotope sozinha: a seguinte (Issey Miyake) é grande. Retomada: a execução anterior morreu antes de pesquisar."
   }
 }
