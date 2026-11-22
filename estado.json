@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1012,
-  "ultima_versao": 777,
+  "proxima_linha_marcas": 1013,
+  "ultima_versao": 778,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13479,6 +13479,24 @@
         "Abback"
       ],
       "obs": "Itens 9 e 10 (Abback D e I) do post de 21/11/2026 aplicados (pendências A5)."
+    },
+    {
+      "data": "2026-11-22",
+      "versao": 778,
+      "marcas": [
+        "Isotope"
+      ],
+      "linhas_relogios": "117939-117995",
+      "relogios": {
+        "Isotope": 57
+      },
+      "vermelho": true,
+      "fontes": {
+        "Isotope": 79
+      },
+      "passadas": "2 passadas (65/14 fontes; 2ª trouxe 3 relógios, sem 3ª)",
+      "site_bloqueado": "sim: isotopewatches.com PROVENANCE na tentativa direta (ajudante web-fetch)",
+      "obs": "Tratada como grande (sozinha); Issey Miyake, a seguinte, também parece grande. Sem correções na aba Marcas (C 'Suíça' só anotado em M). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências A5 (Abback) já estavam aplicadas na v777. Próxima: Issey Miyake (1014)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -13585,29 +13603,5 @@
     "concluida": "2026-11-14 (v614): fila.py com 0 marcas"
   },
   "ordem_relogios": "de cima para baixo pela aba Marcas, só marcas sem nenhum relógio (proxima_marca.py) — pedido do usuário 14/11/2026",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T03:43:35Z",
-  "ultimo_sinal": "2026-11-22T03:57:35Z",
-  "em_andamento": {
-    "marcas": [
-      "Isotope"
-    ],
-    "linha_marcas": 1013,
-    "grande": false,
-    "relogios": "historico/parcial_Isotope_relogios.txt",
-    "fontes": "historico/parcial_Isotope_fontes.txt",
-    "notas": "historico/notas_Isotope.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10"
-    ],
-    "passada": 2,
-    "obs": "Isotope sozinha: a seguinte (Issey Miyake) é grande. Retomada: a execução anterior morreu antes de pesquisar."
-  }
+  "adiadas_obs": {}
 }
