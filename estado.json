@@ -14591,5 +14591,18 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T20:43:08Z",
-  "ultimo_sinal": "2026-11-23T20:43:08Z"
+  "ultimo_sinal": "2026-11-23T20:44:28Z",
+  "em_andamento": {
+    "marcas": [
+      "Jean d'Eve"
+    ],
+    "linha_marcas": 1074,
+    "grande": false,
+    "relogios": "historico/parcial_jean_deve_relogios.txt",
+    "fontes": "historico/parcial_jean_deve_fontes.txt",
+    "notas": "historico/notas_jean_deve.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "obs": "Jean Dunand (2ª da lista) tratada como grande (peças únicas com mostradores próprios) e fica para a próxima execução, sozinha."
+  }
 }
