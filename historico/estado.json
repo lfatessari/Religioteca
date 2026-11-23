@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1065,
-  "ultima_versao": 825,
+  "proxima_linha_marcas": 1066,
+  "ultima_versao": 826,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14356,6 +14356,25 @@
         "Jaermann & Stübi": "K (logo via marca.json)"
       },
       "obs": "Só Jaermann & Stübi: a 2ª do lote (Jaguar Swiss Watches, do grupo Festina) é grande e fica sozinha na próxima. Pendências dos posts 24-29 já aplicadas (v821). WebFetch só pelo ajudante web-fetch; site oficial com PROVENANCE_REQUIRED. Lacunas de referências anotadas em M."
+    },
+    {
+      "versao": 826,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Jaguar Swiss Watches": {
+          "linha": 1066,
+          "relogios": 379,
+          "fontes": 126,
+          "vermelho": true,
+          "grande": true,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "lacunas": {
+        "Jaguar Swiss Watches": "B D E F G H I J (+K via marca.json); C não achada"
+      },
+      "obs": "Jaguar grande, sozinha; 3 passadas (89/26/11 fontes; 366/25/3 relógios). Firecrawl com créditos no início (~80, site oficial), acabou depois; WebFetch só pelo ajudante web-fetch; páginas institucionais do site oficial com PROVENANCE_REQUIRED. Próximas: Jaipur Watch Company, James Lamb."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

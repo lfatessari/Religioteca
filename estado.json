@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1065,
-  "ultima_versao": 825,
+  "proxima_linha_marcas": 1066,
+  "ultima_versao": 826,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14356,6 +14356,25 @@
         "Jaermann & Stübi": "K (logo via marca.json)"
       },
       "obs": "Só Jaermann & Stübi: a 2ª do lote (Jaguar Swiss Watches, do grupo Festina) é grande e fica sozinha na próxima. Pendências dos posts 24-29 já aplicadas (v821). WebFetch só pelo ajudante web-fetch; site oficial com PROVENANCE_REQUIRED. Lacunas de referências anotadas em M."
+    },
+    {
+      "versao": 826,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Jaguar Swiss Watches": {
+          "linha": 1066,
+          "relogios": 379,
+          "fontes": 126,
+          "vermelho": true,
+          "grande": true,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "lacunas": {
+        "Jaguar Swiss Watches": "B D E F G H I J (+K via marca.json); C não achada"
+      },
+      "obs": "Jaguar grande, sozinha; 3 passadas (89/26/11 fontes; 366/25/3 relógios). Firecrawl com créditos no início (~80, site oficial), acabou depois; WebFetch só pelo ajudante web-fetch; páginas institucionais do site oficial com PROVENANCE_REQUIRED. Próximas: Jaipur Watch Company, James Lamb."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14463,34 +14482,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T14:43:14Z",
-  "ultimo_sinal": "2026-11-23T15:03:58Z",
-  "em_andamento": {
-    "marcas": [
-      "Jaguar Swiss Watches"
-    ],
-    "linha_marcas": 1066,
-    "grande": true,
-    "relogios": "historico/parcial_Jaguar_relogios.txt",
-    "fontes": "historico/parcial_Jaguar_fontes.txt",
-    "notas": "historico/notas_Jaguar.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "p2",
-      "p3",
-      "gravando"
-    ],
-    "passada": 2,
-    "obs": "raw_oficial.txt e ext1.txt em historico/ têm os códigos achados"
-  }
+  "adiadas_obs": {}
 }
