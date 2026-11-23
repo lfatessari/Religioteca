@@ -14200,19 +14200,22 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-23T05:43:32Z",
- "ultimo_sinal": "2026-11-23T05:43:32Z",
+ "ultimo_sinal": "2026-11-23T05:54:02Z",
  "em_andamento": {
   "marcas": [
-   "Downrange Timepieces",
-   "Dualys",
-   "EI8HT"
+   "EI8HT",
+   "Elgé",
+   "Emerton Scott"
   ],
-  "linha_marcas": 653,
+  "linha_marcas": 696,
   "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "relogios": "historico/parcial_EI8HT_relogios.txt",
+  "fontes": "historico/parcial_EI8HT_fontes.txt",
+  "notas": "historico/notas_EI8HT.md",
+  "secoes_feitas": [
+   "EI8HT: completa (15 fontes, 8 relógios)"
+  ],
+  "passada": 1,
+  "obs": "Downrange Timepieces e Dualys adiadas (proxima_marca.py); Firecrawl sem créditos"
  }
 }
