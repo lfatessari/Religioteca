@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1064,
-  "ultima_versao": 824,
+  "proxima_linha_marcas": 1065,
+  "ultima_versao": 825,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14337,6 +14337,25 @@
       },
       "lacunas": {},
       "obs": "JLC grande, sozinha; 3 passadas (81/32/21 fontes; 502/34/42 relógios). Sem dados vazios na aba Marcas. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências dos posts já aplicadas (v821). Próximas: Jaermann & Stübi, Jaguar Swiss Watches."
+    },
+    {
+      "versao": 825,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Jaermann & Stübi": {
+          "linha": 1065,
+          "relogios": 47,
+          "fontes": 63,
+          "vermelho": false,
+          "grande": false,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "lacunas": {
+        "Jaermann & Stübi": "K (logo via marca.json)"
+      },
+      "obs": "Só Jaermann & Stübi: a 2ª do lote (Jaguar Swiss Watches, do grupo Festina) é grande e fica sozinha na próxima. Pendências dos posts 24-29 já aplicadas (v821). WebFetch só pelo ajudante web-fetch; site oficial com PROVENANCE_REQUIRED. Lacunas de referências anotadas em M."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14444,32 +14463,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T13:45:12Z",
-  "ultimo_sinal": "2026-11-23T13:58:18Z",
-  "em_andamento": {
-    "marcas": [
-      "Jaermann & Stübi"
-    ],
-    "linha_marcas": 1065,
-    "grande": false,
-    "relogios": "historico/parcial_Jaermann_relogios.txt",
-    "fontes": "historico/parcial_Jaermann_fontes.txt",
-    "notas": "historico/notas_Jaermann.md",
-    "secoes_feitas": [
-      "1",
-      "2b",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Jaguar Swiss Watches (2ª do lote) é grande (Festina): fica sozinha na próxima."
-  }
+  "adiadas_obs": {}
 }
