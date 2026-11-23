@@ -1,0 +1,40 @@
+{
+ "versao": 821,
+ "data": "2026-11-23",
+ "tipo": "posts",
+ "prefixo": "Atualizado a partir do post publicado",
+ "data_br": "23/11/2026",
+ "marcas": {
+  "Adriano Valente": {
+   "D": "Relógio de luxo personalizável inspirado nos supercarros italianos, com caixa angular e mostrador que imita um velocímetro.",
+   "I": "O relojoeiro italiano Adriano Valente criou a marca que leva seu nome porque não encontrava no mercado o relógio que queria — por isso, a personalização virou o centro da proposta. Feita na Suíça, a marca apareceu na imprensa em 2011 com um único modelo, o AV-L001.\n\nO relógio foi pensado para combinar com os Lamborghini Murciélago e Gallardo, mas sem nenhuma parceria oficial com a montadora: a inspiração era só estética. A caixa angular, mais larga que alta, vinha em Karbonyte (mistura de carbono e titânio) ou AlTiCar (alumínio, titânio e carbono); o mostrador imita um velocímetro, e a coroa foi desenhada como uma roda. Dentro, o movimento automático Engine-001A mostrava grande data e reserva de marcha.\n\nEram seis cores com nomes que lembram as pinturas da Lamborghini — Nero Tartarus, Giallo Hyperion, Rosso Eos, Grigio Menoetius, Bianco Ophian e Verde Icaria —, mas o cliente podia pedir a caixa na cor exata do próprio carro, além de escolher mostrador e pulseira, de borracha ou Alcantara. O preço partia de cerca de 35 mil dólares. Não há notícia de outros modelos depois dele.",
+   "M": "D e I iguais ao ⭐ e à história do post publicado em 23/11/2026 (instagram.com/p/DgFKsuhliAs). Fontes: motivo da criação (personalização), marca italiana, ausência de parceria com a Lamborghini, Murciélago/Gallardo, Karbonyte e AlTiCar, velocímetro, coroa em forma de roda, Engine-001A com grande data e reserva de marcha (aBlogtoWatch, 15/11/2011; Luxatic; Luxury Launches); os seis nomes de cores, caixa na cor do carro, pulseira de borracha ou Alcantara (Luxatic; Montre24, notícia de 16/11/2011); preço a partir de US$ 35.100 (Luxatic; TopSpeed; Luxury Launches; a aBlogtoWatch fala em CHF 32.500); feita na Suíça (Montre24; Luxury Launches/TopSpeed). Ficaram fora do texto: fundação em 2010 e Lausanne (só Fashionbi), magnésio forjado e a opção de 'travar' a combinação. A confirmar (fonte única): fundação em 2011 na Suíça, desenho de Philippe Moser e parte técnica de Frederic Richard (só a página da marca na Montre24); produção de 66 peças por ano (só Luxury Launches/TopSpeed, mesma cadeia). C segue 'Lausanne', a confirmar."
+  }
+ },
+ "relogios": [
+  {
+   "marca": "Adriano Valente",
+   "modelo": "AV-L001 Verde Icaria",
+   "col": "C",
+   "valor": "https://www.ablogtowatch.com/wp-content/uploads/2011/11/Adriano-Valente-8.jpg"
+  },
+  {
+   "marca": "Adriano Valente",
+   "modelo": "AV-L001 Bianco Ophian",
+   "col": "C",
+   "valor": "https://www.ablogtowatch.com/wp-content/uploads/2011/11/Adriano-Valente-3.jpg"
+  },
+  {
+   "marca": "Adriano Valente",
+   "modelo": "AV-L001 Grigio Menoetius",
+   "col": "C",
+   "valor": "https://www.ablogtowatch.com/wp-content/uploads/2011/11/Adriano-Valente-7.jpg"
+  },
+  {
+   "marca": "Adriano Valente",
+   "modelo": "AV-L001 Nero Tartarus",
+   "col": "C",
+   "valor": "https://www.ablogtowatch.com/wp-content/uploads/2011/11/Adriano-Valente-9.jpg"
+  }
+ ]
+}

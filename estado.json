@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1063,
-  "ultima_versao": 820,
+  "ultima_versao": 821,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14265,6 +14265,21 @@
         "OFTEQ"
       ],
       "obs": "Pedido do usuário na conversa: 5 marcas novas só com o nome, em ordem alfabética (lista em historico/marcas_novas_2026-11-23b/novas.json); entram na passada única pela ordem do proxima_completa.py"
+    },
+    {
+      "versao": 821,
+      "data": "2026-11-23",
+      "tipo": "posts",
+      "marcas": [
+        "Adriano Valente"
+      ],
+      "colunas": [
+        "D",
+        "I",
+        "M"
+      ],
+      "relogios_fotos": 4,
+      "obs": "itens 24 a 29 das pendências dos posts (D e I iguais ao post; 4 fotos da aBlogtoWatch na coluna C). Documento do Projeto não marcado: ferramenta Projects ausente."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14374,7 +14389,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T10:43:26Z",
-  "ultimo_sinal": "2026-11-23T10:45:46Z",
+  "ultimo_sinal": "2026-11-23T10:52:19Z",
   "em_andamento": {
     "marcas": [
       "Calypso Watches"
