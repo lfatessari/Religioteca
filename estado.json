@@ -14520,7 +14520,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T17:43:36Z",
-  "ultimo_sinal": "2026-11-23T17:55:16Z",
+  "ultimo_sinal": "2026-11-23T18:00:31Z",
   "em_andamento": {
     "marcas": [
       "Jaquet Droz"
@@ -14538,6 +14538,6 @@
       "7"
     ],
     "passada": 1,
-    "obs": "raw files concatenados em parcial_relogios (formato nome|ref|img-ou-id-exquisite|specs); build_jaquet_droz.py monta o dados"
+    "obs": "brutos em historico/jaquet_droz_raw/ (raw_exq, raw_outros, raw_ess); historico/build_jaquet_droz.py monta o dados; fontes em parcial_Jaquet_Droz_fontes.txt"
   }
 }
