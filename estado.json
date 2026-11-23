@@ -14465,7 +14465,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T14:43:14Z",
-  "ultimo_sinal": "2026-11-23T14:57:48Z",
+  "ultimo_sinal": "2026-11-23T15:01:19Z",
   "em_andamento": {
     "marcas": [
       "Jaguar Swiss Watches"
@@ -14480,11 +14480,15 @@
       "2",
       "2c",
       "3",
+      "4",
       "5",
+      "6",
       "7",
-      "8"
+      "8",
+      "9",
+      "p2"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "raw_oficial.txt e ext1.txt em historico/ têm os códigos achados"
   }
 }
