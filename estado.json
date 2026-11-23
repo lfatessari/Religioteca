@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 352,
-  "ultima_versao": 806,
+  "proxima_linha_marcas": 412,
+  "ultima_versao": 807,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13959,6 +13959,17 @@
       "marcas": "Auctor Horologium a Blancarré (49 só dados)",
       "celulas_novas": 4,
       "obs": "Os 50 sites oficiais deram PROVENANCE_REQUIRED no WebFetch direto (por ajudante). Avax Watches fora do lote (cota). Firecrawl sem créditos."
+    },
+    {
+      "versao": 807,
+      "data": "2026-11-22",
+      "tipo": "passada_unica",
+      "marcas": "Avax Watches a Bühlmann Watches (27 só dados + Bradley Taylor com modelos; Borna adiada)",
+      "celulas_novas": 21,
+      "relogios": {
+        "Bradley Taylor": 6
+      },
+      "obs": "Bradley Taylor: 6 relógios, 22 fontes, logo em K. Borna adiada (nenhuma fonte). Bühlmann: K candidato não gravado (a conferir). Firecrawl sem créditos. Ferramenta Projects ausente."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14066,7 +14077,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "PASSADA ÚNICA desde 22/11/2026 (v802): de cima para baixo pela aba Marcas, cada marca é concluída por inteiro (dados vazios + modelos) — proxima_completa.py; pedido do usuário",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-22T23:43:35Z",
-  "ultimo_sinal": "2026-11-22T23:49:02Z"
+  "adiadas_obs": {}
 }

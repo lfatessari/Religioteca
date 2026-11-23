@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 235,
-  "ultima_versao": 804,
+  "proxima_linha_marcas": 412,
+  "ultima_versao": 807,
   "historico": [
     {
       "data": "2026-10-16",
@@ -13944,6 +13944,32 @@
       "marcas": "Arca Opus a Aubliq (38 só dados)",
       "celulas_novas": 17,
       "obs": "Astrabyss (modelos) adiada: só o site oficial descreve os 3 META; sem catálogo fechado nem 15 fontes; notas em historico/notas_Astrabyss.md. Firecrawl sem créditos."
+    },
+    {
+      "versao": 805,
+      "data": "2026-11-22",
+      "tipo": "posts",
+      "marcas": "Adamas",
+      "obs": "Itens 17-22 das pendências dos posts (escritos na tarefa agendada): Marcas D, H, I, J (+M) e Características dos 2 Meraki na aba Relógios; script historico/posts/aplicar_posts_v805.py com conferência de todas as células (RESULTADO: OK). Ferramenta Projects ausente: documento não marcado."
+    },
+    {
+      "versao": 806,
+      "data": "2026-11-22",
+      "tipo": "passada_unica",
+      "marcas": "Auctor Horologium a Blancarré (49 só dados)",
+      "celulas_novas": 4,
+      "obs": "Os 50 sites oficiais deram PROVENANCE_REQUIRED no WebFetch direto (por ajudante). Avax Watches fora do lote (cota). Firecrawl sem créditos."
+    },
+    {
+      "versao": 807,
+      "data": "2026-11-22",
+      "tipo": "passada_unica",
+      "marcas": "Avax Watches a Bühlmann Watches (27 só dados + Bradley Taylor com modelos; Borna adiada)",
+      "celulas_novas": 21,
+      "relogios": {
+        "Bradley Taylor": 6
+      },
+      "obs": "Bradley Taylor: 6 relógios, 22 fontes, logo em K. Borna adiada (nenhuma fonte). Bühlmann: K candidato não gravado (a conferir). Firecrawl sem créditos. Ferramenta Projects ausente."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
