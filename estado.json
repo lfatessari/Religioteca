@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 536,
- "ultima_versao": 810,
+ "proxima_linha_marcas": 559,
+ "ultima_versao": 811,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14041,6 +14041,21 @@
     "Stéphane Pierre"
    ],
    "obs": "Pedido do usuário na conversa: Ciloa gravada só com o site oficial (exceção nova no CLAUDE.md e no gravar_marca.py; tirada das ADIADAS) e 14 marcas novas inseridas só com o nome (lista em historico/marcas_novas_2026-11-23/novas.json); elas entram pela ordem do proxima_completa.py."
+  },
+  {
+   "versao": 811,
+   "data": "2026-11-23",
+   "tipo": "bateria",
+   "marcas": [
+    "CS Watches"
+   ],
+   "linha_marcas": 559,
+   "relogios": 15,
+   "vermelho": false,
+   "grande": false,
+   "fontes": 26,
+   "site_bloqueado": false,
+   "obs": "D1 Milano (571, grande) fica sozinha na próxima; Projects indisponível (pendências dos posts não lidas); Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14148,27 +14163,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-23T02:43:43Z",
- "ultimo_sinal": "2026-11-23T02:53:24Z",
- "em_andamento": {
-  "marcas": [
-   "CS Watches"
-  ],
-  "linha_marcas": 559,
-  "grande": false,
-  "relogios": "historico/dados_CS Watches.txt",
-  "fontes": "historico/parcial_CS Watches_fontes.txt",
-  "notas": "historico/notas_CS Watches.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
