@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1034,
-  "ultima_versao": 818,
+  "proxima_linha_marcas": 1061,
+  "ultima_versao": 819,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14230,6 +14230,28 @@
         "M"
       ],
       "obs": "item 23 das pendências dos posts (história da Adina igual à do post)"
+    },
+    {
+      "versao": 819,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Jacques Lemans": {
+          "linha": 1061,
+          "relogios": 618,
+          "fontes": 60,
+          "vermelho": true,
+          "grande": true,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "adiadas": [
+        "Huguenin"
+      ],
+      "lacunas": {
+        "Huguenin": "só M (marca não identificada com segurança)"
+      },
+      "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; Projects indisponível (documento de pendências não marcado)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14337,29 +14359,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T09:43:17Z",
-  "ultimo_sinal": "2026-11-23T09:57:20Z",
-  "em_andamento": {
-    "marcas": [
-      "Jacques Lemans"
-    ],
-    "linha_marcas": 1061,
-    "grande": true,
-    "relogios": "historico/parcial_JacquesLemans_store.json",
-    "fontes": "historico/parcial_JacquesLemans_store.json (campo src) + notas",
-    "notas": "historico/notas_JacquesLemans.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "passada": 3,
-    "obs": "Huguenin adiada (ADIADAS no proxima_marca.py); Jacques Lemans grande, sozinha"
-  }
+  "adiadas_obs": {}
 }
