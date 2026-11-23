@@ -14389,7 +14389,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T10:43:26Z",
-  "ultimo_sinal": "2026-11-23T10:52:19Z",
+  "ultimo_sinal": "2026-11-23T10:54:01Z",
   "em_andamento": {
     "marcas": [
       "Calypso Watches"
@@ -14399,7 +14399,14 @@
     "relogios": "historico/parcial_Calypso_relogios.txt",
     "fontes": "historico/parcial_Calypso_fontes.txt",
     "notas": "historico/notas_Calypso.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2b",
+      "3",
+      "5",
+      "7"
+    ],
     "passada": 1,
     "obs": "Calypso (grupo Festina) tratada como grande: sozinha; Dmitriy Chugunov fica para a próxima. Pendências Adriano Valente (v821) em gravação."
   }
