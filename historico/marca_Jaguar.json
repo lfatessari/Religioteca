@@ -1,0 +1,642 @@
+{
+ "marca": "Jaguar Swiss Watches",
+ "usa_codigos": true,
+ "logo": "https://media6.festinagroup.com/static/tiendas_online/jaguar/images/assets/img/logos/jaguar.svg",
+ "site_bloqueado": "Parcial – jaguarswisswatches.com: páginas institucionais e blog dão PROVENANCE_REQUIRED no WebFetch; a loja mostra 12 relógios por página (paginação por script); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios: grava 379 modelos (site oficial jaguarswisswatches.com pelo Firecrawl + lojas Zeitlounge, Juwelier Steiner, The Watch Company, Masters in Time, watch.co.uk 'Historical Collection', Galaxus, kits de imprensa). Marca VERMELHA: watch.co.uk e Masters in Time têm centenas de páginas 'historical-jNNN' (1998–2024) não alcançadas; a loja oficial mostra só 12 por página (faltam parte das linhas Diplomatic, Essentia e Nueva I-Size); páginas 2–4 da Zeitlounge, Steiner e Masters in Time não abriram. Fotos: padrão static6.festinagroup.com/product/jaguar/watches/jNNN_N.png só para códigos vistos na loja oficial; demais com foto da loja ou link da página. C (cidade) não achada: a dona da marca nos EUA é 'Manufacture des Montres Jaguar S.A.' (Justia), sem endereço; o grupo Festina tem sede na Espanha (Madri segundo festinagroup.com; Barcelona segundo brandsofspain/firstclasswatches).",
+ "fontes": [
+  {
+   "url": "https://festinagroup.com/nuestras-marcas/jaguar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/watch",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/automatic-balancier",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/pro-diver",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/executive",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/acamar",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/connected",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/diplomatic",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/jaguar-ceramic-watches",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/jaguar-rc",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/special-edition",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/diplomatic/woman",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/ouverture-automatic",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/le-chronographe-automatic",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/couple-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/heritage-automatic",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/coeur-mecanique",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/essentia",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/connected-lady",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaguarswisswatches.com/en-GB/collection/nueva-i-size",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.zeitlounge.com/en/brands/jaguar",
+   "passada": 1,
+   "novos": 58
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/collections/jaguar",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.thewatchcompany.com/jaguar/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://bestwatch.sg/jaguar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/brands/jaguar.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ditur.com/brands/jaguar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/jaguar/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-j625-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j760-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j659-4.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j624-5.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j765-4.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j628-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j643-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j1030-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j1021-5.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/de/jaguar/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://watchplaza.com/us/brands/jaguar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.at/en/s8/producttype/toplist/brand/wristwatches-163/jaguar-5888",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/jaguar-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watches.uhrzeit.org/jaguar.php",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Festina",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/jaguar/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://festinagroup.com/press/contenido/en/Jaguar/pressKit_balancier_ING.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2023/02/26/jaguar-balancier-automatic-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-j420-6.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j619-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j642-e.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j642-d.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j468-5.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j627-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j784-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j647-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j751-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j634-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j301-8.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j812-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j907-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j784-a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j1030-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j785-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j787-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j910-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j764-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j419-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j914-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j914-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j911-a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j983-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j981-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j1016-1.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/historical-j1040-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j1017-2.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://joyeriapato.com/en/jaguar/jaguar-watch-j1015-1-diplomatic-black-rubber-strap-and-rose-gold-ip-details.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j670-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j1030-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j642-1.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j637-3.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j668-6.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/jaguar-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://trademark.justia.com/owners/manufacture-des-montres-jaguar-s-a-975216",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/jaguar-special-edition/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.orologioblog.net/en/?p=29033",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://festinagroup.com/press/contenido/de/Jaguar/pressKit_jaguar_connected_lady_DE.pdf",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://gioiellis.com/en/jaguar-connected-watches-in-ladies-version/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/blog/?p=30433",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exhibitors.inhorgenta.com/download/1180_9_25_6953_25_1_408/festina-group-download-press-release.pdf",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105756261-jaguar-j667-no-reserve-price-men-2000-2010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j808-3.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j806-2.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j607-2.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/us/en/jaguar-special-edition-swiss-made-chronograph-with-date-j690-1.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://mastersintime.com/historical-j861-5.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/us/en/jaguar-special-edition-black-gents-watch-with-small-second-big-date-retrograde-day-scale-j681-b.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://mastersintime.com/historical-j886-1.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j661-c.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/historical-j642-d.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j1027-3.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watch.co.uk/jaguar-special-edition-copper-gents-watch-with-small-second-big-date-retrograde-day-scale-j680-a.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j420-5.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j411-5.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j423-5.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j627-5.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watch.co.uk/historical-j458-2.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/jaguar-j8715-claire-de-lune-34-mm-wristwatches-36875958",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/jaguar-j9701-claire-de-lune-40-mm-wristwatches-34791422",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://steiner-juwelier.com/en-dk/products/jaguar-cosmopolitan-j892-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://alshayawatches.com/en/products/jaguar-j800-3-j800-3-clair-de-lune",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.it/en/s8/product/jaguar-j8935-swiss-made-3450-mm-wristwatches-46186683",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.nl/en/s8/product/jaguar-woman-diving-watch-34-mm-wristwatches-13583778",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://mastersintime.com/jaguar-acamar-swiss-ladies-quartz-watch-with-date-j1046-2.htm",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/jaguar-executive-diver-ladies-swiss-made-ladies-diving-watch-with-date-and-crystals-j895-3.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/jaguar-executive-diver-ladies-swiss-made-ladies-diving-watch-with-date-and-crystals-j895-2.htm",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/103601902-jaguar-executive-chronograph-j861-3-men-2020",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/wissen/welche-marken-gehoeren-zur-festina-group",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://brandsofspain.com/miembro/festina-lotus/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.festinagroup.com/?p=17904",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/blog/?p=6851",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/que-pasa-con-los-relojes-jaguar.448768/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/relojes-jaguar.115406/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/anda-me-he-enamorao-de-uno-que-no-suele-ser-santo-de-devocion-en-el-foro-jaguar.509479/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sabado.pt/c-studio/amp/relogios-a-elegancia-esta-a-dar-horas",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.joyeriapato.com/en/jaguar/jaguar-j1040-4-diplomatic-black-watch.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://festinagroup.com/press/contenido/es/Jaguar/pressKit_balancier_ES.pdf",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en-it/collections/giaguaro",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
