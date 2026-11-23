@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1075,
-  "ultima_versao": 834,
+  "proxima_linha_marcas": 1076,
+  "ultima_versao": 835,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14516,6 +14516,26 @@
       },
       "lote": "historico/passada_unica/lote_834.json",
       "obs": "Marca de peças únicas, vermelha, 3 passadas (49+18+10). WebFetch só pelo ajudante web-fetch. Pendências Adriano Valente e Shipwrecked já estavam aplicadas."
+    },
+    {
+      "versao": 835,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Jean Lassale": {
+          "linha_marcas": 1076,
+          "relogios": 14,
+          "linhas_relogios": "124819-124832",
+          "fontes": 27,
+          "vermelho": false,
+          "grande": false
+        }
+      },
+      "lacunas": {
+        "Jean Lassale": "G, H, K não achados (marca extinta, falência 2003)"
+      },
+      "lote": "historico/passada_unica/lote_835.json",
+      "obs": "Só Jean Lassale: Jean Marcel (1077) e JeanRichard (1078) parecem grandes, uma por execução. WebFetch só pelo ajudante web-fetch; Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
