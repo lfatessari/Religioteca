@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1063,
-  "ultima_versao": 821,
+  "proxima_linha_marcas": 437,
+  "ultima_versao": 822,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14280,6 +14280,26 @@
       ],
       "relogios_fotos": 4,
       "obs": "itens 24 a 29 das pendências dos posts (D e I iguais ao post; 4 fotos da aBlogtoWatch na coluna C). Documento do Projeto não marcado: ferramenta Projects ausente."
+    },
+    {
+      "versao": 822,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Calypso Watches": {
+          "linha": 437,
+          "relogios": 317,
+          "com_foto": 78,
+          "fontes": 87,
+          "vermelho": true,
+          "grande": true,
+          "site_bloqueado": true
+        }
+      },
+      "lacunas": {
+        "Calypso Watches": "BDEFIJK + M (C, G, H não achados)"
+      },
+      "obs": "Calypso (grupo Festina) tratada como grande, sozinha; Dmitriy Chugunov fica para a próxima. Passadas 61/13/13 fontes; 219/20/78 relógios. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; Projects ausente."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14387,36 +14407,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T10:43:26Z",
-  "ultimo_sinal": "2026-11-23T11:08:38Z",
-  "em_andamento": {
-    "marcas": [
-      "Calypso Watches"
-    ],
-    "linha_marcas": 437,
-    "grande": true,
-    "relogios": "historico/parcial_Calypso_relogios.txt",
-    "fontes": "historico/parcial_Calypso_fontes.txt",
-    "notas": "historico/notas_Calypso.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2b",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "11b-2",
-      "11b-3"
-    ],
-    "passada": 3,
-    "obs": "Calypso (grupo Festina) tratada como grande: sozinha; Dmitriy Chugunov fica para a próxima. Pendências Adriano Valente (v821) em gravação. Pesquisa concluída; gravando v822."
-  }
+  "adiadas_obs": {}
 }
