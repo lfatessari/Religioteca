@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1069,
-  "ultima_versao": 829,
+  "proxima_linha_marcas": 1072,
+  "ultima_versao": 830,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14430,6 +14430,30 @@
         "Jaquet Droz": "K (via marca.json, logo do site do Swatch Group)"
       },
       "obs": "Jaquet Droz grande, sozinha; 3 passadas (99/25/17 fontes; 392/17/8 relógios). Fonte principal Exquisite Timepieces (loja autorizada, 9 páginas com fotos) + páginas oficiais vindas de busca (home/catálogo deram PROVENANCE). 28 refs antigas sem foto (link da Essential Watches). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências do post Adriano Valente já estavam aplicadas (v821). Próximas: Jason Hyde, JB Gioacchino."
+    },
+    {
+      "versao": 830,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Jason Hyde": {
+          "linha_marcas": 1070,
+          "relogios": 23,
+          "fontes": 31,
+          "vermelho": false,
+          "site_bloqueado": true
+        },
+        "J-B Viot": {
+          "linha_marcas": 1072,
+          "relogios": 2,
+          "fontes": 17,
+          "vermelho": false
+        }
+      },
+      "adiadas": [
+        "JB Gioacchino"
+      ],
+      "lote": "historico/passada_unica/lote_830.json"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
