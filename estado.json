@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1068,
-  "ultima_versao": 828,
+  "proxima_linha_marcas": 1069,
+  "ultima_versao": 829,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14411,6 +14411,25 @@
         "James Lamb": "K (via marca.json, logo da loja The Limited Edition)"
       },
       "obs": "Retomada da parcial da v827. Jaquet Droz (1069) é grande: próxima execução, sozinha. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências do post Adriano Valente (itens 24–29) já estavam aplicadas na v821."
+    },
+    {
+      "versao": 829,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Jaquet Droz": {
+          "linha": 1069,
+          "relogios": 417,
+          "fontes": 141,
+          "vermelho": true,
+          "grande": true,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "lacunas": {
+        "Jaquet Droz": "K (via marca.json, logo do site do Swatch Group)"
+      },
+      "obs": "Jaquet Droz grande, sozinha; 3 passadas (99/25/17 fontes; 392/17/8 relógios). Fonte principal Exquisite Timepieces (loja autorizada, 9 páginas com fotos) + páginas oficiais vindas de busca (home/catálogo deram PROVENANCE). 28 refs antigas sem foto (link da Essential Watches). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências do post Adriano Valente já estavam aplicadas (v821). Próximas: Jason Hyde, JB Gioacchino."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14518,31 +14537,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T17:43:36Z",
-  "ultimo_sinal": "2026-11-23T18:07:48Z",
-  "em_andamento": {
-    "marcas": [
-      "Jaquet Droz"
-    ],
-    "linha_marcas": 1069,
-    "grande": true,
-    "relogios": "historico/parcial_Jaquet_Droz_relogios.txt",
-    "fontes": "historico/parcial_Jaquet_Droz_fontes.txt",
-    "notas": "historico/notas_Jaquet_Droz.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 3,
-    "obs": "brutos em historico/jaquet_droz_raw/ (raw_exq, raw_outros, raw_ess); historico/build_jaquet_droz.py monta o dados; fontes em parcial_Jaquet_Droz_fontes.txt; pesquisa concluída (3 passadas, 141 fontes, 417 relógios): dados/marca.json prontos em historico/, falta só gravar"
-  }
+  "adiadas_obs": {}
 }
