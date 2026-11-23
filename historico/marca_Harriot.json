@@ -1,0 +1,111 @@
+{
+ "marca": "Harriot",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Bateria v817: G corrigido harriotwatches.com → harriotwatches.co.kr (site oficial atual, segundo a Namu Wiki e o próprio site; o .com não abre para leitura). Códigos HR301/HR302/HR310/HR320/HR330 vêm da Namu Wiki (o site não mostra códigos). Ainda a verificar: D fala só em movimento suíço Ronda, mas Gayang e Gwangan usam Miyota e Seongsan/Dobo usam Seiko Epson VX9PE; KARI: Namu diz 2019, site diz 2021. Suho/Sentinel (Dokdo Diver) entrou sem foto direta.",
+ "correcoes": {
+  "G": "harriotwatches.co.kr"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://namu.moe/w/HARRIOT",
+   "https://harriotwatches.co.kr/"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://namu.moe/w/HARRIOT",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://medium.com/@radrelsc2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://english.etnews.com/20170110200003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/list.html?cate_no=43",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/list.html?cate_no=43&page=2",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://harriotwatches.co.kr/roma/sub/sub-01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/journal/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=136",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=122",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=105",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=99",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=94",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/%EB%8F%84%EB%B3%B4-%ED%95%9C%EC%A0%95%ED%8C%90/120/category/58/display/1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/kari-%ED%95%9C%EC%A0%95%ED%8C%90/119/category/59/display/1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=142",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=112",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://harriotwatches.co.kr/product/detail.html?product_no=104",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

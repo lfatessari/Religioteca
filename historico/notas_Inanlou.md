@@ -1,0 +1,5 @@
+# Inanlou — notas (v817)
+Site oficial inanlou.com/collections/all: 39 produtos (variações de pulseira), 1 página. About: Tara Inanlou, designer industrial, fundada 2017; cidade não dita.
+Fichas abertas: ai144-sport-black (IA1441MS01, 43mm, Miyota 8217, 50m), copy-of-ai144-sport-black-2 (azul/black coating), ai144-sport-black-4 (azul borracha), lady-on-the-moon (IM-1851-001, 39mm ETA quartzo, lápis-lazúli/madrepérola, Swarovski), copy-of-muscat-night-sky-blue (OLE4831, 43mm Miyota 8217, Grande Mesquita Sultan Qaboos, emblema de Omã), muscat-night-sky-green (OLE4832), copy-of-seafarer-watch-1 (IA185S001 preto), seafarer-watch-1 (azul), silk-road-lady-blue (IM-22661-001, 39mm ETA quartzo).
+Buscas sem fonte de fora: "Inanlou watches", "Inanlou" Tara Inanlou, "Inanlou" Muscat Night Sky Oman, "Inanlou" Seafarer/Silk Road/Lady of the Moon, inanlou instagram, "Inanlou" London designer -> nada da marca (só homônimos/ruído). => exceção SÓ SITE OFICIAL.
+Instagram: site só tem link de post (instagram.com/p/CO_UJggrgz-/), sem perfil -> H fica vazio.

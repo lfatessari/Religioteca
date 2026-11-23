@@ -1,0 +1,3 @@
+# Huguenin — notas (v817)
+Marca vintage (Huguenin Frères, Le Locle; medalhas e relógios; muitos lotes de bolso em Antiquorum/Proantic/Sotheby's). Sem site oficial. Na dúvida = grande -> NÃO feita nesta execução (CLAUDE.md: parar antes da 2ª/3ª grande).
+Buscas: "Huguenin watches brand" (thetimebum Observer, classicwatch.com/huguenin-watches, chronopedia Huguenin_Frères, medalbook, ebay.de/b/Huguenin-in-Armbanduhren), "Huguenin wristwatch vintage Le Locle" (sothebys 2014 lot 294, antiquorum lots 155-447, 47-365, 133-510, huguenin-lot-272-354, a-huguenin-lot-345-176, ebay.de/itm/334411020544, 1stdibs Huguenin & Sons repeater c1890, proantic M. Huguenin & Fils).

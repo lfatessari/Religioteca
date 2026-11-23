@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 915,
- "ultima_versao": 816,
+ "proxima_linha_marcas": 1034,
+ "ultima_versao": 817,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14189,6 +14189,34 @@
     "Gustave & Cie": "HK (nada achado com certeza)"
    },
    "obs": "Harriot (linha 943) ficou para a próxima execução: Gustave & Cie revelou-se grande (85 produtos na Ocarat). Notas em historico/notas_Harriot.md"
+  },
+  {
+   "versao": 817,
+   "data": "2026-11-23",
+   "tipo": "passada_unica",
+   "marcas_modelos": {
+    "Harriot": {
+     "linha": 943,
+     "relogios": 34,
+     "fontes": 18,
+     "vermelho": false
+    },
+    "Inanlou": {
+     "linha": 1034,
+     "relogios": 9,
+     "fontes": 11,
+     "vermelho": false,
+     "so_site_oficial": true
+    }
+   },
+   "adiadas": [],
+   "lacunas": {
+    "Inanlou": "H (nada achado)"
+   },
+   "correcoes": {
+    "Harriot": "G -> harriotwatches.co.kr"
+   },
+   "obs": "Huguenin (linha 1007) pulada nesta execução: marca vintage sem site, tratada como grande na dúvida; fica sozinha na próxima. Notas em historico/notas_Huguenin.md"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

@@ -1,0 +1,71 @@
+{
+ "marca": "Inanlou",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "so_site_oficial": {
+  "dominio": "inanlou.com",
+  "motivo": "6 buscas (\"Inanlou watches\", \"Inanlou\" Tara Inanlou, \"Inanlou\" Muscat Night Sky Oman, \"Inanlou\" Seafarer/Silk Road/Lady of the Moon, inanlou instagram, \"Inanlou\" London designer, handles do Instagram) não trouxeram nenhuma loja, revista ou anúncio da marca; só homônimos e ruído."
+ },
+ "observacoes": "Bateria v817: relógios gravados SÓ com o site oficial (inanlou.com), por não haver nenhuma fonte de fora (exceção do usuário de 23/11/2026). Uma linha por mostrador; as cores de pulseira estão na coluna E. O site (página About) diz fundada em 2017 pela designer industrial Tara Inanlou, mas não cita Londres: C ainda a verificar. Os códigos IA1441MS01 e IA185S001 se repetem nas versões preta e azul.",
+ "fontes": [
+  {
+   "url": "https://inanlou.com/collections/all",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://inanlou.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/ai144-sport-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/copy-of-ai144-sport-black-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/ai144-sport-black-4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/lady-on-the-moon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/copy-of-muscat-night-sky-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/muscat-night-sky-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/copy-of-seafarer-watch-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/seafarer-watch-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://inanlou.com/products/silk-road-lady-blue",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
