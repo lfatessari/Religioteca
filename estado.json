@@ -14572,7 +14572,7 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-23T19:45:39Z",
- "ultimo_sinal": "2026-11-23T20:01:01Z",
+ "ultimo_sinal": "2026-11-23T20:06:44Z",
  "em_andamento": {
   "marcas": [
    "J.Ciro"
@@ -14582,8 +14582,18 @@
   "relogios": "historico/parcial_JCiro_relogios.txt",
   "fontes": "historico/parcial_JCiro_fontes.txt",
   "notas": "historico/notas_JCiro.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c",
+   "3",
+   "5",
+   "7",
+   "9",
+   "10",
+   "10b"
+  ],
   "passada": 1,
-  "obs": "Jean d'Eve (1074) parece grande (dezenas de coleções vintage na Europa Star) -> fica sozinha na próxima execução"
+  "obs": "Jean d'Eve (1074) parece grande (dezenas de coleções vintage na Europa Star) -> fica sozinha na próxima execução; J.Ciro pronta (dados e marca.json em historico/), gravando"
  }
 }
