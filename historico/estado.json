@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 712,
- "ultima_versao": 814,
+ "proxima_linha_marcas": 886,
+ "ultima_versao": 815,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14118,6 +14118,49 @@
    ],
    "lote": "historico/passada_unica/lote_814.json",
    "firecrawl": "sem créditos"
+  },
+  {
+   "versao": 815,
+   "data": "2026-11-23",
+   "tipo": "passada_unica",
+   "marcas_modelos": {
+    "Favre-Bulle": {
+     "linha": 773,
+     "relogios": 7,
+     "fontes": 16,
+     "vermelho": false
+    },
+    "GearMagus": {
+     "linha": 845,
+     "relogios": 19,
+     "fontes": 33,
+     "vermelho": false,
+     "site_bloqueado": "parcial"
+    },
+    "Grana": {
+     "linha": 886,
+     "relogios": 19,
+     "fontes": 50,
+     "vermelho": true,
+     "passadas": 3
+    }
+   },
+   "adiadas": [
+    "Emily Vega Handmade",
+    "First Stage"
+   ],
+   "lacunas": {
+    "Favre-Bulle": "BCEFGHJK",
+    "GearMagus": "BCG",
+    "Grana": "EFGHK",
+    "Emily Vega Handmade": "DEFGIJ",
+    "First Stage": "BCDGJ"
+   },
+   "correcoes_I": [
+    "Favre-Bulle",
+    "GearMagus",
+    "Grana"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

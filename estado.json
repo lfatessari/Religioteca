@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 712,
- "ultima_versao": 814,
+ "proxima_linha_marcas": 886,
+ "ultima_versao": 815,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14118,6 +14118,49 @@
    ],
    "lote": "historico/passada_unica/lote_814.json",
    "firecrawl": "sem créditos"
+  },
+  {
+   "versao": 815,
+   "data": "2026-11-23",
+   "tipo": "passada_unica",
+   "marcas_modelos": {
+    "Favre-Bulle": {
+     "linha": 773,
+     "relogios": 7,
+     "fontes": 16,
+     "vermelho": false
+    },
+    "GearMagus": {
+     "linha": 845,
+     "relogios": 19,
+     "fontes": 33,
+     "vermelho": false,
+     "site_bloqueado": "parcial"
+    },
+    "Grana": {
+     "linha": 886,
+     "relogios": 19,
+     "fontes": 50,
+     "vermelho": true,
+     "passadas": 3
+    }
+   },
+   "adiadas": [
+    "Emily Vega Handmade",
+    "First Stage"
+   ],
+   "lacunas": {
+    "Favre-Bulle": "BCEFGHJK",
+    "GearMagus": "BCG",
+    "Grana": "EFGHK",
+    "Emily Vega Handmade": "DEFGIJ",
+    "First Stage": "BCDGJ"
+   },
+   "correcoes_I": [
+    "Favre-Bulle",
+    "GearMagus",
+    "Grana"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14225,26 +14268,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-23T06:44:03Z",
- "ultimo_sinal": "2026-11-23T07:17:09Z",
- "em_andamento": {
-  "marcas": [
-   "Favre-Bulle",
-   "GearMagus",
-   "Grana"
-  ],
-  "linha_marcas": 886,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "FavreBulle pronto",
-   "GearMagus pronto",
-   "Grana pronta (3 passadas)",
-   "gravando v815"
-  ],
-  "passada": 1
- }
+ "adiadas_obs": {}
 }
