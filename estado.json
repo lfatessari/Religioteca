@@ -14484,19 +14484,21 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T15:43:28Z",
-  "ultimo_sinal": "2026-11-23T15:43:51Z",
+  "ultimo_sinal": "2026-11-23T16:02:00Z",
   "em_andamento": {
     "marcas": [
-      "Jaipur Watch Company",
-      "James Lamb"
+      "Jaipur Watch Company"
     ],
     "linha_marcas": 1067,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "grande": true,
+    "relogios": "historico/jaipur_handles.txt",
+    "fontes": "",
+    "notas": "historico/notas_Jaipur_Watch_Company.md",
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1,
-    "obs": "Jaquet Droz (1069) é grande: fica sozinha na próxima."
+    "obs": "Jaipur grande, sozinha. James Lamb (1068) com parcial em historico/parcial_James_Lamb_*.txt e notas_James_Lamb.md; Jaquet Droz (1069) grande."
   }
 }
