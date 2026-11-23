@@ -8,3 +8,7 @@
 - Paginação do site oficial (12 por página) não acessível: faltam Diplomatic (31 H), Essentia (26), Nueva I-Size (78).
 - raw_oficial.txt = 195 códigos do site oficial; ext1.txt = 86 novos de lojas (zeitlounge p1 de 3, steiner p1 de 2, thewatchcompany p1).
 - curl ao CDN festinagroup bloqueado (proxy). Foto padrão só para códigos vistos no oficial.
+- História: 1938 Peter Haas (festinagroup + uhrzeit.org); Festina Group desde 1989 (uhrzeit.org, 1 fonte); grupo sede Madri/Espanha, produção Suíça (wikipedia Festina, press kit). Balancier: 41,5 mm, Newton automático 23 rubis 44 h, €1.890–1.990 (press kit + masterhorologer).
+- masterhorologer.com/jaguar-watches/ client_error. watch.co.uk tem páginas "historical-jNNN-N" (coleções 2007–2024) → buscar mais por site:.
+- Justia: dona da marca JAGUAR (relógios) nos EUA = "Manufacture des Montres Jaguar S.A." (sem cidade). businesstraveller: erro. J1016/1 e J1030 (Soprod P092BV automático) confirmados.
+- VERMELHA: watch.co.uk e mastersintime têm centenas de páginas "historical-jNNN" (1998–2024) — impossível listar tudo. 1ª passada ~80 fontes.
