@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 412,
- "ultima_versao": 807,
+ "proxima_linha_marcas": 514,
+ "ultima_versao": 808,
  "historico": [
   {
    "data": "2026-10-16",
@@ -13976,6 +13976,29 @@
    "versao": 807,
    "tipo": "mudanca_de_regra",
    "obs": "Pedido do usuário: 'Foca nos modelos' e sem repescagem das adiadas. proxima_completa.py devolve só marcas sem modelos (máx. 3); marcas só de dados saem do lote. CLAUDE.md: seção FOCO NOS MODELOS."
+  },
+  {
+   "data": "2026-11-23",
+   "versao": 808,
+   "tipo": "bateria",
+   "marcas": [
+    "Christian Lass",
+    "Cleguer"
+   ],
+   "relogios": {
+    "Christian Lass": 4,
+    "Cleguer": 2
+   },
+   "linhas_relogios": "121436-121441",
+   "fontes": {
+    "Christian Lass": 18,
+    "Cleguer": 17
+   },
+   "vermelho": false,
+   "adiadas": [
+    "Ciloa"
+   ],
+   "obs": "Cornavin (próxima) é grande: 155 produtos na loja oficial; fica sozinha. Firecrawl sem créditos."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14083,21 +14106,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-23T00:16:01Z",
- "ultimo_sinal": "2026-11-23T00:27:33Z",
- "em_andamento": {
-  "marcas": [
-   "Christian Lass",
-   "Cleguer"
-  ],
-  "linha_marcas": 514,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1,
-  "obs": "pesquisa concluída, gravando v808; Ciloa adiada"
- }
+ "adiadas_obs": {}
 }
