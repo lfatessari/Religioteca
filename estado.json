@@ -14200,7 +14200,7 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-23T05:43:32Z",
- "ultimo_sinal": "2026-11-23T05:54:02Z",
+ "ultimo_sinal": "2026-11-23T06:07:18Z",
  "em_andamento": {
   "marcas": [
    "EI8HT",
@@ -14213,7 +14213,10 @@
   "fontes": "historico/parcial_EI8HT_fontes.txt",
   "notas": "historico/notas_EI8HT.md",
   "secoes_feitas": [
-   "EI8HT: completa (15 fontes, 8 relógios)"
+   "EI8HT: 15 fontes, 8 relógios",
+   "Elgé: 20 fontes, 5 relógios",
+   "Emerton Scott: 25 fontes, 25 relógios",
+   "gravando v814"
   ],
   "passada": 1,
   "obs": "Downrange Timepieces e Dualys adiadas (proxima_marca.py); Firecrawl sem créditos"
