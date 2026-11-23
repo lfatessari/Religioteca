@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 559,
-  "ultima_versao": 811,
+  "proxima_linha_marcas": 571,
+  "ultima_versao": 812,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14056,6 +14056,24 @@
       "fontes": 26,
       "site_bloqueado": false,
       "obs": "D1 Milano (571, grande) fica sozinha na próxima; Projects indisponível (pendências dos posts não lidas); Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch"
+    },
+    {
+      "versao": 812,
+      "data": "2026-11-23",
+      "tipo": "bateria",
+      "marcas": [
+        "D1 Milano"
+      ],
+      "linha_marcas": 571,
+      "relogios": 244,
+      "vermelho": true,
+      "grande": true,
+      "fontes": 147,
+      "site_bloqueado": false,
+      "lacunas": [
+        "H"
+      ],
+      "obs": "3 passadas (106+25+16 fontes); 104 linhas com link da página no lugar da foto; K (logo) não achado; Projects indisponível (pendências dos posts não lidas); Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14163,31 +14181,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T03:43:36Z",
-  "ultimo_sinal": "2026-11-23T04:09:23Z",
-  "em_andamento": {
-    "marcas": [
-      "D1 Milano"
-    ],
-    "linha_marcas": 571,
-    "grande": true,
-    "relogios": "historico/parcial_D1 Milano_relogios.txt",
-    "fontes": "historico/parcial_D1 Milano_fontes.txt",
-    "notas": "historico/notas_D1 Milano.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "7",
-      "9",
-      "10",
-      "2a passada"
-    ],
-    "passada": 2,
-    "obs": "arquivos auxiliares historico/parcial_D1 Milano_{giglio_raw,ocarat,oficial1}.txt; fichas oficiais em parcial_D1 Milano_fichas.txt; merge.py junta tudo"
-  }
+  "adiadas_obs": {}
 }

@@ -13,13 +13,14 @@ mapa={'polycarbon-40-5mm-black-enamel':'PCBJ35','gilded-lunar-polychrono-watch':
 'dark-illusion-ultra-thin-watch':'UHBJ08','drift-diver-polycarbon-watch':'PDBJ02','carbon-diver-polycarbon-watch':'PDBJ01',
 'steel-diver-polycarbon-watch':'PDBJ03','lagoon-diver-polycarbon-watch':'PDBJ04','black-mirror':'UTBU09','silver-gleam-ultra-thin-watch':'UTBL39',
 'ultra-thin-30mm-ultimate-gray':'UTBL32','ultra-thin-30mm-edge':'UTBL34','ultra-thin-30mm-zephyr-silver':'UTBL30','tone-mellow':'UHBL03',
-'silver-mellow':'UHBL01','polycarbon-37-mm-gun-mesh':'PCBU13','ring-ring-polycarbon-watch':'PCBU25','viridis-mdrj05':'MDRJ05'}
+'silver-mellow':'UHBL01','polycarbon-37-mm-gun-mesh':'PCBU13','ring-ring-polycarbon-watch':'PCBU25','viridis-mdrj05':'MDRJ05','polycarbon-37-mm-akebia-mesh':'PCBU15'}
 usados=set();linhas=[]
 for nome,h,esp in of:
     f=fi.get(h);cod=(f[1] if f and f[1] else mapa.get(h,''))
     img=(f[2] if f and f[2] else '')
     e=(f[3] if f and f[3] else esp)
     if not img and cod in oc: img=oc[cod][2]
+    if not img and cod=='PCBU15': img='https://images.ocarat.com/465352-cart_default/polycarbon-akebia-mesh-watch-pcbu15-d1-milano.jpg'
     if not img and cod in gi and gi[cod][2]: img='https://media-catalog.giglio.com/images/f_auto/t_prodPage/v1/products/%s/d1-milano.jpg'%gi[cod][2]
     nota=''
     if not img: img='https://d1milano.com/products/'+h; nota=' Foto não obtida: link da página do produto no site oficial.'
@@ -34,12 +35,17 @@ for cod,x in gi.items():
     if cod in usados: continue
     usados.add(cod)
     nm=x[0]
-    if nm==x[1] or nm==cod: nm='Modelo'
+    if nm==x[1] or nm==cod:
+        pf={'UC':'Ultra Thin 1980','UH':'Ultra Thin 1970','NC':'Polycarbon','AR':'Aura','MD':'Nylon – colaboração D1 × MAD Paris, edição limitada','CV':'Canva','SQ':'Square','UT':'Ultra Thin','PC':'Polycarbon'}
+        nm=pf.get(cod[:2],'Modelo')
     img=('https://media-catalog.giglio.com/images/f_auto/t_prodPage/v1/products/%s/d1-milano.jpg'%x[2]) if x[2] else None
     pre={'au':'en-au','ca':'en-ca'}[x[3][:2]]
     cat={'au-woman_jewel':'accessories-woman_jewel','au-woman_watch':'accessories-woman_watch','au-clothing':'clothing-men_suit'}.get(x[3],'accessories-men_watch')
     pg='https://www.giglio.com/%s/%s-d1-milano-%s.html'%(pre,cat,x[1].lower())
-    linhas.append([nm,cod,img or pg,'Visto na loja Giglio'+('' if img else ' só pelo título (link da página do produto)')+'.'])
+    linhas.append([nm,cod,img or pg,('Linha deduzida do prefixo OL do código (provável Olivetti digital 36 mm). ' if cod.startswith('OL') else '')+'Visto na loja Giglio'+('' if img else ' só pelo título (link da página do produto)')+'.'])
+for l in open('extra2.txt'):
+    if l.strip():
+        a=l.rstrip('\n').split('|'); linhas.append(a)
 # nomes duplicados sem código
 from collections import Counter
 for l in linhas:

@@ -6,7 +6,7 @@
  "vermelho": true,
  "grande": true,
  "complemento": false,
- "observacoes": "Bateria de relógios em 23/11/2026: 242 relógios. Site oficial d1milano.com (sem www; a versão eu.d1milano.com redireciona) lido pelas coleções e por 69 fichas de produto; as coleções mostram só os 30 primeiros de cada lista (homens 122, mulheres 76), por isso entraram também os códigos das lojas Giglio e Ocarat. Marca VERMELHA: catálogo grande e rotativo (Lyst mostra 335 anúncios), dezenas de colaborações limitadas (lista oficial em /pages/collaborations) e linhas antigas (P701, Super Slim) com referências sem foto. 104 linhas ficaram com o link da página no lugar da foto (fichas que pediram permissão ou só títulos de loja). Linhas OLOLRJ01–06 = provável Olivetti (dedução pelo prefixo). As linhas Ultra Thin 1980 'Sealed' do site oficial não mostram código; os códigos UCBL01–05/UCBU01–04 da Giglio podem ser as mesmas peças. Ainda a verificar (não alterado): BusinessWorld (bworldonline.com/?p=213535) diz fundação em Milão em 2013 por Dario Spallone (Bocconi; incubadora em 2014) e sede em Dubai e Hong Kong; Inquirer cita escritórios em Milão, Dubai (Dubai Design District, 2015) e Hong Kong e o Ultra Thin lançado em 2017; Calibre Magazine diz projeto escolar de 2014, primeiro relógio Polycarbon em 2015, movimentos japoneses e montagem na China. Rodapé do site: Luminal Agency Ltd. Logo (K) não encontrado.",
+ "observacoes": "Bateria de relógios em 23/11/2026: 244 relógios. Site oficial d1milano.com (sem www; a versão eu.d1milano.com redireciona) lido pelas coleções e por 69 fichas de produto; as coleções mostram só os 30 primeiros de cada lista (homens 122, mulheres 76), por isso entraram também os códigos das lojas Giglio e Ocarat. Marca VERMELHA: catálogo grande e rotativo (Lyst mostra 335 anúncios), dezenas de colaborações limitadas (lista oficial em /pages/collaborations) e linhas antigas (P701, Super Slim) com referências sem foto. 104 linhas ficaram com o link da página no lugar da foto (fichas que pediram permissão ou só títulos de loja). Linhas OLOLRJ01–06 = provável Olivetti (dedução pelo prefixo). As linhas Ultra Thin 1980 'Sealed' do site oficial não mostram código; os códigos UCBL01–05/UCBU01–04 da Giglio podem ser as mesmas peças. 3ª passada (16 fontes) trouxe só 2 relógios novos (Polycarbon PCBJ01 antigo e Ultra Thin Indigo Loom) e o código PCBU15 do Akebia Mesh; parou por isso. Ainda a verificar (não alterado): Worn & Wound (21/05/2025) e Ocarat dizem fundação em 2013 por Dario Spallone, whub.io diz 2012 (com a irmã e os amigos Alessandro Pedersoli e Mattia Bodini) e a Worn & Wound cita escritórios em Milão e produção de mais de 100 mil relógios por ano; BusinessWorld (bworldonline.com/?p=213535) diz fundação em Milão em 2013 por Dario Spallone (Bocconi; incubadora em 2014) e sede em Dubai e Hong Kong; Inquirer cita escritórios em Milão, Dubai (Dubai Design District, 2015) e Hong Kong e o Ultra Thin lançado em 2017; Calibre Magazine diz projeto escolar de 2014, primeiro relógio Polycarbon em 2015, movimentos japoneses e montagem na China. Rodapé do site: Luminal Agency Ltd. Logo (K) não encontrado.",
  "fontes": [
   {
    "url": "https://www.giglio.com/en-au/d1-milano/",
@@ -662,6 +662,86 @@
    "url": "https://ocarat.com/en/d1-x-tetris-limited-edition-watch-a-pxrjtr-d1-milano-130221.html",
    "passada": 2,
    "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-polycarbon-polycarbonate-black-dial-d1-milano-d1mpcbj01",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/d1-milano-polycarbon-watches.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/d1-milano-ultra-thin-watches.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://highsnobiety.com/en-my/shop/brand/d1-milano",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.zalando.de/d1-milano-ultra-thin-bracelet-indigo-loom-watch-blue-dbh51m000-d11.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.zalando.de/d1-milano-ultra-thin-1970-bracelet-unisex-watch-silver-coloured-dbh54m00u-d11.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.zalando.de/d1-milano-ultra-thin-1970-bracelet-unisex-watch-silver-coloured-dbh54m00s-d11.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ferrogioielli.com/en-eu/products/orologio-ultra-thin-linen-40-mm-d1-milano",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/d1-milano-steel-diver-polycarbon-watch-pdbj03",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.investhk.gov.hk/en/our-clients/d1-milano/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://whub.io/startups/d1-milano",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://editorialist.com/uk/p/d1-milano-polycarbon-405mm-40494404/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/polycarbon-watch-gun-mesh-pcbu13-d1-milano-115854.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://eu.kith.com/products/domd1-utbj31",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.farfetch.com/kw/shopping/men/d1-milano-polychrono-405mm-item-19881205.aspx",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/out-of-office-exploring-milan-with-d1-milano/",
+   "passada": 3,
+   "novos": 0
   }
  ]
 }
