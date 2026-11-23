@@ -14446,5 +14446,18 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T13:45:12Z",
-  "ultimo_sinal": "2026-11-23T13:45:12Z"
+  "ultimo_sinal": "2026-11-23T13:45:40Z",
+  "em_andamento": {
+    "marcas": [
+      "Jaermann & Stübi"
+    ],
+    "linha_marcas": 1065,
+    "grande": false,
+    "relogios": "historico/parcial_Jaermann_relogios.txt",
+    "fontes": "historico/parcial_Jaermann_fontes.txt",
+    "notas": "historico/notas_Jaermann.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "obs": "Jaguar Swiss Watches (2ª do lote) é grande (Festina): fica sozinha na próxima."
+  }
 }
