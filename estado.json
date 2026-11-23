@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1072,
- "ultima_versao": 831,
+ "proxima_linha_marcas": 1073,
+ "ultima_versao": 832,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14463,6 +14463,25 @@
     "Shipwrecked Watch Company"
    ],
    "obs": "Pedido do usuário (23/11/2026, 16h02): marca nova só com o nome, antes de Shoreham (linha 1807); lista em historico/marcas_novas_2026-11-23c/novas.json; entra na passada única pela ordem do proxima_completa.py. Pendências do post Adriano Valente (itens 24–29) já estavam aplicadas."
+  },
+  {
+   "versao": 832,
+   "data": "2026-11-23",
+   "tipo": "passada_unica",
+   "marcas_modelos": {
+    "J.Ciro": {
+     "linha_marcas": 1073,
+     "relogios": 25,
+     "fontes": 23,
+     "vermelho": false,
+     "site_bloqueado": "parcial"
+    }
+   },
+   "lacunas": {
+    "J.Ciro": "K (logo do Microbrand Atlas)"
+   },
+   "lote": "historico/passada_unica/lote_832.json",
+   "obs": "Só J.Ciro: a seguinte, Jean d'Eve (1074), parece grande e fica sozinha na próxima execução (pré-levantamento em historico/notas_JeanDunand_JeanDEve_pre.md). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; home oficial deu PROVENANCE, coleções vieram por busca."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14570,30 +14589,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-23T19:45:39Z",
- "ultimo_sinal": "2026-11-23T20:06:44Z",
- "em_andamento": {
-  "marcas": [
-   "J.Ciro"
-  ],
-  "linha_marcas": 1073,
-  "grande": false,
-  "relogios": "historico/parcial_JCiro_relogios.txt",
-  "fontes": "historico/parcial_JCiro_fontes.txt",
-  "notas": "historico/notas_JCiro.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 1,
-  "obs": "Jean d'Eve (1074) parece grande (dezenas de coleções vintage na Europa Star) -> fica sozinha na próxima execução; J.Ciro pronta (dados e marca.json em historico/), gravando"
- }
+ "adiadas_obs": {}
 }
