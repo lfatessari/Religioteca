@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 571,
- "ultima_versao": 812,
+ "proxima_linha_marcas": 603,
+ "ultima_versao": 813,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14074,6 +14074,23 @@
     "H"
    ],
    "obs": "3 passadas (106+25+16 fontes); 104 linhas com link da página no lugar da foto; K (logo) não achado; Projects indisponível (pendências dos posts não lidas); Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch"
+  },
+  {
+   "data": "2026-11-23",
+   "versao": 813,
+   "tipo": "passada_unica",
+   "marcas": [
+    "Deguiret"
+   ],
+   "relogios": 36,
+   "fontes": 52,
+   "vermelho": false,
+   "grande": true,
+   "dados_marcas": "B C E F G H + correção de I",
+   "adiadas": [
+    "De Marquee",
+    "Dogleg"
+   ]
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14181,20 +14198,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-23T04:43:38Z",
- "ultimo_sinal": "2026-11-23T04:49:56Z",
- "em_andamento": {
-  "marcas": [
-   "Deguiret"
-  ],
-  "linha_marcas": 603,
-  "grande": true,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1,
-  "obs": "pesquisa concluída (52 fontes, 36 relógios); gravando v813"
- }
+ "adiadas_obs": {}
 }
