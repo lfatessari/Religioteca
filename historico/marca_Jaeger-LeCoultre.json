@@ -1,0 +1,682 @@
+{
+ "marca": "Jaeger-LeCoultre",
+ "usa_codigos": true,
+ "logo": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "site_bloqueado": "Parcial – jaeger-lecoultre.com: as páginas das coleções Reverso, Master Control, Master Ultra Thin e Duomètre carregam a lista de relógios por JavaScript (não vem na leitura automática); revisitar com navegador",
+ "observacoes": "Relógios (23/11/2026, v824): 578 linhas, 270 com foto direta; as demais com o link da página/lista onde o modelo foi visto (muitas referências antigas vistas só em listas de lojas de usados). Marca vermelha: são milhares de referências desde os anos 1930 (a Essential Watches lista cerca de 250 referências a mais, só em resumo; a Wristler tem 1.049 anúncios em 23 páginas; a Bucherer 163 produtos, só 48 lidos; o EveryWatch exige login). Faltam sobretudo variações antigas de Reverso, Master e Rendez-Vous (anos 1990–2010), relógios femininos e de joalheria, a maioria das peças Métiers Rares e os relógios vintage dos anos 1940–70 (só Geophysic E168, Memovox E855/E875, Polaris E859, Deep Sea Alarm E857, Futurematic E501 e Reverso dos anos 1930 entraram). Atmos (relógios de mesa) não entraram. Pesquisa em 3 passadas (81 + 32 + 21 fontes).",
+ "fontes": [
+  {
+   "url": "https://www.jaeger-lecoultre.com/in-en/watches/polaris",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/ae-en/watches/rendez-vous",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/cy-en/watches/hybris-mechanica",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jaeger-lecoultre.com/us-en/watches/master-ultra-thin/master-ultra-thin-moon-steel-q1248421",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bucherer.com/us/en/watches/jaeger-lecoultre",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://www.bucherer.com/us/en/watches/jaeger-lecoultre/reverso",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://www.bucherer.com/us/en/watches/jaeger-lecoultre/rendez-vous",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.europeanwatch.com/jaeger-lecoultre.html",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.insidehook.com/watches/guide-jaeger-lecoultre-catalog-reverso-duometre",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://en.webchronos.net/features/146055/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/jaeger-lecoultre-allwatches",
+   "passada": 1,
+   "novos": 191
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/hk-en/watches/reverso/reverso-tribute/reverso-tribute-chronograph-q389848j",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/bu-en/watches/reverso/reverso-tribute/reverso-tribute-monoface-small-seconds-stainless-steel-q397843j",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/ez-en/watches/reverso/reverso-tribute/reverso-tribute-monoface-small-seconds-stainless-steel-q397848j",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/ww/en/watches/reverso/reverso-tribute-monoface/397846J.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/eu/en/watches/reverso/reverso-tribute-duoface-medium/3988482.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/au/en/watches/master/master-ultra-thin-small-second/1218420.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaeger-lecoultre.com/us/en/watches/master/master-ultra-thin-small-second/1212510.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaeger-lecoultre.com/us/en/watches/master/master-ultra-thin-perpetual/1308470.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/eu/en/watches/master/master-ultra-thin-tourbillon/1682401.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/ru-en/watches/master-ultra-thin/master-ultra-thin-moon-pink-gold-diamonds-q1362503",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jaeger-lecoultre.com/sg-en/watches/master-ultra-thin/master-ultra-thin-power-reserve-stainless-steel-q1378421",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/ez-en/watches/rendez-vous/rendez-vous-classic/rendez-vous-q3658110",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/in-en/watches/master-control/master-control-date-stainless-steel-q4018420",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jaeger-lecoultre.com/us-en/watches/master-control/master-control-chronograph-calendar-stainless-steel-q413813j",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/gb-en/watches/master-control/master-control-memovox-stainless-steel-q411843j",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/kw-en/watches/master-control/master-control-calendar-stainless-steel-q4148480",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/us-en/watches/master-control/master-control-date-stainless-steel-q4018480",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/us-en/news/watchmaking/reverso-tribute-novelties",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://press.jaeger-lecoultre.com/new-reverso-tribute-models---monoface-tourbillon-and-small-seconds/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/gb-en/news/watchmaking/master-control-your-time-reference",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/blog/2025/08/06/jaeger%e2%80%91lecoultre-2025-pricing-update-and-catalogue-expansion",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.chronext.com/jaeger-lecoultre",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-e168-vintage-chronometre-geophysic-ss-circa-1958-27161",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://windvintage.com/jaegerlecoultre-geophysic-reference-e-168",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windvintage.com/jlc-geophysic-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/e168-jaeger-lecoultre-geophysic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaeger-lecoultre-ref-e-168-geophysic-lot-341-190",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaeger-lecoultre/102049",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaeger-lecoultre/125546",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaeger-lecoultre/106315",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/193280",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://aviandco.com/collections/jaeger-lecoultre-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.pragnell.co.uk/watches/jaeger-lecoultre",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.mrporter.com/en-bh/mens/designer/jaeger-lecoultre/luxury-watches/exclusives-and-limited-editions",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watches-of-switzerland.co.uk/c/Brands/Jaeger-LeCoultre",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.goldsmiths.co.uk/c/Brands/Jaeger-LeCoultre",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://harrods.com/shopping/jaeger-lecoultre",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-e859-rare-vintage-memovox-polaris-circa-1968-22237",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-e859-vintage-memovox-polaris-excellent-w-extract-27473",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-e859-rare-vintage-memovox-polaris-with-provenanc-23722",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/jaeger-lecoultre/e859/watch-10100067",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/120723",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/109646",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/114468",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaeger-lecoultre/194534",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaeger-lecoultre/101227",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2013/watches-n09055/lot.86.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.proantic.com/en/1789244-jaeger-lecoultre-memovox-polaris-e859-original-1968-diving-watch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Jaeger-LeCoultre-147.8.57.S-Master-Geographic-SS-/-SS-40MM-32524.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/watch/jaeger-lecoultre-q8108420-geophysic-universal-time-ss-57695",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/jaeger-lecoultre?model=5852",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/jaeger-lecoultre/reverso/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/jaeger-lecoultre/reverso/reverso-duetto/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chrono1010.watch/watches-wiki/jaeger-lecoultre/reverso-jaeger-lecoultre/grande-reverso-duo-3748421",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristler.eu/watches/207512-jaeger-lecoultre-reverso",
+   "passada": 1,
+   "novos": 31
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/jaeger-lecoultre-2025/",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.luxurybazaar.com/grey-market/?p=43712",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://en.webchronos.net/features/156946/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://en.webchronos.net/features/134928/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/favourite-jaeger-lecoultre-watches-2024/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bosshunting.com.au/style/watches/new-jaeger-lecoultre-watches-2025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfinder.co.uk/articles/feature-jaeger-lecoultre-shares-latest-models-at-watches-wonders-2025",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2024/8/jaeger-lecoultre-monet-reverso-tribute-series-release-info",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/gb-en/news/watchmaking/alchemy-of-time",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/jaeger-lecoultre-sold/products/jaeger-lecoultre-deep-sea-alarm-european-model-as09358",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/lecoultre-futurematic-porthole-as11465",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/lecoultre-triple-calendar-date-as04107",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/jaeger-lecoultre-sold/products/jaeger-lecoultre-european-market-futurematic-as11469",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/jaeger-lecoultre-sold/products/jaeger-lecoultre-deep-sea-alarm-u-s-edition-as09869",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/jaeger-lecoultre-tribute-to-deep-sea-alarm-as01347",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprozine.com/page-c.collection.detail/jaeger-lecoultre-e875-1973-1973/ti-501266/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-e857-vintage-deep-sea-alarm-ss-us-edition-circa-23469",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/104934",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/jaeger-le-coultre/CH080219/133",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaeger-lecoultre/NY080117/29",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/unique-travel-time-9090.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/duometre-spherotourbillon-16448.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://blowers-jewellers.co.uk/jaeger-lecoultre-watches/doumetre",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/articles/jaeger-lecoultre-an-introduction-to-the-duometre-collection",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/211158",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2014/06/hands-on-with-the-jaeger-lecoultre-geophysic-1958-reissue-with-live-photos-and-price.html",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Jaeger-LeCoultre-800.85.20-Geophysic-1958-SS-Limited-25520.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.the1916company.com/videos/jaeger-lecoultre-tribute-to-geophysic-1958-limited-edition-q8008520",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://analogshift.com/products/jaeger-lecoultre-geophysic-as01448",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/auction/2026/important-watches/reverso-luxe-retailed-by-e-guebelin-a-stainless",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2009/important-watches-ge0904/lot.116.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/206748",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaeger-lecoultre-ref-201-reverso-lot-337-53",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://loupethis.com/auctions/jaeger-lecoultre-reverso-black-dial-1930-s-staybrite-steel",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2016/important-watches-ge1604/lot.285.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2014/important-watches-ge1404/lot.268.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaeger-lecoultre-ref-2201-lot-302-73",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaeger-lecoultre-ref-6184-21-reverso-lot-357-170",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/123086",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/buy/auction/2020/watches-online-2/jaeger-lecoultre-reverso-stainless-steel",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lecoultre-reverso-lot-370-178",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/jaeger-lecoultre-amvox-7-aston-martin-watch-review",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/jaeger-lecoultre-master-compressor-navy-seals-overview/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/master-compressor-diving-alarm-navy-seals-3732.html",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.analogshift.com/collections/featured-military-watches/products/jaeger-lecoultre-master-compressor-navy-seals-diving-chronograph-gmt-as07176",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://analogshift.com/products/jaeger-lecoultre-master-compressor-alarm-navy-seals-as07577",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/jaegerlecoultre/HK080117/954",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/jaeger-lecoultre-gyrotourbillon-multi-axis-overview/",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.phillips.com/article/jaeger-lecoultre-gyrotourbillon-three-generations-phillips-hong-kong-watch-auction-xxiii-november-2026",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaeger-lecoultre/240610",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaegerlecoultre/123416",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2011/04/hands-on-with-the-jaeger-lecoultre-gyrotourbillon-i-in-rose-gold-with-live-photos.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/bu-en/watches/hybris-inventiva/master-hybris-inventiva-gyrotourbillon-a-stratosphere-q5306480",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/jaeger-lecoultre/reverso/reverso-squadra-hometime/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/jaeger-lecoultre-squadra",
+   "passada": 3,
+   "novos": 15
+  },
+  {
+   "url": "https://analogshift.com/products/jaeger-lecoultre-reverso-grand-sport-as04267",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/jaeger-lecoultre/reverso/reverso-gran-sport/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaeger-lecoultre-290860-290860-reverso-gran-sport-ss-gray-dial-65596",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://collectorsquare.com/en/watches/jaeger-lecoultre/reverso-squadra/lpi",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://wristler.eu/watches/135375-jaeger-lecoultre-reverso",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/jaeger-lecoultre/reverso/reverso-grande-automatique/",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.europeanwatch.com/15071.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/watches/reverso",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaeger-lecoultre.com/my-en/watches/rendez-vous/rendez-vous-jewellery",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goldsmiths.co.uk/calibre/in-depth/the-calibre-complete-guide-to-jlc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.webchronos.net/features/146055/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/jaeger-lecoultre",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thehourglass.com/catalog/jaeger-lecoultre/master-control/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

@@ -14428,7 +14428,7 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-23T12:43:50Z",
- "ultimo_sinal": "2026-11-23T13:03:00Z",
+ "ultimo_sinal": "2026-11-23T13:07:06Z",
  "em_andamento": {
   "marcas": [
    "Jaeger-LeCoultre"
@@ -14448,8 +14448,13 @@
    "6",
    "7",
    "8",
-   "9"
+   "9",
+   "10",
+   "10b",
+   "p2",
+   "p3"
   ],
-  "passada": 3
+  "passada": 3,
+  "obs": "pesquisa concluída; gravando v824"
  }
 }
