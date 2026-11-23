@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 886,
- "ultima_versao": 815,
+ "proxima_linha_marcas": 915,
+ "ultima_versao": 816,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14161,6 +14161,34 @@
     "GearMagus",
     "Grana"
    ]
+  },
+  {
+   "versao": 816,
+   "data": "2026-11-23",
+   "tipo": "passada_unica",
+   "marcas_modelos": {
+    "Grøne": {
+     "linha": 898,
+     "relogios": 6,
+     "fontes": 22,
+     "vermelho": false,
+     "site_bloqueado": true
+    },
+    "Gustave & Cie": {
+     "linha": 915,
+     "relogios": 72,
+     "fontes": 36,
+     "vermelho": false,
+     "grande": true,
+     "site_bloqueado": true
+    }
+   },
+   "adiadas": [],
+   "lacunas": {
+    "Grøne": "HK (nada achado com certeza)",
+    "Gustave & Cie": "HK (nada achado com certeza)"
+   },
+   "obs": "Harriot (linha 943) ficou para a próxima execução: Gustave & Cie revelou-se grande (85 produtos na Ocarat). Notas em historico/notas_Harriot.md"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

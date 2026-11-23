@@ -1,2 +1,9 @@
 # Harriot — notas
 Site oficial harriotwatches.com: PROVENANCE. namu.moe/w/HARRIOT: catálogo completo com refs HR301 Gayang, HR302 Seohae, HR310 Gwangan, HR320 Seongsan (+DOBO 500 pçs 2018), HR330 Ilgu (+KARI 757 pçs), KI:WON 2025, SENTINEL (Suho), SEOLWOL 2026. Fundada 2016, fundador Hong Sungjo; site .co.kr.
+
+## v816 (23/11/2026) — Harriot NÃO gravada nesta execução (Gustave & Cie revelou-se grande; Harriot fica como 1ª da próxima)
+Fontes já abertas (não reabrir): namu.moe/w/HARRIOT (catálogo completo com refs e fotos file.namu.moe), medium.com/@radrelsc2 (Korean watch brands, sem modelos), english.etnews.com/20170110200003 (lançada pela HABSTORE em ago/2016, CEO Hong Seung-Jo).
+Falharam/sem conteúdo: harriotwatches.com (PROVENANCE, web-fetch), wadiz.kr/funding/367150 (redireciona para wadiz.io), magazine.hankyung.com (client_error), esquirekorea 1910118/1910336 e gqkorea 322279 (sem Harriot), hellomarket/kream/11st/shilladfs/watchcrunch (não são Harriot ou falharam).
+Namu: fundada 2016, fundador 홍성조, sede Giheung-gu, Yongin; site oficial atual harriotwatches.co.kr; Instagram @harriotwatches; logo baseado no Dongnimmun.
+Modelos (namu): Gayang HR301 (prata, sunray, rosé; Miyota; ex-Goldengate), Seohae HR302 (prata, sunray, rosé; Ronda 507; ex-Brooklyn), Gwangan HR310 (prata, rosé; Miyota; ex-Habour), Seongsan HR320 (prata, sunray, marrom; Epson VX9PE), Dobo HR320-DOBO (500 pçs, 27/09/2018, cúpula intercoreana), Ilgu HR330 (cobalto, marrom; Ronda 708/788 fase da lua), KARI HR330-KARI (757 pçs, 2019, branco e prata), KI:WON (2025, branco, preto, jade; Ronda 762), Sentinel/Suho (9ª coleção, aço, 10 ATM), Seolwol (10/09/2026, 38 mm, fase da lua Ronda 708). Fotos por cor no namu (file.namu.moe).
+Faltam fontes de fora: Firecrawl tinha zero créditos; tentar harriotwatches.co.kr direto (é o site atual!) e lojas coreanas (29cm, Musinsa, SSG) e wadiz.io.
