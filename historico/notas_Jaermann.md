@@ -1,0 +1,4 @@
+site oficial jaermann-stuebi.ch: PROVENANCE_REQUIRED (web-fetch). Fundação 2007, Urs Jaermann + Pascal Stübi; Excellence Holding (Vulcain, Les Ambassadeurs); Daniel Wechsler CEO desde 04/2013; Soprod A10.
+Modelos até agora: Watchonista 25 nomes (+11 na pág. 2 não lidos); webchronos QG2,QG3,RC1,RCB1,TP11; gressive RC3,TP1,RO1 + linhas La Habana, Black Iron, Eagle Heart, Order of Merit, Seve, St Andrews, Time to Play Diamond; timepiece TP6; Old Course 18 peças platina; Stroke Play 1759 72 peças; Faldo Series 1 72 peças; Seve SB1 50 peças; Ian Woosnam Serie 1; Ben Crenshaw; Trans Atlantic TA1-4; Queen of Golf Classic/Art Deco/Modern Art, UICC.
+Empresa: Zurique (WorldTempus 2010), Fashionbi: Jaermann & Stübi AG, Rapperswil. Misuzu (Japão) comprou ~2017; produção HYSEK.
+Seções feitas: 1,3,5(parcial),9. Falta: gressive fichas, watchonista fichas, lojas/usados, 2c.
