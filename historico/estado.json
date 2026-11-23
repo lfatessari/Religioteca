@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1072,
-  "ultima_versao": 830,
+  "proxima_linha_marcas": 1075,
+  "ultima_versao": 834,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14454,6 +14454,68 @@
         "JB Gioacchino"
       ],
       "lote": "historico/passada_unica/lote_830.json"
+    },
+    {
+      "versao": 831,
+      "data": "2026-11-23",
+      "tipo": "pedido_usuario",
+      "marcas_inseridas": [
+        "Shipwrecked Watch Company"
+      ],
+      "obs": "Pedido do usuário (23/11/2026, 16h02): marca nova só com o nome, antes de Shoreham (linha 1807); lista em historico/marcas_novas_2026-11-23c/novas.json; entra na passada única pela ordem do proxima_completa.py. Pendências do post Adriano Valente (itens 24–29) já estavam aplicadas."
+    },
+    {
+      "versao": 832,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "J.Ciro": {
+          "linha_marcas": 1073,
+          "relogios": 25,
+          "fontes": 23,
+          "vermelho": false,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "lacunas": {
+        "J.Ciro": "K (logo do Microbrand Atlas)"
+      },
+      "lote": "historico/passada_unica/lote_832.json",
+      "obs": "Só J.Ciro: a seguinte, Jean d'Eve (1074), parece grande e fica sozinha na próxima execução (pré-levantamento em historico/notas_JeanDunand_JeanDEve_pre.md). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; home oficial deu PROVENANCE, coleções vieram por busca."
+    },
+    {
+      "versao": 833,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Jean d'Eve"
+      ],
+      "linhas_relogios": "124756-124783",
+      "relogios": 28,
+      "vermelho": false,
+      "fontes": 43,
+      "dados": "G, H, K não achados (marca inativa)",
+      "obs": "Jean Dunand tratada como grande; fica sozinha na próxima execução. Pendências Adriano Valente (24-29) e Shipwrecked já estavam aplicadas."
+    },
+    {
+      "versao": 834,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Jean Dunand": {
+          "linha_marcas": 1075,
+          "relogios": 35,
+          "linhas_relogios": "124784-124818",
+          "fontes": 77,
+          "vermelho": true,
+          "grande": true
+        }
+      },
+      "lacunas": {
+        "Jean Dunand": "G (jeandunand.com); H e K não achados"
+      },
+      "lote": "historico/passada_unica/lote_834.json",
+      "obs": "Marca de peças únicas, vermelha, 3 passadas (49+18+10). WebFetch só pelo ajudante web-fetch. Pendências Adriano Valente e Shipwrecked já estavam aplicadas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
