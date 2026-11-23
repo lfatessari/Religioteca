@@ -14625,7 +14625,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T22:43:46Z",
-  "ultimo_sinal": "2026-11-23T22:44:14Z",
+  "ultimo_sinal": "2026-11-23T22:53:18Z",
   "em_andamento": {
     "marcas": [
       "Jean Lassale"
@@ -14635,7 +14635,16 @@
     "relogios": "historico/parcial_JeanLassale_relogios.txt",
     "fontes": "historico/parcial_JeanLassale_fontes.txt",
     "notas": "historico/notas_JeanLassale.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "8",
+      "9",
+      "10",
+      "10b"
+    ],
     "passada": 1,
     "obs": "Jean Marcel (1077) e JeanRichard (1078) parecem grandes: ficam para as próximas execuções, uma por vez."
   }
