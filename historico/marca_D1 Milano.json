@@ -1,0 +1,667 @@
+{
+ "marca": "D1 Milano",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Bateria de relógios em 23/11/2026: 242 relógios. Site oficial d1milano.com (sem www; a versão eu.d1milano.com redireciona) lido pelas coleções e por 69 fichas de produto; as coleções mostram só os 30 primeiros de cada lista (homens 122, mulheres 76), por isso entraram também os códigos das lojas Giglio e Ocarat. Marca VERMELHA: catálogo grande e rotativo (Lyst mostra 335 anúncios), dezenas de colaborações limitadas (lista oficial em /pages/collaborations) e linhas antigas (P701, Super Slim) com referências sem foto. 104 linhas ficaram com o link da página no lugar da foto (fichas que pediram permissão ou só títulos de loja). Linhas OLOLRJ01–06 = provável Olivetti (dedução pelo prefixo). As linhas Ultra Thin 1980 'Sealed' do site oficial não mostram código; os códigos UCBL01–05/UCBU01–04 da Giglio podem ser as mesmas peças. Ainda a verificar (não alterado): BusinessWorld (bworldonline.com/?p=213535) diz fundação em Milão em 2013 por Dario Spallone (Bocconi; incubadora em 2014) e sede em Dubai e Hong Kong; Inquirer cita escritórios em Milão, Dubai (Dubai Design District, 2015) e Hong Kong e o Ultra Thin lançado em 2017; Calibre Magazine diz projeto escolar de 2014, primeiro relógio Polycarbon em 2015, movimentos japoneses e montagem na China. Rodapé do site: Luminal Agency Ltd. Logo (K) não encontrado.",
+ "fontes": [
+  {
+   "url": "https://www.giglio.com/en-au/d1-milano/",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://www.giglio.com/en-ca/d1-milano/men.html",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/d1-milano-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/d1-milano-watches/subcat-mechanical",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/d1-milano-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kith.com/collections/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eu.kith.com/collections/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/d1-milano-watch/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://ocarat.com/en/d1-milano-mens-watch/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.zalando.de/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.zalando.de/men/d1-milano/?p=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.zalando.ie/mens-watches/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.selfridges.com/GB/en/cat/d1-milano/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/designer/d1-milano/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.pittimmagine.com/en/pittimmagine/archive/uomo107/exhibitors/D/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bworldonline.com/?p=213535",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lifestyle.inquirer.net/?p=323004",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/pages/accessibility",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/collections/mens-watches",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://d1milano.com/collections/mens-polycarbon-watches",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://d1milano.com/collections/mens-ultra-thin-watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://d1milano.com/collections/mens-automatico-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://d1milano.com/collections/chronograph-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://camdenrimini.com/en/collections/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thenextdoor.fr/a/l/en/collections/d1-milano",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/d1-milano-watches-c-9517/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/d1-milano-automatico-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/collections/skeleton-watches",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://d1milano.com/collections/square-watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://d1milano.com/collections/olivetti-digital-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/collections/pixel",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://d1milano.com/collections/collaboration-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://d1milano.com/pages/about-d1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/collections/womens-watches",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://d1milano.com/collections/womens-polycarbon-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://d1milano.com/collections/womens-ultra-thin-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5-mm-shadow",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5mm-white-sketch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5mm-black-sketch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5-mm-cloudburst",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5-mm-navy-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5-mm-military-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5-mm-dawn-light",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-40-5-mm-space-grey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/lagoon-diver-polycarbon-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-37-mm-ecru",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-37-mm-nebula",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/polycarbon-37-mm-akebia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/electric-clash-sketch-polycarbon-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/brown-phantom-polychrono-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/green-phantom-polychrono-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-38-mm-ocean",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-38mm-light-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-38mm-mirror",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-40-mm-chocolate",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-40-mm-antracite",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-40-mm-re-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-40-mm-geo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-40-mm-moss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ultra-thin-bracelet-40-mm-linen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/jade-mirage-ultra-thin-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/carbon-reef-ultra-thin-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/groovy-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/groovy-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/automatic-bracelet-41-5-mm-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/automatic-bracelet-41-5-mm-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/automatic-bracelet-41-5-mm-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/automatic-bracelet-41-5mm-obsidian",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/dual-navy-automatico-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/dual-black-automatico-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/dual-red-automatico-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/automatico-36-mm-navy-code",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/black-pulse-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/blue-pulse-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/green-pulse-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/chronograph-40mm-essential-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/chronograph-40mm-essential-brown",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/gcc-united",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-black-camo-nylon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-grey-camo-nylon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-green-camo-nylon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-black-camo-canva",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-green-camo-canva",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-red-camo-canva",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-grey-camo-canva",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/aape-blue-camo-canva",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/skeleton-bracelet-41-5-mm-gun-metal-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/skeleton-bracelet-41-5-mm-silver-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/skeleton-bracelet-41-5-mm-rose-gold-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/jet-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/ocean-pulse-skeleton-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/camo-marvel-skeleton-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/crimson-core-skeleton-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-37mm-titanium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-37mm-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-37-mm-gun-frame",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-32-mm-disco-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-37-mm-grey-frame",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-32-mm-disco-purple",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-37-mm-galaxy-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/square-bracelet-32-mm-disco-grey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/richards-pixel-sage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/richards-pixel-sand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/richards-pixel-smoke",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/products/soft-blush-polycarbon-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-p701-stainless-steel-black-dial-d1-milano-d1matbj01",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-p701-stainless-steel-skeleton-dial-d1-milano-d1mskrj01",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-p701-rubber-skeleton-dial-d1-milano-d1mskrj03",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-p701-stainless-steel-black-dial-d1-milano-d1matbj02",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/d1-milano-p701-watch-atrj01.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/d1-milano-p701-watch-atbj03.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://timepiece.com/d1-milano-p701-watch-skbj03.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://conteenium.com/product/d1-milano-p701-atrj01/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/product/d1-milano-skeleton-rubber-skrj01/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://bloomingdales.ae/d1-milano-p701-automatic-watch-212725772.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://d1milano.com/pages/collaborations",
+   "passada": 2,
+   "novos": 16
+  },
+  {
+   "url": "https://tonesterpaints.com/pages/d1milano-x-tonester",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.italdesign.it/en/project/giugiaro-design-x-d1-milano/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.nssmag.com/en/fashion/35201/mad-paris-d1-milano-collab-edizione-limitata",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.nove25.net/gb/nove25-x-d1-milano",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/design-in-primo-piano/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://design-milk.com/these-milanese-timepieces-are-a-melange-of-mood-tone-and-supersaturated-pigment/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/d1-milano-ceramica",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/products/ceramic-37-mm-pure-blue",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://granarelli.com/en-us/collections/donna/products/pure-black-ceramica-37-mm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/skeleton-sketch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.calibremagazine.com/news/one-thing-d1-milano-not/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bstn.com/uk_en/p/d1-milano-polychrono-d1-phbj13-0340244",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-ceramica-pure-white-cebu02-d1-milano-115860.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/d1-x-tetris-limited-edition-watch-a-pxrjtr-d1-milano-130221.html",
+   "passada": 2,
+   "novos": 1
+  }
+ ]
+}

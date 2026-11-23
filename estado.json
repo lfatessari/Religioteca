@@ -14165,7 +14165,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T03:43:36Z",
-  "ultimo_sinal": "2026-11-23T04:06:02Z",
+  "ultimo_sinal": "2026-11-23T04:09:23Z",
   "em_andamento": {
     "marcas": [
       "D1 Milano"
@@ -14178,12 +14178,16 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c parcial",
+      "2c",
       "3",
-      "5 parcial",
-      "7"
+      "4",
+      "5",
+      "7",
+      "9",
+      "10",
+      "2a passada"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "arquivos auxiliares historico/parcial_D1 Milano_{giglio_raw,ocarat,oficial1}.txt; fichas oficiais em parcial_D1 Milano_fichas.txt; merge.py junta tudo"
   }
 }
