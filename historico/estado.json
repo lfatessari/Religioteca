@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 603,
- "ultima_versao": 813,
+ "proxima_linha_marcas": 712,
+ "ultima_versao": 814,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14091,6 +14091,33 @@
     "De Marquee",
     "Dogleg"
    ]
+  },
+  {
+   "versao": 814,
+   "data": "2026-11-23",
+   "tipo": "passada_unica",
+   "marcas": [
+    "EI8HT",
+    "Elgé",
+    "Emerton Scott"
+   ],
+   "relogios": {
+    "EI8HT": 8,
+    "Elgé": 5,
+    "Emerton Scott": 25
+   },
+   "fontes": {
+    "EI8HT": 15,
+    "Elgé": 20,
+    "Emerton Scott": 25
+   },
+   "vermelho": false,
+   "adiadas": [
+    "Downrange Timepieces",
+    "Dualys"
+   ],
+   "lote": "historico/passada_unica/lote_814.json",
+   "firecrawl": "sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {

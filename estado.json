@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 603,
- "ultima_versao": 813,
+ "proxima_linha_marcas": 712,
+ "ultima_versao": 814,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14091,6 +14091,33 @@
     "De Marquee",
     "Dogleg"
    ]
+  },
+  {
+   "versao": 814,
+   "data": "2026-11-23",
+   "tipo": "passada_unica",
+   "marcas": [
+    "EI8HT",
+    "Elgé",
+    "Emerton Scott"
+   ],
+   "relogios": {
+    "EI8HT": 8,
+    "Elgé": 5,
+    "Emerton Scott": 25
+   },
+   "fontes": {
+    "EI8HT": 15,
+    "Elgé": 20,
+    "Emerton Scott": 25
+   },
+   "vermelho": false,
+   "adiadas": [
+    "Downrange Timepieces",
+    "Dualys"
+   ],
+   "lote": "historico/passada_unica/lote_814.json",
+   "firecrawl": "sem créditos"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14198,27 +14225,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-23T05:43:32Z",
- "ultimo_sinal": "2026-11-23T06:07:18Z",
- "em_andamento": {
-  "marcas": [
-   "EI8HT",
-   "Elgé",
-   "Emerton Scott"
-  ],
-  "linha_marcas": 696,
-  "grande": false,
-  "relogios": "historico/parcial_EI8HT_relogios.txt",
-  "fontes": "historico/parcial_EI8HT_fontes.txt",
-  "notas": "historico/notas_EI8HT.md",
-  "secoes_feitas": [
-   "EI8HT: 15 fontes, 8 relógios",
-   "Elgé: 20 fontes, 5 relógios",
-   "Emerton Scott: 25 fontes, 25 relógios",
-   "gravando v814"
-  ],
-  "passada": 1,
-  "obs": "Downrange Timepieces e Dualys adiadas (proxima_marca.py); Firecrawl sem créditos"
- }
+ "adiadas_obs": {}
 }
