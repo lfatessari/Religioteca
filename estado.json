@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 437,
-  "ultima_versao": 822,
+  "proxima_linha_marcas": 642,
+  "ultima_versao": 823,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14300,6 +14300,25 @@
         "Calypso Watches": "BDEFIJK + M (C, G, H não achados)"
       },
       "obs": "Calypso (grupo Festina) tratada como grande, sozinha; Dmitriy Chugunov fica para a próxima. Passadas 61/13/13 fontes; 219/20/78 relógios. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; Projects ausente."
+    },
+    {
+      "versao": 823,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Dmitriy Chugunov": {
+          "linha": 642,
+          "relogios": 11,
+          "fontes": 23,
+          "vermelho": false,
+          "grande": false,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "lacunas": {
+        "Dmitriy Chugunov": "BDEFGHIJK + M (C não achada)"
+      },
+      "obs": "Só Dmitriy Chugunov: a 2ª do lote (Jaeger-LeCoultre) é grande e fica sozinha na próxima. Pendências dos posts 24-29 (Adriano Valente) já aplicadas na v821. WebFetch só pelo ajudante web-fetch; Projects ausente."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14407,20 +14426,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T11:43:27Z",
-  "ultimo_sinal": "2026-11-23T11:43:27Z",
-  "em_andamento": {
-    "marcas": [
-      "Dmitriy Chugunov"
-    ],
-    "linha_marcas": 642,
-    "grande": false,
-    "relogios": "historico/parcial_Dmitriy_Chugunov_relogios.txt",
-    "fontes": "historico/parcial_Dmitriy_Chugunov_fontes.txt",
-    "notas": "historico/notas_Dmitriy_Chugunov.md",
-    "secoes_feitas": [],
-    "passada": 1,
-    "obs": "2ª do lote (Jaeger-LeCoultre) é grande: só Dmitriy Chugunov nesta execução"
-  }
+  "adiadas_obs": {}
 }
