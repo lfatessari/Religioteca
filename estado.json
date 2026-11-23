@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1067,
-  "ultima_versao": 827,
+  "proxima_linha_marcas": 1068,
+  "ultima_versao": 828,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14392,6 +14392,25 @@
       },
       "lacunas": {},
       "obs": "Jaipur grande (loja com 187 relógios ativos + 32 arquivados), sozinha; 3 passadas (75/24/12 fontes; 185/6/1 relógios). ~150 linhas com link da página no lugar da foto (fichas fora de busca deram PROVENANCE). Sem dados vazios na aba Marcas. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. James Lamb (1068) começou e parou de propósito: parcial com 8 relógios e 6 fontes em historico/parcial_James_Lamb_*.txt e notas_James_Lamb.md (aproveitar na próxima). Jaquet Droz (1069) é grande."
+    },
+    {
+      "versao": 828,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "James Lamb": {
+          "linha": 1068,
+          "relogios": 10,
+          "fontes": 24,
+          "vermelho": false,
+          "grande": false,
+          "site_bloqueado": "sim"
+        }
+      },
+      "lacunas": {
+        "James Lamb": "K (via marca.json, logo da loja The Limited Edition)"
+      },
+      "obs": "Retomada da parcial da v827. Jaquet Droz (1069) é grande: próxima execução, sozinha. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências do post Adriano Valente (itens 24–29) já estavam aplicadas na v821."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14499,31 +14518,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T16:43:12Z",
-  "ultimo_sinal": "2026-11-23T16:46:39Z",
-  "em_andamento": {
-    "marcas": [
-      "James Lamb"
-    ],
-    "linha_marcas": 1068,
-    "grande": false,
-    "relogios": "historico/parcial_James_Lamb_relogios.txt",
-    "fontes": "historico/parcial_James_Lamb_fontes.txt",
-    "notas": "historico/notas_James_Lamb.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Jaquet Droz (1069) é grande: fica para a próxima. Pesquisa terminada (24 fontes, 10 relógios); gravando v828."
-  }
+  "adiadas_obs": {}
 }
