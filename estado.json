@@ -14501,7 +14501,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T16:43:12Z",
-  "ultimo_sinal": "2026-11-23T16:43:52Z",
+  "ultimo_sinal": "2026-11-23T16:46:39Z",
   "em_andamento": {
     "marcas": [
       "James Lamb"
@@ -14512,9 +14512,18 @@
     "fontes": "historico/parcial_James_Lamb_fontes.txt",
     "notas": "historico/notas_James_Lamb.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "2c",
+      "3",
+      "5",
+      "6",
+      "7",
+      "9",
+      "10",
+      "10b"
     ],
     "passada": 1,
-    "obs": "Jaquet Droz (1069) é grande: fica para a próxima."
+    "obs": "Jaquet Droz (1069) é grande: fica para a próxima. Pesquisa terminada (24 fontes, 10 relógios); gravando v828."
   }
 }
