@@ -13970,6 +13970,12 @@
         "Bradley Taylor": 6
       },
       "obs": "Bradley Taylor: 6 relógios, 22 fontes, logo em K. Borna adiada (nenhuma fonte). Bühlmann: K candidato não gravado (a conferir). Firecrawl sem créditos. Ferramenta Projects ausente."
+    },
+    {
+      "data": "2026-11-23",
+      "versao": 807,
+      "tipo": "mudanca_de_regra",
+      "obs": "Pedido do usuário: 'Foca nos modelos' e sem repescagem das adiadas. proxima_completa.py devolve só marcas sem modelos (máx. 3); marcas só de dados saem do lote. CLAUDE.md: seção FOCO NOS MODELOS."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14076,6 +14082,6 @@
     "obs": "Regra corrigida pelo usuário em 14/11/2026: só se preenche o que está VAZIO em B–K (inclusive I); marca completa é pulada; história já escrita não é conferida. Fila montada por lacunas/fila.py (1637 marcas após a v578).",
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
-  "ordem_relogios": "PASSADA ÚNICA desde 22/11/2026 (v802): de cima para baixo pela aba Marcas, cada marca é concluída por inteiro (dados vazios + modelos) — proxima_completa.py; pedido do usuário",
+  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {}
 }

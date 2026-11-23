@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""PASSADA ÚNICA (pedido do usuário, 22/11/2026): escolhe o lote da execução, de cima para baixo
+"""FOCO NOS MODELOS desde 23/11/2026 (ver escolher): o lote são só marcas sem modelos.
+PASSADA ÚNICA (pedido do usuário, 22/11/2026): escolhe o lote da execução, de cima para baixo
 da aba Marcas, juntando o que falta em cada marca — dados da aba Marcas (B a K) e modelos da aba Relógios.
 
 Uso:
@@ -60,13 +61,10 @@ def pendentes(arq):
 
 
 def escolher(pend):
-    lote, gasto, nm = [], 0, 0
-    for p in pend:
-        custo = CUSTO_MODELOS if p['modelos'] else CUSTO_DADOS
-        if gasto + custo > ORCAMENTO or (p['modelos'] and nm == MAX_MODELOS):
-            break
-        lote.append(p); gasto += custo; nm += p['modelos']
-    return lote
+    # FOCO NOS MODELOS (pedido do usuário, 23/11/2026): o lote são só as próximas marcas SEM modelos,
+    # de cima para baixo (no máximo 3; marca grande sozinha, decidido na execução). Os dados vazios
+    # dessas marcas são preenchidos na mesma pesquisa. Marcas "só dados" NÃO entram mais no lote.
+    return [p for p in pend if p['modelos']][:MAX_MODELOS]
 
 
 def registrar(args):
