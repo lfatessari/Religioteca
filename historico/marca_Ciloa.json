@@ -1,0 +1,41 @@
+{
+ "marca": "Ciloa",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "so_site_oficial": {
+  "dominio": "ciloa.com.br",
+  "motivo": "Marca nova (vendas desde 2025) e pequena: nenhuma loja, imprensa ou anúncio de fora encontrado (a CILOA da Amazon/Accio é homônima); o usuário autorizou em 23/11/2026 gravar só com o site oficial."
+ },
+ "observacoes": "Relógios gravados em 23/11/2026 só com o site oficial (exceção autorizada pelo usuário): Marca nova (vendas desde 2025) e pequena: nenhuma loja, imprensa ou anúncio de fora encontrado (a CILOA da Amazon/Accio é homônima); o usuário autorizou em 23/11/2026 gravar só com o site oficial. Urbann Blue Ocean e Night Sky aparecem só na galeria do site (a loja vende hoje só a Sand Storm; as fotos parecem montagens a partir da Sand Storm).",
+ "fontes": [
+  {
+   "url": "https://ciloa.com.br/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ciloa.com.br/colecoes/relogios",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ciloa.com.br/produtos/marine",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ciloa.com.br/produtos/yacht",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ciloa.com.br/produtos/urbann",
+   "passada": 1,
+   "novos": 3
+  }
+ ]
+}

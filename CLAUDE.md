@@ -17,6 +17,13 @@ A fase Marcas terminou em 14/11/2026 (v614). **Reaberta em 22/11/2026 (v792), pe
 - Marca sem fontes suficientes para os modelos: vai para `ADIADAS` no `proxima_marca.py` (dados achados entram assim mesmo) e a execução segue para a próxima da lista, se houver tempo/cota. As ADIADAS não são retomadas.
 - Registrar (`proxima_completa.py --registrar NNN [--lote ...] "Marca A" ...`), salvar, commit "Bateria: <marca(s)> (vNNN)", push, relatório e notificação como no "Roteiro". Relatório: relógios por marca, fontes, dados da aba Marcas preenchidos, adiadas, quantas marcas sem modelos ainda faltam.
 
+## MARCA NOVA SÓ COM O SITE OFICIAL — pedido do usuário, 23/11/2026 (vale acima do mínimo de fontes e da regra de ADIADAS)
+"Sim, grave tudo" (resposta à pergunta sobre a Ciloa, adiada na v808 por só existir o site oficial). Quando uma marca pequena (não grande, não vermelha) só tiver os modelos no próprio site oficial e as buscas (pelo menos 3, mais o §3 da skill) não trouxerem nenhuma fonte de fora (loja, imprensa, anúncio, banco de dados) que não seja homônima, NÃO adiar: gravar com o que o site oficial mostra.
+- No `marca_<marca>.json`: `"so_site_oficial": {"dominio": "<domínio da coluna G>", "motivo": "<onde se procurou e por que não há fonte de fora>"}`; todas as `fontes` têm de ser páginas desse domínio (mínimo 3: home, coleção e fichas). O `gravar_marca.py` confere isso e baixa o mínimo para 3.
+- Escrever em M (campo `observacoes`) que os relógios foram gravados só com o site oficial e o motivo. No relatório, dizer que a marca usou essa exceção.
+- Se aparecer QUALQUER fonte de fora, não usar a exceção: seguir o mínimo normal (ou o catálogo fechado).
+- As marcas que já estão em `ADIADAS` continuam sem repescagem (pedido de 23/11/2026), salvo pedido do usuário.
+
 ## PASSADA ÚNICA — concluir cada marca por inteiro, de cima para baixo (pedido do usuário, 22/11/2026; vale acima de "Fase Marcas", de "ORDEM NA FASE RELÓGIOS", das "DUAS RODADAS" e do que a skill disser sobre a ordem)
 "Ao invés de preenchermos todos os dados de todas as marcas e depois os modelos de relógios, vamos começando de cima para baixo, se alguma coisa não estiver feita naquela marca, fazer. Se a marca X tiver dados e modelos feitos, pular. Se tiver algum dado sem fazer mas modelos feitos, preencher os dados. Se tiver dados feitos mas modelos não, fazer. Ou seja, ir concluindo as marcas com tudo que diz respeito a ela, de cima para baixo. Ao pesquisar a marca, otimizamos a mesma busca para buscar tudo."
 Em 22/11/2026 (v802) havia 1.641 marcas pendentes: 1.093 sem modelos e 548 só com dados faltando.

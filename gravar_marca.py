@@ -7,6 +7,7 @@ marca.json: {"marca": "<igual à coluna A de Marcas>", "usa_codigos": true/false
              "grande": true/false, "complemento": false,
              "catalogo_fechado": {"oficial": "<url do site oficial com a lista completa>",
                                   "confirmacoes": ["<url de fora 1>", "<url de fora 2>", ...]}  (opcional),
+             "so_site_oficial": {"dominio": "<domínio da coluna G>", "motivo": "<por que não há fontes de fora>"}  (opcional; exceção do usuário, 23/11/2026),
              "fontes": [{"url": "...", "passada": 1, "novos": 0}, ...]}
 Trava de profundidade (conferida para TODAS as marcas antes de gravar qualquer uma):
   - mínimo de fontes diferentes: 15; 25 se grande;
@@ -81,6 +82,22 @@ for DADOS, CFG in pares:
         if not ja_tem: problemas.append(f'{marca}: "complemento" só vale para marca que já tem linhas')
     else:
         minimo = 25 if cfg.get('grande') else 15
+        so = cfg.get('so_site_oficial')
+        if so:
+            # exceção aprovada pelo usuário (23/11/2026): marca nova e pequena cujo único lugar com os modelos
+            # é o site oficial. Vale só para marca não grande e não vermelha, com TODAS as fontes no domínio
+            # oficial (mínimo 3 páginas) e o motivo escrito (vai para a coluna M).
+            erros = []
+            if cfg.get('grande') or cfg.get('vermelho'): erros.append('não vale para marca grande ou vermelha')
+            d_of = (so.get('dominio') or '').lower().removeprefix('www.')
+            if not d_of: erros.append('falta "dominio"')
+            fora = [f['url'] for f in fontes if dom(f['url']) != d_of]
+            if fora: erros.append(f'fontes fora do domínio oficial: {fora[:3]}')
+            if not (so.get('motivo') or '').strip(): erros.append('falta "motivo"')
+            if erros: problemas += [f'{marca}: exceção "só site oficial" recusada — {e}' for e in erros]
+            else:
+                minimo = 3
+                print(f'Exceção só site oficial ({d_of}): mínimo {minimo} páginas oficiais')
         cf = cfg.get('catalogo_fechado')
         if cf:
             erros = []
