@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1066,
-  "ultima_versao": 826,
+  "proxima_linha_marcas": 1067,
+  "ultima_versao": 827,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14375,6 +14375,23 @@
         "Jaguar Swiss Watches": "B D E F G H I J (+K via marca.json); C não achada"
       },
       "obs": "Jaguar grande, sozinha; 3 passadas (89/26/11 fontes; 366/25/3 relógios). Firecrawl com créditos no início (~80, site oficial), acabou depois; WebFetch só pelo ajudante web-fetch; páginas institucionais do site oficial com PROVENANCE_REQUIRED. Próximas: Jaipur Watch Company, James Lamb."
+    },
+    {
+      "versao": 827,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas": {
+        "Jaipur Watch Company": {
+          "linha": 1067,
+          "relogios": 190,
+          "fontes": 111,
+          "vermelho": true,
+          "grande": true,
+          "site_bloqueado": "parcial"
+        }
+      },
+      "lacunas": {},
+      "obs": "Jaipur grande (loja com 187 relógios ativos + 32 arquivados), sozinha; 3 passadas (75/24/12 fontes; 185/6/1 relógios). ~150 linhas com link da página no lugar da foto (fichas fora de busca deram PROVENANCE). Sem dados vazios na aba Marcas. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. James Lamb (1068) começou e parou de propósito: parcial com 8 relógios e 6 fontes em historico/parcial_James_Lamb_*.txt e notas_James_Lamb.md (aproveitar na próxima). Jaquet Droz (1069) é grande."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14482,32 +14499,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T15:43:28Z",
-  "ultimo_sinal": "2026-11-23T16:07:59Z",
-  "em_andamento": {
-    "marcas": [
-      "Jaipur Watch Company"
-    ],
-    "linha_marcas": 1067,
-    "grande": true,
-    "relogios": "historico/dados_Jaipur_Watch_Company.txt",
-    "fontes": "",
-    "notas": "historico/notas_Jaipur_Watch_Company.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b",
-      "2a passada",
-      "3a passada"
-    ],
-    "passada": 1,
-    "obs": "Jaipur grande, sozinha. James Lamb (1068) com parcial em historico/parcial_James_Lamb_*.txt e notas_James_Lamb.md; Jaquet Droz (1069) grande."
-  }
+  "adiadas_obs": {}
 }
