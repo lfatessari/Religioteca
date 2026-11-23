@@ -1,0 +1,106 @@
+{
+ "marca": "Favre-Bulle",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://favre-bulle-watches.com/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://favre-bulle-watches.com/collections/all",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://favre-bulle-watches.com/collections/swiss-made-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/products/sunset",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/products/white-peaks",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/pages/about-alexandre-favre-bulle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/pages/faq",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/products/ice-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/products/night-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://favre-bulle-watches.com/products/fir-tree",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/pages/previous-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://favre-bulle-watches.com/pages/media",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/favre-bulle/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/white-peaks",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologius.com/watch-brands/favre-bulle/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://horologius.com/reviews/favre-bulle-three-peaks-review/",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Favre-Bulle é uma marca suíça de relógios fundada em 2023 por Alexandre Favre-Bulle, relojoeiro nascido em Genebra em 1994, formado pela Escola de Relojoaria de Genebra e que trabalhou na fábrica de mostradores da Rolex de 2019 a 2021; a empresa foi registrada no Registro de Comércio de Genebra em agosto de 2023.\n\nA primeira coleção, a dos cronógrafos Three Peaks, levou dois anos de desenvolvimento, usa o calibre automático La Joux-Perret L112 de roda de colunas e chegou ao público em junho de 2025, em séries de 50 peças numeradas: Fir Tree (exclusiva do Kickstarter, já esgotada), Ice Blue, Sunset e White Peaks. A White Peaks foi inscrita no Grand Prix d'Horlogerie de Genève de 2025. Em novembro de 2026 veio a Night Edition, com os mostradores Blue Hour, Dusk e After Dark. Os relógios são montados em Neuchâtel e passam pelo controle final em Genebra."
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://favre-bulle-watches.com/pages/about-alexandre-favre-bulle",
+   "https://favre-bulle-watches.com/",
+   "https://favre-bulle-watches.com/pages/faq",
+   "https://favre-bulle-watches.com/pages/previous-collections",
+   "https://favre-bulle-watches.com/products/night-edition",
+   "https://horologius.com/watch-brands/favre-bulle/",
+   "https://gphg.org/en/watches/white-peaks"
+  ]
+ },
+ "observacoes": "Bateria v815: 7 relógios gravados (Three Peaks Fir Tree, Ice Blue, Sunset, White Peaks e Night Edition Blue Hour/Dusk/After Dark), todos do site oficial; Oracle of Time, GPHG e Horologius confirmam os quatro primeiros. Corrigido I: confirmados pelo site oficial (about, FAQ, arquivo) e pela Horologius os fatos que estavam '[⚠️ a confirmar]' (fundador formado em Genebra e ex-Rolex, marca suíça, L112, dois anos de desenvolvimento); retirado o preço 'perto de £ 2.000' (só Oracle of Time; o site diz CHF 2.200 no lançamento e CHF 2.400 hoje); acrescentados registro em 08/2023, lançamento em 06/2025, Fir Tree do Kickstarter, Night Edition e montagem em Neuchâtel. Ainda a verificar: a Fir Tree é de aço ou banhada a ouro (o site diz as duas coisas)."
+}
