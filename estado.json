@@ -14150,17 +14150,25 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-23T02:43:43Z",
- "ultimo_sinal": "2026-11-23T02:43:43Z",
+ "ultimo_sinal": "2026-11-23T02:53:24Z",
  "em_andamento": {
   "marcas": [
    "CS Watches"
   ],
   "linha_marcas": 559,
   "grande": false,
-  "relogios": "historico/parcial_CS Watches_relogios.txt",
+  "relogios": "historico/dados_CS Watches.txt",
   "fontes": "historico/parcial_CS Watches_fontes.txt",
   "notas": "historico/notas_CS Watches.md",
-  "secoes_feitas": [],
+  "secoes_feitas": [
+   "1",
+   "2",
+   "2c",
+   "3",
+   "9",
+   "10",
+   "10b"
+  ],
   "passada": 1
  }
 }
