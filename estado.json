@@ -14227,7 +14227,7 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-23T06:44:03Z",
- "ultimo_sinal": "2026-11-23T07:03:10Z",
+ "ultimo_sinal": "2026-11-23T07:17:09Z",
  "em_andamento": {
   "marcas": [
    "Favre-Bulle",
@@ -14242,7 +14242,8 @@
   "secoes_feitas": [
    "FavreBulle pronto",
    "GearMagus pronto",
-   "Grana em pesquisa"
+   "Grana pronta (3 passadas)",
+   "gravando v815"
   ],
   "passada": 1
  }
