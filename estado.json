@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1073,
-  "ultima_versao": 832,
+  "proxima_linha_marcas": 1074,
+  "ultima_versao": 833,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14482,6 +14482,20 @@
       },
       "lote": "historico/passada_unica/lote_832.json",
       "obs": "Só J.Ciro: a seguinte, Jean d'Eve (1074), parece grande e fica sozinha na próxima execução (pré-levantamento em historico/notas_JeanDunand_JeanDEve_pre.md). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; home oficial deu PROVENANCE, coleções vieram por busca."
+    },
+    {
+      "versao": 833,
+      "data": "2026-11-23",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Jean d'Eve"
+      ],
+      "linhas_relogios": "124756-124783",
+      "relogios": 28,
+      "vermelho": false,
+      "fontes": 43,
+      "dados": "G, H, K não achados (marca inativa)",
+      "obs": "Jean Dunand tratada como grande; fica sozinha na próxima execução. Pendências Adriano Valente (24-29) e Shipwrecked já estavam aplicadas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14589,33 +14603,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-23T20:43:08Z",
-  "ultimo_sinal": "2026-11-23T20:49:35Z",
-  "em_andamento": {
-    "marcas": [
-      "Jean d'Eve"
-    ],
-    "linha_marcas": 1074,
-    "grande": false,
-    "relogios": "historico/dados_jean_deve.txt",
-    "fontes": "historico/parcial_jean_deve_fontes.txt",
-    "notas": "historico/notas_jean_deve.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Jean Dunand (2ª da lista) tratada como grande (peças únicas com mostradores próprios) e fica para a próxima execução, sozinha."
-  }
+  "adiadas_obs": {}
 }
