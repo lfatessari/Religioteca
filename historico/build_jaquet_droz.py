@@ -16,6 +16,12 @@ def pt(spec):
     if 'quartz' in low: out.append('quartzo')
     d=re.search(r'([a-z ,/&-]+?) dial',low)
     if d and d.group(1).strip() not in ('n/a','n/s'): out.append('mostrador '+d.group(1).strip().split(',')[-1].strip())
+    DIC=[('slate grey','cinza-ardósia'),('mother-of-pearl','madrepérola'),('mother of pearl','madrepérola'),('grand feu enamel','esmalte Grand Feu'),('petrified algae','alga petrificada'),('ebony wood','ébano'),('grey','cinza'),('gray','cinza'),('blue','azul'),('black','preto'),('white','branco'),('silvered','prateado'),('silver','prateado'),('ivory','marfim'),('onyx','ônix'),('aventurine','aventurina'),('enamel','esmalte'),('opaline','opalino'),('rhodium','ródio'),('cream','creme'),('meteorite','meteorito'),('champagne','champanhe'),('dark','escuro'),('deep','profundo'),('red','vermelho'),('with','com'),('and','e'),('fuchsia','fúcsia'),('spectrolite','espectrolita'),('rutile','rutilo'),('psilomelane','psilomelano'),('jade','jade'),('imperial','imperial'),('cuprite','cuprita'),('engraved','gravado'),('guilloche','guilhochê'),('spessartine','espessartita'),('yellow','amarelo'),('lapis lazuli','lápis-lazúli'),('sapphire','safira'),('opal','opala'),('paillonné','com paillons'),('hand-painted','pintado à mão'),('pink','rosa'),('green','verde'),('arabic','arábico'),('center','centro')]
+    for i,o in enumerate(out):
+        if o.startswith('mostrador '):
+            d=o
+            for en,p in DIC: d=re.sub(r'\b'+re.escape(en)+r'\b',p,d)
+            out[i]=d
     t=', '.join(out)
     return (t[0].upper()+t[1:]+'.') if t else ''
 items=collections.OrderedDict(); byname={}
@@ -38,10 +44,15 @@ for f in files:
 # name uniqueness for no-ref items
 rows=[];seen=collections.Counter()
 for k,it in items.items():
-    if not it['img']: continue
+    if not it['img']:
+        if it['r']=='J029037141':
+            it['img']='https://www.the1916company.com/pre-owned/jaquet-droz/'; it['pre']='Visto só na lista de usados da The 1916 Company (link da página).'
+        else:
+            it['img']='https://essential-watches.com/jaquet-droz-allwatches'; it['pre']='Visto só na lista de modelos da loja Essential Watches, sem foto (link da página).'
     n=it['n']; le=[f for f in it['flags'] if f.startswith('LE')]
     if le and 'edição limitada' not in n: n+=f' – edição limitada de {le[0][2:]} peças'
     e=pt(it['spec'])
+    if it.get('pre'): e=it['pre']+' '+e
     if 'PU' in it['flags']: e='Peça única. '+e
     rows.append([n,it['r'],it['img'],e.strip()])
 # disambiguate duplicate names without ref
@@ -53,7 +64,10 @@ for r in rows:
         idx[(r[0],r[1])]+=1; m=re.search(r'(\d\d) mm',r[3])
         r[0]+=f' – {m.group(1)} mm' if m and idx[(r[0],r[1])]==1 else f' ({idx[(r[0],r[1])]})'
     out.append('|'.join(r))
-noimg=[it for it in items.values() if not it['img']]
-open('/home/claude/trabalho/dados_Jaquet_Droz.txt','w').write('\n'.join(out)+'\n')
+noimg=[it for it in items.values() if it.get('pre')]
+FIX=[('mostrador amarelo gold','mostrador de ouro amarelo'),('mostrador bordeaux esmalte Grand Feu','mostrador de esmalte Grand Feu bordô'),('mostrador brushed cinza','mostrador cinza escovado'),('mostrador alga petrificada','mostrador de alga petrificada'),('mostrador cuprita','mostrador de cuprita'),('mostrador k gold','mostrador de ouro 18k'),('mostrador k  hand-gravado','mostrador de ouro branco 18k gravado à mão'),('branco esmalte','de esmalte branco'),('marfim esmalte Grand Feu','de esmalte Grand Feu marfim'),('marfim esmalte','de esmalte marfim'),('preto esmalte','de esmalte preto'),('profundo azul','azul profundo'),('escuro cinza','cinza-escuro'),('slate com prateado centro','cinza-ardósia com centro prateado'),('safira e smoky quartz','de safira e quartzo fumê'),('preto carbon','de carbono preto'),('preto madrepérola','de madrepérola negra'),('imperial jade','de jade imperial'),('mostrador safira','mostrador de safira'),('mostrador esmalte','mostrador de esmalte'),('mostrador pintado à mão esmalte Grand Feu','mostrador de esmalte Grand Feu pintado à mão')]
+txt='\n'.join(out)+'\n'
+for a,b in FIX: txt=txt.replace(a,b)
+open('/home/claude/trabalho/dados_Jaquet_Droz.txt','w').write(txt)
 open('/home/claude/trabalho/sem_foto.txt','w').write('\n'.join(f"{it['n']}|{it['r']}|{it['spec']}" for it in noimg)+'\n')
 print('com foto:',len(out),'sem foto:',len(noimg))

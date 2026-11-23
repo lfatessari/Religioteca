@@ -1,0 +1,717 @@
+{
+ "marca": "Jaquet Droz",
+ "usa_codigos": true,
+ "logo": "https://www.swatchgroup.com/sites/default/files/styles/logo/public/brands/500-500-jaquet-droz-new_0.png?itok=7ej8n7Rx",
+ "site_bloqueado": "Parcial – jaquet-droz.com: página inicial e catálogo deram PROVENANCE_REQUIRED na leitura automática (v829); páginas de produto e notícias vindas de busca abriram; Firecrawl sem créditos; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados na v829 (3 passadas, 141 fontes, 417 relógios). Vermelha: há muito mais peças (Ateliers d'Art, peças únicas, Only Watch, séries de 8/28/88 peças; a Watchonista lista ~375 fichas e a The Watch Pages 324, sem referências legíveis) e o catálogo do site oficial não abriu. 28 relógios antigos só com referência (lista da Essential Watches) ficaram com o link da página no lugar da foto. Logo (K) da página da marca no site do Swatch Group. Signing Machine (J899.000.064, objeto de escrita, não relógio) não entrou. Dados B, C, D, G, H, I e J conferem com o site oficial (fundada em 1738 em La Chaux-de-Fonds por Pierre Jaquet-Droz; Swatch Group desde 2000; Instagram @jaquetdroz).",
+ "fontes": [
+  {
+   "url": "https://www.jaquet-droz.com/en/node/2000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/4516",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/cn/node/5808",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/jaquet-droz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/collections/jaquet-droz",
+   "passada": 1,
+   "novos": 96
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=4",
+   "passada": 1,
+   "novos": 96
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=7",
+   "passada": 1,
+   "novos": 95
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/jaquet-droz/watches/?paging=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/jaquet-droz/watches/?paging=11",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/jaquet-droz/watches/?paging=12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/jaquet-droz/watches/?paging=14",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/jaquet-droz-allwatches",
+   "passada": 1,
+   "novos": 49
+  },
+  {
+   "url": "https://www.prestigetime.com/brand/jaquet-droz.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpages.com/watches/jaquet-droz-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/jaquet-droz/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/pre-owned-jaquet-droz-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/clearance/jaquet-droz.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.yourwatchhub.com/jaquet-droz",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.yourwatchhub.com/jaquet-droz/page/2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/jaquet-droz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/brands/jaquet-droz/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/jaquet-droz/page/3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-brands/jaquet-droz/page/4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/jaquet.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/jaquet-droz.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://europeanwatch.com/watch/jaquet-droz-j006010240-grande-seconde-off-center-39mm-ss-opaline-56872",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/mode_demploi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/4615",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz-astrale",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/jaquet-droz-watches/men.html?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/jaquet-droz-watches/jaquet-droz-specialties.html?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Les-Lunes",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Astrale-Grande-heure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.essential-watches.com/Jaquet-Droz/Astrale-Quantieme-Perpetual/Rose-Gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Date-Astrale/White-Gold",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/jaquet-droz/lady-8/lady-8-j014600373",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7927",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7935",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7962",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7887",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7895",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaquet-droz.com/en/node/8005",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7919",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaquet-droz.com/en/node/8050",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/8301",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7981",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7663",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7903",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7989",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7997",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7911",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/watches/grande-seconde/tourbillon-skelet-skull-j0135250101",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/8636",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/8163",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz-petite-heure-minutes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/jaquet-droz-petite-heure-minutes?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/jaquet-droz-watches/women.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchcompany.com/jaquet-droz/petite-heure-minute",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourpassion.com/en/brands/jaquet-droz",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/6496",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7587",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaquet-droz.com/en/watches/automata/the-bird-repeater-openwork-j031034203",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7595",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/watches/automata/signing-machine-j899-000-064",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/6404",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaquet-droz.com/en/node/7495",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/grande-seconde/7349-grande-seconde-skelet-one.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/grande-seconde/6729-grande-seconde-skelet-one-red-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.manfredijewels.com/collections/new-watches/products/grande-seconde-skelet-one-red-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2019/02/jaquet-droz-grande-seconde-skelet-one-ceramic.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.swatchgroup.com/en/services/archive/2020/jaquet-droz-grande-seconde-skelet-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://luxatic.com/jaquet-droz-bird-repeater-limited-edition-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Hommage-Londres/Chronograph-GMT",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Tonneau-GMT/Steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/LOrigine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Grande-Seconde/Ceramic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Grande-Seconde/Power-Reserve",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://essential-watches.com/Jaquet-Droz/Chrono-Grande-Date/White-Gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Jaquet-Droz-J015139202-Majestic-Beijing-Time-Zone-in-Platinum-Limited-to-8pcs-on-Black-Alligator-Leather-Strap-with-White-Enamel-Dial/63973",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://essential-watches.com/watch/Jaquet-Droz-J015134201-Majestic-Beijing-Time-Zone-Automatic-in-White-Gold-on-Black-Crocodile-Leather-Strap-with-Slate-Grey-Dial/47277",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Jaquet-Droz-J002120105-Hommage-Londres-1774-Chronograph-GMT-Steel-15817.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaquet-droz-j022030201-lorigineopaline-slate-grey-15613",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/brand/jaquet-droz/londres-1774",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/watch/jaquet-droz-j003035209-grande-seconde-ceramique-white-dial-19477",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Jaquet-Droz-J016939202-Majestic-Beijing-Grande-Date-Platinum-20064.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaquet-droz-j017010201-majestic-beijing-grande-heure-minute-ss-19039",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Jaquet-Droz-J017010202-Grande-Heure-Minute-SS-Enamel-Dial-19231.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaquet-droz-j007010244-grande-seconde-quantieme-ss-blue-dial-44240",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaquet-droz-j029030409-grande-seconde-suw-ss-black-dial-59070",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jaquet-droz-j024030201-chrono-grande-datesteel-13556",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://onlywatch.com/jaquet-droz",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaquet-droz-lot-166-21",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaquet-droz-lot-254-24",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaquet-droz-lot-89-21",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-n09696/lot.5.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2011/important-watches/lot.188.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2015/important-watches-n09441/lot.244.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/important-watches-n09879/lot.184.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/7621",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/8694?i=4",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jaquet-droz.com/en/node/8730",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jaquet-droz.com/ru/node/8695",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/?p=310762",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaquet-droz/90033",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaquet-droz/241212",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1704/lot.144.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2010/important-watches-n08631/lot.33.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2019/important-watches-hk0892/lot.2252.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2011/important-watches/lot.23.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1701/lot.10.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-ge1701/lot.11.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2017/important-watches-n09696/lot.67.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaquet-droz-lot-386-440",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaquet-droz-lot-221-322",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/jaquet-droz-lot-80-206",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/artist/13229/jaquet-droz",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/jaquet-droz/228795",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/jacquet-droz/HK080117/1084",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/jaquet-droz/HK090120/106",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/jaquet-droz/HK080224/979",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/jaquet-droz/HK080424/8124",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2026/05/phillips-hong-kong-art-watches-spring-2026-html.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/petite-heure-minute-relief-saisons",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/grande-seconde-sertie-aventurine",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/lady-8-aventurine",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/the-bird-repeater",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/grande-seconde-quantieme-ivory-enamel",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/jaquet-droz/page/4",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2020/05/jaquet-droz-grande-seconde-paillonnee.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://watchesbysjx.com/2015/08/jaquet-droz-introduces-the-grande-heure-minute-quantieme-an-entry-level-steel-gentlemans-wristwatch-with-price.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://quillandpad.com/2020/07/13/jaquet-droz-petite-heure-minute-tiger-so-lifelike-you-expect-it-to-leap-from-the-dial/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.worldtempus.com/watches/petite-heure-minute-red-gold-hummingbird-81667.html",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
