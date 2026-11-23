@@ -1,0 +1,567 @@
+{
+ "marca": "Jaipur Watch Company",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – jaipur.watch: products.json, paginação das coleções (?page=N devolve sempre a 1ª página) e fichas de produto que não aparecem em busca pedem permissão/PROVENANCE_REQUIRED na leitura automática; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://jaipur.watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/en-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/pages/the-brand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/timeless-mirage-b02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/jumping-hour-watch-blue-46mm-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/black-fire-opal-wristwear-silver.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/collections/all-watches",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://jaipur.watch/collections/archived-watches",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://jaipur.watch/collections/coin-watches-1",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jaipur.watch/collections/stamp-watch",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-flip-watch-collection",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://jaipur.watch/collections/jump-hour-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jaipur.watch/collections/ring-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jaipur.watch/collections/automatic-watches",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-baagh-collection",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://jaipur.watch/collections/gaurav-mehta-signature",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-baagh-iv-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-baagh-iii-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-baagh-ii-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-royal-baagh",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/collections/aksha-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/gates-of-india",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jaipur.watch/collections/ekam-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/kings-wristwear-iv",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jaipur.watch/collections/filigree-iv",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jaipur.watch/collections/imperial-2013-re-issue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/rare-earth-jump-hour-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/buy-luxury-watches-online-automatic-stamp-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/collections/buy-luxury-wristwear-watches-online-imperial-v",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-peacock-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/collections/imperial-iv-shop-automatic-wristwear-watches",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://jaipur.watch/collections/the-pice-heritage",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://jaipur.watch/collections/brides-of-jaipur-watch-company-collection",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jaipur.watch/collections/eternal-watch",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jaipur.watch/collections/ravi-varma-collection",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://jaipur.watch/collections/engraved-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jaipur.watch/collections/diamond-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jaipur.watch/collections/special-editions",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://jaipur.watch/products/the-one-7",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/the-one",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/hc08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/stamp-watch-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/stamp-watch-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/maharana-pratap-stamp-watch-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/blue-penny-stamp-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/imperial-iv-automatic-wristwear-ibe03",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/imperial-iv-automatic-wristwear-ibe01",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/imperial-iv-automatic-wristwear-ibe02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/imperial-v-automatic-wristwear",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/iabk05",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/iabk07",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/imperial-i-2013-re-issue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/fil02",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/the-royal-baagh-rbw03",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/hc01",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/hc07",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/hc06",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/hc04",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/bw15",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/the-eternal-wristwear-hc12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/the-eternal-opal-wristwear",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/black-fire-opal-wristwear",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxury.tatacliq.com/jaipur-watch-company-filigree-wristwear-coin-watch/p-mp000000008267673",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/watch-review-jaipur-roman-baagh-steel-with-rupee-coin-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mansworldindia.com/watches/jaipur-watch-company-is-going-upmarket-one-tiger-and-two-dials-at-a-time",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/the-watch-files/watchmaking-in-india/1004115572-jaipur-watch-company-fragments-of-indian-history.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://businesstoday.in/lifestyle/fashion/story/jaipur-watch-company-unveils-limited-edition-timepieces-featuring-rare-king-george-vi-coins-466027-2025-02-26",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.latestly.com/agency-news/business-news-jaipur-watch-company-launches-a-new-coin-based-watch-kings-wristwear-ii-3224936.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.businesstoday.in/lifestyle/fashion/story/jaipur-watch-company-unveils-filigree-iv-a-tribute-to-indias-craftsmanship-and-heritage-501408-2025-11-10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.businesstoday.in/lifestyle/fashion/story/gaurav-mehta-unveils-elephant-ring-watch-celebrating-rajasthans-artistic-heritage-497696-2025-10-10",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://businesstoday.in/lifestyle/fashion/story/jaipur-watch-company-unveils-the-baagh-2-merging-heritage-and-horology-427535-2024-04-30",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thehourmarkers.com/brands/jaipur-watch-company",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://yourstory.com/2015/08/jaipur-watch-company",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mansworldindia.com/watches/not-produce-watches-bulk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/nandi-art-pichwai-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/copy-of-nandi-art-pichwai-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/holy-cow-pichwai-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/fil03",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/lord-shiv-parivar-automatic-watch-silver",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/radha-in-the-moon-light-automatic-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/krishna-automatic-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/varah-avatar-automatic-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/hans-damayanti-automatic-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/silver-engraved-watch-copy-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipurwatchcompany.gumroad.com/l/kww08",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipurwatchcompany.gumroad.com/l/jumping-hour-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/pages/brand-reviews/jaipur-watch-company",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://businessworld.in/article/jaipur-watch-company-launches-unique-postage-stamp-watch-181027",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://openthemagazine.com/feature/wearable-ravi-varma",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://homegrown.co.in/homegrown-supply/the-jaipur-watch-company-blends-traditional-art-heritage-with-contemporary-design",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.business-standard.com/article/specials/an-hour-in-british-india-114061901094_1.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.franchiseindia.com/insights/en/article/jaipur-watch-company-launches-a-new-bespoke-watch.53771",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.businesstoday.in/lifestyle/fashion/story/jaipur-watch-company-unveils-eternal-wristwear-with-striking-red-opal-dial-and-historic-one-pice-coin-471119-2025-04-08",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://businesstoday.in/lifestyle/fashion/story/jaipur-watch-company-unveils-pice-heritage-watch-celebrating-republic-day-460694-2025-01-14",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://designpataki.com/?p=40444",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.indianretailer.com/brandlicense/archives/news/jaipur-watch-companys-raja-ravi-varma-collection-timepieces-pay-tribute-artistic",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://businesstoday.in/lifestyle/fashion/story/jaipur-watch-company-unveils-brides-of-jaipur-collection-inspired-by-citys-architecture-and-jewellery-heritage-446381-2024-09-18",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.businesstoday.in/lifestyle/fashion/story/a-glimpse-of-history-on-your-wrist-a-month-with-jaipur-watch-companys-the-one-497691-2025-10-10",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/fil04",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jaipur.watch/products/filigree-iv-red",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/filigree-iv-black",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/bw01",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jaipur.watch/products/pocket-watch",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.businesstoday.in/lifestyle/fashion/story/heritage-reimagined-jaipur-watch-companys-filigree-iii-collection-out-now-melding-vintage-and-contemporary-vibes-452854-2024-11-07",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.indianjeweller.in/Indian-Jewellery-News/15165/jaipur-watch-company-elevates-womens-collection-with-new-filigree-iii-wristwear",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://luxe.outlookindia.com/watches-jewellery/watches/interview-gaurav-mehta-unveils-jaipur-watch-companys-latest-timepiece-collection",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://luxe.outlookindia.com/watches-jewellery/watches/pm-modis-jaipur-watch-companys-wristwatch-with-1947-coin-brings-indian-craftsmanship-to-the-ai-summit",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gulfnews.com/friday/friday-partner/when-indias-time-takes-centre-stage-1.500383790",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://inc42.com/startups/inside-jaipur-watch-companys-play-to-become-a-%e2%82%b9100-cr-luxury-watch-brand/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://luxe.outlookindia.com/watches-jewellery/watches/jaipur-watch-companys-brides-of-jaipur-collection-glows-with-gemstone-grandeur",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Relógios (v827): 190 linhas tiradas da loja oficial (30 coleções; a loja diz ter 187 relógios ativos + 32 arquivados) e da imprensa. Marca pintada de vermelho: as coleções Coin (130 produtos) e Stamp (94) só mostram a 1ª página para leitura automática, e dezenas de produtos têm o mesmo nome sem código (The One, Stamp Watch, Imperial V…), por isso entraram agrupados com os links na coluna E; ~150 linhas têm na coluna C o link da página do produto, não a foto. Os códigos (BW, KWW, IBE/IGN/IBK, GOI, HC, PB, RBW, EKAM, FIL) são os da loja oficial (a aBlogtoWatch cita 'Reference BW02'). Fundada em 2013 em Jaipur por Gaurav Mehta (site oficial, YourStory, Europa Star)."
+}
