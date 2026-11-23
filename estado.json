@@ -14108,7 +14108,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T00:43:27Z",
-  "ultimo_sinal": "2026-11-23T01:06:05Z",
+  "ultimo_sinal": "2026-11-23T01:10:27Z",
   "em_andamento": {
     "marcas": [
       "Cornavin"
@@ -14123,10 +14123,15 @@
       "2",
       "2c",
       "3",
+      "4",
       "5",
       "6",
       "7",
-      "8"
+      "8",
+      "9",
+      "10",
+      "10b",
+      "2ª passada"
     ],
     "passada": 2,
     "obs": "Cornavin é grande (155+ produtos no site): sozinha. 1ª passada feita (155 produtos oficiais + OH + CO 2010 + vintage achados); falta 2ª passada (vintage). CS Watches e D1 Milano ficam para as próximas."

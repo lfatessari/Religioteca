@@ -1,0 +1,1102 @@
+{
+ "marca": "Cornavin",
+ "usa_codigos": true,
+ "logo": "https://www.cornavin-watches.ch/cdn/shop/files/CORNAVIN_LOGO_-_black_260x.png?v=1613765666",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Bateria de relógios em 23/11/2026 (v809): 193 relógios. Site oficial lista 155 na loja 'All Watches' + 10 Downtown Open Heart Automatic (OH.01–OH.05, esgotados) só na coleção própria. Fora do site: linha anterior Downtown Chronograph 44 mm (CO 2010-xxxx, Digitec/Galaxus/Luxoia/Catawiki), CO 2021-2037/2038/2040 (Luxoia) e peças vintage. Marca VERMELHA: há centenas de anúncios de Cornavin vintage (eBay: 164–240 resultados), muitos feitos na URSS (Raketa, Poljot, Vostok, ZIM) para exportação nos anos 1970–80, sem nome nem referência; só os modelos com nome/característica distinta viraram linha. Ainda a verificar em I: a página About Us diz fundação em 1922 em Genebra e revival pela família Najari no início dos anos 2000 (Omar Najari CEO, Souraya Najari COO; caixa Downtown criada por Bachar Najari); o fórum watchprosite (citando Time2tell) diz que Walter Gygax lançou a Cornavin Watch em Genebra em 1949 e que ela faliu em 1959; o chronopedia.club cita Adolf Müller e Cornavin Watch SA (1966). I e J não citam as linhas Downtown Sky, Downtown Sport 41 mm e Open Heart. Fotos dos CO 2010-xxxx vêm da Luxoia/Galaxus. K: logo do cabeçalho do site oficial.",
+ "fontes": [
+  {
+   "url": "https://cornavin-watches.ch/",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches?page=2",
+   "passada": 1,
+   "novos": 48
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches?page=3",
+   "passada": 1,
+   "novos": 48
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches?page=4",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-01-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-01-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-02-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-02-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-03-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-03-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-04-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-04-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-05-b-anniversary-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-06-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-at-07-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2001r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2002r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2003r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2005r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2006r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2007r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2009r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2010r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2011r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2012r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2013b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2014b-diamond-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2015r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2016r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2018r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2019r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2021r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2022r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2012-2023r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2013",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2015",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2016",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2019",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2013-2021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2004",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2005",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2006",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2007",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2008",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2013-diamond-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2014",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2015",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2016",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2018",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2019",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2023-diamond-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2024-diamond-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2027",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2029",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2030",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2031",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2032",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2033",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2035",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2036",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2039",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2042",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2043",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2045",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2046",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2047",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2048",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2049",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2050-diamond-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2051-diamond-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-2021-2052",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd01b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/uhr-bd01l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd02b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd02l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd03b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd03l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd04b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd04l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd05b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd05l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd06b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd06l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd07b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd07l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd08b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd08l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd09b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd09l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd10b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-cobd10l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-11-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-11-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-12-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-12-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-14-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-14-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-16-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-16-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-17-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-bd-17-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-01-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-02-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-03-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-04-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-05-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-06-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-06-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-07-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-08-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-09-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-09-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-ds-15-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-01-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-02-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-03-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-04-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-05-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-06-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-07-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-08d-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-08d-dw-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-09d-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-10d-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-co-sky-11d-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-01-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-01-d-b-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-01-d-w-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-01-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-02-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-02-d-b-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-02-d-w-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-02-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-03-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-03-d-b-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-03-d-w-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-03-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-04-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-04-d-b-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-04-d-w-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-04-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-05-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-05-d-b-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-05-d-w-diamond-edition-42mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-05-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-06-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/all-watches/products/cornavin-sk-06-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/blogs/cornavin-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-01-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-01-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-02-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-02-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-03-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-03-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-04-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-04-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-05-r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-open-heart-automatic/products/cornavin-oh-05-b",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/women-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-3-h",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cornavin-watches.ch/collections/downtown-sport",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/producttype/toplist/brand/wristwatches-163/cornavin-16906",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004096081-cornavin-downtown.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004097162-cornavin-cornavin-downtown-sport-collection.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/cornavin-downtown-co-2010-2012-chronograph-44-mm-wristwatches-17435287",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/cornavin-downtown-co-2010-2026-chronograph-44-mm-wristwatches-17385213",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/cornavin-downtown-co-2010-2008-chronograph-44-mm-wristwatches-15466427",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/cornavin-downtown-diamond-edition-chronograph-wristwatches-21180552",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/0-inventory/products/cornavin-decompression-dial-dive-watch-as08719",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.vintagewatchroom.com/product-page/1970-s-cornavin-geneve-liberty-coin-gents-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.luxoia.com/en/cornavin/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.uhrenschmuck24.ch/en/marken/cornavin.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://iguanasell.com.au/collections/cornavin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Cornavin-Watches-Parts-Accessories/260324/bn_2188640",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105287775-cornavin-downtown-chronograph-co2010-2017-men-2020",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://hairspring.com/finds/p810-cornavin-amf-diver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/blogs/finds/p810-cornavin-amf-diver-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ewatcheshouse.com/en/vintage/748-cornavin-poljot-classic-1975.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sovietwatchstore.com/product/vintage-mechanical-cornavin-raketa-wrist-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bulangandsons.net/collections/cornavin.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeline.watch/?p=770",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/p/22049112634",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/cornavin-dive-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/LongTime/posts/cornavin-495439",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/cornavin/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/cornavin-big-date-analogue-wristwatch-43-mm-wristwatches-13499604",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/cornavin-downtown-3-h-automatic-anniversary-edition-42-mm-wristwatches-46790395",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/cornavin-ref-p810-lot-321-630?page=0",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/fr/l/98954725-cornavin-calatrava-sans-prix-de-reserve-homme-1950-1959",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/105518703-cornavin-downtown-chronograph-co2010-2017-men-2020",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Cornavin-Analog-Wristwatches/bn_80619238",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://chronopedia.club/Cornavin",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/cornavin-pentaflex.537866/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://relojes-especiales.com/threads/cornavin-15-jewels.467385/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sovietwatchstore.com/product/cornavin-wostok-soviet-mechanical-vintage-watch-3/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://sovietwatchstore.com/product/cornavin-wostok-soviet-mechanical-vintage-watch/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timekeepersclayton.com/?p=29893",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://reach.dog/shop/ticktock-guru/products/113372765",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/page-wf.forumpost/fi-17/ti-1722336/dv-true/wf.responses.open_bLoB_s-0/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sovietwatchstore.com/index.php/product/vintage-mechanical-cornavin-raketa-wrist-watch-3/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004093411.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/266936498991",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.vinted.fr/brand/1343922-cornavin",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
