@@ -14339,7 +14339,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-23T09:43:17Z",
-  "ultimo_sinal": "2026-11-23T09:52:22Z",
+  "ultimo_sinal": "2026-11-23T09:57:20Z",
   "em_andamento": {
     "marcas": [
       "Jacques Lemans"
@@ -14350,9 +14350,16 @@
     "fontes": "historico/parcial_JacquesLemans_store.json (campo src) + notas",
     "notas": "historico/notas_JacquesLemans.md",
     "secoes_feitas": [
-      "2"
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
     ],
-    "passada": 1,
+    "passada": 3,
     "obs": "Huguenin adiada (ADIADAS no proxima_marca.py); Jacques Lemans grande, sozinha"
   }
 }
