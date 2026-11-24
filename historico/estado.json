@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1083,
-  "ultima_versao": 841,
+  "proxima_linha_marcas": 1084,
+  "ultima_versao": 842,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14669,6 +14669,25 @@
         ]
       },
       "obs": "Joop (2ª da lista) tratada como grande: fica sozinha na próxima execução. Firecrawl sem créditos; site oficial pediu permissão."
+    },
+    {
+      "data": "2026-11-24",
+      "versao": 842,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Joop"
+      ],
+      "relogios": 127,
+      "linhas": "125567-125693",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 77,
+      "site_bloqueado": "parcial",
+      "lacunas": {
+        "Joop": [
+          "K"
+        ]
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
