@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1096,
-  "ultima_versao": 850,
+  "proxima_linha_marcas": 1098,
+  "ultima_versao": 852,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14876,6 +14876,60 @@
         ]
       },
       "obs": "Junghans (próxima) é grande: sozinha na próxima execução. Pendências 30–32 da Adriatica já estavam na planilha."
+    },
+    {
+      "versao": 851,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Junghans"
+      ],
+      "linhas_relogios": "126539-127307",
+      "relogios": 769,
+      "fontes": 68,
+      "passadas": {
+        "1": [
+          40,
+          519
+        ],
+        "2": [
+          11,
+          231
+        ],
+        "3": [
+          17,
+          23
+        ]
+      },
+      "vermelho": true,
+      "grande": true,
+      "lacunas": {
+        "Junghans": [
+          "K"
+        ]
+      },
+      "obs": "Marca grande sozinha; K (logo) pelo marca.json. Firecrawl com créditos (catálogos PDF do arquivo oficial). Junkers e Justex ficam para a próxima."
+    },
+    {
+      "versao": 852,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Junkers"
+      ],
+      "linhas_marcas": [
+        1098
+      ],
+      "relogios": 356,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 53,
+      "passadas": {
+        "1": 41,
+        "2": 12
+      },
+      "obs": "Firecrawl sem créditos no meio da execução; sem lote de dados (Junkers sem células vazias)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

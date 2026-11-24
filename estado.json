@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1097,
-  "ultima_versao": 851,
+  "proxima_linha_marcas": 1098,
+  "ultima_versao": 852,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14909,6 +14909,27 @@
         ]
       },
       "obs": "Marca grande sozinha; K (logo) pelo marca.json. Firecrawl com créditos (catálogos PDF do arquivo oficial). Junkers e Justex ficam para a próxima."
+    },
+    {
+      "versao": 852,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Junkers"
+      ],
+      "linhas_marcas": [
+        1098
+      ],
+      "relogios": 356,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 53,
+      "passadas": {
+        "1": 41,
+        "2": 12
+      },
+      "obs": "Firecrawl sem créditos no meio da execução; sem lote de dados (Junkers sem células vazias)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15016,32 +15037,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T15:43:31Z",
-  "ultimo_sinal": "2026-11-24T16:05:43Z",
-  "em_andamento": {
-    "marcas": [
-      "Junkers"
-    ],
-    "linha_marcas": 1098,
-    "grande": true,
-    "relogios": "historico/parcial_Junkers_relogios.txt",
-    "fontes": "historico/parcial_Junkers_fontes.txt",
-    "notas": "historico/notas_Junkers.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada"
-    ],
-    "passada": 1,
-    "obs": "gravando v852"
-  }
+  "adiadas_obs": {}
 }
