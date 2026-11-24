@@ -1,5 +1,5 @@
-# Bateria IXDAO, J&Berg, J.N. Shapiro (22/11/2026)
-- Sites oficiais (ixdao.watch, jbergwatches.com, jnshapirowatches.com): PROVENANCE_REQUIRED no ajudante web-fetch -> L. Firecrawl sem créditos (renova 13:43 UTC).
-- IXDAO = IX&DAO, vendida também como "IPOSE". Modelos: 5303, 5305 (California), JD-X02T bronze, X02T titânio, GMT (IXDAO-01), Engineer PT5000, New Warrior 37mm (2026), JD-6542 GMT (aba Marcas), 5305 Professional Dive.
-- J&Berg: só B2 (Turquoise, Copper, Dark Brown 2023; Blue, Green 2025). 1º lote 300 peças, 100 por cor.
-- JN Shapiro: Infinity Series (2018, ~100 peças, ouro/platina/aço), P.01 Meteorite (Collective, 2020), Infinity Tantalum (2021, 26 pcs), Resurgence (2023, Caliber 26), Infinity Series Pure (2025, prata/preto, Davidson & Licht ed.), Infinity Series Radiant chrono (2026, tântalo, meteorito / zircônio azul), Escapement chrono 14 pcs aço (Boston), colaborações Ming 37.06 Lightning, Zenith GFJ double signed, Habring2 Erwin LAB03 Massena.
+# Bateria v848: J.T. Winnerl, Jugbitten, Juha Eskola (início 11:45 UTC)
+Firecrawl sem créditos. Sites oficiais winnerl.ch e juhaeskola.com: PROVENANCE_REQUIRED (ajudante web-fetch). jugbitten.com direto falhou, mas www.jugbitten.com via busca abriu.
+## Winnerl: Founder's 596 (WG, grené azul), 597 (ouro rosa, esmalte branco), 598 (platina, esmalte preto), Tremblage 601-606 (6 pç, WG, dial ouro rosa martelado), protótipo 595, Heart Return (2026, aço, 12 pç: 6 cinza ACM + 6 azul). Monochrome 2020/2022/2026, cat. Masterhorologer falhou.
+## Juha Eskola: N1 (2021/2023, aço 41.7, ETA 6497/6498, €6.200), N2 small seconds (37mm ouro, Longines 30L), N2 Moonphase aço €13k / ouro 14k €15k (2026). IG @juhaeskolawatches, site juhaeskola.com, Helsinki.
+## Jugbitten: °363 Refined 36 (363522) €349, 39 (363521) €349, Kuro Cerakote 39 (363530) €399. Jugbitten Oy, Kajaani (privacy policy) — C atual 'Kuhmo' errado? IG @jugbittenwatches, logo jugbitten.com/images/jugbitten-mark.png, EST 2025.

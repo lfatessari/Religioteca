@@ -14906,7 +14906,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T11:44:41Z",
-  "ultimo_sinal": "2026-11-24T11:44:41Z",
+  "ultimo_sinal": "2026-11-24T11:58:54Z",
   "em_andamento": {
     "marcas": [
       "J.T. Winnerl",
@@ -14918,7 +14918,10 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "secoes_feitas": [
+      "pesquisa concluída; gravando"
+    ],
+    "passada": 1,
+    "obs": "dados/marca.json em historico/ (dados_winnerl, dados_jugbitten, dados_eskola, lote_848.json)"
   }
 }

@@ -1,0 +1,101 @@
+{
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "marca": "Jugbitten",
+ "correcoes": {
+  "C": "Kajaani"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.jugbitten.com/",
+   "https://jugbitten.store/privacy-policy/"
+  ]
+ },
+ "observacoes": "Corrigido C: Kuhmo → Kajaani (site oficial diz 'based in Kajaani'; política de privacidade da loja: Jugbitten Oy, Syväojankatu 3a, 87700 Kajaani). O Microbrand Atlas ainda diz Kuhmo e fundação em 2024; o site oficial diz 'EST. 2025'. Catálogo de 3 relógios na loja oficial, batendo com o Microbrand Atlas (que mostra as versões de 2025, antes da 'Refined').",
+ "fontes": [
+  {
+   "url": "https://www.jugbitten.com/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jugbitten.com/about/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jugbitten.com/watches/363-kuro/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jugbitten.store/shop-at/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jugbitten.store/privacy-policy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jugbitten.store/shop/363-automatic-36mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jugbitten.store/shop/363-automatic-39mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jugbitten.store/shop/363-kuro-cerakote/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://linktr.ee/jugbitten",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/jugbitten/posts/first-look-my-upcoming-microbrand-watch-project-launch-on-august-855412",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/jugbitten/posts/just-launched-968718",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jugbitten.store/shop/jb-classic-milanese-20mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://microbrandatlas.com/brand/jugbitten",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jugbitten.store/shop/jb-shark-mesh-20mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesoffinland.com/watchmakers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesoffinland.com/watchmakers/12",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
