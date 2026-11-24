@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1094,
- "ultima_versao": 848,
+ "proxima_linha_marcas": 1095,
+ "ultima_versao": 849,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14823,6 +14823,40 @@
    },
    "dados": "Winnerl CGH; Jugbitten HIK (+C corrigido Kuhmo→Kajaani); Juha Eskola BDEFGHIJK",
    "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch; winnerl.ch parcial (L)"
+  },
+  {
+   "versao": 849,
+   "data": "2026-11-24",
+   "tipo": "passada_unica",
+   "marcas": [
+    "Jules Jürgensen"
+   ],
+   "linhas_relogios": "126457-126525",
+   "relogios": 69,
+   "por_marca": {
+    "Jules Jürgensen": 69
+   },
+   "vermelho": true,
+   "grande": true,
+   "fontes": {
+    "Jules Jürgensen": 71
+   },
+   "passadas": {
+    "1": [
+     42,
+     43
+    ],
+    "2": [
+     14,
+     12
+    ],
+    "3": [
+     15,
+     14
+    ]
+   },
+   "dados": "G, H, K não achados (marca sem site/Instagram oficial; só M)",
+   "obs": "Marca grande sozinha; Julien Coudray 1518 e Junghans (grande) ficam para as próximas. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14930,31 +14964,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-24T12:45:15Z",
- "ultimo_sinal": "2026-11-24T12:58:39Z",
- "em_andamento": {
-  "marcas": [
-   "Jules Jürgensen"
-  ],
-  "linha_marcas": 1095,
-  "grande": true,
-  "relogios": "historico/parcial_julesjurgensen_relogios.txt",
-  "fontes": "historico/parcial_julesjurgensen_fontes.txt",
-  "notas": "historico/notas_julesjurgensen.md",
-  "secoes_feitas": [
-   "1",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "2a passada",
-   "3a passada",
-   "10b"
-  ],
-  "passada": 3,
-  "obs": "Jules Jürgensen é grande (linha vintage extensa): sozinha nesta execução; Julien Coudray 1518 e Junghans ficam para as próximas; pesquisa encerrada (69 relógios, 71 fontes), gravando v849"
- }
+ "adiadas_obs": {}
 }
