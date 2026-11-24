@@ -1,0 +1,608 @@
+{
+ "marca": "Juvenia",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – juvenia.com não abre para leitura automática (pede permissão); juvenia.ch abre só como texto (sem fotos) e as páginas 2 e 3 da coleção Classic dão erro; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios: 70 do site oficial juvenia.ch em nov/2026 (J Collection, Sextant III, Classic 96/97, Classic Trompe l'œil, Slimatic, Planet, Biarritz, Dragon e Tourbillon), mais 77 modelos antigos e descontinuados vistos em leilões, lojas e imprensa (Arithmo, Mystère, Sextant vintage, cronógrafos, Golden Age, Saturne, Modèle 888, Mère des Tigres, Long Feng, coin watches etc.). O site oficial só deixa ler o texto: as fotos dos modelos atuais ficaram com o link da página do produto. A coleção Classic tem 42 modelos, mas as páginas 2 e 3 da lista não abriram (só 19 achados). Marca pintada de vermelho: centenas de referências antigas à venda (113 no EveryWatch, 117 lotes na Bidsquare, 157 anúncios no eBay.de) sem nome de modelo; o EveryWatch exige login. Corrigido: G juvenia.com → juvenia.ch (juvenia.com não abre; todas as páginas oficiais estão em juvenia.ch, e a Masterhorologer aponta juvenia.ch); J 'Sextant, Planante, Mystère, coleções de joalheria' → nomes do site oficial ('Planante' não existe; o modelo é Planet). Ainda a verificar em I: a marca foi fundada em Saint-Imier (1860) e a sede passou a La Chaux-de-Fonds em 1882 (The Vintageur); foi comprada pela Ebel em 1981 e pela Asia Commercial Holdings (Hong Kong) em 1988 (Wikipedia, The Vintageur parte III) — o texto atual não cita os donos e mantém '[⚠️ verificar]'.",
+ "correcoes": {
+  "G": "juvenia.ch",
+  "J": "Sextant — relógio de 1940 com ponteiros em forma de transferidor, régua e compasso; hoje Sextant III\n\nArithmo — de 1945, com régua de cálculo na luneta, citado como o primeiro relógio-calculadora\n\nMystère — de 1947, mostrador \"misterioso\" com discos no lugar dos ponteiros\n\nPlanet, J Collection, Classic e Dragon — coleções do site oficial"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://www.juvenia.ch/j-collection",
+   "https://masterhorologer.com/juvenia-watches/"
+  ],
+  "J": [
+   "https://www.juvenia.ch/the-juvenia-story",
+   "https://www.juvenia.ch/sextant",
+   "https://www.juvenia.ch/planet",
+   "https://www.juvenia.ch/j-collection"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.juvenia.ch/j-collection",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.juvenia.ch/sextant",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.juvenia.ch/sxa2.4.G94.20",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/product-landing.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/the-juvenia-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/collectors-item",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.juvenia.ch/planet",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.juvenia.ch/juvenia-world",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/sxa1.6.096.21",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/sxa2.4.094.20",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/j-collection?page=2",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.juvenia.ch/j-collection-ladies/pra2.4.514.20",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/wta1.6.556.21",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/dta2.4.014.20",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/mpa1.6.016.21",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/pra1.7.516.21",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Juvenia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thevintageur.com/wristory/the-great-history-of-juvenia-part-i-1860-1940/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/juvenia-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronopedia.club/Juvenia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/juvenia/watch-31153153",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/juvenia/watch-30878327",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/juvenia/watch-14077642",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/juvenia/watch-30731433",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/juvenia/watch-15753984",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/juvenia/watch-1871506",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/juvenia/watch-31818329",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/juvenia/160473",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/juvenia/97359",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/JUVENIA/CH080016/54",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/artist/13671/juvenia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/watches/products/juvenia-arithmo-calculator-as12210",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/juvenia-sextant-avant-garde-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112334-juvenia-sextant.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/the-juvenia-disco-volante-pic-heavy.152909/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/juvenia/jewelry/watches",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/juvenia-vintage-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchestobuy.com/brand/juvenia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kronos360.com/en/luxury-watches/juvenia",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/sla1.6.536.21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.juvenia.ch/sla1.6.638.21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thevintageur.com/fr/wp-json/wp/v2/posts/62516",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://masterhorologer.com/2008/08/03/juvenia-long-feng-limited-edition/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2008/04/03/juvenia-marquise-mecanique/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bruceswwatchworld.blogspot.com/2023/08/juvenia.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004098469-juvenia-mystere-silver.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004098541-juvenia-mystere.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/swisstime/1004102617-juvenia-mystere.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/1000559202-excentrique-by-juvenia.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1000559267.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/juvenia-mystere-lot-346-170",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004103816-juvenia-saturne.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004108406-juvenia-modele-888.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004101960-juvenia-golden-age.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095075-juvenia-mere-des-tigres.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004095104-juvenia-classique.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004094921-juvenia-diamond-spirit.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112892-juvenia-slim.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112532-juvenia-contresens-black-dial.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112533-juvenia-contresens-blue-dial.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112336-juvenia-planet.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/swisstime/1004112875-juvenia-excentrique.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/shop/juvenia",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://www.bidsquare.com/collection/designer/juvenia-1466",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.liveauctioneers.com/item/237188131",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/20010210",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bobswatches.com/vintage-juvenia-cocktail-18k-yellow-gold.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-juvenia-mystery-dial-mens-mechanical-wristwatch-mf6-swiss-plastic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-33mm-juvenia-military-style-mens-mechanical-wristwatch-swiss-steel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/13673.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://mentawatches.com/?p=1966",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchestobuy.com/shop/1950s-juvenia-chronograph/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-74-3",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.aguttes.com/en/lot/147023/24677849-juvenia-no-705548-vers-1960-montre-bracelet-de-dame-acier",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/22936959-juvenia-vers-1925",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.proantic.com/en/1611692-a-vintage-18ct-gold-juvenia-automatic-ladies-wristwatch.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.proantic.com/en/print/fiche_objet.php?id=529566",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://secondhandhorology.com/products/1950s-juvenia-watch-swiss-made-17-jewels-vintage-wristwatch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/juvenia-ss-automatic-circa-1950s-2/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tryrelic.app/antiques/juvenia-mystery-dial-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/203780494545",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/dra1.6.R00.21",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-126-259",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/juvenia-lot-307-14",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/juvenia-lot-381-371",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-56-258",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-101-371",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/important-watches-n09879/lot.283.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://loupethis.com/auctions/juvenia-arithmo-calculator-watch-steel-and-gold",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicdriver.com/de/watch/juvenia/1970/419881",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://uhren-muser.de/en/archives/106/55381",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.proantic.com/en/print/fiche_objet?id=1552058",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/biarritz",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.juvenia.ch/classic",
+   "passada": 3,
+   "novos": 15
+  },
+  {
+   "url": "https://www.juvenia.ch/9781.6.154.00",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/9793.6.254.20",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/9794.6.354.21",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/9794.6.374.21",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/9681.6.154.21",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/clq6.6.111.21",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.juvenia.ch/clq6.7.251.20",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.juvenia.ch/bib3.4.470.04",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.juvenia.ch/bib3.4.970.04",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.juvenia.ch/tbc1.6.646.21",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristreview.com/juvenia-manufacture-sextant-watch/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/juvenia/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/juvenia-stainless-steel-arithmo-1st-calculator-wristwatch/id-j_2001113",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/pocket-watches/juvenia-yellow-gold-skeleton-pocket-watch-circa-1980s/id-j_218548",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://drouot.com/en/l/25358192-juvenia-uhr-in-weigold-750-mit",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.juvenia.ch/clq6.6.153.21",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.juvenia.ch/ctq1.6.251.20",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://asset.everywatch.com/juvenia/watch-13324290",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/creators/juvenia/jewelry",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.velvetboxsociety.com/juvenia.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/en-int/products/juvenia-arithmo-calculator-as12210",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kronos360.com/en/luxury-watches/juvenia/man",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
