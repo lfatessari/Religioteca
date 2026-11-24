@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1082,
-  "ultima_versao": 840,
+  "proxima_linha_marcas": 1083,
+  "ultima_versao": 841,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14646,6 +14646,29 @@
           "K"
         ]
       }
+    },
+    {
+      "versao": 841,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas": [
+        "John Isaac Geneve"
+      ],
+      "relogios": {
+        "John Isaac Geneve": 12
+      },
+      "fontes": {
+        "John Isaac Geneve": 18
+      },
+      "vermelho": false,
+      "site_bloqueado": true,
+      "lacunas": {
+        "John Isaac Geneve": [
+          "H",
+          "K"
+        ]
+      },
+      "obs": "Joop (2ª da lista) tratada como grande: fica sozinha na próxima execução. Firecrawl sem créditos; site oficial pediu permissão."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14753,30 +14776,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T04:43:04Z",
-  "ultimo_sinal": "2026-11-24T04:53:22Z",
-  "em_andamento": {
-    "marcas": [
-      "John Isaac Geneve"
-    ],
-    "linha_marcas": 1083,
-    "grande": false,
-    "relogios": "historico/parcial_JohnIsaacGeneve_relogios.txt",
-    "fontes": "historico/parcial_JohnIsaacGeneve_fontes.txt",
-    "notas": "historico/notas_JohnIsaacGeneve.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Joop (2ª da lista) tratada como grande (grife com licenças desde os anos 1990, centenas de referências na Zalando/eBay): fica sozinha na próxima execução."
-  }
+  "adiadas_obs": {}
 }

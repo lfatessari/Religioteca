@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1082,
-  "ultima_versao": 840,
+  "proxima_linha_marcas": 1083,
+  "ultima_versao": 841,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14646,6 +14646,29 @@
           "K"
         ]
       }
+    },
+    {
+      "versao": 841,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas": [
+        "John Isaac Geneve"
+      ],
+      "relogios": {
+        "John Isaac Geneve": 12
+      },
+      "fontes": {
+        "John Isaac Geneve": 18
+      },
+      "vermelho": false,
+      "site_bloqueado": true,
+      "lacunas": {
+        "John Isaac Geneve": [
+          "H",
+          "K"
+        ]
+      },
+      "obs": "Joop (2ª da lista) tratada como grande: fica sozinha na próxima execução. Firecrawl sem créditos; site oficial pediu permissão."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
