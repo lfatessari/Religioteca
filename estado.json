@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1106,
-  "ultima_versao": 856,
+  "proxima_linha_marcas": 1107,
+  "ultima_versao": 857,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15082,6 +15082,42 @@
         ]
       },
       "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Lacunas H/K e C/K não achadas. Próxima: Kari Voutilainen (tratada como grande, sozinha)."
+    },
+    {
+      "versao": 857,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kari Voutilainen"
+      ],
+      "linhas_marcas": [
+        1107
+      ],
+      "linhas_relogios": "127895-128003",
+      "relogios": 109,
+      "por_marca": {
+        "Kari Voutilainen": 109
+      },
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Kari Voutilainen": 104
+      },
+      "passadas": {
+        "1": [
+          65,
+          99
+        ],
+        "2": [
+          28,
+          20
+        ],
+        "3": [
+          11,
+          7
+        ]
+      },
+      "obs": "Grande e vermelha (peças únicas sob encomenda). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Nenhuma célula vazia na aba Marcas; C (Môtiers x St-Sulpice) só anotado em M. Próximas: Karl-Leimon e Karsten Fraessdorf."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15189,30 +15225,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T20:43:43Z",
-  "ultimo_sinal": "2026-11-24T20:59:52Z",
-  "em_andamento": {
-    "marcas": [
-      "Kari Voutilainen"
-    ],
-    "linha_marcas": 1107,
-    "grande": true,
-    "relogios": "historico/parcial_Kari_Voutilainen_relogios.txt",
-    "fontes": "historico/parcial_Kari_Voutilainen_fontes.txt",
-    "notas": "historico/notas_Kari_Voutilainen.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "passada": 3,
-    "obs": "Pesquisa concluída (114 fontes, 109 relógios); falta gravar com historico/dados_Kari_Voutilainen.txt e marca_Kari_Voutilainen.json"
-  }
+  "adiadas_obs": {}
 }
