@@ -1,0 +1,541 @@
+{
+ "marca": "Jorg Gray",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 24/11/2026 (v844), marca grande e VERMELHA: há muito mais variantes que não deu para confirmar (cada série tem várias cores: -11, -12, -13, -21, -22, -23, -24, -31, -33...). Referências vistas só num resumo da lista de cronógrafos do eBay de Israel, sem confirmação: JG8800-21/-22/-23 (camuflado), JG9500-11/-12, JG6600-24, JG7800-21, JG8300 (outras), JG5600-23, JG6550L, JG6900-22, JG7100-22, JG9100-22 (título de página antiga do site oficial que não abre mais). Coleções do site oficial (Covert, Embolden) sem referências publicadas. Site oficial: páginas de coleção não mostram a grade de produtos na leitura automática; só abriram fichas individuais. Firecrawl sem créditos. Corrigido: C 'Califórnia' → 'Tustin' (Wikipedia e página de história da Jura Watches: empresa de Tustin, Califórnia; endereço 1201 Bell Ave, Tustin). Ainda a verificar: J cita 'JG6300', que não apareceu em nenhuma fonte; fundação: a Wikipedia e a Jura dizem 1998 (linha da Logomark, Inc., brindes corporativos), o site oficial diz 2009 (início das vendas no varejo).",
+ "correcoes": {
+  "C": "Tustin"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://en.wikipedia.org/wiki/Jorg_Gray",
+   "https://jurawatches.co.uk/pages/jorg-gray-watches-history"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://jorggray.com/products/jg6500-71",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg6500-commemorative-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg7100-21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/collections/womens-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/jorg-gray-watches.oembed?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-jg9800-series-watch-jg9800-24-jg-132.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/products/jorg-gray-jg6500-21-watch-jg-191.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/jorg-gray-watch-jg6800-series-jg6800-21-jg-271.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/products/jg6500-21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg8300-24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jorg-gray-jg6800-21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://au.shadestation.com/Jorg-Gray-Watches.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/pages/jorg-gray-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/jorg-gray-watches/subcat-jg6500-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/jorg-gray-watches/gender-ladies",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jorg_Gray",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/jorg-gray/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/jorg-gray-jr9400-21-watch-review",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://usa.watchpro.com/tag/jorg-gray",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/products/jg6500-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg1200-14",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg1200-13",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg6600-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg6600-21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG6500",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG9600-13",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG5100-31",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG1500-21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG1400-12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG8300-12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-watch-signature-collection-jgs2561-jg-260",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-jg9700-23-watch-jg-224",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-jg1400-12-watch-jg-176",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/5664442-jorg-gray-introduces-2011-autumn-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/5663112-jorg-gray-into-a-new-market",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/jorg-gray/day-date/day-date-jg1320-12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.massdrop.com/buy/jorg-gray-3500-series-chronograph-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/review-of-the-jorg-gray-1900-14-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg6900-21n",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg6900-22n",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jorg-gray-jg7800-11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jorg-gray-jg7800-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/jorg-gray-jg3700-watches",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG8700-12",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/144855155197",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/145641355431",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/170951856899",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/275531037896",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/196794376123",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/322427737857",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/?p=736",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=18338",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/?p=15605",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://davidgleavitt.blogspot.com/2016/05/review-of-jorg-gray-jg6500-automatic.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.woot.com/offers/mens-stainless-steel-watch-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/stainless-steel-chronograph-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebth.com/items/4929800-jorg-gray-black-leather-chronograph-wristwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/pages/jorg-gray-watches-history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/products/jorg-gray-jg8400-21",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jorg-gray-jg8400-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg7600-34",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg7600-33",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.prweb.com/releases/define_your_time_with_jg_signature_by_jorg_gray/prweb11820124.htm",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jckonline.com/?p=24211",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-signature-collection-jgs2580-watch-jg-234",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-jg8300-11-watch-jg-204",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-jg9700-22-watch-jg-223",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG2500-22",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.com.cy/products/78745427",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.newegg.com/p/00I-008Z-00122",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/Jorg-Gray/JG1500-24",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://us.shadestation.com/designer-watches/Jorg-Gray/JG1500-22",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg1400-11",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/products/jg1400-14",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristreview.com/?p=4655",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchreport.com/jorg-gray-jg8700-11-watch-review/2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/jorg-gray-jg1900-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=304411",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/blogs/watch-news/47229636-jorg-gray-embrace-style-and-design",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreviewblog.com/?p=2275",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebth.com/items/8302009-jorg-gray-jg9800-23-two-tone-wristwatch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/4923080-stainless-steel-jorg-gray-wristwatch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebth.com/items/4933004-jorg-gray-stainless-steel-wristwatch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://woot.com/offers/jorg-gray-watch-32",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.woot.com/offers/mens-black-leather-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.woot.com/offers/mens-black-blue-silicone-chronograph",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/304586748249",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/jorg-gray-jg6500-44-watch-jg-193",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/jorg-gray-watch-27",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://grokipedia.com/page/jorg_gray",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/b/Jorg-Gray-Unisex-Adults-Analog-Wristwatches/31387/bn_90398213",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://il.ebay.com/b/Jorg-Gray-Wristwatches-with-Chronograph/31387/bn_7112190990",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://jorggray.com/collections/limited-sports-edition",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/products/jg6700-11-ben-spies-limited-edition",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jorggray.com/collections/presidential-collection",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/collections/the-aristocrat",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/collections/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://jorggray.com/",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.globenewswire.com/news-release/2017/05/31/1253595/0/en/Jorg-Gray-to-Showcase-Three-New-Watch-Collections-at-JCK-Las-Vegas.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.woot.com/offers/womens-stainless-steel-chronograph",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://accessories.woot.com/offers/womens-jorg-gray-chronograph",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/157059721881",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com.au/itm/177181489526",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
