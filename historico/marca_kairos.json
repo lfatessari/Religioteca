@@ -1,0 +1,177 @@
+{
+ "marca": "Kairos",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Site oficial parado: produtos em pré-venda com entrega prevista para a primavera de 2017 e estoque zerado. As 3 pulseiras T-Band entraram por serem produto central da marca (coluna J), mas não são relógios. B 'Coreia do Sul': a página de notícias oficial cita a Forbes ('fundada em Seul e sediada em Hong Kong'); a SCMP chama a Kairos de start-up de Hong Kong; o rodapé das páginas de produto traz endereço em San Francisco. Fundador: Sam Yang (aBlogtoWatch, SCMP). Não listado por falta de dados: 'MWC 115B', citado só na página de notícias.",
+ "fontes": [
+  {
+   "url": "https://kairoswatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_dot_matrix",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_dot_matrix",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/tbands/tband",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/contact",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_icon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_icon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_dot_matrix/chrome",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_dot_matrix/gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_dot_matrix/black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/tbands/tband/od",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/tbands/tband/nd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/tbands/awatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/tbands/tband-awatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/faq",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_dot_matrix/chrome",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_dot_matrix/gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_dot_matrix/black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_icon/chrome",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_icon/gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/msw_icon/black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_icon/chrome",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_icon/gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/watches/ssw_icon/black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kairoswatches.com/tbands/tband/hd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wareable.com/smartwatches/stunning-kairos-msw-and-ssw-hybrid-smartwatches-hit-pre-order-440",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.imore.com/kairos-hybrid-mechanical-smartwatch-transparent-screen-preorder",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/kairos-smartwatch-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/the-kairos-mechanical-smart-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.scmp.com/lifestyle/technology/start-ups/article/1762195/hong-kong-smartwatch-maker-kairos-signs-global",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cnx-software.com/2014/12/09/kairos-t-band-is-a-smart-watchband-for-your-dumb-watch-crowdfunding/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

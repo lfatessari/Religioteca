@@ -1,0 +1,46 @@
+{
+ "marca": "JWalker Watch Co.",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "so_site_oficial": {
+  "dominio": "jwalkerwatch.com",
+  "motivo": "Marca fundada em 2025; buscas 'JWalker Watch Co. watches', '\"JWalker\" \"New Deco\" watch', 'jwalkerwatch.com Ryan Walker Groton', códigos TND-761/TND-720/DDM-571 e redes sociais não trouxeram nenhuma loja, imprensa ou banco de dados de fora."
+ },
+ "observacoes": "Relógios gravados só com o site oficial (exceção do usuário de 23/11/2026): nenhuma fonte de fora encontrada em 5 buscas. Ficaram de fora The Simulation Deco, The Field Deco (lançamento previsto 1º/04/2027) e The Literary Deco, anunciados no /shop sem preço.",
+ "fontes": [
+  {
+   "url": "https://jwalkerwatch.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jwalkerwatch.com/shop",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jwalkerwatch.com/the-new-deco",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jwalkerwatch.com/the-new-deco-36mm",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://jwalkerwatch.com/the-moderne",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://jwalkerwatch.com/our-story",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
