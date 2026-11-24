@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1079,
-  "ultima_versao": 839,
+  "proxima_linha_marcas": 1082,
+  "ultima_versao": 840,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14619,6 +14619,33 @@
       "passadas": 3,
       "lacunas": "C, K",
       "site_bloqueado": "parcial"
+    },
+    {
+      "versao": 840,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Jianghun",
+        "Jios",
+        "Jiusko"
+      ],
+      "relogios": {
+        "Jianghun": 12,
+        "Jios": 39,
+        "Jiusko": 12
+      },
+      "fontes": {
+        "Jianghun": 17,
+        "Jios": 17,
+        "Jiusko": 24
+      },
+      "vermelho": false,
+      "site_bloqueado": true,
+      "lacunas": {
+        "Jiusko": [
+          "K"
+        ]
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14726,29 +14753,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T03:43:19Z",
-  "ultimo_sinal": "2026-11-24T04:06:57Z",
-  "em_andamento": {
-    "marcas": [
-      "Jianghun",
-      "Jios",
-      "Jiusko"
-    ],
-    "linha_marcas": 1080,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "7",
-      "9"
-    ],
-    "passada": 1,
-    "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch"
-  }
+  "adiadas_obs": {}
 }

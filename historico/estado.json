@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1079,
-  "ultima_versao": 839,
+  "proxima_linha_marcas": 1082,
+  "ultima_versao": 840,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14619,6 +14619,33 @@
       "passadas": 3,
       "lacunas": "C, K",
       "site_bloqueado": "parcial"
+    },
+    {
+      "versao": 840,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Jianghun",
+        "Jios",
+        "Jiusko"
+      ],
+      "relogios": {
+        "Jianghun": 12,
+        "Jios": 39,
+        "Jiusko": 12
+      },
+      "fontes": {
+        "Jianghun": 17,
+        "Jios": 17,
+        "Jiusko": 24
+      },
+      "vermelho": false,
+      "site_bloqueado": true,
+      "lacunas": {
+        "Jiusko": [
+          "K"
+        ]
+      }
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
