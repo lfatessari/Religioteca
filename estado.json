@@ -14904,5 +14904,21 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {}
+  "adiadas_obs": {},
+  "em_execucao": "2026-11-24T11:44:41Z",
+  "ultimo_sinal": "2026-11-24T11:44:41Z",
+  "em_andamento": {
+    "marcas": [
+      "J.T. Winnerl",
+      "Jugbitten",
+      "Juha Eskola"
+    ],
+    "linha_marcas": 1092,
+    "grande": false,
+    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "fontes": "historico/parcial_<marca>_fontes.txt",
+    "notas": "historico/notas_<marca>.md",
+    "secoes_feitas": [],
+    "passada": 1
+  }
 }
