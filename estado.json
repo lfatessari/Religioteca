@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1095,
-  "ultima_versao": 849,
+  "proxima_linha_marcas": 1096,
+  "ultima_versao": 850,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14857,6 +14857,25 @@
       },
       "dados": "G, H, K não achados (marca sem site/Instagram oficial; só M)",
       "obs": "Marca grande sozinha; Julien Coudray 1518 e Junghans (grande) ficam para as próximas. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
+    },
+    {
+      "versao": 850,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Julien Coudray 1518"
+      ],
+      "linhas_relogios": "126526-126538",
+      "relogios": 13,
+      "fontes": 39,
+      "vermelho": false,
+      "lacunas": {
+        "Julien Coudray 1518": [
+          "G",
+          "K"
+        ]
+      },
+      "obs": "Junghans (próxima) é grande: sozinha na próxima execução. Pendências 30–32 da Adriatica já estavam na planilha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14964,34 +14983,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T13:41:50Z",
-  "ultimo_sinal": "2026-11-24T13:52:14Z",
-  "em_andamento": {
-    "marcas": [
-      "Julien Coudray 1518"
-    ],
-    "linha_marcas": 1096,
-    "grande": false,
-    "relogios": "historico/parcial_Julien_Coudray_1518_relogios.txt",
-    "fontes": "historico/parcial_Julien_Coudray_1518_fontes.txt",
-    "notas": "historico/notas_Julien_Coudray_1518.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "falta": [
-      "G",
-      "H",
-      "K"
-    ],
-    "obs": "Junghans (2ª da lista) é grande: fica sozinha na próxima execução."
-  }
+  "adiadas_obs": {}
 }
