@@ -14858,7 +14858,7 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-24T09:43:59Z",
- "ultimo_sinal": "2026-11-24T09:58:53Z",
+ "ultimo_sinal": "2026-11-24T10:04:15Z",
  "em_andamento": {
   "marcas": [
    "Jowissa"
@@ -14874,8 +14874,14 @@
    "2c",
    "3",
    "5",
-   "8"
+   "7",
+   "8",
+   "9",
+   "10",
+   "2a passada",
+   "3a passada"
   ],
-  "passada": 1
+  "passada": 1,
+  "obs": "gravando"
  }
 }
