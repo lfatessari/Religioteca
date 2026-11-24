@@ -14712,7 +14712,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T01:45:14Z",
-  "ultimo_sinal": "2026-11-24T02:01:30Z",
+  "ultimo_sinal": "2026-11-24T02:08:07Z",
   "em_andamento": {
     "marcas": [
       "Jean Vernier"
@@ -14724,7 +14724,9 @@
     "notas": "historico/notas_JeanVernier.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3"
     ],
     "passada": 1,
     "obs": "Jean Vernier grande (469 produtos): sozinha; Jianghun e Jios ficam para a próxima. Formato do parcial: CODE|coleção|título|foto|preço"
