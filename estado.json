@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1085,
-  "ultima_versao": 843,
+  "proxima_linha_marcas": 1086,
+  "ultima_versao": 844,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14707,6 +14707,35 @@
         "Jorg Hysek": []
       },
       "obs": "Jorg Hysek = apelido de Hysek (já tinha modelos); Jorg Gray dimensionada como grande, fica sozinha para a próxima (notas em historico/notas_Jorg_Gray.md)"
+    },
+    {
+      "versao": 844,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marca": "Jorg Gray",
+      "linha_marcas": 1086,
+      "relogios": 80,
+      "vermelho": true,
+      "grande": true,
+      "fontes": 104,
+      "passadas": {
+        "1": [
+          81,
+          65
+        ],
+        "2": [
+          12,
+          9
+        ],
+        "3": [
+          11,
+          6
+        ]
+      },
+      "correcoes": {
+        "C": "Califórnia -> Tustin"
+      },
+      "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14814,32 +14843,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T07:43:21Z",
-  "ultimo_sinal": "2026-11-24T07:55:07Z",
-  "em_andamento": {
-    "marcas": [
-      "Jorg Gray"
-    ],
-    "linha_marcas": 1086,
-    "grande": true,
-    "relogios": "historico/parcial_JorgGray_relogios.txt",
-    "fontes": "historico/parcial_JorgGray_fontes.txt",
-    "notas": "historico/notas_Jorg_Gray.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "passada2"
-    ],
-    "passada": 3,
-    "obs": "pesquisa terminada (104 fontes, 80 relógios); gravando v844"
-  }
+  "adiadas_obs": {}
 }

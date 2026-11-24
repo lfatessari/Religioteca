@@ -1,6 +1,6 @@
-# Jorg Gray — notas preliminares (v843, 24/11/2026; marca NÃO gravada)
-- Dimensionada como GRANDE: o C.W. Sellors lista ~14 séries (JG2500, JG3700, JG5500, JG5600, JG6500, JG6800, JG6900, JG7100, JG7800, JG8300, JG8400, JG9100, JG9800, Signature) e as buscas mostram também JG1400, JG1500, JG5100, JG6300, JG8100, cada uma com várias variantes (-11, -21, -22, -33, -44, -71...).
-- Site oficial jorggray.com: a home deu PROVENANCE_REQUIRED (não repetir). Abriram pelo link de busca: /products/jg6500-71 (US$ 450, 41 mm, Miyota, foto cdn/shop/products/JG6500-71_Front.png?v=1608761974), /products/jg6500-commemorative-edition (US$ 395, foto JG6500_3Q.jpg?v=1610479066, lançado em 2009), /products/jg7100-21 (US$ 595, Ronda, foto JG7100-21_0.png?v=1607395018), /collections/womens-watches (sem produtos na leitura).
-- Coleções do site (links do menu, só abrir se vierem em busca): mens-watches, mens-classic, mens-chronograph-watches, mens-sport-watches, womens-watches, presidential-collection, the-covert, the-aristocrat, automatic, on-sale.
-- Jura Watches (jurawatches.co.uk) e cwsellors.co.uk: grades carregadas por JavaScript, 0 produtos na leitura (não repetir). Firecrawl estava sem créditos.
-- Boas pistas: Shade Station (shadestation.co.uk/designer-watches/Jorg-Gray/<ref>), Newegg BrandStore ID-23564, the1916company pre-owned, aBlogtoWatch JG3700, Gear Patrol, WatchPro tag.
+# Jorg Gray — gravada na v844 (24/11/2026)
+- Marca GRANDE e VERMELHA. 80 relógios, 104 fontes (passada 1: 81 fontes/65 relógios; passada 2: 12/9; passada 3: 11/6).
+- Abertura de páginas pelo ajudante web-fetch (sem WebFetch direta); Firecrawl sem créditos.
+- Site oficial jorggray.com (Shopify): fichas individuais abrem; páginas de coleção não mostram a grade. Páginas antigas (www.jorggray.com/Collections-JGxxxx/...) dão client_error.
+- Faltam (só vistas em resumo do eBay IL): JG8800-21/22/23, JG9500-11/12, JG6600-24, JG7800-21, JG5600-23, JG6550L, JG6900-22, JG7100-22; JG9100-22 (título de página antiga).
+- Correção: C Califórnia → Tustin. A verificar: JG6300 (coluna J), fundação 1998 x 2009.
