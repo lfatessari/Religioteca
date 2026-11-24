@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1078,
-  "ultima_versao": 838,
+  "proxima_linha_marcas": 1079,
+  "ultima_versao": 839,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14603,6 +14603,22 @@
         ]
       },
       "lacunas": "G, K (H a confirmar)"
+    },
+    {
+      "versao": 839,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Jean Vernier"
+      ],
+      "linha_marcas": 1079,
+      "relogios": 390,
+      "vermelho": true,
+      "grande": true,
+      "fontes": 79,
+      "passadas": 3,
+      "lacunas": "C, K",
+      "site_bloqueado": "parcial"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14710,31 +14726,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T01:45:14Z",
-  "ultimo_sinal": "2026-11-24T02:32:58Z",
-  "em_andamento": {
-    "marcas": [
-      "Jean Vernier"
-    ],
-    "linha_marcas": 1079,
-    "grande": true,
-    "relogios": "historico/parcial_JeanVernier_relogios.txt",
-    "fontes": "historico/parcial_JeanVernier_fontes.txt",
-    "notas": "historico/notas_JeanVernier.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b",
-      "2a_passada"
-    ],
-    "passada": 3,
-    "obs": "Jean Vernier grande (469 produtos): sozinha; Jianghun e Jios ficam para a próxima. Formato do parcial: CODE|coleção|título|foto|preço"
-  }
+  "adiadas_obs": {}
 }
