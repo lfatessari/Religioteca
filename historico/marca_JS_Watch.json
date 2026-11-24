@@ -1,0 +1,285 @@
+{
+ "marca": "JS Watch",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Corrigido H: @jswatchco → @jswatch (link do Instagram no rodapé do site oficial www.jswatch.com). Ainda a verificar em I (nenhuma fonte aberta confirmou): uso por Tom Cruise e Ben Stiller; \"força de paz\" (as fontes dizem Guarda Costeira da Islândia); a Wikipedia lista 4 fundadores (Sigurður Gilbertsson, Grímkell Sigurþórsson, Júlíus Heiðarsson e Gilbert Ó. Guðjónsson), I cita 3; produção de 250–300 por ano (WatchTime 2013) ou menos de 200 (Delray), I diz \"algumas centenas\". Endereço: Laugavegur 62, Reykjavík (site oficial). Relógios: sem códigos de referência; muitas fotos são o link da página do produto, porque as miniaturas do site (Squarespace) não aparecem na leitura automática. KRAFTUR Tolli e Lína Rut sem foto ligada com segurança.",
+ "correcoes": {
+  "H": "@jswatch"
+ },
+ "correcoes_fontes": {
+  "H": [
+   "https://www.jswatch.com"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://jswatch.com/-all-collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jswatch.squarespace.com/20-year-limited-editions-1",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.jswatch.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jswatch.com/101-38mm",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jswatch.squarespace.com/101-32mm",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://jswatch.squarespace.com/101-art-deco-diamond",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.jswatch.com/101-10-year-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jswatch.squarespace.com/islandus",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jswatch.squarespace.com/islandus-1919",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jswatch.com/islandus-dakota",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jswatch.com/sif-nart",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.jswatch.com/sif-nart-1948",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://jswatch.squarespace.com/sif-volcano",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jswatch.com/frisland",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jswatch.com/frisland-1941",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://jswatch.squarespace.com/frisland-go-special-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jswatch.com/gilbert-vintage-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jswatch.com/gilbert-bohem",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jswatch.com/vinland-special-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jswatch.com/vinland-chronograph",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jswatch.com/fraternitas-islandica",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jswatch.com/eclipse-2026",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jswatch.com/sif-protector",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jswatch.squarespace.com/special-editions",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.jswatch.com/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/JS_Watch_Co._Reykjav%C3%ADk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/js-watch-co-reykavik-frisland-classic/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/js-watch-frisland-classic-2014",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/js-watch-co/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/js-watch-co/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coolhunting.com/design/js-watch-co-reykjavik/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/js-watch-co/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/js-watch-co/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/js-watch-co-and-the-frisland-42mm/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bobswatches.com/rolex-blog/watch-review/js-watch-sif-n-r-t-reykjavik-iceland.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/uhren-aus-island",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://issuu.com/hkgolfer/docs/1112jswatch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/as04126-js-watch-islandus-1919",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/j-s-watch-sif-nart-show-and-tell.79802/latest",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2014/11/26/js-watch-co-the-islandus-45-years-anniversary-edition-stainless-steel-case-manual-winding-movement-solid-sterling-silver-dial/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=1326",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpaper.com/?p=5924",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://four-magazine.com/?p=30686",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jswatch.com/islandus-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://issuu.com/icelandictimes8/docs/it-english-43-web/42",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/js-watch-co-euro-mmxvi-limited-edition-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/js-watch-co-world-cup-mmxviii-limited-edition-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1004088827-js-watch-company-scores-big-with-euro-mmxvi.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2018/04/10/js-watch-co-iceland-world-cup-mmxviii-limited-edition-stainless-steel-watch-new-model-2018-automatic-movement-galvanic-silver-dial-with-arabic-numerals/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jswatch.com/wold-cup-mmxviii",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://icelandmonitor.mbl.is/news/culture_and_living/2016/06/25/a_watch_that_celebrates_iceland_s_national_football/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://canwatchco.ca/threads/js-watch-co-le.105872",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2016/06/09/js-watch-co-euro-mmxvi-2016-limited-edition-automatic-watch-42mm-stainless-steel-case-blue-sunburst-pilot-style-dial/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
