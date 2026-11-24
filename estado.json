@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1101,
-  "ultima_versao": 854,
+  "proxima_linha_marcas": 1104,
+  "ultima_versao": 855,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14988,6 +14988,53 @@
         "J"
       ],
       "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; juvenia.ch só texto (fotos dos atuais = link da página); Classic páginas 2 e 3 não abriram. Próximas: JWalker Watch Co. e Kairos."
+    },
+    {
+      "versao": 855,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "JWalker Watch Co.",
+        "Kairos",
+        "Kalā Watch Co."
+      ],
+      "linhas_marcas": [
+        1102,
+        1103,
+        1104
+      ],
+      "linhas_relogios": "127839-127876",
+      "relogios": 38,
+      "por_marca": {
+        "JWalker Watch Co.": 15,
+        "Kairos": 15,
+        "Kalā Watch Co.": 8
+      },
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "JWalker Watch Co.": 6,
+        "Kairos": 33,
+        "Kalā Watch Co.": 15
+      },
+      "so_site_oficial": [
+        "JWalker Watch Co."
+      ],
+      "lacunas": {
+        "JWalker Watch Co.": [
+          "I",
+          "K"
+        ],
+        "Kairos": [
+          "C",
+          "H",
+          "K"
+        ],
+        "Kalā Watch Co.": [
+          "K"
+        ]
+      },
+      "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. JWalker H não achado."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15095,26 +15142,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T18:44:04Z",
-  "ultimo_sinal": "2026-11-24T18:50:57Z",
-  "em_andamento": {
-    "marcas": [
-      "JWalker Watch Co.",
-      "Kairos",
-      "Kalā Watch Co."
-    ],
-    "linha_marcas": 1102,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_bateria_v855.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3"
-    ],
-    "passada": 1,
-    "obs": "Pesquisa concluída; gravando v855 (dados/marca.json em historico/)"
-  }
+  "adiadas_obs": {}
 }
