@@ -1,0 +1,111 @@
+{
+ "marca": "Kazimon",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "D": "Microbrand alemã de relógios de mergulho e cronógrafos com nomes em alemão (Eins, Drei, Fünfhundert, Eintausend), com movimentos ETA",
+  "J": "Eintausend — mergulho para 1.000 m, 44 mm, ETA 2824-2\n\nFünfhundert — mergulho para 500 m, titânio, biséis intercambiáveis\n\nDrei — cronógrafo de titânio, Valjoux 7750\n\n1500 — mergulho de 42 mm, também em bronze"
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://ablogtowatch.com/kazimon-eintausend-1000m-diver-watch",
+   "https://ablogtowatch.com/kazimon-drei-chronograph-titanium-watch",
+   "https://oceanictime.blogspot.com/2009/10/kazimon-funfhundert-bezels.html",
+   "https://wristwatchreview.com/kazimon-eins-b"
+  ],
+  "J": [
+   "https://ablogtowatch.com/kazimon-eintausend-1000m-diver-watch",
+   "https://ablogtowatch.com/kazimon-drei-chronograph-titanium-watch",
+   "https://oceanictime.blogspot.com/2009/10/kazimon-funfhundert-bezels.html",
+   "https://wristwatchreview.com/kazimon-eins-b",
+   "https://www.timetechtalk.com/forum36/20562-3.html"
+  ]
+ },
+ "observacoes": "Corrigido: D ('Microbrand de relógios de design' → marca alemã de mergulho/cronógrafos) e J ('Coleções de design contemporâneo' → modelos achados), com base no aBlogtoWatch (2009), Oceanic Time e WristWatchReview. A marca parece ter parado por volta de 2015 (última pré-venda no fórum 3T). H (@kazimon) não foi conferido: nenhuma fonte aberta cita o perfil. Pessoa por trás da marca: Kazim Kenzo (masterhorologer e fórum 3T) — a confirmar como fundador.",
+ "fontes": [
+  {
+   "url": "https://masterhorologer.com/2012/06/23/kazim-kenzo-kazimon-zeitmessinstrumente-eintausend-diver-limited-edition-automatic-diving-watch-1000-meters-44mm-steel-case-helium-valve-swiss-eta-2824-2-movement/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/kazimon/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/kazimon-eintausend-1000m-diver-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/kazimon-drei-chronograph-titanium-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/kazimon-eins-b",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2009/10/kazimon-funfhundert-bezels.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/1635789/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/304540475925",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timetechtalk.com/forum36/27333-2.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/87037",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/87040",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/503479",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://forum.ironheart.co.uk/post/464299",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timetechtalk.com/forum36/20562-3.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timetechtalk.com/forum36/20562-4.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=53780",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
