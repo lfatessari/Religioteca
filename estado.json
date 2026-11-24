@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1104,
-  "ultima_versao": 855,
+  "proxima_linha_marcas": 1106,
+  "ultima_versao": 856,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15035,6 +15035,53 @@
         ]
       },
       "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. JWalker H não achado."
+    },
+    {
+      "versao": 856,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kallinich Claeys",
+        "Kamawatch"
+      ],
+      "linhas_marcas": [
+        1105,
+        1106
+      ],
+      "linhas_relogios": "127877-127894",
+      "relogios": 18,
+      "por_marca": {
+        "Kallinich Claeys": 4,
+        "Kamawatch": 14
+      },
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Kallinich Claeys": 15,
+        "Kamawatch": 25
+      },
+      "correcoes": {
+        "Kallinich Claeys": [
+          "I",
+          "J"
+        ],
+        "Kamawatch": [
+          "D",
+          "I",
+          "J"
+        ]
+      },
+      "lacunas": {
+        "Kallinich Claeys": [
+          "H",
+          "K"
+        ],
+        "Kamawatch": [
+          "C",
+          "K"
+        ]
+      },
+      "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Lacunas H/K e C/K não achadas. Próxima: Kari Voutilainen (tratada como grande, sozinha)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15142,27 +15189,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T19:43:28Z",
-  "ultimo_sinal": "2026-11-24T20:04:27Z",
-  "em_andamento": {
-    "marcas": [
-      "Kallinich Claeys",
-      "Kamawatch"
-    ],
-    "linha_marcas": 1105,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_kallinich.md, historico/notas_kamawatch.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "7",
-      "9"
-    ],
-    "passada": 1,
-    "obs": "Kari Voutilainen (1107) tratada como grande (peças únicas/mostradores nomeados): fica sozinha para a próxima execução."
-  }
+  "adiadas_obs": {}
 }

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1104,
-  "ultima_versao": 855,
+  "proxima_linha_marcas": 1106,
+  "ultima_versao": 856,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15035,6 +15035,53 @@
         ]
       },
       "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. JWalker H não achado."
+    },
+    {
+      "versao": 856,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kallinich Claeys",
+        "Kamawatch"
+      ],
+      "linhas_marcas": [
+        1105,
+        1106
+      ],
+      "linhas_relogios": "127877-127894",
+      "relogios": 18,
+      "por_marca": {
+        "Kallinich Claeys": 4,
+        "Kamawatch": 14
+      },
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Kallinich Claeys": 15,
+        "Kamawatch": 25
+      },
+      "correcoes": {
+        "Kallinich Claeys": [
+          "I",
+          "J"
+        ],
+        "Kamawatch": [
+          "D",
+          "I",
+          "J"
+        ]
+      },
+      "lacunas": {
+        "Kallinich Claeys": [
+          "H",
+          "K"
+        ],
+        "Kamawatch": [
+          "C",
+          "K"
+        ]
+      },
+      "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Lacunas H/K e C/K não achadas. Próxima: Kari Voutilainen (tratada como grande, sozinha)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
