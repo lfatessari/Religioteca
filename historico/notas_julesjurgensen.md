@@ -5,3 +5,4 @@ Passada 1: 30 fontes, 37 relógios (Analog Shift, Wikipedia, Electric Watches, C
 Não abriram: everywatch watch-14749245/9684491/14189272 ("Only Collectors"), live.phillips.com 1-927ECY (302), hls-dhs-dss.ch (client_error). Firecrawl sem créditos.
 Dados: sem site/Instagram oficial atual (marca dormente; direitos com Helmut Crott desde 2011, Wikipedia; jjwatch.com só arquivo). Logo não achado.
 Vermelha: certeza de muito mais modelos vintage sem nome (eBay milhares). 2ª passada a fazer.
+Passada 2 (14 fontes, 12 novos) → precisa 3ª passada (>=5 novos).

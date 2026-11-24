@@ -14932,7 +14932,7 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-24T12:45:15Z",
- "ultimo_sinal": "2026-11-24T12:49:43Z",
+ "ultimo_sinal": "2026-11-24T12:52:59Z",
  "em_andamento": {
   "marcas": [
    "Jules Jürgensen"
@@ -14946,10 +14946,13 @@
    "1",
    "3",
    "5",
+   "6",
    "7",
-   "8"
+   "8",
+   "9",
+   "2a passada"
   ],
-  "passada": 1,
+  "passada": 3,
   "obs": "Jules Jürgensen é grande (linha vintage extensa): sozinha nesta execução; Julien Coudray 1518 e Junghans ficam para as próximas"
  }
 }
