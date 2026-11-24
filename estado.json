@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1076,
- "ultima_versao": 835,
+ "proxima_linha_marcas": 1077,
+ "ultima_versao": 836,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14536,6 +14536,35 @@
    },
    "lote": "historico/passada_unica/lote_835.json",
    "obs": "Só Jean Lassale: Jean Marcel (1077) e JeanRichard (1078) parecem grandes, uma por execução. WebFetch só pelo ajudante web-fetch; Firecrawl sem créditos."
+  },
+  {
+   "versao": 836,
+   "data": "2026-11-24",
+   "tipo": "passada_unica",
+   "marcas": [
+    "Jean Marcel"
+   ],
+   "linha_marcas": 1077,
+   "relogios": 141,
+   "vermelho": true,
+   "grande": true,
+   "fontes": 121,
+   "passadas": {
+    "1": [
+     90,
+     116
+    ],
+    "2": [
+     18,
+     17
+    ],
+    "3": [
+     13,
+     13
+    ]
+   },
+   "dados_marcas": "C (Birkenfeld) + correções B, D, J",
+   "obs": "JeanRichard (grande) fica para a próxima execução"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14643,32 +14672,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-23T23:44:11Z",
- "ultimo_sinal": "2026-11-24T00:22:20Z",
- "em_andamento": {
-  "marcas": [
-   "Jean Marcel"
-  ],
-  "linha_marcas": 1077,
-  "grande": true,
-  "relogios": "historico/parcial_JeanMarcel_relogios.txt",
-  "fontes": "historico/parcial_JeanMarcel_fontes.txt",
-  "notas": "historico/notas_JeanMarcel.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 3,
-  "obs": "JeanRichard (2ª da lista) é grande: fica para a próxima execução; pesquisa encerrada (3 passadas, 121 fontes, 141 relógios), gravando v836"
- }
+ "adiadas_obs": {}
 }
