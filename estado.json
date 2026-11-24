@@ -15191,7 +15191,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T20:43:43Z",
-  "ultimo_sinal": "2026-11-24T20:44:10Z",
+  "ultimo_sinal": "2026-11-24T20:56:38Z",
   "em_andamento": {
     "marcas": [
       "Kari Voutilainen"
@@ -15201,7 +15201,17 @@
     "relogios": "historico/parcial_Kari_Voutilainen_relogios.txt",
     "fontes": "historico/parcial_Kari_Voutilainen_fontes.txt",
     "notas": "historico/notas_Kari_Voutilainen.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "passada": 2
   }
 }

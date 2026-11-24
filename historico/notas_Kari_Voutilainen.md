@@ -1,0 +1,5 @@
+# Kari Voutilainen (linha 1107) — grande, sozinha. Passada 1 em curso.
+Feito: site oficial (home, timepieces, manufacture, portfolio 28SC-SB/Observatory/Chronometer27/Setsu-Getsu-Ka/Ji-Ku/Masterpiece8/Kohan, pre-owned), Phillips (artista + 7 lotes + artigo), Watchonista (lista + 5 fichas), ACM, Coveted, WatchProSite digest 2014, Masterhorologer, GPHG (3), Europa Star, Hodinkee JP, Monochrome (lista + 5), SJX GMT-Villes, Time+Tide.
+PROVENANCE: watchonista fichas starry-night-vine, tp1, 28iso-enamel, 28s, scintillante, aki-no-kure, 217qrs; voutilainen.ch 28sb08, louis-vuitton, kv20i-milano. Firecrawl sem créditos.
+Falta: portfolio oficial 28ti, 28aki-no-kure, masterpiece-7, kv20i-reversed(+2), 28cg-platinum, 28mpr, 1736, 28sd10, 28sb8 (fotos). Depois 2ª passada (vermelha: peças únicas sob encomenda): lotes Phillips únicos.
+Dados aba Marcas: tudo preenchido (falta vazio). Wikipedia: nascido Rovaniemi 1962, empresa desde 2002, Môtiers; contato oficial: Voutilainen SA, Chapeau de Napoléon, 2123 St-Sulpice (C diz Môtiers → anotar em M).
