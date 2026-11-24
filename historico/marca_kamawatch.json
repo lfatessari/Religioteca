@@ -1,0 +1,167 @@
+{
+ "marca": "Kamawatch",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "D": "Relógios de moda italianos que mudam de cor com o calor (Thermic Technology), muitos com estampa camuflada",
+  "I": "A Kamawatch é uma marca italiana de relógios de moda criada pelo designer italiano Raffaele Petruzzelli, que chegou à imprensa relojoeira em 2015. Sua marca registrada é a 'Thermic Technology': uma tinta termocrômica aplicada no policarbonato faz a pulseira ou o relógio mudar de cor com o calor, por volta de 31 °C, e voltar à cor original quando esfria — muitas vezes passando do preto para uma estampa camuflada.\n\nOs relógios são a quartzo japonês e de preço acessível, em linhas como Castell, Vintage, Royal (caixa de aço de 40 mm e pulseira de camurça) e Fix (sem o tratamento térmico). Em 2019, a marca era vendida em países como Itália, EUA, Japão, Emirados Árabes e Espanha, e chegou ao Reino Unido pela distribuidora In2Brands.",
+  "J": "Castell — caixa de 46 mm, pulseira camuflada que muda de cor a 31 °C; £ 85\n\nVintage — caixa camuflada e pulseira termocrômica; £ 99\n\nRoyal — aço, 40 mm, pulseira de camurça termossensível; £ 149\n\nFix — linha sem o tratamento térmico; £ 85"
+ },
+ "correcoes_fontes": {
+  "D": [
+   "https://ablogtowatch.com/kamawatch-hypercolor-fashion-timepieces-change-color-temperature",
+   "https://www.nichejewellery.co.uk/brand/kamawatch.html",
+   "https://www.watchpro.com/?p=49111"
+  ],
+  "I": [
+   "https://ablogtowatch.com/kamawatch-hypercolor-fashion-timepieces-change-color-temperature",
+   "https://goodwatch-cao.net/en/products/kamawatch-vintage-dynamo",
+   "https://www.watchpro.com/?p=49111",
+   "https://usa.watchpro.com/?p=46629",
+   "https://www.houseofwatches.co.uk/kamawatch-castell-myst-black-and-grey-camo-plastic-bracelet-watch-kwp18",
+   "https://www.thejewelhut.co.uk/kamawatch-royal-blue-dial-leather-suede-strap-watch-kwpm36"
+  ],
+  "J": [
+   "https://www.houseofwatches.co.uk/kamawatch-castell-myst-black-and-grey-camo-plastic-bracelet-watch-kwp18",
+   "https://www.edmondsjewellers.com/products/castell-forest-black-green-camouflage-print-strap-wristwatch-22783",
+   "https://www.houseofwatches.co.uk/kamawatch-vintage-force-black-and-green-plastic-bracelet-watch-kwp26",
+   "https://old.nichejewellery.co.uk/kamawatch-vintage-dynamo-black-and-dark-green-camouflage.html",
+   "https://www.thejewelhut.co.uk/kamawatch-royal-blue-dial-leather-suede-strap-watch-kwpm36",
+   "https://www.edmondsjewellers.com/products/royal-blue-dial-black-to-blue-camouflage-leather-strap-wristwatch-22800",
+   "https://www.thejewelhut.co.uk/kamawatch-limited-edition-fix-avant-garde-silver-and-black-plastic-bracelet-watch-kwpf30",
+   "https://www.houseofwatches.co.uk/kamawatch-limited-edition-fix-bope-black-and-green-camo-plastic-bracelet-watch-kwpf29"
+  ]
+ },
+ "observacoes": "Corrigido: D ('mostradores em tecido artesanal e forte apelo étnico' → mudança de cor com o calor; aBlogtoWatch 2015, Niche Jewellery, WatchPro 2019 e as lojas), I (texto sobre tecidos étnicos estava errado; nova história com o fundador Raffaele Petruzzelli na aBlogtoWatch e na Good Watch Cao, Thermic Technology a 31 °C na aBlogtoWatch e nas lojas, mercados e In2Brands na WatchPro 2019) e J (coleções com preços das lojas inglesas). Ainda a verificar: a Good Watch Cao diz que a marca foi fundada em 2015 (só ela; por isso o texto fala em 'chegou à imprensa em 2015'). F = 1.200 e E = 2: os preços vão de £ 85 a £ 149 (≈ R$ 630 a 1.110), o que daria E = 1 — E/F não alterados. Fora da lista: o KWS02 automático da loja Ellie Jules (descrição genérica, não parece Kamawatch; a confirmar). 6 relógios ficaram com o link da página da loja na coluna C porque as lojas não mostraram a foto na leitura. Site oficial kamawatch.com pediu permissão; Firecrawl sem créditos.",
+ "fontes": [
+  {
+   "url": "https://www.nichejewellery.co.uk/brand/kamawatch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://old.nichejewellery.co.uk/kamawatch-vintage-dynamo-black-and-dark-green-camouflage.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/kamawatch-limited-edition-fix-bope-black-and-green-camo-plastic-bracelet-watch-kwpf29",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/kamawatch-limited-edition-fix-navy-blue-plastic-bracelet-watch-kwpf32",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/kamawatch-vintage-force-black-and-green-plastic-bracelet-watch-kwp26",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thbaker.co.uk/kamawatch-limited-edition-fix-bope-black-and-green-camo-plastic-bracelet-watch-kwpf29",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/kamawatch-vintage-force-black-and-green-plastic-bracelet-watch-kwp26",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/kamawatch-royal-blue-dial-leather-suede-strap-watch-kwpm36",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://elliejules.com/products/kws02",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/176551483252",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.edmondsjewellers.com/products/royal-black-dial-green-camouflage-strap-leather-strap-wristwatch-22798",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.edmondsjewellers.com/products/royal-blue-dial-black-to-blue-camouflage-leather-strap-wristwatch-22800",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.edmondsjewellers.com/products/castell-ocean-black-blue-camouflage-print-strap-wristwatch-22785",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpro.com/?p=35845",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/kamawatch-hypercolor-fashion-timepieces-change-color-temperature",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://goodwatch-cao.net/en/products/kamawatch-vintage-dynamo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/kamawatch-castell-myst-black-and-grey-camo-plastic-bracelet-watch-kwp18",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.houseofwatches.co.uk/kamawatch-castell-ocean-black-and-blue-camo-plastic-bracelet-watch-kwp19",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/kamawatch-limited-edition-fix-avant-garde-silver-and-black-plastic-bracelet-watch-kwpf30",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.edmondsjewellers.com/products/castell-forest-black-green-camouflage-print-strap-wristwatch-22783",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://edmondsjewellers.com/products/royal-white-dial-red-to-black-to-grey-camouflage-leather-strap-wristwatch-22801",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/kamawatch-limited-edition-fix-space-black-plastic-bracelet-watch-kwpf31",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/kamawatch-limited-edition-fix-navy-blue-plastic-bracelet-watch-kwpf32",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=49111",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://usa.watchpro.com/?p=46629",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
