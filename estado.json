@@ -14966,5 +14966,23 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T13:41:50Z",
-  "ultimo_sinal": "2026-11-24T13:41:50Z"
+  "ultimo_sinal": "2026-11-24T13:42:38Z",
+  "em_andamento": {
+    "marcas": [
+      "Julien Coudray 1518"
+    ],
+    "linha_marcas": 1096,
+    "grande": false,
+    "relogios": "historico/parcial_Julien_Coudray_1518_relogios.txt",
+    "fontes": "historico/parcial_Julien_Coudray_1518_fontes.txt",
+    "notas": "historico/notas_Julien_Coudray_1518.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "falta": [
+      "G",
+      "H",
+      "K"
+    ],
+    "obs": "Junghans (2ª da lista) é grande: fica sozinha na próxima execução."
+  }
 }
