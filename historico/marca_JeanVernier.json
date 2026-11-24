@@ -6,7 +6,7 @@
  "vermelho": true,
  "grande": true,
  "complemento": false,
- "observacoes": "Relógios gravados em 24/11/2026 (v839): 355 modelos do site oficial jeanvernier.com.br (coleções Heritage, Signature, Pulsion, Canvas, Pioneer, Sophie, masculino e feminino), em 2 passadas. Marca pintada de vermelho: o site mostra 469 produtos na coleção Relógios (20 páginas), mas só as páginas que apareceram em busca puderam ser abertas (relogios?page=1, 3, 10 e 16; as páginas 5 e 6 deram limite de acesso; 2, 4, 7–9, 11–15 e 17–20 nunca vieram em busca) e o Firecrawl estava sem créditos; faltam cerca de 110 referências atuais e todos os modelos antigos (anos 1980–2000, vistos em leilões e no OLX, sem código). Muitas fichas vieram do resumo do leitor de páginas; as fotos seguem o padrão do site (cdn/shop). Alguns modelos entraram só com o link da página do produto (página não abriu). Fontes de fora que não abriram: Mercado Livre (robots), Netshoes (robots), Carrefour, OLX, YouTube, leilões (Bruce Angeiras, Casa Rio Negro, Rachel Nahon, Marrakech). Nota: a página Nossa História diz que a marca nasceu em 1977 em Bulle (Suíça), ideia do austríaco Kurt Greif, registrada pela Catena com apoio de Francis Bourquin, e que a montagem veio para o Brasil; o blog da loja TTime (2018) diz Genebra — a confirmar. A distribuidora oficial é a Grevil Indústria e Comércio Ltda, em Copacabana, Rio de Janeiro (página Sobre Nós).",
+ "observacoes": "Relógios gravados em 24/11/2026 (v839): 390 modelos do site oficial jeanvernier.com.br (coleções Heritage, Signature, Pulsion, Canvas, Pioneer, Sophie, masculino e feminino), em 3 passadas (a 3ª incluiu a loja oficial Grevil no Magazine Luiza, com códigos que não apareceram no site). Marca pintada de vermelho: o site mostra 469 produtos na coleção Relógios (20 páginas), mas só as páginas que apareceram em busca puderam ser abertas (relogios?page=1, 3, 10 e 16; as páginas 5 e 6 deram limite de acesso; 2, 4, 7–9, 11–15 e 17–20 nunca vieram em busca) e o Firecrawl estava sem créditos; faltam cerca de 110 referências atuais e todos os modelos antigos (anos 1980–2000, vistos em leilões e no OLX, sem código). Muitas fichas vieram do resumo do leitor de páginas; as fotos seguem o padrão do site (cdn/shop). Alguns modelos entraram só com o link da página do produto (página não abriu). Fontes de fora que não abriram: Mercado Livre (robots), Netshoes (robots), Carrefour, OLX, YouTube, leilões (Bruce Angeiras, Casa Rio Negro, Rachel Nahon, Marrakech). Nota: a página Nossa História diz que a marca nasceu em 1977 em Bulle (Suíça), ideia do austríaco Kurt Greif, registrada pela Catena com apoio de Francis Bourquin, e que a montagem veio para o Brasil; o blog da loja TTime (2018) diz Genebra — a confirmar. A distribuidora oficial é a Grevil Indústria e Comércio Ltda, em Copacabana, Rio de Janeiro (página Sobre Nós).",
  "fontes": [
   {
    "url": "https://jeanvernier.com.br/collections/relogios",
@@ -347,6 +347,61 @@
    "url": "https://www.assistenciatecnicaecia.com.br/assistencia-tecnica-autorizada-jean-vernier-telefone/",
    "passada": 2,
    "novos": 0
+  },
+  {
+   "url": "https://jeanvernier.com.br/collections/relogios?page=9",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://jeanvernier.com.br/products/jv01066",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jeanvernier.com.br/products/jv01107",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jeanvernier.com.br/products/jv01159",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jeanvernier.com.br/products/copia-de-jv00046a",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://jeanvernier.com.br/products/jv13653aa",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/busca/relogio+jean+vernier/",
+   "passada": 3,
+   "novos": 12
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/relogio-pulso-jean-vernier-com-calendario-masculino-jv01129/p/fk08278f08/re/rgma/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/relogio-jean-vernier-masculino-ref-jv7045-cronografo-prateado/p/dc06cf587j/re/rgma/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.magazineluiza.com.br/relogio-jean-vernier-vidro-cristal-mineral-10-atm-autentico/p/gfecfk237b/re/rgfe/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://m.magazineluiza.com.br/relogio-masculino/relogios/s/re/rgma/brand---jean-vernier/",
+   "passada": 3,
+   "novos": 6
   }
  ]
 }
