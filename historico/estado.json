@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1086,
-  "ultima_versao": 844,
+  "proxima_linha_marcas": 1088,
+  "ultima_versao": 845,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14736,6 +14736,19 @@
         "C": "Califórnia -> Tustin"
       },
       "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch"
+    },
+    {
+      "data": "2026-11-24",
+      "versao": 845,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Jorg Schauer"
+      ],
+      "relogios": 31,
+      "vermelho": true,
+      "fontes": 33,
+      "dados": "K não achado (só M)",
+      "obs": "site oficial não abriu; Firecrawl sem créditos; Jowissa (grande) fica para a próxima"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
