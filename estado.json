@@ -15191,7 +15191,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T20:43:43Z",
-  "ultimo_sinal": "2026-11-24T20:56:38Z",
+  "ultimo_sinal": "2026-11-24T20:59:52Z",
   "em_andamento": {
     "marcas": [
       "Kari Voutilainen"
@@ -15212,6 +15212,7 @@
       "8",
       "9"
     ],
-    "passada": 2
+    "passada": 3,
+    "obs": "Pesquisa concluída (114 fontes, 109 relógios); falta gravar com historico/dados_Kari_Voutilainen.txt e marca_Kari_Voutilainen.json"
   }
 }
