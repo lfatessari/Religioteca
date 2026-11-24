@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1100,
-  "ultima_versao": 853,
+  "proxima_linha_marcas": 1101,
+  "ultima_versao": 854,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14956,6 +14956,38 @@
         ]
       },
       "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Juvenia (1101) é grande: sozinha na próxima execução."
+    },
+    {
+      "versao": 854,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Juvenia"
+      ],
+      "linhas_marcas": [
+        1101
+      ],
+      "linhas_relogios": "127692-127838",
+      "relogios": 147,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 116,
+      "passadas": {
+        "1": 70,
+        "2": 22,
+        "3": 24
+      },
+      "lacunas": {
+        "Juvenia": [
+          "K"
+        ]
+      },
+      "correcoes": [
+        "G",
+        "J"
+      ],
+      "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch; juvenia.ch só texto (fotos dos atuais = link da página); Classic páginas 2 e 3 não abriram. Próximas: JWalker Watch Co. e Kairos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15063,34 +15095,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T17:43:33Z",
-  "ultimo_sinal": "2026-11-24T18:21:10Z",
-  "em_andamento": {
-    "marcas": [
-      "Juvenia"
-    ],
-    "linha_marcas": 1101,
-    "grande": true,
-    "relogios": "historico/parcial_Juvenia_relogios.txt",
-    "fontes": "historico/parcial_Juvenia_fontes.txt",
-    "notas": "historico/notas_Juvenia.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a passada",
-      "10b",
-      "3a passada",
-      "gravacao"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }
