@@ -8,3 +8,4 @@
 - Nossa História: nascida em 1977 em Bulle (Suíça), ideia do austríaco Kurt Greif (representava marcas suíças no Brasil), após visita à fábrica Catena (Fribourg); registrada pela Catena com apoio de Francis Bourquin; cresceu no Brasil nos anos 1980; montagem trazida da Suíça para o Brasil; ETA, Ronda, Miyota, IsaSwiss; aço 316L. Sem cidade no Brasil (só WhatsApp DDD 21 -> não basta para C).
 - RATE_LIMIT do site em relogios?page=5,6, canvas, mais-vendidos (não repetir agora).
 - 214 relógios em jv_raw.txt após 18 fontes. Muitos [S] (resumo do extrator), mesmo padrão de URL.
+- Passada 1 encerrada (4 fontes seguidas sem novidade). Marca VERMELHA: site diz 469 relógios em /collections/relogios; listados ~333. Páginas relogios?page=2,4,5-9,11-15,17-20 nunca vieram da busca (5 e 6 deram RATE_LIMIT). 2ª passada: buscas por fichas de produto e fontes de fora.
