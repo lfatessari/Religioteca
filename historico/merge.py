@@ -1,40 +1,33 @@
-import re,urllib.parse
-exec(open('build_hermes.py').read())
-def core(c):
-    m=re.fullmatch(r'W?0?(\d{5,6})WW(00)?',c.replace(' ','').upper())
-    if m: return 'W'+m.group(1).zfill(6)
-    return re.sub(r'[^A-Z0-9]','',c.upper()).replace('O','0')
-seen={};out=[]
-for n,c,u,e in R:
-    k=core(c) if c else n
-    if k in seen: continue
-    seen[k]=1; out.append([n,(('W'+core(c)[1:]+'WW00') if c and core(c).startswith('W') and re.fullmatch(r'W\d{6}',core(c)) else c),u,e])
-# oficiais
-def nome_slug(u):
-    s=urllib.parse.unquote(u.rstrip('/').split('/')[-1])
-    ref=re.search(r'(W\d{6}WW00)',s).group(1)
-    s=s[:s.rfind(ref)].strip('-')
-    return s,ref
-SIZES={'mini-model':'TPM','small-model':'PM','medium-model':'MM','large-model':'GM','very-small':'TPM'}
-for u in open('urls_hermes.txt').read().split():
-    s,ref=nome_slug(u)
-    if core(ref) in seen: continue
-    seen[core(ref)]=1
-    mm=re.search(r'(\d+(?:\.\d+)?)-?mm',s.replace('395mm','39.5mm')); tam=(mm.group(1).replace('.',',')+' mm') if mm else ''
-    if '29-x-29' in s: tam='29 x 29 mm'
-    base=s
-    for t in ['-watch','-워치','워치']: base=base.replace(t,'')
-    base=re.sub(r'-?(mini-model|small-model|medium-model|large-model|watchlarge-model|large|pm)?-?\d+(\.\d+)?-?(x-29)?-?mm.*$','',base)
-    base=re.sub(r'-?(mini-model|small-model|medium-model|large-model|pm)$','',base)
-    nm={'arceau':'Arceau','cape-cod':'Cape Cod','cape-cod-automatique':'Cape Cod Automatique','hermes-h08':'H08','hermes-h08-squelette':'H08 Squelette','heure-h':'Heure H','heure-h-double-jeu':'Heure H Double Jeu','heure-h-automatique':'Heure H Automatique','slim-d-hermes':"Slim d'Hermès",'slim-dhermes':"Slim d'Hermès",'slim-d-hermes-squelette':"Slim d'Hermès Squelette",'slim-dhermes-squelette':"Slim d'Hermès Squelette",'slim-d-hermes-squelette-lune':"Slim d'Hermès Squelette Lune",'slim-d-hermes-quantieme-perpetuel':"Slim d'Hermès Quantième Perpétuel",'slim-d-hermes-gmt':"Slim d'Hermès GMT",'kelly':'Kelly','faubourg':'Faubourg','hermes-cut':'Hermès Cut','galop-d-hermes':"Galop d'Hermès",'medor':'Médor','medor-joaillerie':'Médor Joaillerie','arceau-petite-lune':'Arceau Petite Lune','arceau-le-temps-suspendu':'Arceau Le Temps Suspendu','arceau-double-h':'Arceau Double H','arceau-aventurine-etoilee':'Arceau Aventurine Étoilée','arceau-squelette':'Arceau Squelette','arceau-le-temps-voyageur':'Arceau Le Temps Voyageur','arceau-chronographe':'Arceau Chronographe','arceau-l-heure-de-la-lune':"Arceau L'Heure de la Lune"}
-    if 'ナンタケット' in s: name='Nantucket PM'
-    elif 'スリム' in s: name="Slim d'Hermès"
-    elif 'arceau-le-temps-voyageur-%' in s or ('arceau-le-temps-voyageur-' in s and '라지' in s): name='Arceau Le Temps Voyageur GM'
-    elif 'arceau-double-h-' in s and '34mm' in s: name='Arceau Double H MM'
-    else: name=nm.get(base.lower(),base)
-    if name==base: print('?? slug',s)
-    mod=[v for k2,v in SIZES.items() if k2 in s]
-    if mod and name!='Nantucket PM': name+=' '+mod[0]
-    out.append([name,ref,u,"Visto no site oficial hermes.com (link da página do produto; a foto não foi obtida porque o site não abre para leitura automática). "+(("Caixa de "+tam+".") if tam else "")])
-open('parcial_Hermes_relogios.txt','w').write('\n'.join('|'.join(x) for x in out)+'\n')
-print(len(out))
+import re,json
+B="https://www.jowissa.com/cdn/shop/files/"
+def n(r): return re.sub(r'[^A-Z0-9]','',r.upper()).replace('O','0')
+items={}; order=[]; src={}
+def add(line,ref,img,desc,s):
+    k=n(ref) if ref else n(line)
+    if k in items:
+        old=items[k]
+        if old[2].startswith('IMGLESS') and not img.startswith('IMGLESS'):
+            items[k]=(old[0],ref,img,desc or old[3])
+        return
+    items[k]=(line,ref,img,desc); order.append(k); src[k]=s
+for l in open('parcial_Jowissa_relogios.txt'):
+    a,b,c,d=l.rstrip('\n').split('|')
+    if 'cdn/shop' not in c: c='IMGLESS'+c
+    add(a,b,c,d,'p0')
+amap=[('Facet Bee','facet'),('Crystal','facet'),('Facet Strass','facet'),('Facet','facet'),('Safira 12','facet'),('Magic','facet'),('Aura','facet'),('LeWy','lewy'),('Octa 6','chrono'),('Octa 3','lewy'),('Virtuo','man'),('Magno','elegant'),('Seamon','elegant'),('Tiro Ethno','elegant')]
+S={'facet':'https://jowissa.com/pages/collection-group/facetted-womens-watches','lewy':'https://www.jowissa.com/en-dk/pages/collection-group/lewy','chrono':'https://jowissa.com/pages/collection-group/chronographs','man':'https://www.jowissa.com/fr-mc/pages/collection-group/man-watch-collections','elegant':'https://www.jowissa.com/pages/collection-group/elegant-timepieces-for-him'}
+for l in open('add1.txt'):
+    a,b,c=l.rstrip('\n').split('|')
+    s='facet' if (a=='Tiro' and b.startswith('J6')) else ('elegant' if a=='Tiro' else next(v for k,v in amap if a.startswith(k)))
+    if b=='J4.578.L': s='man'
+    add(a,b,B+c,'',S[s])
+for l in open('img2.txt'):
+    a,b,c,d=l.rstrip('\n').split('|'); add(a,b,c,d,c if 'ebay' in c or 'museum' in c else 'https://www.jowissa.com/products/lux-swiss-mens-watch-j7-098-l')
+for f in ('noimg1.txt','noimg2.txt'):
+    for l in open(f):
+        a,b,u=l.rstrip('\n').split('|')
+        add(a,b,'IMGLESS'+u,'',u)
+from collections import Counter
+print(len(items), sum(1 for k in items if not items[k][2].startswith('IMGLESS')),'com foto')
+json.dump({'items':items,'order':order,'src':src},open('merge.json','w'),ensure_ascii=False)
+print(Counter(src.values()).most_common())
