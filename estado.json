@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1110,
-  "ultima_versao": 858,
+  "proxima_linha_marcas": 1111,
+  "ultima_versao": 859,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15167,6 +15167,20 @@
         ]
       },
       "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências dos posts (Adriatica, itens 30–32) já estavam aplicadas."
+    },
+    {
+      "versao": 859,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Keaton Myrick"
+      ],
+      "relogios": 8,
+      "fontes": 18,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "dados_lote": "historico/passada_unica/lote_859.json",
+      "obs": "Kees Engelbart (só peças únicas = grande) ficou para a próxima execução, sozinha; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15274,22 +15288,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T22:43:15Z",
-  "ultimo_sinal": "2026-11-24T22:54:30Z",
-  "em_andamento": {
-    "marcas": [
-      "Keaton Myrick"
-    ],
-    "linha_marcas": 1111,
-    "grande": false,
-    "relogios": "historico/dados_Keaton Myrick.txt",
-    "fontes": "historico/parcial_Keaton Myrick_fontes.txt",
-    "notas": "historico/notas_Keaton Myrick.md",
-    "secoes_feitas": [
-      "pesquisa concluída, gravando"
-    ],
-    "passada": 1,
-    "obs": "Kees Engelbart (peças únicas = grande) fica para a próxima execução"
-  }
+  "adiadas_obs": {}
 }

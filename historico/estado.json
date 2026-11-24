@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1107,
-  "ultima_versao": 857,
+  "proxima_linha_marcas": 1111,
+  "ultima_versao": 859,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15118,6 +15118,69 @@
         ]
       },
       "obs": "Grande e vermelha (peças únicas sob encomenda). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Nenhuma célula vazia na aba Marcas; C (Môtiers x St-Sulpice) só anotado em M. Próximas: Karl-Leimon e Karsten Fraessdorf."
+    },
+    {
+      "versao": 858,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Karl-Leimon",
+        "Karsten Fraessdorf",
+        "Kazimon"
+      ],
+      "linhas_marcas": [
+        1108,
+        1109,
+        1110
+      ],
+      "linhas_relogios": "128004-128036",
+      "relogios": 33,
+      "por_marca": {
+        "Karl-Leimon": 15,
+        "Karsten Fraessdorf": 8,
+        "Kazimon": 10
+      },
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Karl-Leimon": 15,
+        "Karsten Fraessdorf": 23,
+        "Kazimon": 16
+      },
+      "correcoes": {
+        "Karl-Leimon": [
+          "C",
+          "G"
+        ],
+        "Kazimon": [
+          "D",
+          "J"
+        ]
+      },
+      "lacunas": {
+        "Karsten Fraessdorf": [
+          "C"
+        ],
+        "Kazimon": [
+          "B",
+          "G"
+        ]
+      },
+      "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências dos posts (Adriatica, itens 30–32) já estavam aplicadas."
+    },
+    {
+      "versao": 859,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Keaton Myrick"
+      ],
+      "relogios": 8,
+      "fontes": 18,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "dados_lote": "historico/passada_unica/lote_859.json",
+      "obs": "Kees Engelbart (só peças únicas = grande) ficou para a próxima execução, sozinha; Firecrawl sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
