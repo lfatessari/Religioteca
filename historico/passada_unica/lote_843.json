@@ -1,0 +1,12 @@
+{
+ "data": "2026-11-24",
+ "prefixo": "Passada única",
+ "celulas": {
+  "Jordi": {
+   "M": "C, G, H e K não preenchidos. C: a única loja própria abriu em 25/11/2011 em Zurique (Niederdorfstrasse; Europa Star 2011 e WatchPro 2014), mas a WatchPro diz que Michel Jordi é 'do Jura' e o Watchmobile7 dá a distribuidora Rouge & Blanc em Nyon — sede não confirmada. G: as fontes citam micheljordi.ch (Europa Star 2011), jordiwatches.com (Europa Star 2012) e jordiswissicon.com (Watchmobile7); nenhum apareceu em busca e não há sinal de site ativo. H: @jordiswissicon só no Watchmobile7 (fonte única). K: sem site oficial; só há o logo hospedado no Watchmobile7, não usado."
+  },
+  "Jorg Hysek": {
+   "M": "Modelos: esta linha é a mesma marca da linha 'Hysek', cuja bateria (v759) já gravou também a fase 'Jorg Hysek' (Kilada, Anegada, X-Ray, V-King, Symphony). Por isso não se gravaram relógios repetidos aqui; 'Jorg Hysek' foi posto como apelido de 'Hysek' no proxima_marca.py (24/11/2026). G, H e K seguem vazios: o site hysek.com bloqueia a leitura automática e a dúvida anotada antes (se G/H devem ser os da marca Hysek) continua para o usuário decidir."
+  }
+ }
+}
