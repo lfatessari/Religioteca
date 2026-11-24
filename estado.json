@@ -14728,7 +14728,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T03:43:19Z",
-  "ultimo_sinal": "2026-11-24T03:44:12Z",
+  "ultimo_sinal": "2026-11-24T04:02:49Z",
   "em_andamento": {
     "marcas": [
       "Jianghun",
@@ -14740,7 +14740,14 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
     "passada": 1,
     "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch"
   }

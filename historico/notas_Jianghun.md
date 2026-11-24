@@ -1,0 +1,3 @@
+# Jianghun — notas
+Site oficial jianghunwatch.com: PROVENANCE_REQUIRED. Fontes: seriouswatches JH0301G Time Vortex; watchcrunch War Drum (NH38A, 42mm, $299; "brainchild of San Martin"); reddit Deep Challenger; ebay.com.sg JH0101 (gradiente 42mm 20ATM, preto/marrom/verde/roxo); exquisite p2,p3 (0); planilha Google (0).
+Rodada 2: jianghunwatch.com/products/jh0401 OK (3 variantes, ueeshop cdn; Dongguan, Changping, JIANGHUN Watch Ltd; IG jianghunwatch; irmã San Martin); home OK (JH0101 War Drum 1º modelo; séries JH01,02,03,04,06). Demais páginas oficiais client_error. lug2lug jh0402 OK (cita JH0403, JH0401); watchpolice jh0602 OK (cita JH0101, JH0401-0403). Falharam: jianghun.eu, watchzest (robots), ioomobile, ebay.com itm 178055769643.
