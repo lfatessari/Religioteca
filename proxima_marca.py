@@ -17,6 +17,7 @@ APELIDOS = {
     "Cabot Watch Company": "CWC",  # mesma marca da linha CWC (82 relógios, v.  bateria CWC); 16/11/2026
     "G-Shock": "Casio",
     "Hotblack London": "Hoptroff",  # linha Hotblack da Hoptroff London; modelos gravados sob Hoptroff (v752); 21/11/2026
+    "Jorg Hysek": "Hysek",  # mesma marca: a bateria Hysek (v759) já incluiu a fase "Jorg Hysek" (Kilada, Anegada, X-Ray, V-King, Symphony); 24/11/2026
     "H20 Watch": "H2O",  # mesma marca da linha H2O (H2O watch GmbH, Sottrum; mesmo site e logo); relógios gravados como "H2O"; 18/11/2026  # linha da Casio: a bateria Casio já gravou 1364 relógios "G-SHOCK ..." (Relógios 36666-38768); 18/11/2026
 }
 
