@@ -15065,7 +15065,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T17:43:33Z",
-  "ultimo_sinal": "2026-11-24T18:04:06Z",
+  "ultimo_sinal": "2026-11-24T18:06:18Z",
   "em_andamento": {
     "marcas": [
       "Juvenia"
@@ -15078,12 +15078,16 @@
     "secoes_feitas": [
       "1",
       "2",
+      "2c",
       "3",
       "5",
+      "6",
       "7",
       "8",
-      "9"
+      "9",
+      "10",
+      "2a passada"
     ],
-    "passada": 1
+    "passada": 3
   }
 }
