@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1098,
-  "ultima_versao": 852,
+  "proxima_linha_marcas": 1100,
+  "ultima_versao": 853,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14930,6 +14930,32 @@
         "2": 12
       },
       "obs": "Firecrawl sem créditos no meio da execução; sem lote de dados (Junkers sem células vazias)."
+    },
+    {
+      "versao": 853,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Justex",
+        "Justiniani"
+      ],
+      "linhas_relogios": "127664-127691",
+      "relogios": {
+        "Justex": 18,
+        "Justiniani": 10
+      },
+      "fontes": {
+        "Justex": 25,
+        "Justiniani": 17
+      },
+      "vermelho": false,
+      "lacunas": {
+        "Justex": [
+          "C",
+          "K"
+        ]
+      },
+      "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Juvenia (1101) é grande: sozinha na próxima execução."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
