@@ -14985,7 +14985,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-24T14:43:34Z",
-  "ultimo_sinal": "2026-11-24T14:58:27Z",
+  "ultimo_sinal": "2026-11-24T15:02:17Z",
   "em_andamento": {
     "marcas": [
       "Junghans"
@@ -15006,9 +15006,12 @@
       "7",
       "8",
       "9",
-      "passada2"
+      "10",
+      "10b",
+      "passada2",
+      "passada3"
     ],
     "passada": 3,
-    "obs": "master em historico/junghans_trab/jh_master.json"
+    "obs": "pronto para gravar: historico/dados_junghans.txt + marca_junghans.json"
   }
 }

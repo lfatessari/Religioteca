@@ -1,0 +1,352 @@
+{
+ "marca": "Junghans",
+ "usa_codigos": true,
+ "logo": "https://junghansarchiv.de/_nuxt/Logo_Junghans.D5U7mcZL.svg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 24/11/2026 (v851): 769 relógios em 3 passadas (68 fontes). Marca pintada de vermelho: a Junghans produziu mais de 500 milhões de peças desde 1861 e o arquivo digital oficial (junghansarchiv.de) tem 4.110 itens; entraram os 211 modelos de pulso atuais do site oficial (com foto e preço), cerca de 260 modelos recentes já fora de linha (The Watch Pages, WatchCharts, lojas), cerca de 250 referências de catálogos oficiais antigos (1991–2024, sem foto própria: link do PDF), o cronógrafo de aviador J88 da Bundeswehr e variantes, Mega 1 (1990), Astro-Quartz (1971), Olympic (1972), Trilastic, Electronic e várias edições limitadas. Ficaram de fora os relógios genéricos dos catálogos dos anos 1990 sem nome de modelo e as centenas de peças vintage sem nome. Inclui a linha premium Erhard Junghans (Aerious, Creator; catálogo 2012). Os 6 relógios de mesa max bill (Tischuhr) do site oficial não entraram. EveryWatch só para membros (não abriu); Chrono24 não apareceu nas buscas. K (logo): arquivo SVG do arquivo digital oficial da marca (junghansarchiv.de). História pelas fontes abertas: fundada em 1861 em Schramberg por Erhard Junghans e Jakob Zeller-Tobler; maior fábrica de relógios do mundo em 1903; primeiro Meister de pulso em 1936; cronógrafo J88 a partir de 1946; max bill desde 1961/1962 (catálogos divergem); Astro-Quartz em 1970/1971; cronometrista dos Jogos de Munique 1972; Mega 1 em 1990.",
+ "fontes": [
+  {
+   "url": "https://www.junghans.de/en/watches/",
+   "passada": 1,
+   "novos": 212
+  },
+  {
+   "url": "https://junghans.de/en/watches/junghans-max-bill/max-bill-automatic/max-bill-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchcharts.com/watches/brand/junghans",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/junghans.oembed?page=2",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/junghans/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/junghans/products.json?limit=250&page=1",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/junghans",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/junghans/page-2",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/junghans/page-3",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/junghans/page-4",
+   "passada": 1,
+   "novos": 75
+  },
+  {
+   "url": "https://www.thewatchpages.com/brands/junghans/page-5",
+   "passada": 1,
+   "novos": 62
+  },
+  {
+   "url": "https://junghans.de/en/watches/sondereditionen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://junghansarchiv.de/en/watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://junghans.de/en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://junghans-vintage.de/en/uhrenvorstellungen/junghans-und-seine-flieger-chronographen.html",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://junghans-vintage.de/home/en.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fratellowatches.com/tbt-junghans-bundeswehr-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://europeanwatch.com/watch/junghans-j88-0111-vintage-german-military-j88-flieger-chronograph-23029",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.analogshift.com/products/as03299-junghans-german-military-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wallpaper.com/watches-jewellery/junghans-reinterprets-the-first-radio-controlled-watch-in-cool-limited-editions",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchtime.com/brands/steel-watches/junghans-celebrates-the-anniversary-of-the-mega-1000-with-seven-limited-editions",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/novelties/straight-out-of-schramberg-a-round-up-of-junghans-160th-anniversary-limited-editions/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://monochrome-watches.com/junghans-meister-chronoscope-ice-blue-limited-wempe-100-year-partnership-introducing-price",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oracleoftime.com/the-new-junghans-meister-fein-automatic-erhard-edition-celebrates-200-years-of-their-founder/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/junghans-1972-chronoscope-sports-edition-2025-introducing/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Junghans_Mega",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Junghans",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co1132/junghans-mega-1-radio-controlled-wristwatch-1990",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a36831727/junghans-mega-1-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.junghans.de/cn/a-race-against-time",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeline.watch/?p=3158",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kibblewatches.co.uk/products/1970s-junghans-olympic-chronograph-valjoux-7734",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-junghans-trilastic",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/late_1960s_junghans_electronic_wrist_watch_a7905/as170a7905",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/vintage-1970s-gold-plated-junghans-quartz-gents-watch/id-j_9338832",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dumarko.com/products/junghans-vintage-german-watch-quartz-movement-from-1970s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/junghans-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronext.com/junghans",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/junghans-watches/products.json?limit=250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://windupwatchshop.com/collections/junghans-watches/products.json?limit=250",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2017_2018_02_0092_kleinuhr_836bb6230b.pdf",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2012_01_full_9ee0227140.pdf",
+   "passada": 2,
+   "novos": 43
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2008_01_full_5cdfd31c48.pdf",
+   "passada": 2,
+   "novos": 27
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2015_05_full_c39f696fd5.pdf",
+   "passada": 2,
+   "novos": 36
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2021_full_cbc94635d8.pdf",
+   "passada": 2,
+   "novos": 52
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/1991_1992_01_full_b44338e47f.pdf",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2006_02_full_6c55062865.pdf",
+   "passada": 2,
+   "novos": 32
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/1993_1994_01_full_a307e62059.pdf",
+   "passada": 2,
+   "novos": 13
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2011_02_full_41ad83895d.pdf",
+   "passada": 2,
+   "novos": 26
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2023_01_full_EN_559d439c0e.pdf",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/1953_01_full_ce3d895988.pdf",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2006_03_full_8d4255da34.pdf",
+   "passada": 3,
+   "novos": 12
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2017_2018_02_full_a5b1661997.pdf",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2024_01_full_DE_9406cb131c.pdf",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/1990_02_full_5eac5d6631.pdf",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://junghansarchiv.de/uploads/2016_01_0014_kleinuhr_cf549d32c9.pdf",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/junghans-meister-chronoscope-terrassenbau-limited-edition-hands-on-price/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/junghans/limitierte-junghans-meister-handaufzug-in-platin",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/junghans-meister-handaufzug-terrassenbau",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/junghans-introduces-the-latest-max-bill-set-a-two-watch-limited-edition-in-black-white/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://hypebeast.com/2021/8/junghans-60-years-max-bill-three-watch-collectors-set",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.wempe.com/en-int/watches/junghans/?p=3",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://wempe.com/en-int/watches/junghans/?p=1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/junghans-meister-chronoscope-terrassenbau-steel-limited-edition-027-4729-01",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/junghans-max-bill-chronoscope-100-jahre-bauhaus-027-4902-02.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/luxusuhren/junghans-meister-signatur-handaufzug-edition-160",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://beaverbrooks.co.uk/watches/junghans-watches/all",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.goldsmiths.co.uk/c/Brands/Junghans",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
