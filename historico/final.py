@@ -1,42 +1,57 @@
-import re,json
-exec(open('variantes.py').read())
-LIM_SEM={'g400','x100-1'}
-CDN='https://benlydesignwatch.com/cdn/shop/files/'
+import json,re
+m=json.load(open('merge.json')); items={k:list(v) for k,v in m['items'].items()}; order=m['order']; src=m['src']
+d=json.load(open('pass2.json'))
+def n(r): return re.sub(r'[^A-Z0-9]','',r.upper()).replace('O','0')
+fonte_pass={}
+for u in src.values(): fonte_pass.setdefault(u,1)
+for pk,passn in (('P',2),('P3',3)):
+    for u,lst in d[pk].items():
+        fonte_pass.setdefault(u,passn)
+        for a,b,c in lst:
+            k=n(b) if b else n(a)
+            if k in items:
+                if items[k][2].startswith('IMGLESS') and c: items[k][2]=c
+                continue
+            items[k]=[a,b,c or 'IMGLESS'+u,'']; order.append(k); src[k]=u
+for r,c in d['better'].items():
+    k=n(r)
+    if k in items and items[k][2].startswith('IMGLESS'): items[k][2]=c
 out=[]
-def norm(s): return re.sub(r'[^a-z0-9]','',s.lower())
-for l in open('base_benly.tsv'):
-    nome,h,img=l.rstrip('\n').split('|')
-    lim=LIM.get(h); suf=f' – edição limitada de {lim} peças' if lim else (' – edição limitada' if h in LIM_SEM else '')
-    car=C.get(h,'')
-    if h=='x100-1': car='Foto da vitrine da loja oficial (a ficha do produto não abriu).'
-    if h in V:
-        for s,i in V[h]: out.append([f'{nome} {s}{suf}','',CDN+i,car])
-    else: out.append([f'{nome}{suf}','',CDN+img,car])
-for f in ('extras.txt','extras2.txt'):
-    for x in open(f):
-        if not x.strip(): continue
-        n,c,i,e=x.rstrip('\n').split('|')
-        if c and norm(c) in norm(n): c=''
-        out.append([n,c,i,e])
-nomes=[o[0]+(' - '+o[1] if o[1] else '') for o in out]
-import collections; d=[k for k,v in collections.Counter(nomes).items() if v>1]; print('dup',d)
-assert all('|' not in x for o in out for x in o)
-open('dados_Benlydesign.txt','w').write('\n'.join('|'.join(o) for o in out)+'\n'); print(len(out))
-fontes=[]
+for k in order:
+    a,b,c,e=items[k]
+    if c.startswith('IMGLESS'):
+        u=c[7:]; c=u
+        if 'ebay' in u: why='Visto só em anúncio/lista do eBay (link da página, sem foto).'
+        elif 'otto.de' in u: why='Visto só na lista da loja Otto (link da página, sem foto e sem referência).'
+        elif '/products/' in u and u!='https://www.jowissa.com/products/magno-swiss-mens-watch-j4-276-l': why='Visto só no título da página do produto no site oficial, em resultado de busca (link da página, sem foto).'
+        elif 'magno-swiss-mens-watch-j4-276-l' in u: why='Mostrador marrom-dourado com efeito madeira, caixa de 40 mm, data, pulseira de couro preta. Esgotado no site oficial (link da página, sem foto).'
+        else: why='Visto só na lista de produtos do site oficial (link da página, sem foto).'
+        e=(e+' ' if e else '')+why
+    if a=='Seamon 300':
+        a='Seamon 300 – edição limitada'
+        e=(e+' ' if e else '')+'Conjunto de mergulho 300 m (pulseira de aço e de borracha HNBR), quartzo Ronda com indicador de fim de bateria, vidro de safira; o site oficial diz "limitado a 333 / 111 peças" sem dizer qual vale para cada versão.'
+        if b=='J10.079.L': e+=' Mostrador preto raiado, 41 mm, €649,90.'
+    out.append((a,b,c,e.strip()))
+out.sort(key=lambda x:(x[0],x[1]))
+with open('dados_Jowissa.txt','w') as f:
+    for a,b,c,e in out: f.write(f'{a}|{b}|{c}|{e.replace("|","/")}\n')
+print(len(out), sum(1 for x in out if 'cdn' in x[2] or 'ebayimg' in x[2] or 'check24' in x[2]),'com foto')
+# fontes
+from collections import Counter
+cnt=Counter(src.values())
+allf=[]
 seen=set()
-for l in open('parcial_Benlydesign_fontes.txt'):
-    p,u,n=l.strip().split('|'); 
-    if u.lower().rstrip('/') in seen: print('rep',u); continue
-    seen.add(u.lower().rstrip('/')); fontes.append({'url':u,'passada':int(p),'novos':int(n)})
-print('fontes',len(fontes), collections.Counter(f['passada'] for f in fontes))
-obs=("Relógios pesquisados em 16/11/2026 (v653): 171 modelos/cores. O site oficial abriu direto. Vermelha: o site tem muitas fichas antigas escondidas (S1000, S3000, X5000, X7000 em várias cores, ex.: S1000S-B, S3000 preto, X7000 SR/SG2/BW citados só em nomes de arquivo ou avaliações) que não deu para listar todas. "
-     "Muitas fichas antigas aparecem só com o link da página (fotos não aparecem na leitura automática). "
-     "A ficha de fornecedor na HKTDC indica a empresa Shenzhen Benly Watch Co., Ltd (China continental); B/C dizem Hong Kong (o site oficial fala em equipe de Hong Kong) — a verificar. "
-     "D corrigido: 'Relógios digitais e a quartzo de desenho futurista e preço baixo.' → inclui automáticos (Steel Tank, Time Gallery, Time Frame, Lighthouse Mechanical, Cylindrex) — fonte: site oficial.")
-D_novo='Relógios digitais, a quartzo e automáticos de desenho retrofuturista e preço baixo.'
-cfg={"marca":"Benlydesign","usa_codigos":False,"logo":"https://benlydesignwatch.com/cdn/shop/files/logo_new.png?v=1758520853&width=1889",
- "site_bloqueado":"Parcial – benlydesignwatch.com: a ficha x100-1 dá erro e as fotos das fichas antigas (escondidas) não aparecem na leitura automática; revisitar com navegador",
- "vermelho":True,"grande":True,"complemento":False,"observacoes":obs,
- "correcoes":{"D":D_novo},"correcoes_fontes":{"D":["https://benlydesignwatch.com/products/steel-tank","https://benlydesignwatch.com/products/time-gallery"]},
- "fontes":fontes}
-json.dump(cfg,open('marca_Benlydesign.json','w'),ensure_ascii=False,indent=1)
+for l in open('parcial_Jowissa_fontes.txt'):
+    p,u,_=l.strip().split('|'); allf.append((1,u))
+for pk,passn in (('P',2),('P3',3)):
+    for u in d[pk]: allf.append((passn,u))
+extra2=['https://www.jowissa.com/collections/sale?page=12','https://www.jowissa.com/collections/schweizer-uhr-damen?page=35','https://www.jowissa.com/collections/schweizer-uhr-damen?page=41','https://www.jowissa.com/collections/mens-watches']+[
+'https://www.galaxus.de/en/s8/product/jowissa-tiro-analogue-wristwatch-45-mm-wristwatches-6400751','https://www.galaxus.de/en/s8/product/jowissa-lewy-9-analogue-wristwatch-42-mm-wristwatches-10883084','https://www.galaxus.de/en/s8/product/jowissa-lewy-9-analogue-wristwatch-42-mm-wristwatches-9356401','https://www.galaxus.de/en/s8/product/jowissa-tiro-analogue-wristwatch-38-mm-wristwatches-6401175','https://www.galaxus.de/en/s8/product/jowissa-lewy-6-analogue-wristwatch-42-mm-wristwatches-10883100','https://www.galaxus.de/en/s8/product/jowissa-cosmo-swiss-made-36-mm-wristwatches-52341939','https://www.galaxus.de/en/s8/product/jowissa-lewy-3-analogue-wristwatch-42-mm-wristwatches-10883044','https://www.galaxus.de/en/s8/product/jowissa-alto-analogue-wristwatch-35-mm-wristwatches-9356507','https://www.galaxus.at/en/s8/product/jowissa-alto-analogue-wristwatch-35-mm-wristwatches-9356527','https://www.galaxus.de/en/s8/product/jowissa-tiro-analogue-wristwatch-45-mm-wristwatches-9356552']
+for u in extra2: allf.append((2,u))
+fontes=[]
+for p,u in allf:
+    if u in seen: continue
+    seen.add(u); fontes.append({"url":u,"passada":p,"novos":cnt.get(u,0)})
+# image-only src keys (ebay images, product pages from search) -> add to their page
+print(len(fontes), Counter(f['passada'] for f in fontes), sum(f['novos'] for f in fontes))
+json.dump(fontes,open('fontes.json','w'),indent=0)

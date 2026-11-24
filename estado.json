@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1088,
- "ultima_versao": 845,
+ "proxima_linha_marcas": 1089,
+ "ultima_versao": 846,
  "historico": [
   {
    "data": "2026-10-16",
@@ -14749,6 +14749,37 @@
    "fontes": 33,
    "dados": "K não achado (só M)",
    "obs": "site oficial não abriu; Firecrawl sem créditos; Jowissa (grande) fica para a próxima"
+  },
+  {
+   "data": "2026-11-24",
+   "versao": 846,
+   "tipo": "passada_unica",
+   "marcas": [
+    "Jowissa"
+   ],
+   "linha_marcas": 1089,
+   "relogios": 513,
+   "linhas": "125835-126347",
+   "vermelho": true,
+   "grande": true,
+   "fontes": 83,
+   "passadas": {
+    "1": [
+     48,
+     326
+    ],
+    "2": [
+     25,
+     67
+    ],
+    "3": [
+     10,
+     38
+    ]
+   },
+   "site_bloqueado": "parcial (home e products.json pedem permissão)",
+   "dados": "nenhuma célula vazia",
+   "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch; ~290 relógios com link da página no lugar da foto"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -14856,32 +14887,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-24T09:43:59Z",
- "ultimo_sinal": "2026-11-24T10:04:15Z",
- "em_andamento": {
-  "marcas": [
-   "Jowissa"
-  ],
-  "linha_marcas": 1089,
-  "grande": true,
-  "relogios": "historico/parcial_Jowissa_relogios.txt",
-  "fontes": "historico/parcial_Jowissa_fontes.txt",
-  "notas": "historico/notas_Jowissa.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9",
-   "10",
-   "2a passada",
-   "3a passada"
-  ],
-  "passada": 1,
-  "obs": "gravando"
- }
+ "adiadas_obs": {}
 }

@@ -1,0 +1,427 @@
+{
+ "marca": "Jowissa",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – jowissa.com: a página inicial e o products.json não abrem para leitura automática (pedido de permissão sem resposta); as páginas de coleção e de produto vindas de busca abriram; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 24/11/2026 (passada única): 513 modelos, quase todos do site oficial (páginas de coleção), mais eBay, Galaxus, Check24, Otto, Lyst e a ficha do Deutsches Uhrenmuseum (Jowissa 'Digital', c. 1970). Marca vermelha: a loja oficial diz ter 617 itens (com joias e pulseiras) e as páginas de coleção mostram só parte de cada linha ('Load More'); faltam também as linhas antigas (Woodtime e Stonetime dos anos 1990, relógios de pingente facetados dos anos 1960, Pyramid, Luce, Safira 9/48/999, Elegance) sem lista de referências. Cerca de 290 relógios ficaram com o link da página no lugar da foto (as listas lidas não traziam o endereço da imagem).",
+ "fontes": [
+  {
+   "url": "https://www.jowissa.com/collections/all?page=54",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/en-bw/collections/all?page=58",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jowissa.com/products/facet-swiss-ladies-watch-j5-609-m",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jowissa.com/products/facet-strass-swiss-ladies-watch-j5-007-s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/es/pages/collection-group/roma",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/en-bf/pages/design",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jowissa.com/pages/collection-group/facetted-womens-watches",
+   "passada": 1,
+   "novos": 72
+  },
+  {
+   "url": "https://www.jowissa.com/en-dk/pages/collection-group/lewy",
+   "passada": 1,
+   "novos": 32
+  },
+  {
+   "url": "https://jowissa.com/pages/collection-group/chronographs",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jowissa.com/pages/collection-group/elegant-timepieces-for-him",
+   "passada": 1,
+   "novos": 34
+  },
+  {
+   "url": "https://www.jowissa.com/fr-mc/pages/collection-group/man-watch-collections",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jowissa.com/collections/all?page=9",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://jowissa.com/collections/all?page=10",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://jowissa.com/collections/all?page=11",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://jowissa.com/collections/all?page=27",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.jowissa.com/en-km/collections/all?page=44",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jowissa.com/collections/mens-watches?page=6",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.jowissa.com/collections/mens-watches?page=12",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jowissa.com/collections/safira-99",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jowissa.com/collections/safira-12",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/collections/seamon-300m-1000ft-swiss-dive-watch-sets-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jowissa.com/collections/affordable-swiss-automatic-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jowissa.com/collections/tiro-2?page=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jowissa.com/collections/roma",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.jowissa.com/products/seamon-1000ft-300m-black-swiss-dive-watch-set-j10-079-l",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Jowissa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/pages/history",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/blogs/blog/jowissa-75th-anniversary",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bawue.museum-digital.de/pdf/object/58049.pdf?lang=en",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/8063811689",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.ebay.de/p/18072548182",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/16049307115",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/25067582061",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/2320355630",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/itm/114522744063",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/accessories/jowissa-watches-514/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/collections/lewy-chronographs",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jowissa.com/collections/lewy-chronographs?page=3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jowissa.com/collections/sale?page=5",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://jowissa.com/collections/all?page=12",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://jowissa.com/collections/all?page=30",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jowissa.com/collections/two-tone-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://jowissa.com/collections/women-watches?page=9",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.jowissa.com/collections/schweizer-uhr-damen?page=4",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://jowissa.com/en-ch/collections/schweizer-uhr-damen?page=10",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://jowissa.com/collections/schweizer-uhr-damen?page=21",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://jowissa.com/collections/womens-swiss-made-watches?page=21",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.jowissa.com/products/lux-swiss-mens-watch-j7-098-l",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jowissa.com/collections/alto?page=1",
+   "passada": 2,
+   "novos": 14
+  },
+  {
+   "url": "https://jowissa.com/collections/swiss-outlet-watches?page=5",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://www.jowissa.com/collections/two-tone-watch?page=2",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jowissa.com/collections/moon-phase-watch",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.jowissa.com/en-in/collections/swiss-watches-for-men?page=1",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.jowissa.com/products/magno-swiss-mens-watch-j4-276-l",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jowissa.com/pages/reviews",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://preisvergleich.check24.de/ul/hersteller/jowissa/",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.ebay.de/p/8059262925",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.ebay.de/p/6058702310",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.otto.de/damen/accessoires/uhren/schweizer-uhren/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.jowissa.com/en-us/collections/cosmo",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://jowissa.com/collections/anwy",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.jowissa.com/collections/anwy?page=2",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://jowissa.com/collections/aura/brown",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/en-us/collections/facet-brilliant",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://www.jowissa.com/collections/facet-emerald",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://jowissa.com/collections/facet-radiant",
+   "passada": 3,
+   "novos": 8
+  },
+  {
+   "url": "https://jowissa.com/collections/facet?page=2",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://www.jowissa.com/en-us/pages/collection-group/facets-inspired-by-diamonds",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://jowissa.com/pages/facet-collection",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.jowissa.com/collections/sale?page=12",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/collections/schweizer-uhr-damen?page=35",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/collections/schweizer-uhr-damen?page=41",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jowissa.com/collections/mens-watches",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-tiro-analogue-wristwatch-45-mm-wristwatches-6400751",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-lewy-9-analogue-wristwatch-42-mm-wristwatches-10883084",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-lewy-9-analogue-wristwatch-42-mm-wristwatches-9356401",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-tiro-analogue-wristwatch-38-mm-wristwatches-6401175",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-lewy-6-analogue-wristwatch-42-mm-wristwatches-10883100",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-cosmo-swiss-made-36-mm-wristwatches-52341939",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-lewy-3-analogue-wristwatch-42-mm-wristwatches-10883044",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-alto-analogue-wristwatch-35-mm-wristwatches-9356507",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.at/en/s8/product/jowissa-alto-analogue-wristwatch-35-mm-wristwatches-9356527",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/jowissa-tiro-analogue-wristwatch-45-mm-wristwatches-9356552",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
