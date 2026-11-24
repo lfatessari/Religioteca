@@ -1,0 +1,640 @@
+{
+ "marca": "Jean Marcel",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Passada única 24/11/2026: 141 relógios em 3 passadas (marca pintada de vermelho: há muito mais referências antigas e edições de 300 peças do que deu para listar; o EveryWatch pede login e o eBay mostra dezenas de anúncios só com títulos). Corrigido: B 'Suíça' → 'Alemanha' (Jean Marcel Montres GmbH, Birkenfeld; raízes na joalheria Gengenbach, de Pforzheim, nos anos 1920; marca registrada em 1981 por Jürgen Kuhn; relógios Swiss Made montados na Suíça — Europa Star 'Watchmaking in Germany' 2024, WatchTime retrato 2021 e especial 2023); D 'Marca suíça acessível de dress watches e esqueletos' → texto novo (marca alemã de relógios Swiss Made); J 'Coleções skeleton e clássicas' → lista das coleções vistas (Right Time, WatchTime, Europa Star). Ainda a verificar: a Europa Star (2016/2017) e a WatchTime (2016) diziam Baden-Baden; as fontes de 2023 em diante dizem Birkenfeld. jeanmarcel.com não abriu (pedido de permissão). Linhas antigas sem referência achada: Novarum (170.240.32?), Clarus 160.251/160.252, Targa Florio Porsche, Paul Ricard Edition, Nano ultraflach 60.302, Émotion (feminino), Tantum, Vertical Limit Elipse.",
+ "correcoes": {
+  "B": "Alemanha",
+  "D": "Marca alemã de relógios Swiss Made acessíveis, em séries limitadas (em geral 100 ou 300 peças), conhecida pela assinatura \"Mystery\" que aparece no vidro ao bafejar e pelos mostradores Vertical Limit",
+  "J": "Mystery (hora saltante criada com Vincent Calabrese), Clarus, Palmarium, Astrum, Quadrum, Mythos, Splendor, Stealth, Optimum, Maris Ti500"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://www.europastar.com/the-watch-files/watchmaking-in-germany/1004114515-jean-marcel-a-family-affair.html",
+   "https://www.watchtime.net/brands/promotion/special-deutsche-uhrenmarken-jean-marcel",
+   "https://www.watchtime.net/brands/jean-marcel/jean-marcel-die-uhrenmarke-im-portraet"
+  ],
+  "J": [
+   "https://www.righttime.com/rt/jean_marcel/jean_marcelwatches_a.htm",
+   "https://www.watchtime.net/brands/jean-marcel",
+   "https://www.europastar.com/time-keeper/1004115780-jean-marcel-presents-the-maris-ti500-in-titanium.html",
+   "https://www.righttime.com/rt/jean_marcel/160-158-65.htm"
+  ],
+  "D": [
+   "https://www.europastar.com/the-watch-files/watchmaking-in-germany/1004114515-jean-marcel-a-family-affair.html",
+   "https://www.watchtime.net/brands/promotion/special-deutsche-uhrenmarken-jean-marcel",
+   "https://www.watchtime.net/brands/jean-marcel/jean-marcel-die-uhrenmarke-im-portraet"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/jean_marcelwatches.htm",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/clarus.htm",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jean-marcel-16014965-mystery-jump-hour-by-vincent-calabrese-autom-19709",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.com/brands/vintage/jean-marcel-tonneau-mystery",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://300magazine.com/?p=6892",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/jean-marcel/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://chronofactum.com/en/collections/jean-marcel",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/370.60.52.103.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/161.271.35.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/360.267.36.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/564.271.53.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/564.271.35.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/560.267.73.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/560.265.63_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/420.60.62.403_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-palmarium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/uhren-bis-4-000-euro/jean-marcel-mythos-moon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/chronograph/jean-marcel-die-neue-splendor-kollektion",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchtime.net/brands/schweizer-uhren/jean-marcel-somnium",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-zeit-in-der-westentasche",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/edelstahl-uhren/jean-marcel-mythos",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-quadrum-iii-dots",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/deutsche-uhrenhersteller/jean-marcel-quadrum-ii-in-blau",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://asset.everywatch.com/jean-marcel/watch-13894768",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/jean-marcel/astrum-360-267-73",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/jean-marcel/astrum-360-267-63",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/jean-marcel-16015865-tonneau-world-map-automatic-ss-strap-12215",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catawiki.com/en/x/1701-jean-marcel-watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/luxprice-index-watches/jean-marcel.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/221-10129.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/160.170.22.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/234-10143.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/221-10274.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/160-200-36.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/160-172-45.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/360-172-45_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-166-92.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160.215.52.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/221-10144_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/163-196-23.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/160-196-33.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-158-65.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-230-35_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/stealth.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/382.60.65.63_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/jean_marcelwatches_a.htm",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://chronofactum.com/en/products/jean-marcel-splendor-modell-381-60-62",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronofactum.com/en/products/jean-marcel-splendor-modell-382-60-95",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronofactum.com/en/products/jean-marcel-splendor-modell-381-60-32",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronofactum.com/en/products/jean-marcel-splendor-modell-380-60-55",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004115780-jean-marcel-presents-the-maris-ti500-in-titanium.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.europastar.com/1004114706.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004114267.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/the-watch-files/watchmaking-in-germany/1004114515-jean-marcel-a-family-affair.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-die-uhrenmarke-im-portraet",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/promotion/special-deutsche-uhrenmarken-jean-marcel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-35-dixiemes",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchtime.net/brands/edelstahl-uhren/jean-marcel-somnium-handaufzug",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/wasserdichte-uhren/jean-marcel-tropical-diver-mit-tuerkisfarbenem-zifferblatt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/datumsanzeige/jean-marcel-neuer-palmarium-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-senkrecht-stopper",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-astrum-vertical-limit",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-phasenweise",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/taucheruhren/jean-marcel-maris-ti500",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/taucheruhren/jean-marcel-maris-ti500-desert-beach",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://chronofactum.com/en/products/jean-marcel-optimum-511-60-55",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004113349.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004093318.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpro.com/?p=36767",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://luxatic.com/limited-edition-jean-marcel-vertical-limit-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/IMG/pdf/highlight_jeanmarcel_217.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/spotlights/1004089439-jean-marcel-mythos-ref-564-280-32.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/flache-uhren/jean-marcel-stealth",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/itm/336209407399",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/236051489087",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://chronofactum.com/en/products/jean-marcel-pretiosum-361-60-62",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.touchofmodern.com/sales/jean-marcel/semper-560-233-45",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004091954-jean-marcel-pretiosum.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-215-56.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dubai.dubizzle.com/classified/jewelry-watches/watches/mens-watches/2026/5/17/jean-marcel-automatic-chronograph-2-140---2322d99694e843eabe6f3ad731f248b4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Jean-Marcel-Armbanduhren-aus-Edelstahl/31387/bn_7036160781",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.europastar.com/1004089381.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004092504.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-optimum-automatik-u-p",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004088999.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/jean-marcel-neue-quadrum-ii",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/watch-gallery/1004090896-jean-marcel-accuracy.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/jean-marcel/jean-marcel-neustart",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-188-52.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-145-32.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/166.188.52s.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/160-198-52.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/163-170-22_a.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160.232.52.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-200-56.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-137-75.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-197-52.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-220-35.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/pre-owned/160.165_a.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/221-10037.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160.209.55.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-149-55.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-173-65.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/360-168-55.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebth.com/items/11275921-jean-marcel-two-tone-automatic-triple-calendar-chronograph-wristwatch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/147197849356",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/360-223-32.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/360.209.35.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/jean_marcel/360.208.32.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/360.207.45.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/360.209.55_a.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/160-196-23_a.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/221-10633_a.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/260-070-90b.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/pre-owned/260-070-90.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/260.063.90b_a.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/260-063-92l_a.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/jean_marcel/460.081.80.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/99904531-jean-marcel-adrenalin-no-reserve-price-345-60-94-men-2010-2020",
+   "passada": 3,
+   "novos": 1
+  }
+ ]
+}
