@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1096,
-  "ultima_versao": 850,
+  "proxima_linha_marcas": 1097,
+  "ultima_versao": 851,
   "historico": [
     {
       "data": "2026-10-16",
@@ -14876,6 +14876,39 @@
         ]
       },
       "obs": "Junghans (próxima) é grande: sozinha na próxima execução. Pendências 30–32 da Adriatica já estavam na planilha."
+    },
+    {
+      "versao": 851,
+      "data": "2026-11-24",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Junghans"
+      ],
+      "linhas_relogios": "126539-127307",
+      "relogios": 769,
+      "fontes": 68,
+      "passadas": {
+        "1": [
+          40,
+          519
+        ],
+        "2": [
+          11,
+          231
+        ],
+        "3": [
+          17,
+          23
+        ]
+      },
+      "vermelho": true,
+      "grande": true,
+      "lacunas": {
+        "Junghans": [
+          "K"
+        ]
+      },
+      "obs": "Marca grande sozinha; K (logo) pelo marca.json. Firecrawl com créditos (catálogos PDF do arquivo oficial). Junkers e Justex ficam para a próxima."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -14983,35 +15016,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-24T14:43:34Z",
-  "ultimo_sinal": "2026-11-24T15:02:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Junghans"
-    ],
-    "linha_marcas": 1097,
-    "grande": true,
-    "relogios": "historico/parcial_junghans_relogios.txt",
-    "fontes": "historico/parcial_junghans_fontes.txt",
-    "notas": "historico/notas_junghans.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "passada2",
-      "passada3"
-    ],
-    "passada": 3,
-    "obs": "pronto para gravar: historico/dados_junghans.txt + marca_junghans.json"
-  }
+  "adiadas_obs": {}
 }
