@@ -15478,19 +15478,22 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T06:43:35Z",
-  "ultimo_sinal": "2026-11-25T06:43:35Z",
+  "ultimo_sinal": "2026-11-25T06:54:34Z",
   "em_andamento": {
     "marcas": [
-      "KHS-Watch",
-      "Kienzle",
-      "Kieser"
+      "KHS-Watch"
     ],
     "linha_marcas": 1119,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "grande": true,
+    "relogios": "historico/parcial_KHS-Watch_relogios.txt",
+    "fontes": "historico/parcial_KHS-Watch_fontes.txt",
+    "notas": "historico/notas_KHS-Watch.md",
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3"
+    ],
+    "passada": 1,
+    "obs": "Kienzle e Kieser ficam para depois (Kienzle grande)."
   }
 }
