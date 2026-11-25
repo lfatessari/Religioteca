@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1139,
- "ultima_versao": 878,
+ "proxima_linha_marcas": 1142,
+ "ultima_versao": 879,
  "historico": [
   {
    "data": "2026-10-16",
@@ -15631,6 +15631,34 @@
     "Koda Watches",
     "Konifer Watch"
    ]
+  },
+  {
+   "versao": 879,
+   "data": "2026-11-25",
+   "tipo": "passada_unica",
+   "marcas": [
+    "Korloff",
+    "Korsbek"
+   ],
+   "relogios": {
+    "Korloff": 25,
+    "Korsbek": 5
+   },
+   "fontes": {
+    "Korloff": 31,
+    "Korsbek": 15
+   },
+   "vermelho": false,
+   "lote": "historico/passada_unica/lote_879.json",
+   "celulas": {
+    "Korsbek": [
+     "G"
+    ]
+   },
+   "adiadas": [
+    "KPAKE"
+   ],
+   "obs": "site oficial e Firecrawl indisponíveis; tudo por fontes de fora"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -15738,23 +15766,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-25T18:43:44Z",
- "ultimo_sinal": "2026-11-25T18:49:50Z",
- "em_andamento": {
-  "marcas": [
-   "Korloff",
-   "Korsbek"
-  ],
-  "linha_marcas": 1141,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "1"
-  ],
-  "passada": 1,
-  "obs": "KPAKE sem nenhuma fonte de fora em busca; site oficial e Firecrawl indisponíveis"
- }
+ "adiadas_obs": {}
 }
