@@ -15535,7 +15535,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T09:43:29Z",
-  "ultimo_sinal": "2026-11-25T09:43:47Z",
+  "ultimo_sinal": "2026-11-25T09:55:20Z",
   "em_andamento": {
     "marcas": [
       "King Saladeen",
@@ -15547,7 +15547,9 @@
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "pesquisa concluída; gravando v870"
+    ],
     "passada": 1
   }
 }
