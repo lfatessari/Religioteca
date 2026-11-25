@@ -1,0 +1,265 @@
+{
+ "marca": "KHS-Watch",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Passada única em 25/11/2026 (v867): 72 relógios gravados, um por modelo-base (código sem o sufixo da pulseira; os sufixos .NB, .NSGO, .MB etc. ficam em E). 43 do site oficial atual (khs.net) e 29 de linhas antigas ou versões anteriores (Shooter 1ª geração e GMT, Black Platoon, Platoon LDR 2014, Reaper XTAC, Sentinel DC, Landleader, Striker, Enforcer 2015, Missiontimer 3 GMT 2014 etc.), muitos vistos só em anúncio ou matéria, com o link da página em C. Os códigos do site oficial foram tirados dos nomes dos arquivos de foto e batem com o padrão das lojas (ex.: KHS.SH2CXTHC.NB). Corrigido: G khs-watches.com → khs.net (o endereço antigo não abre; a loja oficial é khs.net, com imprint da KHS e.K., Gewerbeallee 4, 45478 Mülheim an der Ruhr, dono Olaf Schmiemann); H @khs_tactical_watches → @khs_net (link do rodapé do site oficial). Ainda a verificar: linhas anteriores a 2015 (Tactical Shadow, Commander Titan, Platoon GMT) podem ter mais referências; a marca KHS foi registrada nos EUA em 2009 por Olaf Schmiemann (Justia) e a empresa diz fornecer relógios a forças especiais 'há mais de 20 anos'. Os SNOON S1 vendidos na loja da KHS não entraram (outra marca). Kienzle e Kieser ficaram para a próxima execução.",
+ "correcoes": {
+  "G": "khs.net",
+  "H": "@khs_net"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://www.khs.net/en/pages/watch-overview",
+   "https://khs.net/en/pages/imprint"
+  ],
+  "H": [
+   "https://www.khs.net/en/pages/watch-overview"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.khs.net/en/pages/watch-overview",
+   "passada": 1,
+   "novos": 41
+  },
+  {
+   "url": "https://www.khs.net/en/collections/watches",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://khs.net/en/pages/imprint",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.khs.net/en/pages/khs-welt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.khs.net/en/berichte",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/watches/khs-tactical-watches/platoon-uhren/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/khs-shooter-mk2-chronograph-khs-sh2cxthc-nb/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.asmc-unlimited.com/en/collections/uhren.oembed?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mail.lynxgear.lv/en/brands/manufacturers/khs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.doublestac.de/en/p/khs-shooter-mkii-xtac",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.sg/products/35339833-khs-black-platoon-c1-tactical-swiss-watch-khs-bpcc1-nb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.tw/products/37813293-khs-sentinel-dc-tactical-swiss-watch-khs-sedct-nb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://airsoftmilsimnews.com/khs-tactical-watches-platoon-ldr/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://archive.airsoftmilsimnews.com/review-khs-enforcer-english",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://popularairsoft.com/news/specops-watch-khs-striker-orange-tactical-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.asmc.com/khs-wrist-watch-reaper-xtac-nato-band-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/p/1849625780",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1348998103",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.manualslib.com/manual/1433382/Khs-Airleader.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://manualedistruzioni.it/khs/watch/platoon-chronograph-c1/user-manual/17dkj",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/military-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://khs.net/en/products/platoon-steel-digital-with-mesh-band-khs-plasd-ms",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/khs-armbanduhr-platoon-stahl-solar-plabss-nxt7/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gunfinder.com/items/5442766",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.khs.net/en/collections/khs-alle-angebote-sale?page=27",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://khs.net/en/products/shooter-mkii-with-nato-band-black-khs-sh2hc-nb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.khs.net/en/products/shooter-mkii-with-nato-band-black-khs-sh2ot-nb",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://khs.net/en/products/platoon-steel-solar-chronograph-with-nato-band-black-khs-plassc-nb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://trademark.justia.com/owners/olaf-schmiemann-2108730",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://archive.airsoftmilsimnews.com/?p=55668",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.de/manual/384276/Khs-Striker.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sherif.ua/en/tovary/chasy/chasy-takticheskie-khs-sh-nt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1653838063",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.nl/products/21806381",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.nl/products/21806377",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.vn/products/173687237",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.co/products/102442943",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://direct.lynxgear.lv/en/online-store/khs-platoon-military-watch,-black.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lynxgear.lv/en/online-store/khs-platoon-black-steel-solar-watch.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ca.trustpilot.com/review/khs.net",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/khs-herren-solaruhr-platoon-natoband-plassf-nsgo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/khs-shooter-mk2-chronograph-khs-sh2cot-nb/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://mytime2watch.blogspot.com/2014/10",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://downloads.khs.net/00_Uhren/Bedienungsanleitungen/KHS_SHOOTER_GMT-Bedienungsanleitung_User_manual-DE_ENG.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/khs-herrenuhr-platoon-solar-plabssf-nsgo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.manualslib.com/manual/729445/Khs-Platoon.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/khs-herrenuhr-quarz-shooter-mkii-sh2hc-nsgo/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.uhrcenter.de/en/product/khs-herrenuhr-mit-textilband-reaper-re2xtf-nb/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
