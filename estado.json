@@ -15645,7 +15645,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T14:43:04Z",
-  "ultimo_sinal": "2026-11-25T14:43:26Z",
+  "ultimo_sinal": "2026-11-25T14:54:22Z",
   "em_andamento": {
     "marcas": [
       "Knut Gadd"
@@ -15655,7 +15655,17 @@
     "relogios": "historico/parcial_Knut_Gadd_relogios.txt",
     "fontes": "historico/parcial_Knut_Gadd_fontes.txt",
     "notas": "historico/notas_Knut_Gadd.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3",
+      "5",
+      "7",
+      "9",
+      "10",
+      "10b"
+    ],
     "passada": 1,
     "obs": "Kobold (grande) fica para a próxima execução"
   }
