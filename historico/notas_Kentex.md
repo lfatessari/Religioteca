@@ -1,3 +1,5 @@
 kentex.jp: PROVENANCE_REQUIRED (web-fetch). Firecrawl sem créditos.
 - Fundada em 1989 por Kenji Hashimoto (watchreport), OEM. Colaborações com animes pelo selo &C (kentex-shop.com): mono, Lycoris Recoil, Eureka Seven, Evangelion Racing, Yukikaze, Yuru Camp (S3, filme, T1), Girls und Panzer, Cowboy Bebop. Falta achar: Evangelion Racing, Yukikaze, Girls und Panzer, Cowboy Bebop, Yuru Camp (outros), Skyman, Landman, AGS, Craftsman 時帆.
 - kentex-shop.com = loja oficial (Copyright Kentex Japan); banner aponta site oficial www.kentex-jp.com (G diz kentex.jp). Sede: Ueno 5-5-8, Taito-ku, Tóquio (PR Times). Kentex Japan Co. fundada em maio de 1994; marca/empresa original 1989 (Kenji Hashimoto, watchreport; 35 anos em 2025 bate com 1989/1990).
+- Passada 1 encerrada (3 últimas sem novidade). Vermelha: marca de 35+ anos, muitos modelos descontinuados (Skyman antigos, Marineman S601M, JSDF Pro etc.) fora da loja; 2ª passada focada em descontinuados.
+- SITE OFICIAL = www.kentex-jp.com (banner 'official' na loja oficial kentex-shop.com, e links /watch/ID/ no nlab). G diz kentex.jp (PROVENANCE_REQUIRED).
