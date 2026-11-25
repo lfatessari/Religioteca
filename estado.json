@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1118,
-  "ultima_versao": 866,
+  "proxima_linha_marcas": 1119,
+  "ultima_versao": 867,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15369,6 +15369,24 @@
       "fontes": 17,
       "lote": "historico/passada_unica/lote_866.json",
       "obs": "KHS-Watch (grande: loja khs.net com 27+ páginas) e Kienzle (grande) ficam para execuções próprias; Firecrawl sem créditos"
+    },
+    {
+      "versao": 867,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "KHS-Watch"
+      ],
+      "linha_marcas": 1119,
+      "relogios": 72,
+      "fontes": 48,
+      "grande": true,
+      "vermelho": false,
+      "correcoes": {
+        "G": "khs.net",
+        "H": "@khs_net"
+      },
+      "obs": "Kienzle (grande) e Kieser ficam para a próxima execução"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15476,33 +15494,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T06:43:35Z",
-  "ultimo_sinal": "2026-11-25T06:58:35Z",
-  "em_andamento": {
-    "marcas": [
-      "KHS-Watch"
-    ],
-    "linha_marcas": 1119,
-    "grande": true,
-    "relogios": "historico/parcial_KHS-Watch_relogios.txt",
-    "fontes": "historico/parcial_KHS-Watch_fontes.txt",
-    "notas": "historico/notas_KHS-Watch.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Kienzle e Kieser ficam para depois (Kienzle grande)."
-  }
+  "adiadas_obs": {}
 }

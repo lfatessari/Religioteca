@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1117,
-  "ultima_versao": 865,
+  "proxima_linha_marcas": 1119,
+  "ultima_versao": 867,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15356,6 +15356,37 @@
         "3": 12
       },
       "obs": "Kerbedanz grande, sozinha. C corrigido para Neuchâtel; K logo (Worldtempus); L site bloqueado. kerbedanz.com não aberto (PROVENANCE_REQUIRED na v864). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próximas: Khemea (notas em historico/notas_Khemea.md) e KHS-Watch."
+    },
+    {
+      "versao": 866,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Khemea"
+      ],
+      "relogios": 2,
+      "vermelho": false,
+      "fontes": 17,
+      "lote": "historico/passada_unica/lote_866.json",
+      "obs": "KHS-Watch (grande: loja khs.net com 27+ páginas) e Kienzle (grande) ficam para execuções próprias; Firecrawl sem créditos"
+    },
+    {
+      "versao": 867,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "KHS-Watch"
+      ],
+      "linha_marcas": 1119,
+      "relogios": 72,
+      "fontes": 48,
+      "grande": true,
+      "vermelho": false,
+      "correcoes": {
+        "G": "khs.net",
+        "H": "@khs_net"
+      },
+      "obs": "Kienzle (grande) e Kieser ficam para a próxima execução"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
