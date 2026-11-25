@@ -1,0 +1,2 @@
+kentex.jp: PROVENANCE_REQUIRED (web-fetch). Firecrawl sem créditos.
+- Fundada em 1989 por Kenji Hashimoto (watchreport), OEM. Colaborações com animes pelo selo &C (kentex-shop.com): mono, Lycoris Recoil, Eureka Seven, Evangelion Racing, Yukikaze, Yuru Camp (S3, filme, T1), Girls und Panzer, Cowboy Bebop. Falta achar: Evangelion Racing, Yukikaze, Girls und Panzer, Cowboy Bebop, Yuru Camp (outros), Skyman, Landman, AGS, Craftsman 時帆.
