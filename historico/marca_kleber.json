@@ -1,0 +1,583 @@
+{
+ "marca": "Kleber Uhrenatelier",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.kleber-uhrenatelier.com/kollektion",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/impressum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/unternehmen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-silber",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-schwarz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-blau",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-braun",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-vintage-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-darkblue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-perlmutt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-bluestar-diamond",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-anthrazit-dlc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-green-day",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-perlmutt-aubergine",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-indian-summer",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-classic-turkisebrillance",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-silber",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-schwarz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-blau",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-braun",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-nachtblau-gs",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-nachtblau",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-perlmutt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-bluesky",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-silverlite",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-blackbrillance",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-goldennight",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-vigour-extravaganza",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-grey-diamond-grande",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-diamonds-and-pearl",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-black-diamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-blue-diamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-heart-of-diamond",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-grey-diamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-shadow-diamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-diamond",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-jeans",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-pearl-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-blue-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-blacknite-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-blacknite",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-blue-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-black-savannah",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-vintage-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-julia",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-shadow",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubmatic-shadow-r",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-silber",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-anthrazit",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-nachtblau",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/date-vintage-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/date-blacksteel-diamond",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/date-blacksteel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-pearlofdiamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-blue-diamond",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/date-blue-savannah",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/date-grey-savannah",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-black-savannah",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-vintagegreenday",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-vintagegreenday-st",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-vintageblack",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-perlmutt",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-soulofdiamonds",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-darknite",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-aubergine",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-diamond",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-date-diamond-strike",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-silber",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-schwarz",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-blau",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-braun",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-martimo",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-blacklite",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-midnightblack",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-move-midnightblack-diamond",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-lunar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-lunar-silber",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-lunar-nachtblau",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/lunar-aubergine",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-lunar-dressup",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-lunar-mysticmoon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-lunar-darkmoon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/clubtime-lunar-black-savannah-moon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/belltim-übersicht",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/belltim/bicolor",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/belltim/chateau",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/belltim/navyblue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/belltim/nightgreen",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/belltim/black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/katalog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wirsindwerder.de/mein-werder-33-frank-kleber/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/kleber-uhrenatelier-clubtime-vigour-black-brillance",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kreativ-exclusiv.com/product-page/kleber-clubtime-vigour-schwarz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kreativ-exclusiv.com/product-page/kleber-clubtime-vigour-silber",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kreativ-exclusiv.com/product-page/kleber-clubtime-vigour-braun",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kreativ-exclusiv.com/product-page/kleber-clubtime-vigour-nachtblau-gs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kreativ-exclusiv.com/product-page/kleber-clubmatic-belltim-wecker-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kreativ-exclusiv.com/product-page/kleber-clubtime-move-blau",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tagesspiegel.de/potsdam/potsdam-mittelmark/prazision-aus-brandenburg-7359706.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/uhren-datenbank/marke/kleber-uhrenatelier/2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/single-post/goldene-unruh-2022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kleber-uhrenatelier.com/single-post/2019/11/07/goldene-unruh-2020",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Kleber Uhrenatelier é o ateliê do relojoeiro Frank Kleber em Bliesendorf, bairro de Werder (Havel), em Brandemburgo, na Alemanha. Kleber não se formou relojoeiro: era técnico comercial (Industriekaufmann) e aprendeu o ofício sozinho, consertando relógios e fazendo peças. A imprensa local o apresentou em 2013 como a única pequena manufatura de relógios de Brandemburgo, quando o seu Clubtime foi indicado ao prêmio Goldene Unruh.\n\nA linha começou com os cronógrafos de corda manual Clubtime Classic (KL2010) e Clubtime Vigour (KL2011), de 42 mm, e cresceu com o Clubtime Move (módulo automático), o Date (data grande), o Lunar (fase da lua), o automático Clubmatic (39 mm) e o despertador de pulso Belltim. Cada coleção tem versões de série e muitos modelos especiais, vários com madrepérola e diamantes, e o ateliê diz não fazer produtos de massa. Os relógios custam de cerca de 4.900 a 6.000 euros nas lojas. [⚠️ a confirmar: primeiro cronógrafo em 2011, Vigour em 2012, registro como relojoeiro em Potsdam em 2013 e produção de cerca de 50 relógios por ano (só wirsindwerder.de, 2016)]",
+  "J": "Clubtime Classic — cronógrafo de corda manual KL2010, 42 mm\n\nClubtime Vigour — cronógrafo KL2011 com indicador de reserva de marcha, cerca de € 5.850\n\nClubtime Move — cronógrafo com módulo automático KL2012, cerca de € 5.200\n\nClubtime Date e Clubtime Lunar — cronógrafos com data grande e fase da lua\n\nClubmatic — automático de 39 mm com data grande, KL2018\n\nBelltim — despertador de pulso KL2021, cerca de € 4.890"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://www.kleber-uhrenatelier.com/unternehmen",
+   "https://www.kleber-uhrenatelier.com/impressum",
+   "https://www.kleber-uhrenatelier.com/kollektion",
+   "https://wirsindwerder.de/mein-werder-33-frank-kleber/",
+   "https://www.tagesspiegel.de/potsdam/potsdam-mittelmark/prazision-aus-brandenburg-7359706.html",
+   "https://www.kreativ-exclusiv.com/product-page/kleber-clubtime-vigour-schwarz"
+  ],
+  "J": [
+   "https://www.kleber-uhrenatelier.com/kollektion",
+   "https://www.kleber-uhrenatelier.com/clubtime-classic",
+   "https://www.kleber-uhrenatelier.com/clubtime-vigour",
+   "https://www.kleber-uhrenatelier.com/clubmatic",
+   "https://www.kreativ-exclusiv.com/product-page/kleber-clubtime-vigour-schwarz"
+  ]
+ },
+ "observacoes": "Relógios (v871): 85 relógios em 7 coleções do site oficial kleber-uhrenatelier.com (Clubtime Classic KL2010, Vigour KL2011, Move KL2012, Date KL2014, Lunar KL2016, Clubmatic KL2018, Belltim KL2021), cada versão com página própria; o código KL20xx é o do calibre/coleção e se repete nas versões. Clubmatic Shadow e Shadow / R sem foto própria na página (link da página). Preços só na loja Kreativ Exclusiv (€ 4.890 a 6.000); o site oficial não mostra preços. Chrono24 (.de e .com), WatchUSeek e uhrforum não abriram. Corrigido: I (texto genérico com '[⚠️ verificar]' → história com fontes: site oficial Unternehmen/Impressum, wirsindwerder.de 2016, Tagesspiegel 13/03/2013) e J ('Peças artesanais sob encomenda' → coleções do site oficial). Ainda a verificar: E=4/F=20.000 parecem baixos para preços de € 4.890–6.000 (≈ R$ 30–37 mil; E/F não alterados)."
+}
