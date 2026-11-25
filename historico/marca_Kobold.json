@@ -1,0 +1,660 @@
+{
+ "marca": "Kobold",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – koboldwatch.com: várias páginas /collections/key-chain/products/... deram PROVENANCE_REQUIRED ou limite de acesso no WebFetch (Lynx, Intrepid, Professional Chronograph I e II, Régulateur, Seal 25th Anniversary, Soarway Diver Safari, Nepal Fire Truck); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://koboldwatch.com/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain?page=1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.koboldwatch.com/collections/key-chain?page=2",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain?page=3",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://koboldwatch.com/products/limits",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bernardwatch.com/Kobold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/kobold-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchreport.com/kobold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/archives/products/kobold-richard-byrd-special-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/seal",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/phantom-black-ops",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/soarway-diver-41",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/arctic-diver-tactical",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/polar-surveyor-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/smg-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/langley-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/soarway-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/phantom-superlight",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/phantom-sl-avantgarde",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/phantom-sl-platinum",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/phantom-sl-18k-rose-gold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/kobold-richard-byrd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/spirit-of-america-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/sir-ernest-shackleton",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/lynx-everest-summit-rock-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/kobold-globetrotter-triple-calendar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/kobold-globetrotter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/products/kobold-seal-ceramic-25th-anniversary-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/pages/history",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://koboldwatch.com/pages/about-kobold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/pages/kobold-news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/kairos-gerd-r-lang-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://koboldwatch.com/products/kobold-convertible",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://reach.dog/shop/kobold-expedition-tools/products/rattrapante-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/kobold-richard-byrd-special-edition-as07111",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/?p=12263",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.betteridge.com/Pre+Owned-Kobold-Richard-Byrd-Special-Edition-001+103+02511/p/40980033",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/kobold/lynx/kn-230854",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/kobold/soarway/kd-212441",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/blog/the-case-for-classic-kobold-watches",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-x-land-rover-polar-surveyor-avantgarde",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-soarway-diver-gmt-automatic-46mm-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/kd915141.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/32358407",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/kobold/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/kobold/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/brands/kobold/",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://analogshift.com/products/kobold-soarway-seal-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/kobold-soarway-seal-diver-mens-automatic-wristwatch-eta-2824-titanium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1763924",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/himalaya-everest-edition",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://koboldwatch.com/products/pandemonium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/lynx-ladies-version",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/intrepid-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/lynx",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/phantom-chronograph-i",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.koboldwatch.com/products/nec-5326-the-navy-seal-watch",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://koboldwatch.com/products/type-c-field-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/richard-e-byrd-ii",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://koboldwatch.com/products/kobold-timemaster-field-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/25th-anniversary-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/pages/kobold-himalaya-everest-edition-a-watch-with-a-story",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-naked-phantom-black-ops-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-phantom-tactical-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-soarway-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-naked-phantom-chronograph-custom",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/?p=2024",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-soarway-diver-43-cali",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-phantom-tactical-chronograph-kd924453",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-fire-engine-red-spirit-of-america",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-soarway-diver-43",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-soarway-diver-kd-242121",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-spirit-of-america-manual",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-seal-bronze-diver",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/?p=17880",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/?p=988",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/kobold/phantom/kn-321866-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/kobold-expedition-tools/products/pandemonium",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/kobold-expedition-tools/products/nec-5326-the-navy-seal-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/kobold-expedition-tools/products/25th-anniversary-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://coolhunting.com/design/kobold-pandemonium-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/industry-news/business/kobold-lofty-business-12376.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://wristwatchreview.com/a-byrd-on-the-wrist",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/kobold/kobold-type-c-field-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1593983/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1903980",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-large-soarway-diver-lsd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/404745327337",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tradera.com/item/1000985/743770486/kobold-arctic-diver-2009",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/kobold_c041-50.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchprosite.com/page-c.collection.detail/kobold-titanium/ti-494961/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/kobold-soarway-gmt-avantgarde-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/kobold-polar-surveyor-duo-on-ebay-ending-nov-21-07-094148-pst-two-gold-watches-to-lust-for",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/kobold-polar-surveyor-in-arctic-blue-50-off-retail-on-ebay-auction-ends-dec-10-07-150440-pst",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.com/featured/kobold-watches-horology-steeltown/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.pittsburghmagazine.com/?p=2296",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/?p=2323",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a85513/30-minutes-michael-kobold/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thingtesting.com/brands/kobold",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/soarway-diver-seal-ceramic",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.koboldwatch.com/products/soarway-diver-seal-monobloc",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://koboldwatch.com/products/soarway-44",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/soarway-transglobe",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/blogs/kobold-chronicle/kobold-soarway-case",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/products/seal",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/blogs/kobold-chronicle/gerd-r-lang-mentorship",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://koboldwatch.com/pages/obituary-gerd-rudiger-lang",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://incollect.com/listings/jewelry/watches/richard-kobold-kobold-arctic-diver-titanium-tactical-watch-with-green-nylon-strap-725320",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://incollect.com/listings/jewelry/watches/richard-kobold-kobold-arctic-diver-titanium-safari-watch-with-black-nylon-strap-725321",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://incollect.com/listings/jewelry/watches/kobold-arctic-diver-titanium-polished-watch-with-gray-nylon-strap-725323",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://reach.dog/shop/the-great-republic/products/kobold-arctic-diver-titanium-polished-watch-with-tan-nylon-strap",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/product/kobold-ivory-phantom-tactical-chronograph-custom/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/?p=2324",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/kobold-expedition-tools/products/polar-surveyor-chronograph",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bernardwatch.com/blog/?p=101",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/kobold-soarway-seal-diver-as02891.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.keepthetime.com/videos/kobold-polar-surveyour-gmt-chrono-watch-video-review/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/kobold-professional-b-pilots-watch",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/kobold_c041-50_a.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/blog/kobold-fire-truck-red-spirit-of-america-automatic",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-spirit-of-america-auto",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://keepthetime.com/product/kobold-phantom-custom-arctic-blue-chronograph-on-honey-louisiana-croc-strap",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/kobold/kobold-phantom-black-ops",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/kobold/kobold-phantom-chronograph",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/kobold/phantom/kn-321866-1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/listing/1751481",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://koboldwatch.com/collections/key-chain/black-dial",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://keepthetime.com/?p=462",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "H": "@kobold_expedition_tools"
+ },
+ "correcoes_fontes": {
+  "H": [
+   "https://koboldwatch.com/"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 25/11/2026 (v876): 104 linhas (catálogo atual do site oficial com versões, mais modelos antigos com referências KD/KN de lojas e bancos de dados). Marca pintada de vermelho: há muitas referências antigas (KD/KN) e configurações sob encomenda que não aparecem em lugar nenhum com foto. H corrigido: @koboldwatch → @kobold_expedition_tools (link de Instagram do próprio site oficial). Só anotado: o site oficial avisa que a Kobold suspendeu as atividades em outubro e novembro de 2026 (retomada prevista para 30/11/2026). Datas da história no site: 1995 início com Gerd-R. Lang, 1998 primeira série (feita com Helmut Sinn), 1999 marca registrada; a página About diz fundação em 1998 em Pittsburgh. Ficaram sem página aberta (só o nome e o preço da coleção): Intrepid, Régulateur Handwound, Professional Chronograph I e II, Seal 25th Anniversary Edition, Soarway Diver Safari, Nepal Fire Truck Expedition Timekeeper. Fora: relógio de bolso Doctor's Pulsometer (KeepTheTime) e versões só citadas sem detalhe (Soarway GMT Tactical, Spirit of America Titanium stick dial)."
+}
