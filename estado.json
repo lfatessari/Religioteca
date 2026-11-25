@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1116,
-  "ultima_versao": 864,
+  "proxima_linha_marcas": 1117,
+  "ultima_versao": 865,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15336,6 +15336,26 @@
         ]
       },
       "obs": "Kent Hall sozinha: Kerbedanz (2ª da lista) é grande (peças únicas; Watchonista lista ~60+), fica sozinha na próxima; Khemea depois (notas em historico/notas_Khemea.md). Home kenthallco.com e kerbedanz.com digitados deram PROVENANCE_REQUIRED; páginas do kenthallco.com vindas de busca abriram. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch."
+    },
+    {
+      "versao": 865,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kerbedanz"
+      ],
+      "linha_marcas": 1117,
+      "relogios": 88,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 90,
+      "passadas": {
+        "1": 64,
+        "2": 14,
+        "3": 12
+      },
+      "obs": "Kerbedanz grande, sozinha. C corrigido para Neuchâtel; K logo (Worldtempus); L site bloqueado. kerbedanz.com não aberto (PROVENANCE_REQUIRED na v864). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próximas: Khemea (notas em historico/notas_Khemea.md) e KHS-Watch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15443,35 +15463,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T04:43:28Z",
-  "ultimo_sinal": "2026-11-25T04:55:47Z",
-  "em_andamento": {
-    "marcas": [
-      "Kerbedanz"
-    ],
-    "linha_marcas": 1117,
-    "grande": true,
-    "relogios": "historico/parcial_Kerbedanz_relogios.txt",
-    "fontes": "historico/parcial_Kerbedanz_fontes.txt",
-    "notas": "historico/notas_Kerbedanz.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada",
-      "3a passada"
-    ],
-    "passada": 1,
-    "obs": "gravando v865"
-  }
+  "adiadas_obs": {}
 }

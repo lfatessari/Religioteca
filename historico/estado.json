@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1115,
-  "ultima_versao": 863,
+  "proxima_linha_marcas": 1117,
+  "ultima_versao": 865,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15305,6 +15305,57 @@
         }
       },
       "obs": "Kentex grande, sozinha. Loja oficial kentex-shop.com abriu (categorias); kentex.jp e kentex-jp.com PROVENANCE_REQUIRED; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próximas: Kent Hall & Co. e Kerbedanz."
+    },
+    {
+      "data": "2026-11-25",
+      "versao": 864,
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kent Hall & Co."
+      ],
+      "linhas_marcas": [
+        1116
+      ],
+      "linhas_relogios": "128436-128475",
+      "relogios": 40,
+      "vermelho": false,
+      "grande": false,
+      "site_bloqueado": false,
+      "fontes": {
+        "Kent Hall & Co.": 33
+      },
+      "passadas": {
+        "1": [
+          33,
+          39
+        ]
+      },
+      "lacunas": {
+        "Kent Hall & Co.": [
+          "K"
+        ]
+      },
+      "obs": "Kent Hall sozinha: Kerbedanz (2ª da lista) é grande (peças únicas; Watchonista lista ~60+), fica sozinha na próxima; Khemea depois (notas em historico/notas_Khemea.md). Home kenthallco.com e kerbedanz.com digitados deram PROVENANCE_REQUIRED; páginas do kenthallco.com vindas de busca abriram. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch."
+    },
+    {
+      "versao": 865,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kerbedanz"
+      ],
+      "linha_marcas": 1117,
+      "relogios": 88,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 90,
+      "passadas": {
+        "1": 64,
+        "2": 14,
+        "3": 12
+      },
+      "obs": "Kerbedanz grande, sozinha. C corrigido para Neuchâtel; K logo (Worldtempus); L site bloqueado. kerbedanz.com não aberto (PROVENANCE_REQUIRED na v864). Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próximas: Khemea (notas em historico/notas_Khemea.md) e KHS-Watch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
