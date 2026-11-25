@@ -9,3 +9,8 @@ Fontes já abertas (25/11/2026), todas com HTTP 200:
 - wristcheck.com/discover/her-hour/her-hour-shona-taines-unexpected-path — fotos res.cloudinary.com/wc-photo/... Khemea-Arkhea-1-_33fc75fb66
 Falta: site oficial (G vazio) e Instagram (H vazio); buscar "Khemea official site", "Shona Taine instagram", AHCI (ahci.ch/?p=105424 apareceu na busca).
 Provável catálogo: Arkhea (Édition Souscription) + Arkhea Black. Marca pequena.
+
+## v866 (25/11/2026) — gravada
+Fontes novas: AHCI (perfil: @khemea_hcl, e-mail contact@khemea-hcl.com, logo), Hodinkee.jp, TLE review ?p=35202, blog repost Hodinkee, Watchmakers United (Arkhea Tourbillon Black, aço 316L, CHF 86.000, foto Soldat.jpg), Quill & Pad 2024, The Time Production (marca + review: Souscription 12 peças, lançada jan/2026, titânio), Business Standard 2026, Orologioblog 2025. geneve.watchmakersunited.com: robots. Firecrawl sem créditos.
+Sem site oficial. Catálogo: Arkhea Tourbillon Black + Édition Souscription (12). Futuras 8 aço/8 ouro rosa (só resumo) não entraram.
+10b: não há blog/site oficial; primeiro modelo = Arkhea (gravado); J da aba Marcas (Arkhea Édition Souscription) encontrado; 17 fontes, 4 tipos (lojas, imprensa, associação AHCI, agregador Dialicious).

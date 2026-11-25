@@ -15465,7 +15465,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T05:43:44Z",
-  "ultimo_sinal": "2026-11-25T05:44:40Z",
+  "ultimo_sinal": "2026-11-25T05:48:39Z",
   "em_andamento": {
     "marcas": [
       "Khemea"
@@ -15475,7 +15475,20 @@
     "relogios": "historico/parcial_Khemea_relogios.txt",
     "fontes": "historico/parcial_Khemea_fontes.txt",
     "notas": "historico/notas_Khemea.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b"
+    ],
     "passada": 1,
     "obs": "KHS-Watch (2ª) tratada como grande (loja khs.net com 27+ páginas de produtos): fica para execução própria; Kienzle grande."
   }
