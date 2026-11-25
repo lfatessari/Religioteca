@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1130,
-  "ultima_versao": 872,
+  "proxima_linha_marcas": 1131,
+  "ultima_versao": 873,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15488,6 +15488,34 @@
       },
       "vermelho": false,
       "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. KLO & Co. adiada (12 fontes). Knis tratada como grande: fica sozinha na próxima execução (notas em historico/notas_Knis.md). Pendências 30–32 da Adriatica já estavam aplicadas."
+    },
+    {
+      "versao": 873,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Knis"
+      ],
+      "relogios": {
+        "Knis": 88
+      },
+      "linhas_relogios": "128900-128987",
+      "grande": true,
+      "vermelho": false,
+      "fontes": {
+        "Knis": 74
+      },
+      "lacunas": [
+        "Knis"
+      ],
+      "correcoes": {
+        "Knis": [
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch (coleções da loja oficial abriram); collections/all deu PROVENANCE_REQUIRED. Pendências 30–32 da Adriatica já aplicadas antes (v872)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15595,29 +15623,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T12:42:28Z",
-  "ultimo_sinal": "2026-11-25T12:55:21Z",
-  "em_andamento": {
-    "marcas": [
-      "Knis"
-    ],
-    "linha_marcas": 1131,
-    "grande": true,
-    "relogios": "historico/parcial_Knis_relogios.txt",
-    "fontes": "historico/parcial_Knis_fontes.txt",
-    "notas": "historico/notas_Knis.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
