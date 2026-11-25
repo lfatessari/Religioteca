@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1123,
-  "ultima_versao": 869,
+  "proxima_linha_marcas": 1126,
+  "ultima_versao": 870,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15426,6 +15426,22 @@
       },
       "vermelho": false,
       "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch"
+    },
+    {
+      "versao": 870,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kiwame Tokyo"
+      ],
+      "relogios": 12,
+      "fontes": 30,
+      "vermelho": false,
+      "adiadas": [
+        "King Saladeen",
+        "Kintoshi Kyoto"
+      ],
+      "obs": "Firecrawl sem créditos; kiwametokyo.com PROVENANCE_REQUIRED"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15533,23 +15549,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T09:43:29Z",
-  "ultimo_sinal": "2026-11-25T09:55:20Z",
-  "em_andamento": {
-    "marcas": [
-      "King Saladeen",
-      "Kintoshi Kyoto",
-      "Kiwame Tokyo"
-    ],
-    "linha_marcas": 1124,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "pesquisa concluída; gravando v870"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
