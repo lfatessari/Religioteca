@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1119,
-  "ultima_versao": 867,
+  "proxima_linha_marcas": 1123,
+  "ultima_versao": 869,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15387,6 +15387,45 @@
         "H": "@khs_net"
       },
       "obs": "Kienzle (grande) e Kieser ficam para a próxima execução"
+    },
+    {
+      "versao": 868,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kienzle"
+      ],
+      "linha_marcas": 1120,
+      "relogios": 128,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": 126,
+      "passadas": {
+        "1": 102,
+        "2": 14,
+        "3": 10
+      },
+      "lote": "historico/passada_unica/lote_868.json",
+      "obs": "Kienzle grande, sozinha. kienzle-uhren.com PROVENANCE_REQUIRED; linha atual pela Bresser; K (logo) não achado; Firecrawl sem créditos. Próximas: Kieser e Kikuchi Nakagawa."
+    },
+    {
+      "versao": 869,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Kieser": 6,
+        "Kikuchi Nakagawa": 5
+      },
+      "adiadas": [
+        "Kilic Watches"
+      ],
+      "fontes": {
+        "Kieser": 19,
+        "Kikuchi Nakagawa": 16
+      },
+      "vermelho": false,
+      "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

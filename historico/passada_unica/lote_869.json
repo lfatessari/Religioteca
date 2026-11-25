@@ -1,0 +1,17 @@
+{
+ "data": "2026-11-25",
+ "prefixo": "Passada única",
+ "celulas": {
+  "Kieser": {
+   "H": "@kieserdesign",
+   "K": "https://kieserdesign-shop.de/cdn/shop/files/Kopie_von_Kieser_Design_10_Company_Logo_white_cropped.png?v=1742979176&width=160",
+   "M": "H e K tirados do site oficial (kieserdesign.de redireciona para a loja kieserdesign-shop.de): link do Instagram no rodapé (instagram.com/kieserdesign) e logo do cabeçalho (versão branca, para fundo escuro)."
+  },
+  "Kikuchi Nakagawa": {
+   "M": "K (logo) não preenchido: o site oficial kikuchi-nakagawa.com/en/ deu PROVENANCE_REQUIRED e nenhuma das 16 fontes abertas mostra o logo da marca; Firecrawl sem créditos."
+  },
+  "Kilic Watches": {
+   "M": "3ª tentativa (25/11/2026) sem resultado: 3 buscas ('\"Kilic Watches\"', 'Kılıç saat Emin İspirli Ref. 5134', '\"Kilic et Freres\" OR \"kilicwatches\"') só trouxeram o mesmo rascunho de usuário da Wikipedia (wiki.riteme.site, 'Artisan d'Horlogerie Kılıc et Frères': Turquia implícita, Emin Ispirli, refs. 5134 e 5124, sem site nem Instagram) e homônimos; a página de marcas de Antony Kilic na Justia não abriu. Nada confirmado por 2ª fonte; relógios adiados (ADIADAS)."
+  }
+ }
+}
