@@ -15496,7 +15496,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T07:43:24Z",
-  "ultimo_sinal": "2026-11-25T07:43:59Z",
+  "ultimo_sinal": "2026-11-25T07:56:23Z",
   "em_andamento": {
     "marcas": [
       "Kienzle"
@@ -15506,7 +15506,12 @@
     "relogios": "historico/parcial_Kienzle_relogios.txt",
     "fontes": "historico/parcial_Kienzle_fontes.txt",
     "notas": "historico/notas_Kienzle.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2b",
+      "3"
+    ],
     "passada": 1,
     "obs": "Kienzle grande, sozinha (Kieser e Kikuchi Nakagawa ficam para a próxima)"
   }
