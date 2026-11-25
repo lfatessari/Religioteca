@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1131,
-  "ultima_versao": 873,
+  "proxima_linha_marcas": 1132,
+  "ultima_versao": 874,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15516,6 +15516,26 @@
         ]
       },
       "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch (coleções da loja oficial abriram); collections/all deu PROVENANCE_REQUIRED. Pendências 30–32 da Adriatica já aplicadas antes (v872)."
+    },
+    {
+      "versao": 874,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Knot Timepiece"
+      ],
+      "linha_marcas": 1132,
+      "relogios": 236,
+      "vermelho": true,
+      "grande": true,
+      "fontes": 75,
+      "passadas": {
+        "1": 47,
+        "2": 13,
+        "3": 15
+      },
+      "dados_marcas": "K (logo) preenchido; I corrigida (fundador Hiromitsu Endo)",
+      "obs": "Knut Gadd e Kobold (grande) ficam para as próximas execuções; Firecrawl esgotou o crédito diário."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15623,33 +15643,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T13:44:17Z",
-  "ultimo_sinal": "2026-11-25T14:00:54Z",
-  "em_andamento": {
-    "marcas": [
-      "Knot Timepiece"
-    ],
-    "linha_marcas": 1132,
-    "grande": true,
-    "relogios": "historico/parcial_Knot_Timepiece_relogios.txt",
-    "fontes": "historico/parcial_Knot_Timepiece_fontes.txt",
-    "notas": "historico/notas_Knot_Timepiece.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada",
-      "3a passada"
-    ],
-    "passada": 3,
-    "obs": "Knot tratada como grande (loja customizável com muitas variações de caixa); Knut Gadd e Kobold ficam para a próxima."
-  }
+  "adiadas_obs": {}
 }
