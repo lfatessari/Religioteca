@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1142,
-  "ultima_versao": 880,
+  "proxima_linha_marcas": 1143,
+  "ultima_versao": 881,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15669,6 +15669,28 @@
       ],
       "itens": "33-35 (D, I, M; K sem logo achado) + fotos/características de 4 linhas da aba Relógios (item 36)",
       "lote": "historico/posts/lote_880.json"
+    },
+    {
+      "versao": 881,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Advisor Watch Company": 2,
+        "Krayon": 17
+      },
+      "complemento": [
+        "Advisor Watch Company"
+      ],
+      "fontes": {
+        "Advisor Watch Company": 16,
+        "Krayon": 33
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_881.json",
+      "site_bloqueado": {
+        "Krayon": "krayon.ch"
+      },
+      "obs": "Advisor = busca extra pedida no item 36 das pendências dos posts; Krieger (linha 1144) fica para a próxima. Firecrawl sem créditos; documento do Projeto não acessível (sem ferramenta Projects)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15776,24 +15798,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T19:44:01Z",
-  "ultimo_sinal": "2026-11-25T20:10:13Z",
-  "em_andamento": {
-    "marcas": [
-      "Advisor Watch Company",
-      "Krayon"
-    ],
-    "linha_marcas": 35,
-    "grande": false,
-    "relogios": "historico/parcial_Advisor_relogios.txt",
-    "fontes": "historico/parcial_Advisor_fontes.txt",
-    "notas": "historico/notas_Advisor.md",
-    "secoes_feitas": [
-      "pesquisa Advisor",
-      "pesquisa Krayon"
-    ],
-    "passada": 1,
-    "obs": "pesquisa feita; arquivos em historico/ (posts_880.json, dados_Krayon.txt, marca_Krayon.json, dados_Advisor_extra_2026-11-25.txt, lote_881.json); falta gravar v880 (posts) e v881"
-  }
+  "adiadas_obs": {}
 }
