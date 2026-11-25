@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1112,
-  "ultima_versao": 860,
+  "proxima_linha_marcas": 1113,
+  "ultima_versao": 861,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15194,6 +15194,38 @@
       "site_bloqueado": true,
       "fontes": 45,
       "obs": "Kelek e Kelton ficam para a próxima (Kees é de peças únicas = grande, sozinha)."
+    },
+    {
+      "data": "2026-11-25",
+      "versao": 861,
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kelek"
+      ],
+      "linhas_marcas": [
+        1113
+      ],
+      "linhas_relogios": "128066-128088",
+      "relogios": 23,
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Kelek": 59
+      },
+      "passadas": {
+        "1": [
+          42,
+          20
+        ],
+        "2": [
+          17,
+          3
+        ]
+      },
+      "lacunas": {
+        "Kelek": []
+      },
+      "obs": "Kelek (marca extinta, vintage extensa) tratada como grande, sozinha; G/H/K não existem. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próximas: Kelton e Kentex."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15301,32 +15333,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T00:43:09Z",
-  "ultimo_sinal": "2026-11-25T00:49:58Z",
-  "em_andamento": {
-    "marcas": [
-      "Kelek"
-    ],
-    "linha_marcas": 1113,
-    "grande": true,
-    "relogios": "historico/parcial_Kelek_relogios.txt",
-    "fontes": "historico/parcial_Kelek_fontes.txt",
-    "notas": "historico/notas_Kelek.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada"
-    ],
-    "passada": 2,
-    "obs": "Kelek tratada como grande (vintage extensa, sem site oficial); Kelton e Kentex ficam para a próxima."
-  }
+  "adiadas_obs": {}
 }
