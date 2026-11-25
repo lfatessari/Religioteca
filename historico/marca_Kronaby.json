@@ -1,0 +1,582 @@
+{
+ "marca": "Kronaby Hybrid Watches",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – kronaby.com: a leitura automática mostra só a página de apresentação, sem catálogo nem links; revisitar com navegador",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Bateria v884 (passada única): 63 relógios (Sekel, Apex, Nord, Carat e Diver) gravados a partir de lojas e bancos de dados, porque o site oficial kronaby.com mostra só uma página de apresentação, sem catálogo. H (Instagram) e K (logo) continuam vazios: nenhuma fonte aberta trouxe a conta oficial nem um arquivo de logo (o Firecrawl estava sem créditos). Ainda a verificar (não corrigido): a marca pertence ao grupo espanhol Festina Lotus desde março de 2019, quando comprou os ativos da Anima AB, de Malmö, em falência (festinagroup.com; The Local, 08/03/2019; Wareable); a primeira coleção (Apex, Sekel, Nord e Carat, 24 variações) foi lançada em 26/01/2017 (Europa Star). Vários relógios entraram com o link da página no lugar da foto (lojas que só devolveram texto). Há modelos antigos (A1000-xxxx) e variações que podem faltar. J parece ter códigos errados: S0712/1 é um Nord (não Carat), segundo WatchesOnline, First Class Watches e Jura; 'Nord N3102/1' e 'Diver D1901/1' não apareceram em nenhuma fonte (os Diver usam S3778/x e S3779/x). Só anotado, não corrigido.",
+ "fontes": [
+  {
+   "url": "https://www.kronaby.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/kronaby-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/kronaby-watches/subcat-sekel",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/kronaby-watches/subcat-apex",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/kronaby",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/kronaby-smartwatches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/pages/kronaby",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/eu/brands/kronaby.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchia.com/en/brands/kronaby.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/kronaby-watches-c-1718/",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://whamond.com/collections/kronaby",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/kronaby-watches?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/kronaby-watch-releases",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/kronaby-smartwatches?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-hybrid-smart-watch-ks3758-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesonline.com/kronaby-sekel-hybrid-smart-watch-s3777-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-s3783-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesonline.com/kronaby-sekel-hybrid-smart-watch-ks2747-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-hybrid-smart-watch-s3777-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/kronaby-sekel-hybrid-smartwatch-38mm-silver-dial-3-link-stainless-steel-bracelet-s05561-p-40508/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/kronaby-apex-hybrid-smartwatch-43mm-black-dial-brown-italian-leather-strap-s07291-p-40500/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://klockia.se/en/kronaby-sekel-41mm-s3777-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-apex-hybrid-smart-watch-s3762-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesonline.com/kronaby-apex-hybrid-smart-watch-ks3115-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-apex-ks0731-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-apex-hybrid-smart-watch-ks3114-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-apex-hybrid-smart-watch-ks3113-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-apex-ks1399-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-s3783-3-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-s3782-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-s3783-2-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesonline.com/kronaby-sekel-hybrid-smart-watch-ks0657-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-hybrid-smart-watch-ks0658-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-hybrid-smart-watch-ks2745-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-ks3125-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-diver-hybrid-smart-watch-s3779-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-diver-hybrid-smart-watch-s3778-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-diver-hybrid-smart-watch-s3778-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3779-1-diver-hybrid-smartwatch.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3779-2-mens-hybrid-smartwatch-two-tone-steel-bracelet.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3778-2-diver-hybrid-smartwatch.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3778-4-mens-hybrid-smartwatch-steel-bracelet.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/kronaby-watches/products/kronaby-diver-s3779-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/kronaby-watch-apex-smartwatch-a1000-0729",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jurawatches.co.uk/collections/smartwatches/products/kronaby-watch-apex-smartwatch-s3763-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamesmoorejewellers.co.uk/shop/kronaby-diver-collection-bluetooth-black-dial-stainless-steel-s3778-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.selfridges.com/KW/en/cat/smartech-kronaby-3121-sekel-sterling-silver-hybrid-smartwatch_5161-10212-A10003121/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.replacements.com/estate-jewelry-mens-watches-kronaby-apex-smartwatch/p/117300881",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/kronaby-watches/subcat-carat",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-diver-457mm-stal-bla-skive-20-atm/360094",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s0719-1-sekel-hybrid-smartwatch.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s1426-1-apex-hybrid-smartwatch.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-sekel-ks0720-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/kronaby-watches/products/kronaby-sekel-s3122-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesonline.com/kronaby-nord-ks3126-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-nord-ks0712-1-hybrid-smart-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/android-smartwatches/products/kronaby-watch-nord-smartwatch-a1000-0712",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-carat-38mm-double-hvit-skive/360098",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-carat-38mm-double-hvit-skive/263070",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://irisimo.com/kronaby-s3764-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en-dk/products/kronaby-apex-hybrid-smartwatch-s0730-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/kronaby-apex-a1000-1426.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/kronaby-38mm-carat-bluetooth-brown-leather-strap-smartwatch-a1000-0717-p-40516/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/kronaby-41mm-sekel-blue-dial-brown-leather-strap-a1000-3124-p-46117",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/kronaby-diver-collection-bluetooth-black-dial-stainless-steel-s37782-p-71344/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.festinagroup.com/festina-lotus-sa-acquires-the-assets-and-rights-of-the-watch-brand-kronaby",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wareable.com/hybrid-smartwatches/kronaby-anima-saved-sale-festina-7057",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelocal.se/20190308/malm-smartwatch-company-rescued-by-spanish-buyer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wareable.com/?p=29627",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aurifo.com/en/history-and-interesting-facts-about-kronaby-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://nordicsemi.com/News/2019/02/Kronaby-hybrid-smartwatch-collection-using-nRF52832-SoC",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004089296.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/kronaby/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/collections/cronaby",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-sekel-hybrid-smartwatch-s2745-2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-carat-hybrid-smartwatch-s2446-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-apex-hybrid-smartwatch-s3113-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-sekel-hybrid-smartwatch-s2748-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-carat-hybrid-smartwatch-s2445-2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-sekel-hybrid-smartwatch-s0718-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en-dk/products/kronaby-sekel-hybrid-smartwatch-s3123-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en-fr/products/kronaby-carat-hybrid-smartwatch-s2445-1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-carat-hybrid-smartwatch-s0668-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://steiner-juwelier.com/en-se/products/kronaby-nord-hybrid-smartwatch-s0711-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://steiner-juwelier.com/en/products/kronaby-sekel-hybrid-smartwatch-s0658-1.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thejewelhut.co.uk/kronaby-carat-bluetooth-rose-tone-mesh-bracelet-smartwatch-a1000-0668",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/kronaby-watch-carat-smartwatch-a1000-0669",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.james-porter.co.uk/kronaby-carat-38mm-rose-bracelet-smartwatch-a1000-2446.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.james-porter.co.uk/kronaby-carat-38mm-rose-bracelet-smartwatch-a1000-1400.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.james-porter.co.uk/kronaby-carat-38mm-rose-leather-strap-smartwatch-a1000-1401.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesonline.com/kronaby-carat-ks1401-1-hybrid-smart-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-carat-38mm-rose-double-hvit-skive/360097",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-carat-38mm-rose-double-bla-skive/263072",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-carat-38mm-double-hvit-skive/263076?context=bedrift",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/kronaby-nord-a1000-0793.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/kronaby-watch-nord-smartwatch-a1000-0711",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elgiganten.se/product/mobiler-tablets-smartklockor/smartwatch/kronaby-hybrid-smartklocka-nord-38mm-stal-vit-urtavla/360101",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.apetogentleman.com/kronaby-watch-collection/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s2748-1-sekel-hybrid-smartwatch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s2747-1-sekel-hybrid-smartwatch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s0658-1-sekel-hybrid-smartwatch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s2745-1-sekel-hybrid-smartwatch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3116-1-apex-hybrid-smartwatch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3111-1-mens-apex-smartwatch-black-dial.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3113-1-apex-hybrid-smartwatch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hsjohnson.com/apps/store-md/products/kronaby-s3125-1-sekel-hybrid-smartwatch.md",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/products/kronaby-mens-steel-hybrid-smartwatch-s3783-1.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.striacroft.co.uk/products/kronaby-apex-41mm-smart-hybrid-watch-s3116-1",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gigantti.fi/product/puhelimet-tabletit-ja-alykellot/alykellot/kronaby-nord-hybridialykello-38-mm-teraskuori-valkoinen-kellotaulu/263077",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elgiganten.dk/product/mobil-tablet-smartwatch/smartwatch/kronaby-hybrid-smartwatch-sekel-43mm-stal-hvid-skive/263078",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-apex-43mm-sort-pvd-sort-skive/263079",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/smartklokker/kronaby-hybrid-smartklokke-apex-43mm-stal-sort-skive/263071",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/kronaby-sekel-hybrid-watch-43-mm-wristwatches-6806175",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wareable.com/hybrid-smartwatches/kronaby-smartwatch-new-collection-sekel-carat-5270",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
