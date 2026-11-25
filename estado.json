@@ -15848,20 +15848,21 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T23:43:55Z",
-  "ultimo_sinal": "2026-11-25T23:45:09Z",
+  "ultimo_sinal": "2026-11-25T23:53:34Z",
   "em_andamento": {
     "marcas": [
-      "Kronsegler",
-      "Kross Studio",
-      "Kshan Watches"
+      "Kronsegler"
     ],
     "linha_marcas": 1146,
-    "grande": false,
+    "grande": true,
     "relogios": "historico/parcial_<marca>_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "notas": "historico/notas_Kronsegler.md",
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
     "passada": 1,
-    "obs": "v885: pendências 37-39 já estavam aplicadas na v883 (só foto do Commando e SteelWhite seguem a verificar); Firecrawl sem créditos"
+    "obs": "v885: pendências 37-39 já estavam aplicadas na v883 (só foto do Commando e SteelWhite seguem a verificar); Firecrawl sem créditos; Kronsegler tratada como grande (sozinha); Kross Studio também grande (notas em historico/notas_Kross_Studio.md); Kshan sem fontes (ver notas_Kronsegler.md)"
   }
 }
