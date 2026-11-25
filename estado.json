@@ -15372,7 +15372,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T02:43:46Z",
-  "ultimo_sinal": "2026-11-25T03:02:07Z",
+  "ultimo_sinal": "2026-11-25T03:11:44Z",
   "em_andamento": {
     "marcas": [
       "Kentex"
@@ -15385,8 +15385,10 @@
     "secoes_feitas": [
       "1",
       "2",
+      "2c",
       "3",
       "7",
+      "8",
       "9"
     ],
     "passada": 1
