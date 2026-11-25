@@ -15414,19 +15414,28 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T03:42:56Z",
-  "ultimo_sinal": "2026-11-25T03:43:41Z",
+  "ultimo_sinal": "2026-11-25T03:56:33Z",
   "em_andamento": {
     "marcas": [
-      "Kent Hall & Co.",
-      "Kerbedanz",
-      "Khemea"
+      "Kent Hall & Co."
     ],
     "linha_marcas": 1116,
     "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "relogios": "historico/parcial_KentHall_relogios.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
+    "notas": "historico/marca_KentHall.json",
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3",
+      "5",
+      "7",
+      "9",
+      "10",
+      "10b"
+    ],
+    "passada": 1,
+    "obs": "Kerbedanz é grande (peças únicas, ~60+ na Watchonista): fica sozinha na próxima. Khemea: notas em historico/notas_Khemea.md"
   }
 }
