@@ -1,0 +1,404 @@
+{
+ "marca": "Knis",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.makuake.com/project/knis05/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/knis06/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/knis07/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/knis08/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/knis09/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/knis10/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/knis11/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/koku.oembed",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-gr.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-blblle.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://knis-kyoto.com/en/products/kn004-svbkc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/pages/store",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://store.shopping.yahoo.co.jp/cameron/kn004.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bcnretail.com/news/detail/20241025_463661.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://review.rakuten.co.jp/item/1/262841_10110097/c8uc-iapqz-1qc1wr_1_1367544798/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://the-gadgeteer.com/2026/11/05/knis-cut-a-real-meteorite-for-its-820-anniversary-automatic-and-made-just-100/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/knis-kyoto/knis-kyoto-kn001-meteorite-automatic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://knis-kyoto.com/en/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/meteorite-dial",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://knis-kyoto.com/en/collections/meteorite-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/aventurine-dial",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://knis-kyoto.com/en/collections/aventurine-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/collections/knis-traditionelle-handwerkskunst-aus-kyoto",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/collections/knis-traditionelle-handwerkskunst-aus-kyoto?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/knis-classic-gmt-automatik-grun-rice-beads-bracelet-38-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/knis-kyoto-muoninalusta-meteorit-kn001-mtbkle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/knis-automatik-kodou-small-seconds-mit-lila-zifferblatt-38-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/knis-automatik-kodou-small-seconds-mit-lachsrosa-zifferblatt-38-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/knis-automatik-kodou-small-seconds-mit-braunem-zifferblatt-38-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn007-bk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn007-pp",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn007-mt.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn008-grbrle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn008-gdrc.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn008-sgbrle.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn008-grrc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn008-sgrc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn003-bkcale",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://knis-kyoto.com/en/products/kn003-blnvle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-avsv",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-avrg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-avrgblle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-sg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-mtbl.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-mtblle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn001-mtbk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn009-whrc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn009-pprc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn009-iblblle",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn009-whbkle",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn009-brrc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/products/kn009-brbrle",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/sunray-dial",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/retro-modern",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/retro-military",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/rectangular",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/gmt-diver",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/classic-gmt",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/kodou",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/collections/knis-traditionelle-handwerkskunst-aus-kyoto?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.notebookcheck.net/Japanese-watchmaker-puts-real-meteorite-into-new-automatic-watch-limited-to-just-100-pieces.1443338.0.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/pages/about-knis",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/knis-retro-modern-super-luminova-kn002-bk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/knis-retro-modern-super-luminova-kn002-bk-kopie",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/sunray-dial?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/sunray-dial?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/retro-modern?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/retro-military?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/retro-military?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/gmt-diver?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/classic-gmt?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/kodou?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knis-kyoto.com/collections/kodou?page=3",
+   "passada": 1,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "H": "@knis_jp",
+  "I": "A KNIS é uma microbrand japonesa sediada em Kyoto, dedicada a relógios de design contemporâneo com forte identidade artesanal japonesa. A marca faz parte da cena de pequenas casas independentes que valorizam o \"Made in Japan\" e o artesanato regional.\n\nOs modelos tipicamente combinam design minimalista japonês com bom acabamento e movimentos japoneses, com produção em pequenas séries e atenção aos detalhes, dirigindo-se a quem valoriza estética nipônica refinada a preços acessíveis.\n\nA marca nasceu em Kyoto em 2021, criada pela empresa LIME, do kyotense Keisuke Arai (新井敬介; o site em inglês grafa o nome como \"Keisuke Niii\"), que cuida do desenho, da produção e da venda; os relógios são montados e acabados no Japão. O primeiro sucesso foi o relógio com mostrador de meteorito, e em novembro de 2026 a marca lançou uma edição de 5º aniversário de 100 peças. Desde 2024 lança coleções por financiamento coletivo na Makuake (militar de 38 mm, retangular, KODOU, KOKU, GMT clássico e GMT de mergulho com meteorito), e em março de 2026 abriu a loja principal na região de Sanjo-Teramachi, em Kyoto.",
+  "J": "Meteorite Dial (mostrador de meteorito), Sunray Dial, Aventurine Dial, Retro Modern, Retro Military, Classic Rectangular, KOKU, KODOU, GMT Diver e Classic GMT"
+ },
+ "correcoes_fontes": {
+  "H": [
+   "https://en.knis-kyoto.com/pages/store"
+  ],
+  "I": [
+   "https://en.knis-kyoto.com/pages/about-knis",
+   "https://www.notebookcheck.net/Japanese-watchmaker-puts-real-meteorite-into-new-automatic-watch-limited-to-just-100-pieces.1443338.0.html",
+   "https://www.makuake.com/project/knis05/",
+   "https://www.makuake.com/project/knis10/",
+   "https://en.knis-kyoto.com/pages/store",
+   "https://www.bcnretail.com/news/detail/20241025_463661.html"
+  ],
+  "J": [
+   "https://en.knis-kyoto.com/collections",
+   "https://knis-kyoto.com/en/collections"
+  ]
+ },
+ "observacoes": "Passada única 25/11/2026 (v873): 88 relógios gravados (catálogo das 10 coleções da loja oficial en.knis-kyoto.com, conferido com japanese-microbrands.com e Makuake). Corrigido: H @knis_kyoto → @knis_jp (Instagram ligado no site oficial, página Store); J genérico → as 10 coleções do site oficial; I: o parágrafo '[⚠️ informação pública confiável limitada…]' foi trocado pelos fatos confirmados (fundação 2021 em Kyoto e fundador: página About do site + Makuake knis05–knis11; empresa LIME: Makuake e BCN Retail 25/10/2024; meteorito e edição de 5º aniversário de 100 peças: Notebookcheck e The Gadgeteer, nov/2026; loja de Sanjo-Teramachi aberta em 19/03/2026: página Store). K continua vazio: o cabeçalho do site mostra 'KNIS' em texto, sem arquivo de logo (só a imagem de compartilhamento knis01-sns.jpg). Ainda a verificar: romanização do fundador (Makuake: 新井敬介 = Keisuke Arai; site em inglês: 'Keisuke Niii'). Códigos vistos na v872 e não reencontrados (KN001-SV, KN003-LUMI-BK) ficaram de fora. Na loja oficial, as páginas KN008-BLRC e KN008-BKRC têm título 'Silver / KN008-SVRC' por engano; o código veio do endereço e do nome da foto."
+}
