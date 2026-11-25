@@ -15720,7 +15720,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T17:43:04Z",
-  "ultimo_sinal": "2026-11-25T17:52:53Z",
+  "ultimo_sinal": "2026-11-25T18:00:51Z",
   "em_andamento": {
     "marcas": [
       "Konstantin Chaykin"
@@ -15733,9 +15733,19 @@
     "secoes_feitas": [
       "1",
       "2",
-      "3"
+      "2c",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b",
+      "2a passada",
+      "3a passada"
     ],
     "passada": 1,
-    "obs": "Koda Watches e Konifer Watch adiadas nesta execução (sites PROVENANCE, sem Firecrawl)."
+    "obs": "Koda Watches e Konifer Watch adiadas nesta execução (sites PROVENANCE, sem Firecrawl). Pesquisa concluída (75 fontes, 86 relógios); gravando."
   }
 }
