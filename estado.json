@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1114,
-  "ultima_versao": 862,
+  "proxima_linha_marcas": 1115,
+  "ultima_versao": 863,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15263,6 +15263,48 @@
         "Kelton": []
       },
       "obs": "Kelton grande (139 produtos na Ocarat + vintage Timex), sozinha; kelton.fr home/collections PROVENANCE_REQUIRED; Firecrawl não testado (sem créditos nas últimas execuções); WebFetch só pelo ajudante web-fetch. Próximas: Kentex (provável grande) e Kent Hall & Co."
+    },
+    {
+      "data": "2026-11-25",
+      "versao": 863,
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kentex"
+      ],
+      "linhas_marcas": [
+        1115
+      ],
+      "linhas_relogios": "128275-128435",
+      "relogios": 161,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": true,
+      "fontes": {
+        "Kentex": 125
+      },
+      "passadas": {
+        "1": [
+          94,
+          155
+        ],
+        "2": [
+          21,
+          7
+        ],
+        "3": [
+          10,
+          2
+        ]
+      },
+      "lacunas": {
+        "Kentex": []
+      },
+      "correcoes": {
+        "Kentex": {
+          "G": "kentex.jp -> kentex-jp.com"
+        }
+      },
+      "obs": "Kentex grande, sozinha. Loja oficial kentex-shop.com abriu (categorias); kentex.jp e kentex-jp.com PROVENANCE_REQUIRED; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próximas: Kent Hall & Co. e Kerbedanz."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15370,33 +15412,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T02:43:46Z",
-  "ultimo_sinal": "2026-11-25T03:18:19Z",
-  "em_andamento": {
-    "marcas": [
-      "Kentex"
-    ],
-    "linha_marcas": 1115,
-    "grande": true,
-    "relogios": "historico/parcial_Kentex_relogios.json",
-    "fontes": "historico/parcial_Kentex_fontes.txt",
-    "notas": "historico/notas_Kentex.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "passada2",
-      "gravacao"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }
