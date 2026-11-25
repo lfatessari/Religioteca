@@ -1,0 +1,642 @@
+{
+ "marca": "Kienzle",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – kienzle-uhren.com (PROVENANCE_REQUIRED na leitura automática); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados na v868 (Kienzle grande, vermelha, 3 passadas). G (kienzle-uhren.com) não abriu para leitura automática (PROVENANCE_REQUIRED); a Wikipedia e o próprio site citam www.kienzle1822.de como site da marca, operado desde 2024 pela Kienzle1822 GmbH em Wels (Áustria), segundo a página de história do site — G e C ficaram como estavam (sem certeza de qual site é o atual; um artigo de 2020 da Time Transformed cita ainda a Eurotime Solution S.r.l. de Milão). A linha atual (Flieger, Pilotimer, Reisen, Taucher, Poseidon24, Classic, Lady Munich/Bonn) é vendida pela Bresser (bresser.de/kienzle). Vermelho: centenas de referências 2002–2020 (Poseidon, 1822, Klassik, Funk etc.) e vintage sem nome; ficaram de fora Heliomat (1972) e outros citados só no histórico, sem foto.",
+ "fontes": [
+  {
+   "url": "https://www.bresser.de/kienzle",
+   "passada": 1,
+   "novos": 44
+  },
+  {
+   "url": "https://www.bresser.de/brand/kienzle/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.com/kienzle",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.kienzle1822.de/uber-uns",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.kienzle1822.de/produkte/reisen-chrono",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Kienzle_Uhren",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-taucher-automatic-jbl-kg411d-15998",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-classic-mechanical-edition-km425a-16013",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-flieger-gmt-automatic-kt416i-15979",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-classic-frankfurt-kg415a-16018",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-flieger-automatic-km416h-15972",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-lady-bonn-quarz-kl627e-16025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-reisen-quarz-chrono-kc408b-15981",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-reisen-quarz-chrono-kc408a-15980",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-poseidon24-quarz-up703-16005",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-taucher-automatic-kg411b-15996",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-lady-bonn-quarz-kl627d-16024",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-lady-munich-quarz-kl612d-roman-16020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-quarz-chrono-kc416g-15974",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-reisen-gmt-quarz-kg423b-15985",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-taucher-automatic-jbl-kg411e-15999",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-taucher-automatic-jbl-kg411f-16000",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-taucher-automatic-kg411c-15997",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-taucher-automatic-kg411a-15995",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-taucher-quarz-kg410b-15993",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-lady-bonn-quarz-kl627a-16023",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-classic-mechanical-edition-km425b-16014",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-automatic-km416a-15970",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-automatic-km416g-15971",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-lady-munich-quarz-kl612b-arabic-16021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-taucher-quarz-kg410a-15992",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-reisen-gmt-quarz-kg423a-15984",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-poseidon24-quarz-up705-16007",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-poseidon24-quarz-up706-16008",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-reisen-quarz-chrono-kc408c-15982",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-poseidon24-quarz-up710-16012",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.kienzle1822.de/produkte/reisen-200-jahre",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-1822-chronograph-stainless-steel-silver-dial-watch-kienzle-kzv83091342470",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/kienzle-1822-watch-v83091342470.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-klassik-titanium-black-dial-watch-kienzle-kzv81091343250",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/kienzle-montgolfier-yellow-gold-chronograph-automatic-wristwatch/id-j_2153243",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004085059.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-solar-kg416q-16583",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-solar-kg416o-16579",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-solar-kg416p-16581",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-quarz-kg416g-15967",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-quarz-kg416h-15968",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-quarz-kg416i-15969",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-quarz-chrono-kc416h-15975",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-quarz-chrono-kc416i-15976",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-flieger-automatic-km416i-15973",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-pilotimer-automatic-power-reserve-km418-15990",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-pilotimer-automatic-date-km419-15991",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-pilotimer-automatic-chrono-km417-15989",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresserbenelux.nl/p/kienzle-polshorloge-poseidon24-quarz-up707-16009",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.fr/p/kienzle-montre-bracelet-poseidon24-quarz-up708-16010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.fr/p/kienzle-montre-bracelet-poseidon24-quarz-up701-16003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.fr/p/kienzle-montre-bracelet-poseidon24-quarz-up702-16004",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-lady-munich-quarz-kl612b-roman-16019",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-classic-frankfurt-kg415plc-16016",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-reisen-quarz-chrono-kc408d-15983",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-flieger-gmt-automatic-kt416g-15977",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresser.de/p/kienzle-armbanduhr-flieger-gmt-automatic-kt416h-15978",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-poseidon24-quarz-up709-16011",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-taucher-quarz-kg410c-15994",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bresseruk.com/p/kienzle-wristwatch-taucher-gra-automatic-kg411gra-a-16001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/kienzle-heritage-1956",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kienzle1822.de/en-gb/geschichte",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicwatch.com/kienzle-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/pages/brand-directory-kienzle",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/286035002437",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/397222913191",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://vintageradar.com/products/all-white-kienzle-alfa-mechanical-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/5012068158",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1519919181",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/154220896",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1619985631",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1619953140",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1323776623",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2212473743",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/9046781402",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1652556347",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/4012079078",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2211220480",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/17009055655",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2264656285",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/3005861038",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/10045591670",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Kienzle-Poseidon-Armbanduhren/31387/bn_7034236147",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://en.kienzle1822.de/produkte/munich-lady",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/pid/445689/mens-klassik-stainless-steel-white-dial-watch-kienzle-kzv81232120032",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/356896293991",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/itm/164414282911",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1886234",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/324038800905",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.kienzle1822.de/automatikuhren",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/5040625118",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1219954837",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/2021970546",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1019948044",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/26076696123",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timetransformed.com/?p=16776",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/99965851-kienzle-life-2002-jump-hour-no-reserve-price-men-1970-1979",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/397704430482",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/397764449776",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/126348048406",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/205229534386",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bawue.museum-digital.de/pdf/object/65321.pdf?lang=en",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://artsandculture.google.com/asset/UQGj99HAzPjLkA",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcrunch.com/ch053n0n3/posts/back-in-time-2-329960",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/166176184484",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Kienzle-Armbanduhren-mit-1960-1969/31387/bn_7116784943",
+   "passada": 2,
+   "novos": 10
+  },
+  {
+   "url": "https://www.ebay.de/b/Kienzle-Armbanduhren-mit-1970-1979/31387/bn_7116730276",
+   "passada": 2,
+   "novos": 7
+  },
+  {
+   "url": "https://www.filmportal.de/print/1676276",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.christophlorenz.de/watch/movements/k/kienzle/kienzle_058b25.php?l=en",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dg-chrono.de/?p=1069",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Mechanische-Handaufzugs-Kienzle-Armbanduhren-mit-Vintage/31387/bn_84439542",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/b/Rechteckige-Armbanduhren-aus-Edelstahl-mit-Kienzle/31387/bn_24703673",
+   "passada": 3,
+   "novos": 11
+  },
+  {
+   "url": "https://www.ebay.de/b/Kienzle-Armbanduhren-mit-Datumsanzeige/31387/bn_7110765786",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/b/Analoge-Quarz-Armbanduhren-mit-Kienzle/31387/bn_7036693339",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://en.kienzle1822.de/quarzuhren",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/316428299435",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/p/19073662030",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/116406251893",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.at/itm/123738960987",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://aviation-watches.blogspot.com/2009/11/kienzle-watch.html",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
