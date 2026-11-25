@@ -15303,7 +15303,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T00:43:09Z",
-  "ultimo_sinal": "2026-11-25T00:45:24Z",
+  "ultimo_sinal": "2026-11-25T00:47:46Z",
   "em_andamento": {
     "marcas": [
       "Kelek"
@@ -15314,9 +15314,17 @@
     "fontes": "historico/parcial_Kelek_fontes.txt",
     "notas": "historico/notas_Kelek.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "Kelek tratada como grande (vintage extensa, sem site oficial); Kelton e Kentex ficam para a próxima."
   }
 }
