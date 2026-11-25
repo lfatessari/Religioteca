@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1132,
-  "ultima_versao": 874,
+  "proxima_linha_marcas": 1133,
+  "ultima_versao": 875,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15536,6 +15536,33 @@
       },
       "dados_marcas": "K (logo) preenchido; I corrigida (fundador Hiromitsu Endo)",
       "obs": "Knut Gadd e Kobold (grande) ficam para as próximas execuções; Firecrawl esgotou o crédito diário."
+    },
+    {
+      "versao": 875,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Knut Gadd"
+      ],
+      "linha_marcas": 1133,
+      "relogios": {
+        "Knut Gadd": 28
+      },
+      "linhas_relogios": "129224-129251",
+      "grande": false,
+      "vermelho": false,
+      "fontes": {
+        "Knut Gadd": 45
+      },
+      "lacunas": [
+        "Knut Gadd"
+      ],
+      "correcoes": {
+        "Knut Gadd": [
+          "J"
+        ]
+      },
+      "obs": "Kobold (grande) fica para a próxima execução, sozinha. Firecrawl sem créditos; páginas pelo ajudante web-fetch; home e /products/ diretos do site oficial deram PROVENANCE_REQUIRED, coleções abriram. H não achado. Sem pendências de posts novas (Adriatica já aplicada na v872)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15643,30 +15670,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T14:43:04Z",
-  "ultimo_sinal": "2026-11-25T14:54:22Z",
-  "em_andamento": {
-    "marcas": [
-      "Knut Gadd"
-    ],
-    "linha_marcas": 1133,
-    "grande": false,
-    "relogios": "historico/parcial_Knut_Gadd_relogios.txt",
-    "fontes": "historico/parcial_Knut_Gadd_fontes.txt",
-    "notas": "historico/notas_Knut_Gadd.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Kobold (grande) fica para a próxima execução"
-  }
+  "adiadas_obs": {}
 }
