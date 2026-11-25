@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1142,
-  "ultima_versao": 879,
+  "ultima_versao": 880,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15659,6 +15659,16 @@
         "KPAKE"
       ],
       "obs": "site oficial e Firecrawl indisponíveis; tudo por fontes de fora"
+    },
+    {
+      "versao": 880,
+      "data": "2026-11-25",
+      "tipo": "posts",
+      "marcas": [
+        "Advisor Watch Company"
+      ],
+      "itens": "33-35 (D, I, M; K sem logo achado) + fotos/características de 4 linhas da aba Relógios (item 36)",
+      "lote": "historico/posts/lote_880.json"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15768,7 +15778,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T19:44:01Z",
-  "ultimo_sinal": "2026-11-25T20:00:52Z",
+  "ultimo_sinal": "2026-11-25T20:10:13Z",
   "em_andamento": {
     "marcas": [
       "Advisor Watch Company",
