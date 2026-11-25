@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1143,
- "ultima_versao": 881,
+ "proxima_linha_marcas": 1144,
+ "ultima_versao": 882,
  "historico": [
   {
    "data": "2026-10-16",
@@ -15691,6 +15691,28 @@
     "Krayon": "krayon.ch"
    },
    "obs": "Advisor = busca extra pedida no item 36 das pendências dos posts; Krieger (linha 1144) fica para a próxima. Firecrawl sem créditos; documento do Projeto não acessível (sem ferramenta Projects)."
+  },
+  {
+   "versao": 882,
+   "data": "2026-11-25",
+   "tipo": "passada_unica",
+   "marcas_modelos": {
+    "Krieger": 38
+   },
+   "fontes": {
+    "Krieger": 35
+   },
+   "vermelho": false,
+   "lote": "historico/passada_unica/lote_882.json",
+   "site_bloqueado": {
+    "Krieger": "kriegerwatch.com"
+   },
+   "correcoes": {
+    "Krieger": [
+     "I"
+    ]
+   },
+   "obs": "Kronaby (1145) parece grande: fica sozinha na próxima; Kronsegler (1146) depois. Firecrawl sem créditos; pendências 33-36 da Advisor já estavam aplicadas (v880/v881)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -15798,32 +15820,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-25T20:44:01Z",
- "ultimo_sinal": "2026-11-25T20:54:21Z",
- "em_andamento": {
-  "marcas": [
-   "Krieger"
-  ],
-  "linha_marcas": 1144,
-  "grande": false,
-  "relogios": "historico/parcial_Krieger_relogios.txt",
-  "fontes": "historico/parcial_Krieger_fontes.txt",
-  "notas": "historico/notas_Krieger.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b"
-  ],
-  "passada": 1,
-  "obs": "Kronaby (1145) parece grande: fica sozinha na próxima; Kronsegler depois dela"
- }
+ "adiadas_obs": {}
 }
