@@ -1,1 +1,7 @@
-# Koda Watches: site PROVENANCE_REQUIRED; 2 buscas sem nenhuma fonte de fora
+# Koda Watches — notas (v877, adiada para a próxima execução como GRANDE)
+Ateliê de modding em Sydney (George), blog WordPress com um artigo por montagem desde jun/2020 (categorias Builds, Engraving, Koda Design). Muitas peças únicas e mods de outras marcas (Tissot PRX, Casio, Citizen) — tratar como grande, sozinha.
+Fontes já abertas (25/11/2026): kodawatches.com/ (abriu na 2ª tentativa via busca), /2023/, /2024/, posts koda-pilot-36, koda-flight-vh31, koda-xii, koda-a-prx-stainless-steel-dial, koda-pulsometer-asthmometer, koda-big-date; namokimods "Why We Mod #15".
+Posts 2023: the-devil-is-in-the-details, koda-countdown, koda-bronze-36, koda-moto-date-at-6, prx-35-stainless-blue-field, koda-flight-vh31, koda-big-date, koda-fabric-dial, koda-vintage-pilot, tissot-prx-powermatic-40mm-custom-dial.
+Posts 2024: casio g-shock button mod, a-diver, music-maker, casio f-91w mod, modern-vintage-koda-signature, koda-dichromatic-desk-diver, koda-steel-desk-diver, koda-pulsometer-asthmometer, citizen-tsuyosa-kanji-dial, voyager-gmt.
+Outros: 2022/11/koda-big-pilot-6498, 2026/11/prx-eq, 2026/07/making-of-a-memento, 2026/07/arsenal-clock-end-watch, 2026/03/koda-small-zero, 2025/09/ace-king-variance-master, 2025/07/a-diver-version-2. Faltam: archives 2020-2022, 2025, 2026, /builds/, /koda-design/, /category/koda-design/.
+Dados: Instagram @koda_watches; preço (comentário do Pilot 36): AU$ 650 a mais de mil (ETA 2824); favicon cropped-faviconA-270x270.png; logo "Diamond_Logo" (namoki). Falta E, F, K.

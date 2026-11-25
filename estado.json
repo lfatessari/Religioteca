@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1134,
-  "ultima_versao": 876,
+  "proxima_linha_marcas": 1137,
+  "ultima_versao": 877,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15595,6 +15595,22 @@
         ]
       },
       "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch; muitas fichas /collections/key-chain/products/ deram PROVENANCE_REQUIRED/limite e algumas foram abertas pelo endereço /products/ vindo de busca. K (logo) não achado. Sem pendências de posts novas (Adriatica já aplicada na v837). Próximas: Koda Watches e Kollokium."
+    },
+    {
+      "versao": 877,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Kollokium": 12,
+        "Kompas": 4
+      },
+      "lote": "historico/passada_unica/lote_877.json",
+      "fontes": {
+        "Kollokium": 43,
+        "Kompas": 15
+      },
+      "vermelho": false,
+      "obs": "Koda Watches (linha 1135) adiada para a próxima execução como marca grande (ateliê de modding com um artigo por montagem); notas em historico/notas_Koda.md"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15702,23 +15718,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T16:43:04Z",
-  "ultimo_sinal": "2026-11-25T16:54:49Z",
-  "em_andamento": {
-    "marcas": [
-      "Koda Watches",
-      "Kollokium",
-      "Kompas"
-    ],
-    "linha_marcas": 1135,
-    "grande": false,
-    "relogios": "historico/dados_Kollokium.txt",
-    "fontes": "historico/marca_Kollokium.json",
-    "notas": "historico/notas_Kollokium.md",
-    "secoes_feitas": [
-      "Kollokium completa"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
