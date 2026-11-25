@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1133,
-  "ultima_versao": 875,
+  "proxima_linha_marcas": 1134,
+  "ultima_versao": 876,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15563,6 +15563,38 @@
         ]
       },
       "obs": "Kobold (grande) fica para a próxima execução, sozinha. Firecrawl sem créditos; páginas pelo ajudante web-fetch; home e /products/ diretos do site oficial deram PROVENANCE_REQUIRED, coleções abriram. H não achado. Sem pendências de posts novas (Adriatica já aplicada na v872)."
+    },
+    {
+      "versao": 876,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kobold"
+      ],
+      "linha_marcas": 1134,
+      "relogios": {
+        "Kobold": 104
+      },
+      "linhas_relogios": "129252-129355",
+      "grande": true,
+      "vermelho": true,
+      "fontes": {
+        "Kobold": 128
+      },
+      "passadas": {
+        "1": 99,
+        "2": 18,
+        "3": 11
+      },
+      "lacunas": [
+        "Kobold"
+      ],
+      "correcoes": {
+        "Kobold": [
+          "H"
+        ]
+      },
+      "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch; muitas fichas /collections/key-chain/products/ deram PROVENANCE_REQUIRED/limite e algumas foram abertas pelo endereço /products/ vindo de busca. K (logo) não achado. Sem pendências de posts novas (Adriatica já aplicada na v837). Próximas: Koda Watches e Kollokium."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15670,37 +15702,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T15:43:48Z",
-  "ultimo_sinal": "2026-11-25T16:03:29Z",
-  "em_andamento": {
-    "marcas": [
-      "Kobold"
-    ],
-    "linha_marcas": 1134,
-    "grande": true,
-    "relogios": "historico/parcial_Kobold_relogios.txt",
-    "fontes": "historico/parcial_Kobold_fontes.txt",
-    "notas": "historico/notas_Kobold.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "2a passada"
-    ],
-    "passada": 3,
-    "falta": {
-      "Kobold": [
-        "K"
-      ]
-    }
-  }
+  "adiadas_obs": {}
 }
