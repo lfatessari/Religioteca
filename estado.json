@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1128,
-  "ultima_versao": 871,
+  "proxima_linha_marcas": 1130,
+  "ultima_versao": 872,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15463,6 +15463,31 @@
       },
       "so_dados": 0,
       "obs": "KLO & Co. não feita: coleções do site oficial recusadas pelo controle de permissão da sessão; volta na próxima execução."
+    },
+    {
+      "versao": 872,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Klokers"
+      ],
+      "relogios": {
+        "Klokers": 21
+      },
+      "linhas_relogios": "128879-128899",
+      "adiadas": [
+        "KLO & Co."
+      ],
+      "lacunas": [
+        "KLO & Co.",
+        "Klokers"
+      ],
+      "fontes": {
+        "Klokers": 27,
+        "KLO & Co.": 12
+      },
+      "vermelho": false,
+      "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. KLO & Co. adiada (12 fontes). Knis tratada como grande: fica sozinha na próxima execução (notas em historico/notas_Knis.md). Pendências 30–32 da Adriatica já estavam aplicadas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15570,21 +15595,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T11:43:26Z",
-  "ultimo_sinal": "2026-11-25T11:52:37Z",
-  "em_andamento": {
-    "marcas": [
-      "KLO & Co.",
-      "Klokers"
-    ],
-    "linha_marcas": 1129,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_KLO.md; historico/notas_Klokers.md",
-    "secoes_feitas": [],
-    "passada": 1,
-    "obs": "Knis tratada como grande (muitas variantes na loja Shopify): fica para a próxima execução, sozinha."
-  }
+  "adiadas_obs": {}
 }
