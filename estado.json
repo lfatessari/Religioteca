@@ -15625,7 +15625,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T13:44:17Z",
-  "ultimo_sinal": "2026-11-25T13:47:20Z",
+  "ultimo_sinal": "2026-11-25T13:52:13Z",
   "em_andamento": {
     "marcas": [
       "Knot Timepiece"
@@ -15637,7 +15637,14 @@
     "notas": "historico/notas_Knot_Timepiece.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "2c",
+      "3",
+      "5",
+      "7",
+      "8",
+      "9",
+      "10"
     ],
     "passada": 1,
     "obs": "Knot tratada como grande (loja customizável com muitas variações de caixa); Knut Gadd e Kobold ficam para a próxima."
