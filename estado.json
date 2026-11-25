@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1113,
- "ultima_versao": 861,
+ "proxima_linha_marcas": 1114,
+ "ultima_versao": 862,
  "historico": [
   {
    "data": "2026-10-16",
@@ -15226,6 +15226,43 @@
     "Kelek": []
    },
    "obs": "Kelek (marca extinta, vintage extensa) tratada como grande, sozinha; G/H/K não existem. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Próximas: Kelton e Kentex."
+  },
+  {
+   "data": "2026-11-25",
+   "versao": 862,
+   "tipo": "passada_unica",
+   "marcas_modelos": [
+    "Kelton"
+   ],
+   "linhas_marcas": [
+    1114
+   ],
+   "linhas_relogios": "128089-128274",
+   "relogios": 186,
+   "vermelho": true,
+   "grande": true,
+   "site_bloqueado": true,
+   "fontes": {
+    "Kelton": 75
+   },
+   "passadas": {
+    "1": [
+     51,
+     160
+    ],
+    "2": [
+     13,
+     29
+    ],
+    "3": [
+     11,
+     3
+    ]
+   },
+   "lacunas": {
+    "Kelton": []
+   },
+   "obs": "Kelton grande (139 produtos na Ocarat + vintage Timex), sozinha; kelton.fr home/collections PROVENANCE_REQUIRED; Firecrawl não testado (sem créditos nas últimas execuções); WebFetch só pelo ajudante web-fetch. Próximas: Kentex (provável grande) e Kent Hall & Co."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -15333,34 +15370,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-25T01:43:35Z",
- "ultimo_sinal": "2026-11-25T01:57:55Z",
- "em_andamento": {
-  "marcas": [
-   "Kelton"
-  ],
-  "linha_marcas": 1114,
-  "grande": true,
-  "relogios": "historico/parcial_Kelton_relogios.txt",
-  "fontes": "historico/parcial_Kelton_fontes.txt",
-  "notas": "historico/notas_Kelton.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2b",
-   "2c",
-   "3",
-   "5",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "11b-p2",
-   "11b-p3"
-  ],
-  "passada": 1,
-  "obs": "gravando v862"
- }
+ "adiadas_obs": {}
 }
