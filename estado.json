@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1144,
-  "ultima_versao": 882,
+  "ultima_versao": 883,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15713,6 +15713,16 @@
         ]
       },
       "obs": "Kronaby (1145) parece grande: fica sozinha na próxima; Kronsegler (1146) depois. Firecrawl sem créditos; pendências 33-36 da Advisor já estavam aplicadas (v880/v881)."
+    },
+    {
+      "versao": 883,
+      "data": "2026-11-25",
+      "tipo": "posts",
+      "marcas": [
+        "Aegaon",
+        "Advisor Watch Company"
+      ],
+      "obs": "Itens 37-39 das pendências: I da Aegaon; K da Advisor (logo do Atlas); SUPA Commando renomeado. Foto do Commando e Ascent SteelWhite não conferidos (sem Firecrawl, leitura recusada)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15822,5 +15832,5 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T22:43:34Z",
-  "ultimo_sinal": "2026-11-25T22:43:34Z"
+  "ultimo_sinal": "2026-11-25T22:58:55Z"
 }
