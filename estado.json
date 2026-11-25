@@ -15720,19 +15720,18 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T17:43:04Z",
-  "ultimo_sinal": "2026-11-25T17:43:04Z",
+  "ultimo_sinal": "2026-11-25T17:51:18Z",
   "em_andamento": {
     "marcas": [
-      "Koda Watches",
-      "Konifer Watch"
+      "Konstantin Chaykin"
     ],
-    "linha_marcas": 1135,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
+    "linha_marcas": 1139,
+    "grande": true,
+    "relogios": "historico/parcial_Konstantin_Chaykin_relogios.txt",
+    "fontes": "historico/parcial_Konstantin_Chaykin_fontes.txt",
+    "notas": "historico/notas_Konstantin_Chaykin.md",
     "secoes_feitas": [],
     "passada": 1,
-    "obs": "Konstantin Chaykin (3ª do plano) tratada como grande: fica sozinha na próxima execução."
+    "obs": "Koda Watches e Konifer Watch adiadas nesta execução (sites PROVENANCE, sem Firecrawl)."
   }
 }
