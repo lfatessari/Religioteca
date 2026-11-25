@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1111,
-  "ultima_versao": 859,
+  "proxima_linha_marcas": 1112,
+  "ultima_versao": 860,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15181,6 +15181,19 @@
       "site_bloqueado": true,
       "dados_lote": "historico/passada_unica/lote_859.json",
       "obs": "Kees Engelbart (só peças únicas = grande) ficou para a próxima execução, sozinha; Firecrawl sem créditos"
+    },
+    {
+      "data": "2026-11-24",
+      "versao": 860,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kees Engelbart"
+      ],
+      "relogios": 21,
+      "vermelho": true,
+      "site_bloqueado": true,
+      "fontes": 45,
+      "obs": "Kelek e Kelton ficam para a próxima (Kees é de peças únicas = grande, sozinha)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
