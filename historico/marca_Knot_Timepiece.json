@@ -1,0 +1,397 @@
+{
+ "marca": "Knot Timepiece",
+ "usa_codigos": true,
+ "logo": "https://thumbnail.image.rakuten.co.jp/@0_mall/knot-watch/logo/logo1n.jpg",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://en.knot-designs.com/collections/all",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://en.knot-designs.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 60
+  },
+  {
+   "url": "https://en.knot-designs.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 90
+  },
+  {
+   "url": "https://en.knot-designs.com/products.json?limit=250&page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://knot-designs.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://knot-designs.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://knot-designs.com/products.json?limit=250&page=3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://knot-designs.com/products.json?limit=250&page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/pages/kickstarter",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knot-designs.com/pages/press",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oracleoftime.com/knot-designs-atc-40-chronograph-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/knot-designs-make-traditional-japanese-watchmaking-crafts-accessible/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/the-watch-files/watchmaking-in-japan/1004116159-knot-bridging-japanese-watchmaking-and-artisanal.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gltjp.com/en/article/item/20719/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/titanium-solar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/titanium-solar-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/takumi-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/10th-anniversary-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kicktraq.com/projects/knot-aizulacquer/knot-bringing-traditional-japanese-watchmaking-to-the-world/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/products/ts1-36tign.json",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://fril.jp/brand/3068/used/10",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://jp.mercari.com/s/142872",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rakuten.co.jp/knot-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fril.jp/brand/3068/used/14",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.makuake.com/project/knot/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/511/1511510/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/221/1221054/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000110.000045371.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sakidori.co/article/257025",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/Fvmvl",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://en.knot-designs.com/products/cap-38dgdg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knot-designs.com/products/cs-36svwd-sakura",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knot-designs.com/products/cc-39svgnmc",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knot-designs.com/products/cap-38rgbu",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/takumi-collection-raden_2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/en-us/collections/kanazawa-platinum-and-gold-leaf-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/urushi",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/pages/new_items",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knot-designs.com/pages/premium_model",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/premium-automatic-date_reflection-color-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/gBRyJ",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/6oN5C",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/yjQPm",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/1717362",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/931420",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeout.com/tokyo/shopping/makers-watch-knot-gallery-shop",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/358102785773",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/yearslimited2022",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://en.knot-designs.com/products/cs-36svpt_ms-18ptpt",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0607/hotitem/266639",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0607/hotitem/290840",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0607/hotitem/281952",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/255/1255699/",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.excite.co.jp/news/article/Prtimes_2024-11-19-45371-81/",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://oggi.jp/57508",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oggi.jp/192282",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://number.bunshun.jp/ud/pressrelease/6a5068031262178adb000003",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://kinarino.jp/cat1/46054",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.itmedia.co.jp/news/article/1501/20/1150120028/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://prtimes.jp/main/html/rd/p/000000108.000045371.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/products/cs-36asvlb",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://en.knot-designs.com/products/cs-36svgn1",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/yuugiri",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://en.knot-designs.com/collections/cas-36",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0607/hotitem/277766",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0607/hotitem/267979",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0607/hotitem/299120",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/073/1073477/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/183/1183807/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/105/1105494/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/149/1149201/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/066/1066799/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/245/1245447/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/001/279/1279282/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://weekly.ascii.jp/elem/000/002/631/2631047/",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "correcoes": {
+  "I": "A Knot foi fundada em 2014 por Hiromitsu Endo em Kichijoji, Tóquio, com uma proposta que conquistou o Japão: relógios acessíveis, feitos no Japão, e totalmente customizáveis pelo próprio cliente. O nome \"Knot\" (nó) simboliza a conexão entre o relógio, a pulseira e a pessoa.\n\nO conceito é simples e engenhoso: nas lojas Knot, o cliente escolhe separadamente a cabeça do relógio (dezenas de modelos, cores e complicações) e a pulseira (couro japonês curtido, tecido, aço, náilon), montando na hora sua combinação única — as pulseiras usam sistema de troca rápida e são produzidas por artesãos japoneses tradicionais, incluindo curtumes históricos e tecelagens regionais. Os relógios usam movimentos japoneses (quartzo, automáticos e alguns mecânicos de qualidade) e são montados no Japão, com preços muito acessíveis. A marca valoriza o artesanato regional japonês, colaborando com produtores tradicionais de todo o país.\n\nHoje a Knot é uma das marcas de relógios acessíveis mais queridas do Japão, dirigindo-se a quem valoriza personalização, artesanato local e a filosofia \"Made in Japan\" a preço justo. Mais que um relógio pronto, entrega a experiência de criar o seu. [⚠️ verificar dados atuais]"
+ },
+ "correcoes_fontes": {
+  "I": [
+   "https://www.makuake.com/project/knot/",
+   "https://www.europastar.com/the-watch-files/watchmaking-in-japan/1004116159-knot-bridging-japanese-watchmaking-and-artisanal.html",
+   "https://www.itmedia.co.jp/news/article/1501/20/1150120028/"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 25/11/2026 (v874): 236 relógios; marca grande e pintada de vermelho (edições sazonais limitadas desde 2016 sem lista completa; páginas despublicadas na loja). Corrigido I: fundador 'Takuya Endo' → 'Hiromitsu Endo' (遠藤弘満), em Kichijoji, Tóquio (Makuake 2014, Europa Star e ITmedia). K (logo): imagem do logo da loja oficial Maker's Watch Knot no Rakuten (rakuten.co.jp/knot-watch). Ainda a verificar: H — o site oficial em inglês liga @knot_official (anotado em 14/11); a ITmedia (2015) cita fundação da empresa em maio de 2012, contra 2014 nas demais fontes; o restante de I (significado do nome, curtumes) não foi conferido. Relógios de parede/mesa CLK-270 e conjuntos relógio+pulseira não entraram como linhas."
+}
