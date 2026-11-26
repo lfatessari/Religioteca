@@ -16300,7 +16300,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T16:44:06Z",
-  "ultimo_sinal": "2026-11-26T16:50:24Z",
+  "ultimo_sinal": "2026-11-26T16:57:32Z",
   "em_andamento": {
     "marcas": [
       "Laurent Ferrier"
@@ -16315,12 +16315,18 @@
       "2",
       "2c",
       "3",
+      "4",
       "5",
+      "6",
       "7",
       "8",
-      "9"
+      "9",
+      "10",
+      "10b",
+      "p2",
+      "p3"
     ],
-    "passada": 1,
-    "obs": "products.json oficial (57 produtos) lido pelo Firecrawl; salvo em historico/lf_products.json; passada 1 com ~70 páginas por ajudantes web-fetch (Phillips, Hairspring, Europeanwatch, Bucherer, Pragnell, imprensa); ~45 modelos fora do site. Vai ficar vermelha -> 2ª passada."
+    "passada": 3,
+    "obs": "products.json oficial (57 produtos) lido pelo Firecrawl; salvo em historico/lf_products.json; passada 1 com ~70 páginas por ajudantes web-fetch (Phillips, Hairspring, Europeanwatch, Bucherer, Pragnell, imprensa); ~45 modelos fora do site. Vai ficar vermelha -> 2ª passada.; 3 passadas feitas, gravando v904"
   }
 }
