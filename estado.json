@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1176,
-  "ultima_versao": 905,
+  "proxima_linha_marcas": 1177,
+  "ultima_versao": 906,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16265,6 +16265,41 @@
         "Layer"
       ],
       "obs": "Laventure: catálogo do site oficial laventure.swiss (Firecrawl, ~22 créditos até acabar); G/H corrigidos. Le Forban: site oficial leforbansecuritemer.com não abriu (PROVENANCE; Firecrawl sem créditos), tudo por fontes de fora via ajudante web-fetch; G corrigido, L registrado, vermelha (modelos antigos sem nome). Layer: site não abriu e sem fontes de fora → ADIADAS; só G entrou pelo lote. Pendências 40/41 da Aenigma já estavam aplicadas (v895)."
+    },
+    {
+      "versao": 906,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Le Jour"
+      ],
+      "linhas_marcas": [
+        1177
+      ],
+      "relogios": 107,
+      "linhas_relogios": "130859-130965",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Le Jour": 100
+      },
+      "passadas": {
+        "1": [
+          68,
+          92
+        ],
+        "2": [
+          17,
+          8
+        ],
+        "3": [
+          15,
+          7
+        ]
+      },
+      "adiadas": [],
+      "lote": "historico/passada_unica/lote_906.json",
+      "obs": "Site oficial (lejourwatches.ch/.com) não abriu (permissão); Firecrawl sem créditos; páginas pelo ajudante web-fetch. G corrigido para lejourwatches.ch; C e K não achados. Leatherman e Lebeau-Courally ficam para a próxima (Le Jour grande, sozinha). Itens 40/41 das pendências (Aenigma) já estavam aplicados na v895."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16372,35 +16407,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T18:43:08Z",
-  "ultimo_sinal": "2026-11-26T19:06:40Z",
-  "em_andamento": {
-    "marcas": [
-      "Le Jour"
-    ],
-    "linha_marcas": 1177,
-    "grande": true,
-    "relogios": "historico/parcial_Le_Jour_relogios.txt",
-    "fontes": "historico/parcial_Le_Jour_fontes.txt",
-    "notas": "historico/notas_Le_Jour.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "passada2",
-      "passada3",
-      "10b"
-    ],
-    "passada": 3,
-    "obs": "Le Jour tratada como grande (linha vintage dos anos 60-70 com muitas referências + linha moderna): sozinha nesta bateria; Leatherman e Lebeau-Courally ficam para a próxima. Firecrawl sem créditos. Pesquisa concluída (100 fontes, 107 relógios); gravando v906.",
-    "vermelho": true
-  }
+  "adiadas_obs": {}
 }

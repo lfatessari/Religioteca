@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1169,
-  "ultima_versao": 902,
+  "proxima_linha_marcas": 1177,
+  "ultima_versao": 906,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16168,6 +16168,138 @@
       },
       "adiadas": [],
       "obs": "Retomada da v901. Loja oficial laps.fr (Shopify) e Ocarat p.2 abertas pelo Firecrawl (com créditos, acabando, ~40 créditos usados); demais páginas pelo ajudante web-fetch. 20 edições antigas só pelo título de busca (site antigo 404). K = favicon oficial (logo do cabeçalho é SVG embutido). Pendências 40/41 da Aenigma já aplicadas na v895."
+    },
+    {
+      "versao": 903,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "La Touraine"
+      ],
+      "linhas_marcas": [
+        1172
+      ],
+      "relogios": 60,
+      "linhas_relogios": "130625-130684",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "La Touraine": 24
+      },
+      "adiadas": [
+        "L'artisan",
+        "Last Watch"
+      ],
+      "obs": "Loja oficial la-touraine.com (Shopify) pelo Firecrawl (com créditos, ~45 usados); páginas de fora pelo ajudante web-fetch. K = ícone oficial (logo do cabeçalho é SVG embutido). L'artisan (não identificável) e Last Watch (site 404) para ADIADAS."
+    },
+    {
+      "versao": 904,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Laurent Ferrier"
+      ],
+      "linhas_marcas": [
+        1173
+      ],
+      "relogios": 141,
+      "linhas_relogios": "130685-130825",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Laurent Ferrier": 115
+      },
+      "passadas": {
+        "1": [
+          69,
+          111
+        ],
+        "2": [
+          18,
+          11
+        ],
+        "3": [
+          28,
+          18
+        ]
+      },
+      "adiadas": [],
+      "obs": "Loja oficial laurentferrier.ch (products.json, 57 relógios) e blog (news.atom) pelo Firecrawl (~5 créditos); demais páginas pelo ajudante web-fetch. Sem dados vazios na aba Marcas (falta vazio); só M anotada. Pendências 40/41 da Aenigma já estavam aplicadas (v895). Laventure e Layer ficam para a próxima (Laurent Ferrier grande, sozinha)."
+    },
+    {
+      "versao": 905,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Laventure",
+        "Le Forban"
+      ],
+      "linhas_marcas": [
+        1174,
+        1176
+      ],
+      "relogios": 33,
+      "linhas_relogios": "130826-130858",
+      "vermelho": {
+        "Laventure": false,
+        "Le Forban": true
+      },
+      "grande": false,
+      "fontes": {
+        "Laventure": 31,
+        "Le Forban": 37
+      },
+      "passadas": {
+        "Le Forban": {
+          "1": [
+            27,
+            13
+          ],
+          "2": [
+            10,
+            0
+          ]
+        }
+      },
+      "adiadas": [
+        "Layer"
+      ],
+      "obs": "Laventure: catálogo do site oficial laventure.swiss (Firecrawl, ~22 créditos até acabar); G/H corrigidos. Le Forban: site oficial leforbansecuritemer.com não abriu (PROVENANCE; Firecrawl sem créditos), tudo por fontes de fora via ajudante web-fetch; G corrigido, L registrado, vermelha (modelos antigos sem nome). Layer: site não abriu e sem fontes de fora → ADIADAS; só G entrou pelo lote. Pendências 40/41 da Aenigma já estavam aplicadas (v895)."
+    },
+    {
+      "versao": 906,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Le Jour"
+      ],
+      "linhas_marcas": [
+        1177
+      ],
+      "relogios": 107,
+      "linhas_relogios": "130859-130965",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Le Jour": 100
+      },
+      "passadas": {
+        "1": [
+          68,
+          92
+        ],
+        "2": [
+          17,
+          8
+        ],
+        "3": [
+          15,
+          7
+        ]
+      },
+      "adiadas": [],
+      "lote": "historico/passada_unica/lote_906.json",
+      "obs": "Site oficial (lejourwatches.ch/.com) não abriu (permissão); Firecrawl sem créditos; páginas pelo ajudante web-fetch. G corrigido para lejourwatches.ch; C e K não achados. Leatherman e Lebeau-Courally ficam para a próxima (Le Jour grande, sozinha). Itens 40/41 das pendências (Aenigma) já estavam aplicados na v895."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
