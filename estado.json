@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1183,
-  "ultima_versao": 908,
+  "proxima_linha_marcas": 1184,
+  "ultima_versao": 909,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16368,6 +16368,20 @@
       "adiadas": [],
       "lote": "historico/passada_unica/lote_908.json",
       "obs": "Lebond 8 relógios (só imprensa; site oficial PROVENANCE_REQUIRED). Lecronos 19 linhas e I reescrita (correção com fontes). Lederer = duplicata de 'Bernhard Lederer (BLU)' (54 relógios): APELIDOS no proxima_marca.py, só K (logo Watchonista) e M. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
+    },
+    {
+      "data": "2026-11-26",
+      "versao": 909,
+      "tipo": "passada_unica",
+      "marcas": [
+        "LEFF Amsterdam"
+      ],
+      "linha_marcas": 1184,
+      "relogios": 33,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 61,
+      "obs": "Lego (grande, Brickset com centenas de relógios) e Leica ficam para as próximas execuções; Firecrawl sem créditos; site oficial pediu permissão"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16475,21 +16489,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T21:43:10Z",
-  "ultimo_sinal": "2026-11-26T21:44:06Z",
-  "em_andamento": {
-    "marcas": [
-      "LEFF Amsterdam",
-      "Lego",
-      "Leica"
-    ],
-    "linha_marcas": 1184,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

@@ -1,0 +1,328 @@
+{
+ "marca": "LEFF Amsterdam",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – leffamsterdam.com pediu permissão na leitura automática (PROVENANCE_REQUIRED) e não aparece em buscas; revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "J": "Tube Watch S42 — quartzo japonês Miyota 2035, vidro de safira e bracelete de aço; cerca de US$ 400\n\nTube Watch S38 — quartzo japonês Miyota 2035, vidro de safira e bracelete de aço; cerca de US$ 400\n\nTube Watch T40 — Miyota quartzo; cerca de US$ 229\n\nTube Watch T32 — Miyota quartzo; cerca de US$ 229\n\nD38 — Miyota 2035; cerca de US$ 295"
+ },
+ "correcoes_fontes": {
+  "J": [
+   "https://www.gessato.com/meet-the-leff-amsterdam-tube-watches/",
+   "https://timeandtidewatches.com/?p=67327",
+   "https://shop.gessato.com/?p=18732",
+   "https://greenergrassdesign.com/products/leff-amsterdam-tube-watch-s38-steel-38mm"
+  ]
+ },
+ "observacoes": "Relógios (v909, 26/11/2026): 33 relógios de pulso Tube Watch (D38, S38, D42, S42, T32, T40), um por código LT de caixa/pulseira; site oficial não alcançado (pediu permissão; Firecrawl sem créditos), lista montada por lojas (Whamond, Jura Watches, Shophorne, Gessato, LoftModern, Greener Grass) e imprensa (Gessato, Time+Tide, Gadget Flow). Relógios de parede/mesa da marca não entraram. Corrigido J: S42 e S38 'movimento suíço' → quartzo japonês Miyota 2035 (Gessato 2015, Time+Tide 2022, Gessato Design Store, Greener Grass Design). Códigos LT72001, LT72002, LT72021 e LT72102 vistos só na lista de variantes da LoftModern. A Jura Watches está sob administração desde jan/2026 (não vende online). Logo candidato (não usado em K, por não ser do site oficial): shop.gessato.com/wp-content/uploads/w3-webp/uploads/2024/01/leff-amsterdam.png.webp.",
+ "fontes": [
+  {
+   "url": "https://shophorne.com/products/tube-watch-t40",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shophorne.com/products/tube-watch-t32",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shophorne.com/products/tube-watch-d42",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/leff-amsterdam-tube-watch-s-series-analogue-wristwatch-42-mm-wristwatches-5646000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/leff-amsterdam-tube-d-analogue-wristwatch-42-mm-wristwatches-7325782",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gessato.com/meet-the-leff-amsterdam-tube-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=67327",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thegadgetflow.com/product/leff-amsterdam-matte-black-s42-tube-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.cwsellors.co.uk/collections/leff-amsterdam-watches?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-t40-lt75222",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-t32-lt74353",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-d42-lt72015",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-d42-lt72025",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-d38-lt71033",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/leff-amsterdam-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.shadestation.co.uk/designer-watches/leff-amsterdam",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.wolfandbadger.com/au/designers/leff-amsterdam/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-d38-lt71002.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/products/leff-amsterdam-watch-tube-d38-lt71015.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/products/leff-amsterdam-watch-tube-d38-lt71033.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-d42-lt72024.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/leff-amsterdam-watch-tube-d42-lt72022.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-s42-lt72103.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-s42-lt72101.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-t40-lt75414.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/products/leff-amsterdam-watch-tube-t40-lt75613.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/leff-amsterdam-watch-tube-t40-lt75353.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/products/leff-amsterdam-watch-tube-t32-lt74623.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-t32-lt74252.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/products/leff-amsterdam-watch-tube-t32-lt74111.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-d42-lt72004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-eu/products/leff-amsterdam-watch-tube-t32-lt74232",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shophorne.com/products/tube-watch-d38",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shophorne.com/products/tube-watch-d38-metal-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shophorne.com/products/tube-watch-d42-metal-strap",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greenergrassdesign.com/products/leff-amsterdam-tube-watch-s38-steel-38mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://greenergrassdesign.com/products/leff-amsterdam-tube-watch-s38-brass-38mm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://themodernshop.com/products/tube-watch-s42-by-leff-amsterdam",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/leff-amsterdam-tube-watch-s42-brass",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.amstory.nl/en/piet-hein-eek-tube-watch-d38-of-leff-amsterdam-in-brass-or-steel/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-t40-lt75414",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-d38-lt71015",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-d38-lt71014",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-d42-lt72022",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/?p=18732",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/?p=18733",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/?p=18734",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/?p=18735",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/?p=18736",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/?p=77717",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.gessato.com/leff-amsterdam-tube-watch-d42-matt-black",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.gessato.com/leff-amsterdam-tube-watch-d42-brass",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gessato.com/leff-amsterdam-t-series-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/products/leff-amsterdam-watch-tube-t32-lt74313",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://whamond.com/en-us/products/leff-amsterdam-watch-tube-d38-lt71025",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.loftmodern.com/products/leff-tube-watch-d42",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.loftmodern.com/products/leff-tube-watch-s42",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.fr/itm/257515701572",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/257515700020",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sportique.com/products/leff-amsterdam-s42-tube-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.pinkoi.com/product/SkJVL5uZ",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
