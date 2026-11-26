@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1180,
-  "ultima_versao": 907,
+  "proxima_linha_marcas": 1183,
+  "ultima_versao": 908,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16343,6 +16343,31 @@
       "adiadas": [],
       "lote": "historico/passada_unica/lote_907.json",
       "obs": "Os três sites oficiais deram PROVENANCE_REQUIRED; Firecrawl sem créditos; tudo pelo ajudante web-fetch. K preenchido nas três (logos de fontes de fora). Correções: J da Lebeau-Courally e I da Lebois & Co. Pendências 40/41 da Aenigma já aplicadas (v895)."
+    },
+    {
+      "versao": 908,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lebond",
+        "Lecronos"
+      ],
+      "linhas_marcas": [
+        1181,
+        1182,
+        1183
+      ],
+      "relogios": 27,
+      "linhas_relogios": "131026-131052",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Lebond": 25,
+        "Lecronos": 15
+      },
+      "adiadas": [],
+      "lote": "historico/passada_unica/lote_908.json",
+      "obs": "Lebond 8 relógios (só imprensa; site oficial PROVENANCE_REQUIRED). Lecronos 19 linhas e I reescrita (correção com fontes). Lederer = duplicata de 'Bernhard Lederer (BLU)' (54 relógios): APELIDOS no proxima_marca.py, só K (logo Watchonista) e M. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16450,21 +16475,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T20:43:44Z",
-  "ultimo_sinal": "2026-11-26T20:44:22Z",
-  "em_andamento": {
-    "marcas": [
-      "Lebond",
-      "Lecronos",
-      "Lederer"
-    ],
-    "linha_marcas": 1181,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

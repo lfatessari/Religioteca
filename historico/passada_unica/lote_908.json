@@ -1,0 +1,16 @@
+{
+ "data": "2026-11-26",
+ "prefixo": "Passada única",
+ "celulas": {
+  "Lebond": {
+   "M": "K continua vazio: o site oficial lebondwatches.com não abriu (PROVENANCE_REQUIRED), o Firecrawl estava sem créditos e nenhuma das 25 páginas abertas (imprensa e lojas) trouxe o logo da marca."
+  },
+  "Lecronos": {
+   "M": "G, H e K continuam vazios: nenhuma das 15 páginas abertas nem as buscas ('Lecronos' site/instagram, 'Lenvino' Hong Kong) trouxeram site, Instagram ou logo próprios; só as campanhas no Kickstarter (projetos 1821834325 e 1913165067) e a loja Uniquely Watches (uniquelywatches.com), que não se apresenta como oficial."
+  },
+  "Lederer": {
+   "K": "https://r2.watchonista.com/app/uploads/Lederer-logo-watchonista.webp",
+   "M": "Esta linha é a mesma marca da 'Bernhard Lederer (BLU)' (linha 184), que já tem 54 relógios na aba Relógios (CIC 39/44, InVerto, Observatory Chronometer e os BLU); os relógios não foram gravados de novo e o nome 'Lederer' entrou como apelido no proxima_marca.py. K: o mesmo logo usado na linha da Bernhard Lederer (página da marca na Watchonista). [⚠️ a confirmar: logo hospedado pela Watchonista, não pelo site oficial] G: Revolution, Watchonista e Fratello apontam como site da marca lederertimepieces.com; blwatches.ch não aparece em nenhuma busca (não corrigido: sem abrir o site)."
+  }
+ }
+}
