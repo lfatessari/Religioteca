@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1162,
-  "ultima_versao": 895,
+  "proxima_linha_marcas": 1163,
+  "ultima_versao": 896,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15998,6 +15998,27 @@
       "marcas": [],
       "gravado": false,
       "obs": "Bateria sem gravação: lote do proxima_completa.py = LaMotte Watch Company (1163), Lancaster (1164), Lanco (1165). Nesta execução nenhuma página pôde ser lida pelo ajudante web-fetch nem em site oficial (lamottewatchco.com, lancasteritaly.com e aenigma.world: PROVENANCE_REQUIRED) e o Firecrawl estava sem créditos (renova 26/11 13:43 UTC). LaMotte: só 2 fontes de fora existem (iwmagazine, thecoolector) — sem o site oficial não chega a 15 nem ao so_site_oficial. Lancaster: grande (moda, refs OLA####), site oficial não indexado. Lanco: vintage, grande. Nenhuma foi para ADIADAS nem registrada em feitas.json: voltam na próxima execução, de preferência com Firecrawl."
+    },
+    {
+      "versao": 896,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "LaMotte Watch Company"
+      ],
+      "linhas_marcas": [
+        1163
+      ],
+      "relogios": 7,
+      "linhas_relogios": "130297-130303",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "LaMotte Watch Company": 16
+      },
+      "adiadas": [],
+      "lote": "historico/passada_unica/lote_896.json",
+      "obs": "Bateria extra pedida pelo usuário na mesma conversa. Com o usuário presente, o site oficial abriu pelo ajudante web-fetch. Lacunas: H e K da LaMotte. Lancaster: lancasteritaly.com deu client_error (provavelmente grande); Lanco vintage grande — ficam para a próxima. Firecrawl sem créditos."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16105,19 +16126,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T10:00:22Z",
-  "ultimo_sinal": "2026-11-26T10:00:22Z",
-  "em_andamento": {
-    "marcas": [
-      "LaMotte Watch Company"
-    ],
-    "linha_marcas": 1163,
-    "grande": false,
-    "relogios": "historico/parcial_LaMotte_relogios.txt",
-    "fontes": "historico/parcial_LaMotte_fontes.txt",
-    "notas": "historico/notas_LaMotte.md",
-    "secoes_feitas": [],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
