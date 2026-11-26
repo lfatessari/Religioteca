@@ -16040,7 +16040,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T07:44:04Z",
-  "ultimo_sinal": "2026-11-26T08:02:29Z",
+  "ultimo_sinal": "2026-11-26T08:09:51Z",
   "em_andamento": {
     "marcas": [
       "Laco"
@@ -16061,7 +16061,7 @@
       "8",
       "9"
     ],
-    "passada": 1,
-    "obs": "1ª passada encerrada (36 fontes, 289 relógios); marca vermelha (configurador Flieger PRO + vintage). Falta 2ª passada (10+ fontes novas). Script de montagem: historico/build_Laco.py"
+    "passada": 3,
+    "obs": "1ª passada 36 fontes; 2ª passada 13 fontes (+17 relógios) -> 3ª passada em curso. Script: historico/build_Laco.py"
   }
 }
