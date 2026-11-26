@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1158,
-  "ultima_versao": 892,
+  "proxima_linha_marcas": 1159,
+  "ultima_versao": 893,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15931,6 +15931,29 @@
       "site_bloqueado": "labelnoir.ch (Label Noir, coluna L); lacitewatches.com home direta",
       "lote": "historico/passada_unica/lote_892.json",
       "obs": "Label Noir revelou-se grande (peças únicas) e vermelha: 1ª passada 47 fontes/22, 2ª passada 13 fontes/3. Lacite: 3 Urbanite GMT, catálogo fechado; K preenchido. K da Label Noir não achado. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883. Próxima: Laco (1159), grande, sozinha."
+    },
+    {
+      "versao": 893,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Laco"
+      ],
+      "linhas_marcas": [
+        1159
+      ],
+      "relogios": 305,
+      "linhas_relogios": "129962-130266",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 61,
+      "passadas": {
+        "1": 36,
+        "2": 13,
+        "3": 12
+      },
+      "site_bloqueado": "parcial (laco.de home)",
+      "obs": "Grande e vermelha (configurador Flieger PRO + vintage). Ladoire e Laine ficam para a próxima. Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16038,30 +16061,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T07:44:04Z",
-  "ultimo_sinal": "2026-11-26T08:11:39Z",
-  "em_andamento": {
-    "marcas": [
-      "Laco"
-    ],
-    "linha_marcas": 1159,
-    "grande": true,
-    "relogios": "historico/parcial_Laco_relogios.txt",
-    "fontes": "historico/parcial_Laco_fontes.txt",
-    "notas": "historico/notas_Laco.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "passada": 3,
-    "obs": "1ª passada 36 fontes; 2ª passada 13 fontes (+17 relógios) -> 3ª passada em curso. Script: historico/build_Laco.py"
-  }
+  "adiadas_obs": {}
 }
