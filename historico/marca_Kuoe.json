@@ -1,0 +1,291 @@
+{
+ "marca": "Kuoe Kyoto",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – kuoe-en.com (home) e kuoe.jp PROVENANCE_REQUIRED; páginas internas de kuoe-en.com abrem",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 26/11/2026 (v887): 70 linhas (variações de mostrador/caixa das 9 referências do site oficial kuoe-en.com, mais as edições Urushi 'Hibi'/'Hake' de 200 peças e a colaboração KUOE × TiCTAC Royal Smith 90-010 'Chitose Midori'). Corrigido: J 'Old Smith 90-001, 90-002, Kyoto Original' → 'Old Smith 90-001, 90-002 e 90-007; Royal Smith 90-006, 90-008, 90-010 e 90-012; Sombrero 90-011; Holborn 90-003' (lista do menu oficial em kuoe-en.com/about e kuoe-jp.com/about; 'Kyoto Original' não existe no site). Ainda a verificar: kuoe-en.com (home) e kuoe.jp deram PROVENANCE_REQUIRED; empresa KUOE GLOBAL Inc., Quioto, fundada em 2020 por Kenji Uchimura (site oficial e imprensa); F=1500 não bate com os preços reais (US$ 368 a 2.050, média perto de US$ 800); 1º e 2º modelos especiais KUOE × TiCTAC não achados (o artigo do haveagood-holiday fala do 3º).",
+ "correcoes": {
+  "J": "Old Smith 90-001, 90-002 e 90-007; Royal Smith 90-006, 90-008, 90-010 e 90-012; Sombrero 90-011; Holborn 90-003"
+ },
+ "correcoes_fontes": {
+  "J": [
+   "https://www.kuoe-en.com/about",
+   "https://www.kuoe-jp.com/about?lang=en"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.kuoe-en.com/about",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kuoe-jp.com/about?lang=en",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/collections/kuoe?page=1",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/collections/kuoe?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/collections/kuoe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/kuoe?page=1",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://longislandwatch.com/collections/kuoe?page=2",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://windupwatchshop.com/collections/kuoe-kyoto",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://teddybaldassarre.com/en-ca/collections/kuoe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.providerstore.com.au/collections/kuoe-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shopcanoeclub.com/collections/kuoe-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/kuoe-kyoto/",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.wristenthusiast.com/latest/kuoe-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/kuoe-royal-smith-90-006-80-hrs/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-with-the-kuoe-royal-smith-90-012-chronographs/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://wornandwound.com/tasteful-gift-giving-with-kuoe-kyoto-a-holiday-gift-guide/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchfinder.com/articles/review-kuoe-kyoto",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/kuoe-kyoto-independent-watch-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/brands/kuoe-kyoto/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.notebookcheck.net/Kuoe-Kyoto-s-new-Royal-Smith-with-an-80-hour-Miyota-movement-is-now-up-for-pre-order.1438628.0.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/limited-edition-sombrero-90-011-japanese-lacquer-dial-hibi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/limited-edition-sombrero-90-011-urushi-dial-hake",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.haveagood-holiday.com/en/articles/kuoe-tictac-royal-smith-collaboration-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jamtangan.com/p/kuoe-x-tictac-royal-smith-90010-automatic-textured-dial-inspired-by-chitose-midori-extra-strap-761361",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.nikkan.co.jp/releases/view/90830",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.notebookcheck.net/Japanese-watchmaker-unveils-new-80-hour-automatic-watch-with-limited-1-000-piece-first-run.1436313.0.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/collections/kuoe-kyoto",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://teddybaldassarre.com/collections/kuoe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/discover/brands/kuoe/sombrero/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://providerstore.com.au/products/kuoe-old-smith-001-watch-silver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://thingtesting.com/brands/kuoe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kuoe-en.com/holborn-90-003",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/hl90003-pg-bpg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/hl90003-sv-abl",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/hl90003-gd-agd",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/holborn-90-003-silver-bar-index-blue-hands",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/kuoe-holborn-90-003-japan-made-rose-gold-arabic-index-dial",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ko.fukuoka.parco.jp/shopnews/?id=64542",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/386873247788",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/os90001-bgd-bs1-sa",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/kuoe-old-smith-90-001-japan-made-gold-hands-with-bar-index-dial-8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/old-smith-90-001-black-numerals-with-lychee-leather",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/kuoe-old-smith-90-001-japan-made-green-dial-with-stainless-mesh-strap",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/old-smith-90-001-green-bar-index-with-lychee-leather-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/kuoe-old-smith-90-001-japan-made-silver-hands-with-arabic-index-dial-4",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/kuoe-old-smith-90-001-japan-made-silver-hands-with-bar-index-dial-9",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuoe-en.com/product-page/old-smith-90-001-gold-bar-index-with-lychee-leather",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/os90002bz-br",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.kuoe-en.com/product-page/os90002nd-bz-bk",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/kuoe/products/kuoe-old-smith-90-002-automatic-35mm-watch-with-navy-dial-os90002-nd-nv-nato-sa",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/products/old-smith-35mm-black-on-bracelet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://japanese-microbrands.com/en/products/kuoe-royal-smith-90-006-breguet-numerals-35-mm-blue-dial",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/products/royal-smith-35mm-blue-on-bracelet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/collections/kuoe/products/kuoe-old-smith-90-001-quartz-35mm-dress-watch-os90001-agd-o-bk-sa",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
