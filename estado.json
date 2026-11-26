@@ -15848,7 +15848,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-25T23:43:55Z",
-  "ultimo_sinal": "2026-11-26T00:09:08Z",
+  "ultimo_sinal": "2026-11-26T00:13:21Z",
   "em_andamento": {
     "marcas": [
       "Kross Studio"
@@ -15867,9 +15867,13 @@
       "5",
       "6",
       "7",
-      "9"
+      "8",
+      "9",
+      "10",
+      "10b",
+      "2a passada"
     ],
-    "passada": 1,
+    "passada": 2,
     "obs": "v885: Kronsegler e Kshan Watches foram para ADIADAS (proxima_marca.py); bateria = Kross Studio sozinha (grande). Firecrawl sem créditos."
   }
 }
