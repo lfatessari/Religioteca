@@ -16191,7 +16191,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T12:58:35Z",
-  "ultimo_sinal": "2026-11-26T12:59:10Z",
+  "ultimo_sinal": "2026-11-26T13:06:46Z",
   "em_andamento": {
     "marcas": [
       "Lang & Heyne"
@@ -16201,7 +16201,13 @@
     "relogios": "historico/parcial_Lang_Heyne_relogios.txt",
     "fontes": "historico/parcial_Lang_Heyne_fontes.txt",
     "notas": "historico/notas_Lang_Heyne.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "3",
+      "7",
+      "8"
+    ],
     "passada": 1
   }
 }
