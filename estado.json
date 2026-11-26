@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1147,
-  "ultima_versao": 885,
+  "proxima_linha_marcas": 1149,
+  "ultima_versao": 886,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15771,6 +15771,25 @@
       ],
       "logo": true,
       "obs": "Pendências dos posts 37–39 já estavam aplicadas na v883 (foto do SUPA Commando e Ascent SteelWhite seguem a verificar). Firecrawl sem créditos. Ajudante web-fetch usado."
+    },
+    {
+      "versao": 886,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kudoke"
+      ],
+      "linhas_marcas": [
+        1149
+      ],
+      "relogios": 51,
+      "linhas_relogios": "129680-129730",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 40,
+      "site_bloqueado": "kudoke.eu",
+      "lote": "historico/passada_unica/lote_886.json",
+      "obs": "Kuoe Kyoto (1150) parece grande (muitas variações de cor/pulseira em kuoe-en.com): fica sozinha na próxima; Kurono Tokyo (1151) depois. kudoke.eu, kuoe.jp e kurono-tokyo.com deram PROVENANCE_REQUIRED. K da Kudoke não achado. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15878,31 +15897,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T00:43:40Z",
-  "ultimo_sinal": "2026-11-26T00:56:40Z",
-  "em_andamento": {
-    "marcas": [
-      "Kudoke"
-    ],
-    "linha_marcas": 1149,
-    "grande": false,
-    "relogios": "historico/parcial_Kudoke_relogios.txt",
-    "fontes": "historico/parcial_Kudoke_fontes.txt",
-    "notas": "historico/notas_Kudoke.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "sites oficiais kudoke.eu, kuoe.jp, kurono-tokyo.com deram PROVENANCE_REQUIRED; Firecrawl sem créditos"
-  }
+  "adiadas_obs": {}
 }
