@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1172,
-  "ultima_versao": 903,
+  "proxima_linha_marcas": 1173,
+  "ultima_versao": 904,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16191,6 +16191,40 @@
         "Last Watch"
       ],
       "obs": "Loja oficial la-touraine.com (Shopify) pelo Firecrawl (com créditos, ~45 usados); páginas de fora pelo ajudante web-fetch. K = ícone oficial (logo do cabeçalho é SVG embutido). L'artisan (não identificável) e Last Watch (site 404) para ADIADAS."
+    },
+    {
+      "versao": 904,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Laurent Ferrier"
+      ],
+      "linhas_marcas": [
+        1173
+      ],
+      "relogios": 141,
+      "linhas_relogios": "130685-130825",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Laurent Ferrier": 115
+      },
+      "passadas": {
+        "1": [
+          69,
+          111
+        ],
+        "2": [
+          18,
+          11
+        ],
+        "3": [
+          28,
+          18
+        ]
+      },
+      "adiadas": [],
+      "obs": "Loja oficial laurentferrier.ch (products.json, 57 relógios) e blog (news.atom) pelo Firecrawl (~5 créditos); demais páginas pelo ajudante web-fetch. Sem dados vazios na aba Marcas (falta vazio); só M anotada. Pendências 40/41 da Aenigma já estavam aplicadas (v895). Laventure e Layer ficam para a próxima (Laurent Ferrier grande, sozinha)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16298,35 +16332,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T16:44:06Z",
-  "ultimo_sinal": "2026-11-26T16:57:32Z",
-  "em_andamento": {
-    "marcas": [
-      "Laurent Ferrier"
-    ],
-    "linha_marcas": 1173,
-    "grande": true,
-    "relogios": "historico/parcial_Laurent_Ferrier_relogios.txt",
-    "fontes": "historico/parcial_Laurent_Ferrier_fontes.txt",
-    "notas": "historico/notas_Laurent_Ferrier.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "p2",
-      "p3"
-    ],
-    "passada": 3,
-    "obs": "products.json oficial (57 produtos) lido pelo Firecrawl; salvo em historico/lf_products.json; passada 1 com ~70 páginas por ajudantes web-fetch (Phillips, Hairspring, Europeanwatch, Bucherer, Pragnell, imprensa); ~45 modelos fora do site. Vai ficar vermelha -> 2ª passada.; 3 passadas feitas, gravando v904"
-  }
+  "adiadas_obs": {}
 }
