@@ -1,0 +1,5 @@
+# Kurono Tokyo (linha 1151) – v888
+Divisão (definida na Bunkyo Tokyo, linha 416): aqui entram cronógrafos, Calendrier, GMT, 34mm, Réserve de Marche, Structure, Chrono Tokyo (TiCTAC CT/CH). 37mm 3 ponteiros ficam na Bunkyo Tokyo (18 linhas).
+Grande (na dúvida): sozinha. Firecrawl sem créditos. Páginas pelo ajudante web-fetch.
+Achados até agora: Chrono I CB005K/CB005W (68 cada, 2020); Chrono II preto (500, 2021); Chrono II Shiro (2022); Chrono 3 Hisui (2023); Chrono 1 Mk.2 salmão; Vermilion Shu (2025 salões); 34mm 2022 No.1-4 (80 cada; CS034C = branco/azul?); 34mm Special Projects 2023 Darkmist/Smoke/Midnight/Persimmon (150 cada); Calligra 2024 Dark MOP/Stark Black/Silver White (188 cada); 34mm Star Dial 2025 salmão/azul; GMT 1 (2023); Calendrier Type I khaki (2022); Azuki (2023); Calendrier SBR Saxe Blue (2026); Grand Jubilee Calendar (2025); Sensu N.O.S. azul/creme (2024); Structure S1 azul/branco/salmão (nov/2026); Chrono Tokyo CT001W, CT001G, CT002V, CT002B, CT003Q, CT003P, CT004S, CT004W, CH001K, CH002W.
+Seções: 2 (site oficial, parcial), 5 (watch-wiki), 9 (imprensa parcial).

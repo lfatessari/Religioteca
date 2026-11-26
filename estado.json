@@ -15920,17 +15920,29 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T02:43:18Z",
-  "ultimo_sinal": "2026-11-26T02:43:47Z",
+  "ultimo_sinal": "2026-11-26T02:53:12Z",
   "em_andamento": {
     "marcas": [
       "Kurono Tokyo"
     ],
     "linha_marcas": 1151,
     "grande": true,
-    "relogios": "historico/parcial_Kurono_Tokyo_relogios.txt",
+    "relogios": "historico/dados_Kurono_Tokyo.txt",
     "fontes": "historico/parcial_Kurono_Tokyo_fontes.txt",
     "notas": "historico/notas_Kurono_Tokyo.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b"
+    ],
     "passada": 1
   }
 }
