@@ -1,0 +1,16 @@
+{
+ "data": "2026-11-26",
+ "prefixo": "Passada única",
+ "celulas": {
+  "La Touraine": {
+   "K": "https://la-touraine.com/icon-512x512.png?v=2",
+   "M": "K: o logo do cabeçalho do site oficial la-touraine.com é um SVG embutido (sem endereço de arquivo, lido pelo Firecrawl em 26/11/2026); usado o ícone oficial do site (icon-512x512.png)."
+  },
+  "L'artisan": {
+   "M": "Modelos e dados não pesquisáveis: com o nome genérico 'L'artisan' e sem site, Instagram, cidade ou modelo na planilha, não deu para identificar a marca certa. 2 buscas novas ('\"L'artisan\" watch independent watchmaker bespoke'; 'site:instagram.com \"lartisan\" watches') trouxeram só homônimos e um anúncio no WatchPatrol ('Microbrand stock sale L'Artisan Glacier 350$') e um vendedor 'L'Artisan Watches' na Catawiki, sem site nem país — não dá para dizer se é a marca da planilha. Vai para as ADIADAS. A confirmar: microbrand 'L'Artisan' com o modelo Glacier."
+  },
+  "Last Watch": {
+   "M": "Modelos e dados não achados (3ª tentativa): o site lastwatchhorology.com responde 404 (aberto pelo Firecrawl em 26/11/2026, página inicial e loja) e a busca '\"Last Watch Horology\" watch' não trouxe nada da marca. Vai para as ADIADAS."
+  }
+ }
+}

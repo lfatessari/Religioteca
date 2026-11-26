@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1169,
-  "ultima_versao": 902,
+  "proxima_linha_marcas": 1172,
+  "ultima_versao": 903,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16168,6 +16168,29 @@
       },
       "adiadas": [],
       "obs": "Retomada da v901. Loja oficial laps.fr (Shopify) e Ocarat p.2 abertas pelo Firecrawl (com créditos, acabando, ~40 créditos usados); demais páginas pelo ajudante web-fetch. 20 edições antigas só pelo título de busca (site antigo 404). K = favicon oficial (logo do cabeçalho é SVG embutido). Pendências 40/41 da Aenigma já aplicadas na v895."
+    },
+    {
+      "versao": 903,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "La Touraine"
+      ],
+      "linhas_marcas": [
+        1172
+      ],
+      "relogios": 60,
+      "linhas_relogios": "130625-130684",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "La Touraine": 24
+      },
+      "adiadas": [
+        "L'artisan",
+        "Last Watch"
+      ],
+      "obs": "Loja oficial la-touraine.com (Shopify) pelo Firecrawl (com créditos, ~45 usados); páginas de fora pelo ajudante web-fetch. K = ícone oficial (logo do cabeçalho é SVG embutido). L'artisan (não identificável) e Last Watch (site 404) para ADIADAS."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16275,23 +16298,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T15:43:33Z",
-  "ultimo_sinal": "2026-11-26T15:45:43Z",
-  "em_andamento": {
-    "marcas": [
-      "La Touraine"
-    ],
-    "linha_marcas": 1172,
-    "grande": false,
-    "relogios": "historico/parcial_La_Touraine_relogios.txt",
-    "fontes": "historico/parcial_La_Touraine_fontes.txt",
-    "notas": "historico/notas_La_Touraine.md",
-    "secoes_feitas": [
-      "1",
-      "2"
-    ],
-    "passada": 1,
-    "obs": "L'artisan e Last Watch vão para ADIADAS (sem fontes)"
-  }
+  "adiadas_obs": {}
 }

@@ -1,0 +1,132 @@
+{
+ "marca": "La Touraine",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Bateria de relógios (passada única) em 26/11/2026: 60 relógios, 24 fontes abertas (loja oficial la-touraine.com pelo Firecrawl: products.json com 18 relógios em 296 produtos — o resto são pulseiras e acessórios —, about-us, blog e 3 páginas escondidas: Legacy, Subnautica e Voyager GMT). Cada cor de mostrador virou uma linha. A marca não usa referências (os SKUs numéricos do site são códigos de barras). Fora: Maritimer Wall Clock (relógio de parede), estojo para celular e kits de 2+ relógios. Subnautica Blue/Green/White entraram só pela matéria da The Coolector (dez/2023), sem foto própria. Não achados: as linhas antigas de piloto e minimalista citadas no comunicado de jan/2023 e no catálogo do Issuu (sem nome de modelo). Só anotado: o site oficial (about-us) diz que a marca nasceu em 2018 e o fundador assina 'Dave'; o nome vem do navio S.S. La Touraine, que levou os bisavós dele a Ellis Island em 1893 — isso confirma o '[⚠️ a confirmar]' da história (início por volta de 2018, Dave), mas o sobrenome Moggio continua só no The Knot/WeddingWire. Endereço do The Knot/WeddingWire: 110 S. Summit Ave, Charlotte. J diz Heritage Racer Noir com Seagull ST1902; o site oficial hoje diz ST-1903 para Heritage Racer, Panda e Phantom (a ficha da metro-ruddy diz ST1902). Preços do site em dólar (US$ 89,99 a 999,99), não em euro como J/F (Atlas).",
+ "fontes": [
+  {
+   "url": "https://la-touraine.com/products.json?limit=250",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://la-touraine.com/products.json?limit=250&page=2",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://la-touraine.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://la-touraine.com/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://la-touraine.com/blogs/news",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://la-touraine.com/blogs/news/a-buyer-s-guide-to-la-touraine-s-current-watch-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://la-touraine.com/blogs/news?page=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://la-touraine.com/products/legacy.json",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://la-touraine.com/products/subnautica.json",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://la-touraine.com/products/voyager-affordable-gmt-watch.json",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://la-touraine.com/sitemap.xml",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://la-touraine.com/sitemap_products_1.xml?from=4496757653556&to=8970635018475",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://reach.dog/shop/la-touraine-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thecoolector.com/la-touraine-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thecoolector.com/?p=140870",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://business.ricentral.com/ricentral/news/read/43028487/la_touraine_watches_releases_new_dive_watch_collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/la-touraine/la-touraine-heritage-racer-noir",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://metro-ruddy.vercel.app/brand/la-touraine/la-touraine-maritimer",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.app/products/7955076448491/maritimer-dive-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.theknot.com/marketplace/la-touraine-watches-llc-charlotte-nc-2100336",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.weddingwire.com/biz/la-touraine-watches-llc/a5efac44a0e1af03.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://issuu.com/homagewatches/docs/best_homage_watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://la-touraine.com/blogs/news/dive-watch-styles-and-designs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://la-touraine.com/blogs/news/the-timepieces-that-define-la-touraine",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
