@@ -16257,12 +16257,16 @@
     "notas": "historico/notas_LAPS.md",
     "secoes_feitas": [
       "1",
-      "5-parcial (Ocarat)",
-      "9-parcial"
+      "2",
+      "2c",
+      "3",
+      "4",
+      "5",
+      "9"
     ],
     "passada": 1,
     "obs": "LAPS dimensionada como grande na v901 (3ª da lista): fica sozinha na próxima execução, retomando das notas."
   },
   "em_execucao": "2026-11-26T14:43:23Z",
-  "ultimo_sinal": "2026-11-26T14:43:23Z"
+  "ultimo_sinal": "2026-11-26T14:47:25Z"
 }

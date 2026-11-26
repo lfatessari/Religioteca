@@ -6,3 +6,8 @@
 - Arche: S01 (verde/ivory) e S02 (azul/preto), 37,5 x 9,8 mm, Miyota 9015, € 690 pré-venda / € 860.
 - Signature: quartzo Miyota, vidro mineral. Prima: linha principal a quartzo.
 - Aba Marcas: só K falta (logo). H @laps_paris. J da planilha cita Prima Peacock Gold, Signature Malick Sidibé, Prima Popova, Arche S.
+## v902 (retomada 26/11)
+- Firecrawl COM créditos (acabando). laps.fr é Shopify: products.json via Firecrawl = 151 produtos (≈75 relógios homme/femme + pulseiras/reparos). Coleção oficial via Firecrawl OK.
+- Ocarat ?p=2 aberta (14 novos). Novos fora: Signature Mirage, Bengale Noir (Franceclat 2023), Perfecto Noir (WatchCrunch 2023, Ronda, 39x30), Coq e Ostra Studio (Europa Star), 2016: carvalho milenar, couro verde, Nakano Takeko (French Jewelry Post, só legendas).
+- Fundador Antonin Mercier; 1as edições 2015; 10 rue de Bellechasse 75007 Paris.
+- Marca vermelha (edições antigas 2015–2021 despublicadas) → 2ª passada.
