@@ -31,6 +31,7 @@ PESQUISAR_MESMO_ASSIM = {"Tiffany & Co.", "Urban Jürgensen", "Wyler", "ZRC 1904
 # marcas adiadas: sem fontes suficientes para a trava (pular até o usuário decidir ou a marca lançar).
 # Adiadas em 15/11/2026 (v622); notas em historico/notas_<marca>.md. Para voltar a pesquisar, tirar daqui.
 ADIADAS = {
+    "Layer": "micro-marca francesa (layerwatches.com, @layerwatches) de relógios artesanais ligados à cutelaria/armaria, com peças únicas e séries numeradas (colaborações com facas Chaves, Hawk, MCUSTA 25 peças); layerwatches.com deu PROVENANCE_REQUIRED pelo web-fetch, Firecrawl sem créditos (26/11/2026) e quase nenhuma fonte de fora (chavesknives.com, arizonacustomknives.com) — refazer com Firecrawl (26/11/2026, v905)",
     "L'artisan": "nome genérico, sem site/Instagram/cidade/modelo na planilha; buscas só trazem homônimos (L'Artisan du Temps, Artisans de Genève) e um anúncio 'L'Artisan Glacier' no WatchPatrol sem site nem país — marca não identificável (26/11/2026, v903)",
     "Last Watch": "lastwatchhorology.com responde 404 (Firecrawl, 26/11/2026); buscas só trazem um canal 'Last Watch Horology' no YouTube; nenhum modelo nem fonte (26/11/2026, v903)",
     "Lamberti Orologiai": "lamberti-orologiai.com deu PROVENANCE_REQUIRED pelo web-fetch, Firecrawl sem créditos; só 7 fontes (WatchCrunch, in-vendita, SeriousWatches, 4 anúncios eBay do vendedor lamberti-orologiai de Rovato) com 6 modelos — abaixo do mínimo de 15; testar o site com Firecrawl (26/11/2026, v894)",

@@ -16334,7 +16334,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T17:43:36Z",
-  "ultimo_sinal": "2026-11-26T17:55:30Z",
+  "ultimo_sinal": "2026-11-26T18:06:59Z",
   "em_andamento": {
     "marcas": [
       "Laventure",
@@ -16347,7 +16347,9 @@
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
     "secoes_feitas": [
-      "Laventure completa (31 fontes, 20 relógios)"
+      "Laventure completa (31 fontes, 20 relógios)",
+      "Le Forban completa (37 fontes, 13 relógios, vermelha)",
+      "Layer adiada"
     ],
     "passada": 1
   }
