@@ -1,0 +1,4 @@
+# Label Noir (linha 1157) — notas
+- labelnoir.ch (G): PROVENANCE_REQUIRED (web-fetch). site: busca não traz nada. Imprensa (Monochrome, Europa Star, Worn&Wound) aponta labelnoirdesign.com.
+- Fundador Emmanuel Curti; desde 2011 (Wallpaper; Monochrome 2024); Genebra; TwentyFirst Luxury Group (Watchonista).
+- Peças achadas: Rolex Milgauss Tourbillon (2018, peça única); Anonimo Epurato x LN (2020, 15 pç, AM-4000.02.LN?); Armin Strom Gravity Equal Force x LN (2021, 15 pç); L'Epée Time Fast D8 LN_EP01 (relógio de mesa, 5 pç); Behrens x LN Dark Moon LN_BH01 (2022, 50 pç); Louis Erard Le Régulateur x LN (2022, 178 pç); Perrelet Turbine EVO LN (2022, 50 pç); ML Masterpiece Skeleton x LN (2024, 288 pç); BA111OD Chptr_Δ.5 LN (2024, 111 pç); Electricianz Label Noir Edition; LN x Corum/Cvstos/Schwarz Etienne tourbillons (Macau); LN x Reservoir Popeye; ML Aikon LN (2020); Royal Oak 26574 LN063C.
