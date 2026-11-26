@@ -1,0 +1,317 @@
+{
+ "marca": "Laco",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – laco.de: a página inicial pediu permissão (PROVENANCE_REQUIRED); as páginas de categoria e o arquivo laco-watches.com/en/about-laco/watch-archive abriram",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios pesquisados em 26/11/2026 (passada única): 305 linhas — catálogo atual do site oficial (Original, Erbstück, Basic, Special Models, Flieger PRO, DIN 8330, Squad, Sport, Navy, Editions), arquivo oficial de modelos fora de linha (laco-watches.com/en/about-laco/watch-archive; o último terço da página foi lido por resumo, conferido em duas leituras), lista de descontinuados da Right Time, WatchBase e peças vintage (B-Uhr dos anos 1940, Laco-Sport/Duromat, Laco Electric, anos 1930–60). Pintada de vermelho: o Flieger PRO é montado num configurador (só as 10 peças 'Ready to Wear' entraram) e a produção vintage desde 1925 não tem catálogo público. Variantes MB (pulseira de metal) e RB (borracha) entraram como linhas próprias porque o site oficial as vende com código próprio. A Laco Sport, a FL 23883 e o '53036' vêm de anúncios de usados (a confirmar).",
+ "fontes": [
+  {
+   "url": "https://www.laco.de/en/watches/pilot-watch-original",
+   "passada": 1,
+   "novos": 40
+  },
+  {
+   "url": "https://www.laco.de/en/watches/pilot-watches-special-models",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.laco.de/en/watches/pilot-watches-basic",
+   "passada": 1,
+   "novos": 38
+  },
+  {
+   "url": "https://laco.de/en/watches/squad-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.laco.de/en/watches/navy-watches",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.laco.de/en/watches/sport-watches",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.laco.de/en/watches/laco-vintage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laco.de/en/watches/classics",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://laco-watches.com/en/about-laco/watch-archive",
+   "passada": 1,
+   "novos": 117
+  },
+  {
+   "url": "https://www.laco.de/en/watches/flieger-pro",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.laco.de/en/watches/pilot-watches-din-8330",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.laco.de/en/watches/chronographs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laco.de/en/watches/editions",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/laco",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.righttime.com/rt/laco/wwoldmodels.htm",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/laco.html?page=5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/laco-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laco.de/en/watches/editions/rad-aux-ltd-edition/862143",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.laco.de/en/oliv-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laco.de/en/edition-100",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.laco-watches.com/en/magazin/limited-edition-watches-guide",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/laco-vintage/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://windupwatchshop.com/blogs/chronicle/chronicle-a-history-and-guide-to-laco",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/laco-lacher-co-type-2-dial-b-uhr-german-wwii-luftwaffe/id-j_30966/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/products/vintage-laco-durowe-mens-automatic-wristwatch-1172-germanystainless-steel",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_1950s_laco-sport_wrist_watch/as170a4484",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://vintageradar.com/products/laco-sport-waterproof-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/unusual_1930s_art_deco_laco_wrist_watch_a12005/as170a12005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/clearance/laco.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/laco/chronographs.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/laco/chronographs",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/laco/pilot-watches/861800",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thestar.com.my/lifestyle/style/2024/08/24/german-engineered-mediterranean-vibe",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/laco-gears-up-for-their-centennial-with-a-new-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/laco-x-circula-prolab-hands-on/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/?p=952204",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/laco/vintage",
+   "passada": 2,
+   "novos": 12
+  },
+  {
+   "url": "https://electric-watches.co.uk/makers/laco/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.crazywatches.pl/timex-laco-84-electric-1965",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchcrunch.com/Lugsandlumeblog/posts/the-durowe-connection-the-saga-of-laco-and-timex-435",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/sv/l/22607379-laco-laco-electric-von-1963-4-elektromechanische-uhr-man-1960-1969",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2017/07/03/laco-kiel-limited-edition-automatic-chronograph-final-edition-stainless-steel-case-black-dial/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/fliegeruhren/mit-der-edition-99-bereitet-laco-sein-grosses-jubilaeum-vor",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://exquisitetimepieces.com/watch-brands/laco/editions.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://laco.de/en/news",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/a_gents_1950s_laco_wrist_watch_a4092/as170a4092",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://vintageradar.com/products/laco-vintage-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/26250441-laco-electric-men-1960-1969",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://firstclasswatches.co.uk/blog/?p=21663",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://cwsellors.co.uk/collections/laco-watches?page=2",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://whamond.com/collections/laco",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.firstclasswatches.co.uk/laco-watches-c-2203/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/mens-laco-watches",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-laco-edition-96-dive-watch-specs-price/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/featured/laco-takes-to-the-skies-with-limited-bronze-pilot-edition-97/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://teddybaldassarre.com/pages/brand-reviews/laco",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/laco/laco-launches-limited-edition-augsburg-and-aachen-polar-models",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/laco/watch-32414233",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watches.com/collections/laco-watches/42mm.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004114821.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jamesmoorejewellers.co.uk/shop/laco-amazonas-automatic-pilot-black-rubber-862107",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
