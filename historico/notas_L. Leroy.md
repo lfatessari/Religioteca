@@ -1,0 +1,11 @@
+# L. Leroy (linha 1156) — grande, sozinha. falta H, K.
+- montres-leroy.com home: PROVENANCE_REQUIRED. Subpáginas da busca abrem (texto só, sem fotos; JS).
+- Logo achado: https://montres-leroy.com/sites/all/themes/L-Leroy/images/petit-logo-marine.png (é o logo pequeno "marine"? conferir; preferir outro)
+- Instagram: não achado ainda.
+- Dono: Grupo Festina (2004, Miguel Rodriguez). Movimentos Genebra (Régence Production). Fontes: Revolution, Europa Star, Monochrome.
+- Feito: Osmior lista WatchBase (14), Marine LL202/1, LL202/2, Vox Temporis LL301-303, Bal du Temps LL305-307, Elyor (sem ref), Only Watch 2015 L200AL, Only Watch 2023, Marine Deck Chronometer LL200, vintage (monopulsantes 1922/1925/1930s/1945/1950s, Leroy et Fils 27631, cronômetro Besançon 1953).
+- Falta: fotos WatchBase de cada Osmior; Chronomètre Observatoire 2014 (L200, refs?); Marine LL201?; GPHG chronometre a tourbillon, tourbillon regulateur squelette; Elyor refs; Marquise vintage; Marine Chronometer; Chrono24/EveryWatch; lojas.
+- Logo: https://cdn.shopify.com/s/files/1/0716/2783/3515/collections/montresLeroy_logo.png?v=1778272096 (Exquisite). Instagram @leroywatches (só DailyWatch; conferir).
+- Marine refs: LL200/1,/3,/4,/5,/6,/10(tourbillon? texto oficial); LL201/1,/2,/3,/4; chrono LL202/1,/2,/3; LL203/1,/2.
+- Limited series: LL107/1, LL108/1, LL109/1 (7 peças cada). Elyor LL309/1,310/1,311/1 (50). Bal du Temps LL305-307. Vox LL301-303 (15).
+- Osmior chrono LL100/1, LL101/1,/2,/3; regulador tourbillon LL104/1,/2, LL106/1,/2,/3; data retrógrada perpétua LL102/1, LL103/1,/2,/3. Chronomètre à Tourbillon (GPHG L102/1? conflito — sem ref). Chronomètre Observatoire L200 (2015) sem ref.
