@@ -15990,6 +15990,14 @@
       ],
       "script": "historico/posts/pendencias_895.py",
       "obs": "Itens 40 e 41 das pendências (prompt da tarefa agendada): I nova da Aenigma (post de 26/11/2026), F 6342→6426 (preços em euro do site × PTAX 25/11/2026 6,4413), referências e fotos originais de 15 relógios, Operazione 40→100 peças, Monte Bianco Extreme 20 peças, linha duplicada \"SubX Operazione Aenigma Essentia\" removida (Aenigma 17→16 linhas). Site oficial não reaberto nesta execução (PROVENANCE_REQUIRED; Firecrawl sem créditos): valores aplicados como vieram do pedido aprovado. Documento claude/planilha-pendencias-posts.md não atualizado (ferramenta Projects ausente)."
+    },
+    {
+      "versao": null,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [],
+      "gravado": false,
+      "obs": "Bateria sem gravação: lote do proxima_completa.py = LaMotte Watch Company (1163), Lancaster (1164), Lanco (1165). Nesta execução nenhuma página pôde ser lida pelo ajudante web-fetch nem em site oficial (lamottewatchco.com, lancasteritaly.com e aenigma.world: PROVENANCE_REQUIRED) e o Firecrawl estava sem créditos (renova 26/11 13:43 UTC). LaMotte: só 2 fontes de fora existem (iwmagazine, thecoolector) — sem o site oficial não chega a 15 nem ao so_site_oficial. Lancaster: grande (moda, refs OLA####), site oficial não indexado. Lanco: vintage, grande. Nenhuma foi para ADIADAS nem registrada em feitas.json: voltam na próxima execução, de preferência com Firecrawl."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16097,7 +16105,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T09:43:31Z",
-  "ultimo_sinal": "2026-11-26T09:57:57Z"
+  "adiadas_obs": {}
 }
