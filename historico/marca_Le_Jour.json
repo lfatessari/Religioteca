@@ -1,0 +1,521 @@
+{
+ "marca": "Le Jour",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – lejourwatches.ch e lejourwatches.com (leitura automática pediu permissão); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Le Jour gravada em 26/11/2026 (v906): 107 relógios (linha moderna revivida + vintage dos anos 1960–80). Vermelha: há referências da linha moderna sem nenhuma fonte achada (Le Mans LJ-LM-002, 004, 005, 008, 011; Roadster LJ-RD-004 e 005; Coral LJ-CD-002/004 sem cor) e muitos cronógrafos vintage sem nome nem referência. Site oficial lejourwatches.ch e lejourwatches.com não abriram para leitura automática (pedido de permissão); Firecrawl sem créditos. G corrigido: lejourwatches.com → lejourwatches.ch (o site que a Gear Patrol, a Time+Tide e a Worn & Wound citam como o da marca). Só anotado: B 'Suíça (herança)' — a Le Jour original era uma distribuidora francesa (EUA: marca de distribuição da Yema; Europa: cronógrafos feitos pela Heuer, como o 7203), segundo Analog Shift, Worn & Wound, Gear Patrol e Kibble; a marca revivida vende relógios 'Swiss made', mas nenhuma fonte diz onde fica a empresa hoje. J cita 'Grand Prix', que não apareceu em nenhuma fonte (talvez seja o Rally Monte-Carlo ou o Roadster); 'Chronograph vintage' e 'Mark I' foram achados.",
+ "correcoes": {
+  "G": "lejourwatches.ch"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://gearpatrol.com/2020/05/22/best-reestablished-vintage-watch-brands/",
+   "https://timeandtidewatches.com/?p=116728"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.gnomonwatches.com/collections/le-jour",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://www.gnomonwatches.com/collections/lejour-sale",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/le-jour-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/products/watches/le-jour",
+   "passada": 1,
+   "novos": 40
+  },
+  {
+   "url": "https://longislandwatch.com/le-jour/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchia.com/en/brands/le-jour.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/brand/le-jour/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/lejour/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/vintage-le-jour-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/tbt-lejour-pvd-chronograph-value-still-exists/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/lejour-sold/products/lejour-yachtingraf-as06783",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.analogshift.com/collections/lejour-sold/products/lejour-yachtingraf-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/lejour-yachtingraf-as01395",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/lejour-yachtingraf-as02436",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/lejour-yachtingraf-regatta-timer-as00405",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/lejour-pvd-chronograph-as04372",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/0-inventory/products/lejour-broad-arrow-chronograph-as03873",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/lejour-chronograph-as08612",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/lejour-chronograph-as02325",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/lejour-chronograph-as01368",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/lejour-chronograph-as02188",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/le-jour-chronograph-as01155",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/le-jour-le-mans-swiss-automatic-chronograph-with-ivory-dial-lj-lm-001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/le-jour-le-mans-swiss-automatic-chronograph-with-white-dial-lj-lm-010",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/le-jour-le-mans-swiss-automatic-chronograph-with-black-dial-lj-lm-006",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/le-jour-le-mans-swiss-automatic-chronograph-with-ice-blue-dial-lj-lm-009",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/closer-look-at-the-new-le-jour-le-mans-chronograph-lj-lm-009-lj-lm-010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=94495",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2021/04/lejour-le-mans-chrono.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-le-mans-chronograph-lj-lm-001-pre-owned",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-le-jour-skipper-chronograph-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/review/le-jour-mark-001-chronograph-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/introducing-the-le-jour-hammerhead-gmt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2020/03/30/le-jour-hammerhead-dive-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2020/03/lejour-hammerhead-collection.html",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2019/05/lejour-seacolt-gmt.html",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/le-jour-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://shop.watchgang.com/products/hammerhead-gmt-lj-hh-gmt-004",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-mark-i-lj-mi-001",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-mark-i-lj-mi-002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://seriouswatches.com/products/le-jour-mark-i-lj-mi-003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-mark-i-lj-mi-004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-mark-i-lj-mi-007",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/le-jour-mark-i-meteorite-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/collections/le-jour?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbandit.com/le-jour-tributes-to-the-classics-of-the-1960s-70s",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/closer-look-at-the-new-le-jour-rally-monte-carlo-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/lejour-diver-lorange-as10832",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/34438143",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-roadster-lj-rd-002",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/chrono24/products/le-jour-roadster-lj-rd-001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gnomonwatches.com/products/roadster-chronograph-ice-blue-ref-lj-rd-003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-flieger-lj-fl-004",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-flieger-lj-fl-001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gearpatrol.com/watches/a34011537/lejour-flieger-lj-fl-001-pilots-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-cm-chrono-lj-cm-003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-cm-chrono-lj-cm-006",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/le-jour-seacolt-gmt-lj-sc-003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/le-jour-seacolt-gmt-lj-sc-004",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-delmare-lj-dm-003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=116728",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronomaster.co.uk/watches/lejour-le-jour-delmare-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/le-jour-coral-automatic-swiss-dive-watch-with-grey-textured-dial-lj-cd-003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=67390",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-fardon-lj-fd-001",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/le-jour/products/le-jour-seacolt-diver-lj-scd-005",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/sale/products/le-jour-brooklyn-lj-br-003",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://conteenium.com/product/le-jour-flieger-lj-fl-002/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://onthedash.chronocentric.com/docs/LeJour.shtml",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thewatchpreserve.com/collections/panda-dial-chronographs/products/vintage-le-jour-1376-panda-mens-chronograph-wristwatch-valj-7734-gold-tone",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/le-jour-depthograf-super-compressor/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/le-jour-stainless-steel-depthograf-divers-wristwatch-1960s/id-j_1623203",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/lejour-pvd-chronograph-nos",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.craftandtailored.com/products/1970s-lejour-chronograph-pvd-valjoux-cal-7734",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/157526316852",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/28750167",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=34814",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/mystery-le-jour-chronograph-id-help-1970s-swiss.186350/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/sometimes-you-get-_more_-than-what-you-paid-for-yema-le-jour.111240/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://omegaforums.net/threads/le-jour-chronograph-reverse-panda-dial-only-1350eur.113044",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/strange-case-back-on-a-le-jour-dive-chrono-any-ideas.115340/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/lejour-chronograph-last-reduction-600.148684/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://omegaforums.net/threads/le-jour-yema-triton-broad-arrow-chrono-val-7730-39mm-ref-2002-case.167376/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/lejour-chronograph-7733-the-poor-smart-mans-chronographe-du-jour/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchesofswitzerland.com/products/lejour-diver-lorange-as10832",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-mark-i-lj-mi-006",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-heritage-lj-hr-003",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/le-jour-heritage-lj-hr-005-pre-owned",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/pre-owned-archive/products/le-jour-le-mans-chronograph-lj-lm-015-pre-owned",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/pre-owned-archive/products/le-jour-le-mans-chronograph-lj-lm-010-pre-owned",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gnomonwatches.com/blogs/news/closer-look-at-the-new-lejour-le-mans-chronograph",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gnomonwatches.com/blogs/news/le-jour-chronograph-review",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.lot-art.com/auction-lots-source-click/47092520",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://fellows.co.uk/bidding/3233-the-luxury-watch-sale-1141/152-le-jour-a-black-pvd-treated-stainless-steel-lj-mi-003-chronograph-bracelet-watch-40mm-420492",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/le-jour-chronograph-41mm-lj-mi-003/id-j_17613482",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chronomaster.co.uk/watches/lejour-heritage-black",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.watchgang.com/products/heritage-lj-hr-001",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/le-jour-mark-i-meteorite-watch-review/2",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://kibblewatches.co.uk/pages/brand-directory-le-jour",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://gearpatrol.com/2020/05/22/best-reestablished-vintage-watch-brands/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
