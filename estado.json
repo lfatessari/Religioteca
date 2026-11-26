@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1150,
-  "ultima_versao": 887,
+  "proxima_linha_marcas": 1151,
+  "ultima_versao": 888,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15811,6 +15811,25 @@
         "J"
       ],
       "obs": "Grande, sozinha. Sem dados vazios na aba Marcas. Firecrawl não usado; páginas pelo ajudante web-fetch. Pendências 37–39 já estavam aplicadas (v883). Próximas: Kurono Tokyo (1151, falta K) e Kuruvakka (1152, faltam G, I, K)."
+    },
+    {
+      "versao": 888,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kurono Tokyo"
+      ],
+      "linhas_marcas": [
+        1151
+      ],
+      "relogios": 43,
+      "linhas_relogios": "129801-129843",
+      "vermelho": false,
+      "grande": true,
+      "fontes": 63,
+      "logo": true,
+      "lote": "historico/passada_unica/lote_888.json",
+      "obs": "Grande, sozinha. 37 mm de 3 ponteiros já estão na linha Bunkyo Tokyo (mesma marca); aqui cronógrafos, Calendrier, GMT, Sensu, 34 mm, Diver's e Chrono Tokyo. K = logo da Piazo. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883 (foto do SUPA Commando e Ascent SteelWhite seguem sem conferência). Próximas: Kuruvakka (1152), KVELI Watches (1153)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15918,31 +15937,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T02:43:18Z",
-  "ultimo_sinal": "2026-11-26T02:53:12Z",
-  "em_andamento": {
-    "marcas": [
-      "Kurono Tokyo"
-    ],
-    "linha_marcas": 1151,
-    "grande": true,
-    "relogios": "historico/dados_Kurono_Tokyo.txt",
-    "fontes": "historico/parcial_Kurono_Tokyo_fontes.txt",
-    "notas": "historico/notas_Kurono_Tokyo.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }

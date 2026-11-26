@@ -1,0 +1,327 @@
+{
+ "marca": "Kurono Tokyo",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Passada única em 26/11/2026 (v888): 43 relógios gravados. Divisão com a linha 'Bunkyo Tokyo' (mesma marca; lá ficaram os 37 mm de 3 ponteiros): aqui entraram cronógrafos (Chronograph 1, 2, Shiro, Mk.2, 3 Hisui, P1, Vermilion, Structure S1), Calendrier, GMT 1, Réserve de Marche Sensu, 34 mm, Diver's e a fase japonesa Chrono Tokyo × TiC TAC (CT/CH, 2018–2020). Tiragens da Chrono Tokyo divergem (50 no watch-wiki; 100 nas lojas japonesas): ficaram em E. kuronotokyo.com abriu pelo ajudante web-fetch (páginas internas); EveryWatch bloqueou as fichas ('Only Collectors'). Firecrawl sem créditos.",
+ "fontes": [
+  {
+   "url": "https://www.kuronotokyo.com/pages/chronograph-i",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/chronograph-ii",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kuronotokyo.com/pages/chronograph-ii-shiro",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/chronograph-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/chronograph-1-mk-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/kurono-vermilion-chronograph-shu",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/34mm",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/34mm_2024",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/34mm_2025",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/gmt-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/calendrier-type-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/anniversary-calendrier-type-i-azuki",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/kurono-grand-jubilee-calendar",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/reserve-de-marche-sensu",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watch-wiki.net/doku.php?id=kurono",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/kurono-tokyo-brand-reference-guide/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/us/discover/buying-guides/wristcheck-guide-to-kurono-tokyo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/kurono-tokyo-structure-chronograph-s1-sports-chronograph-introducing-price/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/kurono-tokyo-calendrier-small-batch-release-smb-saxe-blue-dial-introducing-price/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/kurono-tokyo-vermilion-chronograph-salon-exclusive-model-introducing-specs-price",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/introducing-the-kurono-tokyo-reserve-de-marche-sensu-n-o-s-a-bold-guilloche-move",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/kurono-tokyo-goes-small-with-four-new-limited-edition-watches/",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://piazo.jp/kuronotokyo/34mm/refCS034C/watch20595/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/kurono-tokyo/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://hypebeast.com/2025/5/kurono-tokyo-jubilee-sensu-eol-shiraai-2025-anniversary-watch-hajime-asaoka-release-info",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/kurono-rethinks-their-chronograph-with-a-new-dial-color/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/2025-kurono-grand-jubilee-calendar-salmon-dial-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/kurono-tokyo-34mm-star-dial-special-project-2025-introducing-availability-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-kurono-tokyo-34mm-collection-2023-new-sector-dial-specs-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.webchronos.net/features/74843/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loupethis.com/auctions/kurono-tokyo-x-tictac-final-edition-bullseye-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.belmontwatches.com/products/chrono-tokyo-bullseye-hajime-asaoka-x-tictac-ct004s-limited",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/buy/kurono-tokyo/rare-chrono-tokyo-x-tictac-bullseye-champagne-ct004w-hajime-asaoka-only-100-pieces-worldwide-ct004w6ftsx",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.www.rasin.co.jp/SHOP/U-CH001K.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/168819823621",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chrono-tokyo/news/203620",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://kuronotokyo.com/pages/2026-kurono-divers",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristcheck.com/us/buy/kurono-tokyo/jubilee-sensu-eol",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/U-CT003Q.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.rasin.co.jp/SHOP/U-CT002B.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/4e4dy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/kurono-chronograph-i",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/kurono-chronograph-1-as06004",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/kurono-chronograph-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/kurono-chronograph-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/gmt-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/kurono/watch-15413370",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/buy/_bunkyo-tokyo-chrono-17ec",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/hajime-asaokas-kurono-line-is-back-with-a-new-art-deco-inspired-chronograph-in-two-variants/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hypebeast.com/2024/11/kurono-tokyo-chronograph-p1-shanghai-special-edition-release-info",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gressive.jp/brand/chrono-tokyo/news/215661",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0529/hotitem/224980",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gressive.jp/shop/R0529/hotitem/215150",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/ice-blue-kurono-tokyo-2025-jubilee-sensu-eol-miyota-9133-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/2026-kurono-tokyo-diver-two-in-one-watch-with-sealed-outer-diving-case-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.webchronos.net/news/142347/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/kurono-celebrates-the-opening-of-their-tokyo-boutique-with-a-limited-edition-box-set-featuring-colorful-urushi-lacquered-dials/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.www.rasin.co.jp/SHOP/U-CB24P1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/kurono/chronograph/5052720",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/kurono-chronograph-1-mk-2-tokyo-210000051032",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/product/kurono-chronograph-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sothebys.com/en/buy/pdp/luxury/watches/watch/_kurono-(gmt-1).-a-brand-new-stainless-steel-dual-time-zone-wristwatch-with-date-and-24-hours-indication-circa-2023",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://professionalwatches.com/kurono-tokyo-chronograph-p1-shanghai-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
