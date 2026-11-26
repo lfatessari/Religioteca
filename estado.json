@@ -16128,7 +16128,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T10:43:04Z",
-  "ultimo_sinal": "2026-11-26T10:52:43Z",
+  "ultimo_sinal": "2026-11-26T10:59:19Z",
   "em_andamento": {
     "marcas": [
       "Lancaster"
@@ -16146,7 +16146,7 @@
       "8",
       "9"
     ],
-    "passada": 1,
+    "passada": 3,
     "obs": "Lancaster é grande: sozinha nesta execução. Site oficial PROVENANCE_REQUIRED, Firecrawl sem créditos; páginas via ajudante web-fetch."
   }
 }
