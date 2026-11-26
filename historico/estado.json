@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1166,
-  "ultima_versao": 900,
+  "proxima_linha_marcas": 1169,
+  "ultima_versao": 902,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16116,6 +16116,58 @@
       },
       "adiadas": [],
       "obs": "Marca grande, sozinha. Páginas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos. G corrigido para lang-und-heyne.de; K (logo) e L (site parcial) gravados. Pendências 40/41 da Aenigma já aplicadas na v895."
+    },
+    {
+      "versao": 901,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lang 1943",
+        "Lapizta"
+      ],
+      "linhas_marcas": [
+        1167,
+        1168
+      ],
+      "relogios": 18,
+      "linhas_relogios": "130499-130516",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Lang 1943": 21,
+        "Lapizta": 17
+      },
+      "obs": "Páginas pelo ajudante web-fetch (WebFetch direta ausente); sites oficiais lang1943.com, lapizta.com e laps.fr pediram permissão; Firecrawl sem créditos. Corrigidos D, I (e J da Lang 1943). LAPS (grande) adiada para a próxima execução com notas salvas."
+    },
+    {
+      "versao": 902,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "LAPS"
+      ],
+      "linhas_marcas": [
+        1169
+      ],
+      "relogios": 108,
+      "linhas_relogios": "130517-130624",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "LAPS": 38
+      },
+      "passadas": {
+        "1": [
+          26,
+          93
+        ],
+        "2": [
+          12,
+          1
+        ]
+      },
+      "adiadas": [],
+      "obs": "Retomada da v901. Loja oficial laps.fr (Shopify) e Ocarat p.2 abertas pelo Firecrawl (com créditos, acabando, ~40 créditos usados); demais páginas pelo ajudante web-fetch. 20 edições antigas só pelo título de busca (site antigo 404). K = favicon oficial (logo do cabeçalho é SVG embutido). Pendências 40/41 da Aenigma já aplicadas na v895."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

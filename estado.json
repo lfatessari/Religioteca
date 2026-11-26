@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1168,
-  "ultima_versao": 901,
+  "proxima_linha_marcas": 1169,
+  "ultima_versao": 902,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16138,6 +16138,36 @@
         "Lapizta": 17
       },
       "obs": "Páginas pelo ajudante web-fetch (WebFetch direta ausente); sites oficiais lang1943.com, lapizta.com e laps.fr pediram permissão; Firecrawl sem créditos. Corrigidos D, I (e J da Lang 1943). LAPS (grande) adiada para a próxima execução com notas salvas."
+    },
+    {
+      "versao": 902,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "LAPS"
+      ],
+      "linhas_marcas": [
+        1169
+      ],
+      "relogios": 108,
+      "linhas_relogios": "130517-130624",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "LAPS": 38
+      },
+      "passadas": {
+        "1": [
+          26,
+          93
+        ],
+        "2": [
+          12,
+          1
+        ]
+      },
+      "adiadas": [],
+      "obs": "Retomada da v901. Loja oficial laps.fr (Shopify) e Ocarat p.2 abertas pelo Firecrawl (com créditos, acabando, ~40 créditos usados); demais páginas pelo ajudante web-fetch. 20 edições antigas só pelo título de busca (site antigo 404). K = favicon oficial (logo do cabeçalho é SVG embutido). Pendências 40/41 da Aenigma já aplicadas na v895."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16245,34 +16275,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_andamento": {
-    "marcas": [
-      "LAPS"
-    ],
-    "linha_marcas": 1169,
-    "grande": true,
-    "relogios": "historico/parcial_LAPS_relogios.txt",
-    "fontes": "historico/parcial_LAPS_fontes.txt",
-    "notas": "historico/notas_LAPS.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada"
-    ],
-    "passada": 1,
-    "obs": "LAPS dimensionada como grande na v901 (3ª da lista): fica sozinha na próxima execução, retomando das notas."
-  },
-  "em_execucao": "2026-11-26T14:43:23Z",
-  "ultimo_sinal": "2026-11-26T14:51:21Z"
+  "adiadas_obs": {}
 }
