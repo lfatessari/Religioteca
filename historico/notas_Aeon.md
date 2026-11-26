@@ -3,3 +3,6 @@ Site oficial aberto direto (aeon-watches.com, /watches, /watches/p/pioneer, /wat
 - Pioneer - Cascade | https://images.squarespace-cdn.com/content/v1/65947e1143ab027ac41693a7/1704701441795-K635LPYECNFVTHORQQYB/RW3A8981-2.jpg | Aço 40 mm, 11 mm, safira plana, Seagull ST1601, 40 h, 100 m; US$ 250
 - Pioneer - Evergreen | https://images.squarespace-cdn.com/content/v1/65947e1143ab027ac41693a7/1704701587676-Z34M7XGM73WY71FYQOYH/RW3A8964.jpg | idem; US$ 250
 Buscas sem fonte externa: '"Aeon Watches" Pioneer Seattle automatic', '"aeon watches" Cascade Evergreen', '"Aeon Watches" Seattle microbrand reddit instagram Azhan Zaheer'.
+
+## 26/11/2026 (v899, pedido do usuário)
+Site oficial reaberto (6 páginas, ajudante web-fetch): continua com 2 modelos, ambos em estoque. Mais 3 buscas sem fonte de fora (só homônimas). Gravado com a exceção "só site oficial"; tirada de ADIADAS.
