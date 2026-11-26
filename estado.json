@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1173,
-  "ultima_versao": 904,
+  "proxima_linha_marcas": 1176,
+  "ultima_versao": 905,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16225,6 +16225,46 @@
       },
       "adiadas": [],
       "obs": "Loja oficial laurentferrier.ch (products.json, 57 relógios) e blog (news.atom) pelo Firecrawl (~5 créditos); demais páginas pelo ajudante web-fetch. Sem dados vazios na aba Marcas (falta vazio); só M anotada. Pendências 40/41 da Aenigma já estavam aplicadas (v895). Laventure e Layer ficam para a próxima (Laurent Ferrier grande, sozinha)."
+    },
+    {
+      "versao": 905,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Laventure",
+        "Le Forban"
+      ],
+      "linhas_marcas": [
+        1174,
+        1176
+      ],
+      "relogios": 33,
+      "linhas_relogios": "130826-130858",
+      "vermelho": {
+        "Laventure": false,
+        "Le Forban": true
+      },
+      "grande": false,
+      "fontes": {
+        "Laventure": 31,
+        "Le Forban": 37
+      },
+      "passadas": {
+        "Le Forban": {
+          "1": [
+            27,
+            13
+          ],
+          "2": [
+            10,
+            0
+          ]
+        }
+      },
+      "adiadas": [
+        "Layer"
+      ],
+      "obs": "Laventure: catálogo do site oficial laventure.swiss (Firecrawl, ~22 créditos até acabar); G/H corrigidos. Le Forban: site oficial leforbansecuritemer.com não abriu (PROVENANCE; Firecrawl sem créditos), tudo por fontes de fora via ajudante web-fetch; G corrigido, L registrado, vermelha (modelos antigos sem nome). Layer: site não abriu e sem fontes de fora → ADIADAS; só G entrou pelo lote. Pendências 40/41 da Aenigma já estavam aplicadas (v895)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16332,25 +16372,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T17:43:36Z",
-  "ultimo_sinal": "2026-11-26T18:06:59Z",
-  "em_andamento": {
-    "marcas": [
-      "Laventure",
-      "Layer",
-      "Le Forban"
-    ],
-    "linha_marcas": 1174,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Laventure completa (31 fontes, 20 relógios)",
-      "Le Forban completa (37 fontes, 13 relógios, vermelha)",
-      "Layer adiada"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
