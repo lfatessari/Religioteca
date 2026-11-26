@@ -15880,5 +15880,20 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T00:43:40Z",
-  "ultimo_sinal": "2026-11-26T00:43:40Z"
+  "ultimo_sinal": "2026-11-26T00:49:41Z",
+  "em_andamento": {
+    "marcas": [
+      "Kudoke",
+      "Kuoe Kyoto",
+      "Kurono Tokyo"
+    ],
+    "linha_marcas": 1149,
+    "grande": false,
+    "relogios": "historico/parcial_Kudoke_relogios.txt",
+    "fontes": "historico/parcial_Kudoke_fontes.txt",
+    "notas": "historico/notas_Kudoke.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "obs": "sites oficiais kudoke.eu, kuoe.jp, kurono-tokyo.com deram PROVENANCE_REQUIRED; Firecrawl sem créditos"
+  }
 }
