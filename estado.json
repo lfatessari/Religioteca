@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1151,
-  "ultima_versao": 888,
+  "proxima_linha_marcas": 1154,
+  "ultima_versao": 889,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15830,6 +15830,37 @@
       "logo": true,
       "lote": "historico/passada_unica/lote_888.json",
       "obs": "Grande, sozinha. 37 mm de 3 ponteiros já estão na linha Bunkyo Tokyo (mesma marca); aqui cronógrafos, Calendrier, GMT, Sensu, 34 mm, Diver's e Chrono Tokyo. K = logo da Piazo. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883 (foto do SUPA Commando e Ascent SteelWhite seguem sem conferência). Próximas: Kuruvakka (1152), KVELI Watches (1153)."
+    },
+    {
+      "versao": 889,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kuruvakka",
+        "L&JR"
+      ],
+      "adiadas": [
+        "KVELI Watches"
+      ],
+      "linhas_marcas": [
+        1152,
+        1153,
+        1154
+      ],
+      "relogios": 11,
+      "linhas_relogios": "129844-129854",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Kuruvakka": 15,
+        "L&JR": 18
+      },
+      "catalogo_fechado": [
+        "Kuruvakka"
+      ],
+      "site_bloqueado": "landjr.com (L&JR, coluna L)",
+      "lote": "historico/passada_unica/lote_889.json",
+      "obs": "Kuruvakka: 3 RAE-3, catálogo fechado; G, I, K preenchidos. KVELI Watches adiada (só Microbrand Atlas fora do site); I e K preenchidos. L&JR: 8 Step One; C e K não achados. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15937,7 +15968,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T03:43:33Z",
-  "ultimo_sinal": "2026-11-26T03:55:49Z"
+  "adiadas_obs": {}
 }
