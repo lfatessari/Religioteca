@@ -1,0 +1,179 @@
+{
+ "marca": "Laventure",
+ "usa_codigos": false,
+ "logo": "https://laventure.swiss/svg/logo-white.svg",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "correcoes": {
+  "G": "laventure.swiss",
+  "H": "@laventurewatches"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://laventure.swiss/en/the-watches"
+  ],
+  "H": [
+   "https://laventure.swiss/en/the-watches"
+  ]
+ },
+ "observacoes": "Bateria v905: 20 relógios, todos do site oficial laventure.swiss (8 coleções); 19 fontes de fora sem nenhum modelo novo. Corrigido: G laventure.watch → laventure.swiss (o domínio antigo não resolve mais; o site oficial é laventure.swiss); H @laventure.watch → @laventurewatches (link do Instagram no rodapé do site oficial). K = logo oficial (SVG branco do site). A Wristcheck cita um 'Laventure Epoca' que não aparece em nenhuma outra fonte: não gravado (a confirmar). A Laventure não publica referências: B só com nome e cor.",
+ "fontes": [
+  {
+   "url": "https://laventure.swiss/en/the-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/marine-collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/sous-marine-collection",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/transatlantique-gmt-collection",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/marine-ii-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/marine-type-3",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/transatlantique-ii-gmt-collection",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/collection-sous-marine-ii",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/automobile-chronograph-collection",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/marine-type-3/laventure-marine-type-3-titanium-white",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/marine-collection/laventure-marine-steel-green",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://laventure.swiss/en/the-watches/marine-type-3/laventure-marine-type-3-titanium-black",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/laventure/transatlantique_ii_gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/the-laventure-marine-ii-unveils-a-solid-gold-dial-and-a-new-direction-for-the-brand/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/hands-on-with-the-steel-black-green-and-utterly-charming-laventure-transatlantique-ii-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/sous-marine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristcheck.com/us/buy/laventure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/laventure/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/laventure-sous-marine-ii-ns21000939286",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.coveted.com/discover/laventure-stainless-steel-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=116819",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/the-laventure-transatlantique-gmt-watch-takes-brand-to-whole-new-level",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/laventure-marine-type-3-tool-watch-titanium-chronometer-review-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchvault.com.au/products/laventure-transatlantique-ii-gmt-steel-black-2026",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/laventure-marine-watch-lauching-on-kickstarter/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/1004089550-introducing-the-laventure-marine-timepieces-for.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/laventure/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www2.gphg.org/en/watches/automobile-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/laventure-sous-marine-bronze-watch-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/laventure-marine-promises-laventure-marine",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/introducing-the-laventure-transatlantique-ii-gmt-now-smaller-and-also-available-in-two-tone",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
