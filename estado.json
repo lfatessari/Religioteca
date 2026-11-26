@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1163,
-  "ultima_versao": 896,
+  "proxima_linha_marcas": 1164,
+  "ultima_versao": 897,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16019,6 +16019,27 @@
       "adiadas": [],
       "lote": "historico/passada_unica/lote_896.json",
       "obs": "Bateria extra pedida pelo usuário na mesma conversa. Com o usuário presente, o site oficial abriu pelo ajudante web-fetch. Lacunas: H e K da LaMotte. Lancaster: lancasteritaly.com deu client_error (provavelmente grande); Lanco vintage grande — ficam para a próxima. Firecrawl sem créditos."
+    },
+    {
+      "versao": 897,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lancaster"
+      ],
+      "linhas_marcas": [
+        1164
+      ],
+      "relogios": 83,
+      "linhas_relogios": "130304-130386",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Lancaster": 67
+      },
+      "adiadas": [],
+      "lote": "historico/passada_unica/lote_897.json",
+      "obs": "Site oficial bloqueado (PROVENANCE_REQUIRED) e Firecrawl sem créditos; páginas pelo ajudante web-fetch. Corrigido C Milão→Bari e trecho de I (fundação 1992 em Bari, GPA S.r.l.). K não achado."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16126,27 +16147,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T10:43:04Z",
-  "ultimo_sinal": "2026-11-26T10:59:19Z",
-  "em_andamento": {
-    "marcas": [
-      "Lancaster"
-    ],
-    "linha_marcas": 1164,
-    "grande": true,
-    "relogios": "historico/parcial_Lancaster_relogios.txt",
-    "fontes": "historico/parcial_Lancaster_fontes.txt",
-    "notas": "historico/notas_Lancaster.md",
-    "secoes_feitas": [
-      "1",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9"
-    ],
-    "passada": 3,
-    "obs": "Lancaster é grande: sozinha nesta execução. Site oficial PROVENANCE_REQUIRED, Firecrawl sem créditos; páginas via ajudante web-fetch."
-  }
+  "adiadas_obs": {}
 }

@@ -1,0 +1,367 @@
+{
+ "marca": "Lancaster",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – lancasteritaly.com PROVENANCE_REQUIRED (web-fetch) e Firecrawl sem créditos; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "C": "Bari",
+  "I": "A Lancaster é uma marca italiana de relógios fundada em 1992 em Bari, na Puglia, por Beniamino Giovine; hoje pertence à GPA S.r.l., dirigida por seu filho Paolo Alfredo Giovine, que também tem a marca Strumento Marino. Tem forte apelo fashion e design ousado. A marca construiu sua identidade sobre a estética italiana contemporânea, com peças de personalidade marcante voltadas ao público de moda.\n\nOs relógios Lancaster caracterizam-se por design expressivo, uso de cores e materiais variados, cases de formas distintas e forte apelo lifestyle, com movimentos quartzo e alguns automáticos a preços acessíveis. A marca teve boa presença no varejo italiano e europeu, com coleções masculinas e femininas de estética urbana e moderna.\n\nEntre suas linhas mais conhecidas estão a Iohio (as caixas \"bubble\" cravejadas), a Pillo/Pillola, a Space Shuttle e a Intrigo em alumínio. [⚠️ a confirmar: status atual e site oficial (o ICE cita lancasteritalia.net)]"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://www.ice.it/en/my-home/find-your-italian-partner/company-details/302089/LANCASTER-ITALIA-&-STRUMENTO-MARINO-WATCHES",
+   "https://italialiving.com/articles/fashion-style/a-brand-on-a-quest-to-make-luxury-more-affordable",
+   "https://www.jckonline.com/?p=39132"
+  ],
+  "I": [
+   "https://www.ice.it/en/my-home/find-your-italian-partner/company-details/302089/LANCASTER-ITALIA-&-STRUMENTO-MARINO-WATCHES",
+   "https://italialiving.com/articles/fashion-style/a-brand-on-a-quest-to-make-luxury-more-affordable",
+   "https://www.jckonline.com/?p=39132",
+   "https://www.righttime.com/rt/lancaster/0244vl_a.htm",
+   "https://asset.everywatch.com/lancaster/watch-12124314",
+   "https://www.timepiece.com/lancaster-watch-ola0677l-gun-gun-nr.html",
+   "https://www.righttime.com/rt/lancaster/221-10441_a.htm"
+  ]
+ },
+ "observacoes": "Relógios pesquisados em 26/11/2026 (v897): 83 linhas, 67 fontes em 3 passadas; marca grande e pintada de vermelho (a Lancaster tem centenas de referências OLA0001…OLA1085 e muitas só aparecem em títulos de anúncios sem foto). Site oficial lancasteritaly.com não abriu (PROVENANCE_REQUIRED) e Firecrawl estava sem créditos; tudo veio de lojas (Right Time, Timepiece, Digitec/Galaxus, Watch Universe, desertcart, bestpower), 1stDibs, EveryWatch, eBay e in-vendita.it. Corrigido: C 'Milão' → 'Bari' (ficha da agência ICE: GPA S.r.l., Via Roberto da Bari 120/bis, Bari; Italia Living 2015; JCK 2003 — sede em Bari); I: 'fundada em Milão' → fundada em 1992 em Bari por Beniamino Giovine, dona GPA S.r.l. (ICE; Italia Living e JCK dão 1992); acrescentadas as linhas Iohio, Pillo/Pillola, Space Shuttle e Intrigo, vistas nas lojas. Ainda a verificar: G — o ICE dá lancasteritalia.net (e cita lancasteritalia.com); Italia Living escreve lancasteritaly.net; não se confirmou se lancasteritaly.com é o site ativo. H @lancasteritaly não confirmado (o ICE só lista o Facebook LancasterItaliaOfficial). D/J genéricos. As especificações das páginas da Watch Universe são um bloco padrão da loja e não foram usadas como dados do relógio. Ficaram de fora: 'Lancaster 844 Diver' da Analog Shift (Lancaster suíça de c. 1976, marca homônima) e anúncios sem código nem nome. K não achado: logo depende do site oficial.",
+ "fontes": [
+  {
+   "url": "https://www.righttime.com/rt/lancaster/221-10441_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/lancaster/ola0204nsb.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/lancaster/watch-1053984",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timepiece.com/lancaster-watch-ola0547rg-mr-nr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/lancaster/0245_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/lancaster/0242sl_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/lancaster/0244vl_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/lancaster/0224rs_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/lancaster/0222rs_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/lancaster/0242bl_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/lancaster-ladies-watch-ola0643bk-or-38-mm-wristwatches-45353583",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/lancaster-ladies-watch-ola0643ss-bl-38-mm-38-mm-wristwatches-45353463",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/lancaster-ladies-watch-ola0643bk-vl-38-mm-38-mm-wristwatches-45353578",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/lancaster-unisex-watch-ola0613l-gun-nr-nr-40-mm-wristwatches-58061777",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.be/en/s8/product/lancaster-ladies-watch-analog-quartz-leather-0275wsw-analogue-wristwatch-wristwatches-58265072",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/lancaster-watch-ola0677l-gun-gun-nr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.timepiece.com/lancaster-kamata-watch-ola0344bk-nr-nr.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.co.za/products/58905668-lancaster-italia-womens-ola0678mb-ss-bn",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://bestpower.fr/en/products/montre-femme-lancaster-ola0643ss-bl-o-38-mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/lancaster-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://1stdibs.com/jewelry/watches/wrist-watches/limited-edition-lancaster-stainless-steel-diamonds-watch/id-v_4119413",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://1stdibs.com/jewelry/watches/wrist-watches/lancaster-silver-stainless-steel-diamond-ref0226-womens-wristwatch-38-mm/id-v_20327502",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/lancaster-black-ceramic-stainless-steel-ref0285-womens-wristwatch-39-mm/id-v_11759212",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchesandcrystals.com/blogs/news/lancaster-italy-watch",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ice.it/en/my-home/find-your-italian-partner/company-details/302089/LANCASTER-ITALIA-&-STRUMENTO-MARINO-WATCHES",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://italialiving.com/articles/fashion-style/a-brand-on-a-quest-to-make-luxury-more-affordable",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/197123497718",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/226217060262",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.jckonline.com/?p=39132",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://asset.everywatch.com/lancaster/watch-12124314",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://asset.everywatch.com/lancaster/watch-9828232",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://asset.everywatch.com/lancaster/watch-10403226",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.desertcart.it/products/58905668-lancaster-italia-womens-ola0678mb-ss-bn.md",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/256597000136",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/326259749844",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/167168609775",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.it/itm/256904242526",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchuniverseusa.com/products/lancaster-watch-ola0629bk-or",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchuniverseusa.com/products/lancaster-watch-ola0548-ss-nr-nr",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchuniverseusa.com/products/lancaster-watch-ola0652mb-ss-bn",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchuniverseusa.com/products/lancaster-watch-ola0549-bk-nr-rs",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchuniverseusa.com/products/lancaster-watch-ola0652mb-ss-nr",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchuniverseusa.com/collections/lancaster-mens-watches/products/lancaster-watch-ola0656r-ss-nr-nr",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchuniverseusa.com/products/ola0549-ss-nr-nr",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/154918708053",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/1373306758",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.de/itm/396244201725",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.ebay.de/itm/235896244640",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/21009828814",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/357493198002",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/121940304824",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/297278933802",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/256463820101",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.de/itm/405951652318",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/b/Lancaster-Leather-Wristwatches/31387/bn_7113456748",
+   "passada": 3,
+   "novos": 21
+  },
+  {
+   "url": "https://www.ebay.com/t/Lancaster-Watches-Parts-Accessories/260324/bn_2188617",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/pre-owned/121-10460_a.htm",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.in-vendita.it/orologi-lancaster",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.in-vendita.it/orologio-uomo-lancaster",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.in-vendita.it/cronografo-lancaster",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://theluxurycloset.com/women/lancaster-black-ceramic-stainless-steel-ref0285-womens-wristwatch-39-mm-p246481",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/lancaster-844-diver-as01254",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.it/str/cuomowj",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/ola0204nsb_a.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://righttime.com/rt/pre-owned/ola0204nsb.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/best-italian-watches.oembed?page=5",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.jurawatches.co.uk/collections/italian-watches/gender-mens+case-width-44mm.oembed",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
