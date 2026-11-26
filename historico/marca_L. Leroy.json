@@ -1,0 +1,707 @@
+{
+ "marca": "L. Leroy",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – montres-leroy.com: a página inicial pede permissão (PROVENANCE_REQUIRED); as páginas de produto abrem só em texto, sem fotos (JavaScript); revisitar com navegador",
+ "vermelho": false,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios (v891): 63 modelos. Atuais/recentes pelas referências LL: Osmior (cronógrafo monopulsante LL100–101, calendário perpétuo retrógrado LL102–103, regulador tourbillon LL104/LL106), série limitada (LL105, LL107–LL110), Chronomètre à Tourbillon e Chronomètre Observatoire (2015), Marine (cronômetro de convés LL200–201, cronógrafo LL202–203), e a nova fase de alta complicação: LL300/1 (Only Watch 2023, peça única), Vox Temporis LL301–303, Bal du Temps LL305–307 e Elyor LL309–311; mais 16 relógios de pulso antigos (1890–1990) vistos em leilões (Antiquorum, Phillips, Christie's, Monaco Legend, Drouot, Interencheres). Fontes principais: WatchBase (37 relógios), Majestix Collection, páginas internas do site oficial (só texto, sem fotos), Exquisite Timepieces, The Limited Edition, Monochrome, Europa Star, GPHG. O site montres-leroy.com: a página inicial não abriu para leitura automática; as páginas de produto abrem, mas sem fotos (JavaScript). Dono: Grupo Festina (desde 2004, Miguel Rodriguez); movimentos atuais feitos em Genebra (Régence Production) segundo Monochrome e Europa Star; C diz 'Besançon (origem Paris)' — a marca se apresenta como parisiense e os relógios recentes não citam Besançon como sede (a conferir, não alterado). J cita 'Chronomètre' e 'Leroy 01 (histórico)': o Leroy 01 é relógio de bolso (1900–1904), por isso não entrou na aba Relógios. Não achados com foto: LL101/2, LL106/1, LL106/2 e LL201/5 (este visto só numa lista da Majestix). Não entraram dezenas de relógios de pulso antigos genéricos (quadrados, redondos, tank e de senhora sem nome) vistos em leilões.",
+ "fontes": [
+  {
+   "url": "https://montres-leroy.com",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/osmior-range",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/marine-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/marine-range/automatic-chronograph/LL2021",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/osmior-range/ll100-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/osmior-range/l200al-only-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/l-leroy/products/l-leroy-vox-temporis-titanium",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/l-leroy-vox-temporis-platinum.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/l-leroy-vox-temporis-red-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/l-leroy/osmior/osmior-ll101-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/l-leroy/marine/marine-ll202-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/lleroy-rose-gold-osmior-no-1827-monopusher-chronograph-wristwatch-ref-ll101-3/id-j_619532",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/leroy-osmior-bal-du-temps-minute-repeater-tourbillon-return-of-the-brand-price-review",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/new-l-leroy-vox-temporis-tourbillon-minute-repeater-tact-watch-inspired-single-hand-display-introducing-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/l-leroy-240-years-return-to-watchmaking",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/l-leory-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004115977.html",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.timeandwatches.com/2014/04/l-leroy-marine-deck-chronometer.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchesbysjx.com/2014/02/hands-on-with-the-leroy-osmior-monopusher-chronograph-and-the-revival-of-leroy-with-live-photos-and-price.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/17706857-l-leroy--26-cie-vers-1950",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-83-386",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-135-149?page=0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://onlineonly.christies.com.cn/s/watches-online-geneva-edit/leroy-cie-yellow-gold-oversized-monopusher-chronograph-341/150021",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/leroy/CH080117/49",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/watch/32413310",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uk.drouot.com/l/20010373-leroy-et-fils-single-pushbutto",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/7804763-leroy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-66-38?page=0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll202-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll203-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll203-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll200-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll201-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll202-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll202-2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/marine-range/ll200-6",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/limited-series/ll109-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/limited-series/ll107-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/limited-series/ll108-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/leroy/osmior-range/ll106-3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/osmior-range/ll104-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/collections/l-leroy.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/watch-brands/l-leroy.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/l-leroy-elyor-red-gold-ll3091.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/l-leroy-elyor-platinum-ll3101.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/l-leroy-elyor-titanium-ll3111.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/?p=34725",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/l-leroy-with-the-new-elyor-flying-tourbillon-chapter-two-revival-of-brand-hands-on-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/marine-range/automatic-bridge-chronometer-pink-gold/ll20010",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/marine-range/automatic-bridge-chronometer-pink-gold/ll2012",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/marine-range/automatic-deck-chronometer-pink-gold/ll2003",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/marine-range/automatic-deck-chronometer-pink-gold/ll2005",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/marine-range/automatic-bridge-chronometer-pink-gold/ll2014",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.my-watchsite.com/marine/2252-marine-chronometre-de-pont-automatique.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.my-watchsite.com/marine/2254-marine-chronometre-de-pont-automatique.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/l-leroy/marine-range/marine-range-ll201-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/l-leroy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4454567.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.thewatchbox.com/shop/4582813.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/leroy-chronometre-observatoire-osmior-19127.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchonista.com/node/395686",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.horbiter.com/en/leroy-chronometre-observatoire-l200-proto-photos/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/chronometre-a-tourbillon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/tourbillion-regulateur-squelette",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/leroy-osmior-chronometre-a-tourbillon-18998.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dailywatch.com/blogs/magazine/is-leroy-back-on-track",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/brands/leroy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.worldtempus.com/article/watches/trends-and-style/lleroy-marine-automatic-chronograph-16953.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://montres-leroy.com/en/unique-piece/LL300_1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2023/06/30/l-leroy-minute-repeater-unique-piece-for-only-watch-2023/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2014/11/l-leroy-osmior-retrograde-perpetual.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/luxury-watches/showing-at-watchtime-new-york-2021-l-leroy-osmior-retrograde-perpetual-calendar",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/osmior-range/ll102-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2015/06/leroy-chronometre-observatoire.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/brands/leroy/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/lleroy-marine-power-reserve-18-karat-rose-gold/id-j_7408722",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/l-leroy-marine-chronographe-white-gold-blue-dial-watch-ll202/id-j_11877002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fhs.swiss/eng/2024_08_29_04_L_Leroy.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/leroy-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/l-leroy/232255",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/leroy/90518",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/leroy/CH080515/249",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-270-191?page=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/lleroy-cie-platinum-tank-watch-bracelet-ca-1920s/id-j_26945422",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/l-leroy/watch-32562607",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/leroy-ladies-platinum-art-deco-articulated-diamond-dress-watch/id-j_10189622",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-101-328?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-88-272?page=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-135-152",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.sothebys.com/buy/1601393b-a928-4240-b719-24a13f4bb52c/lots/1c99f379-fff4-4f69-9b56-fe1b31324f08",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-automatic-deck-chronometer-white-gold-brown-ll200-4/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-retrograde-perpetual-date-champagne-ll103-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-retrograde-perpetual-date-black-ll103-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-retrograde-perpetual-date-silver-ll102-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-automatic-deck-chronometer-white-gold-black-ll200-2/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-automatic-deck-chronometer-pink-gold-brown-ll201-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-retrograde-perpetual-date-pink-ll103-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/limited-series/ll11010",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://montres-leroy.com/en/collections/osmior-collection/automatic-retrograde-perpetual-calendar/ll1021",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/limited-series/ll105-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/leroy/limited-series/ll110-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-tourbillon-regulateur-squelette-or-rose-ll108-1/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-tourbillon-regulateur-squelette-or-blanc-ll107-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-tourbillon-regulateur-pour-dubail-ll109-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-les-grandes-heuers-scientifiques-ll105-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-les-grandes-heuers-joaillerie-ll110-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-tourbillon-automatic-regulator-black-ll104-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-tourbillon-automatic-regulator-silver-ll104-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-automatic-single-push-piece-chronograph-white-gold-ll100-1/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/leroy-osmior-automatic-single-push-piece-chronograph-champagne-ll101-3/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.collectorsquare.com/en/watches/leroy/lpi",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.monacolegendauctions.com/auction/exclusive-timepieces-24/lot-133",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-253-101",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-271-221",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-83-387",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-135-144",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-127-53",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-115-618",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/lot-88-274?page=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2011/important-watches/lot.199.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/en/auctions/ecatalogue/2013/important-watches-ge1304/lot.204.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.sothebys.com/buy/2f46a7fb-6cec-453a-b61a-df126306f2a7/lots/7c0ba724-e1a1-4c78-bfeb-7452bc06b498",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.artcurial.com/ventes/IT3923/lots/168-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://artcurial.com/en/sales/IT4236/lots/153-a",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.aguttes.com/en/lot/153704/27397979-leroy-17-mai-1928-ndeg-19578-vers-1928-montre-bracelet-en-or",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drouot.com/en/l/21681614-lleroy-amp-cie-steel-bracelet",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drouot.com/en/l/21706556-leroy-fils-annees-20-montre-br",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/20560488-leroy--26-co--circa--3a-1920-yellow---",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/25253538-leroy--26-cie-watch-in-18-carat---",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gazette-drouot.com/en/lots/18558166-l-leroy--26-cie-a-paris---montre---",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.interencheres.com/en-US/art-decoration/vente-de-prestige-bijoux-tableaux-anciens-et-modernes-mobilier-et-objets-dart-667570/lot-84293825.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchadvice.com.au/52647/l-leroys-stunning-new-osmior-bal-du-temps-celebrates-240th-anniversary/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/haute-horlogerie/die-zeit-als-tanz-l-leroy-osmior-bal-du-temps",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/category/leroy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://escapementmagazine.com/articles/l-leroy-haute-horlogerie-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchonista.com/editorial/general/leroy-chronometre-tribute-to-french-watchmaking-precision/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchesbysjx.com/2026/05/in-depth-leroy-01.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.2luxury2.com/tag/l-leroy/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

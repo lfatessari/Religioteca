@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1155,
-  "ultima_versao": 890,
+  "proxima_linha_marcas": 1156,
+  "ultima_versao": 891,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15880,6 +15880,26 @@
       "site_bloqueado": "kendallwatches.com",
       "lote": "historico/passada_unica/lote_890.json",
       "obs": "G e K preenchidos; C e H não achados. L. Leroy (1156) parece grande (linha moderna LL + vintage): fica sozinha na próxima. Pendências dos posts 37–39 já aplicadas na v883. Firecrawl não usado; páginas pelo ajudante web-fetch."
+    },
+    {
+      "versao": 891,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "L. Leroy"
+      ],
+      "linhas_marcas": [
+        1156
+      ],
+      "relogios": 63,
+      "linhas_relogios": "129871-129933",
+      "vermelho": false,
+      "grande": true,
+      "fontes": 139,
+      "site_bloqueado": "parcial (montres-leroy.com home)",
+      "logo": true,
+      "lote": "historico/passada_unica/lote_891.json",
+      "obs": "Grande, sozinha. 47 modernos (refs LL) + 16 antigos de leilão. K preenchido (logo da Exquisite); H não confirmado (@leroywatches só no DailyWatch). Pendências 37–39 já aplicadas na v883. Firecrawl não usado; páginas pelo ajudante web-fetch. Próximas: Label Noir (1157), Lacite (1158)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15987,32 +16007,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T05:43:50Z",
-  "ultimo_sinal": "2026-11-26T06:01:02Z",
-  "em_andamento": {
-    "marcas": [
-      "L. Leroy"
-    ],
-    "linha_marcas": 1156,
-    "grande": true,
-    "relogios": "historico/parcial_L. Leroy_relogios.txt",
-    "fontes": "historico/parcial_L. Leroy_fontes.txt",
-    "notas": "historico/notas_L. Leroy.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
