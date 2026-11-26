@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1145,
-  "ultima_versao": 884,
+  "proxima_linha_marcas": 1147,
+  "ultima_versao": 885,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15739,6 +15739,38 @@
       "fontes": 114,
       "site_bloqueado": "parcial",
       "obs": "Grande, sozinha. H e K não achados. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
+    },
+    {
+      "versao": 885,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kross Studio"
+      ],
+      "linhas_marcas": [
+        1147
+      ],
+      "relogios": 72,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 64,
+      "passadas": {
+        "1": 51,
+        "2": 13
+      },
+      "adiadas": [
+        "Kronsegler",
+        "Kshan Watches"
+      ],
+      "correcoes_marcas": [
+        "C",
+        "D",
+        "I",
+        "J"
+      ],
+      "logo": true,
+      "obs": "Pendências dos posts 37–39 já estavam aplicadas na v883 (foto do SUPA Commando e Ascent SteelWhite seguem a verificar). Firecrawl sem créditos. Ajudante web-fetch usado."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15846,34 +15878,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-25T23:43:55Z",
-  "ultimo_sinal": "2026-11-26T00:13:21Z",
-  "em_andamento": {
-    "marcas": [
-      "Kross Studio"
-    ],
-    "linha_marcas": 1147,
-    "grande": true,
-    "relogios": "historico/parcial_Kross_Studio_relogios.txt",
-    "fontes": "historico/parcial_Kross_Studio_fontes.txt",
-    "notas": "historico/notas_Kross_Studio.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada"
-    ],
-    "passada": 2,
-    "obs": "v885: Kronsegler e Kshan Watches foram para ADIADAS (proxima_marca.py); bateria = Kross Studio sozinha (grande). Firecrawl sem créditos."
-  }
+  "adiadas_obs": {}
 }

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1123,
-  "ultima_versao": 869,
+  "proxima_linha_marcas": 1147,
+  "ultima_versao": 885,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15426,6 +15426,351 @@
       },
       "vermelho": false,
       "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch"
+    },
+    {
+      "versao": 870,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kiwame Tokyo"
+      ],
+      "relogios": 12,
+      "fontes": 30,
+      "vermelho": false,
+      "adiadas": [
+        "King Saladeen",
+        "Kintoshi Kyoto"
+      ],
+      "obs": "Firecrawl sem créditos; kiwametokyo.com PROVENANCE_REQUIRED"
+    },
+    {
+      "versao": 871,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Klanic": {
+          "linha": 1127,
+          "relogios": 5,
+          "fontes": 11,
+          "catalogo_fechado": true
+        },
+        "Kleber Uhrenatelier": {
+          "linha": 1128,
+          "relogios": 85,
+          "fontes": 110,
+          "grande": true
+        }
+      },
+      "so_dados": 0,
+      "obs": "KLO & Co. não feita: coleções do site oficial recusadas pelo controle de permissão da sessão; volta na próxima execução."
+    },
+    {
+      "versao": 872,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Klokers"
+      ],
+      "relogios": {
+        "Klokers": 21
+      },
+      "linhas_relogios": "128879-128899",
+      "adiadas": [
+        "KLO & Co."
+      ],
+      "lacunas": [
+        "KLO & Co.",
+        "Klokers"
+      ],
+      "fontes": {
+        "Klokers": 27,
+        "KLO & Co.": 12
+      },
+      "vermelho": false,
+      "obs": "Sites oficiais pediram permissão; Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. KLO & Co. adiada (12 fontes). Knis tratada como grande: fica sozinha na próxima execução (notas em historico/notas_Knis.md). Pendências 30–32 da Adriatica já estavam aplicadas."
+    },
+    {
+      "versao": 873,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Knis"
+      ],
+      "relogios": {
+        "Knis": 88
+      },
+      "linhas_relogios": "128900-128987",
+      "grande": true,
+      "vermelho": false,
+      "fontes": {
+        "Knis": 74
+      },
+      "lacunas": [
+        "Knis"
+      ],
+      "correcoes": {
+        "Knis": [
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch (coleções da loja oficial abriram); collections/all deu PROVENANCE_REQUIRED. Pendências 30–32 da Adriatica já aplicadas antes (v872)."
+    },
+    {
+      "versao": 874,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Knot Timepiece"
+      ],
+      "linha_marcas": 1132,
+      "relogios": 236,
+      "vermelho": true,
+      "grande": true,
+      "fontes": 75,
+      "passadas": {
+        "1": 47,
+        "2": 13,
+        "3": 15
+      },
+      "dados_marcas": "K (logo) preenchido; I corrigida (fundador Hiromitsu Endo)",
+      "obs": "Knut Gadd e Kobold (grande) ficam para as próximas execuções; Firecrawl esgotou o crédito diário."
+    },
+    {
+      "versao": 875,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Knut Gadd"
+      ],
+      "linha_marcas": 1133,
+      "relogios": {
+        "Knut Gadd": 28
+      },
+      "linhas_relogios": "129224-129251",
+      "grande": false,
+      "vermelho": false,
+      "fontes": {
+        "Knut Gadd": 45
+      },
+      "lacunas": [
+        "Knut Gadd"
+      ],
+      "correcoes": {
+        "Knut Gadd": [
+          "J"
+        ]
+      },
+      "obs": "Kobold (grande) fica para a próxima execução, sozinha. Firecrawl sem créditos; páginas pelo ajudante web-fetch; home e /products/ diretos do site oficial deram PROVENANCE_REQUIRED, coleções abriram. H não achado. Sem pendências de posts novas (Adriatica já aplicada na v872)."
+    },
+    {
+      "versao": 876,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": [
+        "Kobold"
+      ],
+      "linha_marcas": 1134,
+      "relogios": {
+        "Kobold": 104
+      },
+      "linhas_relogios": "129252-129355",
+      "grande": true,
+      "vermelho": true,
+      "fontes": {
+        "Kobold": 128
+      },
+      "passadas": {
+        "1": 99,
+        "2": 18,
+        "3": 11
+      },
+      "lacunas": [
+        "Kobold"
+      ],
+      "correcoes": {
+        "Kobold": [
+          "H"
+        ]
+      },
+      "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch; muitas fichas /collections/key-chain/products/ deram PROVENANCE_REQUIRED/limite e algumas foram abertas pelo endereço /products/ vindo de busca. K (logo) não achado. Sem pendências de posts novas (Adriatica já aplicada na v837). Próximas: Koda Watches e Kollokium."
+    },
+    {
+      "versao": 877,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Kollokium": 12,
+        "Kompas": 4
+      },
+      "lote": "historico/passada_unica/lote_877.json",
+      "fontes": {
+        "Kollokium": 43,
+        "Kompas": 15
+      },
+      "vermelho": false,
+      "obs": "Koda Watches (linha 1135) adiada para a próxima execução como marca grande (ateliê de modding com um artigo por montagem); notas em historico/notas_Koda.md"
+    },
+    {
+      "versao": 878,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Konstantin Chaykin"
+      ],
+      "linhas_relogios": 86,
+      "vermelho": true,
+      "grande": true,
+      "fontes": 75,
+      "correcoes": {
+        "G": "konstantinchaykin.com",
+        "H": "@k_chaykin"
+      },
+      "adiadas": [
+        "Koda Watches",
+        "Konifer Watch"
+      ]
+    },
+    {
+      "versao": 879,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Korloff",
+        "Korsbek"
+      ],
+      "relogios": {
+        "Korloff": 25,
+        "Korsbek": 5
+      },
+      "fontes": {
+        "Korloff": 31,
+        "Korsbek": 15
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_879.json",
+      "celulas": {
+        "Korsbek": [
+          "G"
+        ]
+      },
+      "adiadas": [
+        "KPAKE"
+      ],
+      "obs": "site oficial e Firecrawl indisponíveis; tudo por fontes de fora"
+    },
+    {
+      "versao": 880,
+      "data": "2026-11-25",
+      "tipo": "posts",
+      "marcas": [
+        "Advisor Watch Company"
+      ],
+      "itens": "33-35 (D, I, M; K sem logo achado) + fotos/características de 4 linhas da aba Relógios (item 36)",
+      "lote": "historico/posts/lote_880.json"
+    },
+    {
+      "versao": 881,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Advisor Watch Company": 2,
+        "Krayon": 17
+      },
+      "complemento": [
+        "Advisor Watch Company"
+      ],
+      "fontes": {
+        "Advisor Watch Company": 16,
+        "Krayon": 33
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_881.json",
+      "site_bloqueado": {
+        "Krayon": "krayon.ch"
+      },
+      "obs": "Advisor = busca extra pedida no item 36 das pendências dos posts; Krieger (linha 1144) fica para a próxima. Firecrawl sem créditos; documento do Projeto não acessível (sem ferramenta Projects)."
+    },
+    {
+      "versao": 882,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas_modelos": {
+        "Krieger": 38
+      },
+      "fontes": {
+        "Krieger": 35
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_882.json",
+      "site_bloqueado": {
+        "Krieger": "kriegerwatch.com"
+      },
+      "correcoes": {
+        "Krieger": [
+          "I"
+        ]
+      },
+      "obs": "Kronaby (1145) parece grande: fica sozinha na próxima; Kronsegler (1146) depois. Firecrawl sem créditos; pendências 33-36 da Advisor já estavam aplicadas (v880/v881)."
+    },
+    {
+      "versao": 883,
+      "data": "2026-11-25",
+      "tipo": "posts",
+      "marcas": [
+        "Aegaon",
+        "Advisor Watch Company"
+      ],
+      "obs": "Itens 37-39 das pendências: I da Aegaon; K da Advisor (logo do Atlas); SUPA Commando renomeado. Foto do Commando e Ascent SteelWhite não conferidos (sem Firecrawl, leitura recusada)."
+    },
+    {
+      "versao": 884,
+      "data": "2026-11-25",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kronaby Hybrid Watches"
+      ],
+      "linha_marcas": 1145,
+      "relogios": 63,
+      "linhas_relogios": "129545-129607",
+      "vermelho": false,
+      "grande": true,
+      "fontes": 114,
+      "site_bloqueado": "parcial",
+      "obs": "Grande, sozinha. H e K não achados. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
+    },
+    {
+      "versao": 885,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kross Studio"
+      ],
+      "linhas_marcas": [
+        1147
+      ],
+      "relogios": 72,
+      "vermelho": true,
+      "grande": true,
+      "site_bloqueado": "parcial",
+      "fontes": 64,
+      "passadas": {
+        "1": 51,
+        "2": 13
+      },
+      "adiadas": [
+        "Kronsegler",
+        "Kshan Watches"
+      ],
+      "correcoes_marcas": [
+        "C",
+        "D",
+        "I",
+        "J"
+      ],
+      "logo": true,
+      "obs": "Pendências dos posts 37–39 já estavam aplicadas na v883 (foto do SUPA Commando e Ascent SteelWhite seguem a verificar). Firecrawl sem créditos. Ajudante web-fetch usado."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
