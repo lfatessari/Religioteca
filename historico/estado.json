@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1154,
-  "ultima_versao": 889,
+  "proxima_linha_marcas": 1162,
+  "ultima_versao": 894,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15861,6 +15861,125 @@
       "site_bloqueado": "landjr.com (L&JR, coluna L)",
       "lote": "historico/passada_unica/lote_889.json",
       "obs": "Kuruvakka: 3 RAE-3, catálogo fechado; G, I, K preenchidos. KVELI Watches adiada (só Microbrand Atlas fora do site); I e K preenchidos. L&JR: 8 Step One; C e K não achados. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883."
+    },
+    {
+      "versao": 890,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "L. Kendall"
+      ],
+      "linhas_marcas": [
+        1155
+      ],
+      "relogios": 16,
+      "linhas_relogios": "129855-129870",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 46,
+      "site_bloqueado": "kendallwatches.com",
+      "lote": "historico/passada_unica/lote_890.json",
+      "obs": "G e K preenchidos; C e H não achados. L. Leroy (1156) parece grande (linha moderna LL + vintage): fica sozinha na próxima. Pendências dos posts 37–39 já aplicadas na v883. Firecrawl não usado; páginas pelo ajudante web-fetch."
+    },
+    {
+      "versao": 891,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "L. Leroy"
+      ],
+      "linhas_marcas": [
+        1156
+      ],
+      "relogios": 63,
+      "linhas_relogios": "129871-129933",
+      "vermelho": false,
+      "grande": true,
+      "fontes": 139,
+      "site_bloqueado": "parcial (montres-leroy.com home)",
+      "logo": true,
+      "lote": "historico/passada_unica/lote_891.json",
+      "obs": "Grande, sozinha. 47 modernos (refs LL) + 16 antigos de leilão. K preenchido (logo da Exquisite); H não confirmado (@leroywatches só no DailyWatch). Pendências 37–39 já aplicadas na v883. Firecrawl não usado; páginas pelo ajudante web-fetch. Próximas: Label Noir (1157), Lacite (1158)."
+    },
+    {
+      "versao": 892,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Label Noir",
+        "Lacite"
+      ],
+      "linhas_marcas": [
+        1157,
+        1158
+      ],
+      "relogios": 28,
+      "linhas_relogios": "129934-129961",
+      "vermelho": [
+        "Label Noir"
+      ],
+      "grande": [
+        "Label Noir"
+      ],
+      "fontes": {
+        "Label Noir": 60,
+        "Lacite": 11
+      },
+      "catalogo_fechado": [
+        "Lacite"
+      ],
+      "site_bloqueado": "labelnoir.ch (Label Noir, coluna L); lacitewatches.com home direta",
+      "lote": "historico/passada_unica/lote_892.json",
+      "obs": "Label Noir revelou-se grande (peças únicas) e vermelha: 1ª passada 47 fontes/22, 2ª passada 13 fontes/3. Lacite: 3 Urbanite GMT, catálogo fechado; K preenchido. K da Label Noir não achado. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883. Próxima: Laco (1159), grande, sozinha."
+    },
+    {
+      "versao": 893,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Laco"
+      ],
+      "linhas_marcas": [
+        1159
+      ],
+      "relogios": 305,
+      "linhas_relogios": "129962-130266",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 61,
+      "passadas": {
+        "1": 36,
+        "2": 13,
+        "3": 12
+      },
+      "site_bloqueado": "parcial (laco.de home)",
+      "obs": "Grande e vermelha (configurador Flieger PRO + vintage). Ladoire e Laine ficam para a próxima. Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch."
+    },
+    {
+      "versao": 894,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Ladoire",
+        "Laine"
+      ],
+      "linhas_marcas": [
+        1160,
+        1161
+      ],
+      "relogios": 31,
+      "linhas_relogios": "130267-130297",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Ladoire": 19,
+        "Laine": 25
+      },
+      "adiadas": [
+        "Lamberti Orologiai"
+      ],
+      "lote": "historico/passada_unica/lote_894.json",
+      "obs": "Lacunas: G da Ladoire (ladoire.ch), K da Laine. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências 37-39 dos posts já aplicadas na v883; foto do Commando e Ascent SteelWhite seguem sem conferência (PROVENANCE_REQUIRED)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

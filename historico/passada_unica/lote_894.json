@@ -1,0 +1,17 @@
+{
+ "data": "2026-11-26",
+ "prefixo": "Passada única",
+ "celulas": {
+  "Laine": {
+   "K": "https://static.wixstatic.com/media/cadc3f_fa98efbb35e1474eb8360ddcd729d741~mv2.jpg",
+   "M": "K: logo do cabeçalho do site oficial lainewatches.com (arquivo 'LAINE - Neuchatel - Switzerland.jpg'), aberto pelo ajudante web-fetch em 26/11/2026."
+  },
+  "Ladoire": {
+   "G": "ladoire.ch",
+   "M": "G: ladoire.ch é o site que a própria marca divulgava (Monochrome Watches, 2010 e 2011, liga ladoire.ch/eng/; Europa Star 2009, aBlogtoWatch 2009 e Watchismo 2009 citam ladoire.ch); o site não foi aberto e a marca não tem notícias desde o início de 2013, então pode estar fora do ar. H não achado: nenhuma conta de Instagram em 20 páginas sobre a marca (só Facebook: facebook.com/LADOIRE). K não achado: nenhuma página aberta trazia o arquivo do logo; Firecrawl sem créditos."
+  },
+  "Lamberti Orologiai": {
+   "M": "Relógios ADIADOS (v894): o site oficial é lamberti-orologiai.com (link de produto na resenha do WatchCrunch; o vendedor do eBay 'lamberti-orologiai' fica em Rovato), mas deu PROVENANCE_REQUIRED pelo web-fetch e o Firecrawl estava sem créditos; só 7 fontes abertas (WatchCrunch, in-vendita, SeriousWatches e 4 anúncios do eBay) com 6 modelos (Chronodromo Safari 50508V, Giano 10125 e Giano SK 10125-9BL, Acquaforte 200 241125N, Acquaforte 70 40324, 11416 Tosco), abaixo do mínimo de 15. G não preenchido: lamberti-orologiai.com tem uma fonte só (a confirmar abrindo o site). K não achado. I continua em branco a pedido do usuário (ver início desta M)."
+  }
+ }
+}

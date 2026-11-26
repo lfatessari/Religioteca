@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1159,
-  "ultima_versao": 893,
+  "proxima_linha_marcas": 1162,
+  "ultima_versao": 894,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15954,6 +15954,32 @@
       },
       "site_bloqueado": "parcial (laco.de home)",
       "obs": "Grande e vermelha (configurador Flieger PRO + vintage). Ladoire e Laine ficam para a próxima. Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch."
+    },
+    {
+      "versao": 894,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Ladoire",
+        "Laine"
+      ],
+      "linhas_marcas": [
+        1160,
+        1161
+      ],
+      "relogios": 31,
+      "linhas_relogios": "130267-130297",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Ladoire": 19,
+        "Laine": 25
+      },
+      "adiadas": [
+        "Lamberti Orologiai"
+      ],
+      "lote": "historico/passada_unica/lote_894.json",
+      "obs": "Lacunas: G da Ladoire (ladoire.ch), K da Laine. Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch. Pendências 37-39 dos posts já aplicadas na v883; foto do Commando e Ascent SteelWhite seguem sem conferência (PROVENANCE_REQUIRED)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16061,25 +16087,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T08:43:35Z",
-  "ultimo_sinal": "2026-11-26T08:55:17Z",
-  "em_andamento": {
-    "marcas": [
-      "Ladoire",
-      "Laine",
-      "Lamberti Orologiai"
-    ],
-    "linha_marcas": 1160,
-    "grande": false,
-    "relogios": "historico/dados_<marca>.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "Laine: pesquisa completa",
-      "Ladoire: pesquisa completa",
-      "Lamberti: adiada (site PROVENANCE_REQUIRED, 7 fontes)"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
