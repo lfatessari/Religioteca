@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1177,
-  "ultima_versao": 906,
+  "proxima_linha_marcas": 1180,
+  "ultima_versao": 907,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16300,6 +16300,49 @@
       "adiadas": [],
       "lote": "historico/passada_unica/lote_906.json",
       "obs": "Site oficial (lejourwatches.ch/.com) não abriu (permissão); Firecrawl sem créditos; páginas pelo ajudante web-fetch. G corrigido para lejourwatches.ch; C e K não achados. Leatherman e Lebeau-Courally ficam para a próxima (Le Jour grande, sozinha). Itens 40/41 das pendências (Aenigma) já estavam aplicados na v895."
+    },
+    {
+      "versao": 907,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Leatherman",
+        "Lebeau-Courally",
+        "Lebois & Co"
+      ],
+      "linhas_marcas": [
+        1178,
+        1179,
+        1180
+      ],
+      "relogios": 60,
+      "linhas_relogios": "130966-131025",
+      "vermelho": {
+        "Leatherman": false,
+        "Lebeau-Courally": false,
+        "Lebois & Co": true
+      },
+      "grande": false,
+      "fontes": {
+        "Leatherman": 18,
+        "Lebeau-Courally": 25,
+        "Lebois & Co": 67
+      },
+      "passadas": {
+        "Lebois & Co": {
+          "1": [
+            57,
+            25
+          ],
+          "2": [
+            10,
+            4
+          ]
+        }
+      },
+      "adiadas": [],
+      "lote": "historico/passada_unica/lote_907.json",
+      "obs": "Os três sites oficiais deram PROVENANCE_REQUIRED; Firecrawl sem créditos; tudo pelo ajudante web-fetch. K preenchido nas três (logos de fontes de fora). Correções: J da Lebeau-Courally e I da Lebois & Co. Pendências 40/41 da Aenigma já aplicadas (v895)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16407,34 +16450,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T19:43:28Z",
-  "ultimo_sinal": "2026-11-26T20:02:18Z",
-  "em_andamento": {
-    "marcas": [
-      "Leatherman",
-      "Lebeau-Courally",
-      "Lebois & Co"
-    ],
-    "linha_marcas": 1178,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_lote_v907.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada Lebois"
-    ],
-    "passada": 1,
-    "obs": "Pesquisa concluída; dados/marca.json em historico/; gravando v907"
-  }
+  "adiadas_obs": {}
 }
