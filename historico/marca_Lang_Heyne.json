@@ -1,0 +1,451 @@
+{
+ "marca": "Lang & Heyne",
+ "usa_codigos": false,
+ "logo": "https://thelimitededition.co.uk/wp-content/uploads/2026/11/TLE-Brand-Logo-Lang-and-Heyne-Black.png",
+ "site_bloqueado": "Parcial – langundheyne.de PROVENANCE_REQUIRED; lang-und-heyne.de abre, mas as páginas de modelo não devolvem o texto nem as fotos (carregadas por script); revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "G corrigido: langundheyne.de → lang-und-heyne.de (o domínio antigo não abriu; o site oficial está em lang-und-heyne.de, páginas /en/maison, /en/models/friedrich-iii/ e outras abertas). K: logo da marca na página da revendedora The Limited Edition (não achado no site oficial, que não devolveu o cabeçalho). Relógios: marca pintada de vermelho — a casa faz encomendas personalizadas (programa VIP do site oficial), peças únicas e edições de revendedores; muitas variações de metal e mostrador não aparecem em lista pública. Ainda a verificar: H @langundheyne (não conferido); C Radeberg confirmado pela Exquisite Timepieces e pelo OrologioBlog (a manufatura mudou para a Todenmühle, Radeberg, em 2018). Johann Champlevé Variações I a III, Albert Prototype (Johannes Jahnke) e peça única Augustus I citados sem dados suficientes para linhas próprias.",
+ "correcoes": {
+  "G": "lang-und-heyne.de"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://lang-und-heyne.de/en/maison",
+   "https://www.lang-und-heyne.de/en/models/friedrich-iii/"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=2945",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4632",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lang-und-heyne.de/en/maison",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/blog/?p=17505",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://monochrome-watches.com/category/lang-heyne",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.phillips.com/detail/lang-heyne/185340",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/lang-&-heyne/230800",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://phillips.com/detail/lang-heyne/HK080224/1018",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://phillips.com/detail/lang-&-heyne/144391",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://hairspring.com/finds/lang-heyne-konig-albert-von-sachsen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://acollectedman.com/products/lang-heyne-konig-albert-von-sachsen",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/lang-heyne-moritz-210000017392",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/Lang-and-Heyne-Georg-Georg-SS-White-Dial-Manual-Wind-2023-54631.html",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/lang-heyne-independent-watchmakers-overview/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/independents/lang-heyne/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://elitetraveler.com/features/closer-look-lang-heyne",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.google.de/amp/s/horologium.com.au/2015/09/15/hands-on-a-custom-lang-heyne-friedrich-iii/amp/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://acollectedman.com/collections/lang-heyne",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://wristcheck.com/buy/lang-heyne",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/lang-and-heyne",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/lang-heyne/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://definewatches.com.au/lang-heyne-watches/",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/lang-and-heyne/hektor/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/models/friedrich-iii/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4613",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4426",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4606",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4356",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://masterhorologer.com/lang-and-heyne-watches-history-and-collections/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://masterhorologer.com/2009/01/05/lang-heyne-friedrich-august-i-manual-winding-movement-caliber-i-yellow-gold-case-double-sunk-enemalled-dial-with-arabic-numerals/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2024/06/20/lang-heyne-friedrich-iii-homage-tower-clock-spb-10th-anniversary-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://swisswatches-magazine.com/lang-heyne-unique-one-offs-and-limited-editions/",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://thehourmarkers.com/releases/lang-and-heyne-10-anniversary",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/lang-heynes-rather-stellar-homage-to-the-glashutte-tower-clock/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/hands-on-review-lang-heyne-friedrich-iii-traditional-german-watchmaking-at-its-best",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/lang-heyne-friedrich-iii-power-reserve-review-video-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-lang-und-heyne-friedrich-iii-manufaktur-edition-caliber-iv-louis-xv-price-specs-pics",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/friedrich-iii-manufaktur-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/georg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/introducing-lang-and-heyne-hektor-steel-sports-watch-with-integrated-bracelet-price",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/lang-heyne-hektor-ii-updated-elegant-sports-watch-video-review-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/lang-heyne/watch-2261888",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/lang-heyne/CH080322/93",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/lang-heyne/223046",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/lang-&-heyne/206800",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/lang-heyne/238694",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/lang-and-heyne-fredrich-iii-friedrich-iii-18k-wg-black-dial-62033",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/lang-and-heyne-fredrich-iii-friedrich-iii-ss-black-dial-60899",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/lang-and-heyne/hektor/hektor-hektor-grey",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/lang-and-heyne/friedrich-iii/friedrich-iii-friedrich-iii-blk-rom",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.acollectedman.com/products/lang-heyne-homage-tower-clock-glashutte",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4598",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=3002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4614",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tatlerasia.com/style/watches/lang-heyne-sincere-fine-watches-70th-anniversary",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/sincere-platinum-jubilee-lang-heyne-friedrich-iii-remontoir/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.acollectedman.com/collections/archive/products/lang-heyne-frederich-iii-remontoir-special-edition",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thehourmarkers.com/articles/lang-and-heyne-sincere-fine-watches-friedrich-remontoir",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=2944",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2015/06/27/lang-heyne-johann-von-sachsen-collection-johann-champleve-variation-iv-rose-gold-watch-blue-enamel-dial-sprinkled-with-stars-handwound-movement/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/lang-heyne-johann-white-enamel/",
+   "passada": 2,
+   "novos": 6
+  },
+  {
+   "url": "https://www.orologioblog.net/en/opera-darte-per-lang-heyne/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/watch-gallery/1004090483-lang-heyne-moritz.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/lang-and-heyne-moritz-complete-calendar-earth-declination-complication-review-specs-price",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/lang-and-heyne/friedrich-iii/4980991",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.exquisitetimepieces.com/products/lang-heyne-hektor-edition-2-ns21000939505",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europeanwatch.com/watch/lang-and-heyne-hektor-hektor-ss-green-dial-manual-wind-unworn-55271",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://thelimitededition.co.uk/product/lang-heyne-hektor-edition-ii/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4597",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=4593",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.the1916company.com/pre-owned/lang-and-heyne/hektor/5034580",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2014/05/21/lang-heyne-augustus-platinum-watch-with-personal-calendar-function-manual-winding-movement-caliber-vii/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/?p=14459",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lang-und-heyne.de/en/caliber/caliber-ix/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/lang-heyne/167810",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/1004090554.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/review-lang-and-heyne-anton-tourbillon-price/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/review-lang-heyne-anton-flying-tourbillon/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/just-because-lang-und-heyne-georg-anton-tourbillon-open-dial-independent-watchmaking-live-pics-specs-price",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/the-lang-heyne-anton-manufaktur-edition-tourbillon/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thelimitededition.co.uk/anton-platinum/",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/lang-heyne/lang-heyne-anton-manufaktur-edition",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://sfwatchlover.substack.com/p/review-of-lang-and-heyne-hektor-sporty",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://vivir.com/article/lang-heyne-friedrich-iii",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.timeandwatches.com/2021/10/lang-heyne-hektor.html",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://deployant.com/new-lang-heyne-hektor-edition-ii/",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}

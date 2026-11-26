@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1165,
-  "ultima_versao": 898,
+  "proxima_linha_marcas": 1166,
+  "ultima_versao": 900,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16061,6 +16061,61 @@
       "adiadas": [],
       "lote": "historico/passada_unica/lote_898.json",
       "obs": "Marca vintage extinta, sem site oficial; páginas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos. G/H/K não achados (explicado em M). Pendências 40/41 da Aenigma já estavam aplicadas (v895)."
+    },
+    {
+      "versao": 899,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Aeon Watches"
+      ],
+      "linhas_marcas": [
+        38
+      ],
+      "relogios": 2,
+      "linhas_relogios": "130432-130433",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Aeon Watches": 6
+      },
+      "so_site_oficial": true,
+      "fora_da_sequencia": true,
+      "obs": "Pedido do usuário na conversa: completar a Aeon Watches (estava em ADIADAS). Aba Marcas já completa (B–K); M acrescentada."
+    },
+    {
+      "versao": 900,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lang & Heyne"
+      ],
+      "linhas_marcas": [
+        1166
+      ],
+      "relogios": 65,
+      "linhas_relogios": "130434-130498",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Lang & Heyne": 86
+      },
+      "passadas": {
+        "1": [
+          54,
+          67
+        ],
+        "2": [
+          17,
+          11
+        ],
+        "3": [
+          15,
+          2
+        ]
+      },
+      "adiadas": [],
+      "obs": "Marca grande, sozinha. Páginas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos. G corrigido para lang-und-heyne.de; K (logo) e L (site parcial) gravados. Pendências 40/41 da Aenigma já aplicadas na v895."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

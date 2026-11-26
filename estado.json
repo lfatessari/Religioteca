@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1165,
-  "ultima_versao": 899,
+  "proxima_linha_marcas": 1166,
+  "ultima_versao": 900,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16082,6 +16082,40 @@
       "so_site_oficial": true,
       "fora_da_sequencia": true,
       "obs": "Pedido do usuário na conversa: completar a Aeon Watches (estava em ADIADAS). Aba Marcas já completa (B–K); M acrescentada."
+    },
+    {
+      "versao": 900,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lang & Heyne"
+      ],
+      "linhas_marcas": [
+        1166
+      ],
+      "relogios": 65,
+      "linhas_relogios": "130434-130498",
+      "vermelho": true,
+      "grande": true,
+      "fontes": {
+        "Lang & Heyne": 86
+      },
+      "passadas": {
+        "1": [
+          54,
+          67
+        ],
+        "2": [
+          17,
+          11
+        ],
+        "3": [
+          15,
+          2
+        ]
+      },
+      "adiadas": [],
+      "obs": "Marca grande, sozinha. Páginas pelo ajudante web-fetch (WebFetch direta ausente); Firecrawl sem créditos. G corrigido para lang-und-heyne.de; K (logo) e L (site parcial) gravados. Pendências 40/41 da Aenigma já aplicadas na v895."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16189,29 +16223,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T12:58:35Z",
-  "ultimo_sinal": "2026-11-26T13:09:54Z",
-  "em_andamento": {
-    "marcas": [
-      "Lang & Heyne"
-    ],
-    "linha_marcas": 1166,
-    "grande": true,
-    "relogios": "historico/parcial_Lang_Heyne_relogios.txt",
-    "fontes": "historico/parcial_Lang_Heyne_fontes.txt",
-    "notas": "historico/notas_Lang_Heyne.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9",
-      "passada2"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }
