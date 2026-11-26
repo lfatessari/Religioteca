@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1156,
-  "ultima_versao": 891,
+  "proxima_linha_marcas": 1158,
+  "ultima_versao": 892,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15900,6 +15900,37 @@
       "logo": true,
       "lote": "historico/passada_unica/lote_891.json",
       "obs": "Grande, sozinha. 47 modernos (refs LL) + 16 antigos de leilão. K preenchido (logo da Exquisite); H não confirmado (@leroywatches só no DailyWatch). Pendências 37–39 já aplicadas na v883. Firecrawl não usado; páginas pelo ajudante web-fetch. Próximas: Label Noir (1157), Lacite (1158)."
+    },
+    {
+      "versao": 892,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Label Noir",
+        "Lacite"
+      ],
+      "linhas_marcas": [
+        1157,
+        1158
+      ],
+      "relogios": 28,
+      "linhas_relogios": "129934-129961",
+      "vermelho": [
+        "Label Noir"
+      ],
+      "grande": [
+        "Label Noir"
+      ],
+      "fontes": {
+        "Label Noir": 60,
+        "Lacite": 11
+      },
+      "catalogo_fechado": [
+        "Lacite"
+      ],
+      "site_bloqueado": "labelnoir.ch (Label Noir, coluna L); lacitewatches.com home direta",
+      "lote": "historico/passada_unica/lote_892.json",
+      "obs": "Label Noir revelou-se grande (peças únicas) e vermelha: 1ª passada 47 fontes/22, 2ª passada 13 fontes/3. Lacite: 3 Urbanite GMT, catálogo fechado; K preenchido. K da Label Noir não achado. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883. Próxima: Laco (1159), grande, sozinha."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16007,35 +16038,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T06:41:20Z",
-  "ultimo_sinal": "2026-11-26T06:56:10Z",
-  "em_andamento": {
-    "marcas": [
-      "Label Noir",
-      "Lacite"
-    ],
-    "linha_marcas": 1157,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada"
-    ],
-    "passada": 1,
-    "obs": "Laco (1159) é grande: fica para a próxima."
-  }
+  "adiadas_obs": {}
 }
