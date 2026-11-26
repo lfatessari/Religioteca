@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1149,
-  "ultima_versao": 886,
+  "proxima_linha_marcas": 1150,
+  "ultima_versao": 887,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15790,6 +15790,27 @@
       "site_bloqueado": "kudoke.eu",
       "lote": "historico/passada_unica/lote_886.json",
       "obs": "Kuoe Kyoto (1150) parece grande (muitas variações de cor/pulseira em kuoe-en.com): fica sozinha na próxima; Kurono Tokyo (1151) depois. kudoke.eu, kuoe.jp e kurono-tokyo.com deram PROVENANCE_REQUIRED. K da Kudoke não achado. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883."
+    },
+    {
+      "versao": 887,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kuoe Kyoto"
+      ],
+      "linhas_marcas": [
+        1150
+      ],
+      "relogios": 70,
+      "linhas_relogios": "129731-129800",
+      "vermelho": false,
+      "grande": true,
+      "fontes": 54,
+      "site_bloqueado": "parcial (kuoe-en.com home, kuoe.jp)",
+      "correcoes_marcas": [
+        "J"
+      ],
+      "obs": "Grande, sozinha. Sem dados vazios na aba Marcas. Firecrawl não usado; páginas pelo ajudante web-fetch. Pendências 37–39 já estavam aplicadas (v883). Próximas: Kurono Tokyo (1151, falta K) e Kuruvakka (1152, faltam G, I, K)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15897,32 +15918,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T01:43:04Z",
-  "ultimo_sinal": "2026-11-26T01:56:41Z",
-  "em_andamento": {
-    "marcas": [
-      "Kuoe Kyoto"
-    ],
-    "linha_marcas": 1150,
-    "grande": true,
-    "relogios": "historico/parcial_Kuoe_relogios.txt",
-    "fontes": "historico/parcial_Kuoe_fontes.txt",
-    "notas": "historico/notas_Kuoe.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "pesquisa concluída (54 fontes, 70 relógios); gravando v887 a partir de historico/dados_Kuoe.txt e marca_Kuoe.json"
-  }
+  "adiadas_obs": {}
 }

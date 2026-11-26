@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1147,
-  "ultima_versao": 885,
+  "proxima_linha_marcas": 1150,
+  "ultima_versao": 887,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15771,6 +15771,46 @@
       ],
       "logo": true,
       "obs": "Pendências dos posts 37–39 já estavam aplicadas na v883 (foto do SUPA Commando e Ascent SteelWhite seguem a verificar). Firecrawl sem créditos. Ajudante web-fetch usado."
+    },
+    {
+      "versao": 886,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kudoke"
+      ],
+      "linhas_marcas": [
+        1149
+      ],
+      "relogios": 51,
+      "linhas_relogios": "129680-129730",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 40,
+      "site_bloqueado": "kudoke.eu",
+      "lote": "historico/passada_unica/lote_886.json",
+      "obs": "Kuoe Kyoto (1150) parece grande (muitas variações de cor/pulseira em kuoe-en.com): fica sozinha na próxima; Kurono Tokyo (1151) depois. kudoke.eu, kuoe.jp e kurono-tokyo.com deram PROVENANCE_REQUIRED. K da Kudoke não achado. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883."
+    },
+    {
+      "versao": 887,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Kuoe Kyoto"
+      ],
+      "linhas_marcas": [
+        1150
+      ],
+      "relogios": 70,
+      "linhas_relogios": "129731-129800",
+      "vermelho": false,
+      "grande": true,
+      "fontes": 54,
+      "site_bloqueado": "parcial (kuoe-en.com home, kuoe.jp)",
+      "correcoes_marcas": [
+        "J"
+      ],
+      "obs": "Grande, sozinha. Sem dados vazios na aba Marcas. Firecrawl não usado; páginas pelo ajudante web-fetch. Pendências 37–39 já estavam aplicadas (v883). Próximas: Kurono Tokyo (1151, falta K) e Kuruvakka (1152, faltam G, I, K)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
