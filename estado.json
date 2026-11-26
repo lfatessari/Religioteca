@@ -16063,7 +16063,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T08:43:35Z",
-  "ultimo_sinal": "2026-11-26T08:44:53Z",
+  "ultimo_sinal": "2026-11-26T08:55:17Z",
   "em_andamento": {
     "marcas": [
       "Ladoire",
@@ -16072,10 +16072,14 @@
     ],
     "linha_marcas": 1160,
     "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "relogios": "historico/dados_<marca>.txt",
     "fontes": "historico/parcial_<marca>_fontes.txt",
     "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "Laine: pesquisa completa",
+      "Ladoire: pesquisa completa",
+      "Lamberti: adiada (site PROVENANCE_REQUIRED, 7 fontes)"
+    ],
     "passada": 1
   }
 }
