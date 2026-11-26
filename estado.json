@@ -16409,7 +16409,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-26T19:43:28Z",
-  "ultimo_sinal": "2026-11-26T19:52:20Z",
+  "ultimo_sinal": "2026-11-26T20:02:18Z",
   "em_andamento": {
     "marcas": [
       "Leatherman",
@@ -16424,9 +16424,17 @@
     "secoes_feitas": [
       "1",
       "2",
-      "3"
+      "2c",
+      "3",
+      "5",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b",
+      "2a passada Lebois"
     ],
     "passada": 1,
-    "obs": "Firecrawl sem créditos; páginas pelo ajudante web-fetch"
+    "obs": "Pesquisa concluída; dados/marca.json em historico/; gravando v907"
   }
 }
