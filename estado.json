@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1154,
-  "ultima_versao": 889,
+  "proxima_linha_marcas": 1155,
+  "ultima_versao": 890,
   "historico": [
     {
       "data": "2026-10-16",
@@ -15861,6 +15861,25 @@
       "site_bloqueado": "landjr.com (L&JR, coluna L)",
       "lote": "historico/passada_unica/lote_889.json",
       "obs": "Kuruvakka: 3 RAE-3, catálogo fechado; G, I, K preenchidos. KVELI Watches adiada (só Microbrand Atlas fora do site); I e K preenchidos. L&JR: 8 Step One; C e K não achados. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 37–39 já aplicadas na v883."
+    },
+    {
+      "versao": 890,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "L. Kendall"
+      ],
+      "linhas_marcas": [
+        1155
+      ],
+      "relogios": 16,
+      "linhas_relogios": "129855-129870",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 46,
+      "site_bloqueado": "kendallwatches.com",
+      "lote": "historico/passada_unica/lote_890.json",
+      "obs": "G e K preenchidos; C e H não achados. L. Leroy (1156) parece grande (linha moderna LL + vintage): fica sozinha na próxima. Pendências dos posts 37–39 já aplicadas na v883. Firecrawl não usado; páginas pelo ajudante web-fetch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -15968,29 +15987,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T04:43:27Z",
-  "ultimo_sinal": "2026-11-26T04:53:27Z",
-  "em_andamento": {
-    "marcas": [
-      "L. Kendall"
-    ],
-    "linha_marcas": 1155,
-    "grande": false,
-    "relogios": "historico/parcial_L. Kendall_relogios.txt",
-    "fontes": "historico/parcial_L. Kendall_fontes.txt",
-    "notas": "historico/notas_L. Kendall.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "passada": 1,
-    "obs": "L. Leroy (1156) parece grande (linha moderna LL + vintage): fica sozinha na próxima."
-  }
+  "adiadas_obs": {}
 }
