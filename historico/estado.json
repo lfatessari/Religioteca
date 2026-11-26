@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1180,
-  "ultima_versao": 907,
+  "proxima_linha_marcas": 1187,
+  "ultima_versao": 910,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16343,6 +16343,63 @@
       "adiadas": [],
       "lote": "historico/passada_unica/lote_907.json",
       "obs": "Os três sites oficiais deram PROVENANCE_REQUIRED; Firecrawl sem créditos; tudo pelo ajudante web-fetch. K preenchido nas três (logos de fontes de fora). Correções: J da Lebeau-Courally e I da Lebois & Co. Pendências 40/41 da Aenigma já aplicadas (v895)."
+    },
+    {
+      "versao": 908,
+      "data": "2026-11-26",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lebond",
+        "Lecronos"
+      ],
+      "linhas_marcas": [
+        1181,
+        1182,
+        1183
+      ],
+      "relogios": 27,
+      "linhas_relogios": "131026-131052",
+      "vermelho": false,
+      "grande": false,
+      "fontes": {
+        "Lebond": 25,
+        "Lecronos": 15
+      },
+      "adiadas": [],
+      "lote": "historico/passada_unica/lote_908.json",
+      "obs": "Lebond 8 relógios (só imprensa; site oficial PROVENANCE_REQUIRED). Lecronos 19 linhas e I reescrita (correção com fontes). Lederer = duplicata de 'Bernhard Lederer (BLU)' (54 relógios): APELIDOS no proxima_marca.py, só K (logo Watchonista) e M. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
+    },
+    {
+      "data": "2026-11-26",
+      "versao": 909,
+      "tipo": "passada_unica",
+      "marcas": [
+        "LEFF Amsterdam"
+      ],
+      "linha_marcas": 1184,
+      "relogios": 33,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "fontes": 61,
+      "obs": "Lego (grande, Brickset com centenas de relógios) e Leica ficam para as próximas execuções; Firecrawl sem créditos; site oficial pediu permissão"
+    },
+    {
+      "data": "2026-11-26",
+      "versao": 910,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Leica"
+      ],
+      "linha_marcas": 1186,
+      "relogios": 16,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 17,
+      "adiadas": [
+        "Lego",
+        "Leinfelder"
+      ],
+      "obs": "Lego (grande, 243 itens na BrickEconomy) e Leinfelder (site pediu permissão, ~9 fontes) adiadas por falta de acesso às fontes; Firecrawl sem créditos; Leinfelder K não achado (lote 910)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

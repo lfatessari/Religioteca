@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1184,
-  "ultima_versao": 909,
+  "proxima_linha_marcas": 1187,
+  "ultima_versao": 910,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16382,6 +16382,24 @@
       "site_bloqueado": true,
       "fontes": 61,
       "obs": "Lego (grande, Brickset com centenas de relógios) e Leica ficam para as próximas execuções; Firecrawl sem créditos; site oficial pediu permissão"
+    },
+    {
+      "data": "2026-11-26",
+      "versao": 910,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Leica"
+      ],
+      "linha_marcas": 1186,
+      "relogios": 16,
+      "vermelho": false,
+      "site_bloqueado": false,
+      "fontes": 17,
+      "adiadas": [
+        "Lego",
+        "Leinfelder"
+      ],
+      "obs": "Lego (grande, 243 itens na BrickEconomy) e Leinfelder (site pediu permissão, ~9 fontes) adiadas por falta de acesso às fontes; Firecrawl sem créditos; Leinfelder K não achado (lote 910)"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16489,23 +16507,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-26T22:42:56Z",
-  "ultimo_sinal": "2026-11-26T22:55:07Z",
-  "em_andamento": {
-    "marcas": [
-      "Leica"
-    ],
-    "linha_marcas": 1186,
-    "grande": false,
-    "relogios": "historico/parcial_Lego_relogios.txt",
-    "fontes": "historico/parcial_Lego_fontes.txt",
-    "notas": "historico/notas_Lego.md",
-    "secoes_feitas": [
-      "pesquisa",
-      "gravacao"
-    ],
-    "passada": 1,
-    "obs": "Lego e Leinfelder adiadas; Leica pronta, gravando v910"
-  }
+  "adiadas_obs": {}
 }
