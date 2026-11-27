@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1201,
-  "ultima_versao": 919,
+  "proxima_linha_marcas": 1202,
+  "ultima_versao": 920,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16597,6 +16597,38 @@
         "K (logo)"
       ],
       "obs": "Lilienthal Berlin (1202) é grande: fica sozinha na próxima execução. Firecrawl sem créditos; ligurewatches.com e a loja myshopify recusaram a leitura (PROVENANCE_REQUIRED); espelho oficial ligurewatch.pages.dev abriu."
+    },
+    {
+      "versao": 920,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lilienthal Berlin"
+      ],
+      "linha_marcas": 1202,
+      "relogios": 320,
+      "linhas_relogios": "131511-131830",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 60,
+      "passadas": {
+        "1": [
+          32,
+          234
+        ],
+        "2": [
+          15,
+          11
+        ],
+        "3": [
+          13,
+          59
+        ]
+      },
+      "dados_marcas": [
+        "K (logo)"
+      ],
+      "obs": "Grande e vermelha, sozinha. Quase tudo pelas listas oEmbed das lojas oficiais por país; lilienthal-berlin.com direto deu PROVENANCE_REQUIRED. Firecrawl sem créditos. Gerações 2015-2020 incompletas. Próximas: Lima Watches (1203), Limes (1204)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16704,35 +16736,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-27T07:44:00Z",
-  "ultimo_sinal": "2026-11-27T08:07:12Z",
-  "em_andamento": {
-    "marcas": [
-      "Lilienthal Berlin"
-    ],
-    "linha_marcas": 1202,
-    "grande": true,
-    "relogios": "historico/parcial_Lilienthal_Berlin_relogios.txt",
-    "fontes": "historico/parcial_Lilienthal_Berlin_fontes.txt",
-    "notas": "historico/notas_Lilienthal_Berlin.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada",
-      "3a passada"
-    ],
-    "passada": 3,
-    "obs": "pesquisa encerrada (60 fontes, 320 relógios); gravando v920"
-  }
+  "adiadas_obs": {}
 }
