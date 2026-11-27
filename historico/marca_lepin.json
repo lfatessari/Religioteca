@@ -1,0 +1,46 @@
+{
+ "marca": "Le Pin Watches",
+ "usa_codigos": false,
+ "logo": "https://lepinwatches.com/wp-content/uploads/2025/07/Le-Pin_logos-02.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "so_site_oficial": {
+  "dominio": "lepinwatches.com",
+  "motivo": "Marca croata lançada em 2025/2026 com um só modelo; 4 buscas ('Le Pin Watches', 'Le Pin Automatic', 'Le Pin Sellita SW261 Croatian', 'lepinwatches instagram/Stand tall') só trouxeram o próprio site; nenhuma loja, matéria ou banco de dados (Firecrawl sem créditos)."
+ },
+ "observacoes": "Relógios (v916) gravados só com o site oficial lepinwatches.com (exceção do usuário de 23/11/2026): nenhuma fonte de fora foi achada em 4 buscas. Catálogo de um modelo só (Le Pin Automatic, € 1.630). Reserva de marcha: a ficha diz 'pelo menos 38 h', o manual (IFU) diz 41 h. F (10450) parece calculado com outra base: € 1.630 × 6,2257 = R$ 10.148 (só anotado).",
+ "fontes": [
+  {
+   "url": "https://lepinwatches.com/product/le-pin-automatic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lepinwatches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lepinwatches.com/about/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lepinwatches.com/terms-and-conditions/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lepinwatches.com/privacy-policy/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lepinwatches.com/wp-content/uploads/2026/01/Le-Pin-IFU.pdf",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
