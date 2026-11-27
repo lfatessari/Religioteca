@@ -1,0 +1,312 @@
+{
+ "marca": "Lilienthal Berlin",
+ "usa_codigos": true,
+ "logo": "https://es.lilienthal.berlin/cdn/shop/files/2026_LOGO_MAIN_LEFT_ALIGNED.svg?v=1770900420",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 27/11/2026 (v920), marca grande e VERMELHA: 3 passadas, quase tudo pelas listas oEmbed das lojas oficiais (lilienthal.berlin, eu./uk./ch./es./it., lilienthal-berlin.com), 1 linha por referência (código = modelo-cor-pulseira). A loja diz ter ~299 itens; ficaram de fora gerações antigas (2015-2020: Lilienthal 1 com Ronda 1069, L1 Limited Editions como Golden 20s em outras cores, Chronograph original, Urbania, XL1 e Meteorite citados no masterhorologer) e várias referências só vistas por título (linhas com link da página na coluna C). Site oficial lilienthal-berlin.com não abriu direto (PROVENANCE_REQUIRED); as lojas por país abriram. Logo (K): logo principal do rodapé da loja oficial. Ainda a verificar: D diz 'Ronda e Sellita', mas a linha atual usa sobretudo Miyota (1L45, GN12, 8215, 8205, 8N40, JS25), Epson VR43 e TMI VD57; Sellita SW200 só no Zeitgeist e Ronda 3540.D em parte dos cronógrafos. Fundação: 2015 em Berlim (Wikipedia e site oficial); masterhorologer diz 2016 e cita também Richard Colman como cofundador.",
+ "fontes": [
+  {
+   "url": "https://lilienthal.berlin/en/collections/classic-watches.oembed?page=3",
+   "passada": 1,
+   "novos": 33
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Lilienthal_Berlin",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/lilienthal-berlin-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lilienthal-berlin.com/collections/mens-watches.oembed?page=7",
+   "passada": 1,
+   "novos": 37
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/all-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lilienthal.berlin/en/collections/watches.oembed",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://lilienthal.berlin/en/collections/limited-editions.oembed",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://uk.lilienthal.berlin/collections/community-exclusive.oembed",
+   "passada": 1,
+   "novos": 47
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/zeitgeist-automatik.oembed",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://lilienthal.berlin/en/collections/neolux.oembed",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/womens-watches.oembed?page=3",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://lilienthal.berlin/en/collections/classic-watches.oembed?page=2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/color-stories.oembed?page=2",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://uk.lilienthal.berlin/collections/lilienthal-1-s.oembed",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/chronograph-meteorite.oembed",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/chronographs.oembed?page=2",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://it.lilienthal.berlin/collections/chronographs.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/last-units.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/lilienthal-1",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://masterhorologer.com/2019/08/22/lilienthal-berlin-l1-limited-edition-golden-20s/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://es.lilienthal.berlin/en/pages/a-berlin-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://es.lilienthal.berlin/collections/all-watches?page=9",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/all-chronographs-excl-last-chance.oembed?page=2",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/chronographs.oembed?page=3",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://uk.lilienthal.berlin/collections/all-watches.oembed?page=4",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://lilienthal.berlin/en/collections/new-arrivals.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://jewelleryfocus.co.uk/193002-lilienthal-berlin-launches-new-meteorite-watch-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fivefortyfive.nz/products/lilienthal-berlin-zeitgeist-automatic-meteorite-limited-edition",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchtime.net/brands/deutsche-uhrenhersteller/lilienthal-die-neuen-huxleys-bringen-farbe-in-den-winter",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.com/itm/297073800643",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://editorialist.com/shop/lilienthal-berlin/men/watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drop.com/buy/lilienthal-berlin-l1-quartz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lilienthal-berlin.com/collections/black-watches.oembed",
+   "passada": 2,
+   "novos": 4
+  },
+  {
+   "url": "https://www.lilienthal-berlin.com/collections/black-watches.oembed?page=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://lilienthal.berlin/en/collections/lilienthal-1.oembed",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/chronograph.oembed",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.hktdc.com/event/te/en/product/1Z03OBZ1Y",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hktdc.com/event/te/en/product/1Z03MJ7RK",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.hktdc.com/event/te/en/product/1Z03MJ7HE",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://newlabelsonly.com/?p=7544",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/edelstahl-uhren/lilienthal-berlin-zeitgeist-automatik",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/products/l1-058-b043r20",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/products/lilienthal-1-gold-black-watch-leather-black-l01-106-b004b",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://globaldesignnews.com/lars-hofmanns-new-lilienthal-l1-watch-is-a-timeless-classic-multi-faceted-timepiece-a-style-icon-in-the-purist-blue/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ifdesign.com/en/winner-ranking/project/chronograph-solar/582817",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ifdesign.com/en/winner-ranking/project/lilienthal-1/209140",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://editorialist.com/p/lilienthal-berlin-chronograph-remix-ii-mesh-black-matte/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/neolux-skeleton.oembed",
+   "passada": 3,
+   "novos": 6
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/automatic-watches.oembed?page=2",
+   "passada": 3,
+   "novos": 25
+  },
+  {
+   "url": "https://es.lilienthal.berlin/collections/automatic-watches.oembed",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/silver-watches.oembed",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/the-classic.oembed",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/quartz-watches.oembed?page=5",
+   "passada": 3,
+   "novos": 5
+  },
+  {
+   "url": "https://uk.lilienthal.berlin/collections/sale.oembed?page=2",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://eu.lilienthal.berlin/collections/watches-bestsellers.oembed?page=2",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://ch.lilienthal.berlin/en/collections/watches-new-arrivals.oembed",
+   "passada": 3,
+   "novos": 15
+  },
+  {
+   "url": "https://uk.lilienthal.berlin/products/n3-004-b040c",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://nl.lilienthal.berlin/en/products/l01-056-b040cb",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://uk.lilienthal.berlin/collections/all-watches?page=11",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://uk.lilienthal.berlin/collections/all-watches?page=10",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
