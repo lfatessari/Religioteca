@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1191,
-  "ultima_versao": 914,
+  "proxima_linha_marcas": 1194,
+  "ultima_versao": 916,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16471,6 +16471,58 @@
       },
       "lote": "historico/passada_unica/lote_914.json",
       "obs": "Marca extinta, sem site/Instagram/logo; páginas abertas pelo ajudante web-fetch; Firecrawl sem créditos. L'Epee e Le Petit Poussoir ficam para a próxima."
+    },
+    {
+      "versao": 915,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "L'Epee"
+      ],
+      "linha_marcas": 1191,
+      "relogios": 194,
+      "linhas_relogios": "131199-131392",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 102,
+      "passadas": {
+        "1": 69,
+        "2": 16,
+        "3": 17
+      },
+      "obs": "Relógios de mesa; páginas pelo ajudante web-fetch; Firecrawl sem créditos. H corrigido (@lepee_1839), K logo SVG oficial. Le Petit Poussoir e Lepine Belharra ficam para a próxima."
+    },
+    {
+      "versao": 916,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Le Petit Poussoir",
+        "Lepine Belharra",
+        "Le Pin Watches"
+      ],
+      "relogios": {
+        "Le Petit Poussoir": 5,
+        "Le Pin Watches": 1
+      },
+      "adiadas": [
+        "Lepine Belharra"
+      ],
+      "fontes": {
+        "Le Petit Poussoir": 16,
+        "Le Pin Watches": 6,
+        "Lepine Belharra": 9
+      },
+      "so_site_oficial": [
+        "Le Pin Watches"
+      ],
+      "lacunas": {
+        "Le Petit Poussoir": "C",
+        "Le Pin Watches": "I,K",
+        "Lepine Belharra": "G"
+      },
+      "vermelho": false,
+      "firecrawl": "sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

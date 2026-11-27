@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1191,
-  "ultima_versao": 915,
+  "proxima_linha_marcas": 1194,
+  "ultima_versao": 916,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16491,6 +16491,38 @@
         "3": 17
       },
       "obs": "Relógios de mesa; páginas pelo ajudante web-fetch; Firecrawl sem créditos. H corrigido (@lepee_1839), K logo SVG oficial. Le Petit Poussoir e Lepine Belharra ficam para a próxima."
+    },
+    {
+      "versao": 916,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Le Petit Poussoir",
+        "Lepine Belharra",
+        "Le Pin Watches"
+      ],
+      "relogios": {
+        "Le Petit Poussoir": 5,
+        "Le Pin Watches": 1
+      },
+      "adiadas": [
+        "Lepine Belharra"
+      ],
+      "fontes": {
+        "Le Petit Poussoir": 16,
+        "Le Pin Watches": 6,
+        "Lepine Belharra": 9
+      },
+      "so_site_oficial": [
+        "Le Pin Watches"
+      ],
+      "lacunas": {
+        "Le Petit Poussoir": "C",
+        "Le Pin Watches": "I,K",
+        "Lepine Belharra": "G"
+      },
+      "vermelho": false,
+      "firecrawl": "sem créditos"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16598,30 +16630,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-27T03:41:23Z",
-  "ultimo_sinal": "2026-11-27T03:58:01Z",
-  "em_andamento": {
-    "marcas": [
-      "Le Petit Poussoir",
-      "Lepine Belharra",
-      "Le Pin Watches"
-    ],
-    "linha_marcas": 1192,
-    "grande": false,
-    "notas": "historico/notas_lote916.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "pesquisa terminada; gravando v916"
-  }
+  "adiadas_obs": {}
 }
