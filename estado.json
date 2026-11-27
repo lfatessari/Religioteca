@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1189,
-  "ultima_versao": 912,
+  "ultima_versao": 913,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16440,6 +16440,17 @@
         "2": 23
       },
       "obs": "Leonidas e L'Epee ficaram para a próxima (Lemania grande, sozinha). Firecrawl sem créditos."
+    },
+    {
+      "versao": 913,
+      "data": "2026-11-27",
+      "tipo": "posts",
+      "marcas": [
+        "Aeon Watches",
+        "Aera"
+      ],
+      "itens": "42-46",
+      "obs": "Aeon H '-' e I; Aera I, 4 fotos trocadas e 2 relógios novos (M-1 Krons, C-1 Rennsport). Fotos não testadas (cdn.shopify bloqueado na execução)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16549,7 +16560,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-27T01:43:17Z",
-  "ultimo_sinal": "2026-11-27T01:54:23Z",
+  "ultimo_sinal": "2026-11-27T01:57:55Z",
   "em_andamento": {
     "marcas": [
       "Leonidas"
@@ -16561,6 +16572,6 @@
     "notas": "historico/notas_Leonidas.md",
     "secoes_feitas": [],
     "passada": 1,
-    "obs": "Pendências dos posts (itens 42-46) sendo gravadas como v913; Leonidas será v914"
+    "obs": "Leonidas será v914"
   }
 }
