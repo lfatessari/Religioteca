@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1189,
-  "ultima_versao": 912,
+  "proxima_linha_marcas": 1191,
+  "ultima_versao": 914,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16440,6 +16440,37 @@
         "2": 23
       },
       "obs": "Leonidas e L'Epee ficaram para a próxima (Lemania grande, sozinha). Firecrawl sem créditos."
+    },
+    {
+      "versao": 913,
+      "data": "2026-11-27",
+      "tipo": "posts",
+      "marcas": [
+        "Aeon Watches",
+        "Aera"
+      ],
+      "itens": "42-46",
+      "obs": "Aeon H '-' e I; Aera I, 4 fotos trocadas e 2 relógios novos (M-1 Krons, C-1 Rennsport). Fotos não testadas (cdn.shopify bloqueado na execução)."
+    },
+    {
+      "versao": 914,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Leonidas"
+      ],
+      "linha_marcas": 1190,
+      "relogios": 40,
+      "linhas_relogios": "131159-131198",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 88,
+      "passadas": {
+        "1": 72,
+        "2": 16
+      },
+      "lote": "historico/passada_unica/lote_914.json",
+      "obs": "Marca extinta, sem site/Instagram/logo; páginas abertas pelo ajudante web-fetch; Firecrawl sem créditos. L'Epee e Le Petit Poussoir ficam para a próxima."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
