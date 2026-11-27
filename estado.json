@@ -16706,7 +16706,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-27T07:44:00Z",
-  "ultimo_sinal": "2026-11-27T07:58:36Z",
+  "ultimo_sinal": "2026-11-27T08:01:09Z",
   "em_andamento": {
     "marcas": [
       "Lilienthal Berlin"
@@ -16719,8 +16719,16 @@
     "secoes_feitas": [
       "1",
       "2",
-      "2c"
+      "2c",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
     ],
-    "passada": 1
+    "passada": 2,
+    "obs": "1ª passada encerrada (32 fontes, 252 relógios); vermelha; 2ª passada atrás das gerações antigas (2015-2020)"
   }
 }
