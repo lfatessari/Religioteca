@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1200,
-  "ultima_versao": 918,
+  "proxima_linha_marcas": 1201,
+  "ultima_versao": 919,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16579,6 +16579,24 @@
       "vermelho": false,
       "lote": "historico/passada_unica/lote_918.json",
       "obs": "Lew & Huey: C nova (Filadélfia), D corrigida (Janis Trading, não Phoibos). LG: K logo. Libertas: catálogo fechado, I nova, K logo, J corrigida (Coleção Minas Gerais). Firecrawl sem créditos; site lewandhuey.com e home libertaswatchco.com deram PROVENANCE_REQUIRED."
+    },
+    {
+      "versao": 919,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Ligure Watches"
+      ],
+      "linha_marcas": 1201,
+      "relogios": 29,
+      "linhas_relogios": "131482-131510",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 44,
+      "dados_marcas": [
+        "K (logo)"
+      ],
+      "obs": "Lilienthal Berlin (1202) é grande: fica sozinha na próxima execução. Firecrawl sem créditos; ligurewatches.com e a loja myshopify recusaram a leitura (PROVENANCE_REQUIRED); espelho oficial ligurewatch.pages.dev abriu."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16686,30 +16704,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-27T06:43:38Z",
-  "ultimo_sinal": "2026-11-27T06:55:47Z",
-  "em_andamento": {
-    "marcas": [
-      "Ligure Watches"
-    ],
-    "linha_marcas": 1201,
-    "grande": false,
-    "relogios": "historico/dados_ligure.txt",
-    "fontes": "historico/marca_ligure.json",
-    "notas": "historico/notas_ligure.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Lilienthal Berlin (1202) é grande (loja all-watches com 9+ páginas): fica sozinha na próxima execução."
-  }
+  "adiadas_obs": {}
 }

@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1194,
-  "ultima_versao": 916,
+  "proxima_linha_marcas": 1201,
+  "ultima_versao": 919,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16523,6 +16523,80 @@
       },
       "vermelho": false,
       "firecrawl": "sem créditos"
+    },
+    {
+      "versao": 917,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lèrin",
+        "Lesablier",
+        "Levenaig"
+      ],
+      "linhas_marcas": [
+        1195,
+        1196,
+        1197
+      ],
+      "relogios": {
+        "Lèrin": 10,
+        "Lesablier": 22,
+        "Levenaig": 14
+      },
+      "fontes": {
+        "Lèrin": 16,
+        "Lesablier": 32,
+        "Levenaig": 15
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_917.json",
+      "obs": "Lesablier: B França→USA, C Washington, D.C., D, I e J corrigidos (site oficial). Levenaig: I atualizada. Lèrin: I nova. Logos K nas 3."
+    },
+    {
+      "versao": 918,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lew & Huey",
+        "LG",
+        "Libertas Watch Co."
+      ],
+      "linhas_marcas": [
+        1198,
+        1199,
+        1200
+      ],
+      "relogios": {
+        "Lew & Huey": 20,
+        "LG": 14,
+        "Libertas Watch Co.": 3
+      },
+      "fontes": {
+        "Lew & Huey": 40,
+        "LG": 42,
+        "Libertas Watch Co.": 10
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_918.json",
+      "obs": "Lew & Huey: C nova (Filadélfia), D corrigida (Janis Trading, não Phoibos). LG: K logo. Libertas: catálogo fechado, I nova, K logo, J corrigida (Coleção Minas Gerais). Firecrawl sem créditos; site lewandhuey.com e home libertaswatchco.com deram PROVENANCE_REQUIRED."
+    },
+    {
+      "versao": 919,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Ligure Watches"
+      ],
+      "linha_marcas": 1201,
+      "relogios": 29,
+      "linhas_relogios": "131482-131510",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 44,
+      "dados_marcas": [
+        "K (logo)"
+      ],
+      "obs": "Lilienthal Berlin (1202) é grande: fica sozinha na próxima execução. Firecrawl sem créditos; ligurewatches.com e a loja myshopify recusaram a leitura (PROVENANCE_REQUIRED); espelho oficial ligurewatch.pages.dev abriu."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
