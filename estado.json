@@ -16660,5 +16660,20 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-27T05:43:40Z",
-  "ultimo_sinal": "2026-11-27T05:43:40Z"
+  "ultimo_sinal": "2026-11-27T05:44:47Z",
+  "em_andamento": {
+    "marcas": [
+      "Lew & Huey",
+      "LG",
+      "Libertas Watch Co."
+    ],
+    "linha_marcas": 1198,
+    "grande": false,
+    "relogios": "historico/parcial_<marca>_relogios.txt",
+    "fontes": "historico/parcial_<marca>_fontes.txt",
+    "notas": "historico/notas_<marca>.md",
+    "secoes_feitas": [],
+    "passada": 1,
+    "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch"
+  }
 }
