@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1202,
-  "ultima_versao": 920,
+  "proxima_linha_marcas": 1203,
+  "ultima_versao": 921,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16629,6 +16629,21 @@
         "K (logo)"
       ],
       "obs": "Grande e vermelha, sozinha. Quase tudo pelas listas oEmbed das lojas oficiais por país; lilienthal-berlin.com direto deu PROVENANCE_REQUIRED. Firecrawl sem créditos. Gerações 2015-2020 incompletas. Próximas: Lima Watches (1203), Limes (1204)."
+    },
+    {
+      "data": "2026-11-27",
+      "versao": 921,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lima Watches"
+      ],
+      "linha_marcas": 1203,
+      "relogios": 27,
+      "fontes": 38,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "lacunas": "K não achado",
+      "obs": "Limes (1204) tratada como grande, fica sozinha na próxima execução"
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16736,30 +16751,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-27T08:43:46Z",
-  "ultimo_sinal": "2026-11-27T08:55:11Z",
-  "em_andamento": {
-    "marcas": [
-      "Lima Watches"
-    ],
-    "linha_marcas": 1203,
-    "grande": false,
-    "relogios": "historico/dados_Lima.txt",
-    "fontes": "historico/parcial_Lima Watches_fontes.txt",
-    "notas": "historico/notas_Lima Watches.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Limes (1204) tratada como grande (desde 1999, dezenas de referências) -> fica sozinha na próxima execução."
-  }
+  "adiadas_obs": {}
 }
