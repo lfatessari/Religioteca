@@ -16600,5 +16600,20 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-27T03:41:23Z",
-  "ultimo_sinal": "2026-11-27T03:41:23Z"
+  "ultimo_sinal": "2026-11-27T03:48:58Z",
+  "em_andamento": {
+    "marcas": [
+      "Le Petit Poussoir",
+      "Lepine Belharra",
+      "Le Pin Watches"
+    ],
+    "linha_marcas": 1192,
+    "grande": false,
+    "notas": "historico/notas_lote916.md",
+    "secoes_feitas": [
+      "1",
+      "2"
+    ],
+    "passada": 1
+  }
 }
