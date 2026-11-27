@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1197,
-  "ultima_versao": 917,
+  "proxima_linha_marcas": 1200,
+  "ultima_versao": 918,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16551,6 +16551,34 @@
       "vermelho": false,
       "lote": "historico/passada_unica/lote_917.json",
       "obs": "Lesablier: B França→USA, C Washington, D.C., D, I e J corrigidos (site oficial). Levenaig: I atualizada. Lèrin: I nova. Logos K nas 3."
+    },
+    {
+      "versao": 918,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lew & Huey",
+        "LG",
+        "Libertas Watch Co."
+      ],
+      "linhas_marcas": [
+        1198,
+        1199,
+        1200
+      ],
+      "relogios": {
+        "Lew & Huey": 20,
+        "LG": 14,
+        "Libertas Watch Co.": 3
+      },
+      "fontes": {
+        "Lew & Huey": 40,
+        "LG": 42,
+        "Libertas Watch Co.": 10
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_918.json",
+      "obs": "Lew & Huey: C nova (Filadélfia), D corrigida (Janis Trading, não Phoibos). LG: K logo. Libertas: catálogo fechado, I nova, K logo, J corrigida (Coleção Minas Gerais). Firecrawl sem créditos; site lewandhuey.com e home libertaswatchco.com deram PROVENANCE_REQUIRED."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16658,25 +16686,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-27T05:43:40Z",
-  "ultimo_sinal": "2026-11-27T06:00:44Z",
-  "em_andamento": {
-    "marcas": [
-      "Lew & Huey",
-      "LG",
-      "Libertas Watch Co."
-    ],
-    "linha_marcas": 1198,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_<marca>_fontes.txt",
-    "notas": "historico/notas_<marca>.md",
-    "secoes_feitas": [
-      "pesquisa completa",
-      "dados prontos"
-    ],
-    "passada": 1,
-    "obs": "Firecrawl sem créditos; WebFetch só pelo ajudante web-fetch"
-  }
+  "adiadas_obs": {}
 }
