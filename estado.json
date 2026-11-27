@@ -1,6 +1,6 @@
 {
   "proxima_linha_marcas": 1191,
-  "ultima_versao": 914,
+  "ultima_versao": 915,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16471,6 +16471,26 @@
       },
       "lote": "historico/passada_unica/lote_914.json",
       "obs": "Marca extinta, sem site/Instagram/logo; páginas abertas pelo ajudante web-fetch; Firecrawl sem créditos. L'Epee e Le Petit Poussoir ficam para a próxima."
+    },
+    {
+      "versao": 915,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "L'Epee"
+      ],
+      "linha_marcas": 1191,
+      "relogios": 194,
+      "linhas_relogios": "131199-131392",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 102,
+      "passadas": {
+        "1": 69,
+        "2": 16,
+        "3": 17
+      },
+      "obs": "Relógios de mesa; páginas pelo ajudante web-fetch; Firecrawl sem créditos. H corrigido (@lepee_1839), K logo SVG oficial. Le Petit Poussoir e Lepine Belharra ficam para a próxima."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16578,35 +16598,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-27T02:43:13Z",
-  "ultimo_sinal": "2026-11-27T03:03:25Z",
-  "em_andamento": {
-    "marcas": [
-      "L'Epee"
-    ],
-    "linha_marcas": 1191,
-    "grande": true,
-    "relogios": "historico/parcial_LEpee_relogios.txt",
-    "fontes": "historico/parcial_LEpee_fontes.txt",
-    "notas": "historico/notas_LEpee.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada",
-      "3a passada"
-    ],
-    "passada": 1,
-    "obs": "L'Epee 1839 (relógios de mesa) tratada como grande, sozinha; Le Petit Poussoir e Lepine Belharra ficam para a próxima."
-  }
+  "adiadas_obs": {}
 }
