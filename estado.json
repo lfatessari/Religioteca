@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1194,
-  "ultima_versao": 916,
+  "proxima_linha_marcas": 1197,
+  "ultima_versao": 917,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16523,6 +16523,34 @@
       },
       "vermelho": false,
       "firecrawl": "sem créditos"
+    },
+    {
+      "versao": 917,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lèrin",
+        "Lesablier",
+        "Levenaig"
+      ],
+      "linhas_marcas": [
+        1195,
+        1196,
+        1197
+      ],
+      "relogios": {
+        "Lèrin": 10,
+        "Lesablier": 22,
+        "Levenaig": 14
+      },
+      "fontes": {
+        "Lèrin": 16,
+        "Lesablier": 32,
+        "Levenaig": 15
+      },
+      "vermelho": false,
+      "lote": "historico/passada_unica/lote_917.json",
+      "obs": "Lesablier: B França→USA, C Washington, D.C., D, I e J corrigidos (site oficial). Levenaig: I atualizada. Lèrin: I nova. Logos K nas 3."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16630,32 +16658,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-27T04:43:38Z",
-  "ultimo_sinal": "2026-11-27T04:57:52Z",
-  "em_andamento": {
-    "marcas": [
-      "Lèrin",
-      "Lesablier",
-      "Levenaig"
-    ],
-    "linha_marcas": 1195,
-    "grande": false,
-    "relogios": "historico/parcial_<marca>_relogios.txt",
-    "fontes": "historico/parcial_bateria_v917_fontes.txt",
-    "notas": "historico/notas_bateria_v917.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1,
-    "obs": "Pesquisa concluída; gravação v917 em curso"
-  }
+  "adiadas_obs": {}
 }
