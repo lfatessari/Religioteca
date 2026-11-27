@@ -16688,18 +16688,26 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-27T06:43:38Z",
-  "ultimo_sinal": "2026-11-27T06:44:43Z",
+  "ultimo_sinal": "2026-11-27T06:55:47Z",
   "em_andamento": {
     "marcas": [
       "Ligure Watches"
     ],
     "linha_marcas": 1201,
     "grande": false,
-    "relogios": "historico/parcial_ligure_relogios.txt",
-    "fontes": "historico/parcial_ligure_fontes.txt",
+    "relogios": "historico/dados_ligure.txt",
+    "fontes": "historico/marca_ligure.json",
     "notas": "historico/notas_ligure.md",
     "secoes_feitas": [
-      "1"
+      "1",
+      "2",
+      "2c",
+      "3",
+      "5",
+      "7",
+      "9",
+      "10",
+      "10b"
     ],
     "passada": 1,
     "obs": "Lilienthal Berlin (1202) é grande (loja all-watches com 9+ páginas): fica sozinha na próxima execução."

@@ -1,0 +1,232 @@
+{
+ "marca": "Ligure Watches",
+ "usa_codigos": true,
+ "logo": "https://ligurewatch.pages.dev/logo.png",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Bateria (passada única): 29 relógios, 44 fontes. Site oficial: ligurewatches.com recusou a leitura (PROVENANCE_REQUIRED), mas o espelho oficial ligurewatch.pages.dev (canonical ligurewatches.com) abriu e lista 25 produtos na página all-watches (inclusive 10 protótipos P25 e a edição Karl Schmid de 88 peças); a loja ligurewatches.myshopify.com também recusou (fotos de protótipos, Karl Schmid, LWT23009 e LWT21008 ficaram com link de página). Firecrawl sem créditos. Só anotado (sem certeza): C 'Ligúria (Gênova)' — o site oficial diz 'Designed in Castell'Arquato' (entre Milão e a costa da Ligúria) e a marca nasceu num terraço em Portofino; nenhuma fonte cita Gênova. Fundadores, segundo WatchGecko e WatchTime: Loek Oprinsen, Pieter van Geet e Jannieke van Geet (holandeses); WatchGecko dá 2020 como ano de nascimento da marca, e o lançamento foi no Indiegogo em dez/2020 (Fratello). F=4000 parece alto: os preços reais vão de cerca de € 795 a € 1.888.",
+ "fontes": [
+  {
+   "url": "https://ligurewatch.pages.dev/all-watches.html",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/heritage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/tartaruga",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/olive-verde.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/il-primo.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/nero-di-seppia.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/cappuccino.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ligurewatch.pages.dev/colors.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/brands/ligure/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.mastersintime.com/ligure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/ligure",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt23001n.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/ligure-watches-a-progression-in-time",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watch.co.uk/inspiration/may-i-introduce-you-to-a-true-gentleman-this-is-ligure-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/tartaruga-blu-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/reviews/a-gentleman-diver-with-a-jest-for-life-hands-on-with-the-ligure-tartaruga/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/blogs/magazine/a-trio-of-ligure-tartaruga-divers",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/ligure/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt23006n.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt23008.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt23003.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt23007.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt210012.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-founders-edition-returned-watch-with-small-scratches-on-case-back-lwt21008-sc.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt21001.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt210011.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt21009.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/ligure-tartaruga-lwt21009-pre-owned-pre2178",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/ligure/tartaruga/lwt21002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://majestixcollection.com/watches/ligure-tartaruga-scuba-diver-nero-di-seppia-red-lwt21005n/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/reviews/hands-on-with-the-ligure-karl-schmid-a-deep-dive-in-art",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/featured/not-your-average-watch-story-how-a-mysterious-artist-a-watchmaking-legend-and-an-italian-watch-brand-came-together-for-a-unique-limited-edition/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/ligure-scuba-diver-watch-tartaruga-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchgecko.com/en-ca/blogs/magazine/the-ligure-tartaruga-scuba-diver-microbrand-magic-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt21005n.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt23008.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/ligure-tartaruga-founders-edition-gmt-scuba-diver-with-swiss-movement-lwt21007.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/ligure-tartaruga-gents-scuba-diver-with-swiss-movement-lwt23007.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/ja/ligure-tartaruga-nero-di-seppia-gents-scuba-diver-with-swiss-movement-and-dlc-coating-lwt21006n.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.mastersintime.com/ja/rekishi-lwt21004n.htm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/archiv/ligure-scuba-diver-watches-tartaruga",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/ligure/tartaruga/lwt21009",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
