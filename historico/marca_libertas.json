@@ -1,0 +1,78 @@
+{
+ "marca": "Libertas Watch Co.",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "catalogo_fechado": {
+  "oficial": "https://libertaswatchco.com/colecao-minas-gerais",
+  "confirmacoes": [
+   "https://loja.infinitepay.io/libertas-watch-co/rym1875-o-cafeicultor---colecao-minas-gerais-ref-m",
+   "https://www.youtube.com/watch?v=-oRU_kCSMAI"
+  ]
+ },
+ "correcoes": {
+  "J": "O Inconfidente (MG01) — automático NH35, 39,5 mm, mostrador branco e pulseira vermelha; R$ 1.990\n\nO Cafeicultor (MG02) — automático NH35, 39,5 mm, mostrador branco e pulseira de couro marrom; R$ 1.990\n\nO Ouro-Pretano (MG03) — automático NH35, 39,5 mm, mostrador preto e pulseira de couro preta; R$ 1.990"
+ },
+ "correcoes_fontes": {
+  "J": [
+   "https://libertaswatchco.com/colecao-minas-gerais",
+   "https://loja.infinitepay.io/libertas-watch-co/rym1875-o-cafeicultor---colecao-minas-gerais-ref-m"
+  ]
+ },
+ "observacoes": "Bateria v918: 3 relógios (Coleção Minas Gerais, MG01 a MG03), 10 fontes, catálogo fechado: a página oficial libertaswatchco.com/colecao-minas-gerais lista os 3, confirmados pela loja da marca na InfinitePay (lista MG01, MG02 e MG03) e pelo vídeo do canal GMT Menos 3 (20/02/2026, cita Inconfidente e Cafeicultor). A home libertaswatchco.com recusou a leitura (PROVENANCE_REQUIRED). Corrigido J: 'The Conspirator — NH35; cerca de US$ 395' → os 3 modelos da Coleção Minas Gerais (site oficial e loja; nenhum 'Conspirator' achado). Ainda a verificar: F = 2172 não bate com o preço real de R$ 1.990 (não alterado, regra de E/F).",
+ "fontes": [
+  {
+   "url": "https://libertaswatchco.com/colecao-minas-gerais",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://loja.infinitepay.io/libertas-watch-co/rym1875-o-cafeicultor---colecao-minas-gerais-ref-m",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://libertaswatchco.com/sobre-nos",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://libertaswatchco.com/blog",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=ybGE4LusduA",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://open.spotify.com/episode/4eWlJmmiCU7cFyVsOjX2rN",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=ne6FmkFAUd8",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=-oRU_kCSMAI",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loja.infinitepay.io/libertas-watch-co/poe7569-o-inconfidente---colecao-minas-gerais-ref-",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://loja.infinitepay.io/libertas-watch-co/isv4876-o-ouro-pretano---colecao-minas-gerais-ref-",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
