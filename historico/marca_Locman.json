@@ -1,0 +1,392 @@
+{
+ "marca": "Locman",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "fontes": [
+  {
+   "url": "https://www.locman.it/products.json?limit=250",
+   "passada": 1,
+   "novos": 324
+  },
+  {
+   "url": "https://www.locman.it/sitemap_products_1.xml?from=10711139221837&to=11007113724237",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.locman.it/en/products/dt002",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Locman",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://delraywatch.com/locman/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/locman-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/locman-orologi-aviatore/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ferrogioielli.com/en/blogs/le-guide/arriva-in-casa-locman-il-nuovo-stealth",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://locman.it/en/?p=23632",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://asset.everywatch.com/locman/watch-13416663",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.chronomaster.co.uk/watches/locman-stealth-automatic-wristwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.worldofwatches.com/mens-stealth-rubber-blue-dial-watch-locman-loc202blpvblwhbl",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/locman-stealth-automatic-pvd-0205bkbkngr0gok-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/locman-stealth-0201rravf5n0sik-men-s-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europeanwatch.com/10526.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/284088332834",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ebay.com/itm/126324480722",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/284527464280",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/286129134657",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ebay.com/itm/226484343744",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/276719084244",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/286177301351",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/286070203447",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-mare-blueblack-chrono-ref-0555-chronograph-44-mm-wristwatches-24506174",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-mare-blackblue-pvd-chrono-ref-0555-chronograph-44-mm-wristwatches-24506206",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-montecristo-classic-chrono-pvd-blue-ref-051-chronograph-wristwatches-24506154",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/locman-montecristo-carbon-ref-0545-mens-watch-chronograph-wristwatches-36954926",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-sport-anniversary-chrono-orangeblue-ref-0470-chronograph-37-mm-wristwatches-24506219",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-montecristo-diver-chrono-ref-0512-chronograph-44-mm-wristwatches-24506590",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.de/en/s8/product/locman-yachting-mens-watch-chronograph-42-mm-wristwatches-35744233",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/locman-italy-wristwatch-mare-300mt-chrono-ref-0560-chronograph-42-mm-wristwatches-24506634",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/locman-italy-mens-watch-change-automatic-ref-0425-analogue-wristwatch-46-mm-wristwatches-24506140",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://digitec.ch/en/s1/product/locman-italy-mens-watch-change-automatic-blue-ref-0425-analogue-wristwatch-46-mm-wristwatches-24506129",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/locman-italy-mens-watch-change-white-ref-0422-analogue-wristwatch-46-mm-wristwatches-24506146",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-montecristo-automatic-whiterose-gold-pvd-44-mm-ref-051-analogue-wristwatch-4-24506251",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://italist.com/products/locman-watch-black-2679308427",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/locman/050100bk0005lur_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/locman/050100sl0005lur_a.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2013/02/06/locman-change-collection-steel-watch-with-patented-interchangeable-strap-system/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://myluxury.mdssoftware.pl/latin-lover-automatikuhr.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lyst.co.uk/designer/locman/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-tremila-ref-0552a-analogue-wristwatch-50-mm-wristwatches-24506293",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/p/19047676645",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/274830101700",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/284341552439",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://drouot.com/en/l/19785655-locmanmontre-tremila-ref-263-l",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/284310552930",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/locman-watches/locman-tremila",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galaxus.ch/en/s8/product/locman-italy-mens-watch-isola-d-elba-chrono-ref-0460a04-chronograph-43-mm-wristwatches-24506317",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ferrogioielli.com/en-eu/products/orologio-isola-delba-lady-solo-tempo-locman",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/303739578081",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/184982025852",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/276532717509",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.righttime.com/rt/locman/197400cbsyl9g0k.htm",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.in-vendita.it/orologi-locman-vintage",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/?p=166",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/286218395587",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/335965003787",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://watchard.com/locman-watches/locman-aeronautica",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://fr.worldtempus.com/article/locman-folgore-parachutists-brigade-546.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/montecristo-535-oisa",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.atimelyperspective.com/?p=38956",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://longislandwatch.com/products/locman-513bkgrpvbk-automatic-dive-watch-513bkgrpvbk",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/locman-512bkorbk-dive-watch-512bkorbk",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/locman-514bkorbkr-watch-514bkorbkr",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://longislandwatch.com/products/locman-511whblbl-automatic-watch-511whblbl",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.watchpartners.com.au/locman/montecristo",
+   "passada": 3,
+   "novos": 3
+  },
+  {
+   "url": "https://www.ebay.de/itm/284835181981",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/285544463564",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/276532766132",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.baggio1920.com/en/?p=30175",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ferrogioielli.com/en-eu/products/orologio-cronografo-mare-locman",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/256373936696",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ducati.com/ch/it/apparel/APP003138",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.digitec.ch/en/s1/product/locman-italy-mens-watch-1960-ref-0251v02-analogue-wristwatch-41-mm-wristwatches-24506401",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://wristwatchreview.com/locman-brings-a-new-diver-to-the-table",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Relógios (v931): 324 referências tiradas da loja oficial locman.it (37 modelos atuais, cada cor/caixa com seu código e foto, inclusive a linha Ducati Corse DT/Explorer/Nitro/Stelvio/Leggenda/Cardio) e 52 modelos antigos achados em lojas, leilões e imprensa (Stealth clássico, Change, Tremila, Mare antigo, Latin Lover, Tuttotondo, 1970, Isola d'Elba, Aviatore, Fiat 500 de 2007, Folgore, Montecristo antigos). Marca pintada de vermelho: desde 1986 a Locman teve centenas de referências (Stealth, Mare, Tremila, Change, Sport, 1970…) que não estão todas na internet com código e foto. A Wikipedia dá fundação em 1986 em Marina di Campo (Ilha de Elba), por Marco Mantovani e Fulvio Locci (o corpo do artigo também cita 1996)."
+}
