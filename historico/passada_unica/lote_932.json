@@ -1,0 +1,15 @@
+{
+ "data": "2026-11-28",
+ "prefixo": "Passada única",
+ "celulas": {
+  "Logan Kuan Rao": {
+   "E": 8,
+   "F": 104777,
+   "H": "@logan_kuan_rao",
+   "M": "H: @logan_kuan_rao (link no East Watch Review 2016 e no Teddy Baldassarre 2025). F: único preço publicado é o do Orca, cerca de US$ 19.000 (SJX 2017, preço previsto; Time+Tide 2025, 'vendido por cerca de') = 19.000 × 5,5146 = R$ 104.777 → E = 8; Wuwei e detente duplo sem preço. G a confirmar: lkrwatches.com aparece só na Monochrome (05/2025) e não abriu. K não preenchido: site oficial não alcançado."
+  },
+  "Loiseau": {
+   "M": "Esta linha parece ser a mesma marca da Atelier Loiseau (linha 222, Dominique Loiseau, Loiseau 1f4), que já tem 5 relógios na aba Relógios: as buscas de 28/11/2026 ('Loiseau montres', 'Loiseau watch brand' sem 'Atelier') só trouxeram a Atelier Loiseau (WorldTempus, MasterHorologer, WatchTime, Watchonista, Wikiwand). Por isso não se gravaram relógios aqui (apelido Loiseau → Atelier Loiseau no proxima_marca.py). B 'França', D, E/F e I genéricos não batem com a Atelier Loiseau (Suíça, La Chaux-de-Fonds): a decidir pelo usuário se esta linha deve ser apagada. C, G, H e K ficaram vazios."
+  }
+ }
+}
