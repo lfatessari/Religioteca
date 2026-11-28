@@ -17129,7 +17129,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-28T18:43:35Z",
-  "ultimo_sinal": "2026-11-28T18:51:54Z",
+  "ultimo_sinal": "2026-11-28T19:02:21Z",
   "em_andamento": {
     "marcas": [
       "Loresum"
@@ -17143,7 +17143,16 @@
       "1",
       "2",
       "2c",
-      "3"
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b",
+      "gravando"
     ],
     "passada": 1,
     "obs": "Lorier é grande: fica sozinha na próxima; depois Lorige."

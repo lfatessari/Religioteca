@@ -1,0 +1,263 @@
+{
+ "marca": "Loresum",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – loresum.watch não abriu (PROVENANCE_REQUIRED em 28/11/2026; Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 28/11/2026 (38) pela loja da Crown Hour (Hong Kong, revendedor oficial e parceira das edições LS06 Adventures in Wonderland e LS07 Moonlight Lion Rock), Serious Watches, Masterhorologer, WatchTime, Kicktraq/Backerkit e anúncios de usados; o site oficial loresum.watch não abriu. Coleções: LS01 (2021, discos no lugar dos ponteiros), LS02 (esqueletizado regulador), LS03 (disco de lua, 2023), LS04/LS04B (fase da lua de 29,5 dias; LS04B = V2 de 36,5 mm, Kickstarter 2026), LS05 (fase da lua dupla), LS06 (elíptico com pedras, micro-rotor), LS07 e J1 (hora saltante). Corrigido: B Hong Kong → Reino Unido (Crown Hour chama de 'British brand'; Oracle of Time: 'British-based'; Kicktraq: projeto em Southampton, UK; Trustpilot: contato no Reino Unido). A fabricação e a revenda principal são em Hong Kong. Ainda a verificar: C 'Hong Kong' — o Kicktraq dá Southampton (1 fonte só); designer/fundador Jason Chan (Masterhorologer, Acciyo, WatchCrunch). Fora da lista: LS04 de madrepérola branca citada só nas novidades da campanha, sem código. Lorier ficou para a próxima execução (marca grande, sozinha).",
+ "correcoes": {
+  "B": "Reino Unido"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://crownhour.com/products/loresum-x-crown-hour-ls06-adventures-in-wonderland-limited-edition-ls06-aw-yg",
+   "https://oracleoftime.com/?p=226892",
+   "https://www.kicktraq.com/projects/loresum/loresum-ls04-295-day-true-moon-phase-watch/",
+   "https://au.trustpilot.com/review/loresum.watch"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.crownhour.com",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/pages/about-us",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://crownhour.com/collections/ls02-regulator/products/ls02-silver-ls02-ss",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04-lunar-veil-ls04-lv",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04b-the-moonphase-36-5mm-ls04b-br-rg.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/loresum-x-crown-hour-ls06-adventures-in-wonderland-limited-edition-ls06-aw-yg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04-the-moonphase-aventurine-ls04-bk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04b-the-moonphase-36-5mm-ls04b-av-ss.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04b-the-moonphase-36-5mm-ls04b-rd-ss.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls05-double-moonphase-limtied-editon-ls05-grle",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04-moon-landing-55th-anniversary-limited-edition-ls04-ml",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls02-black-ls02-bk",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls02-rose-gold-ls02-rg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04-moon-phase-limited-edition-ls04-rgbam",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.co.uk/loresum-ls01-review",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2021/04/25/loresum-ls01/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/loresum-ls03-rose-gold-aventurine-lume-sector-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/pre-owned-archive/products/loresum-ls03-aventurine-lume-sector-pre-owned",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/collections/categories/products/loresum-ls05-galactic-blue-pre-owned-pre1914",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/loresum-ls04-rose-gold-pre-owned-pre2245",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/micro-monday-loresum-ls04-moon-landing-55th-limited-edition",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.acciyo.com/loresum-watch-review/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/mesteme/posts/loresum-microbrand-kickstarter-crowdfunding-last-days-192738",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://au.trustpilot.com/review/loresum.watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1746315",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://crownhour.com/collections/ls06-royal-ellipse",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://crownhour.com/products/j1-sunset-gold-j1-rg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/j1-silver-j1-ss",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.kicktraq.com/projects/loresum/loresum-ls04-295-day-true-moon-phase-watch/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.backerkit.com/projects/loresum/loresum-ls04-v2-295-day-true-moonphase-stone-dial-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1643953",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls06-tigers-eye-stainless-steel-ls06-br-ss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://crownhour.com/products/ls06-charoite-rose-gold-plated-ls06-pu-rg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://crownhour.com/products/ls06-charoite-stainless-steel-ls06-pu-ss",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://crownhour.com/products/ls06-the-great-wave-off-kanagawa-limited-edition-ls06-gw-yg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://crownhour.com/products/ls04-the-moonphase-ls04-mop-ss",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04-the-moonphase-aventurine-ls04-ss",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls04-the-moonphase-aventurine-ls04-rg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://crownhour.com/products/ls05-double-moonphase-galactic-blue-ls05-bl",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.crownhour.com/collections/loresum",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://crownhour.com/products/ls01-rose-gold-ls01-rg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1770195",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1744000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://static.watchpatrol.net/listing/1878452",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.seriouswatches.com/products/loresum-ls03-aventurine-lume-sector-pre-owned-1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oracleoftime.com/?p=226892",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=103377",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/?p=109345",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
