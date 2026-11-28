@@ -16753,7 +16753,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-28T04:43:09Z",
-  "ultimo_sinal": "2026-11-28T05:00:02Z",
+  "ultimo_sinal": "2026-11-28T05:10:21Z",
   "em_andamento": {
     "marcas": [
       "Limes"
@@ -16773,6 +16773,6 @@
       "9"
     ],
     "passada": 1,
-    "obs": "1ª passada ~49 fontes; Firecrawl sem créditos desde ~05h UTC; 2ª passada (vermelha) começando"
+    "obs": "Pesquisa encerrada (61 fontes, 95 relógios); gravando v922. Dados em historico/dados_Limes.txt e marca_Limes.json"
   }
 }

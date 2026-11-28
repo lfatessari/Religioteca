@@ -1,0 +1,317 @@
+{
+ "marca": "Limes",
+ "usa_codigos": true,
+ "logo": "https://www.limes-watches.com/media/image/be/5b/17/logoEn.png",
+ "site_bloqueado": "Parcial – limes-watches.com: leitura automática comum pediu permissão (PROVENANCE_REQUIRED); aberto em 28/11/2026 só pelo Firecrawl; revisitar com navegador",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 28/11/2026 (v922): 24 do site oficial atual (Shopware, refs U…), 64 do WatchBase (Endurance, Pharo, Chyros) e linhas antigas vistas na imprensa e em lojas (Principio, Integral, World Heritage, 2hundert, GMT, Titan). Vermelha: há linhas antigas (Principio, Integral, Titan, GMT, Endurance PD, anos 2000) com várias referências sem lista pública; EveryWatch exige login e as fichas do WatchPatrol pediram permissão. K: logo do og:image do site oficial (logoEn.png). Fundação da Limes: 1999 segundo Europa Star e WatchPatrol; Thomas Ickler (3ª geração) lançou a marca (watchpaper, timetransformed) — I já diz 'nos anos 1990', sem mudança. Site antigo: limes-uhren.de.",
+ "fontes": [
+  {
+   "url": "https://www.limes-watches.com/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.limes-watches.com/diver/",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.limes-watches.com/collection/",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://watchbase.com/limes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/limes/endurance",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://watchbase.com/limes/pharo",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://watchbase.com/limes/chyros",
+   "passada": 1,
+   "novos": 15
+  },
+  {
+   "url": "https://www.limes-watches.com/collection/292/aviator-lb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/diver/endurance-gmt/341/endurance-gmt.sw.r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/diver/endurance-gmt/340/endurance-gmt.-bl.r",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/collection/349/nightflight-chronograph-s",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/collection/275/chyros-i.-ls",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/full-calendar-chronograph/6/pharo-chronograph.-si.lb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/full-calendar-chronograph/5/pharo-chronograph.-si.ls",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/finesse/327/pharo-finesse-h.-s.-ls",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/finesse/326/pharo-finesse-h.-s.-lb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/finesse/333/pharo-balvis-ii.-s.-ls",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/finesse/332/pharo-balvis-ii.-s.-lb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/bigdate-power-reserve/324/pharo-bigdate-ii.-ls",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/bigdate-power-reserve/325/pharo-bigdate-ii.-lb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/daydate/322/pharo-daydate-s.-ls",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.limes-watches.com/klassik/daydate/323/pharo-daydate-s.-lb",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.europastar.com/news/2037847-the-new-limes-principio-gangreserve.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/1000847402-principio-polis-by-limes.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/news/1001699211-limes-world-heritage.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/features/1000471692-limes-latest-launch.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/limes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/limes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/review-limes-endurance-1000-gmt3/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/introducing-nightflight-neptun-diver-two-new-affordable-german-made-watches-limes",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/sporty-german-diver-limes-1-tausend-gmt-diving-watch-available-right-now/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/magazine/watch-galleries/1000602544-new-principio-flieger-by-limes.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://divernet.com/scuba-diving/limes-endurance-pd-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://righttime.com/rt/pre-owned/2hundert.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://majestixcollection.com/brands/limes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/entdecken/marken/limes/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://timetransformed.com/2017/09/18/limes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://twobrokewatchsnobs.com/german-made-limes-endurance-gmt-gets-a-new-design/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/limes/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2009/11/05/limes-pharo-full-calendar-chronograph-watch-with-moon-phase/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.righttime.com/rt/pre-owned/limes_gmt.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/203741288285",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/185623974293",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/limes-integral-gives-franck-muller-like-tonneau-style-for-sale-on-ebay",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/178355686267",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2016/08/limes-endurance-1tausend-chrono.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/2008/04/02/limes-endurance-1tausend-diver-watch-spirit-of-german-submersion/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/de/eintrag/2146262/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/limes-chyros-watch",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/limes-endurance-ii-watch-review",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/the-limes-endurance-leviathan-dive-watch",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/wristwatch-industry-news/industry/limes-launches-new-website/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/?p=1289",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpaper.com/?p=3710",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1640290",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/endurance-1000-gmt3/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/ickler/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2016/01/limes-endurance-ii-new.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://oceanictime.blogspot.com/2009/02/limes-endurance-neptun.html?m=1",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchpatrol.net/it/scopri/marche/limes/",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}
