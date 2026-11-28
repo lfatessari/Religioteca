@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1221,
-  "ultima_versao": 935,
+  "proxima_linha_marcas": 1222,
+  "ultima_versao": 936,
   "historico": [
     {
       "data": "2026-10-16",
@@ -17020,6 +17020,31 @@
       "correcoes": [],
       "site_bloqueado": "parcial (L: lorenz.it home/coleções PROVENANCE_REQUIRED)",
       "obs": "Catálogo oficial pelas fichas .oembed achadas na busca; inclui 6 relógios de mesa Static e 20 de bolso; ~60 referências só com link do in-vendita.it. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 42–46 dos posts já aplicadas (v913). Próximas: Loresum (K vazio) e Lorier."
+    },
+    {
+      "versao": 936,
+      "data": "2026-11-28",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Loresum"
+      ],
+      "linha_marcas": 1222,
+      "relogios": 38,
+      "linhas_relogios": "137754-137791",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 48,
+      "passadas": {
+        "1": 48
+      },
+      "dados_marcas": [
+        "Loresum: K"
+      ],
+      "correcoes": [
+        "Loresum B: Hong Kong → Reino Unido"
+      ],
+      "site_bloqueado": "sim (L: loresum.watch)",
+      "obs": "Lorier (linha 1223) é grande (muitas linhas descontinuadas) e fica sozinha na próxima; depois Lorige. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -17127,34 +17152,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-28T18:43:35Z",
-  "ultimo_sinal": "2026-11-28T19:02:21Z",
-  "em_andamento": {
-    "marcas": [
-      "Loresum"
-    ],
-    "linha_marcas": 1222,
-    "grande": false,
-    "relogios": "historico/parcial_Loresum_relogios.txt",
-    "fontes": "historico/parcial_Loresum_fontes.txt",
-    "notas": "historico/notas_Loresum.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "gravando"
-    ],
-    "passada": 1,
-    "obs": "Lorier é grande: fica sozinha na próxima; depois Lorige."
-  }
+  "adiadas_obs": {}
 }
