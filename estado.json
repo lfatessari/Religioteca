@@ -16842,7 +16842,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-28T07:43:25Z",
-  "ultimo_sinal": "2026-11-28T07:44:09Z",
+  "ultimo_sinal": "2026-11-28T07:54:06Z",
   "em_andamento": {
     "marcas": [
       "Lineage Watch Co"
@@ -16852,7 +16852,18 @@
     "relogios": "historico/parcial_Lineage_relogios.txt",
     "fontes": "historico/parcial_Lineage_fontes.txt",
     "notas": "historico/notas_Lineage.md",
-    "secoes_feitas": [],
+    "secoes_feitas": [
+      "1",
+      "2",
+      "2c",
+      "3",
+      "5",
+      "6",
+      "7",
+      "9",
+      "10",
+      "10b"
+    ],
     "passada": 1,
     "obs": "Lip (1208) é grande: fica sozinha na próxima execução."
   }
