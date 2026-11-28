@@ -23,5 +23,11 @@ for sku,v in sorted(P.items(), key=lambda kv:(kv[1]['model'],kv[0])):
     lines.append(f"{tc(v['model'])}|{sku}|{v['image']}|{' '.join(e)}")
 for sku,v in X.items():
     lines.append(f"{v['nome']}|{sku}|{v['img']}|{v['e']}")
+import os
+if os.path.exists('/home/claude/trabalho/lg/vintage.json'):
+    for sku,v in json.load(open('/home/claude/trabalho/lg/vintage.json')).items():
+        lines.append(f"{v['nome']}|{v['code']}|{v['img']}|{v['e']}")
+if os.path.exists('/home/claude/trabalho/lg/outros.txt'):
+    lines+= [l for l in open('/home/claude/trabalho/lg/outros.txt').read().split('\n') if l.strip()]
 open('/home/claude/trabalho/dados_Longines.txt','w').write('\n'.join(lines)+'\n')
 print(len(lines)); print('\n'.join(lines[:3])); print(lines[-1])

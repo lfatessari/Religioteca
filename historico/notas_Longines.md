@@ -6,3 +6,4 @@
 - WatchBase (Firecrawl): página da marca + 28 famílias = 4048 refs (3416 fora do catálogo oficial atual). Famílias pequenas (1832, mini, avigation, francillon) transcritas à mão em wb_manual.txt (a resposta veio inline).
 - Total parcial: 4226 relógios, 68 fontes. Próximo: vintage (13ZN, Conquest 1954, Flagship, Comet, Ultra-Chron, Lindbergh, Weems), Chrono24/EveryWatch, imprensa (edições limitadas), logo.
 - Seções feitas: 1, 2, 5 (WatchBase).
+- Collector's Corner oficial (48 relógios antigos com ref-série). 1ª passada encerrada (3 últimas fontes sem novos). Vermelha: milhares de refs vintage. Firecrawl sem créditos a partir daqui; 2ª passada pelo ajudante web-fetch.
