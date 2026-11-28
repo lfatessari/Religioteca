@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1212,
-  "ultima_versao": 929,
+  "proxima_linha_marcas": 1214,
+  "ultima_versao": 930,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16870,6 +16870,29 @@
       "correcoes": [],
       "site_bloqueado": "não",
       "obs": "Retomada do em_andamento da v928. Pendências dos posts (itens 42–46) já estavam aplicadas. Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch. Vermelha pela linha antiga 'Lobor Collection'."
+    },
+    {
+      "versao": 930,
+      "data": "2026-11-28",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Locke & King"
+      ],
+      "linha_marcas": 1214,
+      "relogios": 7,
+      "linhas_relogios": "132710-132716",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 16,
+      "dados_marcas": [],
+      "correcoes": [
+        "C",
+        "D",
+        "I",
+        "J"
+      ],
+      "site_bloqueado": "sim (L)",
+      "obs": "Loci (1213) adiada: só 7 fontes de fora, site oficial com PROVENANCE_REQUIRED. Locman (1215) grande: fica para a próxima. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16977,21 +17000,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-28T12:43:39Z",
-  "ultimo_sinal": "2026-11-28T12:44:13Z",
-  "em_andamento": {
-    "marcas": [
-      "Loci",
-      "Locke & King"
-    ],
-    "linha_marcas": 1213,
-    "grande": false,
-    "relogios": "historico/parcial_Loci_relogios.txt",
-    "fontes": "historico/parcial_Loci_fontes.txt",
-    "notas": "historico/notas_Loci.md",
-    "secoes_feitas": [],
-    "passada": 1,
-    "obs": "Locman (1215) grande: fica para a próxima."
-  }
+  "adiadas_obs": {}
 }

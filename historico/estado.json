@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1212,
-  "ultima_versao": 929,
+  "proxima_linha_marcas": 1214,
+  "ultima_versao": 930,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16870,6 +16870,29 @@
       "correcoes": [],
       "site_bloqueado": "não",
       "obs": "Retomada do em_andamento da v928. Pendências dos posts (itens 42–46) já estavam aplicadas. Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch. Vermelha pela linha antiga 'Lobor Collection'."
+    },
+    {
+      "versao": 930,
+      "data": "2026-11-28",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Locke & King"
+      ],
+      "linha_marcas": 1214,
+      "relogios": 7,
+      "linhas_relogios": "132710-132716",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 16,
+      "dados_marcas": [],
+      "correcoes": [
+        "C",
+        "D",
+        "I",
+        "J"
+      ],
+      "site_bloqueado": "sim (L)",
+      "obs": "Loci (1213) adiada: só 7 fontes de fora, site oficial com PROVENANCE_REQUIRED. Locman (1215) grande: fica para a próxima. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
