@@ -1,0 +1,612 @@
+{
+ "marca": "Lorenz",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Parcial – lorenz.it: a home e as páginas de coleção não abrem para leitura automática (PROVENANCE_REQUIRED); lidas só as fichas .oembed e páginas antigas que aparecem na busca; revisitar com navegador as coleções Connery, California, Bel Ami, Sporting Club, Patron, Mission: Impossible e Swiss Made",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios: catálogo atual do site oficial lido pelas fichas oembed das coleções que apareceram na busca (Acapulco, Hydro-Sub, Olivier, Diva, Ginevra, Granpremio, DI300, Tako, Shark 5, GMT, Full Titanium, Ocean Club, Easy Time, Charleston, Star Trek, Static e relógios de bolso), mais páginas antigas do site (/en/<ref>-Lorenz-....html), o catálogo geral de fev/2024 (90esimo), lojas (Gioia Pura, La Casa dell'Orologio), eBay, Catawiki, Drouot, in-vendita.it e imprensa (Europa Star, Orologioblog). Incluídos os 6 relógios de mesa Static (desenho de Richard Sapper, Compasso d'Oro 1960) e 20 relógios de bolso da coleção Tasca, por serem parte relevante da marca (E começa com 'Relógio de mesa.'/'Relógio de bolso.'). Marca pintada de vermelho: há centenas de referências antigas (séries 21xxx, 25xxx, 26xxx, 28xxx e vintage dos anos 1950–1990) vistas só em títulos de anúncios sem foto; cerca de 60 linhas entraram só com o link da página de busca do in-vendita.it. Não abertos: home e páginas de coleção do lorenz.it direto (PROVENANCE_REQUIRED), coleções Connery, California, Bel Ami, Sporting Club, Patron, Mission: Impossible, Swiss Made e a 1ª página de Automatico (não apareceram em busca); Firecrawl sem créditos. Dados conferidos de passagem (sem mudar nada): fundada em 1934 em Milão (Via Montenapoleone) por Tullio Bolletta; desde 2016 da Leader Watch Company (Milão). Ainda a verificar: Instagram @lorenzwatches (não aparece nas páginas abertas).",
+ "fontes": [
+  {
+   "url": "https://lorenz.it/en/collections/automatico.oembed?page=2",
+   "passada": 1,
+   "novos": 50
+  },
+  {
+   "url": "https://lorenz.it/en/collections/easy-time-retro.oembed",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://lorenz.it/en/products/easy-time-sport.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/products/easy-time-retro-030271ff.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/pages/the-lorenz-brand",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://pisa1940.com/en/collections/lorenz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/lorenz-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.orologioblog.net/en/anteprime-da-lorenz/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://lorenz.it/en/090005EE-Lorenz-MONTENAPOLEONE.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/090008CC-Lorenz-MONTENAPOLEONE-AUTOMATIC.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/030044AA-Lorenz-EASY-TIME-38-mm.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/lorenz-cronografo-automatico-100m-330-ft-referenza-17643-rimanenza-di-magazzino-anni-2000-con-scatola-e-garanzia",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/lorenz-ouragan-cronografo-automatico-200m-660ft-referenza-16555-quadrante-speciale-rimanenza-di-magazzino-anni-2000-con-scatola",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/lorenz-automatic-chronograph-diver-tested-to-200m-660ft-reference-112042-with-steel-bracelet-box-and-warranty",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/it/buy/orologio-lorenz-neos-du-pasquier",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.in-vendita.it/orologio-lorenz-uomo",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/granpremio-030249bb.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-chronograph-man-lorenz-granpremio-030225aa-P305025.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-chronograph-lorenz-granpremio-030249cc-P395224.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-chronograph-man-lorenz-granpremio-030226cc-P305031.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-chronograph-lorenz-granpremio-030233aa-P395231.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-chronograph-lorenz-granpremio-030233bb-P395232.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-chronograph-man-lorenz-090003gr-P416218.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-only-time-man-lorenz-090016dd-P416211.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/334423650147",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/116993677302",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/116993663862",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/326255527875",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/133767204482",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/157310308009",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/374199857881",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/326197991885",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/363938762832",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/135520823076",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/326860672834",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/167045307931",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/167783673491",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/134453419202",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.ca/itm/144047054947",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/134939545492",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/collections/star-trek.oembed",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://lorenz.it/en/products/star-trek-automatic-030287le",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/california-090003gg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.quotidianomotori.com/lifestyle/lorenz-star-trek-orologi-60-anniversario/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-only-time-man-lorenz-swiss-made-090002ee-P277151.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gioiapura.com/watch-only-time-man-lorenz-anniversary-030161ee-P274478.htm",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catawiki.com/en/l/90459045-lorenz-auto-chrono-16438-men-1990-1999",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://catawiki.com/de/l/85633347-lorenz-anniversary-090014bb-ferfi-2020",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/103262437-lorenz-no-reserve-price-026117vb-men-2020",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/104044215-lorenz-no-reserve-price-26175ll-men-2020",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/103274353-lorenz-1970-1979",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/lorenz-edox-hydrostar-skin-diver-automatic-subacqueo-da-uomo-in-acciaio-con-bracciale-elastico-zrc-rimaneza-di-magazzino-anni-70",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lacasadellorologio.it/en/prod/lorenz-antimagnetic-oversized-watch-from-the-50s-with-complete-calendar-and-moon-phases",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/lorenz-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/161621159637",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/397331574403",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/157424609670",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/326094198009",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/collections/granpremio.oembed",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://lorenz.it/en/collections/granpremio-carbon.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/granpremio-030267bb.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/grenpremio-wheel",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/di300-chronograph-030274ee.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/di300-chronograph-030274cc.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/hydro-sub-tre-sfere-090011dd.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/030233EE-Lorenz-GRANPREMIO.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/collections/solo-tempo.oembed",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://lorenz.it/en/collections/lorenz-diver.oembed",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://lorenz.it/en/collections/di300.oembed",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://lorenz.it/en/collections/tako.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/collections/lorenz-diva.oembed",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://lorenz.it/en/collections/olivier.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/collections/ocan-club.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/collections/lorenz-ginevra.oembed",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://lorenz.it/en/products/diva-round-030240cc.oembed",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lorenz.it/en/products/charleston-automatic-030275cc.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/collections/acapulco.oembed",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://lorenz.it/en/collections/static.oembed",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://lorenz.it/en/collections/lorenz-tasca.oembed",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://lorenz.it/en/products/charleston-cronografo-030273aa.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/products/charleston-cronografo-030273cc.oembed",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/friendly-url-autogeneration-failed.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/156514217065",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/334423544099",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/334481894071",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/177633014358",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lorenz.it/CATALOGHI/lorenz-90esimo.pdf",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://europastar.com/magazine/watch-galleries/1003535567-neos-by-lorenz.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/251188889786",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/133687659316",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/389452891997",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://antiques-atlas.com/antique/gents_large_1950s_lorenz_wrist_watch_a7973/as170a7973",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lorenz.it/en/030232EE-Lorenz-GRANPREMIO.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/the-vintage-corner-aquastar-deepstar-dive-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://rdavidoff.photobiz.com/our-archive/aquastar-lorenz-deepstar-1960s?imageID=0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.in-vendita.it/orologi-lorenz",
+   "passada": 1,
+   "novos": 22
+  },
+  {
+   "url": "https://www.in-vendita.it/lorenz-cronografo",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.in-vendita.it/orologi-uomo-lorenz",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/news/2037662-theatro-watches-by-lorenz.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://drouot.com/en/l/25787567-",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/99919788-lorenz-1980-1989",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/101153204-lorenz-1970-1979",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.in-vendita.it/lorenz-orologi-oro-anni-80",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.ebay.com/itm/381973733366",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/205628439868",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/166618754319",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/156129650129",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/156719635083",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.com/itm/157447092486",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.catawiki.com/it/l/99704576-lorenz-chronograph-senza-prezzo-di-riserva-uomo-1950-1959",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.subito.it/abbigliamento-accessori/orologio-lorenz-roma-656245258.htm",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/144051724059",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/144052883356",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/126900417022",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/116702867396",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.it/itm/158160092011",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/166969922006",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.de/itm/166969916694",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.ebay.ca/itm/257628048827",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ebay.de/itm/266881823868",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
