@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1201,
-  "ultima_versao": 919,
+  "proxima_linha_marcas": 1204,
+  "ultima_versao": 922,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16597,6 +16597,82 @@
         "K (logo)"
       ],
       "obs": "Lilienthal Berlin (1202) é grande: fica sozinha na próxima execução. Firecrawl sem créditos; ligurewatches.com e a loja myshopify recusaram a leitura (PROVENANCE_REQUIRED); espelho oficial ligurewatch.pages.dev abriu."
+    },
+    {
+      "versao": 920,
+      "data": "2026-11-27",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lilienthal Berlin"
+      ],
+      "linha_marcas": 1202,
+      "relogios": 320,
+      "linhas_relogios": "131511-131830",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 60,
+      "passadas": {
+        "1": [
+          32,
+          234
+        ],
+        "2": [
+          15,
+          11
+        ],
+        "3": [
+          13,
+          59
+        ]
+      },
+      "dados_marcas": [
+        "K (logo)"
+      ],
+      "obs": "Grande e vermelha, sozinha. Quase tudo pelas listas oEmbed das lojas oficiais por país; lilienthal-berlin.com direto deu PROVENANCE_REQUIRED. Firecrawl sem créditos. Gerações 2015-2020 incompletas. Próximas: Lima Watches (1203), Limes (1204)."
+    },
+    {
+      "data": "2026-11-27",
+      "versao": 921,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lima Watches"
+      ],
+      "linha_marcas": 1203,
+      "relogios": 27,
+      "fontes": 38,
+      "vermelho": false,
+      "site_bloqueado": true,
+      "lacunas": "K não achado",
+      "obs": "Limes (1204) tratada como grande, fica sozinha na próxima execução"
+    },
+    {
+      "data": "2026-11-28",
+      "versao": 922,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Limes"
+      ],
+      "linha_marcas": 1204,
+      "relogios": 95,
+      "linhas_relogios": "131858-131952",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 61,
+      "passadas": {
+        "1": [
+          49,
+          96
+        ],
+        "2": [
+          12,
+          1
+        ]
+      },
+      "dados_marcas": [
+        "K (logo)"
+      ],
+      "site_bloqueado": "parcial (L)",
+      "obs": "Retomada da v921 (execução anterior morreu sem parciais). Site oficial e WatchBase pelo Firecrawl até acabar o crédito; resto pelo ajudante web-fetch. Pendências dos posts 42–46 já estavam aplicadas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

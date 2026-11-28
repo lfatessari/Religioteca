@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1203,
-  "ultima_versao": 921,
+  "proxima_linha_marcas": 1204,
+  "ultima_versao": 922,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16644,6 +16644,35 @@
       "site_bloqueado": true,
       "lacunas": "K não achado",
       "obs": "Limes (1204) tratada como grande, fica sozinha na próxima execução"
+    },
+    {
+      "data": "2026-11-28",
+      "versao": 922,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Limes"
+      ],
+      "linha_marcas": 1204,
+      "relogios": 95,
+      "linhas_relogios": "131858-131952",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 61,
+      "passadas": {
+        "1": [
+          49,
+          96
+        ],
+        "2": [
+          12,
+          1
+        ]
+      },
+      "dados_marcas": [
+        "K (logo)"
+      ],
+      "site_bloqueado": "parcial (L)",
+      "obs": "Retomada da v921 (execução anterior morreu sem parciais). Site oficial e WatchBase pelo Firecrawl até acabar o crédito; resto pelo ajudante web-fetch. Pendências dos posts 42–46 já estavam aplicadas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16751,28 +16780,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-28T04:43:09Z",
-  "ultimo_sinal": "2026-11-28T05:10:21Z",
-  "em_andamento": {
-    "marcas": [
-      "Limes"
-    ],
-    "linha_marcas": 1204,
-    "grande": true,
-    "relogios": "historico/parcial_Limes_oficial.txt + historico/parcial_Limes_watchbase.txt",
-    "fontes": "historico/parcial_Limes_fontes.txt",
-    "notas": "historico/notas_Limes.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9"
-    ],
-    "passada": 1,
-    "obs": "Pesquisa encerrada (61 fontes, 95 relógios); gravando v922. Dados em historico/dados_Limes.txt e marca_Limes.json"
-  }
+  "adiadas_obs": {}
 }
