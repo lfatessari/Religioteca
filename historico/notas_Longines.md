@@ -3,3 +3,6 @@
 - WebFetch direta indisponível; Firecrawl com créditos. Tentativa à API GraphQL recusada (não repetir).
 - A fazer: outros mercados (refs regionais), Heritage/descontinuados via WatchBase/EveryWatch/Chrono24, imprensa (edições limitadas), logo (K).
 - Seções feitas: 1, 2 (catálogo atual EUA).
+- WatchBase (Firecrawl): página da marca + 28 famílias = 4048 refs (3416 fora do catálogo oficial atual). Famílias pequenas (1832, mini, avigation, francillon) transcritas à mão em wb_manual.txt (a resposta veio inline).
+- Total parcial: 4226 relógios, 68 fontes. Próximo: vintage (13ZN, Conquest 1954, Flagship, Comet, Ultra-Chron, Lindbergh, Weems), Chrono24/EveryWatch, imprensa (edições limitadas), logo.
+- Seções feitas: 1, 2, 5 (WatchBase).

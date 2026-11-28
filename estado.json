@@ -17043,7 +17043,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-28T15:43:02Z",
-  "ultimo_sinal": "2026-11-28T15:46:35Z",
+  "ultimo_sinal": "2026-11-28T15:49:28Z",
   "em_andamento": {
     "marcas": [
       "Longines"
@@ -17055,7 +17055,8 @@
     "notas": "historico/notas_Longines.md",
     "secoes_feitas": [
       "1",
-      "2"
+      "2",
+      "5"
     ],
     "passada": 1
   }
