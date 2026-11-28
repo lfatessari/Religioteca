@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1217,
-  "ultima_versao": 932,
+  "proxima_linha_marcas": 1218,
+  "ultima_versao": 933,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16934,6 +16934,31 @@
       "correcoes": [],
       "site_bloqueado": "sim (L, lkrwatches.com)",
       "obs": "Loiseau tratada como duplicata da Atelier Loiseau (apelido no proxima_marca.py; só M). Longines (grande) fica para a próxima. Firecrawl com créditos (2 usados); páginas pelo ajudante web-fetch. Pendências 42–46 dos posts já aplicadas (v913)."
+    },
+    {
+      "versao": 933,
+      "data": "2026-11-28",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Longines"
+      ],
+      "linha_marcas": 1218,
+      "relogios": 4308,
+      "linhas_relogios": "133097-137404",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 109,
+      "passadas": {
+        "1": 74,
+        "2": 25,
+        "3": 10
+      },
+      "dados_marcas": [
+        "Longines: K"
+      ],
+      "correcoes": [],
+      "site_bloqueado": "não",
+      "obs": "806 do catálogo oficial (Firecrawl) + 48 Collector's Corner + 3416 WatchBase + 38 vintage; Firecrawl ficou sem créditos diários; páginas da 2ª/3ª passada pelo ajudante web-fetch. Longio e Lorca ficam para a próxima (marca grande sozinha). Pendências 42–46 dos posts já aplicadas (v913)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {

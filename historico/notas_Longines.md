@@ -7,3 +7,11 @@
 - Total parcial: 4226 relógios, 68 fontes. Próximo: vintage (13ZN, Conquest 1954, Flagship, Comet, Ultra-Chron, Lindbergh, Weems), Chrono24/EveryWatch, imprensa (edições limitadas), logo.
 - Seções feitas: 1, 2, 5 (WatchBase).
 - Collector's Corner oficial (48 relógios antigos com ref-série). 1ª passada encerrada (3 últimas fontes sem novos). Vermelha: milhares de refs vintage. Firecrawl sem créditos a partir daqui; 2ª passada pelo ajudante web-fetch.
+## 10b auto-auditoria
+1. Blog/imprensa oficial: não lido artigo por artigo (marca enorme; lançamentos recentes conferidos por Time+Tide/WatchBase: Commonwealth Games, Ano do Cavalo, Ano da Serpente — todos presentes).
+2. Produtos escondidos: catálogo oficial completo (total_count 806 = 806 lidos); Collector's Corner 48 = 48.
+3. Lojas: Analog Shift (vintage) e várias lojas/leilões de vintage; lojas de modernos não abertas (refs modernas cobertas pelo WatchBase).
+4. Primeiros modelos: 13ZN (1936), cronógrafo monopulsante 1916 (Collector's Corner), Lindbergh (atual), Weems (atual).
+5. Nomes de J: Master Collection, Spirit, Heritage, Conquest, HydroConquest, Legend Diver — todos presentes.
+6. Edições limitadas marcadas (Commonwealth 2.026 peças; edições especiais do WatchBase com o nome completo).
+7. Fontes: 109 (74 + 25 + 10). Firecrawl esgotou os créditos diários no meio; o resto foi pelo ajudante web-fetch.

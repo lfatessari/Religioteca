@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1217,
-  "ultima_versao": 932,
+  "proxima_linha_marcas": 1218,
+  "ultima_versao": 933,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16934,6 +16934,31 @@
       "correcoes": [],
       "site_bloqueado": "sim (L, lkrwatches.com)",
       "obs": "Loiseau tratada como duplicata da Atelier Loiseau (apelido no proxima_marca.py; só M). Longines (grande) fica para a próxima. Firecrawl com créditos (2 usados); páginas pelo ajudante web-fetch. Pendências 42–46 dos posts já aplicadas (v913)."
+    },
+    {
+      "versao": 933,
+      "data": "2026-11-28",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Longines"
+      ],
+      "linha_marcas": 1218,
+      "relogios": 4308,
+      "linhas_relogios": "133097-137404",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 109,
+      "passadas": {
+        "1": 74,
+        "2": 25,
+        "3": 10
+      },
+      "dados_marcas": [
+        "Longines: K"
+      ],
+      "correcoes": [],
+      "site_bloqueado": "não",
+      "obs": "806 do catálogo oficial (Firecrawl) + 48 Collector's Corner + 3416 WatchBase + 38 vintage; Firecrawl ficou sem créditos diários; páginas da 2ª/3ª passada pelo ajudante web-fetch. Longio e Lorca ficam para a próxima (marca grande sozinha). Pendências 42–46 dos posts já aplicadas (v913)."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -17041,35 +17066,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-28T15:43:02Z",
-  "ultimo_sinal": "2026-11-28T16:01:26Z",
-  "em_andamento": {
-    "marcas": [
-      "Longines"
-    ],
-    "linha_marcas": 1218,
-    "grande": true,
-    "relogios": "historico/parcial_Longines_relogios.txt",
-    "fontes": "historico/parcial_Longines_fontes.txt",
-    "notas": "historico/notas_Longines.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b",
-      "2a passada",
-      "3a passada"
-    ],
-    "passada": 3,
-    "obs": "gravando v933"
-  }
+  "adiadas_obs": {}
 }
