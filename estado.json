@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1220,
- "ultima_versao": 934,
+ "proxima_linha_marcas": 1221,
+ "ultima_versao": 935,
  "historico": [
   {
    "data": "2026-10-16",
@@ -16997,6 +16997,29 @@
    ],
    "site_bloqueado": "sim (L: longio.com, lorcawatches.com)",
    "obs": "Lorenz (linha 1221) é grande (dezenas de coleções de pulso no lorenz.it) e fica sozinha na próxima. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 42–46 dos posts já estavam aplicadas (v913)."
+  },
+  {
+   "versao": 935,
+   "data": "2026-11-28",
+   "tipo": "passada_unica",
+   "marcas": [
+    "Lorenz"
+   ],
+   "linha_marcas": 1221,
+   "relogios": 325,
+   "linhas_relogios": "137429-137753",
+   "vermelho": true,
+   "grande": true,
+   "fontes": 120,
+   "passadas": {
+    "1": 98,
+    "2": 11,
+    "3": 11
+   },
+   "dados_marcas": [],
+   "correcoes": [],
+   "site_bloqueado": "parcial (L: lorenz.it home/coleções PROVENANCE_REQUIRED)",
+   "obs": "Catálogo oficial pelas fichas .oembed achadas na busca; inclui 6 relógios de mesa Static e 20 de bolso; ~60 referências só com link do in-vendita.it. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 42–46 dos posts já aplicadas (v913). Próximas: Loresum (K vazio) e Lorier."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -17104,34 +17127,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-28T17:43:18Z",
- "ultimo_sinal": "2026-11-28T18:06:44Z",
- "em_andamento": {
-  "marcas": [
-   "Lorenz"
-  ],
-  "linha_marcas": 1221,
-  "grande": true,
-  "relogios": "historico/parcial_Lorenz_relogios.txt",
-  "fontes": "historico/parcial_Lorenz_fontes.txt",
-  "notas": "historico/notas_Lorenz.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "11",
-   "11b"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }
