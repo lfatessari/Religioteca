@@ -6,3 +6,5 @@
 - Conferir duplicata possível: Dynasty Constantine Black 40mm (lobor.com) × 41mm (hk) com a mesma foto.
 - Aba Marcas: LOBOR não tem célula vazia (falta = []).
 - v929 (28/11, retomada): +12 fontes (lobor.com all/mens/multifunction/japanese-automatic, hk for-her e japanese-automatic, lobor.jp home+about, Rakuten, custom-fashion-magazine.jp, 2 eBay) → +31 relógios (112). Firecrawl sem créditos. lobor.jp: coleções classy, meridian, glacier, quartz, pair-watch, magazine-press, all. Rakuten: códigos usados LB0080D, LB3507M, LB1016M, LB3503L (sem nome). FALTA: lobor.com/collections/all page 2-3 (84 produtos), coleções lobor.jp, imprensa, lojas.
+- 1ª passada encerrada (heritage, hk home, lobor.tw, lobor.jp cate sem novidades). Decisão: VERMELHA — linha antiga "Lobor Collection" (banhados a ouro, Swarovski, Aurus/Bellinzona/Colombo/Venice/Marrakech/Aurélia/Sir William, dezenas de códigos LB…) com 90+ anúncios no eBay, muitos sem foto/nome.
+- 2ª passada: 10 fontes (eBay US/UK/IE/peças, 2 fichas eBay, Yahoo! Leilões x2, eBay VX12E, Etsy) → 27 relógios novos. Precisa de 3ª passada (≥5 novos).
