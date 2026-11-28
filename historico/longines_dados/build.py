@@ -29,5 +29,7 @@ if os.path.exists('/home/claude/trabalho/lg/vintage.json'):
         lines.append(f"{v['nome']}|{v['code']}|{v['img']}|{v['e']}")
 if os.path.exists('/home/claude/trabalho/lg/outros.txt'):
     lines+= [l for l in open('/home/claude/trabalho/lg/outros.txt').read().split('\n') if l.strip()]
+PT=json.load(open('/home/claude/trabalho/lg/patch.json'))
+lines=[ (PT[l.split('|')[1]]+'|'+l.split('|',1)[1]) if l.split('|')[1] in PT else l for l in lines]
 open('/home/claude/trabalho/dados_Longines.txt','w').write('\n'.join(lines)+'\n')
 print(len(lines)); print('\n'.join(lines[:3])); print(lines[-1])

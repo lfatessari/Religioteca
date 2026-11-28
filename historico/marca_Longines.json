@@ -1,0 +1,557 @@
+{
+ "marca": "Longines",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "observacoes": "Relógios: 806 do catálogo oficial atual (longines.com, 34 páginas da loja dos EUA + páginas do Reino Unido, Japão e Suíça), 48 relógios antigos da Collector's Corner oficial, 3.416 referências atuais/descontinuadas do WatchBase (28 famílias) e 38 referências vintage (13ZN, 30CH, Super Compressor, Comet, Ultra-Chron, Admiral, Nonius etc.) de lojas, leilões e imprensa. Marca pintada de vermelho: a Longines tem milhares de referências antigas (anos 1900-1990) que não estão listadas em nenhum banco de dados aberto. Ainda a verificar: a História (I) termina com '[⚠️ verificar dados atuais]' e não foi conferida nesta execução (só dados já abertos; o site oficial de história não foi aberto).",
+ "fontes": [
+  {
+   "url": "https://www.longines.com/en-us/watches?page=40",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=15",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=19",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=30",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=5",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-gb/watches?page=1",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=29",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=2",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=7",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=31",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/jp/watches?page=1",
+   "passada": 1,
+   "novos": 12
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=33",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/de-ch/watches?page=1",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=14",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=32",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=16",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=10",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=24",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=8",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=27",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=13",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=28",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=1",
+   "passada": 1,
+   "novos": 11
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=11",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=4",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=17",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=20",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=26",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/sitemap.xml",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=34",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=3",
+   "passada": 1,
+   "novos": 14
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=25",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=18",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=9",
+   "passada": 1,
+   "novos": 21
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=21",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=6",
+   "passada": 1,
+   "novos": 18
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=12",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=22",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches?page=23",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://watchbase.com/longines",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/longines/presence",
+   "passada": 1,
+   "novos": 332
+  },
+  {
+   "url": "https://watchbase.com/longines/master-collection",
+   "passada": 1,
+   "novos": 338
+  },
+  {
+   "url": "https://watchbase.com/longines/la-grande-classique",
+   "passada": 1,
+   "novos": 441
+  },
+  {
+   "url": "https://watchbase.com/longines/hydroconquest",
+   "passada": 1,
+   "novos": 161
+  },
+  {
+   "url": "https://watchbase.com/longines/dolcevita",
+   "passada": 1,
+   "novos": 324
+  },
+  {
+   "url": "https://watchbase.com/longines/heritage",
+   "passada": 1,
+   "novos": 209
+  },
+  {
+   "url": "https://watchbase.com/longines/conquest",
+   "passada": 1,
+   "novos": 182
+  },
+  {
+   "url": "https://watchbase.com/longines/primaluna",
+   "passada": 1,
+   "novos": 212
+  },
+  {
+   "url": "https://watchbase.com/longines/spirit",
+   "passada": 1,
+   "novos": 58
+  },
+  {
+   "url": "https://watchbase.com/longines/lyre",
+   "passada": 1,
+   "novos": 145
+  },
+  {
+   "url": "https://watchbase.com/longines/flagship",
+   "passada": 1,
+   "novos": 100
+  },
+  {
+   "url": "https://watchbase.com/longines/conquest-v-h-p",
+   "passada": 1,
+   "novos": 116
+  },
+  {
+   "url": "https://watchbase.com/longines/elegant",
+   "passada": 1,
+   "novos": 129
+  },
+  {
+   "url": "https://watchbase.com/longines/evidenza",
+   "passada": 1,
+   "novos": 98
+  },
+  {
+   "url": "https://watchbase.com/longines/saint-imier",
+   "passada": 1,
+   "novos": 114
+  },
+  {
+   "url": "https://watchbase.com/longines/record",
+   "passada": 1,
+   "novos": 96
+  },
+  {
+   "url": "https://watchbase.com/longines/conquest-classic",
+   "passada": 1,
+   "novos": 63
+  },
+  {
+   "url": "https://watchbase.com/longines/conquest-heritage",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://watchbase.com/longines/legend-diver",
+   "passada": 1,
+   "novos": 23
+  },
+  {
+   "url": "https://watchbase.com/longines/symphonette",
+   "passada": 1,
+   "novos": 69
+  },
+  {
+   "url": "https://watchbase.com/longines/equestrian",
+   "passada": 1,
+   "novos": 59
+  },
+  {
+   "url": "https://watchbase.com/longines/les-grandes-classiques",
+   "passada": 1,
+   "novos": 46
+  },
+  {
+   "url": "https://watchbase.com/longines/admiral",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://watchbase.com/longines/grandevitesse",
+   "passada": 1,
+   "novos": 30
+  },
+  {
+   "url": "https://watchbase.com/longines/1832",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://watchbase.com/longines/mini",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://watchbase.com/longines/avigation",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://watchbase.com/longines/francillon",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.longines.com/en-us/watches/collectors-corner",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/watches/collectors-corner?page=2",
+   "passada": 1,
+   "novos": 24
+  },
+  {
+   "url": "https://www.longines.com/en-gb/watches/collectors-corner",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/longines-hydroconquest-commonwealth-games-introducing/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/limited-editions/longines-180th-anniversary-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/brands/limited-editions?page=4",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/longines-ultra-chron-as08488",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/longines-cushion-case-chronograph-as08181",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/vintage-watches-1/products/longines-conquest-as12756",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/collections/rare-finds/products/longines-tre-tacche-as04407",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/all/products/longines-admiral-diver-as10944",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/rare-finds/products/longines-comet-mystery-dial-as08489",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://analogshift.com/products/longines-steel-dress-watch-as04392",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/longines-sold/products/longines-conquest-as10921",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/longines-comet-mystery-dial-as12389",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wannabuyawatch.com/product/longines-super-compressor-ref-7042-2-1st-generation-dial-variation-circa-1960/",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://europeanwatch.com/watch/longines-7042-3-vintage-diver-automatic-rare-ss-24164",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/longines/114729",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://catalog.antiquorum.swiss/en/lots/longines-ref-7042-4-lot-364-512?page=0",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://awco.nl/shop/archive/a-longines/longines-comet-ref-8475-blue/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchnet.co.jp/en/item/view/4286",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://craftandtailored.com/collections/dress/products/1969-longines-comet-cal-702",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://bachmann-scher.de/en/sold-watches/longines-vintage-chronograph-ref-5983-stainless-steel-cal-30ch-bj-1949-extract-unpolished-8336.html",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://omegaforums.net/threads/longines-30ch-reference-5967.118098",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://vintagegoldwatches.com/?p=39364",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/blogs/transmissions/further-under-the-radar-vintage-longines-watches",
+   "passada": 2,
+   "novos": 2
+  },
+  {
+   "url": "https://www.fratellowatches.com/buying-guide-the-best-longines-watches-from-the-1970s/",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://dumarko.com/blogs/news/vintage-longines-watches-the-complete-buyers-guide",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/longines-conquest-9000-vintage-overview/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/affordable-vintage-1954-longines-conquest/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.tatlerasia.com/style/watches/daniel-hug-evolution-longines-conquest",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.windvintage.com/longines-13zn-non-luminous-chronograph-reference-4270-unpolished-w/-extract",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/longines/105822",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.phillips.com/detail/longines/224007",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://revolutionwatch.com/the-ultimate-guide-to-the-longines-chronograph-13zn-pulsanti-ad-ombrello-or-mushroom-pusher",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.acollectedman.com/blogs/journal/longines-13zn-still-collectible",
+   "passada": 3,
+   "novos": 8
+  },
+  {
+   "url": "https://analogshift.com/products/longines-13zn-chronograph-as01143",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/longines/87664",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.phillips.com/detail/longines/150260",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.monacolegendauctions.com/auction/Exclusive-Timepieces-15/lot-159",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.auction.fr/en-US/lot/longines-nice-and-attractive-13zn-flyback-chronograph-wristwatch-in-steel-with-black-66046438",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
