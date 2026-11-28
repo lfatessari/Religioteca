@@ -1,0 +1,482 @@
+{
+ "marca": "Lip",
+ "usa_codigos": true,
+ "logo": "",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "site_bloqueado": "Parcial – lip.fr: as listas paginadas (?page=N) devolvem só a 1ª página na leitura automática (ex.: Homme 139 itens, Femme 110, só 24 lidos em cada); a página inicial abriu nesta execução; revisitar com navegador",
+ "fontes": [
+  {
+   "url": "https://lip.fr/en/",
+   "passada": 1,
+   "novos": 16
+  },
+  {
+   "url": "https://lip.fr/en/227-men-dive-watches",
+   "passada": 1,
+   "novos": 19
+  },
+  {
+   "url": "https://lip.fr/en/226-men-chronograph-watches",
+   "passada": 1,
+   "novos": 20
+  },
+  {
+   "url": "https://lip.fr/en/nautic-ski/404-lip-nautic-ski-671859",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1104-lip-watches?page=2",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://lepage.fr/en/1104-lip-watches?page=5",
+   "passada": 1,
+   "novos": 25
+  },
+  {
+   "url": "https://lepage.fr/en/1104-lip-watches?page=6",
+   "passada": 1,
+   "novos": 26
+  },
+  {
+   "url": "https://ocarat.com/en/lip-watches/",
+   "passada": 1,
+   "novos": 28
+  },
+  {
+   "url": "https://ocarat.com/en/lip-nautic-ski-watch/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.mastersintime.com/lip/?page=2",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://lip.fr/en/12-mens-watches",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://lip.fr/en/14-montre-femmes",
+   "passada": 1,
+   "novos": 17
+  },
+  {
+   "url": "https://lip.fr/en/189-edition-limitee",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://lip.fr/en/200-editions-limitees",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1104-lip-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/16-himalaya",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://lip.fr/en/18-gdg",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lip.fr/en/19-nautic-ski",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/183-nautic-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lip.fr/en/61-rallye",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/23-mach-2000",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/24-big-tv",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://lip.fr/en/178-mythic",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/185-courage",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/199-minilip",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/21-churchill",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://lip.fr/en/224-montres-hommes-quartz",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/225-montres-hommes-automatiques",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/53-himalaya",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://lip.fr/en/56-henriette",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lip.fr/en/239-juliette",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/55-gdg",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/59-mach-2000",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://lip.fr/en/57-churchill",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://lip.fr/en/228-quartz-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/en/229-women-automatic-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/products/lip-mach-2000-chronograph-as02435",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.analogshift.com/collections/lip/products/lip-mach-2000-dark-master-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://proantic.com/en/417585-lip-mach-2000-moon-phase-prototype.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://proantic.com/en/779040-rare-lip-chronograph-mach-2000-by-roger-tallon-valjoux-7734.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.proantic.com/en/1206705-lip-nautic-ski-date-electronic-watch-1970-steel-on-leather-strap.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drouot.com/en/l/25913371-liptallon-mach-2000-ref-43789?query=yema",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://drouot.com/en/l/15856697",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lepage.fr/en/4888-lip-nautic-ski-electronic-watch-36-mm-1970s-nsgmt70.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/lip-stainless-steel-super-nautic-ski-electronic-wristwatch-circa-1972/id-j_3352113",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/fr/joaillerie/montres/montres-bracelets/lip-montre-bracelet-chrom%C3%A9e-top-time-chronographe-en-acier-inoxydable-1970/id-j_3274993",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gearpatrol.com/2019/04/19/vintage-lip-watches-found/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.fratellowatches.com/lip-nautic-ski-automatic/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://lip.fr/en/seasonal-sale/361-lip-mach-2000-mini-671181",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lip.fr/en/men-watches/997-mach-2000-chronograph-3411120046248.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://everywatch.com/lip/super-nautic-ski/watch-1872488",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/lip-diode-led-watch-as09053",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/1978-lip-mark-held-wristwatch/id-j_4144021",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/lip-t18-1960/id-j_10379392",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.1stdibs.com/jewelry/watches/wrist-watches/littke-lip-1960/id-j_10465292",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.catawiki.com/en/l/10760353-lip-dauphine-electric-wristwatch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://drouot.com/en/l/25684518-lip-nautic-electronic-hacia-19",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gazette-drouot.com/en/lots/25684487",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.antiques-atlas.com/antique/a_gents_early_1960s_lip_dauphine_wrist_watch_a4451/as170a4451",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://electric-watches.co.uk/makers/lip/",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.1stdibs.com/buy/lip-vintage-watch",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://hourstriker.com/brands/lip",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watch.co.uk/inspiration/bon-chic-bon-genre-lip-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hourstriker.com/learn/lip-watches-embracing-timeless-elegance-and-innovative-design",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/1669079",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://lepage.fr/en/1134-lip-watches-for-men?page=2",
+   "passada": 2,
+   "novos": 9
+  },
+  {
+   "url": "https://www.lepage.fr/en/1134-lip-watches-for-men?page=3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.lepage.fr/en/1160-lip-watches-for-women?page=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://lepage.fr/en/37-vintage-watches?page=3",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://lepage.fr/en/22310-lip-big-tv-skeleton-automatic-black-dial-leather-strap-35-x-35-mm-671660.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/montre-lip/?p=2",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/montre-lip/?p=5",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://ocarat.com/montre-lip-femme/?p=2",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/lip-watches/?p=5",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchard.com/lip-watches",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://watchard.com/lip-watches/lip-mens-watches",
+   "passada": 2,
+   "novos": 5
+  },
+  {
+   "url": "https://www.maty.com/en/montre-lip.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.histoiredor.com/fr_FR/c/montres/facette/lip/homme/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.histoiredor.com/fr_FR/c/montres/facette/lip/homme/?start=40&sz=40",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.printemps.com/at/en/lip",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galerieslafayette.com/c/homme/fm/lip",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.galerieslafayette.com/c/femme/fm/lip",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://ocarat.com/en/carbon-churchill-t26-watch-lip-x-ocarat-limited-edition-122949.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://ocarat.com/en/himalaya-40-noir-absolu-lip-x-ocarat-limited-edition-watch-lip-116834.html",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.lepage.fr/en/19210-lip-himalaya-x-marcel-livet-automatic-silver-dial-leather-strap-40-mm-670028.html",
+   "passada": 3,
+   "novos": 4
+  },
+  {
+   "url": "https://www.commeuncamion.com/2024/11/13/lip-et-octobre-collaborent-en-cette-fin-dannee-dans-une-reedition-de-liconique-montre-victory/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.commeuncamion.com/2026/04/02/the-watch-observer-revisite-la-celebre-nautic-3-de-lip/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://fr.fashionnetwork.com/news/Commune-de-paris-1871-collabore-avec-lip,333236.html",
+   "passada": 3,
+   "novos": 2
+  },
+  {
+   "url": "https://www.dealabs.com/bons-plans/montre-automatique-lip-rallye-671821-edition-limitee-a-999-exemplaires-42-mm-cadran-bleu-bracelet-cuir-marron-3414731",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://lip.fr/documents/collection_lip_manufacture.pdf",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/watchbrands/lip",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/minilip/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.commeuncamion.com/guide/marques/lip/",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.commeuncamion.com/2023/06/17/notre-compte-rendu-de-la-soiree-lip-cest-possible/",
+   "passada": 3,
+   "novos": 0
+  }
+ ],
+ "observacoes": "Relógios gravados em 28/11/2026 (marca grande, pintada de vermelho): referências oficiais Lip de 6 dígitos (671xxx, 670xxx, 676xxx) e peças vintage sem referência. Ficaram de fora: os itens das páginas 2+ das listas do lip.fr e da Ocarat (paginação não abriu), páginas 1, 4 e 7 da Lepage e a maior parte do vintage (centenas de referências antigas de 4–5 dígitos, ex.: 43770, 43789, 42564, Galaxie 43814 citado pela Fratello). Datas a conferir na história (I): o catálogo oficial 'Collection 2025' (lip.fr/documents/collection_lip_manufacture.pdf) diz que a coleção Annapurna nasceu em 1951 e foi rebatizada Himalaya; a Electric-Watches dá 1958 para o primeiro relógio elétrico (calibre R27) e a Lip/imprensa falam em protótipos de 1952 — não alterado."
+}
