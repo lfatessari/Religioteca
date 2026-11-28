@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1214,
- "ultima_versao": 930,
+ "proxima_linha_marcas": 1215,
+ "ultima_versao": 931,
  "historico": [
   {
    "data": "2026-10-16",
@@ -16893,6 +16893,26 @@
    ],
    "site_bloqueado": "sim (L)",
    "obs": "Loci (1213) adiada: só 7 fontes de fora, site oficial com PROVENANCE_REQUIRED. Locman (1215) grande: fica para a próxima. Firecrawl sem créditos; páginas pelo ajudante web-fetch."
+  },
+  {
+   "versao": 931,
+   "data": "2026-11-28",
+   "tipo": "passada_unica",
+   "marcas": [
+    "Locman"
+   ],
+   "linha_marcas": 1215,
+   "relogios": 376,
+   "linhas_relogios": "132717-133092",
+   "vermelho": true,
+   "grande": true,
+   "fontes": 76,
+   "passadas": {
+    "1": 41,
+    "2": 17,
+    "3": 18
+   },
+   "obs": "324 refs da loja oficial (Firecrawl products.json) + 52 antigos; Logan Kuan Rao e Loiseau ficam para a próxima (marca grande sozinha); pendências 42–46 dos posts já estavam aplicadas na v913"
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -17000,34 +17020,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-28T13:43:53Z",
- "ultimo_sinal": "2026-11-28T13:52:59Z",
- "em_andamento": {
-  "marcas": [
-   "Locman"
-  ],
-  "linha_marcas": 1215,
-  "grande": true,
-  "relogios": "historico/parcial_Locman_relogios.txt",
-  "fontes": "historico/parcial_Locman_fontes.txt",
-  "notas": "historico/notas_Locman.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "2a passada",
-   "3a passada"
-  ],
-  "passada": 2,
-  "obs": "gravando v931"
- }
+ "adiadas_obs": {}
 }
