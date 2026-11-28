@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1208,
-  "ultima_versao": 926,
+  "proxima_linha_marcas": 1209,
+  "ultima_versao": 927,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16781,6 +16781,41 @@
       "correcoes": [],
       "site_bloqueado": "parcial (L)",
       "obs": "Referências oficiais de 6 dígitos + 31 vintage. Paginação de lip.fr/Ocarat não abriu pelo web-fetch; Firecrawl sem créditos. Pendências 42–46 já aplicadas antes (v923)."
+    },
+    {
+      "versao": 927,
+      "data": "2026-11-28",
+      "tipo": "passada_unica",
+      "marcas": [
+        "Liv Watches"
+      ],
+      "linha_marcas": 1209,
+      "relogios": 137,
+      "linhas_relogios": "132380-132516",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 121,
+      "passadas": {
+        "1": [
+          82,
+          124
+        ],
+        "2": [
+          29,
+          14
+        ],
+        "3": [
+          10,
+          5
+        ]
+      },
+      "dados_marcas": [],
+      "correcoes": [
+        "C",
+        "I"
+      ],
+      "site_bloqueado": "parcial (L)",
+      "obs": "Liv grande: só ela. LMB Watches (1210) e Löbner (1211, falta H,K) ficam para a próxima. Firecrawl sem créditos; site oficial direto deu PROVENANCE_REQUIRED, páginas vindas de busca abriram."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16888,31 +16923,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-28T09:43:41Z",
-  "ultimo_sinal": "2026-11-28T10:01:44Z",
-  "em_andamento": {
-    "marcas": [
-      "Liv Watches"
-    ],
-    "linha_marcas": 1209,
-    "grande": true,
-    "relogios": "historico/parcial_Liv_relogios.txt",
-    "fontes": "historico/parcial_Liv_fontes.txt",
-    "notas": "historico/notas_Liv.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 3
-  }
+  "adiadas_obs": {}
 }

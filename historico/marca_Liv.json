@@ -1,0 +1,635 @@
+{
+ "marca": "Liv Watches",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Parcial – livwatches.com: /collections/all, products.json e sitemap não abrem na leitura automática (PROVENANCE_REQUIRED); páginas vindas de busca abrem",
+ "vermelho": true,
+ "grande": true,
+ "complemento": false,
+ "correcoes": {
+  "C": "Miami",
+  "I": "A LIV Watches nasceu em 2012, em Miami, nos Estados Unidos, criada pelo casal Esti e Chaz Chazanow (o primeiro relógio, o GX1, saiu no Kickstarter no fim de 2014), tornando-se um dos casos de sucesso mais expressivos do crowdfunding relojoeiro — a marca acumulou milhões de dólares em campanhas no Kickstarter, com uma comunidade de apoiadores extremamente engajada.\n\nA proposta é oferecer tool watches ousados e robustos com movimentos suíços (Ronda, Sellita) a preços muito abaixo do que marcas tradicionais cobrariam por specs equivalentes, cortando intermediários com venda direta ao consumidor. Os modelos — cronógrafos GX, mergulhadores, GMTs e peças esqueletizadas — caracterizam-se por design agressivo, cases substanciais, materiais como titânio e cerâmica, e edições numeradas limitadas que reforçam a exclusividade. A marca é conhecida pela comunicação intensa e pelo relacionamento próximo com sua base de clientes.\n\nHoje a LIV ocupa o segmento de tool watches suíços acessíveis de design ousado, dirigindo-se a entusiastas que valorizam presença, especificações generosas e bom valor. [⚠️ verificar dados atuais]"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://monochrome-watches.com/liv-watches-rebel-automatic-chronograph-kickstarter-price/",
+   "https://ablogtowatch.com/liv-rebel-automatic-swiss-made-watches",
+   "https://www.miaminewtimes.com/?p=40453686"
+  ],
+  "I": [
+   "https://www.livwatches.com/pages/liv-founders-story",
+   "https://www.miaminewtimes.com/?p=40453686",
+   "https://www.watchreport.com/?p=12966",
+   "https://www.watchtime.com/advertisement/featured-brand/liv-watches-breakthrough-campaign-launches-four-limited-edition-watches/",
+   "https://monochrome-watches.com/liv-watches-rebel-automatic-chronograph-kickstarter-price/"
+  ]
+ },
+ "observacoes": "Passada única 28/11/2026 (relógios): 137 linhas em 3 passadas (marca vermelha: há mais cores antigas e amostras não listadas — GX-AC de 2018 em sete acabamentos, GX1-A de 2015/16 em seis opções, Rebel-A/AC de 2017 por cor, Rebel-AR com 5 cores de autódromos, das quais só 5 nomes achados). A LIV não publica referência em texto; a referência provável (tirada do nome do arquivo da foto ou do endereço) vai na coluna E. Corrigido: C 'Nevada' → 'Miami' (Monochrome, aBlogtoWatch, Miami New Times; o site oficial diz que envia de Miami, Flórida); I: 'fundada em 2013 por Esti e Chaz Zilberman' → 'nasceu em 2012, em Miami, criada pelo casal Esti e Chaz Chazanow' (site oficial, página The LIV Story: começo em 2012; sobrenome Chazanow na Miami New Times, WatchReport e WatchTime; Europa Star também diz 2012). Ainda a verificar: a Miami New Times cita também um escritório de logística no Brooklyn; o resto da história ('milhões em campanhas' confere: GX1-A US$ 1,1 mi, Rebel US$ 1,7 mi).",
+ "fontes": [
+  {
+   "url": "https://livwatches.com/collections",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/gx-diver/44MM",
+   "passada": 1,
+   "novos": 13
+  },
+  {
+   "url": "https://www.livwatches.com",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.livwatches.com/en-sg/pages/saturn-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/pages/resources",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/p51/products/liv-p-51-titanium-chrono-gray",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/new-p-51-night-vision",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/p-51-pilot-cripes-2-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/p-51-big-pilot-full-lume-2-0",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/en-dk/products/liv-p-51-swiss-pilot-ceramic-auto-chronograph-rose-gold",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/en-dk/products/frenesi-green-p-51-titanium-chrono",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-gx-swiss-automatic-chronograph-black-gray-pre-order",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/liv-gx-divers-44mm-full-lume-gen-2",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://oracleoftime.com/impulse-buy-liv-watches-the-breakthrough-kickstarter-collection/",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://timeandtidewatches.com/?p=7696",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://techcrunch.com/2018/06/10/liv-is-kickstarting-a-beefy-and-bold-chronograph-for-race-lovers/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/just-released-liv-p-51",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.divein.com/review/liv-gx-divers-41mm/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://entrepreneur.com/leadership/livs-swiss-made-affordable-watches-are-made-to-keep-up/347567",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.livwatches.com/collections/p-51-big-pilot",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.livwatches.com/collections/p51",
+   "passada": 1,
+   "novos": 6
+  },
+  {
+   "url": "https://www.livwatches.com/en-nl/pages/p51-collection",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/1591-46-26",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/p-51-petie-2nd",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-p-51-cripes-a-mighty-miami-blue-p-51",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/gx1",
+   "passada": 1,
+   "novos": 10
+  },
+  {
+   "url": "https://www.livwatches.com/collections/gx1-a",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://www.livwatches.com/collections/womens-gx1-a-1",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://livwatches.com/en-de/collections/gx-auto-chrono",
+   "passada": 1,
+   "novos": 8
+  },
+  {
+   "url": "https://www.livwatches.com/blogs/stories/gx1-a-new-releases",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/en-au/collections/gx1?page=1",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/en-dk/collections/gravel-002-swiss-chrono",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/gravel-001-swiss-automatic-rugged-watch?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/pages/gravel-series",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/en-fr/pages/new-releases-1",
+   "passada": 1,
+   "novos": 7
+  },
+  {
+   "url": "https://www.livwatches.com/en-de/products/gravel-002-mcqueen-gt40-limited-color",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://luxe.digital/watches-jewelry/liv-watches-gravel-review/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/collections/gx-divers-41mm-swiss-automatic-300m",
+   "passada": 1,
+   "novos": 9
+  },
+  {
+   "url": "https://www.livwatches.com/pages/divers-harvest-moon",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/new-liv-trekker-gmt",
+   "passada": 1,
+   "novos": 5
+  },
+  {
+   "url": "https://www.livwatches.com/collections/livcertified?page=2",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/gamma-green-divers-41mm",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/en-au/products/liv-divers-41mm-t-j-blue",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/blogs/stories/liv-rebel-watch-kickstarter",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://monochrome-watches.com/liv-watches-rebel-automatic-chronograph-kickstarter-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/liv-rebel-automatic-swiss-made-watches",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://fratellowatches.com/liv-watches-launches-their-fourth-kickstarter-campaign-the-breakthrough",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.com/advertisement/featured-brand/liv-watches-breakthrough-campaign-launches-four-limited-edition-watches/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/time-keeper/1004089977-the-baby-brands-of-kickstarter.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/26994801",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://marketplace.watchcharts.com/listing_description/35434837",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/pre-loved-rebel-a-signature-orange-copy",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/pre-loved-trekker-gmt-black-steel-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/rebel",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://livwatches.com/collections/rebel-ddc",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/gravel-001-swiss-automatic-rugged-watch",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/gravel-002",
+   "passada": 1,
+   "novos": 4
+  },
+  {
+   "url": "https://www.livwatches.com/collections/rebel/products/liv-rebel-ddc-swiss-day-date-chronograph-blue-dial-2010-49-15",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/liv-rebel-ddc-forest-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/100074-1820-41-26-22srb200",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/pre-loved-41mm-full-lume-divers-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/pre-loved-gx-divers-44mm-stealth",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/pre-loved-gx-divers-44mm-gamma-green",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/100075-1120-42-26-c510-copy",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-gx1-a-blackout",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/en-ca/products/pre-loved-gx1-titan-blue",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/pre-loved-p-51-big-pilot-balck-gray",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/collections-1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/collections-2",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.livwatches.com/products/collections-3",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/collections",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/collections/gx-alarm-type-d/products/liv-gx-alarm-type-d-black-cobalt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/gx-diver",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/blogs/stories/genesis-of-liv",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/pages/liv-founders-story",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.thedrive.com/gear-up/2212/livs-first-automatic-gx1-a-is-a-kickstarter-sensation",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://loadoutroom.com/gx1-swiss-chronograph-review-and-looking-forward-with-liv-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchreport.com/?p=12966",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wristwatchreview.com/the-liv-genesis-x1-a-liv-it-up",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://noahw.squarespace.com/blog/2015/4/1/initial-thoughts-liv-genesis-x1",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.miaminewtimes.com/?p=40453686",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/blogs/stories/gx-swiss-automatic-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/collections/rebel-a",
+   "passada": 2,
+   "novos": 3
+  },
+  {
+   "url": "https://livwatches.com/collections/rebel-ar",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/blogs/stories/introducing-the-liv-rebel-ar",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/rebel-a-classic-black",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/en-gb/products/liv-rebel-a-swiss-made-26-jewels-automatic-gold-2060-48-45",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/liv-rebel-ac-cobalt-copy",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-rebel-ar-le-mans-white",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://thegadgetflow.com/product/rebel-limited-edition-swiss-automatic-watches/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/collections/gx-auto-chrono/products/liv-gx-swiss-automatic-chronograph-steel-silver",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-gx-swiss-automatic-chronograph-rose-gold",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/en-ch/products/liv-gx-swiss-automatic-chronograph-white-1420-46-36",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/liv-gx-swiss-automatic-chronograph-sky-1410-46-19",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/new-gx-ac-cobalt",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/gx-ac-cool-gray",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/gx-ac-signature-full-orange",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/en-sg/products/gx-ac-full-lume",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/liv-gx-ac-envy-green",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/limted-gx-ac-ocean-blue-on-blue-silicone",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/gx-ac-swiss-panda-1",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://everywatch.com/liv-watches/watch-2362192",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/pre-owned-gx1-sky-blue",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/pre-owned-gx1-swiss-panda",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/pre-loved-build-p-51",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/pre-loved-p-51-titanium-chrono-gray",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/en-de/products/pre-loved-p-51-titanium-chrono-gray-pilots-brown-alligator-grain-leather",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/pre-loved-gx1-a-green-limited-color-copy",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://watchpatrol.net/listing/1716115",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://luxe.digital/lifestyle/watches/liv-swiss-watches-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/gx-ac-kermit-sample",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/collections/gx1-a/products/liv-gx1-a-full-lume",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/collections/gx1-a/products/gx1-a-1110-42-19",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/collections/all-watches/products/liv-gx1-a-cool-gray",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://livwatches.com/products/pre-loved-gx1-agreen",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://livwatches.com/products/the-rebel-black",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/products/rebel-a-gray-ip-swiss-automatic-gray-dial",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-gx1-swiss-13-jewels-gold-plated-chronograph-rose-gold-1260-45-190",
+   "passada": 3,
+   "novos": 1
+  },
+  {
+   "url": "https://www.livwatches.com/en-gb/products/pre-loved-gx1-rose-gold",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-rebel-ar-gulf-black",
+   "passada": 3,
+   "novos": 0
+  },
+  {
+   "url": "https://www.livwatches.com/products/liv-rebel-ar-monza-green",
+   "passada": 3,
+   "novos": 0
+  }
+ ]
+}
