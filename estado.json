@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1209,
- "ultima_versao": 927,
+ "proxima_linha_marcas": 1211,
+ "ultima_versao": 928,
  "historico": [
   {
    "data": "2026-10-16",
@@ -16816,6 +16816,28 @@
    ],
    "site_bloqueado": "parcial (L)",
    "obs": "Liv grande: só ela. LMB Watches (1210) e Löbner (1211, falta H,K) ficam para a próxima. Firecrawl sem créditos; site oficial direto deu PROVENANCE_REQUIRED, páginas vindas de busca abriram."
+  },
+  {
+   "versao": 928,
+   "data": "2026-11-28",
+   "tipo": "passada_unica",
+   "marcas": [
+    "Löbner"
+   ],
+   "linha_marcas": 1211,
+   "relogios": 14,
+   "linhas_relogios": "132517-132530",
+   "vermelho": false,
+   "grande": false,
+   "fontes": 33,
+   "dados_marcas": [],
+   "correcoes": [
+    "C",
+    "I",
+    "J"
+   ],
+   "site_bloqueado": "sim (L)",
+   "obs": "LMB Watches (1210) adiada: 6 relógios só no site oficial + 5 notas de imprensa, abaixo do mínimo. LOBOR (1212) grande: parcial salvo em em_andamento. Firecrawl sem créditos; sites oficiais diretos deram PROVENANCE_REQUIRED."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -16924,20 +16946,20 @@
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
- "em_execucao": "2026-11-28T10:43:36Z",
- "ultimo_sinal": "2026-11-28T10:58:21Z",
  "em_andamento": {
   "marcas": [
-   "LMB Watches",
-   "Löbner",
    "LOBOR"
   ],
-  "linha_marcas": 1210,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [],
-  "passada": 1
+  "linha_marcas": 1212,
+  "grande": true,
+  "relogios": "historico/parcial_LOBOR_relogios.txt",
+  "fontes": "historico/parcial_LOBOR_fontes.txt",
+  "notas": "historico/notas_LOBOR.md",
+  "secoes_feitas": [
+   "1",
+   "2 (parcial)"
+  ],
+  "passada": 1,
+  "obs": "LOBOR é grande (91+ produtos): fica sozinha na próxima execução; 81 relógios e 9 fontes já salvos."
  }
 }
