@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1211,
-  "ultima_versao": 928,
+  "proxima_linha_marcas": 1212,
+  "ultima_versao": 929,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16838,6 +16838,38 @@
       ],
       "site_bloqueado": "sim (L)",
       "obs": "LMB Watches (1210) adiada: 6 relógios só no site oficial + 5 notas de imprensa, abaixo do mínimo. LOBOR (1212) grande: parcial salvo em em_andamento. Firecrawl sem créditos; sites oficiais diretos deram PROVENANCE_REQUIRED."
+    },
+    {
+      "versao": 929,
+      "data": "2026-11-28",
+      "tipo": "passada_unica",
+      "marcas": [
+        "LOBOR"
+      ],
+      "linha_marcas": 1212,
+      "relogios": 179,
+      "linhas_relogios": "132531-132709",
+      "vermelho": true,
+      "grande": true,
+      "fontes": 61,
+      "passadas": {
+        "1": [
+          40,
+          147
+        ],
+        "2": [
+          10,
+          27
+        ],
+        "3": [
+          11,
+          10
+        ]
+      },
+      "dados_marcas": [],
+      "correcoes": [],
+      "site_bloqueado": "não",
+      "obs": "Retomada do em_andamento da v928. Pendências dos posts (itens 42–46) já estavam aplicadas. Firecrawl sem créditos; páginas abertas pelo ajudante web-fetch. Vermelha pela linha antiga 'Lobor Collection'."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16945,31 +16977,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_andamento": {
-    "marcas": [
-      "LOBOR"
-    ],
-    "linha_marcas": 1212,
-    "grande": true,
-    "relogios": "historico/parcial_LOBOR_relogios.txt",
-    "fontes": "historico/parcial_LOBOR_fontes.txt",
-    "notas": "historico/notas_LOBOR.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "5",
-      "7",
-      "8",
-      "9",
-      "passada 2",
-      "passada 3"
-    ],
-    "passada": 3,
-    "obs": "LOBOR é grande (91+ produtos): fica sozinha na próxima execução; 81 relógios e 9 fontes já salvos."
-  },
-  "em_execucao": "2026-11-28T11:42:57Z",
-  "ultimo_sinal": "2026-11-28T12:00:53Z"
+  "adiadas_obs": {}
 }
