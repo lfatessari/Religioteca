@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1205,
- "ultima_versao": 923,
+ "proxima_linha_marcas": 1206,
+ "ultima_versao": 924,
  "historico": [
   {
    "data": "2026-10-16",
@@ -16699,6 +16699,40 @@
    ],
    "site_bloqueado": false,
    "obs": "L&B é o grupo alemão (Rinteln) da Schaumburg Watch, não marca dinamarquesa. Linde Werdelin (1206) tratada como grande: fica sozinha na próxima. WebFetch só pelo ajudante web-fetch; Firecrawl sem créditos. Pendências 42–46 já estavam aplicadas."
+  },
+  {
+   "data": "2026-11-28",
+   "versao": 924,
+   "tipo": "passada_unica",
+   "marcas": [
+    "Linde Werdelin"
+   ],
+   "linha_marcas": 1206,
+   "relogios": 109,
+   "linhas_relogios": "131974-132082",
+   "vermelho": true,
+   "grande": true,
+   "fontes": 130,
+   "passadas": {
+    "1": [
+     85,
+     110
+    ],
+    "2": [
+     22,
+     12
+    ],
+    "3": [
+     23,
+     6
+    ]
+   },
+   "dados_marcas": [],
+   "correcoes": [
+    "I"
+   ],
+   "site_bloqueado": "parcial (L)",
+   "obs": "Home oficial deu PROVENANCE_REQUIRED; páginas internas (?p=) vindas de busca abriram. WebFetch só pelo ajudante web-fetch; Firecrawl sem créditos. Inclui instrumentos Reef e Rock. Pendências 42–46 já aplicadas antes."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -16806,33 +16840,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-28T06:43:51Z",
- "ultimo_sinal": "2026-11-28T07:02:33Z",
- "em_andamento": {
-  "marcas": [
-   "Linde Werdelin"
-  ],
-  "linha_marcas": 1206,
-  "grande": true,
-  "relogios": "historico/parcial_Linde Werdelin_relogios.txt",
-  "fontes": "historico/parcial_Linde Werdelin_fontes.txt",
-  "notas": "historico/notas_Linde Werdelin.md",
-  "secoes_feitas": [
-   "1",
-   "2",
-   "2c",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10",
-   "10b",
-   "11b"
-  ],
-  "passada": 3
- }
+ "adiadas_obs": {}
 }
