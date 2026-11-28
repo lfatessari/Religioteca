@@ -1,0 +1,204 @@
+{
+ "marca": "Löbner",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – lbnr.com não abre na leitura automática (PROVENANCE_REQUIRED) e não aparece em resultados de busca; revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Corrigido: C 'Berlim' → 'Munique' (Berlim é a cidade da fundação em 1862; a marca relançada tem sede em Munique: Monochrome 2025 'Munich-based', Swisswatches 'München'); I reescrita (o texto antigo era genérico e tinha '[⚠️ verificar]'): 1862/Franz Ludwig Löbner/Berlim (Monochrome, Worn & Wound, Openers, Classic Driver), recorde de Caracciola 1938 (Openers, Zwischengas, Classic Driver), relançamento 2023 por Matthias Düwel de Munique (Classic Driver, Swisswatches, Monochrome), design de Emmanuel Dietrich (Openers, Monochrome 2025), Bucherer exclusiva (Monochrome, Classic Driver), Rocketman/Opel RAK.2 (WatchBase, Monochrome), Speed Arrow 50 peças (Monochrome), Sledge (Monochrome, WatchTime); J 'Cronômetros e relógios de precisão (históricos)' → linhas atuais Steelracer, Rocketman, Speed Arrow e Sledge com preços (Monochrome 2023, 2025 e Speed Arrow). Ainda a verificar: o Sledge tem 8 variações (4 mostradores × borracha/bracelete); entraram 6 (L67171–L67175 e Blue/Rubber sem referência); as demais (preto com borracha e com bracelete, verde com bracelete) não tiveram referência confirmada. F (8000) está bem abaixo dos preços atuais (€ 8.600 a € 14.800) — só anotado. Relógios gravados a partir da Bucherer (loja exclusiva), WatchBase e imprensa; site oficial lbnr.com não abriu (PROVENANCE_REQUIRED) e não aparece em busca.",
+ "correcoes": {
+  "C": "Munique",
+  "I": "A Löbner nasceu em 1862, em Berlim, fundada pelo relojoeiro Franz Ludwig Löbner, na Potsdamer Straße. A casa ficou conhecida pelos cronômetros de precisão e pelos contadores de frações de segundo, e cronometrou recordes de velocidade famosos, como a corrida de Rudolf Caracciola a 432,7 km/h, em 28 de janeiro de 1938. A empresa deixou de funcionar no fim dos anos 1930 ou durante a Segunda Guerra. [⚠️ a confirmar: data exata do fim — baixa no registro em 1938 (Classic Driver), 1944 (Worn & Wound) ou fim da guerra (Openers); cronometragem dos Jogos Olímpicos de Berlim de 1936 citada só pela Openers]\n\nEm 2023, depois de quase 80 anos parada, a marca foi relançada pelo empresário de Munique Matthias Düwel, com design do suíço Emmanuel Dietrich. A estreia foi o Steelracer, cronógrafo automático de 42,5 mm com o calibre Löbner 6223 (base La Joux-Perret) e proteção de coroa deslizante patenteada, vendido com exclusividade pela Bucherer; depois vieram o Rocketman, homenagem ao carro-foguete Opel RAK.2, o Steelracer Ice e o Speed Arrow, edição limitada de 50 peças que lembra o recorde de Caracciola. Em 2025 chegou o Sledge, de três ponteiros e 40,5 mm, com escala interna de 60 minutos e calibre 6717.",
+  "J": "Steelracer — cronógrafo automático de 42,5 mm, calibre 6223 (base La Joux-Perret), 100 m; € 13.800\n\nSteelracer Rocketman — aço com PVD preto, 1ª série de 50 peças; € 14.800\n\nSteelracer Speed Arrow — edição limitada de 50 peças; € 14.800\n\nSledge — três ponteiros de 40,5 mm, escala interna de 60 minutos, calibre 6717; € 8.600 (borracha) / € 9.600 (bracelete)"
+ },
+ "correcoes_fontes": {
+  "C": [
+   "https://monochrome-watches.com/lobner-sledge-luxury-sports-watch-integrated-bracelete-review-price/",
+   "https://swisswatches-magazine.com/de/brand/loebner/"
+  ],
+  "I": [
+   "https://monochrome-watches.com/new-german-brand-lobner-steelracer-rocketman-chronographs-bucherer-exclusive-specs-price",
+   "https://wornandwound.com/review/review-the-lobner-steelracer-chronograph/",
+   "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/V8FSL",
+   "https://www.classicdriver.com/de/article/sponsored-content/auf-der-jagd-nach-der-tausendstelsekunde-mit-den-zeitmessern-von-lobner",
+   "https://www.zwischengas.com/de/news/Loebner-Uhren-an-der-Retro-Classics-Stuttgart-2026.html",
+   "https://swisswatches-magazine.com/de/brand/loebner/",
+   "https://monochrome-watches.com/review-lobner-steelracer-speed-arrow-limited-edition-chronograph-la-joux-perret-live-pics-specs-price",
+   "https://monochrome-watches.com/lobner-sledge-luxury-sports-watch-integrated-bracelete-review-price/",
+   "https://www.watchtime.net/brands/automatikuhren/loebner-sledge"
+  ],
+  "J": [
+   "https://monochrome-watches.com/new-german-brand-lobner-steelracer-rocketman-chronographs-bucherer-exclusive-specs-price",
+   "https://monochrome-watches.com/lobner-sledge-luxury-sports-watch-integrated-bracelete-review-price/",
+   "https://monochrome-watches.com/review-lobner-steelracer-speed-arrow-limited-edition-chronograph-la-joux-perret-live-pics-specs-price"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://www.bucherer.com/us/en/watches/loebner",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bucherer.com/us/en/watches/loebner/steelracer/1398-466-2.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.bucherer.com/us/en/watches/loebner/steelracer/1398-381-8.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bucherer.com/ch/en/watches/loebner/steelracer/1410-439-9.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://bucherer.com/at/en/watches/loebner/rocketman",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://monochrome-watches.com/new-german-brand-lobner-steelracer-rocketman-chronographs-bucherer-exclusive-specs-price",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/lobner-sledge-luxury-sports-watch-integrated-bracelete-review-price/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/review/review-the-lobner-steelracer-chronograph/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.fratellowatches.com/hands-on-with-the-stylish-lobner-sledge-in-black-and-silver/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://openers.jp/en/watch-and-jewelry/watch-and-jewelry_watch-news/V8FSL",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/lobner/steelracer/l62233",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/lobner/steelracer/l62237",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/lobner/steelracer/l62236",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/lobner/sledge/l67175",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/lobner/sledge/l67174",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/lobner/sledge/l67171",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://monochrome-watches.com/review-lobner-steelracer-speed-arrow-limited-edition-chronograph-la-joux-perret-live-pics-specs-price",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.zwischengas.com/de/news/Loebner-Uhren-an-der-Retro-Classics-Stuttgart-2026.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.classicdriver.com/de/article/sponsored-content/auf-der-jagd-nach-der-tausendstelsekunde-mit-den-zeitmessern-von-lobner",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bucherer.com/uk/en/watches/1410-450-4.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bucherer.com/de/en/watches/loebner/sledge/1410-445-7.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.bucherer.com/uk/en/watches/1410-446-8.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dev.bucherer.com/ch/en/watches/loebner/sledge/1410-445-7.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dev.bucherer.com/ch/en/watches/loebner/sledge/1410-446-8.html",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dev.bucherer.com/ch/en/watches/loebner/sledge/1410-449-1.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/lobner/steelracer/l62231",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://watchbase.com/lobner/steelracer/l62234",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/lobner/steelracer/l62235",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://watchbase.com/lobner/steelracer/l62238",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchtime.net/brands/automatikuhren/loebner-sledge",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://dev.bucherer.com/at/en/watches/loebner/steelracer/1410-436-6.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://dev.bucherer.com/de/en/watches/1398-381-8.html",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://swisswatches-magazine.com/de/brand/loebner/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+# LOBOR (linha 1212) — notas parciais (v928, 28/11/2026)
+- Marca GRANDE: a coleção automática do site oficial mostra 91 produtos (+ coleções quartzo, femininos, Marinus, New York, Premier, Glacier, Aphelion/Perihelion/Equinox no hk.lobor.com). Por isso ficou para a próxima execução, sozinha (regra: grande sempre sozinha; LOBOR era a 3ª do lote).
+- Feito (seção 2, parcial): 81 relógios em parcial_LOBOR_relogios.txt, de 9 páginas (lista em parcial_LOBOR_fontes.txt). Usa códigos LB… só nos nomes dos arquivos das fotos (LB8170…, LB0216…, LB2188…); o site identifica por nome → provavelmente usa_codigos=false e o código entra quando aparece.
+- O site oficial direto (lobor.com) deu PROVENANCE_REQUIRED; as páginas acima vieram de resultados de busca e abriram pelo ajudante web-fetch.
+- FALTA: page=2 da coleção automática (43 produtos) devolveu o mesmo conteúdo da página 1 → buscar os produtos um a um (site:lobor.com/products <linha>: Audrey, Meridian, Natty, Sun and Moon, Moonphase, Multi-functional, Skeleton, Gold, White, Japanese Automatic, Mens Dive, Premier, Glacier, New York, Marinus), §2c, agregadores, lojas (eBay, Amazon JP/Rakuten, Zozotown — a marca é forte no Japão), imprensa (New Labels Only 2018), linhas antigas.
+- Conferir duplicata possível: Dynasty Constantine Black 40mm (lobor.com) × 41mm (hk) com a mesma foto.
+- Aba Marcas: LOBOR não tem célula vazia (falta = []).
