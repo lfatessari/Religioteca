@@ -1,6 +1,6 @@
 {
- "proxima_linha_marcas": 1218,
- "ultima_versao": 933,
+ "proxima_linha_marcas": 1220,
+ "ultima_versao": 934,
  "historico": [
   {
    "data": "2026-10-16",
@@ -16959,6 +16959,44 @@
    "correcoes": [],
    "site_bloqueado": "não",
    "obs": "806 do catálogo oficial (Firecrawl) + 48 Collector's Corner + 3416 WatchBase + 38 vintage; Firecrawl ficou sem créditos diários; páginas da 2ª/3ª passada pelo ajudante web-fetch. Longio e Lorca ficam para a próxima (marca grande sozinha). Pendências 42–46 dos posts já aplicadas (v913)."
+  },
+  {
+   "versao": 934,
+   "data": "2026-11-28",
+   "tipo": "passada_unica",
+   "marcas": [
+    "Longio",
+    "Lorca"
+   ],
+   "linha_marcas": 1220,
+   "relogios": 24,
+   "linhas_relogios": "137405-137428",
+   "vermelho": {
+    "Longio": true,
+    "Lorca": false
+   },
+   "grande": false,
+   "fontes": {
+    "Longio": 43,
+    "Lorca": 21
+   },
+   "passadas": {
+    "Longio": {
+     "1": 33,
+     "2": 10
+    }
+   },
+   "dados_marcas": [
+    "Longio: K",
+    "Lorca: K"
+   ],
+   "correcoes": [
+    "Longio G: longio.com → longiowatch.com",
+    "Lorca B: Espanha → Estados Unidos",
+    "Lorca D"
+   ],
+   "site_bloqueado": "sim (L: longio.com, lorcawatches.com)",
+   "obs": "Lorenz (linha 1221) é grande (dezenas de coleções de pulso no lorenz.it) e fica sozinha na próxima. Firecrawl sem créditos; páginas pelo ajudante web-fetch. Pendências 42–46 dos posts já estavam aplicadas (v913)."
   }
  ],
  "marcas_ja_feitas_fora_da_ordem": {
@@ -17066,23 +17104,5 @@
   "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
  },
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
- "adiadas_obs": {},
- "em_execucao": "2026-11-28T16:44:04Z",
- "ultimo_sinal": "2026-11-28T17:04:03Z",
- "em_andamento": {
-  "marcas": [
-   "Longio",
-   "Lorca"
-  ],
-  "linha_marcas": 1219,
-  "grande": false,
-  "relogios": "historico/parcial_<marca>_relogios.txt",
-  "fontes": "historico/parcial_<marca>_fontes.txt",
-  "notas": "historico/notas_<marca>.md",
-  "secoes_feitas": [
-   "todas"
-  ],
-  "passada": 1,
-  "obs": "pesquisa concluída; gravando v934 (Lorenz é grande, fica para a próxima)"
- }
+ "adiadas_obs": {}
 }
