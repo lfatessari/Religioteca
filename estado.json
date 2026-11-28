@@ -1,6 +1,6 @@
 {
-  "proxima_linha_marcas": 1204,
-  "ultima_versao": 922,
+  "proxima_linha_marcas": 1205,
+  "ultima_versao": 923,
   "historico": [
     {
       "data": "2026-10-16",
@@ -16673,6 +16673,32 @@
       ],
       "site_bloqueado": "parcial (L)",
       "obs": "Retomada da v921 (execução anterior morreu sem parciais). Site oficial e WatchBase pelo Firecrawl até acabar o crédito; resto pelo ajudante web-fetch. Pendências dos posts 42–46 já estavam aplicadas."
+    },
+    {
+      "data": "2026-11-28",
+      "versao": 923,
+      "tipo": "passada_unica",
+      "marcas": [
+        "Lindburgh + Benson"
+      ],
+      "linha_marcas": 1205,
+      "relogios": 21,
+      "linhas_relogios": "131953-131973",
+      "vermelho": false,
+      "grande": false,
+      "fontes": 35,
+      "dados_marcas": [
+        "C",
+        "G"
+      ],
+      "correcoes": [
+        "B",
+        "D",
+        "I",
+        "J"
+      ],
+      "site_bloqueado": false,
+      "obs": "L&B é o grupo alemão (Rinteln) da Schaumburg Watch, não marca dinamarquesa. Linde Werdelin (1206) tratada como grande: fica sozinha na próxima. WebFetch só pelo ajudante web-fetch; Firecrawl sem créditos. Pendências 42–46 já estavam aplicadas."
     }
   ],
   "marcas_ja_feitas_fora_da_ordem": {
@@ -16780,32 +16806,5 @@
     "concluida": "2026-11-22 (v795): fila.py com 0 marcas (rodada das 72 marcas novas encerrada)"
   },
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
-  "adiadas_obs": {},
-  "em_execucao": "2026-11-28T05:43:02Z",
-  "ultimo_sinal": "2026-11-28T05:58:40Z",
-  "em_andamento": {
-    "marcas": [
-      "Lindburgh + Benson"
-    ],
-    "linha_marcas": 1205,
-    "grande": false,
-    "relogios": "historico/parcial_LB_relogios.txt",
-    "fontes": "historico/parcial_LB_fontes.txt",
-    "notas": "historico/notas_LB.md",
-    "secoes_feitas": [
-      "1",
-      "2",
-      "2c",
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "10b"
-    ],
-    "passada": 1
-  }
+  "adiadas_obs": {}
 }
