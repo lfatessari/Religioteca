@@ -16782,7 +16782,7 @@
   "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
   "adiadas_obs": {},
   "em_execucao": "2026-11-28T05:43:02Z",
-  "ultimo_sinal": "2026-11-28T05:46:58Z",
+  "ultimo_sinal": "2026-11-28T05:58:40Z",
   "em_andamento": {
     "marcas": [
       "Lindburgh + Benson"
@@ -16794,8 +16794,17 @@
     "notas": "historico/notas_LB.md",
     "secoes_feitas": [
       "1",
+      "2",
+      "2c",
       "3",
-      "6"
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10b"
     ],
     "passada": 1
   }

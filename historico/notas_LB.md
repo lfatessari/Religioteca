@@ -4,3 +4,10 @@
 - Falta: C, G, K. Firecrawl sem créditos. WebFetch só via ajudante web-fetch.
 - Linde Werdelin (1206) = grande (dezenas de edições limitadas) → fica sozinha na próxima; Lineage não entra (para antes da grande).
 - Classoco 14K esqueleto (ebay 315977221525) tratado como o mesmo Classoco esqueletado (anotado). Linhas citadas sem foto: Ellipsomatic, Art Nouveau, Grand Ellipse, Aquamatic II, Squarematic 3D, Aquamatic Chrono No.5, FlighTanium, 24h Regulateur.
+- okdwo (espelho da categoria Chrono24 "Lindburgh + Benson"): 20 anúncios com modelos atuais da Schaumburg (Unikatorium, Retrolateur, AQM 4Diver, Grand Perpetual Moon, Gnomonik, GT-Raceclub II, Purist 2015, Traveller, Chronograph No.01, Regulateur 24H). DECISÃO: são modelos com nome Schaumburg (a Chrono24 cataloga a empresa como "Lindburgh + Benson"); ficam para a linha Schaumburg, NÃO entram aqui, exceto os que as fontes chamam de L&B. Links dos itens vieram de dentro da página (não abrir).
+- Fórum polonês 2005: Grand Ellipse (caixa de formato patenteado, ETA 2824-2, 490 €, fora de linha em 2005); modelo "Platinum"; site antigo lindburgh-benson.com.
+- lindburgh-benson.com hoje redireciona para nbyaeger.com (outra empresa) → G sem site próprio. Justia (marca registrada) não abriu.
+- dannytam 2009: Schaumburg é uma das marcas da "German firm Lindburgh & Benson" (outra: Nauticfish). Auf/Ab Gnomonik tem L&B na coroa e na pulseira, mas é vendido como Schaumburg → fica para a linha Schaumburg (anotado).
+- Gnomonik 1 Red Hand (Sutor) contraditório (título vermelho, texto azul) → não vira linha própria.
+- arizonacustomknives: Ellomatic Skeletonized Chronograph 3-D (produto 1100066). Site do fabricante: schaumburgwatch.net/en; montre24: schaumburgwatch.com.
+- aBlogtoWatch: NauticFish é 'offshoot of the larger Schaumburg/Lindburgh & Benson watch group'.
