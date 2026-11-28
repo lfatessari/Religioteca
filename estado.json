@@ -17002,7 +17002,7 @@
  "ordem_relogios": "FOCO NOS MODELOS desde 23/11/2026 (pedido do usuário): só marcas sem modelos, de cima para baixo, até 3 por execução (grande sozinha), preenchendo os dados vazios delas na mesma pesquisa; marcas só de dados não são mais pesquisadas; sem repescagem das ADIADAS — proxima_completa.py",
  "adiadas_obs": {},
  "em_execucao": "2026-11-28T13:43:53Z",
- "ultimo_sinal": "2026-11-28T13:46:05Z",
+ "ultimo_sinal": "2026-11-28T13:48:33Z",
  "em_andamento": {
   "marcas": [
    "Locman"
@@ -17014,8 +17014,14 @@
   "notas": "historico/notas_Locman.md",
   "secoes_feitas": [
    "1",
-   "2"
+   "2",
+   "2c",
+   "3",
+   "5",
+   "6",
+   "7",
+   "8"
   ],
-  "passada": 1
+  "passada": 2
  }
 }
