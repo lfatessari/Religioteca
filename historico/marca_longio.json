@@ -1,0 +1,238 @@
+{
+ "marca": "Longio",
+ "usa_codigos": false,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – longio.com (coluna G antiga) não abriu (PROVENANCE_REQUIRED em 28/11/2026; Firecrawl sem créditos); o site citado pelas fontes, longiowatch.com, não aparece em nenhuma busca; revisitar com navegador",
+ "vermelho": true,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 28/11/2026 (19), sem acesso ao site oficial. Marca pintada de vermelho: a Masterhorologer cita as linhas Volcan, Dialogue e Lacquer Art e faixa de US$ 2.000 a 200.000, mas nenhum modelo dessas linhas foi achado; também há tourbillons de 2010 sem nome (aBlogtoWatch) e títulos M.C.H. Art of Time 'Mythos', 'Saluzi' e 'National Beauty' (artigo da Masterhorologer que não abriu). Sky King é da linha M.C.H.'s Art of Time, que a Europa Star trata como marca própria de Mi Changhong. G corrigido: longio.com → longiowatch.com. C 'Shenzhen': a WatchProSite diz Shenzhen e Hong Kong; Fashionbi e HKTDC dão a empresa (Longio Watch Co. Ltd) em Hong Kong — a conferir. Fundada em 1996 por Mi Changhong (EWR, WatchProSite, Fashionbi, Masterhorologer).",
+ "correcoes": {
+  "G": "longiowatch.com"
+ },
+ "correcoes_fontes": {
+  "G": [
+   "https://www.eastwatchreview.com/blog/2015/10/26/unique-original-longio-watches",
+   "https://www.fashionbi.com/financials/brands/longio",
+   "https://masterhorologer.com/longio-watches/",
+   "https://ablogtowatch.com/longio-telamon-tourbillon-1000m-diver-watch-review"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://gphg.org/en/watches/longio-zhuke",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.gphg.org/en/watches/longio-x-racer-0",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/longio-mi-time-art-winter",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/longio-mi-time-art-rose",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/longio-telamon-tourbillon-1000m-diver-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/longio-sg3924e-automatic-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/longio-tourbillon-watches-for-2010",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.eastwatchreview.com/blog/2015/10/26/unique-original-longio-watches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/chinese-watchmaking-kiu-tai-yu-independents-overview/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://revolutionwatch.com/in-depth-the-evolution-of-independent-watchmaking-in-china-part-2/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://theslenderwrist.com/chinese-watch-brands/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Tourbillon-Watch-1X0DEGJ5",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Tourbillon-Watch-1X0DEGI6",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Tourbillon-Watch-1X19U6RR",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/longio-asmara",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/longio-asmara-king-of-forest",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/longio-watches/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2015/03/13/longio-mi-time-art-three-yangs-bring-bliss-limited-edition/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://masterhorologer.com/2014/05/13/longio-asmara-king-of-forest-featuring-mexican-straw-mosaic-artwork/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2014/05/14/m-c-h-s-art-of-time-sky-king-mop-dial-with-eagle-mexican-straw-mosaic-eta-2892-movement-gold-or-steel-case/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://ablogtowatch.com/longio-zhuke-bronze-watch-review",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://www.desertcart.lk/products/109448011-longio-telamon-1000m-automatic-dive-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fashionbi.com/financials/brands/longio",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://masterhorologer.com/2013/08/09/longio-watch-poetic-fengqiaoyebo/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Analog-Watch-1X1HQ3K7",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/zh-Hant/Product-Detail/Analog-Watch-1X1HQ3L6",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Analog-Watch-2506593",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/longio-1000m-diving-tourbillon-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/longio-tourbillon-watches-chinese-watchmaking-pride",
+   "passada": 1,
+   "novos": 2
+  },
+  {
+   "url": "https://www.watchprosite.com/digest/chinese-tourbillon-review-accuracy-durability/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hktdc.com/event/te/en/product/1X1NWWWG",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hktdc.com/event/te/en/product/1X21JI7B",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.hktdc.com/event/te/en/product/1Z03IUAEK",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/longio-x-racer",
+   "passada": 2,
+   "novos": 1
+  },
+  {
+   "url": "https://www.europastar.com/1004087293.html",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://fashionbi.com/brands/longio/financials",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/en/Product-Detail/Chronograph-Watch-1X19U6SQ",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.chinadailyhk.com/article/633185",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/editors-picks/my-chinese-tourbillon--one-year-later--/17.825113.5573503/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchprosite.com/horological-meandering/chinese-tourbillon/17.1457096.13662951/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/longio/longio-telamon-tourbillon-1000m-diver-watch-review/",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://www2.gphg.org/en/watches/longio-mi-time-art-rose",
+   "passada": 2,
+   "novos": 0
+  },
+  {
+   "url": "https://sourcing.hktdc.com/zh-Hant/Product-Detail/Analog-Watch-1X1HQ3K7",
+   "passada": 2,
+   "novos": 0
+  }
+ ]
+}

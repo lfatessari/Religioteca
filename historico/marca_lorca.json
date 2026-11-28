@@ -1,0 +1,137 @@
+{
+ "marca": "Lorca",
+ "usa_codigos": true,
+ "logo": "",
+ "site_bloqueado": "Site bloqueado – lorcawatches.com não abriu (PROVENANCE_REQUIRED em 28/11/2026; Firecrawl sem créditos); revisitar com navegador",
+ "vermelho": false,
+ "grande": false,
+ "complemento": false,
+ "observacoes": "Relógios gravados em 28/11/2026: Model No.1 GMT (2023, ref. 2901-1 preto e 2901-2 prata/champagne) e Model No.2 Chronograph (2024, ref. 8501-3 cinza-dourado no GPHG; preto e prata sem referência publicada). Nenhuma fonte cita um terceiro modelo (Worn & Wound e aBlogtoWatch listam só os dois). Corrigido: B Espanha → Estados Unidos e D 'microbrand espanhola' → marca de Nova York, fundada por Jesse Marchant, músico de Nova York (Time+Tide, Worn & Wound, aBlogtoWatch, WatchCrunch, Dialicious; a Dialicious dá fundação em 2022). H @lorcawatches não confirmado em nenhuma página aberta (o Linktree não liga Instagram) — a conferir.",
+ "correcoes": {
+  "B": "Estados Unidos",
+  "D": "Microbrand de Nova York de relógios mecânicos suíços de tamanho médio (GMT e cronógrafo)"
+ },
+ "correcoes_fontes": {
+  "B": [
+   "https://timeandtidewatches.com/lorca-model-no-1-gmt-hands-on/",
+   "https://wornandwound.com/review/hands-on-love-at-first-sight-with-the-lorca-model-no-1-gmt/",
+   "https://www.watchcrunch.com/lorcawatches",
+   "https://www.dialicious.com/en/lorca",
+   "https://ablogtowatch.com/hands-on-lorca-model-no-1-gmt-watch"
+  ],
+  "D": [
+   "https://timeandtidewatches.com/lorca-model-no-1-gmt-hands-on/",
+   "https://wornandwound.com/review/hands-on-love-at-first-sight-with-the-lorca-model-no-1-gmt/",
+   "https://www.watchcrunch.com/lorcawatches",
+   "https://www.dialicious.com/en/lorca",
+   "https://ablogtowatch.com/hands-on-lorca-model-no-1-gmt-watch"
+  ]
+ },
+ "fontes": [
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/lorca",
+   "passada": 1,
+   "novos": 3
+  },
+  {
+   "url": "https://monochrome-watches.com/hands-on-lorca-watches-model-no-1-gmt-silver-sunburst-gloss-black-soprod-c125-live-pics-specs-price",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://gphg.org/en/watches/lorca-model-no-1-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/introducing-the-lorca-watches-model-no-1-gmt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/lorca-unveils-their-model-no-2-chronograph/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/lorca-model-no-2-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.analogshift.com/products/lorca-model-no-1-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://analogshift.com/products/lorca-model-no-1-gmt-as09445",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://fratellowatches.com/unveiling-the-lorca-model-no-2-a-connoisseurs-chronograph",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://gphg.org/en/watches/model-no-2-chronograph",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/lorca-model-no-1-gmt-hands-on/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://timeandtidewatches.com/lorca-model-no-2-chronograph-in-the-shop/",
+   "passada": 1,
+   "novos": 1
+  },
+  {
+   "url": "https://wornandwound.com/review/hands-on-love-at-first-sight-with-the-lorca-model-no-1-gmt/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://linktr.ee/lorcawatches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://wornandwound.com/tag/lorca/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.ablogtowatch.com/watch-brands/lorca/",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://ablogtowatch.com/hands-on-lorca-model-no-1-gmt-watch",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://shop.timeandtidewatches.com/collections/lorca-model-no-1-gmt",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.dialicious.com/en/lorca",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.watchcrunch.com/lorcawatches",
+   "passada": 1,
+   "novos": 0
+  },
+  {
+   "url": "https://www.fratellowatches.com/watchbrands/lorca/",
+   "passada": 1,
+   "novos": 0
+  }
+ ]
+}
